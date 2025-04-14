@@ -1,0 +1,3831 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.306 --> 00:02.973
+(upbeat music)
+
+2
+00:11.670 --> 00:13.770
+<v ->Good morning, everybody.</v>
+
+3
+00:13.770 --> 00:16.320
+For those of you that stayed on from the last session,
+
+4
+00:16.320 --> 00:17.310
+thank you,
+
+5
+00:17.310 --> 00:21.090
+and welcome to the new folks who have kind of walked in.
+
+6
+00:21.090 --> 00:24.270
+I'm really, really excited about the second session
+
+7
+00:24.270 --> 00:26.970
+where we will go into a little bit more detail
+
+8
+00:26.970 --> 00:29.820
+about something we launched last year
+
+9
+00:29.820 --> 00:31.800
+called The Global Industry Challenge.
+
+10
+00:31.800 --> 00:34.980
+And I'm thrilled to have a number of luminaries
+
+11
+00:34.980 --> 00:36.540
+who are gonna join me on stage
+
+12
+00:36.540 --> 00:38.965
+to kind of talk through what this is.
+
+13
+00:38.965 --> 00:42.720
+So without much further ado, my name is George Thomas,
+
+14
+00:42.720 --> 00:45.106
+I'm President and CEO of Connected DMV.
+
+15
+00:45.106 --> 00:46.920
+We are the organizers of the Quantum World Congress,
+
+16
+00:46.920 --> 00:48.960
+and we are thrilled to be here
+
+17
+00:48.960 --> 00:53.013
+to showcase the Quantum Means Business track at CES.
+
+18
+00:53.981 --> 00:57.660
+The Global Industry Challenge is something, as I said,
+
+19
+00:57.660 --> 01:00.630
+we launched late last year
+
+20
+01:00.630 --> 01:03.540
+at the Quantum World Congress,
+
+21
+01:03.540 --> 01:07.140
+and it is a platform that we are using
+
+22
+01:07.140 --> 01:10.650
+to drive industry use cases into the market.
+
+23
+01:10.650 --> 01:15.650
+So if you think about any technology-based innovation,
+
+24
+01:16.890 --> 01:19.560
+there's a set of communities that make that happen.
+
+25
+01:19.560 --> 01:20.970
+The people we tend to focus on
+
+26
+01:20.970 --> 01:22.590
+are what we call the builders,
+
+27
+01:22.590 --> 01:27.150
+the people who make the things that underline what we do
+
+28
+01:27.150 --> 01:28.200
+and use them for,
+
+29
+01:28.200 --> 01:31.890
+anything from televisions to cars to phones
+
+30
+01:31.890 --> 01:33.540
+that are the builder communities.
+
+31
+01:34.680 --> 01:35.970
+And then on the other side of it,
+
+32
+01:35.970 --> 01:38.940
+there's the users and the buyers, sometimes in one bucket,
+
+33
+01:38.940 --> 01:40.650
+sometimes two separate buckets.
+
+34
+01:40.650 --> 01:42.390
+And supporting these two, the builders
+
+35
+01:42.390 --> 01:43.830
+and the users and the buyers
+
+36
+01:43.830 --> 01:45.780
+are a number of other participants.
+
+37
+01:45.780 --> 01:47.310
+People who develop talent,
+
+38
+01:47.310 --> 01:48.840
+people who are responsible for policy,
+
+39
+01:48.840 --> 01:51.300
+people who are responsible for standards,
+
+40
+01:51.300 --> 01:53.675
+people who are responsible for commercialization.
+
+41
+01:53.675 --> 01:56.280
+So that's what makes up an ecosystem.
+
+42
+01:56.280 --> 01:58.530
+And when anything new comes along,
+
+43
+01:58.530 --> 02:01.440
+there's a number of companies, private companies
+
+44
+02:01.440 --> 02:03.750
+or government funded labs that are the builders
+
+45
+02:03.750 --> 02:06.030
+that are developing these tools and technologies.
+
+46
+02:06.030 --> 02:08.490
+And sometimes those tools and technologies,
+
+47
+02:08.490 --> 02:09.450
+after they're developed,
+
+48
+02:09.450 --> 02:11.910
+they go and find clients or markets for it.
+
+49
+02:11.910 --> 02:14.550
+And this creates kind of like a cycle of vacuum,
+
+50
+02:14.550 --> 02:16.530
+of a higher risk profile
+
+51
+02:16.530 --> 02:20.370
+for what things can have more of a chance of success.
+
+52
+02:20.370 --> 02:22.800
+So the Global Industry Challenge was intended
+
+53
+02:22.800 --> 02:24.810
+to allow the users and the buyers,
+
+54
+02:24.810 --> 02:26.430
+think of them as industry players
+
+55
+02:26.430 --> 02:29.940
+in some of these industries like space and life sciences
+
+56
+02:29.940 --> 02:32.730
+to kind of be at the forefront of defining
+
+57
+02:32.730 --> 02:34.800
+what is of value for their industry.
+
+58
+02:34.800 --> 02:39.800
+So if I am a CFO/CEO of an industry organization in biotech
+
+59
+02:40.530 --> 02:44.310
+or space, I don't care as much that the solution
+
+60
+02:44.310 --> 02:46.290
+is solved by quantum.
+
+61
+02:46.290 --> 02:47.760
+For me that is a tool.
+
+62
+02:47.760 --> 02:50.130
+I care that my mission is satisfied.
+
+63
+02:50.130 --> 02:52.110
+So by having them lead the discussion,
+
+64
+02:52.110 --> 02:53.850
+we really wanna kind of drive towards
+
+65
+02:53.850 --> 02:55.830
+what that community engagement means.
+
+66
+02:55.830 --> 02:57.030
+So the Global Industry Challenge
+
+67
+02:57.030 --> 03:00.810
+was essentially seeded from wanting to do
+
+68
+03:00.810 --> 03:03.360
+this kind of format to move forward.
+
+69
+03:03.360 --> 03:07.140
+So this is the framework of what that looks like.
+
+70
+03:07.140 --> 03:11.400
+So we'll have industry partners in these five categories
+
+71
+03:11.400 --> 03:14.100
+who are going to bring forward challenges,
+
+72
+03:14.100 --> 03:16.770
+which are basically problems that need to be solved
+
+73
+03:16.770 --> 03:18.300
+to the pot.
+
+74
+03:18.300 --> 03:20.640
+And these challenges can then,
+
+75
+03:20.640 --> 03:23.880
+people can apply globally to participate in it.
+
+76
+03:23.880 --> 03:24.720
+So there'll be a way
+
+77
+03:24.720 --> 03:26.790
+if you want to kind of be a participant
+
+78
+03:26.790 --> 03:28.956
+in any one of the challenges
+
+79
+03:28.956 --> 03:30.600
+that you can sign up as a participant.
+
+80
+03:30.600 --> 03:33.210
+So when the challenge registration opens,
+
+81
+03:33.210 --> 03:35.820
+and once that opens, you can have access
+
+82
+03:35.820 --> 03:37.530
+to what the challenges are,
+
+83
+03:37.530 --> 03:40.920
+and through our partners from qBraid and Aqora,
+
+84
+03:40.920 --> 03:44.460
+they then have access to backend computing systems
+
+85
+03:44.460 --> 03:46.530
+to actually showcase the finalists
+
+86
+03:46.530 --> 03:48.120
+who get through the process will have access
+
+87
+03:48.120 --> 03:49.710
+to backend computing systems
+
+88
+03:49.710 --> 03:51.780
+to be able to validate what they are.
+
+89
+03:51.780 --> 03:53.640
+And the winners who go through the process
+
+90
+03:53.640 --> 03:55.800
+for each of these industry challenges will be awarded
+
+91
+03:55.800 --> 03:58.050
+and presented at the next Quantum World Congress.
+
+92
+03:58.050 --> 04:00.540
+So structurally that is what we are trying to do,
+
+93
+04:00.540 --> 04:03.180
+and some of the impacts of what we want to drive
+
+94
+04:03.180 --> 04:05.520
+is the box on the very right.
+
+95
+04:05.520 --> 04:08.130
+We want to drive real world applications
+
+96
+04:08.130 --> 04:12.333
+that are use inspired by the industries that they represent.
+
+97
+04:13.200 --> 04:15.720
+We want to accelerate commercialization possibilities
+
+98
+04:15.720 --> 04:17.970
+of some of these solutions that come up.
+
+99
+04:17.970 --> 04:19.350
+Like some of the challenges,
+
+100
+04:19.350 --> 04:21.300
+depending on who the participants are
+
+101
+04:21.300 --> 04:25.290
+and who the finalists are, will end up being supported
+
+102
+04:25.290 --> 04:26.610
+by the industry partners
+
+103
+04:26.610 --> 04:29.220
+to develop whatever they've come up with further.
+
+104
+04:29.220 --> 04:31.230
+There might be options to commercialize.
+
+105
+04:31.230 --> 04:35.400
+There might be opportunities to join them in either,
+
+106
+04:35.400 --> 04:38.040
+you know, fellowships or actually as employees
+
+107
+04:38.040 --> 04:40.027
+to kind of move forward.
+
+108
+04:40.027 --> 04:41.580
+So that's kinda like the pattern that we expect
+
+109
+04:41.580 --> 04:42.900
+through the process.
+
+110
+04:42.900 --> 04:46.110
+We also want to use this mechanism,
+
+111
+04:46.110 --> 04:49.710
+this being, 2025 being the international year of Quantum,
+
+112
+04:49.710 --> 04:51.660
+which was, you know, designated this year
+
+113
+04:51.660 --> 04:53.310
+by the United Nations.
+
+114
+04:53.310 --> 04:55.020
+It's a fantastic opportunity for us
+
+115
+04:55.020 --> 04:57.750
+to increase awareness of Quantum in the market.
+
+116
+04:57.750 --> 04:59.400
+So a good portion of this mechanism
+
+117
+04:59.400 --> 05:02.700
+is to increase that awareness within the market,
+
+118
+05:02.700 --> 05:03.960
+and you'll see a set
+
+119
+05:03.960 --> 05:06.990
+of what we call organized participant cohorts.
+
+120
+05:06.990 --> 05:08.910
+There are some of them that are mentioned here.
+
+121
+05:08.910 --> 05:11.130
+These are higher universities,
+
+122
+05:11.130 --> 05:13.020
+higher education institutions,
+
+123
+05:13.020 --> 05:16.230
+some of them with significant quantum breadth and product
+
+124
+05:16.230 --> 05:20.790
+and talent that are self-organizing cohorts to participate
+
+125
+05:20.790 --> 05:24.000
+in addition to anybody worldwide who can join.
+
+126
+05:24.000 --> 05:26.850
+So the plan is to kind of have a depth
+
+127
+05:26.850 --> 05:28.800
+of existing quantum talent
+
+128
+05:28.800 --> 05:30.510
+that can help the industry use cases
+
+129
+05:30.510 --> 05:31.980
+move the needle forward.
+
+130
+05:31.980 --> 05:35.910
+So if I'm an industry person, I am able to take my problem
+
+131
+05:35.910 --> 05:37.770
+and have the world look at it.
+
+132
+05:37.770 --> 05:40.470
+If I'm a participant, I'm able to participate in things
+
+133
+05:40.470 --> 05:43.620
+that are real, that are needed by industry participants.
+
+134
+05:43.620 --> 05:45.270
+If I'm these education institutions,
+
+135
+05:45.270 --> 05:46.590
+it gives me another avenue
+
+136
+05:46.590 --> 05:49.050
+for education and talent development.
+
+137
+05:49.050 --> 05:51.480
+So that's kinda like the base structure at the bottom.
+
+138
+05:51.480 --> 05:52.830
+And then sitting at the top of it
+
+139
+05:52.830 --> 05:57.830
+is global impact nodes.
+
+140
+05:58.112 --> 06:01.170
+And you'll hear from a couple of our partners
+
+141
+06:01.170 --> 06:02.003
+within this as well,
+
+142
+06:02.003 --> 06:04.971
+but we are planning to deploy this globally
+
+143
+06:04.971 --> 06:07.500
+to launch this on World Quantum day.
+
+144
+06:07.500 --> 06:09.750
+So if I go back to the timeline for a second,
+
+145
+06:11.640 --> 06:15.900
+so we are here now announcing what this thing is.
+
+146
+06:15.900 --> 06:17.640
+Participants will start being able to register
+
+147
+06:17.640 --> 06:21.000
+by the end of this month and then the global impact nodes
+
+148
+06:21.000 --> 06:23.340
+will start to activate, will activate
+
+149
+06:23.340 --> 06:25.440
+on World Quantum Day, which is April 14th.
+
+150
+06:26.421 --> 06:27.870
+The challenge itself will be online
+
+151
+06:27.870 --> 06:30.480
+for the next 10 weeks for participants.
+
+152
+06:30.480 --> 06:32.280
+And then out of that there will be a process
+
+153
+06:32.280 --> 06:34.230
+to select finalists and make awards.
+
+154
+06:34.230 --> 06:37.260
+And the final list will be announced
+
+155
+06:37.260 --> 06:38.583
+at Quantum World Congress.
+
+156
+06:39.540 --> 06:43.440
+So the five impact nodes you see at the very end,
+
+157
+06:43.440 --> 06:44.790
+at the very top of it
+
+158
+06:44.790 --> 06:47.770
+are the five that are confirmed at this point in time.
+
+159
+06:47.770 --> 06:48.972
+There are a number of others,
+
+160
+06:48.972 --> 06:51.480
+you'll hear more about it in upcoming sessions.
+
+161
+06:51.480 --> 06:52.770
+So that's the structure
+
+162
+06:52.770 --> 06:54.810
+and the format of what we are trying to do.
+
+163
+06:54.810 --> 06:57.570
+So with that, I want to kind of, you know, invite
+
+164
+06:57.570 --> 06:59.460
+two folks up on stage.
+
+165
+06:59.460 --> 07:00.630
+The whole structure of this
+
+166
+07:00.630 --> 07:02.850
+is underneath the international year of Quantum.
+
+167
+07:02.850 --> 07:04.170
+And to hear more about this,
+
+168
+07:04.170 --> 07:08.550
+I would like to invite on stage Paul Cadden-Zimansky,
+
+169
+07:08.550 --> 07:10.410
+who is on the Executive Committee
+
+170
+07:10.410 --> 07:12.120
+of the International Year of Quantum
+
+171
+07:12.120 --> 07:14.910
+and Marsha Maxwell from APS.
+
+172
+07:14.910 --> 07:15.743
+Thank you both.
+
+173
+07:17.132 --> 07:21.150
+(audience applauding)
+
+174
+07:21.150 --> 07:21.983
+<v ->Thank you, everyone.</v>
+
+175
+07:21.983 --> 07:22.980
+Thank you, George.
+
+176
+07:22.980 --> 07:24.240
+So I'm a physics professor
+
+177
+07:24.240 --> 07:25.530
+and one of the global coordinators
+
+178
+07:25.530 --> 07:27.300
+for the international year.
+
+179
+07:27.300 --> 07:29.640
+I know that at CES, one of the exciting things is
+
+180
+07:29.640 --> 07:31.620
+what's being unveiled today,
+
+181
+07:31.620 --> 07:32.760
+what's being launched this week,
+
+182
+07:32.760 --> 07:34.620
+what's on tap for this year.
+
+183
+07:34.620 --> 07:37.890
+But I want for a moment to think on the 100 year timescale,
+
+184
+07:37.890 --> 07:39.720
+the century timescale,
+
+185
+07:39.720 --> 07:42.060
+the once in a lifetime timescale.
+
+186
+07:42.060 --> 07:47.060
+So this year, 2025 marks 100 years of quantum mechanics.
+
+187
+07:47.730 --> 07:49.170
+And for those of you who don't know,
+
+188
+07:49.170 --> 07:52.440
+quantum mechanics is humanity's best theory
+
+189
+07:52.440 --> 07:55.860
+for understanding the physical world, period.
+
+190
+07:55.860 --> 07:58.740
+It's the most well-tested, it's the most wide ranging,
+
+191
+07:58.740 --> 08:00.140
+it tells us the most things.
+
+192
+08:01.110 --> 08:04.170
+Now this is the consumer electronic show, right?
+
+193
+08:04.170 --> 08:06.450
+And the thing is that quantum is here.
+
+194
+08:06.450 --> 08:09.390
+It's always been here, but it's hidden.
+
+195
+08:09.390 --> 08:11.640
+It's right there in the name electronics.
+
+196
+08:11.640 --> 08:13.860
+Every single thing that you will see at the show
+
+197
+08:13.860 --> 08:16.810
+is based on manipulating electrons.
+
+198
+08:16.810 --> 08:18.090
+And if you wanna manipulate electrons,
+
+199
+08:18.090 --> 08:20.730
+you gotta talk to quantum mechanics first.
+
+200
+08:20.730 --> 08:24.240
+So this entire industry has a hidden hero,
+
+201
+08:24.240 --> 08:26.820
+and that's quantum mechanics, quantum science.
+
+202
+08:26.820 --> 08:29.850
+And though there are all these exciting new areas
+
+203
+08:29.850 --> 08:31.020
+of quantum innovation,
+
+204
+08:31.020 --> 08:32.490
+you heard about in the last session,
+
+205
+08:32.490 --> 08:35.850
+quantum computing or quantum sensing in the next session,
+
+206
+08:35.850 --> 08:38.820
+quantum is something that has been here for 100 years,
+
+207
+08:38.820 --> 08:40.110
+but it's hidden.
+
+208
+08:40.110 --> 08:41.220
+It's the hidden sponsor.
+
+209
+08:41.220 --> 08:44.220
+It's the one thing whose name is not in lights at this show.
+
+210
+08:45.207 --> 08:47.970
+So those of us who knew and understood
+
+211
+08:47.970 --> 08:51.690
+how important quantum science technology is and has been
+
+212
+08:51.690 --> 08:54.480
+and will continue to be to the world
+
+213
+08:54.480 --> 08:57.090
+thought that on the occasion of its 100th birthday,
+
+214
+08:57.090 --> 08:59.253
+we should throw a global birthday party.
+
+215
+09:00.094 --> 09:03.000
+So we got together, first some scientists,
+
+216
+09:03.000 --> 09:05.070
+then scientific organizations from all over the world.
+
+217
+09:05.070 --> 09:07.230
+Then we started approaching countries.
+
+218
+09:07.230 --> 09:08.730
+We went to UNESCO where we got support
+
+219
+09:08.730 --> 09:12.240
+from over 60 countries sponsoring a recommendation
+
+220
+09:12.240 --> 09:13.140
+that includes countries
+
+221
+09:13.140 --> 09:16.590
+like both Russia and Ukraine co-sponsored that bill.
+
+222
+09:16.590 --> 09:18.300
+Then we went to the United Nations,
+
+223
+09:18.300 --> 09:21.660
+and every single country in the entire world met,
+
+224
+09:21.660 --> 09:23.970
+and for the first time in the 78-year history
+
+225
+09:23.970 --> 09:26.430
+of the United Nations discussed quantum mechanics
+
+226
+09:26.430 --> 09:28.620
+and said this is gonna be the year.
+
+227
+09:28.620 --> 09:31.298
+This is going to be the international year
+
+228
+09:31.298 --> 09:32.220
+of quantum science technology.
+
+229
+09:32.220 --> 09:35.610
+The resolution to do that was unanimously agreed to.
+
+230
+09:35.610 --> 09:39.930
+It was sponsored by 72 countries, including the US, China,
+
+231
+09:39.930 --> 09:42.423
+India, representing over 5 billion people.
+
+232
+09:43.380 --> 09:45.990
+So what is the recommendation for the UN?
+
+233
+09:45.990 --> 09:48.750
+The top line recommendation is that this year
+
+234
+09:48.750 --> 09:52.170
+should be marked by activities at all levels,
+
+235
+09:52.170 --> 09:55.770
+helping raise awareness and understanding among the public
+
+236
+09:55.770 --> 09:58.590
+for the impact that quantum science and technology
+
+237
+09:58.590 --> 10:01.997
+has had, is having and will continue to have.
+
+238
+10:01.997 --> 10:05.520
+So what we're here to ask for is your help, right,
+
+239
+10:05.520 --> 10:07.860
+in making that a reality
+
+240
+10:07.860 --> 10:09.360
+because the United Nations also says
+
+241
+10:09.360 --> 10:11.580
+that all contributions should be voluntary.
+
+242
+10:11.580 --> 10:15.212
+So we have worked to put together networks of governments,
+
+243
+10:15.212 --> 10:18.480
+industry, academia, all this,
+
+244
+10:18.480 --> 10:20.160
+but we're still putting more and more together
+
+245
+10:20.160 --> 10:22.050
+with a lot of high level events all over the world,
+
+246
+10:22.050 --> 10:25.230
+but also events that happen just at the local level.
+
+247
+10:25.230 --> 10:27.000
+And so we're encouraging everybody
+
+248
+10:27.000 --> 10:30.000
+who understands the importance of quantum science technology
+
+249
+10:30.000 --> 10:31.140
+to help with this effort
+
+250
+10:31.140 --> 10:34.290
+and to mark the birthday of quantum mechanics
+
+251
+10:34.290 --> 10:37.890
+and make it go from a hidden hero
+
+252
+10:37.890 --> 10:40.170
+to a hero that everybody knows about.
+
+253
+10:40.170 --> 10:42.570
+So Marsha Maxwell is here from APS Corporate Relations.
+
+254
+10:42.570 --> 10:44.753
+She's gonna tell you some of the ways you can help.
+
+255
+10:46.020 --> 10:47.940
+<v ->Hi, folks, good morning.</v>
+
+256
+10:47.940 --> 10:50.220
+Marsha Maxwell, American Physical Society.
+
+257
+10:50.220 --> 10:52.110
+So our responsibility
+
+258
+10:52.110 --> 10:54.960
+apart from being one of the founding societies
+
+259
+10:54.960 --> 10:59.610
+around the initiative is to work with various organizations
+
+260
+10:59.610 --> 11:02.850
+across industry, academia, philanthropy and academia
+
+261
+11:02.850 --> 11:05.853
+around garnering sponsorship support
+
+262
+11:05.853 --> 11:07.920
+to support the initiative.
+
+263
+11:07.920 --> 11:12.090
+So they're able to roll out the global programs,
+
+264
+11:12.090 --> 11:14.610
+support the media awareness campaign
+
+265
+11:14.610 --> 11:16.230
+that will be going on throughout the year,
+
+266
+11:16.230 --> 11:19.530
+which is incredibly important to bring the conversation
+
+267
+11:19.530 --> 11:21.840
+as to what quantum mechanics can do
+
+268
+11:21.840 --> 11:24.570
+or quantum science can do for society.
+
+269
+11:24.570 --> 11:28.140
+So we have been very lucky to work
+
+270
+11:28.140 --> 11:30.900
+and gain the commitment from various folks from industry,
+
+271
+11:30.900 --> 11:34.350
+including Microsoft, Google, and many more.
+
+272
+11:34.350 --> 11:37.230
+And in the conversations that I've been having with them
+
+273
+11:37.230 --> 11:40.680
+before they committed, they just wanna understand like,
+
+274
+11:40.680 --> 11:43.380
+you know, apart from them giving their dollars
+
+275
+11:43.380 --> 11:45.600
+and of course being part of the initiative,
+
+276
+11:45.600 --> 11:47.130
+like what's in it for them, right?
+
+277
+11:47.130 --> 11:51.120
+So as a company, I know that several organizations
+
+278
+11:51.120 --> 11:55.140
+are looking for, have their various goals in being involved
+
+279
+11:55.140 --> 11:56.850
+with this initiative
+
+280
+11:56.850 --> 11:59.520
+and specifically around supporting quantum science
+
+281
+11:59.520 --> 12:00.353
+and technology.
+
+282
+12:00.353 --> 12:04.201
+So obviously big part of that is visibility.
+
+283
+12:04.201 --> 12:07.830
+Being a supporter or a partner of IYQ
+
+284
+12:07.830 --> 12:11.366
+enables you to have visibility and global visibility
+
+285
+12:11.366 --> 12:13.740
+in the quantum ecosystem.
+
+286
+12:13.740 --> 12:16.920
+And this is your brand and your company showing up
+
+287
+12:16.920 --> 12:18.750
+at these global events,
+
+288
+12:18.750 --> 12:20.340
+acknowledged at these global events,
+
+289
+12:20.340 --> 12:23.460
+being part of the Omnichannel awareness campaign
+
+290
+12:23.460 --> 12:26.040
+that's running throughout the year,
+
+291
+12:26.040 --> 12:29.220
+as well as being able to participate
+
+292
+12:29.220 --> 12:33.120
+and be part of those global activities as needed.
+
+293
+12:33.120 --> 12:35.340
+In my conversations with them,
+
+294
+12:35.340 --> 12:37.920
+a huge benefit of course is being in the room.
+
+295
+12:37.920 --> 12:40.740
+I think a lot of companies want to make sure
+
+296
+12:40.740 --> 12:43.290
+that it's all about access and getting connections
+
+297
+12:43.290 --> 12:46.050
+and many of you do have your peers
+
+298
+12:46.050 --> 12:47.880
+and other companies that you're partnered with
+
+299
+12:47.880 --> 12:49.320
+and connections.
+
+300
+12:49.320 --> 12:50.790
+But, you know, as Paul mentioned,
+
+301
+12:50.790 --> 12:53.820
+this is truly a global exercise
+
+302
+12:53.820 --> 12:56.280
+and a global and collaborative initiative.
+
+303
+12:56.280 --> 12:59.190
+So being in the room and having access to individuals
+
+304
+12:59.190 --> 13:03.120
+that are setting policy, funding and partnership,
+
+305
+13:03.120 --> 13:04.830
+I think, is gonna be incredibly important.
+
+306
+13:04.830 --> 13:09.180
+And this amplifies that access for you as a company
+
+307
+13:09.180 --> 13:11.640
+and as an organization.
+
+308
+13:11.640 --> 13:15.930
+Additionally, it's about having your voice
+
+309
+13:15.930 --> 13:20.250
+and your research and your perspective heard.
+
+310
+13:20.250 --> 13:23.760
+I mentioned the multichannel awareness campaign
+
+311
+13:23.760 --> 13:25.110
+that's running throughout the year.
+
+312
+13:25.110 --> 13:27.800
+You know, obviously we're going to be leaning into
+
+313
+13:27.800 --> 13:29.250
+our supporting partners to talk about
+
+314
+13:29.250 --> 13:32.190
+what you're currently researching, what you're doing,
+
+315
+13:32.190 --> 13:34.230
+your thought leadership throughout the year.
+
+316
+13:34.230 --> 13:38.400
+So, you know, we have a lot of huge, I mean it's,
+
+317
+13:38.400 --> 13:41.160
+hey we're doing this to better society.
+
+318
+13:41.160 --> 13:42.420
+I'm gonna put that out there
+
+319
+13:42.420 --> 13:45.960
+that ultimately this is going to make a difference
+
+320
+13:45.960 --> 13:47.430
+and going to improve our lives.
+
+321
+13:47.430 --> 13:48.510
+I'm gonna make a big statement,
+
+322
+13:48.510 --> 13:50.400
+but you know, we wanna make sure
+
+323
+13:50.400 --> 13:52.230
+that we have all the key players,
+
+324
+13:52.230 --> 13:54.000
+and we have your involvement and support
+
+325
+13:54.000 --> 13:56.490
+because it will not happen without that.
+
+326
+13:56.490 --> 13:58.863
+So how you can support, we have many ways
+
+327
+13:58.863 --> 14:00.780
+that you can get involved.
+
+328
+14:00.780 --> 14:02.880
+I'm happy to answer any questions
+
+329
+14:02.880 --> 14:05.880
+and many benefits that come with that involvement
+
+330
+14:05.880 --> 14:09.090
+all the way from sort of standard awareness and branding
+
+331
+14:09.090 --> 14:11.490
+all the way to a seat on the steering committee,
+
+332
+14:11.490 --> 14:14.220
+although those higher levels are sold, I will say that.
+
+333
+14:14.220 --> 14:16.200
+So we're very happy about the support
+
+334
+14:16.200 --> 14:18.430
+from those companies like Microsoft.
+
+335
+14:18.430 --> 14:21.330
+But we have other opportunities and other ways
+
+336
+14:21.330 --> 14:23.520
+that you can get involved and support.
+
+337
+14:23.520 --> 14:25.890
+And so we're looking for you to really be part
+
+338
+14:25.890 --> 14:28.860
+of this historic initiative and gain that access
+
+339
+14:28.860 --> 14:32.460
+and have that visibility and really support this effort.
+
+340
+14:32.460 --> 14:35.820
+So should you have any questions of myself and Paul,
+
+341
+14:35.820 --> 14:37.320
+we'll be hanging out after the session.
+
+342
+14:37.320 --> 14:39.870
+We're happy to answer any questions that you may have.
+
+343
+14:39.870 --> 14:42.363
+All right, Paul?
+
+344
+14:43.650 --> 14:45.750
+<v ->I'll just add that the big kickoff event</v>
+
+345
+14:45.750 --> 14:48.660
+is the opening ceremony in Paris at UNESCO headquarters
+
+346
+14:48.660 --> 14:49.650
+on the fourth and fifth.
+
+347
+14:49.650 --> 14:51.540
+I can say that stage time is already booked,
+
+348
+14:51.540 --> 14:54.440
+but there's still, seats in the audience may be available.
+
+349
+14:56.135 --> 14:59.385
+(audience applauding)
+
+350
+15:00.480 --> 15:01.920
+<v George>Thank you, guys.</v>
+
+351
+15:01.920 --> 15:04.320
+I'd like to invite up on the stage Nick and Philippe
+
+352
+15:04.320 --> 15:08.133
+to talk about the regional impact nodes.
+
+353
+15:10.787 --> 15:14.037
+(audience applauding)
+
+354
+15:17.010 --> 15:17.910
+<v ->Thanks, George.</v>
+
+355
+15:17.910 --> 15:18.900
+Good morning, everyone.
+
+356
+15:18.900 --> 15:20.100
+My name's Nick Werstiuk.
+
+357
+15:20.100 --> 15:22.410
+I'm the CEO of Quantum Valley Ideas Lab
+
+358
+15:22.410 --> 15:24.960
+based in Waterloo, Ontario, Canada.
+
+359
+15:24.960 --> 15:27.930
+So Philippe and I are, if you saw on that chart,
+
+360
+15:27.930 --> 15:30.750
+we're here to represent sort of the international segment
+
+361
+15:30.750 --> 15:35.750
+of this conversation around how this activity can roll out.
+
+362
+15:36.480 --> 15:38.700
+Let me start with kind of the,
+
+363
+15:38.700 --> 15:39.900
+I'm gonna sort of tag team this,
+
+364
+15:39.900 --> 15:42.120
+so I'll cover kind of the, some of the background
+
+365
+15:42.120 --> 15:44.340
+of how we all got involved,
+
+366
+15:44.340 --> 15:48.330
+and then we'll describe kind of our regional organizations.
+
+367
+15:48.330 --> 15:51.060
+And then Philippe will talk a bit about the connection
+
+368
+15:51.060 --> 15:53.550
+to the Global Industry Challenge.
+
+369
+15:53.550 --> 15:57.100
+So, you know, we as a community,
+
+370
+15:57.100 --> 15:59.160
+were brought together actually by George
+
+371
+15:59.160 --> 16:01.950
+about a year and a bit ago
+
+372
+16:01.950 --> 16:03.840
+to try and build relationships
+
+373
+16:03.840 --> 16:07.200
+between some of the large developed quantum hubs
+
+374
+16:07.200 --> 16:08.670
+around the world.
+
+375
+16:08.670 --> 16:12.510
+So my hub, and the goal there is to sort of build
+
+376
+16:12.510 --> 16:14.310
+sort of grassroots interaction
+
+377
+16:14.310 --> 16:16.680
+between the research communities,
+
+378
+16:16.680 --> 16:19.470
+the commercialization communities, the end users,
+
+379
+16:19.470 --> 16:24.470
+and try and advance the activities of quantum, you know,
+
+380
+16:24.720 --> 16:28.222
+across the globe because the recognition is that the,
+
+381
+16:28.222 --> 16:29.880
+you know, global collaboration
+
+382
+16:29.880 --> 16:32.790
+amongst like-minded nations will be critical to the success
+
+383
+16:32.790 --> 16:35.970
+of the development of the quantum industry as a whole.
+
+384
+16:35.970 --> 16:37.830
+So we started down this path,
+
+385
+16:37.830 --> 16:40.290
+and, you know, my community
+
+386
+16:40.290 --> 16:43.830
+is the Quantum Valley in Waterloo, Canada as I said,
+
+387
+16:43.830 --> 16:44.663
+and our community
+
+388
+16:44.663 --> 16:46.740
+is probably one of the more established communities
+
+389
+16:46.740 --> 16:48.450
+in terms of quantum.
+
+390
+16:48.450 --> 16:50.940
+We were founded almost 25 years ago,
+
+391
+16:50.940 --> 16:54.023
+and our community is kind of a grouping of organizations
+
+392
+16:54.023 --> 16:56.640
+centered around the University of Waterloo.
+
+393
+16:56.640 --> 17:00.030
+But we have the Perimeter Institute for Theoretical Physics,
+
+394
+17:00.030 --> 17:03.360
+the Institute for Quantum Computing at the university,
+
+395
+17:03.360 --> 17:05.910
+Transformative Quantum Program, and my organization,
+
+396
+17:05.910 --> 17:07.410
+Quantum Valley Ideas Lab,
+
+397
+17:07.410 --> 17:10.230
+which is an industrial research lab focused on, you know,
+
+398
+17:10.230 --> 17:12.000
+early stage quantum development
+
+399
+17:12.000 --> 17:15.663
+and then commercializing the technologies that we develop.
+
+400
+17:16.620 --> 17:20.767
+The community also includes a pool of 25 to 30 startups
+
+401
+17:20.767 --> 17:25.060
+and companies that have been created out of that base of,
+
+402
+17:25.060 --> 17:28.170
+you know, dozens and dozens of research groups,
+
+403
+17:28.170 --> 17:31.170
+a couple hundred graduate students in quantum
+
+404
+17:31.170 --> 17:33.150
+at the university and so on.
+
+405
+17:33.150 --> 17:35.580
+Basically an extensive community of activity.
+
+406
+17:35.580 --> 17:37.380
+Which makes sense, right, when you look at
+
+407
+17:37.380 --> 17:39.790
+trying to bring together the commercial,
+
+408
+17:39.790 --> 17:43.031
+the linkage of research to the commercial opportunities,
+
+409
+17:43.031 --> 17:44.730
+this kind of program,
+
+410
+17:44.730 --> 17:47.190
+like the industry challenge really becomes critical
+
+411
+17:47.190 --> 17:50.070
+for those people to get exposed to the problems
+
+412
+17:50.070 --> 17:52.380
+but also then try and help solve the problems.
+
+413
+17:52.380 --> 17:54.840
+So that's kind of my regional organization.
+
+414
+17:54.840 --> 17:56.903
+I'm gonna ask Philippe now, he can talk a bit about
+
+415
+17:56.903 --> 17:59.103
+kind of the European perspective.
+
+416
+18:00.360 --> 18:01.193
+<v ->Thanks, Nick.</v>
+
+417
+18:01.193 --> 18:02.050
+I'm Philippe Bouyer.
+
+418
+18:03.110 --> 18:04.810
+I'm the chair of Quantum Delta NL,
+
+419
+18:06.345 --> 18:07.650
+Quantum Delta NL, it's a non-profit organization
+
+420
+18:07.650 --> 18:10.200
+with one mission and a few goals.
+
+421
+18:10.200 --> 18:14.910
+The mission is to coordinate the quantum initiatives,
+
+422
+18:14.910 --> 18:16.974
+the national Quantum initiatives,
+
+423
+18:16.974 --> 18:21.540
+the support of the Dutch government to quantum development.
+
+424
+18:21.540 --> 18:26.070
+One of the major goal we have is to use this support
+
+425
+18:26.070 --> 18:27.780
+to build a quantum economy
+
+426
+18:27.780 --> 18:31.590
+and to build our ecosystem, our Dutch ecosystem
+
+427
+18:31.590 --> 18:34.140
+to play a significant role in this quantum economy.
+
+428
+18:35.250 --> 18:38.910
+That requires to support innovation,
+
+429
+18:38.910 --> 18:41.280
+innovation that will last for decades, of course.
+
+430
+18:41.280 --> 18:43.080
+That doesn't mean that there is no application today,
+
+431
+18:43.080 --> 18:47.250
+but we need to sustain the development of new ideas.
+
+432
+18:47.250 --> 18:50.070
+We need to sustain the transfer of these new ideas
+
+433
+18:50.070 --> 18:55.070
+from universities where the knowledge is to the companies.
+
+434
+18:56.370 --> 18:58.950
+For that we are actually also pushing programs
+
+435
+18:58.950 --> 19:03.000
+to help startups to be created, to help startups to grow,
+
+436
+19:03.000 --> 19:05.700
+to help startup to get investment.
+
+437
+19:05.700 --> 19:08.070
+Of course, the Netherlands, it's a small country.
+
+438
+19:08.070 --> 19:10.080
+We cannot do everything.
+
+439
+19:10.080 --> 19:11.790
+We cannot do everything alone,
+
+440
+19:11.790 --> 19:15.000
+and we also thrive a big development
+
+441
+19:15.000 --> 19:16.650
+for international cooperation.
+
+442
+19:16.650 --> 19:19.473
+We've been, we are one of the,
+
+443
+19:22.320 --> 19:25.740
+sorry, collaborator of UNESCO
+
+444
+19:25.740 --> 19:29.550
+for the International Year of Quantum.
+
+445
+19:29.550 --> 19:33.000
+We have been also pushing very hard for an initiative
+
+446
+19:33.000 --> 19:34.380
+which is called 30 Nation
+
+447
+19:34.380 --> 19:36.266
+and Canada is also part of it
+
+448
+19:36.266 --> 19:39.030
+where we speak about what is needed
+
+449
+19:39.030 --> 19:42.480
+for all our like minding country to work together
+
+450
+19:42.480 --> 19:44.160
+and to get quantum technology
+
+451
+19:44.160 --> 19:46.950
+to a point where we can actually have real products
+
+452
+19:46.950 --> 19:47.783
+on the market.
+
+453
+19:47.783 --> 19:49.950
+But these products are here today.
+
+454
+19:49.950 --> 19:52.650
+That means that we not only need to push
+
+455
+19:52.650 --> 19:53.970
+the development of the technology,
+
+456
+19:53.970 --> 19:56.910
+but we also need to push actually the application of it.
+
+457
+19:56.910 --> 20:00.043
+And this is where the Global Industry Challenge
+
+458
+20:00.043 --> 20:01.860
+plays a significant role.
+
+459
+20:01.860 --> 20:05.580
+I mean we need to engage ASAP with the end users.
+
+460
+20:05.580 --> 20:08.220
+We need to engage ASAP with the consumers
+
+461
+20:08.220 --> 20:10.110
+to look at what they need
+
+462
+20:10.110 --> 20:11.460
+and to look at how quantum
+
+463
+20:11.460 --> 20:12.810
+can actually respond to these needs.
+
+464
+20:12.810 --> 20:15.090
+And this is why we are very supportive
+
+465
+20:15.090 --> 20:17.580
+of this Quantum Industry Challenge.
+
+466
+20:17.580 --> 20:20.010
+First, because we think it is today that we,
+
+467
+20:20.010 --> 20:22.200
+and you heard it in the panel before,
+
+468
+20:22.200 --> 20:24.570
+it is today that we need to work on quantum software,
+
+469
+20:24.570 --> 20:27.420
+but not only on quantum software, on the quantum internet,
+
+470
+20:27.420 --> 20:30.420
+quantum communication, quantum sensing as well.
+
+471
+20:30.420 --> 20:32.580
+But we need to do it in a global way.
+
+472
+20:32.580 --> 20:34.890
+I mean, we need to look at the, like the market,
+
+473
+20:34.890 --> 20:36.630
+which is a worldwide market.
+
+474
+20:36.630 --> 20:37.470
+Well, I have a question.
+
+475
+20:37.470 --> 20:40.080
+So how many people are not from the US in this audience?
+
+476
+20:40.080 --> 20:41.310
+Maybe you can raise your hands.
+
+477
+20:41.310 --> 20:43.860
+I hope I can see that because I have the light in the face,
+
+478
+20:43.860 --> 20:47.850
+but well, that means something.
+
+479
+20:47.850 --> 20:51.330
+I mean it's not only a market for Europe,
+
+480
+20:51.330 --> 20:52.800
+it's not only a market for the US.
+
+481
+20:52.800 --> 20:53.700
+It's a global market,
+
+482
+20:53.700 --> 20:55.410
+and it's also a global development market.
+
+483
+20:55.410 --> 20:58.830
+So we are very supportive of the Quantum Industry Challenge.
+
+484
+20:58.830 --> 21:03.330
+And please we think the success of such an initiative
+
+485
+21:03.330 --> 21:06.450
+welcome if you all actually apply to it,
+
+486
+21:06.450 --> 21:07.710
+if you'll use this opportunity.
+
+487
+21:07.710 --> 21:09.750
+So please, yes, use this opportunity
+
+488
+21:09.750 --> 21:12.570
+to register to the Quantum Industry Challenge,
+
+489
+21:12.570 --> 21:15.360
+and I hope that we can actually together
+
+490
+21:15.360 --> 21:17.550
+get great applications and great concepts
+
+491
+21:17.550 --> 21:18.723
+out of this initiative.
+
+492
+21:21.716 --> 21:24.966
+(audience applauding)
+
+493
+21:33.720 --> 21:34.553
+<v ->Thank you, Philippe and Nick.</v>
+
+494
+21:34.553 --> 21:37.590
+As you can see from the map, we have kind of five confirmed
+
+495
+21:37.590 --> 21:39.570
+besides the four Accord members,
+
+496
+21:39.570 --> 21:41.310
+Cleveland, Ohio in the United States
+
+497
+21:41.310 --> 21:43.830
+is also a confirmed impact node,
+
+498
+21:43.830 --> 21:45.795
+and there's lots of interest
+
+499
+21:45.795 --> 21:47.730
+from some of the light green flags, pins
+
+500
+21:47.730 --> 21:48.810
+that you see on the map.
+
+501
+21:48.810 --> 21:50.820
+If there's interest in other countries,
+
+502
+21:50.820 --> 21:52.410
+thank you, Philippe for asking that question,
+
+503
+21:52.410 --> 21:54.270
+who are in the room or otherwise who are interested
+
+504
+21:54.270 --> 21:56.310
+to participate, please let us know.
+
+505
+21:56.310 --> 21:57.320
+So with that, let me move on
+
+506
+21:57.320 --> 21:59.490
+to the last major segment of this,
+
+507
+21:59.490 --> 22:02.820
+which is I would like to invite Kanav Setia up,
+
+508
+22:02.820 --> 22:04.740
+who is the CEO and Co-founder of qBraid
+
+509
+22:04.740 --> 22:07.020
+who is the platform that's gonna allow us
+
+510
+22:07.020 --> 22:08.120
+to kind of execute for this.
+
+511
+22:08.120 --> 22:10.620
+So Kanav's gonna spend five to seven minutes
+
+512
+22:10.620 --> 22:12.820
+just kind of going through what qBraid does.
+
+513
+22:14.550 --> 22:15.960
+<v ->Good morning, CES.</v>
+
+514
+22:15.960 --> 22:17.790
+How's everybody doing?
+
+515
+22:17.790 --> 22:18.960
+Nice, nice, nice.
+
+516
+22:18.960 --> 22:20.670
+So I'm gonna start with a question.
+
+517
+22:20.670 --> 22:24.990
+How many people here heard the Google Willow announcement
+
+518
+22:24.990 --> 22:25.823
+two weeks ago.
+
+519
+22:27.420 --> 22:29.850
+All right, lots of light.
+
+520
+22:29.850 --> 22:31.320
+Good amount, good amount.
+
+521
+22:31.320 --> 22:35.220
+So couple that with the excitement you heard today
+
+522
+22:35.220 --> 22:37.950
+that it's like just so much that has happened
+
+523
+22:37.950 --> 22:39.960
+first over the past hundred years
+
+524
+22:39.960 --> 22:42.660
+and also like over the past five years itself,
+
+525
+22:42.660 --> 22:44.010
+tremendous progress.
+
+526
+22:44.010 --> 22:47.100
+You heard about so many different business applications.
+
+527
+22:47.100 --> 22:50.100
+Hearing all of that, how many people here
+
+528
+22:50.100 --> 22:52.470
+want to do something in Quantum?
+
+529
+22:52.470 --> 22:54.843
+Wanna share the excitement by show of hands.
+
+530
+22:56.250 --> 22:58.980
+All right, good, good number.
+
+531
+22:58.980 --> 23:01.470
+Okay, just one last question, I promise.
+
+532
+23:01.470 --> 23:06.470
+How many people here already have something going on
+
+533
+23:06.480 --> 23:10.713
+in their company or organization with respect to Quantum?
+
+534
+23:13.260 --> 23:15.060
+Oh wow, good percentage,
+
+535
+23:15.060 --> 23:19.620
+but that percentage is still just looking around sizing it,
+
+536
+23:19.620 --> 23:21.840
+it's less than 10%.
+
+537
+23:21.840 --> 23:24.600
+And that's the part that we wanted to change
+
+538
+23:24.600 --> 23:27.394
+with Global Industry Challenge.
+
+539
+23:27.394 --> 23:32.100
+The idea is how do we engage with more people?
+
+540
+23:32.100 --> 23:35.820
+So many people hear big announcements,
+
+541
+23:35.820 --> 23:38.250
+big industry problems getting addressed
+
+542
+23:38.250 --> 23:39.510
+using quantum computing,
+
+543
+23:39.510 --> 23:42.960
+and everybody's thinking, okay, like, okay,
+
+544
+23:42.960 --> 23:45.660
+I mean, you can have calculations
+
+545
+23:45.660 --> 23:48.510
+that would take 10 raised to the power of 25 years
+
+546
+23:48.510 --> 23:49.560
+done in five minutes.
+
+547
+23:49.560 --> 23:51.930
+But what does that mean for me, right?
+
+548
+23:51.930 --> 23:53.460
+And that's the part
+
+549
+23:53.460 --> 23:56.550
+where we came up with this Global Industry Challenge.
+
+550
+23:56.550 --> 23:58.050
+What we wanted to do was
+
+551
+23:58.050 --> 24:01.830
+without selling anything to anybody, bring you in,
+
+552
+24:01.830 --> 24:04.500
+understand the problems you care about.
+
+553
+24:04.500 --> 24:07.830
+You bring us the problem that you care about
+
+554
+24:07.830 --> 24:09.660
+in your industry, the problem,
+
+555
+24:09.660 --> 24:12.090
+the most complex and challenging problems
+
+556
+24:12.090 --> 24:16.020
+that you face in your workflow, bring it to us,
+
+557
+24:16.020 --> 24:20.070
+and then we'll work with you to design a challenge
+
+558
+24:20.070 --> 24:24.540
+for the students and hackers around the world
+
+559
+24:24.540 --> 24:28.980
+from the most amazing places like MIT, UC Berkeley.
+
+560
+24:28.980 --> 24:32.850
+And you heard lot of places all over the world
+
+561
+24:32.850 --> 24:37.800
+like Oxford, Cambridge, Harvard, U Maryland,
+
+562
+24:37.800 --> 24:39.510
+and all those amazing places,
+
+563
+24:39.510 --> 24:42.090
+people from all of these amazing places
+
+564
+24:42.090 --> 24:45.060
+come together to build a solution
+
+565
+24:45.060 --> 24:47.910
+and address the challenges that you brought in.
+
+566
+24:47.910 --> 24:49.590
+So where does qBrain come in?
+
+567
+24:49.590 --> 24:52.710
+So qBrain is a one-stop platform
+
+568
+24:52.710 --> 24:56.460
+where we provide the easiest and most streamlined access
+
+569
+24:56.460 --> 24:59.250
+to quantum software and quantum hardware,
+
+570
+24:59.250 --> 25:01.140
+so that we will work with you
+
+571
+25:01.140 --> 25:02.940
+to design those challenge problems
+
+572
+25:02.940 --> 25:05.190
+and release it on our platform.
+
+573
+25:05.190 --> 25:07.860
+I like to say what we do is we take you
+
+574
+25:07.860 --> 25:10.020
+from not knowing much about Quantum
+
+575
+25:10.020 --> 25:12.510
+to running your first quantum program
+
+576
+25:12.510 --> 25:15.510
+on a real quantum computer in under five minutes.
+
+577
+25:15.510 --> 25:18.090
+So you probably saw all the logos listed.
+
+578
+25:18.090 --> 25:20.070
+So we work with all the major companies
+
+579
+25:20.070 --> 25:23.073
+including IBM, AWS, Microsoft, Qora, IREQ,
+
+580
+25:24.330 --> 25:28.350
+and we have all of their quantum computers available
+
+581
+25:28.350 --> 25:30.120
+at a click of a button.
+
+582
+25:30.120 --> 25:33.480
+So these challenges will be released on our platform.
+
+583
+25:33.480 --> 25:36.270
+All the hackers have easiest access to quantum software,
+
+584
+25:36.270 --> 25:37.230
+quantum hardware.
+
+585
+25:37.230 --> 25:40.350
+They build a solution for 10 weeks,
+
+586
+25:40.350 --> 25:42.180
+and once they get done,
+
+587
+25:42.180 --> 25:45.840
+we assess them in partnership with you.
+
+588
+25:45.840 --> 25:50.580
+We give out prizes at the Quantum World Congress,
+
+589
+25:50.580 --> 25:53.760
+and ultimately the goal is to make that solution
+
+590
+25:53.760 --> 25:56.922
+easily accessible to all of you.
+
+591
+25:56.922 --> 25:58.560
+So you should just be able to,
+
+592
+25:58.560 --> 26:00.750
+or your developers at your organization,
+
+593
+26:00.750 --> 26:03.510
+you should just be able to log into our platform
+
+594
+26:03.510 --> 26:06.900
+and play with the solution and build on it, right?
+
+595
+26:06.900 --> 26:10.560
+And that's the goal, and that's the theme.
+
+596
+26:10.560 --> 26:12.990
+And unless anybody has any questions,
+
+597
+26:12.990 --> 26:14.253
+I think that's my part.
+
+598
+26:15.998 --> 26:18.682
+(audience applauding)
+
+599
+26:18.682 --> 26:19.515
+<v Audience Member>I have a question.</v>
+
+600
+26:19.515 --> 26:20.350
+<v Kanav>Okay, go for it.</v>
+
+601
+26:22.042 --> 26:23.970
+<v Audience Member>Do you do actual coding on the platform?</v>
+
+602
+26:23.970 --> 26:24.840
+<v Kanav>Yeah, absolutely.</v>
+
+603
+26:24.840 --> 26:27.990
+So we give you a Jupyter lab-based platform
+
+604
+26:27.990 --> 26:32.760
+with a bunch of extensions that we built that shows devices
+
+605
+26:32.760 --> 26:35.160
+and that allow you to manage your quantum jobs
+
+606
+26:35.160 --> 26:37.770
+and also give you access to GPUs.
+
+607
+26:37.770 --> 26:39.840
+So I think like somebody mentioned earlier,
+
+608
+26:39.840 --> 26:41.790
+it's gonna be a orchestration
+
+609
+26:41.790 --> 26:43.920
+of all of these compute modalities
+
+610
+26:43.920 --> 26:45.570
+that are gonna work in unison
+
+611
+26:45.570 --> 26:47.400
+to address all of your problems.
+
+612
+26:47.400 --> 26:48.630
+So on a single platform,
+
+613
+26:48.630 --> 26:51.150
+not only you get access to quantum computers,
+
+614
+26:51.150 --> 26:53.580
+but people will also have access to GPUs
+
+615
+26:53.580 --> 26:55.203
+and scalable CPUs.
+
+616
+26:58.350 --> 26:59.937
+<v ->Thank you, Kanav.</v>
+
+617
+26:59.937 --> 27:00.981
+Another round of applause please.
+
+618
+27:00.981 --> 27:04.910
+(audience applauding)
+
+619
+27:04.910 --> 27:07.350
+So I'm gonna go back to this for a quick sec.
+
+620
+27:07.350 --> 27:08.880
+So as you've kind of heard
+
+621
+27:08.880 --> 27:11.520
+from some of the component pieces of this,
+
+622
+27:11.520 --> 27:13.590
+this is something we are really, really excited about
+
+623
+27:13.590 --> 27:16.230
+to help move the needle from an industry perspective.
+
+624
+27:16.230 --> 27:18.000
+I think the biggest kind of advantage
+
+625
+27:18.000 --> 27:19.800
+to running a program like this
+
+626
+27:19.800 --> 27:24.720
+is to get the end user buyers really engaged with a program
+
+627
+27:24.720 --> 27:26.939
+that many of them, many of you
+
+628
+27:26.939 --> 27:30.090
+may not be completely too sure how to get engaged with
+
+629
+27:30.090 --> 27:31.080
+to get started.
+
+630
+27:31.080 --> 27:32.850
+So we are looking at this as a mechanism
+
+631
+27:32.850 --> 27:35.880
+to lower that barrier to getting into the game
+
+632
+27:35.880 --> 27:38.400
+if you are a user or a buyer and have a problem
+
+633
+27:38.400 --> 27:40.620
+that you think you might wanna test against it.
+
+634
+27:40.620 --> 27:42.570
+And it also allows at the other end
+
+635
+27:42.570 --> 27:45.000
+a significant portion of the builder community
+
+636
+27:45.000 --> 27:46.740
+to engage much easier with you
+
+637
+27:46.740 --> 27:48.600
+without having to create a lot of work
+
+638
+27:48.600 --> 27:50.700
+for you to kind of engage one-on-one with them.
+
+639
+27:50.700 --> 27:52.470
+So that's really kinda like the hope, you know,
+
+640
+27:52.470 --> 27:54.450
+that we wanna kind of do with it.
+
+641
+27:54.450 --> 27:57.210
+So ways to get engaged,
+
+642
+27:57.210 --> 27:58.860
+if you go to the QR code,
+
+643
+27:58.860 --> 28:00.960
+there is a website that has a lot more information
+
+644
+28:00.960 --> 28:02.940
+about what we kind of discussed here today.
+
+645
+28:02.940 --> 28:04.740
+There's multiple kind of levels
+
+646
+28:04.740 --> 28:06.090
+of where you can get engaged.
+
+647
+28:06.090 --> 28:09.510
+Please just go register and kind of, you know, let us know
+
+648
+28:09.510 --> 28:11.220
+and get in touch with us with what it is.
+
+649
+28:11.220 --> 28:15.090
+And those levels include participant groups within yours
+
+650
+28:15.090 --> 28:16.890
+at your higher ed universities around the world
+
+651
+28:16.890 --> 28:19.290
+if you want to create cohorts within them.
+
+652
+28:19.290 --> 28:21.840
+Individual participants of smaller companies and startups
+
+653
+28:21.840 --> 28:24.150
+within your countries, regions
+
+654
+28:24.150 --> 28:25.770
+who might wanna participate.
+
+655
+28:25.770 --> 28:27.180
+If you are an industry player,
+
+656
+28:27.180 --> 28:29.460
+if you want to put a challenge in, don't know where to start
+
+657
+28:29.460 --> 28:30.720
+or if you are already working on it
+
+658
+28:30.720 --> 28:32.190
+but wanna participate in it,
+
+659
+28:32.190 --> 28:34.140
+there's a mechanism to kind of do that as well.
+
+660
+28:34.140 --> 28:35.801
+And then of course regional hosts,
+
+661
+28:35.801 --> 28:39.300
+we think we'll have about seven to 10 regional hosts
+
+662
+28:39.300 --> 28:40.140
+on April 14th.
+
+663
+28:40.140 --> 28:43.110
+That will happen all in parallel starting with, you know,
+
+664
+28:43.110 --> 28:46.290
+in Australia all the way to the west coast.
+
+665
+28:46.290 --> 28:48.450
+We want you to be, and that's part of the celebration
+
+666
+28:48.450 --> 28:50.284
+that we want to do, you know,
+
+667
+28:50.284 --> 28:53.070
+with Paul and Marsha, with IYQ to kind of raise awareness.
+
+668
+28:53.070 --> 28:56.310
+So the mission is industry use cases,
+
+669
+28:56.310 --> 28:58.200
+getting the builders involved,
+
+670
+28:58.200 --> 29:00.060
+create excitement around talent
+
+671
+29:00.060 --> 29:02.520
+for people to kick tires around what quantum is
+
+672
+29:02.520 --> 29:04.920
+and to have universities in academia start to collaborate
+
+673
+29:04.920 --> 29:06.450
+on what this process is.
+
+674
+29:06.450 --> 29:09.541
+So that's really at a very high level what the plan is
+
+675
+29:09.541 --> 29:11.010
+for the Global Industry Challenge.
+
+676
+29:11.010 --> 29:13.680
+So I think we have a little bit of time, so, you know,
+
+677
+29:13.680 --> 29:16.080
+we can open it up for some questions.
+
+678
+29:16.080 --> 29:18.880
+If there are any questions we can take a couple I think.
+
+679
+29:20.100 --> 29:21.990
+And again as Philippe said, we can't,
+
+680
+29:21.990 --> 29:24.543
+I can't see anything, it's just blinding light, so.
+
+681
+29:33.630 --> 29:35.553
+I think I see your hand there, yeah.
+
+682
+29:37.593 --> 29:38.700
+<v ->[Audience Members] What are some of the applications</v>
+
+683
+29:38.700 --> 29:41.910
+you've seen already and inspire us with, you know,
+
+684
+29:41.910 --> 29:44.880
+some of these applications as innovators?
+
+685
+29:44.880 --> 29:46.298
+<v ->Yeah, sure.</v>
+
+686
+29:46.298 --> 29:47.700
+I'll pick on one for no particular reason.
+
+687
+29:47.700 --> 29:52.400
+So our partner on the life sciences innovation,
+
+688
+29:53.310 --> 29:55.710
+sorry, the industry challenge is Cleveland Clinic
+
+689
+29:55.710 --> 29:59.100
+and Cleveland Clinic for the last I know 10-ish years
+
+690
+29:59.100 --> 30:01.680
+has been very deeply engaged in quantum.
+
+691
+30:01.680 --> 30:04.320
+They, you know, outside of quantum in their research
+
+692
+30:04.320 --> 30:07.590
+they have about 1600 researchers looking for the next thing.
+
+693
+30:07.590 --> 30:08.670
+From a mission perspective,
+
+694
+30:08.670 --> 30:10.620
+they're trying to solve disease problems,
+
+695
+30:10.620 --> 30:12.990
+and you know, pharma problems
+
+696
+30:12.990 --> 30:15.810
+and delivery of devices problems for healthcare.
+
+697
+30:15.810 --> 30:18.150
+Quantum is just one tool in their kit bag,
+
+698
+30:18.150 --> 30:21.120
+but they're one of the, I think the first life sciences firm
+
+699
+30:21.120 --> 30:23.790
+to actually acquire a physical quantum computer
+
+700
+30:23.790 --> 30:24.870
+and put it on site.
+
+701
+30:24.870 --> 30:26.340
+They acquired a IBM System One,
+
+702
+30:26.340 --> 30:28.440
+I think they're gonna create an IBM System Two.
+
+703
+30:28.440 --> 30:31.470
+So that organization has been working quite a bit
+
+704
+30:31.470 --> 30:33.210
+at use cases within it.
+
+705
+30:33.210 --> 30:35.340
+So within that, one of the areas
+
+706
+30:35.340 --> 30:38.310
+they are thinking of putting in is around neurotech
+
+707
+30:38.310 --> 30:40.050
+and brain functions
+
+708
+30:40.050 --> 30:43.860
+that can be possibly solved using quantum functions, please.
+
+709
+30:43.860 --> 30:47.160
+<v ->I'm thinking more of the hacker type community,</v>
+
+710
+30:47.160 --> 30:49.230
+the people that can do that kinda stuff.
+
+711
+30:49.230 --> 30:52.740
+For that, we're not just gonna think of that in our basement
+
+712
+30:52.740 --> 30:55.458
+and come up with that solution.
+
+713
+30:55.458 --> 30:58.050
+I'm thinking more of a blender community
+
+714
+30:58.050 --> 31:01.110
+that's gonna do computational fluid dynamics
+
+715
+31:01.110 --> 31:04.440
+and have water flow and more applications
+
+716
+31:04.440 --> 31:07.500
+that are more practical than solving cancer right now
+
+717
+31:07.500 --> 31:09.930
+'cause we're not gonna wake up and say, oh my goodness,
+
+718
+31:09.930 --> 31:12.930
+let's solve that cancer problem.
+
+719
+31:12.930 --> 31:14.670
+<v ->No, you're absolutely right, and there's a big difference</v>
+
+720
+31:14.670 --> 31:17.730
+between solving something that can, you know,
+
+721
+31:17.730 --> 31:18.990
+move data from A to B
+
+722
+31:18.990 --> 31:21.240
+or some part of crypto to solving cancer.
+
+723
+31:21.240 --> 31:23.340
+Like that's a pretty large gradient.
+
+724
+31:23.340 --> 31:26.130
+And these organizations have been working quite a bit
+
+725
+31:26.130 --> 31:28.612
+at figuring out these parts of that
+
+726
+31:28.612 --> 31:29.610
+that could help you solve cancer.
+
+727
+31:29.610 --> 31:31.140
+So it's not going all the way at the end
+
+728
+31:31.140 --> 31:32.250
+with a challenge like this.
+
+729
+31:32.250 --> 31:33.390
+You're absolutely right.
+
+730
+31:33.390 --> 31:35.610
+There's not enough time to kind of go do that,
+
+731
+31:35.610 --> 31:38.340
+but what we want to do is use this mechanism
+
+732
+31:38.340 --> 31:40.380
+to involve a much larger community
+
+733
+31:40.380 --> 31:41.343
+to look at these parts of this
+
+734
+31:41.343 --> 31:43.293
+that they might wanna go and solve for.
+
+735
+31:44.160 --> 31:45.733
+<v ->Yes, go ahead, here.</v>
+
+736
+31:48.930 --> 31:52.320
+<v ->I just wanna quickly add to what George already mentioned.</v>
+
+737
+31:52.320 --> 31:54.450
+So there's a lot of really cool applications
+
+738
+31:54.450 --> 31:56.100
+around quantum machine learning as well.
+
+739
+31:56.100 --> 31:57.840
+So it's nowhere close to
+
+740
+31:57.840 --> 32:00.090
+where traditional machine learning is,
+
+741
+32:00.090 --> 32:02.310
+but there are really cool examples
+
+742
+32:02.310 --> 32:03.900
+where you see the potential.
+
+743
+32:03.900 --> 32:07.680
+There have been a few papers where what you can show
+
+744
+32:07.680 --> 32:12.240
+is that quantum neural nets train much faster
+
+745
+32:12.240 --> 32:14.310
+with much lower parameters.
+
+746
+32:14.310 --> 32:17.940
+And overall, if you look at the energy burned by
+
+747
+32:17.940 --> 32:20.070
+or the energy required by quantum computers
+
+748
+32:20.070 --> 32:23.430
+with respect to classical computers, it's much lower.
+
+749
+32:23.430 --> 32:27.870
+So it's a very small model where AlexNet was,
+
+750
+32:27.870 --> 32:30.990
+I believe in 2012 or maybe even preliminary to that,
+
+751
+32:30.990 --> 32:34.320
+but it's like one really cool example that shows that,
+
+752
+32:34.320 --> 32:37.320
+hey, there might be something incredibly cool here.
+
+753
+32:37.320 --> 32:40.230
+So those are problems which are easily accessible
+
+754
+32:40.230 --> 32:41.700
+by all the hackers
+
+755
+32:41.700 --> 32:44.190
+because it's the data that you're gonna understand
+
+756
+32:44.190 --> 32:45.840
+and neural networks, it's again
+
+757
+32:45.840 --> 32:47.580
+like different way of encoding,
+
+758
+32:47.580 --> 32:50.400
+but this is something you can just sit down for two days
+
+759
+32:50.400 --> 32:51.543
+and make sense of it.
+
+760
+32:52.770 --> 32:55.500
+And even on the solving cancer part,
+
+761
+32:55.500 --> 32:57.870
+again, if you just say solving cancer,
+
+762
+32:57.870 --> 32:59.310
+that's incredibly hard.
+
+763
+32:59.310 --> 33:02.880
+But then if you zone in on a particular piece,
+
+764
+33:02.880 --> 33:04.410
+then that becomes tractable,
+
+765
+33:04.410 --> 33:07.230
+and that's where you will have support from all of us
+
+766
+33:07.230 --> 33:08.730
+where we will come in and understand,
+
+767
+33:08.730 --> 33:11.130
+okay, no, no, narrow this down.
+
+768
+33:11.130 --> 33:12.895
+We're gonna zone in onto something
+
+769
+33:12.895 --> 33:15.300
+and make it into a mathematical problem.
+
+770
+33:15.300 --> 33:18.000
+And as soon as you do that, it becomes easily tractable
+
+771
+33:18.000 --> 33:19.443
+by hackers around the world.
+
+772
+33:21.678 --> 33:22.890
+<v ->[Audience Members] I have a question.</v>
+
+773
+33:22.890 --> 33:25.170
+Nowadays the blockchain technology
+
+774
+33:25.170 --> 33:26.460
+has become really hot,
+
+775
+33:26.460 --> 33:29.732
+and many people host like blockchain exchange,
+
+776
+33:29.732 --> 33:34.732
+I mean BTC, Bitcoin as wealth, and so quantum economy,
+
+777
+33:35.430 --> 33:39.720
+quantum technology, how in what level it will impact
+
+778
+33:39.720 --> 33:44.130
+or interrupt the blockchain technology in future?
+
+779
+33:44.130 --> 33:45.657
+Could you share a little bit about that?
+
+780
+33:45.657 --> 33:48.624
+<v ->Oh, I'm not qualified to answer that question.</v>
+
+781
+33:48.624 --> 33:51.453
+Yeah, I mean if you look at blockchain
+
+782
+33:51.453 --> 33:53.430
+just from the compute perspective side of it,
+
+783
+33:53.430 --> 33:55.230
+that it takes a lot of energy, this thing,
+
+784
+33:55.230 --> 33:57.030
+and it's just a shared ledger,
+
+785
+33:57.030 --> 33:59.490
+you can think of a lot of ways just classic that would,
+
+786
+33:59.490 --> 34:01.560
+I would just put it in the bucket of classical computing.
+
+787
+34:01.560 --> 34:03.240
+So that question, if you just convert that
+
+788
+34:03.240 --> 34:04.980
+to a classical computer question,
+
+789
+34:04.980 --> 34:07.200
+there are lots of ways to kind of think about it
+
+790
+34:07.200 --> 34:08.250
+from a blockchain perspective.
+
+791
+34:08.250 --> 34:10.110
+The other side we haven't quite mentioned
+
+792
+34:10.110 --> 34:11.910
+is energy usage, right?
+
+793
+34:11.910 --> 34:14.010
+Energy usage for classical computing
+
+794
+34:14.010 --> 34:17.070
+and high performance computing has a certain kind of demand
+
+795
+34:17.070 --> 34:20.070
+that we have all seen with AI data centers now, you know,
+
+796
+34:20.070 --> 34:22.590
+companies looking at building their own nuclear facilities
+
+797
+34:22.590 --> 34:23.970
+to power their own data.
+
+798
+34:23.970 --> 34:26.220
+There's a whole kind of conversation going on
+
+799
+34:26.220 --> 34:28.950
+within the quantum and adjacent committee
+
+800
+34:28.950 --> 34:32.101
+about what would it mean to run a quantum commuter.
+
+801
+34:32.101 --> 34:34.272
+Is it less energy intensive, more energy intensive?
+
+802
+34:34.272 --> 34:37.350
+Is it usable now to use quantum
+
+803
+34:37.350 --> 34:39.603
+to help solve for energy needs?
+
+804
+34:39.603 --> 34:40.436
+So maybe not in the next 15 years,
+
+805
+34:40.436 --> 34:42.300
+but after 15 years we'd have something
+
+806
+34:42.300 --> 34:46.020
+that quantum can help optimize energy usage in data centers,
+
+807
+34:46.020 --> 34:48.286
+which again, use technologies like blockchain.
+
+808
+34:48.286 --> 34:49.470
+that are more intensive.
+
+809
+34:49.470 --> 34:50.940
+I would put AI in the same bucket,
+
+810
+34:50.940 --> 34:53.340
+but I'm generalizing both of those
+
+811
+34:53.340 --> 34:55.410
+under just classical computing needs
+
+812
+34:55.410 --> 34:57.120
+versus blockchain specifically,
+
+813
+34:57.120 --> 35:00.153
+which I'm not qualified to talk to, if that helps.
+
+814
+35:01.620 --> 35:04.479
+Okay, I think we can take one more question please.
+
+815
+35:04.479 --> 35:05.940
+<v Audience Member>Would you say that the main reason</v>
+
+816
+35:05.940 --> 35:08.880
+that quantum computers maybe aren't scaling
+
+817
+35:08.880 --> 35:11.520
+as fast in mainstream would be
+
+818
+35:11.520 --> 35:14.319
+because people aren't aware of
+
+819
+35:14.319 --> 35:17.373
+that they can use quantum computing?
+
+820
+35:19.290 --> 35:20.807
+<v ->That's a tricky question.</v>
+
+821
+35:20.807 --> 35:23.280
+I would kind of push back on the premise
+
+822
+35:23.280 --> 35:24.660
+that they're not scaling as fast.
+
+823
+35:24.660 --> 35:28.080
+I think if you think about where quantum was, right?
+
+824
+35:28.080 --> 35:32.850
+Like Schrödinger and Bohr and Einstein
+
+825
+35:32.850 --> 35:35.402
+in about the 1900s came up with a theory.
+
+826
+35:35.402 --> 35:37.515
+<v Audience Member>I mean from a public perspective,</v>
+
+827
+35:37.515 --> 35:38.777
+awareness? (audio blurs)
+
+828
+35:38.777 --> 35:41.700
+<v ->So, but even if the public is aware,</v>
+
+829
+35:41.700 --> 35:45.180
+let's say all 100,000 people at CES were aware of quantum,
+
+830
+35:45.180 --> 35:48.750
+what would they do about it, right?
+
+831
+35:48.750 --> 35:50.940
+It's the engagement models that are more difficult
+
+832
+35:50.940 --> 35:52.920
+than just the awareness part of it, right?
+
+833
+35:52.920 --> 35:55.802
+So you need to have enough PhDs generated
+
+834
+35:55.802 --> 35:58.770
+around many, many topics that's not just quantum,
+
+835
+35:58.770 --> 36:01.380
+it's IT, it's, you know, there's a whole bunch of sleuth.
+
+836
+36:01.380 --> 36:04.470
+You need to have business translation capability.
+
+837
+36:04.470 --> 36:06.900
+Just because I can go to Cleveland Clinic
+
+838
+36:06.900 --> 36:08.610
+does not mean they know how to translate that
+
+839
+36:08.610 --> 36:10.410
+to a quantum question.
+
+840
+36:10.410 --> 36:13.530
+So we have lots of challenges in talent development
+
+841
+36:13.530 --> 36:16.020
+and pipeline, how that gets applied.
+
+842
+36:16.020 --> 36:18.780
+We have engineering issues that people are trying to solve
+
+843
+36:18.780 --> 36:21.780
+around deploying full scale quantum computers.
+
+844
+36:21.780 --> 36:24.210
+The science is there, the engineering always takes time.
+
+845
+36:24.210 --> 36:25.050
+We have dependencies
+
+846
+36:25.050 --> 36:27.000
+that are completely outside the quantum world
+
+847
+36:27.000 --> 36:28.110
+from a standards perspective,
+
+848
+36:28.110 --> 36:29.850
+from a policy perspective that have come into play.
+
+849
+36:29.850 --> 36:31.260
+And those things take time.
+
+850
+36:31.260 --> 36:32.340
+And I said in the morning session,
+
+851
+36:32.340 --> 36:33.270
+they're not linear, right?
+
+852
+36:33.270 --> 36:34.560
+They're cyclical,
+
+853
+36:34.560 --> 36:36.030
+and you know, not saying
+
+854
+36:36.030 --> 36:38.130
+that somebody somewhere won't have a killer app
+
+855
+36:38.130 --> 36:39.630
+that kind of drives everything.
+
+856
+36:39.630 --> 36:43.500
+But without that, like AI is a great example, right?
+
+857
+36:43.500 --> 36:47.070
+Chat GPT apparently happened, what, overnight?
+
+858
+36:47.070 --> 36:49.470
+But AI has been in play, the same technologies
+
+859
+36:49.470 --> 36:52.320
+for 60, 70 years now before Chat GPT came around,
+
+860
+36:52.320 --> 36:55.080
+and there's a significant amount of generations of work
+
+861
+36:55.080 --> 36:57.930
+that built all the building blocks that made that happen.
+
+862
+37:03.080 --> 37:05.160
+<v ->Yeah, I can add one point to your question.</v>
+
+863
+37:05.160 --> 37:09.090
+It's yes, the penetration of quantum technology
+
+864
+37:09.090 --> 37:13.650
+into the society is not quite significant there.
+
+865
+37:13.650 --> 37:15.510
+That doesn't mean that it's hindering the development
+
+866
+37:15.510 --> 37:16.440
+of quantum computer.
+
+867
+37:16.440 --> 37:18.300
+And actually if you look at what happened
+
+868
+37:18.300 --> 37:22.470
+over the past two years, that's actually pretty amazing.
+
+869
+37:22.470 --> 37:25.440
+I think if we would have a meeting here two years ago,
+
+870
+37:25.440 --> 37:28.320
+we would say quantum computer may be error correction,
+
+871
+37:28.320 --> 37:30.007
+we're not quite sure.
+
+872
+37:30.007 --> 37:34.260
+And all of a sudden there were like tremendous announcement
+
+873
+37:34.260 --> 37:38.923
+made by Google, made by University of Harvard
+
+874
+37:38.923 --> 37:40.230
+about like actual corrections.
+
+875
+37:40.230 --> 37:42.161
+And it's now implemented
+
+876
+37:42.161 --> 37:44.580
+in most of quantum computing platform.
+
+877
+37:44.580 --> 37:46.830
+Same thing with connecting two quantum computer,
+
+878
+37:46.830 --> 37:48.690
+two quantum computer cores
+
+879
+37:48.690 --> 37:50.760
+or two quantum computer chips together,
+
+880
+37:50.760 --> 37:53.190
+one of the challenge of quantum internet.
+
+881
+37:53.190 --> 37:55.710
+If we would have like spoken about it last year,
+
+882
+37:55.710 --> 37:57.900
+I say, well, we are really working hard on it,
+
+883
+37:57.900 --> 37:59.400
+but this is a very hard problem
+
+884
+37:59.400 --> 38:02.130
+and look at the announcements that were done with Google
+
+885
+38:02.130 --> 38:02.963
+and others.
+
+886
+38:02.963 --> 38:05.040
+I mean this is something which is happening today.
+
+887
+38:05.040 --> 38:07.200
+So this is not the same scaling we're speaking about.
+
+888
+38:07.200 --> 38:09.120
+This is not about having from 10
+
+889
+38:09.120 --> 38:12.060
+to like 100 cubits to 1,000 cubits to a million cubits.
+
+890
+38:12.060 --> 38:13.860
+This is really about getting the solutions
+
+891
+38:13.860 --> 38:15.720
+to the real problem that we have.
+
+892
+38:15.720 --> 38:18.420
+But we still need to reach out with the society.
+
+893
+38:18.420 --> 38:20.400
+We still need to reach out with the consumers.
+
+894
+38:20.400 --> 38:22.001
+This event is one of them.
+
+895
+38:22.001 --> 38:25.260
+This is also our role as organizations.
+
+896
+38:25.260 --> 38:27.060
+I mean we, for example, at Quantum Delta
+
+897
+38:27.060 --> 38:28.410
+have launched and created
+
+898
+38:28.410 --> 38:29.760
+the Center for Quantum and Society,
+
+899
+38:29.760 --> 38:33.090
+which is really outreaching to the rest of the society
+
+900
+38:33.090 --> 38:34.350
+to say Quantum is here.
+
+901
+38:34.350 --> 38:37.020
+You don't need to understand quantum in order to use it.
+
+902
+38:37.020 --> 38:39.000
+The same way you don't need to understand electronics
+
+903
+38:39.000 --> 38:39.960
+to use your iPhone,
+
+904
+38:39.960 --> 38:41.700
+you just need to press on the button.
+
+905
+38:41.700 --> 38:43.377
+And this is what we have to do.
+
+906
+38:43.377 --> 38:45.780
+And I think this is what the Quantum Industry Challenge
+
+907
+38:45.780 --> 38:48.000
+and an initiative like this will do,
+
+908
+38:48.000 --> 38:50.013
+and this is why we need to do it ASAP.
+
+909
+38:51.304 --> 38:53.683
+<v Audience Member>Thank you so much.</v>
+
+910
+38:53.683 --> 38:55.170
+<v ->Just one follow up from my perspective.</v>
+
+911
+38:55.170 --> 38:58.140
+So the worst, the word quantum
+
+912
+38:58.140 --> 39:01.020
+is getting used in this context to mean particularly
+
+913
+39:01.020 --> 39:03.030
+what I call quantum information technologies,
+
+914
+39:03.030 --> 39:04.800
+which are these new things like quantum computation,
+
+915
+39:04.800 --> 39:05.820
+quantum sensing, right?
+
+916
+39:05.820 --> 39:09.210
+And that is one part of the quantum landscape, right?
+
+917
+39:09.210 --> 39:11.550
+So we started exploring this quantum landscape
+
+918
+39:11.550 --> 39:15.510
+100 years ago, and that the particular things
+
+919
+39:15.510 --> 39:17.430
+that are coming to fruition now,
+
+920
+39:17.430 --> 39:19.290
+people didn't realize until like 50 years ago.
+
+921
+39:19.290 --> 39:21.509
+So we're doing things on decadal timescales,
+
+922
+39:21.509 --> 39:24.870
+but I see these things saying,
+
+923
+39:24.870 --> 39:27.120
+oh, like is quantum technology coming?
+
+924
+39:27.120 --> 39:28.860
+Quantum technology has always been here
+
+925
+39:28.860 --> 39:31.200
+for the past decades and decades, right?
+
+926
+39:31.200 --> 39:34.650
+So every single LED light that you see, right,
+
+927
+39:34.650 --> 39:37.593
+we couldn't have created without quantum understanding.
+
+928
+39:38.640 --> 39:40.500
+It's a kind of a silly technology at this point,
+
+929
+39:40.500 --> 39:42.630
+but everybody's got a light on their phone, right?
+
+930
+39:42.630 --> 39:44.280
+A bright light on their phone.
+
+931
+39:44.280 --> 39:46.770
+And if you touch that light, it's not hot.
+
+932
+39:46.770 --> 39:48.060
+If you talk to people 100 years ago,
+
+933
+39:48.060 --> 39:50.610
+how do you make a light that bright that's not hot?
+
+934
+39:50.610 --> 39:52.500
+They'll just say it's impossible, right?
+
+935
+39:52.500 --> 39:54.090
+It's only because we have quantum understanding
+
+936
+39:54.090 --> 39:55.650
+that we can do that technology.
+
+937
+39:55.650 --> 39:57.570
+So what we need to do in this year
+
+938
+39:57.570 --> 40:00.570
+is talk about the present and future,
+
+939
+40:00.570 --> 40:02.640
+but also talk about all the things that surround them
+
+940
+40:02.640 --> 40:06.360
+in their electronics that are quantum related.
+
+941
+40:06.360 --> 40:10.230
+Everybody understands DNA, right?
+
+942
+40:10.230 --> 40:12.720
+Doesn't mean everybody's a microbiologist, right?
+
+943
+40:12.720 --> 40:15.270
+But if you go out in the strip and ask people like
+
+944
+40:15.270 --> 40:16.473
+what is quantum?
+
+945
+40:17.340 --> 40:19.140
+They'll give you blank looks, right?
+
+946
+40:19.140 --> 40:21.690
+Something from a Marvel movie, something like that.
+
+947
+40:21.690 --> 40:24.690
+We need people to understand that Quantum has been here,
+
+948
+40:24.690 --> 40:26.820
+is here, has been generating all this technologies,
+
+949
+40:26.820 --> 40:29.100
+is underlying everything at CES
+
+950
+40:29.100 --> 40:32.040
+and will continue to generate all sorts of new technologies.
+
+951
+40:32.040 --> 40:34.200
+That's the goal of the year.
+
+952
+40:34.200 --> 40:36.450
+<v ->Thank you, and we'll leave that as the last word.</v>
+
+953
+40:36.450 --> 40:38.070
+Please join the global community
+
+954
+40:38.070 --> 40:39.720
+in participating in the Global Industrial Challenge.
+
+955
+40:39.720 --> 40:40.959
+Thank you.
+
+956
+40:40.959 --> 40:42.073
+(audience applauding)
+
+957
+40:42.073 --> 40:44.740
+(upbeat music)
+

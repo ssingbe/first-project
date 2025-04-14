@@ -1,0 +1,30 @@
+2025-01-03 14:25:13,887 - ERROR - Fatal error: Message: Unable to locate or obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2025-01-03 14:27:13,826 - INFO - ====== WebDriver manager ======
+2025-01-03 14:27:15,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:27:15,724 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:27:15,750 - INFO - There is no [win64] chromedriver "131.0.6778.204" for browser google-chrome "131.0.6778" in cache
+2025-01-03 14:27:15,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:27:15,824 - INFO - WebDriver version 131.0.6778.204 selected
+2025-01-03 14:27:15,824 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2025-01-03 14:27:15,824 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2025-01-03 14:27:15,958 - INFO - Driver downloading response is 200
+2025-01-03 14:27:16,326 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:27:16,524 - INFO - Driver has been saved in cache [C:\Users\CTE22-213\.wdm\drivers\chromedriver\win64\131.0.6778.204]
+2025-01-03 14:27:21,111 - INFO - 메인 페이지 접속: https://exhibitors.ces.tech/8_0/#/searchtype/category/search/999999999/show/cat-category%7C215
+2025-01-03 14:27:31,386 - ERROR - 전시업체 링크 로드 중 시간 초과
+2025-01-03 14:27:31,397 - ERROR - 전시업체 링크를 찾을 수 없습니다. 종료합니다.
+2025-01-03 14:28:34,319 - INFO - ====== WebDriver manager ======
+2025-01-03 14:28:36,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:28:36,133 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:28:36,165 - INFO - Driver [C:\Users\CTE22-213\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-03 14:28:40,714 - INFO - 메인 페이지 접속: https://exhibitors.ces.tech/8_0/#/searchtype/category/search/999999999/show/cat-category%7C215
+2025-01-03 14:29:15,873 - ERROR - 전시업체 카드를 찾을 수 없습니다.
+2025-01-03 14:29:15,873 - ERROR - 전시업체 링크를 찾을 수 없습니다. 종료합니다.
+2025-01-03 14:30:46,530 - INFO - ====== WebDriver manager ======
+2025-01-03 14:30:48,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:30:48,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-03 14:30:49,203 - INFO - Driver [C:\Users\CTE22-213\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-03 14:30:53,631 - INFO - 메인 페이지 접속: https://exhibitors.ces.tech/8_0/#/searchtype/category/search/999999999/show/cat-category%7C215
+2025-01-03 14:31:29,110 - ERROR - 전시업체 카드를 찾을 수 없습니다.
+2025-01-03 14:31:29,110 - ERROR - 전시업체 링크를 찾을 수 없습니다. 종료합니다.

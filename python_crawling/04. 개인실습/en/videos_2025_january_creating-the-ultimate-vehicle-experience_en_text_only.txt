@@ -1,0 +1,1010 @@
+<v Chris>Well, we're in session three now of Connect2Car,</v>
+celebrating our 25th anniversary.
+How many of you were in the last session?
+Excellent.
+This is gonna be even better.
+Because Matt Jones is here to moderate.
+Mr. Global from Ford.
+And I met Matt at Angelo's Pizza in New York City.
+He was speaking at our Connect2Car
+that we did in New York City,
+and I watched him down a pizza that had pineapple on it.
+So, those of you that are purest-
+<v Matt>Pineapple and pepperoni.</v>
+<v Chris>Pineapple and pepperoni.</v>
+They actually work well together,
+even though it's in New York City
+and we're having pineapple pizza.
+But, Matt, this is gonna be a great panel.
+I'm gonna look forward to this one as well.
+So, Matt, I'm gonna let you take this one away.
+<v ->I appreciate it.</v>
+Thank you so much.
+Thanks for joining,
+especially after joining Ellis in the previous panel.
+You may have noticed me run up to the stage
+and swap out with Chris.
+I was just getting briefed by my PR person from Ford.
+So today I will not have opinions,
+but I will subtly indicate where I have opinions.
+Help me with this as an audience.
+It's really important to me.
+But more important to me,
+I'm just gonna be moderating this panel,
+which is really asking the questions,
+trying to turn it into a conversation
+more than just a set of fixed answers that we've got.
+Because if we think about what we're talking about,
+this is like experience.
+This is what we will have, what our families will have,
+what our friends will have.
+Everything that we're looking at
+in automotive in the future years.
+And if you just rewind 20 years, and believe it or not,
+I think this is, like, my 19th or 20th CES.
+If you look at what was on the market there
+with Chris and the aftermarket and Sony head units coming in
+and where we are now,
+and if you think about where we are potentially going
+with autonomous vehicles,
+all the extra entertainment systems,
+Scout today announcing satellite communications
+in the vehicles,
+there's an awful long way that we've still got to go.
+But this is technology,
+and hopefully from the panel today,
+we're gonna hear about
+what we've achieved in the last 20 years,
+we should be able to do 10 times faster.
+And in reality, we have to 'cause our expectations,
+you've heard me say it a thousand times,
+are really being set by the mobile device experiences,
+the different digital technologies
+we're seeing in other industries.
+So how can we leverage that and move forwards together?
+But enough of the introduction.
+Rebeca, would you like to introduce yourself first?
+<v ->For sure.</v>
+Thank you, everyone, for being here.
+Very happy to be here, Matt, and everybody.
+My name is Rebeca Delgado.
+I'm the CTO for Intel Automotive.
+At Intel, we're very focused on how to accelerate
+what we're calling software-defined done right
+precisely to enable these new experiences
+that our consumers and customers crave.
+So very excited to be here today
+and, you know, having some of these
+very important conversations on how we get there together.
+<v ->Hi, everybody.</v>
+Thanks again, yes, for being here.
+My name is Parrish Hanna.
+I'm a director within the Capgemini automotive practice
+in North America.
+We're leading management and technology consultancy
+that combines strategy, technology, data science,
+creative design and engineering expertise,
+hopefully coming out with innovative outputs.
+I'm fortunate 'cause I get to work
+on kind of transformative,
+innovative topics with OEMs and tier ones,
+in particular, next gen vehicles, ecosystems,
+experience roadmaps, those kind of things,
+everything we're gonna be touching upon
+and how fast it's gonna go.
+I have a formal background in industrial product design
+and software development.
+So the physical-digital sweet spot
+is definitely where I like to play.
+And over my 30-year career,
+I've worked for a handful of corporations
+and consulting companies,
+covering a couple different verticals,
+including consumer electronics, telecom, and automotive.
+So, thankful to be here.
+Always happy to fill the 2025 cup
+with optimism and inspiration and hard work.
+So, thanks.
+<v ->Hi, everyone.</v>
+I'm Arianne Walker.
+I'm the chief evangelist for Amazon Smart Vehicles.
+I'm thrilled to be here today.
+And we really, you probably know,
+are focused on the in-vehicle experience.
+So inside the cabin of the car,
+specifically around the voice assistant
+and really working on collaborating
+with automakers and suppliers
+to create great experiences for customers
+so that they can be productive and entertained
+while on the drive.
+I'll just mention one specific example quickly,
+well, I'm sure we'll talk more about it as we go.
+But we launched with BMW last year
+their intelligent personal assistant,
+which is built on the Alexa Custom Assistant technology
+or what we call ACA.
+And that has been, you know, wonderful for customers,
+but we're taking it now to the next level,
+adding in large language models and generative AI.
+And that'll be coming later this year.
+But we're at CES,
+so you don't have to wait to see it.
+You can actually see it in action in the Venetian
+if you get a chance to go over there
+where we're actually showing off
+how we can sort of level up these experiences,
+particularly around the space in navigation,
+trip planning, and points of interest
+to really be able to leverage all the great technology
+for a fantastic customer experience.
+<v ->And rounding it out is, my name is Tim Yerdon.</v>
+I am with SAE ITC,
+which is industry technology consortia,
+which is an affiliate of the broader SAE family,
+which is really focused on bringing industry together
+to solve industry problems.
+So when you think about large technical problems
+that a company, whether it be a tier one or a tier two
+or within the ecosystem
+as we'll talk about in a little bit,
+they wouldn't solve on their own.
+How does somebody like SAE as a family
+bring these companies together
+to actually develop best practices, write standards?
+So we're not doing iterative work,
+wasting precious engineering resources
+and competing against one another.
+It's how do we move faster quicker
+and deploy technology in a way that is very experiential.
+So with that...
+<v ->Well, following that,</v>
+I guess, Tim, we're gonna go to you first.
+And if you think about my introduction
+where we've got all of these rapidly evolving experiences,
+you've just heard from the panelists that we've got a range
+of different parts of this massive automotive ecosystem.
+I think everybody here knows that without silicon,
+without software, without the cloud,
+without tier ones, without OEMs, there's nothing.
+How do we foster and actually drive the collaboration
+across all of these different parts, Tim?
+<v ->Yeah, great question.</v>
+And, you know, I think for many of us
+that have been in this industry
+or around this industry for a long period of time,
+the traditional hierarchy old model is dying.
+You know, the pyramid structure of, you know, the OEM
+to the tier one, to the tier two,
+to the various service providers is going away
+for, you know, multiple reasons.
+Back to what you mentioned about adopting
+a lot of the consumer electronic best practices.
+We have to work in an ecosystem,
+and those ecosystems are made up
+of multiple players of different skills
+and different technologies and different disciplines
+that all have to come together
+to make these end-to-end solutions work in a meaningful way.
+And we have to change our business models,
+we have to change our engineering
+and our internal operating structures
+to be able to adapt to these methods and ways.
+Otherwise, we're just gonna be doing it the same old way
+and not delivering at the speed
+that, you know, other global markets around the world
+may be moving.
+So, we really need to, you know, abide by those principles
+to be successful as an industry holistically.
+<v ->Yeah, I'll jump in.</v>
+You know, we really think,
+I sort of mentioned this in the introduction,
+but we really think about how we work with automakers
+and suppliers as a collaboration
+that's sort of critical to our business.
+You may know, you know, we started out
+by bringing Alexa into cars,
+which was, you know, our homegrown solution,
+you know, that we brought to bear
+on inside the vehicle cabin.
+But we've sort of pivoted
+and shifted the way we think about this
+to really be sort of, I'm gonna say truly collaborative.
+Of course we were working with automakers before,
+but now we've shifted so that what we're doing
+is we are creating the foundation
+and the building blocks of that technology.
+'Cause that's the stuff that is hard
+for individual automakers to do on their own, right?
+And so the way we think about it
+is we wanna bring the best of Amazon
+to bear on the experience
+and have the automakers and suppliers
+bring the best of what they have to offer.
+And together, we can create these really great experiences.
+So, as I said, we think about those building blocks for,
+I'll use ACA again, Alexa Custom Assistant, as the example.
+But we created those building blocks
+so that the automakers and the suppliers
+can actually create the customization piece
+so that the technology really feels
+like an extension of the vehicle
+rather than just adding something to the vehicle,
+you know, that already exists.
+So the automakers are able to, on this technology,
+create a custom wake word, a custom voice,
+and those customized experiences,
+those value adds to be unique for their brand,
+their vehicles, their customers.
+And we continue to invest and innovate
+so that we sort of keep pace
+with the changing consumer expectations,
+you know, as you said, right, with mobile devices
+always changing, always staying updated.
+So thinking about how we do that with over the air updates
+and making sure that those experiences
+stay current and are great for our end customers.
+<v ->Yeah.</v>
+And one of the things,
+and Parrish we've discussed this
+over and over again over the previous years.
+It's great to say there's this collaboration,
+but, like, what do you collaborate on?
+We've got all these pre-competitive things that,
+do we need 20 different operating systems in a vehicle?
+Do we need the APIs all to be different?
+And then we've got these massively competitive things,
+which are the experience.
+And some of the less software savvy companies
+perceive that anything that you could possibly need
+to deliver an amazing experience is all IP.
+Where where do you see this going?
+How could we actually collaborate?
+<v ->Yeah.</v>
+And, you know, it's IP and then maybe the battle
+even internal to the OEMs
+where I need to be on the first surface,
+or I need my feature front and present, right?
+So I'll take a different spin
+and I think maybe it's the mindset, right?
+And coming into it
+as a kind of joint storytelling group, right?
+So I think it's setting expectations
+with multiple suppliers,
+you know, true partnership and what does that mean?
+So there's new business models
+and other things that Tim referred to.
+But for me, you know, I slant towards consumer centricity
+and holistic understanding of how people think and behave
+and their emotional response.
+And I think it's storytelling
+and I think it's a really detailed curation, right?
+And who is it that does that curation?
+I don't think there's a lot of people that can do that,
+but, you know, it's the agreement of,
+"Okay, we're gonna be in these lanes
+and we're gonna have these roles.
+But our end goal is to do this."
+And I think I'm a broken record
+on saying we don't create experiences,
+we create the opportunity for experiences.
+So on the back end too now,
+we know what's working and not working.
+We know constant,
+with ability to constantly improve.
+So again, all that mindset of decoupling
+and iteration and true collaboration,
+knowing that in the end,
+it's gonna be positive for everybody,
+particularly the consumer,
+you know, I think that mindset.
+<v ->And if we have that mindset of collaboration,</v>
+but we've also got this mindset
+of rapid iteration, rapid release,
+what is it that we can be doing as an industry
+across all of these different companies,
+across all of these different open source alliances,
+SAE, COVESA, all of these others
+to actually foster that collaboration
+outside the contracts in some ways.
+And maybe that's Tim, maybe that's Parrish,
+maybe that's Rebeca.
+<v ->So I'll jump in here.</v>
+And I'm gonna dial up a little bit the spiciness level here.
+The realities that automotive has been, as an industry,
+a very siloed technology industry
+because we do have very differentiated requirements
+attached to security and safety, right?
+At the end of the day, each one of our products
+deal with the safety and security of human life, right?
+That being said,
+as the human-centric experience of the vehicle
+requires all this collaboration,
+back to your point, Matt, of competence and competency
+and technology and IP across the board,
+what I like to encourage the automotive industry,
+although it's tends to be not in our DNA,
+but other industries,
+the way that they've del delivered this opportunity
+for value and experience and innovation
+has been done already, right?
+So for us to see these massive technology players
+that deliver content and human experiences,
+the opportunity to create that value
+resides in the software defined architectures.
+And that's literally the technical term
+for that re-architecture of those technologies
+that allowed for the internet and the telco companies
+to truly cooperate on how to allow every ecosystem player
+to deliver value in their areas of expertise
+so that then the innovation cycles
+could then be rapidly iterated towards, right?
+So it's a very painful transformation that we're all facing.
+But at the end of the day, the encouraging element here
+is that it's been done in other industries successfully.
+We've been doing this in automotive as well already, right?
+We've adopted, you know, very enthusiastically
+things like ethernet, right?
+But for this technologies to exist from scratch
+would be absolutely massive investment.
+So the encouraging thing here
+is that a lot of these transformations
+have happened in other industries,
+and we can borrow enthusiastically from those practices
+of open platform approach
+that then allow us to deliver value in this layered mindset.
+<v ->Just maybe to add a little bit to this,</v>
+because, obviously, it's what I do and what we do at SAE.
+But there's those that collaborate
+and there's those that talk about collaboration,
+and all the stage are people that actually do collaboration,
+which is great.
+Because we can have things on the shelves,
+we can have all these different organizations.
+But if you don't bring people together
+to solve the problems,
+and, you know, it's quite a sight
+when we have our meetings on virtually or in the room
+and I see multiple OEMs, multiple tiers,
+multiple service providers,
+all for, at first, usually discussing and arguing,
+and then eventually collaborating,
+writing best practices,
+and then ultimately developing standards.
+And this is where we need to get to.
+Not everything needs a standard,
+but, you know, the things that are proprietary
+and beneficial for your individual companies,
+they have to stay that way.
+But there's so many things underneath the layer of,
+you know, the iceberg under the waterline
+that we can do and make sure are in a place
+where we're not doing this redundant engineering work
+that we all struggle with.
+And I think that is the way of the future.
+If we can, you know, have the right mindset to move forward,
+that's the difficult part.
+<v ->Anecdotal story time.</v>
+So, you know, and it's actually that forced collaboration,
+and sometimes it has to be part of your performance review.
+It has to be part of your KPIs.
+I mean, my experience in some companies
+where there was this dogma
+and people just didn't show up collaboratively
+and multidisciplinary, they no longer had a cubicle.
+They had a seat like this
+at the big **** table we'd call it at.
+At Dual Brands, they have the big ash table,
+their table's made of ash, right?
+And everybody is like,
+"Your assignment for the next six months
+is at this table next to, you know,
+these complimentary disciplines.
+Here's your problem.
+You know, here's your roles and responsibilities."
+And that's...
+It's uncomfortable and it's forced,
+but, you know, after a week,
+it's where you go every morning, you know,
+and that is how you work.
+and you're working on whiteboards and mural and Miro,
+and it's iterative and so forth.
+So...
+<v ->And it's almost that startup culture.</v>
+And it reminds me of some of the conversations
+we were having last night.
+And we're at CES.
+There's thousands, if not, tens of thousands of startups.
+You can see many of them at the COVESA event
+this evening over at the Bellagio.
+But in reality,
+as I go around all of these different incubators,
+all of these different startups,
+the standard question is,
+"How long did it take you to develop this?"
+"How long did it take to develop
+your amazing concept of a future product?"
+And they give me a number,
+and it's normally, like, four to nine months.
+And they say, "How much time did it actually take you
+to get that base platform
+before you could start building your experiences
+and your product on top?"
+And invariably, it's at least half that time.
+And then I think about it.
+It's like all of those startups
+and all of us with the experiences we want in the vehicle,
+all going in different directions
+to create the same thing that underpins
+the thing that we all want, their true IP, which is on top.
+And if we can get this collaboration,
+if we can get these underpinnings
+from an open source or proprietary
+or software as a service model, anything,
+it must be better for automotive,
+as well as the other industries.
+But I guess, Rebeca, we are...
+Have you noticed we're actually steering super clear
+of discussing any possible future experiences?
+I don't know whether this is on purpose.
+And I'm not gonna try and draw it out of the team yet.
+But given all these future experiences,
+you know, the ones that we're really reluctant
+to talk about,
+what are the underpinning technologies that we'll need?
+<v ->I love that that segue, right?</v>
+At the end of the day,
+the future feels like this horizon line that we can't get to
+because exactly what Matt just articulated, right?
+Everybody's reinventing the wheel
+and spending the majority of their cycles
+in just the baseline
+before you can deliver any innovation
+or value or differentiation, right?
+So in that regard,
+because Intel's DNA has been,
+you know, years and years of delivering compute
+for all of these foundational technologies
+that now we're leveraging
+for the automotive future vehicle experiences
+and the current vehicle experiences,
+our ultimate commitment has always been,
+as a company, to open compute,
+open platforms, open APIs, open software.
+Because only through this forced collaboration, right,
+that allows for interoperability,
+allows for, like, the best solution to solve the problem.
+It's where you can then finally encounter
+that possibility of scaling, right?
+'Cause without scaling,
+the future just continues to escape
+your grasp of the minimum viable product, right?
+So that open collaboration mentality
+then needs to truly trickle down
+to the elements of your solution and your underpinnings,
+which at the end of the day,
+we all talk about software defined as a buzzword.
+But software defined means that this value
+is your north light of how your whole company and operations
+get guided through,
+and then inform the articulation of the infrastructure
+of all of your elements of technology, right?
+For that to exist,
+it will mean that none of us as ecosystem players
+can own everything, starting with the OEMs, right, Matt?
+So it will require these layered mentality
+instead of being vertical to being horizontal.
+And for that horizontal collaboration to occur
+for the future to realize,
+it will require truly that open perspective, right?
+And then second, everybody's very, very focused
+on the highest performance socket, right,
+because that's what's the most direct impact to the eyes
+and the emotional response of the consumer.
+But the other element
+that we're all forgetting in this fragmentation of solutions
+is that these solutions have to scale
+to every level of vehicle, right?
+So open compute, open software, open APIs,
+but then it cannot just address
+the most premium or the lowest, right?
+An OEM...
+I mean, Matt, you tell me.
+An OEM doesn't wanna pay
+three different solution stacks, right,
+for their whole vehicle lineup.
+So this has to be software defined first,
+then it has to be scalable.
+And then it has to be,
+let's see at the whole vehicle as a platform,
+as a sandbox for innovation for future-proofing.
+Because if you don't future-proof,
+the future catches up with you
+and you are no longer viable.
+So software define that it's open,
+that it's scalable,
+and that has a holistic approach
+looking at the whole vehicle as a platform
+for a sandbox of innovation.
+<v ->And you're absolutely right.</v>
+From the OEM perspective, if you think of Ford,
+we sell Rangers and Territories into Sub-Saharan Africa.
+Even if we just look at the US an F-150,
+bestselling pickup truck,
+we have something that is literally a job site
+right the way up to these premium towing vehicles
+that would do hundreds of miles.
+Huge dynamic range.
+Many of the vehicle systems are similar.
+We would want to reuse the software.
+But when it comes to infotainment
+or ADAS or audio systems, the seats,
+all of these different pieces
+that we don't necessarily think about,
+we have to have that low overhead configurability,
+maintainability from the software
+based on roadmaps of silicon, not just one level.
+But didn't want to not let Rebeca down
+with the OEM opinion there.
+<v ->Just one comment on this.</v>
+I think one of the missing ingredients...
+I won't say it's missing,
+but the ingredient that we need to use more of
+is systems thinking.
+I'm not saying systems engineering purposely
+because it's not just engineers
+that need to come to the table on this.
+It's the design element of this.
+It's the AHMI, it's the psychological side.
+It's everything that we need to think about from day one
+when you start to put pen to paper
+on a new concept or design.
+How are we thinking of this through a systems lens
+all the way through those over the air updates
+that are gonna happen for the next now, what, 20 years?
+<v ->I would add to the systems</v>
+thinking that's a platform thinking.
+No OEM just has one vehicle.
+Or even if they just have one now,
+they will have an aspiration.
+And in reality, a lot of OEMs and a lot of engineers,
+we love to design for the top.
+And you design for the top and you put all this stuff in,
+and it's really hard to take out.
+And sometimes you need to design for the lowest entry level
+where you can then stack in these options
+to get that cost control model.
+Sometimes you need to design
+for that highest availability somewhere in the middle.
+But very rarely do the engineer left alone get it right.
+And then similarly,
+if we've got four or five different models,
+think of it as an A through E class,
+whatever you want to think about in these different domains,
+how do you design a platform
+that's scalable across these different sized vehicles
+with similar experiences that go across that.
+It's not as easy as we think.
+<v ->If I could add.</v>
+You know, one of the things that we think about is,
+obviously, the infotainment piece, right?
+That's what we're really focused on.
+And so to your point, right,
+there's all these different levels of vehicles
+and different customers in those vehicles.
+And so when we think about,
+I'm gonna use buzzwords, right?
+Large language models and generative AI,
+that that will meet the customers where they are, right,
+to be able to have that very conversational
+interaction with the technology.
+So, you know, for us,
+it's like being able to implement that at different levels,
+you know, whether it's on the edge or in the cloud.
+To be able to do that for those different customers
+and for those different OEMs customized
+to their vehicles, it's really important.
+And the reason it's so important
+is when I think back to the end customer, right?
+We're always working backwards from the actual customer
+that's in the vehicle, the driver and the passenger.
+And by adding this kind of technology into the vehicles,
+they're able to have a more conversational interaction
+with their technology.
+So, when you think about,
+I'll just give a couple
+of examples, but you think about,
+you know, today some of the challenges that we've had,
+a lot of times, it's a little bit hard
+to talk to that voice assistant.
+And using generative AI and large language models,
+now that technology can handle the fumbles
+that we make when we speak,
+the pauses that we take when we speak,
+the colloquial language, right?
+And it can be this very conversational natural interaction.
+It also can take things to the next level
+in terms of personalization and proactivity.
+It can also help when you have multiple intents,
+you know, so right now,
+sometimes you have to do one step at a time.
+So I'll just quickly take navigation as an example.
+If you are navigating somewhere
+and you realize, "Oh, I need to stop and get gas,"
+you have to ask just for gas.
+But with generative AI and large language models,
+you can take that experience
+for that more sophisticated customer to the next level.
+So you can say, "Oh, I'm looking for gas
+on my route that's cheap,
+and, oh, I need a car wash and has a car wash."
+And that technology can handle all of those things
+and then give the customers those options.
+And then finally, I would say that it also,
+this kind of technology helps
+so that rather than the end customer
+having this sort of very transactional experience
+with the technology,
+it can be more like a true companion
+where the technology can actually take action
+on behalf of the customer.
+And those are the kinds of things
+that people across the board wanna see.
+You know, whether it's that high level vehicle
+with all of the bells and whistles in it
+or an entry level model.
+<v ->The really interesting thing,</v>
+and it kind of comes back to my comments
+at the start of, like, 20 years of CES,
+if we think of these vehicles,
+we sat here at the start of 2025.
+We might launch some of these things in '25, '26, '27.
+Might build them in our plants till 2030.
+And we might have to maintain them till 2045.
+So this is really like a generational maintenance headache
+that we're talking about if we don't get it right.
+And it almost comes onto the next question, Parrish.
+It's like many of the OEMs we're integrating our systems
+in multiple countries.
+We're selling into many more.
+It's not just a US-centric.
+It's not a Nevada-centric,
+it's not a US-centric,
+it's not an America-centric.
+It's like this worldwide, 184 markets in Ford's case.
+How do we even contemplate engineering these experiences
+and all of this underpinning stuff?
+<v ->Yeah.</v>
+<v ->Digital stuff.</v>
+<v ->I think you guys have laid out a pretty good framework</v>
+in that last discussion
+and, you know, more or less the enablers
+and creating the sandbox for experimentation
+and things like that.
+I think when you extend it across the globe,
+let's talk about kind of that regional lens
+and what we're dealing with, right?
+So, maybe cultural and regulatory rules and mandates, right?
+Maybe popular regional services along with the specialists
+that are really experts in that field, right?
+And sometimes that's even a regional partnership.
+It's obviously language, communication.
+Most importantly, I think it's a lot of the nuances
+of the cultural dynamics,
+sociocultural dynamic of where you're going as well
+and being able to capture that
+and reflect that back into the experience
+of your standardized platform, your scalable capabilities,
+your decoupled hardware and software, those kind of things.
+I think...
+So I use the word maturity a lot,
+whether it's around process or it's around the tools.
+A lot of these things can be embedded
+into the tools these days and rendered dynamically
+and built and even virtualized.
+We talked about org mindset
+and kind of a maturity of a software,
+architecture and platform.
+I think we've talked about standardization
+and middleware abstraction and data cloud strategy
+and all these things that, again, are enablers.
+Cross-industry collaboration,
+I think, particularly with hyperscalers
+and SOC providers and everybody else that's working across,
+I think, analogous industries
+and everything else happening elsewhere
+that can be translated into a region
+that might actually be stronger in one thing
+and not as strong in automotive, but a lot to learn.
+And lastly, and most important to me,
+is kind of that cultural and regional maturity.
+So, are you entering a new market?
+Are you supporting a multitude
+of regulatory structures across markets?
+Are you managing customer data,
+autonomous driving and safety issues, right?
+Cultural understanding, data residency,
+all these rules and regulations.
+And now it's a mountain, right?
+Nothing we're discussing here today is not complex, right?
+But, yeah, I think that onboard/offboard capability APIs
+have been talked about a lot,
+you know, including both on onboard and offboard components,
+microservices encapsulated in the API
+and being flexible with those.
+So, you know, but again, I think the experience roadmap.
+I work with a lot of anthropologists that go into regions
+and really deeply understand,
+you know, what matters to these people
+and, you know, what's the difference?
+Like, what is luxury defined in four different places
+and how does that manifest
+into four different stories in giant regions?
+So, those kind of things, I think, are really important.
+<v ->Has it changed with the more prevalence</v>
+of these global consumer electronics experiences?
+<v ->I don't think it has.</v>
+I think it's just amplified.
+But I think the route was always there.
+A lot of us come from, you know,
+the software and computer hardware world
+and computer software world,
+and then even telecommunications.
+And to me in telecommunications,
+you were always testing and you were releasing,
+you know, at Motorola, a Ming phone in China,
+and we learned quite a bit
+or a handful of feature phones in Korea.
+But you knew what socializing meant,
+you knew what assistance meant,
+you know what connecting meant, those kind of things.
+And it hasn't changed.
+That hasn't changed.
+But sure, everything else is amplified,
+all these capabilities.
+I don't necessarily think that consumer expectations
+are changing that much.
+It's just we come to CES and we somehow hear about
+these new domains of enablement
+that are brought on by the maturity
+of all the things we're talking about, right?
+I love the last conversation
+around the habitat on wheels, right,
+and stationary moments and these kind of things.
+So, yeah.
+<v ->Fantastic.</v>
+Tim, did you wanna...
+<v ->Yeah, I mean, I come back</v>
+to actually the word you mentioned, Matt,
+which is platform.
+And I think it's not just platform at a vehicle level,
+it's platform at electrical architecture level,
+a software level, at a infotainment level.
+<v ->Platforms all the way down.</v>
+<v ->All the way down.</v>
+And, you know, when you do that, and you do it right,
+it's potentially does serve your global marketplace
+if you do it right.
+And it takes a lot more energy
+and a lot more effort to plan it,
+get those systems thinkers at the table
+at the ash table that Parrish mentioned.
+But if you do it,
+you do it right and you take the time to do it,
+it pays so many dividends down the road.
+Right before Christmas,
+we had just launched an EVPKI solution,
+which is Electric Vehicle Public Key Infrastructure,
+which is a cybersecurity platform for charging vehicles
+that provides interoperability.
+We had one OEM customer.
+I can say it wasn't one of you.
+It wasn't you.
+But they said-
+<v ->Wasn't me.</v>
+<v ->Outside of somebody cutting the copper off</v>
+and stealing the connector in a cord,
+this will solve roughly 40% of our-
+<v ->Look at what we've-</v>
+<v ->Challenges in the last 18 months</v>
+with the Next Connector
+and the charging infrastructure.
+Which is another example of an experience
+that interacted with the digital domain,
+that interacted with the physical domain,
+that interacted with the cloud
+that brings all of these together.
+So, we can do it.
+<v ->And to your point, it's not just,</v>
+"Oh, we're gonna change the connector,
+and everything works out now."
+<v ->It's not in law so we can improve it with time.</v>
+<v ->Yes.</v>
+It's all these things coming together at a platform level.
+Arianne, can we go to you
+and then we're gonna go to the last question if we can.
+<v ->I think everybody did a great job on this one.</v>
+Yeah, yeah, let's do the last question.
+<v ->So this is my attempt,</v>
+my final attempt to think about the future experiences.
+I don't know whether it's gonna work or not,
+but what are you as an individual,
+maybe you are not representing your company,
+most excited to see in the next few years?
+<v ->I love this question because as a technologist,</v>
+I could be talking about generative AI,
+all of these other technologies
+that are really revolutionizing all of these things.
+But what I'm most excited to see
+is the absolutely imperative cultural mindset shift
+in the automotive industry.
+Not to age myself here,
+but I've been in automotive 20 years.
+I started with like 8-bit microcontrollers
+where we're counting the bits in RAM
+so we could squeeze this edge of technology
+that was lend into an 8-bit microcontroller, right?
+The cultural mindset shift necessary for the industry
+being in this high performance tech world
+and having started microcontrollers at Motorola
+a couple decades ago,
+culture eats strategy for breakfast, right?
+So we all truly need to start
+at the human-centric experiences for the future
+to future-proof.
+And therefore, all of a sudden,
+this silo mentality of, "This is mine
+and this is protective,
+and this is what's gonna preserve my empire
+and longevity and my career,"
+is no longer the best approach.
+Right?
+Now, all of a sudden, it's like,
+"Hey, what is truly the most innovative
+differentiated value I can bring to the table,
+and where do, you know, stay in my wheelhouse
+and focus on the value that we can bring?"
+So back to how Intel works with the open compute,
+open approach and things
+is the only way to deliver innovation at scale.
+<v ->Tim, one minute.</v>
+Same question.
+<v ->You know, seeing things come to life.</v>
+And by that, go back 10 years and look at technology.
+I'll give a quick example.
+Think of your vehicle.
+You're lucky if you had an 8-inch display
+in your vehicle 10 years ago.
+And walk the show floor now.
+You know, pillar to pillar displays,
+portrait, landscape, letterscape,
+whatever size you wanna call,
+which then drives different HMIs,
+drives different processing power,
+different chips, different experiences.
+So you have to, all of us in this room, fight the fight.
+Fight for those technologies.
+Fight to get them pushed forward.
+Fight inside of your company to get 'em approved.
+It's always a challenge because it's new and it's different,
+but that's what makes CES CES.
+<v ->I think I'm gonna stick with the mindset change</v>
+and even process and organizational structure
+and the way decisions are made
+and things that we've talked about already.
+Removing the wrinkles of the experience
+and getting things better and better.
+We hear a lot of complaints.
+You know, I think about using streaming services
+in my hotel room and trying to configure that.
+It feels like,
+okay, that was the automotive service infrastructure,
+not, you know, a couple years ago.
+And I think there's gonna be this acceleration.
+Again, coming to CES year after year, I think the stack is,
+and I'll say it's vertical,
+it's hardware and software shifting,
+and it's cloud, and it's AI,
+and it's just continuously maturing.
+But then longitudinally, you know, we've got the product.
+It's connected, it's smart and it's connected.
+It's part of a system.
+It's part of a system of systems.
+And what does that mean and how are companies gonna play
+and what are they gonna choose to be known for
+and what experience roadmaps
+are they gonna create and bring to life
+that makes them unique in incredibly variable,
+flexible, platform-oriented, software-driven world?
+<v ->Arianne.</v>
+<v ->Last word.</v>
+So I'm actually excited about two things.
+One is, you know, all this collaboration
+that we've been talking about really helps us as an industry
+bring experiences to customers faster, right?
+Shortens the time to market.
+So I'm super excited about that.
+We're seeing it in action now,
+and I think it's just gonna accelerate in the future.
+The other thing I'm really excited about
+is when I think about, you know,
+we're very focused on the voice assistant,
+the intelligent personal assistant experience.
+And by bringing these new technologies to bear,
+we're actually starting to be able to solve
+some of the problems that we as an industry
+have faced over the last decade.
+So I mentioned earlier,
+you know, being able to do things
+like have a more conversational experience
+with the voice assistant.
+That's huge, right?
+Not having dead ends when you ask a question.
+That's a really big differentiator for the end customer.
+Being able to have that seamless connectivity
+between all of your digital content and services
+that you have outside the car, inside the car,
+and make it really easily accessible,
+you know, again, is part of the experience
+of the technology of the vehicle
+as opposed to just an add-on.
+And then I think maybe, you know, lastly,
+I would say in terms of that customer experience,
+you know, making sure that that technology
+understands the context that you're in a vehicle.
+Understands what's going on with the vehicle
+can help the customer with that.
+Understand what's going on in the real world
+so that the customer
+can actually interact with that technology,
+get the content, the, the services,
+the productivity that they want,
+all in a way that does not distract
+from the driving experience.
+And I just, I'm really excited to see
+how this goes and how we solve these things
+with the new technologies.
+<v ->Completely.</v>
+And I think everybody in the audience
+knows that question's unfair.
+If you're expecting anybody up here,
+I don't believe any of us are billionaires at this point.
+Nope.
+To predict, like, what is the feature
+we should be discussing in three months,
+six months, 12 months time.
+It's wrong.
+What we've actually been discussing
+is how we create the experiences
+and how we figure out exactly what those are
+and how those evolve in the future.
+And it goes back to the start.
+We know they're gonna iterate rapidly.
+It's about the platforms, it's about the systems,
+it's about the cloud stacks,
+it's about the silicon,
+about everything that comes together
+to allow the one in a billion person
+to bring those experiences that we want to see
+to market far faster than before.
+And if you sat in the audience,
+and if you know what that next big thing, Facebook 2.0, is,
+like, don't bother talking to us.
+Go and build it.
+Go and demonstrate it.
+Come back and show it to the world.
+Because we're in a race
+with our own expectations in automotive.
+And if we can collaborate through SAE, through COVESA,
+through commercial relationships and partner companies,
+and if we can make it easier to build,
+we are gonna win our own race
+and see the experiences we want.
+So with that, I'd love everybody to thank the panel.
+And hopefully we'll see you next year
+and be able to talk about even more LLMs
+and proof points to the experiences.
+Thank you again.
+Bye-bye.
+<v ->Thank you.</v>
+<v ->Thank you.

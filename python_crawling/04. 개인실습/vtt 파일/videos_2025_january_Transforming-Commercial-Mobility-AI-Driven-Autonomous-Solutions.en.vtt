@@ -1,0 +1,2851 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.186 --> 00:02.853
+(upbeat music)
+
+00:10.620 --> 00:13.530
+<v ->Hello, I'm Ed Bernardon with Code19 Racing,</v>
+
+00:13.530 --> 00:18.530
+and I wanna welcome you all to our CES '25 panel,
+
+00:18.660 --> 00:20.760
+Transforming Commercial Mobility
+
+00:20.760 --> 00:23.610
+with AI-Driven Autonomous Solutions.
+
+00:23.610 --> 00:25.290
+And I want you to start off
+
+00:25.290 --> 00:27.600
+and think about when you hear the word autonomous vehicle,
+
+00:27.600 --> 00:31.601
+you probably think about a robotaxi or a self-driving car.
+
+00:31.601 --> 00:34.050
+But today, we're gonna shift that focus,
+
+00:34.050 --> 00:36.390
+we're gonna shift it to commercial autonomy.
+
+00:36.390 --> 00:37.740
+And in some cases,
+
+00:37.740 --> 00:42.360
+we're gonna combine autonomy with automation.
+
+00:42.360 --> 00:47.360
+And these are applications where they're AI-powered,
+
+00:47.580 --> 00:50.520
+they're in unstructured environments,
+
+00:50.520 --> 00:53.671
+and they're defined by the three D's,
+
+00:53.671 --> 00:56.490
+dull, dirty, or dangerous,
+
+00:56.490 --> 00:58.890
+some combination of the three D's.
+
+00:58.890 --> 01:01.650
+So these are all the types of tasks
+
+01:01.650 --> 01:04.710
+that humans would just love to give to a machine.
+
+01:04.710 --> 01:07.080
+And so what we'll do is we'll start off with a quick,
+
+01:07.080 --> 01:09.360
+have each of the panelists introduce themselves,
+
+01:09.360 --> 01:13.680
+and then we'll jump into the questions right after that.
+
+01:13.680 --> 01:15.030
+John, go right ahead.
+
+01:15.030 --> 01:16.110
+<v ->Hello, I'm John Beck.</v>
+
+01:16.110 --> 01:18.900
+I'm the director for Autonomy &amp; Active Safety
+
+01:18.900 --> 01:21.060
+at Oshkosh Corporation,
+
+01:21.060 --> 01:24.599
+a global industrial technology company
+
+01:24.599 --> 01:27.180
+that builds purpose-built vehicles
+
+01:27.180 --> 01:30.678
+and other equipment for fire and emergency,
+
+01:30.678 --> 01:35.678
+refuse collection, construction, access equipment defense,
+
+01:37.740 --> 01:39.753
+and airport products.
+
+01:42.060 --> 01:46.530
+<v ->And I'm Don Burnett, I'm the founder and CEO of Kodiak.</v>
+
+01:46.530 --> 01:48.600
+Kodiak is a technology startup
+
+01:48.600 --> 01:50.100
+working in the self-driving space.
+
+01:50.100 --> 01:52.170
+We really like to think we embody the dull, dirty,
+
+01:52.170 --> 01:53.490
+and dangerous.
+
+01:53.490 --> 01:54.900
+We have trucks,
+
+01:54.900 --> 01:57.660
+our autonomy technology running in semi-truck over the road,
+
+01:57.660 --> 02:01.110
+working to carry freight all across the United States
+
+02:01.110 --> 02:02.910
+with some amazing partners like J.B. Hunt
+
+02:02.910 --> 02:05.370
+and Werner Enterprises and many others,
+
+02:05.370 --> 02:08.550
+but we also do off-road autonomy and unstructured autonomy
+
+02:08.550 --> 02:11.280
+in context like military applications.
+
+02:11.280 --> 02:12.840
+We work with the U.S. Army
+
+02:12.840 --> 02:17.160
+and provide off-road autonomy services there.
+
+02:17.160 --> 02:19.170
+And we also run freight
+
+02:19.170 --> 02:21.360
+for off-road commercial applications.
+
+02:21.360 --> 02:25.470
+We have customers in and related to the mining industry,
+
+02:25.470 --> 02:27.570
+where they're moving goods, raw materials,
+
+02:27.570 --> 02:30.630
+and other things in and out of mining environments.
+
+02:30.630 --> 02:35.630
+And those very, very dull and dirty jobs
+
+02:35.850 --> 02:37.530
+are ones that are ripe for automation.
+
+02:37.530 --> 02:38.403
+So thank you.
+
+02:39.510 --> 02:40.830
+<v ->Hello. Good afternoon, everybody.</v>
+
+02:40.830 --> 02:42.720
+My name is Carolina Diez,
+
+02:42.720 --> 02:45.899
+and I guess I'm the only non-American in the panel,
+
+02:45.899 --> 02:48.238
+so just take it easy on me.
+
+02:48.238 --> 02:50.741
+I'm vice president of Future Solutions
+
+02:50.741 --> 02:52.680
+in Volvo Construction Equipment,
+
+02:52.680 --> 02:54.960
+which is the construction
+
+02:54.960 --> 02:58.950
+and infrastructure part of Volvo Group, Swedish company.
+
+02:58.950 --> 03:02.790
+And we do trucks, construction machinery, buses,
+
+03:02.790 --> 03:06.180
+and engines for boats as well.
+
+03:06.180 --> 03:07.013
+<v ->And, Jeremy?</v>
+
+03:08.400 --> 03:11.400
+<v ->I'm Benjamin Lyon. Great to meet all of you.</v>
+
+03:11.400 --> 03:15.111
+And I'm the Chief Technology officer of Aptiv,
+
+03:15.111 --> 03:17.310
+and Aptiv makes autonomous solutions
+
+03:17.310 --> 03:19.619
+that run in many, many passenger vehicles
+
+03:19.619 --> 03:24.210
+as well as commercial vehicles all over the world,
+
+03:24.210 --> 03:26.190
+in addition to autonomous systems
+
+03:26.190 --> 03:29.974
+to drive 5G networks in the United States
+
+03:29.974 --> 03:31.473
+and all over the world.
+
+03:33.390 --> 03:35.280
+<v ->So, John, let's start off with Oshkosh.</v>
+
+03:35.280 --> 03:38.670
+You do all sorts of different applications, construction,
+
+03:38.670 --> 03:41.760
+you do refuse collection, defense.
+
+03:41.760 --> 03:45.060
+How does AI help you bring value
+
+03:45.060 --> 03:47.610
+to these kinds of applications?
+
+03:47.610 --> 03:49.920
+<v ->Sure. So I can walk you through a few examples</v>
+
+03:49.920 --> 03:53.370
+and we'll start with in the construction space.
+
+03:53.370 --> 03:57.510
+So we have an access equipment business unit
+
+03:57.510 --> 04:00.150
+that makes the boom lifts
+
+04:00.150 --> 04:03.300
+and telehandler that you find on every construction site
+
+04:03.300 --> 04:04.950
+around the world.
+
+04:04.950 --> 04:08.850
+We are currently developing an all electric version
+
+04:08.850 --> 04:13.850
+that has a self-leveling chassis, and on that is a boom.
+
+04:14.217 --> 04:17.130
+And the idea is that it can transform
+
+04:17.130 --> 04:20.760
+either between a boom lift for carrying people up and down,
+
+04:20.760 --> 04:23.010
+or it could be, you know,
+
+04:23.010 --> 04:26.850
+put a implement on the end like forks for moving materials.
+
+04:26.850 --> 04:30.357
+We're also exploring various end effectors
+
+04:30.357 --> 04:33.870
+that can, you know, perform the work at height
+
+04:33.870 --> 04:34.920
+rather than a person.
+
+04:34.920 --> 04:39.720
+So it could be a power washer, it could be a saw,
+
+04:39.720 --> 04:42.750
+it could be something that could hold materials in place
+
+04:42.750 --> 04:45.780
+while a person is fasting in place, welding,
+
+04:45.780 --> 04:47.550
+you know, bolting, what have you.
+
+04:47.550 --> 04:50.209
+We're also, you know, that particular platform,
+
+04:50.209 --> 04:54.210
+self-leveling, but we're looking at applying AI
+
+04:54.210 --> 04:55.980
+to the perception stack on that one
+
+04:55.980 --> 05:00.803
+to identify common obstacles and materials
+
+05:00.803 --> 05:03.270
+in the construction space
+
+05:03.270 --> 05:07.053
+so that as it maneuvers around, it can avoid those.
+
+05:07.980 --> 05:10.170
+Furthermore, because it's fully electric,
+
+05:10.170 --> 05:14.522
+we are developing an autonomous mobile charging robot
+
+05:14.522 --> 05:17.940
+that could detect when these electric vehicles
+
+05:17.940 --> 05:22.127
+get low on charge and navigate to those vehicles
+
+05:22.127 --> 05:25.950
+and autonomously connect and charge them in place
+
+05:25.950 --> 05:28.230
+as opposed to these vehicles
+
+05:28.230 --> 05:32.393
+going back to essential charging area.
+
+05:32.393 --> 05:34.377
+Then we can move into, you know,
+
+05:34.377 --> 05:36.840
+and the airport products
+
+05:36.840 --> 05:38.610
+and the ground support equipment there.
+
+05:38.610 --> 05:41.190
+First we have, you know,
+
+05:41.190 --> 05:46.080
+Aerotech builds and sells the jet bridges
+
+05:46.080 --> 05:48.481
+that you use to get on and off airplanes.
+
+05:48.481 --> 05:52.232
+Those things are very hard to control manually.
+
+05:52.232 --> 05:56.329
+You know, they're big, they're kind of clumsy.
+
+05:56.329 --> 05:58.110
+You use a joystick,
+
+05:58.110 --> 05:59.790
+you have the three degrees of freedom,
+
+05:59.790 --> 06:02.220
+left, right, up, down, forward, back,
+
+06:02.220 --> 06:03.930
+plus it sort of pivots.
+
+06:03.930 --> 06:06.480
+And there's a, you need to accommodate a multitude
+
+06:06.480 --> 06:08.340
+of different types of aircraft.
+
+06:08.340 --> 06:11.160
+It's the perfect opportunity to automate.
+
+06:11.160 --> 06:13.290
+I'm sure you've all experienced
+
+06:13.290 --> 06:14.790
+being late coming to the gate
+
+06:14.790 --> 06:16.590
+and then having to wait an extra 20 minutes
+
+06:16.590 --> 06:18.240
+for the gate operator to get there
+
+06:18.240 --> 06:20.070
+and drive the thing to the plane.
+
+06:20.070 --> 06:23.130
+So I've always wanted to automate these things.
+
+06:23.130 --> 06:24.060
+Now we're doing it.
+
+06:24.060 --> 06:27.120
+An it autonomously, you know,
+
+06:27.120 --> 06:30.250
+it recognizes the shape of the door,
+
+06:30.250 --> 06:31.860
+the sides of the fuselage,
+
+06:31.860 --> 06:35.138
+and autonomously approaches to within about an inch or two
+
+06:35.138 --> 06:36.360
+of the aircraft,
+
+06:36.360 --> 06:37.530
+and it allows a human operator
+
+06:37.530 --> 06:39.030
+to get it the rest of the way.
+
+06:40.110 --> 06:41.918
+On top of that, the Aerotech,
+
+06:41.918 --> 06:46.440
+we're looking at automating fully electric cargo
+
+06:46.440 --> 06:48.900
+and baggage handling equipment,
+
+06:48.900 --> 06:51.990
+where, you know, the airports are extremely well defined.
+
+06:51.990 --> 06:53.640
+They've got open skies.
+
+06:53.640 --> 06:57.030
+And although they are very, very busy places,
+
+06:57.030 --> 06:59.083
+because of the, you know,
+
+06:59.083 --> 07:00.510
+the nature of fairly low-speed operations,
+
+07:00.510 --> 07:02.220
+and it's very well known,
+
+07:02.220 --> 07:04.393
+with coordination software,
+
+07:04.393 --> 07:07.953
+it seems to be ripe launch point for autonomy.
+
+07:08.790 --> 07:11.992
+And then some sort of less mobile applications
+
+07:11.992 --> 07:15.480
+as we're using AI on refuse vehicles
+
+07:15.480 --> 07:20.480
+to, you know, camera system be able to understand
+
+07:20.859 --> 07:24.300
+the difference between a trash can and a refuse can
+
+07:24.300 --> 07:27.690
+and locate those things for curbside collection.
+
+07:27.690 --> 07:31.650
+And then the arm that comes off the side of the vehicle
+
+07:31.650 --> 07:36.650
+can automatically grab that can and empty it into the back.
+
+07:37.050 --> 07:41.025
+Another camera that's in the hopper of that refuse vehicle
+
+07:41.025 --> 07:46.025
+can detect contaminants in the recycling stream,
+
+07:46.470 --> 07:48.660
+which informs the operator
+
+07:48.660 --> 07:51.060
+that, you know, now you have a contaminated load
+
+07:51.060 --> 07:53.747
+and don't take it directly to the clean recycle sort plant.
+
+07:53.747 --> 07:55.460
+Instead, take it to a sorting facility
+
+07:55.460 --> 07:57.060
+so that it can be cleaned up.
+
+07:57.060 --> 08:00.063
+And that brings value to the customer.
+
+08:00.930 --> 08:03.780
+And then also there's some technology
+
+08:03.780 --> 08:07.260
+that was born in the motorsports world,
+
+08:07.260 --> 08:11.940
+where Corvette Racing had a rear-facing radar on camera,
+
+08:11.940 --> 08:14.970
+be able to de determine the trajectory of vehicles
+
+08:14.970 --> 08:17.409
+that were overcoming it in racing.
+
+08:17.409 --> 08:21.322
+Our fire emergency business unit is using that
+
+08:21.322 --> 08:25.387
+to alert roadside emergency responders
+
+08:25.387 --> 08:29.730
+in the event of an impending collision.
+
+08:29.730 --> 08:30.563
+So.
+
+08:31.770 --> 08:33.240
+<v ->One of the interesting things, I think,</v>
+
+08:33.240 --> 08:36.240
+when we first spoke, 'cause you didn't,
+
+08:36.240 --> 08:37.950
+when you're talking about your refuse collector,
+
+08:37.950 --> 08:39.123
+for instance,
+
+08:39.123 --> 08:41.610
+you didn't say that it was autonomously driven.
+
+08:41.610 --> 08:45.388
+So this idea of autonomy and automation,
+
+08:45.388 --> 08:48.210
+or how do those come together?
+
+08:48.210 --> 08:50.700
+Because there's a lot of things that happen
+
+08:50.700 --> 08:52.350
+when you're picking up garbage
+
+08:52.350 --> 08:53.940
+that don't have to do with driving,
+
+08:53.940 --> 08:57.390
+and yet automation and AI
+
+08:57.390 --> 09:00.720
+is helping make that task more efficient, safer.
+
+09:00.720 --> 09:01.650
+<v ->That's absolutely true.</v>
+
+09:01.650 --> 09:03.840
+So there's, you know, it takes a skilled operator
+
+09:03.840 --> 09:07.655
+to do that, particularly the curbside collection.
+
+09:07.655 --> 09:10.690
+Certainly, we're looking into eventually
+
+09:10.690 --> 09:14.070
+having sort of a self-driving,
+
+09:14.070 --> 09:16.200
+where the vehicle can collect,
+
+09:16.200 --> 09:18.240
+drives itself to from can to can,
+
+09:18.240 --> 09:19.445
+and those types of things.
+
+09:19.445 --> 09:20.940
+<v ->But it's not necessarily the most important thing.</v>
+
+09:20.940 --> 09:21.773
+<v ->Exactly.</v>
+
+09:21.773 --> 09:23.430
+Right now, it's make it more efficient
+
+09:23.430 --> 09:25.260
+for the operator in their day-to-day lives.
+
+09:25.260 --> 09:28.062
+They do this thousands of times a day, so.
+
+09:28.062 --> 09:29.564
+<v ->That's the dull part.</v>
+
+09:29.564 --> 09:30.640
+<v ->That's the dull part. Exactly.</v>
+
+09:30.640 --> 09:34.890
+And, you know, so an electric side-loading arm
+
+09:34.890 --> 09:36.510
+is a few seconds faster than that.
+
+09:36.510 --> 09:38.430
+And over the course of a day that,
+
+09:38.430 --> 09:40.353
+that makes up for about 45 minutes.
+
+09:41.880 --> 09:45.630
+<v ->Don, when we spoke, you mentioned that you think</v>
+
+09:45.630 --> 09:49.493
+that autonomy is at an inflection point that's driven by AI,
+
+09:49.493 --> 09:52.440
+especially in unstructured environments.
+
+09:52.440 --> 09:54.890
+This is really what we're all talking about here.
+
+09:56.340 --> 09:59.160
+Tell us about this inflection point, why now?
+
+09:59.160 --> 10:02.190
+<v ->Well, when you look at the results out there,</v>
+
+10:02.190 --> 10:04.830
+I've been in the self-driving industry for over 15 years.
+
+10:04.830 --> 10:08.370
+It's been a very long, slow, arduous process.
+
+10:08.370 --> 10:10.890
+I'm sure most of you are aware of the history
+
+10:10.890 --> 10:11.970
+and all the promises.
+
+10:11.970 --> 10:14.010
+And, you know, it's here, it's gonna be next year,
+
+10:14.010 --> 10:15.450
+it's gonna be next year, it's gonna be next year.
+
+10:15.450 --> 10:18.840
+And it feels like it really never came, until now.
+
+10:18.840 --> 10:20.940
+And it's finally, it's finally here.
+
+10:20.940 --> 10:24.960
+There's many examples of self-driving vehicles
+
+10:24.960 --> 10:26.190
+that are out there in the wild.
+
+10:26.190 --> 10:27.690
+I think Waymo is the most prominent.
+
+10:27.690 --> 10:29.370
+Most of you are probably familiar with that.
+
+10:29.370 --> 10:32.400
+Hopefully, many of you have actually had an opportunity
+
+10:32.400 --> 10:33.600
+to ride in a Waymo.
+
+10:33.600 --> 10:35.940
+Even though it's not my company, I'm a strong advocate
+
+10:35.940 --> 10:38.010
+for the great things that they're doing for the industry.
+
+10:38.010 --> 10:39.780
+It truly is an amazing experience,
+
+10:39.780 --> 10:41.580
+and everyone should go experience it
+
+10:41.580 --> 10:45.000
+because I truly believe it is a life-changing experience.
+
+10:45.000 --> 10:47.610
+And once you have that, you really see the path.
+
+10:47.610 --> 10:48.870
+But that's just one example.
+
+10:48.870 --> 10:50.494
+And as Ed mentioned in the beginning,
+
+10:50.494 --> 10:52.835
+we're not necessarily here to focus on Robotaxi.
+
+10:52.835 --> 10:55.350
+There's so many other use cases,
+
+10:55.350 --> 10:57.150
+particularly in the commercial space,
+
+10:57.150 --> 10:59.820
+but also in the military space, in refuse, in vocational,
+
+10:59.820 --> 11:03.420
+there's all of these opportunities to automate mobility.
+
+11:03.420 --> 11:05.100
+And the interesting thing for me
+
+11:05.100 --> 11:06.634
+having seen the trajectory of technology
+
+11:06.634 --> 11:08.580
+over the last 15 years
+
+11:08.580 --> 11:10.980
+is that in the last two to three years,
+
+11:10.980 --> 11:13.890
+we've seen an explosion in capability,
+
+11:13.890 --> 11:16.837
+particularly generalizable AI.
+
+11:16.837 --> 11:21.600
+And rather than really specific niche use cases,
+
+11:21.600 --> 11:24.240
+we've seen the technology kind of proliferate
+
+11:24.240 --> 11:25.680
+into general use cases,
+
+11:25.680 --> 11:28.470
+which has allowed us to take it into off-road
+
+11:28.470 --> 11:31.170
+and unstructured environments, like Ed mentioned.
+
+11:31.170 --> 11:32.640
+To give you an example of that,
+
+11:32.640 --> 11:34.770
+we have, Kodiak has driverless vehicles
+
+11:34.770 --> 11:36.390
+that are out operating today.
+
+11:36.390 --> 11:38.370
+These are Class 8 semi trucks,
+
+11:38.370 --> 11:40.080
+and they're operating out in a place
+
+11:40.080 --> 11:42.529
+called the Permian Basin in west Texas.
+
+11:42.529 --> 11:45.690
+This is the oil and gas fields of Texas.
+
+11:45.690 --> 11:48.240
+If you've ever been there, it's incredibly remote,
+
+11:48.240 --> 11:50.850
+there's not much around, but there are road networks.
+
+11:50.850 --> 11:52.200
+And they're mostly on dirt roads.
+
+11:52.200 --> 11:54.494
+So you get a lot of unstructured environments.
+
+11:54.494 --> 11:56.010
+It's not really an area
+
+11:56.010 --> 11:57.870
+that's conducive to mapping technology.
+
+11:57.870 --> 11:59.970
+You can't really go out and map it ahead of time
+
+11:59.970 --> 12:02.103
+because the sand is shifting, the dirt is shifting,
+
+12:02.103 --> 12:04.560
+the roads are shifting by the minute.
+
+12:04.560 --> 12:06.120
+So everything's always changing.
+
+12:06.120 --> 12:09.211
+And it requires a very generalizable AI system
+
+12:09.211 --> 12:12.150
+to be able to understand the world,
+
+12:12.150 --> 12:13.860
+make sense of the road boundaries,
+
+12:13.860 --> 12:15.570
+make sense of the drivable corridors,
+
+12:15.570 --> 12:18.600
+detect other dynamic vehicles in the vicinity.
+
+12:18.600 --> 12:21.240
+So it's not mining, meaning it's not an enclosed area.
+
+12:21.240 --> 12:23.460
+These are road networks where you have oncoming traffic
+
+12:23.460 --> 12:27.062
+and pedestrians and, you know, crossing ways
+
+12:27.062 --> 12:30.483
+and other kind of complex maneuvers.
+
+12:30.483 --> 12:33.228
+But with the advent of VLMs
+
+12:33.228 --> 12:36.090
+and all of the transformer AI technology we've had,
+
+12:36.090 --> 12:36.923
+we've been able,
+
+12:36.923 --> 12:40.320
+the industry has been able to really push the limits
+
+12:40.320 --> 12:42.750
+of what we previously thought was possible.
+
+12:42.750 --> 12:45.840
+And now you're finally starting to see these deployments.
+
+12:45.840 --> 12:48.210
+And so I think it's only going to accelerate.
+
+12:48.210 --> 12:50.460
+That's why I talk about 2025
+
+12:50.460 --> 12:53.010
+really being the inflection point of autonomy.
+
+12:53.010 --> 12:55.710
+It's no longer about, "Don't worry, trust us, it's coming."
+
+12:55.710 --> 12:57.780
+Although some companies continue to, you know,
+
+12:57.780 --> 13:01.380
+say that year after year, but there are concrete examples
+
+13:01.380 --> 13:04.050
+of this technology out there,
+
+13:04.050 --> 13:06.900
+providing useful value to companies today.
+
+13:06.900 --> 13:08.378
+And 2025, 2026,
+
+13:08.378 --> 13:11.190
+you're gonna see a massive amount of scaling.
+
+13:11.190 --> 13:13.740
+And now it's really about the operational efficiency
+
+13:13.740 --> 13:18.210
+and other less R&amp;D, less technology-driven,
+
+13:18.210 --> 13:21.290
+or less technology-related challenges
+
+13:21.290 --> 13:23.160
+that still face the industry.
+
+13:23.160 --> 13:26.070
+But I think it's a very exciting time
+
+13:26.070 --> 13:28.923
+to be in self-driving and to be in automation in general.
+
+13:30.150 --> 13:33.630
+<v ->You know, every industry has its characteristics,</v>
+
+13:33.630 --> 13:35.070
+its personality.
+
+13:35.070 --> 13:37.950
+And let's take trucking, truck for instance.
+
+13:37.950 --> 13:41.700
+I was fortunate to get to see your truck a few days ago.
+
+13:41.700 --> 13:43.110
+And the trucking industry
+
+13:43.110 --> 13:45.960
+could probably be described as conservative.
+
+13:45.960 --> 13:47.610
+They're not gonna be at the forefront.
+
+13:47.610 --> 13:48.990
+<v ->Trucks are conservative.</v>
+
+13:48.990 --> 13:53.990
+<v ->So when you're designing an autonomous,</v>
+
+13:54.240 --> 13:56.310
+let's say I want to tackle
+
+13:56.310 --> 13:58.110
+this autonomous trucking application.
+
+13:58.110 --> 14:00.480
+Certainly, there's the AI, there's the sensors,
+
+14:00.480 --> 14:02.220
+there's the planning, the perception,
+
+14:02.220 --> 14:04.320
+but then there's also the mechanical aspects
+
+14:04.320 --> 14:07.800
+and the ability to develop trust with your customer.
+
+14:07.800 --> 14:08.633
+<v ->Yes.</v>
+
+14:08.633 --> 14:10.800
+<v ->That's what impressed me the most about your truck</v>
+
+14:10.800 --> 14:12.810
+is you can take, if I'm a fleet owner,
+
+14:12.810 --> 14:15.450
+you can come in with the right partners
+
+14:15.450 --> 14:18.030
+and actually make that truck autonomous.
+
+14:18.030 --> 14:19.395
+<v ->Yeah, that's right.</v>
+
+14:19.395 --> 14:22.140
+So we've developed a platform-agnostic solution.
+
+14:22.140 --> 14:24.810
+It's not tied to any one specific make or model,
+
+14:24.810 --> 14:27.510
+which is really important in the commercial trucking space
+
+14:27.510 --> 14:30.360
+because most companies use many different makes and models
+
+14:30.360 --> 14:31.193
+of their vehicles.
+
+14:31.193 --> 14:33.810
+So we wanna make sure we're not tied to a specific one.
+
+14:33.810 --> 14:38.370
+We wanna create hardware and sensors that are universal
+
+14:38.370 --> 14:41.190
+so they can be put onto any vehicle that comes around.
+
+14:41.190 --> 14:42.450
+And we wanna make the maintenance
+
+14:42.450 --> 14:44.970
+and installation process dumb and easy, right?
+
+14:44.970 --> 14:47.610
+They don't want to have to deal with anything sophisticated.
+
+14:47.610 --> 14:49.260
+They just want the technology to work.
+
+14:49.260 --> 14:51.990
+And it all comes down to exactly as you said, Ed, trust.
+
+14:51.990 --> 14:54.510
+And it's taken a lot of time to build that trust.
+
+14:54.510 --> 14:57.223
+We've been working at this for seven years at Kodiak
+
+14:57.223 --> 15:00.780
+and many more years be before Kodiak.
+
+15:00.780 --> 15:03.840
+And we've, I feel like we finally cracked the code, right?
+
+15:03.840 --> 15:05.400
+When you talk to trucking companies,
+
+15:05.400 --> 15:07.140
+they believe this technology is real.
+
+15:07.140 --> 15:08.733
+They believe that...
+
+15:08.733 --> 15:10.890
+They see the benefits to their businesses
+
+15:10.890 --> 15:12.582
+and they're really starting to trust
+
+15:12.582 --> 15:15.060
+that this technology is gonna be transformative.
+
+15:15.060 --> 15:19.020
+But it was a long road, no pun intended, to get here,
+
+15:19.020 --> 15:20.253
+but we're finally there.
+
+15:21.930 --> 15:24.390
+<v ->Carolina, Volvo Construction Equipment,</v>
+
+15:24.390 --> 15:25.800
+and I'm gonna read from this,
+
+15:25.800 --> 15:29.620
+wide range of machinery, excavators, wheel loaders,
+
+15:29.620 --> 15:32.640
+mining haulers, compactors,
+
+15:32.640 --> 15:37.530
+pipe layers that operate in all over the world.
+
+15:37.530 --> 15:40.710
+And certainly in Asia, the rules are probably different,
+
+15:40.710 --> 15:42.450
+the regulations are different than they are in Europe
+
+15:42.450 --> 15:43.283
+or the United States,
+
+15:43.283 --> 15:45.676
+but maybe in the northeast corner Colorado,
+
+15:45.676 --> 15:48.990
+there are different rules there is in the southwest corner,
+
+15:48.990 --> 15:50.190
+who knows what?
+
+15:50.190 --> 15:55.190
+How does AI help you in not just the operation
+
+15:56.760 --> 15:59.700
+of these kinds of machines, but the engineering,
+
+15:59.700 --> 16:02.387
+the operation, and then maintaining them and improving them?
+
+16:02.387 --> 16:06.660
+'Cause AI applies all across these diverse
+
+16:06.660 --> 16:09.270
+and challenging applications I would imagine.
+
+16:09.270 --> 16:12.612
+<v ->We do have a very big palette of operations</v>
+
+16:12.612 --> 16:14.670
+in Volvo Construction Equipment.
+
+16:14.670 --> 16:19.670
+And it's to the point we do have a very different customers.
+
+16:20.250 --> 16:21.720
+They work in different segments,
+
+16:21.720 --> 16:24.450
+their businesses are extremely complex,
+
+16:24.450 --> 16:26.520
+and they're very, very different.
+
+16:26.520 --> 16:30.000
+If we think about, it's extremely different
+
+16:30.000 --> 16:35.000
+to extract materials on a quarry, to construct a road,
+
+16:36.180 --> 16:37.680
+to build a playground.
+
+16:37.680 --> 16:40.560
+The landscapes, the challenges,
+
+16:40.560 --> 16:43.710
+the purpose of our customers are extremely different.
+
+16:43.710 --> 16:45.247
+And on top of that,
+
+16:45.247 --> 16:48.150
+we need to understand that these environments
+
+16:48.150 --> 16:49.650
+are extremely dynamic.
+
+16:49.650 --> 16:50.880
+They change.
+
+16:50.880 --> 16:54.225
+And even though the site managers
+
+16:54.225 --> 16:58.680
+plan them as good as they can, things move along the way.
+
+16:58.680 --> 17:00.780
+It's always changing.
+
+17:00.780 --> 17:02.190
+And on top of that,
+
+17:02.190 --> 17:06.843
+before we com in into regulations and how AI help us,
+
+17:07.770 --> 17:12.750
+the environment needs our products to be robust.
+
+17:12.750 --> 17:15.570
+And the durability is actually important for us
+
+17:15.570 --> 17:18.633
+because we have, we are working in very rough conditions.
+
+17:19.680 --> 17:23.760
+Good for us, we have AI supporting us already.
+
+17:23.760 --> 17:25.680
+We do have, for instance, connected map.
+
+17:25.680 --> 17:29.513
+We have 170,000 connected machines.
+
+17:29.513 --> 17:33.150
+And there, we extract the data for the machines.
+
+17:33.150 --> 17:34.800
+We're learning how they work,
+
+17:34.800 --> 17:37.110
+we are learning how they're operating.
+
+17:37.110 --> 17:40.860
+And by that, we are supporting our customers
+
+17:40.860 --> 17:43.680
+to take wiser decisions when it comes to productivity.
+
+17:43.680 --> 17:47.700
+And it's also supporting us, to your point and question,
+
+17:47.700 --> 17:49.386
+to get a better understanding of our products,
+
+17:49.386 --> 17:50.670
+to keep learning.
+
+17:50.670 --> 17:53.610
+We are a company with a very long history
+
+17:53.610 --> 17:55.050
+in production machinery.
+
+17:55.050 --> 17:55.883
+But nevertheless,
+
+17:55.883 --> 18:00.180
+we want our products to be the best our customer can have.
+
+18:00.180 --> 18:03.630
+And so that's, for instance, AI is supporting us very much
+
+18:03.630 --> 18:05.830
+with a predictive maintenance as an example.
+
+18:07.260 --> 18:10.620
+Then, when it comes to autonomy
+
+18:10.620 --> 18:13.233
+and how the machines will look like,
+
+18:14.220 --> 18:17.940
+we do have different challenges than the, let's say,
+
+18:17.940 --> 18:19.740
+car industry, for instance,
+
+18:19.740 --> 18:20.670
+because of course,
+
+18:20.670 --> 18:24.270
+mobility is something that is very interesting for us.
+
+18:24.270 --> 18:28.560
+And we could understand that in some of our systems
+
+18:28.560 --> 18:33.560
+where we have confined areas with the safety standards,
+
+18:33.693 --> 18:38.040
+it can be easier for us to move into autonomous solutions.
+
+18:38.040 --> 18:40.710
+But nevertheless, we do have also segments
+
+18:40.710 --> 18:43.230
+where there's other equipment,
+
+18:43.230 --> 18:46.470
+there is people moving around, and it's very tough.
+
+18:46.470 --> 18:49.962
+So it takes a bit more time for us to get there.
+
+18:49.962 --> 18:52.380
+Just to give some examples, if we think about,
+
+18:52.380 --> 18:54.990
+you said before, we have wheel loaders, we have excavators,
+
+18:54.990 --> 18:56.610
+we have numbers.
+
+18:56.610 --> 19:00.600
+Place yourself, picturing your mind a large excavator.
+
+19:00.600 --> 19:01.440
+Most of the times,
+
+19:01.440 --> 19:03.720
+I mean, they are pretty much at the same spot.
+
+19:03.720 --> 19:05.341
+They don't really move.
+
+19:05.341 --> 19:07.740
+So in this equipment,
+
+19:07.740 --> 19:10.530
+the moving is perhaps not the most of the difficult things
+
+19:10.530 --> 19:13.140
+for us to do, automotivewise,
+
+19:13.140 --> 19:14.790
+but we need to understand
+
+19:14.790 --> 19:16.740
+that our products are doing a process.
+
+19:16.740 --> 19:18.690
+They're used to do something.
+
+19:18.690 --> 19:22.468
+So is the mobility of the boom and the arm
+
+19:22.468 --> 19:24.660
+that is perhaps more interesting.
+
+19:24.660 --> 19:26.430
+Our machines, they do several different things.
+
+19:26.430 --> 19:31.430
+An excavator can drill, can trench.
+
+19:31.770 --> 19:33.410
+So we really need to get an understanding
+
+19:33.410 --> 19:35.430
+of how the process is working
+
+19:35.430 --> 19:37.290
+and also how the attachment will go.
+
+19:37.290 --> 19:40.560
+How does it swing? How does it tilt?
+
+19:40.560 --> 19:43.710
+So for us, to do the automation in these machines
+
+19:43.710 --> 19:47.850
+is all about knowing our customers and knowing our products
+
+19:47.850 --> 19:50.850
+and understanding how they work in different environments.
+
+19:50.850 --> 19:52.760
+Coming into, when we spoke last time,
+
+19:52.760 --> 19:55.257
+if you remember, you were extremely interested
+
+19:55.257 --> 19:57.480
+in the LX03,
+
+19:57.480 --> 20:00.570
+which is the autonomous electric wheel loader we have.
+
+20:00.570 --> 20:02.250
+Volvo Group had a keynote yesterday,
+
+20:02.250 --> 20:05.670
+and our CTO, Lars Stenqvist, talk about it a little bit,
+
+20:05.670 --> 20:09.486
+and it's one of my favorite projects, if I have to say,
+
+20:09.486 --> 20:13.080
+'cause it's my guys in my department working with that one.
+
+20:13.080 --> 20:18.080
+And this is bringing the technologies that we see right now
+
+20:19.140 --> 20:22.080
+and innovation to the next level.
+
+20:22.080 --> 20:24.187
+What we did with this was to really say,
+
+20:24.187 --> 20:26.160
+"Okay, we know how the wheel loader works
+
+20:26.160 --> 20:27.660
+because we know our customers.
+
+20:28.830 --> 20:31.200
+However, how is it gonna be?
+
+20:31.200 --> 20:33.630
+How is it going to work in the future?"
+
+20:33.630 --> 20:37.170
+And not just on the autonomy, on the software side.
+
+20:37.170 --> 20:39.300
+I mean, do we really need a cab?
+
+20:39.300 --> 20:40.740
+We need to think how our products
+
+20:40.740 --> 20:42.510
+are gonna be in a different way.
+
+20:42.510 --> 20:46.423
+So luckily for us, we do have a very, very good relationship
+
+20:46.423 --> 20:48.870
+and partnership with LEGO Technic.
+
+20:48.870 --> 20:51.060
+So we approached those clever guys in Denmark
+
+20:51.060 --> 20:52.470
+and we put a question.
+
+20:52.470 --> 20:55.054
+And we really jumped directly together.
+
+20:55.054 --> 20:56.760
+We did the sketches.
+
+20:56.760 --> 21:00.283
+And on top of that, we did have,
+
+21:00.283 --> 21:03.390
+when we do partnerships where we have a reference group
+
+21:03.390 --> 21:06.120
+just to see that we're going in the good direction.
+
+21:06.120 --> 21:07.260
+And this time,
+
+21:07.260 --> 21:08.970
+at least for the very first time for us
+
+21:08.970 --> 21:10.410
+in Volvo Construction Equipment,
+
+21:10.410 --> 21:11.820
+we had children with us.
+
+21:11.820 --> 21:13.680
+And that was super great.
+
+21:13.680 --> 21:16.170
+I mean it's fantastic to work with kids
+
+21:16.170 --> 21:17.970
+because the sky's the limits.
+
+21:17.970 --> 21:21.897
+They have no boundaries when we think.
+
+21:21.897 --> 21:25.378
+And that's where the concept of the LX03 came out.
+
+21:25.378 --> 21:28.440
+This machine is of course following Volvo Group's,
+
+21:28.440 --> 21:30.150
+and by that Volvo Construction Equipment's
+
+21:30.150 --> 21:31.440
+sustainable commitments,
+
+21:31.440 --> 21:35.670
+we want all our products to be electrified
+
+21:35.670 --> 21:37.200
+and sustainable for 2040.
+
+21:37.200 --> 21:38.310
+That's our target.
+
+21:38.310 --> 21:41.700
+So this particular machine, it's a five ton,
+
+21:41.700 --> 21:44.400
+and it's fully electric, it's autonomous.
+
+21:44.400 --> 21:46.140
+And what we are doing with it
+
+21:46.140 --> 21:50.250
+is that we based component wise on the L25 Electric
+
+21:50.250 --> 21:51.083
+that we have right now.
+
+21:51.083 --> 21:53.586
+So just to make sure that, okay,
+
+21:53.586 --> 21:56.220
+how is going to be autonomous and electric at the same time?
+
+21:56.220 --> 21:57.960
+So this is a prototype.
+
+21:57.960 --> 21:58.800
+Of course, it's something
+
+21:58.800 --> 22:00.630
+that we are not commercializing right now.
+
+22:00.630 --> 22:02.190
+That is why the machine is green.
+
+22:02.190 --> 22:04.110
+But it's supporting us to understand,
+
+22:04.110 --> 22:08.640
+okay, how is the machine going to to be,
+
+22:08.640 --> 22:11.400
+how does it interact with other prototypes
+
+22:11.400 --> 22:13.140
+and other concepts that we have?
+
+22:13.140 --> 22:15.660
+How is the system going to work?
+
+22:15.660 --> 22:18.300
+Because in the end, our machines,
+
+22:18.300 --> 22:20.280
+and I guess everybody here agrees with me,
+
+22:20.280 --> 22:21.990
+they do not work on their own.
+
+22:21.990 --> 22:23.880
+I don't have an excavator and I do my thing.
+
+22:23.880 --> 22:25.710
+I need a damper, I need a truck.
+
+22:25.710 --> 22:27.600
+So it's all about the process.
+
+22:27.600 --> 22:31.050
+So it's really the moment right now
+
+22:31.050 --> 22:33.720
+to understand how this collaborative environment
+
+22:33.720 --> 22:34.553
+is going to be,
+
+22:34.553 --> 22:36.240
+how the machine-machine interaction,
+
+22:36.240 --> 22:38.880
+how the machine-human interaction is going to be.
+
+22:38.880 --> 22:43.800
+And we want these machines to be intelligent autonomous.
+
+22:43.800 --> 22:47.670
+This is going to help our customer to have a safer,
+
+22:47.670 --> 22:50.550
+more productive, and of course, sustainable environment.
+
+22:50.550 --> 22:55.550
+But it is right now that's coming to the moment
+
+22:56.370 --> 22:59.280
+that we see that right now is when AI is really coming.
+
+22:59.280 --> 23:01.590
+We see that we are getting the,
+
+23:01.590 --> 23:03.600
+I mean with the knowledge has been there for many years,
+
+23:03.600 --> 23:05.250
+but we see that it's really coming right now
+
+23:05.250 --> 23:06.300
+in construction.
+
+23:06.300 --> 23:07.925
+At Volvo Group,
+
+23:07.925 --> 23:11.700
+we are really wanting to have trustworthy systems.
+
+23:11.700 --> 23:12.900
+It's very important for us
+
+23:12.900 --> 23:15.270
+that we develop our AR systems in the right way.
+
+23:15.270 --> 23:18.540
+That they're fair, that say we are being secure,
+
+23:18.540 --> 23:19.710
+that we are transparent,
+
+23:19.710 --> 23:21.960
+that we can actually have a traceability
+
+23:21.960 --> 23:23.550
+to make sure that the decisions
+
+23:23.550 --> 23:25.830
+that our machines are learning right now,
+
+23:25.830 --> 23:27.300
+because we're in a learning phase,
+
+23:27.300 --> 23:29.910
+but in some years, when they really come out,
+
+23:29.910 --> 23:31.200
+that we really make sure
+
+23:31.200 --> 23:34.362
+that we're doing things right from the beginning.
+
+23:34.362 --> 23:37.010
+<v ->I wanna talk to you a little bit about that learning.</v>
+
+23:37.010 --> 23:39.663
+So I would imagine most of the people in this room
+
+23:39.663 --> 23:42.060
+know how to drive or have a driver's license.
+
+23:42.060 --> 23:43.440
+And so they say, "Oh, okay,
+
+23:43.440 --> 23:48.440
+so they understand what Waymo is, you know,
+
+23:48.570 --> 23:49.710
+is trying to do."
+
+23:49.710 --> 23:53.220
+So I have tried to run a backhoe before,
+
+23:53.220 --> 23:56.010
+and the guy that was running the construction company
+
+23:56.010 --> 23:59.151
+that was watching me pulled me out of the seat really fast.
+
+23:59.151 --> 24:00.361
+And it's a little tricky.
+
+24:00.361 --> 24:02.970
+It's not just knowing how to articulate it,
+
+24:02.970 --> 24:05.940
+but you have to look for rocks and this and that.
+
+24:05.940 --> 24:08.520
+So how do you...
+
+24:08.520 --> 24:10.410
+And, you know, it could be a big rock, a little rock,
+
+24:10.410 --> 24:12.540
+who knows what, or a pipe that you don't wanna burst,
+
+24:12.540 --> 24:15.210
+whatever it might be, how do you go about.
+
+24:15.210 --> 24:17.040
+It seems to me that that's a tougher job
+
+24:17.040 --> 24:18.960
+than avoiding the bouncing ball
+
+24:18.960 --> 24:20.492
+in front of an autonomous car
+
+24:20.492 --> 24:22.110
+that's coming outta the playground
+
+24:22.110 --> 24:23.220
+and putting the brakes on.
+
+24:23.220 --> 24:26.280
+How do you anticipate all these edge cases
+
+24:26.280 --> 24:27.360
+and deal with them?
+
+24:27.360 --> 24:30.090
+<v ->It's all about the learnings.</v>
+
+24:30.090 --> 24:32.790
+I mean, luckily, we have been a corporate,
+
+24:32.790 --> 24:36.750
+I mean, we have been cooperating with our customers
+
+24:36.750 --> 24:37.890
+for many, many years,
+
+24:37.890 --> 24:40.950
+and they really know how their ecosystems work.
+
+24:40.950 --> 24:44.340
+Even though if we talk about a quarry
+
+24:44.340 --> 24:46.140
+and we know that there's no two quarries
+
+24:46.140 --> 24:49.170
+from the same customer that look like the same,
+
+24:49.170 --> 24:50.580
+they know their business.
+
+24:50.580 --> 24:53.610
+So for us, it's really, collaboration is the key,
+
+24:53.610 --> 24:54.540
+the partnership.
+
+24:54.540 --> 24:58.110
+We're doing this co-creation together with them
+
+24:58.110 --> 25:00.990
+because by getting an understanding
+
+25:00.990 --> 25:03.540
+of putting these machines in a safety environment
+
+25:03.540 --> 25:06.420
+in the field to really try,
+
+25:06.420 --> 25:08.270
+that's when really the magic happens.
+
+25:09.600 --> 25:12.210
+<v ->Benjamin, you had a long career at Apple</v>
+
+25:12.210 --> 25:13.950
+in the special projects group,
+
+25:13.950 --> 25:18.450
+then you went on to work in satellites.
+
+25:18.450 --> 25:21.240
+So the question for you is,
+
+25:21.240 --> 25:25.140
+how does what you learned in those applications,
+
+25:25.140 --> 25:28.375
+'cause they don't seem to be like a wheel loader
+
+25:28.375 --> 25:31.740
+or an off-road truck or garbage collector.
+
+25:31.740 --> 25:33.630
+How did what you learned there
+
+25:33.630 --> 25:38.070
+provide a foundation that can be applied
+
+25:38.070 --> 25:41.635
+to these commercial off-road construction
+
+25:41.635 --> 25:44.400
+and type applications?
+
+25:44.400 --> 25:45.690
+<v ->Well, it's a good question.</v>
+
+25:45.690 --> 25:47.400
+I would start with the thing
+
+25:47.400 --> 25:50.100
+that actually every one of our panelists said here today,
+
+25:50.100 --> 25:53.220
+which is they really deeply understand their customer.
+
+25:53.220 --> 25:54.450
+And at the end of the day,
+
+25:54.450 --> 25:57.960
+all of the technology that they're employing
+
+25:57.960 --> 25:59.610
+is really to a single goal,
+
+25:59.610 --> 26:02.970
+and that is to deliver a great experience
+
+26:02.970 --> 26:04.320
+for their customer.
+
+26:04.320 --> 26:06.977
+And their customers have different goals,
+
+26:06.977 --> 26:09.210
+but they're using the technologies
+
+26:09.210 --> 26:12.390
+all to deliver a very high-class solution
+
+26:12.390 --> 26:13.290
+to their customers.
+
+26:13.290 --> 26:16.470
+And that's something I think that is really universal
+
+26:16.470 --> 26:18.780
+in great technology companies.
+
+26:18.780 --> 26:20.460
+So I would start there.
+
+26:20.460 --> 26:22.350
+The other thing that I would talk about
+
+26:22.350 --> 26:24.060
+is there's a big change
+
+26:24.060 --> 26:26.520
+that we've all been kind of describing,
+
+26:26.520 --> 26:31.230
+which is old school AI was very rule-based,
+
+26:31.230 --> 26:34.050
+where you would do a lot of data collection
+
+26:34.050 --> 26:37.530
+and you would learn in your particular application,
+
+26:37.530 --> 26:39.870
+if this happens, then do that,
+
+26:39.870 --> 26:42.090
+which we call rules-based.
+
+26:42.090 --> 26:45.360
+And the problem with that is, is that the automation,
+
+26:45.360 --> 26:49.710
+be it automated networking, be it an automated loader,
+
+26:49.710 --> 26:51.060
+be it an autonomous car
+
+26:51.060 --> 26:53.490
+or an autonomous rocket going to space
+
+26:53.490 --> 26:56.220
+or a satellite moving around in space,
+
+26:56.220 --> 27:00.090
+you don't deal with new situations very well that way
+
+27:00.090 --> 27:01.440
+because you look through your list
+
+27:01.440 --> 27:03.510
+of everything you learned from the past.
+
+27:03.510 --> 27:06.090
+And if you don't find it on the list, what do you do?
+
+27:06.090 --> 27:09.330
+You wait for more data and then you try again.
+
+27:09.330 --> 27:11.700
+The new school of AI
+
+27:11.700 --> 27:16.110
+is all about an end-to-end machine learned approach,
+
+27:16.110 --> 27:17.430
+which is actually the way humans work.
+
+27:17.430 --> 27:20.340
+We learn and we get this generalized intelligence
+
+27:20.340 --> 27:22.170
+that the panelists have been talking about.
+
+27:22.170 --> 27:25.380
+And because of that end-to-end learned approach,
+
+27:25.380 --> 27:30.380
+you're able to handle new situations really, really well.
+
+27:31.080 --> 27:34.830
+And that difference is why the world of AI today
+
+27:34.830 --> 27:38.253
+is fundamentally different than a year or two years ago.
+
+27:40.050 --> 27:41.970
+<v ->When we spoke earlier this week,</v>
+
+27:41.970 --> 27:46.500
+you talked about the concept of big AI and small AI
+
+27:46.500 --> 27:48.570
+and how that really applies to these types.
+
+27:48.570 --> 27:52.050
+Maybe you could explain that, what you really mean by that.
+
+27:52.050 --> 27:52.920
+<v ->Sure.</v>
+
+27:52.920 --> 27:54.900
+And it actually, again, it ties very much
+
+27:54.900 --> 27:56.640
+to all of our solutions.
+
+27:56.640 --> 27:59.400
+When you hear about large language models
+
+27:59.400 --> 28:01.735
+being used to create a beautiful movie or a new graphic
+
+28:01.735 --> 28:05.584
+or solve some very difficult mathematical problem,
+
+28:05.584 --> 28:08.340
+that's all running on a data center.
+
+28:08.340 --> 28:09.840
+And in that data center,
+
+28:09.840 --> 28:14.430
+there's many, many thousands of pieces of compute,
+
+28:14.430 --> 28:17.580
+and that's tied to usually to a power station.
+
+28:17.580 --> 28:20.520
+And so you're consuming a tremendous amount of power.
+
+28:20.520 --> 28:22.590
+But when you're out in the middle of the nowhere,
+
+28:22.590 --> 28:25.800
+in the middle of nowhere or you're on a smart device
+
+28:25.800 --> 28:27.900
+or you're on a vehicle of some sort,
+
+28:27.900 --> 28:30.090
+you're limited by the amount of energy
+
+28:30.090 --> 28:32.575
+that can be provided by the battery
+
+28:32.575 --> 28:35.130
+or by the combustion engine
+
+28:35.130 --> 28:38.610
+or by solar, if you're in space, that you can get.
+
+28:38.610 --> 28:43.610
+And so the magic of actually bringing AI to market
+
+28:43.650 --> 28:46.470
+is the ability not only to run the big stuff
+
+28:46.470 --> 28:49.290
+in the public cloud on a data center,
+
+28:49.290 --> 28:50.310
+but then to turn around
+
+28:50.310 --> 28:54.690
+and be able to write super, super optimized algorithms
+
+28:54.690 --> 28:58.260
+that can run on a cheap little chip inside,
+
+28:58.260 --> 29:01.950
+maybe even inside the sensor like a radar or a camera
+
+29:01.950 --> 29:04.380
+on an excavator or on a car
+
+29:04.380 --> 29:07.680
+and have it provide the value that it needs to provide.
+
+29:07.680 --> 29:10.140
+So you have to be able to go from really, really small
+
+29:10.140 --> 29:14.100
+to really, really big, and that requires optimization.
+
+29:14.100 --> 29:16.020
+And so all of the panelists,
+
+29:16.020 --> 29:17.700
+well, one of the things we deal with
+
+29:17.700 --> 29:19.710
+and have to build the capability for,
+
+29:19.710 --> 29:21.510
+what we call an AI factory,
+
+29:21.510 --> 29:24.900
+is the ability to take what might be great academically
+
+29:24.900 --> 29:26.310
+and can run in a cloud
+
+29:26.310 --> 29:29.137
+and optimize it to really perform at low power
+
+29:29.137 --> 29:30.873
+on a small footprint.
+
+29:32.610 --> 29:36.510
+<v ->I mentioned early on that a lot of these applications</v>
+
+29:36.510 --> 29:38.640
+are dull, dirty, or dangerous.
+
+29:38.640 --> 29:41.951
+And so for a second, I wanna focus on the dirty part,
+
+29:41.951 --> 29:43.620
+and I'll tell you why.
+
+29:43.620 --> 29:45.150
+I was involved in a project,
+
+29:45.150 --> 29:48.000
+where we were trying to get rally cars
+
+29:48.000 --> 29:49.590
+using autonomous technologies,
+
+29:49.590 --> 29:51.210
+lidars, radars, cameras,
+
+29:51.210 --> 29:52.740
+whatever it might to detect spectators.
+
+29:52.740 --> 29:54.210
+And if anybody knows about rally,
+
+29:54.210 --> 29:57.480
+there is dust and dirt all over the place.
+
+29:57.480 --> 30:00.540
+In the end, we ended up focusing just on radar
+
+30:00.540 --> 30:02.400
+'cause it was the only one that would really work.
+
+30:02.400 --> 30:06.701
+So maybe could you give an example,
+
+30:06.701 --> 30:10.740
+maybe start with you, John, of how the dirt and the muck
+
+30:10.740 --> 30:12.600
+and all this that it's all over the place
+
+30:12.600 --> 30:13.433
+in these applications.
+
+30:13.433 --> 30:15.090
+How does that change fundamentally?
+
+30:15.090 --> 30:18.690
+What's at the base here, the sensors, the perception?
+
+30:18.690 --> 30:22.888
+<v ->Yeah, dust, airborne obscurations are obviously an issue,</v>
+
+30:22.888 --> 30:26.970
+and, you know, one way of dealing with them
+
+30:26.970 --> 30:29.850
+is multimodal perceptions.
+
+30:29.850 --> 30:32.460
+So, like you said, radar can see through it.
+
+30:32.460 --> 30:34.770
+Lidar sometimes can, sometimes can't.
+
+30:34.770 --> 30:36.254
+All dust is different.
+
+30:36.254 --> 30:38.673
+But again, by training models,
+
+30:38.673 --> 30:41.715
+you can do get to the point
+
+30:41.715 --> 30:44.670
+where if you can see the ground in front of you
+
+30:44.670 --> 30:47.550
+and you know that you're dealing with heavy obscures,
+
+30:47.550 --> 30:49.560
+you can limit your speed just like you do,
+
+30:49.560 --> 30:51.360
+just like you and I do in a dusty situation.
+
+30:51.360 --> 30:54.350
+We slow down until we can, you know, see the stuff.
+
+30:54.350 --> 30:55.183
+<v ->It's not just the sensor,</v>
+
+30:55.183 --> 30:57.390
+just the whole programming, how it all works together.
+
+30:57.390 --> 30:58.680
+<v ->It'd be wonderful if we had a sensor</v>
+
+30:58.680 --> 31:00.480
+that could see through clearly.
+
+31:00.480 --> 31:02.880
+<v ->But it's exactly what a human driver would do.</v>
+
+31:02.880 --> 31:05.250
+Getting, oh, all of a sudden the rain's super strong,
+
+31:05.250 --> 31:07.072
+you slow down a little bit till it goes away.
+
+31:07.072 --> 31:08.640
+That kind of thing.
+
+31:08.640 --> 31:09.903
+<v ->Yeah, exactly. Yep.</v>
+
+31:11.220 --> 31:12.480
+<v ->Any-</v>
+<v ->One way of doing it.</v>
+
+31:12.480 --> 31:13.590
+<v ->Anyone else?</v>
+
+31:13.590 --> 31:17.550
+Sure, I mean I completely agree with what was just said.
+
+31:17.550 --> 31:19.350
+The other consideration you have to think about
+
+31:19.350 --> 31:21.300
+is in the cleaning of the sensors, right?
+
+31:21.300 --> 31:22.800
+So if you're throwing muck and dirt
+
+31:22.800 --> 31:26.340
+and debris up into the vehicle that you're riding,
+
+31:26.340 --> 31:28.020
+particularly in a rally car situation,
+
+31:28.020 --> 31:29.040
+I've never driven rally car,
+
+31:29.040 --> 31:32.280
+but I'm vaguely familiar with it, then sensor cleaning
+
+31:32.280 --> 31:33.840
+becomes an important piece of that, right?
+
+31:33.840 --> 31:37.711
+Having a forced air and kind of fluid or wiping
+
+31:37.711 --> 31:40.050
+or something like that, designing those systems
+
+31:40.050 --> 31:42.090
+becomes a critical piece of your safety story.
+
+31:42.090 --> 31:43.860
+If this is a driverless vehicle
+
+31:43.860 --> 31:46.336
+that is in a safety critical environment,
+
+31:46.336 --> 31:49.110
+which most of these driverless vehicles will be,
+
+31:49.110 --> 31:52.140
+then that becomes a critical piece of your safety story.
+
+31:52.140 --> 31:54.600
+The other thing, and I think this really illustrates
+
+31:54.600 --> 31:56.880
+the importance of multimodal sensing.
+
+31:56.880 --> 31:58.800
+And there's a lot of different schools of thought out there.
+
+31:58.800 --> 32:00.300
+And depending on who you listen to,
+
+32:00.300 --> 32:01.380
+who's on stage at the moment,
+
+32:01.380 --> 32:03.000
+they might tell you that cameras are the best
+
+32:03.000 --> 32:04.980
+or that lidar is the best or whatever.
+
+32:04.980 --> 32:06.030
+But the truth of the matter
+
+32:06.030 --> 32:07.440
+is that these different modalities
+
+32:07.440 --> 32:09.390
+have different strengths and weaknesses.
+
+32:09.390 --> 32:10.980
+And in particular, as John mentioned,
+
+32:10.980 --> 32:12.900
+radar sees right through all of it.
+
+32:12.900 --> 32:15.000
+So it can be a very, very powerful sensor
+
+32:15.000 --> 32:18.240
+when you have dust or rain or dirt or snow
+
+32:18.240 --> 32:19.530
+or any of those kinds of things.
+
+32:19.530 --> 32:21.000
+And then the camera,
+
+32:21.000 --> 32:22.770
+the camera can really work with lidar
+
+32:22.770 --> 32:24.780
+even in an obscured situation
+
+32:24.780 --> 32:27.180
+to identify and classify what you're looking at.
+
+32:27.180 --> 32:29.857
+And then by classifying it, your AI algorithm can then say,
+
+32:29.857 --> 32:31.650
+"I'm gonna reject this or not."
+
+32:31.650 --> 32:34.230
+And it's really hard to do that just with lidar,
+
+32:34.230 --> 32:36.150
+and it's sometimes very difficult to do that
+
+32:36.150 --> 32:37.140
+just with camera.
+
+32:37.140 --> 32:40.080
+And I think this really gets to the argument
+
+32:40.080 --> 32:44.790
+of why so many companies developing this technology
+
+32:44.790 --> 32:46.740
+rely on and spend so much time
+
+32:46.740 --> 32:48.780
+optimizing multimodal solutions
+
+32:48.780 --> 32:50.613
+because those multimodal solutions
+
+32:50.613 --> 32:54.448
+can really help when shits the fan,
+
+32:54.448 --> 32:56.668
+figuratively and literally sometimes, but.
+
+32:56.668 --> 32:59.280
+(John laughs)
+
+32:59.280 --> 33:01.530
+<v ->I can know more than I agree with what you say.</v>
+
+33:01.530 --> 33:05.250
+I mean, what we see is that there is no perfect sensor
+
+33:05.250 --> 33:07.380
+for such a critical problem for us.
+
+33:07.380 --> 33:10.020
+So of course, I mean it has to do a lot of with exploration,
+
+33:10.020 --> 33:11.370
+with trial and error.
+
+33:11.370 --> 33:12.810
+Again, partnerships.
+
+33:12.810 --> 33:15.060
+There is many, many good companies
+
+33:15.060 --> 33:18.011
+having very good components that we are trying.
+
+33:18.011 --> 33:19.830
+By having this,
+
+33:19.830 --> 33:22.230
+right now, it's a great opportunity to have the dialogue
+
+33:22.230 --> 33:23.848
+to really put on the table the requirements
+
+33:23.848 --> 33:26.250
+and the challenges that we have
+
+33:26.250 --> 33:28.650
+with the companies developing these components
+
+33:28.650 --> 33:32.189
+because we are helping them to help us.
+
+33:32.189 --> 33:36.696
+So it's a very great way to bring up into what's the,
+
+33:36.696 --> 33:38.880
+perhaps the first solution will not be,
+
+33:38.880 --> 33:40.480
+but then later on in the future.
+
+33:42.883 --> 33:44.820
+<v ->Now that we're talking about sensors,</v>
+
+33:44.820 --> 33:47.310
+keeping 'em clean, you know, keeping that fan
+
+33:47.310 --> 33:49.556
+doing what it's supposed to be doing,
+
+33:49.556 --> 33:54.330
+are there any other different types of sensors that you use
+
+33:54.330 --> 33:55.830
+because these applications are different?
+
+33:55.830 --> 33:59.820
+Or is it the standard lidar, radar, camera thing?
+
+33:59.820 --> 34:01.590
+Is there a unique thing that you have to do
+
+34:01.590 --> 34:05.220
+with these sensors to get these diverse applications
+
+34:05.220 --> 34:07.530
+to, you know, do what they have to do
+
+34:07.530 --> 34:09.783
+that's different than what you do in a car?
+
+34:12.000 --> 34:13.902
+<v ->I can bring it from...</v>
+
+34:13.902 --> 34:15.720
+The thing that we have
+
+34:15.720 --> 34:18.480
+is that we do have different customers,
+
+34:18.480 --> 34:19.380
+as I said in the beginning.
+
+34:19.380 --> 34:21.603
+It's very different segments.
+
+34:23.088 --> 34:26.730
+And we cannot unfortunately create the perfect solution
+
+34:26.730 --> 34:29.250
+for each of the customers or the segments that we have.
+
+34:29.250 --> 34:31.620
+So at some point, we need to find the solution
+
+34:31.620 --> 34:34.500
+that is best compromised from everybody.
+
+34:34.500 --> 34:37.800
+But yes, I mean there's no essence for instance as well
+
+34:37.800 --> 34:39.480
+that we are trying to understand
+
+34:39.480 --> 34:42.090
+how much they can help us as an example.
+
+34:42.090 --> 34:45.060
+So again, there's many, many things
+
+34:45.060 --> 34:47.910
+that we can try to utilize to try to find
+
+34:47.910 --> 34:51.270
+in a more flexibility way what can be bringing the best
+
+34:51.270 --> 34:53.037
+for all the range of products that we have
+
+34:53.037 --> 34:55.570
+and all the segments that we operate and not.
+
+34:56.615 --> 34:58.001
+<v ->Just one comment to add,</v>
+
+34:58.001 --> 35:00.840
+slightly tangential to the actual question,
+
+35:00.840 --> 35:02.790
+which is that we generally think of sensors
+
+35:02.790 --> 35:04.470
+in terms of their types of performance.
+
+35:04.470 --> 35:05.850
+And you think about it in terms of performance,
+
+35:05.850 --> 35:08.370
+in your good question was asked in terms of performance.
+
+35:08.370 --> 35:10.980
+What I would tell you is that as you go into production,
+
+35:10.980 --> 35:12.480
+companies start to care a lot less
+
+35:12.480 --> 35:13.800
+about the performance of sensors
+
+35:13.800 --> 35:16.020
+and they care a lot more about the reliability of sensors.
+
+35:16.020 --> 35:18.000
+And so when we're evaluating different sensors
+
+35:18.000 --> 35:19.170
+or different modalities,
+
+35:19.170 --> 35:21.420
+the first question is not how performant is it?
+
+35:21.420 --> 35:22.530
+The first question is,
+
+35:22.530 --> 35:26.100
+if I'm in a truck and I'm bouncing around like this 24/7,
+
+35:26.100 --> 35:27.420
+like how often is it gonna break?
+
+35:27.420 --> 35:29.550
+And if it breaks every other week, then that's no good
+
+35:29.550 --> 35:31.636
+and it doesn't really matter what it offers us.
+
+35:31.636 --> 35:33.210
+But to specifically answer your question,
+
+35:33.210 --> 35:35.280
+we're also really interested in infrared cameras,
+
+35:35.280 --> 35:36.660
+which are technically still cameras,
+
+35:36.660 --> 35:39.030
+but they provide a lot of value, especially at night,
+
+35:39.030 --> 35:40.320
+if you're gonna do a lot of night driving,
+
+35:40.320 --> 35:42.840
+if you're gonna do a lot of unprotected maneuvering,
+
+35:42.840 --> 35:45.360
+where you could see a lot of wildlife, we see a lot of cows,
+
+35:45.360 --> 35:46.500
+we see a lot of cattle guards,
+
+35:46.500 --> 35:48.960
+we see a lot of deer, and other things in our driving,
+
+35:48.960 --> 35:50.970
+and infrared definitely helps distinguish
+
+35:50.970 --> 35:55.203
+what you can safely hit and what you should probably avoid.
+
+35:57.240 --> 35:59.700
+<v ->Ed, I would add one interesting kind of, I guess,</v>
+
+35:59.700 --> 36:03.498
+tangent to this, which is that in our company,
+
+36:03.498 --> 36:04.975
+we actually have to deal
+
+36:04.975 --> 36:06.870
+with the issue of a scalable architecture.
+
+36:06.870 --> 36:09.300
+On one end, we have entry models
+
+36:09.300 --> 36:11.400
+that are incredibly high volumes
+
+36:11.400 --> 36:13.530
+that do things like adaptive cruise control
+
+36:13.530 --> 36:15.300
+or autonomous emergency braking.
+
+36:15.300 --> 36:16.740
+And at the complete other end,
+
+36:16.740 --> 36:20.820
+we have, you know, autonomous driving, for example.
+
+36:20.820 --> 36:23.760
+And so that means that you need an architecture,
+
+36:23.760 --> 36:25.320
+an AI architecture
+
+36:25.320 --> 36:28.380
+that can deal with a very, very limited sensor set
+
+36:28.380 --> 36:31.650
+and then scale all the way up to a very rich sensor set
+
+36:31.650 --> 36:33.411
+without having to completely redesign
+
+36:33.411 --> 36:35.850
+and rebuild the entire architecture.
+
+36:35.850 --> 36:37.920
+And so, you know, as you move
+
+36:37.920 --> 36:40.440
+from kind of prototyping into production,
+
+36:40.440 --> 36:42.060
+one of the things you have to think about
+
+36:42.060 --> 36:45.813
+for a long-term roadmap is a scalable architecture.
+
+36:46.950 --> 36:49.050
+<v ->We've got about three minutes left.</v>
+
+36:49.050 --> 36:50.850
+And I think one of the interesting things
+
+36:50.850 --> 36:55.850
+about this panel is you have a diverse set of experience
+
+36:57.060 --> 36:58.020
+in the world of autonomy.
+
+36:58.020 --> 36:59.970
+So it gives you a different perspective.
+
+36:59.970 --> 37:00.840
+So what I want to do
+
+37:00.840 --> 37:02.760
+in the limited amount of time we have left,
+
+37:02.760 --> 37:05.970
+each of you take a little, just a few seconds here
+
+37:05.970 --> 37:09.960
+and give us your vision
+
+37:09.960 --> 37:13.470
+of what AI-driven mobility is gonna be like
+
+37:13.470 --> 37:14.784
+in the year 2035.
+
+37:14.784 --> 37:16.650
+So 10 years from now.
+
+37:16.650 --> 37:18.450
+It could be on road, off-road, whatever you want.
+
+37:18.450 --> 37:20.520
+How is mobility gonna be?
+
+37:20.520 --> 37:22.140
+What's it gonna be like 10 years from now
+
+37:22.140 --> 37:24.753
+when we come back here and we reunite this panel?
+
+37:25.920 --> 37:26.753
+<v ->So I think, you know,</v>
+
+37:26.753 --> 37:29.130
+there's, you know, with this advent of Generative AI,
+
+37:29.130 --> 37:32.670
+I think that's going to accelerate the perception
+
+37:32.670 --> 37:33.503
+and the motion planning,
+
+37:33.503 --> 37:35.190
+all this, everything autonomy, right?
+
+37:35.190 --> 37:38.130
+So, you know, we have a lot of applied machine learning
+
+37:38.130 --> 37:39.358
+and applied AI today,
+
+37:39.358 --> 37:41.550
+and I think there's a lot of opportunity
+
+37:41.550 --> 37:43.830
+for GenAI to improve all that.
+
+37:43.830 --> 37:46.590
+So our machines are gonna be much, much smarter
+
+37:46.590 --> 37:47.667
+in about 10 years.
+
+37:47.667 --> 37:49.920
+And I think the way that we interact with these machines
+
+37:49.920 --> 37:51.960
+is gonna be different as well, right?
+
+37:51.960 --> 37:53.700
+We're gonna have different types of AMI,
+
+37:53.700 --> 37:57.480
+using forms of AR or VR,
+
+37:57.480 --> 38:00.996
+and just and even natural language processing,
+
+38:00.996 --> 38:04.080
+in the interest of time.
+
+38:04.080 --> 38:04.913
+<v ->Sure. Yeah.</v>
+
+38:04.913 --> 38:07.185
+I mean, I think the most significant impact
+
+38:07.185 --> 38:08.913
+is not just gonna be the,
+
+38:09.930 --> 38:13.650
+not the penetration or the density of autonomy and mobility.
+
+38:13.650 --> 38:14.857
+Obviously, I can sit here and say,
+
+38:14.857 --> 38:15.870
+"I think it's gonna take off
+
+38:15.870 --> 38:17.370
+and there's gonna be lots of autonomous vehicles."
+
+38:17.370 --> 38:18.630
+That's definitely true,
+
+38:18.630 --> 38:21.450
+but I think it's going to become commonplace.
+
+38:21.450 --> 38:23.010
+And it's a perception difference,
+
+38:23.010 --> 38:25.110
+societal perception difference
+
+38:25.110 --> 38:27.030
+that I think is going to be the most interesting thing
+
+38:27.030 --> 38:28.140
+in the next 10 years,
+
+38:28.140 --> 38:30.210
+to the point where all of the easy stuff,
+
+38:30.210 --> 38:31.043
+and by easy stuff,
+
+38:31.043 --> 38:32.880
+I do mean like basic driving around town
+
+38:32.880 --> 38:33.840
+and that sort of thing,
+
+38:33.840 --> 38:36.510
+is gonna become commonplace and expected.
+
+38:36.510 --> 38:37.620
+And once it's expected,
+
+38:37.620 --> 38:39.420
+people are gonna start asking the questions
+
+38:39.420 --> 38:42.750
+that are more akin to how do you pick up this specific bin
+
+38:42.750 --> 38:44.460
+at a specific angle and other things.
+
+38:44.460 --> 38:46.650
+And we're gonna go into the more of the niche markets
+
+38:46.650 --> 38:50.190
+and more of the kind of niche opportunities
+
+38:50.190 --> 38:52.860
+within mobility and automation.
+
+38:52.860 --> 38:56.520
+But I think it's gonna become ubiquitous within society.
+
+38:56.520 --> 38:58.700
+I don't think it's gonna take over all the vehicles
+
+38:58.700 --> 38:59.610
+in the next 10 years.
+
+38:59.610 --> 39:02.220
+I think it's gonna take longer than that for it to roll out,
+
+39:02.220 --> 39:04.980
+but the acceptance is gonna be dramatically different
+
+39:04.980 --> 39:06.963
+10 years from now than it is today.
+
+39:07.950 --> 39:09.510
+<v ->Yeah, I agree.</v>
+
+39:09.510 --> 39:11.820
+I think it's going to be very much related
+
+39:11.820 --> 39:14.130
+to the trust that our customers are going to take.
+
+39:14.130 --> 39:16.770
+They're also going to see the value coming out of it.
+
+39:16.770 --> 39:19.530
+Because if we think about the construction business,
+
+39:19.530 --> 39:23.820
+it's all about the process optimization and the safety.
+
+39:23.820 --> 39:26.580
+So it's going to be into that direction.
+
+39:26.580 --> 39:29.190
+I believe that we will see an early adoption
+
+39:29.190 --> 39:32.160
+in some of our ecosystems or some of the customers.
+
+39:32.160 --> 39:33.990
+Well, it will take a little more time than others.
+
+39:33.990 --> 39:36.030
+We'll be learning along the way.
+
+39:36.030 --> 39:38.160
+And it will be very interesting
+
+39:38.160 --> 39:40.440
+to see the different machine and machine interaction.
+
+39:40.440 --> 39:42.750
+And I work for Volvo Construction Equipment,
+
+39:42.750 --> 39:44.310
+but I was telling you before,
+
+39:44.310 --> 39:47.395
+unfortunately, my company cannot deliver all the products
+
+39:47.395 --> 39:49.080
+that a customer needs.
+
+39:49.080 --> 39:52.470
+So I'm expecting machine-machine interaction agnostically
+
+39:52.470 --> 39:53.820
+in between different brands.
+
+39:53.820 --> 39:55.570
+I'm really looking forward to that.
+
+39:57.120 --> 39:58.230
+<v ->You know, it's very true.</v>
+
+39:58.230 --> 40:00.930
+The average vehicle on the road in the United States
+
+40:00.930 --> 40:02.520
+is over a decade old.
+
+40:02.520 --> 40:04.680
+So there will be time that's over a decade
+
+40:04.680 --> 40:07.020
+even to get 50% penetration.
+
+40:07.020 --> 40:09.480
+That said, generative AI is moving
+
+40:09.480 --> 40:11.970
+at an incredible accelerating rate.
+
+40:11.970 --> 40:14.250
+And so I think the big difference we will see
+
+40:14.250 --> 40:17.640
+is the level of seamlessness and personalization
+
+40:17.640 --> 40:19.320
+that comes from that intelligence
+
+40:19.320 --> 40:21.690
+across all the products we use
+
+40:21.690 --> 40:24.633
+as well as how we do our work and we live our lives.
+
+40:25.560 --> 40:27.000
+<v ->Panelists, thank you so much.</v>
+
+40:27.000 --> 40:30.480
+I hope we've opened up your eyes a little bit
+
+40:30.480 --> 40:33.360
+as to a different world of autonomy.
+
+40:33.360 --> 40:35.340
+And I look forward to coming back here in 10 years
+
+40:35.340 --> 40:37.470
+to see if all this comes true.
+
+40:37.470 --> 40:38.874
+Thank you very, very much.
+
+40:38.874 --> 40:41.307
+(audience clapping)
+
+40:41.307 --> 40:43.974
+(upbeat music)
+

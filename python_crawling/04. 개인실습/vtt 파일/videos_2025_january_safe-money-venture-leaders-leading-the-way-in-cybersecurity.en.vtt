@@ -1,0 +1,3707 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.079 --> 00:02.662
+(upbeat music)
+
+2
+00:10.590 --> 00:11.460
+<v ->Good morning, everyone.</v>
+
+3
+00:11.460 --> 00:14.610
+Welcome to our panel, Safe Money, Venture Leaders
+
+4
+00:14.610 --> 00:16.800
+Leading the Way in Cybersecurity.
+
+5
+00:16.800 --> 00:18.960
+My name is Chris Ahern, I'll be the moderator today
+
+6
+00:18.960 --> 00:20.100
+for our panel.
+
+7
+00:20.100 --> 00:22.440
+I'm a partner at Strategic Cyber Ventures.
+
+8
+00:22.440 --> 00:25.650
+We're a venture capital firm based in Washington, DC.
+
+9
+00:25.650 --> 00:29.250
+We invest in early stage cybersecurity technology companies.
+
+10
+00:29.250 --> 00:32.640
+I've been at SCV for about eight years.
+
+11
+00:32.640 --> 00:35.070
+Prior to that I was at Georgetown for my MBA
+
+12
+00:35.070 --> 00:36.930
+and then before that I was at Ernst &amp; Young
+
+13
+00:36.930 --> 00:40.285
+getting my, or in the audit practice there.
+
+14
+00:40.285 --> 00:41.880
+So, we have a great panel today.
+
+15
+00:41.880 --> 00:43.320
+We're gonna be discussing all things
+
+16
+00:43.320 --> 00:45.723
+cybersecurity and venture capital.
+
+17
+00:46.590 --> 00:48.840
+So why don't we start off with the round of intros.
+
+18
+00:48.840 --> 00:50.220
+Kaiti, why don't you kick us off?
+
+19
+00:50.220 --> 00:53.640
+<v ->Kaiti Delaney, I'm a principal at Ten Eleven Ventures.</v>
+
+20
+00:53.640 --> 00:56.100
+We're a cybersecurity only fund.
+
+21
+00:56.100 --> 00:57.030
+We're stage agnostic.
+
+22
+00:57.030 --> 01:00.390
+Anything from series C all the way to full buyouts.
+
+23
+01:00.390 --> 01:04.710
+My background is in strategic finance M&amp;A.
+
+24
+01:04.710 --> 01:07.020
+I joined Ten Eleven back in 2018,
+
+25
+01:07.020 --> 01:09.420
+so I've seen kind of all the hype cycles
+
+26
+01:09.420 --> 01:13.170
+that have gone on over the last almost decade.
+
+27
+01:13.170 --> 01:14.460
+Nick.
+
+28
+01:14.460 --> 01:16.140
+<v ->Nick Sands with Citi Ventures,</v>
+
+29
+01:16.140 --> 01:19.590
+it's Citibank's Venture Corporate Venture Fund.
+
+30
+01:19.590 --> 01:22.680
+We invest in FinTech companies, lending marketplaces,
+
+31
+01:22.680 --> 01:25.980
+Web3 to cyber dev tools, and we have about
+
+32
+01:25.980 --> 01:29.734
+20 some odd cyber companies in our portfolio right now.
+
+33
+01:29.734 --> 01:32.130
+I used to work at Lockheed Martin before that.
+
+34
+01:32.130 --> 01:33.890
+To you, Brian.
+
+35
+01:33.890 --> 01:36.690
+<v ->Brian Norville, I am the technology lead</v>
+
+36
+01:36.690 --> 01:40.380
+for the IQT's cybersecurity investment practice.
+
+37
+01:40.380 --> 01:43.380
+In-Q-Tel is a not-for-profit strategic investor
+
+38
+01:43.380 --> 01:45.750
+and we invest in enhanced technologies
+
+39
+01:45.750 --> 01:48.003
+on behalf of the national security community.
+
+40
+01:49.161 --> 01:54.120
+We, so prior to IQT, I've been there for about seven years
+
+41
+01:54.120 --> 01:56.370
+and prior to that I spent a number of years
+
+42
+01:56.370 --> 01:57.930
+working for various organizations
+
+43
+01:57.930 --> 02:00.120
+within the national security community
+
+44
+02:00.120 --> 02:02.430
+as a cybersecurity practitioner.
+
+45
+02:02.430 --> 02:03.263
+<v ->Great.</v>
+
+46
+02:03.263 --> 02:06.660
+So maybe we can start by just kind of setting the stage
+
+47
+02:06.660 --> 02:09.990
+for the cybersecurity venture capital landscape.
+
+48
+02:09.990 --> 02:13.200
+So 2024 was a little bit of a comeback year
+
+49
+02:13.200 --> 02:15.330
+in cybersecurity venture capital.
+
+50
+02:15.330 --> 02:19.230
+2023 was fairly muted after a really strong
+
+51
+02:19.230 --> 02:23.670
+and really record breaking 2021 and 2022.
+
+52
+02:23.670 --> 02:25.470
+So maybe let's just kind of set the stage.
+
+53
+02:25.470 --> 02:28.410
+So, Kaiti, maybe what are you seeing
+
+54
+02:28.410 --> 02:33.410
+in terms of like deal activity, deal volume, valuations?
+
+55
+02:34.048 --> 02:36.270
+Are you busier now than ever?
+
+56
+02:36.270 --> 02:38.807
+What are you seeing today heading into 2025?
+
+57
+02:38.807 --> 02:41.250
+<v ->So I'm a little biased coming off of Q4.</v>
+
+58
+02:41.250 --> 02:43.645
+I think every company tries to get
+
+59
+02:43.645 --> 02:45.930
+some announcement in before the holidays.
+
+60
+02:45.930 --> 02:48.210
+So, Q4 was really busy.
+
+61
+02:48.210 --> 02:49.043
+<v Chris>Yep.</v>
+
+62
+02:49.043 --> 02:50.730
+<v ->I would say from most of the sources</v>
+
+63
+02:50.730 --> 02:53.490
+that I've seen in kind of our own internal tracking,
+
+64
+02:53.490 --> 02:56.400
+2024 was busier than 2023.
+
+65
+02:56.400 --> 02:58.620
+I think the innovation cycles in 2023
+
+66
+02:58.620 --> 03:01.905
+were a bit muted as you kind of spoke of.
+
+67
+03:01.905 --> 03:05.300
+And I think then 2024, we had a lot of innovation
+
+68
+03:05.300 --> 03:10.000
+in kind of the automated SOC space, a lot of data privacy,
+
+69
+03:10.000 --> 03:12.720
+AI, security.
+
+70
+03:12.720 --> 03:15.930
+So I think that there was a lot more hype in the market
+
+71
+03:15.930 --> 03:18.030
+and we did see crazy deals
+
+72
+03:18.030 --> 03:20.760
+with crazy valuations getting done.
+
+73
+03:20.760 --> 03:23.550
+I think from our perspective, we're still dealing
+
+74
+03:23.550 --> 03:28.320
+with an overhang of 2021 and 2022 valuations.
+
+75
+03:28.320 --> 03:31.050
+So there were a decent amount of rerating
+
+76
+03:31.050 --> 03:34.980
+and kind of restructurings and expectations
+
+77
+03:34.980 --> 03:37.050
+when it came to fundraising.
+
+78
+03:37.050 --> 03:39.408
+But I still think that it's a really robust
+
+79
+03:39.408 --> 03:41.820
+funding market right now.
+
+80
+03:41.820 --> 03:46.170
+And everything I've seen is 2024 was a bigger year
+
+81
+03:46.170 --> 03:50.220
+in terms of dollars and deal account than 2023.
+
+82
+03:50.220 --> 03:51.053
+<v ->Yeah, yeah.</v>
+
+83
+03:51.053 --> 03:54.330
+So you mentioned like really lofty valuations.
+
+84
+03:54.330 --> 03:57.000
+I've seen the same thing and I've been trying
+
+85
+03:57.000 --> 03:59.567
+to think about that and kind of rationalize that.
+
+86
+03:59.567 --> 04:03.240
+So yeah, I mean there is still some frothiness
+
+87
+04:03.240 --> 04:05.987
+in the market even though overall funding
+
+88
+04:05.987 --> 04:09.750
+is kind of feels a little bit more kind of pre-pandemic.
+
+89
+04:09.750 --> 04:12.450
+So, Nick, like how do you think about that?
+
+90
+04:12.450 --> 04:16.140
+Just sort of kind of those two concepts
+
+91
+04:16.140 --> 04:18.780
+that for some companies is really, really hard to raise
+
+92
+04:18.780 --> 04:20.940
+and then other companies, you know,
+
+93
+04:20.940 --> 04:22.770
+there's term sheets flying at them
+
+94
+04:22.770 --> 04:26.940
+and valuations get pretty zany.
+
+95
+04:26.940 --> 04:29.550
+<v ->Yeah, I mean you see it with the companies</v>
+
+96
+04:29.550 --> 04:31.920
+that are just performing like exceptionally well.
+
+97
+04:31.920 --> 04:35.187
+They get priced at 100x current revenue.
+
+98
+04:35.187 --> 04:37.290
+And that's just pretty consistent
+
+99
+04:37.290 --> 04:40.260
+across all really high-quality companies.
+
+100
+04:40.260 --> 04:42.960
+Or if you're an AI company, you also get kind of
+
+101
+04:42.960 --> 04:45.513
+a blank check to have a really high evaluation.
+
+102
+04:46.830 --> 04:49.620
+It's tough to say exactly,
+
+103
+04:49.620 --> 04:52.440
+but if you look at public markets,
+
+104
+04:52.440 --> 04:54.450
+you look at the top cyber companies,
+
+105
+04:54.450 --> 04:57.110
+they're the highest like valued companies
+
+106
+04:57.110 --> 05:00.059
+EV to revenue out there right now.
+
+107
+05:00.059 --> 05:02.220
+And I think the private markets see that,
+
+108
+05:02.220 --> 05:04.500
+see the resilience of those companies, even when we go
+
+109
+05:04.500 --> 05:08.100
+through economic downturns, those companies still perform
+
+110
+05:08.100 --> 05:10.020
+and it's because those budgets
+
+111
+05:10.020 --> 05:12.060
+don't usually go away in a downturn.
+
+112
+05:12.060 --> 05:14.220
+Those budgets usually remain constant.
+
+113
+05:14.220 --> 05:17.493
+<v ->Yeah, I was looking at some data for the panel.</v>
+
+114
+05:18.330 --> 05:21.480
+So Altitude Cyber, they're a investment bank
+
+115
+05:21.480 --> 05:22.710
+in the cybersecurity space.
+
+116
+05:22.710 --> 05:25.483
+So they had some data, I thought this was interesting.
+
+117
+05:25.483 --> 05:27.350
+So Q2 and Q4 of 2023, there was 1.7 billion and 1.9 billion
+
+118
+05:30.810 --> 05:33.903
+of venture financing in the cybersecurity space.
+
+119
+05:34.920 --> 05:37.200
+You actually have to go all the way back to 2018
+
+120
+05:37.200 --> 05:39.945
+to find a single quarter with that little
+
+121
+05:39.945 --> 05:41.943
+of transaction volume.
+
+122
+05:43.230 --> 05:46.103
+Yeah, so it's, I mean 2018 seems like
+
+123
+05:46.103 --> 05:49.680
+it's like when I started my venture career, it's like,
+
+124
+05:49.680 --> 05:51.330
+it seems like ages ago.
+
+125
+05:51.330 --> 05:53.221
+It was ages ago.
+
+126
+05:53.221 --> 05:56.970
+I guess is that just like a hangover
+
+127
+05:56.970 --> 06:01.440
+from like the craziness of 2021 and 2022?
+
+128
+06:01.440 --> 06:03.523
+I dunno, Brian, do you wanna?
+
+129
+06:03.523 --> 06:04.523
+<v ->No, maybe.</v>
+
+130
+06:05.366 --> 06:07.980
+<v ->Or Kaiti or Nick, whoever.</v>
+
+131
+06:07.980 --> 06:11.100
+<v ->Yeah, I think there's a lot of firms</v>
+
+132
+06:11.100 --> 06:16.080
+that saw what crazy valuations too early
+
+133
+06:16.080 --> 06:20.940
+in a company's lifecycle could do to a company
+
+134
+06:20.940 --> 06:24.120
+and it's damaging on some level for their ability
+
+135
+06:24.120 --> 06:27.060
+to fundraise going forward and they have
+
+136
+06:27.060 --> 06:30.150
+to reset expectations and cap tables are really messy
+
+137
+06:30.150 --> 06:33.540
+and recaps are not really ideal for new investors.
+
+138
+06:33.540 --> 06:38.310
+So I think that there is a lot more, I would say, cognizance
+
+139
+06:38.310 --> 06:41.340
+around these crazy valuations.
+
+140
+06:41.340 --> 06:44.190
+Still there's hot companies and hot spaces
+
+141
+06:44.190 --> 06:48.240
+that I think people are okay riding blind 100 times
+
+142
+06:48.240 --> 06:50.730
+multiples on just knowing that they're gonna grow
+
+143
+06:50.730 --> 06:52.230
+into them over time.
+
+144
+06:52.230 --> 06:55.830
+But I do think there's more cognizance among,
+
+145
+06:55.830 --> 06:59.190
+I would say the VCs in cyber and we talk a lot about
+
+146
+06:59.190 --> 07:02.219
+the tourists that came in in 2021, 2022.
+
+147
+07:02.219 --> 07:03.322
+They've left.
+
+148
+07:03.322 --> 07:04.710
+<v Chris>Yeah.</v>
+<v ->For the most part.</v>
+
+149
+07:04.710 --> 07:06.679
+And so I think that also has rationalized a lot
+
+150
+07:06.679 --> 07:10.002
+of the deal volumes than I think that it is more of a,
+
+151
+07:10.002 --> 07:13.230
+I would say, investor friendly environment
+
+152
+07:13.230 --> 07:16.920
+than it has been over the last three, four years.
+
+153
+07:16.920 --> 07:18.420
+So, that's kind of my view.
+
+154
+07:18.420 --> 07:22.140
+<v ->Yeah, the only other thing I'd add is that in 2023</v>
+
+155
+07:22.140 --> 07:24.510
+people talked about like the VC overhang,
+
+156
+07:24.510 --> 07:25.980
+there's a bunch of dry powder,
+
+157
+07:25.980 --> 07:28.230
+basically funds had raised a lot of money
+
+158
+07:28.230 --> 07:29.940
+and they hadn't deployed it yet.
+
+159
+07:29.940 --> 07:32.220
+There's still a little bit of that in the market
+
+160
+07:32.220 --> 07:34.590
+with these really highly valued companies
+
+161
+07:34.590 --> 07:37.320
+is that venture firms need to deploy capital,
+
+162
+07:37.320 --> 07:39.420
+and so they wanna write really big checks.
+
+163
+07:39.420 --> 07:41.460
+Usually a really big check correlates
+
+164
+07:41.460 --> 07:42.720
+to a really high price.
+
+165
+07:42.720 --> 07:43.695
+<v Chris>Yeah.</v>
+
+166
+07:43.695 --> 07:46.170
+<v ->And so we still see that for a couple companies.</v>
+
+167
+07:46.170 --> 07:47.610
+<v ->Yeah, and the one thing I'll add there</v>
+
+168
+07:47.610 --> 07:50.040
+is that we're seeing a lot of activity
+
+169
+07:50.040 --> 07:52.770
+and interest in the hype around generative AI,
+
+170
+07:52.770 --> 07:54.720
+especially in cybersecurity and we're seeing a lot
+
+171
+07:54.720 --> 07:56.970
+of really great teams and repeat founders
+
+172
+07:56.970 --> 07:59.400
+kind of venture out into that space.
+
+173
+07:59.400 --> 08:03.420
+But I think both on the investor and buyer side,
+
+174
+08:03.420 --> 08:05.760
+there's a little bit of skepticism to see
+
+175
+08:05.760 --> 08:07.740
+how this actually shakes out since we're really early
+
+176
+08:07.740 --> 08:10.470
+in the hype cycle and the space is moving fairly quickly.
+
+177
+08:10.470 --> 08:13.740
+So what we're hearing from buyers
+
+178
+08:13.740 --> 08:15.180
+is that they're really interested
+
+179
+08:15.180 --> 08:20.160
+in how much incremental benefit these solutions,
+
+180
+08:20.160 --> 08:21.499
+generative AI enhanced solutions provide
+
+181
+08:21.499 --> 08:23.760
+over the current set of cybersecurity tools.
+
+182
+08:23.760 --> 08:26.670
+So they're more interested in increased security outcomes
+
+183
+08:26.670 --> 08:29.620
+and not necessarily in a novelty of applying generative AI.
+
+184
+08:30.540 --> 08:33.780
+<v ->Yeah, yeah, yeah, I mean I personally,</v>
+
+185
+08:33.780 --> 08:36.540
+I kind of prefer this environment.
+
+186
+08:36.540 --> 08:40.050
+Like I remember 2021, 2022,
+
+187
+08:40.050 --> 08:42.690
+you'd meet an interesting company and the deal would,
+
+188
+08:42.690 --> 08:44.910
+you know, it'd be like you have 48 hours
+
+189
+08:44.910 --> 08:48.270
+to get a term sheet out and it was,
+
+190
+08:48.270 --> 08:50.400
+yeah, it was just a tough environment.
+
+191
+08:50.400 --> 08:51.990
+This is a little bit more, I think,
+
+192
+08:51.990 --> 08:54.273
+a little bit more rational I think overall.
+
+193
+08:55.290 --> 08:58.540
+So we discussed, we mentioned generative AI.
+
+194
+08:58.540 --> 09:01.230
+I think, Kaiti, you mentioned data privacy
+
+195
+09:01.230 --> 09:02.763
+and data security.
+
+196
+09:04.140 --> 09:07.200
+In 2024, I also noticed that identity and access management
+
+197
+09:07.200 --> 09:09.963
+was a very hot area in terms of investment.
+
+198
+09:11.010 --> 09:14.190
+So what are the areas that you all are excited about
+
+199
+09:14.190 --> 09:15.780
+heading into 2025?
+
+200
+09:17.380 --> 09:18.360
+We can start with you, Kaiti.
+
+201
+09:18.360 --> 09:20.370
+<v ->Yeah, so we're a little bit unique</v>
+
+202
+09:20.370 --> 09:22.020
+because we're cyber only.
+
+203
+09:22.020 --> 09:25.080
+We kind of have our own view of the ecosystem.
+
+204
+09:25.080 --> 09:28.410
+There's like 20 big verticals that we look at
+
+205
+09:28.410 --> 09:30.750
+and then we have sub-verticals within that
+
+206
+09:30.750 --> 09:32.970
+and we can't invest in competing companies.
+
+207
+09:32.970 --> 09:37.410
+So we have bets in kind of the data privacy side
+
+208
+09:37.410 --> 09:39.420
+or the data DLP side.
+
+209
+09:39.420 --> 09:43.020
+We have AI for security.
+
+210
+09:43.020 --> 09:45.240
+So I would say are a little bit unique,
+
+211
+09:45.240 --> 09:50.240
+but what we're looking at into 2025 is a lot around quantum.
+
+212
+09:50.910 --> 09:52.740
+We haven't made a bet in that space.
+
+213
+09:52.740 --> 09:54.900
+We haven't made a bet necessarily
+
+214
+09:54.900 --> 09:57.540
+in smacked up application security.
+
+215
+09:57.540 --> 10:00.559
+And I think that it's pretty ripe for disruption.
+
+216
+10:00.559 --> 10:03.270
+We think that cloud security is something
+
+217
+10:03.270 --> 10:05.490
+where the incumbents are pretty strong,
+
+218
+10:05.490 --> 10:08.730
+but we hear a lot of whispers about runtime cloud security,
+
+219
+10:08.730 --> 10:10.650
+so we're doing a little bit more
+
+220
+10:10.650 --> 10:12.150
+of a deep dive in that space.
+
+221
+10:12.150 --> 10:17.150
+So it's more of the next gen agentic AI enabled companies
+
+222
+10:18.270 --> 10:19.470
+that we're starting to look at.
+
+223
+10:19.470 --> 10:24.470
+So maybe next gen network security, next gen EDR.
+
+224
+10:24.600 --> 10:26.940
+So those are kind of the areas that we're looking at,
+
+225
+10:26.940 --> 10:31.140
+which I would say is a little different than most companies
+
+226
+10:31.140 --> 10:36.140
+or most VC firms that don't have bets in security
+
+227
+10:36.180 --> 10:40.500
+for AI or DLP for LLMs and whatnot.
+
+228
+10:40.500 --> 10:43.140
+<v ->Yeah, so like what is the next evolution</v>
+
+229
+10:43.140 --> 10:46.890
+of these various security categories likely
+
+230
+10:46.890 --> 10:51.060
+with some kind of AI kind of use case.
+
+231
+10:51.060 --> 10:51.893
+Nick, what about you?
+
+232
+10:51.893 --> 10:53.070
+What are you interested in?
+
+233
+10:54.000 --> 10:55.920
+<v ->Well, so I'm really interested in identity</v>
+
+234
+10:55.920 --> 10:57.840
+and it has to do a lot with AI.
+
+235
+10:57.840 --> 10:59.940
+So if you think about how, you know,
+
+236
+10:59.940 --> 11:02.430
+even consumers are gonna start interacting with AI,
+
+237
+11:02.430 --> 11:05.520
+like you might start telling Siri to go buy groceries
+
+238
+11:05.520 --> 11:08.700
+for you, or in the context of a large business,
+
+239
+11:08.700 --> 11:11.587
+you might tell some sort of bot to like,
+
+240
+11:11.587 --> 11:13.680
+"Hey, go pull these reports for me."
+
+241
+11:13.680 --> 11:16.350
+And so then the concept of what's an identity
+
+242
+11:16.350 --> 11:18.450
+kind of changes a lot.
+
+243
+11:18.450 --> 11:21.870
+Hey did like, how do you know that Steve told that AI
+
+244
+11:21.870 --> 11:23.340
+to like go pull those reports?
+
+245
+11:23.340 --> 11:25.890
+Like how do you have auditability around that?
+
+246
+11:25.890 --> 11:28.110
+And then how do you know, hey, I told that AI
+
+247
+11:28.110 --> 11:29.880
+to go buy me groceries.
+
+248
+11:29.880 --> 11:32.370
+I think the way that we're gonna be transacting
+
+249
+11:32.370 --> 11:33.390
+is gonna be very different.
+
+250
+11:33.390 --> 11:36.599
+And so there's an entirely new identity landscape
+
+251
+11:36.599 --> 11:39.510
+that's gonna have to be kind of constructed.
+
+252
+11:39.510 --> 11:42.600
+We'll kind of see that play out over the next couple years
+
+253
+11:42.600 --> 11:45.300
+as you start seeing more of these age agentic things.
+
+254
+11:45.300 --> 11:48.540
+People are starting to see that integrated in their devices,
+
+255
+11:48.540 --> 11:51.420
+in their browsers and are starting to use AI more
+
+256
+11:51.420 --> 11:54.510
+to do day-to-day things and transactions.
+
+257
+11:54.510 --> 11:57.120
+<v ->Yeah, we're also interested in identities</v>
+
+258
+11:57.120 --> 11:59.430
+around agentic AI as that system of systems
+
+259
+11:59.430 --> 12:02.700
+that are operating on your behalf in addition
+
+260
+12:02.700 --> 12:06.750
+to all of the high proliferation of IOT devices that are,
+
+261
+12:06.750 --> 12:08.310
+is happening in the world right now.
+
+262
+12:08.310 --> 12:10.020
+And now you have devices talking to devices,
+
+263
+12:10.020 --> 12:11.760
+services talking to services, which makes it
+
+264
+12:11.760 --> 12:13.680
+a really complex problem.
+
+265
+12:13.680 --> 12:16.980
+But we're also interested in kind of generative AI security
+
+266
+12:16.980 --> 12:18.180
+in two different ways, right?
+
+267
+12:18.180 --> 12:21.720
+So the first being securing enterprise use of generative AI
+
+268
+12:21.720 --> 12:24.960
+and then the second, which I think everyone earlier
+
+269
+12:24.960 --> 12:27.390
+kind of spoke to, applying generative AI
+
+270
+12:27.390 --> 12:28.890
+to security workflows.
+
+271
+12:28.890 --> 12:32.310
+So on the first piece, the way that you interact
+
+272
+12:32.310 --> 12:34.440
+with generative AI models is fundamentally different
+
+273
+12:34.440 --> 12:36.720
+than the way we interact with our existing
+
+274
+12:36.720 --> 12:37.920
+IT systems, right?
+
+275
+12:37.920 --> 12:39.840
+These systems, they're probabilistic,
+
+276
+12:39.840 --> 12:41.786
+they're not deterministic.
+
+277
+12:41.786 --> 12:43.470
+And you can interact with them
+
+278
+12:43.470 --> 12:45.000
+in an almost infinite amount of ways.
+
+279
+12:45.000 --> 12:46.450
+You can ask the same question
+
+280
+12:46.450 --> 12:48.840
+and while conveying the same intent.
+
+281
+12:48.840 --> 12:51.420
+And that makes it really challenging for the current crop
+
+282
+12:51.420 --> 12:53.432
+of security tools that we're used to using
+
+283
+12:53.432 --> 12:56.122
+to secure those environments, right?
+
+284
+12:56.122 --> 12:58.770
+It's really hard to use a regex
+
+285
+12:58.770 --> 13:01.260
+or a deterministic style rule or policy-based approach.
+
+286
+13:01.260 --> 13:04.170
+So we've been looking at several tools in the market
+
+287
+13:04.170 --> 13:06.360
+that are popping up, that are looking at combining
+
+288
+13:06.360 --> 13:09.480
+the deterministic and classical detection approach
+
+289
+13:09.480 --> 13:12.480
+with using additional maybe smaller models on top of that
+
+290
+13:12.480 --> 13:15.540
+to kind of catch some of the variants.
+
+291
+13:15.540 --> 13:19.350
+And then on the generative AI for security,
+
+292
+13:19.350 --> 13:21.360
+we're kind of looking at looking at that
+
+293
+13:21.360 --> 13:22.380
+in three different ways.
+
+294
+13:22.380 --> 13:26.100
+So, one being upskilling your existing cyber talent.
+
+295
+13:26.100 --> 13:27.300
+The second being automation,
+
+296
+13:27.300 --> 13:29.670
+which I think we heard about earlier.
+
+297
+13:29.670 --> 13:31.950
+And then the third being like workforce agility.
+
+298
+13:31.950 --> 13:34.440
+So the upskilling is really about how do we make
+
+299
+13:34.440 --> 13:38.070
+my junior analysts that just came out of a security program
+
+300
+13:38.070 --> 13:41.070
+or a university a super analyst on day one, right?
+
+301
+13:41.070 --> 13:43.200
+How do we automate a lot of the tedious tasks
+
+302
+13:43.200 --> 13:44.703
+that they do on a daily basis?
+
+303
+13:45.540 --> 13:49.290
+And then the automation is both semi-autonomous
+
+304
+13:49.290 --> 13:50.250
+and fully autonomous.
+
+305
+13:50.250 --> 13:52.800
+And what we're seeing and with the current set
+
+306
+13:52.800 --> 13:54.930
+of cybersecurity tools, and organizations
+
+307
+13:54.930 --> 13:58.470
+are still very hesitant to let their tools kind of run amuck
+
+308
+13:58.470 --> 14:00.060
+in their environment and start turning knobs.
+
+309
+14:00.060 --> 14:02.400
+And we see that same hesitancy carry across
+
+310
+14:02.400 --> 14:05.100
+to the generative AI enhanced security tooling.
+
+311
+14:05.100 --> 14:07.650
+So we think the key there is really gonna be
+
+312
+14:07.650 --> 14:08.910
+about transparency, right?
+
+313
+14:08.910 --> 14:11.610
+So tools that really show you exactly
+
+314
+14:11.610 --> 14:13.830
+what these generative AI models are doing
+
+315
+14:13.830 --> 14:15.480
+and how they're coming to the assessment
+
+316
+14:15.480 --> 14:17.370
+that they're coming for the environment.
+
+317
+14:17.370 --> 14:18.630
+And then the last piece,
+
+318
+14:18.630 --> 14:22.200
+and then I'll hit on is workforce agility.
+
+319
+14:22.200 --> 14:26.190
+We all know how hard it is to hire and retain
+
+320
+14:26.190 --> 14:28.080
+really great cybersecurity talent, right?
+
+321
+14:28.080 --> 14:30.180
+And then you hire them and then they spend six months
+
+322
+14:30.180 --> 14:31.740
+in your organization really understanding
+
+323
+14:31.740 --> 14:33.540
+your environment and then they leave.
+
+324
+14:33.540 --> 14:34.800
+And that's really hard 'cause now you have
+
+325
+14:34.800 --> 14:37.140
+to bring in someone else and train 'em up all over again.
+
+326
+14:37.140 --> 14:39.570
+So we're looking at platforms that maybe use things
+
+327
+14:39.570 --> 14:41.310
+like natural language querying that allows you
+
+328
+14:41.310 --> 14:45.810
+to ask really critical questions of your cyber data sets
+
+329
+14:45.810 --> 14:47.400
+in a way that makes sense for them, right?
+
+330
+14:47.400 --> 14:50.580
+So that they don't have to go through the de tedious effort
+
+331
+14:50.580 --> 14:52.680
+of learning new environment, learning the specific
+
+332
+14:52.680 --> 14:54.270
+query languages across different tools.
+
+333
+14:54.270 --> 14:57.240
+So that's really where we're focusing for the time being.
+
+334
+14:57.240 --> 15:00.303
+<v ->Yeah, so you mentioned automation.</v>
+
+335
+15:03.906 --> 15:08.100
+Do you see like a fully automated SOC in our future?
+
+336
+15:08.100 --> 15:10.563
+So SOC is a security operations center.
+
+337
+15:11.490 --> 15:13.800
+Do do you see that down the road?
+
+338
+15:13.800 --> 15:16.680
+Do you have like a rough timeline in your head?
+
+339
+15:16.680 --> 15:18.870
+<v ->Yeah, I think we're a ways off.</v>
+
+340
+15:18.870 --> 15:20.580
+I think people are still figuring out
+
+341
+15:20.580 --> 15:23.730
+how to get the full value from the current
+
+342
+15:23.730 --> 15:25.500
+set of security tools.
+
+343
+15:25.500 --> 15:27.720
+So for certainly for some with short organizations,
+
+344
+15:27.720 --> 15:29.490
+I think they're gonna lean in, really lean into
+
+345
+15:29.490 --> 15:32.670
+the fully autonomous SOC, especially at the tier one level
+
+346
+15:32.670 --> 15:34.320
+where the stakes are a little bit lower.
+
+347
+15:34.320 --> 15:36.960
+But I think as you go higher into the tier two
+
+348
+15:36.960 --> 15:38.880
+or tier three where the stakes are higher,
+
+349
+15:38.880 --> 15:40.380
+we'll see more hesitancy.
+
+350
+15:40.380 --> 15:41.340
+<v ->Right.</v>
+
+351
+15:41.340 --> 15:45.660
+But right now we're not really seeing fully autonomous
+
+352
+15:45.660 --> 15:49.500
+like decisioning done by AI at the SOC level.
+
+353
+15:49.500 --> 15:52.080
+People are just aren't quite ready for that and maybe they,
+
+354
+15:52.080 --> 15:55.110
+you know, the models are not quite ready for that yet.
+
+355
+15:55.110 --> 15:56.040
+<v ->Yeah, not quite ready.</v>
+
+356
+15:56.040 --> 15:58.470
+There are are a few startups that are popping up
+
+357
+15:58.470 --> 16:00.450
+and a lot of novel capabilities that are aiming
+
+358
+16:00.450 --> 16:03.690
+to kind of develop that, but we're still early days.
+
+359
+16:03.690 --> 16:08.670
+<v ->So, Kaiti, how do you think about what Brian mentioned,</v>
+
+360
+16:08.670 --> 16:11.850
+like AI for cybersecurity, cybersecurity for AI,
+
+361
+16:11.850 --> 16:16.080
+that's kind of a basic mental model that I use.
+
+362
+16:16.080 --> 16:18.150
+So yeah, how are you thinking about that?
+
+363
+16:18.150 --> 16:21.630
+Like cybersecurity impacting AI and vice versa
+
+364
+16:21.630 --> 16:24.360
+and what are you excited about in AI?
+
+365
+16:24.360 --> 16:28.500
+<v ->Yeah, so I think we forget that AI has been around</v>
+
+366
+16:28.500 --> 16:30.690
+for cybersecurity for a long time.
+
+367
+16:30.690 --> 16:33.780
+We were early investors in Cylance, Darktrace.
+
+368
+16:33.780 --> 16:38.780
+They all were using some form of machine learning and AI.
+
+369
+16:39.060 --> 16:42.120
+And so I don't think that part is necessarily new.
+
+370
+16:42.120 --> 16:45.960
+I think what came out were LLMs and the ability
+
+371
+16:45.960 --> 16:50.490
+for all companies to take advantage of the technology.
+
+372
+16:50.490 --> 16:52.950
+So the hurdle rate is a lot lower.
+
+373
+16:52.950 --> 16:56.940
+So I think from the aspect of AI for security,
+
+374
+16:56.940 --> 17:00.300
+it's not necessarily new and kind as Brian said,
+
+375
+17:00.300 --> 17:01.800
+we have a long ways to go.
+
+376
+17:01.800 --> 17:04.980
+I think we're early in the lifecycle of being able
+
+377
+17:04.980 --> 17:08.460
+to fully trust AI in their decision making.
+
+378
+17:08.460 --> 17:11.190
+If you look at network detection, a lot of people
+
+379
+17:11.190 --> 17:14.760
+don't have the auto remediate on there
+
+380
+17:14.760 --> 17:17.310
+'cause they don't want their networked connection
+
+381
+17:17.310 --> 17:18.920
+to just be cut off.
+<v Chris>Right.</v>
+
+382
+17:18.920 --> 17:21.480
+<v ->So I think human in the loop is gonna be really important</v>
+
+383
+17:21.480 --> 17:24.600
+and I think we're probably five plus years out
+
+384
+17:24.600 --> 17:29.600
+of being able to actually have things go autonomously.
+
+385
+17:29.700 --> 17:34.200
+So tier one level triaging and a SOC is a great use case
+
+386
+17:34.200 --> 17:35.708
+'cause it's low stakes.
+
+387
+17:35.708 --> 17:38.700
+In terms of security for AI,
+
+388
+17:38.700 --> 17:40.650
+I think that's a really innovative space.
+
+389
+17:40.650 --> 17:42.720
+We've invested in hidden layer,
+
+390
+17:42.720 --> 17:45.000
+which has kind of coined the MLDR.
+
+391
+17:45.000 --> 17:47.550
+So it's machine learning detection and response.
+
+392
+17:47.550 --> 17:49.530
+And I think there's a lot of opportunities there.
+
+393
+17:49.530 --> 17:51.990
+So there's a lot of the governance
+
+394
+17:51.990 --> 17:54.270
+and compliance piece of AI.
+
+395
+17:54.270 --> 17:57.390
+I think that there is a lot of opportunity
+
+396
+17:57.390 --> 18:01.380
+for companies to do the DLP side of LLMs
+
+397
+18:01.380 --> 18:04.170
+and the usage more across the enterprise.
+
+398
+18:04.170 --> 18:07.383
+So I think that's an area I think of more innovation.
+
+399
+18:08.400 --> 18:11.350
+And I think we have a long ways to go for AI for security.
+
+400
+18:11.350 --> 18:13.650
+<v ->Yeah, so maybe touch on that.</v>
+
+401
+18:13.650 --> 18:15.000
+You mentioned hidden layer.
+
+402
+18:15.847 --> 18:17.327
+Like what are sort of some
+
+403
+18:17.327 --> 18:20.520
+of the cybersecurity risks associated with AI?
+
+404
+18:20.520 --> 18:25.520
+I mean, I think every Fortune 1000 in the country
+
+405
+18:25.680 --> 18:29.613
+wants to adopt AI, but I know security is top of mind.
+
+406
+18:30.630 --> 18:31.980
+For the audience that maybe doesn't know,
+
+407
+18:31.980 --> 18:36.090
+like what's the risk of adopting these technologies?
+
+408
+18:36.090 --> 18:38.160
+You mentioned data loss.
+
+409
+18:38.160 --> 18:41.730
+What are some of the concerns that companies
+
+410
+18:41.730 --> 18:43.470
+like Hidden Layer help with?
+
+411
+18:43.470 --> 18:45.660
+<v ->Yeah, so there's data poisoning.</v>
+
+412
+18:45.660 --> 18:48.480
+So somebody could come in and tamper
+
+413
+18:48.480 --> 18:50.250
+with the data that's training your model.
+
+414
+18:50.250 --> 18:51.690
+It might not be operating the way
+
+415
+18:51.690 --> 18:53.910
+that you had intended it to.
+
+416
+18:53.910 --> 18:56.880
+Kind of a good example is all the autonomous cars,
+
+417
+18:56.880 --> 19:00.660
+they learn off of stop signs so that they know how to stop,
+
+418
+19:00.660 --> 19:03.450
+but you could go in and basically change the algorithm
+
+419
+19:03.450 --> 19:06.900
+or change the data so that they end up blowing through them.
+
+420
+19:06.900 --> 19:08.520
+So making sure that they're actually
+
+421
+19:08.520 --> 19:09.870
+operating the way that they should.
+
+422
+19:09.870 --> 19:12.480
+Hallucinations is the other one.
+
+423
+19:12.480 --> 19:16.140
+As we've all kind of seen in the news,
+
+424
+19:16.140 --> 19:21.140
+it's all what's feeding into your data is kind of the,
+
+425
+19:21.570 --> 19:24.630
+I would say the goldmine of AI/ML.
+
+426
+19:24.630 --> 19:27.030
+So having proprietary data that's protected
+
+427
+19:27.030 --> 19:30.335
+and not tamperable is really important.
+
+428
+19:30.335 --> 19:33.630
+And then it's also kind of that compliance piece.
+
+429
+19:33.630 --> 19:37.440
+So there's a lot of watermarking of making sure
+
+430
+19:37.440 --> 19:40.050
+that the content is AI generated,
+
+431
+19:40.050 --> 19:44.040
+that a lot of these companies are being forced to produce.
+
+432
+19:44.040 --> 19:48.870
+And so being able to almost do like an AI bomb
+
+433
+19:48.870 --> 19:51.330
+of where everything is coming from
+
+434
+19:51.330 --> 19:53.490
+and being able to accredit the fact
+
+435
+19:53.490 --> 19:56.490
+that it's AI generated is also important.
+
+436
+19:56.490 --> 19:59.160
+<v ->Yeah, I would love to hear what Brian has to say about it,</v>
+
+437
+19:59.160 --> 20:01.764
+but I think just to add to what Kaiti just said.
+
+438
+20:01.764 --> 20:03.810
+One of the key things to think about it
+
+439
+20:03.810 --> 20:05.670
+is it's application software
+
+440
+20:05.670 --> 20:08.760
+just like you would download repos from GitHub,
+
+441
+20:08.760 --> 20:11.010
+but there are different type of application.
+
+442
+20:11.010 --> 20:13.560
+And so the entire supply chain's really important.
+
+443
+20:13.560 --> 20:17.160
+Like lots of companies mid market to up market
+
+444
+20:17.160 --> 20:19.530
+scan their code before it ever goes to production.
+
+445
+20:19.530 --> 20:21.300
+They scan their open source code.
+
+446
+20:21.300 --> 20:23.310
+You should be scanning your models the same way.
+
+447
+20:23.310 --> 20:25.620
+You should understand where your model came from,
+
+448
+20:25.620 --> 20:28.020
+who's the one who uploaded it last
+
+449
+20:28.020 --> 20:30.455
+in probably something like Hugging Face.
+
+450
+20:30.455 --> 20:32.100
+Are you getting 'em from Google?
+
+451
+20:32.100 --> 20:33.784
+Are you getting them from OpenAI?
+
+452
+20:33.784 --> 20:35.280
+And you should understand where those
+
+453
+20:35.280 --> 20:36.990
+are going in production and you should understand
+
+454
+20:36.990 --> 20:38.490
+that entire lifecycle.
+
+455
+20:38.490 --> 20:40.350
+And we're just starting to see companies
+
+456
+20:40.350 --> 20:41.970
+that are trying to tackle that problem.
+
+457
+20:41.970 --> 20:44.400
+But that's the problem that enterprises are gonna start
+
+458
+20:44.400 --> 20:46.590
+facing in the next year or two.
+
+459
+20:46.590 --> 20:48.060
+<v ->Yeah, completely agree.</v>
+
+460
+20:48.060 --> 20:50.670
+I think companies like Hugging Face,
+
+461
+20:50.670 --> 20:52.980
+there where GitHub was like several years ago
+
+462
+20:52.980 --> 20:55.530
+before they really started scrutinizing the code
+
+463
+20:55.530 --> 20:58.020
+that's there and running their own kind of internal
+
+464
+20:58.020 --> 20:59.733
+and community-based scans on it.
+
+465
+21:00.600 --> 21:03.630
+But I would say DLP, that's the one area
+
+466
+21:03.630 --> 21:04.920
+where I think is the biggest
+
+467
+21:04.920 --> 21:07.410
+and what we hear from CISOs a lot.
+
+468
+21:07.410 --> 21:09.870
+And it's been really fascinating to see
+
+469
+21:09.870 --> 21:14.870
+how quickly generative AI has been adopted by organizations,
+
+470
+21:15.180 --> 21:17.310
+so enterprises and consumers, right?
+
+471
+21:17.310 --> 21:18.810
+So everyone started using it
+
+472
+21:18.810 --> 21:21.870
+for some sort of productivity gain.
+
+473
+21:21.870 --> 21:24.750
+And a lot of organizations realize like, wait, "Hey,
+
+474
+21:24.750 --> 21:27.390
+our engineers are copying in proprietary code
+
+475
+21:27.390 --> 21:30.720
+and are using it to write things, right?
+
+476
+21:30.720 --> 21:32.640
+And our sensitive information is just going out the door."
+
+477
+21:32.640 --> 21:34.470
+We really don't understand these things enough.
+
+478
+21:34.470 --> 21:36.120
+We don't understand where they're being stored,
+
+479
+21:36.120 --> 21:38.280
+who has access to that data?
+
+480
+21:38.280 --> 21:40.680
+Is the model being retrained on that and will it spit it out
+
+481
+21:40.680 --> 21:42.570
+to one of our competitors later, right?
+
+482
+21:42.570 --> 21:46.717
+So the initial kind of response by the market was just like,
+
+483
+21:46.717 --> 21:48.300
+"Hey, let's block everything."
+
+484
+21:48.300 --> 21:51.900
+And then as we began to understand, there's been policies,
+
+485
+21:51.900 --> 21:54.300
+data security policies that organizations have put in place
+
+486
+21:54.300 --> 21:58.530
+around that and we're really seeing the DLP cybersecurity
+
+487
+21:58.530 --> 22:01.080
+or DLP tools for AI models coming into play,
+
+488
+22:01.080 --> 22:02.730
+looking at the prompts that are going in
+
+489
+22:02.730 --> 22:04.770
+and out of these platforms and making sure
+
+490
+22:04.770 --> 22:07.630
+that the people who need access to that data
+
+491
+22:08.520 --> 22:10.410
+can only access that data and nothing else.
+
+492
+22:10.410 --> 22:11.880
+And I think that also ties into
+
+493
+22:11.880 --> 22:13.923
+Nick's point earlier on identity.
+
+494
+22:15.060 --> 22:17.073
+<v ->So, Brian, when you talk to companies,</v>
+
+495
+22:18.030 --> 22:21.000
+what sort of the breakdown of,
+
+496
+22:21.000 --> 22:22.740
+so companies that are use using LLMs,
+
+497
+22:22.740 --> 22:27.497
+what's sort of the breakdown of closed source, open source?
+
+498
+22:29.190 --> 22:31.140
+Are they taking open source models
+
+499
+22:31.140 --> 22:33.060
+off the shelf and customizing them?
+
+500
+22:33.060 --> 22:35.580
+Do you have like kind of an idea in your head
+
+501
+22:35.580 --> 22:38.790
+of how these are all kind of breaking out a little bit?
+
+502
+22:38.790 --> 22:41.190
+<v ->Yeah, I think we're seeing a little bit of both, right?</v>
+
+503
+22:41.190 --> 22:44.130
+So obviously in Intel we operate
+
+504
+22:44.130 --> 22:46.080
+on behalf of the national security community.
+
+505
+22:46.080 --> 22:49.320
+And I would say a close analogy is the financial sector.
+
+506
+22:49.320 --> 22:51.170
+That's super highly regulated, right?
+
+507
+22:52.099 --> 22:53.490
+So I think for the commercial market
+
+508
+22:53.490 --> 22:56.580
+is certainly fine to use some of the closed source
+
+509
+22:56.580 --> 23:01.580
+hosted models like your ChatGPTs and others,
+
+510
+23:02.220 --> 23:04.920
+or Gemini and other that are offered.
+
+511
+23:04.920 --> 23:08.220
+But for close environments that are disconnected
+
+512
+23:08.220 --> 23:10.110
+from the internet, we're seeing companies
+
+513
+23:10.110 --> 23:12.390
+really think about how to provide the same value
+
+514
+23:12.390 --> 23:14.130
+that they would provide to their commercial customers,
+
+515
+23:14.130 --> 23:15.420
+to those environments as well.
+
+516
+23:15.420 --> 23:16.740
+So I would say it's a hybrid of both,
+
+517
+23:16.740 --> 23:18.420
+but it's really mostly about the customer
+
+518
+23:18.420 --> 23:19.950
+and the deployment environment.
+
+519
+23:19.950 --> 23:21.194
+<v ->Gotcha.</v>
+
+520
+23:21.194 --> 23:26.194
+So, 2024 was an interesting year in cybersecurity though.
+
+521
+23:26.730 --> 23:28.770
+I think there's basically never
+
+522
+23:28.770 --> 23:30.423
+a dull year in cybersecurity.
+
+523
+23:31.410 --> 23:35.580
+So we had the largest telecoms hack
+
+524
+23:35.580 --> 23:38.250
+in maybe the country's history.
+
+525
+23:38.250 --> 23:41.850
+We had a large outage, IT outage,
+
+526
+23:41.850 --> 23:44.070
+caused by a cybersecurity vendor.
+
+527
+23:44.070 --> 23:46.990
+And then there was also most recently
+
+528
+23:48.330 --> 23:50.310
+an incident at the Department of Treasury.
+
+529
+23:50.310 --> 23:54.570
+I guess for me it seems like these events
+
+530
+23:54.570 --> 23:58.770
+are getting bigger and bigger each year, broader and broader
+
+531
+23:58.770 --> 24:00.483
+and more and more impactful.
+
+532
+24:01.440 --> 24:04.023
+What's your your take on this?
+
+533
+24:04.890 --> 24:07.890
+Is this like just the new normal?
+
+534
+24:07.890 --> 24:09.780
+Kaiti, I dunno, we can start with you.
+
+535
+24:09.780 --> 24:12.150
+<v ->Yeah, so I think that even with AI,</v>
+
+536
+24:12.150 --> 24:14.910
+it's gonna get even more difficult to defend against
+
+537
+24:14.910 --> 24:18.060
+because the attacks are gonna get better and better
+
+538
+24:18.060 --> 24:21.240
+and I think social engineering's gonna get trickier
+
+539
+24:21.240 --> 24:24.480
+and I think the human aspect of cybersecurity
+
+540
+24:24.480 --> 24:27.144
+is the hardest to defend against.
+
+541
+24:27.144 --> 24:28.950
+And so I think what we've started to see
+
+542
+24:28.950 --> 24:31.050
+is a zero trust architecture
+
+543
+24:31.050 --> 24:33.090
+where you just don't trust anybody.
+
+544
+24:33.090 --> 24:34.680
+And I think that's gonna be
+
+545
+24:34.680 --> 24:37.350
+kind of the go forward assumption
+
+546
+24:37.350 --> 24:39.390
+is that you've already been breached
+
+547
+24:39.390 --> 24:42.180
+and you have to basically make sure
+
+548
+24:42.180 --> 24:44.198
+that you are not gonna get exfiltrated
+
+549
+24:44.198 --> 24:47.850
+or that you are taking the precautions to make sure
+
+550
+24:47.850 --> 24:52.170
+that there's not huge ramifications after a breach.
+
+551
+24:52.170 --> 24:55.320
+So I think that kind of that zero trust architecture
+
+552
+24:55.320 --> 24:57.303
+is gonna be the go forward norm.
+
+553
+24:58.295 --> 25:00.567
+And I do think that we're gonna have to fight
+
+554
+25:00.567 --> 25:04.653
+more sophisticated attacks with more sophisticated tools.
+
+555
+25:05.916 --> 25:06.749
+Yeah.
+
+556
+25:06.749 --> 25:08.677
+<v ->Yeah, if you talk to most CISOs they'll say like,</v>
+
+557
+25:08.677 --> 25:11.730
+"It's not if but when you'll get hacked."
+
+558
+25:11.730 --> 25:13.140
+I think that's gonna be, you know,
+
+559
+25:13.140 --> 25:14.520
+going forward it's gonna be much the same.
+
+560
+25:14.520 --> 25:17.010
+And you see like a couple key categories
+
+561
+25:17.010 --> 25:18.780
+where like people are investing in things
+
+562
+25:18.780 --> 25:20.340
+that are gonna allow you to continue your,
+
+563
+25:20.340 --> 25:23.220
+allow your business to continue to operate
+
+564
+25:23.220 --> 25:24.420
+even though you've been hacked.
+
+565
+25:24.420 --> 25:26.100
+So like Rubrik just went public,
+
+566
+25:26.100 --> 25:29.430
+and that's a cloud data backup company.
+
+567
+25:29.430 --> 25:30.900
+There's a bunch of interesting companies
+
+568
+25:30.900 --> 25:33.933
+that are just focused on alleviating ransomware.
+
+569
+25:35.653 --> 25:37.410
+So part of your systems get ransomware,
+
+570
+25:37.410 --> 25:38.970
+they capture the encryption keys
+
+571
+25:38.970 --> 25:41.610
+and they're able to unransomware your keys.
+
+572
+25:41.610 --> 25:42.570
+So you've still been hacked,
+
+573
+25:42.570 --> 25:45.600
+but you can continue to operate your business.
+
+574
+25:45.600 --> 25:48.060
+I think you're gonna start seeing more and more technologies
+
+575
+25:48.060 --> 25:50.730
+that allow people to continue to do their work
+
+576
+25:50.730 --> 25:53.190
+even when they're someone inside your systems
+
+577
+25:53.190 --> 25:56.133
+that you're trying to actively get outta your systems.
+
+578
+25:57.030 --> 25:59.190
+<v ->Yeah, I agree with Nick and Kaiti.</v>
+
+579
+25:59.190 --> 26:00.720
+The other thing I'll add.
+
+580
+26:00.720 --> 26:03.060
+With some of these attacks, a lot of them
+
+581
+26:03.060 --> 26:05.100
+have been focused on legacy infrastructure
+
+582
+26:05.100 --> 26:07.830
+and traditionally these devices, they're old,
+
+583
+26:07.830 --> 26:09.480
+they weren't developed with security in mind
+
+584
+26:09.480 --> 26:12.360
+and people are very hesitant to do anything to them, right?
+
+585
+26:12.360 --> 26:14.280
+Like you can't apply your traditional
+
+586
+26:14.280 --> 26:17.190
+or your general purpose compute on cybersecurity solutions
+
+587
+26:17.190 --> 26:19.050
+to these devices because they might break.
+
+588
+26:19.050 --> 26:21.750
+And in a critical infrastructure situation
+
+589
+26:21.750 --> 26:23.580
+that might have catastrophic consequences.
+
+590
+26:23.580 --> 26:27.060
+So, I think we need to look at
+
+591
+26:27.060 --> 26:29.220
+implementing security practices in those environments,
+
+592
+26:29.220 --> 26:32.280
+which will help with some of these really large attacks
+
+593
+26:32.280 --> 26:34.680
+that where the attackers are able to kind of operate
+
+594
+26:34.680 --> 26:36.690
+low and slow within the environment.
+
+595
+26:36.690 --> 26:38.010
+The other thing that I think
+
+596
+26:38.010 --> 26:40.710
+is key for the industry going forward is a renewed focus
+
+597
+26:40.710 --> 26:43.653
+on cyber data management and cyber data analytics.
+
+598
+26:44.760 --> 26:47.280
+A lot of these attackers, they're practicing kind of
+
+599
+26:47.280 --> 26:51.090
+living off the land, so they're using benign tools
+
+600
+26:51.090 --> 26:53.070
+that exist on your system that wouldn't necessarily
+
+601
+26:53.070 --> 26:55.170
+raise an alarm to operate and persist
+
+602
+26:55.170 --> 26:57.483
+within that network without flagging
+
+603
+26:57.483 --> 27:00.660
+by being flagged by any of the security tools.
+
+604
+27:00.660 --> 27:03.090
+And this may happen over the course of a year, right?
+
+605
+27:03.090 --> 27:06.270
+And many organizations, it's really expensive to store data
+
+606
+27:06.270 --> 27:07.980
+and oftentimes you have a 30 day window
+
+607
+27:07.980 --> 27:10.380
+and then after that it's like out the window.
+
+608
+27:10.380 --> 27:12.510
+So figuring out ways that we can figure out
+
+609
+27:12.510 --> 27:14.430
+which information we need, normalize it,
+
+610
+27:14.430 --> 27:16.620
+so it's all in a similar format.
+
+611
+27:16.620 --> 27:18.330
+And then get that into the right place.
+
+612
+27:18.330 --> 27:20.610
+so that we can drop really critical insights out of it,
+
+613
+27:20.610 --> 27:22.350
+I think is gonna be essential in the future
+
+614
+27:22.350 --> 27:24.840
+to really highlight anomalies.
+
+615
+27:24.840 --> 27:28.200
+<v ->Yeah, I think there's so much interconnectedness.</v>
+
+616
+27:28.200 --> 27:32.130
+You have software using third-party software.
+
+617
+27:32.130 --> 27:35.100
+Sometimes that software is using other third-party software
+
+618
+27:35.100 --> 27:39.550
+and open source software that when you have a breach
+
+619
+27:41.040 --> 27:44.730
+of a software application, and it's used
+
+620
+27:44.730 --> 27:46.470
+by a hundred thousand customers.
+
+621
+27:46.470 --> 27:50.253
+I mean, that's gonna be just a fairly catastrophic event.
+
+622
+27:51.570 --> 27:54.665
+On that topic, have you all looked at
+
+623
+27:54.665 --> 27:57.783
+software supply chain security companies?
+
+624
+27:58.650 --> 28:02.610
+<v ->Yeah, so I think 2021 was kind of the poster year</v>
+
+625
+28:02.610 --> 28:04.950
+of software supply chain companies
+
+626
+28:04.950 --> 28:07.170
+just given the SolarWinds breach.
+
+627
+28:07.170 --> 28:10.800
+So I think that the market went crazy in 2021
+
+628
+28:10.800 --> 28:12.150
+and all of the companies that came
+
+629
+28:12.150 --> 28:14.340
+to market got crazy valuations.
+
+630
+28:14.340 --> 28:16.686
+We actually sat out just because we couldn't get there
+
+631
+28:16.686 --> 28:20.490
+in terms of exit profile given the valuations
+
+632
+28:20.490 --> 28:21.570
+that they were requiring.
+
+633
+28:21.570 --> 28:23.850
+But yes, we've seen a ton of them
+
+634
+28:23.850 --> 28:27.840
+and I think that it's a pretty fragmented space still.
+
+635
+28:27.840 --> 28:30.640
+There's a lot when you look at the SDLC
+
+636
+28:31.560 --> 28:33.660
+to see kind of where you can play in.
+
+637
+28:33.660 --> 28:37.700
+I think Snyk's kind of the best well-known, maybe Veracode
+
+638
+28:37.700 --> 28:42.700
+in that space where you can have a whole suite of tools
+
+639
+28:42.870 --> 28:43.890
+that help you kind of do
+
+640
+28:43.890 --> 28:46.950
+that software supply chain analysis.
+
+641
+28:46.950 --> 28:48.120
+So yeah, we spent a lot of time,
+
+642
+28:48.120 --> 28:51.603
+we haven't necessarily made a bet in this space.
+
+643
+28:52.440 --> 28:55.020
+<v ->Yeah, we invested in a company called Indoor Labs.</v>
+
+644
+28:55.020 --> 28:56.637
+We're also investors in Snyk.
+
+645
+28:56.637 --> 28:59.640
+And I think with all things software supply chain,
+
+646
+28:59.640 --> 29:04.443
+it's about increasing kind of signal to noise.
+
+647
+29:04.443 --> 29:06.540
+So a lot of tools out there are super, super noisy,
+
+648
+29:06.540 --> 29:10.398
+whether it's a SaaS tool, an SCA tool, a DAS tool.
+
+649
+29:10.398 --> 29:14.160
+Your people who are analyzing these results
+
+650
+29:14.160 --> 29:17.100
+get a swamp of data and then they have to go decide
+
+651
+29:17.100 --> 29:18.330
+like what to go fix first.
+
+652
+29:18.330 --> 29:20.250
+What am I gonna go tell my developers to fix first?
+
+653
+29:20.250 --> 29:23.010
+And it's really difficult problem.
+
+654
+29:23.010 --> 29:25.980
+So there's new techniques coming out there that are able
+
+655
+29:25.980 --> 29:28.140
+to tell like, well, this is a vulnerability,
+
+656
+29:28.140 --> 29:30.420
+but this one actually gets executed in your code,
+
+657
+29:30.420 --> 29:31.920
+so that's probably something you should fix.
+
+658
+29:31.920 --> 29:33.870
+This is a vulnerability, it doesn't get executed
+
+659
+29:33.870 --> 29:36.175
+in your code, so you shouldn't fix it.
+
+660
+29:36.175 --> 29:39.930
+As well as like new techniques in SCA to just improve
+
+661
+29:39.930 --> 29:42.240
+kind of signal to noise ratio for reachability.
+
+662
+29:42.240 --> 29:44.970
+So I think there's just a lot of really cool innovation
+
+663
+29:44.970 --> 29:47.137
+in this space right now and I think
+
+664
+29:47.137 --> 29:48.510
+you're gonna kind of continue to see that
+
+665
+29:48.510 --> 29:51.540
+because it's so important going into '25.
+
+666
+29:51.540 --> 29:53.070
+<v ->Yeah, we're also interested in the</v>
+
+667
+29:53.070 --> 29:55.350
+software supply chain security space.
+
+668
+29:55.350 --> 29:58.050
+We're looking at it from the lens of secure by design.
+
+669
+29:58.050 --> 29:59.490
+So secure by design software.
+
+670
+29:59.490 --> 30:01.470
+So there's companies out there like Chainguard,
+
+671
+30:01.470 --> 30:04.620
+which offer containers that they kind of rebuild
+
+672
+30:04.620 --> 30:07.080
+from scratch with where they can promise zero
+
+673
+30:07.080 --> 30:08.940
+or near zero CVEs over the lifetime
+
+674
+30:08.940 --> 30:10.950
+of your use of that container.
+
+675
+30:10.950 --> 30:12.720
+We're also interested in software
+
+676
+30:12.720 --> 30:14.400
+contributor analysis, right?
+
+677
+30:14.400 --> 30:17.490
+So most people when they go to write code today,
+
+678
+30:17.490 --> 30:20.070
+the first line in that code is an import or an include.
+
+679
+30:20.070 --> 30:21.660
+And immediately they're bringing in
+
+680
+30:21.660 --> 30:23.970
+potentially thousands of lines of code that let's be honest,
+
+681
+30:23.970 --> 30:26.250
+like no one sits there and looks through it, right?
+
+682
+30:26.250 --> 30:28.860
+And that is introducing vulnerabilities
+
+683
+30:28.860 --> 30:30.270
+into your environment, which could have
+
+684
+30:30.270 --> 30:32.640
+like really bad consequences down the road.
+
+685
+30:32.640 --> 30:35.892
+So number one, we need to understand the provenance
+
+686
+30:35.892 --> 30:38.760
+of those pieces of code and libraries
+
+687
+30:38.760 --> 30:40.260
+and dependencies that we're bringing in.
+
+688
+30:40.260 --> 30:43.140
+And we also need to know who's contributing to those, right?
+
+689
+30:43.140 --> 30:45.180
+So if you go to these projects on GitHub,
+
+690
+30:45.180 --> 30:47.460
+there's a long list of user handles
+
+691
+30:47.460 --> 30:49.620
+and screen names of people that we have no idea
+
+692
+30:49.620 --> 30:50.453
+where they're from, right?
+
+693
+30:50.453 --> 30:53.831
+It may list a geographic IP, but that's really hard
+
+694
+30:53.831 --> 30:55.830
+to actually truly pinpoint.
+
+695
+30:55.830 --> 30:59.250
+So I think solutions, we've been looking at solutions
+
+696
+30:59.250 --> 31:01.830
+that can help us to gain a more holistic understanding
+
+697
+31:01.830 --> 31:03.300
+of the people contributing to the code
+
+698
+31:03.300 --> 31:05.253
+within our environments and our code.
+
+699
+31:06.090 --> 31:06.923
+<v ->Yeah, yeah.</v>
+
+700
+31:06.923 --> 31:09.690
+And that is the beauty of open source as well
+
+701
+31:09.690 --> 31:13.890
+is that you can actually look at and analyze the code.
+
+702
+31:13.890 --> 31:15.360
+So, let's see.
+
+703
+31:15.360 --> 31:18.520
+So we all invest at kind of different stages
+
+704
+31:18.520 --> 31:23.050
+of the software lifecycle or sorry, the startup lifecycle
+
+705
+31:24.060 --> 31:26.310
+and we all have like kind of slightly different mandates
+
+706
+31:26.310 --> 31:28.740
+though there is a lot of overlap.
+
+707
+31:28.740 --> 31:32.400
+What are some of the things that you all look for
+
+708
+31:32.400 --> 31:37.080
+when evaluating these early stage technology companies?
+
+709
+31:37.080 --> 31:38.730
+Kaiti, maybe we can start with you.
+
+710
+31:38.730 --> 31:41.760
+<v ->Yeah, so my background is actually in more public markets.</v>
+
+711
+31:41.760 --> 31:43.890
+So when I started venture and realized
+
+712
+31:43.890 --> 31:48.890
+there's no revenue to value, I was a little dumbfounded.
+
+713
+31:49.230 --> 31:51.720
+Math is really easy in venture,
+
+714
+31:51.720 --> 31:53.760
+it's really more of the intangibles.
+
+715
+31:53.760 --> 31:56.450
+So the team, especially in cybersecurity,
+
+716
+31:56.450 --> 31:59.460
+you've really gotta have that ecosystem
+
+717
+31:59.460 --> 32:01.050
+of who's your next hire.
+
+718
+32:01.050 --> 32:03.030
+And so people coming out of really
+
+719
+32:03.030 --> 32:05.610
+well-known big cybersecurity companies
+
+720
+32:05.610 --> 32:08.730
+that know who their number one, two, three next hires
+
+721
+32:08.730 --> 32:10.230
+are really important.
+
+722
+32:10.230 --> 32:12.570
+So, a lot of times you're betting on the team.
+
+723
+32:12.570 --> 32:13.680
+On the product side.
+
+724
+32:13.680 --> 32:15.787
+I mean even in public markets you're like,
+
+725
+32:15.787 --> 32:17.670
+"Oh, I know exactly what products I could do
+
+726
+32:17.670 --> 32:18.900
+with some of the parts."
+
+727
+32:18.900 --> 32:20.610
+Half the time they don't even have a product,
+
+728
+32:20.610 --> 32:23.010
+they have a deck and an idea.
+
+729
+32:23.010 --> 32:26.370
+So a lot of times it's the feasibility, the architecture,
+
+730
+32:26.370 --> 32:28.260
+what the incumbents are doing
+
+731
+32:28.260 --> 32:30.540
+and the vulnerabilities in the incumbents.
+
+732
+32:30.540 --> 32:34.560
+And so it's more, I would say, future looking,
+
+733
+32:34.560 --> 32:35.940
+you know, what can they do?
+
+734
+32:35.940 --> 32:39.029
+And then we look at go to market as well.
+
+735
+32:39.029 --> 32:42.120
+So, are the incumbents really well funded?
+
+736
+32:42.120 --> 32:43.740
+Like Wiz is a really great example.
+
+737
+32:43.740 --> 32:46.170
+Like I don't think I'd wanna go up against Wiz
+
+738
+32:46.170 --> 32:48.543
+directly in the synapse space right now.
+
+739
+32:49.380 --> 32:51.240
+And so you start to really look at like
+
+740
+32:51.240 --> 32:53.310
+how they're gonna market motion's gonna impact
+
+741
+32:53.310 --> 32:54.810
+their success going forward.
+
+742
+32:54.810 --> 32:57.810
+And then daily odds is kind of what we call
+
+743
+32:57.810 --> 33:00.690
+the term sheets and the valuations.
+
+744
+33:00.690 --> 33:02.370
+Like if you're getting in a series A
+
+745
+33:02.370 --> 33:05.970
+at a hundred million posts, most cybersecurity companies
+
+746
+33:05.970 --> 33:10.970
+are exiting at less than 450 million to strategic companies.
+
+747
+33:11.550 --> 33:14.670
+So when you're looking at 10x in your early seed As.
+
+748
+33:14.670 --> 33:17.610
+That's pretty difficult to do when you start to do the math.
+
+749
+33:17.610 --> 33:20.220
+So there does have to be some easy math
+
+750
+33:20.220 --> 33:21.480
+that corresponds with it.
+
+751
+33:21.480 --> 33:23.070
+And then because we're cyber only,
+
+752
+33:23.070 --> 33:28.070
+we have to preclude ourselves from any competing spaces.
+
+753
+33:28.170 --> 33:30.270
+So we don't wanna to have any companies
+
+754
+33:30.270 --> 33:32.910
+that are gonna have a conflict of interest
+
+755
+33:32.910 --> 33:34.020
+with us being on the board.
+
+756
+33:34.020 --> 33:36.570
+So that's the other nuance for us.
+
+757
+33:36.570 --> 33:40.950
+<v ->Yeah, yeah, I have a friend who invests in public markets</v>
+
+758
+33:40.950 --> 33:43.650
+and he's like, "I don't know how you guys do what you do.
+
+759
+33:43.650 --> 33:45.557
+There's no information."
+
+760
+33:45.557 --> 33:46.390
+(panelists chuckling)
+
+761
+33:46.390 --> 33:48.390
+And I'm like, "I don't know how you do what you do.
+
+762
+33:48.390 --> 33:50.730
+There's an overwhelming amount of information.
+
+763
+33:50.730 --> 33:53.850
+You can almost just drown in the amount of information."
+
+764
+33:53.850 --> 33:57.480
+So, Nick, so what are you,
+
+765
+33:57.480 --> 34:01.080
+I guess, yeah, from your perspective,
+
+766
+34:01.080 --> 34:04.110
+what are you seeing in terms of like the market?
+
+767
+34:04.110 --> 34:06.600
+<v ->Yeah, I mean I think it really depends on</v>
+
+768
+34:06.600 --> 34:10.451
+like how the economy goes this year and still TBD.
+
+769
+34:10.451 --> 34:14.220
+I think if things continue as they go this year,
+
+770
+34:14.220 --> 34:15.750
+then it's gonna be a lot like 2024
+
+771
+34:15.750 --> 34:17.670
+and we're gonna have another hot year,
+
+772
+34:17.670 --> 34:18.660
+a lot of acquisitions.
+
+773
+34:18.660 --> 34:19.770
+Like one thing that we did mention
+
+774
+34:19.770 --> 34:21.180
+in terms of big cyber events,
+
+775
+34:21.180 --> 34:23.940
+Splunk got bought for $16 billion last year.
+
+776
+34:23.940 --> 34:26.296
+That's maybe the biggest cyber acquisition ever.
+
+777
+34:26.296 --> 34:27.963
+<v Chris>I think so, yeah.</v>
+
+778
+34:27.963 --> 34:30.484
+<v ->So, I think we're gonna continue to see that.</v>
+
+779
+34:30.484 --> 34:32.250
+There are a lot of companies out there
+
+780
+34:32.250 --> 34:34.620
+and a lot of companies that are valued way higher
+
+781
+34:34.620 --> 34:35.850
+than their current traction.
+
+782
+34:35.850 --> 34:37.980
+And maybe those companies aren't gonna go anywhere.
+
+783
+34:37.980 --> 34:40.350
+And so you're gonna see strategic acquirers
+
+784
+34:40.350 --> 34:42.390
+start buying them and not just cyber companies.
+
+785
+34:42.390 --> 34:43.710
+You're not gonna just see CrowdStrike buying,
+
+786
+34:43.710 --> 34:46.709
+but you're gonna see the likes of Google, Amazon,
+
+787
+34:46.709 --> 34:51.210
+other companies, IBM, et cetera, that are gonna be looking
+
+788
+34:51.210 --> 34:53.520
+to pick up these teams and pick up these products
+
+789
+34:53.520 --> 34:55.950
+because of how important this market is
+
+790
+34:55.950 --> 34:59.403
+to anything IT related right now.
+
+791
+35:00.277 --> 35:01.110
+<v Chris>Yeah.</v>
+
+792
+35:01.110 --> 35:01.943
+<v ->Yeah, right.</v>
+
+793
+35:01.943 --> 35:03.630
+Other thing I'll add on to Kaiti's point on team,
+
+794
+35:03.630 --> 35:06.270
+we're looking at the technical pedigree of the founders
+
+795
+35:06.270 --> 35:10.080
+and the engineering team, especially as related to the space
+
+796
+35:10.080 --> 35:11.280
+that they're operating in, right?
+
+797
+35:11.280 --> 35:13.710
+So if you're someone that's developing an embedded system
+
+798
+35:13.710 --> 35:15.900
+security company, that's a very specific profile
+
+799
+35:15.900 --> 35:17.190
+of a person.
+
+800
+35:17.190 --> 35:19.500
+I'd also say just given that generative AI
+
+801
+35:19.500 --> 35:22.170
+is the new hotness and all cybersecurity,
+
+802
+35:22.170 --> 35:24.480
+a lot of cybersecurity companies are looking
+
+803
+35:24.480 --> 35:27.382
+to incorporate generative AI into their product offerings.
+
+804
+35:27.382 --> 35:29.460
+We're looking for that AI and data skill set
+
+805
+35:29.460 --> 35:31.110
+in addition to the security expertise
+
+806
+35:31.110 --> 35:33.570
+on those founding teams, 'cause we feel like that
+
+807
+35:33.570 --> 35:36.030
+is a fundamentally different skill
+
+808
+35:36.030 --> 35:38.850
+and it's gonna be really critical as these companies scale
+
+809
+35:38.850 --> 35:42.270
+to support enterprise level data.
+
+810
+35:42.270 --> 35:44.220
+<v ->Yep, so we have five minutes left.</v>
+
+811
+35:44.220 --> 35:45.930
+We're also happy to take questions.
+
+812
+35:45.930 --> 35:49.260
+So if you have any questions, you know, feel free to come up
+
+813
+35:49.260 --> 35:52.353
+to one of the mics and and we can answer that.
+
+814
+35:53.460 --> 35:54.990
+Oh.
+<v Bob>Yeah.</v>
+
+815
+35:54.990 --> 35:55.840
+<v ->Sure, go ahead.</v>
+
+816
+35:57.229 --> 36:00.090
+<v Bob>Hello, Bob Struble from Blue Venture Investors.</v>
+
+817
+36:00.090 --> 36:02.280
+I think we've worked with a couple of y'all.
+
+818
+36:02.280 --> 36:04.590
+Just something Nick said, pops in my head
+
+819
+36:04.590 --> 36:07.830
+it was sort of the exit path to strategics,
+
+820
+36:07.830 --> 36:10.050
+non-cyber strategics, the Googles and the Microsofts,
+
+821
+36:10.050 --> 36:11.640
+et cetera, of the world.
+
+822
+36:11.640 --> 36:14.040
+Everywhere else we're hearing that those people
+
+823
+36:14.040 --> 36:16.530
+are gonna go crazy investing in buying an AI companies
+
+824
+36:16.530 --> 36:17.880
+and there's not enough skills, et cetera.
+
+825
+36:17.880 --> 36:21.750
+So the thought is, is there potentially a crowding out
+
+826
+36:21.750 --> 36:25.770
+of time, attention, money as those big enterprises
+
+827
+36:25.770 --> 36:28.140
+look for the AI skill sets and cyber
+
+828
+36:28.140 --> 36:29.790
+kind of falls to the back burner?
+
+829
+36:31.200 --> 36:32.340
+<v ->Sorry, could you rephrase the question?</v>
+
+830
+36:32.340 --> 36:33.510
+Like, what are you asking?
+
+831
+36:33.510 --> 36:35.700
+<v Bob>I'm talking about if Google and Microsoft</v>
+
+832
+36:35.700 --> 36:39.210
+and other large enterprises are gonna be viable exit paths
+
+833
+36:39.210 --> 36:42.780
+for our portfolio companies, does the attention on cyber
+
+834
+36:42.780 --> 36:44.790
+that we've seen become diminished
+
+835
+36:44.790 --> 36:48.270
+because there is so much focus now on AI and acquihire
+
+836
+36:48.270 --> 36:49.590
+and we've gotta get these skill sets
+
+837
+36:49.590 --> 36:52.170
+and there's not enough out there on the AI side itself?
+
+838
+36:52.170 --> 36:54.510
+<v ->Oh yeah, no, I mean that's definitely a great question.</v>
+
+839
+36:54.510 --> 36:56.160
+Probably best to be answered by someone
+
+840
+36:56.160 --> 36:57.840
+who works at Google or Microsoft.
+
+841
+36:57.840 --> 37:02.160
+But I mean, I think if you think about what those companies
+
+842
+37:02.160 --> 37:03.150
+are thinking about strategically,
+
+843
+37:03.150 --> 37:07.170
+like they're very AI focused right now and their M&amp;A teams
+
+844
+37:07.170 --> 37:09.030
+are very AI focused right now,
+
+845
+37:09.030 --> 37:12.660
+including cyber companies whose M&amp;A teams
+
+846
+37:12.660 --> 37:14.700
+are very AI focused as well.
+
+847
+37:14.700 --> 37:16.350
+So I think it's a totally valid point.
+
+848
+37:16.350 --> 37:18.510
+I mean I think we'll have to see how the year goes,
+
+849
+37:18.510 --> 37:21.660
+but I'm still pretty optimistic overall.
+
+850
+37:21.660 --> 37:22.493
+I don't know.
+
+851
+37:22.493 --> 37:23.326
+Kaiti, what do you think?
+
+852
+37:23.326 --> 37:26.130
+<v ->Yeah, so I'll opine because some of our investment thesis</v>
+
+853
+37:26.130 --> 37:29.690
+in investing in company security for AI
+
+854
+37:29.690 --> 37:31.830
+is that Microsoft would go buy 'em.
+
+855
+37:31.830 --> 37:35.026
+I think that there's a huge concern in the general public
+
+856
+37:35.026 --> 37:38.670
+on safety, privacy, especially everything that happened
+
+857
+37:38.670 --> 37:40.830
+with Apple and Siri just recently.
+
+858
+37:40.830 --> 37:43.186
+So I actually think that there's a signal to the market
+
+859
+37:43.186 --> 37:47.010
+from these big aggregators buying security companies
+
+860
+37:47.010 --> 37:49.601
+that their browsers are more secure
+
+861
+37:49.601 --> 37:52.680
+or their AI models are more secure.
+
+862
+37:52.680 --> 37:55.590
+So I actually think that they could throw out
+
+863
+37:55.590 --> 38:00.510
+crazy multiples for AI, security for AI companies
+
+864
+38:00.510 --> 38:03.120
+and it's more of a signal to the market that,
+
+865
+38:03.120 --> 38:05.928
+hey, like Microsoft for example,
+
+866
+38:05.928 --> 38:08.760
+we have the most secure models in the industry
+
+867
+38:08.760 --> 38:12.390
+because we ended up buying X company.
+
+868
+38:12.390 --> 38:15.000
+So I actually think that they're not precluded
+
+869
+38:15.000 --> 38:17.190
+from focusing on the security aspect.
+
+870
+38:17.190 --> 38:20.640
+I think that the general public is still just as concerned
+
+871
+38:20.640 --> 38:22.680
+and with all of the news articles,
+
+872
+38:22.680 --> 38:27.680
+especially on the privacy side and AI leakage,
+
+873
+38:27.770 --> 38:29.973
+I think that they're still interested.
+
+874
+38:31.110 --> 38:32.610
+<v ->Yep, other thing I'll add on that</v>
+
+875
+38:32.610 --> 38:34.620
+is such a fast paced market
+
+876
+38:34.620 --> 38:37.890
+and novel capabilities are being developed all the time.
+
+877
+38:37.890 --> 38:39.270
+So I think we're gonna start to see
+
+878
+38:39.270 --> 38:41.040
+a lot more startup activity in that space.
+
+879
+38:41.040 --> 38:42.870
+And over time some of them will stick around
+
+880
+38:42.870 --> 38:45.090
+and for the long run, but ultimately a lot
+
+881
+38:45.090 --> 38:47.580
+of those really great security capabilities will be acquired
+
+882
+38:47.580 --> 38:49.230
+by some of these large market incumbents
+
+883
+38:49.230 --> 38:50.430
+and then that's how they'll kind of
+
+884
+38:50.430 --> 38:52.180
+bolstered their security offerings.
+
+885
+38:53.250 --> 38:57.240
+<v ->So we have about a minute and 30 seconds left.</v>
+
+886
+38:57.240 --> 38:58.080
+Maybe we could just end
+
+887
+38:58.080 --> 39:03.080
+on some maybe personal cybersecurity best practices.
+
+888
+39:03.390 --> 39:05.490
+I imagine the audience, there's a kind of wide range
+
+889
+39:05.490 --> 39:06.750
+of cybersecurity knowledge.
+
+890
+39:06.750 --> 39:08.490
+So what are some tips you can give
+
+891
+39:08.490 --> 39:12.780
+on cybersecurity best practices from a personal standpoint?
+
+892
+39:12.780 --> 39:14.670
+<v ->Yeah, so joining a cyber only firm,</v>
+
+893
+39:14.670 --> 39:16.173
+you get pretty paranoid.
+
+894
+39:17.160 --> 39:20.610
+So I would say that my cyber hygiene's a little bit more
+
+895
+39:20.610 --> 39:23.700
+robust than you would see other people.
+
+896
+39:23.700 --> 39:26.280
+So we don't use public Wi-Fi,
+
+897
+39:26.280 --> 39:28.773
+we always use our phones as hot spots.
+
+898
+39:29.610 --> 39:32.610
+Also, password managers is really important,
+
+899
+39:32.610 --> 39:37.610
+MFA whenever possible, don't ever use public USB ports.
+
+900
+39:37.830 --> 39:39.693
+They could have malware in them.
+
+901
+39:40.922 --> 39:42.810
+And then I would say a lot of times
+
+902
+39:42.810 --> 39:45.394
+it's the human clicking on phishing
+
+903
+39:45.394 --> 39:49.290
+that is getting credentials compromised,
+
+904
+39:49.290 --> 39:52.590
+and so be very cautious of the links that you guys click on.
+
+905
+39:52.590 --> 39:56.220
+Make sure that attachments are from people you know.
+
+906
+39:56.220 --> 39:58.110
+Just some basic things.
+
+907
+39:58.110 --> 39:58.960
+<v Nick>Yeah, I mean.</v>
+<v Chris>Perhaps quick ones.</v>
+
+908
+39:58.960 --> 40:01.740
+<v ->Yeah, you took mine, I would say password manager.</v>
+
+909
+40:01.740 --> 40:02.910
+And this is more personal for me
+
+910
+40:02.910 --> 40:04.710
+and it's actually less about security
+
+911
+40:04.710 --> 40:05.880
+and more about productivity.
+
+912
+40:05.880 --> 40:09.210
+Like I find that whether you're using like Googles or Apples
+
+913
+40:09.210 --> 40:11.220
+or like another third-party provider,
+
+914
+40:11.220 --> 40:13.230
+it just like makes life so much easier
+
+915
+40:13.230 --> 40:14.550
+to have a password manager.
+
+916
+40:14.550 --> 40:17.040
+So, that's only personally for me.
+
+917
+40:17.040 --> 40:19.920
+<v ->Yeah, and I'll add the use encrypted messaging</v>
+
+918
+40:19.920 --> 40:22.320
+applications when you can like Signal.
+
+919
+40:22.320 --> 40:23.153
+<v ->That's a good one.</v>
+
+920
+40:23.153 --> 40:24.810
+<v ->Especially after the telecom hack. (laughs)</v>
+
+921
+40:24.810 --> 40:26.340
+<v ->Oh yeah, that's a good one, yeah, yeah.</v>
+
+922
+40:26.340 --> 40:28.800
+<v ->All right, well, thank you all for coming today</v>
+
+923
+40:28.800 --> 40:30.791
+and thank you to our panelists.
+
+924
+40:30.791 --> 40:32.049
+(audience applauding)
+
+925
+40:32.049 --> 40:34.632
+(upbeat music)
+

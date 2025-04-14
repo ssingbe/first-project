@@ -1,0 +1,3385 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.590 --> 00:03.173
+(bright music)
+
+2
+00:11.021 --> 00:11.940
+<v ->The human connection.</v>
+
+3
+00:11.940 --> 00:16.080
+How do people fit into technology, really, ultimately.
+
+4
+00:16.080 --> 00:19.530
+We're fortunate to have really some all star panelists,
+
+5
+00:19.530 --> 00:21.510
+so I'll take a moment to introduce each one.
+
+6
+00:21.510 --> 00:24.690
+First, our first panelist is Lilian Coral,
+
+7
+00:24.690 --> 00:27.300
+Vice President of Technology and Democracy Programs,
+
+8
+00:27.300 --> 00:31.950
+and head of Open Technology Institute at New America.
+
+9
+00:31.950 --> 00:34.800
+Lilian is a recognized leader in advancing citizen-centered
+
+10
+00:34.800 --> 00:36.690
+smart cities strategies,
+
+11
+00:36.690 --> 00:39.630
+leveraging technology and data to drive transparency
+
+12
+00:39.630 --> 00:41.160
+and innovation and governance.
+
+13
+00:41.160 --> 00:44.250
+And she's also served as the Chief Data Officer
+
+14
+00:44.250 --> 00:46.050
+for the city of Los Angeles,
+
+15
+00:46.050 --> 00:48.240
+where she transformed how the city used data
+
+16
+00:48.240 --> 00:49.290
+to serve its residents.
+
+17
+00:49.290 --> 00:51.570
+So, Lilian, welcome.
+
+18
+00:51.570 --> 00:54.480
+Next we have Dr. Bettina Experton,
+
+19
+00:54.480 --> 00:56.820
+the President and CEO of Humetrix.
+
+20
+00:56.820 --> 00:59.340
+This is a company that empowers healthcare consumers
+
+21
+00:59.340 --> 01:02.280
+through cutting edge mobile health solutions.
+
+22
+01:02.280 --> 01:04.890
+Dr. Experton has over 25 years of experience
+
+23
+01:04.890 --> 01:07.380
+pioneering innovations in population health
+
+24
+01:07.380 --> 01:09.420
+and chronic care management,
+
+25
+01:09.420 --> 01:12.510
+with her technologies deployed worldwide.
+
+26
+01:12.510 --> 01:15.420
+She's also a trained physician and public health expert,
+
+27
+01:15.420 --> 01:18.090
+bringing a wealth of knowledge to the intersection
+
+28
+01:18.090 --> 01:20.820
+of healthcare and technology.
+
+29
+01:20.820 --> 01:23.250
+And finally, we're joined by Kevin Webb,
+
+30
+01:23.250 --> 01:25.800
+Senior Director of Sustainability and Social Impact
+
+31
+01:25.800 --> 01:28.080
+for Mitsubishi Electric US.
+
+32
+01:28.080 --> 01:31.380
+Kevin leads sustainability initiatives across the Americas
+
+33
+01:31.380 --> 01:35.100
+and directs the Mitsubishi America Foundation,
+
+34
+01:35.100 --> 01:38.460
+which focuses on inclusion and accessibility.
+
+35
+01:38.460 --> 01:39.720
+With extensive experience
+
+36
+01:39.720 --> 01:41.310
+in corporate social responsibility,
+
+37
+01:41.310 --> 01:44.250
+he is a key advocate for integrating sustainability
+
+38
+01:44.250 --> 01:46.380
+and digital inclusion into business
+
+39
+01:46.380 --> 01:48.300
+and community strategies.
+
+40
+01:48.300 --> 01:51.060
+So awesome to be with the three of you.
+
+41
+01:51.060 --> 01:52.650
+Glad to have had the chance to really get to know
+
+42
+01:52.650 --> 01:55.833
+each of you over the past month and past days.
+
+43
+01:56.850 --> 01:58.590
+So one of the things we were talking about,
+
+44
+01:58.590 --> 02:00.600
+in advance of this discussion,
+
+45
+02:00.600 --> 02:02.790
+is really what are we talking about with,
+
+46
+02:02.790 --> 02:06.180
+you know, digital inclusion and ultimately,
+
+47
+02:06.180 --> 02:07.260
+I'm gonna turn to each panelist
+
+48
+02:07.260 --> 02:09.480
+and ask them to share their thoughts.
+
+49
+02:09.480 --> 02:12.690
+But our goal for this session really is to talk about,
+
+50
+02:12.690 --> 02:14.670
+you know, the human side of technology.
+
+51
+02:14.670 --> 02:17.820
+How do we make sure that there is inclusion, that for,
+
+52
+02:17.820 --> 02:20.400
+you know, we're at a point in time right now where we see,
+
+53
+02:20.400 --> 02:23.310
+if we went to the Nvidia presentation last night,
+
+54
+02:23.310 --> 02:26.340
+just the tremendous change that is happening all around us,
+
+55
+02:26.340 --> 02:29.733
+and how do we make sure that people are included in that,
+
+56
+02:29.733 --> 02:32.520
+that there's not a divide in terms of accessibility,
+
+57
+02:32.520 --> 02:34.380
+in fairness and so forth.
+
+58
+02:34.380 --> 02:36.240
+So, Lilian let me start with you.
+
+59
+02:36.240 --> 02:39.480
+I mean, the question really is around digital inclusion.
+
+60
+02:39.480 --> 02:42.180
+I mean, how would you define digital inclusion?
+
+61
+02:42.180 --> 02:43.980
+What does that mean to you?
+
+62
+02:43.980 --> 02:45.900
+<v ->Well, at the Open Technology Institute,</v>
+
+63
+02:45.900 --> 02:47.400
+our mission, as an example,
+
+64
+02:47.400 --> 02:50.970
+is ensure that every American has access
+
+65
+02:50.970 --> 02:52.260
+to technology and its benefits.
+
+66
+02:52.260 --> 02:55.290
+We're a US based organization.
+
+67
+02:55.290 --> 02:57.540
+And so for us, inclusion means that
+
+68
+02:57.540 --> 03:01.560
+literally everyone in this country and it need not be,
+
+69
+03:01.560 --> 03:02.393
+obviously just America.
+
+70
+03:02.393 --> 03:05.640
+Everyone in this space really has an accessibility,
+
+71
+03:05.640 --> 03:07.170
+a way to enter the internet,
+
+72
+03:07.170 --> 03:11.160
+and then has the ability to really maximize that experience
+
+73
+03:11.160 --> 03:12.330
+to their own benefits.
+
+74
+03:12.330 --> 03:15.090
+So to ensure that they can access the health resources
+
+75
+03:15.090 --> 03:19.005
+they need, pursue the education they'd like to pursue,
+
+76
+03:19.005 --> 03:21.240
+to be able to have the economic opportunities
+
+77
+03:21.240 --> 03:24.480
+that they envision, or if they are, you know,
+
+78
+03:24.480 --> 03:27.090
+if they have accessibility issues,
+
+79
+03:27.090 --> 03:30.120
+that they are able to have the tools to be able
+
+80
+03:30.120 --> 03:31.950
+to really leverage that technology.
+
+81
+03:31.950 --> 03:34.200
+So, you know, if you're blind that you can navigate,
+
+82
+03:34.200 --> 03:37.140
+you can still navigate here, experience the internet.
+
+83
+03:37.140 --> 03:38.880
+So for us, inclusion really is
+
+84
+03:38.880 --> 03:41.100
+getting everybody on the internet
+
+85
+03:41.100 --> 03:43.350
+and being able to maximize that experience.
+
+86
+03:43.350 --> 03:44.433
+What I would just,
+
+87
+03:45.960 --> 03:47.670
+where I would leave the definition is just
+
+88
+03:47.670 --> 03:52.670
+as a grounding context is there's one key data point here.
+
+89
+03:52.710 --> 03:54.990
+One in every five households in the United States
+
+90
+03:54.990 --> 03:56.880
+does not have access to the internet,
+
+91
+03:56.880 --> 04:00.180
+and that is because it's either too expensive
+
+92
+04:00.180 --> 04:02.550
+or it's not available in that area
+
+93
+04:02.550 --> 04:04.890
+because there just isn't service coverage in the way
+
+94
+04:04.890 --> 04:07.800
+that we are structured as a country in terms
+
+95
+04:07.800 --> 04:10.470
+of service availability and infrastructure.
+
+96
+04:10.470 --> 04:11.700
+Over the last four years,
+
+97
+04:11.700 --> 04:15.240
+we have invested as a country over $65 billion
+
+98
+04:15.240 --> 04:16.890
+to try to make inroads in that.
+
+99
+04:16.890 --> 04:19.530
+But that number still persists, so one in five households.
+
+100
+04:19.530 --> 04:22.800
+And that's really where we like to think about
+
+101
+04:22.800 --> 04:25.350
+like the digital inclusion journey begins.
+
+102
+04:25.350 --> 04:27.480
+How do we get that one remaining household back online?
+
+103
+04:27.480 --> 04:29.729
+<v ->It's an incredible number really to think about</v>
+
+104
+04:29.729 --> 04:31.530
+that in this day and age that there's that kind
+
+105
+04:31.530 --> 04:32.640
+of a divide still.
+
+106
+04:32.640 --> 04:36.060
+And one wonders what happens as more and more technology
+
+107
+04:36.060 --> 04:38.160
+rolls out and the existence of that.
+
+108
+04:38.160 --> 04:40.950
+So, thank you Lilian. Bettina, what about yourself?
+
+109
+04:40.950 --> 04:42.720
+And you bring a kinda an international
+
+110
+04:42.720 --> 04:43.980
+perspective, as well.
+
+111
+04:43.980 --> 04:45.900
+So when you think about digital inclusion,
+
+112
+04:45.900 --> 04:48.183
+what does that mean and why does it matter?
+
+113
+04:49.140 --> 04:52.230
+<v ->So as a physician who became a technologist</v>
+
+114
+04:52.230 --> 04:55.710
+and as a founder and CEO of my company, Humetrix,
+
+115
+04:55.710 --> 04:58.683
+which is about software for human beings,
+
+116
+04:59.520 --> 05:03.420
+for us, technology has to make a difference in our lives.
+
+117
+05:03.420 --> 05:05.520
+And when it comes to healthcare,
+
+118
+05:05.520 --> 05:09.060
+sometimes it's a life and death opportunity
+
+119
+05:09.060 --> 05:11.283
+or missed opportunity to be impactful.
+
+120
+05:12.360 --> 05:15.990
+And so technology has to be meaningful,
+
+121
+05:15.990 --> 05:20.990
+it has to be accessible, it has to be user friendly
+
+122
+05:21.000 --> 05:24.300
+so that with regard to healthcare,
+
+123
+05:24.300 --> 05:27.870
+we can address the barriers to access healthcare.
+
+124
+05:27.870 --> 05:32.310
+It's complex. It's multiple point of contact.
+
+125
+05:32.310 --> 05:35.070
+The information is not available at your fingertip.
+
+126
+05:35.070 --> 05:38.310
+And as a patient, as a citizen,
+
+127
+05:38.310 --> 05:40.740
+it's language you don't understand.
+
+128
+05:40.740 --> 05:43.620
+So we have developed technology globally
+
+129
+05:43.620 --> 05:47.550
+to address those barriers in communication
+
+130
+05:47.550 --> 05:51.510
+between a patient and his doctor, his nurse.
+
+131
+05:51.510 --> 05:54.843
+And so it's medical literacy.
+
+132
+05:56.160 --> 05:59.100
+It's impossible to converse,
+
+133
+05:59.100 --> 06:00.510
+because you don't speak the language.
+
+134
+06:00.510 --> 06:03.180
+We travel the world, disease travel the world,
+
+135
+06:03.180 --> 06:06.210
+we just came out of a horrific pandemic.
+
+136
+06:06.210 --> 06:10.800
+So we have to be able to communicate our needs
+
+137
+06:10.800 --> 06:14.010
+and our technology for us, the technology we provide
+
+138
+06:14.010 --> 06:18.010
+is a platform of communication across languages
+
+139
+06:19.526 --> 06:23.190
+and brings that knowledge at your fingertip,
+
+140
+06:23.190 --> 06:26.550
+both for patients and also the physician receiving
+
+141
+06:26.550 --> 06:28.890
+or communicating back to those patients.
+
+142
+06:28.890 --> 06:31.350
+<v ->Yeah, I think you've got really a fantastic</v>
+
+143
+06:31.350 --> 06:33.810
+real world example of that that we'll wanna get to
+
+144
+06:33.810 --> 06:36.300
+because it's something that people could relate to,
+
+145
+06:36.300 --> 06:37.530
+relative to the Olympics.
+
+146
+06:37.530 --> 06:39.540
+So I'm gonna come back to you in a moment.
+
+147
+06:39.540 --> 06:41.660
+Kevin, what about yourself?
+
+148
+06:41.660 --> 06:44.940
+How are you seeing digital inclusion in your world?
+
+149
+06:44.940 --> 06:47.280
+<v ->Yeah, so Mitsubishi Electric,</v>
+
+150
+06:47.280 --> 06:50.190
+when we think about the products we make,
+
+151
+06:50.190 --> 06:52.050
+we really want to contribute to a sustainable,
+
+152
+06:52.050 --> 06:53.130
+smart society.
+
+153
+06:53.130 --> 06:55.257
+So society is of course the center of that,
+
+154
+06:55.257 --> 06:57.300
+the people in the society.
+
+155
+06:57.300 --> 07:01.053
+And we make infrastructure, factory automation equipment,
+
+156
+07:02.070 --> 07:03.960
+big screen TVs.
+
+157
+07:03.960 --> 07:07.530
+And as we think about the products we make,
+
+158
+07:07.530 --> 07:09.540
+we wanna make sure that people can access them
+
+159
+07:09.540 --> 07:10.770
+and that they're connected.
+
+160
+07:10.770 --> 07:12.330
+And so we think about digital inclusion,
+
+161
+07:12.330 --> 07:15.720
+it's how do we connect hardware and software
+
+162
+07:15.720 --> 07:18.750
+and bring 'em together as far as the company goes.
+
+163
+07:18.750 --> 07:21.780
+And our foundation, Mitsubishi Electric America Foundation,
+
+164
+07:21.780 --> 07:23.850
+35 years ago, we established the foundation
+
+165
+07:23.850 --> 07:26.760
+to really focus on empowering young people with disabilities
+
+166
+07:26.760 --> 07:28.560
+to lead productive lives.
+
+167
+07:28.560 --> 07:30.630
+So when we think about our work
+
+168
+07:30.630 --> 07:34.590
+helping young people transition from school to work,
+
+169
+07:34.590 --> 07:36.990
+what does that mean in terms of the new digital age
+
+170
+07:36.990 --> 07:39.000
+and the job opportunities that are there?
+
+171
+07:39.000 --> 07:40.530
+How should we be preparing young people with disabilities?
+
+172
+07:40.530 --> 07:42.150
+So we think about digital inclusion,
+
+173
+07:42.150 --> 07:45.170
+it's really making sure that the one in four people
+
+174
+07:45.170 --> 07:48.450
+in the United States, the billion people globally
+
+175
+07:48.450 --> 07:51.030
+that have some form of disability,
+
+176
+07:51.030 --> 07:54.480
+can really be truly included in that process.
+
+177
+07:54.480 --> 07:57.970
+So thinking about how do we make the tech we're creating
+
+178
+07:59.010 --> 08:03.030
+fully inclusive, starting with inclusion from the beginning,
+
+179
+08:03.030 --> 08:07.230
+making it accessible and really tying that into
+
+180
+08:07.230 --> 08:10.860
+the technology, both again, the hardware and the software
+
+181
+08:10.860 --> 08:12.450
+and creating a whole ecosystem
+
+182
+08:12.450 --> 08:16.950
+so that people can fully participate and be fully inclusive.
+
+183
+08:16.950 --> 08:19.020
+<v Joe>Yeah, so Kevin, in your experience, I mean,</v>
+
+184
+08:19.020 --> 08:21.240
+how big of a an issue is this?
+
+185
+08:21.240 --> 08:23.490
+I mean, and who is it affecting
+
+186
+08:23.490 --> 08:26.400
+and can you give some examples of maybe of the scope
+
+187
+08:26.400 --> 08:28.830
+of the impact, just to make it real for everybody?
+
+188
+08:28.830 --> 08:30.930
+<v ->Yeah, so as I mentioned, so in the United States,</v>
+
+189
+08:30.930 --> 08:33.840
+one in four people have some type of disability.
+
+190
+08:33.840 --> 08:35.610
+Most people find that hard to believe.
+
+191
+08:35.610 --> 08:37.890
+But if you think about disability broadly
+
+192
+08:37.890 --> 08:41.580
+and think about chronic illnesses and mental health issues
+
+193
+08:41.580 --> 08:44.430
+and so forth, it impacts all of us,
+
+194
+08:44.430 --> 08:49.050
+either personally or someone we love and care for.
+
+195
+08:49.050 --> 08:53.933
+So we think about healthcare and in the impact
+
+196
+08:55.980 --> 08:59.370
+of the digital technology in accessing
+
+197
+08:59.370 --> 09:00.450
+the healthcare system.
+
+198
+09:00.450 --> 09:02.760
+So yesterday we were actually sponsoring
+
+199
+09:02.760 --> 09:06.390
+an innovation challenge with a CTA foundation.
+
+200
+09:06.390 --> 09:08.910
+I happen to serve as a trustee with that organization
+
+201
+09:08.910 --> 09:12.600
+and thinking about digital health tech
+
+202
+09:12.600 --> 09:15.060
+for people with intellectual and developmental disabilities.
+
+203
+09:15.060 --> 09:18.750
+And how do you really, again, start from the beginning
+
+204
+09:18.750 --> 09:22.320
+to develop that technology inclusively
+
+205
+09:22.320 --> 09:25.500
+and thinking about how do we connect
+
+206
+09:25.500 --> 09:30.000
+the various systems we have and make it interoperable,
+
+207
+09:30.000 --> 09:32.100
+easy to use so that people with all backgrounds
+
+208
+09:32.100 --> 09:34.710
+and abilities can fully access and fully participate
+
+209
+09:34.710 --> 09:36.060
+in their own healthcare decisions
+
+210
+09:36.060 --> 09:38.070
+and control their technology.
+
+211
+09:38.070 --> 09:41.970
+So we recognized a company yesterday thinking about that,
+
+212
+09:41.970 --> 09:45.090
+but these are issues that impact everyone.
+
+213
+09:45.090 --> 09:47.670
+Again, the person with a disability, their caregivers,
+
+214
+09:47.670 --> 09:49.950
+their family, the doctors that work with them,
+
+215
+09:49.950 --> 09:54.120
+the first responders that work with them, their employers.
+
+216
+09:54.120 --> 09:56.910
+And so it's an issue that is pervasive
+
+217
+09:56.910 --> 09:59.130
+and if you really want to be fully inclusive,
+
+218
+09:59.130 --> 10:00.330
+as we develop that technology,
+
+219
+10:00.330 --> 10:05.330
+making sure that it is available for everyone to use is key.
+
+220
+10:05.670 --> 10:06.780
+<v ->Awesome, thank you.</v>
+
+221
+10:06.780 --> 10:09.150
+Now, Bettina, you've had a real example.
+
+222
+10:09.150 --> 10:10.950
+10 million people came together
+
+223
+10:10.950 --> 10:13.620
+for the recent Olympics in Paris.
+
+224
+10:13.620 --> 10:16.380
+All kinds of issues in terms of people who might fall ill
+
+225
+10:16.380 --> 10:18.450
+or be injured, be able to communicate,
+
+226
+10:18.450 --> 10:20.850
+talk a little bit about what you saw in terms of
+
+227
+10:20.850 --> 10:24.450
+how the human connection can bridge the gap
+
+228
+10:24.450 --> 10:28.353
+between language and technology to help get better results.
+
+229
+10:29.400 --> 10:33.540
+<v ->So that was a extraordinary example of</v>
+
+230
+10:33.540 --> 10:36.153
+what we could face at scale.
+
+231
+10:37.068 --> 10:38.520
+So here in one place,
+
+232
+10:38.520 --> 10:41.710
+10 million people from all over the world are gathering
+
+233
+10:42.630 --> 10:46.470
+to watch, to live that extraordinary Olympics experience,
+
+234
+10:46.470 --> 10:48.270
+but things can happen.
+
+235
+10:48.270 --> 10:50.730
+You can get hurt, you can fall,
+
+236
+10:50.730 --> 10:55.680
+you can catch, you know, something of infectious disease.
+
+237
+10:55.680 --> 11:00.390
+And what the local health authority were concerned about
+
+238
+11:00.390 --> 11:05.390
+was to adequately care and triage the health needs
+
+239
+11:06.060 --> 11:10.230
+of those 10 million plus people who came as spectators,
+
+240
+11:10.230 --> 11:13.260
+the 15,000 athletes and para-athletes
+
+241
+11:13.260 --> 11:17.010
+who came from all over the world when those physicians
+
+242
+11:17.010 --> 11:20.280
+and nurses and paramedics didn't speak their language.
+
+243
+11:20.280 --> 11:24.660
+So the technology we developed to again,
+
+244
+11:24.660 --> 11:28.320
+resolve that language barriers
+
+245
+11:28.320 --> 11:30.540
+and also this medical language barrier,
+
+246
+11:30.540 --> 11:33.600
+which is more complex, is something way beyond
+
+247
+11:33.600 --> 11:35.970
+what you could get with Google translate.
+
+248
+11:35.970 --> 11:38.550
+So it's technology which can even speak
+
+249
+11:38.550 --> 11:40.900
+your medical history, your needs
+
+250
+11:41.790 --> 11:44.250
+in the language of the person you are seeing.
+
+251
+11:44.250 --> 11:45.690
+So you travel the world here,
+
+252
+11:45.690 --> 11:48.300
+you come to Paris for the Olympics.
+
+253
+11:48.300 --> 11:51.900
+So at every competition site, in the first aid station,
+
+254
+11:51.900 --> 11:54.450
+they could immediately access our software,
+
+255
+11:54.450 --> 11:59.450
+global health communicator to say or speak
+
+256
+11:59.760 --> 12:03.810
+why they were there, any kind of important medical history
+
+257
+12:03.810 --> 12:06.930
+there to communicate what medication they took.
+
+258
+12:06.930 --> 12:10.053
+And even if you think of the simple Tylenol here,
+
+259
+12:11.040 --> 12:14.580
+if you go abroad and look for Tylenol, you'll not find it
+
+260
+12:14.580 --> 12:16.950
+because it's provided under different names.
+
+261
+12:16.950 --> 12:18.930
+So it takes complex technology.
+
+262
+12:18.930 --> 12:21.330
+That's where technology can break those
+
+263
+12:21.330 --> 12:25.200
+barriers of information, access, and communication.
+
+264
+12:25.200 --> 12:27.510
+Takes a type of technology we develop
+
+265
+12:27.510 --> 12:30.000
+to look for the active ingredient of that drug
+
+266
+12:30.000 --> 12:32.010
+and find the corresponding medication
+
+267
+12:32.010 --> 12:35.070
+available in the country, you have visit in real time.
+
+268
+12:35.070 --> 12:38.520
+So at the end of the day, thousands of people
+
+269
+12:38.520 --> 12:42.543
+benefited from that technology from 97 different countries
+
+270
+12:43.590 --> 12:47.190
+and region of the world and speaking 22 languages.
+
+271
+12:47.190 --> 12:48.147
+<v ->I mean, that's incredible.</v>
+
+272
+12:48.147 --> 12:50.670
+And I can imagine the urgency of the situation,
+
+273
+12:50.670 --> 12:53.573
+someone has an immediate situation
+
+274
+12:53.573 --> 12:55.650
+and the technology that can bridge that gap
+
+275
+12:55.650 --> 12:56.670
+and help people communicate,
+
+276
+12:56.670 --> 12:59.070
+so clearly a way to bring people together.
+
+277
+12:59.070 --> 12:59.940
+Lilian, how about yourself?
+
+278
+12:59.940 --> 13:03.030
+What is an example of where you've seen
+
+279
+13:03.030 --> 13:06.930
+either a lack of digital inclusion and the adverse impact
+
+280
+13:06.930 --> 13:09.360
+of that or where you've seen a solution
+
+281
+13:09.360 --> 13:10.950
+that people have come together to bring
+
+282
+13:10.950 --> 13:12.150
+to help bridge that gap?
+
+283
+13:13.380 --> 13:17.970
+<v ->Yeah, so I think, you know, from sort of the</v>
+
+284
+13:17.970 --> 13:21.570
+deficit perspective, I think we think about examples
+
+285
+13:21.570 --> 13:24.210
+I shared with you, like for example, diabetes
+
+286
+13:24.210 --> 13:27.777
+is like one of the most sort of widely..
+
+287
+13:31.140 --> 13:35.400
+It's one of the most common diseases here in the US.
+
+288
+13:35.400 --> 13:38.760
+And a lot of information or a lot of access
+
+289
+13:38.760 --> 13:42.540
+to be able to treat the disease.
+
+290
+13:42.540 --> 13:44.520
+And it's actually a disease that's also very common,
+
+291
+13:44.520 --> 13:47.580
+like where your economic background
+
+292
+13:47.580 --> 13:50.100
+and your socioeconomic background really impacts
+
+293
+13:50.100 --> 13:52.500
+your ability to manage your disease.
+
+294
+13:52.500 --> 13:55.710
+A lot of the resources and ability to manage that disease
+
+295
+13:55.710 --> 13:59.580
+are online and yet, like we discussed earlier, you know,
+
+296
+13:59.580 --> 14:02.310
+the one in five households are usually the ones
+
+297
+14:02.310 --> 14:05.730
+who are most likely to have these kinds of chronic diseases
+
+298
+14:05.730 --> 14:07.650
+and not have access to internet
+
+299
+14:07.650 --> 14:09.510
+to be able to then manage the disease
+
+300
+14:09.510 --> 14:12.630
+or manage resources that could help improve,
+
+301
+14:12.630 --> 14:14.980
+like environmental conditions that can help it.
+
+302
+14:15.930 --> 14:18.810
+My background is really mostly in smart cities
+
+303
+14:18.810 --> 14:20.670
+as government implements it.
+
+304
+14:20.670 --> 14:22.710
+And so from a government background,
+
+305
+14:22.710 --> 14:25.290
+you can imagine that like mitigating the cost,
+
+306
+14:25.290 --> 14:28.650
+the prevalence of these kinds of diseases
+
+307
+14:28.650 --> 14:31.260
+and then trying to manage even environmental conditions
+
+308
+14:31.260 --> 14:32.460
+to help communities thrive.
+
+309
+14:32.460 --> 14:35.700
+Like not having access to the internet is a big issue.
+
+310
+14:35.700 --> 14:37.950
+The other kind of counter example that I would give is
+
+311
+14:37.950 --> 14:40.260
+around even just something like disaster response.
+
+312
+14:40.260 --> 14:42.570
+I live in California, we're in the midst right now,
+
+313
+14:42.570 --> 14:45.390
+one of a huge weather storm alert,
+
+314
+14:45.390 --> 14:48.180
+and then also just a huge fire that just erupted.
+
+315
+14:48.180 --> 14:51.540
+In these times, the ability to communicate widely
+
+316
+14:51.540 --> 14:53.520
+and broadly are just really, really critical.
+
+317
+14:53.520 --> 14:57.900
+And as we have more and more weather related events,
+
+318
+14:57.900 --> 14:59.940
+weather related emergencies, you know,
+
+319
+14:59.940 --> 15:02.640
+the ability of government to communicate to citizens
+
+320
+15:02.640 --> 15:04.470
+is going to be really critical.
+
+321
+15:04.470 --> 15:06.990
+On the flip side of that, even to communicate to citizens,
+
+322
+15:06.990 --> 15:08.850
+things that are happening in their community
+
+323
+15:08.850 --> 15:12.180
+for community engagement or for civic engagement purposes.
+
+324
+15:12.180 --> 15:14.340
+These are all reasons that require
+
+325
+15:14.340 --> 15:15.630
+more and more connectivity.
+
+326
+15:15.630 --> 15:19.590
+And I think it's, you know, it's also an opportunity
+
+327
+15:19.590 --> 15:21.480
+not just to access the information,
+
+328
+15:21.480 --> 15:22.950
+but really to start thinking about
+
+329
+15:22.950 --> 15:25.980
+when you access the internet and that information,
+
+330
+15:25.980 --> 15:27.630
+are you able, do you have the skills
+
+331
+15:27.630 --> 15:31.770
+to really be able to understand what is real information,
+
+332
+15:31.770 --> 15:34.680
+what is fake or mis or disinformation?
+
+333
+15:34.680 --> 15:37.740
+So those are really, I think, some concrete examples
+
+334
+15:37.740 --> 15:40.260
+that we're dealing with on the community front.
+
+335
+15:40.260 --> 15:45.260
+I think where there are bright stars in some ways
+
+336
+15:45.360 --> 15:48.750
+on the digital inclusion side, you know,
+
+337
+15:48.750 --> 15:52.380
+I think it's much more of, the bright spots I would say,
+
+338
+15:52.380 --> 15:54.630
+and I don't know that there's a solution per se, is that,
+
+339
+15:54.630 --> 15:57.510
+you know, this is a much more commonly known
+
+340
+15:57.510 --> 15:59.850
+and I think understood issue, right?
+
+341
+15:59.850 --> 16:03.060
+There's more of a recognition that we do have to get
+
+342
+16:03.060 --> 16:06.210
+and ensure that everybody has access to the internet
+
+343
+16:06.210 --> 16:08.760
+that has access to trustworthy information.
+
+344
+16:08.760 --> 16:11.610
+But there's still a lot of gaps in terms of understanding
+
+345
+16:12.570 --> 16:16.050
+the pervasiveness of the divide,
+
+346
+16:16.050 --> 16:20.730
+the amount of sort of cost that it is to the individual
+
+347
+16:20.730 --> 16:22.320
+to be able to access the internet.
+
+348
+16:22.320 --> 16:23.883
+I think there's just not,
+
+349
+16:24.847 --> 16:26.640
+I don't think we have a common understanding about,
+
+350
+16:26.640 --> 16:28.800
+you know, like the figure, I said one in five households,
+
+351
+16:28.800 --> 16:30.360
+how much it costs those households,
+
+352
+16:30.360 --> 16:35.040
+and then the ability to really understand the competencies.
+
+353
+16:35.040 --> 16:37.800
+We don't have a real kind of common definition
+
+354
+16:37.800 --> 16:40.860
+or understanding of digital inclusion to say
+
+355
+16:40.860 --> 16:43.380
+that there are common competencies that people need to
+
+356
+16:43.380 --> 16:45.780
+be had, but there is a bright spot in that we understand
+
+357
+16:45.780 --> 16:46.830
+that this is an issue
+
+358
+16:46.830 --> 16:48.510
+and that we have to do something about it.
+
+359
+16:48.510 --> 16:53.010
+So that's sort of how I would kind of frame the opportunity.
+
+360
+16:53.010 --> 16:54.300
+<v ->So you mentioned skills.</v>
+
+361
+16:54.300 --> 16:56.280
+I mean, this is something else, like when we think about
+
+362
+16:56.280 --> 16:58.110
+what are the skills that people are gonna need,
+
+363
+16:58.110 --> 17:00.930
+I mean, one of the things that we see certainly is AI,
+
+364
+17:00.930 --> 17:02.640
+which is becoming more and more pervasive,
+
+365
+17:02.640 --> 17:03.630
+it's gonna affect jobs,
+
+366
+17:03.630 --> 17:05.280
+many people think it will replace jobs,
+
+367
+17:05.280 --> 17:07.200
+and maybe over the short term it won't as much
+
+368
+17:07.200 --> 17:09.990
+as replace parts of jobs,
+
+369
+17:09.990 --> 17:11.760
+things that might be easy to automate,
+
+370
+17:11.760 --> 17:13.500
+administrative kinds of things.
+
+371
+17:13.500 --> 17:16.560
+So certainly there are skills that people are gonna need,
+
+372
+17:16.560 --> 17:19.380
+resilience and courage and a whole range of other things,
+
+373
+17:19.380 --> 17:20.580
+emotional intelligence.
+
+374
+17:20.580 --> 17:22.740
+What are the kinds of skills that you think
+
+375
+17:22.740 --> 17:25.080
+people are gonna need really to thrive
+
+376
+17:25.080 --> 17:27.047
+and to ensure that there is this inclusivity,
+
+377
+17:27.047 --> 17:30.780
+that they're not swept behind, so to speak?
+
+378
+17:30.780 --> 17:32.040
+<v ->Well, there's a lot of different frameworks</v>
+
+379
+17:32.040 --> 17:33.920
+and studies across the world.
+
+380
+17:33.920 --> 17:35.970
+In the US, we don't have a common framework,
+
+381
+17:35.970 --> 17:37.560
+but I think things, as you've described,
+
+382
+17:37.560 --> 17:39.750
+things that we think about in terms of core competencies
+
+383
+17:39.750 --> 17:43.320
+or things on the basic front, like data literacy,
+
+384
+17:43.320 --> 17:45.750
+but it is also things like problem solving skills.
+
+385
+17:45.750 --> 17:47.340
+I think the emotional intelligence piece
+
+386
+17:47.340 --> 17:49.140
+that you talk about is so critical,
+
+387
+17:49.140 --> 17:52.950
+the ability to go online and understand, one,
+
+388
+17:52.950 --> 17:54.810
+whether the information you're seeing is true or not,
+
+389
+17:54.810 --> 17:56.497
+but also to be able to kind of think,
+
+390
+17:56.497 --> 17:57.810
+"Does this sound truthful?"
+
+391
+17:57.810 --> 18:01.290
+Where could you, like to be able to investigate more deeply
+
+392
+18:01.290 --> 18:03.750
+into what you're seeing and not take it as is,
+
+393
+18:03.750 --> 18:06.630
+all of that kind of emotional intelligence, problem solving,
+
+394
+18:06.630 --> 18:09.420
+creativity, those are all part of digital skills
+
+395
+18:09.420 --> 18:11.760
+and competencies, in addition to kind of basic things
+
+396
+18:11.760 --> 18:15.090
+like data literacy, like being able to turn on a device
+
+397
+18:15.090 --> 18:16.893
+and know how to navigate the device.
+
+398
+18:17.730 --> 18:20.310
+So, and then the other, I think there's a couple
+
+399
+18:20.310 --> 18:23.160
+of other pieces around like privacy and security
+
+400
+18:23.160 --> 18:24.300
+that we talk about, right?
+
+401
+18:24.300 --> 18:26.820
+Like a lot of us even, you know,
+
+402
+18:26.820 --> 18:28.320
+someone who would think of herself
+
+403
+18:28.320 --> 18:31.710
+as pretty digitally literate.
+
+404
+18:31.710 --> 18:34.800
+We don't understand the degree to which our devices
+
+405
+18:34.800 --> 18:37.230
+need to be secure or could be secured, right?
+
+406
+18:37.230 --> 18:38.610
+I think a lot of times right now
+
+407
+18:38.610 --> 18:41.070
+we're struggling with a lot of cybersecurity issues
+
+408
+18:41.070 --> 18:43.620
+that are becoming much more consumer facing.
+
+409
+18:43.620 --> 18:47.610
+A lot of scams and phishing that will catch even the most,
+
+410
+18:47.610 --> 18:50.040
+you know, like literate of us, as we're seeing.
+
+411
+18:50.040 --> 18:53.310
+So there's things, competencies also have to include
+
+412
+18:53.310 --> 18:56.950
+things like security, like navigating privacy settings
+
+413
+18:58.020 --> 19:01.980
+and solutions and tools to really keep people private.
+
+414
+19:01.980 --> 19:05.040
+So I would say there's data literacy, there's security,
+
+415
+19:05.040 --> 19:08.310
+there's privacy, but there's a lot of emotional, social,
+
+416
+19:08.310 --> 19:12.510
+emotional, and then also as we were saying,
+
+417
+19:12.510 --> 19:15.090
+emotional intelligence and problem solving skills
+
+418
+19:15.090 --> 19:18.300
+that really need to be part of a,
+
+419
+19:18.300 --> 19:21.030
+almost like a comprehensive set of skills
+
+420
+19:21.030 --> 19:22.410
+that need to be put together.
+
+421
+19:22.410 --> 19:24.030
+<v ->It's interesting, you talked about even just</v>
+
+422
+19:24.030 --> 19:26.102
+the critical thinking skills.
+<v ->Critical thinking.</v>
+
+423
+19:26.102 --> 19:27.180
+<v ->I mean, think about how many times there could be</v>
+
+424
+19:27.180 --> 19:30.240
+hallucinations in AI and you seek data,
+
+425
+19:30.240 --> 19:32.910
+you might seek a even a medical type of thing
+
+426
+19:32.910 --> 19:35.400
+that could be completely wrong or made up and so forth.
+
+427
+19:35.400 --> 19:36.960
+Bettina or Kevin, what about yourself?
+
+428
+19:36.960 --> 19:39.240
+What are the skills you think that really
+
+429
+19:39.240 --> 19:41.160
+are gonna be if we look, you know, a year,
+
+430
+19:41.160 --> 19:42.450
+five years, 10 years out,
+
+431
+19:42.450 --> 19:44.490
+but even in the short term, what are some of the skills
+
+432
+19:44.490 --> 19:46.080
+that you think are really important to ensure
+
+433
+19:46.080 --> 19:47.907
+that people are included
+
+434
+19:47.907 --> 19:51.870
+and that they can thrive as technology continues to advance?
+
+435
+19:51.870 --> 19:55.410
+<v ->So one of the great benefit of AI is that</v>
+
+436
+19:55.410 --> 19:56.730
+on the receiving end,
+
+437
+19:56.730 --> 20:01.730
+it will require less skill to understand, you know,
+
+438
+20:01.950 --> 20:06.180
+our environment and for that technology to be truly useful
+
+439
+20:06.180 --> 20:07.890
+and personalized for us.
+
+440
+20:07.890 --> 20:11.610
+So technology fails when it needs to be come
+
+441
+20:11.610 --> 20:12.960
+with instruction, right?
+
+442
+20:12.960 --> 20:15.030
+It has to be totally intuitive.
+
+443
+20:15.030 --> 20:18.060
+So we use a lot of AI in our technology,
+
+444
+20:18.060 --> 20:21.390
+like the one we are speaking of deployed in the Olympics.
+
+445
+20:21.390 --> 20:24.690
+We use generative AI to pre-populate
+
+446
+20:24.690 --> 20:28.560
+all the type of symptoms you could complain from
+
+447
+20:28.560 --> 20:30.090
+in various languages,
+
+448
+20:30.090 --> 20:32.220
+according to your cultural differences.
+
+449
+20:32.220 --> 20:36.120
+The way you talk about, I think in French they talk,
+
+450
+20:36.120 --> 20:37.470
+I am originally from France,
+
+451
+20:37.470 --> 20:39.123
+but I've been here for 40 years.
+
+452
+20:39.990 --> 20:44.010
+When you have a bellyache, you talk about heartache.
+
+453
+20:44.010 --> 20:47.250
+Well, if you translate that word for word in English,
+
+454
+20:47.250 --> 20:48.990
+a physician may think that you have some issue
+
+455
+20:48.990 --> 20:50.973
+with your heart when it is your belly.
+
+456
+20:52.507 --> 20:54.730
+So generative AI pre-populates
+
+457
+20:55.590 --> 20:59.220
+over 5,000 symptoms per language in various way.
+
+458
+20:59.220 --> 21:03.973
+Someone from Brazil, the US or anywhere in the world
+
+459
+21:04.950 --> 21:08.010
+could communicate and express what's wrong with them
+
+460
+21:08.010 --> 21:09.900
+and why they need medical care.
+
+461
+21:09.900 --> 21:11.880
+And so it's pre-populated,
+
+462
+21:11.880 --> 21:14.580
+it's there for you to pick and choose quickly.
+
+463
+21:14.580 --> 21:17.340
+So it's right there at your fingertips.
+
+464
+21:17.340 --> 21:20.310
+You don't have to learn any skills to learn it.
+
+465
+21:20.310 --> 21:24.300
+And you are a better communicator at the time of urgency
+
+466
+21:24.300 --> 21:29.027
+where this miscommunication could lead to
+
+467
+21:30.000 --> 21:33.003
+misdiagnosis and harm.
+
+468
+21:33.960 --> 21:38.007
+So I see lots of benefits in AI and again,
+
+469
+21:38.007 --> 21:41.463
+but you know, I've been in technology for 30 plus years.
+
+470
+21:42.593 --> 21:47.193
+We reach our goal when it's intuitive and easy to use.
+
+471
+21:48.150 --> 21:50.190
+So AI enables that.
+
+472
+21:50.190 --> 21:54.480
+It takes human intelligence, in our area of healthcare,
+
+473
+21:54.480 --> 21:58.740
+clinical intelligence to review the technology,
+
+474
+21:58.740 --> 22:01.410
+to validate the output.
+
+475
+22:01.410 --> 22:04.500
+It's not free floating, it's not access the world of data
+
+476
+22:04.500 --> 22:09.090
+and pulling anything in, or since you talked about privacy,
+
+477
+22:09.090 --> 22:12.510
+I mean, technology evolves, especially on the mobile side
+
+478
+22:12.510 --> 22:15.900
+where you can run your AI engines software
+
+479
+22:15.900 --> 22:19.260
+right there on the edge on your device.
+
+480
+22:19.260 --> 22:21.360
+For the Olympics, and many of our application,
+
+481
+22:21.360 --> 22:24.570
+we have a security privacy by design architecture.
+
+482
+22:24.570 --> 22:26.880
+No personal information is stored in the cloud,
+
+483
+22:26.880 --> 22:28.500
+no cybersecurity risk.
+
+484
+22:28.500 --> 22:31.560
+You don't have to figure out privacy setting
+
+485
+22:31.560 --> 22:33.210
+because your data don't go anywhere.
+
+486
+22:33.210 --> 22:38.100
+They stay put in your device and encrypt it secure.
+
+487
+22:38.100 --> 22:41.940
+So there are ways to address those true risk
+
+488
+22:41.940 --> 22:45.300
+and at the same time benefit from those technology advance
+
+489
+22:45.300 --> 22:47.013
+AI is bringing to us.
+
+490
+22:47.880 --> 22:49.590
+<v Joe>Kevin, how about you?</v>
+
+491
+22:49.590 --> 22:51.093
+<v ->Yeah, so of course working with young people</v>
+
+492
+22:51.093 --> 22:53.640
+with disabilities to help in the workforce,
+
+493
+22:53.640 --> 22:55.200
+we're actually excited about the future
+
+494
+22:55.200 --> 22:57.480
+and the opportunities that present themselves
+
+495
+22:57.480 --> 22:59.670
+with the adoption of AI.
+
+496
+22:59.670 --> 23:03.660
+So again, our company makes factory automation equipment.
+
+497
+23:03.660 --> 23:06.450
+We're trying to automate the manufacturing process
+
+498
+23:06.450 --> 23:10.890
+and eventually robots are fixing themselves, right?
+
+499
+23:10.890 --> 23:14.070
+Predictive maintenance and doing work
+
+500
+23:14.070 --> 23:16.350
+that a human used to have to do.
+
+501
+23:16.350 --> 23:20.340
+So as we think about that, there are a whole new set of jobs
+
+502
+23:20.340 --> 23:23.220
+that come in with the manufacturing industry,
+
+503
+23:23.220 --> 23:24.390
+and this applies to all industries,
+
+504
+23:24.390 --> 23:26.670
+but if you think about manufacturing jobs,
+
+505
+23:26.670 --> 23:29.760
+so people can sit in their living rooms
+
+506
+23:29.760 --> 23:32.400
+and run an assembly line, like that is where we're going
+
+507
+23:32.400 --> 23:35.700
+to with some of the technology that's coming in,
+
+508
+23:35.700 --> 23:38.340
+which opens up a whole new world for people
+
+509
+23:38.340 --> 23:41.640
+that formally couldn't, that one of the biggest barriers
+
+510
+23:41.640 --> 23:43.230
+of employment for people with disabilities
+
+511
+23:43.230 --> 23:47.310
+is getting to a job site if there's no public transportation
+
+512
+23:47.310 --> 23:48.570
+and those types of things.
+
+513
+23:48.570 --> 23:52.740
+So you have a whole new world of job opportunities available
+
+514
+23:52.740 --> 23:55.920
+using new technology that we're all learning about, right?
+
+515
+23:55.920 --> 23:59.070
+And so preparing that workforce for the future,
+
+516
+23:59.070 --> 24:00.840
+whether you have disabilities or not,
+
+517
+24:00.840 --> 24:03.300
+helping those young people really gain those skills
+
+518
+24:03.300 --> 24:05.640
+and what are those new jobs?
+
+519
+24:05.640 --> 24:10.200
+And, but again, you have to make it accessible
+
+520
+24:10.200 --> 24:13.740
+from the beginning to really provide those opportunities.
+
+521
+24:13.740 --> 24:16.110
+If you're managing an assembly line
+
+522
+24:16.110 --> 24:20.820
+and the computer monitor is up on the second floor
+
+523
+24:20.820 --> 24:22.260
+with no elevator, right?
+
+524
+24:22.260 --> 24:23.370
+You've just eliminated a whole group
+
+525
+24:23.370 --> 24:25.080
+of people who can get those jobs.
+
+526
+24:25.080 --> 24:27.120
+So with people in wheelchairs.
+
+527
+24:27.120 --> 24:29.640
+So you need to really think about
+
+528
+24:29.640 --> 24:31.470
+that accessibility from the beginning
+
+529
+24:31.470 --> 24:33.240
+and preparing the younger generation,
+
+530
+24:33.240 --> 24:36.000
+the next generation for that next generation of jobs,
+
+531
+24:36.000 --> 24:39.720
+making sure they have access to that digital literacy
+
+532
+24:39.720 --> 24:42.690
+in the schools, in the community colleges,
+
+533
+24:42.690 --> 24:44.740
+and our foundation's really partnering
+
+534
+24:45.887 --> 24:48.720
+with community colleges in things like the trades
+
+535
+24:48.720 --> 24:50.910
+and in things like manufacturing jobs,
+
+536
+24:50.910 --> 24:55.170
+things like healthcare that you wouldn't typically
+
+537
+24:55.170 --> 24:57.840
+think about the opportunities for people with disabilities
+
+538
+24:57.840 --> 24:59.520
+to work in those fields.
+
+539
+24:59.520 --> 25:04.520
+But with the growth in technology and thinking about, again,
+
+540
+25:05.910 --> 25:07.480
+things like AI and
+
+541
+25:08.520 --> 25:10.620
+there's just so many opportunities out there.
+
+542
+25:10.620 --> 25:12.120
+So we're excited about the future,
+
+543
+25:12.120 --> 25:13.890
+but we need to make sure everybody's prepared
+
+544
+25:13.890 --> 25:17.310
+and that the systems are accessible from the beginning.
+
+545
+25:17.310 --> 25:19.260
+<v ->I mean, it sounds like that's one of the big, big things</v>
+
+546
+25:19.260 --> 25:20.093
+that we need to think about.
+
+547
+25:20.093 --> 25:21.990
+I mean, part of what we were talking about ahead of time
+
+548
+25:21.990 --> 25:24.440
+was just even an awareness of the problem, right?
+
+549
+25:25.854 --> 25:26.820
+We think the people might be like us,
+
+550
+25:26.820 --> 25:28.350
+everyone's got access to the system,
+
+551
+25:28.350 --> 25:30.240
+they understand how to use it and so forth.
+
+552
+25:30.240 --> 25:31.437
+But the reality is that there are many people
+
+553
+25:31.437 --> 25:33.540
+who are disenfranchised, they don't have access
+
+554
+25:33.540 --> 25:36.207
+to the technology, they may not understand how to use it
+
+555
+25:36.207 --> 25:37.950
+and so forth.
+
+556
+25:37.950 --> 25:39.690
+So what would the advice be then?
+
+557
+25:39.690 --> 25:41.010
+I mean, for people who are here
+
+558
+25:41.010 --> 25:42.780
+and people who might be developing technology
+
+559
+25:42.780 --> 25:44.460
+or thinking about deployment of it,
+
+560
+25:44.460 --> 25:45.630
+what would you recommend?
+
+561
+25:45.630 --> 25:49.350
+I mean, how do we solution for, so to speak,
+
+562
+25:49.350 --> 25:51.783
+some of these problems that we're seeing?
+
+563
+25:53.490 --> 25:57.690
+<v ->I'll say my recommendation is to include the users</v>
+
+564
+25:57.690 --> 26:00.660
+in the development of the products you're developing.
+
+565
+26:00.660 --> 26:02.280
+We actually did this with this innovation challenge
+
+566
+26:02.280 --> 26:03.390
+I mentioned.
+
+567
+26:03.390 --> 26:05.250
+Inviting people with intellectual,
+
+568
+26:05.250 --> 26:07.140
+developmental disabilities in
+
+569
+26:07.140 --> 26:10.740
+to provide focus group feedback to startup companies,
+
+570
+26:10.740 --> 26:13.350
+developing tech for that population,
+
+571
+26:13.350 --> 26:16.890
+but really making sure that people from all backgrounds
+
+572
+26:16.890 --> 26:21.600
+are in that test data and really identifying challenges
+
+573
+26:21.600 --> 26:25.440
+from the beginning so that we can truly have developed,
+
+574
+26:25.440 --> 26:29.343
+digitally included products from the beginning.
+
+575
+26:30.450 --> 26:33.810
+So that's one thing is in the disability community,
+
+576
+26:33.810 --> 26:36.210
+there's a phrase, "Nothing about us without us."
+
+577
+26:36.210 --> 26:39.990
+So making sure that we're including them in the process
+
+578
+26:39.990 --> 26:42.180
+of developing that user experience.
+
+579
+26:42.180 --> 26:44.700
+And then something I mentioned earlier was the idea
+
+580
+26:44.700 --> 26:48.390
+of that interoperability and connecting, you know,
+
+581
+26:48.390 --> 26:50.490
+not just making one-off apps,
+
+582
+26:50.490 --> 26:53.040
+but how does the app operate with another app?
+
+583
+26:53.040 --> 26:56.010
+How does an app operate with Zoom technology
+
+584
+26:56.010 --> 26:57.000
+or whatever it is.
+
+585
+26:57.000 --> 27:01.380
+So that really making sure that we can seamlessly,
+
+586
+27:01.380 --> 27:04.650
+people can seamlessly interact with the technology
+
+587
+27:04.650 --> 27:05.670
+we're developing.
+
+588
+27:05.670 --> 27:07.520
+And that's the human connection part.
+
+589
+27:09.270 --> 27:10.197
+<v ->And in healthcare,</v>
+
+590
+27:10.197 --> 27:12.630
+the technology has to be accessible for all.
+
+591
+27:12.630 --> 27:16.650
+And, you know, healthcare organization
+
+592
+27:16.650 --> 27:20.520
+have been on the tech side very antiquated for a long time.
+
+593
+27:20.520 --> 27:24.900
+And introducing new technology is a challenge
+
+594
+27:24.900 --> 27:28.650
+because you have to disrupt existing workflow
+
+595
+27:28.650 --> 27:29.880
+and complex workflow.
+
+596
+27:29.880 --> 27:32.790
+So you have to clearly understand
+
+597
+27:32.790 --> 27:35.790
+how people conduct their work,
+
+598
+27:35.790 --> 27:38.280
+where they are, and integrate that technology
+
+599
+27:38.280 --> 27:40.050
+which makes sense for them.
+
+600
+27:40.050 --> 27:42.360
+So back to the Olympic story.
+
+601
+27:42.360 --> 27:46.590
+So on one hand, you had the patient side, visitors,
+
+602
+27:46.590 --> 27:47.880
+athletes, para-athletes.
+
+603
+27:47.880 --> 27:50.220
+We had to quickly communicate what they need.
+
+604
+27:50.220 --> 27:52.860
+On the other hand, you had physician and nurses
+
+605
+27:52.860 --> 27:54.030
+in the trenches, well,
+
+606
+27:54.030 --> 27:56.340
+in the first situation in competition side,
+
+607
+27:56.340 --> 27:58.140
+over 200 of them.
+
+608
+27:58.140 --> 28:00.363
+And then in hospital emergency room.
+
+609
+28:02.460 --> 28:05.730
+We couldn't ask them to download an app,
+
+610
+28:05.730 --> 28:10.140
+to put new software in in their system.
+
+611
+28:10.140 --> 28:12.120
+We had to find a way to bring that technology
+
+612
+28:12.120 --> 28:13.500
+right there at the point of care,
+
+613
+28:13.500 --> 28:17.910
+which will not interrupt the way they were working
+
+614
+28:17.910 --> 28:21.510
+and it could be immediately usable.
+
+615
+28:21.510 --> 28:24.840
+So we use QR code technology for that.
+
+616
+28:24.840 --> 28:28.380
+One scan of the QR code on the patient side.
+
+617
+28:28.380 --> 28:31.410
+One button to say speak French for me.
+
+618
+28:31.410 --> 28:36.410
+And using AI again for that voice feature.
+
+619
+28:36.720 --> 28:39.540
+All of a sudden you spoke French in this instance,
+
+620
+28:39.540 --> 28:41.830
+or you could speak Arabic elsewhere
+
+621
+28:42.870 --> 28:47.160
+and you didn't interrupt and disrupt that nurse workflow.
+
+622
+28:47.160 --> 28:50.820
+You help her understand what you are attempting to use.
+
+623
+28:50.820 --> 28:53.670
+And then we structure the information
+
+624
+28:53.670 --> 28:56.880
+so it's in indeed digestible for that clinician
+
+625
+28:56.880 --> 28:59.940
+who has to quickly make sense of it.
+
+626
+28:59.940 --> 29:03.360
+So if you present that information in a way
+
+627
+29:03.360 --> 29:08.100
+which is understandable and immediately ingestible
+
+628
+29:08.100 --> 29:09.300
+on their side.
+
+629
+29:09.300 --> 29:12.240
+So it takes also that effort of usability
+
+630
+29:12.240 --> 29:13.470
+in the receiving side.
+
+631
+29:13.470 --> 29:16.323
+So we had to work on that as well.
+
+632
+29:18.120 --> 29:19.710
+<v ->And I would just add, you know,</v>
+
+633
+29:19.710 --> 29:22.560
+from our perspective, we tend to be
+
+634
+29:22.560 --> 29:24.900
+more on the sort of advocacy side,
+
+635
+29:24.900 --> 29:28.380
+promoting these issues of like internet for all.
+
+636
+29:28.380 --> 29:31.920
+And I would encourage folks here on the industry
+
+637
+29:31.920 --> 29:35.460
+and the technology side to make that your cause as well.
+
+638
+29:35.460 --> 29:38.220
+Right, to recognize that in some ways, right,
+
+639
+29:38.220 --> 29:40.980
+if we want a smart city, an interconnected city,
+
+640
+29:40.980 --> 29:43.140
+an interconnected world, it will require
+
+641
+29:43.140 --> 29:44.760
+that everybody be on,
+
+642
+29:44.760 --> 29:48.120
+that's how all of our products proliferate, et cetera.
+
+643
+29:48.120 --> 29:50.910
+And so in some ways the ensuring that
+
+644
+29:50.910 --> 29:53.850
+everybody gets on also pushes your need
+
+645
+29:53.850 --> 29:56.850
+and is also kind of advancing your vision of the world.
+
+646
+29:56.850 --> 30:00.630
+And so becoming a champion of that cause is really important
+
+647
+30:00.630 --> 30:03.792
+so that it doesn't just become something that advocates
+
+648
+30:03.792 --> 30:05.880
+are solely pushing for.
+
+649
+30:05.880 --> 30:08.730
+I think a little twist on what Kevin was saying
+
+650
+30:08.730 --> 30:10.380
+about user testing groups, you know,
+
+651
+30:10.380 --> 30:12.870
+the technology is a place where there's a lot
+
+652
+30:12.870 --> 30:14.670
+of user testing that goes on in the early
+
+653
+30:14.670 --> 30:15.960
+stages of development.
+
+654
+30:15.960 --> 30:19.320
+And I think yes, including the end users is important.
+
+655
+30:19.320 --> 30:20.700
+But I'll give you an example.
+
+656
+30:20.700 --> 30:23.610
+When I was Chief Data Officer of the city of LA
+
+657
+30:23.610 --> 30:26.610
+which is now feels like a lifetime ago,
+
+658
+30:26.610 --> 30:27.933
+companies like Uber and Lyft
+
+659
+30:27.933 --> 30:29.820
+were the ones who were coming out
+
+660
+30:29.820 --> 30:33.810
+and testing their products in Venice Beach and Silicon Beach
+
+661
+30:33.810 --> 30:35.400
+and Santa Monica.
+
+662
+30:35.400 --> 30:37.800
+And they tested for users
+
+663
+30:37.800 --> 30:40.290
+that they presume would be their clients.
+
+664
+30:40.290 --> 30:42.510
+But one of the interesting things is we started
+
+665
+30:42.510 --> 30:44.490
+to see all kinds of demographics,
+
+666
+30:44.490 --> 30:47.160
+groups that were in like mobility deserts,
+
+667
+30:47.160 --> 30:49.770
+that didn't have access to transportation easily
+
+668
+30:49.770 --> 30:52.320
+using their products because they fit that need.
+
+669
+30:52.320 --> 30:54.480
+So when you are doing your user testing,
+
+670
+30:54.480 --> 30:57.750
+I would challenge you to question who are those unexpected
+
+671
+30:57.750 --> 31:00.990
+or unlikely users and include them as well.
+
+672
+31:00.990 --> 31:03.780
+And then, you know, lastly, I do think it's important
+
+673
+31:03.780 --> 31:06.870
+to think about what are the digital skills
+
+674
+31:06.870 --> 31:09.000
+and competencies that are truly needed
+
+675
+31:09.000 --> 31:11.040
+to be able to use your product.
+
+676
+31:11.040 --> 31:13.890
+Like think about that expansively and broadly,
+
+677
+31:13.890 --> 31:16.230
+so that again, you're questioning your design assumptions
+
+678
+31:16.230 --> 31:17.730
+and then trying to really ensure
+
+679
+31:17.730 --> 31:21.150
+that your solution can really serve a very, very
+
+680
+31:21.150 --> 31:23.739
+broad cross section of the population.
+
+681
+31:23.739 --> 31:25.097
+<v ->Lilian, I think you're making</v>
+
+682
+31:25.097 --> 31:25.930
+a critically important point,
+
+683
+31:25.930 --> 31:30.510
+and that is to respond to those real needs.
+
+684
+31:30.510 --> 31:34.180
+I think part of your development team needs to
+
+685
+31:36.330 --> 31:39.690
+include people who have worked in that area
+
+686
+31:39.690 --> 31:41.580
+where you want to address those issues.
+
+687
+31:41.580 --> 31:45.720
+So we have as many clinician as technologists in our company
+
+688
+31:45.720 --> 31:48.510
+who have worked for, you know, in the trenches,
+
+689
+31:48.510 --> 31:51.570
+who know what's our emergency room operates.
+
+690
+31:51.570 --> 31:53.943
+Who have been nurses or physicians.
+
+691
+31:54.900 --> 31:57.060
+So I have some of that experience,
+
+692
+31:57.060 --> 32:00.660
+and then the public health view of things.
+
+693
+32:00.660 --> 32:02.280
+This is key.
+
+694
+32:02.280 --> 32:04.320
+You know, providing technology per se
+
+695
+32:04.320 --> 32:05.880
+for techies is not the point.
+
+696
+32:05.880 --> 32:08.220
+If you want to make a difference in the lives
+
+697
+32:08.220 --> 32:10.803
+of individual and globally even more.
+
+698
+32:12.210 --> 32:13.260
+We have to respond.
+
+699
+32:13.260 --> 32:15.810
+We have to to be impactful again.
+
+700
+32:15.810 --> 32:19.020
+With meaningful technology, which everyone can use.
+
+701
+32:19.020 --> 32:22.113
+And in healthcare, you know, post pandemic,
+
+702
+32:24.593 --> 32:27.450
+we, in fact, lots of healthcare worker have left the field.
+
+703
+32:27.450 --> 32:32.220
+So you have staffing issues and technology is here again
+
+704
+32:32.220 --> 32:35.760
+to address this difficulty to access healthcare.
+
+705
+32:35.760 --> 32:38.550
+How many of us have difficulties making a
+
+706
+32:38.550 --> 32:41.760
+doctor's appointment for herself or a loved one?
+
+707
+32:41.760 --> 32:44.610
+I have an older mom, I cannot wait three weeks for her
+
+708
+32:44.610 --> 32:47.610
+to see, you know, a physician.
+
+709
+32:47.610 --> 32:49.530
+So that's how telehealth happened
+
+710
+32:49.530 --> 32:52.470
+and that's where you can have some answer at your fingertip
+
+711
+32:52.470 --> 32:54.060
+on your mobile phone.
+
+712
+32:54.060 --> 32:58.050
+AI lets you personalize the messaging, for instance,
+
+713
+32:58.050 --> 32:59.760
+manage this diabetic,
+
+714
+32:59.760 --> 33:03.450
+or you have environmental issues in California today
+
+715
+33:03.450 --> 33:07.410
+with very dry and windy air, which may exacerbate
+
+716
+33:07.410 --> 33:10.620
+or create, you know, asthma attack in asthmatic.
+
+717
+33:10.620 --> 33:12.930
+Knowing at the population health level
+
+718
+33:12.930 --> 33:15.750
+that you have those individual with asthma,
+
+719
+33:15.750 --> 33:20.040
+with those risk of developing an acute episode,
+
+720
+33:20.040 --> 33:23.190
+you can message them precisely
+
+721
+33:23.190 --> 33:24.840
+because you know they're at risk
+
+722
+33:24.840 --> 33:27.030
+in those environmental condition.
+
+723
+33:27.030 --> 33:30.840
+So with this difficulty to access healthcare
+
+724
+33:30.840 --> 33:33.347
+at the individual level, but with those tools to manage
+
+725
+33:33.347 --> 33:36.660
+at the population scale, the healthcare needs of many,
+
+726
+33:36.660 --> 33:39.930
+but in very personalized, individual ways,
+
+727
+33:39.930 --> 33:43.350
+this is what technology and especially AI powered
+
+728
+33:43.350 --> 33:44.940
+technology can do today.
+
+729
+33:44.940 --> 33:47.220
+<v ->You know, that's a good point. If I could add one more.</v>
+
+730
+33:47.220 --> 33:48.173
+<v Joe>Yeah, please.</v>
+
+731
+33:50.175 --> 33:51.390
+<v ->I also worked in philanthropy</v>
+
+732
+33:51.390 --> 33:54.510
+and worked in supporting efforts
+
+733
+33:54.510 --> 33:57.360
+to deploy emerging technology across various cities.
+
+734
+33:57.360 --> 34:00.030
+And one of those efforts was really around the deployment
+
+735
+34:00.030 --> 34:02.070
+of autonomous vehicles.
+
+736
+34:02.070 --> 34:04.560
+And one of the things that I would encourage you all to do
+
+737
+34:04.560 --> 34:06.510
+as well is to deploy, deploy, deploy
+
+738
+34:06.510 --> 34:08.670
+and really test in very different environments.
+
+739
+34:08.670 --> 34:10.740
+So we looked at how that testing
+
+740
+34:10.740 --> 34:12.090
+happened in different cities,
+
+741
+34:12.090 --> 34:14.040
+in different parts of those cities.
+
+742
+34:14.040 --> 34:15.960
+And then again, all of the insights that
+
+743
+34:15.960 --> 34:17.580
+what you were saying, you know, all of the insights
+
+744
+34:17.580 --> 34:21.420
+that you gather from that diverse deployment strategy,
+
+745
+34:21.420 --> 34:22.440
+I think is really important.
+
+746
+34:22.440 --> 34:25.140
+Oftentimes what we found in that context was
+
+747
+34:25.140 --> 34:29.310
+we were really deploying these AVs in environments
+
+748
+34:29.310 --> 34:31.290
+that were suitable for the technology, right?
+
+749
+34:31.290 --> 34:34.710
+So flat roads, really sunny environments, Las Vegas,
+
+750
+34:34.710 --> 34:38.550
+Phoenix, but what where you really have difficulty
+
+751
+34:38.550 --> 34:41.370
+and where you're actually gonna learn a lot as a company
+
+752
+34:41.370 --> 34:44.940
+and I think grow is when you go to like the Pittsburghs
+
+753
+34:44.940 --> 34:47.580
+of the world, which is actually a hub for, but right?
+
+754
+34:47.580 --> 34:50.520
+And you're training your technology on the hilly roads
+
+755
+34:50.520 --> 34:52.380
+or you're going to environments where
+
+756
+34:52.380 --> 34:54.210
+the language is gonna be an issue for how
+
+757
+34:54.210 --> 34:55.740
+to get into the car
+
+758
+34:55.740 --> 34:57.420
+or not everyone is gonna have a credit card
+
+759
+34:57.420 --> 34:58.530
+to be able to access it.
+
+760
+34:58.530 --> 35:02.040
+So another, I think big lesson on this digital inclusion
+
+761
+35:02.040 --> 35:03.720
+is to test a lot
+
+762
+35:03.720 --> 35:06.660
+and to test in environments where you're not,
+
+763
+35:06.660 --> 35:08.250
+you're really gonna learn a lot as a company.
+
+764
+35:08.250 --> 35:10.740
+I think it just makes you a lot stronger as well.
+
+765
+35:10.740 --> 35:11.910
+<v ->I can't help but think</v>
+
+766
+35:11.910 --> 35:13.810
+when I'm listening to you and Bettina,
+
+767
+35:14.670 --> 35:15.930
+we're talking about skills.
+
+768
+35:15.930 --> 35:17.640
+I mean, empathy really is something
+
+769
+35:17.640 --> 35:19.110
+that you're putting into your design
+
+770
+35:19.110 --> 35:20.460
+and your testing process, which is to
+
+771
+35:20.460 --> 35:22.890
+really deeply understand the customer
+
+772
+35:22.890 --> 35:24.297
+and what those customer's needs are.
+
+773
+35:24.297 --> 35:26.610
+And the fact that we're even having this conversation
+
+774
+35:26.610 --> 35:30.570
+is an awareness of a real problem that so many people have.
+
+775
+35:30.570 --> 35:32.640
+Kevin, when you were talking about the number of people,
+
+776
+35:32.640 --> 35:36.570
+25% of Americans who have some level of disability,
+
+777
+35:36.570 --> 35:37.403
+that's incredible.
+
+778
+35:37.403 --> 35:41.460
+So to be aware of that right, is just really some,
+
+779
+35:41.460 --> 35:43.860
+I mean, it's a starting point for all of us to think about
+
+780
+35:43.860 --> 35:46.080
+trying to see things from people's perspective
+
+781
+35:46.080 --> 35:48.126
+and to innovate around that.
+
+782
+35:48.126 --> 35:48.960
+<v ->Yes.</v>
+
+783
+35:48.960 --> 35:50.790
+Oh, in healthcare, you know, for a long time
+
+784
+35:50.790 --> 35:53.220
+and still are, we are, you know,
+
+785
+35:53.220 --> 35:55.200
+medical knowledge has been privileged
+
+786
+35:55.200 --> 35:59.640
+to those clinic medically trained people, physician.
+
+787
+35:59.640 --> 36:01.500
+You know, when I came to public health,
+
+788
+36:01.500 --> 36:05.430
+I understood that the more informed and educated
+
+789
+36:05.430 --> 36:08.490
+the individual you you want to serve are
+
+790
+36:08.490 --> 36:09.540
+the better off you are.
+
+791
+36:09.540 --> 36:11.730
+So why not breaking that medical knowledge
+
+792
+36:11.730 --> 36:13.830
+to everyone, right?
+
+793
+36:13.830 --> 36:16.170
+That's what technology provide.
+
+794
+36:16.170 --> 36:21.030
+And again, AI can do that in a more comprehensive,
+
+795
+36:21.030 --> 36:24.843
+personalized way at a population scale and very fast.
+
+796
+36:25.890 --> 36:29.160
+So that knowledge is no longer privilege.
+
+797
+36:29.160 --> 36:32.520
+And at a time when you cannot access a doctor
+
+798
+36:32.520 --> 36:36.660
+or you have to wait to get to this clinic,
+
+799
+36:36.660 --> 36:41.310
+then you may get this precise, personalized information
+
+800
+36:41.310 --> 36:45.693
+right to you and in a way you can understand and act on it.
+
+801
+36:46.680 --> 36:49.320
+<v ->So we have just a couple left.</v>
+
+802
+36:49.320 --> 36:51.780
+If there's one thing that you would leave the audience
+
+803
+36:51.780 --> 36:54.870
+with, one idea that you'd say is the most important thing
+
+804
+36:54.870 --> 36:56.490
+you'd wanna share, what would that be?
+
+805
+36:56.490 --> 36:58.290
+Kevin, we'll start with you.
+
+806
+36:58.290 --> 37:00.450
+<v ->So the one thing, and I mentioned it before,</v>
+
+807
+37:00.450 --> 37:03.600
+is that "nothing about us without us" concept
+
+808
+37:03.600 --> 37:07.950
+and really developing, as you're developing new technology,
+
+809
+37:07.950 --> 37:11.640
+really making sure that it's designed from the beginning
+
+810
+37:11.640 --> 37:14.640
+with different audiences that technology is designed
+
+811
+37:14.640 --> 37:16.710
+to serve and those that you don't really think about,
+
+812
+37:16.710 --> 37:18.030
+back to the point earlier.
+
+813
+37:18.030 --> 37:20.460
+So making sure that you're including people
+
+814
+37:20.460 --> 37:23.913
+in the user experience so that it is designed inclusively.
+
+815
+37:25.182 --> 37:26.520
+Think about (indistinct).
+<v ->Thank you.</v>
+
+816
+37:26.520 --> 37:30.450
+<v ->Here we are at CES, the world, you know,</v>
+
+817
+37:30.450 --> 37:32.460
+is assembled here to see the latest
+
+818
+37:32.460 --> 37:33.810
+of the latest in technology.
+
+819
+37:33.810 --> 37:35.790
+So this is an exciting time
+
+820
+37:35.790 --> 37:38.370
+and we should not restrict ourselves at looking
+
+821
+37:38.370 --> 37:41.190
+at the technology pertaining to our industry or interests.
+
+822
+37:41.190 --> 37:45.150
+Let's be open-minded in terms of what we see out there.
+
+823
+37:45.150 --> 37:47.370
+And so stop by or boost at your metrics.
+
+824
+37:47.370 --> 37:51.000
+And so if I try to communicate what we are doing,
+
+825
+37:51.000 --> 37:53.190
+you can leave it and see it in person.
+
+826
+37:53.190 --> 37:57.840
+<v ->Connection or how much does it actually reduce it?</v>
+
+827
+37:57.840 --> 38:02.130
+And I think really think about ways of integrating
+
+828
+38:02.130 --> 38:04.380
+more opportunities or practices to ensure that
+
+829
+38:04.380 --> 38:06.360
+that connection is actually stronger than ever.
+
+830
+38:06.360 --> 38:08.160
+I think when you have that in mind,
+
+831
+38:08.160 --> 38:11.100
+I think we'll definitely be in a much more inclusive place.
+
+832
+38:11.100 --> 38:13.140
+<v ->The challenge and the opportunity for all of us,</v>
+
+833
+38:13.140 --> 38:16.320
+I think is going back to the, I think empathy, you know,
+
+834
+38:16.320 --> 38:21.060
+to really be aware of people who may need access
+
+835
+38:21.060 --> 38:22.680
+to these kinds of things and don't have it.
+
+836
+38:22.680 --> 38:24.810
+And in what ways can we help?
+
+837
+38:24.810 --> 38:27.260
+What ways can we help them have the skills that they need
+
+838
+38:27.260 --> 38:29.430
+so that they can participate so that there's not
+
+839
+38:29.430 --> 38:32.460
+five years from now really a greater divide.
+
+840
+38:32.460 --> 38:33.870
+That is our time today.
+
+841
+38:33.870 --> 38:36.090
+I wanna thank this awesome panel that we've had
+
+842
+38:36.090 --> 38:37.680
+and thank you all for being here today
+
+843
+38:37.680 --> 38:40.440
+and hope everyone enjoys the rest of CES.
+
+844
+38:40.440 --> 38:42.275
+Thanks for being here.
+
+845
+38:42.275 --> 38:44.858
+(bright music)
+

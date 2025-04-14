@@ -1,0 +1,884 @@
+<v ->Well, hey, good afternoon everybody.</v>
+Thank you for making the time.
+I think, if you're here at CES
+on a Thursday afternoon at three o'clock,
+you're a survivor,
+and perhaps that's a good parallel for
+a lot of the autonomous vehicle companies
+that are not only surviving now in this space,
+but flourishing.
+So with that quick prelude,
+I'll introduce myself.
+I'm Pete Bigelow, senior reporter
+at Automotive News in Detroit
+where I cover the future of transportation overall
+and autonomous vehicles in particular.
+And I host the "Shift" mobility podcast.
+Why don't we do some quick introductions here.
+I'll ask you to introduce yourselves,
+and then we'll get rolling.
+So Selika, maybe we'll start on your end
+and come back down this way.
+<v ->Who am I?</v>
+Good afternoon, everyone.
+I have been
+regulating, crafting policy, teaching, writing,
+and speaking about autonomous vehicles for over 15 years.
+I say that if anyone in this room
+is bullish on the future of autonomy,
+checkmate, I'm more bullish.
+That's who I am.
+<v ->Hi, everyone. Good afternoon.</v>
+So my name is Maria Alonso,
+and I lead our autonomous systems portfolio
+at the World Economic Forum.
+For those of you who may not know the World Economic Forum,
+we are the international organization
+for public private collaboration,
+and we try to tackle the key challenges that the world has,
+and autonomous vehicles is one of them.
+<v ->Good afternoon.</v>
+My name is Aine Denari,
+and I work with Brunswick Corporation,
+which is not bowling and billiards
+as most people probably think,
+but in fact we are today mostly into recreational marine.
+So boats rather than cars,
+but a lot of similar parallels.
+There I lead one of our divisions, Navico Group,
+and I'm also the chief technology officer for the company.
+Prior to joining the recreational marine space,
+I actually ran an ADAS business
+for an automotive tier one supplier, ZF.
+So a lot of interesting parallels between
+what we did in auto versus now what we do in marine.
+<v ->And I'm Johann Jungwirth, just JJ, my initials.</v>
+And I'm the EVP for AV at Mobileye, an Israeli company.
+And we basically deliver with our partners,
+with the automotive manufacturers and brands
+full autonomous solutions.
+Everything from, level 2++ to level 3, level 4,
+and happy to be here.
+<v ->All right. Thank you, all.</v>
+The premise of this panel I think is that
+autonomy or automation, and we can quibble about
+the differences between those two things in a little bit,
+but that it's finally here.
+So, JJ, I'm gonna start with you.
+In what way is automation here
+and then what's kind of
+the state of the industry here in early 2025?
+<v ->So, basically, the future is already here.</v>
+You just need to look at the right place.
+If you travel to San Francisco or to Phoenix, Arizona,
+you arrive there at the airport,
+you can actually already order an Uber and Waymo,
+and they're also partnering with Uber, partially,
+to actually have an autonomous ride.
+So basically level four,
+as it's being called based on SAE levels, is here.
+You can take the app, order a vehicle, get in.
+There's no one behind the steering wheel,
+and that's quite amazing.
+How many people have already taken a ride
+in a full self-driving vehicle
+without anyone behind the steering wheel?
+Nice.
+So it's about half, maybe a little less.
+For all of you which didn't have the hand up,
+please ride out.
+It's interesting how quickly actually people
+trust the technology once they get inside,
+similar to riding a bus, being on a plane.
+And so that's basically the full autonomy level four space.
+We call our product Mobileye Drive,
+and we are working with several partners.
+For example, Volkswagen with the ID Buzz.
+It's here at our booth.
+If you go downstairs to booth 4,700,
+you can see a four seater, VW ID Buzz,
+full self-driving level four,
+and a haul-on mover.
+The hold on mover is a 10 to 12-people shuttle.
+And this is also something interesting that
+there will be different form factors,
+different use cases, ride-hailing, ride-pooling,
+ride-sharing, and so on.
+And then on the automation side,
+basically, you have, on the one hand, Tesla FSD
+or our mobilize supervision product in several brands,
+about 300,000 vehicles now out there,
+where it's a hands off product.
+And Tesla FSD,
+I actually rented such a vehicle while I'm here,
+and you can basically just type in a destination.
+The vehicle drives you from A to B.
+The same with our mobilized supervision product,
+and the difference is that you have to be engaged.
+You need to have eyes on the road.
+<v ->Perhaps in similar fashion,</v>
+is that what's going on in the recreational marine space?
+And there's some interesting parallels you mentioned.
+So good to hear about that.
+<v ->So definitely interesting parallels,</v>
+also quite a few differences as you would imagine.
+The recreational marine space from a size and scale
+is obviously very significantly different to automotive.
+And really it is, by definition, something that people do
+in their leisure time and they enjoy driving about.
+And so the use cases and the consumer needs
+are a little bit different.
+People enjoy being out in the water.
+They enjoy driving their boat.
+What they don't enjoy, however,
+is things like docking a boat or undocking a boat.
+And so as we had thought through what are
+the biggest pain points and the biggest consumer needs,
+it's really been focused on those aspects,
+docking and undoing,
+as well as some of those other solutions.
+There's a variety of,
+I'll call them advanced driver assist functionality
+that has been around in the space for a time
+with things like Joystick and Skyhook,
+and autopilot and stuff like that,
+but the fully autonomous docking and undocking
+is relatively new,
+and there's definitely differences in terms of
+the sensors that are being used
+in terms of the degrees of freedom that a boat has,
+six degrees of freedom,
+no solid surface like a road,
+no lane markings,
+people coming from every different direction.
+So a lot of differences,
+but a lot of the core technologies
+can be used and adapted for the recreational marine space.
+And as I say, it's really around
+making the experience less stressful and more enjoyable
+so that we can get the consumers out there on the water
+enjoying their time a little more.
+<v ->Maria and Selika, we have the industry perspective here.</v>
+From your perspective, how's 2025 looking?
+Does this shape up as a year
+to be optimistic about the future of
+automation and autonomy?
+<v ->I would say I really agree with what JJ was saying.</v>
+We've got it here,
+and that's also a little bit what the title of the panel,
+autonomy is here.
+Other than what JJ was saying regarding the road taxes,
+I would add other use cases where we already today
+see a lot of autonomy,
+and that would be in enclosed spaces.
+So when we think about mining, construction,
+some of these logistics facilities
+which also have quite some autonomy in the vehicles,
+we should not forget those use cases
+because, at the end of the day,
+they're the most suitable for autonomy,
+and that's where we already today see
+higher and higher levels of autonomy.
+The other use case that has not been mentioned,
+and I think it's important to mention
+is when we think about tracking.
+And here in the US, it's expected that in 2025,
+it will be a very relevant year
+for taking that driver outside of the vehicle
+and starting with those trucking use cases,
+which also have quite some societal value
+when we think that there are a lot of truck drivers
+that lose their lives on the road.
+It's very long, very tedious
+hours behind the steering wheel.
+And also when we think about their families,
+it's very hard to be going for those
+that are doing long haul
+to be weeks and weeks away from their beloved ones.
+So I think those are use cases we should not forget
+when we think about 2025 from the power of vehicle autonomy.
+<v ->And, Selika, I know we've talked a bit about</v>
+some of the optimism,
+but it comes with an asterisk of some sort.
+<v ->Absolutely.</v>
+I think there needs to be a little perspective
+when we talk about the future,
+sort of where are we coming from.
+In 2010, when I was trying to create
+a proving ground in New Jersey
+as the chief operating officer
+of the state's Motor Vehicle Commission,
+I couldn't get buy-in from the governor
+because their policy people felt it was a detriment
+to higher office for any politician
+to allow widespread use
+of autonomous vehicles on the roadway.
+In 2016, when I was the senior advisor
+at Federal Motor Carrier in US DOT,
+we were pulling teeth even to get the trucking industry
+to accept ADAS.
+So a perspective of where we were,
+today, it is different.
+I can get in Waymo.
+I can get in lots of other autonomous vehicle companies
+that are testing across the country.
+To JJ's point, we have a company
+that if they wanna say they're winning now,
+150,000 rides, paid rides every week in America.
+It does feel sort of like the future is here,
+but I have to say absolutely asterisk.
+There are communities that don't have that opportunity.
+There's infrastructure that doesn't allow you
+to move in those capacities.
+We have regulation and policies
+because we have this patchwork of legislation across America
+that makes some states wide open,
+and what I've always referred to as the Wild West,
+and others that are,
+"I'm not so sure I want you to try this."
+From a trucking perspective,
+having been the director of field for United States
+for the movement of all large trucks and buses,
+absolutely, it makes sense that if, at any place,
+we allow full autonomy is in the movement of our goods.
+We don't have enough truck drivers.
+we need to reduce the expense
+of moving our freight across America.
+But again, the infrastructure
+doesn't always exist in every place
+to make that possible
+and regulation is an impediment to it.
+So future is here, but a little bit asterisk,
+<v ->This is a perfect time to ask.</v>
+I think regulation has been viewed as an impediment,
+but maybe one of the reasons we see optimism today
+is because President-elect Musk
+is going to bring in lots of tailwinds.
+So, on a serious note,
+what's expected here in the next four years
+from a regulatory perspective and what's needed too?
+Maria, can you give us a 30,000 foot view on that?
+<v ->So I would say when we're thinking about</v>
+the upcoming administration.
+We're hearing that vehicle autonomy
+is going to be pretty much something
+that will be more and more positively perceived.
+One thing that we need to do
+is what we were talking now about,
+which is that platform of regulations.
+It doesn't help anyone.
+It doesn't help the companies trying to
+deploy these vehicles,
+but it doesn't help the regulators either.
+So municipalities, cities, states,
+they don't really have the capabilities.
+How should they be able to regulate in individual cases?
+So it's not just that we think
+it's because of the private sector goods.
+No, it's for the public sector too.
+But one thing that we should keep in mind
+as these federal regulations seem to be coming
+in the coming months or in the coming years in this,
+in these four years at least,
+is that we need to ensure that safety is still guaranteed.
+So we should not compromise on safety.
+And this is something that should be very important
+as the new governments
+puts more and more emphasis on vehicle autonomy,
+yes, to federal regulations,
+but how to make sure that we are
+not compromising on safety.
+If we compromise on safety,
+the public will not trust and for good reasons,
+so we need to avoid that.
+<v ->I was curious how regulation</v>
+plays into the idea of public trust.
+And from an industry perspective,
+how do you think about building
+customer trust, public trust?
+<v ->So, I mean looking at Europe for example,</v>
+because there some regulation does exist
+and Germany actually was I think one of the first countries
+a few years ago to have an AV law,
+basically an act out there,
+and then followed by a regulation,
+and very clearly described in terms of
+meeting at least human driver safety level.
+Now they left that open,
+how to prove that if you take mean time between crashes,
+mean time between failures,
+and mean time between incidents,
+human drivers are somewhere in the
+500,000 miles range or so,
+and then depends on now urban versus highway
+and other areas.
+And it's interesting, but I think this is something
+basically which is a minimum requirement,
+and then also requirement for technical
+tele assist operation center,
+that there are some operators
+which can help the vehicle out
+in case it can no longer
+let's say continue on the road
+being it because traffic lights are out
+and the intersection is directed by a police officer or so,
+and maybe that's not let's say clear yet
+how to exactly interpret let's say
+the movements by hand or so.
+So there are certain situations, and we know this today.
+I mean we see it with Waymo, with others
+that basically having a tele assist center human operators,
+this is a good thing to have.
+And I think having let's say topics like these
+clearly in the regulation,
+then it's also a framework
+that everyone has to follow basically these rules,
+and making sure that the operation is set up
+and it's not voluntary,
+and some operators do, some do not.
+<v ->Aine, what's that look like</v>
+in the recreational marine space?
+So interesting, but it sounds very familiar.
+<v ->Yeah, certainly a little different in recreational marine</v>
+in terms of level of regulation.
+We do of course have Coast Guard regulations.
+They tend to apply to things like flotation
+and that kind of thing.
+We also have those some pretty good
+involved standards committees
+that are really working to understand
+what the future of the technology can be
+and how we can implement it safely.
+To your point, it's really important
+that even though something like ISO 26262
+is not regulated in the marine space,
+we absolutely have to be sure that
+everything that we do is done safely,
+and we have the appropriate SOTOF
+as well as functional safety.
+I would say one other thing
+in terms of kind of building
+that public trust that you mentioned
+would really be around ensuring that the customers know
+that they can rely on the company
+that's delivering the solutions,
+and that they understand the validation,
+and they can visualize what's actually happening
+in a marine vessel.
+So something like visualizing what is actually happening
+is probably more important in marine
+to kinda build that trust
+and help the consumers know that they can feel safe
+to hand off control of the vessel to the boat itself,
+instead of the operator.
+<v ->Can I just build on that a little bit?</v>
+I have this phrase.
+I'm sure other people have used it before,
+politics is who's driving the vehicle,
+and policy or regulation is the map
+that you use to go where you wanna go.
+President Trump is the politics.
+He might be driving.
+But President Musk is in charge of the map,
+but he's writing the map while they're in the car driving.
+That's literally how this policy will move.
+The point of it is,
+as long as he's drawing it
+in a way that makes the driver happy, we're all good.
+But at any point the driver doesn't like the drawing
+and wants to take their own direction,
+that's what will happen.
+We can have all the regulation mindedness that we want,
+but we have a very short window
+from a legislative standpoint to get things done.
+Technically, two years until if passed this prologue,
+we will no longer have a Republican Congress.
+So what happens in this finite period of time?
+And I can tell you as someone who was
+drafting regulation in the same scenario eight years ago,
+the Trump Administration is wiser for the experience.
+We probably won't have long drawn out rulemaking processes.
+We will likely lead by executive orders
+and stronger policy
+and stronger guidance that's being written now.
+They have so little time to get done.
+If anybody knows what rule making's like
+in the federal government, it's years of comments,
+and they are on the road going around
+and speaking to people in different communities
+to see what they think.
+You'll never get anything done like that,
+and Musk doesn't have the temperament to wait that long.
+So other things will have to happen in this timeframe,
+which means he's gonna be given the latitude to just do it
+and ask for forgiveness later.
+<v ->I'm curious, from a industry perspective,</v>
+and maybe, Maria, you can chime in here or not,
+but
+what happens in the government
+is part of the equation here,
+but I think as we saw with cruise,
+it's not the only part of the equation.
+And when you think about public trust
+and what's really happening in the real world,
+we have this optimism yet perhaps it's fragile,
+and that's one thing learned from the cruise crash.
+I'm curious how you see
+safety playing into this discussion
+of building trust and transparency.
+<v ->I would say there are two things when it comes to safety.</v>
+One of them is perceived safety,
+which is the one that people believe,
+how people believe that the cars are operating,
+and the other one is real safety.
+So at the end of the day,
+we first need to make sure that we do offer safety,
+and we need to prove it,
+and that will be the thing that will change
+and will make that perceived safety a reality.
+And I would say this is the same as with any relationship.
+This time is a relationship between a vehicle and a human,
+but when we are having relationships between all of us,
+we need to prove that we can trust the other person.
+So we need to first prove that it's really safer
+or as safe as a human at the very least.
+And that reality will be the cornerstone
+to really make sure that we are
+having that perceived safety
+also aligned with that real safety.
+<v ->I feel like 10 years ago we would start talking about</v>
+the trolley problem right here,
+but the discussion has matured on safety
+and yet there's still a question as to,
+what is safety?
+How safe is safe enough?
+What are the right ways to think about that?
+JJ, how has that discussion evolved?
+<v ->I mean, if you think about,</v>
+let's say today's state of the art,
+especially also from a sensors' perspective.
+You have surround cameras.
+You have surround imaging radars, radar technology,
+also very proven technology.
+And we have developed actually some very specific
+imaging radars with very high resolution
+which basically do not require specific sensor cleaning.
+They don't have any moving parts,
+they're very robust.
+And like the front imaging radar, 1,536 virtual channels.
+The sides and the rear imaging radars, 384 virtual channel.
+So you get a very rich point cloud.
+So you have surround CV, or computer vision,
+you have surround imaging radars.
+And then in addition, you have the LiDAR belt
+with long range and short range ,
+and just making sure that basically
+you have all of these sensor modalities,
+and we believe that redundancy is a key element.
+We have developed a concept, we call it PGF,
+meaning primary, guardian, and fallback.
+So you have always the primary and the fallback,
+and then the guardian looking at kind of two out of three
+or different, let's say, ways of deciding,
+okay, which sensors, which modalities,
+what can you trust in terms of the decision making?
+And so these this triple redundancy
+and different layers of modalities,
+I think, just from a technology perspective,
+we probably have some engineers, some technologists here
+interested in that side to make sure.
+And also here, let's say I talked about
+state of the art or what is standard.
+I think it would be good if similar...
+I mean I look at Waymo.
+Waymo and us, we have very similar sensor setups,
+and technologies, and so on that we don't have,
+let's say, technologies out there which maybe tried.
+Maybe it was just one modality or so.
+<v ->How does safety evolve on your end?</v>
+<v ->Yeah, no, I mean, it's a great point.</v>
+Obviously, it's a slightly different circumstance.
+I think part of it is around the education piece.
+So you talked about the holistic nature of
+the capabilities of the sensor
+the redundancy of the system.
+So I think helping our consumers understand
+that level of technical capability is important.
+I think, in the recreational marine space,
+our advantage from all the progress
+that automotive and other industries have made
+so that consumers are starting
+to feel a little bit more comfortable
+with these types of solutions
+and knowing that the technology exists,
+and that it is okay to
+take your eyes off and your hands off.
+So that's another aspect too.
+I will also say in the recreational marine space,
+we're starting with these use cases
+that are the biggest pain points of docking and undocking.
+Those are...
+By definition, docking is a controlled collision.
+So what we are doing is it's a low speed maneuver,
+It's short distances and so it's a space where
+it's relatively easy to get the consumer
+to feel like it is safe
+because it is relatively low speed,
+it is relatively short distance.
+And so with all of the learnings
+that they've gotten from other industries
+and understanding of the capabilities,
+the visualization of what's going on,
+I think all of those things really play
+into helping the consumer really feel like it is safe.
+<v ->Maria, is there a parallel there</v>
+with self-parking in the driving space,
+and how have consumers
+adapted, adopted use of self-parking, or not yet?
+<v ->I think, at least for me,</v>
+parking is the worst part of driving.
+And I believe that among all of us in the room,
+I'm not the only one.
+But so we do have already today what, in my view,
+because I hate parking,
+is the best use case when it comes to some
+automated technologies in the vehicles.
+One thing which we need to still take into account is that
+some people do not use those parking capabilities,
+and it may be because they don't understand
+how they're being used.
+And I think this is where
+making sure that we've got very good HMI,
+very good interaction between the vehicle and the driver
+is paramount to leverage already today
+those parking capabilities in our cars.
+And also to prepare ourselves to
+realize that the car does much more than just...
+It's just much more than an engine.
+It's really helping us do many more things.
+It's a good way of understanding
+that the car does much more
+even if the trust issue for me is completely different
+because then there's no speed.
+And even if you collide with something,
+it's horrible for the car.
+So be well insured if you don't trust it,
+but it's going to work well.
+So in that sense, for the trust issue,
+you don't fear that possibility of something happening.
+But from the functionality perspective,
+I think it's very important.
+<v ->I just wanna perhaps put in a little reprimand</v>
+to the industry.
+It's really, really hard for the customer,
+the driver who wants to sit in the backseat now
+to take us seriously when one company says,
+"You only need a camera.
+Cameras are good enough."
+Another company's gonna say,
+I need a suite of sensors.
+I'm gonna give you another example.
+There are certain airlines that we consider budget airlines.
+We're not so sure about their maintenance,
+and some of us won't take certain airlines
+'cause we just don't feel as comfortable
+getting in those machines.
+It will be the same with autonomous vehicles.
+If we don't get to a point where, as a society,
+we can have some standard level of this apple will feed you,
+this vehicle will get you from point A to point B,
+and that you don't say one thing is okay,
+and then that person says one thing is okay.
+And we may be technologists
+and have a real understanding of the capability,
+but the person who just wants
+to get their kid to the soccer field,
+they don't have that understanding.
+They're relying on us,
+and we're saying different things
+that are different sides of our mouths as an industry.
+The airline industry, even as a mobility space
+polices themselves.
+Autonomy at some point has to police themselves
+if we wanna have greater consumer comfort
+in the ability to safely move.
+<v ->If I could play devil's advocate a little bit,</v>
+I would say there was a crash with Uber in 2018,
+and that was the end of the Uber self-driving program
+for all intents and purposes.
+We have a crash with Cruise
+that ends Cruise for all intents and purposes.
+So in effect, is the industry policing itself at this point?
+<v ->That's really a financial decision at that point, right?</v>
+We have had, if we think...
+I'm in my 50s.
+We have a long enough lead time looking at aviation
+to say when we weren't as policing as we should,
+airlines struggled.
+They lost billions of dollars.
+Some of them went out of business.
+And the more they got on top of each other
+in terms of maintenance,
+in terms of standards,
+consolidation,
+we're better off despite what's happened lately.
+We're still better off for it in terms of aviation.
+We're gonna have to get there in autonomy as well.
+<v ->I wanna take it back 'cause I know our time</v>
+is starting to run a little low.
+I wanted to address artificial intelligence advances
+in this automated space.
+And I'm curious,
+have the rapid advances we've seen
+in the last 2, 2 1/2 years
+improved safety, improved capabilities?
+Have those led us to this moment
+where now we're seeing proliferation
+of self-driving, automated-driving technologies?
+<v ->Yeah, so I can start with this.</v>
+Certainly.
+I mean AI is here and it's here to stay,
+and I have to say it's a combination of
+compute capabilities, looking at the SOCs of today
+with all the hardware accelerations,
+with transformers, and so on.
+So this is definitely a blessing,
+and there are different modes
+and let's say types of AI.
+We have built our technology on a compound AI system,
+meaning there are bits and pieces which are end-to-end AI,
+and also combining it with redundancy.
+So that means even within vision,
+there are, let's say, geometry-based, appearance-based,
+and different, let's say, modes and modalities,
+and then augmented with an end-to-end AI model.
+Also, for example, fusion and fusing
+of map and map list, basically,
+prioritizing between what you have from the map
+and what you see in reality
+if there's a new construction
+which just showed up and it's not in the map,
+still making the right decisions and so on.
+So it's actually great to have these AI models
+with good training,
+and also if you think about
+just sign recognition, landmarks recognition, other things,
+this is all already now over the years completely moved to
+AI-based technologies based on training data,
+and this is just the standard today.
+<v ->I mean similar in the marine space,</v>
+we're using all the same technologies, all the same things,
+both in terms of helping us to drive
+product development faster and more efficiently,
+using synthetic data,
+a lot more use of simulation,
+as well as in the product itself,
+using it for path planning and various different things.
+So, definitely really helpful
+both in product development and the product itself,
+and I'll even say in the broader consumer experience
+in terms of things like predictive maintenance
+once the vessel or the vehicle is in the field
+in terms of better serviceability,
+better engagement with a dealer or whoever it is.
+So really throughout the entire,
+every touch point of a vessel or a vehicle ownership,
+AI is playing a very significant and fastly growing role.
+<v ->Back to this idea of trust,</v>
+how do you communicate
+the performance and limitations of AI,
+not just to consumers,
+but to the stakeholders that we've mentioned before
+to government city transportation planners
+or the Coast Guard in your case?
+How do you really inform that audience
+as a leader in the technology?
+<v ->Yeah, I think, for us, it's around kind of</v>
+communicating what we're using and why we're doing it.
+And so, for example,
+as I think about maybe training data as an example,
+we can explain to the Coast Guard, or ABYC, or whoever it is
+that this is the amount of real world
+and so we'll use kind of
+50,000 hours was roughly an equivalent of a million miles
+of driving as kind of our real world
+numbers that we'll use for any kind of
+new significant technology we roll out.
+But then we're able to explain to them that
+all of these additional use cases
+we can gather via simulation
+that might be really hard for us to find.
+And so we're able to explain to these regulatory authorities
+how the end product is a lot safer
+because of the use of AI in our development processes.
+<v ->Does anyone in the audience have a question or two?</v>
+We might take a question at some point here,
+but while you mull that over real quick,
+Maria, I'm curious.
+We see Waymo deployed on big picture in San Francisco,
+Phoenix, Los Angeles.
+They're planning to have robotaxis in Austin and Atlanta.
+Zoox vehicles are right outside
+the convention center here, testing.
+They seem like they're on the verge of starting service.
+That gives us a very North American perspective.
+I'm curious, can you fill us in
+on what's going on around the globe
+and how do you see that evolving here in 2025
+so we'll know what we'll be talking about at CES 2026?
+<v ->I would say the US is really at the forefront</v>
+when we think about these deployments together with China.
+And one of the reason why the two countries are going to,
+in my view, continue being at the forefront
+is because it's a race.
+It's a race US against China in vehicle autonomy.
+So when thinking about the world
+and what we're seeing, how we're seeing this move forwards,
+I believe that both China and the US
+will still be at the forefront.
+When we think about other regions such as Europe,
+we are going, and I'm based in Europe,
+it's going to take longer.
+It's going to take longer because, among other things,
+the big technology players
+that are already today deploying
+at larger and larger scales are not in Europe.
+So it takes some time to really go into a new geography
+and then there's all the regulation
+to make sure that it also works.
+And we were talking before
+about the platform of regulations in the US,
+but in Europe, it can be even worse.
+It's better per country than it is per country in the US,
+but if we think about entirety of Europe,
+it has so many countries,
+and they need to first get aligned on that.
+Another region that I think is important to not forget
+is the Middle East.
+The technologies that will be implemented there
+will likely be either the US ones or the Chinese ones,
+but keeping in mind that the Middle East,
+it's very eager to have these technologies.
+We see that in the UAE and in Saudi Arabia especially.
+And we will continue seeing them
+in how they're going to start deploying this technology.
+So I would say that's a little bit of
+what I see outside of the US
+<v ->Selika, can you piggyback on that a little bit?</v>
+What does the state of autonomy here in the US say?
+How does it relate to America's ability to innovate overall,
+compete globally?
+<v ->We always seemed like we were at the forefront,</v>
+that we were leading.
+I think there were failings
+maybe in the administration before this administration
+where we didn't take seriously what was happening in China.
+They're not gonna wait for customer comfort.
+They get to try things out on the roadway,
+regions where they have to move people.
+And one of the things that I
+always like to impart when I speak is, on a global basis,
+if you think about the average age of someone in America
+being almost 40,
+the average age of someone in a lot of Asian countries
+being in their late 40s,
+the average age of someone on the continent is 19.
+We talk about the future of mobility
+and where influence can take place.
+To really radically change what's happening in countries,
+it will start probably in places like
+West Africa and East Africa,
+where they are eager to join the race of what is happening.
+Now, of course, they don't have the kind of infrastructure
+that America has, or the dollars,
+or ability to push technology like China.
+America still wants to be number one.
+And jokingly talking about President Musk
+or Vice President Musk,
+you have the ear
+of the incoming president of the United States
+with someone who understands
+as deep as possible the possibilities
+for the future of this technology
+that it will give us as a country
+I think a significant runway over the next few years
+that may catapult us to the top of the heap
+and into the first place.
+<v ->Kind of as we close down in our final minutes here,</v>
+I think about the future being here,
+thinking about what's going on overseas.
+JJ, supervision is deployed in China,
+so what is that consumer getting from Mobileye,
+and what do you see in that market right now?
+<v ->Yeah, clearly a lot of competition,</v>
+even stronger than in the US or in Europe.
+And it's just like an openness.
+I mean, you see the eagerness of consumers of customers,
+so huge expectations that they can just get in the car,
+drive from A to B, or take a ride from A to B.
+So in terms of this openness
+and also the customer expectations being really high,
+that's very different.
+But I have to say, overall,
+I mean what what excites me is
+to offer really inclusive mobility
+to everyone, to all,
+also to people with visual impairment
+who really complain about
+being rejected by drivers
+because they're harder to be found.
+They cannot wave.
+They cannot let's say read the license plate,
+find the right car,
+or have a service dog and the driver rejects that,
+and so on.
+And then of course you look at the shuttle,
+the haul-on shuttle, for example, at our booth
+has a low floor, a ramp,
+basically offering mobility to people in wheelchairs.
+And I have to say,
+getting that freedom and not just time back,
+but also that freedom to go from A to B,
+not depend on other humans, not depend on other people,
+this is actually something where a lot of people
+are just looking forward to that.
+<v ->Speaking of giving people some freedom,</v>
+giving people six degrees of freedom, right?
+<v ->Exactly, yeah.</v>
+No, but I think it's a great point.
+I think what's really going to drive the future of autonomy
+is fulfilling consumer needs.
+And I think you talked about some of those
+needs in the on-road space,
+likewise in the off-road space.
+That's really what this is about,
+is we want to drive the adoption
+because we are fulfilling consumer needs.
+Ultimately, at the end of the day,
+our goal as an organization
+is to get more people into recreational marine.
+We do that by making it more accessible,
+by making it more intuitive and by making it easier.
+And so that's really how we think about
+what can the role of autonomy be
+in driving that broader adoption
+to get more people out there enjoying the water,
+which is ultimately our goal.
+<v ->All right, Maria, I believe the final word of the panel</v>
+belongs to you.
+Give us your thoughts on the road ahead.
+<v ->Final words on the road ahead, in my view,</v>
+is to make sure that we are still keeping safety in mind.
+It has a lot of benefits.
+Some of them as inclusivity,
+thinking about the elderly population,
+but collaboration and safety
+should still be at the forefront
+as we continue this vehicle autonomy conversation.
+<v ->All right.</v>
+I'll apologize for asking for questions
+and then not getting to them,
+but terrific conversation.
+How about a hand for the panel?
+All right, and thank you all for attending today.
+I hope you enjoy the rest of CES.

@@ -1,0 +1,2985 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.017 --> 00:02.600
+(bright music)
+
+00:10.380 --> 00:11.640
+My name is Brian Tegtmeyer.
+
+00:11.640 --> 00:13.950
+I'm with NHTSA
+
+00:13.950 --> 00:16.110
+and the office of EMS
+
+00:16.110 --> 00:17.970
+and the National 911 program.
+
+00:17.970 --> 00:20.850
+Welcome to our session today on "Connected Vehicle Safety:
+
+00:20.850 --> 00:23.190
+Reducing Roadway Risk and Saving Lives."
+
+00:23.190 --> 00:24.930
+I've got a great panel here
+
+00:24.930 --> 00:26.130
+and we're gonna spend our time
+
+00:26.130 --> 00:31.130
+going through a variety of topics and questions
+
+00:31.290 --> 00:34.110
+that we have to talk about connected vehicles
+
+00:34.110 --> 00:37.860
+and how they reach 911 and how that can impact lives.
+
+00:37.860 --> 00:38.850
+Before I start though,
+
+00:38.850 --> 00:40.710
+I wanna spend just a couple minutes
+
+00:40.710 --> 00:42.630
+framing this issue for you.
+
+00:42.630 --> 00:43.530
+And first of all,
+
+00:43.530 --> 00:46.710
+introduce what we do at NHTSA's National 911 program.
+
+00:46.710 --> 00:48.570
+We work to enhance highway safety.
+
+00:48.570 --> 00:51.120
+We do that by creating and sharing resources,
+
+00:51.120 --> 00:52.800
+collaborating with our stakeholders,
+
+00:52.800 --> 00:56.433
+and connecting the system's 911 centers nationwide.
+
+00:57.540 --> 00:59.190
+When we look at this issue,
+
+00:59.190 --> 01:00.720
+we look at it from the point of view
+
+01:00.720 --> 01:02.790
+of the National Roadway Safety Strategy
+
+01:02.790 --> 01:04.680
+and our Safe System Approach.
+
+01:04.680 --> 01:06.740
+911 is involved in all five elements
+
+01:06.740 --> 01:08.610
+of the Safe System Approach.
+
+01:08.610 --> 01:10.920
+We are involved with safer people.
+
+01:10.920 --> 01:13.470
+When risky behavior happens, they call 911.
+
+01:13.470 --> 01:16.140
+When someone's driving under the influence,
+
+01:16.140 --> 01:17.910
+reckless, distracted driving,
+
+01:17.910 --> 01:19.980
+that results in calls to 911.
+
+01:19.980 --> 01:22.590
+Safer roads, if the roads are unsafe,
+
+01:22.590 --> 01:25.110
+if there's debris, lights are out,
+
+01:25.110 --> 01:26.340
+or other hazards,
+
+01:26.340 --> 01:29.133
+it results in calls to 911.
+
+01:30.060 --> 01:31.890
+When we have safer speeds,
+
+01:31.890 --> 01:33.930
+vehicles driving unsafe at speeds,
+
+01:33.930 --> 01:35.010
+our 911 centers
+
+01:35.010 --> 01:37.470
+are our nation's law enforcement dispatch center
+
+01:37.470 --> 01:39.660
+and they're involved in the enforcement
+
+01:39.660 --> 01:41.100
+of speed and traffic laws
+
+01:41.100 --> 01:44.550
+and relaying that information to their law enforcement.
+
+01:44.550 --> 01:47.010
+And then we're gonna talk about this a lot,
+
+01:47.010 --> 01:48.060
+the safer vehicles,
+
+01:48.060 --> 01:52.230
+how does advanced automatic crash notification
+
+01:52.230 --> 01:55.650
+play into connecting the vehicle to the 911 centers
+
+01:55.650 --> 01:58.680
+and transmit critical data through the telemetry?
+
+01:58.680 --> 02:02.010
+And then finally, all of this is for when a crash occurs,
+
+02:02.010 --> 02:03.420
+we have post crash care.
+
+02:03.420 --> 02:06.230
+And that begins with the call to 911
+
+02:06.230 --> 02:09.000
+and our nation's 911 telecommunicators
+
+02:09.000 --> 02:12.300
+that work to identify the caller location,
+
+02:12.300 --> 02:13.560
+the nature of the crash,
+
+02:13.560 --> 02:15.300
+and the severity of the incident
+
+02:15.300 --> 02:17.850
+to make sure we can send the most appropriate help.
+
+02:18.810 --> 02:20.220
+So when I talk about this,
+
+02:20.220 --> 02:22.920
+one of the things I like to demonstrate and talk about
+
+02:22.920 --> 02:27.000
+is having a continuity and a consistent level of care.
+
+02:27.000 --> 02:29.130
+So we look at the Interstate I-95,
+
+02:29.130 --> 02:31.530
+our nation's longest North-South interstate
+
+02:31.530 --> 02:33.750
+from Maine to Florida,
+
+02:33.750 --> 02:37.500
+and it goes through 15 states in the District of Columbia
+
+02:37.500 --> 02:41.040
+and there's almost 200 911 jurisdictions there.
+
+02:41.040 --> 02:42.270
+So as you can imagine,
+
+02:42.270 --> 02:44.490
+if a crash occurs along this roadway,
+
+02:44.490 --> 02:47.190
+the level of training, the technology,
+
+02:47.190 --> 02:49.470
+the staffing of those 911 centers
+
+02:49.470 --> 02:52.350
+and how this information from a connected vehicle
+
+02:52.350 --> 02:53.940
+gets into the 911 centers
+
+02:53.940 --> 02:56.030
+and their current state of next generation 911
+
+02:56.030 --> 02:57.690
+is gonna dramatically vary.
+
+02:57.690 --> 02:59.100
+And that's what we need to do,
+
+02:59.100 --> 03:02.700
+is that we are advocating to push the bar higher
+
+03:02.700 --> 03:05.733
+and make sure that if a crash occurs along this roadway,
+
+03:05.733 --> 03:08.483
+that the minimum level of data that we need
+
+03:08.483 --> 03:11.733
+is received to all of our nation's 911 centers.
+
+03:13.050 --> 03:14.550
+To frame that further,
+
+03:14.550 --> 03:16.200
+when emergency responds to crashes,
+
+03:16.200 --> 03:17.370
+we are estimated at NHTSA
+
+03:17.370 --> 03:20.610
+that there are 13 million motor vehicle crashes a year.
+
+03:20.610 --> 03:22.230
+6 million of them result
+
+03:22.230 --> 03:24.900
+in law enforcement being dispatched,
+
+03:24.900 --> 03:27.210
+and 1.5 million of those crashes
+
+03:27.210 --> 03:29.880
+result in EMS being dispatched.
+
+03:29.880 --> 03:33.780
+And we know in those 1.5 million crashes of EMS
+
+03:33.780 --> 03:37.080
+that there's almost 170,000 people
+
+03:37.080 --> 03:38.880
+critically or seriously injured.
+
+03:38.880 --> 03:41.130
+Over 55,000 of those crash victims
+
+03:41.130 --> 03:43.200
+need to be extricated from the vehicle.
+
+03:43.200 --> 03:47.190
+And over 8,700 are partially or completely ejected
+
+03:47.190 --> 03:48.240
+from the vehicle.
+
+03:48.240 --> 03:51.150
+So this is a serious situation we're dealing with
+
+03:51.150 --> 03:53.430
+and there is a lot of severity.
+
+03:53.430 --> 03:54.870
+All of that results
+
+03:54.870 --> 03:57.960
+in over 42,000 traffic fatalities a year.
+
+03:57.960 --> 04:00.480
+We have seen this number dropping in the last couple years
+
+04:00.480 --> 04:01.830
+and we're happy for that.
+
+04:01.830 --> 04:05.520
+But one of the most important facts that we can share
+
+04:05.520 --> 04:09.720
+is that of the 42,000 fatalities on our roadway,
+
+04:09.720 --> 04:13.920
+42% were alive when EMS arrived on scene.
+
+04:13.920 --> 04:16.560
+We can drive that number down
+
+04:16.560 --> 04:18.240
+if we can get the right help there
+
+04:18.240 --> 04:20.400
+in the right way with the right information
+
+04:20.400 --> 04:23.043
+to improve the outcome of those patients.
+
+04:24.210 --> 04:27.000
+The 911 system is not a national 911 system.
+
+04:27.000 --> 04:30.360
+There are over 5,400 911 centers across our nation
+
+04:30.360 --> 04:31.650
+and they work independently
+
+04:31.650 --> 04:33.813
+at a local and at a state level.
+
+04:35.370 --> 04:39.600
+30% of our 911 centers are two seat centers or less.
+
+04:39.600 --> 04:42.300
+70% are five seat centers or less.
+
+04:42.300 --> 04:43.380
+And why is that important?
+
+04:43.380 --> 04:46.560
+'Cause you probably have an image based on TV or the news
+
+04:46.560 --> 04:49.710
+showing large 911 centers with all of this technology
+
+04:49.710 --> 04:50.790
+and all these people working,
+
+04:50.790 --> 04:52.200
+but that's not the reality.
+
+04:52.200 --> 04:55.230
+70% of our centers are five seat centers or less,
+
+04:55.230 --> 04:58.620
+and they have different abilities, capabilities,
+
+04:58.620 --> 05:01.290
+and technology that can get the call
+
+05:01.290 --> 05:04.023
+into their 911 centers to process that information.
+
+05:05.190 --> 05:08.670
+So we're gonna talk about this today with our panel.
+
+05:08.670 --> 05:10.920
+We're gonna talk about it from a 911 point of view,
+
+05:10.920 --> 05:13.290
+from a telematics service provider's point of view,
+
+05:13.290 --> 05:14.970
+and from connected vehicles.
+
+05:14.970 --> 05:16.320
+And that is our goal.
+
+05:16.320 --> 05:19.260
+So we've got some question prepared
+
+05:19.260 --> 05:22.023
+and I'm gonna sit down and start that process now.
+
+05:24.180 --> 05:28.530
+So first question, one second,
+
+05:28.530 --> 05:31.080
+it's gonna go to the 911 community,
+
+05:31.080 --> 05:33.150
+and I'm gonna ask Ty and Jennifer,
+
+05:33.150 --> 05:35.580
+and they're each gonna introduce themselves when they start,
+
+05:35.580 --> 05:37.050
+but what do you think
+
+05:37.050 --> 05:39.780
+is the single most important piece of information
+
+05:39.780 --> 05:43.110
+that 911 centers currently do not have access to
+
+05:43.110 --> 05:46.080
+that could positively impact post crash care?
+
+05:46.080 --> 05:47.430
+Jennifer?
+
+05:47.430 --> 05:48.600
+<v ->Hi Brian, thanks so much.</v>
+
+05:48.600 --> 05:49.830
+My name is Jennifer Kirkland.
+
+05:49.830 --> 05:52.860
+I'm the State 911 program manager for Colorado.
+
+05:52.860 --> 05:56.370
+I have 23 years of experience in 911 centers,
+
+05:56.370 --> 05:59.190
+both as a 911 telecommunicator,
+
+05:59.190 --> 06:01.830
+all the way up to leading the 911 centers.
+
+06:01.830 --> 06:05.610
+And I'm also heavily involved in 911 across the nation
+
+06:05.610 --> 06:06.693
+in various ways.
+
+06:08.040 --> 06:10.110
+To answer your question directly,
+
+06:10.110 --> 06:12.870
+I think there's no one single piece of information
+
+06:12.870 --> 06:13.980
+that would be most helpful.
+
+06:13.980 --> 06:15.360
+The first one that comes to mind
+
+06:15.360 --> 06:18.750
+is maybe number of patients involved in a vehicle.
+
+06:18.750 --> 06:20.305
+But what I'd like to highlight is the fact,
+
+06:20.305 --> 06:22.740
+something you touched upon in your introduction,
+
+06:22.740 --> 06:27.000
+which is that there are 5,400 911 centers across the country
+
+06:27.000 --> 06:29.130
+and there is a wide disparity
+
+06:29.130 --> 06:33.150
+of both technology availability in those 911 centers
+
+06:33.150 --> 06:35.520
+and training availability.
+
+06:35.520 --> 06:38.340
+Because 911 is administered at the local level
+
+06:38.340 --> 06:40.050
+and sometimes the state level,
+
+06:40.050 --> 06:42.780
+there's a wide, wide discrepancy
+
+06:42.780 --> 06:44.580
+in the availability of technology.
+
+06:44.580 --> 06:47.970
+Some of those 911 centers have state-of-the-art technology
+
+06:47.970 --> 06:49.800
+and can take all of the information
+
+06:49.800 --> 06:51.420
+that is available to you.
+
+06:51.420 --> 06:55.710
+And some of them still work with paper and pen
+
+06:55.710 --> 06:59.520
+to get that information out to the field responders.
+
+06:59.520 --> 07:02.460
+So the first question is,
+
+07:02.460 --> 07:04.800
+is there availability to get that technology
+
+07:04.800 --> 07:07.950
+and that information and data coming into the 911 center?
+
+07:07.950 --> 07:11.430
+The second thing I'll touch upon is the human aspect of 911.
+
+07:11.430 --> 07:13.860
+So in the United States,
+
+07:13.860 --> 07:17.100
+there is no national minimum training standard
+
+07:17.100 --> 07:19.680
+for 911 telecommunicators.
+
+07:19.680 --> 07:21.390
+That is left up to the states
+
+07:21.390 --> 07:23.670
+and some states have a minimum training standard
+
+07:23.670 --> 07:24.686
+for 911 telecommunicators,
+
+07:24.686 --> 07:26.250
+and some do not.
+
+07:26.250 --> 07:28.680
+Unfortunately, Colorado is one that does not,
+
+07:28.680 --> 07:31.890
+which means that if you call 911 from this room
+
+07:31.890 --> 07:34.710
+and reach the 911 center,
+
+07:34.710 --> 07:36.510
+there's gonna be a different level of training
+
+07:36.510 --> 07:39.624
+than there might be if you go to Colorado and call 911
+
+07:39.624 --> 07:41.820
+and say a rural area,
+
+07:41.820 --> 07:44.787
+the level of care that you're receiving from the very get go
+
+07:44.787 --> 07:46.650
+of your emergency
+
+07:46.650 --> 07:48.510
+is going to be vastly different.
+
+07:48.510 --> 07:53.220
+So I think as we move forward into technology and data
+
+07:53.220 --> 07:55.920
+and what we can get from those connected vehicles,
+
+07:55.920 --> 07:58.680
+it's important that we remember that those 911 calls
+
+07:58.680 --> 08:02.310
+begin and end with a human being in that 911 center.
+
+08:02.310 --> 08:03.900
+And we have to make sure
+
+08:03.900 --> 08:07.320
+that they have the training and knowledge
+
+08:07.320 --> 08:09.450
+necessary in order to process that call
+
+08:09.450 --> 08:12.570
+and to get that data from the connected vehicles
+
+08:12.570 --> 08:14.850
+and all of the ways that we can get that data
+
+08:14.850 --> 08:16.770
+and get it out to the field responders
+
+08:16.770 --> 08:19.290
+and working coordination to drive that,
+
+08:19.290 --> 08:21.330
+that fatality number down.
+
+08:21.330 --> 08:22.533
+I'll turn it over to Ty.
+
+08:23.940 --> 08:25.200
+<v ->Hi, my name's Ty Wooten.</v>
+
+08:25.200 --> 08:26.640
+I'm the Director of Government Affairs
+
+08:26.640 --> 08:29.130
+for the International Academies of Emergency Dispatch.
+
+08:29.130 --> 08:32.760
+We create standardized protocols
+
+08:32.760 --> 08:35.670
+that are used in 911 centers
+
+08:35.670 --> 08:38.850
+and emergency dispatch centers around the world.
+
+08:38.850 --> 08:43.850
+We're in almost 2,600 911 centers in the US
+
+08:44.010 --> 08:47.970
+and our protocols are translated
+
+08:47.970 --> 08:49.380
+into 29 different languages
+
+08:49.380 --> 08:52.560
+and are used in 59 different countries worldwide.
+
+08:52.560 --> 08:54.856
+I think from my perspective,
+
+08:54.856 --> 08:58.920
+the information coming into the 911 center,
+
+08:58.920 --> 09:00.750
+it's really key.
+
+09:00.750 --> 09:02.298
+You know, as Jennifer talked about,
+
+09:02.298 --> 09:05.340
+it's about a lot of the human element,
+
+09:05.340 --> 09:07.590
+but part of it is also understanding
+
+09:07.590 --> 09:11.703
+the standardization of the data that's coming in.
+
+09:12.810 --> 09:16.980
+From a perspective relative to the OEMs
+
+09:16.980 --> 09:20.133
+and the vehicle manufacturers,
+
+09:21.030 --> 09:23.340
+you know, having consistent data
+
+09:23.340 --> 09:27.930
+that comes in in a consistent way is incredibly important.
+
+09:27.930 --> 09:30.240
+Every time we have a variation
+
+09:30.240 --> 09:34.290
+in way the information is delivered
+
+09:34.290 --> 09:35.850
+to the 911 center,
+
+09:35.850 --> 09:38.220
+that creates additional training components
+
+09:38.220 --> 09:39.960
+and additional aspects
+
+09:39.960 --> 09:43.470
+that each individual 911 center has to manage.
+
+09:43.470 --> 09:46.410
+And so because of the wide variety
+
+09:46.410 --> 09:48.930
+of 911 centers across the US
+
+09:48.930 --> 09:52.080
+and there are different levels of capability,
+
+09:52.080 --> 09:55.980
+whether it be technology and or their training,
+
+09:55.980 --> 09:58.890
+we need to make it as consistent as possible
+
+09:58.890 --> 10:01.770
+so that when the data comes in,
+
+10:01.770 --> 10:02.617
+they don't have to go,
+
+10:02.617 --> 10:05.130
+"Okay, it's Tuesday after a full moon,
+
+10:05.130 --> 10:09.660
+and I now need to stand on my left foot
+
+10:09.660 --> 10:11.910
+and jump three times in the circle
+
+10:11.910 --> 10:14.259
+to remember what I'm supposed to do.
+
+10:14.259 --> 10:17.730
+We need to make it as user friendly
+
+10:17.730 --> 10:19.737
+and as straightforward as possible.
+
+10:19.737 --> 10:23.760
+And so standardization of the data and the data sets
+
+10:23.760 --> 10:25.173
+is critically important.
+
+10:26.040 --> 10:29.040
+<v ->And building on what both of you guys talked about,</v>
+
+10:29.040 --> 10:31.780
+I think one of the challenges is that,
+
+10:33.000 --> 10:34.407
+you know, the data that's available
+
+10:34.407 --> 10:36.180
+and coming into our centers now
+
+10:36.180 --> 10:39.030
+from the different telematics service providers
+
+10:39.030 --> 10:40.593
+who are gonna talk next,
+
+10:41.460 --> 10:44.040
+it works differently in different places, right?
+
+10:44.040 --> 10:46.470
+So when we talk about this need,
+
+10:46.470 --> 10:47.850
+it's not working the same
+
+10:47.850 --> 10:49.455
+across the United States right now.
+
+10:49.455 --> 10:50.400
+It can work differently.
+
+10:50.400 --> 10:51.570
+Can you build on that?
+
+10:51.570 --> 10:54.810
+<v ->Yeah, I mean not only does everybody</v>
+
+10:54.810 --> 10:58.110
+have these different variations in the 911 center,
+
+10:58.110 --> 11:01.920
+but also permeate that into the field response.
+
+11:01.920 --> 11:05.370
+So if you're in metro Las Vegas,
+
+11:05.370 --> 11:07.590
+you have a lot more resources and capabilities
+
+11:07.590 --> 11:10.920
+than you have in rural Colorado
+
+11:10.920 --> 11:12.780
+or rural Nebraska
+
+11:12.780 --> 11:15.120
+where things are completely different
+
+11:15.120 --> 11:19.770
+and where it may take you 45 minutes to an hour
+
+11:19.770 --> 11:21.990
+just to get to the patient.
+
+11:21.990 --> 11:24.360
+And that's where standardized protocols
+
+11:24.360 --> 11:28.260
+and utilizing methods like that
+
+11:28.260 --> 11:31.770
+so that we can provide enhancements
+
+11:31.770 --> 11:34.350
+and provide response,
+
+11:34.350 --> 11:36.390
+whether it's someone who is a bystander,
+
+11:36.390 --> 11:40.140
+so we can coach them through CPR or stopping the bleed
+
+11:40.140 --> 11:44.610
+or whatever that may be across those mechanisms.
+
+11:44.610 --> 11:45.780
+That is huge
+
+11:45.780 --> 11:49.170
+because not every jurisdiction has the same resources,
+
+11:49.170 --> 11:50.730
+not only in 911,
+
+11:50.730 --> 11:53.790
+but as well in the field.
+
+11:53.790 --> 11:54.623
+<v ->And I would build on that</v>
+
+11:54.623 --> 11:58.290
+and say keeping 911 professionals in the conversation
+
+11:58.290 --> 12:01.650
+as you build out that technology is imperative
+
+12:01.650 --> 12:04.380
+because 911 professionals look at the situation
+
+12:04.380 --> 12:05.520
+from a different perspective
+
+12:05.520 --> 12:09.660
+than a law enforcement officer or an EMS professional.
+
+12:09.660 --> 12:11.910
+So making sure that they're still involved in that
+
+12:11.910 --> 12:14.520
+and continue to be involved in that conversation
+
+12:14.520 --> 12:15.480
+is imperative.
+
+12:15.480 --> 12:19.750
+<v ->Right, the information that 911 needs is much different</v>
+
+12:20.730 --> 12:25.230
+to be able to make the correct determination of what to send
+
+12:25.230 --> 12:26.880
+than maybe some of the information
+
+12:26.880 --> 12:30.750
+that we will ultimately relay to those field responders.
+
+12:30.750 --> 12:35.750
+But we have to have critical first level information first
+
+12:36.570 --> 12:39.040
+to be able to get the right response out
+
+12:39.930 --> 12:43.350
+so that those field responders can then take it from there.
+
+12:43.350 --> 12:45.660
+We'll relay that other additional information,
+
+12:45.660 --> 12:46.500
+but we've gotta make sure
+
+12:46.500 --> 12:48.780
+that we're getting the right stuff first.
+
+12:48.780 --> 12:49.830
+And that's where it's critical
+
+12:49.830 --> 12:53.130
+to have 911 engaged in the conversation
+
+12:53.130 --> 12:54.510
+because without that,
+
+12:54.510 --> 12:58.200
+everybody kind of skips over that part.
+
+12:58.200 --> 13:00.750
+And this is a critical thing to remember,
+
+13:00.750 --> 13:04.350
+every single call that happens in the field
+
+13:04.350 --> 13:05.940
+starts with a 911 call
+
+13:05.940 --> 13:08.550
+and it comes through that 911 center
+
+13:08.550 --> 13:12.480
+and they're the ones that are managing the logistics
+
+13:12.480 --> 13:14.630
+of getting everybody else out to the field.
+
+13:15.840 --> 13:16.673
+<v ->Thank you.</v>
+
+13:16.673 --> 13:17.506
+I think that's great
+
+13:17.506 --> 13:19.890
+and I think the challenge that a, you know,
+
+13:19.890 --> 13:22.050
+we're here at a technology conference,
+
+13:22.050 --> 13:23.370
+this isn't as much,
+
+13:23.370 --> 13:24.780
+what I'm hearing is it's not as much
+
+13:24.780 --> 13:27.780
+of a technology challenge as a technology adoption
+
+13:27.780 --> 13:31.710
+that 911 hasn't adopted the full level of technology
+
+13:31.710 --> 13:33.630
+that's available to them
+
+13:33.630 --> 13:35.273
+in what we call in the 911 industry,
+
+13:35.273 --> 13:36.840
+next generation 911,
+
+13:36.840 --> 13:40.170
+that's not been as widely adopted across every state
+
+13:40.170 --> 13:42.180
+and across all the 5,400 911 centers.
+
+13:42.180 --> 13:45.090
+So at some point when that full adoption occurs,
+
+13:45.090 --> 13:46.950
+we can get this technology and the data
+
+13:46.950 --> 13:47.783
+into the centers differently.
+
+13:47.783 --> 13:51.210
+But right now it comes in in a variety of ways.
+
+13:51.210 --> 13:54.660
+<v ->Right, and we're kind of working off old technology</v>
+
+13:54.660 --> 13:58.200
+from the 1930s, 1940s today.
+
+13:58.200 --> 14:00.375
+So we have, you know,
+
+14:00.375 --> 14:02.430
+we walked the floors this morning
+
+14:02.430 --> 14:04.743
+and we saw tons of amazing technology,
+
+14:05.700 --> 14:07.530
+and I'm excited about the future.
+
+14:07.530 --> 14:10.500
+But unfortunately, we don't have the capability today
+
+14:10.500 --> 14:13.020
+to receive the information
+
+14:13.020 --> 14:15.900
+that many of you have,
+
+14:15.900 --> 14:17.670
+that you want to push to us.
+
+14:17.670 --> 14:19.170
+We just can't take it
+
+14:19.170 --> 14:22.680
+because we're working off old school systems
+
+14:22.680 --> 14:26.040
+and we're moving that way, but we're not there yet.
+
+14:26.040 --> 14:27.270
+We don't know,
+
+14:27.270 --> 14:31.020
+like the fundamental question of where are you
+
+14:31.020 --> 14:33.510
+is huge in 911.
+
+14:33.510 --> 14:35.820
+Domino's knows where you are,
+
+14:35.820 --> 14:37.620
+Uber knows where you are,
+
+14:37.620 --> 14:40.710
+but we can't pinpoint you like they can.
+
+14:40.710 --> 14:43.350
+And so just that fundamental question
+
+14:43.350 --> 14:44.943
+is important to remember.
+
+14:46.050 --> 14:49.080
+<v ->So next vital part of getting crash notifications</v>
+
+14:49.080 --> 14:51.180
+from the vehicle into 911
+
+14:51.180 --> 14:54.060
+is through our partners at telematics service providers.
+
+14:54.060 --> 14:56.880
+So I'm gonna tee this question off
+
+14:56.880 --> 14:59.160
+to Jim and Steve to go next,
+
+14:59.160 --> 15:01.350
+but can you guys talk about the importance
+
+15:01.350 --> 15:02.850
+of your streamlining data
+
+15:02.850 --> 15:05.790
+that comes into the 911 telecommunicators?
+
+15:05.790 --> 15:09.180
+And with all those different data points that are available,
+
+15:09.180 --> 15:11.130
+what should technology companies know
+
+15:11.130 --> 15:14.550
+as they strive to get more data into the centers?
+
+15:14.550 --> 15:15.990
+<v ->Yeah, so I'm Steve Coker.</v>
+
+15:15.990 --> 15:17.640
+I run SiriusXM Connect.
+
+15:17.640 --> 15:19.145
+It's a telematics service provider.
+
+15:19.145 --> 15:22.530
+We have more than 13 million active subscribers
+
+15:22.530 --> 15:24.240
+that we provide services to,
+
+15:24.240 --> 15:28.470
+including crash notification, SOS, and related services.
+
+15:28.470 --> 15:32.370
+We handle over a hundred crash events every single day.
+
+15:32.370 --> 15:33.510
+And so this, you know,
+
+15:33.510 --> 15:34.680
+is near and dear to my heart
+
+15:34.680 --> 15:36.825
+is because we really are out there trying to figure out
+
+15:36.825 --> 15:38.640
+how do we save lives every day.
+
+15:38.640 --> 15:40.860
+I think it's helpful to take a brief step back
+
+15:40.860 --> 15:42.517
+and understand from the,
+
+15:42.517 --> 15:44.730
+you know, PSAP perspective
+
+15:44.730 --> 15:47.610
+or the evolution of how data has been transmitted.
+
+15:47.610 --> 15:48.928
+And, you know, for the longest time,
+
+15:48.928 --> 15:52.080
+and we've been in business for over 30 years,
+
+15:52.080 --> 15:54.330
+you know, we get the call from the car,
+
+15:54.330 --> 15:56.697
+we then in turn call the PSAP,
+
+15:56.697 --> 15:58.200
+the relevant PSAP,
+
+15:58.200 --> 15:59.940
+and we've had to verbally communicate
+
+15:59.940 --> 16:01.540
+all the relevant information
+
+16:03.330 --> 16:05.760
+up into really the past few years.
+
+16:05.760 --> 16:07.320
+And only very recently, you know,
+
+16:07.320 --> 16:10.710
+through a partnership we have with RapidSOS
+
+16:10.710 --> 16:13.170
+are able to now digitally transmit
+
+16:13.170 --> 16:15.780
+the data that we can collect digitally from the vehicle
+
+16:15.780 --> 16:19.290
+and send it directly to the PSAP as opposed to having to,
+
+16:19.290 --> 16:21.210
+you know, stop and communicate verbally
+
+16:21.210 --> 16:23.190
+every piece of information
+
+16:23.190 --> 16:24.870
+like the latitude and longitude.
+
+16:24.870 --> 16:27.240
+And when you're communicating lots of detailed data,
+
+16:27.240 --> 16:29.280
+you have error problems and the like,
+
+16:29.280 --> 16:30.360
+that takes time.
+
+16:30.360 --> 16:31.650
+And what we found is, you know,
+
+16:31.650 --> 16:34.410
+we save on average 37 seconds
+
+16:34.410 --> 16:38.550
+of providing a critical information to the PSAP
+
+16:38.550 --> 16:40.410
+and seconds saved saves lives.
+
+16:40.410 --> 16:42.000
+So we're really excited about that
+
+16:42.000 --> 16:44.520
+and we think it's a real step forward
+
+16:44.520 --> 16:46.650
+in how we can help save lives.
+
+16:46.650 --> 16:48.060
+But with the ability
+
+16:48.060 --> 16:51.000
+to digitally transmit information to the PSAP,
+
+16:51.000 --> 16:52.680
+now we sort of have the converse problem,
+
+16:52.680 --> 16:55.200
+which is we can send all kinds of data
+
+16:55.200 --> 16:56.346
+and we have, you know,
+
+16:56.346 --> 16:59.257
+OEMs and tier one providers suggesting,
+
+16:59.257 --> 17:00.900
+"Hey, we've got this really interesting thing
+
+17:00.900 --> 17:04.560
+that we'd like to provide that might be useful to the PSAP.
+
+17:04.560 --> 17:07.127
+And so we, as the TSPs,
+
+17:07.127 --> 17:10.950
+have this intermediary role to help try and figure out,
+
+17:10.950 --> 17:12.930
+well, what's the most important information,
+
+17:12.930 --> 17:15.180
+how much data should we really send?
+
+17:15.180 --> 17:18.660
+Just 'cause we can doesn't mean we should provide it.
+
+17:18.660 --> 17:20.070
+And I think it's really important to understand,
+
+17:20.070 --> 17:23.160
+we had a great visit at the end of last year
+
+17:23.160 --> 17:25.113
+to the PSAP in Wheaton, Illinois.
+
+17:26.640 --> 17:27.556
+I'm a former first responder,
+
+17:27.556 --> 17:30.060
+I was a deputy sheriff for a few years,
+
+17:30.060 --> 17:34.140
+and ours was a pen and paper
+
+17:34.140 --> 17:36.570
+with a radio at the time.
+
+17:36.570 --> 17:38.970
+These folks have up to 10 screens,
+
+17:38.970 --> 17:40.830
+five keyboards, five mice,
+
+17:40.830 --> 17:42.150
+to try and manage this.
+
+17:42.150 --> 17:43.920
+The cognitive overload
+
+17:43.920 --> 17:46.290
+that we are asking the public safety telecommunicators
+
+17:46.290 --> 17:48.330
+to deal with is really significant.
+
+17:48.330 --> 17:49.800
+And when you provide cognitive overload
+
+17:49.800 --> 17:51.120
+in such a critical place,
+
+17:51.120 --> 17:53.100
+like it's really important that we simplify
+
+17:53.100 --> 17:55.020
+and reduce that complexity.
+
+17:55.020 --> 17:56.565
+So I think we're really working to,
+
+17:56.565 --> 18:00.360
+as part of the standards of vehicle emergency data set
+
+18:00.360 --> 18:01.807
+and related things to say,
+
+18:01.807 --> 18:03.600
+"Hey, let's narrow down what's really important
+
+18:03.600 --> 18:06.000
+and most importantly for the telecommunicator,
+
+18:06.000 --> 18:09.330
+what's actionable for them in making the dispatch decision.
+
+18:09.330 --> 18:12.120
+And I think those parts are really critical to,
+
+18:12.120 --> 18:14.880
+let's do that in a consistent way.
+
+18:14.880 --> 18:15.720
+And I'm gonna leave it to Jim
+
+18:15.720 --> 18:17.850
+to talk a little bit more about the consistency
+
+18:17.850 --> 18:19.770
+and the work we're doing together to try and make sure that,
+
+18:19.770 --> 18:21.660
+but I think that's a really critical aspect.
+
+18:21.660 --> 18:22.950
+<v ->No, that's a great point.</v>
+
+18:22.950 --> 18:25.170
+And I just wanna, we have,
+
+18:25.170 --> 18:27.810
+as all technology people, we have a lot of acronyms.
+
+18:27.810 --> 18:30.030
+PSAP is the Public Safety Answering Point,
+
+18:30.030 --> 18:32.220
+another term for a 911 center.
+
+18:32.220 --> 18:34.380
+So I wanna make sure we all stand on top
+
+18:34.380 --> 18:35.970
+that that's what we're talking about there.
+
+18:35.970 --> 18:39.420
+So we talk about 911 centers and PSAPs and ECCs
+
+18:39.420 --> 18:43.170
+all as synonymous org entities.
+
+18:43.170 --> 18:44.610
+But Jim, why don't you go ahead
+
+18:44.610 --> 18:46.560
+and build on the type of data
+
+18:46.560 --> 18:48.720
+and how that data will make a difference
+
+18:48.720 --> 18:51.810
+in a dispatch decision by those 911 telecommunicators.
+
+18:51.810 --> 18:53.850
+<v ->Great, thank you and great stuff so far.</v>
+
+18:53.850 --> 18:55.457
+So I'm Jim Lanier with OnStar.
+
+18:55.457 --> 18:57.630
+OnStar is a subsidiary of GM,
+
+18:57.630 --> 18:59.318
+a wholly-owned subsidiary.
+
+18:59.318 --> 19:02.310
+OnStar's been providing crash services
+
+19:02.310 --> 19:04.290
+to its members since 1996.
+
+19:04.290 --> 19:07.470
+And apologize, a little bit of a froggy voice today.
+
+19:07.470 --> 19:10.410
+But again, this is great stuff to kind of build on it
+
+19:10.410 --> 19:13.050
+and take to the next level of the conversation.
+
+19:13.050 --> 19:15.030
+You know, at OnStar we have the same challenges
+
+19:15.030 --> 19:16.950
+as far as when we work closely
+
+19:16.950 --> 19:18.600
+with our public safety partners,
+
+19:18.600 --> 19:20.223
+making sure that we're providing relevant information
+
+19:20.223 --> 19:22.830
+in a way that that's timely and efficient and effective.
+
+19:22.830 --> 19:24.570
+So going back to, for example,
+
+19:24.570 --> 19:25.403
+you know, old school,
+
+19:25.403 --> 19:26.370
+and we still do it today,
+
+19:26.370 --> 19:29.310
+is the verbal handoff when we receive a crash notification
+
+19:29.310 --> 19:31.680
+to ensure that public safety is getting the information.
+
+19:31.680 --> 19:33.090
+But again, it's a verbal handoff
+
+19:33.090 --> 19:36.000
+and we do have a digital alternative as well
+
+19:36.000 --> 19:38.519
+with some of our PSAP partners out there
+
+19:38.519 --> 19:40.950
+where we utilize a company called RapidDeploy
+
+19:40.950 --> 19:42.630
+that pushes our information digitally
+
+19:42.630 --> 19:44.490
+out to the 911 centers.
+
+19:44.490 --> 19:47.220
+But where this becomes a bit of a challenge
+
+19:47.220 --> 19:50.640
+is the 911 centers have this separate workstation
+
+19:50.640 --> 19:52.770
+that they have to access to get this information.
+
+19:52.770 --> 19:55.590
+So when you're hearing about next generation 911
+
+19:55.590 --> 19:56.490
+in terms like that,
+
+19:56.490 --> 19:59.640
+and the next generation actually a telematics per se,
+
+19:59.640 --> 20:02.730
+is to bring this information into the 911 centers
+
+20:02.730 --> 20:04.080
+into the public safety ecosystem.
+
+20:04.080 --> 20:05.057
+Not just available for 911,
+
+20:05.057 --> 20:06.600
+but those downstream that need it,
+
+20:06.600 --> 20:09.720
+the first responders, trauma centers, et cetera.
+
+20:09.720 --> 20:12.630
+So it's integrated into the call handling workflow.
+
+20:12.630 --> 20:13.650
+And what I mean by that,
+
+20:13.650 --> 20:15.330
+if I'm a 911 telecommunicator,
+
+20:15.330 --> 20:16.290
+and been there, done that,
+
+20:16.290 --> 20:17.910
+and had the multiple screens and so forth,
+
+20:17.910 --> 20:18.840
+and it's very frustrating
+
+20:18.840 --> 20:20.970
+if I have to leave my usual comfort zone
+
+20:20.970 --> 20:22.020
+of here's how a call comes in,
+
+20:22.020 --> 20:22.860
+here's what I do with it,
+
+20:22.860 --> 20:23.960
+here's how I dispatch it.
+
+20:23.960 --> 20:26.309
+We go swivel over here and try and do something here
+
+20:26.309 --> 20:29.010
+and it's not integrated with my other system.
+
+20:29.010 --> 20:30.660
+So it becomes a bit of a gludge.
+
+20:30.660 --> 20:32.070
+And when you're short staffed
+
+20:32.070 --> 20:33.030
+and you have other pressures,
+
+20:33.030 --> 20:34.980
+it's just not the most effective way.
+
+20:34.980 --> 20:36.660
+So I'm going all this is, again,
+
+20:36.660 --> 20:39.570
+circling back to we need to work towards integration.
+
+20:39.570 --> 20:41.504
+And for the technology providers out there,
+
+20:41.504 --> 20:43.410
+those that can provide information,
+
+20:43.410 --> 20:46.440
+crash notifications, smart streets, internet of things,
+
+20:46.440 --> 20:48.450
+vehicle connectivity data,
+
+20:48.450 --> 20:49.890
+one thing, please, please, please
+
+20:49.890 --> 20:51.390
+to kind of build on something said earlier
+
+20:51.390 --> 20:53.550
+is don't assume it's plug and play.
+
+20:53.550 --> 20:55.770
+You know, the 911 technology is not plug and play.
+
+20:55.770 --> 21:00.000
+It's not a native IP environment yet in many places.
+
+21:00.000 --> 21:03.690
+So what we need to do collectively is work as an industry
+
+21:03.690 --> 21:06.660
+to ensure that we're treating 911 as a customer
+
+21:06.660 --> 21:09.120
+and taking into consideration their needs.
+
+21:09.120 --> 21:10.380
+But there's opportunities there.
+
+21:10.380 --> 21:13.080
+The good news is there's a lot of energy behind this.
+
+21:13.080 --> 21:14.730
+This is what our seventh panel I think
+
+21:14.730 --> 21:15.750
+that we've had doing this.
+
+21:15.750 --> 21:19.230
+We had the data summit that NHTSA hosted for us last year,
+
+21:19.230 --> 21:20.220
+which was very, very powerful,
+
+21:20.220 --> 21:23.700
+a lot to OEMs and third party service providers,
+
+21:23.700 --> 21:25.950
+trauma surgeons, 911 professionals, et cetera.
+
+21:25.950 --> 21:27.810
+We had a big mix there.
+
+21:27.810 --> 21:29.130
+But the energy behind that was to,
+
+21:29.130 --> 21:31.950
+let's collectively start to work on this.
+
+21:31.950 --> 21:33.690
+So for example, Steve mentioned VEDS,
+
+21:33.690 --> 21:35.520
+the Vehicle Emergency Data Set,
+
+21:35.520 --> 21:37.440
+this is a 911 standard.
+
+21:37.440 --> 21:39.450
+This is a standard put together,
+
+21:39.450 --> 21:42.270
+ANSI approved by the two large 911 associations
+
+21:42.270 --> 21:43.260
+collaborated on this
+
+21:43.260 --> 21:45.270
+and revised it just a couple of years ago.
+
+21:45.270 --> 21:48.000
+And this provides a platform to allow technology providers
+
+21:48.000 --> 21:52.680
+to be able to provide information coming from, for example,
+
+21:52.680 --> 21:53.820
+a third party service provider
+
+21:53.820 --> 21:56.100
+like OnStar, SiriusXM, or Bosch.
+
+21:56.100 --> 21:57.600
+You got crash notification,
+
+21:57.600 --> 22:00.530
+be able to provide that to the 911 centers
+
+22:00.530 --> 22:01.740
+in a consistent manner.
+
+22:01.740 --> 22:03.720
+So for all the technology providers out there
+
+22:03.720 --> 22:05.790
+can theoretically through a common interface,
+
+22:05.790 --> 22:07.287
+be able to take this information in.
+
+22:07.287 --> 22:09.300
+The telecommunicator doesn't have to worry about,
+
+22:09.300 --> 22:11.733
+oh, is this a call from a Mercedes vehicle
+
+22:11.733 --> 22:15.750
+or Bosch or SiriusXM or an OnStar GM vehicle.
+
+22:15.750 --> 22:18.150
+It's gonna show up the same way for them every time.
+
+22:18.150 --> 22:19.410
+And included with that comes thing
+
+22:19.410 --> 22:21.450
+such as injury severity prediction,
+
+22:21.450 --> 22:24.120
+which is an extremely important component in all this.
+
+22:24.120 --> 22:26.430
+If you have indications initially in the call
+
+22:26.430 --> 22:28.920
+that the person has a high probability
+
+22:28.920 --> 22:29.970
+of being severely injured,
+
+22:29.970 --> 22:31.170
+and please keep in mind with trauma,
+
+22:31.170 --> 22:33.960
+a lot of trauma does happen because of what happens inside,
+
+22:33.960 --> 22:35.490
+you don't see it initially,
+
+22:35.490 --> 22:36.570
+you know, from the trauma perspective,
+
+22:36.570 --> 22:37.890
+you might walk up and they seem fine,
+
+22:37.890 --> 22:40.170
+but if the vehicle is saying there's been enough force here
+
+22:40.170 --> 22:41.640
+to indicate they possibly,
+
+22:41.640 --> 22:43.230
+or probably having an internal injury,
+
+22:43.230 --> 22:44.940
+they need to go to a trauma center.
+
+22:44.940 --> 22:46.320
+So in these rural environments
+
+22:46.320 --> 22:47.880
+where I might take 45 minutes
+
+22:47.880 --> 22:48.930
+to get out there as a paramedic,
+
+22:48.930 --> 22:50.640
+I'm doing everything I can to get there.
+
+22:50.640 --> 22:51.840
+But if I know early,
+
+22:51.840 --> 22:54.360
+this is why I'm gonna launch a helicopter early.
+
+22:54.360 --> 22:55.193
+Most of you are probably familiar
+
+22:55.193 --> 22:56.880
+with what's called the golden hour.
+
+22:56.880 --> 22:58.260
+The patient needs to be in surgery
+
+22:58.260 --> 23:00.420
+within an hour of the time of the incident,
+
+23:00.420 --> 23:02.250
+not from when EMS gets there
+
+23:02.250 --> 23:03.210
+and put that in context
+
+23:03.210 --> 23:05.610
+with 40 plus percent of these patients are alive
+
+23:05.610 --> 23:06.960
+when EMS arrives.
+
+23:06.960 --> 23:08.130
+But how long did it take 'em to get there?
+
+23:08.130 --> 23:10.050
+How much of that golden hour is going away?
+
+23:10.050 --> 23:11.940
+So we have a real opportunity to work together
+
+23:11.940 --> 23:16.477
+with the OEMs, TSPs, NHTSA, COVESA, other groups to say,
+
+23:16.477 --> 23:17.730
+"You know, we can do better with this
+
+23:17.730 --> 23:18.780
+because there's standards out there.
+
+23:18.780 --> 23:19.740
+We just need to start bringing
+
+23:19.740 --> 23:21.390
+the right stakeholders together
+
+23:21.390 --> 23:23.907
+and making it easier on everybody involved."
+
+23:25.260 --> 23:26.093
+<v ->Oh, that's great.</v>
+
+23:26.093 --> 23:27.240
+And I think that's an important part,
+
+23:27.240 --> 23:28.073
+Jim, you talked about,
+
+23:28.073 --> 23:31.500
+is that this data can drive a different response.
+
+23:31.500 --> 23:32.940
+So in our EMS community
+
+23:32.940 --> 23:35.430
+and in my partners in NHTSA's office of EMS
+
+23:35.430 --> 23:38.070
+is that there is different levels of training.
+
+23:38.070 --> 23:41.217
+There's basic level EMTs, paramedic trained EMTs,
+
+23:41.217 --> 23:44.520
+and we want advanced life support responding
+
+23:44.520 --> 23:45.840
+when there's serious trauma.
+
+23:45.840 --> 23:47.817
+We want that critical care helicopter
+
+23:47.817 --> 23:50.010
+or other treatment notified
+
+23:50.010 --> 23:52.890
+because you are getting the right treatment
+
+23:52.890 --> 23:56.610
+and the right care has the biggest potential of outcome,
+
+23:56.610 --> 23:57.720
+you know, to that patient.
+
+23:57.720 --> 24:00.150
+So getting them to a trauma center
+
+24:00.150 --> 24:02.520
+can improve their odds by over 25%.
+
+24:02.520 --> 24:05.160
+Just getting them to the right level of trauma center.
+
+24:05.160 --> 24:06.210
+And that's what's key.
+
+24:06.210 --> 24:08.220
+And that data from the vehicle,
+
+24:08.220 --> 24:09.502
+like the mechanism of injury
+
+24:09.502 --> 24:13.950
+and the injury predictive scores can really detail that.
+
+24:13.950 --> 24:18.450
+So our next group are more in the automotive
+
+24:18.450 --> 24:20.190
+and technology industry
+
+24:20.190 --> 24:23.407
+and I'm gonna start with them and ask this question of,
+
+24:23.407 --> 24:25.560
+you know, what do we think
+
+24:25.560 --> 24:28.260
+hearing what we've heard from the 911 and the TSPs,
+
+24:28.260 --> 24:32.280
+what can OEMs and other automotive technology leaders do
+
+24:32.280 --> 24:35.130
+to help 911 advance post crash care response?
+
+24:35.130 --> 24:36.600
+And this is one of those areas
+
+24:36.600 --> 24:38.940
+where it can be even a little non-traditional,
+
+24:38.940 --> 24:40.530
+not just crash notification,
+
+24:40.530 --> 24:42.930
+but other ways that we're gonna make an impact
+
+24:42.930 --> 24:44.820
+within the automotive industry?
+
+24:44.820 --> 24:45.780
+Tim, you wanna start?
+
+24:45.780 --> 24:46.710
+<v ->Yeah, thanks.</v>
+
+24:46.710 --> 24:47.910
+So Tim VanGoethem,
+
+24:47.910 --> 24:49.590
+I'm the Chief product officer
+
+24:49.590 --> 24:52.200
+for a company called Emergency Safety Solutions.
+
+24:52.200 --> 24:56.219
+Our focus is to reduce the number of fatalities and injuries
+
+24:56.219 --> 24:58.890
+that result from either a vulnerable vehicle
+
+24:58.890 --> 25:00.300
+or a disabled vehicle.
+
+25:00.300 --> 25:01.740
+Whether they're on the roadside
+
+25:01.740 --> 25:03.270
+because they've been in a crash
+
+25:03.270 --> 25:05.370
+or they're just dealing with a breakdown
+
+25:05.370 --> 25:07.020
+like a flat tire.
+
+25:07.020 --> 25:10.410
+I also have the privilege of co-chairing the COVESA,
+
+25:10.410 --> 25:11.820
+Connected Safety Birds of Feather.
+
+25:11.820 --> 25:13.710
+So we have been in this conversation.
+
+25:13.710 --> 25:17.520
+And both ESS and COVESA are thinking about this
+
+25:17.520 --> 25:20.940
+in terms of kind of a progression of value chain, right?
+
+25:20.940 --> 25:23.520
+Because there's a lot of people involved
+
+25:23.520 --> 25:25.380
+in a crash situation.
+
+25:25.380 --> 25:27.330
+Certainly the victims themselves,
+
+25:27.330 --> 25:29.550
+the first responders that are coming,
+
+25:29.550 --> 25:32.550
+the dispatchers that are trying to program a response,
+
+25:32.550 --> 25:35.370
+and eventually people in the hospital
+
+25:35.370 --> 25:37.320
+that are gonna receive those victims.
+
+25:37.320 --> 25:39.090
+So the way we've been thinking about this
+
+25:39.090 --> 25:43.260
+is how do we kind of understand all of the stakeholders
+
+25:43.260 --> 25:46.500
+that are involved in what their collective needs are.
+
+25:46.500 --> 25:51.500
+From our view, stage one is we need to notify, right?
+
+25:51.660 --> 25:55.260
+And that notification can certainly be to the PSAPs.
+
+25:55.260 --> 25:57.000
+You talked about the simple thing, Ty,
+
+25:57.000 --> 25:59.970
+of just knowing where a crash has occurred.
+
+25:59.970 --> 26:02.130
+It was astounding to me
+
+26:02.130 --> 26:04.770
+to learn through our earlier conversations
+
+26:04.770 --> 26:09.030
+how blind the 911 call centers and the dispatchers are,
+
+26:09.030 --> 26:12.120
+as well as our friends in the TSP community.
+
+26:12.120 --> 26:13.650
+I just assumed,
+
+26:13.650 --> 26:14.700
+you know, that was in place,
+
+26:14.700 --> 26:16.800
+'cause I was part of the Motorola team
+
+26:16.800 --> 26:18.090
+that built genuine OnStar.
+
+26:18.090 --> 26:21.240
+So I know what the car is capable of doing
+
+26:21.240 --> 26:23.640
+and it was astounding to learn
+
+26:23.640 --> 26:25.500
+that all the downstream stakeholders
+
+26:25.500 --> 26:28.560
+was not getting that simple piece of information.
+
+26:28.560 --> 26:29.658
+But we can notify other things.
+
+26:29.658 --> 26:33.570
+We can notify the other drivers that are approaching, right?
+
+26:33.570 --> 26:37.170
+'Cause even though we're desperate
+
+26:37.170 --> 26:39.600
+to prevent crashes,
+
+26:39.600 --> 26:40.860
+when they occur,
+
+26:40.860 --> 26:42.960
+we need to stop the pileups,
+
+26:42.960 --> 26:44.700
+the secondary collisions,
+
+26:44.700 --> 26:46.710
+or especially this time of year,
+
+26:46.710 --> 26:50.460
+the multi-car pileups that really turn, you know,
+
+26:50.460 --> 26:53.520
+a bad situation into tragedy.
+
+26:53.520 --> 26:56.700
+So how do we notify people of things?
+
+26:56.700 --> 26:59.490
+From emergency safety solutions perspective,
+
+26:59.490 --> 27:01.590
+we also wanna protect the scene.
+
+27:01.590 --> 27:04.410
+How do we use things like reimagined lighting
+
+27:04.410 --> 27:08.370
+or other ways to use line of sight tools
+
+27:08.370 --> 27:10.440
+to communicate to the approaching motorists
+
+27:10.440 --> 27:12.150
+that there's something in front of them,
+
+27:12.150 --> 27:13.800
+whether that's a crash
+
+27:13.800 --> 27:15.180
+or somebody on the side of the road
+
+27:15.180 --> 27:16.920
+dealing with a flat tire.
+
+27:16.920 --> 27:19.739
+And we've deployed these kind of technologies
+
+27:19.739 --> 27:21.600
+out into the field already.
+
+27:21.600 --> 27:24.450
+And then the last step is response.
+
+27:24.450 --> 27:26.587
+How do we program the right response?
+
+27:26.587 --> 27:29.490
+So just kind of building on what my colleagues have said,
+
+27:29.490 --> 27:32.850
+it's around understanding the characteristics of the crash.
+
+27:32.850 --> 27:34.080
+How many cars were involved?
+
+27:34.080 --> 27:35.520
+How many people were in the car?
+
+27:35.520 --> 27:37.530
+Were they belted, right?
+
+27:37.530 --> 27:38.970
+Have they been injected?
+
+27:38.970 --> 27:40.800
+That was another kind of interesting thing
+
+27:40.800 --> 27:42.120
+for me to understand.
+
+27:42.120 --> 27:44.370
+I believed ignorantly
+
+27:44.370 --> 27:46.200
+that one of the most important things to understand
+
+27:46.200 --> 27:48.660
+is that has the airbag deployed.
+
+27:48.660 --> 27:53.640
+What I was astounded to learn is if the airbag has deployed,
+
+27:53.640 --> 27:56.070
+there's still a very high probability
+
+27:56.070 --> 27:57.960
+like the occupants are okay.
+
+27:57.960 --> 28:00.900
+'Cause the automotive industry has done an amazing job
+
+28:00.900 --> 28:03.690
+of building crash resilient cars.
+
+28:03.690 --> 28:07.860
+But if they've been injected, very different outcome.
+
+28:07.860 --> 28:10.410
+And I just didn't expect that.
+
+28:10.410 --> 28:13.350
+So how do we understand the characteristics of the crash?
+
+28:13.350 --> 28:14.790
+How many people were involved?
+
+28:14.790 --> 28:15.930
+Were they belted?
+
+28:15.930 --> 28:17.190
+Did they stay in the car?
+
+28:17.190 --> 28:21.180
+And then if we can also bridge that to who was in the car
+
+28:21.180 --> 28:23.370
+and be able to share, you know,
+
+28:23.370 --> 28:27.060
+managing all the privacy topics that obviously get involved.
+
+28:27.060 --> 28:29.160
+But do they have medical conditions?
+
+28:29.160 --> 28:30.540
+How old are they?
+
+28:30.540 --> 28:32.640
+Are they allergic to certain medicines?
+
+28:32.640 --> 28:35.820
+And as that information conglomerates
+
+28:35.820 --> 28:37.920
+and moves through this value chain,
+
+28:37.920 --> 28:40.650
+then I think each of the stakeholders then
+
+28:40.650 --> 28:42.630
+will have the information they need
+
+28:42.630 --> 28:45.430
+to program the right response and drive a great outcome.
+
+28:46.830 --> 28:48.150
+<v ->Thank you.</v>
+
+28:48.150 --> 28:49.770
+<v ->Steal that from you.</v>
+
+28:49.770 --> 28:51.510
+Hi, my name is Kathy Boden Holland.
+
+28:51.510 --> 28:53.550
+I'm the CEO of Mindr.
+
+28:53.550 --> 28:56.880
+Mindr is kind of the odd duck out in this group
+
+28:56.880 --> 28:59.820
+in that we are the country's largest provider
+
+28:59.820 --> 29:02.940
+of ignition interlock devices and services.
+
+29:02.940 --> 29:06.960
+An IID is what you would have in your car
+
+29:06.960 --> 29:09.543
+if you have had a DUI.
+
+29:10.860 --> 29:14.130
+There are programs that are managed in every state.
+
+29:14.130 --> 29:15.630
+I am, too, from Colorado,
+
+29:15.630 --> 29:17.940
+which has an excellent program,
+
+29:17.940 --> 29:20.430
+and we operate in all 50 states.
+
+29:20.430 --> 29:24.240
+Just to give you some perspective on size
+
+29:24.240 --> 29:25.950
+because people often think of DUI
+
+29:25.950 --> 29:27.660
+as something that happens to someone else,
+
+29:27.660 --> 29:32.640
+there's a 900,000 DUI arrests annually,
+
+29:32.640 --> 29:35.703
+which is actually fewer arrests than pre-COVID.
+
+29:36.810 --> 29:40.620
+And yet fatalities associated with substance
+
+29:40.620 --> 29:42.690
+has gone up post-COVID.
+
+29:42.690 --> 29:46.290
+So it is not that behavior has gotten better or different,
+
+29:46.290 --> 29:49.230
+it's actually that enforcement has gone down
+
+29:49.230 --> 29:50.940
+not for reasons,
+
+29:50.940 --> 29:52.080
+anything that are different
+
+29:52.080 --> 29:53.204
+than most companies are dealing with,
+
+29:53.204 --> 29:55.830
+which is recruitment and training,
+
+29:55.830 --> 29:57.000
+something we've talked about here.
+
+29:57.000 --> 29:59.190
+But certainly from a law enforcement perspective,
+
+29:59.190 --> 30:01.890
+it's a significant, significant issue.
+
+30:01.890 --> 30:06.890
+So we are very much in the keeping our safer people quadrant
+
+30:07.080 --> 30:08.943
+of the NHTSA model.
+
+30:09.780 --> 30:12.881
+We stop amongst our customer base,
+
+30:12.881 --> 30:15.480
+approximately a quarter million
+
+30:15.480 --> 30:19.320
+attempted drunk driving events on an annual basis.
+
+30:19.320 --> 30:20.340
+But I will tell you
+
+30:20.340 --> 30:25.110
+that one of the greatest competitors to us as a company
+
+30:25.110 --> 30:26.700
+is non-compliance.
+
+30:26.700 --> 30:29.760
+So what that means is that you've had a DUI,
+
+30:29.760 --> 30:34.410
+you are to have an IID in your car and you simply don't.
+
+30:34.410 --> 30:37.290
+So enforcement of having the IID in the car is even harder
+
+30:37.290 --> 30:39.723
+than the enforcement of impaired driving.
+
+30:40.710 --> 30:44.010
+An IID is the only proven technology out there
+
+30:44.010 --> 30:46.830
+to lower both DUIs,
+
+30:46.830 --> 30:48.300
+as well as recidivism.
+
+30:48.300 --> 30:51.510
+So actually DUIs are about two thirds of them
+
+30:51.510 --> 30:53.310
+are first time offenders.
+
+30:53.310 --> 30:56.910
+So it's not always a chronic alcohol issue.
+
+30:56.910 --> 31:00.093
+It's a chronic bad decision making issue.
+
+31:01.170 --> 31:02.003
+I say all that
+
+31:02.003 --> 31:04.890
+because I wanted to just add to this conversation
+
+31:04.890 --> 31:08.970
+that something that I think Tim touched on briefly
+
+31:08.970 --> 31:12.360
+that the reason compliance is an issue
+
+31:12.360 --> 31:14.430
+is something that I think holds its head up here
+
+31:14.430 --> 31:16.473
+in this challenge, which is privacy.
+
+31:18.360 --> 31:20.370
+All of us are probably really,
+
+31:20.370 --> 31:22.293
+we have a huge digital footprint.
+
+31:23.130 --> 31:25.230
+Our cars know a lot about us
+
+31:25.230 --> 31:27.780
+as do our phones, as do our laptops,
+
+31:27.780 --> 31:30.450
+and all the people who are building and operating those,
+
+31:30.450 --> 31:32.845
+many of whom are probably in the room today.
+
+31:32.845 --> 31:34.893
+We have a huge amount of data,
+
+31:35.850 --> 31:38.770
+and the individuals
+
+31:39.660 --> 31:42.000
+whose data that is about are not,
+
+31:42.000 --> 31:43.530
+are becoming, I think, more and more savvy
+
+31:43.530 --> 31:46.890
+about not wanting that to be publicly available,
+
+31:46.890 --> 31:50.880
+or even publicly available for good intention, right?
+
+31:50.880 --> 31:52.500
+And once you've been in a crash
+
+31:52.500 --> 31:55.471
+is not the time to decide you wanna opt in.
+
+31:55.471 --> 31:58.200
+And so making sure
+
+31:58.200 --> 32:00.360
+that we have both a complete picture of people,
+
+32:00.360 --> 32:02.880
+but then also full transparency
+
+32:02.880 --> 32:05.190
+as to how and when it may be shared
+
+32:05.190 --> 32:07.170
+is I think one of the great challenges
+
+32:07.170 --> 32:09.390
+to what we're talking about here today.
+
+32:09.390 --> 32:11.835
+I will tell you that that non-compliance
+
+32:11.835 --> 32:15.690
+that I talked about as being a competitive issue for us,
+
+32:15.690 --> 32:16.680
+we've done the research,
+
+32:16.680 --> 32:17.850
+obviously we wanna figure out
+
+32:17.850 --> 32:19.800
+why non-compliance is an issue,
+
+32:19.800 --> 32:22.920
+and privacy is one of the key factors.
+
+32:22.920 --> 32:26.220
+We thought it would be more about not wanting to pay for it,
+
+32:26.220 --> 32:27.053
+but it turns out
+
+32:27.053 --> 32:30.120
+that that's actually much farther down the list.
+
+32:30.120 --> 32:32.850
+And again, it's not necessarily
+
+32:32.850 --> 32:37.080
+because they intend to be an impaired driver again,
+
+32:37.080 --> 32:40.380
+but because they simply don't wanna have
+
+32:40.380 --> 32:43.380
+that kind of tracking on an ongoing basis
+
+32:43.380 --> 32:44.943
+and are willing to,
+
+32:46.500 --> 32:47.363
+I'll say, you know,
+
+32:47.363 --> 32:49.170
+break the rules, break the law,
+
+32:49.170 --> 32:50.520
+however you wanna describe it,
+
+32:50.520 --> 32:51.540
+in order to avoid that.
+
+32:51.540 --> 32:54.600
+So I just kinda wanted to add that to this discussion
+
+32:54.600 --> 32:58.260
+or highlight, maybe reraise that to this discussion.
+
+32:58.260 --> 33:02.086
+What data would be really valuable to the ecosystem
+
+33:02.086 --> 33:04.110
+has to be, you know,
+
+33:04.110 --> 33:06.090
+the Venn diagram of what data people want
+
+33:06.090 --> 33:07.840
+to be available to the ecosystem
+
+33:08.910 --> 33:10.620
+has to also be considered.
+
+33:10.620 --> 33:15.420
+And what I would like in the ecosystem probably differs
+
+33:15.420 --> 33:17.700
+when I need it to be in the ecosystem
+
+33:17.700 --> 33:20.790
+than in advance when I'm asking myself that question.
+
+33:20.790 --> 33:21.720
+<v ->Yeah, thanks Kathy.</v>
+
+33:21.720 --> 33:22.620
+And that's a great point.
+
+33:22.620 --> 33:25.140
+And as a couple people have alluded to,
+
+33:25.140 --> 33:26.910
+this conversation that we're having today
+
+33:26.910 --> 33:29.640
+is a continuation that really started back in June
+
+33:29.640 --> 33:32.070
+in Michigan at an event
+
+33:32.070 --> 33:34.290
+and where I've met Tim and Steve
+
+33:34.290 --> 33:36.060
+and some others that are on this panel
+
+33:36.060 --> 33:37.950
+that we've been building on.
+
+33:37.950 --> 33:39.660
+And one of the things that we've recognized
+
+33:39.660 --> 33:41.430
+is that whether it's standards,
+
+33:41.430 --> 33:42.750
+whether it's data issues,
+
+33:42.750 --> 33:44.147
+our concerns with this,
+
+33:44.147 --> 33:45.822
+we've been working in different silos.
+
+33:45.822 --> 33:49.050
+The 911 community has had its silo,
+
+33:49.050 --> 33:50.940
+even TSPs have had their silos,
+
+33:50.940 --> 33:52.500
+OEMs definitely have theirs.
+
+33:52.500 --> 33:55.170
+But we look at these problems differently.
+
+33:55.170 --> 33:56.820
+Tim and I were at that first event together
+
+33:56.820 --> 34:01.440
+and our second speaking in a situation similar to this,
+
+34:01.440 --> 34:02.490
+he was talking about privacy.
+
+34:02.490 --> 34:05.190
+And from my point of view as a 911 professional,
+
+34:05.190 --> 34:06.900
+we don't worry about privacy.
+
+34:06.900 --> 34:08.940
+It's implicit that if you call 911,
+
+34:08.940 --> 34:10.410
+you're waiving your privacy.
+
+34:10.410 --> 34:12.083
+If you call 911 on your phone,
+
+34:12.083 --> 34:14.730
+we are going to, you know,
+
+34:14.730 --> 34:16.650
+we get to decide what we're gonna do,
+
+34:16.650 --> 34:17.700
+whether we send police.
+
+34:17.700 --> 34:18.997
+Whether if you sit there and say,
+
+34:18.997 --> 34:20.820
+"No, no, don't send the police."
+
+34:20.820 --> 34:22.830
+Yeah, that's not your call as the caller.
+
+34:22.830 --> 34:23.880
+Once you've called us,
+
+34:23.880 --> 34:26.670
+we decide who we send, when we send them,
+
+34:26.670 --> 34:29.250
+how fast we send them in the 911 world.
+
+34:29.250 --> 34:32.670
+So married into the privacy issue of the data
+
+34:32.670 --> 34:34.680
+and the data being developed in different standards
+
+34:34.680 --> 34:35.760
+and in different silos
+
+34:35.760 --> 34:39.210
+has been a fascinating side put of this.
+
+34:39.210 --> 34:41.370
+And as we've said, I think, you know,
+
+34:41.370 --> 34:43.500
+you hear me speaking from NHTSA,
+
+34:43.500 --> 34:46.710
+I'm not speaking from the NHTSA regulatory point of view.
+
+34:46.710 --> 34:49.320
+I'm in the Office of Behavior, Research, and Development,
+
+34:49.320 --> 34:50.520
+and we're working on this
+
+34:50.520 --> 34:52.860
+from how to interface and collaborate
+
+34:52.860 --> 34:54.810
+within the 911 community.
+
+34:54.810 --> 34:57.030
+We've got five minutes left and that's great.
+
+34:57.030 --> 34:58.500
+We've done well to stay on time.
+
+34:58.500 --> 35:02.580
+I just would ask anyone on the panel of any final words
+
+35:02.580 --> 35:05.640
+as far as this importance of connecting this data
+
+35:05.640 --> 35:06.960
+to our 911 community
+
+35:06.960 --> 35:08.550
+and our challenges that are ahead of us
+
+35:08.550 --> 35:11.460
+or maybe some of the things we've already seen
+
+35:11.460 --> 35:14.160
+since we've engaged in the last seven months
+
+35:14.160 --> 35:15.783
+some steps forward on.
+
+35:17.280 --> 35:21.240
+<v ->Well, I will just say that from my perspective,</v>
+
+35:21.240 --> 35:24.240
+working in the 911 industry for 30 years,
+
+35:24.240 --> 35:26.910
+the last eight months
+
+35:26.910 --> 35:30.210
+has been the most exciting in this conversation
+
+35:30.210 --> 35:32.880
+that I've ever seen in my 30 years.
+
+35:32.880 --> 35:35.719
+Because to the point that I believe it was Jim
+
+35:35.719 --> 35:37.980
+and others have made is that,
+
+35:37.980 --> 35:39.450
+and Brian just made,
+
+35:39.450 --> 35:42.330
+we've been working in individual silos
+
+35:42.330 --> 35:44.460
+and we've been looking at things
+
+35:44.460 --> 35:47.100
+from our own individual perspectives.
+
+35:47.100 --> 35:48.900
+And in the last eight months,
+
+35:48.900 --> 35:52.440
+we have made a tremendous amount of strides
+
+35:52.440 --> 35:54.960
+to kind of break those silos down
+
+35:54.960 --> 35:57.480
+and have a whole lot more conversations
+
+35:57.480 --> 35:59.310
+and have an opportunity
+
+35:59.310 --> 36:03.540
+for things to really begin to switch
+
+36:03.540 --> 36:06.450
+and begin to kind of work
+
+36:06.450 --> 36:10.170
+towards common goals and common outcomes.
+
+36:10.170 --> 36:13.290
+And that I think is the most exciting part for me
+
+36:13.290 --> 36:15.000
+in the 911 industry
+
+36:15.000 --> 36:18.600
+and moving this discussion forward.
+
+36:18.600 --> 36:19.710
+<v ->Yeah, and I would build on that</v>
+
+36:19.710 --> 36:23.130
+and just say that part of what has come out of that
+
+36:23.130 --> 36:26.520
+is also the recognition of 911 as its own profession
+
+36:26.520 --> 36:29.970
+not tied specifically to law enforcement, fire, EMS.
+
+36:29.970 --> 36:33.030
+Field response definitely has a place at the table,
+
+36:33.030 --> 36:35.970
+but having 911 specifically at the table
+
+36:35.970 --> 36:39.510
+to provide their input from that specific perspective
+
+36:39.510 --> 36:42.390
+has been extremely beneficial.
+
+36:42.390 --> 36:43.590
+<v ->Well, and I think that builds</v>
+
+36:43.590 --> 36:45.510
+on like what Tim was talking about
+
+36:45.510 --> 36:48.150
+as far as even when a crash occurs,
+
+36:48.150 --> 36:50.670
+we have challenges for people moving over
+
+36:50.670 --> 36:52.140
+and preventing struck bys.
+
+36:52.140 --> 36:54.300
+And you've done a webinar with our office
+
+36:54.300 --> 36:57.330
+on 911's role in traffic incident management,
+
+36:57.330 --> 36:58.920
+and that's something the 911 community
+
+36:58.920 --> 37:01.530
+needs to learn a lot more about, right?
+
+37:01.530 --> 37:04.170
+<v ->Yeah, and making sure that 911 professionals</v>
+
+37:04.170 --> 37:06.720
+are the beginning and the end of the training,
+
+37:06.720 --> 37:08.257
+not just as a side.
+
+37:08.257 --> 37:10.200
+"Oh yeah, and 911 will do this."
+
+37:10.200 --> 37:11.820
+Well, how is 911 gonna do that?
+
+37:11.820 --> 37:14.570
+We need to think about that piece of link in the chain.
+
+37:15.600 --> 37:16.889
+<v ->I think one of the key benefits,</v>
+
+37:16.889 --> 37:18.150
+and I agree wholly with Ty
+
+37:18.150 --> 37:21.433
+that I've seen more progress in the last year
+
+37:21.433 --> 37:24.660
+than any time that I've been associated with this.
+
+37:24.660 --> 37:28.710
+And personally, I've spent some good conversations with Jim
+
+37:28.710 --> 37:30.630
+and with our colleagues at Bosch.
+
+37:30.630 --> 37:33.030
+I frankly think there's a lot that just,
+
+37:33.030 --> 37:35.490
+you know, the TSP providers can do collaboratively
+
+37:35.490 --> 37:37.020
+if the three organizations
+
+37:37.020 --> 37:40.110
+between OnStar, Bosch, and SiriusXM Connect
+
+37:40.110 --> 37:43.170
+can work together to help create alignment and standards
+
+37:43.170 --> 37:45.270
+and consistency just on our own
+
+37:45.270 --> 37:48.000
+by working together helps the entire ecosystem.
+
+37:48.000 --> 37:51.030
+And we're really excited about that opportunity.
+
+37:51.030 --> 37:53.043
+<v ->Yeah, and I'll just add on to that.</v>
+
+37:54.210 --> 37:56.400
+I've been in this business over 40 years
+
+37:56.400 --> 37:58.980
+with the last 30 or so in 911,
+
+37:58.980 --> 38:00.207
+remembering when next generation 911
+
+38:00.207 --> 38:02.283
+was supposed to come out in 2001.
+
+38:03.240 --> 38:06.360
+And it's just, don't wanna sound like a broken record here,
+
+38:06.360 --> 38:08.670
+but again, the momentum that's behind this now,
+
+38:08.670 --> 38:11.070
+and not treating this like a Pandora's box
+
+38:11.070 --> 38:12.810
+or a bunch of separate silos,
+
+38:12.810 --> 38:14.970
+and to Jennifer's point, especially in others,
+
+38:14.970 --> 38:16.830
+bringing the 911 community into this
+
+38:16.830 --> 38:20.070
+as a primary stakeholder is crucial.
+
+38:20.070 --> 38:21.330
+It's been kind of a paradox.
+
+38:21.330 --> 38:22.163
+When you work in 911,
+
+38:22.163 --> 38:24.180
+you're proud of being that quiet professional.
+
+38:24.180 --> 38:25.530
+You don't want any notoriety,
+
+38:25.530 --> 38:26.490
+you just do your job
+
+38:26.490 --> 38:29.700
+and you just go through it and you do great things
+
+38:29.700 --> 38:30.840
+and nah, leave me alone.
+
+38:30.840 --> 38:31.673
+We're behind the scenes.
+
+38:31.673 --> 38:33.120
+We like it that way.
+
+38:33.120 --> 38:34.809
+But that's also led to sometimes, I think,
+
+38:34.809 --> 38:38.160
+inadvertently not ignoring them but taking them for granted.
+
+38:38.160 --> 38:41.400
+So with this opportunity with all of us together,
+
+38:41.400 --> 38:44.160
+including our 911 friends and other stakeholders,
+
+38:44.160 --> 38:45.960
+this is something to build on.
+
+38:45.960 --> 38:47.430
+<v ->Just pile into all of that.</v>
+
+38:47.430 --> 38:51.120
+What I've really enjoyed during this journey
+
+38:51.120 --> 38:53.760
+is the collaborative attitude.
+
+38:53.760 --> 38:58.430
+Even though we compete each with various members
+
+38:58.430 --> 39:00.930
+from a commercial perspective,
+
+39:00.930 --> 39:03.210
+we're setting that aside for the greater good.
+
+39:03.210 --> 39:05.010
+That's amazing, right?
+
+39:05.010 --> 39:06.750
+We'll find other ways to differentiate
+
+39:06.750 --> 39:08.100
+and drive your businesses,
+
+39:08.100 --> 39:10.350
+which is expected.
+
+39:10.350 --> 39:12.930
+What I love though is we're finding a way
+
+39:12.930 --> 39:15.240
+to collaborate across the ecosystem,
+
+39:15.240 --> 39:16.920
+bringing in more and more people.
+
+39:16.920 --> 39:19.590
+And we're just getting busy.
+
+39:19.590 --> 39:21.210
+We're not waiting around for the perfect.
+
+39:21.210 --> 39:22.339
+We're not sitting in the classroom.
+
+39:22.339 --> 39:25.410
+We're not dreaming about tomorrow.
+
+39:25.410 --> 39:26.550
+We're picking up shovels
+
+39:26.550 --> 39:30.000
+and we're getting to work as quickly as we possibly can.
+
+39:30.000 --> 39:31.920
+And I just ask that we just keep this going
+
+39:31.920 --> 39:33.780
+and bringing in more and more people
+
+39:33.780 --> 39:36.210
+so that we understand who else is involved,
+
+39:36.210 --> 39:39.990
+who else could be part of making the world better,
+
+39:39.990 --> 39:41.400
+addressing the numbers, Brian,
+
+39:41.400 --> 39:43.170
+that you presented in the beginning.
+
+39:43.170 --> 39:45.630
+Even though the roads are safer,
+
+39:45.630 --> 39:49.500
+there's still 42,000 families that don't see it that way.
+
+39:49.500 --> 39:51.513
+Right, so let's keep going.
+
+39:52.470 --> 39:54.840
+<v ->Well, thank you all.</v>
+
+39:54.840 --> 39:55.920
+What a great panel.
+
+39:55.920 --> 39:58.020
+Thank you all for being here and listening
+
+39:58.020 --> 40:00.540
+and we just hope to continue to work on this
+
+40:00.540 --> 40:01.590
+and make improvements.
+
+40:01.590 --> 40:02.548
+Thank you.
+
+40:02.548 --> 40:05.231
+(audience applauding)
+
+40:05.231 --> 40:07.814
+(bright music)
+

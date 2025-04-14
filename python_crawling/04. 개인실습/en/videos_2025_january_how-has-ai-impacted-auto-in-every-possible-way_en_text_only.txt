@@ -1,0 +1,950 @@
+<v ->Well, welcome to our panel here.</v>
+Very honored to be here with this prestigious panel.
+My name is Chris Andrews.
+I'll be the moderator.
+I'm the director of mobility at Pratt Miller.
+We're a wholly owned subsidiary of Oshkosh Corporation.
+We do product development and technology integration
+on mobility and vehicles, so.
+But I'd like to have each one of our panelists here
+kinda say a little about them and what they do
+and then we'll kinda get into some questions.
+I think you're really gonna enjoy this.
+I already have in our pre-talks with these folks, so.
+<v ->Yeah, thank you. I'm excited to be here.</v>
+My name is Ossa Fisher.
+I am the president of Aurora Innovation,
+and we are deploying cars and trucks to drive themselves
+using the latest in AI breakthroughs.
+So excited to be here,
+and we've got some partnerships even on stage with NVIDIA,
+Volvo, Continental, and many more.
+So thanks for having me.
+<v ->Yeah, my name is Burkhard Huhnke,</v>
+a very German name, but German American.
+In the meantime, I live in San Francisco.
+I'm the CTO of Scout Motors.
+That is a new company built on the original brand Scout.
+Super exciting, fully funded by the Volkswagen Group.
+So that is very exciting to be here today
+to talk about some of the aspects
+we are using currently
+in the development phase concerning AI.
+So pleasure to be here.
+Thank you very much.
+<v ->So my name is Raquel Urtasun.</v>
+I'm the founder and CEO of Waabi.
+And what we do at Waabi is transforming the physical world
+with innovative AI,
+starting with self-driving trucks,
+and really a pleasure to be here today
+and very excited about, you know, the conversation
+that we're gonna have.
+<v ->Yeah, and Norm Marks from NVIDIA.</v>
+So I lead our automotive enterprise business,
+and since Ossa said it,
+of course, we also have a strong partnership
+not only with Aurora, but also with Waabi,
+and doing a lot of work together with everyone on the panel.
+So it'll be an exciting conversation for sure.
+<v ->Yeah, I feel this is a pretty pivotal year,</v>
+so let's jump right in.
+So Ossa, if we could start with you.
+<v ->Absolutely.</v>
+<v ->You operate in a very safety critical industry</v>
+to say the least.
+Performance is paramount in AI.
+How does Aurora ensure your systems
+are reliable, verifiable,
+and what practices do you use
+in your AI-driven autonomous technology?
+<v ->Yeah, thanks for bringing up</v>
+the safety critical nature of what we do.
+You know, a lot of the talk about AI
+over the last couple of years has been with the LLM,
+large language models, and ChatGPT,
+and that's extraordinary.
+I don't wanna diminish that at all.
+I think Jensen called that cloud AI.
+And while ChatGPT does incredible things,
+it generates the recipe.
+It doesn't cook the meal.
+And I think with physical AI,
+which is a new era that's coming in,
+we are, Aurora, with our trucks on the ground,
+on public roads,
+we are interacting with the real world in real time.
+And that just demands a different level of care
+than what you get from a ChatGPT output.
+And so we are using what we call verifiable AI
+and this has the benefits of what the LLMs are doing,
+these are the massive data models,
+and we use human-driven data to augment our models,
+but then we deploy guardrails.
+And so let me explain a little bit what that means
+to contextualize it.
+Let's take stop signs,
+four-way stop signs, two-way stop signs.
+We've got millions and millions of miles
+of driver data on that.
+But if any of you know the drivers on the road,
+I have a 16-year-old who just got her license,
+so I know this very well,
+humans don't always abide by those stop signs.
+In fact, we often roll them.
+And so if we're using an AI human-like model
+to determine how we navigate the roads,
+the Aurora Driver might occasionally roll a stop sign too.
+And for us, that would be very much out of alignment
+and, frankly, it's against the law.
+And so we supplement that model
+with guardrails that adhere to the rules of the road.
+This ensures that we won't break the law
+and is also really, really helpful
+when we're working with regulators
+to explain to them how we know that we'll behave safely
+regarding, you know, the code of conduct
+that we all expect from vehicles
+that are driving next to us.
+<v ->Yeah, no, thanks very much.</v>
+So Norm, after that,
+why don't we talk about AV 1 to AV 2 models
+and end-to-end world models.
+I think it's a good way to go into it next, so.
+<v ->Yeah, on the heels of the keynote,</v>
+and hopefully many of you were there,
+it's certainly a hot topic for us right now.
+Now, if you were to ask 10 people
+to describe AV 1.0 and AV 2.0,
+you'd probably get seven or eight different answers.
+And I'm not gonna suggest my explanation
+will be 100% perfect,
+but just to level set,
+when we think about AV 1.0 as we describe it,
+you know, think about 50 or more
+individual deep neural networks
+that are detecting certain things,
+like detecting a vehicle,
+detecting the distance between us and the next vehicle,
+detecting a pedestrian on the curb,
+detecting eye gaze, whether you're looking forward,
+I won't name all 50,
+but also trained on labeled image data.
+So certainly very effective in the early days,
+and as an industry, we're all learning what it's gonna take
+to actually get to safe self-driving,
+but what we've been learning
+is that certainly these models we think are super effective
+for Level 2 plus and Level 3.
+But in order to get to full Level 4 and beyond,
+we see the opportunity really
+is to move to this AV 2.0 model,
+which really I would describe simply
+as moving from individual DNNs
+and going beyond just having an ensemble of them,
+but actually having one very large, it turns out,
+end-to-end world foundation model.
+And some call it a VLM, some call it a multimodal LLM,
+but one end-to-end world foundation model.
+Of course, we're proud to have announce
+what we're releasing to the world now
+with Cosmos at our keynote.
+But, you know, the difference here
+is, of course, trained on video data.
+You know, our initial models trained
+on 20 million plus hours of data
+and all of our customers
+who will be leveraging the platform,
+some of which are up here,
+will be able to then use their own data
+to then further fine-tune it.
+But if I, you know, to a layperson,
+a simple way to think about the big distinction
+is that in AV 1.0, you're detecting a pedestrian
+and then acting based on what you see
+versus in an AV 2.0 world foundation model,
+that foundation model is actively predicting the next frame.
+So it's predicting will that pedestrian step off the curb
+or do we expect that pedestrian will stay on the curb?
+Will that vehicle cut over in front of us
+or will it stay in its lane?
+So the power of going from detecting to predicting
+we believe will go a very long way.
+So huge transformation underway.
+From a scale standpoint,
+AV 1.0 is a massive computational challenge.
+You know, a 50-car fleet collecting data
+is about two petabytes a day.
+But the data for AV 2.0,
+we're talking order of magnitudes
+of 50 to even 30 times larger.
+So significant challenge
+and happy to be a part of helping the industry forward
+along the way.
+<v ->Yeah, I mean, this is exciting stuff, so.</v>
+Raquel, can you tell us,
+now that we've gone into end-to-end world models,
+how your team is pioneering safety
+and how you're using them?
+<v ->Yeah, so now that we went from 1.0 I guess to 2.0,</v>
+as we continue on the discussion,
+yeah, so Waabi, you know, inspiring foundational models
+that can use multiple sensors,
+including LiDAR, cameras, radar, et cetera.
+And the way to think about our models
+is that you cannot just take, you know, an LLM or a BLM
+and say, you know, "Go and drive vehicles," right?
+That's not gonna be safe.
+So there is a few things that you need to do
+and very different architectures
+that you need to develop
+in order to have something that has three characteristics.
+It's able to be super efficient
+so that you can actually run it on the vehicles,
+as Norm was saying,
+and with very little compute.
+It's able to generalize to the unknown.
+This is something that, you know, LLMS are amazing
+at, you know, doing natural language,
+are amazing at answering questions, interfacing with humans,
+but oftentimes memorize.
+If you go a little bit out of distribution,
+they don't work very well.
+So we need to build technology
+that has the generalization property, you know, in nature.
+And the third bit is that for a safety-critical application
+like self-driving,
+you need it to be provably safe.
+Being safe is not enough.
+You should be able to verify and validate the system
+and that's what you get with Waabi's technology,
+which is very differentiated with other 2.0
+where you get the best of both worlds.
+You get the ability to verify,
+but you get the end-to-end power
+of next generation generative AI.
+And last bit I will say
+is that in order to beat the scaling loss,
+the thing that these systems have to do is reasoning, right?
+And we saw that on Jensen's keynote, right?
+Is that you start with, you know, pre-training,
+which is what you were talking about,
+then you fine-tune.
+Well, next generation is reasoning
+and that's what we really have been doing
+over the last three and a half years at Waabi
+is build AI systems that are end to end
+but are able to reason in a very, very effective manner
+so that the system can understand
+the consequences of these actions,
+can really decide, you know, all the possibilities
+that are possible, right?
+And decide what is the safest manner
+where at every point in time in a fraction of a second.
+<v ->Wow, that's incredible. Thank you.</v>
+<v ->So eloquent, right?</v>
+<v ->Yeah, (laughs) it really is.</v>
+You know, I think you guys were talking
+about how there is a, it's not a natural transition,
+but it's a break and a whole new way of doing things
+and I think that's what a lot of people
+need to get their arms around.
+It certainly took me a little while,
+but it's eye-opening.
+So Dr. Burkhard, you want to tell us,
+we've talked about AV,
+but are there other product development things?
+Tell us a little more about that.
+<v ->Yeah, let me take you away for a minute</v>
+from the exciting topic AV
+and explain to you how we are using AI
+in the development process.
+We talk about the digital twins, as everyone knows.
+It's a very interesting fashion word, but what does it mean?
+It's actually a replica of the physical surrounding
+by creating a digital twin of your existing physics systems.
+If you do that, and that's what we've done at Scout Motors
+from the beginning on
+because that has huge opportunities
+and it's actually a digital revolution
+which is ongoing there from my perspective.
+If you think about the physics
+and the science behind the car,
+it's all about a differential equation solution.
+So if you think about traditional CFD,
+which is computational fluid dynamics simulation,
+how you would do aerodynamics in the past,
+now you have the AI,
+you can run machine learning,
+and you optimize your system with GPU power
+and optimize methods very quickly.
+So that allows you, actually,
+to use physical prototypes very early in the phase.
+Now, you can go through every physics of the car,
+besides fluid dynamics,
+besides aerodynamics,
+you can go into the structure of the car itself.
+That's a safety structure.
+You can optimize the materials
+and you can optimize the structure,
+actually can learn from previous tests, crash tests,
+and build that into your modeling.
+So you have instantly a feedback loop closed
+with a real-life data which you have to feed in.
+In example, for the wind tunnel testing,
+you need sensors to feed in the data
+and feed the model with AI and ML data
+to make it better and more precise.
+So you're receiving in the meantime an accuracy of 99%,
+which is ridiculous high.
+Now, you can imagine we are not replacing the designer.
+So Chris Benjamin, if you are here,
+our beautiful Scout Motors design hasn't been designed by AI
+and will never.
+So, but it's something in between science and arts,
+and how can we expedite the process
+behind the development and engineering
+of these beautiful, a surface,
+is an optimized underlying structure
+to be weight optimized, structural optimized,
+safety optimized, thermal optimized, and so on.
+So I think we are leading these kind of efforts
+within the Scout Motors organization.
+We have done very successfully
+reduction from iteration loops
+from 24 hours down to five seconds
+in the underbody airflow optimization.
+Now we are tackling the safety relevant components
+on the crash test dynamic.
+And, of course, that's ongoing in every physics of the car,
+durability testing, fatigue analysis.
+Everything is now coming into this world
+by adding AI and machine learning
+and that is just great.
+So back to you, Chris.
+<v ->Yeah, and I mean, from 24 hours to five seconds,</v>
+this is what CES is about, right?
+So I think this is a pivotal year.
+So, anyway.
+Ossa, can you tell us
+how you're using all of this technology
+to help in the safety of your real-world scenarios,
+testing?
+<v ->Yeah.</v>
+And I wanna build on what Burkhard said.
+Simulation is critical to what we do.
+And echoing Jensen from his keynote,
+you know, there's the learning model
+that's continually ingesting data
+and refining what it's doing.
+And then for us in the physical world,
+there's obviously the compute that exists on the truck
+and is navigating real-world situations.
+And in that middle is the digital twin,
+which Burkhard referenced as well.
+And so simulation is core
+to how we're developing the Aurora Driver.
+But we've been on this journey for a number of years
+and we've learned a few things.
+So simulation in and of itself
+is not actually a test, right?
+You actually have to be able to grade the simulation,
+and when you're talking
+about billions upon billions of simulations,
+how do you know which ones are passing
+and which ones aren't?
+And so one of the latest developments at Aurora
+is we're using AI to grade the test
+because no human,
+and go back 15 years, humans were grading the simulations.
+Now we can use AI to grade the simulations.
+But we see simulation as an and, not an or.
+We couple simulation with real-world experience on the road,
+we're on the road in Texas every day,
+to navigate the more mundane lane changes, stop signs,
+that I referenced earlier.
+But we also do track testing.
+And just to put this into perspective,
+why would you need track testing
+in addition to simulation and real-world driving?
+Well, take a blown tire for example, right?
+We can simulate that,
+but what we really need
+is that the hardware components are integrated
+with the software components,
+seeing and responding correctly.
+So on a test track, we can blow out the tire
+and verify that the simulation
+actually did respond to it as appropriate
+and that the truck itself
+also sees and responds appropriately.
+One other way we use a test track
+is we are running simulations,
+and odd, but you see this more than you would think,
+motorcycles going at 80 to a hundred miles per hour
+in between lanes on freeways.
+The simulation seemed to be catching it,
+but when we were in the real world,
+our safety drivers were saying,
+"We're not sure we're seeing that far enough in advance."
+And so we went to the test track
+and actually hired a stunt driver, pretty incredible,
+who started at 10 miles an hour
+and then built up to a hundred miles an hour
+to confirm that the perception system
+was in fact working accurately
+and that our motion planning system,
+which is responding to that actor,
+was also doing it correctly.
+So we see these all working in synergy
+and that simulation is a fundamental piece of that.
+<v ->Yeah, that's amazing.</v>
+And the simulation and the models are only good
+when they're validated, right?
+<v ->Correct, yeah.</v>
+<v ->And then the system gets a lot more information</v>
+and it gets better overall.
+Yeah, that's amazing.
+Raquel, we know we've talked about safety
+and how critical it is.
+Tell us how you're using simulation
+in similar or dissimilar ways.
+<v ->Yeah, great segue I guess,</v>
+you know, to what Ossa was saying.
+So we are a simulation-first company.
+So what does it mean is that in the era of AI,
+in the era of innovative AI,
+data is extremely important, as Norm was saying.
+And what we can do with neural simulators
+is really get to a level of fidelity
+that has never been seen before.
+And what is great with simulation
+is that you don't need to wait for nature
+to show you things.
+You can actually create all those simulations.
+And more importantly,
+since our neural simulator is an AI system
+and the software stack is another AI system,
+they can actually play games.
+And the particular game that is very interesting
+is the one where they play adversary.
+What does that mean is that the simulator is trying
+to create things that are very difficult to handle
+for the software stack,
+for the virtual driver,
+so that every data point is extremely informative.
+Why is this important?
+Because suddenly you can actually train the systems
+at a tiny fraction of the cost that otherwise you will.
+So it's not anymore about billions of simulations.
+It's really about which simulation is more informative.
+The other thing that is,
+you know, when you talk about simulation that is important
+is that, well, simulation by itself sounds cool,
+but it's not sufficient, as was I saying,
+unless there is one key thing that you need to do,
+which is if you can prove that your simulator,
+like, driving with the same software,
+the entire software stack, on simulation
+is the same as driving in the real world.
+Then suddenly you actually have that ultimate driving test
+because on the cloud, at the scale,
+you can expose the system
+to all the different scenario, situations, et cetera.
+And that's what we build at Waabi with Waabi World,
+really pushing that neural simulator to the next level.
+And it's been an incredible accelerator
+to make us super capital efficient
+and requiring, you know, driving in the physical world
+only for validation of the system
+versus just general development.
+Yeah, so it's been an incredible thing
+and I think as we go into the physical AI era
+of 2025 and beyond,
+we are gonna see more and more neural simulators
+really take over the world.
+<v ->Oh, that's exciting.</v>
+And it's kind of like,
+the tools you're having in your toolbox
+are much more powerful now, right?
+And I think we're just gonna find out a lot more things
+that we're able to do moving forward, right?
+So Norm, to you.
+We've talked about AI in autonomy
+and development and digital twins.
+Does it have any bearing in other robotics or AMRs
+or manufacturing inspections or other places?
+<v ->Sure, I'll come on to that,</v>
+but if you don't mind, before I do, just a couple comments
+about what Ossa and Raquel were talking about.
+<v ->Please.</v>
+<v ->One of the beauties of these foundation models too,</v>
+and you were alluding to this,
+but just to put a finer point on it,
+is that they can be useful
+not just for training the actual self-driving software,
+but actually being used to create the controllable scenarios
+against which you would then run a simulation.
+So just to build on that
+to try and make sure the point is clear,
+these foundation models can literally take
+just nine frames of data
+and then build out the rest of a driving scene
+and complete the rest of what you would expect would happen.
+But then, and you were referring to this
+when you said a neural simulator,
+when you apply what's called neural reconstruction,
+the field of AI,
+we take this now snippet that we have
+and now we recreate it
+in potentially thousands of different scenarios.
+So a drive that might have been in the day
+in the neighborhood
+could start out the different times of day
+to sunrise to sunset
+to the different environmental conditions,
+rain, snow, wind,
+to even taking that drive
+and actually having it turn into a drive on the highway.
+And this gives us so much promise
+to create the millions of scenarios that we need to test for
+to ensure that we also test
+for all these rare and dangerous corner cases.
+So there's just so much promise here
+and we've got some real leaders
+who are doing great work in the space.
+So I think the question was AI
+in manufacturing-
+<v ->No, I mean, actually-</v>
+<v ->And robotics.</v>
+<v ->It's extremely,</v>
+yeah, that's extremely important.
+I think that this is the key
+to what we're talking about here today.
+So thanks for adding to that and clarifying it.
+But yeah, in other forms of AMRs
+or other robotic areas,
+you know, we've talked about on-road things here,
+but this technology can be used in many places
+and is used in many places.
+So manufacturing inspection,
+manufacturing in general, other robotics.
+<v ->Yeah, let me speak to that.</v>
+Probably the easiest place to start
+is an AGR/AMV is effectively very, very similar
+to training an autonomous vehicle.
+You know, a robot that's going to transport parts around
+in a factory
+needs to be able to see what machines are in the factory,
+the proper path to take.
+And so this is actually quite similar
+to autonomous vehicles,
+but humanoids are a whole nother level of complexity.
+Being able to train a humanoid robot
+to complete tasks that we do that are extremely precise.
+Obviously autonomous vehicles have to be extremely precise,
+but a humanoid robot has to be able to pick and place things
+at such a level of precision and accuracy
+that the complexity of this is extremely difficult.
+And again, another place where these foundation models
+can be used to run through
+all the various different conditions.
+And so now imagine I have a humanoid robot,
+it's actually picking a part off,
+it's putting it into a bin for a good part
+or a bin for a bad part,
+and then you alluded to this,
+now I have AI-driven inspection
+that's actually viewing the part
+to determine did the robot actually do
+that task properly or not?
+Did it potentially place a part
+that was defective into the green box, not the red box,
+to oversimplify it?
+And so that's the power of the AI.
+So camera-based inspection, not just human-based inspection,
+which has improvements in the efficiency,
+the accuracy of the quality,
+but also, it'll speed up throughput too.
+So AI can be used for this as well.
+Probably sounding like a broken record.
+As you might imagine, a foundation model can help train
+all the various different combinations that you might see.
+So terrific opportunities there.
+And then a final comment,
+just building on some of the earlier comments that he made,
+you know, GPU accelerating a CAE or a CFD workload
+is super important.
+And in the space that we're going to with electric vehicles,
+the coefficient of drag
+to be able to get the most out of a battery
+is hugely important.
+And so what we're seeing many of our customers move to,
+and it was a small part of the keynote,
+but one part of the announcement we also made
+is a blueprint that we're doing in this space
+where you can actually take physics-based AI
+and run it in a digital twin
+with, you know, nines, if you will, levels of accuracy
+that approximate the same level of accuracy
+you get with CAE and CFD,
+but in real time, imagine seeing the coefficient of drag
+and moving it around on a part
+and seeing the various different combinations
+and iterating on the design
+and literally, you think, was it 24 hours to five seconds?
+<v Burkhard>Five seconds.</v>
+<v ->Okay, but now we're potentially taking months</v>
+out of the design cycle
+because we're iterating at high levels of accuracy.
+You still will put it through the final CAE and CFD
+to have 100% accuracy,
+but you can make many, many changes along the way
+that normally, it literally takes months out of the process.
+<v ->I'd love to build on that</v>
+because I think this world of physical AI
+requires physics AI,
+and if you think about self-driving,
+everything from inertia to gravity
+to wind speed are critical.
+And so for the AI to be able to generate that,
+that opens up a whole new era of speed for the industry.
+And I think we're just at the beginning
+of seeing the potential of physics AI.
+<v ->Now this is exciting.</v>
+And the more data you feed these models,
+the better they get, right?
+So having critical information is gonna be great to,
+these are gonna get stronger and stronger
+and the tool's gonna get stronger.
+So Burkhard, on that,
+why don't you tell us a little bit
+about how you're doing exactly what was just talked about.
+<v ->Oh, actually, we're doing it.</v>
+<v ->Yeah, yeah, that's what I mean.</v>
+<v ->Yeah, let's hear it.</v>
+<v ->Actually, Norman, we should talk.</v>
+You wouldn't believe, but it's actually working.
+So a digital wind tunnel to do a digital release
+is, of course, division, right?
+That instant information from iteration loop
+of the spoiler optimization
+allows you an instant iteration loop to optimize, yeah?
+That is just aerodynamics,
+but the structural optimization.
+Going into the virtual prototyping phase,
+replacing physical prototypes,
+which cost you a million per prototype,
+not just talking about compressing the timeline
+of the development process,
+probably not every time necessary,
+but the release of every car.
+And if it's just software and functionality,
+this has to be tested with these new modern AI models
+'cause with the lessons learned,
+as everyone knows from the personal life,
+with your experience, you do different decisions.
+So how do you train also this process
+of, let's say, software leads with lessons learned
+and information that you're not launching cars
+with software bugs anymore?
+So it's a lot of potential.
+We use it, back to the Scout Motors world,
+in regards to aerodynamics and structural analysis
+in the fatigue analysis.
+So we are expecting a digital release
+before we have the physical release.
+And that's replacing a lot of very expensive iteration loops
+through physical testing.
+We'll always have to proof
+because the customer is not driving models, digital models.
+The customer is going to drive beautiful cars.
+But to get to the point to release that
+in a very reliable and robust way,
+that is the toolbox we are using
+very successfully already, yeah?
+And again, back to the timing, I think at 24 hours,
+that was when we started with that simulation,
+now we had five seconds after 12 months.
+Now, talking with you about the right GPU power,
+this is instant information you can get.
+<v ->Yeah, it's exciting.</v>
+I know we've talked about,
+I've talked with many others including yourselves
+that these tools now, sometimes, not always,
+that first digital twin model
+can actually be extremely close to the first drivable model.
+I've heard people that are, you know, within
+a few percentiles
+of driver dynamics, feel, aerodynamics,
+even in the virtual world.
+Doesn't always happen,
+but the stronger these tools get,
+the more that will happen.
+Was there something you wanna add there?
+Go ahead.
+<v ->I just had to say,</v>
+as an enthusiast who's been in automotive my whole life,
+and by the way, if anyone is in the audience
+that knows me well,
+likes to drive quite fast,
+probably shouldn't say that out loud,
+but the other thing that's super exciting to me
+on a personal and professional level
+is the virtual wind tunnel,
+which is exactly the right way to describe it.
+Imagine the future of Formula One and Formula E
+where, you know, they have so many regulations
+on what they're able to test and not test,
+but to be able to apply this physics-based AI
+and be able to iterate, not in race mind you,
+but, you know, post-race,
+to be able to learn from it
+and test out the various different combinations
+of the angle of the vehicle,
+this is gonna be really fun to watch.
+<v ->So I can say from a Pratt Miller perspective,</v>
+being in motorsports,
+that is already very exciting.
+In driver-in-the-loop simulators,
+being able to drive these things,
+development of a new car.
+One of the people I mentioned was one of our teams
+and they got to the track
+and drove the car for the first time
+and it was within 2, 3% of what it was supposed to be.
+So it really is amazing tools
+and they're only gonna get stronger, so, yeah.
+<v ->Yeah, so if I can add something to this,</v>
+you know, a great conversation
+and definitely all in on what you guys are saying,
+but I think one thing that we haven't talked about
+that is very exciting
+is that it's obvious digital twins are extremely important
+and have enabled, as you were saying,
+you know, massive unlocks for folks like yourself.
+But what is very, you know, even kind of the next level now
+that we are seeing
+is that these digital twins were built by humans before
+where you have, you know, humans, artists,
+creating, you know, super detailed car models, et cetera,
+that then you use to, you know, learn,
+you know, to run the simulations
+and use that training data to then do simulations.
+So still, the bottleneck was on the creation of the content.
+What is really exciting now
+is that we can create that content also automatically,
+and then suddenly you have,
+you know, the next generation of analog,
+which is all the simulations are grounded in reality.
+And, you know, we see so many things.
+You know, when we drive,
+we do commercial runs in Texas, you know, on a daily basis,
+every time that you are on the road,
+you see thousands and thousands of vehicles.
+So we can clone everything automatically
+and then that's automatically part of the simulator.
+So this really enables you
+to go to the next level of scale
+and with a level of realism that's unprecedented.
+And I think that is really, really exciting
+and, you know, not only for automotive,
+but all the applications beyond that,
+that is really gonna revolutionize the world.
+<v ->Well said.</v>
+<v ->No, that's great.</v>
+And I think we've got a little time left,
+but I'd like you all to give us kind of your summary
+of past, present, future in artificial intelligence
+and just general technology advancements.
+And, you know, the interesting part about this
+is it's not technology for technology's sake,
+this is really making a difference
+in people's lives and safety and a lot of other things.
+So if each one of you could give us a little bit
+of your perspective,
+where we've been, where we're going,
+and what to expect.
+<v ->Sure, I'll start and we'll go down the line.</v>
+I think hopefully if there's one thing that's clear
+either from this panel or from this week
+is that all the big boulders
+that previously prevented physical AI
+from manifesting in the real world,
+they've all been knocked down.
+This is real, this is now,
+we're launching this year and ready to do so,
+and it's on the backbone of decades of AI work,
+but it goes all the way back
+to the very first microchip from the 1950s.
+And so the history that got us here,
+and we're standing on the shoulders of giants,
+it's an overused phrase, but it's so true.
+And this era looking forward
+is, you know, one of the most exciting in our lifetime.
+And so I'm honored to be on the stage with this community
+and I just know the next several years
+are gonna blow all of our minds. (laughs)
+<v ->Yeah, thank you.</v>
+Yeah, different approach probably
+from the customer's perspective, product perspective,
+this is an opportunity which provides us a toolbox
+to deliver exactly what we envisioned at the beginning
+in regards to functionality and features
+and the capability of the product we are delivering.
+And this toolbox is helping us
+to understand better the precision
+and also the robustness of the product we are going deliver.
+So what the customer wants
+can be understood very early in the phase,
+for me it's a shift left in the development process
+which is going to be a revolution.
+You understand very well
+how to make the right decisions at the beginning,
+correct promptly decisions
+basically on an instant feedback loop
+from these ML-driven models,
+and that is a game changer and I love to be part of that.
+<v ->So as an AI scientist</v>
+that has been doing this for 25 years,
+you know, I fell in love with this idea
+of an artificial brain, you know, 25 years ago.
+So yes, I'm pretty old and-
+<v ->You look great.</v>
+<v ->Anyways, I try to, you know, yeah, whatever.</v>
+Anyways, yeah, so it was this idea, right?
+I was fascinated.
+Like, an artificial brain
+that can do tasks that humans can do.
+And there was a lot of research that was needed
+because the algorithms at the time
+were cool kind of prototypes,
+but there was nothing
+that you can really bring to the real world
+and see, you know, what we are seeing today.
+So the, you know, kind of the acceleration,
+massive acceleration and what we are seeing today,
+you know, as an AI scientist
+has been amazing to see.
+You cannot imagine what this has been personally.
+Now, as it relates to what we are doing at Waabi,
+so we are launching driverless this year,
+so where you will see our trucks with no human.
+I'm not talking about the demo.
+I'm talking about really something
+that you can commercialize.
+So, you know, it's great what we see ahead of us
+and, you know, trucks is really the first use case
+and we are not gonna stop there,
+whether it's robotaxis,
+humanoids, as, Norm, you mentioned before.
+Some very exciting use case.
+Warehouse robotics, you name it.
+The moment for physical AI is here
+and stay tuned because the physical world
+is about to change massively
+and unlock so many good things for humanity.
+<v ->Well, first of all,</v>
+happy to hear that all of us actually
+are saying it's about physical AI
+and that really is the path that we're on.
+I can't help myself,
+I'm not as smart as Raquel,
+so I didn't imagine artificial intelligence 25 years ago,
+but I will tell you, I was smart enough seven years ago
+to come to NVIDIA
+where I knew the future of artificial intelligence
+was going to be.
+<v ->You're smarter than me on that, you know? (laughs)</v>
+<v ->I'll leave maybe just one example</v>
+pairing artificial intelligence to digital twins
+and in this automotive context that I believe,
+by the way, there is some early work being done,
+can't name who's doing it yet,
+but imagine, we've talked about the power of AI,
+but imagine having a digital twin
+of literally every single vehicle that's on the road
+and monitoring the digital twin of that
+and identifying that maybe we have a fault in the vehicle,
+maybe we have something as simple as Apple updated today
+and now it's not working effectively in the vehicle
+or any number of even,
+in the vehicle.
+The power of AI is you can test the various combinations
+of how to solve for that problem
+and if software, for example,
+and oftentimes it can, solve it,
+you can actually test whether the software has solved it
+in the digital twin of the vehicle first.
+And when you know
+that you've actually solved the problem in the digital twin,
+now you actually pass that on to every one of the vehicles
+that are experiencing that same problem
+or as simple as that triggers
+now we know the software update will be effective
+and it will work.
+So just one simple example,
+but one that I think's gonna be very powerful for us
+in the future of autonomous vehicles on the road.
+So that power of AI interacting with digital twins
+and real-time digital twins
+and whether it's a vehicle on the road,
+a warehouse that's operating,
+and being able to identify a robot
+actually has to traverse boxes that fell off
+and it's gotta move around.
+So many examples here.
+<v ->Yeah, I mean, this is exciting</v>
+and this is why we all come to CES
+to hear what we just heard from this panel.
+It's inspiring to me.
+And as I'm sitting here hearing you talking,
+we've only got a few minutes left,
+but I'll throw one last piece out here
+that I think takes us to a whole nother level, right?
+We talk about simulation, foundation models, world models.
+We're now able to take the physical world
+and utilize it in a way we haven't been able to before.
+What I heard just now, too, that got me thinking
+is where else will this lead?
+The fact that we can come out with predictive models
+that have a high degree of confidence,
+more than probably ever before,
+especially in the physical world.
+And to maybe find a way
+to work in that physical world model, like you said,
+with wind tunnels
+and be able to change or see what the wind is gonna do
+or what the motorcycle coming around you may or may not do,
+that's a whole nother level.
+And will that also lead to how we develop our new designs
+for transportation systems
+and roads and cities and all that?
+So I think it really has a lot more power
+to change lives and improve lives for the average person,
+for persons with disabilities.
+There's a lot here that I think is very exciting.
+We have a couple more minutes
+if anybody wants to comment on that, but.
+<v ->I couldn't agree more.</v>
+We're in a new era where almost anything
+that's capital intensive
+will undergo fundamental change,
+from an investment cycle, from time to market.
+The speed of innovation is exponential at this point.
+So it's hard to predict what's five years from now,
+but I can imagine even this room would get built
+very differently five years from now, yeah.
+<v ->I think Raquel may know what's going on 20 years from now.</v>
+<v ->(laughs) And I'll bet on it too.</v>
+Whatever you say, Raquel, I'm in. (laughs)
+<v ->With that, I'd like to thank everybody here.</v>
+Thank you so much.
+This has been life-changing for me
+getting to meet you and hearing about all this.
+And thanks, everybody here,
+and we appreciate you coming here
+and sitting and listening to us and have a great CES.
+<v ->Thank you.</v>
+<v ->Thanks.</v>
+<v ->Thanks.

@@ -1,0 +1,969 @@
+<v Jennifer>Okay, we're very excited to get started</v>
+with our next session of the day.
+So if you'd like to find an open seat, make a friend.
+So exciting to see so many of you here today.
+This session is all about smart home standards
+and platforms,
+and we have a really diverse set of perspectives
+on the topic
+to really flush out this conversation,
+very excited about it.
+Thank you again to our sponsors
+for your support in putting
+on our 19th Annual Connection Summit at CES.
+We really, really appreciate your investment
+and having these great industry conversations
+and learning from peers.
+So again, we're talking smart home standards and platforms.
+We also have lunch sponsored by ADT, next door light lunch,
+first come, first serve.
+So if you don't have anything else to scatter onto,
+that'll be just right down the hall
+and then we're back at one o'clock
+for discussion about demand for energy management at home.
+And we invite you all to our networking reception tonight,
+if you haven't already,
+please RSVP for that, it's complimentary.
+We invite you all.
+We would love to see you there.
+I'd love to hear what it is that you're working on
+that is over in Treasure Island
+and when you RSVP,
+all that information about where to find it,
+will come through to your email.
+Thinking about this topic,
+I think it's really helpful to understand
+that there is a long history of home automation standards.
+Trying to make the devices
+communicate with each other,
+with the user, with the cloud,
+with the various ecosystem players.
+Going back to X10 in the 1970s,
+we're gonna hear about Z-Wave today,
+of course, Matter over Thread, Apple HomeKit type standards.
+You know, really trying to take this market
+to the next level
+and make that experience for the customer at home easier
+and simpler and take some jobs off
+of the players in this room as well.
+It's not a new effort, right,
+there's a long history that really the folks today
+are building on top of and continuously trying to improve.
+What's interesting when we think about
+where the smart home is today is
+that there are a phenomenal number of choices
+that consumers have in the brands with which they may want
+to control the devices that are in their home.
+They may have devices from many of these different players
+and they're maybe using it to control one device
+or several devices.
+The more devices you have at home,
+the more platforms you are using to control those devices.
+We are very much in a multi-agent
+or multi-control point state
+in the smart home for sure
+and a lot of the work that you're seeing happening
+behind the scenes is meant to give consumers that choice
+in what brands they most wanna interact with.
+So we're gonna be talking today about how we get
+to that vision of coordinated intelligent home experiences.
+What's the progress and standards today
+and the pain points that they're solving,
+as well as the pain points perhaps,
+and the process
+and what those standards efforts are focusing on this year?
+And where's the real competitive edge in platforms today?
+What's really defining the different experiences
+for the platform choices that consumers have?
+So I'd love to start by asking each
+of our phenomenal panelists to introduce themselves
+and their organizations and then we will dive in.
+So I'm gonna start with Nick Millette,
+who's the product development merchant
+with for smart home at the Home Depot.
+<v Nick>Yeah, hey everybody, Nick Millette.</v>
+I lead Home Depot's smart home product development efforts.
+So the Hubspace platform, that is what I've been leading
+for the past couple years.
+<v Jennifer>All right, fantastic,</v>
+and I love, we have limited time,
+so that is concise and I love it.
+Thank you, Nick.
+Michelle Mindala-Freeman,
+chief Operating Officer of Connectivity Standards Alliance.
+<v Michelle>Okay, my name took up too much time.</v>
+<v Michelle>So, Hi everybody,</v>
+Michelle here with the Connectivity Standards Alliance.
+We are the home of over 720 member companies
+who are working together to develop standards like Matter,
+maintain and grow standards like ZigBee
+and work on new things like product security
+and access control with our newest standard Aliro.
+<v Jennifer>Thanks, fantastic, thank you Michelle.</v>
+Avi Rosenthal, managing partner with BlueConnect Partners
+and chairman of the Z-Wave Alliance.
+<v Avi>Thank you very much, I'm very happy to be here.</v>
+Avi Rosenthal, my day job is
+with a group called BlueConnect Partners,
+but my volunteer position, I'm the chair
+of the Z-Wave Alliance.
+We are also a coalition
+of a few hundred companies
+that all adhere to a specific standard
+that standard's coming up on 25 years old.
+We've got thousands of products that have been certified
+and literally millions of products
+around the world that have been deployed.
+<v ->Okay, wonderful, Stefan Witkamp CEO of Homey,</v>
+now part of the LG Electronics family.
+<v Stefan>Yes, hello, I'm Stefan.</v>
+I am indeed the founder of Homey,
+recently been acquired by LG.
+We make a universal smart home platform
+and also universal smart home hubs
+that basically incorporate all relevant standards
+in smart home today.
+So that includes all the standards of Michelle
+and of Avi, of course.
+And because of
+that we have a very unique view on what's happening
+and how users are actually using
+the different standards that are in the markets.
+<v ->Okay, fantastic,</v>
+and also Yoon Ho Choi, who's the president
+of the Home Connectivity Alliance,
+<v ->Very nice to meet everyone.</v>
+So HCA in a nutshell is an alliance that's focused
+on long life, lemme say long life,
+big ticket items like appliances and HVAC.
+and we are focusing on interoperating
+both within ourselves
+but with all of the other platforms
+that are out here, nice to meet everyone.
+<v Jennifer>Okay, fantastic,</v>
+so I'd love to start.
+I'm Jennifer Kent, vice president
+of research at Parks Associates.
+Should have introduced myself, but there we are.
+Hello, if I haven't met you already,
+I'd love to hear what it is that you're up to, so fantastic.
+So I'd love to start with talking about the fact
+that when you think about this long history
+of the smart home and the developments of standards
+and platforms,
+the way in which consumers really acquire devices
+tends to be very kind of device-led,
+single device, single app.
+Melissa in the last panel was talking about that
+a little bit, security systems,
+some hub devices being perhaps the most widespread way
+that consumers are able to put together a more kind
+of coordinated home.
+Broadly speaking, Stefan,
+I'd love to start with you here
+and then, and then go to Nick.
+How would you describe where we're at
+as an industry today in making a more integrated,
+coordinated home experience possible?
+<v ->Yeah, so that's a very interesting question</v>
+because there are these standards
+and a lot of the products on these standards
+are interoperable with other products on the standard,
+but people they don't very much choose a standard,
+they choose a product, they choose a brand,
+they choose a single application
+that they wanna start out their smart home with.
+So that's what we did as a sort of universal remote control
+for the entire home.
+We decided not to focus on a single standard
+because in practice a lot of standards,
+different standards are used by different popular brands
+and people might wanna mix and match
+and some of them might only have a proprietary API,
+another sort of way of connecting.
+So our approaches are really to offer users later on.
+So not by design the first step,
+but later on they can add on Homey, it would connect
+with either ZigBee device Z-Wave device
+or proprietary API an open API or or a Meta device
+and it would make sure that they can,
+after that choose to expand to different,
+to to different standards and to different products
+and different brands
+because it's relatively hard for consumer to understand
+that you're not just buying a product,
+you're also buying into a certain technology,
+a certain ecosystem and what all entails.
+So our solution to that is just to
+make sure it doesn't matter later on
+to really unify it at all
+And I think it's a sign
+of those different standards, all of them being mature
+and integrated into popular products.
+<v Jennifer>You make a good point about later on, right.</v>
+About how many devices do see customers having
+before they go for a Homey, for instance, right,
+how far into their device collection do they?
+<v ->Yeah, that's the difference,</v>
+so typically people will start
+to have a couple of devices, a couple of brands mostly
+because if you have 20 devices,
+but they're all the same brand
+and there's no real pain point
+because it's all the Philips Hue app
+or this all Ikea or, I dunno.
+But as soon as people start to collect two or three brands,
+then you see them purposefully looking for a platform
+because you know, a smart home doesn't really feel smart
+if it's a collection of 20 apps on your phone
+and if you leave home, you have to open five of them
+to make sure that they're all in a way mode
+or that they're all set to the right level
+or this right setting.
+So you would wanna have an automation system,
+not just for control,
+what it's firstly focused on,
+but also for automation so that things happen automatically
+and it really becomes a smart home
+and not just buttons on your phone in scattered apps.
+<v ->Yep, okay, Nick, I'd love to get your point</v>
+of view in watching--
+<v ->Yeah.</v>
+<v ->You know, you've been in Smart Home</v>
+for a while now too right, where are we at?
+<v ->Yeah, so for those of you who are not familiar</v>
+with Hubspace, Hubspace is a smart home platform
+that exclusive to Home Depot.
+So one of the challenges
+and the unique things about Home Depot is,
+that's where the mass market consumer is shopping
+for their DIY,
+their home good products.
+One of the challenges with that
+is selling smart home products to
+that mass market consumer
+is a very challenging problem to solve,
+especially when you have different brands, different apps.
+So there has been a lot of progress made
+in getting the price points down.
+So if I'm going to buy a product from a Home Depot,
+typically a customer's coming in to solve an issue
+in their house.
+I have a sprinkler system
+and I want to automate my host so that it turns on,
+it turns off at a specific time.
+If you can get to the point where you have a $10 trade up
+to get to a smart hose timer where it automatically turns,
+you can customize it instead away from home.
+A customer is much more likely
+to adopt a smart home product at a lower price point
+and then getting to the point where you have the automations
+and the jets
+and smart house where everything runs off of itself.
+I think the building blocks are coming into place,
+but I have concerns of selling that
+to the mass market consumer
+because I'm not sure that that is necessarily there today
+for that mass market consumer.
+If you're an enthusiast who is passionate about it,
+wants to put in the time to really, really, really do that
+and maintain it and do the upkeep that comes with this
+'cause, you know,
+those automations over time require a lot of maintenance.
+I think that is there for that consumer,
+but for the mass market consumer,
+we've getting the building blocks in place
+in order to allow them to do it.
+<v Jennifer>Yeah, and our data shows</v>
+that there's definitely two big,
+very different groups of users right now.
+There's the people that are on their 10th device
+and have been in smart home for a while
+and because really post Covid there's been quite a bit
+of people coming into the market
+about 45% of all US internet households now have at least
+one core smart home device,
+they're on their first or second device.
+So very kind of divergent sets of user groups using these.
+So can you share a little bit more about, again,
+kind of who's using Hubspace
+and like how they kind of get onto the platform
+and then do they stay in the platform
+or how does that work?
+<v ->So yeah, I can share a little bit.</v>
+So we have over 200 products.
+So one of the great parts of Home Depot,
+we cross every product category that Singer House minus TVs
+and mattresses I think we only sell online.
+So we have customers across Hubspace products
+across a lot of those product categories.
+The main customer
+that we're targeting we're getting is
+that first time coming into smart home consumers.
+So one of the things
+that I've always found an interesting stat to look at
+is the number of people buying mechanical and digital timers
+around the holiday season every year versus smart plugs
+and our Hubspace Smart Plug was the only smart plug,
+defiant smart plug,
+powered by Hubspace is the only smart plugs we sold in store
+for the past couple years.
+Seeing the rate at which customers are adopting the smart
+versus the non-smart has definitely grown as consumers
+through the Covid years of,
+everybody's just more comfortable with
+controlling things from their phone
+and how they are on their phones.
+And not to mention, I think that the industry
+as a whole has taken a large step forward in terms
+of cybersecurity and data privacy
+and making sure we're doing things right for our consumers.
+<v ->Yeah, yeah, that's great, great to hear,</v>
+thanks for sharing that.
+Okay, let's jump over to the standard side.
+I want to go kind of deep on the, on the standard side
+and give you Michelle to start a moment
+to explain in the room, again,
+for those who aren't following closely, right,
+what's happening with Matter in particular.
+And then you mentioned Aliro, of course,
+but what is Matter again and what is it not?
+<v ->Okay, so Matter is a global open,</v>
+smart home standard that is developing a common language
+for the Internet of Things.
+I put emphasis on the word language
+because what it is not is a full stack solution.
+Doesn't include a radio layer like say for instance ZigBee
+or Z-Wave, but it's designed
+to allow a manufacturer and a developer to create a product
+that will talk to as, Stefan pointed out, multiple brands
+of platforms
+and to other products on different radio layers.
+So you can build Matter on top of wifi,
+you can build Matter on top of thread on ethernet
+and Matter also includes bridging capabilities
+because there are so many embedded based devices out there,
+whether it's appliances or other platforms
+or these various products on other standards.
+So Matter also creates a facility, if you will,
+to allow those to come into a Matter fabric
+and talk with each other.
+<v ->Okay, so a couple big things have been announced</v>
+pretty recently
+and I'd love to just kind of get quick hits on,
+on why they Matter, particularly, you know,
+for these folks in the room developing these great products.
+So Apple announced that it was putting, you know,
+thread border routers and the Apple 15 Pro.
+Why and why does that matter?
+How does that impact, you know,
+how the users might be able
+to experience Matter-enabled ecosystem differently?
+<v ->Right, and I think I'll build a little bit on</v>
+what Nick was talking about relative to infrastructure
+and building platforms,
+the infrastructure for the smart home.
+So again, as a language kind of that sits
+at the application layer,
+there is a need for this infrastructure
+to allow devices to talk to each other.
+Thread as a local connectivity solution is something
+that allows devices to talk at a radio level
+with Matter on top.
+So including more thread radios
+and products including thread border routers
+to allow home networks to be successfully built
+and allow all those devices
+to talk together in a very active mesh
+is a way to build out the infrastructure of the smart home.
+And so in addition to things like Apple,
+putting border routers,
+thread border routers in iPhones,
+we also saw with the release of Matter 1.4 home routers
+and access points, which we lovingly call HRAP.
+For those of you following along with acronyms.
+We also announced HRAP products that will have,
+again, that infrastructure of wifi
+and Thread built in as manufacturers adopt the specification
+to help flesh out that infrastructure.
+So it's simpler for people
+to bring new devices into their homes.
+<v Jennifer>Okay, last quick hit one</v>
+and then I'd love to go to Avi
+to talk about Z-Wave a little bit.
+One announcement I saw,
+I think just maybe yesterday was around Apple
+and Samsung and Google,
+I believe, allowing for Matter attestation
+or certification to also apply to their works with programs,
+sort of simplifying those processes.
+If you could just explain a little bit
+about what that means.
+<v ->Sure, sure</v>
+and I'll try to be a little bit more precise about that.
+In short, you know, today companies bring products
+through a Matter certification process
+that involves ensuring compliance with the specification.
+We also developed as a member service a lab
+in Portland, Oregon, our interoperability lab,
+that lab tests,
+I'll say beyond the specification
+and the certification components,
+allowing a product manufacturer
+to test in a more real world environment
+against various smart home platforms and ecosystems,
+again, proving out interoperability
+and performance in more of a real world way.
+So this announcement, it not only speaks to the value
+of the interoperability lab,
+but also that companies like Apple
+and then as you pointed out also Google and Samsung
+will be accepting results from our interop lab
+as inputs into their own works with programs
+that should help manufacturers kind of speed up the process
+of securing works with badges, which will, you know,
+continue to have value
+and there are many other things
+that those platform providers seek
+from their device partners.
+So this is a way to speed up development,
+speed up time to market
+and improve performance for consumers.
+<v ->Great, everybody loves efficiency in the process,</v>
+so thank you for that.
+Okay, Avi, love to, you know, turn to you.
+Michelle really explained eloquently
+about Matter being a language,
+not necessarily the full stack.
+We've got all these great standards
+of how different devices can communicate
+that have different advantages to them.
+Tell us a little bit about how Z-Wave, you know,
+fits into the larger ecosystem
+and how we should be thinking about Z-Wave
+alongside Matter development.
+<v ->So it's a really interesting question,</v>
+obviously one that we get very, very often
+at the Z-Wave Alliance, right.
+Why, where is the Z-Wave relevancy in this world
+of interoperability?
+We don't see Matter as a competitor, right.
+We don't see it as a us and them situation.
+There are great opportunities within the marketplace
+for when Z-Wave is the right solution for the problem
+and there are great opportunities when the marketplace,
+when ZigBee or LoRa
+or any of the other standards out there
+are the right solution for the problem.
+Z-Wave in and of itself being a full stack
+means that the developers
+have complete control from the radio level all the way up
+to the application layer
+and be able to control all of the elements of that to fit
+for their designs and for their solutions,
+that's not to take away from anything else
+that's interoperable and there's no practical
+nor any technical reason why
+at some point Z-Wave won't also play in the same sandbox
+as lots of other standards.
+There are organizations
+and companies out there today, Nabu Casa
+and the home assistant guys
+that allow for bridging of various types of networks
+within from Z-Wave to LoRa
+and LoRa, Matter
+and Matter to Z-Wave and all kinds of things.
+Whether or not we've gotten to the point where all
+of the technical issues have been fixed, accounted for,
+evolved into, we're not there yet,
+but all of these are evolving standards.
+Z-Wave in and of itself is looking at ways of solving lots
+of communication problems within various industries.
+We've always been sort of centered on residential
+and now we're branching out.
+Our new Z-Wave long range allows
+for different solutions for different industries
+that we've never been able to take advantage of before.
+And so as each of these standards evolve,
+they get to take advantage of those problem solvers.
+When the engineers sit back
+and they go, all right, I gotta get this signal from point A
+to point B and it's gotta be interoperable with this.
+They get to choose what the right standard is
+for their application
+<v Jennifer>You mentioned kind of expanding</v>
+beyond residential.
+Z-Wave has had a really strong presence
+within like home security for instance,
+use those types of systems.
+I believe there's also announcement
+with Smart Rent looking at multifamily.
+Is that kind of one of those next areas expansion
+that you're looking at or are there other verticals?
+<v ->No, you know, and it's funny</v>
+because Z-Wave has been used in lots
+of different verticals for a long time.
+I, myself, did a very large hotel installation
+using Z-Wave many years ago
+and so multifamily is a great extension
+of where Z-Wave is going.
+Z-Wave long range actually gives more opportunity
+in those kinds of environments
+because now we can network together
+two different mesh networks
+with three different mesh networks.
+So now you can have campus-wide environments,
+so smart city
+and then industrial applications.
+Just yesterday I was having a conversation,
+there's a big problem in the drone world
+where drones end up breaking their electronic leash
+because they rely on things like wifi and cellular
+and there's some latency built into cellular
+and wifi sometimes can be interfered with.
+Z-Wave long range is a really great opportunity
+to do command and control, right.
+It's not gonna do the video, it's not gonna be backup,
+but it's backup for the command and control
+of a drone, for instance.
+So the drone could be a mile and a half away
+and Z-Wave long range will still give you full bandwidth
+to be able to communicate with that drone,
+bring it back to its home base,
+and make sure that you don't lose communication with it.
+So there's lots of cool applications
+that we're just starting to scratch the surface on.
+<v ->Awesome, drones also have a new PR problem</v>
+in New Jersey, I hear
+<v ->It's a whole other issue that we--</v>
+<v ->Yeah, okay, you know, I love to give you an opportunity</v>
+to tell us more about the standard.
+You mentioned, of course,
+talking about those larger appliances,
+long lifetime appliances.
+Tell us a little bit about why you felt like a standard was
+needed for sharing energy consumption data
+and sharing data for these types of appliances specifically.
+<v ->Very good, so HCA, as I mentioned</v>
+before, was focused on the long life items.
+And what I'm talking about is these are your washers,
+your ovens, your refrigerators, the devices
+that basically stay in our homes for decades.
+The reason why we had created.
+We did spend a lot of time, you know, thinking,
+do we need to create an actual new standard
+and a new alliance to actually tackle this?
+Should we be part of Matter or CSA?
+And what we decided was that we do actually need
+to have a separate alliance
+to focus specifically on this decade-long approach.
+I think as manufacturers we've seen standards come and go.
+We've seen even platforms come and go, right,
+and so I think what we do is we wanna make sure that this,
+whatever we end up with is meaningful
+and there's a path to transition for our consumers
+who own these devices for over 10 years, right,
+or 15, 20 years.
+I think the second part I wanted to make sure is
+that we, HCA focus on is one is, you know,
+the interoperability and kind of the communication
+between the manufacturer and the the consumer.
+The other important piece is
+that all of this interoperability
+and connection, it actually leads to somewhere, right.
+And the somewhere what I'm talking about is
+there's services
+and there's additional sort of business models
+that actually come from this, right.
+And we wanna make sure that for the manufacturers,
+for the consumers, right,
+and for the service providers, whether it's retailer
+or energy, utility insurance, home security,
+that there's actual a path to make that service happen
+and in the end return that benefit to the consumer, right.
+So I think that's what keeps these initiatives sustainable
+and we will keep it going, right,
+and so we spend a lot of energy focusing on that, yeah.
+<v Jennifer>Can can you tell us a little bit more about,</v>
+you know, sharing of energy consumption data?
+Because I think this is one thing
+that when we think about the energy conversation,
+we have a panel leader all about energy.
+You know, utilities are definitely interested
+in seeing more information behind the meter.
+Consumers right now often don't have very granular access
+to what devices in their home are, you know,
+consuming what types of of energy, you know.
+What does, what you're working on mean
+for other ecosystem players and for consumers?
+<v ->Yeah, I think the energy,</v>
+you know, there's so many different actual ways
+to reach that granular data.
+There's not one path to get there, right.
+If you have an appliance that's five years old,
+that's may or may not be part of the meter,
+there's al alternative ways to get to that granular data.
+I think in the end what we focus on is
+for the utility companies,
+what information do they need in order to provide efficiency
+and cost savings back to the consumer, right?
+Because in the end, all of this effort,
+if it actually doesn't net out to savings for consumers
+or savings on kind
+of the pressure on the grid,
+doesn't really mean anything, right.
+So what we do is we try to take
+a non-agnostic approach in terms of the many different ways
+to get to that.
+For example,
+the HCA first specification on energy
+focuses squarely on demand response and that only, right.
+And so what we don't think there's a one solution
+to fit everything.
+We're almost taking it
+as chapters in these types of approaches.
+Same thing for home security or insurance, right,
+there's multiple data points
+that would actually help make these businesses
+more efficient,
+therefore returning the savings back to the consumer.
+And I think for, you know, our relationship,
+many of our members
+, the relationship with our consumers is,
+you may buy a refrigerator from me,
+maybe two or three times in the whole life
+of our relationship, right.
+So it's pretty important the trust
+and the continuity, right,
+so we really focus on that.
+<v Jennifer>I love your description of chapters</v>
+that's a great way to think about it.
+Final follow up here
+and then I'd love to get back over to the platform side
+to Stefan and Nick,
+can you explain a little bit how, I know, you know,
+the CSA is also working on energy consumption sharing,
+you know, efforts, how the HCA's effort is different.
+Is it that focus that real, you know,
+special focus on demand response?
+Or can you describe a little bit about
+how those two efforts are different or complimentary?
+<v ->I think in the bigger picture of things,</v>
+it's all headed in the same direction for sure.
+I think right now
+it's just almost different swim lanes, right.
+So HCA is focused on HVAC, long life items,
+you know, appliances, these items that have long life.
+We actually do focus, not exclusively,
+but very primarily focus on C-to-C interaction
+because many of our utility service providers, many of our,
+you know, security,
+it's an easier path to get
+to connecting these older products
+that are already in our home
+and so that's sort of where our focus is.
+I think what we, you know, I know that
+for CSA and Matter, there's a much larger perspective
+that's kind of defining the overall sort of industry,
+but I do believe it's in the same direction,
+just different swim lanes for now.
+<v Jennifer>Okay, great, Michelle did you--</v>
+<v ->Totally agree, totally agree</v>
+and I think, you know, stated it well in that
+there is so much embedded base equipment out there,
+there is such a need to be able to collect the information
+that is out there today
+to do that cloud-to-cloud connectivity
+and then as people buy the next new thing
+and add other high load equipment to their household,
+whether it's a heat pump or a water pump
+or a pool pump, that all of that data can start
+to be integrated both locally and then also in the cloud.
+So I think they're very complimentary efforts.
+<v ->Absolutely.</v>
+<v ->Okay, all right, great.</v>
+So Stephan and Nick, I wanna come back to you guys
+and get your thoughts as more platform players
+of how do you think about the various standards that are,
+you know, available, how you make use of them or don't?
+Or how you enable your users, you know,
+to make use of 'em and how you track the efforts
+that are happening in the industry?
+<v ->It's great that there's so many different standards.</v>
+I mean, who else would buy our hubs?
+No, I'm just kidding, but I think,
+and that's also already
+what came out the last conversations.
+A lot of these standards
+they serve slightly different purposes
+and you see that everywhere in the market, right.
+Some standards provide exceptionally long range
+and good reliability,
+but there may be a little bit more expensive to integrate.
+Others are more on the cheaper side,
+but they come with other disadvantages either in bandwidth
+or in in range for instance, or in requirements for a hub.
+And you see that a lot of the devices
+and a lot of the engineers, they look at their application,
+they look at what's best
+for their ecosystem and their brand
+and I think in the end, all of these standards
+and all of these standards progressing,
+I mean it tremendously helps the consumers
+because even though if there's different standards,
+having standards is always better than having, you know,
+a thousands of proprietary systems
+because with standards at least it's a handful or maybe 10.
+And then to make it really a win for consumer,
+I do believe that there should be proper user interfaces,
+proper platforms like Homey to integrate multiple
+of those standards into a single real user application.
+Because otherwise you still have 10 ecosystems
+and this is a user you don't want a thousand ecosystems
+to choose from that are all proprietary,
+but you also don't want to have 10,
+ideally you would have one application,
+one platform that you know combines it all.
+So that's the vision and the way that we look at it
+and we also don't wanna, you know, steer the market
+or whatever, if there's a very popular product
+that's based on a certain standard that apparently,
+you know, has selected that standard for a good reason
+and is doing well, then you know, we'll follow that
+and we'll make sure that the consumer
+can use that interoperable with other standards
+no matter what the standard is or ends up to be.
+And I think that sort of,
+yeah enabler role has given us a very nice
+and unique position to actually realize this vision
+of the whole smart home working together
+based on, of course, the shoulders of giants
+of the standards that are there
+because it's easier to implement 10 standards than,
+like I said, a thousand proprietary APIs.
+In real life,
+You end up doing both
+because there's still a lot of proprietary APIs,
+but that's okay as an open platform you can do both.
+<v ->Well and just as a follow up to that,</v>
+obviously with the acquisition of LG who has thinQ, right.
+So they have an interesting kind of dual strategy now.
+So you all coming in as a open part of their play
+and then there's the ThinQ play.
+<v ->Yeah, so they're opening up their ThinQ part as well.</v>
+I mean, that's not our effort,
+that's the guy in Korea doing that.
+As you might see, I'm not super Korean,
+but indeed they are opening up
+but it's still proprietary system and a proprietary API.
+But I do know that they are also moving towards Matter,
+at least Matter control
+and I do also assume Matter recipients
+and I do believe they're part of the ADA as well.
+So probably LG appliance will become compatible
+with that as well.
+It's just sometimes
+for a larger corporate it takes a little bit longer
+to get on the board and it allows us,
+and that's what we're here for,
+to help them accelerate their efforts
+and to make sure that, you know, we play
+and keep playing that front runner role
+under the Homey brand
+and they can take more and more of our technology
+and make it available across their great appliances
+and devices as well.
+<v ->So Nick, coming from more of a proprietary play, right.</v>
+How you think about what standards are right
+for your experience?
+<v ->So we are the advocates for the customer,</v>
+the mass market consumer
+and we take that very, very personally.
+Like I have to work in a Home Depot store
+at least four days a year.
+I'm usually in a store every Thursday
+with an apron on
+talking to a consumer selling customers products.
+Once you have to start explaining
+what the difference between, you know,
+to go back to the 2017 days of ZigBee, Z-Wave,
+this one works on this platform,
+this one works on that platform, you've lost the consumer.
+So where we focused our efforts on was a customer needs
+to be able to buy any one of our products.
+Again over 200 products categories across the store.
+If you buy any single one of those products
+and you take it home, you'll be able to set it up,
+get it connected in under 60 seconds or less
+without another product being needed in your home.
+So we focused on the technologies that we knew all
+of our customers had in their homes today.
+So everybody has at that point that had a cell phone,
+had Bluetooth.
+If you were buying a smart product, you had wifi.
+So all of our products are wifi and Bluetooth.
+You don't need product B
+in order to buy product A when you get it home.
+And you don't have to explain, you just tell the customer,
+if you buy this, you take it home,
+you download the Hubspace app, it will work.
+Now from a proprietary platform point-of-view,
+yeah I would love it if you know everybody were like me
+and had a hundred Hubspace products in their house.
+But we want our customers to be able to.
+We're in the business of selling products to our customers
+and our customers buying products from Home Depot.
+I want them to be able to control the products
+from whatever area or surface that they want
+to be able to control it from.
+You know, we can do anything we do, can do everything.
+You just can't do everything all at once.
+We started with the platforms
+that had the majority of the market share.
+Amazon, Alexa and Google Home
+had a large portion of the market share
+as Parks data shows us.
+So that's where we folks our efforts
+and making sure that we had the best value products
+that we could get to market that were as simple as possible
+for customers to explain or to understand
+and get set up in their homes
+to help our store.
+Associates be able to just have confidence
+in selling smart home
+and getting smart home products into that mass market.
+So for me the standards are fantastic.
+I have nothing but support for Matter
+and all the other alliances pushing the industry forward
+and we support them.
+For today,
+we are focused on what is the easiest for our customers
+to understand and get adopted in their homes.
+<v ->Okay, so looking forward, what do you think.</v>
+And then Stefan, I'm gonna pose the same thing to you.
+What do you think is the next really layer
+of differentiation for the platform experience, right,
+that makes consumers choose to stick
+with one platform versus the other?
+I think we're getting a lot more kind of tighter competition
+among what platforms have really emerged as as leaders
+and really at the table.
+Is it the intelligence?
+Is it the, the spread of the product portfolio support it,
+is it the trust they have with you as a brand, right?
+And they know that they can come into the store
+and talk to the apron guys
+and who can help them with their problem, right.
+What's gonna differentiate the next platform
+kind of level there?
+<v ->I think that that's a hard question to answer</v>
+'cause there are a lot of different types of customers.
+But I think for the mass market customer,
+it's going to be what is the simplest platform
+that provides the most value to the customer.
+Am I able to tie together my ceiling fan
+and my window air conditioner
+to more efficiently cool my house?
+Very easy value add things
+for the mass market consumer
+that are given to and dev in a very easy way.
+I'll speak for the mass market consumer.
+I think there are, I'll let Homey go for their answer.
+<v ->No, I agree that actually saving money</v>
+or like the HCA also mentioned like having a cost first
+or a price first reason really helps
+with mass market adoption because not everyone just buys it
+because they're interested in tech.
+Some people just want a real life application
+like saving money, like saving energy.
+And luckily because mainly
+because of this, the work of these standards,
+I think the first differentiator of having
+that broad product range supported I think has been covered
+by most mature platforms.
+Also as platforms matured,
+obviously we came from like a hundred
+and consolidated into five, maybe 10 really relevant ones.
+I think future-looking it will be towards providing value,
+for instance through energy, energy monitoring,
+energy saving energy timings with dynamic energy prices.
+I think that's an important one.
+Automation, you know, making sure that you get more out
+of your devices by having them really work together
+because it started out with control,
+but control at a certain point is a given
+and automation is next.
+And I think people will become a little bit more,
+at some people, not everyone will become a little bit more
+aware of, you know, what kind of privacy policy
+and if they're really converging towards a single platform,
+who do they trust their data with?
+Do they want it cloud operated or locally operated?
+Do they want it spend a little bit more
+but have it not with an advertising company
+or they don't wanna spend less
+and have your data hosted by an advertising company?
+It's those sort of choices that people will be able to make,
+but only because that first hygiene layer
+of having connectivity,
+being able to connect all those devices
+and I'm super happy to hear that you're opening a Hubspace
+to more platforms as well
+because of course we would love to integrate it as well.
+Is there, and we can build on towards the real value
+of smart home because connectivity
+and controls a hygiene factor,
+but the real value is in automation, it's in energy savings,
+it's in real life monetary things
+and then of course it's a personal choice
+on privacy, local or cloud.
+<v ->Okay, great, love to see partnerships happening on stage.</v>
+Just have a minute or so left,
+I'd love to do just a again,
+like a quick hit of on the standard side,
+what are you focusing on?
+What's next for standards development for Z-Wave
+for Matter and for HCA that we can kind
+of expect coming down the pipe here?
+<v ->So for us, our three initiatives</v>
+for 2025 are the expansion of Z-Wave long range.
+The addition of S2-V2, our new encryption methodology
+to make us even more compliant with the Cyber Trust Mark
+that's coming out later this year
+and third is batteryless technology.
+So we're actually adding an environment within Z-Wave
+that will allow for the use of batteryless sensors
+and things within the Z-Wave environment.
+<v ->Okay, Michelle.</v>
+<v ->Okay, I'll try to be that brief as well, very good.</v>
+So from a Matter perspective this year,
+we are gonna continue forward
+with our release cadence as the market has continued to see,
+focus continues to be on making sure
+that we've got a very robust software development kit
+that's open sourced, available
+for everyone to get access to.
+We're gonna continue to evolve
+and I think there's already been some news out there,
+our device portfolio adding some new devices
+as the year progresses and continue to progress things
+like our energy management features,
+et cetera, that were so well developed in in Matter 1.4.
+<v ->Okay, fantastic, Yoon Ho.</v>
+<v ->Yeah, I think for HCA, there's so much good work</v>
+that's being done in the industry.
+You know, 2025 and beyond,
+we're gonna focus on how do we take what we do
+and make this actually connectable to the larger ecosystem
+of home services
+and home ecosystems that's out there, right?
+So that means what we do, how do we connect this
+to other businesses
+and industry sectors that are out there to,
+in fact, create business models
+that will provide benefit back to the consumer.
+I think that's gonna be our core focus for going forward
+and we look forward to that.
+<v ->Okay, fantastic, well, you're out of time.</v>
+Please join me in thanking our panelists
+for their great insights today.

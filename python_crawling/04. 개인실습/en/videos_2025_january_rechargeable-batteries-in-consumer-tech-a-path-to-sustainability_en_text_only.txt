@@ -1,0 +1,1026 @@
+<v ->Okay, let's go ahead and get started.</v>
+It's nine o'clock.
+Good morning, everybody.
+I know this is early.
+For many of us, this is the first session of the day.
+Welcome to this panel session.
+We're gonna have, I think, a good conversation.
+We have an excellent panel here.
+My name's Walter Alcorn.
+I am CTA's vice president of environmental affairs
+and industry sustainability.
+We're gonna be talking today about batteries,
+embedded batteries in particular,
+both current situations,
+some of the issues that we're seeing,
+and talking about some near-term solutions,
+and then some longer term solutions.
+So what I'd like to do is introduce the panelists,
+actually have them introduce themselves.
+If there's time, just so everybody's ready,
+at the end, we will take an audience question or two,
+so be thinking about that.
+But let's just dive right into it.
+So our first panelist, Judy Jeevarajan.
+Judy, please introduce yourself and welcome.
+<v ->Thank you, Walter.</v>
+I am Judy Jeevarajan.
+I lead the Electrochemical Safety Research Institute
+at UL Research Institutes as the VP and executive director.
+My experience with batteries goes back about 30 years,
+almost at the beginning of lithium ion,
+but I've also worked with many different chemistries
+or batteries with a big focus on safety.
+And in the past two years, we've also been looking
+at new materials and novel energy forms in our institute.
+<v ->Great, Giovanni Fili, please introduce yourself.</v>
+Thank you for being here.
+<v ->Thank you for inviting me.</v>
+It's a pleasure.
+CES is always fantastic experience.
+So I'm Giovanni.
+I'm the CEO and founder of a Swedish company called Exeger.
+We have developed a new solar cell,
+which work under indoor and outdoor conditions.
+I'll tell you more about that later.
+And we work very closely with the battery companies.
+As we see, there's a need in the future
+for a lot of good, safe, stable batteries,
+especially together with our flexible source,
+which I will talk about later.
+<v ->Great, I love it you have a prop.</v>
+That's makes the panel.
+Andrea Murphy from Panasonic, please.
+<v ->Yeah, thank you, Walter, and good morning everyone.</v>
+As Walter said, my name is Andrea Murphy,
+and I am the Director
+of Environmental Affairs for Panasonic.
+My team covers a wide range of topics
+with environmental compliance and sustainability.
+So for environmental compliance,
+we deal with things like end of life of our products,
+which we'll talk about here,
+removing hazardous chemicals from our products.
+So that fits into battery sustainability,
+'cause we want the batteries to have
+less hazardous chemicals and be easier to recycle.
+Topics such as packaging.
+And then on the sustainability front,
+in addition to anything that's regulated,
+we work on a variety of programs and projects
+to increase the sustainability
+of our products that we make in our factories.
+And I cover that.
+My team covers that for all of North America.
+So that includes the federal and state regulations
+and the provincial regulations in Canada.
+For those of you who don't know,
+Panasonic is over 100-year-old company.
+We are an electronics manufacturer.
+We have a rich history of making batteries.
+We manufacture all kinds of batteries,
+from primary batteries, rechargeable batteries,
+small batteries that would fit in your watch
+to the large solar batteries, the charging batteries.
+So when you have a solar power system
+attached to your house, you can collect the solar
+and use it after the sun goes down.
+And then we're also an electronics manufacturer.
+We manufacture a large range of products
+from the entertainment industry
+that have batteries like your earbuds,
+your headphones to personal care products.
+So when you think about everything
+that you use in your house, or even you have on you here,
+it probably has a battery in it.
+<v Walter>Awesome, and great keynote yesterday.</v>
+<v ->Thank you, yeah, so proud.</v>
+If you haven't seen it,
+we are the sustainability superheroes,
+so please take a look and watch it.
+<v ->Wonderful.</v>
+Leo, take it away.
+<v ->Thanks, Walter.</v>
+I'm Leo Raudys.
+I'm the CEO of Call2Recycle.
+We're a 30-year-old nonprofit that is the largest collector
+of batteries for recycling in the United States.
+We were actually founded
+because of a great idea that Panasonic had back in the day
+to actually create an organization like us.
+We've been around for quite some time.
+Panasonic continues to sit on our board.
+We collect batteries at about 11,000
+public-facing collection sites,
+places like municipalities, Home Depot,
+Lowe's, Staples, Best Buy, et cetera.
+And about 20,000 other smaller sites
+across the United States.
+The way I explain us to my mother
+is if you're recycling a battery
+somewhere in the United States, it's probably us.
+So we're intensely interested in this topic
+because it's very, very important for us
+to be able to move all these batteries safely
+to a recycler or a repurposer.
+And innovation's pretty key to that.
+So thanks, Walter.
+<v ->All right, wonderful.</v>
+Well, let's do this.
+Let's set the stage.
+What are the issues with rechargeable batteries,
+particularly rechargeable battery fires,
+which I know there's been some discussion.
+So Judy, you wanna start?
+<v ->Sure, so I mean, I've been working</v>
+with lithium ion since its inception,
+and we are really concerned about its safety.
+It's because it's very unpredictable, the safety,
+and it going into a thermal runaway,
+what we call a thermal runaway,
+which is a really high temperature,
+or accompanied by smoke and fire can be unpredictable.
+And that's because if you don't use it correctly,
+manufacture it correctly, charge it correctly,
+as well as if you don't recycle it correctly
+or dispose of it correctly,
+you are going to have a fire in the end.
+And what's associated with it is high temperatures.
+The fire can propagate very quickly.
+We can have toxic gases that come out of it.
+Particulate emissions are actually toxic.
+And so it is really concerning
+that if people are not doing things correctly,
+that you can have an unexpected fire
+and a lot of high temperatures.
+<v Walter>Yeah, the term thermal event</v>
+is such a interesting word
+that gets used in the public space.
+Anyone wanna add anything to that, Leo?
+<v ->Yeah, I mean, it's a huge issue,</v>
+and I don't think people really appreciate
+just how big of an issue it's become.
+So if you think about us,
+we collect last year about nine million pounds of batteries.
+Previous year was eight million pounds.
+So recycling has gone quite a bit.
+But we still only capture a fraction
+of what actually moves through the system.
+So anytime a battery ends up in a waste facility,
+it's at risk of actually being damaged and catching fire.
+There are a lot of fires of waste facilities
+and recycling facilities.
+You talk to the folks that run these facilities,
+they have a fire about a day.
+They're not sure if they're all batteries,
+but in terms of major fires, according to Fire Rover,
+which is an organization that does fire safety work,
+they've seen over 453, I think, major fires
+at waste and recycling facilities last year.
+So it's a very, very big issue.
+Our concern is that anytime
+you have the risk of fire going up,
+it puts the entire recycling ecosystem at risk.
+And when that happens,
+it's less likely people are going to recycle.
+It's less likely we're gonna be able
+to get these materials back into commerce.
+These are very critical materials.
+So anything we can do to get those fires down
+is vitally important, especially because recycling
+is just becoming a bigger, bigger thing.
+<v ->Okay, thank you.</v>
+So let's talk a little bit about near-term solutions.
+What can be done to reduce fires
+or maybe the severity of the fires?
+What are some of the things that,
+Judy, go ahead and start again.
+<v ->So one of the things that I would recommend</v>
+is making sure that consumers,
+and there are different factors for different sectors.
+So when you look at consumers, it's always better
+to buy batteries that are certified,
+certified by a good certifying organization,
+follow standards.
+So it should be done.
+And then also buy the relevant chargers.
+Don't buy universal chargers.
+Use the batteries with the relevant chargers.
+And also, don't try to replace your batteries on your own.
+You'll notice that several top tier
+device manufacturers today
+make it difficult for you to replace batteries.
+So just send it back to them
+and have them replace it for you
+if you want it done that way.
+When we go to manufacturer's side,
+we should always look for certified cells
+that go into certified batteries
+and then so the battery manufacturer should go
+and look for good manufacturers of cells
+that are actually certified.
+And again, the whole cycle of making sure
+everything is certified to the end product
+should be completed.
+And then lastly, also with respect to what Eric,
+Leo was talking about, sorry,
+we have to make sure that you recycle
+your batteries in the right manner,
+and there are call to recycle as an excellent site
+where you can look for sites or locations in your area
+where you can take back batteries and recycle them safely.
+So it's always good to follow what needs to be followed
+so you can reduce the risk that is associated
+with different battery chemistries.
+<v ->Great, Andrea?</v>
+<v ->Yeah, I really appreciate</v>
+that you brought up the consumer,
+'cause a couple of days ago, Walter,
+you mentioned to me how popular the sustainability track
+has become here at CES,
+and I thought that this conversation is the perfect start
+to the solutions we're gonna come up with.
+And you might think like sustainability, why are we at CES?
+But you mentioned consumers, right?
+What the consumer practice is
+and what's gonna be easy for a consumer to do,
+so what a better place than the consumer electronic show.
+But everything we do right,
+it's gonna have to be focused on, can the consumer do it?
+Can we get that knowledge and education out,
+which is something Call2Recycle.
+It does really well.
+And then with that, I think we need to work on
+the environmental justice and level the playing fields.
+I also really appreciate that you mentioned certifications,
+'cause I'm sure if you go out there
+and look at the batteries for purchase,
+you're gonna see a big price difference.
+And are you gonna spend 4.99 on a battery
+or are you gonna spend 9.99?
+Or if it's a bigger battery, much more.
+And you have to think about those certifications
+and what the manufacturers go through
+to get them certified.
+So if we can get that education out there
+and it starts in a panel like this,
+'cause we need to have the manufacturers,
+we need to have industry involved, the consumers.
+We also need to have government,
+'cause there should be more mandates.
+We're actually pro having a federal mandate on this
+because that's the only way to level out the playing field
+and also have the recyclers involved
+and make sure that we're seeing this
+from a multi-stakeholder point of view.
+<v ->Leo, could you address maybe collection or something else?</v>
+That's such an important piece to this.
+<v ->Yeah, yeah, thanks for asking.</v>
+I would say by and large,
+that we were able to move batteries safely
+to their end destination recyclers fairly safely.
+The thing that keeps me up at night
+is how defective batteries are handled in the United States.
+And this is an area where we can do a lot better,
+both on the policy side from the government,
+but also manufacturers stepping up
+and doing things responsibly.
+Panasonic's a great example of how you do it right.
+There are a lot of companies that don't do it right.
+And what I mean by that is,
+if you've got a defective battery that's in the market,
+there's always gonna be a chance that a battery
+is manufactured improperly.
+Just happens, right?
+The right way to do it is a manufacturer
+should take responsibility for the battery
+and get the packaging to the customer and say,
+"Hey, get it back to us.
+We'll take it out of the system.
+Let's manage it safely."
+Unfortunately, that doesn't happen a lot.
+A lot of times, you just basically
+have manufacturers kicking the can down the road and saying,
+"Dispose it to your local facility."
+They're not equipped to deal with this.
+It's a big and growing issue just because
+more and more batteries are going into commerce.
+To give you some numbers, last year,
+the CPSC issued about two dozen recalls.
+Three and a half million units
+of batteries were recalled last year.
+Only a small percentage of those
+were handled right way, quite frankly.
+In the last two months of the year,
+they issued recalls covering almost a million units.
+So if you think about it,
+you're a person in your home, you've got a power bank,
+you get the message, "Hey, I need to get rid of this.
+I should need to get out of my house."
+It's a risk, absolutely.
+But the last thing you wanna do is have 100 households
+take all those batteries, take them to the facility,
+you magnify the risk,
+you put workers at risk, things like that.
+So I think we can do a lot better
+in terms of messaging from the government saying,
+"Hey, this is the appropriate way to do it."
+But also, manufacturers need to do the right thing.
+Again, Panasonic's a fantastic example.
+A lot of other companies
+do it the right way.
+<v ->I didn't pay him</v>
+by the way. (laughs)
+<v ->Oh, yeah, no.</v>
+And because this is what we do every day all day long,
+and it's an issue for us.
+So I think it's an area we can do better.
+So we're hopeful that it will get better.
+I raised this issue last year on this stage
+and not as much progress has been made as I'd like,
+but I think we'll get there.
+<v ->Well, so this is CES,</v>
+and really, CES is about the future
+and about technology and innovation.
+So Giovanni, this one's for you.
+What are some of the solutions?
+What's the future look like in terms of batteries?
+What do you think?
+Where should we go?
+<v ->Well, I think the future in terms of batteries</v>
+is diminishing in some ways.
+And with that, I mean that,
+I mean, what we do,
+okay, every year, the consumer electronic business
+uses around 10 billion disposable batteries, give or take.
+And these are not recycled in the proper way.
+Fortunately enough, a lot of them end up in landfill
+et cetera, polluting land and water and so on.
+That's bad.
+I love batteries.
+We need batteries 'cause they enable the smartness,
+the functionality, freedom, all the stuff.
+But we need to find a good balance
+between disposable batteries, preferably not so many,
+and rechargeable batteries that we can use more.
+But how are you gonna power these rechargeable batteries?
+That's what we do.
+So we have developed this flexible film.
+This is a silicon-free solar cell.
+We've developed this over the last 15 years in Sweden
+in two factories, completely run on renewable energy,
+zero emissions to air and water,
+zero emissions at all actually from the factories.
+This is the lowest LCA in the world, solar cell.
+It's the highest power fishes in the world for indoor.
+So this works indoor and outdoor.
+So what we do with this
+is that we integrate it into products.
+This is a product we have developed together with 3M,
+one of the best companies in the U.S.
+We love them very much.
+We have a global exclusivity deal with them.
+They can only work with us.
+Here is our solar cell.
+This one previously was run on disposable batteries.
+So every second week, you would need to buy
+two new batteries and put inside to have it to work.
+This is a smart hearing protector
+that protects your ears and allows you to communicate
+in different situations such as airports, mines,
+construction sites, oiling platforms, et cetera.
+Very critical moments where you need to know
+you can communicate for yourself to safety.
+Also, this is used in military purposes, et cetera.
+Now, so over three years, you would buy 150 batteries.
+Now, this has a really small one rechargeable battery
+that we power by utilizing the light
+that surrounds you when you use it.
+That means we have eliminated 149
+batteries from the ecosystem.
+And this is the future where you will see
+more and more of these products become self-powered,
+self-powered, energy independent,
+energy autonomy, call it what you want.
+The freedom to utilize the products
+in the way that we're supposed to.
+You don't have to think, "Oh, I can't really put on
+noise cancellation now 'cause it'll drain the battery."
+No.
+Utilize all the great innovations
+that you companies come with all the time.
+Utilize the product as it was supposed to,
+without having the fear or battery anxiety
+or range anxiety, all this stuff.
+<v Walter>So let me just ask,</v>
+so it doesn't have to be sunny to work, right?
+<v ->No.</v>
+<v ->Okay.</v>
+So-
+<v ->Indoor, light,</v>
+shade, just light.
+This is a light cell.
+It's not a solar cell, to be honest.
+<v Walter>And I know you're from Sweden, and so sometimes,</v>
+not a lot of sunlight during winter solstice time, but-
+<v ->That's correct.</v>
+<v ->It's still fine.</v>
+<v ->It's still fine.</v>
+And people are using this in Sweden all the time.
+It's on the market since May last year.
+And they use it as seven, eight hours per day.
+They never need to charge them.
+Even in Sweden, November where we had this three hours
+of sunshine in one month.
+<v Walter>It's a wonderful country, by the way.</v>
+I was just vacationing, so knockout, Sweden.
+<v ->And with the factory,</v>
+we're building our second factory called Stockholm II.
+When that's fully ramped, we'll be able to replace
+one billion disposable batteries per year
+from that single factory.
+We do remote controls, the no battery inside,
+we do electronic shelf labels
+to power the connected stores and retail.
+We have the largest customer in the world
+signed up a big, yeah.
+So this is the future.
+We will need good batteries,
+safe, environmentally-friendly batteries that are reliable
+and predictable and stable, and we will charge them.
+That's the future.
+<v ->Yeah.</v>
+Yeah, excellent.
+Well, we're gonna come back I think to you, Judy.
+What do you think?
+<v ->Yeah, I just wanted</v>
+to add about batteries.
+<v ->What the future?</v>
+<v ->Yes.</v>
+<v ->There are different</v>
+chemistries that are being worked.
+As you mentioned, environmentally friendly sodium ion,
+magnesium ion, those battery chemistries
+that we're working on.
+But there are some sodium ion cells in the market today,
+but they're almost like lithium ion.
+They have the same fire
+because they're using similar electrolytes.
+But we are looking at newer starting materials
+and both the sodium ion and magnesium ion.
+So we might get to more environmentally friendly, cheaper,
+where you really don't have to,
+sodium is in plenty in the world.
+So I think those are areas that we can provide
+to make more sustainable and energy-efficient batteries.
+<v ->Yes.</v>
+<v ->I totally agree.</v>
+Can I say-
+<v ->Sure, please.</v>
+<v ->I completely agree.</v>
+And what we do, we work very closely to battery companies
+because there are new very, very cool things
+coming in the pipeline.
+And you have many,
+you have a four year,
+yeah, you have year-long programs, right?
+So what we can do, we can take our one millimeter thin
+plastic film and we can glue it together
+with a one millimeter thin flexible battery
+that does not suffer from, if you can cut that,
+you can strike a hammer on it, nothing happens.
+And when we glue those together, we have a self-recharging,
+completely safe, flexible battery
+that does not explode or turn into fire or anything.
+Alone, that battery is not good enough.
+This is a little bit on the expensive side
+and the energy (indistinct) is not that good.
+But when you combine it with, for example, our technology,
+why should that not be the backside of your laptop, right?
+This is what's gonna happen.
+You're gonna see the devices,
+the surfaces turn into something else.
+Like we used to have papers, we read papers,
+now we have digital papers,
+we have functional papers that do many things.
+And this is gonna happen as well in the battery
+and the energy harvesting area.
+<v Walter>Fantastic, Andrea?</v>
+<v ->Yeah, I would say just adding on to that,</v>
+we have to change the way we think about batteries, right?
+Just as you're saying, what chemistries they're made of,
+what we attach them to.
+And of course, match that with what the consumer wants.
+No consumer wants to be tied to an outlet.
+You go into a room or you get into the airport, right?
+And you're fighting for that charger.
+So we really have to rethink as an industry
+how we're gonna put batteries into our products,
+how we're gonna make them safe,
+how we're gonna make them durable as you say.
+And not only prevent fires but prevent from water damage.
+Right now, you want all your electronics
+to be able to be used out in the rain.
+You used to have to hide it, and now you're like,
+"Oh, my iPhone is waterproof.
+This is great."
+But you think about what that does to the battery
+and how you have to secure the battery for that
+and then that how it makes that harder to remove the battery
+and then how to recycle that battery.
+So that's really a complex issue.
+<v ->Fantastic.</v>
+Well, we're gonna open it up for questions
+here in just a couple minutes,
+but Giovanni, I wanted to go back to you,
+and many times with our innovations
+and the consumer technology industry,
+we have to think about what the new impacts are gonna be.
+What's the material profile look like
+for your technology that you're putting out?
+What's it made out of?
+<v ->Well, so we have over 300 granted patents.</v>
+Over 21 families.
+It's 15 years of research.
+I'm not gonna give you all of that.
+<v ->That's okay.</v>
+<v ->But I can say the main component is titanium dioxide,</v>
+which is the white pigment in wall paint,
+in toothpaste, in sunscreen.
+So it's a very environmentally friendly composition,
+no rare earth metal, no toxic materials, nothing,
+REACH, RoHS, and Prop 65, all of that.
+And we do that on purpose.
+We can do solar cells with much higher efficiency,
+but that would mean that we would need to mix in
+toxic stuff or things that are not compliant
+with how we see this,
+'cause this is something that we wear.
+I wear this on me, right?
+I carry this, my kids,
+we have a lot of consumer products as well.
+My kids, they wear the headphones,
+they wear the stuff, they carry it.
+It has to be completely safe.
+<v ->Yeah, fantastic.</v>
+Well, very good, thank you very much.
+So if folks have questions,
+we actually have two microphones.
+Anybody have a question at this point?
+Alright, come on up and ask a question.
+I think both of these microphones should be working.
+And if anybody else has a question,
+feel free to go ahead and stand up by one of the mics.
+Go ahead.
+<v Matt>My name is Matt,</v>
+and I work in innovative product design,
+but I actually had a question
+around the waterproofedness of batteries.
+Of course there's battery regulations
+that are coming out in the U.S. and in Europe
+around the need to have them be removable
+so that they can be readily recycled.
+Currently, I believe there's an exemption
+for things that are highly integrated or waterproofed.
+Is there an interest and passion
+from the industry to look at solutions
+to innovate around that,
+to make things that can be both waterproofed and removable?
+<v ->Yeah, Andrea?</v>
+<v ->Yeah, so I could take that.</v>
+That's really an excellent question,
+and it's something that our design engineers
+have been focused on for quite a long time.
+And actually, just before,
+I was sharing with the panel a story.
+So we launched a couple years ago
+a product called the MultiShape,
+and it's five different personal care devices in one
+and it's made to replace your razor, your toothbrush,
+your nose hair trimmer,
+and I'll get to the point but it's all in one.
+And the sales team actually came to me and said,
+if we have consumers disposing
+of five different products to buy this,
+that's gonna create a lot of waste.
+So we started calling our recycling partners
+and saying how are we going to,
+what are we gonna do?
+And we created a program
+where if you buy the MultiShape,
+you can return and we'll recycle for you for free
+for the consumer your old product.
+So we went to the electronics manufacturer
+and we bought a big box of personal care products,
+different brands, many Panasonic.
+And we saw, and if you've never been
+to recycling manufacturer electronics,
+it's a huge warehouse and it's all automated
+because that's how you're gonna do this at scale
+is you're gonna have automation.
+And we followed these as it went through the whole warehouse
+and they went to sorting and it went to an area
+and the ones with lithium ion batteries,
+because they catch on fire,
+went to a special section in the back
+where they had all the fire control, right?
+So it took us time to go through there,
+and it was a manual process to get rid of the battery,
+because it was an electric razor you can use in the shower.
+And it took one person about 12 minutes
+to get that battery out.
+And we are talking about different ways
+he had to go get like a special screwdriver
+and he had to like safely separate the battery area from it.
+And that was hard to do
+because like the battery wasn't at the end,
+where you think easily removable, it's gonna be at the end,
+but it was in the middle
+and it was encased in so much plastic.
+And they said, "This is gonna cost you a lot of money."
+And we said, we said, "Okay, well, we need to do it
+but we need to find a way to make it better."
+So I put together a proposal.
+I'm thinking this is an easy solution, right?
+And I put together a proposal,
+this is the standard screw that needs to be used.
+I got all the specs, and it needs to be
+closer to the end of the unit
+so it could be chopped off first and then manually removed.
+And I bring it back to the design team in Japan.
+They review it and they come back to me
+and say that that's impossible.
+I can't make you that waterproof product
+with the specifications you're giving me.
+So they are working on it.
+I would say with each model, we get a little better,
+but we haven't really perfected that solution
+where it's gonna be a pop out battery
+that can have all the functionality
+and the safety that we need.
+<v ->If I could add to that, I mean, this is a critically</v>
+important issue for the recycling system,
+because as Andrea pointed out,
+it's a lot of time, time is money.
+So we've done some time studies on what it takes
+to actually get a battery ready for processing
+if it's in a product versus loose.
+And as Andrea pointed out,
+when you're dealing with loose batteries,
+it's increasingly robotic.
+It's like it's Star Trek level, sort of.
+And then you've got these rooms
+where it's basically the stone age.
+You've got people with hammers, beating things to death.
+And it's very expensive.
+It's very time consuming.
+Costs us about $82 a pound to be able to process
+lithium ion batteries that are loose batteries.
+If they're in a product, you add $2 to that.
+So it's about $4 a pound.
+It's very expensive.
+And the more expensive it is,
+the less incentive it is to do.
+So it's definitely an issue.
+And they're introduced all sorts of safety issues.
+And since you're in design, you know this.
+I mean, there's just a a ton of compelling sort of reasons
+to do this, that, and the other on the design side.
+This is just one of them.
+From our perspective, the more that manufacturers
+are thinking with the end in mind,
+the better off it's going to be.
+So actually, when we were talking earlier off stage
+about the headset, my first question, Giovanni,
+was can you remove the battery without a tool?
+'Cause anytime you gotta use a tool, it's a step, right?
+We need to be thinking in that direction.
+<v ->I just wanted to add that we have a DOE project</v>
+where we are looking at safe recycling
+or process for safe recycling.
+So we are looking at not only batteries but also devices.
+Right now, it's consumer level devices up to power tools
+where we are trying to see if we can simultaneously remove
+the electrolyte while we are shredding.
+So that will make the process,
+it's not connected to your question,
+but just saying that we can make the process
+more safer if we try to do something like that.
+<v Speaker>Is that for lithium ion batteries?</v>
+<v ->Yes, lithium ion batteries.</v>
+<v ->Okay, alright, good.</v>
+<v ->Thank you very much.</v>
+<v Walter>All right, thank you for your question.</v>
+If there are no other questions right now,
+Giovanni, I wanted to ask,
+oh yes, please go on, go on up.
+And then if there's time, I'll ask you the follow up.
+<v Audience Member>Hi, everyone.</v>
+I'll just try to keep this simple.
+I worked 11 years in sustainability
+for electronic recyclers down in Southern California.
+And as we know, a lot of things are getting
+more and more expensive for a lot of the people in general.
+And yesterday, I was listening to the speaker,
+the CEO for Twitter and she was mentioning how
+generation Z is the up and coming.
+So what I'm just wondering is,
+I guess the question that I wanna ask is,
+throughout my years of working in Los Angeles and Seattle,
+total reclaim, EWA center, and corporate EWA solutions,
+and at one point, I was even trying to chase after
+some of the accounts here in Las Vegas like the Venetian.
+What I'm just wondering is for Panasonic
+or for some of you else on the panel,
+do you guys know if the manufacturers
+are offering like some type of incentive?
+Like for example, like for my shoes,
+they're from a company in Spain called Camper.
+So whenever my shoes are like older shoes,
+if I wanna buy a new pair of shoes, they kind of subsidize
+and you bring in the old one and then you can get
+like a little percentage off of a new one.
+So when I'm wondering is,
+in southern California, it's so hard
+'cause we're so spread out,
+and the only effective thing that I've seen
+throughout the years,
+you can do all these collection events
+with all these Ralphs and Albertsons and CVS,
+but what I'm wondering is like the most effective
+that I've seen in Orange County
+is where the city actually has Monday through Friday
+where people can drive their cars
+and just basically offload throughout the whole day.
+So maybe you guys can give some two cents
+on like some of the big major retailers
+like Ikea or Home Depot,
+'cause I know that they do try to collect
+some of the e-waste back,
+but I thought I'd just ask if you at Panasonic,
+like what do you guys do to cover all that?
+<v ->Yeah, I'm sure, and I know both Leo and I</v>
+can speak to this, but there's what's called
+extended producer responsibility, EPR.
+And when you think about it,
+there are many EPRs for all kinds of products.
+Your sneakers is an interesting one.
+I think that's a great new use case,
+'cause it's probably even more important
+how many sneakers does everyone go through
+in even a year or their lifetime.
+But that's very common.
+And there's EPR for many electronics, not all electronics,
+but primarily TVs, laptop computers, desktop computers,
+printers, batteries as well have their own
+extended producer responsibility laws.
+So as a producer of something,
+and actually those laws are extending now
+to packaging too as well for the products.
+We are responsible for that product at the end of its life.
+So we do partner with many recyclers across the country,
+and we have a recycling management company
+called MRM Recycling.
+So if you go onto their website,
+very similar to the Call2Recycle website.
+You just plug in your zip code
+and you can see where you can bring
+your electronics to recycle.
+And there are collection report points,
+I believe Best Buy, Staples
+will have collection and then local municipalities
+and those are funded by us, by the manufacturers.
+But you're right, we have to increase that.
+As much as we try, and specifically for batteries,
+we are not collecting as many batteries as we're making.
+And there are laws in, do you know how many states?
+And then in Canada?
+<v Leo>Oh, it's about a half a dozen right now</v>
+and it's gonna be double that soon.
+<v ->There are many laws,</v>
+and we are struggling to get those rates.
+So it's more about the education to the consumer,
+because it's pretty easy to get a battery.
+I bring my batteries some to the office when I'm lazy,
+because we have the call to recycle box.
+My husband usually takes batteries to Home Depot.
+And if you see the call to recycle symbol on the battery,
+you know you could bring it to Home Depot
+and we fund that program.
+But it's getting that, you know,
+just getting that mentality, I'd say, for consumers to know,
+hey, every time I go shopping,
+I don't know where you live,
+in New Jersey, we have a plastic bag ban.
+So every time we have plastic bags,
+we do our at Target, I bring my bags to Target
+to recycle through there.
+We have to get people to do that with batteries
+and people to do that electronics.
+You have to just get it into your daily routine
+that you're gonna be bringing back with you to recycling.
+But there are a lot of programs out there.
+And as long as we expand it,
+I think we're on the right track.
+<v Walter>Yeah, Leo, could you address,</v>
+who are your retail partners?
+<v ->Oh, well, the major ones are Home Depot, Lowe's,</v>
+Staples, Best Buy,
+and then True Value, ACE Hardware, et cetera.
+And on the incentive side,
+Staples is actually a really good example of how last year,
+we partnered with them and with the RI
+to basically do an all battery collection program,
+'cause most of what we do across the United States
+is rechargeable batteries.
+We do single use batteries depending on the situation.
+And they saw a dramatic increase in traffic.
+So it's a good sort of value proposition
+for their customers also.
+It's good for their business.
+That was an experience I had back at Best Buy
+where I cut my teeth in E-waste
+and standing up that e-waste recycling program,
+it was really all about the customer value proposition.
+But Andrea is right.
+EPR is what's driving this.
+So today, we service about a million residents
+in regulated EPR states for all batteries.
+Within about three to four years,
+that's gonna be about 65 million people.
+And when that happens is the regulations make us
+collect in a lot more places,
+have a much more muscular outreach and education approach.
+It's basically just making it more available and accessible.
+People are ready to do it.
+They just need access and some education.
+On the design side,
+since we had a question about design earlier,
+I think what's gonna drive that
+is the incentive there is gonna be more a little bit
+on the back end, which is it's just going
+to increasingly be more expensive
+to get recall batteries out of the market
+if you can't get them out of the product.
+We handle the recall for a manufacturer about a year ago,
+and it was an upgrade vacuum cleaner.
+It's about yay big, like the size of a small child.
+Battery was inside, could not get it out.
+The manufacturer needed
+to get the vacuum cleaner out of the market.
+It cost several hundred dollars per vacuum cleaner
+to safely legally transport that back to a recycler.
+So I'm a manufacturer, I'm thinking,
+"Okay, how do I avoid this next time?"
+Put a door.
+Get the battery out easily so you don't have to do that.
+I think those are the kinds of incentives
+that will maybe drive a little bit
+more change on the design side.
+<v ->Okay, any last questions from the audience?</v>
+Yeah, come on up.
+<v Audience Member>So we are at CES.</v>
+I'm wondering if you can say,
+if there is one thing you can get from technology side
+that can help recycling of lithium ion batteries better,
+what is that one thing going to be for you?
+How technology can help in improving recycling
+of lithium ion batteries?
+<v ->Good question.</v>
+Mostly, it's collection, but you might have some insights,
+one of you on the recycling.
+<v ->Yeah, real quick,</v>
+just more automation on the processing side, I think.
+That's just gotta go faster,
+because we see indications at a pilot scale,
+that it has a lot of promise, but it's gotta go faster.
+<v ->And safety included in that.</v>
+<v ->Yeah.</v>
+<v ->Great, before we-</v>
+<v ->I think if I just add-</v>
+<v ->Oh yeah, please.</v>
+<v ->And collaboration</v>
+and new ideas, I think we need to combine
+partnerships with large companies and small startups, right?
+And work together to bring new technologies.
+I think Redwood's a great example of that.
+They started because they saw a problem,
+and they just worked to find
+the technologies for a solution.
+And if you read about Redwood materials,
+they're materials recycling company
+and you could bring them,
+I bring them ideas all the time.
+"I need you to find a way to recycle this," right?
+And they're gonna find a way to do it
+or they're working towards that, right?
+So we just have to work harder and come up with new ideas.
+<v ->Yeah, they're great.</v>
+They get about half of our weight today,
+so we like them a lot.
+<v ->Wonderful.</v>
+Well, before we wrap up, Giovanni,
+I wanna give you the last word.
+So we're talking about the future.
+You mentioned a couple of products
+and actually brought a couple of products
+that use your technology.
+What other products are being used for your technology,
+and where are some maybe future products?
+What looks like a good future market area for you as well?
+<v ->I think that in the immediate term,</v>
+the connected store, retail is gonna be very, very big.
+I actually brought,
+this is a small electronic shelf label.
+This is a price tag, right?
+<v ->That's a price tag.</v>
+<v ->This is a small screen that you see in the stores,</v>
+which will then show the price of a specific product.
+It can also, like this one for example says,
+"indoor charging with powerfoyle" by the 3M headphone.
+But this can display information, right?
+It can also gather information.
+And this is now deployed all over the U.S.
+Walmart announced a couple of weeks ago
+a $2 billion deal with our partner,
+The Vusion Group.
+We have an exclusive with them.
+These used to be battery-powered.
+Now, they're not battery powered anymore.
+These are now powered by the light in stores
+and the one battery to power many.
+And then we charge that battery.
+So this is enabling, unlocking the smartness of retail
+to gather more data, get more insights,
+and increase efficiency, enhance the shopping experience
+for the users and ultimately drive P&amp;L.
+So I think this is gonna be very, very, very big.
+I'm pretty sure of it.
+We see it being rolled out across the whole world now.
+You can change all the prices by your computer.
+I also think that the smart workplace,
+a smart worker will be really big in the future
+where you will have, I mean,
+you have 300 million construction helmets
+are sold every year.
+There's no smart within them.
+Integrated smartness, batteries and sensors.
+You'll be able to know who is where.
+Does she already have the right proper training?
+It's about compliance.
+It's about having a more safe work environment,
+health, digital health monitoring.
+There's so many things.
+<v ->Wow.</v>
+<v ->It's gonna come.</v>
+But I think the key is that it has to be self-powered
+and just seamlessly integrated.
+And I think also what I wanted to comment
+on the battery things here is that another way
+to approach this is of course
+to prolong the lifetime of the batteries.
+And this can be done in many different ways.
+One way is, for example,
+that we electronically control the overcharge.
+So these ones, they never charge above 80%.
+So these are run for months
+without spending one charge cycle.
+They just go between 20 and 75% up and down,
+which greatly extend the lifetime of the products,
+which ultimately will lead to fewer batteries
+being used over time.
+So I think we need innovations,
+to your point there in the audience,
+and collaboration between big companies with global reach,
+smaller startup, scale ups.
+That's gonna be the key to the future.
+But in the end, the consumers or business to business,
+someone needs to want to buy the product.
+So the product features,
+I mean, technology will drive the change for sure.
+<v Walter>Yeah.</v>
+<v ->But it's our responsibility to make sure</v>
+that that change is environmentally sustainable
+and also business-wise sustainable.
+We can't come with solutions
+that are really great for the world, but it's too expensive
+or especially here in the U.S., sorry,
+but no one wants to pay for sustainability.
+In Europe, it's a little bit better.
+Sweden is quite good, actually.
+But here, you need to lead with lower cost of ownership.
+You need to lead with a higher increased P&amp;L,
+increased efficiency, lower OpEx,
+lower CapEx, whatever it is.
+And by the way, by implementing this,
+you're also contributing a little bit to a better world.
+<v ->Wow.</v>
+Well, thank you for wrapping up
+and just as a consumer, I look forward to the day
+when I don't have to put my fitness ring
+on the charger every few days.
+<v ->So there you go.</v>
+<v ->So yeah,</v>
+so I'm looking forward to that.
+Well, listen, thank you all very much.
+Let's give a round of applause for the panel today.

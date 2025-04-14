@@ -1,0 +1,909 @@
+<v Melissa>Good morning, everybody.</v>
+I'm Melissa Hunter from Family Video Network,
+and today, we're going to be talking about, like Robin said,
+AI and kids and responsibility,
+and AI is not something that's coming in the future.
+It's already here.
+Our children are already interacting with it,
+whether they know it or not, whether we know it or not.
+So, we're going to be talking today to a great panel.
+I'm going to introduce them first.
+We'll let them introduce themselves briefly.
+Then we've got some great data and insights,
+a couple of products to share,
+and then we're going to talk about
+what goes into creating responsible AI for children.
+So, I'm going to start off with you, Karen.
+<v ->Hi everybody, Karen Wong from IDEO.</v>
+I'm based in San Francisco.
+Thank you for being here.
+Thank you for participating in what Robin described as,
+and I agree, a very important conversation.
+Within IDEO, which is a design agency,
+I'm in the portfolio called the Play Lab. Super fun.
+Our secret sauce is understanding
+how play can unlock joy and engagement,
+and obviously, thinking about
+how youth and kids are moving the needle
+on how we interact with emerging technology.
+Ages ago, we made the first digital apps for Sesame Workshop
+and so, of course, it makes sense for us
+to be thinking about the interactions
+that kids are having with technology,
+whether it's chatbots, smart devices, all those things.
+So, very happy to be here and looking forward to share more.
+<v ->Hi, everyone. Thanks so much for coming.</v>
+My name is Joshua Garrett.
+For the last 25 years,
+I've worked with a company called Creativity
+to help toy companies around the world make toys,
+thousands of products and some of the biggest,
+most successful toys over the last 25 years.
+And in the last couple years I've been focused
+as well as being chief creative officer
+for a company called Readyland.
+And you'll see more about that later.
+<v ->I'm Nelo Lucich, the CEO of Skyrocket Toys.</v>
+So, we're a tech toy maker.
+I've been in the toy industry
+my entire career for way too long.
+We've always sort of had a focus on tech,
+tech-inspired inspiration or innovation.
+So, you know, AI is just one of the new technologies
+that we're trying to figure out
+what new play experiences we can bring so.
+<v Melissa>Awesome, thank you.</v>
+So, we are going to start off with you, Karen.
+I'm going to give you the clicker.
+We're all going to ask the clicker gods
+to make sure that it works,
+and you have some really interesting data and insights
+on what's already going on with Gen Z and kids.
+And I find this to be very, very hopeful.
+So, I hope you all really pay attention
+and find this as interesting as I did.
+<v ->Thank you.</v>
+So, Gen Z, we're usually, talking about
+ages 13, teenagers who are coming of age,
+up to people who are just finishing college.
+And as mentioned with the Play Lab,
+thinking about youth, kids, and family.
+It's not just people who are gonna one day be using it,
+but they're using it now.
+They're the ones that are forming their opinions
+about your future products and services.
+And if anything, they've actually,
+gotten some really interesting opinions.
+I say that, because they were the ones that grew up
+with the unintended consequences of social media.
+They started feeling all the angst and shame
+that we didn't realize would happen when you put
+these kind of tools into hands of kids and families
+when these products weren't designed for them.
+So, we at IDEO started two years ago, January, 2023
+before most schools had created
+their ChatGPT rules and regulations.
+Just doing some scanning, asking some questions,
+and eventually, a few co-design projects.
+So, I'll be sharing this morning
+a little bit about what we're learning.
+That question is what if the tech-savvy generation
+isn't buying it anymore?
+We have a lot of really interesting
+opinions and assumptions in our heads
+that these are the ones that are gonna be
+the first users and the first movers.
+And in many ways they are,
+but they're the ones that also
+come with the most informed opinions.
+Not just about how badly the tech feels,
+how cringey some of it might be landing,
+but also how it's affecting their sense of humanity.
+Every person in this room who's creating a product,
+especially with emerging tech,
+you're kind of torn between how do we move fast to win
+and how do we slow down to de-risk?
+That's something at IDEO with any product,
+whether it's with Gen Z or any other customer
+we'd be thinking about.
+And so, kind of to share a little bit about
+what we've been doing for the past two years
+and are still doing now,
+we started doing some data scanning.
+We dug ourselves into TikTok, into YouTube, into Reddit,
+what were kids already posting about
+when it came to asking these questions.
+Then we started building out these real prototypes,
+super scrappy, just in real-life use cases.
+And we moved toward understanding the personalities
+that kids wanted to interact with,
+including things like using role play to really get
+what are the emotions, what are the whys,
+why would you be using this?
+Not just how, but why.
+And two areas of tension.
+The first one is creative expression,
+and I'm sure we will have a lot of conversation later
+about how these tools are affecting our creative process.
+And the second one about human relationships.
+The interesting thing is, of course,
+this matters for all of us as adults in the room,
+but we think especially coming of age,
+what does it mean to unlock and express ourselves?
+What does it mean to form friendships
+on the playground online?
+These are things that really affect that formative process.
+And so, just a few snapshots of all the fun ways
+we've been able to dig ourselves
+into spending time with youth and teens.
+Everything from having them edit our Figma prototypes
+to acting like robots themselves,
+if they had to give the voice of the robot or the chatbots.
+Here's a few provocative ones.
+We really put tangible expressions of what it would be like
+to interact with a potential AI tool.
+And so, we ask questions like,
+"Okay, you've recently had a friend breakup.
+What kind of intervention do you want?
+Do you want someone to counsel you through that process
+or do you want someone to kind of replace that friend
+for the time being just so you can, you know,
+back yourself out from that relationship?"
+So, by asking really tangible questions,
+by putting prototypes in front of youth,
+we were able to co-design to few insights.
+This one always gets all audience members.
+We put out a provocation expression of
+imagine you could have an AI-trained on your preferences,
+on your personalities, live your life for you.
+Imagine they could swipe your Tinder for you.
+They would have the achy conversations
+or they would go through the awkward introductions,
+you know, new person in school.
+And we heard some really interesting things.
+I wanna go on a bad date for myself
+and I wanna have that bad vacation.
+There was a really interesting sign
+that being able to live life for yourself
+is that badge of honor.
+The next one here, I would prefer to give opportunities
+to people over technology.
+I think these are the ones,
+and again, they have seen what it's like
+when people feel replaced.
+I'll definitely share a lot more.
+But starting off with a few key learnings.
+Gen Z's value advice and perspective from lived experience.
+There's something about designing for friction.
+I'm gonna say that again, designing for friction.
+In our age of optimization, in our age of assuming
+that everything should move as fast as possible
+to make life as smooth as possible,
+there's something about the challenge
+and that comes back to play, right?
+Why would we spend so much time
+to hit a ball several hundred yards away?
+There's something about the joy of achieving,
+the joy of overcoming challenge,
+the joy of moving through your first friend breakup
+or your boyfriend or girlfriend breakup
+that makes you into a person.
+And as many times as helicopter parents or as people
+who are designing technology,
+assume that the smoothest possible path
+is the best possible path.
+There's some pushback there.
+And Gen Z's don't yet trust AI
+to understand the nuance of their lives.
+You're coming out of an age
+where you have a lot of conflicting opinions.
+There's tensions in what you like and what you say you want.
+And these may change four times a day.
+For anyone who has teenagers in the room,
+you're familiar with that,
+but even adults in the room.
+You know, what we say isn't always what we really mean.
+And so, how would we expect something
+to be just trained on this data that we're giving it?
+That's an opinion I'm hearing a lot.
+And the last one, gen Z is greatly valued experiences
+to help them reflect, imagine, and express themselves.
+I was thinking and talking to a lot
+of really wonderful creator tool makers
+and there was something beautiful about
+the unleashing of potential and power that we're seeing,
+but there's also a desire to grow in your craft,
+to become better as you work through.
+What might some of the onboarding journeys look like
+when a young child has access to these tools
+and you're now asking them
+to define themselves as a creative.
+What are ways that we can lean into
+other aspects of what it means to be a person
+and what it means to tap into your creative expression
+and what the stories you really wanna tell.
+How can we be surrounding them with these opportunities?
+A few opportunities and side by side here,
+I can go into them more later,
+but yeah, I'm also just gonna throw this up here.
+We love co-designing with youth.
+We think it's important.
+Everything from talking to them to creating hypothesis
+less concepts based on what they're telling us.
+Getting, again, as I mentioned
+into the emotions of the interaction.
+Again, not just the technology and what it can do,
+but why and how does it make you feel?
+And from there being able to identify new ideas.
+I'm just gonna say we love working on these tools
+and here's some more information about what we are writing.
+Everything I've just described,
+we are happy to share with all of you,
+because we believe it's important that other people,
+adults in the room, decision makers,
+should be able to access these principles.
+Let's talk a bit more later.
+<v ->Thank you so much.</v>
+So, we're gonna pass it off to Josh
+and you're gonna share what you're doing at Readyland
+and how AI is involved in this process.
+<v ->So, that's Readyland, which currently</v>
+is a set of five physical, old-fashioned books
+that kids can read with currently an Alexa.
+And it brings the books to life
+in a way that has never happened before.
+They talk to the characters, they play games,
+they make choices on adventures,
+and every time they go through the book it can change.
+And it's had a remarkably positive feedback from users.
+We're like 4.8 stars on Amazon
+and everyone loves this new experience.
+And as you look at it,
+I think you can imagine like we could use AI
+in a whole lot of different ways in Readyland.
+And one thing I just wanna mention is that
+a lot of people when they think of
+AI for kids or in general, they think of chatbots,
+like that's the expression of AI.
+But AI is a tool, it's a powerful tool
+that you can use in many, many different ways.
+And what we always wanna do is
+focus on the product, not the technology, right?
+So, for Readyland where AI currently is for us,
+we are not gonna use it to generate content
+that goes to kids without us knowing what kids get.
+We are not gonna use it to have synthesized speech,
+say things that we're not aware what it's saying.
+But what we have found is incredibly powerful
+in the tool set of AI
+is we can use it to much better understand
+what children are saying to us, right?
+So, in the examples that you see on a page,
+there might be 20, 30 things
+and a kid can describe what they're seeing.
+And before AI, we have to think of all the different ways
+a kid might say what they're looking at
+and try to understand so that
+we can give them back the content
+that we as human experts have created for them.
+In some models we've been testing with AI
+where before, for example, in a book you have, you know,
+two bats in the distance in the sky.
+A kid might have to say, "Bats, I see bats."
+Now a kid can say, "Those little things in the sky,
+those little birds."
+They can say it in all sorts of different ways.
+And with AI we can then funnel them to the content
+that we much better understand they're trying to get to
+and then give that to them.
+So, that's our focus on AI right now,
+but there's so many different ways to use AI.
+But the big thing for me and for us
+is that AI is a new technology
+and there's a certain magic in that,
+that magic is fading fast
+and you can't focus just on the technology
+to provide magic to kids.
+You have to focus on the product and the experience,
+which the technology can help improve.
+<v Melissa>Absolutely, and now we have Nelo.</v>
+And Nelo, you brought a friend too, didn't you?
+<v ->Yes, I've brought my friend Poe here.</v>
+So, this is Poe, the AI bear.
+So, this is a product that we've been working on
+before there was AI.
+So, we've had this concept around our company
+for, you know, more than five years
+trying to come up with a way
+to allow kids to make stories themselves
+and choose what they put into their story.
+So, before there was AI,
+we looked at a lot of different ways to do it
+and it was just not really practical
+or it wasn't cost effective.
+And so, when AI really became,
+generative AI really became in the forefront.
+It just gave us an opportunity to do something
+that we had really been wanting to do.
+So, this product has been an incredible amount of work.
+Like working with AI is a daunting task
+for a product that's purely generative.
+So, our product is generating live content for kids
+and we have guardrails around that
+to sort of reign in what gets in
+both through within the AI itself
+and then on top of that in our system,
+but we control it from the input side and the outgoing side.
+So, if we control what the child
+is able to put into the story,
+that greatly improves what comes out.
+So, since there's no wifi here,
+we'll off to pretend like this is a live demo
+and I'll kind of walk you through
+what the app would do if we had wifi.
+So first, obviously, because it's generated on the fly,
+we can do voice and the app localized in over 30 languages.
+So, people in every country can pretty much use Poe.
+First thing, we take some
+very basic information from the child,
+their first name, their age, and their birthday
+only to be used for recognizing their birthday
+and things like that.
+We don't use the information
+or pass it to the AI for any other thing, but that.
+On obviously, pronouns.
+Then when you come to the main menu,
+we try to keep it really simple,
+because we know that there's some circumstances
+where parents will be doing this for their kids
+and then making stories
+and using it as bedtime stories for their kids.
+And there'll be other older kids
+that'll be using it theirselves.
+So, we wanted to keep the interface very simple.
+So, the bear's obviously dynamic,
+his firmware can be updated,
+he can be, you know, on the fly, be adjusted.
+This is kind of showing your story library.
+So, after you create stories, they're yours
+and you'll have them in your library forever.
+The bear himself can hold, Poe can hold about 20 stories.
+So, you can choose what you wanna
+load into your bear's library.
+And now the process of actually creating a story.
+So first, you choose a genre, which I clicked too soon,
+but I could go back actually, maybe not.
+So, you choose a genre of a story.
+So, if you want a mystery, or an adventure story,
+or whatever kind of story you want,
+then you get to choose from over 500 different characters,
+icons, cities, places, plot ideas,
+kind of anything you can think of.
+So, you can imagine what the story is you wanna make.
+And pretty much the stuff you need
+to make that story is in our system.
+And then you'll choose all your icons,
+dah, dah, dah, dah, dah.
+So, I'm gonna choose a bear, Poe,
+I'm gonna put Poe himself in the story.
+We'll choose a helpful robot to be his sidekick,
+also the protagonist in the story.
+So, you can choose who the protagonist is
+and who the antagonist is in the story
+by selecting him either green or red.
+As you can see, that's the hacker,
+he's one of the bad guys in our story.
+The story's obviously, a little bit older.
+Seeing that, you know, I'm a 10-year-old at heart,
+I'm gonna make a story that appeals to me.
+So, you're kind of getting
+the type of story that I would make.
+We have an evil magician.
+So, after you do all that, got one more guy,
+mind control and then you're gonna get a location.
+I added CES Las Vegas just for this event.
+Just so you could see what he would do.
+So, the actual content that I'm gonna play,
+then you hit Next, he's gonna generate the story.
+This might be sped up two times,
+but it probably takes about 15 seconds
+to generate the text and audio.
+So, we're gonna simulate a streaming experience here.
+So, let's figure out how to go.
+This is an actual story that I made
+with that exact prompt not modified.
+Hold on.
+He's been on the sitting for a long time so.
+<v Poe>"Mysterious Mind Control Caper".</v>
+<v Nelo>Okay, that's this title.</v>
+<v ->Hey there, Nelo.</v>
+It's a bright and shiny January morning.
+The perfect time for another story.
+Did you know that in Las Vegas where our story takes place,
+they have a gigantic Ferris wheel called The High Roller?
+It's taller than the Statue of Liberty.
+<v ->So, he'll pull in real-world events in places</v>
+based on the setting that you choose.
+<v ->What if I told you there's a mystery</v>
+waiting to be unraveled at the Consumer Electronics Show?
+There's excitement in the air and Poe is on the case.
+We'll need to keep our eyes peeled for clues
+and outwit some sneaky characters.
+What do you say we jump into it?
+The story is called "The Mysterious Mind Control Caper".
+At the bustling Consumer Electronics Show in Las Vegas,
+inventors, tech enthusiasts.
+<v ->So, I'm not gonna play the whole story,</v>
+but I'll play a couple parts just so you can see
+how it's gonna weave these things in.
+<v ->The ever curious AI story bear</v>
+accompanied by his quirky sidekick,
+a helpful robot named Bebop.
+As they wandered through the exhibits,
+Poe noticed something peculiar.
+Attendees seemed to be moving in a trance-like state.
+Their expressions blank as if their minds
+were somewhere entirely.
+Bebop with his digital sensors detected an unusual frequency
+emanating from a nearby booth.
+<v ->So, I'll stop it there I think.</v>
+So, as you can see, whatever you put into the story,
+it'll do a really good job
+of weaving all those things together.
+So, we're controlling the input by limiting the icons
+you can choose and the types of characters.
+We also give it age parameters.
+And so, if you put in that you're a 5-year-old,
+you're gonna get simpler text,
+you're gonna get simpler words,
+lower vocabulary, less word count.
+We limit even the icons.
+So, if you're a younger child, you'll get less icons
+that are more appropriate for younger children.
+And just, it's pretty amazing.
+Like we got into this product with an expectation
+of what the product would be
+and like how it actually, came out is like kind of like wow.
+Like it's a really good use.
+Like he was talking about that, you know,
+there's good uses for AI where it can do a good job
+and things that are creative
+and where it's an extension of me.
+I could choose what I wanna put into my story
+and it's gonna weave those into a story.
+So, it empowers children and it's actually,
+a really cool play experience.
+Like we had some panels test it
+with like large groups of children
+and they picked it, like a couple awards picked it,
+because they said like the five-year-olds liked it,
+because they would make like a simple story
+and the 12-year-olds like it,
+'cause they could put every crazy thing
+they could think about in their story
+and get a really weird story.
+<v ->That's how I played with it.</v>
+I just hit as many buttons as I could at random
+and it made a story out of that.
+It was really cool, really cool.
+<v ->Yeah, and obviously, if you choose things that make sense,</v>
+you'll get a more sensical story,
+whereas if you put weird stuff in there,
+you get weird stuff.
+But both are fun, you know?
+So, that's Poe.
+<v ->That's Poe.</v>
+And so, now we'd like to shift a little bit,
+because there's so much experience
+and knowledge here on this stage
+that I think will be really helpful to all of you
+to talk about how you guys
+and how you're seeing, Karen, people use AI
+as a tool for design of products intended for children.
+Anybody who wants to jump in on that?
+<v ->I'll jump in.</v>
+So, we use AI in development
+and I think the best way to think about how we use AI
+is as a really great brainstorming partner, right?
+So, if you have experience with brainstorms,
+one classic way to brainstorm
+is just throw out a lot of ideas no matter how crazy.
+Just throw out a ton of ideas.
+And a great thing about, you know, I use ChatGPT
+and you can do this with Claude or Gemini or whatever,
+but is just to say, "Give me 20 ideas about this."
+It's important to note that
+never yet has it given me an idea
+that I'm like, "That's the answer."
+But it gives me ideas that sometimes
+spark further thinking in the development group.
+And it actually, has been very beneficial that way.
+And another area is in terms of creating stories,
+or rhymes, or lyrics, or jokes, you know,
+I need give me 10 jokes about an owl.
+They're usually really bad jokes,
+but they will spark.
+<v ->You get one that's good.</v>
+<v ->Maybe get one that's okay,</v>
+but then it'll spark, oh, you know,
+something about an owl to make a joke about
+that I hadn't thought of.
+It's, you know, the fact that its head
+moves around in 360 degrees or something like that.
+So, that's kind of how we use it.
+<v ->Yeah, we use it in a lot of similar ways.</v>
+I mean, it's not gonna give you reliably good answers,
+but it'll give you a list of reasonable options.
+And so, it's really good for brainstorming,
+for trying to name things, I mean there's all sorts of,
+we use it for coding.
+Like, I don't know, AI is a really, really powerful tool.
+It just is some things and isn't other things.
+And I think in the kind of environment we're in,
+there's a lot of anti-AI backlash
+and it's kind of thought to be maybe more than what it is.
+<v ->I would build on what my panelists</v>
+have just described about lo-fi prototyping.
+And so, at IDEO, every time we try
+to do a design research interview or observation,
+we wanna put something tangible
+in front of who the participants are
+to really get them to react
+to the heart or the core of whatever that concept is.
+So, similarly, after ideation,
+you sometimes wanna bring in a sketch
+or a little more fleshed idea
+and it's not the idea that makes it to the end stage,
+however it's something that's just tangible enough.
+So, whether it's generating image for us, you saw,
+we actually, just generated a bunch of scripts
+asking again, for instance, if you to interact with AI,
+what would it be like?
+And AI did a really good job impersonating itself
+in some cringey and weird ways.
+It also tried to do a pretty,
+actually did a pretty good job of sounding very natural.
+So, we put all those scripts in front of kids and youth
+and had them read them aloud and try to respond to be like,
+oh, I don't really quite like how that landed
+or that sentiment felt weird.
+Again, but as everything my panelists have described,
+it's for the sense of provoking,
+for the sense of getting a bit more tangible
+and helping people spark those ideas and responses.
+<v ->And I just want to add one thing</v>
+that you made me think of is,
+I do a lot of art direction of artists,
+but I am not an artist,
+and I found it incredibly helpful, the image generation,
+to make storyboards and I can sit there
+and generate images and I'm like,
+yeah, that's kind of what I'm thinking.
+Then pass it on to the real artists
+who then can much better understand.
+So, as a kind of translation tool from thoughts to images,
+it's been very, very helpful.
+<v ->Yeah, I love that you all speak of it as a tool,</v>
+because that's what it really is.
+It's, you know, like years ago people were worried
+about kids in the internet, you know,
+and how they were gonna use that.
+And some of those things have come true,
+but in reality to them it's just a tool to access the world.
+You know, it has not become embedded in their brain.
+So, I'd like to shift a little bit to talk about,
+so we talked about how people are using it for design.
+Can you tell me a little bit about
+what guardrails exist in AI
+when you are talking about designing for children?
+<v ->So, I think that at least ChatGPT</v>
+has some internal guardrails.
+If you say the content is for children,
+the reliability of those guardrails is a little bit suspect,
+but you'll definitely get a tighter control
+over any sort of inappropriate content,
+any sort of sexual content, offensive content.
+And even in general though, I think,
+all of the AI companies realize that,
+that sort of moderation is a big part of their challenge,
+because they're trying to keep an image
+that it can be relied on to do customer service
+or to be, you know,
+to be a corporate-facing front for your company.
+So, it's a lot of the same challenges
+as being safe for kids.
+They wanna have control over what it does,
+but being that it's not always the way it works
+is just not controllable.
+There's definitely a degree of randomness to it,
+but they have two layers of checking.
+They have second AI that's reading the content
+of the AI that generates the content
+to just check it for content,
+which actually, helps with the moderation piece.
+<v ->I'd like to mention, I think</v>
+that when we think about safety for kids with AI,
+there's multiple levels of what that means, right?
+On the one hand it's, you know,
+does it drop F-bombs all the time, right?
+I think that's pretty well covered at this point.
+But there's a whole other aspect of
+is the content it's generating,
+and I'm talking about generating content for kids,
+and at Readyland we don't do that at this point,
+but when you do generate for content for kids,
+is your product such that it's critical that,
+that content is accurate, you know?
+Or is it more like Nelo's solution, which is fantastic
+that it's about creativity and exploration?
+If things are a little wonky, that's fine, right?
+But I think just even a month ago,
+in all the major chat services,
+you asked how many Rs are in the word strawberry,
+they'd all say two, right?
+So, if you're building a product
+that's really focused on accuracy and information,
+it's a huge hill.
+If you're building a product that's focused on
+fun and exploration and creativity,
+you don't have to worry about that so much.
+So again, it's really about the product and the tool set
+and then what you have to do to make sure it's appropriate.
+<v ->Something that Josh said,</v>
+which totally resonates with how we function at IDEO
+is about bringing the human first
+and not letting technology dictate the types of use cases.
+And so, something that comes to mind is,
+as I was researching previously,
+just general online safety for children, kids,
+and youth these days, the word stranger danger,
+I'm sure many of us grew up with that.
+That phrase doesn't apply.
+We're used to talking to strangers online on forums.
+It's very normal to ask the public
+for opinions and questions.
+So, I think something I would throw back as an opportunity
+is how do we think about what it's like
+to talk to a potential stranger,
+which might be a chatbot, which might be a product,
+which might be any sort of service.
+I think there's a need and a hill
+about reframing what it's like to interact with an unknown.
+And that's, I think on us as parents,
+designers, educators, caretakers,
+to really think about our relationship with the technology.
+Do you have something?
+<v ->Yeah, I was just gonna say like</v>
+to the design side like,
+there has to be a human element at some level
+and there has to be a concept that's the AI is driving
+that is more than just the AI.
+And I think that's a mistake that people make
+is there's a new technology
+and people will put it in every single product,
+whether it makes sense or not.
+Your refrigerator and your toaster and your air fryer
+and you know, like every product has it.
+So, I think it's the use case first.
+Figure out the product you wanna make
+and then find the technology
+that is gonna help you facilitate that feature
+or that sort of play pattern.
+<v ->Right, and I think it goes, you know,</v>
+as parents we are looking for ways
+to grab a few minutes here and there
+and things like Poe and Readyland
+and they can give you those few minutes,
+but at the same time you need to stay aware.
+You need to know what's going on,
+you need to still be in the area.
+You know, you should never really be leaving our children
+alone with technology, if we can avoid it.
+So, taking it from there,
+there was something on one of our calls
+that I thought that you said, Karen,
+and you correct me, if I'm wrong,
+but talking about the things that Gen Z are enjoying doing
+and probably younger generations are too with AI
+and it was really about creativity.
+It wasn't so much about talking to a chatbot.
+Can you sort of elaborate a little bit?
+<v ->Sure. So, stepping back a few paces,</v>
+in general, I think there's a lot of
+alignment around productivity.
+Something can help me organize my calendar,
+if something can help me with my essay a bit, right?
+There's a lot of things about saving time,
+but then I guess the question is,
+where do you wanna save time on?
+Do I need to speed up this part of my life
+and process for the sake, because I can.
+And so, when it comes to things like creativity,
+it was cool as I think my panelists have described
+about having a thought partner,
+but there's something very different when,
+you know, your kid hands you something
+and they're so proud of it,
+'cause you put it on the refrigerator, they own it,
+they know they made it.
+There's something different
+and I think we still need to explore when it comes to
+who gets to feel like they've been accomplished,
+who gets to feel that sense of reward,
+because they work through the challenge
+in that problem space.
+And so, a lot of teenagers are, again,
+creating incredible content with these video editing tools,
+video generator tools, script generator tools, everything.
+It's so fun to watch where their ideas
+get to come out into reality.
+So, at the same time there's a bit more nuance to ask,
+which parts though they're trying to shortcut through.
+I was just talking to some colleagues
+in the entertainment industry
+and it was really cool to be like,
+yeah, the things that make movie editing
+at a large studio much faster
+we now have access to, that is incredible.
+And feels much more democratized in that way.
+But when it comes to owning the final product,
+when it comes to refining an idea,
+there's still, as Nelo described,
+that final human touch that makes it yours.
+And so, I'm seeing a lot
+and I'd love to hear other people's opinions
+on where that nuance comes in
+when you get to feel like this art is mine.
+<v ->That is a good question.</v>
+And I know that, that is, my son is 21
+and he could care less for chatbots,
+but creating videos and it is an interesting space,
+because as we just heard,
+when Nelo and Josh were talking about
+how they use AI in their development, it was a tool,
+but the end product, the AI didn't create
+that end product, right?
+It was all of the people that work at your companies
+who came together and came up with the ideas
+and refined the ideas.
+So, I think that's just really interesting
+that technology can only take us
+so far in the creative process
+and then they still need us,
+they still need the human beings.
+We're still valid.
+<v ->Yeah. You know, I think one of the errors</v>
+that people make in making products for kids is they,
+first of all, a lot of people who are technically minded
+see a new technology and they say, "Hey, this is magical."
+<v ->Shiny.</v>
+<v ->Oh it's gonna be magical for kids.</v>
+Now, first of all, kids don't see magic in the same way
+that grown up engineers see magic, right?
+And secondly, what's really important
+is the magic of technology fades really fast.
+I think kids are already getting used to AI.
+You know, there was a time when
+having an iPhone and touching a picture
+and watching it move under your finger
+was mind blowingly magical.
+It's not magical anymore, right?
+So, I think the critical thing is
+in designing these products,
+you need human beings who have the experience
+of developing for kids
+what is a fun, compelling, magical thing
+that has nothing to do,
+when the technology is gone is it still fun and magical?
+I think that's critical.
+<v ->I love that.</v>
+<v ->Yeah, and I think the tools</v>
+extend your capabilities for kids.
+Depending on your level of skill,
+you can use AI to greatly expand
+what you're able to do yourself creatively.
+Like if you're an artist,
+but you want to program your toy somehow,
+or your thing, or your art exhibit you're making,
+you can use the AI to generate the code.
+So, I think it gives you capabilities
+that are a little bit beyond that are your core skills
+to sort of enhance the overall.
+<v ->Totally, one of the principles we had up there was</v>
+enhance my abilities don't replace them.
+They're coming to age and forming their identity.
+They're coming to understand their passions.
+Let's give them space to do that
+without just eliminating all those
+fun, meaningful, life-formative aspects.
+<v ->And I think Gen Z is to some extent,</v>
+just from my own observations,
+they're not technophobes by any stretch of the imagination,
+but they do have really good boundaries
+around where they want the technology
+to intersect with living their lives.
+And sometimes I think it's better than mine, honestly.
+I really do.
+In the few minutes we have left,
+I'd just like to open it up to you to ask you all,
+where do you think AI can take parents and children
+going into the future in terms of
+expanding creativity, imagination, where are we going?
+Don't everybody answer at once.
+<v ->That's a tough question.</v>
+I have a crystal ball.
+Hold on, et me look.
+<v ->No, getting back to my theme of making great products.</v>
+I do think it enhances the ability
+to make better or different great products for kids.
+You know, our books, for example,
+a kid can read it 20 times and it's different every time.
+That has never been available before.
+A kid can talk to the character in a book,
+that has never been available before.
+And that's not, you know, we're not using AI so much,
+but voice recognition and computer, everything.
+All these technologies expand the possibility
+for a new type of experience.
+And I think when designed well
+by people who know how to design for kids,
+that can actually, make the world a better place for kids.
+<v ->Yeah, and I think it can also for toys, you know,</v>
+the dream is always to have your toy feel alive.
+It's a challenge to do and I don't know if we're there yet,
+but I think there's a world
+where you can start to weave in interactivity
+to toys in a way they feel much more alive
+and the content feels fresh.
+So, you're not hearing the same sounds 100 times in a row.
+You know, you're actually getting interesting content
+every time you play with it.
+<v ->I think something I think a lot about</v>
+is deepening the relationships
+within existing communities and families.
+And I was thinking about, you know,
+a really great parent, a great teacher
+knows their child and knows what they're interested in.
+I think the big bucket, we call it personalized learning,
+but imagine if that personalized learning journey
+was something that the family could go on together, right?
+This week you like manatees and you wanna go to
+the very end of that rabbit hole about manatees.
+And maybe it's just,
+because they like the shape of their bodies.
+We don't know the color of their skin,
+but like being able to access that endless library
+of possibilities and prompts
+and being able take that journey together,
+'cause a lot of times I hear from a lot of parents,
+or especially as they reach an older age,
+you know, I just don't know what my kid is thinking anymore.
+And imagine this opportunity
+to go on that journey of discovery together.
+I do think there's a lot that can be enabled
+by this very generative and explorative technology.
+<v ->I love that. I absolutely love that.</v>
+And I think that's a really great note for us
+to finish up on.
+And you know, the message that we've tried to communicate is
+AI is a great tool for creativity and imagination.
+AI can be safe for children.
+And the people that are creating products
+that in some way use AI,
+whether it's in the design process
+or the actual output process,
+there's a lot of deep thought
+that goes into the creation of these products.
+And I'd like to thank all three of you
+for sharing your expertise.
+We'll be available side stage,
+if you have any questions for them.
+And I think there's a link somewhere
+to everyone's information.
+There it is. There's the link.
+Thank you all so much.
+Thank you, guys.
+I really appreciate you sharing all your thoughts today.
+<v Karen>Thank you, Melissa.</v>
+<v ->Thank you.</v>
+<v ->Thank you.</v>

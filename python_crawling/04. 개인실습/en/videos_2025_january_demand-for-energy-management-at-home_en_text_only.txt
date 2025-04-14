@@ -1,0 +1,917 @@
+<v Daniel>Hello everyone, and welcome back from lunch.</v>
+We've got a great panel here, and today,
+we're gonna be talking about energy management
+and the demand for that.
+And I'd like to start off by thanking our sponsors again
+for your generous support.
+We couldn't put on a summit like this without you.
+For today, we're gonna be talking a lot
+about energy management highlighted by Schneider Electric,
+and we're talking about the demand
+for energy management home.
+Afterwards, we'll have a networking break,
+and then we'll talk about multifamily
+with my colleague Kristen.
+So to start off with,
+I wanna talk about the great energy squeeze.
+American consumers have been used
+to lower electricity rates
+than the rest of the world for many years.
+But over the last five years,
+we've started to see an increase in energy.
+So much so that two thirds of internet households
+in our data say that their costs are too high,
+and no one, not even the wealthy, are exempt from this.
+Only 12% say that costs are not enough
+to make them concerned.
+And one third are actively working to reduce their,
+or want to reduce their energy consumption at home,
+but don't know how.
+And we think that devices are a good way
+for people to manage their energy.
+We're starting to see the possibility
+of different energy management devices
+that can be set to work together
+and be turned back to save energy when costs are too high.
+And we have asked in our research
+whether people have integrations
+with their smart devices into routines.
+40% say that they do.
+And we find that energy management
+is the primary routine type
+that they are looking to set up.
+29% say that they are looking at saving energy
+through their routines.
+Now one thing that's important to note is
+that one key energy saving device, smart thermostats,
+is only at 16% adoption today.
+So there's definitely a lot more that the industry needs
+to do to create adoption in those areas
+so that you can have things like demand response programs
+that can interact with that and save energy
+and also reduce the strain on the grid.
+So to talk more about this,
+we have my great panel here
+that's gonna be talking
+about innovations in energy management,
+the adoption is actually needed, and what's out there today.
+And we're gonna talk also about partnerships
+and ecosystem players.
+Is it important to partner with people?
+Who do you partner with?
+Exactly what is the process,
+and how do you split the profits?
+And then future directions in smart energy,
+what's hot, what's coming up,
+what should be on our radar for the future.
+So I have a great panel here
+with representatives from Duke Energy, Shelly, NRG,
+Schneider Electric, Resideo,
+and of course myself, Parks Associates.
+And we'll be talking a lot about energy management
+in the home today.
+To start off with,
+I wanted to have Lon introduce himself,
+tell us a little bit about you and what you do at Duke.
+<v Lon>Great, well thanks for having me.</v>
+And just briefly, Lon Huber,
+I lead up a lot of our customer solutions.
+So think all the pricing that a customer sees,
+the time of use rates,
+or TOU as you might hear on this panel,
+all of our economic development.
+So that's the data centers as well coming in
+as well as manufacturing our wholesale business,
+regulatory enablement, customer load analytics.
+So a lot of the fun things
+and the key is figuring out how to orchestrate it all
+so that we drive value for customers
+and try to keep their bills as low as possible.
+<v Daniel>Great.</v>
+And now Wolfgang, go ahead and introduce yourself.
+<v Wolfgang>Yeah, I'm Wolfgang Kirsch,</v>
+I'm the CEO of Shelly Group.
+Shelly is producing smart home devices
+with a strong focus on energy monitoring, energy saving.
+We are well known in Europe.
+We are still at the beginning in the United States,
+growing 40, 50% every year.
+A French journalist a week ago or two weeks ago said
+we will be a mini Schneider in the future,
+so looking to my left, and that's a great honor for us.
+Happy to be here.
+<v Daniel>Great.</v>
+And now Meghan, go ahead and introduce yourself.
+<v Meghan>Hello, Meghan McConomy. I am with NRG.</v>
+I lead the brand strategy
+for the consumer organization.
+And so that is our smart home brand, Vivint,
+but also working with our energy brands
+in competitive market.
+So that's gonna be in Texas in the east.
+My 12 years at NRG, I've had a number of different roles,
+really focused on energy management,
+so looking forward to this discussion.
+Thanks for having me.
+<v Daniel>And Poonam, go ahead and introduce yourself.</v>
+<v Poonam>Good afternoon everyone, I'm Poonam Narang,</v>
+and I lead the product management team at Schneider Electric
+for the residential segment in North America.
+And my focus is really all things residential
+from breakers to enclosures to panels
+across what exists today as well as
+how the industry is evolving into newer equipment
+as well as energy management.
+<v Daniel>Great. And now Michael.</v>
+<v Michael>All right, Michael Siemann,</v>
+I lead our Energy Sciences Team at Resideo
+as well as direct to technical efforts
+of our Grid Services Team.
+The Grid Services Team has been developing
+demand response and virtual power plant programs
+for over the last decade.
+And I'm gonna bring like an experience
+where I have both
+helping develop the energy management features
+that of customers use to help
+reduce their energy bills as well as
+managing those fleets of virtual power plants
+for utilities and energy markets.
+<v ->Great.</v>
+All right, well thank you so much to my panel
+for introducing themselves.
+I wanted to go ahead and start with the first question.
+We want to talk a lot about
+what the role is in energy management platforms,
+what tech is currently being used
+and how complicated the integrations are.
+So I'd like to direct that question to you first, Michael.
+<v ->All right, so energy management today</v>
+has kind of shifted from being traditionally about
+just energy reduction to a point now
+where it's about how do you shift energy,
+the energy usage at different times.
+So either driven by a time of use rate that you might have
+for electricity or part of a demand response,
+virtual power plant program,
+moving energy from the peak hours
+to off peak hours helps reduce strain
+on the electricity grid.
+And us at CES here, we know that customer's expecting them
+to do all this stuff on their own, take action.
+It's not realistic.
+So we're kind of challenged as
+technology providers to be able to automate,
+to put intelligence into these products
+so that way it gets it into the right position,
+and joining platforms is how to do that.
+Smart thermostats are the gateway
+kind of energy management product for customers.
+I mean there's tens of millions of them out there,
+as you said that 16% of them,
+that's the number that have been connected.
+So there's a lot of opportunities
+to get traditional thermostats connected.
+But yeah, what we see is having
+this controllable load available for utilities,
+customers are able to take control
+of their energy management ,
+control their bills and get to a position where
+they're helping out their community
+and able to provide multiple value for everyone involved.
+<v ->Yeah, yeah, that's great.</v>
+And definitely, like I said,
+our data does show that a significant amount
+of consumers do want to be able to manage their energy,
+but they just don't know how.
+And I don't think that we have enough marketing around that
+and exactly enough education for consumers.
+But I do know that
+it's a little bit different in Europe,
+and I don't know if you could talk a little bit
+about that, Wolfgang.
+<v ->Yes, in Europe,</v>
+energy prices are much higher than they are in the US.
+I personally paid 45 euro cents last year
+for my energy per kilowatt hour, which is quite expensive.
+And then customers automatically start to check
+where are they consuming their energy,
+how much are they consuming?
+And especially with our products quite affordable,
+they usually start with one or two devices
+with a central energy meter.
+They find out how much their apartment
+or their house is consuming when they're not at home,
+they start to ask themselves, where's this coming from?
+They put simple devices behind a wall switch
+or a plug in between to figure out what is the next step,
+and this is how it started.
+And that took off two years ago
+with the high energy prices like crazy.
+And now what we see is a boom of solar systems,
+especially popular in Germany
+and in other countries are very small systems
+that people put on their balcony,
+so-called balcony power stations
+that just deliver a small proportion of the energy
+that they need and the big systems of course as well.
+And then they as well start to use the energy
+that they have,
+find out now the batteries are full,
+what can I do with the excess of energy.
+Now I switch on my air condition, now I charge my car.
+That's similar to the US, but the attention is much higher,
+and it needs less education
+because they start to ask question
+because simply it hurts,
+And immediately we feel that
+as well the attention goes a little bit down,
+but it has as well to do with how much do I have to pay
+for such a system and how fast is the amortization time
+with these low prices?
+And that's something that really helps,
+and I think that that it has to hurt
+to a certain degree if we wanna change our habits.
+<v ->Yeah, I think that that's instrumental in the fact</v>
+that the European market has really adopted
+a lot of energy technology
+ahead of like the US market, even now,
+like I saw recently Homey had some release
+for energy monitoring that's really compatible
+with European devices,
+and I was thinking it'd be great
+to have that here in the US too.
+I think we'll get there eventually,
+but yeah, so I wanted to get also a sense of like,
+from Meghan, what do you think the benefits are
+for consumers, utility companies,
+and technology providers?
+<v ->So from a consumer perspective,</v>
+part of the approach we do at NRG
+but in the competitive market specifically
+because it's such a a competitive market,
+lots of competitors we need to differentiate is really
+talk to consumers.
+What do they want, what do they want
+out of these energy management companies and offerings?
+And like Daniel said,
+savings obviously rises to the top,
+but another benefit is really around convenience.
+And so Michael talked about time of use plans specifically,
+and what we learned was you can talk about time of use
+and you can talk about shifting energy to consumers,
+but they don't really know what that means
+and it's not convenient for them.
+And so what we did is we developed products
+that were easy to understand,
+this was years ago, like free weekends or free nights,
+these are time of use products
+that customers can really understand
+and take action around to save money.
+So that was a way to really marry savings and convenience.
+Another offering that we've got
+that we just started piloting was really getting
+some of that technology into the home
+to make it easy for consumers to save.
+So installing thermostats for free,
+but also including doorbell cameras,
+and so bundling that for energy customers.
+And we've started to see some traction there,
+and we're excited about kind of
+how that adoption is really starting
+to move forward as a result.
+<v ->Yeah, yeah, that's very great.</v>
+It's like the bundling thing is very interesting too,
+because that does create a bit more value for the consumers
+and helps get them on board.
+So I wanted to talk to Lon about like
+providing sort of examples of some of these short-term
+and long-term energy savings achieved
+through a home energy management system.
+<v ->Well it gets into the patchwork</v>
+of the electricity sector,
+which is a very complicated industry,
+needs a translation to the end consumer
+in a lot of different ways.
+But you heard about competitive markets,
+there's regulated markets, there's public, there's co-ops,
+sometimes a state will have a mix of all four within it.
+And so each of those models presents different types
+of value propositions to the customer.
+So maybe at the front end you could see an upfront incentive
+if the customer buys a device or enrolls a device.
+So that's upfront, maybe it's a bill credit
+or another way to do it.
+And then there's longer term savings
+where maybe it's the rate optimization,
+so time of use rate optimization with that device
+and then ongoing credits for enrollment,
+or it's a aggregation of customer resources
+and it pulls some revenue in from the wholesale market,
+which is more similar to a European style transaction.
+So there's all different ways that these value streams
+can reach consumer,
+and then to make matters even more complicated,
+it also depends on what portion
+of the grid you're providing value to.
+So if you're providing value to power plants
+that are centralized versus the wires
+that are in your neighborhood,
+those are two different systems
+and two different types of value streams
+that you can get from them.
+And so you could see in some markets you get a program
+for the wires and you get another program for the generator
+and how those interface could be different.
+So not to make it overly complex,
+but there's a variety of different value streams.
+Some are upfront, some are ongoing,
+some are fixed, some are variable.
+<v ->Yeah. Thank you for that, Lon.</v>
+Yeah, I think it's really interesting too that
+with like the bill credit,
+our research finds that incentives are an appealing reason
+for like demand response participation,
+and that for 80%, it's appealing to have a bill credit.
+So it's really important to have an incentive
+that really brings that home for consumers,
+but it does have to be enough for consumers to participate
+and get over the hump of not wanting
+to lose control of their devices.
+So I wanted to ask for Poonam,
+do you think that these are only for new homes
+or were there requirements for the investments
+especially like for like retrofits?
+<v ->Yeah, so at the end of the day today when we look at</v>
+the demand for energy within the utilities,
+that demand for energy has increased significantly
+over the last two years.
+And so while homes contribute towards 20%
+of the greenhouse gas,
+the energy prices have been continuously increasing.
+And so for us to really accelerate the energy transition,
+it's important that we look at the homes
+that are already built versus only new builds, right?
+We have almost 80% of the homes today
+that are built before 1980.
+We have 40 million homes today
+that are having electrical infrastructure in the homes
+that are not necessarily ready
+to consume more of the electrification, right?
+So adding EVs, adding heat pumps, so on and so forth.
+And so it's important
+and almost a responsibility for us as technology providers
+to be able to support the upgrade
+of the infrastructure within the home
+to enable for this greater electrification.
+And so no it can be new builds only,
+it needs to include and incorporate the retrofits.
+And now from a consumer perspective,
+it's almost like I need to know before I can do something.
+And we are seeing that a large part
+of the consumers in our surveys,
+you've seen more than 50% of the consumers,
+they want to know how much energy is being consumed
+by the various loads within their homes.
+And you can only control if you know, so once you know,
+that's step one, you got to be able
+to measure the energy consumption within your home.
+And Schneider's energy monitor enables you to do that.
+Now in terms of really upgrading the infrastructure,
+it's not necessarily an all or nothing, right?
+It can be incremental starting
+with something like an energy monitor,
+and then incrementing from there maybe a smart technology
+inside the panel to enable you
+to control the loads within the home itself.
+Now from a price point really
+that varies depending on the type of infrastructure
+that you've already got in the home
+and the type of load that you want to add,
+whether it be an EV, EV charger,
+or whether it be a heat pump or a HVAC,
+it really depends on the type of load you wanna add.
+But it can be anywhere from 400 to upwards of $3,000.
+But then there are tons of incentives as well that
+the utilities are providing
+for more electrification in the homes.
+<v ->Yeah, very interesting.</v>
+When it comes to installing in these homes too,
+I wonder if it's more DIY versus pro,
+if there's sort of any thoughts on that?
+I don't know if Wolfgang, you could speak to that.
+<v ->Yeah, of course.</v>
+We are doing 70 to 80%
+of our revenue with do it yourself customers.
+So they are able to install the solution very easy at home.
+Everyone who can change a power socket in the wall,
+buys that in a Home Depot can install Shelly.
+So that's a big advantage.
+And as well, coming back to the infrastructure,
+I think in Europe in most of the countries,
+the infrastructure is okay,
+but if you wanna install a central system
+for energy monitoring per device and per room,
+you need new wiring.
+With our devices,
+and that's what most customers really love,
+you don't need new wiring at all.
+You can do this room by room, switch by switch,
+the functionality of the device stays exactly the same.
+And that's what customers really love.
+We know from our data
+that a typical average Shelly customer starts
+with two devices and then adds two devices per year,
+which is very slow,
+but step by step they are making their homes smart
+and monitor the energy
+because we saw, as I already said,
+we saw with the increase of the energy prices,
+we saw a move from the same device
+that is not monitoring the energy to the device
+that is monitoring the energy, it's the same device,
+just one euro more expensive.
+It's almost 100% now with energy monitoring,
+the others are more or less gone,
+easy to install, relatively cheap.
+And with our devices for a couple of hundred euros,
+you make your whole home smart, including everything,
+can go up to a couple of thousand
+if you have a big villa or whatever.
+But most of the buildings are old.
+So the the new constructions are not that much,
+and that's a solution that customers really appreciate,
+and they have the full cost control as well
+doing this step by step and doing this on their own.
+<v ->Yeah, yeah, very good.</v>
+And of course whether we're talking about pro or DIY,
+one of the things we have to consider too is that
+the stakeholders involved in this,
+like on the stage for example,
+we have both utilities and device manufacturers represented.
+And so I wanna talk a little bit about like partnerships
+and ecosystem players, partnerships necessary,
+and what are the best partnerships to have?
+Poonam, I'd like you to address that if you could.
+<v ->Yeah, I think that's a great question</v>
+and we had great panels this morning
+by the way for those of you that had attended,
+I think this was also touched on in the morning
+that at the end of the day for the amount power
+that we need with the growth in demand,
+the energy transition needs to be accelerated.
+And if we try to do this as technologists all by ourselves,
+this is a slow process.
+So it is extremely important that as an industry,
+we work together collaboratively
+to drive this forward in an accelerated manner.
+And so partnerships are absolutely important.
+From a Schneider Electric perspective,
+we've got various types of partnerships, right?
+So we co-develop with partners.
+We also have partners we have invested in
+like Qmerit, Energy Sage, Applied,
+and they kind of touch across various parts
+of the value chain.
+And then we've also partnered with builders, right?
+So we've got an installation with
+and a strategic partnership with KB Homes,
+one of the large US builders where in California,
+we've installed KB Home partnered with Schneider Electric
+with Southern California as well as
+with University of California
+to drive energy-efficient homes, 200 homes in California.
+And this is with solar in each home
+with batteries in each home as well as a microgrid
+with a community battery.
+And they saw almost 40% reduction
+in energy consumption.
+They have cumulatively, for the homeowners,
+saved more than 800 million
+in revenue coming from energy savings,
+and from a CO2 reduction perspective,
+it's almost equal to 606,000 gas powered cars.
+So together as an industry, when we work together,
+we can make truly a large impact,
+both for the consumer as well as for the planet.
+<v ->Yeah, that's interesting.</v>
+It's also interesting to know that
+if you have these partnerships with home builders,
+but there's also, when it comes to partnerships,
+there's also solar they can install in these homes too.
+Wolfgang, could you talk a little bit about the solar angle?
+<v ->Yes, that is something that is really, really helpful.</v>
+We have almost with all solar panel producers,
+we have very close partnerships.
+Most of them just happened because they picked us,
+they integrated us in their solution,
+and they recommend us.
+And then it starts with the simple monitoring
+of how much energy is my solar system producing?
+The homeowner knows that's the energy that I have.
+And then they make the step-by-step integration afterwards.
+That's really helpful, and we are considered
+to be something like the standard for doing this together
+with solar panel producers in Europe.
+That's really helpful.
+But if I can add something to the builders,
+what we see in Europe,
+and I don't know if this is the same in the United States,
+if you have professional installers,
+the electricians installing devices,
+I would today say that 90% of them
+have no idea how to install something that is smart, 90%.
+So if you talk to them about something that is smart,
+if this is Schneider or if this is Shelly,
+the first thing they say,
+"What, this has an IP address?
+Let's put the old wires."
+And this is something that we have to break through
+where we are investing a lot in training them,
+in helping them to do that
+because they simply don't understand
+this will need a generation of new installers
+with a completely different mindset
+that are able to do that.
+So the solar installers, they are miles ahead.
+The traditional guys, they are really, really behind,
+and they wanna put their two or three cables
+in the wall and that's it.
+<v ->Yeah, that does beg the question</v>
+of whether solar installers need to be electricians
+or if they do not need to be
+if that helps with that particular value proposition.
+<v ->I think this is a new business</v>
+and that has new people and they have a new mindset,
+and that is something that completely changes the setup.
+So if someone did the same job 40 years long
+and says in five years I will retire anyhow,
+I don't want to learn that, it's too complicated,
+I might have to come back because something is not working.
+And that's one of the problems that we see there.
+<v ->Well it's funny is I had a great early Christmas present</v>
+of my HVAC system going out,
+and so I talked to the technician, I'm like,
+"Hey, I'd like to get a smart thermostat"
+and there should be a rebate from the local utility, right?
+And he's like, "Yeah, but you don't want
+to get a smart thermostat,
+it is going to also hurt the life of your system
+and like all these falsehoods."
+And I was like, not only could they not do it,
+but they're actively against it.
+And that's part of the challenge.
+<v ->Yeah, yeah. Very interesting.</v>
+I also wanna get kind of sort of a view
+of partnerships from both the utility perspective
+and the device manufacturer perspective.
+And so what are some examples
+of some successful collaborations
+between utility companies and smart home providers?
+And I'll lead off with Meghan to answer that.
+<v ->Well, I'll echo what Poonam said.</v>
+Just general increases in demand for electricity
+and energy is really requiring these strategic partnerships.
+And so an example of one in Texas that was just announced
+between NRG and Renew Home
+and Google is going to enable the building
+of a virtual power plant or VPP in Texas.
+So we're excited about that,
+but it is really requiring that partnership
+so that we can scale to make the impact
+that we need to in Texas specifically.
+And so from an NRG perspective,
+we've got the supply management expertise
+that we bring as well as our energy brands
+and customers that we bring to the program.
+And then from a Google and a Renew Home standpoint,
+they've got energy management capabilities
+that we'll be leveraging.
+So that bundle I had mentioned
+around the thermostat and doorbell,
+that's really speaking to customers getting that adoption.
+The key is really to get customer engagement
+so that we've got a scalable successful VPP.
+And so that's one example of a partnership.
+<v ->Michael, would you also care to weigh in?</v>
+I know that Resideo has a demand, sorry, a DERMS platform,
+and that that really is very useful to work with utilities.
+So tell me a little bit more about how that works.
+<v ->Yeah, so a piece in the puzzle</v>
+as Meghan was just describing is
+what we call a distributed energy management system,
+distributed energy resource management system, a DERMS,
+And what this DERMS is is like a software layer
+and like a team behind the scenes that actually is able
+to aggregate many different devices,
+kind of creating a collaboration with the manufacturers
+of the devices,
+being able to manage having programs
+that get to the device to be able
+to be controlled as part of the events when the utility
+or the energy company needs to have that energy.
+So kind of my advice
+to technology providers here in the audience
+is utilities,
+they don't want to talk to every device manufacturer,
+and frankly you guys don't wanna have
+to talk to every utility.
+It just doesn't scale.
+So the DERMS provider, the aggregator may be a simpler term,
+is able to be there in the middle coordinating things.
+We do stuff in the cloud,
+we're able to talk to utilities on secure channels.
+So look at that as a pathway if you want to get more
+of your devices involved in energy management.
+Speaking of success though, so I wanna bring up a story
+from my wife actually recently.
+I'm a scientist,
+so my house has been in demand response events
+since the beginning of demand response events.
+And this last year, like a few months ago,
+she's like made a comment that
+you haven't been running as many
+of those mad science experiments
+making our house really hot this past summer.
+And really what it was,
+it wasn't me controlling all these things,
+like it was the utilities are now calling events
+less frequently or at least not as strong
+as they had in the past.
+Parks Research kind of tells us this too,
+that when customers leave demand response programs now,
+it's a diminishing level of people saying,
+"Oh it was because I was uncomfortable,
+oh it was because we had too many events."
+It's more like they moved out
+or like something else changed.
+So our data is showing that too,
+that like events are being called
+maybe not as long as they used to
+or different times of the day
+we kind of like learn customer patterns
+and try to tailor the response
+to what we can do for that customer.
+So I think of it as like maybe
+if you were in a program in the past
+and like was uncomfortable for you,
+give it a shot because a lot has evolved in this space.
+<v ->I think you hit on something key there though,</v>
+which is we've gotta make sure we have customer trust
+because we have to have the scale to sign up
+to all these programs to get these devices
+to meet the challenge that everybody's been talking about
+because remember,
+decarbonization was a generational challenge
+when there was flat load growth.
+Now we've got high load growth and decarbonization target.
+So it's really unprecedented.
+And so in order to get that scale,
+you gotta make sure that that customer's comfortable.
+You gotta make sure it's simple, right?
+And you have to make sure
+that you don't break that trust
+so you don't have to come back and be like,
+"Hey, sorry we botched that a few years ago.
+Would you like to try it again?"
+Because that is such a hard sell, right?
+And the solar industry
+by the way is seeing the impacts
+when customers lose faith in your industry.
+What do your customer acquisition costs do
+when that happens, they go sky high.
+<v ->Yeah, and we've seen solar basically stall in adoption</v>
+and a lot of it has to do with cost,
+but definitely there's a lot of trust issues
+with the industry as well.
+So yeah, it's very interesting.
+We're seeing also that like a lot
+of people are afraid of losing control with demand response.
+So that's a big piece of it,
+and being able to gain their trust
+is gonna be very key to that.
+And also incentivizing them
+because we find that that's really the number one way
+to get consumers to participate in demand response.
+So I wanna talk a little bit about
+in the last few minutes,
+the future of smart home energy management.
+And this is really a hot topic of course,
+and I'd like to hear a little bit about Poonam,
+what you think about it, but how are advancements in AI,
+machine learning, and IOT changing the energy market,
+especially like AI and machine learning?
+<v ->We heard a lot about that this morning, right?</v>
+So again, I go back to the number one problem
+that we got to solve for the consumer,
+and that is reducing the energy bill.
+Now in an ideal state,
+I would like a climate conscience
+Greta Thunberg wired to my house
+that is going to do everything
+that needs to be done to make me comfortable,
+to reduce my energy bill,
+as well as do the right things for the planet, right?
+That's an ideal state,
+and I don't think that we are necessarily too far
+from what that state is.
+So for instance, in Europe,
+the Schneider energy monitor,
+that has AI built in that does energy monitoring
+that watches for user behavior,
+understands my energy consumption,
+looks at the energy prices, looks at the weather forecast,
+and does everything that needs
+to be done in terms of automating the usage
+within the house.
+For instance, if the energy prices are low,
+it'll heat up my water heater
+when the energy prices are low,
+it'll charge my EV when the energy prices are low.
+And it can also predict you user behavior
+to a certain degree and allow you
+to kind of make choices based on your behavior.
+So there's energy optimization that happens,
+but then also as your energy,
+if your energy prices are increasing to a certain degree,
+there is a potential that you've got an old appliance
+in the house that may be consuming more energy
+than it should.
+And that is an indication that probably in, I don't know,
+few months from now, my appliance may go down.
+So it gives you an alert necessarily to tell you,
+"Hey, take a look at this."
+So there is a little bit of that predictive piece
+within that as well.
+So there's a lot of advancements
+that AI from an energy management is being done
+to drive resiliency, to drive sustainability,
+and to drive efficiency.
+<v ->Yeah, definitely, it's very interesting,</v>
+and I think I also wanna understand the impact that EVs
+and new energy management programs such as VPPs
+might have, Lon, I don't know if you could take that one.
+<v ->Yeah, well it depends on the rate of adoption.</v>
+The utility industry we're at heart
+of infrastructure companies, right?
+So we own and operate these very complex grids.
+Duke Energy's grid can wrap around the world seven times.
+So just think about the maintenance and the analytics
+and everything that's required, and then on top of that,
+throw in extreme weather events
+or crazy people shooting at substations, right?
+So it's really hard to manage,
+and if all of a sudden you're getting a neighborhood
+and each home has a one or two EVs in a cul-de-sac,
+well that's gonna present an issue to that local system.
+And we're not even talking about the larger oh,
+do you have enough energy at this particular time
+from the bulk power system.
+So it will take more sophisticated algorithms
+and AI to be able to balance that
+and also make sure that you're meeting
+all the customer needs so that you can co-optimize
+with all those homes and the local grid.
+Now what comes with that is more value streams though.
+So if the customer can enroll
+in a more sophisticated program,
+then I can give them more incentives
+either on the front end or continue
+to do participation rewards, right?
+So there's always these trade-offs.
+You can have a maybe a simple program
+that doesn't pay as much, but as you get this adoption,
+you're gonna have to see more sophistication.
+But again, the positive thing is that usually
+comes with more compensation, more value.
+<v ->Great, well we're almost at the end of our panel here,</v>
+but as a quick lightning round,
+maybe a minute or less for each person,
+I had a conversation
+during lunch with a couple of folks from Hunter Industries,
+Matthew and Jessica,
+and they brought the question about
+how do you get the consumer
+to buy into the value of energy management at home,
+especially if they can't really turn down their energy use,
+they need the air conditioner on, they need the lights on,
+or if they've seen their energy insights once,
+if they never need to see them again for those same devices,
+how do you get them to buy into that value?
+So a minute or less starting with Poonam.
+<v ->So I think that at the end of the day, the consumer,</v>
+I think the statistics you showed earlier was
+that yes, they've tried to do everything.
+Most of the consumers, more than 50% of the consumers
+that we have surveyed believe
+that smart home will help them reduce their energy bills.
+Now the deployment and the adoption is still low,
+16% as you said, smart thermostats.
+However, the rate of adoption of that
+has been the highest in the last couple of years.
+So smart thermostats has increased as well
+as energy monitoring has increased
+over the last couple of years.
+Now with that, I think the biggest challenges for us
+to enable that adoption to drive engagement
+and to keep the technology really simple,
+to enable the engagement, right?
+Because the consumers are not geeks
+who are going to constantly be playing with the equipment.
+They want to set it and forget it
+and let the equipment kind of take care of everything
+that needs to be taken care of.
+And I think that's going to enable us
+to drive more of that adoption.
+<v ->Yeah, I can just add that</v>
+the smart home market is on the edge
+not being a geek market anymore,
+it's mass market, it's on the edge, it's not yet there.
+It's on the edge to the mass market.
+For the geeks,
+it was great to spend the whole weekend
+installing one device, trying out a lot of things,
+talking to the community.
+Now I found the solution, I can add something,
+that's over, and we are still, as an industry,
+we are still talking too much about technology
+and not enough about the solution.
+The customer has a problem,
+the problem is he wants to live with more convenience
+or he wants to save energy.
+How are we solving this problem?
+He doesn't care about the product that is behind
+and if this is matter or not matter or wifi or Z-Wave
+or whatever it is, he doesn't care.
+And this is something that is helping.
+So to make the products easier,
+to talk more about the use case and the solution.
+And the other thing I usually say on the energy side,
+it must hurt, if it's not hurting, no one will change.
+As long as the kilowatt hour is 5 cents or 10 cents,
+no one really looks at the bill.
+If it's 30 or 40 cents, people look at the bill,
+and that changes behavior completely.
+And the last thing is education of the installers.
+If we are not doing that
+and as long as they are behaving, like don't do that,
+it's really not good, it's not solid enough,
+then we'll not change.
+<v ->Yeah, I mean I think we need that interoperability too</v>
+because we just had a really bad experience
+with smart EV chargers now.
+A lot of homeowners now just,
+they're gonna have challenges with their charger
+because the company sort of picked up
+and then who can fill in
+and who can work with those software systems.
+So we have to think about that.
+But also when you have that consumer that has that app
+and they're looking, hey, how can I save money,
+that it pops up, auto discovers the devices
+that can enroll in a program
+that Duke Energy has,
+automatically one click enrollment,
+they get a bill credit or whatever else
+they get connected to a partner that can install something,
+those are the things that we're gonna have to do
+that helps reduce the amount of dependency you have
+on price signals hurting them, right?
+Because we don't want to have that situation happen.
+And so one of our successful programs is we fix the bill
+for bill certainty for them if they sign up for smart device
+and we drop it and we guarantee those savings.
+So these are the things we're experimenting on
+that could get some traction.
+<v ->And I know we're short on time, so I'll be really quick.</v>
+Innovation in the market.
+So a lot of what we've talked about,
+but also here at the show, the market continues to evolve.
+So what kind of plans are we offering customers
+so that they can save money?
+What kind of tools are we giving them?
+Understanding their different customer types.
+Some wanna set it and forget it,
+some wanna really dig into the details.
+So just continuing to innovate around those offerings
+so that customers have those options.
+<v ->I'll kinda like play on that.</v>
+Like as a technology producer,
+we really want things to be complex
+on like the utility side, like all these options,
+and then it's up to us to develop the technology
+so that way we make it really easy for the customer
+to just do it automatically.
+So pushed for more complexity and like the more constraints
+and options that are out there,
+but then the interface of the customer needs to be simple.
+<v ->Great. Well that's all the time we have.</v>
+Thank you so much, panel, for joining us for this.
+And we have a 20 minute networking break,
+and then join us later tonight for our networking reception.
+You can RSVP online or at that QR code there.
+And thanks again to our sponsors.
+And then if you want to check out our research,
+we've got it on our website,
+but you could also click this QR code.
+Thank you everyone, and stay tuned for our next session.

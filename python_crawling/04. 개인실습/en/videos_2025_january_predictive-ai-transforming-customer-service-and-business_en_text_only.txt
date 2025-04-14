@@ -1,0 +1,893 @@
+<v ->Well, welcome everyone.</v>
+We are gonna have an amazing session today on predictive AI.
+My name's Jim Harris.
+I used to write a column for "i3" magazine of the CTA,
+the Consumer Technology Association,
+for five years before the magazine died.
+Very sad.
+We have an amazing panel today on predictive AI.
+We're not gonna talk about history,
+we're not gonna talk about our bios.
+There is this amazing thing called The Google
+that you can find out all about us here on the panel.
+We're gonna dive right into the use cases,
+which are practical, proven use cases
+with bottom line benefit.
+And I'll start with one.
+I was invited to the launch
+of Trenitalia's 300 kilometer an hour train in Rome,
+and they had installed 1000 points of presence on the train
+on different parts, and they measured vibration and sound.
+And if something
+went outside of SOP, standard operating procedure,
+it would yell out, "Hey, I'm the brakes on car 4A,
+and I am really vibrating a lot."
+It would then use AI and say,
+"We predict that part will break down in a week."
+And rather than wait until
+it paralyzed the whole train on the tracks
+and threw the schedule of everything off,
+they would replace the part that night.
+It's called predictive maintenance.
+And I think that if I get a better service,
+it's gonna cost more.
+Well, how about better service at 10% lower cost?
+They're saving 10%
+of their 2 billion euro budget on maintenance.
+So there's an example of predictive AI
+and a bottom line benefit.
+So that's what you're gonna be getting in rapid fire
+on our panel today.
+So who wants to start us off?
+How about you, Alyssa?
+<v ->Okay, great.</v>
+Alyssa Altman, I'm from Publicis Sapient.
+And we're a partner with Marriott,
+and in 2020 we worked with them
+to develop Marriott Homes and Villas.
+So I think you're familiar with Airbnb,
+and what Marriott Homes and Villas was
+is their form of Airbnb.
+And was really struggling with people getting on the site,
+figuring out how to define what kind of, you know,
+vacations they wanted.
+So we used generative AI
+to help really change the search mechanism.
+No longer are you coming on to Marriott Homes and Villas
+and looking at a date and looking at a location,
+but you're actually asking them,
+"Hey, I wanna go to California.
+I wanna bring my dog.
+I wanna go to a bachelorette party in the Caribbean."
+And it served up over 140,000 different options.
+And what it also did on the predictive side of it
+is it helped Marriott market better.
+Because what they were able to do is,
+with this tool, be able to understand
+what people were interested in.
+So it helped them predict how to manage their properties,
+how to get people excited about going on vacations
+and scheduling vacations.
+And they have seen over twice the amount of searches,
+which ultimately has translated into increased revenue.
+<v ->Love that case.</v>
+Thanks Alyssa.
+Do you want to jump in, Nick?
+<v ->Sure.</v>
+So first, thanks Jim and the panelists and the attendees
+for the opportunity to share the HARMAN story.
+And thanks to our 30,000 employees
+who deliver connected experiences,
+intelligent using AI in the car,
+in the home and in the enterprise.
+You know, we're incredibly proud of the work that we do
+as a Samsung company.
+I would start out with the enterprise, you know.
+And we all experienced what it was like
+during the supply chain semiconductor crisis, you know,
+having a massive effect on our ability to build, deliver,
+and you know, get products in the hands of customers.
+And so we were very fortunate to build a ForecastGPT,
+which is available on the AWS Marketplace,
+to help improve demand forecasting, inventory optimization,
+and most importantly delight customers.
+You know, there's nothing worse when you go online
+and you want to order something and it's unavailable,
+or there's nothing worse than having a parked car
+waiting for a head unit to show up.
+And so our ability to really improve the demand forecast
+and the accuracy for our consumers
+in the consumer audio space on jbl.com,
+our ability to commit to our OEMs
+for delivery of a digital cockpit
+and car premium audio speakers,
+our ability to commit to those demands is really important.
+And then manage our supply chain effectively
+on inventory optimization, we reduced our inventory by 14%.
+So when you're talking about
+billions of dollars of material, the ability to ensure
+that you're getting the right product
+at the right place at the right time
+and managing that working capital,
+to use that working capital for more R&amp;D capabilities
+is pretty remarkable.
+The GPT itself is built on ChatGPT
+with a Mistral 7B on SageMaker, and it's 88% accurate.
+So we're really proud of that.
+We're continuing to find ways
+to optimize the demand and sales
+and finance and supply chain.
+But that's one great example of what we're using AI for
+to delight customers and not disappoint.
+<v ->This is a great example.</v>
+And for those of you
+who were at Jensen's keynote from NVIDIA,
+he was talking about running multiple scenarios
+in a warehouse
+around inventory management and optimization and logistics,
+almost like doing Monte Carlos.
+And so we're gonna see more of this kind of predictive AI
+on how to optimize the supply chain.
+So great example, Nick.
+Who wants to jump in next?
+<v ->I think I can go next.</v>
+Mamatha Chamarthi,
+'til four months ago I was with Stellantis,
+so my experience spans across OEMs
+as well as tier one suppliers.
+And today I am with Goodyear,
+I joined Goodyear about four months ago,
+Goodyear Tire and Rubber Company.
+So I'll start with an example from Stellantis
+and then talk to you about how you can take something
+that was applied at Stellantis
+and how it could be applied at a tier one supplier.
+So when you look at a car,
+and I think everyone knows this,
+that the typical design of the car
+takes five to seven years.
+And through a lot of continuous improvement
+and process improvement and engineering improvement efforts,
+we as OEEs have been able to reduce that five to seven years
+to three to five years.
+And we were still looking at
+how can we bring a product to market quicker
+and start with the customer experience
+and start working backwards
+and defining what would be the ideal concept of the car
+that would appeal to our customers?
+And speed to market of the design
+and testing it out with the customers
+was very, very important.
+And there was also an additional problem,
+attracting talent into the design office
+was also kind of going down.
+That was not that many people
+that were getting into the Center of Creative Studies
+and those kind of institutes.
+So it was a bit of a talent problem
+but also speed to market problem.
+And so what we did was we took all of the concepts
+and all of the production vehicles
+and all of the specs that we had
+across the 14 brands of Stellantis
+and fed into this design GPT.
+And so the new designers that we were hiring,
+they didn't have to start from scratch
+and then build a clay model, go through this entire process.
+But what they did was started as prompt engineers
+asking DesignGPT, "I want to design a new concept for Jeep
+and I want it to reflect the true personality
+and the brand uniqueness of a Jeep.
+But I want it to be an EV
+and taking the attributes of the EV."
+And my target segment of the customers
+that I'm going after for this,
+defining it at a micro segment level.
+And into this design GPT, by doing this,
+they got really a jumpstart.
+And so this is a multimodal search,
+that it's not just a text search,
+but you're sending CAD drawings, you're sending all of these
+and then getting back CAD images
+of what this new concept car could look like.
+And it gave almost close to a 40% jumpstart
+into the design process.
+Including the interior design, not just the exterior design,
+interior design, exterior design,
+and I would call it the phygital experience,
+the physical experience and the digital experience
+augmenting the personality of the brand.
+Now how do we apply it to Goodyear?
+So if you look at Goodyear and a tire, tire has a mold,
+tire has tire engineering,
+which is rubber, fabric, metal giving it the structure,
+and then you have material science, lots of composites,
+almost close to 250 chemicals
+and synthetic and natural rubber
+that goes into making of a tire.
+Which I did not know coming from the OEE.
+I was thinking car is very complex,
+but tire is equally complex, that I learned.
+And what we are trying now is a similar kind of
+how do we accelerate?
+Bringing a new tire to market is a two year timeline.
+So how do we cut down the two year
+and be a lot more competitive and bring the price down
+and then bring the tire to market quicker?
+<v ->This is a great example.</v>
+And in my opinion, it is the least understood aspect of AI,
+the benefit, cycle times and speed.
+And you know, they say time is money.
+Well, if you can take five to seven years
+down to three to five years, that's a huge difference.
+We're gonna finish out the first round with Davie.
+<v ->Thank you, Jim.</v>
+<v ->Davie, what's the case study</v>
+you want to throw in?
+<v ->I'm happy to be here, thanks for having me.</v>
+Jumping right in, I think the first one
+I would bring from Bosch is one we call Super Technician,
+one we call Super Technician.
+If you take your car to a service center,
+what's probably happening behind the scenes
+is you have one master technician back there
+that's been there 25, 35 years that knows everything.
+And then you have about 20, 30 technicians.
+And what we found is that these technicians rely heavily
+on this master technician.
+This person knows the million potential diagnostic codes
+that are coming out.
+This person knows who to contact, which OEM to contact.
+This person knows which website to go to to find the answer.
+But this is normally one person,
+and you have 20, 30 technicians
+that are relying on this person.
+So you can imagine there's a bottleneck.
+It could take hours if not days to find this information.
+And so when you consider this
+and you consider the positioning of Bosch in this market
+with over 35,000 service centers
+and the data that we have is really the holy grail,
+the question is, and I'm sure we all have
+sort of this kind of problem where we have this data,
+we just dunno how to get it out and to use it.
+And so this is exactly where we started using AI.
+We used some LLMs, a little bit of knowledge graph,
+and we built an interface that allows these technicians
+to all of a sudden become a master technician overnight.
+So you can imagine that impact on the business
+when you start to say,
+"I've now taken it from multiple days
+into really instant responses."
+And also the relief of the master technician
+who now doesn't have to support 20 to 30,
+who can also then work on the more strategic aspects
+of their daily job.
+So it's a way that you can start to think,
+it doesn't just impact the major service centers,
+it also impacts the ma and pa shops
+that are looking to really bring productivity
+and efficiency into their line of use.
+Really bringing everyone these technicians as AI-assisted.
+And that's a little bit of how we look
+at where AI can come in in this AI assistant world.
+<v ->This is a great example.</v>
+We talked about speed in the last use case.
+This is,
+think about time to competence for a new technician.
+So they're only three months on the job,
+but with the AI, it's like three years of competence
+that they can access.
+So amazing case study.
+Alyssa, you started, so we'll come to you,
+Nick, for round two.
+And I think Nick's gonna talk about saving lives.
+And I don't know if you know,
+but there are 45,000 deaths every year on US roads
+due to driver error.
+And 5.2 million people go to hospital
+because of car accidents.
+Now that's just the US numbers.
+When you look globally,
+all those numbers are in the millions.
+So distracted driving, drowsy driving,
+these are huge problems.
+What maybe is a case study around this?
+<v ->Yeah, so we talked about the enterprise,</v>
+and now talking about, you know,
+intelligent experiences in cabin.
+And you know, and certainly our ready products available
+are really important to us.
+And one of the really important areas that you mentioned
+is improving the driver safety and our Ready Care product.
+And our CTO Armin Prommersberger is in the back,
+so I'm sure he'll do it more justice than I.
+But really, he and his team are remarkable
+at what they've done.
+But they're using a camera
+and machine learning sensors in the car
+to determine not only drowsiness of the driver
+but cognitive load on the brain
+and distractedness in the eye movements
+from the camera and the intelligence.
+We've collected petabytes worth of data
+to learn how people get distracted.
+And so not only is it, you know, being able to determine
+the distractedness of the driver,
+but it's also the stress of the driver, the blood pressure,
+the breathing rhythms.
+And so being able to monitor that,
+but then create some interventions and change
+and make notifications to the driver,
+change the controls, simplify the digital cockpit.
+Or perhaps suggest, you know, soothing music.
+These are all immersive, intelligent things
+that Armin and his team are doing
+in these Ready Care offerings
+with the use of artificial intelligence
+and machine learning.
+So again, as we continue to find ways
+to improve this immersive experience,
+the Ready Care offerings and products
+are really important to us.
+<v ->So my car, if it suggests I listen to classical music,</v>
+it's telling me I'm stressed.
+And if it says stop for caffeine, I'm too drowsy.
+<v ->You're gonna get some advice.</v>
+<v ->You know, it's gonna give me advice</v>
+one way or another, is it?
+I love it.
+Mamatha, what do you think?
+<v ->Okay, so I'll extend on that same example</v>
+of the intelligent cockpit
+and this whole phygital experience,
+again, starting with Stellantis and applying it to Goodyear.
+So as we came together, Fiat, Chrysler and PSA
+and we became Stellantis,
+and we looked at the 14 brands and we said,
+"We need to start working backwards
+from the customer experience and what is it that they want,
+to the tech platforms
+and how we are going to commercialize."
+But we started with a customer and said,
+"What is that experience that we want to provide
+to the customer?"
+And we started looking at when a customer is buying a brand
+like a Jeep for example, it has 4x4 capability
+and it has all of this fantastic capabilities.
+But imagine it's snowing outside.
+Tomorrow I'm going to go to Michigan
+and I'll witness that firsthand.
+There could be like six inches of snow on the road
+and you're entering into the car.
+And how is that scenario?
+Let me visualize that for you.
+You could be in your home,
+turn on your remote start in the car,
+and hopefully by the time you get to the car
+the snow has cleared on the window.
+But the car does not have that intelligence to say,
+the car is in a sports mode,
+it needs to go into snow mode, right?
+It's a Jeep 4x4 with all of the capabilities
+that it could go, it could take that
+and go to that vehicle signal.
+So how do I get that intelligence
+from the weather to the car and inform the car
+not only to set the cabin temperature
+to a comfortable ambient temperature,
+including reducing the stress
+that you were talking about, Nick,
+and playing some soft music
+because the snow driving is going to be extremely stressful
+with slippery conditions.
+And only a Jeep can take you anywhere, by the way.
+So, but how do you send that intelligence
+so by the time you sit in the car,
+it's not only the snow around the car is cleared up,
+but it's set into the snow mode
+and your drive is super comfortable?
+And I am talking about this with a real example
+of me trying to get to work in 45 minutes
+to go to a town hall,
+and I'm trying to drive, look at the street,
+and fumble with changing the mode.
+That is distracted driving.
+That's the 2.5 million accidents that you're talking about
+that are going to the hospital.
+So you talk about contextualized
+and personalized experience to that customer
+that deepens their association with the brand.
+And you start creating a digital mode and you say,
+"If my Jeep provides this kind of an experience,
+I want to buy a Jeep again and again and again,
+because it's deepening my connection to my brand."
+Now when I start looking at Goodyear,
+Goodyear has about 570 service centers,
+similar to what you've talked about at Bosch.
+And it's pretty similar thing, like, you know,
+it's a very transactional relationship
+we have with the customer.
+A customer has a flat tire,
+they have an option of going to a Bridgestone,
+they have an option of going to Goodyear,
+or going to a mom and pop store
+or Discount Tires, Belle Tires.
+There's umpteen number of competitors in this mix.
+It's a very overcrowded space.
+But in this overcrowded space, no one has figured out
+how do I take this transactional relationship
+to a lifetime value with the customer?
+So what do I need?
+I need vehicle intelligence
+to predict when that weather change of summer tires
+to winter tires happen.
+So I can send a notice to Alyssa and saying,
+"Alyssa, you have a Mercedes GLS 63 AMG.
+Why don't you come in
+and we will change your summer tires to your winter tires?
+And we will store those summer tires for you,
+and we'll notify you when your summer tires
+need to be put on your car again."
+That for me is a lifetime value.
+That for me is building loyalty with the customer.
+That for me says, when I think service,
+I'll always think Goodyear.
+And when I think tires, I'll always think Goodyear.
+<v ->This is a great case study,</v>
+'cause I have to remember every year
+when my insurance gives me a, I live in Canada.
+You can feel sorry for me with the snow.
+But when I have to go change my tires,
+and by the time we call, you know,
+Mercedes-Benz is all jammed up with, you know,
+300,000 people wanting to change their tires.
+So early warning would be a great thing.
+<v ->Exactly, exactly.</v>
+<v ->Davie, what do you want to throw into this round?</v>
+<v ->I mean, we're talking about use cases.</v>
+So maybe a little bit different.
+I mean, we've been through a scaling of technology before,
+at least I think many of us have.
+And when I look at data patterns
+on how do you approach AI or gen AI,
+you look a little bit in the past
+to see how we've done it in the past.
+And that really helps break the big problem
+into smaller pieces.
+And one thing that we've done very well,
+or we've done I guess quite a lot over the past years
+is automation,
+especially when you talk about internal processes,
+looking again for productivity and efficiencies and impact.
+And if you think about, at least at Bosch,
+if you take the experience that we've built
+and hundreds of thousands of bot hours
+that have been processed,
+gen AI or AI in that same sense
+is a little bit of that same pattern.
+And so you can kind of build on that experience.
+I mean, it's about finding technology platforms
+or technology that fits within your security
+and privacy requirements.
+It's about finding tools that are easy to use
+in self-service
+that allows you to build on your citizen development aspects
+when you're starting to talk about gen AI or AI.
+And then finally it's about not leaving behind your people,
+because it's a very scary time in our organization
+when you start thinking about how AI is going to impact us
+and our world.
+And so if you look at that, and start to think about
+how you can start to implement that,
+that's maybe the next use case,
+is we've built what we've call Ask Bosch,
+which is an internal platform which allows our users
+to build, experiment and innovate in a very safe way, right?
+So with some guard rails
+that allows us to really experiment.
+And what we found is some really great examples
+that have come out,
+what I would say is more on the long tail
+of where AI or gen AI is
+and really how citizen development
+can bring a lot of a lot of value.
+One thing, if you think about our indirect procurement,
+as a buyer, you have access to 90,000 contracts.
+Each contract has 20 pages.
+Every time you have a single question about that,
+you have 30 clicks to come to your answer,
+I mean, it's a prime example of being able to use LLMs
+and a RAG solution to bring a very easy way
+to bring a lot of efficiency and impact.
+It makes your buyers happy,
+it makes your customers happy, it makes your people happy.
+And at the end of the day, that's really the target
+as we start to look at how AI can really make impact.
+<v ->This is really interesting.</v>
+We work around the world.
+And I recorded a webinar about a month ago,
+it just passed 1.1 million views yesterday.
+It's called the AI Revolution with Jim Harris.
+And, look it up.
+But I start with a 30 second piece in English,
+and then it's in Chinese and then it's in German
+and then Hindi and then Spanish and French.
+And the first time I did it, a woman came up to me and said,
+"Jim, your Mandarin was perfect."
+And I said (speaking Mandarin) which is thank you,
+the only word I know in Mandarin.
+And so really, it's how can we use AI,
+and this is a tool called HeyGen, how can we use AI,
+given that we work in many countries
+with many different manuals, and boom.
+And always adding value for our customer.
+We're gonna come for round two to you Alyssa,
+for the last word on round two.
+<v ->All right, well, so we work with a global pharma company.</v>
+So your example around being able
+to scale content globally is a good one.
+So what we've done is we've helped them really think about
+their whole content supply chain
+from a marketing perspective.
+They're spending a lot of money on outside agencies,
+spending a lot of money even within their organization.
+And as a pharma company,
+the biggest challenge they have is legal review.
+It would take like, too long
+to get marketing content out there,
+to get to the consumer, to personalize the content.
+So if you think about all the idea
+of really understanding the consumer
+from a predictive perspective,
+this tool is helping them do that,
+and it's helping them do that at scale across the globe.
+So we've seen seven times the number of reuse
+from content globally.
+They've been able to increase their speed to market
+by 30% to 40%.
+And it's all around thinking about, you know,
+how you're taking your whole process,
+but you're leveraging gen AI in the moment
+and you're building on what you're learning
+throughout the process.
+<v ->This makes me think about the use case of design</v>
+that Mamatha thought to throw in, which is,
+if I'm designing something new,
+whether it's a legal contract or a Jeep,
+why can't I access templates
+of parts or words of paragraphs and wording
+so that building a standard template,
+we don't have everybody reinventing the wheel
+all around the world in different languages,
+and now we have to carry, you know,
+So this can help in speed and standardization as well.
+Why don't you start with our third use case first?
+And we gotta keep it tight to two minutes.
+<v ->Okay, fantastic.</v>
+So the customer that I'm going to talk about is Amazon,
+a customer of Goodyear.
+And how are they a customer of Goodyear?
+We started as a proof of concept
+in one of the warehouses of Amazon.
+And so Amazon has this UEI,
+which is a visual inspection technology.
+It's looking at the undercarriage and around the vehicle
+on the defects
+as overnight the vehicles are rolling into the warehouse.
+And we started as a proof of concept,
+setting up a service point in the Amazon warehouse,
+a Goodyear service point in the Amazon warehouse,
+collecting those vehicle signals,
+sending it to the fleet manager and saying,
+"On this particular vehicle,
+this is the maintenance that needs to be done.
+And if you do not schedule it, you know, two weeks later,
+here is the unplanned downtime that you could expect
+from this particular vehicle."
+And so because fleet managers,
+they spend 50% of this administrative effort
+is on looking at these alerts on notifications
+on various vehicles,
+and when is it that they need to schedule maintenance
+for these vehicles?
+And we said,
+why don't we just automate this whole thing for Amazon?
+So we started as a proof of concept.
+Today in the US we are in 1/3 of the Amazon warehouses.
+1/3!
+And now we are expanding globally with Amazon
+to EMEA as well as to APAC and also within US.
+And think about the fleet manager,
+instead of administrating, now he is spending time
+actually looking at the productivity of his fleet.
+<v ->So this is a great use case</v>
+because the manager is now doing higher value-added,
+more strategic things.
+Fantastic.
+We're gonna go into round three,
+and this has to be a lightning round
+because it'd be great to get some questions from you,
+our dear audience.
+So start us off on round--
+<v ->I can start.</v>
+<v ->Okay.</v>
+<v ->So lightning round.</v>
+I think the last use case I would bring is
+we have a ticketing system implementation,
+which is one of the major ones
+that we have at Bosch at the moment.
+And what we found, at least when you think about
+how do we implement
+or how do we bring AI into our organization,
+there's two general ways.
+One is what we call Use AI
+and one is called, what we call is Build AI.
+So Build AI is just like the name,
+you are building custom LLMs,
+bringing custom differentiating components
+into your organization.
+The second is Use.
+And this is exactly, we are just using
+what our partners are building.
+And I think sometimes we forget about that,
+but that's what we found has a lot of impact.
+And so for example, our partner ServiceNow
+is implementing Now Assist,
+which gives us immediately access to gen AI components
+inside of our organization.
+So a use case in our logistics area
+is we're getting transport messages
+from a number of our suppliers.
+And these come in different languages,
+they come at different times of the day,
+and they come very disparate.
+And what we're able to do now is, again,
+bring it all together, summarization, language,
+natural language processing,
+and makes our agents' life much easier,
+makes them much more efficient,
+and allow them to really respond,
+which impacts our production.
+So it's really, at the end of the day,
+small changes using that generative AI
+that comes out of the box.
+I can't say enough about that in those cases.
+<v Jim>Fantastic.</v>
+Alyssa?
+<v ->All right, so interestingly enough,</v>
+we've been working with this House of Beauty brands.
+And you know, they sell to not only retailers,
+but they also sell to salons.
+So they have a whole B2B capability.
+And what they really needed was
+how do they get their salespeople
+to have a level playing field,
+really understand who they're going in to see,
+how they're serving up the content.
+Very similar in the automotive space, as you've heard,
+you know, really understanding, diagnosing
+what they need to go in and sell.
+So we help them leverage gen AI to think about how they,
+you know, are serving up content to the salespeople.
+But I think even more so,
+when the salesperson gets into their car,
+they can actually talk to the tool,
+the tool will write up their notes,
+prepare a email back to the client,
+make sure they're sending their orders through.
+And we're in the midst of this,
+we're launching in one country, in Germany right now.
+And one of the things that I wanted to share is,
+you know, when we initiated this,
+our biggest challenge was data
+and making sure they had the right data
+to be able to activate this.
+So as you begin to think about predictive
+and how you're entering the marketplace with gen AI,
+with your use cases, really thinking about the data
+and testing it in a way where it's action-oriented
+and you can get content out there to people quickly
+to test it out.
+<v ->This is a great example.</v>
+I know one CEO in the pharma space,
+and she's got a 5X increase in open rates of her emails.
+Because what she does is she uses ChatGPT
+to research her prospect,
+the CEO she's gonna pitch and the company,
+to figure out their pain points
+and then intersect that with her offerings.
+And so it's not spamming people with the same email,
+it is highly targeted to the real pain points
+of that particular individual.
+So I see a one-to-one future
+that you've been talking about, Alyssa, which is how do we,
+whether it's Marriott,
+customize our offering just for you
+with a dog or a bachelorette party or these other cases.
+So we're gonna see more personalization,
+which people then interpret as higher quality.
+So it's an interesting time we're living in.
+Our final example,
+and then we'll take a couple of questions,
+and then if there aren't enough questions,
+we'll come back to another case study.
+<v ->Great, thanks Jim.</v>
+So we covered the enterprise
+and improving inventory through ForecastGPT.
+We talked about improving distracted driving
+through our Ready Care product in the automotive space.
+The last I'll share with
+is on our lifestyle business and our consumer audio.
+In terms of how we manage customer calls,
+you know, we average 300,000 to 400,000
+customer calls a year,
+inquiries about technical questions
+on our smart audio products and our headphones,
+or returns, or wanting to know more about, you know,
+recommended products.
+And so we're using customer sentiment analysis with AI
+to help really augment the case calls with our call center.
+And what we're seeing is the AI goes through
+and will look at the contextual information,
+and within 300 milliseconds will help
+informing the call center person the customer sentiment.
+You know, is the customer frustrated, is there inquisitive,
+are they negative, are they neutral,
+or are they a promoter of the product?
+And from that very quick analysis,
+it arms the call center person to really narrow in on
+how to serve the needs of that customer as efficiently
+and as effectively as possible.
+It normally takes us, you know, before that,
+one to five minutes to really look through the questions,
+the case, the information,
+and really provide a level of information and accuracy.
+The bot does it in, you know, 91% accuracy,
+providing more intelligence to the call center.
+And so when you're talking about that volume,
+you're talking about that efficiency.
+And you know, most importantly we're seeing
+that over 60% to 70% of the calls
+are going from a negative sentiment to a positive sentiment
+just based on the way we're interacting.
+And I know there's a lot of talk about AI replacing, right?
+But what we look at is how does it augment,
+how do we provide human-centric solutions
+that improve the experience
+with the human in the center of the loop?
+So I think this is, again,
+when we design these kinds of things,
+when we wanna differentiate,
+and I think Mamatha, you talked about customers have choice.
+They can buy products from a lot of different opportunities.
+But they want that personalized, unique experience,
+seamless and frictionless.
+And that's what will drive not only loyalty,
+but you know, our long-term reputation
+when it comes to being a very customer-centric company.
+<v ->This is a great example.</v>
+I've only been dealing with my bank for 50 years,
+and when I want a new product,
+they ask me my name, my address.
+You know, only 50 years I've been dealing with them.
+So how can we get out of the way all the stuff
+that actually creates a very negative interaction experience
+and automate all that?
+So dear audience, we have four minutes and 20 seconds left.
+So if you'd like to ask this great panel a question,
+come to the mic.
+We'll take number one.
+And we're in our speed round, remember.
+<v Audience Member>Thank you.</v>
+I have a question related to you,
+the master technician example that you had.
+And you know, for like consulting companies,
+you could have the same type of situation
+where there's very experienced people in the company,
+but all of that knowledge is not necessarily
+written down somewhere.
+So how do you get it,
+I mean, they don't put a USB stick into their head.
+So how do you get it into--
+<v ->Not yet.</v>
+<v Audience Member>Into a format</v>
+where generative or predictive AI can help you?
+<v ->That's an amazing question.</v>
+<v ->Yeah, great question.</v>
+I mean, to answer the question
+specifically for the Super Technician,
+it's because with Bosch's experience
+and over 100 years of a company with the data,
+we have that.
+And the problem wasn't necessarily putting a USB stick,
+although that probably would've been easier
+than trying to consolidate all the data that we have
+and the different data lakes.
+That was the exercise.
+It was trying to bring the data
+in a way that was easily consumable.
+And what gen AI allowed us to do is exactly that.
+So it was leveraging knowledge graphs,
+we brought in the natural language aspect,
+and then we really brought a easy interface
+for those technicians.
+Even if you started the first day,
+you can now come in and have access to that.
+And you can correlate that
+to really a lot of other industries.
+I mean, especially in the software development,
+I guess you can also look at that in the same way.
+You have peer programming,
+where senior developers are the ones that are doing
+with all the knowledge.
+So it's going to be, you can correlate that
+to a lot of other aspects.
+But hopefully that answers the question.
+<v ->You probably also had expert technician use the app,</v>
+because it's a learning agent
+and it's learning to get better and better
+and mimic the behavior of the expert technician.
+<v ->Yes. I mean, at the end of the day,</v>
+that's the holy grail is that service data, yeah.
+<v ->We are at the early innings of this AI revolution.</v>
+Microsoft before the show
+announced it will spend $80 billion,
+I feel a Dr. Evil moment coming on,
+$80 billion on AI data centers, 50% of them in the US.
+So Microsoft is really doubling down on AI.
+So we are just at the start of this AI revolution.
+And these case studies we've heard today
+are gonna continue to advance.
+We have time for one more quick question if there is one.
+And if there isn't one, by show of hands, I don't see one,
+we're just gonna go to a quick 15 second final insight
+from everyone.
+Who wants to start it?
+Davie, why don't you start us off on the far end there?
+<v ->(laughing) Okay, thanks.</v>
+I mean, I think as I said, look in your organization
+for other ways that you've scaled technology successful.
+Take those lessons learned and bring AI in that same way.
+And please don't forget your people,
+because they're the most important part
+of that transformation.
+<v Jim>Fantastic.</v>
+Mamatha?
+<v ->So what I would say is do not try to</v>
+hold all of this knowledge and expertise in one small group.
+Try to democratize it and create a tool set
+and platform that all employees could use.
+And when you have Millennial and Gen Z kind of employees
+that are used to this way of working,
+this kind of tool set will help implement things
+and bring things faster to market for your company.
+So don't just leave it to an engineering
+or any other organization, democratize it.
+<v ->Yeah.</v>
+I would say that,
+make sure you have a strong governance model
+and you're building ethical, responsible,
+and explainable AI models.
+The human has to be at the center of the loop,
+both from a validation and biases perspective.
+But digital trust is everything.
+And so making sure you have a very strong governance model
+incorporated into your frameworks is incredibly important.
+<v ->Fantastic.</v>
+And we are gonna finish in the very same place we began.
+<v ->Okay, so think of yourself as inventors.</v>
+And not only focusing on technology,
+think about how you're creating strategy,
+how you're creating experiences.
+It will change the way your organizations work.
+So thinking about it holistically
+and really changing the mindset of what you do every day.
+<v ->This has been an amazing panel.</v>
+This is gonna go up 28 to 48 hours from now,
+live stream, not live streaming,
+streaming on the CTA website.
+So tell your friends about it.
+If you could join with me in thanking this amazing panel
+for their insights.

@@ -1,0 +1,2740 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:01.618 --> 00:04.201
+(upbeat music)
+
+00:11.310 --> 00:13.650
+<v Presenter>Welcome back everyone, please take your seats.</v>
+
+00:13.650 --> 00:16.320
+I hope you all had a chance to recharge
+
+00:16.320 --> 00:19.650
+because we're diving straight into the race for Gen AI
+
+00:19.650 --> 00:21.720
+and LLM supremacy.
+
+00:21.720 --> 00:23.250
+Let me introduce the moderator
+
+00:23.250 --> 00:25.410
+who will be leading this discussion,
+
+00:25.410 --> 00:27.900
+as one of the country's foremost authorities
+
+00:27.900 --> 00:30.420
+on artificial intelligence and blockchain,
+
+00:30.420 --> 00:33.420
+Sandy Carter has been a notable expert working
+
+00:33.420 --> 00:38.420
+with AI since 2013 and with blockchain since 2019.
+
+00:38.460 --> 00:40.140
+She has had a distinguished career
+
+00:40.140 --> 00:44.092
+holding leadership positions as a chief operations officer,
+
+00:44.092 --> 00:45.780
+chief product officer,
+
+00:45.780 --> 00:47.520
+and chief sales officer working
+
+00:47.520 --> 00:50.940
+for Amazon Web Services and IBM.
+
+00:50.940 --> 00:55.940
+She's also top 10 AI entrepreneur from Microsoft MSN.
+
+00:56.790 --> 00:58.890
+Sandy, this stage is yours.
+
+00:58.890 --> 01:00.150
+<v ->Thank you so much</v>
+
+01:00.150 --> 01:02.370
+and thank you guys for going out and coming back in.
+
+01:02.370 --> 01:04.530
+We're so excited for this panel.
+
+01:04.530 --> 01:08.460
+We have an amazing, amazing set of leaders
+
+01:08.460 --> 01:09.900
+who are gonna talk to you today.
+
+01:09.900 --> 01:12.780
+How many of you guys were at Jensen's keynote?
+
+01:12.780 --> 01:17.780
+Yeah, did you hear Gary say if I had placed a bet
+
+01:17.910 --> 01:21.630
+on NVIDIA when Jensen first spoke,
+
+01:21.630 --> 01:24.030
+I would have retired by now.
+
+01:24.030 --> 01:25.260
+That's the same thing you're gonna hear
+
+01:25.260 --> 01:27.540
+about these companies today and what they're doing
+
+01:27.540 --> 01:30.780
+in this LLM and Gen AI space.
+
+01:30.780 --> 01:32.760
+So I have three wishes for you today
+
+01:32.760 --> 01:34.530
+to take away from the panel.
+
+01:34.530 --> 01:38.310
+One, I want you to see what people are doing today
+
+01:38.310 --> 01:41.160
+with LLMs and Gen AI.
+
+01:41.160 --> 01:43.860
+Two, I want you to hear about the future
+
+01:43.860 --> 01:45.240
+of what's happening.
+
+01:45.240 --> 01:49.320
+And then finally, I want you to hear from these experts
+
+01:49.320 --> 01:51.030
+on how to get started.
+
+01:51.030 --> 01:52.080
+Does that sound good?
+
+01:53.160 --> 01:55.817
+Yeah, you guys have to participate with me.
+
+01:55.817 --> 01:56.940
+Does that sound great?
+
+01:56.940 --> 01:59.700
+Okay, there we go, I want the energy up in the room.
+
+01:59.700 --> 02:01.620
+Okay, so let me just introduce very quickly,
+
+02:01.620 --> 02:05.613
+the panelist sitting beside me is Hassan Sawaf,
+
+02:07.890 --> 02:11.580
+yeah, founder and CEO of aiXplain.
+
+02:11.580 --> 02:12.840
+He'll talk a little bit about there,
+
+02:12.840 --> 02:15.330
+he is ex-AWS with me as well.
+
+02:15.330 --> 02:17.163
+Please give him a warm welcome.
+
+02:18.233 --> 02:20.370
+(audience clapping)
+
+02:20.370 --> 02:22.620
+Okay, I think we can do better than that.
+
+02:22.620 --> 02:25.680
+Sitting beside him is Stephanie Buckner.
+
+02:25.680 --> 02:28.830
+She is the COO of a company called Altair.
+
+02:28.830 --> 02:31.140
+They've been doing AI for quite a long time
+
+02:31.140 --> 02:32.580
+and if you haven't seen the news,
+
+02:32.580 --> 02:34.560
+they've announced a potential acquisition
+
+02:34.560 --> 02:38.370
+by Siemens for $11 billion.
+
+02:38.370 --> 02:39.860
+Welcome Stephanie.
+
+02:39.860 --> 02:42.510
+(audience clapping)
+
+02:42.510 --> 02:45.937
+And sitting beside Stephanie is Yujing Qian.
+
+02:45.937 --> 02:48.060
+He is the vice president
+
+02:48.060 --> 02:51.420
+of engineering at GMI, one of the sponsors of the event.
+
+02:51.420 --> 02:53.709
+So please give him a warm welcome.
+
+02:53.709 --> 02:56.760
+(audience clapping)
+
+02:56.760 --> 02:58.530
+And then finally, last but not least,
+
+02:58.530 --> 03:00.720
+you'll wanna get your picture with Ray Wang.
+
+03:00.720 --> 03:03.660
+He is the founder and CEO of Constellation,
+
+03:03.660 --> 03:05.550
+but you've probably seen him,
+
+03:05.550 --> 03:10.080
+he does almost daily updates on CNBC, Fox Business News,
+
+03:10.080 --> 03:13.254
+Bloomberg, et cetera, welcome to Ray.
+
+03:13.254 --> 03:16.560
+(audience clapping)
+
+03:16.560 --> 03:18.690
+Okay, so let's go ahead and get started,
+
+03:18.690 --> 03:21.060
+now, just some facts to get us started.
+
+03:21.060 --> 03:24.120
+Did you guys know that 77%
+
+03:24.120 --> 03:28.800
+of companies said they're exploring LLMs right now
+
+03:28.800 --> 03:32.130
+for use in their company for production?
+
+03:32.130 --> 03:34.350
+The gen AI market is expected
+
+03:34.350 --> 03:38.100
+to be $1.3 trillion,
+
+03:38.100 --> 03:41.170
+not billion, trillion dollars by 2030
+
+03:42.570 --> 03:45.930
+and 90%, 90% of enterprises said
+
+03:45.930 --> 03:50.430
+that they will use Gen AI in 2025.
+
+03:50.430 --> 03:52.740
+So I think those are some phenomenal numbers,
+
+03:52.740 --> 03:54.690
+but Ray is our expert on research.
+
+03:54.690 --> 03:56.160
+So Ray, tell us what do you see
+
+03:56.160 --> 03:59.460
+as the top trends in this space and if you can, maybe one
+
+03:59.460 --> 04:01.050
+or two unexpected ones.
+
+04:01.050 --> 04:02.850
+<v ->Oh yeah, okay, happy to do that.</v>
+
+04:02.850 --> 04:04.650
+How many people here actually like take something
+
+04:04.650 --> 04:05.910
+like Otter and run it on your meeting
+
+04:05.910 --> 04:08.910
+so you don't have to listen to them, anyone do that?
+
+04:08.910 --> 04:10.830
+That actually is when we look at the research,
+
+04:10.830 --> 04:12.600
+like the most practical future of work thing
+
+04:12.600 --> 04:13.980
+that people are doing because they don't wanna listen
+
+04:13.980 --> 04:15.810
+to their boss and they just wanna like record the meeting
+
+04:15.810 --> 04:17.910
+and do work while they're at work.
+
+04:17.910 --> 04:20.010
+But meeting avoidance is actually number one.
+
+04:20.010 --> 04:21.270
+But there are other amazing issues
+
+04:21.270 --> 04:22.530
+that Otter are being used, right?
+
+04:22.530 --> 04:25.620
+So procurement and any kind of legal contracts,
+
+04:25.620 --> 04:27.240
+we're seeing that pick up really quickly
+
+04:27.240 --> 04:29.790
+because there's only so much you can do with a legal intern
+
+04:29.790 --> 04:32.250
+to go find case law, see what's happening.
+
+04:32.250 --> 04:34.440
+We're definitely seeing in customer experience, the ability
+
+04:34.440 --> 04:35.760
+to do deflection or the ability
+
+04:35.760 --> 04:37.980
+to improve self-service using agents
+
+04:37.980 --> 04:39.960
+to personify what people are doing.
+
+04:39.960 --> 04:41.610
+We're also seeing it in terms of your ability
+
+04:41.610 --> 04:44.010
+for HR in terms of like interviewings
+
+04:44.010 --> 04:46.560
+and screenings for anything from regulatory requirements.
+
+04:46.560 --> 04:48.570
+Like do you have the right set of candidates?
+
+04:48.570 --> 04:50.400
+Do you have the right set of pools?
+
+04:50.400 --> 04:52.350
+Are you doing inclusion properly?
+
+04:52.350 --> 04:53.640
+Those are popping up as well.
+
+04:53.640 --> 04:56.520
+And then of course, code gen is number one by far, right?
+
+04:56.520 --> 04:58.170
+People are building code.
+
+04:58.170 --> 04:59.640
+What might have taken you a year
+
+04:59.640 --> 05:01.560
+to do is gonna take you a month to do,
+
+05:01.560 --> 05:02.910
+what might have taken you a month to do,
+
+05:02.910 --> 05:05.040
+some people are doing in like two days.
+
+05:05.040 --> 05:06.750
+That's the level of what's going on.
+
+05:06.750 --> 05:08.490
+And you know, if you're a CS major
+
+05:08.490 --> 05:10.170
+that's graduating this year, I really apologize
+
+05:10.170 --> 05:12.030
+because you probably will be unemployed, right?
+
+05:12.030 --> 05:14.040
+So we're gonna see stuff like that pop up.
+
+05:14.040 --> 05:16.377
+Now, the surprising piece that people like,
+
+05:16.377 --> 05:18.630
+and the last one actually is the creative sides.
+
+05:18.630 --> 05:21.180
+You've seen how much power it is to be able to create music
+
+05:21.180 --> 05:23.790
+or create, look at arts, looking at the ability
+
+05:23.790 --> 05:25.860
+to look at a whole set of portfolio of changes,
+
+05:25.860 --> 05:27.930
+things that you're able to do, most important,
+
+05:27.930 --> 05:30.030
+if you're doing a global campaign,
+
+05:30.030 --> 05:31.320
+it would take you five weeks
+
+05:31.320 --> 05:33.330
+to actually get each country up and going.
+
+05:33.330 --> 05:35.790
+It'll take you five weeks to get all of them up and done.
+
+05:35.790 --> 05:36.990
+And so it's a speed thing.
+
+05:36.990 --> 05:40.110
+It's this notion that we call exponential efficiency
+
+05:40.110 --> 05:41.580
+and enterprise acceleration.
+
+05:41.580 --> 05:43.020
+Those two things are happening
+
+05:43.020 --> 05:45.840
+at the same time, the surprise use.
+
+05:45.840 --> 05:47.820
+<v ->Tell us.</v>
+<v ->I think it's gonna be.</v>
+
+05:47.820 --> 05:49.400
+<v Sandy>Like what we've heard here at CES,</v>
+
+05:49.400 --> 05:50.350
+give us a surprise.
+
+05:51.390 --> 05:53.340
+<v ->It's really the way people are punking people</v>
+
+05:53.340 --> 05:55.170
+with different types of videos,
+
+05:55.170 --> 05:58.410
+unintentional misinformation, sometimes intentional.
+
+05:58.410 --> 05:59.730
+I think that's the surprise use,
+
+05:59.730 --> 06:01.050
+but the ability to detect
+
+06:01.050 --> 06:03.600
+that on the other end is now the surprise use
+
+06:03.600 --> 06:05.550
+because you're using AI to fight AI
+
+06:05.550 --> 06:07.770
+and you're gonna see more of that come up.
+
+06:07.770 --> 06:09.020
+<v ->Awesome, thank you Ray.</v>
+
+06:09.967 --> 06:11.160
+And those insights I think are interesting
+
+06:11.160 --> 06:13.770
+because they come from Ray's research where he works
+
+06:13.770 --> 06:16.830
+with thousands of companies, not just vendors
+
+06:16.830 --> 06:20.070
+but end users as well, which I think gives Constellation
+
+06:20.070 --> 06:23.310
+a leg up on a lot of the other analyst companies out there.
+
+06:23.310 --> 06:26.400
+So Stephanie, Altair has been doing AI since
+
+06:26.400 --> 06:29.190
+before AI was really popular and sexy.
+
+06:29.190 --> 06:32.040
+So tell us what you are seeing out there
+
+06:32.040 --> 06:34.410
+from an Altair perspective, what kind of usage do you see
+
+06:34.410 --> 06:36.630
+with LLMs or Gen AI?
+
+06:36.630 --> 06:37.920
+<v ->Yeah, absolutely.</v>
+
+06:37.920 --> 06:41.580
+So a large number of our customers are really exploring
+
+06:41.580 --> 06:43.890
+and engaging and every company's at sort
+
+06:43.890 --> 06:47.163
+of a different stage in their AI journey, I will say.
+
+06:48.480 --> 06:50.190
+A huge concern
+
+06:50.190 --> 06:53.790
+that is popping up right now for our customer base is
+
+06:53.790 --> 06:55.290
+around control.
+
+06:55.290 --> 06:57.750
+And what I mean by that is governance.
+
+06:57.750 --> 07:01.560
+So now the LLM concept allows
+
+07:01.560 --> 07:04.650
+for huge transfer of information,
+
+07:04.650 --> 07:05.940
+but you have to make sure
+
+07:05.940 --> 07:08.130
+that the right employees can access
+
+07:08.130 --> 07:09.570
+the right information still.
+
+07:09.570 --> 07:12.930
+So that's a really core piece to what we've focused on.
+
+07:12.930 --> 07:16.260
+And then in addition, you've got hallucination
+
+07:16.260 --> 07:20.940
+and when you're really looking at using LLMs in production,
+
+07:20.940 --> 07:25.020
+hallucination is absolutely something you cannot tolerate.
+
+07:25.020 --> 07:27.570
+And so there are many ways around it,
+
+07:27.570 --> 07:29.670
+particularly using technology such
+
+07:29.670 --> 07:33.240
+as the RapidMiner platform with the graph base,
+
+07:33.240 --> 07:35.236
+the knowledge graph technology.
+
+07:35.236 --> 07:37.320
+And so that's really core.
+
+07:37.320 --> 07:40.440
+But what I would say actually what I'm hearing
+
+07:40.440 --> 07:44.700
+from customers what is our number one challenge around AI
+
+07:44.700 --> 07:48.630
+and LLMs, it's actually about transformation.
+
+07:48.630 --> 07:52.320
+And what they mean by that is the concern all
+
+07:52.320 --> 07:57.060
+of their employees have around the lack of future job
+
+07:57.060 --> 08:01.710
+that I am now creating something that will take my job
+
+08:01.710 --> 08:03.780
+and what is that gonna mean for me in the future.
+
+08:03.780 --> 08:07.380
+And the reality is, is many of the skill sets today
+
+08:07.380 --> 08:11.010
+as Ray was talking about, are not gonna be needed.
+
+08:11.010 --> 08:13.410
+But there will be new skill sets needed.
+
+08:13.410 --> 08:16.170
+I'm not somebody that believes every single role
+
+08:16.170 --> 08:21.170
+in an organization is gonna be completely obsolete with AI
+
+08:21.330 --> 08:24.660
+but I do think that the roles that we have today will
+
+08:24.660 --> 08:27.660
+dramatically transform into the future.
+
+08:27.660 --> 08:29.070
+<v ->I think those are great points.</v>
+
+08:29.070 --> 08:31.650
+You know, I have two daughters, I have one getting ready
+
+08:31.650 --> 08:33.360
+to go to college and one in college
+
+08:33.360 --> 08:37.170
+and they are talking about that a lot now at the university.
+
+08:37.170 --> 08:39.120
+And in fact, hallucinations come up
+
+08:39.120 --> 08:40.770
+and one of the classes,
+
+08:40.770 --> 08:43.860
+my daughter was given the opportunity to do research
+
+08:43.860 --> 08:46.380
+with a couple of the gen AI tools
+
+08:46.380 --> 08:49.560
+like Claude and ChatGPT.
+
+08:49.560 --> 08:52.740
+And she found that in one of her pieces of research,
+
+08:52.740 --> 08:54.210
+all three of the references,
+
+08:54.210 --> 08:57.180
+even though they gave a book, a page number, a person
+
+08:57.180 --> 08:59.670
+to quote, none of those were actually real.
+
+08:59.670 --> 09:01.110
+So you do have to be really careful.
+
+09:01.110 --> 09:04.050
+So those are really, really great points.
+
+09:04.050 --> 09:06.570
+Yujing, I know that GMI works really closely
+
+09:06.570 --> 09:09.120
+with a lot of engineering leaders out there,
+
+09:09.120 --> 09:10.860
+so they're gonna be really interested
+
+09:10.860 --> 09:13.590
+in hearing about the patterns that you are seeing
+
+09:13.590 --> 09:17.250
+and what's really transforming the space out there.
+
+09:17.250 --> 09:20.640
+<v ->Yes, so we work with a lot of enterprises</v>
+
+09:20.640 --> 09:23.820
+and we see typical phases that also depends on
+
+09:23.820 --> 09:26.970
+how digitalized each enterprise is at this current phase.
+
+09:26.970 --> 09:30.420
+But one typical thing we saw is they usually give us five
+
+09:30.420 --> 09:33.800
+to six bullet points as if they wanna fire like 50%
+
+09:33.800 --> 09:35.900
+of the company but doubling their revenue.
+
+09:37.680 --> 09:39.630
+This is very common, like they wanna do this,
+
+09:39.630 --> 09:42.303
+they wanna do that like six to seven goals,
+
+09:43.320 --> 09:47.340
+but they will soon realize this is not the case, right?
+
+09:47.340 --> 09:49.710
+And they then fall down to their engineering department,
+
+09:49.710 --> 09:51.663
+say what we can do at this point.
+
+09:52.869 --> 09:55.530
+And they're usually starting with some small low risk
+
+09:55.530 --> 09:58.800
+but high revenue or our high ROI projects,
+
+09:58.800 --> 10:00.600
+which is a very good thing to start.
+
+10:02.130 --> 10:04.740
+And then they'll stall on a deeper integration side,
+
+10:04.740 --> 10:08.280
+like how are we gonna deal with the data compliance issue,
+
+10:08.280 --> 10:11.730
+now that we've tried some prompt using OpenAI or Claude?
+
+10:11.730 --> 10:13.680
+How should we proceed with our own data
+
+10:15.090 --> 10:17.370
+and how can we get more compute resource?
+
+10:17.370 --> 10:20.160
+You know, inferencing the new models is
+
+10:20.160 --> 10:23.070
+very costly these days and especially
+
+10:23.070 --> 10:26.070
+if you use like high-end models these days.
+
+10:26.070 --> 10:29.520
+Like some enterprise even ask specifically for example
+
+10:29.520 --> 10:32.824
+for Llama 405B or DeepSeek, which requires
+
+10:32.824 --> 10:34.863
+a huge amount of money to run on.
+
+10:35.928 --> 10:38.100
+And then that's where, for example,
+
+10:38.100 --> 10:41.100
+platforms like GMI Cloud will kick in to help them,
+
+10:41.100 --> 10:43.260
+for example, build their private clusters
+
+10:43.260 --> 10:45.160
+or do some on-prem deployment
+
+10:46.110 --> 10:50.160
+to further help them facilitate their end goals,
+
+10:50.160 --> 10:51.840
+for example, to do the rest of the five
+
+10:51.840 --> 10:53.760
+or six bullet points.
+
+10:53.760 --> 10:55.170
+So this is what I've seen from
+
+10:55.170 --> 10:58.609
+what they're doing versus what they plan to do.
+
+10:58.609 --> 11:01.170
+Of course there's data issue,
+
+11:01.170 --> 11:05.940
+there is data compliance issue, how to handle data PIIs,
+
+11:05.940 --> 11:08.280
+how to do data encryptions.
+
+11:08.280 --> 11:12.210
+So there is a long, long list for them to went through.
+
+11:12.210 --> 11:14.580
+And for companies with a good start, for example,
+
+11:14.580 --> 11:17.310
+if they have, already have a unified data layers
+
+11:17.310 --> 11:19.470
+like a data lake, congratulations,
+
+11:19.470 --> 11:21.120
+they're off to a good start.
+
+11:21.120 --> 11:24.303
+But we've also seen some companies are still in,
+
+11:25.622 --> 11:28.260
+still not very mature when it comes to digitalization.
+
+11:28.260 --> 11:31.620
+So our recommendation would be try to start small, try
+
+11:31.620 --> 11:33.600
+to find the data
+
+11:33.600 --> 11:37.230
+or database that has the best quality in that domain
+
+11:37.230 --> 11:42.230
+or that's most consistent to start with, yeah.
+
+11:42.330 --> 11:44.040
+<v ->Interesting, so can you tell us, like if you had</v>
+
+11:44.040 --> 11:45.300
+to look at all those five bullets
+
+11:45.300 --> 11:47.190
+that everybody's given you, what's the number one bullet
+
+11:47.190 --> 11:48.750
+that you see over and over again?
+
+11:48.750 --> 11:50.370
+<v ->Oh yeah, the number one bullet is always</v>
+
+11:50.370 --> 11:53.250
+like some kind of Copilot workflow.
+
+11:53.250 --> 11:55.590
+If it's working on, for example, software, hardware,
+
+11:55.590 --> 11:56.910
+that's pretty obvious
+
+11:56.910 --> 12:01.203
+and it has been a proven use case that works.
+
+12:02.220 --> 12:04.260
+For other, for example, customer services
+
+12:04.260 --> 12:06.510
+or other 2B business.
+
+12:06.510 --> 12:08.790
+They have this human in the loop chat bot
+
+12:08.790 --> 12:10.230
+that's also very popular.
+
+12:10.230 --> 12:13.810
+So these two I think are currently the most mature
+
+12:14.685 --> 12:17.100
+use case that we've seen so far.
+
+12:17.100 --> 12:18.210
+But they want
+
+12:18.210 --> 12:21.036
+to build other stuff like enterprise RAG,
+
+12:21.036 --> 12:24.840
+knowledge base Q&amp;A, which will also require
+
+12:24.840 --> 12:26.590
+deeper integration into their data.
+
+12:27.540 --> 12:30.000
+<v ->Interesting, so you know,</v>
+
+12:30.000 --> 12:34.350
+implementation really separates leaders from laggards
+
+12:34.350 --> 12:37.170
+and how you actually execute, not just how you plan,
+
+12:37.170 --> 12:39.510
+but how you actually execute as well.
+
+12:39.510 --> 12:42.690
+So moving to production sometimes is the big challenge,
+
+12:42.690 --> 12:45.480
+even though you've had a small success.
+
+12:45.480 --> 12:47.670
+I know Hassan, that you guys are working on a lot
+
+12:47.670 --> 12:50.670
+of really interesting things at aiXplain
+
+12:50.670 --> 12:54.946
+even making coders, implementers that are not
+
+12:54.946 --> 12:57.600
+typically coders like myself, right?
+
+12:57.600 --> 12:59.310
+Someone with go to market skills.
+
+12:59.310 --> 13:02.700
+So can you talk us through some of what you're doing
+
+13:02.700 --> 13:05.340
+and some of what you have in your architecture
+
+13:05.340 --> 13:07.290
+or your infrastructure that's crucial
+
+13:07.290 --> 13:09.180
+for everyone out here to know about?
+
+13:09.180 --> 13:13.260
+<v ->Yeah, thank you Sandy, so yeah, I do AI for,</v>
+
+13:13.260 --> 13:15.420
+since, is the microphone working?
+
+13:15.420 --> 13:19.710
+<v ->Yeah, there you go.</v>
+<v ->Perfect, so I do AI since 92</v>
+
+13:19.710 --> 13:21.120
+and I have seen a lot of.
+
+13:21.120 --> 13:23.666
+<v ->Wow wait, did you say 1992?</v>
+
+13:23.666 --> 13:25.530
+<v ->1992.</v>
+<v ->Wow.</v>
+
+13:25.530 --> 13:29.250
+<v ->My first language model was 95, my first agent</v>
+
+13:29.250 --> 13:32.370
+as we describe it today in 2015.
+
+13:32.370 --> 13:36.600
+So the concepts which we are dealing with are not as new
+
+13:36.600 --> 13:40.890
+as we might think, but they are more ready
+
+13:40.890 --> 13:42.150
+because of the environment.
+
+13:42.150 --> 13:44.730
+Compute is ready, data is ready,
+
+13:44.730 --> 13:47.100
+people have a better understanding on where to use.
+
+13:47.100 --> 13:49.140
+I mean this is definitely something
+
+13:49.140 --> 13:51.900
+to be said about ChatGPT when it came
+
+13:51.900 --> 13:53.880
+and educated basically millions
+
+13:53.880 --> 13:58.154
+and millions of people, which were like distant to AI.
+
+13:58.154 --> 14:03.154
+Now I was at AWS, we were building cool technology.
+
+14:04.080 --> 14:08.580
+I mean, it was an excellent experience,
+
+14:08.580 --> 14:11.220
+20 startups within three
+
+14:11.220 --> 14:14.280
+and a half years at AWS, that was,
+
+14:14.280 --> 14:16.050
+for me personally, a great experience.
+
+14:16.050 --> 14:19.650
+But we were actually addressing the engineer mainly, right?
+
+14:19.650 --> 14:22.560
+I mean we wanted to enable them
+
+14:22.560 --> 14:25.490
+to basically put things into their hands.
+
+14:25.490 --> 14:30.490
+And the reason why we started aiXplain is
+
+14:32.130 --> 14:35.670
+what about the 95 other percent of the world?
+
+14:35.670 --> 14:36.840
+We need to enable them,
+
+14:36.840 --> 14:39.270
+we need to give them tools into their hands
+
+14:39.270 --> 14:40.830
+to build capabilities similar
+
+14:40.830 --> 14:43.410
+to what an engineer would be doing.
+
+14:43.410 --> 14:44.520
+To be able to do that,
+
+14:44.520 --> 14:48.210
+we have multiple challenges which need to be addressed.
+
+14:48.210 --> 14:52.860
+One is we as AI scientists know what RAG is.
+
+14:52.860 --> 14:57.330
+We know what LLM is, we know what signal processing is.
+
+14:57.330 --> 14:58.920
+We know, so we know basically
+
+14:58.920 --> 15:00.540
+how to put these things together
+
+15:00.540 --> 15:03.600
+so that they can work a certain way.
+
+15:03.600 --> 15:08.600
+Maybe one model can do it all at once, but typically not.
+
+15:08.730 --> 15:12.930
+So to serve that, to solve that problem,
+
+15:12.930 --> 15:17.790
+we built basically an our own agent, Bel Esprit,
+
+15:17.790 --> 15:22.169
+to take basically a conversation
+
+15:22.169 --> 15:27.169
+from an executive into an architecture
+
+15:27.420 --> 15:32.420
+of solutions using multiple models right there and so forth.
+
+15:33.030 --> 15:36.660
+So now a chief claims officer can actually
+
+15:36.660 --> 15:39.630
+immediately converse with a chatbot experience
+
+15:39.630 --> 15:41.070
+and build a solution.
+
+15:41.070 --> 15:45.390
+Build an agent just by conversing, just by telling it
+
+15:45.390 --> 15:46.980
+what is the pain point?
+
+15:46.980 --> 15:49.800
+Where do I need to do, what do I need?
+
+15:49.800 --> 15:51.510
+What kind of data do I have?
+
+15:51.510 --> 15:53.190
+Et cetera, et cetera.
+
+15:53.190 --> 15:58.190
+Now, so building the solution is an important component,
+
+16:00.540 --> 16:03.420
+but like Stephanie has actually earlier mentioned,
+
+16:03.420 --> 16:05.310
+this is not the only thing you need to do
+
+16:05.310 --> 16:07.530
+to take basically a solution.
+
+16:07.530 --> 16:11.160
+I mean at that point you just have a demo, just prototype.
+
+16:11.160 --> 16:13.590
+It's not really deployable
+
+16:13.590 --> 16:15.210
+because you don't have the guardrails,
+
+16:15.210 --> 16:17.550
+you don't have the data security,
+
+16:17.550 --> 16:19.050
+you don't know what's gonna happen
+
+16:19.050 --> 16:21.240
+when an algorithm does something
+
+16:21.240 --> 16:23.460
+and potentially is biased or something like that.
+
+16:23.460 --> 16:27.720
+So you need to build technologies to help you with that.
+
+16:27.720 --> 16:31.830
+We implemented things, what we call,
+
+16:31.830 --> 16:35.610
+I mean micro agents, what like we call them bodyguards,
+
+16:35.610 --> 16:40.610
+dealing, managing data, data access and so forth.
+
+16:41.883 --> 16:44.910
+We build micro agents, which are called inspectors,
+
+16:44.910 --> 16:49.680
+paying attention to what is, is a certain policy being hurt
+
+16:49.680 --> 16:53.280
+for example, does the data need to comply
+
+16:53.280 --> 16:55.020
+with HIPAA or something like that.
+
+16:55.020 --> 16:59.490
+Sometimes the solution will recruit out of 40,000
+
+16:59.490 --> 17:04.490
+of existing agents in aiXplain, multiple inspectors.
+
+17:05.310 --> 17:09.000
+One is HIPAA, one is SOC 2, one is, I don't know,
+
+17:09.000 --> 17:12.900
+maybe something which generates content which is feasible
+
+17:12.900 --> 17:15.840
+to be shown to a 7-year-old, et cetera, et cetera.
+
+17:15.840 --> 17:19.050
+And building these kind of capabilities is
+
+17:19.050 --> 17:21.930
+what we are enabling our users to do.
+
+17:21.930 --> 17:26.220
+So we are trying to reduce the, I mean it's getting more
+
+17:26.220 --> 17:30.051
+and more confusing, the more we are,
+
+17:30.051 --> 17:32.610
+I mean continuing this AI journey,
+
+17:32.610 --> 17:37.610
+the more confusing it is, for me as a like long timer in AI,
+
+17:37.710 --> 17:40.980
+it's not easy anymore to say I don't know
+
+17:40.980 --> 17:43.560
+what models are coming on a daily basis.
+
+17:43.560 --> 17:48.050
+There's new LLMs coming, which one to choose is hard.
+
+17:48.050 --> 17:52.464
+Let the AI help us to figure out what AI to use.
+
+17:52.464 --> 17:53.940
+So this is what aiXplain offers.
+
+17:53.940 --> 17:55.449
+<v ->Interesting.</v>
+
+17:55.449 --> 17:58.080
+I think I need a bodyguard too, I think that's really cool.
+
+17:58.080 --> 18:02.850
+And so this trend of looking at non-coders starting to code,
+
+18:02.850 --> 18:04.380
+do you see that Ray as something
+
+18:04.380 --> 18:07.860
+that people are talking about what Hassan is working on?
+
+18:07.860 --> 18:09.180
+<v ->Oh yeah, I mean we're definitely gonna see</v>
+
+18:09.180 --> 18:10.743
+like a 10th less coders.
+
+18:12.129 --> 18:13.380
+You know, you're gonna see definitely people jump in
+
+18:13.380 --> 18:16.410
+and just describe business descriptions, right?
+
+18:16.410 --> 18:18.690
+I mean the point of AI is not more AI the point of AI is
+
+18:18.690 --> 18:20.010
+to make better decisions.
+
+18:20.010 --> 18:21.330
+And what's gonna happen over time is
+
+18:21.330 --> 18:23.820
+you're gonna draw decision maps and you're gonna say,
+
+18:23.820 --> 18:24.900
+that's not where I wanna automate.
+
+18:24.900 --> 18:26.100
+You're actually gonna say a different question.
+
+18:26.100 --> 18:28.500
+You're gonna say, this is where I want
+
+18:28.500 --> 18:30.540
+to insert a human to change the process.
+
+18:30.540 --> 18:32.190
+And that's really gonna change the way you look
+
+18:32.190 --> 18:34.380
+at how you automate decisions
+
+18:34.380 --> 18:36.240
+because that's really the goal of AI
+
+18:36.240 --> 18:38.970
+in the end is automating as many decisions as you can
+
+18:38.970 --> 18:40.530
+and then back to production ready.
+
+18:40.530 --> 18:42.660
+I mean, the question you're gonna ask is
+
+18:42.660 --> 18:45.150
+who do you sue when something goes wrong, right?
+
+18:45.150 --> 18:46.380
+Very, very important because that's
+
+18:46.380 --> 18:48.240
+where you're gonna jump in so you're not production ready
+
+18:48.240 --> 18:49.830
+until you can answer that question.
+
+18:49.830 --> 18:52.110
+And sometimes that means a human has to be there
+
+18:52.110 --> 18:54.540
+or another, you know, another body has to be there
+
+18:54.540 --> 18:57.030
+to assume liability, so you'll see that.
+
+18:57.030 --> 18:58.740
+Back on the implementation thing,
+
+18:58.740 --> 19:01.710
+I think that's just really important is LLMs, you know,
+
+19:01.710 --> 19:05.040
+if I told you my LLM is 85% accurate
+
+19:05.040 --> 19:06.960
+for customer experience, would people feel good here?
+
+19:06.960 --> 19:09.236
+Like raise your hands if you feel good.
+
+19:09.236 --> 19:10.980
+It's not bad, right?
+
+19:10.980 --> 19:15.180
+But what about 85% for supply chain, anyone up for that?
+
+19:15.180 --> 19:18.150
+No, right, it's a million dollars lost per minute.
+
+19:18.150 --> 19:21.630
+What about 85% accuracy for finance, anyone?
+
+19:21.630 --> 19:23.430
+Anybody wanna go to jail?
+
+19:23.430 --> 19:26.040
+All right, what about 85% accuracy for healthcare?
+
+19:26.040 --> 19:29.550
+Anyone in, okay, so that's the challenge, right?
+
+19:29.550 --> 19:31.650
+And so the other part that's really important is
+
+19:31.650 --> 19:33.240
+to make sure you partner for data.
+
+19:33.240 --> 19:35.400
+So we're going to see data collectives emerge
+
+19:35.400 --> 19:38.100
+and these data collectives basically play a role in terms
+
+19:38.100 --> 19:40.200
+of sharing information you're gonna give and get.
+
+19:40.200 --> 19:42.180
+And one of the things that you don't realize is
+
+19:42.180 --> 19:44.220
+we keep talking about the battle for LLMs
+
+19:44.220 --> 19:45.720
+and that's a really cool battle
+
+19:45.720 --> 19:47.730
+and we can go into that so deep.
+
+19:47.730 --> 19:50.250
+But your data sets are gonna be just as important
+
+19:50.250 --> 19:52.763
+because the next 15%, right, that 10%
+
+19:52.763 --> 19:56.490
+and then the next 5% is equally valuable.
+
+19:56.490 --> 19:58.020
+So don't give away your data
+
+19:58.020 --> 20:00.120
+because it's gonna be used somewhere else
+
+20:00.120 --> 20:02.550
+because we're competing for precision decisions.
+
+20:02.550 --> 20:04.620
+And if you can get to 99%,
+
+20:04.620 --> 20:06.990
+that means less humans involved in that process.
+
+20:06.990 --> 20:10.140
+If you're at 85%, there's a lot more humans in that process.
+
+20:10.140 --> 20:12.510
+And so that level of precision means
+
+20:12.510 --> 20:13.860
+we need more data sources
+
+20:13.860 --> 20:16.290
+and so that partnership becomes important.
+
+20:16.290 --> 20:18.090
+<v ->Yeah, that's interesting, I was just talking actually</v>
+
+20:18.090 --> 20:20.970
+to Fei-Fei and she was telling me that everybody thinks
+
+20:20.970 --> 20:23.670
+that it's gonna be LLMs that either determine success
+
+20:23.670 --> 20:26.880
+or failure, it is gonna be around your data.
+
+20:26.880 --> 20:30.180
+And Stephanie, I know at Altair you guys have been working
+
+20:30.180 --> 20:34.560
+on helping customers by industry, looking at data models,
+
+20:34.560 --> 20:37.470
+looking at compute models to scale.
+
+20:37.470 --> 20:39.600
+So what lessons would you give the audience
+
+20:39.600 --> 20:43.290
+on data compute at scale?
+
+20:43.290 --> 20:45.450
+<v ->Yeah, I mean at the end of the day,</v>
+
+20:45.450 --> 20:47.700
+you don't want one AI model.
+
+20:47.700 --> 20:51.330
+You're gonna want hundreds of thousands at the end
+
+20:51.330 --> 20:54.780
+and that becomes a big challenge when you're in production
+
+20:54.780 --> 20:59.100
+and everything needs to work not just at 85%.
+
+20:59.100 --> 21:02.430
+And so for us, you know, on the Altair side,
+
+21:02.430 --> 21:05.850
+we have deep expertise on the high performance computing
+
+21:05.850 --> 21:07.950
+and we're the number one player for workload
+
+21:07.950 --> 21:09.750
+and workflow scheduling.
+
+21:09.750 --> 21:13.020
+And so our technology is on the largest computers
+
+21:13.020 --> 21:15.690
+in the world today, the exoscale computers.
+
+21:15.690 --> 21:19.230
+And we're leveraging this expertise really
+
+21:19.230 --> 21:23.910
+and applying it into our AI operations and our AI platform.
+
+21:23.910 --> 21:27.090
+But scalability is one of the major concerns
+
+21:27.090 --> 21:30.390
+that really comes out as a customer progresses
+
+21:30.390 --> 21:31.410
+through their journey.
+
+21:31.410 --> 21:35.400
+To begin, it always starts more on the data side
+
+21:35.400 --> 21:38.280
+of I need to have the right data.
+
+21:38.280 --> 21:40.920
+And that's really complicated for customers today
+
+21:40.920 --> 21:42.660
+because most customers,
+
+21:42.660 --> 21:45.450
+their data is segmented into different silos.
+
+21:45.450 --> 21:49.380
+You've got an ERP, you've got a PLM, you've got, you know,
+
+21:49.380 --> 21:51.030
+all these different silos of data
+
+21:51.030 --> 21:53.100
+that are not necessarily connected.
+
+21:53.100 --> 21:55.980
+You may have dumped them into a data lake,
+
+21:55.980 --> 21:58.530
+but that doesn't actually create the relationships
+
+21:58.530 --> 22:01.470
+that are needed across those different silos.
+
+22:01.470 --> 22:05.790
+And so the data aspect becomes even more important
+
+22:05.790 --> 22:07.590
+into the future.
+
+22:07.590 --> 22:10.500
+And one of the core concepts
+
+22:10.500 --> 22:15.500
+that Altair focuses on is a data fabric and AI fabric.
+
+22:15.690 --> 22:19.080
+And this is really creating that layer over top
+
+22:19.080 --> 22:20.550
+of those different data silos.
+
+22:20.550 --> 22:23.010
+Because as Ray was talking about, you're gonna have data,
+
+22:23.010 --> 22:24.030
+whether it's your own data
+
+22:24.030 --> 22:27.030
+or outside data that's coming in that's needed
+
+22:27.030 --> 22:28.890
+to help train the models
+
+22:28.890 --> 22:31.530
+but also to give responses
+
+22:31.530 --> 22:35.610
+in real time on different actions, sensors,
+
+22:35.610 --> 22:37.560
+things like that that are happening.
+
+22:37.560 --> 22:40.920
+And so, you know, it's really gonna be, I think one
+
+22:40.920 --> 22:43.200
+of the most important and critical aspects.
+
+22:43.200 --> 22:46.950
+Most people are always thinking about AI modeling
+
+22:46.950 --> 22:50.280
+and how do I get my models out into operation?
+
+22:50.280 --> 22:52.200
+But that's sort of the second step.
+
+22:52.200 --> 22:55.286
+You have to start with the right data.
+
+22:55.286 --> 22:57.990
+<v ->Absolutely, data, data, data.</v>
+
+22:57.990 --> 22:59.310
+But there is one other thing
+
+22:59.310 --> 23:01.530
+besides data, which is integration.
+
+23:01.530 --> 23:02.820
+How many of you out there have
+
+23:02.820 --> 23:05.730
+to integrate these solutions into what you're doing?
+
+23:05.730 --> 23:07.920
+Or are all of you guys startups?
+
+23:07.920 --> 23:10.530
+No, okay, most people here have to integrate.
+
+23:10.530 --> 23:13.080
+So Yujing, talk to us a little bit about integration
+
+23:13.080 --> 23:16.260
+'cause integration can sometimes be the Achilles heel
+
+23:16.260 --> 23:18.120
+in a solution for AI.
+
+23:18.120 --> 23:21.210
+<v ->Exactly, especially when you're given this black box</v>
+
+23:21.210 --> 23:25.110
+of large language models, people usually just, oh no,
+
+23:25.110 --> 23:26.730
+how should I integrate into our business?
+
+23:26.730 --> 23:29.430
+Right, I know how to type in and receive the response,
+
+23:29.430 --> 23:32.520
+but what about our existing workflow?
+
+23:32.520 --> 23:34.830
+I think that's the most asked questions
+
+23:34.830 --> 23:37.053
+for established business at these days.
+
+23:37.950 --> 23:41.016
+So from an engineering perspective, we will say
+
+23:41.016 --> 23:44.070
+don't be afraid of the existing frameworks.
+
+23:44.070 --> 23:45.900
+I know like if you live in San Francisco,
+
+23:45.900 --> 23:48.990
+you'll probably be dragging to different kind of hackathons
+
+23:48.990 --> 23:53.973
+and see like seven to 10 different AI frameworks every week.
+
+23:55.770 --> 23:58.230
+That's where like expertise is needed.
+
+23:58.230 --> 24:01.890
+Like you need to pick the right expertise as consultant
+
+24:01.890 --> 24:05.070
+to tell you what kind of framework is needed
+
+24:05.070 --> 24:07.350
+to suit your actual use case.
+
+24:07.350 --> 24:10.050
+For example, somebody have their own data lakes already
+
+24:10.050 --> 24:13.470
+established on Databricks, then it's probably fairly easy
+
+24:13.470 --> 24:15.960
+to streamline everything into this,
+
+24:15.960 --> 24:18.093
+what we call the LLM ops framework.
+
+24:19.290 --> 24:23.190
+If they're still not in this kind of data lake process,
+
+24:23.190 --> 24:26.430
+then we need to figure out where the data sits right now,
+
+24:26.430 --> 24:29.280
+what kind of compliance they need to follow,
+
+24:29.280 --> 24:32.820
+what about data privacies, how sensitive they are.
+
+24:32.820 --> 24:35.070
+And most importantly, we need to see the thing
+
+24:35.070 --> 24:39.240
+as a pipeline, not just a snapshot.
+
+24:39.240 --> 24:40.950
+Because like Stephanie has mentioned,
+
+24:40.950 --> 24:43.290
+model training is just one thing.
+
+24:43.290 --> 24:46.230
+The most important is how you manage your actual data flow.
+
+24:46.230 --> 24:48.540
+And what's most important is this,
+
+24:48.540 --> 24:51.630
+how this data flow would flow into your business
+
+24:51.630 --> 24:55.593
+and in the end be integrated by different components.
+
+24:56.910 --> 25:00.870
+For example, agent is one of the most debated
+
+25:00.870 --> 25:02.793
+or discussed topic these days.
+
+25:03.660 --> 25:07.680
+So my take is don't be afraid of starting using a framework.
+
+25:07.680 --> 25:09.180
+I know there is a debate
+
+25:09.180 --> 25:11.220
+between framework or no framework.
+
+25:11.220 --> 25:15.180
+Somebody says no framework is the best engineering practice.
+
+25:15.180 --> 25:16.890
+Somebody says, oh, just use a framework.
+
+25:16.890 --> 25:19.020
+So our recommendation is trivial.
+
+25:19.020 --> 25:20.640
+Just try using a framework
+
+25:20.640 --> 25:22.170
+and establish a framework
+
+25:22.170 --> 25:26.820
+to prototype your business pain point or your business need.
+
+25:26.820 --> 25:28.560
+And then you will figure out what you need
+
+25:28.560 --> 25:29.730
+and what's lacking.
+
+25:29.730 --> 25:33.033
+So don't be afraid to try, that's my take.
+
+25:34.350 --> 25:36.990
+<v ->So we've been talking a lot about the technology today,</v>
+
+25:36.990 --> 25:38.820
+but I'm a Forbes contributor
+
+25:38.820 --> 25:43.770
+and I wrote an article on ROI, ROI, ROI for AI.
+
+25:43.770 --> 25:46.410
+It was one of my top rated articles
+
+25:46.410 --> 25:49.470
+because everybody now is moving into, I have to prove
+
+25:49.470 --> 25:54.470
+to my boss that this is not just cool, it's not just AI
+
+25:54.660 --> 25:58.290
+but it actually delivers a measurable business outcome.
+
+25:58.290 --> 25:59.670
+So Ray, I'm gonna go first to you
+
+25:59.670 --> 26:02.610
+'cause I know you've recently done some research here
+
+26:02.610 --> 26:07.170
+on what are the elements that cause a project
+
+26:07.170 --> 26:10.020
+to be ROI positive, to be successful
+
+26:10.020 --> 26:13.500
+and what are the things that these folks could watch out for
+
+26:13.500 --> 26:16.680
+that might deter from that ROI mission?
+
+26:16.680 --> 26:17.513
+<v ->Yeah, no, Sandy,</v>
+
+26:17.513 --> 26:18.720
+everybody wants to know what the payback is.
+
+26:18.720 --> 26:22.230
+And if you think about what happened last year,
+
+26:22.230 --> 26:25.590
+and we basically robbed budgets to pay for AI, right?
+
+26:25.590 --> 26:26.910
+You saw it all across the board,
+
+26:26.910 --> 26:28.470
+like your marketing budget got robbed,
+
+26:28.470 --> 26:30.780
+your cybersecurity budget got robbed
+
+26:30.780 --> 26:33.480
+and people were trying to pay for all these AI innovations.
+
+26:33.480 --> 26:36.450
+And then the question was really did anybody succeed?
+
+26:36.450 --> 26:40.920
+And we saw about 15 to 17% of POCs,
+
+26:40.920 --> 26:42.870
+proof of concepts succeed.
+
+26:42.870 --> 26:44.490
+And the companies that did succeed,
+
+26:44.490 --> 26:46.680
+they were able to see a lot of gains.
+
+26:46.680 --> 26:47.820
+I'll give you a great example.
+
+26:47.820 --> 26:50.370
+We were interviewing the CEO of Sam's Club
+
+26:50.370 --> 26:54.390
+on stage at our AI forum and basically he goes,
+
+26:54.390 --> 26:57.270
+we got rid of 10 million tasks, right?
+
+26:57.270 --> 26:59.348
+And the next thing you would think is like, yeah,
+
+26:59.348 --> 27:00.660
+and we also got rid of X number of people, right?
+
+27:00.660 --> 27:02.340
+That's probably what you would think.
+
+27:02.340 --> 27:04.350
+But instead he actually said,
+
+27:04.350 --> 27:07.050
+we actually added 3% more frontline workers
+
+27:07.050 --> 27:09.180
+because we needed a human touch, right?
+
+27:09.180 --> 27:11.940
+So you're starting to see that type of ROI,
+
+27:11.940 --> 27:14.790
+if you're looking for the next AI stocks to invest in,
+
+27:14.790 --> 27:17.700
+it's not the NVIDIAs of the world, it's the companies
+
+27:17.700 --> 27:19.290
+that are putting AI to work.
+
+27:19.290 --> 27:21.780
+So if you look at what Uber did,
+
+27:21.780 --> 27:23.190
+you only got a certain number of drivers
+
+27:23.190 --> 27:24.990
+and they can only drive a certain number of days.
+
+27:24.990 --> 27:27.420
+But what they did was they took their data science
+
+27:27.420 --> 27:29.160
+and their machine learning capabilities
+
+27:29.160 --> 27:31.290
+and figure out how to do ride batching,
+
+27:31.290 --> 27:33.300
+putting more people into the car, right?
+
+27:33.300 --> 27:35.490
+And able to actually figure out how
+
+27:35.490 --> 27:37.050
+to do dynamic pricing on the backend.
+
+27:37.050 --> 27:39.510
+And those two things means the driver gets more rides
+
+27:39.510 --> 27:40.343
+or more fares.
+
+27:40.343 --> 27:41.580
+And of course Uber takes their cut,
+
+27:41.580 --> 27:44.220
+but you get the idea, they can then build against that.
+
+27:44.220 --> 27:46.860
+So we're starting to see this happen in places
+
+27:46.860 --> 27:48.117
+and you're gonna see more and more companies
+
+27:48.117 --> 27:50.190
+who actually have that data foundation
+
+27:50.190 --> 27:51.330
+improve personalization,
+
+27:51.330 --> 27:52.650
+which means maybe you're more loyal,
+
+27:52.650 --> 27:54.750
+which means you're gonna buy more from them.
+
+27:54.750 --> 27:57.060
+Or they can figure out at risk employees
+
+27:57.060 --> 27:58.890
+who might be leaving and understand,
+
+27:58.890 --> 28:00.240
+hey, what are the factors behind that?
+
+28:00.240 --> 28:01.410
+Well, their boss left
+
+28:01.410 --> 28:03.120
+or their best friends have left, right?
+
+28:03.120 --> 28:05.190
+Okay, that's gonna create a cascading effect.
+
+28:05.190 --> 28:07.260
+Let's go do something to actually improve retention
+
+28:07.260 --> 28:10.170
+because hiring people is not fun, nor is it cheap.
+
+28:10.170 --> 28:12.120
+So you'll see more examples like that.
+
+28:12.120 --> 28:13.500
+<v ->I love the research that Ray did</v>
+
+28:13.500 --> 28:15.780
+'cause he gave kind of three core things
+
+28:15.780 --> 28:18.120
+that he saw from successful projects.
+
+28:18.120 --> 28:19.710
+Let me see if I get this right.
+
+28:19.710 --> 28:24.000
+One was that the people in the company viewed it not
+
+28:24.000 --> 28:26.820
+as an AI project but as a business project.
+
+28:26.820 --> 28:29.190
+So it wasn't, I'm gonna do this cool LLM
+
+28:29.190 --> 28:31.110
+or I'm gonna do this gen AI thing,
+
+28:31.110 --> 28:33.150
+it's I'm gonna improve my supply chain,
+
+28:33.150 --> 28:35.490
+I'm gonna do something around the business.
+
+28:35.490 --> 28:38.100
+The second one was data, they had the right data.
+
+28:38.100 --> 28:39.960
+They knew the data that they needed
+
+28:39.960 --> 28:41.640
+as they were gonna move forward
+
+28:41.640 --> 28:44.700
+because this would help them to ensure
+
+28:44.700 --> 28:47.130
+that they didn't reach that 85% point,
+
+28:47.130 --> 28:49.050
+but they reached even further.
+
+28:49.050 --> 28:51.270
+And then the third one that I saw
+
+28:51.270 --> 28:54.900
+that Ray talked about from his research was start small.
+
+28:54.900 --> 28:56.880
+A lot of the companies, 'cause you said 15
+
+28:56.880 --> 28:59.610
+to 17% were successful, a lot of those
+
+28:59.610 --> 29:02.490
+who were not successful started really big.
+
+29:02.490 --> 29:03.780
+They started to accomplish something
+
+29:03.780 --> 29:07.170
+that was huge versus starting small, learning.
+
+29:07.170 --> 29:08.823
+And then moving on from that.
+
+29:09.810 --> 29:11.850
+Hassan, I know that you guys are looking
+
+29:11.850 --> 29:13.890
+at a lot of economics as well.
+
+29:13.890 --> 29:16.110
+Talk to me about what you are seeing in economics.
+
+29:16.110 --> 29:18.870
+I know you're working with some insurance companies,
+
+29:18.870 --> 29:20.400
+oil companies, et cetera.
+
+29:20.400 --> 29:21.960
+Talk to us about what you are seeing in terms
+
+29:21.960 --> 29:23.463
+of economics and ROI.
+
+29:24.840 --> 29:29.160
+<v ->So we have this customer,</v>
+
+29:29.160 --> 29:34.160
+which is an insurance company in Florida.
+
+29:34.200 --> 29:37.620
+They are actually, so homeowners insurance doing a great job
+
+29:37.620 --> 29:39.660
+with what they're doing on a day-to-day basis.
+
+29:39.660 --> 29:43.200
+But then the hurricane hits, and then suddenly,
+
+29:43.200 --> 29:46.290
+their less than a hundred human agents have
+
+29:46.290 --> 29:50.130
+to solve problems, which are for 10,000 people.
+
+29:50.130 --> 29:51.780
+The people cannot be at home.
+
+29:51.780 --> 29:54.090
+They cannot, they have big issues.
+
+29:54.090 --> 29:56.733
+I mean, it's a big impact.
+
+29:57.810 --> 30:01.410
+One of their executives came to explain
+
+30:01.410 --> 30:03.450
+and build basically an agent
+
+30:03.450 --> 30:08.000
+to augment the human agents with AI
+
+30:09.383 --> 30:14.383
+so that an agent can now converse with a customer,
+
+30:14.400 --> 30:16.140
+take on the claim,
+
+30:16.140 --> 30:19.470
+figure out whether it is within a certain
+
+30:19.470 --> 30:22.170
+like approvable budget,
+
+30:22.170 --> 30:23.970
+and then basically approve it right away
+
+30:23.970 --> 30:26.070
+without the human needing to be involved.
+
+30:26.070 --> 30:29.030
+And that includes asking the user to,
+
+30:29.030 --> 30:32.280
+or the policy holder to take pictures of the roof
+
+30:32.280 --> 30:34.980
+to identify how is the roof looking like?
+
+30:34.980 --> 30:37.650
+What material is it, how big is it?
+
+30:37.650 --> 30:38.940
+By taking information,
+
+30:38.940 --> 30:42.693
+coming from, for example, satellite images and whatnot.
+
+30:44.760 --> 30:48.120
+The 75 agents turned into more agents,
+
+30:48.120 --> 30:50.130
+more than a hundred agents
+
+30:50.130 --> 30:54.270
+because I mean, while they were able
+
+30:54.270 --> 30:57.210
+to like solve the majority, the belly
+
+30:57.210 --> 31:00.297
+of the distribution was actually be solved by the AI.
+
+31:00.297 --> 31:04.110
+Now the actual customer had more time
+
+31:04.110 --> 31:07.290
+or the agent had more time to invest with the customers,
+
+31:07.290 --> 31:10.803
+which are outside the things the AI can actually solve.
+
+31:12.690 --> 31:14.880
+They saved a lot of money, millions and millions.
+
+31:14.880 --> 31:18.600
+I can't disclose how much, but I can tell you
+
+31:18.600 --> 31:23.600
+that the user experience increased dramatically
+
+31:23.610 --> 31:26.700
+from the two point x to four point x,
+
+31:26.700 --> 31:30.180
+I mean out of a five point scale.
+
+31:30.180 --> 31:33.270
+So that was actually more important almost
+
+31:33.270 --> 31:37.500
+than the US dollar, which was actually gained as well.
+
+31:37.500 --> 31:39.630
+So winning on these two things.
+
+31:39.630 --> 31:44.280
+So I want to talk also about the data.
+
+31:44.280 --> 31:48.120
+Data, while it is great
+
+31:48.120 --> 31:50.910
+to have the right data to basically build these agents
+
+31:50.910 --> 31:53.490
+to have access to, they don't need
+
+31:53.490 --> 31:56.070
+to be in double quotes, clean.
+
+31:56.070 --> 31:58.980
+We have learned over the 30 years,
+
+31:58.980 --> 32:02.640
+cleanliness can be done using AI as well.
+
+32:02.640 --> 32:05.220
+I mean, you can utilize, build an agent to learn
+
+32:05.220 --> 32:06.540
+on how to deal with your data,
+
+32:06.540 --> 32:09.120
+for example, it is the right data,
+
+32:09.120 --> 32:10.710
+meaning not how clean they are,
+
+32:10.710 --> 32:14.040
+but how much information is encoded in the data
+
+32:14.040 --> 32:16.560
+and whether it's gonna be valuable to you,
+
+32:16.560 --> 32:18.870
+is it accessible, et cetera, et cetera.
+
+32:18.870 --> 32:21.600
+So I have seen a lot
+
+32:21.600 --> 32:26.600
+of companies being concerned about their data being messy
+
+32:26.609 --> 32:31.609
+and hence never started actually experimenting with AI
+
+32:32.100 --> 32:35.550
+just because they felt no, it needs to be all in databases
+
+32:35.550 --> 32:37.470
+and structured and this and that.
+
+32:37.470 --> 32:39.120
+This is not the way,
+
+32:39.120 --> 32:41.610
+this is not the bottleneck.
+
+32:41.610 --> 32:43.860
+The bottleneck is to have the right data
+
+32:43.860 --> 32:47.340
+to solve a certain problem, so I thought that's.
+
+32:47.340 --> 32:48.853
+<v ->That's awesome.</v>
+
+32:48.853 --> 32:50.880
+Yeah, don't wait and definitely get started for sure.
+
+32:50.880 --> 32:52.740
+<v ->And start small.</v>
+<v ->And start small.</v>
+
+32:52.740 --> 32:56.790
+That's right, okay, so we've covered kind of
+
+32:56.790 --> 32:59.220
+what we see people doing today.
+
+32:59.220 --> 33:01.770
+We've covered how you might get started.
+
+33:01.770 --> 33:04.560
+We just have time for one more question that we're gonna go
+
+33:04.560 --> 33:08.130
+through, which is what do you see for the future?
+
+33:08.130 --> 33:10.620
+So Yujing, I'm gonna start with you
+
+33:10.620 --> 33:12.630
+and we're gonna go through each and every person.
+
+33:12.630 --> 33:14.730
+What is one thing that you want everyone here
+
+33:14.730 --> 33:18.813
+to take away about the future of LLM and gen AI?
+
+33:21.750 --> 33:25.113
+<v ->One thing I wanna say is there's always a trend,</v>
+
+33:26.340 --> 33:28.990
+for example, for this year, agent might be the trend.
+
+33:30.690 --> 33:32.940
+Video generation might be the trend,
+
+33:32.940 --> 33:36.963
+but you gotta pick what actually works for your business.
+
+33:39.030 --> 33:41.970
+I think both our panelists have mentioned starting small,
+
+33:41.970 --> 33:43.293
+this is really good.
+
+33:44.880 --> 33:48.240
+I also want to add something is pay attention to
+
+33:48.240 --> 33:51.033
+how you set things up and your infrastructure.
+
+33:52.140 --> 33:56.460
+Because one thing to increase ROI definitely is
+
+33:56.460 --> 33:57.813
+by reducing the costs,
+
+34:00.270 --> 34:02.313
+find the right infrastructure provider,
+
+34:03.330 --> 34:04.290
+try different things.
+
+34:04.290 --> 34:07.110
+For example, actually a smaller model rather than,
+
+34:07.110 --> 34:11.280
+for example, ChatGPT o1 or Claude Sonnet,
+
+34:11.280 --> 34:13.080
+that's very expensive.
+
+34:13.080 --> 34:16.130
+Maybe a small model can solve like 90%
+
+34:16.130 --> 34:18.363
+or 95% of your core problem.
+
+34:22.890 --> 34:26.430
+If there has to be something that you really pay attention,
+
+34:26.430 --> 34:31.260
+I will say for the near future, that will still be agent
+
+34:31.260 --> 34:34.800
+because that is the thing that can solve,
+
+34:34.800 --> 34:38.410
+I will say most of the established business problems
+
+34:40.890 --> 34:45.300
+as an agent can really work like a real employee
+
+34:45.300 --> 34:49.650
+at this point with some level of function called capability,
+
+34:49.650 --> 34:51.880
+the ability to read through documentations
+
+34:53.243 --> 34:56.155
+and these knowledge are actually hidden
+
+34:56.155 --> 34:58.650
+within your own data.
+
+34:58.650 --> 35:02.870
+So my take is focusing on agent thing,
+
+35:02.870 --> 35:06.390
+pay more attention to your own data
+
+35:06.390 --> 35:09.633
+and get a good infrastructure support.
+
+35:09.633 --> 35:12.150
+<v ->Hmm, really good one, so for the future,</v>
+
+35:12.150 --> 35:15.120
+AI agent as an employee, that's what I heard him say.
+
+35:15.120 --> 35:16.740
+And data, data, data.
+
+35:16.740 --> 35:19.050
+Okay Steph, I'm gonna go to you next.
+
+35:19.050 --> 35:20.610
+<v ->Sure, so I mean,</v>
+
+35:20.610 --> 35:24.930
+the way I think about AI really is it can help reduce cost,
+
+35:24.930 --> 35:27.690
+but it also can help increase your revenue.
+
+35:27.690 --> 35:31.050
+And so I think it can be used in both directions
+
+35:31.050 --> 35:33.720
+and I think it's important that you're looking at it.
+
+35:33.720 --> 35:37.680
+The other piece is, there's been a lot of discussion on,
+
+35:37.680 --> 35:40.050
+is AI too hyped up?
+
+35:40.050 --> 35:42.930
+Is this really gonna be, you know,
+
+35:42.930 --> 35:44.940
+is the value gonna be there in the future?
+
+35:44.940 --> 35:46.050
+What's that gonna look like?
+
+35:46.050 --> 35:49.290
+And my personal belief is that
+
+35:49.290 --> 35:52.830
+absolutely AI is gonna transform the world.
+
+35:52.830 --> 35:56.760
+I mean, this is something that there's no stepping back from
+
+35:56.760 --> 36:00.210
+as a complete society here.
+
+36:00.210 --> 36:03.420
+And so the sooner companies embrace
+
+36:03.420 --> 36:07.906
+and begin to move forward on that path, the better.
+
+36:07.906 --> 36:12.840
+I would recommend that you find a way to work
+
+36:12.840 --> 36:17.610
+with somebody who knows the space, has experience in it.
+
+36:17.610 --> 36:20.400
+There's a lot of really capable vendors out there.
+
+36:20.400 --> 36:23.790
+But I really think it's important you choose a partner
+
+36:23.790 --> 36:26.550
+who has done many of the mistakes
+
+36:26.550 --> 36:29.940
+and seen lots of the different examples in the past,
+
+36:29.940 --> 36:32.310
+rather than doing everything yourself
+
+36:32.310 --> 36:33.810
+from the very beginning.
+
+36:33.810 --> 36:36.720
+You know, I've met with a number of customers who,
+
+36:36.720 --> 36:39.600
+they will invest in giant data science teams,
+
+36:39.600 --> 36:42.570
+bringing on hundreds of people just to come back
+
+36:42.570 --> 36:46.470
+and realize that actually my number one problem
+
+36:46.470 --> 36:49.020
+isn't creating AI models
+
+36:49.020 --> 36:53.880
+or my ROI that I expected actually isn't gonna be there.
+
+36:53.880 --> 36:55.680
+And so I think it's super important
+
+36:55.680 --> 36:57.360
+and you know, we always try
+
+36:57.360 --> 37:01.110
+to focus on basically creating a heat map
+
+37:01.110 --> 37:04.050
+that shows you what's the value you're gonna extract
+
+37:04.050 --> 37:06.930
+versus how hard is it to implement
+
+37:06.930 --> 37:08.970
+and to get into production.
+
+37:08.970 --> 37:12.600
+And so you're constantly going against that metric to see
+
+37:12.600 --> 37:15.150
+what the right next move should be.
+
+37:15.150 --> 37:16.170
+<v ->Really good.</v>
+
+37:16.170 --> 37:17.880
+So make sure you get started.
+
+37:17.880 --> 37:20.070
+Don't wait, but start at the right place.
+
+37:20.070 --> 37:22.620
+So start with someone who understands your business.
+
+37:22.620 --> 37:25.203
+So you can start at the right place, Hassan.
+
+37:26.670 --> 37:29.560
+<v ->Yeah, I think what we should be doing is we need</v>
+
+37:30.845 --> 37:35.100
+to turn even engineers into entrepreneurs.
+
+37:35.100 --> 37:37.620
+Think about the problem, the metric you want
+
+37:37.620 --> 37:40.560
+to optimize first, start small.
+
+37:40.560 --> 37:45.240
+Don't start in solving the whole company's problem.
+
+37:45.240 --> 37:48.510
+And then start building startups.
+
+37:48.510 --> 37:49.980
+Start companies
+
+37:49.980 --> 37:53.430
+and companies can actually be companies of agents.
+
+37:53.430 --> 37:56.370
+So we heard about crews of agents,
+
+37:56.370 --> 37:58.680
+we heard about swarms of agents.
+
+37:58.680 --> 38:02.010
+Start with building companies of agents.
+
+38:02.010 --> 38:05.610
+Start recruiting the right agents to solve real problem.
+
+38:05.610 --> 38:07.920
+You don't need to think about LLM anymore.
+
+38:07.920 --> 38:11.220
+You can actually start recruiting existing agents,
+
+38:11.220 --> 38:15.330
+specializing them, and then start from there
+
+38:15.330 --> 38:16.530
+and experiment,
+
+38:16.530 --> 38:18.690
+experiment, experiment, experiment, experiment.
+
+38:18.690 --> 38:20.214
+Because the rate
+
+38:20.214 --> 38:24.810
+of innovation is linearly correlated with the rate
+
+38:24.810 --> 38:26.190
+of experimentation.
+
+38:26.190 --> 38:27.900
+The more you can experiment,
+
+38:27.900 --> 38:29.730
+the more you're gonna be innovative,
+
+38:29.730 --> 38:31.080
+the more you're gonna wait,
+
+38:31.080 --> 38:33.780
+the more you're gonna be unfortunately behind.
+
+38:33.780 --> 38:35.580
+So that's my suggestion.
+
+38:35.580 --> 38:36.413
+<v ->I like that.</v>
+
+38:36.413 --> 38:39.000
+So Hassan and I worked at Amazon Web services together
+
+38:39.000 --> 38:41.340
+and that's what we did as part of our secret of success.
+
+38:41.340 --> 38:42.780
+We just kept replicating,
+
+38:42.780 --> 38:46.320
+creating startup, startup, startups, okay, Ray.
+
+38:46.320 --> 38:48.000
+<v ->Well, I think I was gonna start with time is</v>
+
+38:48.000 --> 38:49.710
+of the essence, but actually I'm gonna take
+
+38:49.710 --> 38:52.500
+a much more critical conversation point.
+
+38:52.500 --> 38:53.730
+In the age of the internet,
+
+38:53.730 --> 38:56.190
+things were decentralized, they were open,
+
+38:56.190 --> 38:58.980
+they were cheaper, there are lots of competition.
+
+38:58.980 --> 39:00.990
+Age of AI is completely different.
+
+39:00.990 --> 39:02.370
+We are closed, we are centralized,
+
+39:02.370 --> 39:03.420
+things are more expensive.
+
+39:03.420 --> 39:06.690
+And there are a few players, if you want to break that,
+
+39:06.690 --> 39:10.470
+I'm gonna ask you guys to do something very important.
+
+39:10.470 --> 39:13.290
+We're gonna have to fight for rights in terms
+
+39:13.290 --> 39:15.360
+of public knowledge on what an LM is.
+
+39:15.360 --> 39:16.680
+So just like we have copyright
+
+39:16.680 --> 39:18.630
+and patent law on ideas,
+
+39:18.630 --> 39:20.340
+the insights in an LLM might have
+
+39:20.340 --> 39:22.440
+a ten second expiration date,
+
+39:22.440 --> 39:26.130
+a one minute expiration date, an hour expiration date,
+
+39:26.130 --> 39:28.920
+a day expiration date, you get it, right?
+
+39:28.920 --> 39:30.570
+Because there's so much public knowledge
+
+39:30.570 --> 39:32.370
+that's being locked into the few hands
+
+39:32.370 --> 39:35.640
+of individual companies that you're gonna see a demand
+
+39:35.640 --> 39:38.190
+for all that information, insight to be shared and brokered.
+
+39:38.190 --> 39:39.900
+And we're gonna actually completely change
+
+39:39.900 --> 39:41.340
+the patent copyright law.
+
+39:41.340 --> 39:43.560
+And I think that's what we're gonna have to fight for
+
+39:43.560 --> 39:47.880
+if you want to have AI in the hands of everybody's space,
+
+39:47.880 --> 39:49.770
+because at the rate we're going right now,
+
+39:49.770 --> 39:51.030
+it is not gonna be cheap,
+
+39:51.030 --> 39:53.010
+it's not gonna be easily accessible
+
+39:53.010 --> 39:54.960
+and only a few people have access to it.
+
+39:54.960 --> 39:58.290
+So maybe it's something to fight for, starting here at CES.
+
+39:58.290 --> 40:00.360
+<v ->Awesome, so I'll just close with this story,</v>
+
+40:00.360 --> 40:02.340
+and this is a true story.
+
+40:02.340 --> 40:05.670
+Yesterday I was walking down the strip and I looked down
+
+40:05.670 --> 40:07.170
+and there was a bottle on the street.
+
+40:07.170 --> 40:09.900
+So I reached down and I picked it up and I rubbed it.
+
+40:09.900 --> 40:13.530
+And out popped a genie, true story by the way.
+
+40:13.530 --> 40:16.770
+And this genie said to me, Sandy, this is your lucky day.
+
+40:16.770 --> 40:21.360
+Not only do you get to be on the Modev AI House panel,
+
+40:21.360 --> 40:23.100
+but you also get three wishes.
+
+40:23.100 --> 40:25.290
+However, with those wishes, there's a catch.
+
+40:25.290 --> 40:27.570
+There's always a catch, isn't there?
+
+40:27.570 --> 40:29.970
+So I said, okay, what's the catch?
+
+40:29.970 --> 40:31.350
+And he said, well, whatever you wish for,
+
+40:31.350 --> 40:33.393
+your evil arch enemy gets double.
+
+40:34.318 --> 40:35.220
+I said, okay, I'll do that.
+
+40:35.220 --> 40:39.000
+So first I wish for a Red Tesla, I wanted a Cybertruck.
+
+40:39.000 --> 40:40.560
+So he said, you get a Red Tesla,
+
+40:40.560 --> 40:43.110
+but your evil arch enemy gets two.
+
+40:43.110 --> 40:45.180
+So the second thing I wish for is a house at the beach
+
+40:45.180 --> 40:46.740
+'cause I love the beach.
+
+40:46.740 --> 40:48.150
+I got this beautiful house at the beach,
+
+40:48.150 --> 40:50.910
+but, my evil arch enemy got two.
+
+40:50.910 --> 40:53.820
+So for my final wish, I said, genie,
+
+40:53.820 --> 40:56.163
+would you scare me half to death?
+
+40:58.170 --> 41:01.170
+Now I wanna end this panel by not scaring you half
+
+41:01.170 --> 41:03.270
+to death, but by giving you three wishes
+
+41:03.270 --> 41:06.330
+that this magnificent panel, Ray, Yujing,
+
+41:06.330 --> 41:08.610
+Stephanie, and Hassan, delivered to you.
+
+41:08.610 --> 41:11.580
+Three wishes, one, start, start, start.
+
+41:11.580 --> 41:15.690
+But start small, two, data, data, data.
+
+41:15.690 --> 41:18.750
+You need to make sure that you're looking at your data.
+
+41:18.750 --> 41:21.390
+And three, know that AI is going
+
+41:21.390 --> 41:23.940
+to encompass everything out there.
+
+41:23.940 --> 41:26.160
+So don't just get your engineers involved
+
+41:26.160 --> 41:27.390
+in what you're working on.
+
+41:27.390 --> 41:30.390
+Make sure that ROI project involves the business too.
+
+41:30.390 --> 41:31.890
+Thank you guys so much.
+
+41:31.890 --> 41:35.648
+Make sure you talk to these wonderful folks.
+
+41:35.648 --> 41:38.231
+(upbeat music)
+

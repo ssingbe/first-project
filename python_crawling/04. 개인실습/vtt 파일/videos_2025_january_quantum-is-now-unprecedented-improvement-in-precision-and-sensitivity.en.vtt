@@ -1,0 +1,2719 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.200 --> 00:02.783
+(upbeat music)
+
+00:10.590 --> 00:11.423
+- If you could take our seats,
+
+00:11.423 --> 00:13.893
+we'll get going with the
+third session for the day.
+
+00:15.450 --> 00:17.790
+Again, for those of you that
+are new, thank you for coming.
+
+00:17.790 --> 00:19.140
+This is the third segment
+
+00:19.140 --> 00:22.230
+of the Quantum Means
+Business track at CES.
+
+00:22.230 --> 00:23.880
+And this segment,
+
+00:23.880 --> 00:26.910
+we're gonna talk about
+devices and sensing.
+
+00:26.910 --> 00:28.110
+The first segment, if you remember,
+
+00:28.110 --> 00:29.190
+for those of you that we are in the room,
+
+00:29.190 --> 00:31.170
+we talked about computers and computing.
+
+00:31.170 --> 00:34.230
+The second segment was how
+industry is gonna get engaged
+
+00:34.230 --> 00:35.760
+as we build the ecosystem,
+
+00:35.760 --> 00:37.830
+and this is going to be the bookend of it,
+
+00:37.830 --> 00:40.560
+talk about a completely
+different part of quantum,
+
+00:40.560 --> 00:42.060
+which is the sensing side of it.
+
+00:42.060 --> 00:44.370
+And with that, it gives
+me great, great pleasure
+
+00:44.370 --> 00:45.930
+to introduce a dear friend
+
+00:45.930 --> 00:48.591
+and somebody who sits
+on my sitting committee,
+
+00:48.591 --> 00:51.480
+Celia Merzbacher who is the
+Executive Director of QEDC,
+
+00:51.480 --> 00:54.120
+which is the Quantum Economic
+Development Consortium,
+
+00:54.120 --> 00:56.220
+which is a group of quantum
+
+00:56.220 --> 00:58.980
+and related companies
+that are working together
+
+00:58.980 --> 01:00.840
+to move the needle forward on industry.
+
+01:00.840 --> 01:01.673
+Celia?
+
+01:02.826 --> 01:06.444
+(audience applauding)
+
+01:06.444 --> 01:08.280
+That was front and back.
+
+01:08.280 --> 01:10.470
+- Thank you. Thank you
+George, it's great to be here.
+
+01:10.470 --> 01:12.900
+And nice to see all of you
+
+01:12.900 --> 01:16.620
+and all of the interest in quantum at CES.
+
+01:16.620 --> 01:19.500
+When George told me that this
+session was being planned,
+
+01:19.500 --> 01:21.390
+I said, "George, we
+gotta do a good job here.
+
+01:21.390 --> 01:23.520
+We don't wanna fall on our face at CES."
+
+01:23.520 --> 01:26.400
+But obviously the word is out,
+
+01:26.400 --> 01:28.380
+it's the International Year of Quantum.
+
+01:28.380 --> 01:31.530
+And I'm really pleased to
+be kicking off this part
+
+01:31.530 --> 01:33.810
+of the program talking
+about quantum sensing,
+
+01:33.810 --> 01:35.880
+which as many of you may know,
+
+01:35.880 --> 01:39.210
+and I think was sort of alluded to,
+
+01:39.210 --> 01:43.230
+is some of the nearest term
+use cases and applications.
+
+01:43.230 --> 01:45.240
+In fact, there are quantum-based sensors
+
+01:45.240 --> 01:47.370
+that are being made and sold today.
+
+01:47.370 --> 01:50.970
+So I run the Quantum Economic
+Development Consortium.
+
+01:50.970 --> 01:54.090
+This is a consortium that
+was created by Congress
+
+01:54.090 --> 01:56.580
+here in the US who directed the government
+
+01:56.580 --> 01:59.370
+to establish a consortium of stakeholders.
+
+01:59.370 --> 02:00.990
+But we're really industry-driven
+
+02:00.990 --> 02:04.440
+and our purpose is to enable
+and grow the quantum ecosystem.
+
+02:04.440 --> 02:07.350
+And notice the word
+computing is not in our name,
+
+02:07.350 --> 02:08.430
+it's not in our mission.
+
+02:08.430 --> 02:10.830
+We are helping to advance
+quantum technologies
+
+02:10.830 --> 02:12.810
+for all use cases.
+
+02:12.810 --> 02:14.610
+And our membership spans everything
+
+02:14.610 --> 02:18.030
+from very fundamental component suppliers
+
+02:18.030 --> 02:21.360
+up to the big system integrators
+that you've heard of,
+
+02:21.360 --> 02:23.190
+startup pure play companies
+
+02:23.190 --> 02:25.320
+that are building everything
+from quantum computers
+
+02:25.320 --> 02:28.050
+and sensors and other technologies.
+
+02:28.050 --> 02:29.220
+So check us out.
+
+02:29.220 --> 02:32.670
+I'm not gonna talk about
+QEDC anymore though today.
+
+02:32.670 --> 02:35.613
+So let's see. Ah, yeah.
+
+02:38.077 --> 02:40.110
+What I thought I would cover today
+
+02:40.110 --> 02:42.840
+in my 10 minutes are
+the following questions.
+
+02:42.840 --> 02:44.190
+What is a quantum sensor?
+
+02:44.190 --> 02:45.990
+I'm assuming that there
+are some in the audience,
+
+02:45.990 --> 02:48.510
+and I can't see very well
+because of the lights,
+
+02:48.510 --> 02:50.730
+who don't know a lot about quantum
+
+02:50.730 --> 02:52.830
+and what a quantum sensor is.
+
+02:52.830 --> 02:55.323
+What is it good for? What can it measure?
+
+02:56.310 --> 02:59.340
+When will it be so good that
+it beats what we have today?
+
+02:59.340 --> 03:00.570
+There are a lot of sensors out there.
+
+03:00.570 --> 03:02.250
+You can walk around the show floor here
+
+03:02.250 --> 03:04.290
+and see tons of sensors.
+
+03:04.290 --> 03:07.140
+So obviously a quantum-based sensor's
+
+03:07.140 --> 03:10.110
+gotta be better than the
+incumbent technology.
+
+03:10.110 --> 03:12.030
+What is the current state of the art?
+
+03:12.030 --> 03:13.260
+So how close are we
+
+03:13.260 --> 03:16.800
+to when quantum sensors
+will beat classical?
+
+03:16.800 --> 03:20.430
+And where will consumers
+start seeing quantum sensors
+
+03:20.430 --> 03:21.570
+impacting their lives?
+
+03:21.570 --> 03:23.040
+Which again, because we're at CES,
+
+03:23.040 --> 03:25.680
+I thought, let's think about that.
+
+03:25.680 --> 03:27.090
+Okay, let me just start,
+
+03:27.090 --> 03:28.920
+I'll back up if I can figure out how.
+
+03:28.920 --> 03:32.250
+Well never mind. What is a quantum sensor?
+
+03:32.250 --> 03:34.770
+A quantum sensor, just like any sensor,
+
+03:34.770 --> 03:37.953
+is some system that can,
+
+03:39.355 --> 03:40.770
+through interaction with its environment,
+
+03:40.770 --> 03:42.930
+have some kind of a change
+that you can measure.
+
+03:42.930 --> 03:44.370
+It's as simple as that.
+
+03:44.370 --> 03:46.080
+And of course there are
+many different kinds
+
+03:46.080 --> 03:48.360
+of temperature sensors for instance,
+
+03:48.360 --> 03:50.850
+you could say a stick of
+butter is a temperature sensor,
+
+03:50.850 --> 03:52.920
+gets too hot, it melts.
+
+03:52.920 --> 03:57.750
+So there are a lot of
+quantum systems out there,
+
+03:57.750 --> 04:01.740
+and a sort of feature which
+is problematic frankly
+
+04:01.740 --> 04:03.600
+in the quantum computing space,
+
+04:03.600 --> 04:06.120
+but it's help in the sensing space,
+
+04:06.120 --> 04:09.150
+is that quantum states are very fragile
+
+04:09.150 --> 04:10.890
+and very sensitive to the environment.
+
+04:10.890 --> 04:12.420
+And that's why of course some
+
+04:12.420 --> 04:14.490
+of the quantum computing systems have
+
+04:14.490 --> 04:16.380
+to be kept at very low temperatures
+
+04:16.380 --> 04:20.790
+because even just thermal
+noise causes errors.
+
+04:20.790 --> 04:24.780
+And so for this is the
+definition of a good sensor.
+
+04:24.780 --> 04:26.940
+And so there are, as I said,
+
+04:26.940 --> 04:29.880
+many different kinds of quantum systems.
+
+04:29.880 --> 04:31.380
+They need to be stable,
+
+04:31.380 --> 04:34.590
+they need to be
+initializable and measurable.
+
+04:34.590 --> 04:38.580
+There are some criteria
+for taking a quantum system
+
+04:38.580 --> 04:40.230
+and making it into a sensor.
+
+04:40.230 --> 04:43.260
+But there are many
+different kinds of devices
+
+04:43.260 --> 04:46.083
+that are at the heart of quantum sensors.
+
+04:47.310 --> 04:49.290
+In terms of what can a sensor measure,
+
+04:49.290 --> 04:52.035
+so if you asked a physicist
+
+04:52.035 --> 04:54.360
+or somebody who sort of
+is a quantum technologist
+
+04:54.360 --> 04:58.110
+what a sensor can measure, they
+might give a list like this,
+
+04:58.110 --> 05:00.000
+it can measure chemicals,
+
+05:00.000 --> 05:03.180
+is there a presence of some
+particular chemical agent,
+
+05:03.180 --> 05:04.560
+magnetic field,
+
+05:04.560 --> 05:07.980
+they're very good at detecting
+changes in magnetic field
+
+05:07.980 --> 05:10.080
+or electromagnetic fields.
+
+05:10.080 --> 05:12.990
+They can detect gravity
+change very sensitively.
+
+05:12.990 --> 05:14.340
+You can have a sensor
+
+05:14.340 --> 05:16.530
+that can detect the change in gravity
+
+05:16.530 --> 05:18.600
+just by moving it up one centimeter,
+
+05:18.600 --> 05:20.850
+the sort of change in the attraction
+
+05:20.850 --> 05:24.423
+with the earth can be
+detected so precisely.
+
+05:25.500 --> 05:26.580
+Temperature is something
+
+05:26.580 --> 05:29.550
+that can be measured by quantum sensors,
+
+05:29.550 --> 05:32.340
+location and velocity and time.
+
+05:32.340 --> 05:35.250
+And those are all critical to positioning
+
+05:35.250 --> 05:37.950
+and navigation type of applications.
+
+05:37.950 --> 05:42.060
+So that brings me to sort of what someone
+
+05:42.060 --> 05:44.250
+who is really in the
+development of a sensor
+
+05:44.250 --> 05:46.437
+for some purpose might say,
+
+05:46.437 --> 05:48.540
+what can a quantum sensor measure?
+
+05:48.540 --> 05:49.950
+Well, there are companies
+
+05:49.950 --> 05:52.470
+that are making quantum
+sensor-based technologies
+
+05:52.470 --> 05:56.583
+for measuring methane leaks
+in oil wells or gas wells.
+
+05:57.540 --> 05:59.790
+They could also be used
+for measuring breath,
+
+05:59.790 --> 06:02.040
+doing breath analysis for instance.
+
+06:02.040 --> 06:04.470
+So lots of different applications
+
+06:04.470 --> 06:07.293
+might take advantage of
+quantum measurements.
+
+06:08.600 --> 06:09.480
+Magnetic field detection,
+
+06:09.480 --> 06:11.220
+and we were gonna hear a
+little bit more about that
+
+06:11.220 --> 06:13.560
+from one of the speakers later,
+
+06:13.560 --> 06:15.930
+could be used to measure brain signals
+
+06:15.930 --> 06:17.940
+and make images of the brain.
+
+06:17.940 --> 06:20.940
+Gravity can be used to
+detect underground anomalies,
+
+06:20.940 --> 06:24.933
+that might be a submarine
+undersea or a tunnel underground.
+
+06:26.093 --> 06:27.840
+And and you can see the
+list here and position
+
+06:27.840 --> 06:29.760
+and navigation are two areas
+
+06:29.760 --> 06:33.570
+where quantum sensing is
+potentially gonna be very useful
+
+06:33.570 --> 06:37.050
+in being able to do
+navigation without GPS,
+
+06:37.050 --> 06:38.340
+and the government and military
+
+06:38.340 --> 06:40.350
+are particularly interested in that.
+
+06:40.350 --> 06:42.750
+So when will a quantum
+sensor beat classical?
+
+06:42.750 --> 06:45.423
+Well, it depends, as is often the answer.
+
+06:46.380 --> 06:48.660
+It depends on what the requirements are.
+
+06:48.660 --> 06:51.870
+Here's a picture of the
+most precise atomic clock,
+
+06:51.870 --> 06:55.080
+it's at NIST and it takes
+up pretty much a room.
+
+06:55.080 --> 06:56.640
+But a lot of times,
+
+06:56.640 --> 07:00.630
+you don't really wanna put
+something that big on a platform.
+
+07:00.630 --> 07:01.890
+It's not very practical.
+
+07:01.890 --> 07:05.610
+So the defense department ran a program
+
+07:05.610 --> 07:07.980
+to create a chip scale atomic clock
+
+07:07.980 --> 07:09.330
+and it was a successful program.
+
+07:09.330 --> 07:10.163
+And this is a technology,
+
+07:10.163 --> 07:11.853
+this is a product you can buy today,
+
+07:14.826 --> 07:16.890
+so the largest market for
+these chip scale atomic clocks
+
+07:16.890 --> 07:19.950
+outside of government is
+in oil and gas exploration,
+
+07:19.950 --> 07:21.390
+which I don't think they anticipated
+
+07:21.390 --> 07:23.370
+when they did the program.
+
+07:23.370 --> 07:25.710
+So a lot of things depend on size, weight,
+
+07:25.710 --> 07:28.410
+and power requirements,
+but also of course cost.
+
+07:28.410 --> 07:30.165
+And if you wanna put it on every car
+
+07:30.165 --> 07:35.165
+or in every home, it's
+gotta be more affordable.
+
+07:35.910 --> 07:38.910
+And even these chip scale atomic clocks
+
+07:38.910 --> 07:41.310
+are still relatively expensive.
+
+07:41.310 --> 07:42.870
+There are, in some industries,
+
+07:42.870 --> 07:45.240
+regulations that you're
+gonna have to clear
+
+07:45.240 --> 07:48.210
+for biomedical applications for instance.
+
+07:48.210 --> 07:49.755
+Standards could be very important.
+
+07:49.755 --> 07:52.050
+It's a little early still in some cases,
+
+07:52.050 --> 07:53.940
+but there are organizations starting
+
+07:53.940 --> 07:55.080
+to think about standards.
+
+07:55.080 --> 07:57.210
+And then ultimately adoption,
+
+07:57.210 --> 07:59.820
+and there sort of is a
+chicken and egg problem.
+
+07:59.820 --> 08:01.470
+For some of these technologies,
+
+08:01.470 --> 08:04.620
+the market isn't as big as it could be,
+
+08:04.620 --> 08:07.960
+and so suppliers don't always
+wanna make the investments
+
+08:08.915 --> 08:11.760
+to support the industry.
+
+08:11.760 --> 08:13.470
+This is just a really quick example
+
+08:13.470 --> 08:15.780
+and I'll go through it
+quickly on brain imaging.
+
+08:15.780 --> 08:17.580
+Right now, the state of the art involves
+
+08:17.580 --> 08:20.160
+sitting in a big cryo cooled MRI machine
+
+08:20.160 --> 08:22.140
+in a magnetically shielded room.
+
+08:22.140 --> 08:23.280
+All that's very expensive.
+
+08:23.280 --> 08:25.893
+There are about 200 in the whole world.
+
+08:27.120 --> 08:30.150
+There are companies who
+are building brain scanning
+
+08:30.150 --> 08:33.360
+technology into these
+wearable helmets that children
+
+08:33.360 --> 08:36.180
+or people who are being studied
+
+08:36.180 --> 08:37.500
+while they're doing something
+
+08:37.500 --> 08:40.200
+and not just sitting still in a machine.
+
+08:40.200 --> 08:43.100
+So this is opening up, this
+is really enabling technology.
+
+08:44.280 --> 08:47.910
+The company I work for, SRI International,
+
+08:47.910 --> 08:49.730
+Stanford Research Institute,
+
+08:49.730 --> 08:53.310
+partnered with Twinleaf, a
+startup in Princeton University
+
+08:53.310 --> 08:56.670
+to do a version of this that is standoff.
+
+08:56.670 --> 08:58.080
+So you don't even have to wear a helmet.
+
+08:58.080 --> 08:59.340
+This panel that's next
+
+08:59.340 --> 09:02.310
+to the head can measure the brain imaging,
+
+09:02.310 --> 09:05.040
+and that's, you can see,
+still very researchy,
+
+09:05.040 --> 09:07.053
+but is showing a lot of promise.
+
+09:07.980 --> 09:10.680
+And this is just a
+illustration of a gravimeter,
+
+09:10.680 --> 09:11.580
+it's available now.
+
+09:11.580 --> 09:14.490
+You can buy this and take
+it out into the environment
+
+09:14.490 --> 09:16.170
+and make measurements of gravity.
+
+09:16.170 --> 09:18.450
+On the right hand side is sort of a map
+
+09:18.450 --> 09:20.940
+of what you might detect.
+
+09:20.940 --> 09:24.090
+And you have to of course
+be able to map the signals
+
+09:24.090 --> 09:26.250
+onto what it is you're looking at.
+
+09:26.250 --> 09:28.140
+So there's work to be done.
+
+09:28.140 --> 09:30.600
+So where will consumers,
+I'm just wrapping up here.
+
+09:30.600 --> 09:32.460
+I see I have about 40 seconds left.
+
+09:32.460 --> 09:34.890
+Where will consumers first
+see quantum technology
+
+09:34.890 --> 09:37.980
+and quantum sensors impacting daily life?
+
+09:37.980 --> 09:39.750
+Well, okay, I'm gonna take a sort of
+
+09:39.750 --> 09:41.880
+tongue in cheek answer to this.
+
+09:41.880 --> 09:43.230
+I think I've given you an idea
+
+09:43.230 --> 09:45.660
+of some of the applications and use cases.
+
+09:45.660 --> 09:47.790
+I don't think we know, frankly,
+
+09:47.790 --> 09:49.920
+where quantum is going
+to impact our daily life.
+
+09:49.920 --> 09:51.740
+And when we come back to CES
+
+09:51.740 --> 09:54.780
+in a year or five years and more,
+
+09:54.780 --> 09:56.820
+it's gonna be very exciting to see
+
+09:56.820 --> 09:59.520
+where quantum is being used.
+
+09:59.520 --> 10:01.473
+But it's being used for marketing,
+
+10:02.310 --> 10:04.830
+and if you go out and
+look on the internet,
+
+10:04.830 --> 10:07.383
+and I don't endorse any of these products,
+
+10:08.220 --> 10:11.310
+but Quantum is being used to
+obviously say this is something
+
+10:11.310 --> 10:16.230
+that's new and has some interesting
+characteristics perhaps.
+
+10:16.230 --> 10:21.230
+On the bottom left is like
+ant killer and paint thinner.
+
+10:21.390 --> 10:24.300
+Top right, we have Quantum
+vodka or something,
+
+10:24.300 --> 10:28.860
+and then there are sort of
+these health-related products.
+
+10:28.860 --> 10:32.370
+So it will be very exciting to see
+
+10:32.370 --> 10:35.700
+where quantum technology goes into things,
+
+10:35.700 --> 10:39.330
+and I think there's a lot
+of positive association.
+
+10:39.330 --> 10:42.180
+I think that there's a lot of enthusiasm.
+
+10:42.180 --> 10:45.570
+I don't see any roadblocks to progress.
+
+10:45.570 --> 10:48.930
+And so I'm excited to be here
+at CES for the first time,
+
+10:48.930 --> 10:50.370
+and I hope to be back again soon,
+
+10:50.370 --> 10:52.260
+and I'm around for the rest of the day.
+
+10:52.260 --> 10:54.090
+So if any of you are
+interested in learning more
+
+10:54.090 --> 10:56.460
+about QEDC or about quantum sensors,
+
+10:56.460 --> 10:57.750
+I'd be happy to talk to you.
+
+10:57.750 --> 11:00.330
+So with that, I will
+turn it over to George
+
+11:00.330 --> 11:02.940
+who's gonna introduce the
+moderator for the panel.
+
+11:02.940 --> 11:04.073
+Thank you very much.
+
+11:04.073 --> 11:07.240
+(audience applauding)
+
+11:15.120 --> 11:16.070
+- Thank you, Celia.
+
+11:21.900 --> 11:24.270
+It gives me great pleasure to introduce,
+
+11:24.270 --> 11:27.180
+to reintroduce Philippe
+to come back up here
+
+11:27.180 --> 11:30.810
+to do a panel discussion
+about sensing in the market
+
+11:30.810 --> 11:33.330
+with two companies in the
+quantum sensing space.
+
+11:33.330 --> 11:34.980
+And the one thing I will
+mention about Philippe
+
+11:34.980 --> 11:38.400
+as he makes his way up
+here is from what I know,
+
+11:38.400 --> 11:40.890
+he's the first person
+who's actually exited
+
+11:40.890 --> 11:43.680
+or sold a quantum sensing
+company in the world.
+
+11:43.680 --> 11:46.030
+So Philippe, thank you
+again. Please go for it.
+
+11:49.066 --> 11:51.810
+(audience applauding)
+
+11:51.810 --> 11:53.450
+- [Philippe] Wow, thank you very much.
+
+11:58.076 --> 12:00.777
+- [George] Can you hear me or no?
+
+12:00.777 --> 12:01.610
+Oh yeah.
+
+12:01.610 --> 12:03.925
+Okay, now it actually works.
+
+12:03.925 --> 12:06.480
+- Still no? Oh yeah.
+
+12:06.480 --> 12:08.613
+Thank you for the introduction,
+
+12:09.510 --> 12:11.790
+and very nice introduction
+about quantum sensing.
+
+12:11.790 --> 12:14.310
+I'm very happy that you
+used like an example
+
+12:14.310 --> 12:17.400
+of the product I've been
+developing over the past decade,
+
+12:17.400 --> 12:19.260
+that's the gravimeter which
+was sitting on the top
+
+12:19.260 --> 12:20.613
+of the volcano.
+
+12:22.470 --> 12:26.977
+So we have the pleasure to have two CEOs
+
+12:29.040 --> 12:31.290
+of quantum sensing companies.
+
+12:31.290 --> 12:32.950
+And there are more companies
+
+12:33.810 --> 12:36.450
+and many more business cases
+
+12:36.450 --> 12:39.630
+that have been developed
+over the past years
+
+12:39.630 --> 12:41.220
+with quantum sensors.
+
+12:41.220 --> 12:43.770
+We will spend the next 20 minutes
+
+12:43.770 --> 12:47.440
+to discuss a little bit these applications
+
+12:47.440 --> 12:49.290
+and maybe raise a few points
+
+12:49.290 --> 12:50.430
+or address a few questions
+
+12:50.430 --> 12:52.920
+that you raised in your introduction.
+
+12:52.920 --> 12:57.920
+But maybe first, if you can
+describe in a few words,
+
+12:58.180 --> 12:59.692
+what is your company,
+
+12:59.692 --> 13:02.310
+what is the quantum
+sensor you're so proud of?
+
+13:02.310 --> 13:05.040
+- Yeah, so thank you first of all
+
+13:05.040 --> 13:06.540
+for this opportunity to
+come and talk to you.
+
+13:06.540 --> 13:10.800
+So our company is focused
+on solving problems
+
+13:10.800 --> 13:12.450
+in building electronic systems,
+
+13:12.450 --> 13:16.110
+particularly as the
+scaling of advanced silicon
+
+13:16.110 --> 13:20.040
+is happening from nanometer
+to angstrom level,
+
+13:20.040 --> 13:24.060
+and more importantly also now
+these advanced 3D packages.
+
+13:24.060 --> 13:26.910
+And so really building the systems,
+
+13:26.910 --> 13:28.470
+it's a large industry you're aware of
+
+13:28.470 --> 13:30.630
+heading to trillion dollars,
+
+13:30.630 --> 13:33.930
+and there are some very
+complex unsolved problems
+
+13:33.930 --> 13:35.850
+which offer a discontinuity in terms
+
+13:35.850 --> 13:38.160
+of opportunity using quantum sensing.
+
+13:38.160 --> 13:39.810
+So that's what we are focused on.
+
+13:41.160 --> 13:42.260
+- Thank you, and Noel?
+
+13:43.590 --> 13:45.690
+- Thank you, good morning, everyone.
+
+13:45.690 --> 13:48.030
+So yeah, it's a pleasure to be here today.
+
+13:48.030 --> 13:49.470
+Our company, Neuranics.
+
+13:49.470 --> 13:51.300
+we are a relatively new company.
+
+13:51.300 --> 13:53.220
+We're based in Scotland,
+
+13:53.220 --> 13:58.110
+so we are looking at detecting
+very small magnetic activity
+
+13:58.110 --> 13:59.640
+of muscles in the body.
+
+13:59.640 --> 14:02.520
+So we're very much using quantum sensing
+
+14:02.520 --> 14:06.420
+to detect very low picotesla signals
+
+14:06.420 --> 14:08.730
+from the muscles and activity in the body.
+
+14:08.730 --> 14:09.960
+And what we're looking to do with that is
+
+14:09.960 --> 14:12.540
+to develop real world solutions
+
+14:12.540 --> 14:14.970
+that will go into human machine interface
+
+14:14.970 --> 14:17.670
+where we'll able to detect full movement
+
+14:17.670 --> 14:19.020
+of the hands and the fingers
+
+14:19.020 --> 14:22.140
+and the hands and produce wrist bands
+
+14:22.140 --> 14:24.270
+that will have human machine interface.
+
+14:24.270 --> 14:25.910
+So we're looking at
+real world applications
+
+14:25.910 --> 14:27.600
+on how quantum technologies
+
+14:27.600 --> 14:30.183
+can address everyday applications.
+
+14:31.350 --> 14:34.080
+- Wow, thank you for this presentation.
+
+14:34.080 --> 14:37.140
+So as a physicist, I'm
+always thrilled to hear
+
+14:37.140 --> 14:38.220
+what a quantum sensor can do,
+
+14:38.220 --> 14:41.520
+but that's usually not the
+best way to sell it actually.
+
+14:41.520 --> 14:45.480
+And so we're here at the
+Consumer Electronics Show.
+
+14:45.480 --> 14:48.300
+So maybe my question is the product,
+
+14:48.300 --> 14:51.420
+the quantum sensor you
+have been developing,
+
+14:51.420 --> 14:53.370
+very often we speak
+about quantum advantage
+
+14:53.370 --> 14:55.920
+for quantum computing, but
+also for quantum sensing.
+
+14:55.920 --> 14:58.830
+So what is the quantum
+advantage of your product?
+
+14:58.830 --> 15:01.460
+Why should we actually
+choose your product,
+
+15:01.460 --> 15:02.700
+or why did you choose actually
+
+15:02.700 --> 15:04.440
+to develop this specific technology
+
+15:04.440 --> 15:05.760
+or to use this specific technology
+
+15:05.760 --> 15:07.890
+for this specific application?
+
+15:07.890 --> 15:09.300
+- So I think it's a good question.
+
+15:09.300 --> 15:12.420
+So really our focus at a
+macro level is not necessarily
+
+15:12.420 --> 15:13.620
+I would say quantum,
+
+15:13.620 --> 15:16.410
+it's really what problem
+we are trying to solve.
+
+15:16.410 --> 15:18.810
+So our team is a group of physicists
+
+15:18.810 --> 15:22.170
+who have been working on the
+fundamental quantum solve state
+
+15:22.170 --> 15:23.850
+spin sensors.
+
+15:23.850 --> 15:26.280
+My background is all semiconductor,
+
+15:26.280 --> 15:27.390
+so I think it was a good marriage.
+
+15:27.390 --> 15:30.480
+I approached from what
+problem we're trying to solve,
+
+15:30.480 --> 15:33.360
+and really can we be the order
+
+15:33.360 --> 15:36.180
+of magnitude differentiated
+being a startup,
+
+15:36.180 --> 15:38.670
+and it has to be a couple
+of orders of magnitude.
+
+15:38.670 --> 15:42.360
+And the problem we are
+focused on is particularly
+
+15:42.360 --> 15:43.653
+as you're building this,
+
+15:45.030 --> 15:48.090
+the more than Moore's law in
+terms of advanced packages,
+
+15:48.090 --> 15:49.170
+it's very common today
+
+15:49.170 --> 15:51.210
+if you look at most of the
+companies like Nvidia and all,
+
+15:51.210 --> 15:53.910
+their entire product line is a combination
+
+15:53.910 --> 15:57.300
+of putting a bunch of silicon
+inside this advanced packages
+
+15:57.300 --> 16:00.660
+where you are both in
+a 2.5D 3D configuration
+
+16:00.660 --> 16:02.610
+building these complex systems.
+
+16:02.610 --> 16:06.120
+The HBM memory stacks
+started from four high
+
+16:06.120 --> 16:09.330
+where you're putting these
+DRAMs on top of each other,
+
+16:09.330 --> 16:11.520
+it's almost like you're
+folding the silicon
+
+16:11.520 --> 16:13.350
+and going in the third dimension.
+
+16:13.350 --> 16:15.430
+While that's a great solution
+
+16:16.410 --> 16:18.750
+to continue the semiconductor revolution,
+
+16:18.750 --> 16:21.240
+it has some fundamental
+challenges to be able
+
+16:21.240 --> 16:25.380
+to see magnetic fields between
+these layers, so to speak,
+
+16:25.380 --> 16:27.630
+the buried current flow.
+
+16:27.630 --> 16:29.640
+Today, there is no sensing modality,
+
+16:29.640 --> 16:31.590
+literally it does not exist,
+
+16:31.590 --> 16:35.130
+which can look at that and
+be used in the manufacturing
+
+16:35.130 --> 16:38.847
+because as you all know,
+this industry, 2024,
+
+16:38.847 --> 16:41.610
+600 billion heading to a trillion.
+
+16:41.610 --> 16:43.440
+So that's what we focused on.
+
+16:43.440 --> 16:46.170
+And the quantum sensing
+in terms of being able
+
+16:46.170 --> 16:49.440
+to use solid state spin sensors
+
+16:49.440 --> 16:53.220
+and detect buried 3D
+vector magnetic fields
+
+16:53.220 --> 16:55.980
+is a very unique value proposition,
+
+16:55.980 --> 16:59.133
+which there is no other
+technology which can do today.
+
+17:00.419 --> 17:01.770
+And that's the two we are trying to marry,
+
+17:01.770 --> 17:04.830
+pick a killer problem and pick a solution.
+
+17:04.830 --> 17:07.860
+And in both, that combination,
+
+17:07.860 --> 17:10.950
+we are orders of magnitude
+better than anything else.
+
+17:10.950 --> 17:12.600
+So that's what we are focused on.
+
+17:14.220 --> 17:15.360
+- Thank you.
+
+17:15.360 --> 17:19.920
+- So yeah, our core
+technology is based on TMR,
+
+17:19.920 --> 17:21.810
+Tunneling Magnetic Resistance,
+
+17:21.810 --> 17:24.180
+which is a quantum
+effect where you're able
+
+17:24.180 --> 17:28.620
+to detect very small picotesla
+levels of magnetic activity.
+
+17:28.620 --> 17:31.890
+And our company has spun out
+from the University of Glasgow
+
+17:31.890 --> 17:34.680
+and the University of
+Edinburgh, a joint spin-out.
+
+17:34.680 --> 17:37.770
+And we're really looking at
+bringing quantum technology
+
+17:37.770 --> 17:42.060
+into a semiconductor platform
+so that it's addressable,
+
+17:42.060 --> 17:43.560
+it's sellable, it's cheap,
+
+17:43.560 --> 17:46.770
+it's accessible for everyday applications.
+
+17:46.770 --> 17:50.040
+So we're bringing that to the
+world of biomedical sensing.
+
+17:50.040 --> 17:53.970
+If we look at the solutions
+that are available currently
+
+17:53.970 --> 17:56.760
+for looking deep inside
+the muscles in the body,
+
+17:56.760 --> 17:58.560
+you're looking at very expensive equipment
+
+17:58.560 --> 18:00.360
+such as squid sensors
+
+18:00.360 --> 18:03.060
+or OPM sensors that are tens of thousands
+
+18:03.060 --> 18:05.460
+of dollars per resident.
+
+18:05.460 --> 18:08.610
+We're trying to bring
+this into a few dollar
+
+18:08.610 --> 18:11.460
+semiconductor piece
+that can be applied then
+
+18:11.460 --> 18:14.220
+to consumer electronics
+parts in the future.
+
+18:14.220 --> 18:16.230
+So we're looking at addressing
+
+18:16.230 --> 18:19.320
+how do we look at the activity of muscles
+
+18:19.320 --> 18:22.680
+in a consumer electronics product
+
+18:22.680 --> 18:24.870
+that gives you new
+features and new benefits
+
+18:24.870 --> 18:28.680
+and something that could be
+tangible for people to use.
+
+18:28.680 --> 18:31.950
+So we have a lot of PhD researchers
+
+18:31.950 --> 18:36.150
+into quantum effects and how
+to build quantum sensors.
+
+18:36.150 --> 18:38.280
+I'm interested in how
+to commercialize this,
+
+18:38.280 --> 18:40.650
+how to bring this to the
+real world applications,
+
+18:40.650 --> 18:43.950
+looking at what solutions we
+can deliver to the market.
+
+18:43.950 --> 18:47.760
+And we feel that there
+is a lot of emphasis
+
+18:47.760 --> 18:50.490
+on new human machine interfaces
+
+18:50.490 --> 18:52.830
+using electrical signals from the body.
+
+18:52.830 --> 18:54.630
+But that causes a lot of problems
+
+18:54.630 --> 18:56.850
+in that you need tight skin contact,
+
+18:56.850 --> 19:01.140
+you need really tight
+contact onto the skin
+
+19:01.140 --> 19:03.000
+to receive those electrical signals.
+
+19:03.000 --> 19:05.040
+Whereas if you had a magnetic signal,
+
+19:05.040 --> 19:07.170
+you're able to stay
+further away from the body,
+
+19:07.170 --> 19:08.640
+you're able to monitor those signals,
+
+19:08.640 --> 19:11.340
+you're able to get better
+spatial resolution.
+
+19:11.340 --> 19:14.370
+So quantum gives us a lot
+of benefits in the market
+
+19:14.370 --> 19:16.409
+that we're trying to address.
+
+19:16.409 --> 19:17.580
+- Thank you.
+
+19:17.580 --> 19:21.510
+So maybe before diving to another topic,
+
+19:21.510 --> 19:23.490
+I would like to elaborate
+a little bit on this
+
+19:23.490 --> 19:26.130
+and also on this aspect that
+
+19:26.130 --> 19:27.780
+Celia mentioned in her introduction
+
+19:27.780 --> 19:30.540
+that there is an important step
+
+19:30.540 --> 19:34.500
+or an important difficulty
+for sensing in general,
+
+19:34.500 --> 19:37.257
+which is the SWaP,
+size, weight, and power,
+
+19:37.257 --> 19:38.613
+and also the price.
+
+19:39.450 --> 19:43.110
+And very often I also experienced that
+
+19:43.110 --> 19:45.540
+that it's not yet a big market.
+
+19:45.540 --> 19:47.970
+So sometimes you need
+to do things on your own
+
+19:47.970 --> 19:51.780
+because you don't have so
+much of a like scalability.
+
+19:51.780 --> 19:56.780
+So could you maybe give
+us some of the difficulty
+
+19:56.940 --> 20:00.840
+you had to overcome in
+order to get to a product,
+
+20:00.840 --> 20:02.100
+and then we'll maybe address
+
+20:02.100 --> 20:03.570
+how this product can go to the market.
+
+20:03.570 --> 20:06.360
+But I think it's important
+to get the product first.
+
+20:06.360 --> 20:09.240
+- And I think that way,
+Noel and I kind of represent
+
+20:09.240 --> 20:10.740
+a little bit two different spectrums.
+
+20:10.740 --> 20:13.410
+So it's very interesting
+probably to get that.
+
+20:13.410 --> 20:15.453
+So in our case, really,
+
+20:16.346 --> 20:17.730
+in terms of the solid state spin sensors
+
+20:17.730 --> 20:21.150
+where there's a NV diamond,
+which is CVD grown,
+
+20:21.150 --> 20:22.410
+actually it's available today
+
+20:22.410 --> 20:25.050
+and in a relatively very mature state,
+
+20:25.050 --> 20:28.350
+and there are companies
+like Element 6 and all
+
+20:28.350 --> 20:32.130
+which can grow these diamond CVD insert
+
+20:32.130 --> 20:34.860
+at layer in terms of these NV sensors
+
+20:34.860 --> 20:36.960
+and they operate both
+in extreme environments
+
+20:36.960 --> 20:38.220
+and room temp.
+
+20:38.220 --> 20:39.690
+And a sensor can cost,
+
+20:39.690 --> 20:42.360
+let's say a couple of thousand dollars.
+
+20:42.360 --> 20:44.253
+But the application we chose,
+
+20:45.638 --> 20:46.920
+really that thousand dollar sensor,
+
+20:46.920 --> 20:49.020
+which can be produced reliably
+
+20:49.020 --> 20:51.340
+and can operate in extreme environments
+
+20:52.920 --> 20:54.150
+is the value proposition.
+
+20:54.150 --> 20:56.310
+So because our system we are building
+
+20:56.310 --> 20:59.054
+will be in hundreds of
+thousands of dollars
+
+20:59.054 --> 21:00.300
+or potentially even higher.
+
+21:00.300 --> 21:05.220
+So it was more, I think
+for us, the quantum sensor
+
+21:05.220 --> 21:07.980
+we are using, the fundamental NV sensor,
+
+21:07.980 --> 21:11.460
+the manufacturing of that
+and a reliable supply chain.
+
+21:11.460 --> 21:12.750
+And now there are a number of companies
+
+21:12.750 --> 21:14.550
+which are doing that across the globe
+
+21:14.550 --> 21:16.830
+in terms of building this fundamental NV.
+
+21:16.830 --> 21:19.630
+Today, a lot of users are in
+the industrial application,
+
+21:21.090 --> 21:23.700
+building some really advanced devices.
+
+21:23.700 --> 21:26.550
+So for us, really the barrier of entry
+
+21:26.550 --> 21:29.130
+is not necessarily the sensor itself,
+
+21:29.130 --> 21:31.020
+it's really sensor is
+a piece of the puzzle,
+
+21:31.020 --> 21:34.410
+but putting the entire system
+solution in terms of sensing,
+
+21:34.410 --> 21:36.000
+in terms of imaging,
+
+21:36.000 --> 21:40.830
+and then the most important
+is to meet the performance
+
+21:40.830 --> 21:42.437
+and throughput requirements of the problem
+
+21:42.437 --> 21:44.400
+we are trying to solve.
+
+21:44.400 --> 21:46.500
+So I think in our case, almost,
+
+21:46.500 --> 21:49.800
+and I think both quantum
+is a good and a bad thing,
+
+21:49.800 --> 21:52.470
+a lot of times when you
+talk to the VC investors
+
+21:52.470 --> 21:55.170
+and all that, as soon
+as you lose the quantum,
+
+21:55.170 --> 21:57.270
+you see a little bit of a resistance
+
+21:57.270 --> 21:59.223
+because they think the investment is,
+
+22:00.300 --> 22:02.220
+let's say five plus years out.
+
+22:02.220 --> 22:04.920
+But in our case, I think
+we are more limited
+
+22:04.920 --> 22:08.823
+by building the entire system stack.
+
+22:09.750 --> 22:12.790
+The fundamental sensor, the
+fundamental NV technology
+
+22:14.300 --> 22:15.133
+is solid today.
+
+22:15.133 --> 22:16.950
+So we are focused on the
+higher layers of the problem,
+
+22:16.950 --> 22:18.660
+the sensing, the imaging,
+
+22:18.660 --> 22:22.560
+improving our imaging from ODMR
+
+22:22.560 --> 22:24.600
+to let's say going more like Ramsay
+
+22:24.600 --> 22:27.123
+and RABI imaging techniques and all.
+
+22:28.281 --> 22:29.490
+So bringing all the levels of physics
+
+22:29.490 --> 22:32.703
+and then being able to offer
+the complete system solution.
+
+22:33.780 --> 22:36.480
+So in our case, the
+limiter is not the sensor,
+
+22:36.480 --> 22:39.660
+the limiter is connecting a problem
+
+22:39.660 --> 22:41.700
+and being able to solve and offer
+
+22:41.700 --> 22:44.133
+a full system stack solution.
+
+22:47.370 --> 22:49.350
+- So we're addressing it
+
+22:49.350 --> 22:52.230
+with three technology blocks,
+
+22:52.230 --> 22:55.140
+the sensor is obviously a
+very important first step
+
+22:55.140 --> 22:56.130
+along the way.
+
+22:56.130 --> 22:58.630
+We need to get a sensor
+that's able to detect
+
+22:59.670 --> 23:03.870
+sub-picotesla levels of
+sensitivity from the muscles,
+
+23:03.870 --> 23:06.480
+that allows to give us the
+resolution that we need
+
+23:06.480 --> 23:08.340
+and the signal quality
+that we need in order
+
+23:08.340 --> 23:12.090
+to determine position of
+fingers for example in the hand.
+
+23:12.090 --> 23:15.480
+We then need to apply custom (indistinct)
+
+23:15.480 --> 23:18.300
+to amplify those signals
+to make them usable.
+
+23:18.300 --> 23:20.790
+We then need to apply machine
+learning to those signals
+
+23:20.790 --> 23:22.980
+then to interpret those signals as well.
+
+23:22.980 --> 23:25.680
+So we've got three
+distinct technical blocks
+
+23:25.680 --> 23:28.110
+that we need to address as a company,
+
+23:28.110 --> 23:30.060
+but we see that we need to do all of that
+
+23:30.060 --> 23:32.100
+to provide a solution.
+
+23:32.100 --> 23:34.260
+And that the solution then could be closer
+
+23:34.260 --> 23:35.900
+to the market requirements.
+
+23:35.900 --> 23:38.430
+If we were just to provide
+the sensor on its own,
+
+23:38.430 --> 23:40.350
+it'll sit on the shelf
+and nobody will use it.
+
+23:40.350 --> 23:41.730
+But if we can provide a solution,
+
+23:41.730 --> 23:43.050
+then people will then be interested
+
+23:43.050 --> 23:44.730
+in experimenting with hat solution,
+
+23:44.730 --> 23:48.000
+we'd provide a dev kit,
+people can play with that,
+
+23:48.000 --> 23:49.920
+and it brings the
+solution closer to market
+
+23:49.920 --> 23:51.117
+and allows people to address that
+
+23:51.117 --> 23:53.913
+and to experiment with
+the technology quickly.
+
+23:55.560 --> 23:56.393
+- Thank you.
+
+23:56.393 --> 24:00.610
+So I would like now to
+exactly go towards the market
+
+24:01.560 --> 24:04.230
+and towards the consumers, of course,
+
+24:04.230 --> 24:06.930
+except maybe for the
+butter that you mentioned,
+
+24:06.930 --> 24:10.020
+those sensors that are not
+directly acquired by consumers,
+
+24:10.020 --> 24:13.020
+they're part of like more complex systems.
+
+24:13.020 --> 24:18.020
+But overall I think we
+also addressed it before,
+
+24:18.810 --> 24:20.520
+we feel that there is still a lot of work
+
+24:20.520 --> 24:21.360
+to be done in order
+
+24:21.360 --> 24:23.430
+to penetrate the market
+with a quantum sensor.
+
+24:23.430 --> 24:27.417
+And I would like to have your
+feedback, your experience.
+
+24:27.417 --> 24:29.417
+And so how hard was it? What was needed?
+
+24:31.017 --> 24:34.710
+Basically what is making
+a customer pivot to use
+
+24:34.710 --> 24:38.970
+and to engage into a
+quantum sensor acquisition?
+
+24:38.970 --> 24:43.170
+- Yeah, so again, what we are seeing is
+
+24:43.170 --> 24:45.960
+the industry, like
+semiconductor, batteries,
+
+24:45.960 --> 24:48.720
+I think there was a lot of
+discussion around batteries,
+
+24:48.720 --> 24:51.390
+are looking for much
+more higher sensitivity
+
+24:51.390 --> 24:53.010
+and resolution than what can be today
+
+24:53.010 --> 24:54.990
+with classical sensors.
+
+24:54.990 --> 24:56.293
+So there is a fundamental need.
+
+24:56.293 --> 24:59.850
+A good example is much like
+semiconductor manufacturing,
+
+24:59.850 --> 25:02.700
+battery manufacturing, batteries like,
+
+25:02.700 --> 25:05.910
+I almost feel like what
+semiconductor was in the '80s.
+
+25:05.910 --> 25:09.573
+The hockey stick of the
+batteries is ahead of us,
+
+25:10.743 --> 25:12.270
+and fundamentally there'll
+be all different kind
+
+25:12.270 --> 25:15.300
+of chemistries and batteries everywhere.
+
+25:15.300 --> 25:17.400
+And today if you look at
+battery manufacturing,
+
+25:17.400 --> 25:20.160
+they throw away 15, 20% of their yield
+
+25:20.160 --> 25:22.560
+because putting these complex
+battery cells together
+
+25:22.560 --> 25:24.660
+and being able to manufacture this battery
+
+25:25.680 --> 25:27.393
+is just very complex.
+
+25:28.560 --> 25:31.020
+I gave an example of advanced packages.
+
+25:31.020 --> 25:32.760
+There's a security application now
+
+25:32.760 --> 25:36.360
+with all these global needs to be able
+
+25:36.360 --> 25:39.930
+to securely track some of these things.
+
+25:39.930 --> 25:42.780
+So there is a fundamental need
+
+25:42.780 --> 25:47.400
+of these sensing capabilities
+which are not available today.
+
+25:47.400 --> 25:50.499
+And so that's how we are
+looking instead of looking,
+
+25:50.499 --> 25:52.020
+I have a, so to speak,
+a widget or a hammer,
+
+25:52.020 --> 25:54.870
+what problem can I try to solve,
+
+25:54.870 --> 25:57.060
+we are coming from the other side,
+
+25:57.060 --> 26:00.420
+really what is the biggest
+problem to go solve?
+
+26:00.420 --> 26:04.647
+Can quantum offer an order
+of magnitude capability
+
+26:05.520 --> 26:08.640
+compared to classical
+sensors and marry the two?
+
+26:08.640 --> 26:12.420
+To me, I think that is
+the way to go versus,
+
+26:12.420 --> 26:15.030
+hey, I have this great quantum sensor,
+
+26:15.030 --> 26:18.970
+and then trying to convince
+the industry or the investors
+
+26:19.980 --> 26:22.110
+or the end consumers in terms
+
+26:22.110 --> 26:24.630
+of really that it brings value to you.
+
+26:24.630 --> 26:28.473
+And that's why we started
+from industrial applications,
+
+26:29.340 --> 26:30.480
+and then gradually work
+
+26:30.480 --> 26:32.760
+because that market is a little bit more,
+
+26:32.760 --> 26:36.390
+actually it is cost-insensitive
+from a sensor point of view,
+
+26:36.390 --> 26:39.750
+provided the entire system
+solution meets the bill.
+
+26:39.750 --> 26:42.090
+And then I think gradually scale
+
+26:42.090 --> 26:45.510
+into high volume
+applications, because for us,
+
+26:45.510 --> 26:48.060
+the machines we will potentially build
+
+26:48.060 --> 26:52.650
+will be basically in terms
+of high dollar values,
+
+26:52.650 --> 26:56.010
+the sensor is really very reliable.
+
+26:56.010 --> 26:58.110
+And to us, I think that's a great way.
+
+26:58.110 --> 27:00.150
+And we see consumer applications
+
+27:00.150 --> 27:02.340
+like the fundamental modality
+
+27:02.340 --> 27:06.030
+where we are offering value
+is sensing magnetic fields,
+
+27:06.030 --> 27:08.640
+which is a very fundamental modality.
+
+27:08.640 --> 27:10.770
+And whether we're applying to muscles
+
+27:10.770 --> 27:12.900
+or for security applications
+
+27:12.900 --> 27:15.540
+or for manufacturing applications, to us,
+
+27:15.540 --> 27:16.860
+the magnetic field,
+
+27:16.860 --> 27:20.040
+especially vector magnetic fields buried,
+
+27:20.040 --> 27:21.363
+offers immense potential.
+
+27:23.700 --> 27:26.853
+- So the the core
+technology that we're using,
+
+27:27.750 --> 27:29.430
+TMR, Tunnel Magnetic Resistance,
+
+27:29.430 --> 27:32.130
+is a quantum effect that
+has been known and around
+
+27:32.130 --> 27:34.200
+for 20 odd years.
+
+27:34.200 --> 27:36.540
+Seagate has been using in hard disk drives
+
+27:36.540 --> 27:37.950
+for a long time.
+
+27:37.950 --> 27:40.350
+We are using different
+properties within that TMR
+
+27:40.350 --> 27:42.240
+so that we're using it effectively
+
+27:42.240 --> 27:43.950
+as a variable resistor
+
+27:43.950 --> 27:46.320
+depending on the magnetic
+field that we're seeing.
+
+27:46.320 --> 27:49.170
+So we don't go out every
+day promoting the fact
+
+27:49.170 --> 27:51.450
+that we are a quantum sensing company.
+
+27:51.450 --> 27:53.190
+We go out every day promoting the fact
+
+27:53.190 --> 27:54.780
+that we are a bio sensing company,
+
+27:54.780 --> 27:57.900
+that we are detecting
+signals from the body
+
+27:57.900 --> 28:00.180
+that cannot be detected any other way.
+
+28:00.180 --> 28:02.640
+The sensor that we are trying to produce
+
+28:02.640 --> 28:04.410
+is probably a thousand
+times more sensitive
+
+28:04.410 --> 28:06.510
+than anything else that's on the market.
+
+28:06.510 --> 28:08.430
+Today, there's loads of TMR sensors used
+
+28:08.430 --> 28:11.190
+within automotive or in industrialization,
+
+28:11.190 --> 28:14.310
+but they're in the nanotesla type range.
+
+28:14.310 --> 28:17.520
+We're trying to get to single
+digit picotesla type range.
+
+28:17.520 --> 28:21.750
+So the fact that it is a quantum sensor
+
+28:21.750 --> 28:24.210
+is a positive and sometimes a negative.
+
+28:24.210 --> 28:27.390
+Our VCs are nervous when
+we use the word quantum,
+
+28:27.390 --> 28:29.370
+but they are positive when they see
+
+28:29.370 --> 28:32.550
+that we are solving real world problems
+
+28:32.550 --> 28:35.040
+and that we can address
+these things quicker,
+
+28:35.040 --> 28:37.560
+we can solve them quicker
+by using the effects
+
+28:37.560 --> 28:39.303
+of quantum within our solution.
+
+28:40.564 --> 28:45.150
+So yeah, we need to address the speed
+
+28:45.150 --> 28:47.820
+of which people can
+monetize their investment
+
+28:47.820 --> 28:49.353
+in quantum technologies.
+
+28:50.490 --> 28:52.980
+- Yeah, so maybe to elaborate a bit more,
+
+28:52.980 --> 28:56.250
+so in a certain way, yeah,
+
+28:56.250 --> 28:58.620
+you really address the consumer market.
+
+28:58.620 --> 29:00.453
+So you really offer a solution.
+
+29:01.650 --> 29:04.410
+So is the label let's say quantum inside
+
+29:04.410 --> 29:06.420
+or I don't know how is,
+
+29:06.420 --> 29:09.450
+a label that is giving
+confidence to a customer
+
+29:09.450 --> 29:11.430
+that it is actually reaching a level
+
+29:11.430 --> 29:13.230
+that nothing else can do?
+
+29:13.230 --> 29:15.810
+Or do you still need to explain it,
+
+29:15.810 --> 29:18.183
+or do we need to explain it more?
+
+29:19.200 --> 29:21.090
+- So I think we see different reactions.
+
+29:21.090 --> 29:26.090
+So the people with the money
+don't like the word quantum.
+
+29:27.150 --> 29:29.580
+The people who understand the technology
+
+29:29.580 --> 29:31.440
+love the word quantum.
+
+29:31.440 --> 29:34.800
+So I think we try to use the word quantum
+
+29:34.800 --> 29:36.780
+depending on the audience.
+
+29:36.780 --> 29:39.960
+So it's just the reality, right?
+
+29:39.960 --> 29:41.223
+End of the day,
+
+29:43.650 --> 29:46.980
+a good solution will always find a home,
+
+29:46.980 --> 29:50.130
+but the trick is really focus on the home
+
+29:50.130 --> 29:52.440
+and then finding the good
+solution to get there.
+
+29:52.440 --> 29:55.680
+So I think that's the
+mindset we are taking
+
+29:55.680 --> 29:59.400
+because if we start
+with quantum first word,
+
+29:59.400 --> 30:01.143
+we are always trying to defend,
+
+30:02.310 --> 30:03.540
+and I'm just being honest,
+
+30:03.540 --> 30:05.640
+and I think that's one of the things,
+
+30:05.640 --> 30:08.760
+we are looking at it, it's a plus,
+
+30:08.760 --> 30:12.393
+but provided you frame it
+correctly from the audience.
+
+30:14.520 --> 30:16.020
+- So I think it's really important
+
+30:16.020 --> 30:19.830
+that collectively we
+all educate the market
+
+30:19.830 --> 30:21.960
+that quantum is there, it's a good thing,
+
+30:21.960 --> 30:24.060
+it's real, it's active.
+
+30:24.060 --> 30:27.060
+And I think sessions like this
+where we're bringing quantum
+
+30:27.060 --> 30:29.970
+to CES for the first time
+
+30:29.970 --> 30:32.195
+and people are able to talk about it,
+
+30:32.195 --> 30:33.030
+they're able to experience it,
+
+30:33.030 --> 30:35.130
+they're able to go on to various stands
+
+30:35.130 --> 30:38.130
+around the show and
+actually see it in action,
+
+30:38.130 --> 30:39.750
+I think is a real positive thing.
+
+30:39.750 --> 30:41.180
+And I think collectively,
+
+30:41.180 --> 30:43.140
+we have a lot more to do as an industry,
+
+30:43.140 --> 30:47.520
+as a group to bring quantum
+out of 20 years from now
+
+30:47.520 --> 30:51.540
+to reality that is here,
+is present, it's been used.
+
+30:51.540 --> 30:53.070
+People are getting real world benefits
+
+30:53.070 --> 30:54.660
+from it as of today.
+
+30:54.660 --> 30:57.630
+And obviously we're in the
+sensing side of things,
+
+30:57.630 --> 30:59.520
+the computing side maybe
+is a few years off,
+
+30:59.520 --> 31:01.140
+but there is real benefits
+
+31:01.140 --> 31:04.134
+from quantum technology as of today.
+
+31:04.134 --> 31:04.967
+- Thank you.
+
+31:04.967 --> 31:06.330
+So if I understand you well,
+
+31:06.330 --> 31:08.010
+we have like a large assembly today,
+
+31:08.010 --> 31:10.710
+so they are very courageous
+people who were not afraid
+
+31:10.710 --> 31:12.900
+to come to a quantum show.
+
+31:12.900 --> 31:16.650
+So thank you very much
+for this, and maybe,
+
+31:16.650 --> 31:19.383
+and we still have left a few minutes,
+
+31:20.640 --> 31:23.250
+well you raised the
+point, I mean that yes,
+
+31:23.250 --> 31:25.110
+we have to educate the market,
+
+31:25.110 --> 31:26.190
+we have to educate the people.
+
+31:26.190 --> 31:31.190
+We may have also to do
+some kind of evangelization
+
+31:31.410 --> 31:33.360
+or de-evangelization about quantum
+
+31:33.360 --> 31:36.093
+that people think it is
+something that it is not.
+
+31:38.010 --> 31:40.920
+So what is for you the biggest challenge
+
+31:40.920 --> 31:42.540
+that you as a company,
+
+31:42.540 --> 31:45.720
+but also let's say as a global industry
+
+31:45.720 --> 31:50.720
+in quantum are facing over this year,
+
+31:50.749 --> 31:52.410
+the year of quantum or over the next year,
+
+31:52.410 --> 31:54.612
+what is for you the most important thing
+
+31:54.612 --> 31:57.600
+we need to focus as
+government organization,
+
+31:57.600 --> 32:00.090
+but also we need to focus as organization
+
+32:00.090 --> 32:03.303
+of industry, consortia, and et cetera?
+
+32:04.230 --> 32:06.330
+- So I think we being a startup obviously,
+
+32:07.740 --> 32:12.300
+really while we have
+great ideas are really,
+
+32:12.300 --> 32:15.180
+so to speak, survival is
+dependent on the money.
+
+32:15.180 --> 32:16.890
+So we have to balance the two.
+
+32:16.890 --> 32:19.740
+So I think the challenge
+as Noel and I were talking
+
+32:19.740 --> 32:24.740
+as a startup we face is while
+we see a great opportunity
+
+32:25.470 --> 32:27.030
+having investors' appetite,
+
+32:27.030 --> 32:30.096
+because investors typically think in terms
+
+32:30.096 --> 32:32.280
+about three year return,
+three to five year.
+
+32:32.280 --> 32:36.150
+And so the challenge I
+think we face is educating
+
+32:36.150 --> 32:38.580
+the investment community
+
+32:38.580 --> 32:40.710
+and being able to differentiate
+
+32:40.710 --> 32:43.830
+where they see return on
+investment in a near term.
+
+32:43.830 --> 32:45.630
+So I think that's a near
+term challenge we see
+
+32:45.630 --> 32:47.700
+because once we get past that
+
+32:47.700 --> 32:49.800
+and we get to what value we bring,
+
+32:49.800 --> 32:53.970
+we absolutely see a positive response.
+
+32:53.970 --> 32:55.830
+But really to get that conversation
+
+32:55.830 --> 33:00.450
+to believe that this is here
+
+33:00.450 --> 33:03.690
+and this is now is really what I see.
+
+33:03.690 --> 33:08.690
+We collectively have to
+work, and as a common person,
+
+33:09.180 --> 33:10.650
+when people use the word quantum,
+
+33:10.650 --> 33:12.120
+they think leap of faith, right?
+
+33:12.120 --> 33:13.230
+Quantum jump.
+
+33:13.230 --> 33:15.960
+And you use that in the
+day-to-day language.
+
+33:15.960 --> 33:18.390
+But at the same time, I
+think different technologies
+
+33:18.390 --> 33:20.250
+between sensing or networking
+
+33:20.250 --> 33:23.490
+or computing are evolving
+at different speeds
+
+33:23.490 --> 33:25.260
+and solving different problems.
+
+33:25.260 --> 33:27.600
+I think sensing is real,
+
+33:27.600 --> 33:30.630
+and I think we need to focus on the value
+
+33:30.630 --> 33:32.820
+we are bringing and focus on that
+
+33:32.820 --> 33:37.080
+and connect those dots
+for the broad industry
+
+33:37.080 --> 33:39.870
+and even adopters of this technology.
+
+33:39.870 --> 33:42.990
+And what Noel is doing and what
+we are trying to do and all,
+
+33:42.990 --> 33:45.480
+I think we are trying to
+push in that direction
+
+33:45.480 --> 33:48.240
+and in general, like
+QEDC and other forums,
+
+33:48.240 --> 33:52.110
+even Quantum World Congress and even CES
+
+33:52.110 --> 33:54.270
+to give us these opportunities
+I think are the exact
+
+33:54.270 --> 33:59.270
+kind of things we have to do
+to really broaden the horizon.
+
+34:00.190 --> 34:02.670
+And for I think companies like us,
+
+34:02.670 --> 34:05.160
+we have to go past talking to delivering.
+
+34:05.160 --> 34:08.500
+So I think it's a combination
+of really we as an industry
+
+34:09.570 --> 34:11.860
+have to start delivering killer products
+
+34:12.804 --> 34:13.637
+where there's a need,
+
+34:13.637 --> 34:17.412
+and then also in parallel
+promoting the values.
+
+34:17.412 --> 34:19.260
+But in my mind, without a doubt,
+
+34:19.260 --> 34:23.700
+order of magnitude sensing
+capabilities, we need it.
+
+34:23.700 --> 34:26.970
+Whether it's geological,
+whether it's security,
+
+34:26.970 --> 34:28.230
+whether it's manufacturing,
+
+34:28.230 --> 34:32.067
+whether it is human
+medical needs and all that,
+
+34:32.067 --> 34:33.570
+the market is there.
+
+34:33.570 --> 34:36.420
+I think we have to just very focused,
+
+34:36.420 --> 34:38.583
+maniacally move forward in that direction.
+
+34:41.400 --> 34:43.470
+- [Noel] So yeah, just to add to that,
+
+34:43.470 --> 34:45.723
+I agree very much on the VC point.
+
+34:46.560 --> 34:50.580
+Our biggest challenge this year
+is high scale manufacturing,
+
+34:50.580 --> 34:53.970
+so scaling up manufacturing
+of quantum sensors.
+
+34:53.970 --> 34:56.580
+So we're using a stack which has got
+
+34:56.580 --> 34:58.260
+20 different materials in it
+
+34:58.260 --> 35:01.770
+and so that is based
+on a silicon substrate,
+
+35:01.770 --> 35:06.210
+but scaling that up into
+high volume manufacturing
+
+35:06.210 --> 35:07.170
+is challenging.
+
+35:07.170 --> 35:10.620
+And so we need to have
+ways of going to market
+
+35:10.620 --> 35:13.350
+so we can build high volumes of products
+
+35:13.350 --> 35:15.090
+at a very cheap price in order
+
+35:15.090 --> 35:18.147
+so we can supply them into the
+consumer electronics market,
+
+35:18.147 --> 35:19.830
+which is very price conscious.
+
+35:19.830 --> 35:22.233
+So they're looking to
+buy chips for one to $2.
+
+35:24.090 --> 35:24.923
+- Thank you very much.
+
+35:24.923 --> 35:25.756
+So I'm looking forward
+
+35:25.756 --> 35:29.733
+to see our market flooded
+with quantum sensors.
+
+35:30.780 --> 35:32.100
+Thank you very much.
+
+35:32.100 --> 35:36.060
+I think your input was very
+valuable, and also good luck.
+
+35:36.060 --> 35:38.460
+I mean it's always that we
+should say for a startup,
+
+35:38.460 --> 35:41.631
+I mean it's always a race.
+
+35:41.631 --> 35:43.950
+And I think I leave the floor
+
+35:43.950 --> 35:47.430
+to the last word, and thank you.
+
+35:47.430 --> 35:48.296
+- Thank you.
+
+35:48.296 --> 35:51.463
+(audience applauding)
+
+35:52.884 --> 35:55.467
+(upbeat music)
+

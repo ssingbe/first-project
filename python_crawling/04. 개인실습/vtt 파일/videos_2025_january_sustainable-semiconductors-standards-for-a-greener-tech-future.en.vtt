@@ -1,0 +1,3739 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.216 --> 00:02.883
+(bright music)
+
+2
+00:12.330 --> 00:15.210
+<v ->Hello, everyone, welcome to our panel</v>
+
+3
+00:15.210 --> 00:17.670
+on sustainable semiconductors.
+
+4
+00:17.670 --> 00:19.470
+I am Syed Alam.
+
+5
+00:19.470 --> 00:21.720
+I'm a partner at McKinsey &amp; Company
+
+6
+00:21.720 --> 00:24.303
+with focus on semiconductors.
+
+7
+00:25.500 --> 00:29.130
+We should start with some introduction of our panel.
+
+8
+00:29.130 --> 00:30.690
+Veronica, we can start with you.
+
+9
+00:30.690 --> 00:34.050
+<v ->Absolutely, yeah, hi, everyone, I'm Veronica Lancaster.</v>
+
+10
+00:34.050 --> 00:36.330
+I am the vice president of standards
+
+11
+00:36.330 --> 00:39.210
+at the Consumer Technology Association.
+
+12
+00:39.210 --> 00:41.640
+I'm also the president
+
+13
+00:41.640 --> 00:43.920
+of the US National Committee of the IEC
+
+14
+00:43.920 --> 00:47.040
+which is a global standards organization.
+
+15
+00:47.040 --> 00:48.870
+Standards are near and dear to my heart,
+
+16
+00:48.870 --> 00:52.200
+so I'll talk a little bit about standards today
+
+17
+00:52.200 --> 00:55.320
+and how those can play a critical role
+
+18
+00:55.320 --> 00:57.690
+when it comes to sustainability.
+
+19
+00:57.690 --> 00:58.680
+In addition to that,
+
+20
+00:58.680 --> 01:01.470
+I'm on the American National Standards
+
+21
+01:01.470 --> 01:02.700
+Institute Board of Directors
+
+22
+01:02.700 --> 01:04.080
+and the IAC Board of Directors,
+
+23
+01:04.080 --> 01:06.300
+so it's a passion for me.
+
+24
+01:06.300 --> 01:08.821
+I'm happy to be here, yeah, thank you.
+
+25
+01:08.821 --> 01:10.530
+<v Syed>Welcome, thank you, Nancy?</v>
+
+26
+01:10.530 --> 01:12.660
+<v ->Hi, I'm Nancy Greco at IBM</v>
+
+27
+01:12.660 --> 01:14.550
+and I've been there for 40 years.
+
+28
+01:14.550 --> 01:16.350
+So I came in as a chemist
+
+29
+01:16.350 --> 01:18.240
+and started developing processes,
+
+30
+01:18.240 --> 01:20.160
+and never thought I'd stay,
+
+31
+01:20.160 --> 01:21.510
+but 40 years went by
+
+32
+01:21.510 --> 01:24.120
+and I've developed every type of semiconductor process.
+
+33
+01:24.120 --> 01:26.580
+and automation for the last 15 years,
+
+34
+01:26.580 --> 01:29.160
+I went into research to do AI
+
+35
+01:29.160 --> 01:32.100
+'cause semiconductor always had a big data problem
+
+36
+01:32.100 --> 01:36.180
+and so working on AI that led into large language models.
+
+37
+01:36.180 --> 01:38.430
+So I really do feel I've been growing up
+
+38
+01:38.430 --> 01:41.220
+with the semiconductor and AI industry
+
+39
+01:41.220 --> 01:42.690
+and with the CHIPS Act,
+
+40
+01:42.690 --> 01:46.140
+I was so excited that semiconductor is cool again.
+
+41
+01:46.140 --> 01:47.580
+So I do a lot of recruiting
+
+42
+01:47.580 --> 01:49.890
+for students to come into semiconductor
+
+43
+01:49.890 --> 01:51.663
+and just excited to be here today.
+
+44
+01:53.310 --> 01:56.340
+<v ->Hi, I'm Sujata Neidig with NXP Semiconductors.</v>
+
+45
+01:56.340 --> 02:00.240
+I've also grown up in the semiconductor world over 30 years
+
+46
+02:00.240 --> 02:02.460
+and I'm a director of marketing
+
+47
+02:02.460 --> 02:04.800
+on our wireless connectivity portfolio.
+
+48
+02:04.800 --> 02:07.590
+I also am, standards are near and dear to my heart
+
+49
+02:07.590 --> 02:09.210
+too on the wireless connectivity side.
+
+50
+02:09.210 --> 02:11.700
+I serve for NXP on the board of directors
+
+51
+02:11.700 --> 02:14.310
+for Connectivity Standards Alliance and Thread Group.
+
+52
+02:14.310 --> 02:16.530
+And really excited, we've had some pre-discussion.
+
+53
+02:16.530 --> 02:19.890
+I think this is gonna be a fascinating panel discussion.
+
+54
+02:19.890 --> 02:21.420
+<v Syed>Thank you, Deok-kee?</v>
+
+55
+02:21.420 --> 02:23.877
+<v ->Hi, my name is Deok-kee Kim.</v>
+
+56
+02:23.877 --> 02:26.880
+I'm honored to be invited
+
+57
+02:26.880 --> 02:31.880
+to this CES panel on sustainable semiconductors.
+
+58
+02:32.700 --> 02:34.410
+I'm currently a professor
+
+59
+02:34.410 --> 02:37.140
+at Sejong University in Seoul, Korea,
+
+60
+02:37.140 --> 02:39.510
+and previously I also worked
+
+61
+02:39.510 --> 02:42.720
+for IBM Micro Electronics Division
+
+62
+02:42.720 --> 02:47.490
+and also Samsung Semiconductors for approximately 10 years,
+
+63
+02:47.490 --> 02:49.568
+and my career in semiconductor field
+
+64
+02:49.568 --> 02:54.060
+is about 25 years after my PhD.
+
+65
+02:54.060 --> 02:57.450
+I also have some government jobs as a program director
+
+66
+02:57.450 --> 03:00.510
+at National Research Foundation of Korea
+
+67
+03:00.510 --> 03:03.600
+in the division of semiconductors.
+
+68
+03:03.600 --> 03:05.160
+Currently I'm also involved
+
+69
+03:05.160 --> 03:07.923
+with some of the standardization work.
+
+70
+03:08.880 --> 03:11.310
+I'm involved with two committees.
+
+71
+03:11.310 --> 03:14.610
+One is IEC-TC 47 semiconductors.
+
+72
+03:14.610 --> 03:19.610
+The other one is IEC-TC 124 wearable Devices.
+
+73
+03:19.830 --> 03:21.990
+Happy to meet you, thank you.
+
+74
+03:21.990 --> 03:25.050
+<v ->Thank you. Deok-kee, this topic is very interesting</v>
+
+75
+03:25.050 --> 03:28.380
+because semiconductor plays such a unique role
+
+76
+03:28.380 --> 03:30.780
+in the overall technology ecosystem.
+
+77
+03:30.780 --> 03:35.780
+Semiconductors are enabling all the greener technologies,
+
+78
+03:36.000 --> 03:38.490
+smart and energy-efficient products.
+
+79
+03:38.490 --> 03:40.020
+At the same time,
+
+80
+03:40.020 --> 03:41.910
+it takes a lot of energy
+
+81
+03:41.910 --> 03:45.000
+and water to actually produce the semiconductors also
+
+82
+03:45.000 --> 03:46.350
+and in our panel discussion
+
+83
+03:46.350 --> 03:49.683
+we'll cover both aspects of these topics.
+
+84
+03:50.520 --> 03:52.560
+Maybe we can start with the topic
+
+85
+03:52.560 --> 03:55.830
+around how semiconductors are enabling
+
+86
+03:55.830 --> 03:58.980
+the greener technology and sustainable products?
+
+87
+03:58.980 --> 04:00.570
+Sujata, maybe you can elaborate on that?
+
+88
+04:00.570 --> 04:02.820
+<v ->Yeah, sure, first of all, about semiconductors,</v>
+
+89
+04:02.820 --> 04:04.650
+I'll say when I started in semiconductors,
+
+90
+04:04.650 --> 04:05.760
+nobody in my family
+
+91
+04:05.760 --> 04:08.010
+or friends knew what a semiconductor was.
+
+92
+04:08.010 --> 04:09.150
+And now after Covid,
+
+93
+04:09.150 --> 04:10.740
+it's everybody in CHIPS Act,
+
+94
+04:10.740 --> 04:11.760
+everybody knows what it is.
+
+95
+04:11.760 --> 04:14.790
+So it is exciting to see that people understand
+
+96
+04:14.790 --> 04:18.600
+the technologies that are driving the way they live, work,
+
+97
+04:18.600 --> 04:20.430
+engage in the world,
+
+98
+04:20.430 --> 04:23.910
+and semiconductors, I was a product engineer at one time
+
+99
+04:23.910 --> 04:26.370
+and spent a lot of time in fabs.
+
+100
+04:26.370 --> 04:28.020
+It does require a lot of resources.
+
+101
+04:28.020 --> 04:30.720
+At NXP and I think all of the semiconductor companies,
+
+102
+04:30.720 --> 04:33.540
+there's quite a bit of work investment
+
+103
+04:33.540 --> 04:36.330
+in how do we maximize efficiencies?
+
+104
+04:36.330 --> 04:38.250
+How do we reduce the energy use?
+
+105
+04:38.250 --> 04:41.010
+I know water is a big aspect
+
+106
+04:41.010 --> 04:42.450
+and Nancy will speak to this,
+
+107
+04:42.450 --> 04:45.570
+but how to reuse water, recycle water.
+
+108
+04:45.570 --> 04:47.250
+So those are all areas that companies
+
+109
+04:47.250 --> 04:48.690
+like NXP are working on,
+
+110
+04:48.690 --> 04:51.570
+but as I said, I'm on the product side
+
+111
+04:51.570 --> 04:54.150
+and building chips is one thing,
+
+112
+04:54.150 --> 04:57.060
+and how we're building chips to not just be faster,
+
+113
+04:57.060 --> 04:59.880
+but lower power, enable more capabilities
+
+114
+04:59.880 --> 05:02.340
+so that the end products they go into
+
+115
+05:02.340 --> 05:05.280
+can be lower power footprint.
+
+116
+05:05.280 --> 05:08.010
+And then the products that we are looking at
+
+117
+05:08.010 --> 05:11.160
+and equipping with is the IoT market.
+
+118
+05:11.160 --> 05:13.740
+So all these Internet of Things devices
+
+119
+05:13.740 --> 05:15.300
+being connected all the time,
+
+120
+05:15.300 --> 05:19.560
+I know that that puts a lot of weight
+
+121
+05:19.560 --> 05:21.540
+on the servers and stuff,
+
+122
+05:21.540 --> 05:23.610
+but we really are driving things
+
+123
+05:23.610 --> 05:25.290
+to have intelligence at the edge
+
+124
+05:25.290 --> 05:27.630
+and bringing more intelligence to the edge
+
+125
+05:27.630 --> 05:29.730
+so that processing of the data
+
+126
+05:29.730 --> 05:32.460
+and taking action on that can be done at the edge
+
+127
+05:32.460 --> 05:34.350
+and give the immediate result
+
+128
+05:34.350 --> 05:37.560
+without having to use the servers.
+
+129
+05:37.560 --> 05:39.210
+And then to standards,
+
+130
+05:39.210 --> 05:41.040
+that's an area that I've spent a lot of time
+
+131
+05:41.040 --> 05:42.630
+over the last 10 years.
+
+132
+05:42.630 --> 05:43.860
+These are tough challenges
+
+133
+05:43.860 --> 05:46.800
+and if we don't address them together as an industry,
+
+134
+05:46.800 --> 05:48.660
+it makes it nearly impossible.
+
+135
+05:48.660 --> 05:51.540
+So at NXP, we have invested
+
+136
+05:51.540 --> 05:54.870
+a lot more in standards and open standards
+
+137
+05:54.870 --> 05:56.460
+and I think we see this shift
+
+138
+05:56.460 --> 05:59.850
+from building proprietary ecosystems of devices
+
+139
+05:59.850 --> 06:01.830
+to more open standards.
+
+140
+06:01.830 --> 06:04.230
+So if you're not familiar on the connectivity side,
+
+141
+06:04.230 --> 06:09.180
+Matter is a wireless protocol that enables devices
+
+142
+06:09.180 --> 06:11.910
+to all be able to speak the same language to each other
+
+143
+06:11.910 --> 06:16.110
+regardless of what brand the company is that makes it.
+
+144
+06:16.110 --> 06:18.990
+In our booth, at the NXP booth here,
+
+145
+06:18.990 --> 06:23.430
+we have a intelligent energy home demonstration
+
+146
+06:23.430 --> 06:27.420
+to really show how being able to monitor the energy usage
+
+147
+06:27.420 --> 06:29.490
+of the different devices in the home
+
+148
+06:29.490 --> 06:31.380
+and what is going on on the grid,
+
+149
+06:31.380 --> 06:33.270
+and being able to leverage that information
+
+150
+06:33.270 --> 06:35.730
+and make intelligent automated decisions
+
+151
+06:35.730 --> 06:39.000
+without having to put that burden on the user.
+
+152
+06:39.000 --> 06:41.040
+And this is in the smart home environment,
+
+153
+06:41.040 --> 06:43.980
+but it really scales into buildings.
+
+154
+06:43.980 --> 06:45.750
+I remember a couple of years ago,
+
+155
+06:45.750 --> 06:48.870
+somebody from Schneider I was talking to made this comment
+
+156
+06:48.870 --> 06:51.270
+about I think 85% of the buildings
+
+157
+06:51.270 --> 06:55.050
+that exist in 30 years are ones that exist today.
+
+158
+06:55.050 --> 06:57.420
+So there's not a lot of new construction
+
+159
+06:57.420 --> 07:00.210
+and the only way that we can make buildings
+
+160
+07:00.210 --> 07:04.950
+more efficient is through IoT and wireless connectivity
+
+161
+07:04.950 --> 07:06.600
+because you can't go
+
+162
+07:06.600 --> 07:08.550
+and rewire things in buildings
+
+163
+07:08.550 --> 07:09.990
+and tear down walls, right?
+
+164
+07:09.990 --> 07:14.400
+So we really look at this from a holistic,
+
+165
+07:14.400 --> 07:17.820
+a more system-level approach on how do we build chips
+
+166
+07:17.820 --> 07:19.680
+that can enable these technologies?
+
+167
+07:19.680 --> 07:23.640
+And then how do product manufacturers
+
+168
+07:23.640 --> 07:27.030
+build products that help users,
+
+169
+07:27.030 --> 07:27.990
+whether it's in your home
+
+170
+07:27.990 --> 07:31.410
+or buildings where you work, be more efficient?
+
+171
+07:31.410 --> 07:33.630
+And I think that is an important aspect
+
+172
+07:33.630 --> 07:35.040
+because as much work as we do
+
+173
+07:35.040 --> 07:37.470
+on the semiconductor manufacturing side,
+
+174
+07:37.470 --> 07:41.550
+the demand is going to be there to drive these use cases
+
+175
+07:41.550 --> 07:43.650
+and experiences for users.
+
+176
+07:43.650 --> 07:46.350
+And the more that we can automate
+
+177
+07:46.350 --> 07:49.050
+and bring intelligence without having to put
+
+178
+07:49.050 --> 07:50.910
+that burden on the user,
+
+179
+07:50.910 --> 07:53.340
+the more impact we can make.
+
+180
+07:53.340 --> 07:56.640
+<v ->Thank you, I think you brought to life very good examples</v>
+
+181
+07:56.640 --> 08:01.050
+of how semiconductors are enabling greener technologies
+
+182
+08:01.050 --> 08:02.310
+and it's driving the demand.
+
+183
+08:02.310 --> 08:03.750
+So building on that,
+
+184
+08:03.750 --> 08:06.270
+there's a lot of demand for the semiconductor chips
+
+185
+08:06.270 --> 08:08.280
+based on the requirements
+
+186
+08:08.280 --> 08:12.060
+for greener, smart, energy-efficient products,
+
+187
+08:12.060 --> 08:15.180
+plus AI and all the compute needs.
+
+188
+08:15.180 --> 08:17.460
+Also some of the geopolitical factors,
+
+189
+08:17.460 --> 08:19.440
+all of these things are driving
+
+190
+08:19.440 --> 08:22.770
+a lot of fabs getting built around the globe.
+
+191
+08:22.770 --> 08:27.420
+Maybe, Nancy, you can talk about how a lot of these fabs
+
+192
+08:27.420 --> 08:30.240
+getting built impacts the environment.
+
+193
+08:30.240 --> 08:32.250
+<v ->Sure, with the excitement of AI,</v>
+
+194
+08:32.250 --> 08:34.350
+every country wants to make sure
+
+195
+08:34.350 --> 08:36.840
+they have access to AI chips.
+
+196
+08:36.840 --> 08:39.630
+So what we've been seeing over the past couple of years,
+
+197
+08:39.630 --> 08:41.850
+heavy investments now going
+
+198
+08:41.850 --> 08:44.550
+into not just a few countries like the US,
+
+199
+08:44.550 --> 08:46.830
+but many, many countries.
+
+200
+08:46.830 --> 08:48.030
+So in the US alone,
+
+201
+08:48.030 --> 08:52.350
+we're gonna 3X the semiconductor capacity by next year
+
+202
+08:52.350 --> 08:56.250
+or actually it's 2025, by this year, 3X.
+
+203
+08:56.250 --> 08:59.280
+Worldwide, the prediction is because other countries
+
+204
+08:59.280 --> 09:00.870
+are building their own semiconductor,
+
+205
+09:00.870 --> 09:02.970
+that's gonna increase to 10X.
+
+206
+09:02.970 --> 09:05.220
+So on one hand, as a semiconductor engineer,
+
+207
+09:05.220 --> 09:07.290
+it's like yay, we're cool.
+
+208
+09:07.290 --> 09:09.330
+But be honest, as an environmentalist,
+
+209
+09:09.330 --> 09:11.520
+I'm very concerned, why?
+
+210
+09:11.520 --> 09:15.300
+A typical semiconductor fab the size of TSMC
+
+211
+09:15.300 --> 09:20.300
+will use 75 million gallons of water a day.
+
+212
+09:21.300 --> 09:24.180
+Today, if you take all the semiconductor collectively,
+
+213
+09:24.180 --> 09:25.680
+they're consuming 2%
+
+214
+09:25.680 --> 09:29.430
+of the entire electricity available today.
+
+215
+09:29.430 --> 09:31.560
+And then of course waste.
+
+216
+09:31.560 --> 09:33.690
+Unfortunately semiconductor, and I've developed
+
+217
+09:33.690 --> 09:38.640
+processes using fluorinated gases, heavily used PFAs.
+
+218
+09:38.640 --> 09:40.890
+They're called the forever chemical.
+
+219
+09:40.890 --> 09:42.270
+We can't get rid of it.
+
+220
+09:42.270 --> 09:44.250
+There's just no way, in my opinion,
+
+221
+09:44.250 --> 09:46.710
+in my lifetime that we're gonna remove it.
+
+222
+09:46.710 --> 09:48.240
+So as an environmentalist,
+
+223
+09:48.240 --> 09:50.700
+it's great that we're bringing on this capacity.
+
+224
+09:50.700 --> 09:53.910
+AI is fascinating, it's gonna help humans
+
+225
+09:53.910 --> 09:55.980
+do things they've never done before,
+
+226
+09:55.980 --> 09:58.260
+but we're gonna need to use that AI
+
+227
+09:58.260 --> 10:00.660
+to understand how to build them
+
+228
+10:00.660 --> 10:03.033
+with no impact on the environment.
+
+229
+10:03.988 --> 10:07.290
+<v ->And Nancy, AI can also be used in the factories</v>
+
+230
+10:07.290 --> 10:12.290
+and processes to help create more efficiencies.
+
+231
+10:12.930 --> 10:15.420
+<v ->Absolutely, let me just touch on that for a second.</v>
+
+232
+10:15.420 --> 10:16.980
+So one of the challenges you had,
+
+233
+10:16.980 --> 10:18.480
+there's regulations coming out
+
+234
+10:18.480 --> 10:22.110
+and saying you got to reduce water, or energy, or PFAs.
+
+235
+10:22.110 --> 10:23.850
+And rightly so, I'll be honest,
+
+236
+10:23.850 --> 10:26.707
+the semiconductor clients are saying,
+
+237
+10:26.707 --> 10:28.380
+"I don't know how much I'm using."
+
+238
+10:28.380 --> 10:31.920
+All right, I use 75 million gallons of water a day.
+
+239
+10:31.920 --> 10:33.720
+How would I reduce that by 10%?
+
+240
+10:33.720 --> 10:35.250
+I don't know who's using it.
+
+241
+10:35.250 --> 10:37.830
+So we've been developing AI analytics
+
+242
+10:37.830 --> 10:40.320
+that can go right down to the tool level.
+
+243
+10:40.320 --> 10:41.153
+How do we do that?
+
+244
+10:41.153 --> 10:42.300
+It's not that hard actually.
+
+245
+10:42.300 --> 10:43.133
+You pull the data
+
+246
+10:43.133 --> 10:46.140
+right off a water flow controller through a PLC
+
+247
+10:46.140 --> 10:47.400
+or up through the SCADA.
+
+248
+10:47.400 --> 10:48.270
+It's not that hard.
+
+249
+10:48.270 --> 10:50.070
+Just never thought to do it before.
+
+250
+10:50.070 --> 10:52.230
+Now that we're quantifying that data,
+
+251
+10:52.230 --> 10:55.230
+we're saying okay, reduce here, reduce there,
+
+252
+10:55.230 --> 10:57.570
+and so tool vendors are coming together
+
+253
+10:57.570 --> 11:00.600
+and I think the real solution as an environmentalist,
+
+254
+11:00.600 --> 11:02.430
+we have to come together.
+
+255
+11:02.430 --> 11:04.830
+And what I like about semiconductor,
+
+256
+11:04.830 --> 11:06.930
+we actually have the scientific
+
+257
+11:06.930 --> 11:11.400
+and engineering horsepower to create sustainable processes.
+
+258
+11:11.400 --> 11:12.270
+And I'll be honest,
+
+259
+11:12.270 --> 11:14.430
+it's more unique than any other industries.
+
+260
+11:14.430 --> 11:17.850
+Think of what it takes to create an AI chip
+
+261
+11:17.850 --> 11:22.290
+where the interconnect is 1,000 times smaller than a hair.
+
+262
+11:22.290 --> 11:25.650
+That's the brilliance and capability semiconductor has.
+
+263
+11:25.650 --> 11:28.653
+We need to turn that on to sustainability.
+
+264
+11:29.520 --> 11:31.560
+<v ->Yeah, I think you brought up a very good point</v>
+
+265
+11:31.560 --> 11:35.130
+in terms of the PFAs
+
+266
+11:35.130 --> 11:37.830
+and the process improvement.
+
+267
+11:37.830 --> 11:41.730
+What are the steps the industry is taking
+
+268
+11:41.730 --> 11:44.130
+and what are the things that industry
+
+269
+11:44.130 --> 11:46.230
+or the semiconductor companies are doing
+
+270
+11:46.230 --> 11:49.950
+to help alleviate some of these concerns?
+
+271
+11:49.950 --> 11:51.960
+<v ->So let me take the PFAs first.</v>
+
+272
+11:51.960 --> 11:54.420
+So there was regulation in the US that said
+
+273
+11:54.420 --> 11:55.770
+by January of this year,
+
+274
+11:55.770 --> 11:57.960
+you have to report all your PFA use.
+
+275
+11:57.960 --> 11:59.520
+Whole bunch of lawyers were hired
+
+276
+11:59.520 --> 12:00.990
+and that got extended.
+
+277
+12:00.990 --> 12:03.030
+Now but looking at that regulation,
+
+278
+12:03.030 --> 12:04.830
+it wasn't doable, right?
+
+279
+12:04.830 --> 12:05.910
+How do you know what you're using?
+
+280
+12:05.910 --> 12:07.620
+Just the same example with water.
+
+281
+12:07.620 --> 12:09.210
+At least you can see that.
+
+282
+12:09.210 --> 12:13.020
+But now what we're doing is working to instrument the tools
+
+283
+12:13.020 --> 12:14.730
+to understand what they're using
+
+284
+12:14.730 --> 12:17.130
+and I know in IBM research and others,
+
+285
+12:17.130 --> 12:18.007
+we're starting to say,
+
+286
+12:18.007 --> 12:20.460
+"I can't not use the fluorinated gases."
+
+287
+12:20.460 --> 12:23.130
+Just can't, it takes 10 years qualified process
+
+288
+12:23.130 --> 12:24.330
+if you didn't use it,
+
+289
+12:24.330 --> 12:26.250
+but we're looking at the byproduct
+
+290
+12:26.250 --> 12:27.930
+and what happens with a lot of the stuff,
+
+291
+12:27.930 --> 12:29.730
+it has come up through a scrubber.
+
+292
+12:29.730 --> 12:32.370
+Start introducing new chemicals
+
+293
+12:32.370 --> 12:35.190
+that break it down in these new scrubbers
+
+294
+12:35.190 --> 12:38.100
+and so that again, is we can figure out
+
+295
+12:38.100 --> 12:39.660
+how to build the process.
+
+296
+12:39.660 --> 12:42.630
+I think we can figure out how to render it,
+
+297
+12:42.630 --> 12:43.740
+we call it abatement,
+
+298
+12:43.740 --> 12:46.710
+to the point it's inert to the environment.
+
+299
+12:46.710 --> 12:48.810
+So PFAs is a high level of focus.
+
+300
+12:48.810 --> 12:50.400
+The regulation didn't help,
+
+301
+12:50.400 --> 12:52.020
+but now research is coming in
+
+302
+12:52.020 --> 12:53.790
+and saying we can do this.
+
+303
+12:53.790 --> 12:56.820
+Water conservation and recycling is huge.
+
+304
+12:56.820 --> 12:58.650
+A lot of the semiconductors doing that
+
+305
+12:58.650 --> 13:00.210
+because you have to.
+
+306
+13:00.210 --> 13:03.990
+And then energy, interesting enough, like Sujata said,
+
+307
+13:03.990 --> 13:06.930
+a lot of the processes we've developed in semiconductor
+
+308
+13:06.930 --> 13:09.180
+actually are core into solar
+
+309
+13:09.180 --> 13:11.700
+and other types of renewable energy.
+
+310
+13:11.700 --> 13:13.650
+But I would have to say right now,
+
+311
+13:13.650 --> 13:16.890
+until you quantify it, they're not listening.
+
+312
+13:16.890 --> 13:19.920
+It's like I use 75 million gallons of water a day?
+
+313
+13:19.920 --> 13:20.820
+It's like yeah, you do,
+
+314
+13:20.820 --> 13:21.690
+and you're in an area
+
+315
+13:21.690 --> 13:23.670
+that there's not a lot of water, and guess what?
+
+316
+13:23.670 --> 13:26.820
+The humans are noticing the lake is going down.
+
+317
+13:26.820 --> 13:30.030
+So I think giving them data, quantify it,
+
+318
+13:30.030 --> 13:33.360
+and now unleash your engineering, and AI,
+
+319
+13:33.360 --> 13:36.390
+and quantum to figure out how to do this
+
+320
+13:36.390 --> 13:38.400
+to be kind to the environment.
+
+321
+13:38.400 --> 13:42.243
+<v ->What about in terms of electricity, power consumption,</v>
+
+322
+13:43.980 --> 13:44.970
+what can we do about it
+
+323
+13:44.970 --> 13:47.760
+in terms of one, renewable energy usage
+
+324
+13:47.760 --> 13:50.790
+and second, just to reduce less of it?
+
+325
+13:50.790 --> 13:53.670
+<v ->Well, first of all, in a semiconductor factory,</v>
+
+326
+13:53.670 --> 13:57.840
+these tools have to stay powered on 24-7.
+
+327
+13:57.840 --> 13:59.190
+If you turn them off
+
+328
+13:59.190 --> 14:02.580
+and accidentally, drop at it, they're shut off,
+
+329
+14:02.580 --> 14:04.140
+they don't function correctly.
+
+330
+14:04.140 --> 14:06.450
+All sorts of chaos occurs.
+
+331
+14:06.450 --> 14:09.060
+It's like your freezer not having electricity
+
+332
+14:09.060 --> 14:11.010
+for two days, it's a mess.
+
+333
+14:11.010 --> 14:13.020
+But what we can do is start looking
+
+334
+14:13.020 --> 14:16.260
+at semiconductor has huge redundancy of tools.
+
+335
+14:16.260 --> 14:17.880
+You don't buy one litho tool.
+
+336
+14:17.880 --> 14:21.540
+You'll buy five or you'll buy 10 tools.
+
+337
+14:21.540 --> 14:23.970
+If we start looking at the efficiency
+
+338
+14:23.970 --> 14:25.920
+that you're using these tools,
+
+339
+14:25.920 --> 14:28.230
+do the maintenance, keep them up and running,
+
+340
+14:28.230 --> 14:29.370
+do the WHIP analysis,
+
+341
+14:29.370 --> 14:32.520
+one approach is can I reduce the number of tools?
+
+342
+14:32.520 --> 14:34.530
+The other is again, looking at it,
+
+343
+14:34.530 --> 14:35.730
+and I'll just be honest,
+
+344
+14:35.730 --> 14:38.610
+reducing energy in semiconductors' gonna be tough
+
+345
+14:38.610 --> 14:40.380
+because you can't turn the tool off.
+
+346
+14:40.380 --> 14:42.030
+But there's ways we're looking at
+
+347
+14:42.030 --> 14:43.447
+and vendors are coming in saying,
+
+348
+14:43.447 --> 14:45.870
+"I can consume less power."
+
+349
+14:45.870 --> 14:47.310
+But as Sujata said too,
+
+350
+14:47.310 --> 14:50.640
+we're creating the chips that can help analyze that
+
+351
+14:50.640 --> 14:52.410
+to reduce the data centers,
+
+352
+14:52.410 --> 14:53.760
+to reduce the machines.
+
+353
+14:53.760 --> 14:55.170
+And we'll get there.
+
+354
+14:55.170 --> 14:58.050
+It's kind of like gas consumption on a car.
+
+355
+14:58.050 --> 15:01.620
+It's tough in semiconductor to reduce our energy,
+
+356
+15:01.620 --> 15:04.320
+but now we're getting the capability to do that,
+
+357
+15:04.320 --> 15:07.890
+but it's not gonna be coming in the next one to three years.
+
+358
+15:07.890 --> 15:10.110
+<v ->Yeah, you brought up a interesting point.</v>
+
+359
+15:10.110 --> 15:12.090
+The chips that we are manufacturing in the fabs
+
+360
+15:12.090 --> 15:14.250
+will actually enable to make it
+
+361
+15:14.250 --> 15:17.193
+in an energy-efficient way, cool.
+
+362
+15:18.540 --> 15:22.200
+I think given that standards can help have
+
+363
+15:22.200 --> 15:25.590
+a consistent, unified approach to these challenges,
+
+364
+15:25.590 --> 15:28.230
+what do you think, Veronica, with your background,
+
+365
+15:28.230 --> 15:30.000
+how standards can help with all of this?
+
+366
+15:30.000 --> 15:33.450
+<v ->Yeah, so actually I thought it was a great segue</v>
+
+367
+15:33.450 --> 15:36.450
+when you just mentioned all of the different learnings
+
+368
+15:36.450 --> 15:38.850
+that the individual companies
+
+369
+15:38.850 --> 15:41.910
+and the scientists, the chemists are figuring out
+
+370
+15:41.910 --> 15:43.590
+how to use AI tools,
+
+371
+15:43.590 --> 15:45.060
+how to get down to the tool level
+
+372
+15:45.060 --> 15:49.500
+and figure out where do we make it more efficient?
+
+373
+15:49.500 --> 15:52.170
+Where do we get rid of some of these forever chemicals?
+
+374
+15:52.170 --> 15:53.310
+How can we do this?
+
+375
+15:53.310 --> 15:54.510
+The more we do that
+
+376
+15:54.510 --> 15:55.530
+and the more that we share
+
+377
+15:55.530 --> 15:58.230
+with each other in standards development,
+
+378
+15:58.230 --> 16:03.120
+then that's industry driving change, right, together.
+
+379
+16:03.120 --> 16:05.700
+So I think that there's a lot that we can do there.
+
+380
+16:05.700 --> 16:07.710
+Definitely energy efficiency standards,
+
+381
+16:07.710 --> 16:10.290
+we're already doing work in that.
+
+382
+16:10.290 --> 16:13.650
+And what I think is interesting is that there's such a,
+
+383
+16:13.650 --> 16:16.230
+I know we said we're not gonna get too political up here,
+
+384
+16:16.230 --> 16:21.230
+but at least when we started in the speaker room,
+
+385
+16:21.450 --> 16:23.340
+but I think what's interesting
+
+386
+16:23.340 --> 16:26.010
+is that when it comes to energy efficiency,
+
+387
+16:26.010 --> 16:31.010
+we do find that the government does send a lot of engineers
+
+388
+16:31.290 --> 16:33.630
+to the standards development arena
+
+389
+16:33.630 --> 16:36.720
+because I think what they can do is learn from the chemist.
+
+390
+16:36.720 --> 16:39.570
+They can learn from the engineers and the scientists
+
+391
+16:39.570 --> 16:42.300
+and figure out well, what is the best way to do this?
+
+392
+16:42.300 --> 16:44.400
+Rather than just coming up with it on their own.
+
+393
+16:44.400 --> 16:48.660
+So I like that it's a very inclusive environment for that,
+
+394
+16:48.660 --> 16:49.493
+but there's certainly lots of other areas we can get into.
+
+395
+16:49.493 --> 16:54.493
+<v ->Veronica, also to your point, having industry involved</v>
+
+396
+16:54.870 --> 16:57.420
+'cause governments can make regulations,
+
+397
+16:57.420 --> 17:00.120
+but they can't make them deployable.
+
+398
+17:00.120 --> 17:03.390
+They can't be deployed easily unless industry is there
+
+399
+17:03.390 --> 17:05.700
+providing the inputs on what is reality
+
+400
+17:05.700 --> 17:09.210
+on how to actually implement this legislation.
+
+401
+17:09.210 --> 17:11.520
+I know there's been the Cyber Resilience Act.
+
+402
+17:11.520 --> 17:13.710
+There's been climate change,
+
+403
+17:13.710 --> 17:15.690
+lowering the carbon footprint goals in Europe
+
+404
+17:15.690 --> 17:19.140
+that are really driving the IoT efforts too in buildings,
+
+405
+17:19.140 --> 17:20.160
+that's what I said earlier,
+
+406
+17:20.160 --> 17:23.010
+that they cannot meet these standards
+
+407
+17:23.010 --> 17:24.570
+that have been set by the governments
+
+408
+17:24.570 --> 17:27.030
+without adopting new technologies
+
+409
+17:27.030 --> 17:32.030
+and making more intelligent and automated infrastructures.
+
+410
+17:33.390 --> 17:36.930
+<v ->Right, right, so what's the end goal for us</v>
+
+411
+17:36.930 --> 17:40.020
+is if we're able to get all of our manufacturers together
+
+412
+17:40.020 --> 17:44.160
+and create the benchmarks, right, together,
+
+413
+17:44.160 --> 17:46.290
+and then the government can then reference
+
+414
+17:46.290 --> 17:48.360
+those different standards that we've written.
+
+415
+17:48.360 --> 17:50.910
+That's a win because then industries had the opportunity
+
+416
+17:50.910 --> 17:52.380
+to set those benchmarks
+
+417
+17:52.380 --> 17:53.970
+and the government refers to them
+
+418
+17:53.970 --> 17:55.770
+seeing the sound science so.
+
+419
+17:55.770 --> 17:59.070
+<v ->What's gonna motivate them to do that, the companies?</v>
+
+420
+17:59.070 --> 18:00.000
+We get them together
+
+421
+18:00.000 --> 18:02.190
+and say, "Help us create these standards."
+
+422
+18:02.190 --> 18:04.080
+<v ->Well, from my point of view,</v>
+
+423
+18:04.080 --> 18:06.750
+I think it's everything that you mentioned, right?
+
+424
+18:06.750 --> 18:08.940
+It's the challenges that we need to address
+
+425
+18:08.940 --> 18:10.680
+in getting rid of the forever chemicals
+
+426
+18:10.680 --> 18:14.820
+and addressing how to manage the water, right?
+
+427
+18:14.820 --> 18:15.780
+Because there are things
+
+428
+18:15.780 --> 18:19.110
+that we need to use in creating chips
+
+429
+18:19.110 --> 18:20.490
+and that's not gonna change,
+
+430
+18:20.490 --> 18:23.373
+so how might we recycle, reuse?
+
+431
+18:24.360 --> 18:25.530
+<v Nancy>Sharing knowledge standard.</v>
+
+432
+18:25.530 --> 18:27.087
+<v ->Sharing knowledge, exactly.</v>
+
+433
+18:27.087 --> 18:28.650
+<v Nancy>And it's all kind of,</v>
+
+434
+18:28.650 --> 18:29.820
+hate to say it so bluntly,
+
+435
+18:29.820 --> 18:31.650
+but it's all driven by the bottom line, right?
+
+436
+18:31.650 --> 18:34.800
+These companies, not only can they not achieve the goals
+
+437
+18:34.800 --> 18:36.510
+that have been set for them,
+
+438
+18:36.510 --> 18:39.390
+but they have to have their business model support,
+
+439
+18:39.390 --> 18:40.223
+they have to support
+
+440
+18:40.223 --> 18:42.240
+their business model and generate profit.
+
+441
+18:42.240 --> 18:44.850
+And they're learning that they can't do that on their own
+
+442
+18:44.850 --> 18:47.970
+because the market isn't growing, it's too fragmented.
+
+443
+18:47.970 --> 18:49.350
+So by joining together
+
+444
+18:49.350 --> 18:52.890
+and investing their resources towards standards,
+
+445
+18:52.890 --> 18:55.680
+yeah, it makes the market grow faster.
+
+446
+18:55.680 --> 18:56.943
+<v ->Yeah, I totally agree.</v>
+
+447
+18:58.050 --> 19:00.030
+The more that we can learn from each other, the better.
+
+448
+19:00.030 --> 19:02.850
+<v ->What are the areas for benchmarking?</v>
+
+449
+19:02.850 --> 19:04.350
+We talk about companies coming together.
+
+450
+19:04.350 --> 19:05.880
+What are the areas for benchmarking
+
+451
+19:05.880 --> 19:08.250
+and how it can help?
+
+452
+19:08.250 --> 19:11.400
+<v ->Yeah, there's definitely a lot of different areas</v>
+
+453
+19:11.400 --> 19:14.370
+and there are lots of different industry associations
+
+454
+19:14.370 --> 19:15.720
+and consortia that are working on that.
+
+455
+19:15.720 --> 19:18.720
+And I know my friend, Deok-kee Kim,
+
+456
+19:18.720 --> 19:20.070
+will talk a little bit about what we're doing
+
+457
+19:20.070 --> 19:22.740
+in the IEC and TC-47.
+
+458
+19:22.740 --> 19:24.870
+But there's definitely things that we can do
+
+459
+19:24.870 --> 19:28.050
+to start looking at the environment,
+
+460
+19:28.050 --> 19:33.050
+the ethics, certainly social responsibility,
+
+461
+19:33.240 --> 19:35.770
+and you can address all of those in standards
+
+462
+19:36.690 --> 19:38.100
+and you can get down
+
+463
+19:38.100 --> 19:41.550
+into just the different consortia.
+
+464
+19:41.550 --> 19:44.520
+Semi's one that you mentioned earlier.
+
+465
+19:44.520 --> 19:46.890
+There's the World Semiconductor Council,
+
+466
+19:46.890 --> 19:49.080
+collaborative research and innovation
+
+467
+19:49.080 --> 19:53.148
+that we can do working together at the educational level
+
+468
+19:53.148 --> 19:58.148
+which I know as Deok-kee Kim mentioned, he's a professor.
+
+469
+19:59.130 --> 20:01.290
+So you might have some insights into that
+
+470
+20:01.290 --> 20:04.470
+and some of the current research that's happening.
+
+471
+20:04.470 --> 20:07.680
+<v Syed>And maybe, Deok-kee, you can start with just,</v>
+
+472
+20:07.680 --> 20:10.050
+Veronica mentioned IEC TC-437,
+
+473
+20:10.050 --> 20:13.410
+so you can talk about what is IEC, what is IEC TC-47,
+
+474
+20:13.410 --> 20:14.370
+and maybe we can start there.
+
+475
+20:14.370 --> 20:16.800
+<v ->Before I talk about that one,</v>
+
+476
+20:16.800 --> 20:19.980
+I wanna talk a little bit about what Nancy
+
+477
+20:19.980 --> 20:21.870
+and the others talked about.
+
+478
+20:21.870 --> 20:24.810
+I guess, Syed, it's going to be very difficult
+
+479
+20:24.810 --> 20:29.430
+to completely remove the fluorinated gases actually.
+
+480
+20:29.430 --> 20:32.280
+If I look at the semiconductor history
+
+481
+20:32.280 --> 20:34.860
+for the last 50 and 60 years,
+
+482
+20:34.860 --> 20:38.010
+semiconductor industry manufacturing has been
+
+483
+20:38.010 --> 20:40.380
+developed in collaboration
+
+484
+20:40.380 --> 20:42.330
+with the research and development.
+
+485
+20:42.330 --> 20:44.070
+Without the research and development
+
+486
+20:44.070 --> 20:48.480
+in this semiconductor industry, nothing can happen.
+
+487
+20:48.480 --> 20:53.430
+So for this, I guess completely removing the fluorinated gas
+
+488
+20:53.430 --> 20:55.050
+may be very difficult,
+
+489
+20:55.050 --> 20:58.680
+but I guess the semiconductor industry
+
+490
+20:58.680 --> 21:02.130
+has always been together with the research and development.
+
+491
+21:02.130 --> 21:05.490
+So there are many research and development,
+
+492
+21:05.490 --> 21:08.700
+always are trying to improve the power efficiency
+
+493
+21:08.700 --> 21:12.120
+and then also some of the new technologies
+
+494
+21:12.120 --> 21:15.570
+like quantum computing and the neuroFIT devices
+
+495
+21:15.570 --> 21:19.050
+and also some of the biodegradable materials.
+
+496
+21:19.050 --> 21:24.050
+Those things actually can help sustain the semiconductors.
+
+497
+21:24.690 --> 21:29.690
+And also if I come back to Syed's question on IEC,
+
+498
+21:32.310 --> 21:37.310
+IEC is International Electrotechnical Commission.
+
+499
+21:37.680 --> 21:42.680
+This is one of the standards developing organization
+
+500
+21:43.830 --> 21:48.830
+and IEC TC-47 is actually semiconductor devices.
+
+501
+21:49.680 --> 21:54.680
+This IEC TC-47 is one of the biggest committee within IEC.
+
+502
+21:56.670 --> 22:01.410
+It has foursome committees and six working groups.
+
+503
+22:01.410 --> 22:06.410
+SC 47A, Subcommittees 47A covering integral circuit
+
+504
+22:07.380 --> 22:12.380
+and SC 47D is covering packaging technology.
+
+505
+22:13.110 --> 22:16.830
+SC 47E is discreet semiconductor devices
+
+506
+22:16.830 --> 22:18.990
+such as sensors or IOs
+
+507
+22:18.990 --> 22:23.313
+and 47F is about the MEMS devices.
+
+508
+22:24.570 --> 22:26.177
+If I look at the 47,
+
+509
+22:27.139 --> 22:29.070
+IEC TC-47 has been focusing
+
+510
+22:29.070 --> 22:32.850
+on developing standards of the characterization
+
+511
+22:32.850 --> 22:36.430
+and reliability of already developed product
+
+512
+22:37.860 --> 22:42.480
+and mostly reliability aspects.
+
+513
+22:42.480 --> 22:46.170
+But recently there is some activities
+
+514
+22:46.170 --> 22:49.380
+try to do some pre-standardization
+
+515
+22:49.380 --> 22:51.720
+on next generation technologies
+
+516
+22:51.720 --> 22:55.800
+and also TC-47 has formed a new working group
+
+517
+22:55.800 --> 22:59.430
+on wide bandgap technologies
+
+518
+22:59.430 --> 23:04.000
+which is power conversion devices a couple of years ago
+
+519
+23:06.780 --> 23:08.220
+to reflect the importance
+
+520
+23:08.220 --> 23:11.463
+of the power conversion devices recently.
+
+521
+23:12.360 --> 23:15.133
+<v ->Okay. and how, I mean, thank you for explaining this.</v>
+
+522
+23:15.133 --> 23:17.400
+That was a very important background.
+
+523
+23:17.400 --> 23:21.270
+How these standards, specifically TC-47,
+
+524
+23:21.270 --> 23:23.470
+how is helping the industry
+
+525
+23:25.050 --> 23:26.220
+and what are the effects?
+
+526
+23:26.220 --> 23:30.360
+How much industry is involved in setting up these standards?
+
+527
+23:30.360 --> 23:34.320
+<v ->Okay, actually TC-47 is actually covering</v>
+
+528
+23:34.320 --> 23:37.530
+various aspects of the semiconductors.
+
+529
+23:37.530 --> 23:38.673
+So if I look at it,
+
+530
+23:39.570 --> 23:42.780
+there is some separation
+
+531
+23:42.780 --> 23:45.993
+between the research community and industry.
+
+532
+23:47.580 --> 23:51.450
+The countries like EU and US,
+
+533
+23:51.450 --> 23:54.300
+actually mostly industry experts
+
+534
+23:54.300 --> 23:56.040
+are developing the standards
+
+535
+23:56.040 --> 23:58.530
+of the already developed products.
+
+536
+23:58.530 --> 24:00.660
+And then the countries like Korea,
+
+537
+24:00.660 --> 24:02.250
+we are actually more focused
+
+538
+24:02.250 --> 24:04.900
+on the next generation technologies
+
+539
+24:05.850 --> 24:07.560
+such as neuroFIT devices
+
+540
+24:07.560 --> 24:11.043
+and then some of the manufacturing aspects as well.
+
+541
+24:12.690 --> 24:17.580
+But I guess in order
+
+542
+24:17.580 --> 24:21.753
+for the semiconductor industry to go forward,
+
+543
+24:22.740 --> 24:26.340
+industry and academia or the research community
+
+544
+24:26.340 --> 24:29.520
+needs to get together to develop
+
+545
+24:29.520 --> 24:31.980
+reasonable standards in various areas
+
+546
+24:31.980 --> 24:35.610
+including the next generation emerging
+
+547
+24:35.610 --> 24:38.670
+and critical areas as well.
+
+548
+24:38.670 --> 24:39.907
+I think which is what the CHIPS
+
+549
+24:39.907 --> 24:44.058
+and Science Act in the USA is also trying to support
+
+550
+24:44.058 --> 24:47.460
+the next generation technologies as well.
+
+551
+24:47.460 --> 24:49.200
+<v ->Yeah, and maybe I can help to explain</v>
+
+552
+24:49.200 --> 24:50.970
+a little bit on the IEC side.
+
+553
+24:50.970 --> 24:54.480
+So the IEC is one of three
+
+554
+24:54.480 --> 24:58.410
+major global standards development organizations, right?
+
+555
+24:58.410 --> 25:01.270
+You've got ISO, IEC, in the ITU
+
+556
+25:02.130 --> 25:04.230
+and within the IEC,
+
+557
+25:04.230 --> 25:07.290
+we've got different technical committees that are addressing
+
+558
+25:07.290 --> 25:09.450
+a lot of different areas.
+
+559
+25:09.450 --> 25:12.900
+And what's very interesting is that we all come together
+
+560
+25:12.900 --> 25:15.840
+and we bring our expertise from industry
+
+561
+25:15.840 --> 25:18.990
+into our national committee, right, our national body.
+
+562
+25:18.990 --> 25:20.130
+So as the president of,
+
+563
+25:20.130 --> 25:22.620
+oops, sorry, I forgot about the microphone, sorry.
+
+564
+25:22.620 --> 25:26.460
+As the president of the US National Committee,
+
+565
+25:26.460 --> 25:30.360
+what we do is we get all of the expertise,
+
+566
+25:30.360 --> 25:32.250
+all of the experts that participate
+
+567
+25:32.250 --> 25:34.050
+in the different technical committees,
+
+568
+25:34.050 --> 25:36.330
+they bring their votes in
+
+569
+25:36.330 --> 25:40.170
+and they vote on the next levels of these projects
+
+570
+25:40.170 --> 25:42.030
+or they submit the projects themselves.
+
+571
+25:42.030 --> 25:44.940
+So it's a great way for industry to come together,
+
+572
+25:44.940 --> 25:47.250
+but also to be represented in a global basis.
+
+573
+25:47.250 --> 25:48.840
+So it brings that.
+
+574
+25:48.840 --> 25:51.540
+<v ->I would also add that bringing industry in</v>
+
+575
+25:51.540 --> 25:52.830
+brings in the perspective
+
+576
+25:52.830 --> 25:55.410
+of what are the problems we're trying to solve?
+
+577
+25:55.410 --> 25:57.390
+It's not engineering for engineering's sake.
+
+578
+25:57.390 --> 25:58.920
+It's what are the priorities
+
+579
+25:58.920 --> 26:00.900
+and the problems that we are trying to address?
+
+580
+26:00.900 --> 26:03.810
+'Cause there's always trade offs in where we invest, right?
+
+581
+26:03.810 --> 26:05.790
+So bringing industry in brings,
+
+582
+26:05.790 --> 26:08.940
+'cause they're connected more to the the end user, right?
+
+583
+26:08.940 --> 26:11.640
+And so that helps bring that focus.
+
+584
+26:11.640 --> 26:13.920
+<v ->Exactly, and then so if you think about</v>
+
+585
+26:13.920 --> 26:16.050
+how we're doing that here in the US,
+
+586
+26:16.050 --> 26:18.690
+within the IEC, we're taking our knowledge in the US
+
+587
+26:18.690 --> 26:20.550
+and then bringing it globally,
+
+588
+26:20.550 --> 26:23.460
+and Professor Kim also brings knowledge from Korea
+
+589
+26:23.460 --> 26:24.510
+and takes that globally
+
+590
+26:24.510 --> 26:26.550
+so then we're able to work together
+
+591
+26:26.550 --> 26:29.280
+and hopefully solve global challenges.
+
+592
+26:29.280 --> 26:32.160
+<v ->And I think the global perspective is very important</v>
+
+593
+26:32.160 --> 26:35.880
+because a lot of large semi companies are global
+
+594
+26:35.880 --> 26:38.340
+so they want to have a consistent standard
+
+595
+26:38.340 --> 26:40.260
+and a framework that they could deploy
+
+596
+26:40.260 --> 26:42.450
+across their fabs around the globe.
+
+597
+26:42.450 --> 26:43.650
+Companies would want to have
+
+598
+26:43.650 --> 26:45.720
+oh, this standard in this country
+
+599
+26:45.720 --> 26:46.860
+and some other standard in another country.
+
+600
+26:46.860 --> 26:48.129
+<v Nancy>Exactly, it's not scalable.</v>
+
+601
+26:48.129 --> 26:49.950
+<v ->It's not scalable and it's easy to deploy</v>
+
+602
+26:49.950 --> 26:51.000
+and stuff like that.
+
+603
+26:51.000 --> 26:53.940
+And then I think, Sujata, to your point earlier,
+
+604
+26:53.940 --> 26:55.710
+industry participation also helps.
+
+605
+26:55.710 --> 26:58.260
+Is it implementable, is it deployable, right?
+
+606
+26:58.260 --> 27:00.210
+How practical it is to do something,
+
+607
+27:00.210 --> 27:03.690
+so from that perspective it's also important.
+
+608
+27:03.690 --> 27:07.050
+One of the things I wanted to ask the panel,
+
+609
+27:07.050 --> 27:08.800
+we touched about PFA quite a bit
+
+610
+27:10.170 --> 27:11.850
+and I think the role of research,
+
+611
+27:11.850 --> 27:14.340
+R&amp;D you talked about, Deok-kee, also.
+
+612
+27:14.340 --> 27:18.390
+Are alternate chemistry being researched?
+
+613
+27:18.390 --> 27:21.360
+Is is there your path research?
+
+614
+27:21.360 --> 27:23.670
+Maybe not in the very near-term,
+
+615
+27:23.670 --> 27:25.380
+but is there a research
+
+616
+27:25.380 --> 27:29.190
+or a path towards elevating some of the usage of PFAs
+
+617
+27:29.190 --> 27:30.023
+and things like that?
+
+618
+27:30.023 --> 27:32.700
+<v ->I'll start, absolutely, I know even IBM research,</v>
+
+619
+27:32.700 --> 27:35.820
+that is one of our focus areas to look at that,
+
+620
+27:35.820 --> 27:39.120
+and using AI and understanding the chemistries.
+
+621
+27:39.120 --> 27:42.330
+A real benefit will be when we start using quantum.
+
+622
+27:42.330 --> 27:44.310
+So quantum can actually get down
+
+623
+27:44.310 --> 27:47.280
+to the molecular behavior of the molecule.
+
+624
+27:47.280 --> 27:50.580
+So we can start to understand can we create new processes
+
+625
+27:50.580 --> 27:52.560
+where if I have this byproduct,
+
+626
+27:52.560 --> 27:54.180
+how can I break it down?
+
+627
+27:54.180 --> 27:55.200
+So that is coming.
+
+628
+27:55.200 --> 27:57.180
+It's an area of focus,
+
+629
+27:57.180 --> 27:59.610
+even though the PFA regulations
+
+630
+27:59.610 --> 28:02.040
+got pushed out by a bunch of lawyers
+
+631
+28:02.040 --> 28:03.877
+because genuinely people are saying,
+
+632
+28:03.877 --> 28:05.820
+"We have to do something."
+
+633
+28:05.820 --> 28:08.250
+Now semiconductor of course uses PFAs
+
+634
+28:08.250 --> 28:09.207
+and I'm telling you,
+
+635
+28:09.207 --> 28:11.730
+for 40 years we've used fluorinated gases.
+
+636
+28:11.730 --> 28:13.650
+I don't see a way of getting around it,
+
+637
+28:13.650 --> 28:17.400
+but we're gonna look very hard how to render it inert.
+
+638
+28:17.400 --> 28:18.570
+But on the other hand,
+
+639
+28:18.570 --> 28:20.310
+everybody who does cooking,
+
+640
+28:20.310 --> 28:22.080
+guess what's in your frying pan?
+
+641
+28:22.080 --> 28:25.410
+PFAs, clothes, it's everywhere.
+
+642
+28:25.410 --> 28:28.320
+And what I'm hoping semiconductor can do
+
+643
+28:28.320 --> 28:30.150
+and I wanna help do this too,
+
+644
+28:30.150 --> 28:31.770
+we have the know-how to go
+
+645
+28:31.770 --> 28:33.510
+and figure out how to do this.
+
+646
+28:33.510 --> 28:36.330
+Quantify it, use AI, use quantum,
+
+647
+28:36.330 --> 28:37.980
+and figure out how to render,
+
+648
+28:37.980 --> 28:40.830
+whatever we create, render it inert.
+
+649
+28:40.830 --> 28:42.420
+We call it cradle to,
+
+650
+28:42.420 --> 28:46.338
+or again, what do I say, grave to grave.
+
+651
+28:46.338 --> 28:47.790
+You create it, you grow it,
+
+652
+28:47.790 --> 28:48.780
+and then put it back,
+
+653
+28:48.780 --> 28:50.400
+and so that's what we're really trying to do.
+
+654
+28:50.400 --> 28:52.710
+So I give a lot of folks credit.
+
+655
+28:52.710 --> 28:54.930
+It's not based on regulations
+
+656
+28:54.930 --> 28:57.480
+which can sway with the politics,
+
+657
+28:57.480 --> 28:59.100
+but people wanna do the right thing
+
+658
+28:59.100 --> 29:00.510
+and we just got to help them.
+
+659
+29:00.510 --> 29:02.310
+<v ->And semi industry has a tradition</v>
+
+660
+29:02.310 --> 29:06.690
+or a history of very fact driven, science oriented,
+
+661
+29:06.690 --> 29:08.880
+and I mean, the kind of work that we do,
+
+662
+29:08.880 --> 29:10.440
+as you were talking about it,
+
+663
+29:10.440 --> 29:12.390
+making the chips at three nanometer,
+
+664
+29:12.390 --> 29:14.160
+two nanometer is like this
+
+665
+29:14.160 --> 29:17.673
+because of all the science-driven kind of a mindset.
+
+666
+29:19.620 --> 29:22.410
+We touched about, I think the panel touched about
+
+667
+29:22.410 --> 29:24.360
+on regulation a couple of times.
+
+668
+29:24.360 --> 29:26.943
+Let me ask a overarching questions.
+
+669
+29:28.260 --> 29:32.343
+Do we need some regulation specific to semi manufacturing?
+
+670
+29:35.220 --> 29:36.053
+<v ->Well, I could start then.</v>
+
+671
+29:36.053 --> 29:37.173
+<v ->Yeah, yeah, go ahead.</v>
+
+672
+29:38.250 --> 29:40.590
+<v ->It's almost a yes-no.</v>
+
+673
+29:40.590 --> 29:41.940
+You need the regulation,
+
+674
+29:41.940 --> 29:44.310
+but it's important to have the standards.
+
+675
+29:44.310 --> 29:46.290
+So if you're gonna have a regulation,
+
+676
+29:46.290 --> 29:50.100
+make sure it's discoverable and doable.
+
+677
+29:50.100 --> 29:51.600
+The PFA one came out,
+
+678
+29:51.600 --> 29:53.700
+how could anybody adhere to it?
+
+679
+29:53.700 --> 29:55.530
+So I think put the regulation
+
+680
+29:55.530 --> 29:58.910
+and bring in the community of scientists
+
+681
+29:58.910 --> 30:01.290
+to really influence, all right, here's the problem,
+
+682
+30:01.290 --> 30:03.240
+here's how you discover it, measure it,
+
+683
+30:03.240 --> 30:06.150
+and here's how you can abate it or remove it.
+
+684
+30:06.150 --> 30:08.070
+And that's gonna be really important.
+
+685
+30:08.070 --> 30:11.940
+One concern I do have is how do you motivate people?
+
+686
+30:11.940 --> 30:14.130
+So if you don't have regulations,
+
+687
+30:14.130 --> 30:16.560
+will they have that motivation to do the right thing?
+
+688
+30:16.560 --> 30:17.970
+<v Veronica>Exactly what I was thinking.</v>
+
+689
+30:17.970 --> 30:20.940
+<v ->Tax credits can only go so far</v>
+
+690
+30:20.940 --> 30:25.380
+and it may have to come down to it has to be mandated now.
+
+691
+30:25.380 --> 30:27.030
+I was in Malaysia a few months ago
+
+692
+30:27.030 --> 30:29.310
+and asking them, "You're gonna have regulations
+
+693
+30:29.310 --> 30:31.380
+for a semiconductor, they're gonna boom."
+
+694
+30:31.380 --> 30:32.880
+And they're like, "What?"
+
+695
+30:32.880 --> 30:34.380
+They're like, "No, we don't have enough water.
+
+696
+30:34.380 --> 30:36.960
+We're just gonna have to manage it out of the gate."
+
+697
+30:36.960 --> 30:39.180
+So it's a perspective.
+
+698
+30:39.180 --> 30:42.810
+I think regulations supported by standards.
+
+699
+30:42.810 --> 30:45.480
+I hope humans do want to do the right thing.
+
+700
+30:45.480 --> 30:47.760
+You are up against profit
+
+701
+30:47.760 --> 30:49.380
+and that's going to be a problem,
+
+702
+30:49.380 --> 30:53.280
+and maybe regulations helps open the door and squash profits
+
+703
+30:53.280 --> 30:55.530
+and say environment first.
+
+704
+30:55.530 --> 30:56.580
+<v ->In a sense, a bar too,</v>
+
+705
+30:56.580 --> 31:00.240
+a common bar for everybody to shoot for and work together,
+
+706
+31:00.240 --> 31:02.670
+and that's where the standards come in to help.
+
+707
+31:02.670 --> 31:04.170
+<v ->I mean, it helps with the bottom line also.</v>
+
+708
+31:04.170 --> 31:05.003
+You talked about it,
+
+709
+31:05.003 --> 31:06.750
+if you're using less power,
+
+710
+31:06.750 --> 31:09.960
+it helps reduce the power expenses also, right?
+
+711
+31:09.960 --> 31:11.493
+So there is a,
+
+712
+31:12.360 --> 31:14.733
+it's helpful from multiple angles also.
+
+713
+31:16.800 --> 31:18.780
+I also wanna touch upon,
+
+714
+31:18.780 --> 31:20.880
+I wanna get everyone's opinion on this,
+
+715
+31:20.880 --> 31:23.010
+is are we doing enough?
+
+716
+31:23.010 --> 31:26.010
+Are we acting with a sense of urgency?
+
+717
+31:26.010 --> 31:26.843
+What do you all think?
+
+718
+31:26.843 --> 31:28.974
+I think we can go around the panel to talk about it.
+
+719
+31:28.974 --> 31:30.630
+<v ->I'll jump in, I think there's always more</v>
+
+720
+31:30.630 --> 31:32.010
+that we can be doing, right?
+
+721
+31:32.010 --> 31:34.620
+Especially when it comes to standardization.
+
+722
+31:34.620 --> 31:35.490
+When you talk about
+
+723
+31:35.490 --> 31:38.130
+some of the heavy challenges that we have,
+
+724
+31:38.130 --> 31:40.830
+the more that we can get industry together
+
+725
+31:40.830 --> 31:45.120
+to talk about how they might be solving different issues,
+
+726
+31:45.120 --> 31:50.070
+whether it's chemical usage, or water usage, or power.
+
+727
+31:50.070 --> 31:52.800
+We've talked about power a lot as well.
+
+728
+31:52.800 --> 31:55.260
+And if we're able to learn from each other
+
+729
+31:55.260 --> 31:58.050
+and then hopefully set some of those benchmarks
+
+730
+31:58.050 --> 32:00.240
+for other companies to follow,
+
+731
+32:00.240 --> 32:02.010
+as we were talking about earlier with regulation,
+
+732
+32:02.010 --> 32:03.420
+hopefully at that point,
+
+733
+32:03.420 --> 32:06.330
+regulation can then point to that standard
+
+734
+32:06.330 --> 32:08.640
+and say, "Follow that standard,"
+
+735
+32:08.640 --> 32:11.790
+and we're already getting to a better level.
+
+736
+32:11.790 --> 32:14.640
+So we can always look at different areas
+
+737
+32:14.640 --> 32:17.430
+and do better in each individual area.
+
+738
+32:17.430 --> 32:19.410
+<v ->Okay, Nancy, what do you think?</v>
+
+739
+32:19.410 --> 32:22.170
+<v ->I'm gonna say no, we're not doing enough.</v>
+
+740
+32:22.170 --> 32:24.390
+Obviously the focus has been on capacity,
+
+741
+32:24.390 --> 32:26.250
+get the capacity up and running.
+
+742
+32:26.250 --> 32:28.500
+And during that build out,
+
+743
+32:28.500 --> 32:30.840
+some companies were very responsible
+
+744
+32:30.840 --> 32:33.630
+and they started to build in the environmental conditions,
+
+745
+32:33.630 --> 32:35.220
+but was there a whole lot of motivation?
+
+746
+32:35.220 --> 32:37.230
+No, you got this money, build this factory,
+
+747
+32:37.230 --> 32:38.250
+get it up and running.
+
+748
+32:38.250 --> 32:40.440
+And I think that at least in the US
+
+749
+32:40.440 --> 32:43.110
+we have that firmly on its way,
+
+750
+32:43.110 --> 32:45.540
+we need to focus on the environmental conditions.
+
+751
+32:45.540 --> 32:47.640
+So I'm gonna say no.
+
+752
+32:47.640 --> 32:50.280
+I understand why we focus on capacity,
+
+753
+32:50.280 --> 32:54.360
+but we need a lot of funding to say get rid of PFAs,
+
+754
+32:54.360 --> 32:56.670
+water usage, energy usage.
+
+755
+32:56.670 --> 32:57.620
+There's more to do.
+
+756
+32:58.770 --> 33:00.870
+<v ->Yeah, I think I would say yes and no.</v>
+
+757
+33:00.870 --> 33:05.670
+I think I really see that we've accelerated
+
+758
+33:05.670 --> 33:09.570
+the efforts in the last five, even just five years.
+
+759
+33:09.570 --> 33:10.800
+Even working at NXP,
+
+760
+33:10.800 --> 33:13.110
+the amount of awareness there is
+
+761
+33:13.110 --> 33:16.380
+around how to build more sustainable semiconductors
+
+762
+33:16.380 --> 33:18.753
+and the efforts that are going on in fabs.
+
+763
+33:19.800 --> 33:21.960
+And even when I work with customers,
+
+764
+33:21.960 --> 33:25.170
+they ask us for information about our products,
+
+765
+33:25.170 --> 33:26.940
+and the carbon footprint,
+
+766
+33:26.940 --> 33:29.580
+and energy consumption for building the products.
+
+767
+33:29.580 --> 33:30.720
+So there's more awareness
+
+768
+33:30.720 --> 33:32.520
+and now we have to continue
+
+769
+33:32.520 --> 33:35.070
+to drive the semiconductor processes.
+
+770
+33:35.070 --> 33:38.280
+But I will also say I think from the end product side,
+
+771
+33:38.280 --> 33:42.420
+we're making huge advancements in AI,
+
+772
+33:42.420 --> 33:43.950
+like you said, all these technologies
+
+773
+33:43.950 --> 33:48.390
+to help us better understand the energy usage
+
+774
+33:48.390 --> 33:53.133
+and be able to apply intelligence to reduce that.
+
+775
+33:55.020 --> 33:57.120
+<v ->So if I add a little bit.</v>
+
+776
+33:57.120 --> 34:00.090
+If I look at the semiconductor manufacturing,
+
+777
+34:00.090 --> 34:03.510
+previously for the last 50 and 60 years,
+
+778
+34:03.510 --> 34:07.320
+US actually started the semiconductor manufacturing
+
+779
+34:07.320 --> 34:09.600
+and then they intentionally I think
+
+780
+34:09.600 --> 34:12.420
+moved that to Japan and then Korea
+
+781
+34:12.420 --> 34:15.180
+and then finally to China.
+
+782
+34:15.180 --> 34:16.627
+And then those are,
+
+783
+34:18.030 --> 34:21.780
+Korea, even if I look at the Korea, the initial days,
+
+784
+34:21.780 --> 34:25.620
+they didn't really think about the environmental aspects.
+
+785
+34:25.620 --> 34:28.170
+And then there was some diseases
+
+786
+34:28.170 --> 34:30.690
+from the semiconductor processing as well.
+
+787
+34:30.690 --> 34:33.600
+But now USC is actually considering
+
+788
+34:33.600 --> 34:36.420
+that semiconductor technology is very, very important
+
+789
+34:36.420 --> 34:37.253
+and they're bringing
+
+790
+34:37.253 --> 34:41.130
+that semiconductor manufacturing back to US.
+
+791
+34:41.130 --> 34:44.310
+And now I think US will be more interested
+
+792
+34:44.310 --> 34:46.170
+in the research and development.
+
+793
+34:46.170 --> 34:48.060
+US has a very good capability
+
+794
+34:48.060 --> 34:50.010
+of the research and capability.
+
+795
+34:50.010 --> 34:55.010
+I hope that we will find better solutions in the near future
+
+796
+34:55.230 --> 34:57.000
+with all the capabilities.
+
+797
+34:57.000 --> 34:59.610
+<v ->Thank you, I think at this time,</v>
+
+798
+34:59.610 --> 35:01.350
+we have a few minutes
+
+799
+35:01.350 --> 35:03.960
+left for any questions from the audience.
+
+800
+35:03.960 --> 35:05.970
+If you have any questions,
+
+801
+35:05.970 --> 35:08.310
+please come up to the mic over here
+
+802
+35:08.310 --> 35:10.083
+and so that it could be recorded.
+
+803
+35:11.250 --> 35:13.350
+Any questions from the audience?
+
+804
+35:13.350 --> 35:16.200
+<v Questioner One>I had a, sorry, a question on the,</v>
+
+805
+35:16.200 --> 35:18.050
+there has been a lot of reshoring
+
+806
+35:18.050 --> 35:20.280
+of semiconductor into the US
+
+807
+35:20.280 --> 35:23.460
+and one of my questions was what sustainability
+
+808
+35:23.460 --> 35:26.160
+and government environmental obstacles
+
+809
+35:26.160 --> 35:29.340
+have been most daunting,
+
+810
+35:29.340 --> 35:33.030
+especially with our environmental regulations
+
+811
+35:33.030 --> 35:35.103
+in the US versus other countries?
+
+812
+35:36.810 --> 35:38.520
+<v ->Nancy, you wanna start?</v>
+
+813
+35:38.520 --> 35:41.250
+<v ->Sure, I think in the US,</v>
+
+814
+35:41.250 --> 35:43.200
+of course, the water was gonna be a concern.
+
+815
+35:43.200 --> 35:45.270
+The PFAS came right up on the top.
+
+816
+35:45.270 --> 35:49.380
+But until it was doable, energy is also a big one.
+
+817
+35:49.380 --> 35:51.930
+So I think there's some federal regulations,
+
+818
+35:51.930 --> 35:53.790
+but then the states have to look at it.
+
+819
+35:53.790 --> 35:55.140
+Can they actually support it?
+
+820
+35:55.140 --> 35:57.420
+And as we're indicating, water's a big one.
+
+821
+35:57.420 --> 36:00.240
+I don't think we can put too many more factories
+
+822
+36:00.240 --> 36:05.240
+in the South here, West to be able to do that.
+
+823
+36:05.280 --> 36:06.960
+So I think in that case,
+
+824
+36:06.960 --> 36:08.760
+we're trying to work with the government.
+
+825
+36:08.760 --> 36:11.940
+We have to get this capacity online.
+
+826
+36:11.940 --> 36:13.980
+We're rules bent, I don't know,
+
+827
+36:13.980 --> 36:17.610
+but I do start looking at the data, kind of questioning it.
+
+828
+36:17.610 --> 36:20.610
+EU I work with, they're real tough.
+
+829
+36:20.610 --> 36:22.530
+They're not gonna bend, no, boom,
+
+830
+36:22.530 --> 36:26.310
+and I'd like to see if we can get there, but collectively.
+
+831
+36:26.310 --> 36:29.040
+You have to put something in place that's really doable
+
+832
+36:29.040 --> 36:31.860
+and invest in more research.
+
+833
+36:31.860 --> 36:33.780
+And I think Syed mentioned,
+
+834
+36:33.780 --> 36:35.460
+it doesn't necessarily mean
+
+835
+36:35.460 --> 36:37.590
+you're gonna decrease your profit
+
+836
+36:37.590 --> 36:40.200
+because a lot of times the way they're calculating profit,
+
+837
+36:40.200 --> 36:42.510
+they're not calculating the entire pipeline
+
+838
+36:42.510 --> 36:43.620
+of what you've done.
+
+839
+36:43.620 --> 36:46.500
+Are you taking into account the waste
+
+840
+36:46.500 --> 36:48.030
+and what the impact of the waste is
+
+841
+36:48.030 --> 36:49.410
+and if you get sued
+
+842
+36:49.410 --> 36:50.820
+or if you're non-compliant?
+
+843
+36:50.820 --> 36:53.040
+When you start looking at all that,
+
+844
+36:53.040 --> 36:55.593
+doing the right thing will be profitable.
+
+845
+36:56.430 --> 36:58.290
+<v ->Deok-kee, any observation from outside?</v>
+
+846
+36:58.290 --> 37:02.190
+<v ->Yeah, when I was working for some government jobs,</v>
+
+847
+37:02.190 --> 37:03.810
+I actually had a chance to meet
+
+848
+37:03.810 --> 37:06.600
+with some of the officials from EU.
+
+849
+37:06.600 --> 37:08.370
+Actually the first question they asked me
+
+850
+37:08.370 --> 37:11.293
+is can you get rid of the PFA,
+
+851
+37:11.293 --> 37:15.660
+especially the Samsung Electronics or (indistinct) actually.
+
+852
+37:15.660 --> 37:18.690
+But I guess like Nancy said,
+
+853
+37:18.690 --> 37:22.139
+I think currently it's impossible to get rid
+
+854
+37:22.139 --> 37:24.450
+of the fluorinated gases completely
+
+855
+37:24.450 --> 37:27.450
+and I guess they set the target about 2050.
+
+856
+37:27.450 --> 37:31.620
+Currently they don't really look at seriously within Korea,
+
+857
+37:31.620 --> 37:33.540
+but they started to look at it.
+
+858
+37:33.540 --> 37:37.743
+So I think we have to see whether we can really,
+
+859
+37:39.000 --> 37:44.000
+I guess a little bit we may be able to reduce
+
+860
+37:44.430 --> 37:45.870
+and then we should reduce
+
+861
+37:45.870 --> 37:49.143
+some of the fluorinated gas use in the manufacturing, yeah.
+
+862
+37:52.410 --> 37:54.570
+<v Questioner Two>How do the semiconductor companies</v>
+
+863
+37:54.570 --> 37:58.530
+plan to achieve carbon-neutral goals?
+
+864
+37:58.530 --> 38:00.570
+Do you prefer or prioritize
+
+865
+38:00.570 --> 38:03.750
+reducing the carbon emission yourself
+
+866
+38:03.750 --> 38:07.173
+or purchasing carbon credits on the market?
+
+867
+38:10.740 --> 38:14.640
+<v ->Yeah, yeah, yeah, actually these people may know better,</v>
+
+868
+38:14.640 --> 38:19.080
+but I guess in order to prepare this panel,
+
+869
+38:19.080 --> 38:21.810
+I also became interested
+
+870
+38:21.810 --> 38:24.480
+in the semiconductor sustainability.
+
+871
+38:24.480 --> 38:27.130
+And then semiconductor companies I think are doing
+
+872
+38:27.990 --> 38:32.990
+various things to use the renewable energies
+
+873
+38:33.090 --> 38:36.423
+and also trying to use many,
+
+874
+38:38.100 --> 38:41.147
+using the AI, the optimization
+
+875
+38:41.147 --> 38:43.560
+of the manufacturing process, et cetera,
+
+876
+38:43.560 --> 38:46.200
+to reduce the carbon emission.
+
+877
+38:46.200 --> 38:48.420
+And then a little bit,
+
+878
+38:48.420 --> 38:49.930
+but currently I guess it's very difficult
+
+879
+38:49.930 --> 38:52.290
+to do the net-zero carbon.
+
+880
+38:52.290 --> 38:53.760
+<v ->Yeah, I agree with that.</v>
+
+881
+38:53.760 --> 38:56.580
+I think NXP, we have sustainability reports
+
+882
+38:56.580 --> 38:58.530
+that we started issuing to show
+
+883
+38:58.530 --> 39:00.810
+where are the areas that we've invested
+
+884
+39:00.810 --> 39:03.270
+and evaluated on the energy consumption
+
+885
+39:03.270 --> 39:05.013
+and how we can improve that.
+
+886
+39:06.150 --> 39:09.120
+It's gonna take time to get to a net-zero.
+
+887
+39:09.120 --> 39:10.710
+I don't know if that's feasible or not,
+
+888
+39:10.710 --> 39:13.800
+but just working towards that is definitely something
+
+889
+39:13.800 --> 39:16.408
+I think all the semiconductor companies are doing.
+
+890
+39:16.408 --> 39:17.880
+<v ->I think there's a broad set of things</v>
+
+891
+39:17.880 --> 39:19.740
+going on in this space.
+
+892
+39:19.740 --> 39:22.980
+First, usage of renewable sources.
+
+893
+39:22.980 --> 39:26.880
+Second is this how can we use less energy?
+
+894
+39:26.880 --> 39:30.120
+And then the OEE topic that we talked about.
+
+895
+39:30.120 --> 39:30.960
+<v ->And the reuse.</v>
+
+896
+39:30.960 --> 39:34.950
+<v ->And the reuse, so there is a broad set of things</v>
+
+897
+39:34.950 --> 39:37.413
+that collectively could help us get there.
+
+898
+39:39.110 --> 39:40.470
+<v ->Yeah, and I think companies</v>
+
+899
+39:40.470 --> 39:43.110
+can also set these benchmarks themselves
+
+900
+39:43.110 --> 39:46.320
+and then I know I've preached standards,
+
+901
+39:46.320 --> 39:48.600
+but I think the more that we set the benchmarks
+
+902
+39:48.600 --> 39:52.920
+on how we might get to a better sustainable world, right?
+
+903
+39:52.920 --> 39:54.120
+Especially when we're talking
+
+904
+39:54.120 --> 39:57.480
+about the manufacturing of semiconductors, right?
+
+905
+39:57.480 --> 40:00.390
+Then what we can do is share that learning with each other
+
+906
+40:00.390 --> 40:02.250
+and then hopefully create some standards,
+
+907
+40:02.250 --> 40:03.883
+so that's what we hope for.
+
+908
+40:03.883 --> 40:05.760
+<v ->I just wanted to add one key here</v>
+
+909
+40:05.760 --> 40:07.560
+is typically an organization
+
+910
+40:07.560 --> 40:11.460
+or a factory is measuring the total amount of energy used?
+
+911
+40:11.460 --> 40:12.630
+Where was it used?
+
+912
+40:12.630 --> 40:15.210
+And then they calculate the emissions.
+
+913
+40:15.210 --> 40:17.340
+That's too macro level in my opinion.
+
+914
+40:17.340 --> 40:18.570
+What tools are using it?
+
+915
+40:18.570 --> 40:20.460
+Do you have a tool starting to go rogue
+
+916
+40:20.460 --> 40:22.470
+that's just taking too much energy?
+
+917
+40:22.470 --> 40:25.050
+And this is why OEE is so important.
+
+918
+40:25.050 --> 40:28.140
+Monitor each tool and then aggregate it
+
+919
+40:28.140 --> 40:30.810
+'cause otherwise it's so difficult to drill it down.
+
+920
+40:30.810 --> 40:33.210
+So in my view, get this dashboard,
+
+921
+40:33.210 --> 40:34.230
+build in the ability,
+
+922
+40:34.230 --> 40:35.940
+and we're doing that to drill it down.
+
+923
+40:35.940 --> 40:38.550
+What tools are using all this energy and why?
+
+924
+40:38.550 --> 40:40.230
+And is there any opportunity
+
+925
+40:40.230 --> 40:42.003
+to reduce the energy they're using?
+
+926
+40:43.080 --> 40:44.250
+<v Syed>With that, I think we are-</v>
+
+927
+40:44.250 --> 40:45.810
+<v ->Oh, one more comment.</v>
+
+928
+40:45.810 --> 40:46.710
+<v Syed>Go ahead.</v>
+
+929
+40:47.790 --> 40:48.759
+<v Nancy>We're out of time.</v>
+
+930
+40:48.759 --> 40:49.800
+<v Syed>We are out of time.</v>
+
+931
+40:49.800 --> 40:52.110
+Thank you, panel, for a very thought provoking
+
+932
+40:52.110 --> 40:56.070
+and at the same time, very actionable kind of discussion.
+
+933
+40:56.070 --> 40:57.134
+Thank you.
+
+934
+40:57.134 --> 40:59.717
+(bright music)
+

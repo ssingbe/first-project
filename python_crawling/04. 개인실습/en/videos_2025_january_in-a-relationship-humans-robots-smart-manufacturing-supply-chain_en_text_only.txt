@@ -1,0 +1,849 @@
+<v ->All right. Well, good morning and welcome to CES 2025.</v>
+I'm Mike Oitzman.
+I'm senior editor for The Robot Report,
+co-host and producer of "The Robot Report Podcast."
+If you love robotics and love hearing about industry,
+hearing from industry folks in the industry,
+I encourage you to download an episode for your flight home
+and stay up to date with what's going on
+in the robotics industry.
+I love my job
+because I get to talk to interesting people all day
+and help amplify the stories that are,
+you know, on the cutting edge of robotics and innovation.
+And so I'm excited to be here this morning at CES
+not only to see all of the innovation on the showfloor,
+and there's lots of that,
+so I hope you guys are, you know,
+excited to see what is going on there.
+But more than that, I'm excited to be on stage
+with this incredible cast of individuals,
+who all have some very industry-leading stories
+to talk about.
+So let's get going because I know they've got a lot to say.
+And so I'm gonna ask each of them
+to introduce themselves individually
+as we go along here with the first question.
+And so you'll get to know who they are.
+And, Sally, I'm gonna start with you.
+So please introduce yourself
+and tell us what emerging technologies and trends
+you're seeing that are shaping the future
+of robotics and automation at DHL.
+<v ->Sure. Thanks, Mike.</v>
+My name is Sally Miller. I'm with DHL.
+I would ask for a raise of hands
+but I can't see any of you, because the lights are bright,
+but I'm sure you're a customer
+of one of our divisions at some point.
+So DHL has five divisions.
+We run the postal business for Germany,
+we have a forwarding business
+where we move freight between continents,
+and we are the largest time-definite parcel provider
+outside the US.
+And then we have a newer division called e-commerce,
+which inserts packages less than five pounds
+into the postal system of a couple of different countries.
+And then we have the supply chain division,
+which is the division I'm in,
+and we provide warehousing and transportation
+and value added services to companies.
+We service several market verticals.
+And I bring this up in the context of the conversation today
+of what, you know, are the emerging trends
+and things that are important to our business.
+We have over 55,000 hourly associates
+across the US and Canada.
+And we have a high dependency on hourly labor
+to provide service to our customers and our sites,
+we have about 500 across the US and Canada.
+And so what we're seeing and what we're focused on
+are trends that can help our operations be more efficient
+and reduce our dependency on hourly labor.
+So we look at robotics,
+mainly assisted robotics that work with people
+to help make the more mundane, non-value added activities
+easier, reduce travel time, make the job less stressful.
+The second thing is autonomous material
+and handling equipment.
+So autonomous forklift trucks are of interest to us.
+And also AI in several forms.
+And I know it's highly overused lately,
+but gen AI, we're doing a lot of use cases
+and back office activities, including IT development,
+data mapping, generating documents,
+you know, like most large organizations.
+And DHL, I believe, is the 15th largest
+private employer in the world.
+We generate a lot of legal documents, associate documents,
+and documents to suppliers and customers.
+And those are all very nice use cases for gen AI.
+We're also using AI machine learning
+to take data from different systems
+that we utilize in our operations
+to make our core activities more efficient.
+So there's a lot going on.
+It's a fun time to be in IT.
+I think after years of reporting uptime statistics
+and, you know, number of applications deployed,
+we're really focused on driving innovation
+and changing how things are done in the industry.
+So that's a bit about me and my focus.
+<v ->Well, thanks for that.</v>
+Jay, same question to you.
+Please introduce yourself,
+tell us what emerging technologies you foresee
+shaping the future of robotics and automation at Oshkosh.
+<v ->Yeah, good morning. Can you hear me?</v>
+Okay.
+<v ->Yeah.</v>
+<v ->Good morning.</v>
+As an introduction, my name is Jay Iyengar.
+I'm the chief technology
+and strategic sourcing officer for Oshkosh Corporation.
+As an introduction to Oshkosh,
+you know, we are an industrial technology company
+who've been around since 1917.
+The company was founded
+on innovation for mobility since 1917.
+What our products, what we work on
+is we use the term everyday heroes,
+those who move the world forward, right?
+We couldn't exist without them, as an example.
+Everyday heroes are, you know, people that work daily,
+your refuse collection, your firefighters,
+people that deliver your mail,
+people that actually serve the military,
+people that work in construction.
+So these are all the people that, everyday heroes.
+And all our products and technology
+serve those everyday heroes.
+As an example, we have, you know, firefighting,
+we have, you know, firefighting equipment,
+which is fire trucks both for, you know,
+residential, commercial use, as well as airports.
+We have, you know, equipment around the airport itself,
+such as ground support equipment around the airport itself,
+people that work on the tarmac.
+Chances are if you flew in, you know, to this event
+in the last couple of days,
+you probably got on the jet bridge,
+which was an Oshkosh jet bridge.
+That's an example of another one of the everyday heroes
+that I talked about, right?
+People that collect your refuse.
+We do have refuse and recycling collection trucks.
+So we are a vehicle manufacturer,
+we are a technology provider.
+And, again, the common theme that ties it together
+is this everyday heroes theme.
+And what we do is we apply technology
+to address both spoken and unspoken needs of our customers.
+By the way, these jobs are very difficult jobs.
+These aren't something that,
+you know, many times it's tendency to take it for granted.
+As an example, your refuse collection,
+your garbage collection job
+is the seventh most dangerous job in the country
+according to Department of Labor,
+because they have to climb in and out of the vehicles.
+They actually, on average, do 24,000 steps a day.
+So these are very, very difficult jobs.
+It takes time for somebody to learn
+how to actually drive the vehicle,
+park it right next to your garbage can
+and deploy the arm and using the joystick
+and collect it, you know, and dump it back into the trucks,
+and that repetitive task frequently.
+Those kind of things, there's opportunities that we see
+in terms of technology, how the technology can apply
+to make those jobs more efficient,
+more productive, and safer.
+So that's what we focus on,
+is we have, you know, automation, autonomous technologies,
+we use it at moments of autonomy.
+You don't really need a completely driverless vehicle,
+but there's a lot we could do
+to make those difficult jobs easier, efficient, et cetera.
+Another example is your jet bridge.
+How many times have you been stuck on an aircraft
+because don't you know that your jet bridge didn't deploy
+or a person that was supposed to deploy the jet bridge
+wasn't available, right?
+That's an example of something we are working on,
+you know, automating it
+so that there is an autonomous jet dock
+where the dock identifies an aircraft
+and actually, you know, automatically moves,
+identifies the aircraft and the door of the aircraft
+and automatically it deploys itself.
+So get very, very close to the door.
+So there a lot of opportunities there in applying AI,
+you know, advanced sensing and robotics
+to really make those difficult jobs easier.
+At the end of the day,
+making it very productive for our customers,
+providing them both, you know, financial benefits
+and overall total cost ownership benefits.
+<v ->Yeah, some great examples of everyday automation</v>
+that we don't think about.
+<v ->Absolutely.</v>
+<v ->We're interacting with</v>
+or interacting with parts of our lives.
+<v ->Absolutely.</v>
+<v ->So thanks for sharing that.</v>
+Andrew, I'm gonna ask you to go next.
+Now, you're the entrepreneur on the panel here
+and you're developing a new robotic system.
+So tell us a bit about your journey
+and how you've come to evaluate
+the opportunities for automation in robotics
+in the markets that you're serving.
+<v ->Sure. First of all, thank you.</v>
+I'm very happy to be here.
+I love what I do and I'm grateful
+to get to share a little bit more about it.
+I'm the founder of Lucid Bots,
+and we focus on extending human reach
+by building robots that do dangerous and demanding jobs.
+Currently, we're focused on exterior cleaning.
+And we have customers around the world
+doing anything from cleaning office windows
+to industrial water tanks, all the way to stadium domes.
+On average, it's about two times faster
+than traditional methods
+and you're not suspending human workers from lifts,
+ladder, scaffolds.
+You're able to relocate them to the ground.
+And there are three fundamental beliefs about the future
+that really guide how we think about our business.
+The first is there's this world of dirty, dangerous jobs
+where robots are primed to step in and be helpful.
+And the second is these robots, we feel,
+really need to be built domestically
+as we think about our own economic resilience,
+national security, and data privacy.
+And the third belief
+is everything that moves will be automated.
+And that combination of robotics and automation
+is what can unlock a world of prosperity.
+And to tell a little bit of a story of how we began,
+I had a very unusual journey into the robotics world.
+I originally went to Davidson College to play baseball,
+and I was majoring in the highly relevant fields
+of economics and Spanish.
+And it was a fall windy day of my junior year
+and I saw these window washers cleaning large building
+and the platform they were on got caught in the wind,
+started slamming against the building.
+And you saw the workers up there
+just white knuckling the rails, hanging on for dear life.
+And I just asked what seemed like an obvious question:
+how can we leverage technology to make this job safer,
+to make it more efficient?
+And I looked around me at all of these buildings
+and I realized we're building more buildings,
+they're getting larger, more complex
+yet we've got less and less people willing to do the work,
+which represents just an enormous opportunity
+to introduce robotics and automation.
+And in terms of how we think about it at Lucid Bots,
+again, we're a little bit unique
+versus the traditional robotics world.
+Firstly, for the last several decades,
+we've been building robots
+but primarily for the factory settings and warehouses.
+And the way we think about this
+is static environment robots,
+one robot on the same job site every day,
+sometimes literally bolted to the floor
+where the work comes to it.
+In our world, we focus on dynamic robots,
+robots that operate on a different job site every day
+and they actually go to work.
+And the second big difference
+is just how we approached our business.
+We weren't originally a team of researchers
+looking to expand some foundational technology.
+What we saw was a real world, everyday expensive problem,
+and we wanted to focus on solving that problem
+and delivering customer value as quickly as possible
+as we now look to continue expanding.
+<v ->Yeah, that's a great story and thanks for sharing.</v>
+And, again, it speaks to the fact
+that anybody in this room could start their own journey
+by recognizing a problem that could be automated,
+a dull, dangerous, dirty job,
+and, you know, helping to make society better.
+And I think, again, that is on display on the floor here
+from all of these companies that are displaying here,
+their own technologies
+that are impacting consumers' lives, right?
+So the last individual I wanna introduce you to is Rahul.
+And he works for an organization.
+If you're in the industry, you'll recognize the name.
+But, Rahul, tell us a little bit about who you are
+and what Siemens is doing.
+<v ->Yeah, happy to be here. I'm Rahul Garg.</v>
+I lead the global business
+for our industrial machinery manufacturers,
+companies that make machines, companies that build robots,
+companies that make equipment that enable their customers
+to manufacture in their factories.
+So as part of my job, I have the good fortune
+to work with companies who are driving innovation
+inside their factories.
+And at Siemens, we enable a lot of the automation
+inside a factory and we also enable
+a lot of the development of the products
+that are gonna be built in the factories.
+We have a extensive industrial
+software business application as well.
+So as part of what we are trying to do
+is drive this whole notion of a comprehensive digital twin.
+Now, most of you may have heard the idea of a digital twin
+and you think of it as a product,
+and the digital twin of the product.
+But when I'm referring to the comprehensive digital twin,
+a physics-based digital twin, we try and extend that
+throughout the entire lifecycle of the product,
+from the time it is designed, engineered
+to the time it's manufactured,
+and to the time it's serviced and supported as well.
+And we think bringing that digital twin,
+comprehensive digital twin capability
+and combining it closer to the physical world
+will allow you to do some very useful things
+in optimizing your business processes,
+helping you ask very difficult questions
+and meet your many challenging demands.
+So as part of that whole digital twin
+and the comprehensive digital twin,
+we enable the digital twin of a factory as well.
+And inside the digital twin of a factory,
+we think in terms of how to harmonize
+and build the entire process
+for what you're gonna be building inside a factory.
+And inside a factory, you've got equipment,
+you've got robots, you've got humans.
+So how do you get all of that to work in a seamless manner?
+And as part of that whole process through a digital twin,
+we can enable you to look
+at how the machine would be functioning,
+what are the speeds that you would be needing
+to work the machine at,
+you can look at how the humans would be interacting,
+how the robots would be interacting.
+So as part of that process, it becomes very critical
+that you can evaluate all these capabilities
+in a digital way and gives you the freedom
+and the flexibility to try out different options,
+to try out different scenarios you would want to run,
+and make sure that you can design the most flexible,
+the most optimal production facility
+and get the necessary output
+that you would want from your factory.
+<v ->Yeah.</v>
+And I think the interesting thing about digital twins,
+and there's been a lot of news this week about,
+you know, simulation in the real world
+and in the virtual world,
+the idea that you can create an entire factory line,
+a process manufacturing
+or a typical labor-based manufacturing line
+and actually change the parameters parametrically
+and see the output,
+see how the KPIs change is just incredible.
+And it helps close the loop that much faster
+on the rights answer.
+<v ->It does, it does.</v>
+And in fact, and bringing in a lot of AI capabilities
+into the digital twin, allowing you to simulate
+a lot more variables that you did not have
+at your hand before.
+<v ->Right.</v>
+Well, having made it through 2024,
+the big hype for us last year
+in the robotics industry was humanoids.
+The big question of course was what are they gonna do?
+As a journalist, I'm a skeptic,
+that's my job, to be a skeptic,
+and I'm still questioning exactly when humanoids
+are going to become real or if they're gonna become real.
+So I wanted to pull you guys,
+and we talked about this before we got on stage here
+as one of the most hyped stories.
+You know, so there's multiple vendors
+on the showfloor today.
+You're gonna see opportunities to interact with humanoids.
+They're getting better every quarter.
+From the capabilities,
+but the question remains is there work for them to do?
+And it's this question of general purpose automation
+versus specific purpose automation.
+Purpose-built automation,
+automation like an industrial robot
+that does one welding operation a thousand times a day
+versus a general purpose automation
+that can do many different tasks and change it up.
+So having said that, it seems that labor availability
+has been one of the key things
+that both the venture capital community sees
+as an opportunity here,
+why they've invested some large sums of money
+in some humanoid companies this last two years.
+And so I wanted to ask you guys your thoughts
+about the reality in future for humanoids,
+whether you believe it's a good thing or a bad thing.
+And so I'm asking you to go on a record a bit here.
+So, Sally, I'm gonna start with you
+'cause I know you are in charge of a program
+that actually evaluates new technology
+for the use cases.
+<v Sally>Yes.</v>
+<v ->So tell us a little bit about your experience</v>
+with the humanoid world.
+<v ->So humanoids are a vision of roboticists</v>
+and well-financed friends, I would say.
+In supply chain in a warehouse,
+you don't need a robot to have legs.
+In fact, if they have a stronger base
+that has a battery pack, they can operate for more hours.
+And I'm a firm believer
+in that what you deploy in the warehouse
+should look like its intended use.
+And I'm taking that quote from Rodney Brooks,
+who invented the Roomba, which we all have,
+especially if you have a dog.
+And there is a human element
+in everything that we've talked about
+while we've introduced ourselves.
+And, you know, I have to wonder,
+would you wanna be working next to,
+you know, something that looked outta "Star Wars" every day
+or a robot with a nice screen, interactive lights
+that was designed for the use case it was intended?
+My hope, because I'm an optimistic person,
+is that there are, you know, products
+that come out of the huge investment in humanoids
+that can be leveraged for the use cases
+in what we do in warehouses, which is receive product,
+put it away, pick it, package it, and ship it out.
+And I really don't think it will be very well received
+in the look and feel in the warehouse.
+There's a lot of sensitivities
+to robots taking over humans' jobs.
+And I think if you design a robot
+that looks just like a human,
+you're looking for some problem with the labor force
+that we're desperately trying to attract, retain, and keep
+and make as efficient as possible.
+<v ->Yeah. Jay, what's your thoughts?</v>
+<v ->Yeah, so I agree with comments made by Sally too.</v>
+At the end of the day,
+if you think of what a humanoid is, right,
+what we all do as humans is we sense,
+sensing is a really critical part of it.
+We perceive sensing, perception,
+self-learning, and making decisions, right?
+Very simplistically, those are the key elements
+of what a humanoid is.
+Human form is, you agree with me,
+human form is extremely inefficient from an,
+you don't wanna mimic something that's inefficient
+to do something that you're trying to solve.
+Creating a human form just for the sake of it
+doesn't do anything.
+In our industry, what we are trying to do is,
+as I mentioned earlier, is to solve,
+there's a lot of low-hanging fruit inefficiencies
+as we are looking at the manufacturing floor
+or on our own products,
+what we could do for the users of our products as well.
+I'll just give you maybe one example,
+is we are the leaders in access equipment,
+people working at height.
+If you walk around the building,
+you see the JLG machines.
+By the way, they're really, really safe.
+The platform stays flat at 185 feet.
+So there's a lot of technology that goes into it.
+But still there's a human being standing up there
+that's cleaning the window, or it's used for a lot of,
+like welding is another example.
+They go there and move materials and they weld.
+Sometimes there's two machines, two machines go together
+where, you know, the material is carried on one
+and the person's on the other one.
+So there's a lot of repetitive human parts.
+You can even argue to an extent
+it is more of mundane type of tasks that are there.
+So we call about end-effector humanoids
+where you could still have the saw machines
+but the last part of the work that they do can be automated
+with having an arm that actually,
+you know, goes and welds automatically, right,
+and then coordinates with another machine
+to bring the equipment, bring the materials out there
+so that that work can be more efficiently,
+whereas human being can move on
+to something higher level tasks.
+We don't believe in just we have to replace something,
+we can augment what people do today
+and take out the mundane work,
+take out the, you know, potentially unsafe work,
+and talked about dangerous environments, et cetera,
+but make that more efficient
+so that we can move on to some higher level work.
+So that's what we focus on from that sense.
+We're seeing a lot advancements
+in, you know, we use cameras, LiDARs
+and, you know, processors.
+And AI chips have come a very, very long way.
+We saw some announcements this week, yet from Nvidia,
+being able to do, we do digital twins today by the way.
+We simulate factories, we simulate test environments,
+we do some virtual testing
+before we do physical testing on our products,
+using a lot of Siemens's applications.
+But with AI, you can do a lot more scenario planning
+you couldn't normally do with today with this thing.
+So I think there's a lot of low-hanging fruit opportunities
+we need to go after before you design,
+before you really wanna mimic
+the inefficient human form in a humanoid.
+<v ->Yeah, if you listen to the podcast,</v>
+Steve, my co-host, we talk often
+about the humanoid robot video of the week
+because it seems like every week,
+one of the other companies is one-upping each other
+with what they're doing.
+And I'm supporting my Boston Dynamics Atlas Socks
+on stage today as an homage
+to, you know, one of the OGs in the industry.
+But having said that, Rahul, what are your thoughts about,
+you know, humanoids even in the digital twin?
+Is it a good opportunity to try to validate that-
+<v ->Yeah, you know, first of all,</v>
+I do think humanoids are on the cutting edge of technology.
+They're very fascinating.
+And they bring in some new capabilities
+that can be adopted more universally
+but on a technology side.
+I think from a general purpose perspective,
+the usage of humanoids is not there as yet
+from a production perspective.
+I think we have to still rely on special purpose robots
+that are eventually gonna do the function
+in a more efficient manner.
+The reason you're using robot is to bring in more efficiency
+and a humanoid will not get you that efficiency
+that you're looking for.
+So from a digital twin perspective,
+we actually do have the ability already in place
+to create a digital twin of a human.
+In fact, we have a Jack and a Jill version of the human
+to allow you to evaluate different ergonomics,
+different safety criteria,
+different capabilities that a human could be functioning
+in a manufacturing environment.
+So you can do that complete evaluation
+from a digital perspective.
+You can even evaluate a person
+based on characteristics of a person,
+whether it's, not only a man or woman,
+but if they're from the US versus China
+and their capacities of handling things.
+So all that can be done digitally.
+But trying to bring in that humanoid, I think it's not,
+the ability is not on the digital side,
+it's more on the physical side.
+I think the systems are not there, as Jay indicated,
+the perception capabilities,
+a lot of those things are still missing.
+The freedom of movements are not there as yet
+to bring in that capability as yet.
+<v ->Yeah. And, Andrew, I'll let you get a moment here.</v>
+I know you're not using humanoids at all,
+but we had some interesting thoughts
+in our pre-conversation.
+<v ->I'll acknowledge that the human form factor</v>
+is highly adaptable,
+but three things cause me to be reserved about humanoids.
+If you're optimizing for strength, stability, and cost,
+a humanoid is not the design you would tend toward.
+Another big thing, just from a physics perspective,
+rotational motion is much more power-dense
+than linear motion, which is humanoids.
+And then the last thing
+that I think often goes overlooked with robotics
+is robots are a little bit like cars
+and they need ongoing maintenance and servicing.
+And simplicity is what scales in this industry.
+And the humanoid introduces so many extra failure points
+that would need to be serviced and cared for
+over the duration of a customer relationship.
+And in robotics, you wanna minimize customer headaches
+at every opportunity you get.
+<v ->Says the entrepreneur who's rolling out products</v>
+to new customers every week.
+So yeah, serviceability, maintainability,
+and customer service key for any robotics company.
+So with the time we have left,
+we brought up the topic of AI,
+which again is changing so rapidly.
+We've already talked briefly about this.
+But again, as you walk the CES floor today,
+I stopped counting how many companies
+are talking about AI as the core part of their products.
+And, again, as a skeptic, Jay said that,
+you know, where is AI deployed and really what is it, right?
+I think that's the question,
+is what are those places that AI and innovation
+is feasible today to do real work?
+So did you wanna expand a bit more on-
+<v ->Sure. Oh, okay, okay.</v>
+So AI is being used today extensively in our products.
+And clearly we apply AI as we're making decisions,
+whether it's within the factories
+and making decisions on what happens.
+You know, is the supplier gonna deliver something on time?
+There's things that we use for AI for enterprise decisions,
+but right on the products there's AI being used.
+If you go to the Oshkosh booth,
+you're gonna see some of that in action.
+Machine learning, deep learning,
+at the edge, on the devices,
+having embedded systems on the devices.
+One simple example I'll give you
+is that I talked about refuse collection earlier, right?
+So we have sensors and technology on your arm
+on the side of your refuse truck.
+As today, what they do is they drive by
+and then they look to make sure
+that they actually parked the vehicle closer to,
+stop the vehicle closer to your,
+where you put your, you know, refuse on the curb,
+then they use their joystick
+and then they line it all up and then they grab it.
+That whole task, applying sensors in AI,
+it actually identifies and locates the refuse bin.
+If there's a kid there or if there's a bicycle there,
+it won't deploy.
+It identifies and locates that is exactly refuse bin,
+deploys the arm and grabs it and puts it back,
+empties out the refuse container.
+That's a very real world use case
+that you see today in production applying AI.
+<v ->And helping that driver just get that much more efficiency</v>
+out of their task, yeah.
+<v ->Absolutely.</v>
+We've done the mapping.
+Actually if you look at putting,
+it's almost, you can say one hour of work a day.
+They do thousands of these pickups each day.
+Look at the fatigue that they have to face, right?
+The second example is, I don't know how many of you
+really are good about recycling.
+Many times, I have to admit,
+I mix recycling and refuse together.
+I try hard not to put the recycling in there,
+but there are times I mix it up.
+I'm getting a lot better now
+after learning a lot about this.
+But it's the wrong thing to do
+because it costs more money to sort it out
+when you mixed things together on the,
+we call it cross-contamination.
+Applying cameras in AI technology,
+we actually identify there's been a,
+as soon as the garbage goes in there,
+identify there's been a cross-contamination,
+which actually informs the driver, informs the customer.
+You do not wanna throw batteries in your garbage.
+Do not do that.
+It's got a serious impact in terms of safety.
+Those are the kind of things
+we can actually provide more warning
+and it can be in consumer education piece of it.
+So there is practical applications.
+And the jet dock is another example.
+How does it know it's an aircraft?
+How does it know it's a door of the aircraft?
+Aircraft's very, very expensive.
+You just cannot deploy something and hit it.
+So there are practical applications of AI, things like that,
+but what we do see is advancements in AI processing
+and being able to do a better job of sensor fusion
+between the cameras and LADARs and LiDARs.
+Training the models much more efficiently,
+millions of scenarios, training using videos.
+So we see that, we see it taken to the next level,
+but AI is here and now
+and you'll see it across the board on our products.
+<v ->Yeah, yeah.</v>
+Rahul, for the Siemens,
+again, you're a hardware company and a software company.
+We talked about the digital aspects of the digital world,
+but, again, how is AI being infused
+across that entire stack?
+<v ->Yeah, we are, (clears throat) excuse me,</v>
+we are looking at AI, in modern,
+what we are calling as industrial AI
+where we are trying to make sure
+that the AI that's being used is robust and reliable enough
+from an industrial application perspective.
+And from our point of view,
+we are looking at it in three ways.
+The first one is leveraging the AI on the shop floor
+for the operators, making it easy for them
+to perhaps even communicate on issues.
+Something very simple.
+When an operator has an issue,
+we have found that 80% of the issues
+do not even get reported
+because of the challenges in trying to document
+the issue, for example.
+So just having a very easy mechanism
+to capture that information,
+getting it to the right person inside the company,
+getting, using large language models
+for any language perspective, taking photographs,
+getting that in front of-
+<v ->Part of process improvement then, yeah.</v>
+<v ->Exactly, exactly, right.</v>
+And then even using our edge devices.
+Jay just mentioned, there's some announcements from Nvidia.
+We have partnered with Nvidia now
+where we are embedding their GPUs inside our edge devices
+so that when an operator finds an issue,
+they can get their resolution capabilities right there
+without having any issues around security of the data.
+So that's one on the operator.
+The second piece is enabling the engineers,
+the programmers with the AI using copilots.
+We see tremendous advantage
+in trying to design the product, design the factory,
+designing the simulation, programming the robots.
+Close to 75% of the cost of a robot
+and the during the life of a robot
+is actually in programming.
+And if we can minimize that using copilot capabilities,
+we can help that significantly
+by driving more adoption of robots in the factories as well.
+So that's the second big application we see
+in the mass usage of copilots.
+And the third piece is actually
+on the production floor itself
+and actually using AI for production.
+And this is where visual capabilities at least
+are becoming more adaptive and useful today.
+Simple example I would give you,
+for example, trying to look at deformities
+on the paint of a car, right?
+It's not an easy thing,
+but using visual cameras to identify the issues
+and figure out where the issue is,
+what's the depth of the issue, the size of the issue,
+and then processing it to take it to the next level
+to actually fix the paint.
+And as you're trying to move that whole assembly line,
+moving it in the right space and at the right time.
+So those are some applications
+we are starting to adapt inside our factories.
+<v ->Yeah, real practical applications,</v>
+maybe the less sexy examples of where AI is being deployed.
+And, Andrew, you know, again, you're flying drones,
+you've got your ground-based robots for cleaning.
+AI, I assume, is a core part
+of what it's doing to navigate and complete its tasks.
+<v ->It's really fun living at the forefront</v>
+of trying to embody AI on a physical robot,
+'cause that's where the most opportunity is.
+And over the summer, we actually acquired an AI company
+and where we've seen the greatest benefits from AI
+just in the short run.
+One has been with our actual software development.
+Things, five years ago, we used a program,
+we're up to 20 times faster today
+just using AI tools and workflows.
+But we get most excited about, though,
+is truly getting agentic AI to work on our robots.
+And when I say that, that's allowing the robot
+the ability to perceive, reason, act, and learn.
+And to give an example,
+it's like having a coworker right next to you
+where you can communicate what needs to be done.
+They can take in their surroundings
+and use relevant sensors and data to understand,
+"Here are the actions I need to do."
+And as they're doing those actions,
+they continue to take your feedback,
+they continue to perceive and reason.
+And as they do it, they learn and refine.
+And starting that flywheel
+where every single time your robot operates,
+it's getting more intelligent,
+it's improving its autonomy, efficiency, effectiveness,
+that's the holy grail within this AI robotic space.
+<v ->Yeah.</v>
+Well, we're just about out of time,
+but I wanna ask Sally to give us a preview.
+Sally, you are responsible
+for the innovation, evaluation team at DHL.
+So you're continually looking
+at young entrepreneurial opportunities,
+companies like Jay, but for the warehousing space.
+So talk to us briefly about the program
+for folks that might be interested
+in, you know, getting involved in that
+and how you evaluate the capabilities
+of some of these systems you're deploying.
+<v ->Yeah, so we have a innovation funnel where we look at,</v>
+you know, I mentioned trends and supply chain,
+what will impact our business, make us more efficient.
+So it's targeted.
+We're not, you know, looking for,
+you know, things that are necessarily way far out.
+We're more use case-driven.
+You know, problems we're trying to solve
+and optimize in what we do every day.
+And working with a lot of startup companies like yourself
+to help roboticists, non-operational supply chain people
+develop their products so that we get an ROI.
+We're running a business. We have to make money.
+You know, you mentioned your Boston Dynamics Socks.
+It's a good example of, you know, the leader,
+I would say, in robotics.
+Worked with them on developing the stretch product
+which unloads cartons from a trailer
+and will have more specific use cases
+to be able to do other case movements within the warehouse.
+So working alongside companies
+that have the robotics expertise,
+we bring the operational expertise.
+And we're interested in things
+that can scale across our operations.
+There are a lot of niche solutions,
+but, you know, assisted picking,
+we do each picking in a lot of facilities.
+So the ability, you know, to scale up
+gives us the best benefit.
+And we've got over 7,500 bots deployed globally
+and are always looking for solutions in our use case,
+you know, that fit our use case.
+<v ->Great. Well, we are right on time, so.</v>
+<v Sally>Yeah, I saw the countdown-</v>
+<v ->Yeah, so I wanna thank you guys</v>
+for the great conversation.
+I think you guys can hang out for a few minutes here.
+So if you wanna reach out to any of the folks on stage,
+catch them over here on the side.
+But, again, thanks for your time today.
+Thank you, guys.
+And, again, download the episode
+of "The Robot Report Podcast" for your flight home.
+And thank you for your time today.
+<v ->Thank you.</v>
+<v Rahul>Thank you.</v>

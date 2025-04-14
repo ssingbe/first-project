@@ -1,0 +1,1043 @@
+<v ->Good morning, everyone.</v>
+Alright, the clock's running.
+I see people,
+we'll give 'em like 30 seconds to get in here.
+I'll start my introduction.
+I'm Brian Markwalter, I'm with CTA,
+I'm a senior vice president.
+I oversee market research
+in our technology and standards group.
+It's an honor to be here moderating this panel,
+"Spatial Computing and State of the Union."
+We have some awesome guests.
+I'm gonna let them say a little bit about who they are.
+Everything's available.
+You've probably seen it in the app
+or on our website
+so you can find the background on our speakers.
+We're gonna do a little tour de force
+on spatial computing today.
+And again, welcome to CES.
+First thing, we just got underway.
+You've had two keynotes.
+I hope you're having a good time.
+There's a lot to do.
+So let me just get underway and we'll start.
+First question, we've had a lot of terms kicked around,
+so I want to, for the panel,
+if you guys could tell me your thoughts
+on what spatial computing,
+how's it different from XR and Metaverse?
+We've seen kind of a migration
+of terms over the last few years at CES.
+Would somebody like to jump in and frame this up for us?
+<v ->Sure,</v>
+<v ->Go for it.</v>
+<v ->I mean, I think of spatial computing</v>
+as the overarching term that includes everything.
+So we can just now have 3D volumetric interactive content
+across all sorts of devices that interact with you
+and interact with the real world,
+whether that's on web, mobile, headsets,
+and that's basically it. (chuckles)
+<v ->Okay.</v>
+<v ->Yeah, I agree, I agree.</v>
+Special computing is like the key term,
+but if you, for me to keep things straight in my head,
+I kind of look at it as concentric circles.
+So XR is kind of talking around the display devices
+that you wear can be augmented or virtual reality
+and the controllers to kind of the hardware.
+And then spatial computing is when those devices
+start understanding and scanning their environment,
+including you.
+And that lets you do spatial computing type applications
+and solutions.
+And the metaverse, I think is actually
+a even larger outer circle where it's open platform,
+maybe the evolution of the web
+where you let multiple spatial computing apps
+and users interact in an open standard, accessible way.
+<v ->Let me jump in here,</v>
+so when y'all speak, say who you are,
+so we'll get everybody.
+Neil, you wanna do
+<v ->Yes.</v>
+<v ->quick intro?</v>
+<v ->Yes. Sorry, I dumped in.</v>
+So, Neil Trevett, my day job is at NVIDIA.
+I spend a lot of my time on open standards.
+I'm the president of the Khronos Group,
+which is a standards organization
+and the Metaverse Standards Forum.
+<v ->Yeah, Ashley?</v>
+<v ->And I'm Ashley Crowder,</v>
+the co-founder and CEO of VNTANA,
+3D asset management platform used by manufacturers.
+I've been working in the spatial computing space
+for about 15 years.
+Work with Neil and Khronos Group
+and help manufacturers deploy 3D
+and XR across their business.
+<v ->Okay. Anybody else wanna jump in on the definitional?</v>
+<v ->Yeah, maybe I'll add in.</v>
+My name is Ziad Asghar, by the way,
+I lead the XR division at Qualcomm.
+So I'm general manager for AR and VR group.
+But I think maybe the additional part
+to what these people have already said is,
+it's also the technologies that allow you
+to be able to melt together the digital
+and basically the visual world,
+in such a way, that it's basically seamless.
+And those technologies that come together
+are basically computer vision.
+It's artificial intelligence increasingly as it's happening.
+And then perception technologies,
+all the ones that come together,
+whether it's eye tracking and hand tracking
+and 3D deconstruction and all those techniques,
+to be able to really melt those two worlds together.
+And just to add a little bit more nuance there,
+I mean XR is probably the core term, like Neil said,
+and then a superset of that is MR
+because now it does visual video see through
+and you're able to get the real world.
+And then above that you could say is metaverse.
+And above that, probably is where spatial computing
+is that which is the overarching term
+that covers everything.
+<v ->I mean, I will also say that people often use</v>
+many of these terms interchangeably,
+even if they're not exactly the same thing.
+But they may mean to the person who's speaking,
+they may be talking about the same thing.
+But certain, some terms have come in and out of fashion
+with investors and with the market.
+And so some people very feel very strongly
+that we use this term now and not that term despite
+they might be essentially be meaning the same thing.
+But as technology continues to improve,
+you can more and more can be encompassed in the,
+what we're talking about,
+even if that was also the intention
+in some of the earlier terms as well.
+And I'm Joanna Popper.
+I've held executive roles at HP
+and NBC Universal Singularity University.
+Most recently I was chief metaverse officer,
+not to use that term, at CAA,
+which is a Hollywood talent agency.
+And now I've been advising
+a number of companies in this space.
+I've also executive produced a lot
+of content in this space.
+<v ->Awesome.</v>
+So I mentioned part of my job is our standards team.
+So we did standards early in this space.
+So one of the things that happens
+when a new wave of technology comes out,
+the industry companies will run sort of
+with their version of it.
+We had it in the TV space, like with Ultra HD
+and there's 4K (indistinct).
+And so sometimes we'll jump in
+and we'll just so that we can communicate with the industry.
+And so we'll say like we did for 4K Ultra HD,
+here's what we mean when we say 4K Ultra HD.
+Like here's the bar.
+That one's a little more,
+this is such a big space here.
+I don't think we're ever gonna like completely tackle
+the nomenclature problem,
+but, so I think we'll see more changes,
+but it is good I think to get that
+that's sort of spatial computing umbrella over all this,
+you know, which gives us a lot of room to work here.
+Okay, CES is fundamentally a business to business event.
+It's a trade show.
+So I wanna dive into use cases
+'cause these things ultimately have to make money,
+to be a little blunt about it,
+but you know, they have to work
+and do useful things for people.
+Can some of you speak to our key use cases today?
+I don't know that what we thought we'd be doing,
+you know, three years ago is necessarily what's turning out
+to be the most effective uses in spatial computing.
+So can somebody talk to what they're seeing as use cases?
+<v ->I guess I'll start again. (chuckles)</v>
+I mean we work with lots of manufacturing clients
+who are finding huge benefits
+in using spatial computing technology.
+So you know, Aztec Industries is one of our clients.
+They manufacture massive heavy equipment
+for manufacturing plants
+and they design in AutoCAD, which is 3D software,
+they upload that to VNTANA to instantly share on web
+and XR to train employees
+and use for sales to explain to a new customer
+exactly how this machine will fit in their plant.
+They then run simulation models in NVIDIA Omniverse
+and Unreal Engine to do predictive maintenance.
+So that's huge because if you run a factory
+and you're down for an hour,
+that can be hundreds of thousands of dollars.
+So not only are they helping their clients,
+but they're selling new parts sooner
+and they've actually developed a whole new revenue stream
+for real time maintenance.
+And I am so excited, you know,
+they've been experimenting a lot with Oculus.
+Their whole sales team and training team now uses them
+and brings them to sites
+and they're looking at, okay, what is the next step
+and how do we do remote maintenance support
+with XR headsets?
+And so they're seeing huge value in driving efficiency
+in manufacturing.
+And then I'm sure all of you have been shopping on Amazon
+and seeing you in your space.
+You know, clients, like Kohler,
+design in AutoCAD for manufacturing
+and then are now leveraging
+that same 3D asset across their entire sales channel
+on e-comm for view in your space publishing to Amazon,
+starting to publish in Google.
+So 3D is in search for Google and North America
+and they're expanding to more countries this year.
+So you know, we're seeing it across various consumer
+and B2B businesses.
+<v ->I can go next.</v>
+I think there's quite a lot of very interesting use cases
+that have already come through
+and there are others that are coming.
+So we work with a very interesting partner on education,
+for example.
+You can actually talk about a particular type of rock
+in geology to students all day long.
+We can actually show them in VR
+and actually they're able to walk around it
+and feel how it looks like
+and that's a whole different experience.
+So that's like an educational angle.
+But the other interesting part that we are seeing now
+is that especially with the advent of AI,
+you can actually add in and create real content using AI.
+And I think that's gonna really change the way
+we basically look at MR, right?
+So now today what you can say,
+is you can actually say, I'm playing this game
+and you want to create a new content in that game.
+You can actually go in and use something like,
+a stable diffusion like model
+and be able to create that content.
+But that content now gets personalized
+to each and every user
+rather than being something that's generic
+and create it for everybody, right?
+And that personalization,
+especially when you can do some degree of this AI processing
+on the device can be extremely powerful.
+And then also very interesting to me also
+is what we are seeing with smart glasses.
+And I think there is a realm of MR and VR
+and then there is the realm of smart glasses.
+And I think smart glasses,
+especially with their ability to see what you see with,
+you know, cameras on the glasses
+and being able to actually really not just talk back
+to you using LLMs, but also be able to understand
+what you're looking at,
+really changes the experience in many different ways.
+So if you take the example of medical, you know,
+people or doctors always have this problem
+where they have to transcribe so much, you know,
+material after their visit
+that it takes them forever to do it.
+Well, now your glasses could be listening in,
+transcribing all of that,
+taking pictures of the prescription that you wrote,
+being able to bring up the results of an X-ray
+that was just done for the patient in front of you.
+So I think those applications,
+especially with smart glasses
+that have displays in them and AI built in,
+I think it really is going to change
+the way people do a lot of this work.
+And there are similar, you know, verticals in retail,
+there are verticals in industrial side,
+there are verticals on the, you know,
+on, for example, elderly care.
+That's a very big one.
+There are multiple countries
+where there is a huge part of the population that's aging
+and something like a glasses excellent for, you know,
+agentic sort of AI as well
+that's running on the glass at all the points in time
+such that you can converse with it.
+And I think those are the use cases
+that are really going to, I think, light up the space,
+especially this at the crux
+or at the intersection of XR and AI, in my opinion.
+<v ->Yeah, I agree with both of what you said.</v>
+I think spatial computing comes into its own with AR,
+I think because you are interacting with the environment,
+you want to see through a transparent display,
+I think that's the ideal form factor.
+And I agree with Ashley.
+I mean right now the AR use cases with a short path
+to money, no, it's in the business sector,
+the enterprise manufacturing guided task,
+remote expert use cases, you know,
+they're delivering real benefits, real dollars,
+you know, today it's not high hypothetical.
+It's interesting to see, to kind of figure out
+how it's going to make its,
+what use cases are gonna make their way into consumer.
+And I agree with you,
+I think it's the smart glasses, kinda the Google glass,
+you know, the glass whole experience kind of proves
+that society isn't going
+to accept anything much weirder than this.
+And so it really does comes down
+to what use cases are we gonna be able
+to pack into this form factor.
+And that is going to be the wavefront of use cases.
+And it is, as you say, it's interesting,
+it doesn't need to be visual
+'cause the visual part is hard
+for the physics point of view.
+So no, the audio translation, you know,
+logging trans, you know, transcription,
+they're already happening.
+And soon I think we are gonna get, you know,
+really usable smart glasses with displays.
+You know, the use case I'm looking forward
+to is like Google Translate, but on my glasses,
+I'm in Japan and it's translating all the signs
+and menus for me,
+without me having to get my phone out
+and like a dork. (chuckles)
+I mean that to me and doing audio translation,
+I mean that would be a killer use case, I think.
+And it's almost within reach, I think.
+<v ->So you all covered a lot of the primary,</v>
+industrial, manufacturing, retail,
+healthcare, education,
+I think product design architecture
+are some of the other ones.
+And then you touched on consumer, so,
+but from the consumer side,
+I think gaming of course has been one of the ones
+that has done well and there, you know,
+there's certain companies
+that have certainly made a lot of money.
+To Brian's question,
+and I think one of the other areas in there
+is fitness and wellness
+and you know, some of those use cases have continued
+to improve, you know,
+whether it's FitXR or Supernatural.
+And now you have multi-users,
+so you can be across the country
+from somebody working out together with them,
+with Jane Fonda and Ludacris as well,
+what I really did over the holiday. (chuckles)
+And then I know as those move into smart glasses,
+we'll be able to bring that level
+of wellness and fitness into our everyday lives
+and not just have it be a specific moment in time.
+<v ->Yep, that's great.</v>
+We do a lot.
+CTA does a lot on accessibility, so I'm looking forward to,
+you know, I think these new capabilities
+at spatial computing and AR
+and other technologies bring help a lot of people
+that includes people who may need extra help.
+You mentioned the audio part, EssilorLuxottica,
+this isn't in the spatial computing space,
+but they're doing the glasses
+with integrated over the counter hearing aids.
+So a lot of companies are working
+on these challenges of like getting good audio
+right here to our head
+and having microphones and cameras in place.
+Speaking of challenges, I wanna address that,
+this is hard technology, so there are certainly challenges.
+Can you guys address what you see as the big challenges
+and maybe more importantly, what are the solutions to 'em?
+Which things have we kind of dispensed?
+What else can we riff on that a little bit?
+Oh, no challenges?
+<v ->I didn't wanna go first again.</v>
+Did you wanna go?
+<v ->Go ahead.</v>
+<v ->Okay.</v>
+I think one of the challenge, I mean it's content, right?
+It's creation of of 3D interactive content
+can be difficult and expensive.
+AI is really helping that,
+I just listened to Siemens talk earlier
+who released some amazing AI
+that will help get, you know, 80% of the way there
+with CAD designs, which is huge,
+excited about LLaMA-Mesh released by NVIDIA,
+which is a huge step forward
+so that it translates vertices and faces of 3D models
+to text for an LLM to understand.
+So now not only can you do text to 3D,
+but you can alter and adjust the 3D model
+and do way better training with 3D
+and volumetric content with LLM.
+So that's huge.
+And then standards are incredibly important
+because there are hundreds of 3D file formats (chuckles)
+and everybody wants something different,
+which is why, you know, with Neil and the Khronos Group
+pushing GLB, which is a very efficient,
+great publishing format
+and now OpenUSD, which is really great for
+more more complex and kind of working files.
+But there's always gonna be different formats
+and different types is why, you know,
+at VNTANA we focus on how do we seamlessly convert
+and optimize a 3D asset to meet whatever specs you need.
+But yeah, that's why I'm so excited
+about all the stuff NVIDIA's just released.
+<v ->I'll go next in order,</v>
+but basically
+<v ->It's not required.
+It's good.
+<v ->It's official.</v>
+It's official.
+<v ->There you go.</v>
+<v ->It's official order, right there.</v>
+<v ->I think the challenge has really come</v>
+from the fact that, you know,
+humans are used to very good quality, right,
+what they see in the world around them.
+When you go into MR,
+it really is that the experience
+has to meet a certain threshold.
+That threshold then drives immense compute capabilities
+that you need in an MR like device, right?
+You need to be able to get this pristine quality.
+So what I see from a trends perspective
+is you have 4K displays coming into these devices,
+at the same time we are doing chip sets here at Qualcomm
+that are far more capable
+such that we can do full foveation from end to end.
+Such that, you know, you're only able
+to give the highest quality on where your fovea
+or the center of your retina eyes at
+and everything else, you actually reduce the quality
+to be able to make sure
+you're able to fit the compute capability
+within the envelope of the device.
+Then at the same time what we are doing is,
+we have been working on all these perception technologies
+and working with the perception technologies,
+we have hardened certain algorithms into silicon.
+And by doing that we can actually do them at, you know,
+like a fraction of the power
+if you would have to do them on general purpose engine.
+And by virtue of that, you're able to actually even do more
+and more pristine quality
+because literally a little bit
+above a certain milliseconds,
+your eyes and your brain notices it.
+So if you remember the older MR devices,
+people used to get vertigo and a bad experience,
+a lot of that has gone away
+because we improved motion to photon,
+by such a level
+that people who don't have that problem anymore,
+the challenges in AR are totally different.
+In AR it's really about power, power, power
+because you can have this great device
+and if you guys have tried,
+like for example the Meta Ray-Bans,
+it uses one of our solutions,
+but people want to have longer battery life.
+And the gentleman just took my picture
+using the Meta Ray-Ban.
+But the key point essentially
+is that to be able to use that,
+people wanna be able to do more translations,
+more transcriptions,
+being able to see what the world is around them
+and then leverage that with agents.
+But to be able to do all of that processing,
+you have very limited space in an AR glass,
+which means the battery's tiny, which means, again,
+it comes back to power, power, power.
+So what we have been doing at Qualcomm
+is almost like three kind of legs to this tool,
+which is all our solutions.
+We are basically number one pushing the technology
+to the best in class sort of transistor technology,
+but also best in class IPs.
+Which means the camera, the graphics,
+the AI engine that we have built in
+for on device AI processing,
+all of them are able to literally sip on power.
+We have the best in class performance per watt
+of any AI engine out there
+because that's what you need in AR glass
+to be able to have it last for that period of time.
+And then the third angle then becomes really architecture.
+What I mean by architecture is,
+there are a certain number of devices
+that are around a person.
+You will have your smart glass,
+you will have your smartphone,
+you might have a smartwatch, you might have earbuds.
+And to really get to that full day of use,
+I envision that you need to almost be able to use
+all of these devices,
+which means you need to do smart offloading
+from that smart glass to the smartphone to the smartwatch.
+And you can maybe run,
+let's say half a billion parameter model
+natively on the smart glass.
+You wanna run a 10 billion parameter model,
+you go to the smartphone,
+you wanna run a hundred billion parameter model,
+you go to the cloud, right?
+You are able to actually do it in that, you know,
+abstracted multiple different levels, fashion.
+And I think that's the way we make this problem.
+That's how we solve this problem essentially.
+<v ->Yeah, I agree with all of that.</v>
+The another problem I think on a slightly different axis,
+you know, the virtual elephant in the room
+is privacy and security
+because by its very definition spatial computing,
+it's scanning you and everyone else
+and the environment constantly,
+if you can get the batteries to last.
+And of course that means there's huge potential
+for bad things to happen.
+To the extent that I think that if,
+unless we can really come up
+with robust solutions for privacy,
+society won't accept spatial computing.
+It's almost a gating function.
+We need to get this figured out.
+And it's not trivial either.
+You know, the Meta Ray-Bans today, you know,
+when it's active, a little light comes on, that's good.
+You can't disable it
+and if you try to cover it doesn't work.
+So they've obviously put some thought into it,
+but that's a fairly weak protection.
+We need to go much further.
+There are some technical solutions.
+I mean it's when you beam all the data to the cloud
+for the AI processing,
+that's obviously a big potential loophole.
+So can we do a more AI processing on device,
+such as you're saying, that raises other challenges.
+But that's obviously a good thing.
+I think, you know, at the down at the hardware API level,
+which is, you know, I spent a lot of time down there,
+I think we're about to be asked,
+just like we had to do DRM for playing back DVDs
+and you can't grab that movie frame.
+I think we're gonna be asked for camera APIs
+that are secure.
+You can grab the camera into a localized AI engine
+and you just can't get that data out,
+even if you want to
+and send it to some nefarious agent on the cloud,
+that kind of solution.
+But even that's not gonna be enough.
+I think we're gonna need regulation and legislation
+to really put some firewalls
+around what people can do with data.
+There's so much data gonna be collected.
+We have to really be careful
+and it's gonna take some legal firewalls,
+I think to help us figure that out.
+<v ->I think you (indistinct) leading in that this point.</v>
+And, you know, another challenge just
+is the perceived value
+and benefit for the end user.
+I think, you know, those of us who are deep in the industry
+and who use these devices
+and this type of computing all the time,
+feel very strongly about them
+and very strongly about it,
+about, you know, how much benefit we get out of it.
+But I think that hasn't translated yet
+into the mass numbers and the mass adoption.
+So I think continuing to have, you know,
+and then that results in sometimes people feeling
+that these devices are too expensive,
+which is really about the perceived benefit.
+Whether that's in an enterprise environment
+or an B2C environment, you know,
+to move entire workforces, you know,
+from, it's very easy to bring people along for POC
+but then moving them to large scale,
+I think we still have some challenges in that
+in the industry.
+<v ->And do you think that's just like a combination of things?</v>
+Is it like hardware comfort and stuff
+or is it like just, you know,
+some people just don't like change, honestly, you know,
+you gotta do stuff a different way.
+Are there any-
+<v ->I think it's a combo.</v>
+I also think that, you know, that there are continue
+to be more players coming into the market,
+which is a really good thing
+that which drives more competition,
+which drives improved devices and additional content.
+So I think that is a positive as well.
+But yes to your question.
+<v ->Yeah, I know Zimmer Biomet,</v>
+I just did an interview with,
+'cause they initially deployed VR
+and everybody hated it.
+It was terrible.
+They couldn't figure it out
+and they realized they needed like device management,
+just like a huge enterprise has device management
+for laptops,
+well they needed that for the XR devices.
+So the next year when they implemented that,
+and if someone needed help, they could remote in,
+see what they were seeing, help them.
+Now it's incredible
+and they're using it to train all these surgeons
+before they go in
+and you know, use their new knee replacement.
+And so some of it is just looking at like,
+how do we deal with computers today?
+It's just a face computer, you know? (chuckles)
+So I thought that was a really interesting case study.
+<v ->Yeah. And which, I'm sorry, which company was that?</v>
+<v ->Zimmer Biomet.</v>
+They are a huge medical device company
+that uses VR to train all their surgeons now.
+<v ->Oh yeah, that's awesome.</v>
+So yeah, one of our board members did a startup on
+is specifically for orthopedic surgery,
+but he gave a great talk at one of our events.
+It's, you know, sort of scary seeing their training,
+their live training, how quickly they go from like,
+you know, do it a few times to surgery.
+So, you know, these are really-
+<v ->Yeah, I'm asking any surgeon if they've done VR</v>
+before I get surgery. (chuckles)
+<v ->There you go.</v>
+All right, that's great.
+Neil, thanks for bringing up the privacy question.
+This isn't a policy track.
+We have a great policy track at CES,
+but CTA has advocated for federal privacy legislation
+and we just need it, you know, so there's not a whole bunch
+of different state regulations.
+We just need a framework
+and it's clear we're gonna need it in more spaces
+and thanks for drawing that analogy that also historically,
+I've worked in video a long time,
+so through the whole content protection
+and DRM wars, we figured it out.
+We kind of know how to keep data safe
+in place and in transit,
+you know, the rules are there.
+So I look forward to figuring out those issues too.
+Alright, let's look ahead a little bit,
+unless there's anything else we wanna say.
+Well, so nobody really talked,
+we talked a little bit about standards.
+Neil, can I just say,
+do you feel like we're kind of on a track?
+We, you're involved in one of our standards forum.
+Do we have all the venues?
+Do we have a way to get the standards to,
+at least be able to move things around and interoperate?
+<v ->I think we're making good, actually making good progress.</v>
+We just started a multi-year,
+potentially multi-decade journey,
+but I think a lot of the standards bodies are engaged.
+They realize the role that they can play in this big thing,
+we're calling spatial computing
+and we have the forum, Metaverse Standards Forum,
+where they can come and cooperate,
+which we haven't had before, which is great.
+And you know,
+I think we are definitely gonna need standards.
+'cause by its nature spatial computing is bringing together
+a bunch of different technologies
+and we need to make those technologies
+as they become proven pervasively and cheaply
+and efficiently available
+to people putting together solutions
+and know standards are the way to do that.
+The standards that we need,
+we need like runtime standards,
+no devices talking to servers
+and software talking to hardware through APIs
+and you know, we are making good, good progress on that.
+I think spatial computing needs some new types or standards
+or at least standards to be used in new ways,
+kind of like private cameras is a good example, you know,
+that we haven't had to do that kind of thinking before.
+I think that's going to be a new wave of activity.
+And on the content side, as Ashley says,
+Ashley's the expert here on 3D content,
+we are making progress lots more to do,
+but there's new types of content too.
+But the geospatial guides actually have been thinking
+about for a long time, you know, environment scans,
+you know, we need to have them standardized
+so we can send them between applications,
+geo markers, anchors,
+the geospatial guides have been thinking about this a lot
+that the gaming guys not so much typically.
+So again, there's more, there's corporation,
+we need to kind of bridge some of these silos
+and bring these standard solutions to market.
+But I'm cautiously optimistic. (laughs)
+<v ->Okay, all right, let's look ahead a little bit</v>
+since it is CES
+and we do a lot of that, you know, we think about like,
+it sort of kicks off the year for the tech industry,
+so what's next for spatial computing?
+We've talked a little bit about AI,
+but what things do you see coming together?
+What are you looking forward
+to seeing over the next year or two?
+<v ->I have to first again (chuckles)</v>
+<v ->Don't fight it, Ashley.</v>
+<v ->I know. (chuckles)</v>
+<v ->You're the panel leader now.</v>
+<v ->So I mean,</v>
+I talked a little bit about AI, everything,
+you know, with LLaMA-Mesh with NVIDIA,
+helping create content.
+Meta published a paper earlier this year using AI
+to automatically add textures and materials to CAD files.
+Again, just like helping create this content
+faster and quicker.
+And then everything, you know, that Qualcomm
+and others are doing with making devices so much better
+and more functional within the workspace and environment,
+I think we will start to see them more.
+And, you know, adoption,
+it really comes down to the people problem.
+And I thought it was really interesting too.
+I was talking with one of the leaders at Northrop Grumman
+and they use the HoloLens
+to actually like do these wiring of complex, the F35.
+It's a, and the, I think 276 tanker, I don't know,
+lots of crazy equipment there that's extremely complex.
+So they wear the headsets,
+know exactly where to put the wires.
+And what was interesting was,
+it wasn't the age of the person.
+'cause most people think it's young people
+will adopt this stuff sooner.
+It was if they were new to the company
+and they were just told, hey, this is how we do it.
+They're like, oh, this is great.
+But if they had been there for 20 years
+and they had been doing it a certain way for 20 years,
+they were the hard people to switch over.
+So I just thought that was really interesting
+as we think about change within an organization
+and getting people to adopt,
+just hire all new people,
+but no, just get, you know, (chuckles)
+maybe
+<v ->Move them around a little bit.</v>
+<v ->Yeah, but just start, you know,</v>
+maybe start
+<v ->Physical chairs.</v>
+<v ->Yeah, yeah.</v>
+Start with people that are gonna be receptive,
+I guess, to get, you know,
+and then people see it working well
+and them doing their job faster, easier
+and start to adopt.
+<v ->Yeah, I think I add some more, right,</v>
+especially on the MR side.
+I really think one of the big challenges
+that an industry has had
+is just the availability of content.
+So if you guys have been following what's happening
+with Nerf and with Gaussian Splatting,
+I think you get to a point where you actually able
+to create 3D content very easily.
+And I think that will really, really change
+the way MR gets used.
+That's one.
+I think secondly,
+what we are also seeing is models like text to 3D models
+that are becoming actually extremely good.
+So like the example that I gave in earlier,
+you could be in a game where you say, hey, make me a sword.
+And it makes a sword for you,
+but it knows the kind of textures that you like
+and the colors that you like and themes that you like
+and it makes a sword in the style that you like
+and some "Lord of the Rings" sort of style or whatever.
+But that's kind of the way
+that XR gets augmented with the great AI.
+And then what also happens
+is you can have multiple NPCs in a game
+and you could actually have a model like a Llama 3.2
+or you know, 8 billion parameter model
+that's running entirely on that MR headset.
+And you could be having a conversation
+with that NPC in the game, right?
+I think that's how it enhances experiences like gaming
+in a very, very interesting fashion.
+And then if you look at what you can do on the AR
+and the smart glass side,
+I think that's where it really blows it up.
+And in the case that Neil talked about,
+we have one of our partners, at TCL,
+they actually launched their device today
+and it actually does exactly that.
+I was with them in China
+where the whole meeting was in Mandarin
+and I could see the full translation the display, right?
+Very simple use case in some ways,
+but very practical, I think.
+But what happens also in addition to that
+is really multimodal AI coming together.
+You have full agents that are able
+to actually stitch together multiple tasks for you.
+So it's not just saying, hey, you know,
+write me a poem about whatever.
+But it's much more about saying,
+hey, I wanna schedule a trip to Vegas for CES
+and hey, it's gonna break that down into multiple tasks.
+It's going to have rag,
+it's gonna snoop into your calendar,
+it's going to look into your emails,
+it's going to look into all of the things
+that you need to do
+and basically do that very complex task for you.
+And what better device to do that on
+than a smart glass, right?
+This is the device which you go and sit into your car
+and basically it can connect to your car
+rather than having a heads up display, for example, right?
+Those are the kinds of experiences
+that I think they are here.
+And I think I'll venture to predict that this year,
+we will have devices,
+very good form factor smart glasses
+that will have displays in them, binocular displays.
+And I think it'll completely change
+the way that we interact with a lot of devices
+that are on our body.
+<v ->So I agree with the comments, saying AI,</v>
+<v ->Disagree for once.</v>
+<v ->yeah, I know it's boring, right?</v>
+But AI is gonna be key.
+I mean, sometimes you hear people say,
+which is gonna be the hottest technologies,
+is it AI or is it spatial computing
+or, I think that they are so closely linked,
+they're symbiotic
+because spatial computing,
+know understanding your environment and your users
+that AI is the fundamentally enabling technology.
+I mean, that stuff is magic.
+We couldn't even contemplate doing that,
+3, 4, 5 years ago.
+Now it's all suddenly becoming possible.
+And spatial computing, I think in many case, not all,
+but in many cases will become the user interface for AI.
+No, agentic spatial computing
+is gonna be the way lots of us interact
+with our computing machinery in a much more natural ways
+than we've ever been able to do before.
+And this is a real revolution.
+I think that that's coming.
+But another, and the final, you know,
+really interesting thing,
+which is really just starting
+is actuated spatial computing
+where it's not necessarily a human
+but some smart machine or vehicle
+that's also using spatial computing.
+And again, it's so symbiotic using spatial computing
+to train these smart devices
+that then go out into the real world using spatial computing
+to interact with their environments.
+So spatial computing and AI, you know,
+are just so tightly bound together.
+It's a very, but it's very powerful combination.
+<v ->I mentioned earlier that the competition</v>
+that we are seeing,
+interesting announcements from Google before the holidays,
+both on the AI side, well as on the XR side,
+Sony here at CES,
+Sony's for a long time had the ability to work
+across all of these but hasn't always brought it together.
+But their latest announcements looks like
+they are bringing a lot of their capabilities together.
+All of big tech with the LLM models
+plus so many small startups
+or I don't even know if you can call them startups
+'cause at the levels that they're at in the funding,
+but, you know, small companies,
+still new companies creating powerful models.
+And hopefully we'll see more and more of these companies
+also getting in working hand in hand with creators,
+hand in hand with developers
+and putting funding to make the market
+continue to move forward
+until they can be profitable on their own.
+But, so I think that the,
+so many more companies jumping back in
+to spaces that many had exited,
+but you know, they're seeing that now is the time
+and now is the time to come back to the market,
+that makes me really excited.
+And then there's of course
+those companies that have been there the whole time.
+So we have to give them credit,
+such the ones on this panel.
+<v ->Awesome, related, so how about other senses</v>
+like haptics and other stuff?
+Are you guys doing anything in that?
+I mean is it all, is it primarily video?
+I know that's what we've been thinking about,
+mostly talking about here, but other?
+<v ->No, haptics is really key.</v>
+I mean just like,
+just like in games you don't have good audio,
+it's like 80% of the experience has gone.
+I mean when we get to real spatial computing
+and immersive experiences,
+I think haptics is gonna be key.
+There lots of the low level standards like OpenXR,
+they're not just focused on, you know,
+just the video part and the audio part.
+They're absolutely focusing in on the haptics as well.
+Make making sure that's standardized.
+<v ->Yeah, and we were chatting,</v>
+I was here for the "World of Concrete" last year,
+which is a enormous conference
+with the heavy machinery and I was so surprised
+and happy to see
+how many simulations the different companies had,
+where you could sit and it was a 360 video of you in a field
+and it was a haptic chair
+and you were actually trying to do the crane
+and everything and I was horrible. (chuckles)
+So, but it was a very realistic experience
+and the haptics were essential
+to make that mixed reality experience.
+And you know, there's HaptX that is still around
+and part of a bigger company now,
+which is more of like, you know, gloves that you can wear.
+So when you talk about surgeon training
+and understanding what is that amount of pressure to put,
+so it's incredibly essential.
+I just think it's been lagging a bit.
+'cause you know, we gotta create the content first
+and then everything else. (chuckles)
+<v ->And mechanically it's a challenge, right?</v>
+You can understand why it's lagging.
+It's a hard,
+<v ->It's expensive.</v>
+<v ->It's a hard problem.</v>
+<v ->Hardware is a difficult business.</v>
+<v ->Yes.</v>
+So this is true.
+I'm reminded by people on the robotics side,
+you know, robotics have been at CES many, many years.
+Things that move actuators are just hard to do,
+really hard to do well.
+We got just like a minute or so left,
+so you guys wanna say anything?
+Oh, oh, I should mention like, by the way,
+we have our own bigger equipment over here,
+so right here in West Hall, you know,
+we've got big mining equipment, so check it out.
+What do you see,
+or like what would you like to see,
+what do you see as success this year,
+just kind of quickly,
+or what would you like to see at CES next year?
+What's your like, optimistic vision for spatial computing?
+<v ->I'd personally like to see</v>
+steady progress on more use case
+being packed into the smart glasses
+and them being genuinely useful.
+Not gimmicks or just something for its own sake.
+I think if we can stay on that track,
+then interesting things are gonna happen.
+<v ->I think I kind of follow what Neil said.</v>
+I think next year, by this time,
+we will have multiple companies
+that would have glasses with displays
+and I think with agents that are actually able to do
+a lot of the tasks for us, right?
+That's, I mean that's a use case
+that's ready, it's available.
+And I think what will make that also possible
+is people are now looking at more domain specific models
+such that you can actually train it,
+only on that specific use case,
+whether it's medical triage
+or it's a particular use case.
+And that model can now be much smaller,
+does not hallucinate.
+And I think those are going to be the things
+that make it happen.
+And the experience has to be seamless, right?
+It cannot be that you need to wait for a sentence to finish
+and then the person starts speaking.
+It needs to be the same conversational style
+that you have with other humans.
+Otherwise it comes very restrictive.
+And I think that will happen in my opinion.
+<v ->Well, I'm looking forward to when,</v>
+you know, if you think back,
+whether it was 15 or 20 or so years ago
+and digital was something separate,
+digital was like its own department.
+It was like there were certain people that were, you know,
+the digital people in your company
+and other people were not.
+But I'm looking forward
+to when both AI and spatial computing
+just become like the water.
+It's just how we interact
+and it's less focused on the technology
+and more just focused on how you do things
+and your experience.
+And I think that that's when we'll know
+we're truly at mass adoption.
+<v ->Okay. Ashley, you wanna bring us home or you...</v>
+<v ->Oh, sure.</v>
+I mean I completely agree that,
+I'd say the use cases on the headsets,
+but I'm hoping to see
+that people think about having content
+across all different types of devices
+when they create it
+because that's how you're gonna get more use cases
+and usage in the software.
+And if people can use it
+on a desktop, tablet and a headset,
+I think you're gonna get faster adoption
+and be able to bring in more people to adopt it faster.
+<v ->I agree.
+<v ->Ah, Joanne, do you have a rebuttal for it?</v>
+Okay, so, alright, we are at time.
+I'm sure if you have questions,
+our panelists would chat with you afterwards.
+So join me in thanking our panelists
+for this great session, "Spatial Computing."

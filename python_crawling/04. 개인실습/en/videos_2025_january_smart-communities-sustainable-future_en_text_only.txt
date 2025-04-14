@@ -1,0 +1,792 @@
+<v ->We are here to explore the future of communities</v>
+through the lens of technology in the session titled,
+Smart Communities, Sustainable Future.
+So BCG did a study recently and it predicts that by 2050,
+70% of the world's population will live in cities.
+That's several billion people moving to cities
+in the next couple decades.
+The integration of smart technologies into cities
+isn't something that we're just going to plan for
+and talk about innovation.
+It's something that's a necessity now.
+It's going to bring sustainability, efficiency
+and quality of life to our cities,
+which we all know is what attracts people.
+Today, I have the pleasure of moderating this discussion
+with these fine people
+who are some of the deepest industry experts you'll find.
+We have Philip Tucker here from Panasonic,
+Kristin Bell from Siemens
+and Marco Stracuzzi from Telit Cinterion.
+Today we'll dive in to how we harness technology
+to overcome some of the challenges that smart cities bring
+and how those can become opportunities.
+We're going to focus on some of the fundamentals
+of smart cities.
+That's your sustainable infrastructure,
+connectivity and communications,
+data-driven decision making as well as smart mobility.
+Before we begin, let's see how many of you
+are already living in smart cities
+or experienced smart cities technology firsthand?
+Show of hands.
+We have a very well-versed audience today.
+I'm sure they'll have tons of questions for us as well.
+So to kick things off, I'm going to start with you, Philip.
+Share your perspectives on any technology advancements
+in some of the core and fundamental areas of smart cities.
+<v ->Definitely, thank you.</v>
+So Philip Tucker, nice to meet all of you.
+I'm with Panasonic Smart Mobility Office.
+So we're a group located out of Denver, Colorado.
+And our main focus, we're a smaller group within Panasonic
+and we're incubating new (indistinct) within Panasonic,
+specifically in the mobility and the energy space
+and bringing those to the market where we can help achieve
+some of Panasonic's goals,
+especially around our green impact initiative
+where we're trying to reduce emissions globally
+by 300 million tons.
+I don't know if you guys heard Kusumi-san talk
+about that in the keynote,
+but it's a really, really big objective for us
+and we're playing a big role in that
+in bringing some of the new technologies
+and new solutions that Panasonic
+is developing around the world,
+bringing those to the US and other big markets here.
+I came from the electric power industry.
+I've worked with municipal utilities,
+investor-owned utilities.
+I've helped them design demand management programs,
+specifically around electric vehicles,
+integrating directly with vehicle OEMs,
+working with chargers, finding ways to integrate
+additional electric vehicles onto our grid
+in a way that's not going to damage our grid.
+We can incorporate more electric vehicles more quickly
+without investing tremendously into the grid
+and the additional assets to support that.
+So that's why I came to Panasonic, though.
+That really excites me and I found within Panasonic,
+I can kind of unite that power background
+and join a team that has these massive global resources
+to tackle this big problem that we're facing.
+So what I wanted to share about today was two areas
+where our team is specifically working on,
+smart city objectives in smart communities.
+So one is around smart grids, specifically around fleets
+and how we can help fleets decarbonize
+more quickly and more cost effectively in a way that, again,
+can actually help support the grid in a lot of good ways.
+And the other is around connected vehicles
+and how we can help communities operate their vehicles
+in a smarter way with assets
+they actually already have in the vehicle,
+so they don't have to go and make massive investments
+to get more value out of the vehicles
+they are already operating.
+So the first example I want to talk about
+is with the city of Fort Collins.
+If you're not familiar with it,
+it's the fourth largest city in Colorado,
+in Northern Colorado, about 60 miles north of Denver.
+And this is a city well-known for their innovation.
+They are recognized in the Smithsonian Museum
+for their innovation.
+So they're very cutting edge
+and they have sustainability plans to reduce their emissions
+from 2005 by 80% by 2030.
+So they are really working very hard to this,
+they're making huge gains and electrifying their fleet
+is a very big component of achieving that goal.
+And so we've been working with them
+on how they're going to do that.
+How are they going to electrify?
+They have 1,200 vehicles in their fleet,
+how are they going to make that plan
+to switch to electric vehicles
+while not damaging their grid, supporting their grid
+and also keeping their costs low?
+We've all heard examples of where fleets electrified
+and their costs went up,
+because they charged incorrectly
+or did other operations the wrong way.
+So we've been working with them on that
+to implement some solutions
+where they can advance their electrification plans,
+their decarbonization efforts
+in a way that achieves those outcomes.
+And the way we did that is we implemented
+our charging management solution with the city
+and we demonstrated that we can integrate with chargers
+throughout the city from various manufacturers,
+not just Panasonic chargers.
+Actually can't buy a Panasonic charger in the US anyway,
+so we're working with any vendor they wanted to adopt
+within the city there that could work with our software.
+So we're working with those across multiple sites.
+And we also integrated with their DERMS system.
+If you're not familiar with the DERMS
+that's Distributed Energy Resource Management System.
+It's a utilities tool that they use
+to manage assets on the grid, typically behind the meter,
+such as electric vehicle chargers.
+So we're getting signals from their DERM system.
+And then with the chargers that we're integrated with,
+we can actually manage the charging, we can shift it
+or we can delay charging
+or we can slow charging down a little bit,
+which will help the city to maintain a safe, reliable, clean
+and affordable grid for their entire community.
+And we're seeing some very good outcomes from that.
+For example, we did a forecast for them.
+They showed us the electric vehicles
+they're planning to adopt by 2030.
+And with our solution, they're actually able
+to reduce their costs,
+their exposure to these costs of $800,000 a year,
+which is quite a bit for a community that size.
+It's 150,000 people there.
+And that means a lot to me.
+That's $800,000 that can go to other community programs
+and services that really can produce
+a lot of benefit for the community.
+And it's not going towards more fuel,
+it's not going towards wires that go in the ground.
+It's going towards things that the community needs
+and can create a better city there.
+So that's pretty exciting.
+Other benefits include the emissions reductions.
+So we're helping them to decarbonize their fleet
+and with the forecast, they're looking at reducing
+their emissions by 1,000 metric tons of CO2 as well.
+So some great output from there.
+Other great things,
+outcomes from this project with them has been,
+we were able to integrate our CMS
+with their accounting system.
+So now they're actually able to track
+which department charged with and they can charge
+the right department for the fuel they were using.
+So the much more management that is required
+for adopting all of these vehicles.
+It also gives them a central place
+where they can see the charges
+if they're working, if they're not working.
+If you have an electric vehicle,
+you've probably pulled up to a charger that's not working,
+which is really, really frustrating.
+And that's kind of slowing things down.
+We're creating an alert system for them,
+so that if one's not working, they get a text,
+they know, roll a truck, go fix it.
+So we can keep the city running here.
+Also, we helped them apply to a grant to get more chargers
+and all the infrastructure they're going to need
+well into the future.
+And so we helped them apply to a grant.
+They won $11 million to advance this initiative
+within the city of Fort Collins.
+I think this is a really great project to show.
+When you plan out the charging for your operations well,
+you integrate with the utility,
+you create a smart grid using these assets,
+it can create a lot of benefit for the community.
+So that's that component.
+The other smart component I wanted to talk about
+was connected vehicles.
+So that's another group within the Smart Mobility Office.
+We have some focusing on charging management,
+others focused on connected vehicles.
+We have this group that's working with different fleets
+and intersection owner operators.
+They've been working with them to help traffic flow better,
+to create smarter cities for traffic
+to flow a little bit better.
+You can tell that's not my space, I'm the energy guy.
+But it's pretty exciting stuff when you get into it,
+because having these vehicles connected,
+communicating to the infrastructure within the city,
+it really can help reduce emissions,
+getting traffic to flow better, faster.
+We're going to reduce emissions from vehicles
+just sitting there.
+The one that gets me really excited
+is with emergency vehicle responses.
+So I have a a stat here that every minute
+that is increased by an emergency response vehicle
+to somebody who's having a heart attack increases
+the likelihood of fatality by 10%.
+So getting an emergency vehicle where it needs to go
+as fast as possible is absolutely critical
+for our smart cities moving forward.
+And one thing that we've been able to successfully do
+within our group's work with this team, the TOUGHBOOK team.
+Most emergency vehicles around the country
+have this already in the vehicle.
+And so by working with this team,
+we're able to develop new systems
+where we can understand where do these vehicles need to go,
+when they need to get there,
+what intersections they need to get to.
+We can communicate with those
+and we can clear the traffic out,
+so those vehicles can get there as fast as possible.
+And it's all through something
+that's already in the vehicle.
+You don't have to go buy some new widget and gadget.
+Use this, use what you've already got in the vehicle
+and we can help create a better community
+where you live there.
+So those are the two examples I wanted to share.
+<v ->I know, Kristin, you and I talked about how energy</v>
+and energy efficiency really underpins the smart city.
+You want to share your perspective on that and-
+<v ->Sure.</v>
+<v ->What you all are doing</v>
+at Siemens?
+<v ->Sure, thanks</v>
+for having me on the panel.
+I am from Siemens and I joined Siemens about a year ago,
+where I'd previously been at Salesforce for almost a decade.
+Was inspired to come to Siemens
+because of the role that they're playing,
+not only as being really the cornerstone
+of our hardware infrastructure,
+things like our train systems, our hospitals, our factories.
+They also built out the grid in many cases
+around the world globally,
+the infrastructure of this grid and this grid is aging
+and the grid is not at capable of servicing
+the growth of the population you talked about,
+but there are also a lot of challenges
+in addition to population growth that I'm really inspired by
+as we look towards a blueprint for the future at Siemens.
+So one of the things, I think,
+that I've really learned in the last year,
+I've done some research and really tried to become familiar
+with what's happening with our utilities,
+what is happening with the grid?
+And there's a number of things.
+There's the energy that we need to clean
+and there's a commitment towards that through regulations.
+There's the population that's growing,
+but there's also this complexity
+of the changing weather patterns.
+And we all know and we've heard about blackouts.
+But compounding that is actually our veracious appetite
+for energy through computation.
+So for any of you that heard these keynotes
+or heard in, certainly, the Nvidia keynote,
+we heard a lot about AI,
+but those data centers that support AI, the cloud,
+crypto, that is an always-on situation.
+So when it comes to energy,
+it's not just turning on our heat and keeping us warm
+and it's not just plugging in our light
+and hoping we can see.
+There's a lot more demand that we have.
+And so with the goals that have been set,
+there's tremendous pressure on the operators of the grid.
+And so I am so proud to work at Grid Software,
+which is this division of Siemens that is really committed
+to finding solutions for these utilities.
+Those solutions come in a number of areas.
+They come in understanding energy consumption,
+but also really knowing
+about where those distributed energy resources are.
+So as we get excited about electric vehicles,
+it's also daunting to think that five years ago,
+we would've probably not been here
+or if we were here, we'd be wearing masks because of COVID.
+Five years from now, there will be 18 times
+the number of electric vehicles there are today.
+Those vehicles need to plug in and they need to charge
+and our utilities are blind or not visible
+to all the charging that's coming their way.
+And this is truly a crisis.
+So we've got an aging grid
+and then we've got this increasing demand
+and the demand is exciting.
+We've got solar, we've got wind.
+How do we help these energies harness
+their centralized approach
+into having flexible autonomous grid management
+that accounts for the direction we need to go in?
+So we have a number of products in our portfolio
+that, in the end, are really committed to just that,
+getting more out of the grid
+by allowing software and technology to give visibility
+to where is the high and the low voltage,
+where are the distributed energy resources coming from
+and how can our grid operators come up with new strategies?
+We're also helping with grid simulation and the digital twin
+and really helping to be able to forecast
+and plan towards those changes.
+So we have some real success stories around,
+just a couple examples would be in Norway,
+we have a partnership with Elvia,
+which services over 2 million customers
+in Europe, in Norway.
+And they have extreme weather patterns,
+but they also have really aggressive sustainability goals.
+And we have developed software
+that they're co-innovating with us on
+to really have visibility
+to where the low voltage needs are,
+where the high voltage needs are
+and we're helping to get 20% more capacity
+out of the grid for them.
+Harnessing data is a really big challenge.
+Simulation of the grid.
+So in Vermont, we're partnered with the Vermont Electric,
+VELCO, that is doing just that, simulating the grid,
+so that we can really help them not just plan,
+but plan through those simulations
+so that they know how to prevent blackouts
+and they can take advantage of real time data.
+So there's a lot that we're doing,
+there's a lot that's impacting these communities,
+but I'm really excited.
+I'm excited to be here with both of you.
+<v ->I think what I heard from you was we've got</v>
+a lot going on in terms of managing.
+There's supply of these devices, there's the infrastructure,
+there's the things on the infrastructure
+and all of these things have to be connected
+and they have to speak to one another.
+And I think we take that for granted sometimes.
+We don't know that it's going on in the background.
+And so I wanted to invite Marco
+to share his perspectives on that,
+because he works on the invisible things
+that make it all happen and come together.
+<v ->Thank you.</v>
+I am honored to be part of this panel
+with this line up of speakers.
+So I'm Marco, I run product management
+for cellular technology at Telit Cinterion.
+I guess most of you have never heard
+about Telit Cinterion before.
+So we are a global company specialized
+in Internet of Things solutions.
+The reason why probably you have never seen our brand
+is because our technology is deeply integrated
+into devices from the top industry brands.
+So to make it simple, hopefully, for everyone,
+I'll tell you what we do through an example.
+And since we are talking about smart cities,
+I want to take the example of a smart bin.
+So think of a smart bin
+for a intelligent collection of waste.
+So the only way for the bin to communicate
+to the control center to the cloud, it's fill level.
+So whether it's full or empty.
+It's to have a radio transceiver that send the data
+through the cellular network to the cloud
+and the control center.
+So we do that wireless communication module.
+So we have a wide range of wireless communication modules
+across different technologies.
+Cellular 4G, 5G, but also Wi-Fi and GPS for location.
+Then the module itself is not enough,
+'cause just like your smartphone doesn't work without a sim
+and a subscription from a mobile operator,
+also the module needs a sim card.
+So we are a provider also of sim cards
+and data plan tailored for IoT applications.
+So we are a mobile virtual network operator.
+And the last piece is software solutions,
+both for the cloud and at the edge
+to make the communication as efficient as possible,
+because we are talking about sustainability,
+we are talking about energy consumption.
+So it's important to optimize as much as possible
+the exchange of data between the devices and the network,
+because this can save, for example, the power consumption
+because some of these devices are running on battery.
+They are not attached to the main power supply.
+So I could have made these examples, also,
+for other smart city devices.
+Think of utility smart meters for the automated reading
+of electricity, water, gas or street lights
+or precisely, Philip talked before about charging stations.
+They also need to be connected.
+So my point is there's no smart city without connectivity.
+Connectivity forms the backbone of the smart city
+and at Telit Cinterion,
+our mission is really to ensure that this connectivity
+is continuous, reliable and resilient.
+Kristin, you touched upon what happens
+in case of power outages.
+So that's important.
+The connectivity must be resilient also to power outages,
+to some emergency situations.
+And there are few ways to ensure this is happening.
+For example, a critical device
+should have multiple connectivity options.
+For example, think of a,
+I don't know, a surveillance camera
+for security in the city.
+It can work most of the time on Wi-Fi,
+but in case of power outage,
+the Wi-Fi network is not going to be available.
+So it should have a failover connectivity to cellular,
+for example and connect to the cellular network
+based on a backup battery.
+Also, when we talk about cellular connectivity,
+it's not enough to connect to just one operator network,
+because that network may not be available for some reason
+at some point in time or in some remote locations.
+So we usually provide solutions to have multiple options,
+so the device can select a primary operator,
+but then also can fall back to a secondary operator
+when the first one is not available.
+So redundancy is important in the connectivity.
+I think redundancy is fundamental also
+in the power supply system.
+So you need to have multiple power sources,
+can be renewable sources or can be backup batteries.
+And that's really the way to ensure all the devices,
+whatever they are, they are constantly connected,
+which means they can be remotely monitored,
+because at the end of the day, that's what is important
+to always be able to reach the device in the field,
+take out data from the device
+and analyze the data and take actions accordingly.
+<v ->No, thank you for that example.</v>
+I think simple examples like that,
+just a bin that everybody has in their home,
+it could really be something different
+once you start layering on the connectivity and the data
+and the ability to monitor and whatnot.
+So smart cities are here to stay.
+We're only hoping that they're getting smarter.
+So I'm going to ask you the tough question now.
+What excites you the most?
+What do you see coming in the future?
+If we were in 2050, what have we achieved?
+<v ->Hmm, hmm.</v>
+<v ->Hmm. (Philip chuckles)</v>
+<v ->I can dream about anything. (moderator chuckles)</v>
+The 2050.
+The things that excite me the most is,
+well, clearly electric vehicles. (chuckles)
+I think the amount of benefit that's going to bring
+to the entire world to decarbonize
+our transportation systems is huge.
+Transportation is one third of the emissions in the US.
+If we can solve that, we've tackled a third of it.
+That's a huge problem we can go after and solve.
+It's going to take all of us.
+I think what's exciting is getting to work
+with folks like this up on the stage
+and tackle these problems together.
+It's going to take more than just Panasonic.
+It's going to take Siemens, it's going to take everybody
+to get involved in this,
+to really solve this massive challenge
+we have in front of us.
+And I think there's a lot of great, exciting technology
+that we're seeing out there, especially around AI
+and all kinds of other amazing developments
+that are coming up and all of those
+are going to be necessary.
+But I think the bigger thing for us also to be focusing on
+is how do we get that from here where we're talking
+and demonstrating and from the lab
+and making this look really flashy and cool,
+how do we get it out into the field?
+We need to get this out into people's hands.
+We need to get new technology implemented
+and actually producing the benefits
+that we're talking about here.
+To me, that's the most important thing
+that we can be working on is moving from ideas
+and laboratories and getting it out into the cities
+and into people's hands and producing the benefits
+that we all really are here to try to achieve.
+<v ->What about you, Kristin, excites you?</v>
+<v ->2050, one, is a big year for goals around net zero</v>
+and I think there's a lot to achieve in getting there.
+So I love your comment about partnerships and collaboration,
+because I think right now,
+even though this is a global challenge, it's still tackled,
+even within the US, at the municipal level
+in terms of varying regulations,
+which makes it complicated to solve these problems.
+And so I think greater partnerships,
+that's probably within and beyond the utilities.
+Something I also think that's a little bit left field,
+but certainly important, passionate for me
+would be an ethical approach to AI,
+which is moving at quite an astronomical speed.
+And I think that so much of what we see through demos
+and ideas is exciting but also potentially frightening.
+And so I would hope that just as we're thinking
+about the grid, we're thinking about always on
+and being smart in our connectivity with community,
+I would hope that we're also really mindful
+of what we should be ethically thinking about
+in terms of safety and in terms of the future for all of us.
+<v ->Marco, what about you?</v>
+<v ->So there is a technology that is already deployed,</v>
+excite me a lot and it's digital twins,
+because at the beginning, it looked to me
+like a science fiction movie technology, but it's real.
+So digital twins are virtual replicas of physical entities,
+that can be buildings, infrastructure
+or an entire smart city.
+And I think this technology
+is going to be more and more important going forward,
+because it allows to simulate, analyze
+and optimize possible scenarios
+and understand where our criticalities in the smart city.
+Optimize, can be the traffic flow, we talked before
+or can be, also, you can detect heat highland
+where the temperature is going to be very hot
+and so you can plan where to plant trees.
+So there's a lot of things you can do with digital twins.
+Then there's something else that is more
+of something solving one of my private issues.
+I live in a city in Italy that it's not that big,
+but it's very dense so there's not much land
+for building houses and also parking slots.
+So I dream in 2050 to have my car driving me
+to the nearest available parking spot.
+So with my car talking with the smart parking system,
+finding for me the available parking spot
+and maybe driving me there.
+So that's something I think we are not that far
+to make it happen,
+but today, I'm losing hours of my day
+just looking myself for a parking spot.
+<v ->And as long as my car talks to your car</v>
+when you're done with that spot.
+<v Philip>Perfect.</v>
+<v ->But no, thank you all for sharing your perspectives</v>
+and, in your roles, seeing what's coming down the pipe,
+what's next and being in that innovation role.
+We have a few minutes left,
+so we can take a couple questions if folks have questions.
+There are microphones around the room
+if anybody wants to step up to the questions
+or belch them out.
+<v Audience 1>I have a comment,</v>
+maybe something broad to get some opinions on.
+So you asked a really good question,
+but you look so far ahead, 2050
+and I think there's so much that can be done
+as you mentioned, Philip, in terms of what happens in 2050,
+but in your speaking, I'm also seeing
+some of the restrictions that,
+possibly, we ran into with IoT.
+And I wrote it down, I didn't write down right there,
+but there's these silos of ideas
+and some things were thrown out.
+So we need to collaborate more, vertical integrations.
+How do we facilitate that as an industry
+in terms of getting multiple,
+and some of this is legislation as well,
+multiple entities to work together,
+so we get to 2050 in 10 years instead of (indistinct)?
+<v ->I would say, certainly in the utilities industry,</v>
+the nice thing is there already is a lot of collaboration.
+Certainly even within the US, there's a lot of,
+it's a small finite universe
+and so learning and sharing best practices.
+Grid simulation's a great example and that digital twin,
+which is something that Siemens
+has really developed and built.
+Where those simulations are revealing critical information,
+that information really just needs to be shared
+that there's no winner in this game.
+We all win when we discover and uncover opportunities.
+And that's really what this presents for us.
+There's a big challenge.
+I talked about five years ago we were in masks,
+five years from now, the energy consumption
+will be three times what it is today.
+And I live in Oregon and there was an article
+in The Oregonian just three weeks ago warning us
+that there are going to be blackouts,
+because there are over a hundred data centers
+in the state of Oregon.
+And that consumption of those data centers,
+as I was talking about, that computation demand,
+how do we partner and collaborate,
+I think that regulation is sometimes the limiting factor.
+And so sometimes I think we can be a facilitator
+to those partnerships of one utility to another
+and I think eliminating this notion of competition,
+which luckily with utilities, it's a finite universe.
+They're not as competitive,
+so the collaboration tends to exist
+and just really sharing best practices is essential.
+Does anyone else have something to share?
+<v ->I think you touched on it earlier about partnerships.</v>
+I think it's partnerships within the ecosystem
+but also with the public sector as well, to your point.
+There's a lot of regulation.
+I think part of that partnership is shaping that regulation.
+And that's through a lot of education.
+And then to your point, how do we get things
+into the communities.
+Think of piloting things before we scale them
+and using those pilots to shape some of those regulations.
+<v ->Two thoughts, one along those lines.</v>
+Doing the pilots, I think working with cities
+and getting folks to think innovatively about their own task
+that they're doing right now.
+It doesn't always have to be, "Hey,
+revolutionize this brand new technology,"
+like switch completely from one technology to another.
+It can just be incremental step by step by step.
+Let's solve the next big challenge.
+So in Fort Collins,
+they have about 50 electric vehicles actually.
+They've been pushing quite, quite rapidly,
+but now they're ready to jump a little bit more
+and then they'll go even further.
+And so I think there's an incremental thing.
+When we're looking at 2050,
+it's not all going to happen at once.
+It's going to go step by step by step by step to get there
+and we'll build brick by brick by brick to get there.
+I think the other thing, to answer your question
+and maybe this goes along with the policies
+and the partnerships, standards.
+I think standardization is absolutely critical
+in lots of different fields.
+I mean I'm a mechanical engineer.
+Try to think of building a car
+without standards for screw sizes and thread sizes.
+You couldn't.
+We couldn't build something
+without those standards in place.
+And I think that's critical for us
+in some of these other technologies,
+especially around communications.
+Lots of different communications protocols
+between different systems, utility systems,
+systems that manage IoT devices.
+For us, a common protocol we use is OCPP,
+Open Charge Point Protocol.
+Having everything speak the same language allows us
+to build more complex and more sophisticated machines.
+And so I think that's going to be a very critical component
+as we build out these new systems and new technologies
+to make sure everything can communicate,
+'cause that's going to be one of the biggest components
+is things working together here.
+<v ->Absolutely I wanted to bring up some standardization.</v>
+So a hundred percent agree.
+So the way to allow interoperability and allow devices
+of different types from different vertical industry
+to exchange data with each other
+and leverage this data sharing
+is to have more standard protocols as much as possible.
+I want to add two more points,
+especially when we talk about data exchange.
+Cybersecurity.
+We need to make the public trust smart cities
+and not fear smart cities and the way to do that
+is to pay a lot of attention to cybersecurity
+in an holistic way.
+So we know that a chain is just as stronger
+as its weakest link, so the data must be secured,
+must be encrypted, in transit, addressed.
+We should leverage artificial intelligence algorithm
+to analyze the data patterns, detect anomalies
+that may be possible cyber threats
+and also train the end users
+to the best cybersecurity practices.
+<v ->That's a good one.</v>
+<v ->And the other point</v>
+is privacy also, so when we talk about taking data
+out of devices is important
+that there are the right privacy policies in place.
+So the users, again, are not afraid
+of sharing data coming from devices maybe
+that are inside their homes or in their neighborhoods
+and they don't feel like their personal data
+is being shared.
+So that's also another important point in my opinion.
+<v ->That's a great one.</v>
+Question?
+<v Audience 2>- I think for the (indistinct) description,</v>
+I'm working for United Nation Environmental Program,
+so because of nature of our work,
+I am wondering what international (indistinct),
+because already, this year (indistinct),
+but these kind of issues is directly linked
+with the electronic car and the smart city.
+So that's why I would like to know
+how your companies is (indistinct)
+in this international agreement?
+<v ->It's a good question.</v>
+I'm not sure I know exactly how to answer that question.
+Do you have any?
+<v ->I had a hard time hearing your question, I'm sorry.</v>
+<v ->Could you come to the-</v>
+mic there?
+<v ->There is a mic right there-</v>
+if you want to.
+Oh, maybe it's not working.
+Can we get that? (microphone thumping)
+There you go.
+<v Audience 2>Hello.</v>
+I'm working for United Nation Environmental Program
+and I was wondering what international agreement
+the Panasonic and Siemens is considered,
+because already, the Basel convention will revise this year,
+at the same time Global Convention on Chemicals
+will be established this year.
+But this kind of conventions is directly linked
+with the smart city and the electronic vehicles
+and especially batteries.
+So that's why I would like to know how your companies
+is dealing with this international agreement.
+<v ->You mentioned Siemens in there, too.</v>
+I don't know of any agreements going on in place.
+<v Andrea>If you don't mind, so if we can speak tomorrow.</v>
+I know that there's a partnership between Panasonic
+and Siemens working on that and we keep going (indistinct).
+You can come back tomorrow.
+I actually believe we're having (indistinct).
+<v Audience 2>Oh good, thank you, awesome.</v>
+<v ->It's a directive environmental.</v>
+<v Audience 2>Thank you.</v>
+<v ->I'm not familiar with what you were talking about.</v>
+Sorry about that.
+<v ->One exciting thing I'll talk about</v>
+on that front though is,
+and Kusumi-san talked about this at the keynote today
+is we are really focused, as a company,
+on the circular economy and ensuring that,
+Panasonic is the largest producer
+of batteries in North America.
+And so that's a really important component to us
+is what goes into those batteries.
+How are we going to reuse those?
+We need to do that in a really smart way.
+We want to help protect the environment
+by introducing more electric vehicles,
+but we also want to protect the environment by making sure
+we're not taking more out of it than we need to.
+And so we have been working with redwood materials on that
+to develop some very advanced ways to recycle the materials
+from batteries, put that into new batteries
+and get them back out on the road again.
+So that's definitely a big component that we're working on,
+but looking forward to hearing why Andrea has to share
+in her sessions, too, sounds like some good stuff.
+<v ->So I think we're down to the last few seconds,</v>
+so we'll wrap it up.
+I want to thank everybody, I want to thank the panelists
+and the audience as well.
+I hope this is a conversation that we continue to have.
+Enjoy the rest of CES
+and find us for more questions on smart cities.
+Thank you. (audience applauding)

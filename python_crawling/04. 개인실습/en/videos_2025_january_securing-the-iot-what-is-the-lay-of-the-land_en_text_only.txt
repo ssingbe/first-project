@@ -1,0 +1,1048 @@
+<v ->All right.</v>
+Good morning everyone.
+Welcome to this next session.
+So my name is Ellen Boehm,
+and I'm the SVP of IoT strategy
+at a company called Keyfactor.
+We're a cybersecurity software company.
+We specialize in certificates and certificate management.
+But I'm really excited to be here
+with these fellow panelists who are experts in their fields
+and the focus of our talk today,
+which is cybersecurity and IoT.
+So we have, again, 40 minutes
+and a lot of things to talk about.
+So not sure if we'll have time for Q &amp; A,
+but if we do, we can entertain that.
+Otherwise, find us afterwards.
+We're happy to talk.
+So with that,
+actually I would like everyone just say your name
+and say your company very quickly.
+We'll just go down the line for intros
+and then we're just gonna get right
+into the questions, so.
+<v ->Hi, Eric Greenwald, general counsel of Finite State.</v>
+<v ->Hi, Erik Brenneis.</v>
+I'm the CEO of Vodafone's, IoT business.
+<v ->Hi, Gregory Laloy.</v>
+I'm responsible for the product and IoT with Thales.
+<v ->Sri Ramachandran CTO of Somos.</v>
+<v ->Trish Reilly, Senior director</v>
+of Product Marketing at Aeris Communications.
+<v ->Awesome.</v>
+Thank you all for joining me.
+And then lastly, just wanna say thank you
+to the IMC for sponsoring, this panel.
+So we are members of the IMC,
+which is an organization
+that brings together several different companies
+and people from around the space
+to talk about best practices around IoT.
+Specifically, the initiative
+that we've been taking on this year
+in partnership with the GCF,
+is taking a look at the cybersecurity standards
+and guidelines that are emerging
+and trying to have some practical advice
+for companies to be able to adopt
+and implement those across the multiple
+layers of the IoT stack.
+So not just a device perspective,
+but from the network and the connectivity
+and then the cloud and the apps.
+So that's a little side note
+about some of the things that we're doing.
+We'll talk a little bit more about that today.
+But without further ado, let's jump into the questions,
+'cause I really wanna hear from the experts.
+So we're going to start with Sri
+and setting the stage about just
+generally the IoT landscape.
+What are you seeing?
+Obviously a lot of IoT
+that we've seen here at at CES,
+but from your perspective,
+what do you think are the hot trends?
+<v ->Yeah, so that's a great question to get started off with.</v>
+So we talk of IoT
+and then in general people think IoT needs
+to be like small devices, small sensors and so on.
+But when you look at it realistically,
+any connected device is essentially part
+of that ecosystem, right?
+So it can be an airliner, a Boeing or Airbus airliner,
+that's a connected device, really,
+you know, multiple connections.
+And it could be like a coffee,
+coffee maker with an alarm clock
+that you can actually program remotely, right?
+So that essentially is, again, another connected device.
+So connected devices have a pretty broad range
+of applications and typically there is a device
+that has some way of connecting through a network
+to a backend app or application and so on.
+So this is in general what the IoT is.
+And what we are actually seeing
+is that based on analyst research and so on,
+the consensus estimate is that there
+are 18 billion devices already deployed.
+So that's a significant number.
+And when we look at the growth rate of this,
+the consensus system,
+it is also 18.8% compound annual growth rate.
+So it's a very significantly growing market.
+And pretty much when you look at
+what is actually driving this growth,
+obviously the different types
+of network modalities are actually increasing.
+So originally it was just Wi-Fi and cellular
+and then there was LoRa.
+And then there are so many new ways
+to actually connect devices to a network.
+And there are two key areas
+that are actually driving a lot of this expansion.
+Obviously there's industrial automation
+that is a huge part of the growth of IoT.
+And I think the thing
+that we all probably experience on a daily basis is that any
+device that we buy for the home now comes connected.
+So we just had a refrigerator that went bad.
+It was a 25-year-old refrigerator
+and had to buy a new one over the,
+on the 24th of December.
+Fortunately there was a great sale at Lowe's,
+so I said, yes, let me go get it.
+And every refrigerator had a Wi-Fi connection.
+So you cannot find
+an appliance without a connection these days, right?
+So connected devices,
+especially smart home based connected devices,
+is another area that's actually driving this growth.
+So it's really an expanding market.
+It's very relevant to all of us
+and it's going to be something that we need
+to be all be much more in tune with.
+<v ->Yes, awesome.</v>
+Thanks. Sri.
+So Erik, I wanna go to you now to talk a little bit
+about the connectivity
+and the networking part of it.
+So obviously Vodafone,
+I'm sure you have some expertise here,
+but how do we support then connecting all of these millions
+of things globally wherever they are,
+as Sri was mentioning, the volumes.
+<v ->I think there are three points to this.</v>
+On one hand it's the network technology itself.
+was and is a good technology.
+But for a smart meter, the new technology,
+narrowband IoT is better for a super fast device.
+Or if you want to download big amounts of data,
+5G is better.
+So we've gone to a point where we have lots
+of network technologies,
+LTEM, 2G, 3G 4G, 5G,
+red cap and so on.
+So you can now select the right network technology
+for your connection.
+Number two, 10 years ago, IoT was more a technology,
+you know, which was used.
+And now in our opinion it's an operational asset.
+There are so many customers now already
+who depend completely on the IoT connections
+for their business model,
+that it's an operational asset which needs
+to be available a hundred percent of the time,
+99% is not good enough.
+And number three, there have also been
+technological developments with regards
+to how you access the networks.
+It used to be a physical SIM,
+which you need to put in there.
+Now you have eSIM
+where you can switch the SIM over the air.
+You have iSIM where it's embedded in the silicon
+of a communication module.
+And of course, these new technologies
+make everything more flexible,
+but also post new security risks,
+because obviously if you can switch a network over the air,
+there's more room for fraud than if it's hard coded
+and you can never change it.
+<v ->Awesome, thank you.</v>
+So Greg, let's dive a little bit into security.
+So what are you seeing from the general cybersecurity
+landscape that we should be aware of today?
+<v ->So there is a lot when we talk about IoT security.</v>
+Most of the time, as Sri was mentioning, IoT is growing.
+There is more and more connected devices independently
+of the type of connectivity, serial connectivity, Wi-Fi,
+BLE and all this.
+We need to find a way to protect those IoT devices.
+When we talk about IoT security,
+as we were mentioning also in the beginning,
+it's not only on the hardware side,
+but we need to see the full value chain
+from the production of the device,
+when the device will be manufactured
+and when the device will be running during the lifetime.
+And we need to take care of that since the beginning
+of the design of the devices.
+Then the device is one thing.
+You need to have a secure device.
+That's something that is important.
+I think Eric was mentioning the eSIM and iSIM
+and that in the end is a kind of root of trust,
+an hardware root of trust where we can put,
+let's say the foundations of the security inside.
+But then we have also all, let's say the technology
+to exchange the data that needs to be secure.
+All the data that will transit from the device
+to the application server needs to be secure as well.
+And you need also to have the capability
+to manage the secure lifecycle of your device
+through framework signing service
+and different things like that.
+So IoT security is big
+and it depends also on the type of applications.
+What you do with the smart metering
+or grid is not the same as a pet tracker.
+It's not the same when we are talking about
+healthcare or automotive.
+That can be linked also to safety.
+So there is a lot of things that needs
+to be taken into consideration.
+<v ->Yeah, yeah.</v>
+And I think hopefully we can get a little bit
+more into that in the future questions.
+'Cause I do think that there's things
+that we can learn cross industry, right?
+Especially if we're looking at the framework
+of end-to-end cybersecurity and looking at an endpoint
+or an operating system or how do you encrypt
+and secure the channels.
+So I think finding similarities
+and helping to share that across verticals is important.
+But yeah, let's get a little bit
+more into that in a bit.
+So Trish, last thing in terms of setting the stage
+from a perspective, from you.
+You have experience across FinTech, across healthcare.
+So what are you seeing in terms
+of cybersecurity in these areas that we should be aware of?
+<v ->Yeah, sorry, no, that's a really great question.</v>
+You know, even based on things that Sri was saying,
+and Greg was saying, a lot of this,
+if you think of it from a security perspective,
+the industry itself,
+security we have to think of it as being more horizontal.
+It is not a vertical play.
+Yes, there are differences within the vertical arenas
+as to how things are used,
+what you need to protect,
+what type of data and stuff is critical
+to your organization from both an operational and a revenue
+and a business perspective.
+But at the same point,
+you need to think about the fact
+that different industries
+or different verticals are gonna latch onto security
+faster than others will.
+I mean, financial services is always
+an early adapter from a security perspective.
+However, the issues
+and the challenges that you see within healthcare
+that you see in manufacturing,
+that you see in in consumer business,
+it's very, very similar.
+So you need to think about
+how you wanna protect this from a holistic perspective.
+And even though you may have a business that has, you know,
+multiple different types of security parameters,
+you know, you could be a holding company
+and you have things in consumer,
+you have things in maybe in travel and logistics,
+or you know, the different areas,
+the threats you need
+to also think about are, you know,
+how can anybody or what can be used
+to potentially get into my infrastructure.
+We see a lot of changes right now with zero day attacks.
+You know, people don't know how do I, what do I do?
+How do I start to do this?
+And you feel a lot of people that get this instant,
+oh my gosh, how am I gonna handle this scenario
+in which you just need to think about it, okay,
+you're zero day, things are gonna happen.
+Everybody to some extent is going to be attacked
+or probably has been and may or may not know it.
+You need to think about the fact that, you know what,
+we need to put something in place that can start to traverse
+and start to understand what's going on
+within the infrastructure from the security perspective,
+regardless of the type of device.
+IoT is a huge threat right now.
+It is a big security gap.
+Everybody's been talking about the fact
+that these devices have kind of grown, you know,
+as Sri and everybody said, exponentially.
+It's kind of become the wild west
+and then everybody's kind of thinking about now going,
+I need to build security into this,
+but what do I do about those devices
+that have sat out there for years?
+You know, 'cause IoT devices were put, were, you know,
+originally designed to be in areas where you didn't have
+to have a person go out to them
+or you didn't have to have accessibility.
+And it really, you know, was kind of a lone wolf out there.
+But now you need to start to think, it's got old hardware,
+it may have old firmware,
+there may be things hard coded in this.
+These are potential threats into your infrastructure.
+So regardless of the vertical, you know,
+a lot of the challenges are still the same.
+It's how you handle those
+and think of really what your business priorities are.
+<v ->Yeah, thank you Trish.</v>
+That was a great lead into this next section,
+which I really do wanna have focused on
+threats and challenges.
+And actually as I was walking over here this morning,
+you know, I was thinking about this story
+and now it's seven years old,
+but when the casino was hacked
+because there was a fish tank with a smart thermostat,
+had no security on it.
+So as we go into this next section,
+if anyone else has other stories that they'd like to share,
+let's come up with some more relevant ones.
+I know there's recently, I think, what is this,
+the salt typhoon talking about telecom attacks.
+So maybe,
+I think there's,
+people are,
+we're getting a lot better.
+We've gotten a lot better at securing enterprise networks,
+enterprise devices, servers, laptops,
+even within companies.
+But then what's the next front that attackers
+and bad actors are going after?
+It's these, again, maybe smaller devices
+that can be turned into to like bot attacks
+or just entry ways to get into a corporate network
+or into this casino network for example.
+Or get into, you know, into a retail facility
+because you hacked into the HVAC system.
+So let's talk a little bit about some
+of those threats and challenges.
+And Eric, I would like to go over to you.
+So what are come some of the top challenges
+that you've heard companies are facing today?
+<v ->Well, I'll start by echoing what Trish was saying</v>
+is that, you know, depending upon your vertical,
+depending upon the services you provide,
+depending upon the kind of data you traffic in,
+depending upon your geography,
+the challenges are going to vary considerably
+from company to company, from vertical to vertical.
+But there are some practical considerations
+that are, if not universal, near universal.
+And the way I would shorthand it is resource constraints.
+That there is so much that needs
+to be done that can be done.
+That where there are customer pressures, market pressures,
+regulatory pressures that you are under
+as a company, especially in the IoT space, to do.
+But you have limited resources with which to do it.
+And Gregory and I were talking about this
+before the panel that a good way to describe that
+or to to think about that is as a cost constraint
+or the economic pressures in the IoT space.
+It's not true for all IoT companies,
+but for many they are,
+the marketplace competition is fierce
+and they are under a lot of pressure
+to keep their prices very low.
+When your prices are very low,
+you have limited resources
+with which to address various needs.
+Cybersecurity is gonna be chief among those.
+And there are lots of companies that, you know,
+as Trish said, you said you bolted on afterwards
+because when you're first starting out,
+you're worried about building it,
+you're worried about getting it to market
+and you're worried about actually
+selling it at a competitive price.
+And so a lot of companies are coming late to cybersecurity
+in their products, in their space in their services,
+not necessarily out of either ignorance
+or, you know, disdain for security practices,
+but just because they have other priorities there.
+The incentive structure
+and the risks in the marketplace are structured around
+a narrow focus on delivering
+and delivering at low price points.
+And you know, while this is certainly true
+for inexpensive consumer electronics,
+it also applies to areas
+where there are components going into automobiles
+and airplanes where there's still a lot of pressure
+to keep prices low and there's a lot of competition
+and it's a dynamic marketplace.
+So it is, again, sort of this lack of resources,
+economic resources to be able to devote to a complex problem
+where there isn't one single, you know, biggest challenge.
+It really just depends upon what you're doing,
+where you are and what sort of threats you face.
+<v ->Yeah, yeah, great points.</v>
+I think a lot of it is about,
+it's an ROI decision too,
+designing and security
+and also sometimes taking a risk of a breach.
+So I know at a key factor we've done a study
+where it's, you know,
+the cost of a breach could be $2 million.
+So do you wanna just pay that
+or do you wanna be more prescriptive
+upfront for preventative?
+<v ->Well, and it's worth noting that,</v>
+and we're gonna talk, I'm sure,
+a little bit later about
+the regulatory schemes that are now entering
+into the marketplace globally.
+But you know, leading up to this point,
+it was really that cost risk calculus,
+cost benefit analysis of,
+okay, if I don't really go do everything
+that I should be doing with respect to cybersecurity,
+what's the impact?
+And part of it depends on how likely
+am I to suffer a breach.
+And a lot of companies are willing to roll the dice
+and just say, you know,
+it's hard to internalize a cost
+that hasn't happened and that might not.
+<v ->Right. Yeah. Yes.</v>
+Yeah, but yeah,
+let's talk about the certifications in a bit.
+So next question.
+So Trish and maybe also Erik,
+about connectivity and risks
+around connectivity and infrastructure.
+So what challenges, I think if we go specifically
+into that sort of network layer, are you guys seeing?
+<v ->Yeah, so I mean if you think about it</v>
+from the connectivity perspective,
+from the cellular side of the house,
+I mean your cellular traffic runs
+through your existing, you know,
+infrastructure and everything.
+But the challenge that you have is you start
+to think about it not just from connectivity.
+And of course I'm gonna bend more toward the security
+side because that is my background.
+You have to think about the fact that a lot of that data
+that's brought in from the connectivity
+is very much aggregated.
+So you don't know.
+And what happens if you have one device that's going awry
+or if you have one device that has been,
+has really opened an attack surface for you,
+how do you figure out which device it is versus selling
+or setting off everything, okay, this business unit,
+'cause that's part of that's gotta be shut down
+or you know, no connectivity
+till we figure out what's going on.
+What's really important to think about from the connectivity
+side of the house is how do you start
+to bring all this together
+and really understand it from a device perspective?
+You know, 'cause you wanna be able to frame that one device,
+look at what it's interacting with,
+what it's potentially dialing out,
+is it going out to a command and control center?
+Is there malware threats associated with it?
+All of these, you know,
+and I'm, like I said, gonna bring in this back
+to the security side.
+It's very similar to what you've done
+from a network side of the house,
+but you also need
+to think about it from the connectivity side of the house.
+Do you have things to add to that, Erik, or?
+<v ->Look, yeah, I totally agree</v>
+with everything you've been saying.
+Regarding your question,
+how important is it on connectivity?
+Think about it.
+Connectivity, something that is not connected
+can only be attacked if you go physically there, right?
+A computer which doesn't have an internet connection.
+<v Ellen>Yeah.</v>
+<v ->You need to physically go there to manipulate.</v>
+So therefore connectivity is actually the entry point
+for any remote attacker
+and therefore you need to secure it appropriately.
+And I think we'll talk,
+the next questions about how we do that, right?
+<v ->Okay, great.</v>
+Thank you.
+Okay, so Greg, let's talk a little bit about
+how do you see companies managing IoT security
+when it's massive deployments?
+<v ->That's a very good question</v>
+because I think as Sri was mentioning,
+we see there are more and more IoT devices
+and when you manage those type of devices
+and a million of devices that will be connected,
+you need to start from the beginning.
+If in terms of company you don't have a mindset
+of security by design, then it's a little bit too late.
+There are things that can be done, you can patch,
+there are things that can be done.
+But once the device is in the field,
+if you don't have remotely,
+the capacity to do something is gonna be very complex.
+So the way to do it,
+there are different steps that you need to do.
+And it's the same as some organization has done in the past.
+We're talking about the IT, IT has done it.
+The OT monitoring, we managed security services,
+they're doing it.
+But it takes time, it's a process.
+And every actors on the IoT must be part of this journey.
+It's coming from the silicon vendor
+who are bridging a little bit more and more security inside.
+It's the device maker who need also to pro,
+let's say to program and to help the end user
+to have some secret mechanism on it.
+It's also the service provider,
+the one who will deploy the device
+to also have the capability to do things.
+So we really need to think as a kind
+of a 360 offering from the design
+up to the devices in the field
+and then the refurbish as well,
+because this is where it is gonna be key.
+You need to think globally to that.
+<v ->Yeah, that's a great answer, thank you.</v>
+Okay, so we're gonna start
+to shift into the solutions.
+So, but before we do that, so Sri maybe one last question
+to kinda help lead us into that.
+So how is the cybersecurity community developing
+best practices and guidelines
+to help companies navigate these challenges
+that we've just been talking about?
+So what are you seeing in from that space?
+<v ->Well, so it's been kind of interesting</v>
+because people look at it, mean if you took,
+if you take a typical IoT system,
+there's a device, there's a network, there's an application.
+And so when they come up with standards
+and regulations around,
+or come up with standards to say how to secure this,
+they're looking at it from network and application,
+which are easy.
+I shouldn't say easy.
+There are existing best practices that they can bring to it
+to make it all happen like from the IT side, right?
+But devices are very unique.
+It's not a laptop, it's not something like router
+or something that's known.
+So now device ecosystems are very fragmented,
+because it's where you create a device
+for a particular use case.
+So which means it may have its own operating system
+or maybe even a proprietary operating system.
+And the skillset to manage those devices
+to make sure that those devices are secure,
+are really hard.
+That's a big challenge, right?
+So companies cannot hire enough people
+that understand all of that.
+So just as you were talking about the whole life cycle,
+it's almost like the device manufacturers to make sure
+that the skill sets translate,
+get sold along with those devices to make sure
+that enterprises understand those challenges
+of managing those devices.
+<v ->Yeah, good, okay.</v>
+So let's get into some of the specifics
+and thank you Sri.
+So Eric, we'll go to you first.
+<v ->Sure.</v>
+<v ->What key standards are IoT companies needing</v>
+to be aware of these days?
+'Cause I know there's a lot of 'em.
+There's regional ones, there's vertical based ones.
+So, but let's just talk about a couple here
+that might be very relevant for the group.
+<v ->Well, yeah, and I'll,</v>
+there's obviously there's a lot to say here,
+so feel free to cut me off if we need to move on.
+But as we were discussing earlier, you know,
+it has historically principally been just a question
+of what's the risk, what's the risk of breach,
+or you know, some sort of catastrophic loss
+and the, you know, potential lawsuits
+that might result from that.
+Now things have shifted a bit more to the question
+of what sort of penalties might I face
+if I do end up having a breach
+or some operating problem with my system
+as a result of cybersecurity.
+And I would say that the dominant
+force in this arena is the EU Cybersecurity Resilience Act,
+which just got finalized at the end of 2024.
+You know, it'll begin coming into force in 2026,
+but even, and fully enforced in 2027.
+But now, you know, well before then, now,
+you are seeing companies
+that are requiring their vendors
+to demonstrate their compliance with the CRA,
+because design cycles are long enough that, you know,
+you can't say, oh, I'll wait until 2026
+and then see whether I or my vendors are in compliance.
+You have to be much more proactive than that.
+And you know, with the CRA,
+the potential penalties are significant,
+from massive fines to denial of market access to the EU.
+And you know, this is something,
+in the same way that California
+vehicle emission standards end up, you know,
+driving vehicle emission standards
+for the entirety of the United States,
+the standards that that the EU is setting will
+end up driving global cybersecurity standards.
+Because as long as you are selling into the EU
+or you sell to a company that sells into the EU,
+you're going to be subject in one way
+or another to the Cyber Resilience Act.
+And so this is the conversation
+that we are having over and over again.
+And it's interesting to note that we've sort
+of seen this ratcheting up slowly the awareness
+in the United States, I should say,
+because, you know, in Europe I think there's been,
+whether because of the GDPR
+or because, you know, it's obvious
+that there's been this strong move in the direction
+of cybersecurity regulations
+that will carry significant penalties.
+There's been, I think higher level of awareness
+among European companies
+of what is out there now and what is coming.
+That awareness is just starting to shift
+dramatically in the United States.
+We've seen it go gradually shifting,
+but it is becoming more pronounced.
+Now, and as you mentioned, there are all sorts of standards,
+international, regional, vertical specific,
+and it's a complicated environment.
+But one thing that is,
+and the idea of the,
+I'm sure that the idea of trying
+to figure out how do I comply with all this,
+is daunting for most companies,
+but the one significant piece
+of good news is that these standards, these certifications,
+the requirements, they're all borrowing from one another
+and they're based on, you know,
+a fairly robust set of common criteria.
+And it is possible, you know,
+to focus on those common criteria.
+Once you make sure that your company is aligned with those,
+then it's the effort to obtain, you know,
+the Singapore certification
+or ensure that you're in compliance
+with the CRA is not as big of a step.
+I don't want to trivialize it,
+because it's still,
+there are a lot of specifics
+in the different regional standards and requirements.
+But once you look at those core common requirements,
+that are a lot of the very basic blocking
+and tackling of cybersecurity.
+If you can cross that bar,
+you've come a long way towards meeting
+the broader and multifaceted requirements
+that you see internationally.
+<v ->That was great advice.</v>
+And I do agree, I feel like the,
+I've heard the CRA talked about in the light of GDPR,
+but bigger and more impactful.
+So it is something that I think is a big deal
+and a good point about being a vendor
+or a supplier to a larger maybe operator
+or OEM machine builder, right?
+That you're gonna need to be responsible, so.
+<v ->Right.</v>
+And this, you know, that construct is one
+that you saw play out in the United States
+when the US government dating from my time
+at the White House in the Obama administration,
+there was still high level
+of fear about imposing mandatory
+cybersecurity regulations on industry, you know,
+except with some exceptions.
+One being Department of Defense procurement
+where Department of Defense
+was willing to impose certain requirements
+on DOD contractors selling directly into the government.
+But those trickle down
+and out to all the companies that supply DOD contractors.
+And you see the same thing happening with CRA,
+with other other cybersecurity regulations.
+<v Ellen>Yeah.</v>
+Awesome, thank you.
+<v ->I think, can I add a little bit to that?</v>
+'Cause I think something that's also really important
+to think about is,
+if you think about it from an organizational perspective,
+you've got all of these different regulations
+that are coming at you, you're like, what do I do?
+And you talked a great deal about the commonalities
+between all of 'em, which is important,
+but in order to think back
+as to how you wanna really protect that,
+you've gotta think about the data
+and how the data is going to be used
+and where the data is of utmost importance.
+You know, so you wanna figure out something,
+you wanna figure out a way to really,
+if you're a global organization,
+you have to be able to unify the user experience.
+You have to be able to make this work
+throughout all of your, you know, organizations globally.
+And that's also another part
+that I think the regulations
+are kind of trying to get there,
+but I don't think they quite know how,
+because it's really difficult.
+I mean, you've got the different verticals,
+you've got everything else that's going on.
+So, you know, don't panic I guess
+is the best thing that I'm trying to lay out here.
+You know, just think about what's the core
+and what's most important
+and gradually get there, you know.
+It's like everything else,
+it's like putting on one shoe at a time,
+dressing in the morning, putting on, you know,
+one pant leg at a time.
+<v ->Yeah, and I think that's also</v>
+why we are here as partners
+and cybersecurity experts to sort of help there as well.
+So thank you.
+So Greg, let's go to your perspective.
+How are these regulations driving behavior?
+Are you seeing different customers coming to you?
+Obviously, Thales has a lot of expertise
+around this area,
+but what are you seeing from behavior
+changes as a result of this?
+<v ->So the first is, I think one thing that was said</v>
+is that when you are looking at IoT devices,
+it's always,
+there are IoT devices that are expensive,
+but most of them it's, they're very cost sensitive.
+So when you are talking about security,
+always there is a price.
+And in the past it was difficult for people to say,
+ah, should I put that on top?
+How can I manage it?
+And so on.
+It's complex.
+I already have my IT, so they say, okay,
+from the IT infrastructure, maybe I can do something.
+But it was limited and that
+that was the real difficulty.
+Now, when the CRA will impose fines,
+the red was already there.
+The US trustmark also in the US will come.
+I think it's changing completely the mindset
+of the overall ecosystem
+or the overall value chain on the IoT.
+People know, say I have to do something,
+I have to protect my device and they will be proactive.
+The main difficulty that they have
+is that it's not the same when you're talking about security
+for the IT or the IT monitoring.,
+IoT is completely different and it's new.
+And I think with the way we see it,
+we see a lot of companies
+that are a little bit lost on the regulation,
+exactly what it means for them, what they have to do.
+If they have to go inside, it means,
+I think that was the point of Sri,
+they need to have experts
+to understand exactly the way to do it.
+So they should turn to companies
+who can help them on understanding what it means for them.
+Making kind of threat assessment, consultancy services,
+review all the architecture
+just to help them to understand
+what are the different things
+that they will have to put in place to be compliant
+to those regulations and new standards.
+So for us and for everyone I think here,
+it's a benefit because at least all the things
+that we have done,
+all the investment that we have done
+on cybersecurity will lead
+and will path the way to help customer on those engagements.
+And we need to support them on making the right
+implementation on what they have to do
+to be compliant to that.
+And I think today we're only talking about compliancy.
+If in the future there will be a need also
+to certify those products that will come
+and that's another step that will come
+and when you go for certification,
+that's another level of what needs to be done.
+<v Eric>Can I just add one thing?</v>
+<v Ellen>Yes, please.</v>
+<v ->Quickly on,</v>
+because you were asking about behavior changes.
+<v Ellen>Yep.</v>
+<v ->And one of the questions</v>
+we're getting a lot and questions,
+internal questions that companies are asking
+is about supply chain.
+And if you look at, you know, the focus of some
+of the bigger movements in the United States regulation
+of cybersecurity focus around China and supply chain.
+And so we get a lot of questions about do I need
+to stop using Chinese components?
+Do I need to stop having R &amp; D done in China?
+And to echo what Gregory was saying,
+there's a lot of ambiguity.
+It's hard to know exactly
+how some of the regulations
+and some of the work that Department of Commerce is doing,
+whether the connected vehicle rule,
+whether they're proposed drone rule,
+data centers are next,
+there's investigations of wireless routers.
+Like, it's hard to know exactly
+how this is gonna be enforced
+and what limits the US government is going
+to impose on supply chain going through China.
+Which is an incredibly challenging question,
+because the supply chain is inherently global
+and most roads go through China on the way
+to delivering an IoT product.
+And that is a behavioral question that a lot
+of companies have been coming to us to ask about.
+What do we need to do
+with respect to supply chain in order to address
+this question about restrictions on supply chain?
+<v ->Yeah, that's a great point.</v>
+Yeah, I know from my perspective, we, at my company,
+we're all about authentication, encryption,
+secure connections
+and identity based, you know,
+with certificates in order to connect to a device
+and then be able to push firmware that you have signed
+and that you know the origin of that.
+So a lot of it is about trust
+and establishing trust
+at all the layers.
+So trusting the hardware and the components
+and the chip sets that you're using
+and then being able to trust
+all the software that runs on it.
+So doing the full risk assessments
+and understanding are there any open source.
+And we've been doing this for years now,
+but I think it's becoming more and more important to be able
+to know that, you know, what sort of code is running inside
+of your devices and inside of the system.
+So there's some basic things around, again,
+secure firmware updates and update ability
+and all of that that I think we're seeing coming out
+in these standards that's important
+to have processes around.
+And it's not just, to Trisha's point earlier,
+it's not just once and done, it's an evolution.
+And because we've deployed these devices,
+whether in a connected vehicle,
+whether they're connected smart meters
+and they're deployed everywhere
+and they're, it's you physically,
+it's a big pain to go out to them.
+We have to be able to connect them remotely, securely,
+to be able to maintain this over time.
+So anyway, just a little bit of my side there.
+So let's go Erik, from a Vodafone perspective,
+what do you guys do
+to help your customers navigate this?
+<v ->Yep.</v>
+<v ->Specifically solution wise?</v>
+<v ->Yep, and I think that fits in very well</v>
+with what the colleagues here have been saying
+also including standards.
+So first of all, what we do is for any customer,
+we do not just make our own system,
+which is the connectivity secure.
+We really look from the customer's device
+all the way into the customer system,
+the transport of data, that needs to be secure.
+And we are the specialists
+for the connectivity part of this.
+And at the same time we also consult the customer
+on how to secure their hardware
+and how to secure the interfaces we have.
+You mentioned it yourself,
+our connectivity service is secure by design.
+From the beginning we've always watched out
+that all the potential entry points
+such as entering the data tunnel
+or addressing a device is impossible
+with our IoT connectivity service.
+In previous times, 10 years ago,
+lots of IoT companies still put a consumer SIM
+into their device.
+If you knew the phone number of that consumer SIM,
+you could just call it,
+reverse engineer some commands
+and you're inside the system, that's impossible.
+We have authentication mechanisms, we have encryption,
+we monitor the data tunnel
+and recently we've also started to use AI
+in order to understand the specific behavior
+of each device, which is out there.
+And if a device behaves differently
+from the expectation.
+If for example, a meter starts sending loads
+and loads of data,
+even though you only expect the register value,
+then we look deeper into that
+and see is that a problem?
+Finally, we also build on all the investments
+into the security systems that Vodafone has done
+and we also consult our customers
+and we stick to all the standards that you mentioned before
+and you also mentioned.
+<v ->Okay, thank you.</v>
+So Trish, maybe one more for you,
+anything else to add about what Aeris does specifically
+to help your customers with this?
+<v ->Yes, I mean very, very similar.</v>
+We, because of the way that Aeris was originally, you know,
+brought up and and developed in the industry,
+we've been around for more than 30 years,
+and the fact that we were originally built
+on a connectivity, we have our own core network.
+We partner with all of the big MNOs, MVNOs,
+or I shouldn't say all, almost all of them,
+in which we help them, you know,
+as they're protecting the infrastructure
+and those types of things,
+we look at it from a perspective of our,
+it's a new product we're getting ready
+to launch out called our watchtower solution,
+in which we can sit there
+and look at suspicious, malicious,
+abnormal activity that is occurring within the devices.
+We allow you to turn around
+and think about it from a per device perspective.
+Like I'd mentioned earlier,
+if I'm seeing some type
+of anomaly or if I'm seeing the device all
+of a sudden calling out, I might wanna say, you know what?
+I need to sequester this one device
+without taking the whole infrastructure down
+or without taking the whole group down,
+because you need to maintain
+some of this interaction that's going on.
+But our solution itself allows you to really look at it
+and start to put together policies and programs.
+And because of the fact that we have done this
+from what we classified as as the core network
+and working with all the big partners out there,
+the carrier partners,
+it allows us to really create a unified user experience.
+So what you can create from policies,
+regardless of which carrier you're using under the covers,
+really allows us to, you know,
+or you as the vendor,
+the company to turn around and say, hey,
+I'm gonna have this type of user experience
+regardless if I'm, you know,
+working throughout from a global perspective.
+You also need to think about, you know, there's a lot
+of great technology that has been put into play.
+We just depend to an add on.
+We're not telling you to get rid
+of your existing infrastructures.
+It's not something that you want to,
+because you're always gonna harden your infrastructure.
+You're gonna harden what's what's happening,
+you know, and what's going on.
+But you wanna be able to add to it
+and really think more from the device perspective.
+And that's one of the key areas
+that Aeris has been able to really focus on lately.
+<v ->Okay, thank you.</v>
+Okay, so just looking at time,
+I think this will probably be our last question.
+So Sri like to get your thoughts on this.
+I mentioned it in the beginning
+and obviously we've had a lot of conversation here,
+good advice from some very experts in this space,
+thought leadership,
+what is IMC as an organization doing
+to help make and drive awareness?
+And then also maybe more practical advice
+about what to do, really, like where do you put your money
+and your budgets in 2025 to help start
+to tackle some of these things?
+<v ->Yeah, I think that's a great question.</v>
+So till now, all of the good chunk
+of the standards have been very vertical oriented.
+They've been per industry and so on.
+But what we've seen from the regulatory side
+is that with the CRA and so on, it's very horizontal.
+And so now,
+and just as you were mentioning, right?
+There are some core standards like NIST2
+and the NIST that have been added into that.
+So there's a lot of commonality
+that we can actually take and we can make it practical.
+So IMC is partnering with GCF,
+which is a global certification forum
+and we've created a joint task force to actually explore
+how we can create practical guidelines to make sure
+that we can have the IoT ecosystem
+adopt those practical guidelines
+to be secure and also be compliant with CRA
+and all the other emerging regulations on it.
+<v Ellen>Awesome, thank you.</v>
+<v ->And this joint task force is open</v>
+to the membership and so we would welcome more members
+to actually come in and participate in that,
+so you can contribute your ideas
+and see how we can take existing standards
+and make it more tailored to what we want to do.
+<v ->Great, thank you.</v>
+Well, as I mentioned, this was a very quick session
+with a lot of topics to cover.
+So first of all I'd like to say thank you
+to all the panelists for coming here,
+for sharing your expertise
+and bringing the conversation to light a bit more.
+So we'll be here staying after.
+I think the next session starts in about 20 minutes.
+So feel free to come up to us
+and ask any more questions or feedback.
+Always welcome to that.
+And again, here's a list of some
+of the member companies of the IMC.
+If you have questions about IMC, happy to answer that too.
+Love to have more people in the conversation.
+So thank you everyone and enjoy the rest of the show.

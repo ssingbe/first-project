@@ -1,0 +1,3590 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.583
+(upbeat music)
+
+2
+00:11.160 --> 00:12.390
+<v ->Well, welcome everyone.</v>
+
+3
+00:12.390 --> 00:16.440
+We are gonna have an amazing session today on predictive AI.
+
+4
+00:16.440 --> 00:18.270
+My name's Jim Harris.
+
+5
+00:18.270 --> 00:21.720
+I used to write a column for "i3" magazine of the CTA,
+
+6
+00:21.720 --> 00:23.730
+the Consumer Technology Association,
+
+7
+00:23.730 --> 00:26.130
+for five years before the magazine died.
+
+8
+00:26.130 --> 00:26.963
+Very sad.
+
+9
+00:28.050 --> 00:31.020
+We have an amazing panel today on predictive AI.
+
+10
+00:31.020 --> 00:32.640
+We're not gonna talk about history,
+
+11
+00:32.640 --> 00:34.890
+we're not gonna talk about our bios.
+
+12
+00:34.890 --> 00:37.890
+There is this amazing thing called The Google
+
+13
+00:37.890 --> 00:41.400
+that you can find out all about us here on the panel.
+
+14
+00:41.400 --> 00:44.130
+We're gonna dive right into the use cases,
+
+15
+00:44.130 --> 00:47.760
+which are practical, proven use cases
+
+16
+00:47.760 --> 00:49.740
+with bottom line benefit.
+
+17
+00:49.740 --> 00:51.210
+And I'll start with one.
+
+18
+00:51.210 --> 00:53.040
+I was invited to the launch
+
+19
+00:53.040 --> 00:57.960
+of Trenitalia's 300 kilometer an hour train in Rome,
+
+20
+00:57.960 --> 01:01.980
+and they had installed 1000 points of presence on the train
+
+21
+01:01.980 --> 01:06.960
+on different parts, and they measured vibration and sound.
+
+22
+01:06.960 --> 01:07.793
+And if something
+
+23
+01:07.793 --> 01:11.250
+went outside of SOP, standard operating procedure,
+
+24
+01:11.250 --> 01:14.850
+it would yell out, "Hey, I'm the brakes on car 4A,
+
+25
+01:14.850 --> 01:18.060
+and I am really vibrating a lot."
+
+26
+01:18.060 --> 01:19.567
+It would then use AI and say,
+
+27
+01:19.567 --> 01:22.860
+"We predict that part will break down in a week."
+
+28
+01:22.860 --> 01:24.120
+And rather than wait until
+
+29
+01:24.120 --> 01:26.580
+it paralyzed the whole train on the tracks
+
+30
+01:26.580 --> 01:29.640
+and threw the schedule of everything off,
+
+31
+01:29.640 --> 01:31.500
+they would replace the part that night.
+
+32
+01:31.500 --> 01:34.200
+It's called predictive maintenance.
+
+33
+01:34.200 --> 01:37.890
+And I think that if I get a better service,
+
+34
+01:37.890 --> 01:39.900
+it's gonna cost more.
+
+35
+01:39.900 --> 01:43.380
+Well, how about better service at 10% lower cost?
+
+36
+01:43.380 --> 01:44.580
+They're saving 10%
+
+37
+01:44.580 --> 01:47.790
+of their 2 billion euro budget on maintenance.
+
+38
+01:47.790 --> 01:50.400
+So there's an example of predictive AI
+
+39
+01:50.400 --> 01:52.140
+and a bottom line benefit.
+
+40
+01:52.140 --> 01:55.200
+So that's what you're gonna be getting in rapid fire
+
+41
+01:55.200 --> 01:56.370
+on our panel today.
+
+42
+01:56.370 --> 01:57.930
+So who wants to start us off?
+
+43
+01:57.930 --> 01:58.920
+How about you, Alyssa?
+
+44
+01:58.920 --> 01:59.753
+<v ->Okay, great.</v>
+
+45
+01:59.753 --> 02:02.100
+Alyssa Altman, I'm from Publicis Sapient.
+
+46
+02:02.100 --> 02:04.320
+And we're a partner with Marriott,
+
+47
+02:04.320 --> 02:06.660
+and in 2020 we worked with them
+
+48
+02:06.660 --> 02:08.730
+to develop Marriott Homes and Villas.
+
+49
+02:08.730 --> 02:11.220
+So I think you're familiar with Airbnb,
+
+50
+02:11.220 --> 02:13.620
+and what Marriott Homes and Villas was
+
+51
+02:13.620 --> 02:16.140
+is their form of Airbnb.
+
+52
+02:16.140 --> 02:19.380
+And was really struggling with people getting on the site,
+
+53
+02:19.380 --> 02:22.200
+figuring out how to define what kind of, you know,
+
+54
+02:22.200 --> 02:23.640
+vacations they wanted.
+
+55
+02:23.640 --> 02:26.250
+So we used generative AI
+
+56
+02:26.250 --> 02:28.980
+to help really change the search mechanism.
+
+57
+02:28.980 --> 02:31.920
+No longer are you coming on to Marriott Homes and Villas
+
+58
+02:31.920 --> 02:34.950
+and looking at a date and looking at a location,
+
+59
+02:34.950 --> 02:36.337
+but you're actually asking them,
+
+60
+02:36.337 --> 02:38.092
+"Hey, I wanna go to California.
+
+61
+02:38.092 --> 02:40.110
+I wanna bring my dog.
+
+62
+02:40.110 --> 02:43.230
+I wanna go to a bachelorette party in the Caribbean."
+
+63
+02:43.230 --> 02:48.030
+And it served up over 140,000 different options.
+
+64
+02:48.030 --> 02:50.970
+And what it also did on the predictive side of it
+
+65
+02:50.970 --> 02:53.430
+is it helped Marriott market better.
+
+66
+02:53.430 --> 02:56.250
+Because what they were able to do is,
+
+67
+02:56.250 --> 02:59.370
+with this tool, be able to understand
+
+68
+02:59.370 --> 03:00.930
+what people were interested in.
+
+69
+03:00.930 --> 03:05.040
+So it helped them predict how to manage their properties,
+
+70
+03:05.040 --> 03:08.730
+how to get people excited about going on vacations
+
+71
+03:08.730 --> 03:10.380
+and scheduling vacations.
+
+72
+03:10.380 --> 03:14.430
+And they have seen over twice the amount of searches,
+
+73
+03:14.430 --> 03:18.210
+which ultimately has translated into increased revenue.
+
+74
+03:18.210 --> 03:19.170
+<v ->Love that case.</v>
+
+75
+03:19.170 --> 03:20.910
+Thanks Alyssa.
+
+76
+03:20.910 --> 03:21.990
+Do you want to jump in, Nick?
+
+77
+03:21.990 --> 03:22.823
+<v ->Sure.</v>
+
+78
+03:22.823 --> 03:26.220
+So first, thanks Jim and the panelists and the attendees
+
+79
+03:26.220 --> 03:29.130
+for the opportunity to share the HARMAN story.
+
+80
+03:29.130 --> 03:30.900
+And thanks to our 30,000 employees
+
+81
+03:30.900 --> 03:33.240
+who deliver connected experiences,
+
+82
+03:33.240 --> 03:36.180
+intelligent using AI in the car,
+
+83
+03:36.180 --> 03:37.800
+in the home and in the enterprise.
+
+84
+03:37.800 --> 03:40.230
+You know, we're incredibly proud of the work that we do
+
+85
+03:40.230 --> 03:42.240
+as a Samsung company.
+
+86
+03:42.240 --> 03:44.430
+I would start out with the enterprise, you know.
+
+87
+03:44.430 --> 03:46.290
+And we all experienced what it was like
+
+88
+03:46.290 --> 03:49.740
+during the supply chain semiconductor crisis, you know,
+
+89
+03:49.740 --> 03:54.740
+having a massive effect on our ability to build, deliver,
+
+90
+03:55.770 --> 03:58.920
+and you know, get products in the hands of customers.
+
+91
+03:58.920 --> 04:02.970
+And so we were very fortunate to build a ForecastGPT,
+
+92
+04:02.970 --> 04:07.320
+which is available on the AWS Marketplace,
+
+93
+04:07.320 --> 04:10.920
+to help improve demand forecasting, inventory optimization,
+
+94
+04:10.920 --> 04:12.810
+and most importantly delight customers.
+
+95
+04:12.810 --> 04:15.210
+You know, there's nothing worse when you go online
+
+96
+04:15.210 --> 04:17.790
+and you want to order something and it's unavailable,
+
+97
+04:17.790 --> 04:20.760
+or there's nothing worse than having a parked car
+
+98
+04:20.760 --> 04:22.320
+waiting for a head unit to show up.
+
+99
+04:22.320 --> 04:25.350
+And so our ability to really improve the demand forecast
+
+100
+04:25.350 --> 04:27.660
+and the accuracy for our consumers
+
+101
+04:27.660 --> 04:30.090
+in the consumer audio space on jbl.com,
+
+102
+04:30.090 --> 04:33.210
+our ability to commit to our OEMs
+
+103
+04:33.210 --> 04:35.400
+for delivery of a digital cockpit
+
+104
+04:35.400 --> 04:38.400
+and car premium audio speakers,
+
+105
+04:38.400 --> 04:42.120
+our ability to commit to those demands is really important.
+
+106
+04:42.120 --> 04:45.360
+And then manage our supply chain effectively
+
+107
+04:45.360 --> 04:50.360
+on inventory optimization, we reduced our inventory by 14%.
+
+108
+04:50.520 --> 04:51.450
+So when you're talking about
+
+109
+04:51.450 --> 04:55.020
+billions of dollars of material, the ability to ensure
+
+110
+04:55.020 --> 04:57.780
+that you're getting the right product
+
+111
+04:57.780 --> 04:59.910
+at the right place at the right time
+
+112
+04:59.910 --> 05:02.430
+and managing that working capital,
+
+113
+05:02.430 --> 05:04.890
+to use that working capital for more R&amp;D capabilities
+
+114
+05:04.890 --> 05:06.570
+is pretty remarkable.
+
+115
+05:06.570 --> 05:10.980
+The GPT itself is built on ChatGPT
+
+116
+05:10.980 --> 05:15.980
+with a Mistral 7B on SageMaker, and it's 88% accurate.
+
+117
+05:16.710 --> 05:18.360
+So we're really proud of that.
+
+118
+05:18.360 --> 05:19.710
+We're continuing to find ways
+
+119
+05:19.710 --> 05:22.440
+to optimize the demand and sales
+
+120
+05:22.440 --> 05:23.790
+and finance and supply chain.
+
+121
+05:23.790 --> 05:26.760
+But that's one great example of what we're using AI for
+
+122
+05:26.760 --> 05:29.640
+to delight customers and not disappoint.
+
+123
+05:29.640 --> 05:30.990
+<v ->This is a great example.</v>
+
+124
+05:30.990 --> 05:32.130
+And for those of you
+
+125
+05:32.130 --> 05:34.950
+who were at Jensen's keynote from NVIDIA,
+
+126
+05:34.950 --> 05:38.880
+he was talking about running multiple scenarios
+
+127
+05:38.880 --> 05:39.870
+in a warehouse
+
+128
+05:39.870 --> 05:43.890
+around inventory management and optimization and logistics,
+
+129
+05:43.890 --> 05:46.320
+almost like doing Monte Carlos.
+
+130
+05:46.320 --> 05:49.740
+And so we're gonna see more of this kind of predictive AI
+
+131
+05:49.740 --> 05:51.930
+on how to optimize the supply chain.
+
+132
+05:51.930 --> 05:53.661
+So great example, Nick.
+
+133
+05:53.661 --> 05:56.040
+Who wants to jump in next?
+
+134
+05:56.040 --> 05:57.416
+<v ->I think I can go next.</v>
+
+135
+05:57.416 --> 05:58.983
+Mamatha Chamarthi,
+
+136
+05:58.983 --> 06:01.770
+'til four months ago I was with Stellantis,
+
+137
+06:01.770 --> 06:05.130
+so my experience spans across OEMs
+
+138
+06:05.130 --> 06:07.410
+as well as tier one suppliers.
+
+139
+06:07.410 --> 06:09.960
+And today I am with Goodyear,
+
+140
+06:09.960 --> 06:12.570
+I joined Goodyear about four months ago,
+
+141
+06:12.570 --> 06:14.010
+Goodyear Tire and Rubber Company.
+
+142
+06:14.010 --> 06:17.280
+So I'll start with an example from Stellantis
+
+143
+06:17.280 --> 06:20.610
+and then talk to you about how you can take something
+
+144
+06:20.610 --> 06:22.887
+that was applied at Stellantis
+
+145
+06:22.887 --> 06:25.950
+and how it could be applied at a tier one supplier.
+
+146
+06:25.950 --> 06:28.170
+So when you look at a car,
+
+147
+06:28.170 --> 06:30.780
+and I think everyone knows this,
+
+148
+06:30.780 --> 06:33.270
+that the typical design of the car
+
+149
+06:33.270 --> 06:35.340
+takes five to seven years.
+
+150
+06:35.340 --> 06:38.220
+And through a lot of continuous improvement
+
+151
+06:38.220 --> 06:42.780
+and process improvement and engineering improvement efforts,
+
+152
+06:42.780 --> 06:46.680
+we as OEEs have been able to reduce that five to seven years
+
+153
+06:46.680 --> 06:48.240
+to three to five years.
+
+154
+06:48.240 --> 06:49.620
+And we were still looking at
+
+155
+06:49.620 --> 06:54.240
+how can we bring a product to market quicker
+
+156
+06:54.240 --> 06:56.160
+and start with the customer experience
+
+157
+06:56.160 --> 06:57.450
+and start working backwards
+
+158
+06:57.450 --> 07:01.500
+and defining what would be the ideal concept of the car
+
+159
+07:01.500 --> 07:04.517
+that would appeal to our customers?
+
+160
+07:04.517 --> 07:07.760
+And speed to market of the design
+
+161
+07:07.760 --> 07:10.110
+and testing it out with the customers
+
+162
+07:10.110 --> 07:12.240
+was very, very important.
+
+163
+07:12.240 --> 07:15.090
+And there was also an additional problem,
+
+164
+07:15.090 --> 07:19.440
+attracting talent into the design office
+
+165
+07:19.440 --> 07:21.570
+was also kind of going down.
+
+166
+07:21.570 --> 07:22.980
+That was not that many people
+
+167
+07:22.980 --> 07:26.070
+that were getting into the Center of Creative Studies
+
+168
+07:26.070 --> 07:27.390
+and those kind of institutes.
+
+169
+07:27.390 --> 07:29.790
+So it was a bit of a talent problem
+
+170
+07:29.790 --> 07:32.490
+but also speed to market problem.
+
+171
+07:32.490 --> 07:36.780
+And so what we did was we took all of the concepts
+
+172
+07:36.780 --> 07:38.880
+and all of the production vehicles
+
+173
+07:38.880 --> 07:41.430
+and all of the specs that we had
+
+174
+07:41.430 --> 07:44.550
+across the 14 brands of Stellantis
+
+175
+07:44.550 --> 07:48.333
+and fed into this design GPT.
+
+176
+07:49.380 --> 07:53.400
+And so the new designers that we were hiring,
+
+177
+07:53.400 --> 07:55.920
+they didn't have to start from scratch
+
+178
+07:55.920 --> 07:59.940
+and then build a clay model, go through this entire process.
+
+179
+07:59.940 --> 08:04.410
+But what they did was started as prompt engineers
+
+180
+08:04.410 --> 08:08.890
+asking DesignGPT, "I want to design a new concept for Jeep
+
+181
+08:10.170 --> 08:13.290
+and I want it to reflect the true personality
+
+182
+08:13.290 --> 08:16.470
+and the brand uniqueness of a Jeep.
+
+183
+08:16.470 --> 08:18.630
+But I want it to be an EV
+
+184
+08:18.630 --> 08:21.420
+and taking the attributes of the EV."
+
+185
+08:21.420 --> 08:24.300
+And my target segment of the customers
+
+186
+08:24.300 --> 08:26.783
+that I'm going after for this,
+
+187
+08:26.783 --> 08:30.090
+defining it at a micro segment level.
+
+188
+08:30.090 --> 08:33.960
+And into this design GPT, by doing this,
+
+189
+08:33.960 --> 08:36.063
+they got really a jumpstart.
+
+190
+08:37.260 --> 08:39.690
+And so this is a multimodal search,
+
+191
+08:39.690 --> 08:41.520
+that it's not just a text search,
+
+192
+08:41.520 --> 08:45.480
+but you're sending CAD drawings, you're sending all of these
+
+193
+08:45.480 --> 08:49.530
+and then getting back CAD images
+
+194
+08:49.530 --> 08:53.640
+of what this new concept car could look like.
+
+195
+08:53.640 --> 08:58.640
+And it gave almost close to a 40% jumpstart
+
+196
+08:59.430 --> 09:01.740
+into the design process.
+
+197
+09:01.740 --> 09:04.410
+Including the interior design, not just the exterior design,
+
+198
+09:04.410 --> 09:06.600
+interior design, exterior design,
+
+199
+09:06.600 --> 09:09.180
+and I would call it the phygital experience,
+
+200
+09:09.180 --> 09:11.850
+the physical experience and the digital experience
+
+201
+09:11.850 --> 09:14.220
+augmenting the personality of the brand.
+
+202
+09:14.220 --> 09:16.230
+Now how do we apply it to Goodyear?
+
+203
+09:16.230 --> 09:19.829
+So if you look at Goodyear and a tire, tire has a mold,
+
+204
+09:19.829 --> 09:22.080
+tire has tire engineering,
+
+205
+09:22.080 --> 09:26.760
+which is rubber, fabric, metal giving it the structure,
+
+206
+09:26.760 --> 09:29.970
+and then you have material science, lots of composites,
+
+207
+09:29.970 --> 09:32.400
+almost close to 250 chemicals
+
+208
+09:32.400 --> 09:34.470
+and synthetic and natural rubber
+
+209
+09:34.470 --> 09:36.180
+that goes into making of a tire.
+
+210
+09:36.180 --> 09:38.580
+Which I did not know coming from the OEE.
+
+211
+09:38.580 --> 09:40.590
+I was thinking car is very complex,
+
+212
+09:40.590 --> 09:43.770
+but tire is equally complex, that I learned.
+
+213
+09:43.770 --> 09:47.970
+And what we are trying now is a similar kind of
+
+214
+09:47.970 --> 09:49.563
+how do we accelerate?
+
+215
+09:50.700 --> 09:54.630
+Bringing a new tire to market is a two year timeline.
+
+216
+09:54.630 --> 09:57.180
+So how do we cut down the two year
+
+217
+09:57.180 --> 10:01.740
+and be a lot more competitive and bring the price down
+
+218
+10:01.740 --> 10:04.890
+and then bring the tire to market quicker?
+
+219
+10:04.890 --> 10:06.240
+<v ->This is a great example.</v>
+
+220
+10:06.240 --> 10:10.680
+And in my opinion, it is the least understood aspect of AI,
+
+221
+10:10.680 --> 10:14.250
+the benefit, cycle times and speed.
+
+222
+10:14.250 --> 10:17.010
+And you know, they say time is money.
+
+223
+10:17.010 --> 10:19.380
+Well, if you can take five to seven years
+
+224
+10:19.380 --> 10:21.930
+down to three to five years, that's a huge difference.
+
+225
+10:21.930 --> 10:24.956
+We're gonna finish out the first round with Davie.
+
+226
+10:24.956 --> 10:26.129
+<v ->Thank you, Jim.</v>
+<v ->Davie, what's the case study</v>
+
+227
+10:26.129 --> 10:27.390
+you want to throw in?
+
+228
+10:27.390 --> 10:29.370
+<v ->I'm happy to be here, thanks for having me.</v>
+
+229
+10:29.370 --> 10:30.930
+Jumping right in, I think the first one
+
+230
+10:30.930 --> 10:34.530
+I would bring from Bosch is one we call Super Technician,
+
+231
+10:34.530 --> 10:36.660
+one we call Super Technician.
+
+232
+10:36.660 --> 10:39.390
+If you take your car to a service center,
+
+233
+10:39.390 --> 10:41.370
+what's probably happening behind the scenes
+
+234
+10:41.370 --> 10:44.040
+is you have one master technician back there
+
+235
+10:44.040 --> 10:48.390
+that's been there 25, 35 years that knows everything.
+
+236
+10:48.390 --> 10:51.510
+And then you have about 20, 30 technicians.
+
+237
+10:51.510 --> 10:56.510
+And what we found is that these technicians rely heavily
+
+238
+10:56.520 --> 10:58.260
+on this master technician.
+
+239
+10:58.260 --> 11:02.760
+This person knows the million potential diagnostic codes
+
+240
+11:02.760 --> 11:03.930
+that are coming out.
+
+241
+11:03.930 --> 11:07.320
+This person knows who to contact, which OEM to contact.
+
+242
+11:07.320 --> 11:10.230
+This person knows which website to go to to find the answer.
+
+243
+11:10.230 --> 11:11.880
+But this is normally one person,
+
+244
+11:11.880 --> 11:14.310
+and you have 20, 30 technicians
+
+245
+11:14.310 --> 11:15.900
+that are relying on this person.
+
+246
+11:15.900 --> 11:17.820
+So you can imagine there's a bottleneck.
+
+247
+11:17.820 --> 11:21.750
+It could take hours if not days to find this information.
+
+248
+11:21.750 --> 11:24.090
+And so when you consider this
+
+249
+11:24.090 --> 11:27.150
+and you consider the positioning of Bosch in this market
+
+250
+11:27.150 --> 11:29.610
+with over 35,000 service centers
+
+251
+11:29.610 --> 11:32.430
+and the data that we have is really the holy grail,
+
+252
+11:32.430 --> 11:35.340
+the question is, and I'm sure we all have
+
+253
+11:35.340 --> 11:39.150
+sort of this kind of problem where we have this data,
+
+254
+11:39.150 --> 11:41.370
+we just dunno how to get it out and to use it.
+
+255
+11:41.370 --> 11:44.580
+And so this is exactly where we started using AI.
+
+256
+11:44.580 --> 11:47.823
+We used some LLMs, a little bit of knowledge graph,
+
+257
+11:48.690 --> 11:52.170
+and we built an interface that allows these technicians
+
+258
+11:52.170 --> 11:55.590
+to all of a sudden become a master technician overnight.
+
+259
+11:55.590 --> 11:59.340
+So you can imagine that impact on the business
+
+260
+11:59.340 --> 12:00.187
+when you start to say,
+
+261
+12:00.187 --> 12:02.760
+"I've now taken it from multiple days
+
+262
+12:02.760 --> 12:06.300
+into really instant responses."
+
+263
+12:06.300 --> 12:08.460
+And also the relief of the master technician
+
+264
+12:08.460 --> 12:10.080
+who now doesn't have to support 20 to 30,
+
+265
+12:10.080 --> 12:13.050
+who can also then work on the more strategic aspects
+
+266
+12:13.050 --> 12:14.610
+of their daily job.
+
+267
+12:14.610 --> 12:17.820
+So it's a way that you can start to think,
+
+268
+12:17.820 --> 12:20.190
+it doesn't just impact the major service centers,
+
+269
+12:20.190 --> 12:23.100
+it also impacts the ma and pa shops
+
+270
+12:23.100 --> 12:26.250
+that are looking to really bring productivity
+
+271
+12:26.250 --> 12:30.240
+and efficiency into their line of use.
+
+272
+12:30.240 --> 12:33.870
+Really bringing everyone these technicians as AI-assisted.
+
+273
+12:33.870 --> 12:35.850
+And that's a little bit of how we look
+
+274
+12:35.850 --> 12:38.760
+at where AI can come in in this AI assistant world.
+
+275
+12:38.760 --> 12:40.020
+<v ->This is a great example.</v>
+
+276
+12:40.020 --> 12:43.140
+We talked about speed in the last use case.
+
+277
+12:43.140 --> 12:43.973
+This is,
+
+278
+12:43.973 --> 12:47.220
+think about time to competence for a new technician.
+
+279
+12:47.220 --> 12:49.260
+So they're only three months on the job,
+
+280
+12:49.260 --> 12:52.710
+but with the AI, it's like three years of competence
+
+281
+12:52.710 --> 12:53.850
+that they can access.
+
+282
+12:53.850 --> 12:56.760
+So amazing case study.
+
+283
+12:56.760 --> 12:59.250
+Alyssa, you started, so we'll come to you,
+
+284
+12:59.250 --> 13:00.870
+Nick, for round two.
+
+285
+13:00.870 --> 13:04.530
+And I think Nick's gonna talk about saving lives.
+
+286
+13:04.530 --> 13:06.810
+And I don't know if you know,
+
+287
+13:06.810 --> 13:11.810
+but there are 45,000 deaths every year on US roads
+
+288
+13:12.720 --> 13:14.550
+due to driver error.
+
+289
+13:14.550 --> 13:17.400
+And 5.2 million people go to hospital
+
+290
+13:17.400 --> 13:19.320
+because of car accidents.
+
+291
+13:19.320 --> 13:20.790
+Now that's just the US numbers.
+
+292
+13:20.790 --> 13:22.050
+When you look globally,
+
+293
+13:22.050 --> 13:24.510
+all those numbers are in the millions.
+
+294
+13:24.510 --> 13:28.470
+So distracted driving, drowsy driving,
+
+295
+13:28.470 --> 13:30.720
+these are huge problems.
+
+296
+13:30.720 --> 13:33.840
+What maybe is a case study around this?
+
+297
+13:33.840 --> 13:35.280
+<v ->Yeah, so we talked about the enterprise,</v>
+
+298
+13:35.280 --> 13:36.720
+and now talking about, you know,
+
+299
+13:36.720 --> 13:38.730
+intelligent experiences in cabin.
+
+300
+13:38.730 --> 13:43.360
+And you know, and certainly our ready products available
+
+301
+13:44.220 --> 13:45.450
+are really important to us.
+
+302
+13:45.450 --> 13:48.269
+And one of the really important areas that you mentioned
+
+303
+13:48.269 --> 13:53.269
+is improving the driver safety and our Ready Care product.
+
+304
+13:54.000 --> 13:56.550
+And our CTO Armin Prommersberger is in the back,
+
+305
+13:56.550 --> 13:58.950
+so I'm sure he'll do it more justice than I.
+
+306
+13:58.950 --> 14:01.050
+But really, he and his team are remarkable
+
+307
+14:01.050 --> 14:02.100
+at what they've done.
+
+308
+14:03.120 --> 14:06.030
+But they're using a camera
+
+309
+14:06.030 --> 14:10.140
+and machine learning sensors in the car
+
+310
+14:10.140 --> 14:13.350
+to determine not only drowsiness of the driver
+
+311
+14:13.350 --> 14:15.030
+but cognitive load on the brain
+
+312
+14:15.030 --> 14:18.060
+and distractedness in the eye movements
+
+313
+14:18.060 --> 14:20.430
+from the camera and the intelligence.
+
+314
+14:20.430 --> 14:22.080
+We've collected petabytes worth of data
+
+315
+14:22.080 --> 14:27.080
+to learn how people get distracted.
+
+316
+14:27.960 --> 14:31.740
+And so not only is it, you know, being able to determine
+
+317
+14:31.740 --> 14:33.450
+the distractedness of the driver,
+
+318
+14:33.450 --> 14:37.409
+but it's also the stress of the driver, the blood pressure,
+
+319
+14:37.409 --> 14:38.940
+the breathing rhythms.
+
+320
+14:38.940 --> 14:41.100
+And so being able to monitor that,
+
+321
+14:41.100 --> 14:44.790
+but then create some interventions and change
+
+322
+14:44.790 --> 14:47.640
+and make notifications to the driver,
+
+323
+14:47.640 --> 14:51.870
+change the controls, simplify the digital cockpit.
+
+324
+14:51.870 --> 14:55.563
+Or perhaps suggest, you know, soothing music.
+
+325
+14:56.400 --> 14:58.530
+These are all immersive, intelligent things
+
+326
+14:58.530 --> 15:00.900
+that Armin and his team are doing
+
+327
+15:00.900 --> 15:02.430
+in these Ready Care offerings
+
+328
+15:02.430 --> 15:03.960
+with the use of artificial intelligence
+
+329
+15:03.960 --> 15:05.455
+and machine learning.
+
+330
+15:05.455 --> 15:08.730
+So again, as we continue to find ways
+
+331
+15:08.730 --> 15:10.770
+to improve this immersive experience,
+
+332
+15:10.770 --> 15:12.420
+the Ready Care offerings and products
+
+333
+15:12.420 --> 15:13.680
+are really important to us.
+
+334
+15:13.680 --> 15:17.940
+<v ->So my car, if it suggests I listen to classical music,</v>
+
+335
+15:17.940 --> 15:19.320
+it's telling me I'm stressed.
+
+336
+15:19.320 --> 15:23.400
+And if it says stop for caffeine, I'm too drowsy.
+
+337
+15:23.400 --> 15:24.268
+<v ->You're gonna get some advice.</v>
+
+338
+15:24.268 --> 15:25.101
+<v ->You know, it's gonna give me advice</v>
+
+339
+15:25.101 --> 15:26.130
+one way or another, is it?
+
+340
+15:26.130 --> 15:26.963
+I love it.
+
+341
+15:28.741 --> 15:30.250
+Mamatha, what do you think?
+
+342
+15:30.250 --> 15:32.730
+<v ->Okay, so I'll extend on that same example</v>
+
+343
+15:32.730 --> 15:34.830
+of the intelligent cockpit
+
+344
+15:34.830 --> 15:37.500
+and this whole phygital experience,
+
+345
+15:37.500 --> 15:41.040
+again, starting with Stellantis and applying it to Goodyear.
+
+346
+15:41.040 --> 15:46.020
+So as we came together, Fiat, Chrysler and PSA
+
+347
+15:46.020 --> 15:48.270
+and we became Stellantis,
+
+348
+15:48.270 --> 15:50.697
+and we looked at the 14 brands and we said,
+
+349
+15:50.697 --> 15:53.400
+"We need to start working backwards
+
+350
+15:53.400 --> 15:57.420
+from the customer experience and what is it that they want,
+
+351
+15:57.420 --> 15:59.100
+to the tech platforms
+
+352
+15:59.100 --> 16:01.170
+and how we are going to commercialize."
+
+353
+16:01.170 --> 16:02.707
+But we started with a customer and said,
+
+354
+16:02.707 --> 16:05.100
+"What is that experience that we want to provide
+
+355
+16:05.100 --> 16:06.360
+to the customer?"
+
+356
+16:06.360 --> 16:10.320
+And we started looking at when a customer is buying a brand
+
+357
+16:10.320 --> 16:15.320
+like a Jeep for example, it has 4x4 capability
+
+358
+16:15.930 --> 16:19.080
+and it has all of this fantastic capabilities.
+
+359
+16:19.080 --> 16:21.780
+But imagine it's snowing outside.
+
+360
+16:21.780 --> 16:23.280
+Tomorrow I'm going to go to Michigan
+
+361
+16:23.280 --> 16:25.233
+and I'll witness that firsthand.
+
+362
+16:26.490 --> 16:30.210
+There could be like six inches of snow on the road
+
+363
+16:30.210 --> 16:32.310
+and you're entering into the car.
+
+364
+16:32.310 --> 16:33.720
+And how is that scenario?
+
+365
+16:33.720 --> 16:35.640
+Let me visualize that for you.
+
+366
+16:35.640 --> 16:39.090
+You could be in your home,
+
+367
+16:39.090 --> 16:41.400
+turn on your remote start in the car,
+
+368
+16:41.400 --> 16:43.320
+and hopefully by the time you get to the car
+
+369
+16:43.320 --> 16:45.300
+the snow has cleared on the window.
+
+370
+16:45.300 --> 16:48.810
+But the car does not have that intelligence to say,
+
+371
+16:48.810 --> 16:50.850
+the car is in a sports mode,
+
+372
+16:50.850 --> 16:55.650
+it needs to go into snow mode, right?
+
+373
+16:55.650 --> 16:59.100
+It's a Jeep 4x4 with all of the capabilities
+
+374
+16:59.100 --> 17:01.590
+that it could go, it could take that
+
+375
+17:01.590 --> 17:04.290
+and go to that vehicle signal.
+
+376
+17:04.290 --> 17:06.120
+So how do I get that intelligence
+
+377
+17:06.120 --> 17:10.620
+from the weather to the car and inform the car
+
+378
+17:10.620 --> 17:13.170
+not only to set the cabin temperature
+
+379
+17:13.170 --> 17:16.410
+to a comfortable ambient temperature,
+
+380
+17:16.410 --> 17:17.730
+including reducing the stress
+
+381
+17:17.730 --> 17:19.230
+that you were talking about, Nick,
+
+382
+17:19.230 --> 17:21.000
+and playing some soft music
+
+383
+17:21.000 --> 17:25.050
+because the snow driving is going to be extremely stressful
+
+384
+17:25.050 --> 17:26.400
+with slippery conditions.
+
+385
+17:26.400 --> 17:29.045
+And only a Jeep can take you anywhere, by the way.
+
+386
+17:29.045 --> 17:31.045
+(panelists laughing)
+
+387
+17:31.045 --> 17:32.520
+So, but how do you send that intelligence
+
+388
+17:32.520 --> 17:34.110
+so by the time you sit in the car,
+
+389
+17:34.110 --> 17:37.080
+it's not only the snow around the car is cleared up,
+
+390
+17:37.080 --> 17:40.080
+but it's set into the snow mode
+
+391
+17:40.080 --> 17:42.270
+and your drive is super comfortable?
+
+392
+17:42.270 --> 17:45.600
+And I am talking about this with a real example
+
+393
+17:45.600 --> 17:49.830
+of me trying to get to work in 45 minutes
+
+394
+17:49.830 --> 17:51.390
+to go to a town hall,
+
+395
+17:51.390 --> 17:54.360
+and I'm trying to drive, look at the street,
+
+396
+17:54.360 --> 17:57.600
+and fumble with changing the mode.
+
+397
+17:57.600 --> 17:59.040
+That is distracted driving.
+
+398
+17:59.040 --> 18:02.160
+That's the 2.5 million accidents that you're talking about
+
+399
+18:02.160 --> 18:03.960
+that are going to the hospital.
+
+400
+18:03.960 --> 18:06.000
+So you talk about contextualized
+
+401
+18:06.000 --> 18:09.300
+and personalized experience to that customer
+
+402
+18:09.300 --> 18:11.790
+that deepens their association with the brand.
+
+403
+18:11.790 --> 18:14.557
+And you start creating a digital mode and you say,
+
+404
+18:14.557 --> 18:17.490
+"If my Jeep provides this kind of an experience,
+
+405
+18:17.490 --> 18:21.360
+I want to buy a Jeep again and again and again,
+
+406
+18:21.360 --> 18:25.200
+because it's deepening my connection to my brand."
+
+407
+18:25.200 --> 18:27.450
+Now when I start looking at Goodyear,
+
+408
+18:27.450 --> 18:30.150
+Goodyear has about 570 service centers,
+
+409
+18:30.150 --> 18:32.403
+similar to what you've talked about at Bosch.
+
+410
+18:33.330 --> 18:36.120
+And it's pretty similar thing, like, you know,
+
+411
+18:36.120 --> 18:38.070
+it's a very transactional relationship
+
+412
+18:38.070 --> 18:39.600
+we have with the customer.
+
+413
+18:39.600 --> 18:40.920
+A customer has a flat tire,
+
+414
+18:40.920 --> 18:43.530
+they have an option of going to a Bridgestone,
+
+415
+18:43.530 --> 18:46.110
+they have an option of going to Goodyear,
+
+416
+18:46.110 --> 18:48.360
+or going to a mom and pop store
+
+417
+18:48.360 --> 18:49.950
+or Discount Tires, Belle Tires.
+
+418
+18:49.950 --> 18:54.750
+There's umpteen number of competitors in this mix.
+
+419
+18:54.750 --> 18:57.270
+It's a very overcrowded space.
+
+420
+18:57.270 --> 19:01.080
+But in this overcrowded space, no one has figured out
+
+421
+19:01.080 --> 19:03.840
+how do I take this transactional relationship
+
+422
+19:03.840 --> 19:05.740
+to a lifetime value with the customer?
+
+423
+19:06.960 --> 19:08.100
+So what do I need?
+
+424
+19:08.100 --> 19:10.440
+I need vehicle intelligence
+
+425
+19:10.440 --> 19:14.640
+to predict when that weather change of summer tires
+
+426
+19:14.640 --> 19:16.320
+to winter tires happen.
+
+427
+19:16.320 --> 19:18.517
+So I can send a notice to Alyssa and saying,
+
+428
+19:18.517 --> 19:22.710
+"Alyssa, you have a Mercedes GLS 63 AMG.
+
+429
+19:22.710 --> 19:24.240
+Why don't you come in
+
+430
+19:24.240 --> 19:27.810
+and we will change your summer tires to your winter tires?
+
+431
+19:27.810 --> 19:30.990
+And we will store those summer tires for you,
+
+432
+19:30.990 --> 19:33.570
+and we'll notify you when your summer tires
+
+433
+19:33.570 --> 19:35.430
+need to be put on your car again."
+
+434
+19:35.430 --> 19:37.920
+That for me is a lifetime value.
+
+435
+19:37.920 --> 19:40.230
+That for me is building loyalty with the customer.
+
+436
+19:40.230 --> 19:42.600
+That for me says, when I think service,
+
+437
+19:42.600 --> 19:43.980
+I'll always think Goodyear.
+
+438
+19:43.980 --> 19:46.530
+And when I think tires, I'll always think Goodyear.
+
+439
+19:47.730 --> 19:49.050
+<v ->This is a great case study,</v>
+
+440
+19:49.050 --> 19:52.410
+'cause I have to remember every year
+
+441
+19:52.410 --> 19:55.620
+when my insurance gives me a, I live in Canada.
+
+442
+19:55.620 --> 19:58.080
+You can feel sorry for me with the snow.
+
+443
+19:58.080 --> 20:02.220
+But when I have to go change my tires,
+
+444
+20:02.220 --> 20:05.100
+and by the time we call, you know,
+
+445
+20:05.100 --> 20:07.683
+Mercedes-Benz is all jammed up with, you know,
+
+446
+20:08.757 --> 20:12.000
+300,000 people wanting to change their tires.
+
+447
+20:12.000 --> 20:14.340
+So early warning would be a great thing.
+
+448
+20:14.340 --> 20:15.873
+<v ->Exactly, exactly.</v>
+
+449
+20:17.220 --> 20:21.360
+<v ->Davie, what do you want to throw into this round?</v>
+
+450
+20:21.360 --> 20:22.950
+<v ->I mean, we're talking about use cases.</v>
+
+451
+20:22.950 --> 20:25.503
+So maybe a little bit different.
+
+452
+20:26.490 --> 20:30.630
+I mean, we've been through a scaling of technology before,
+
+453
+20:30.630 --> 20:33.120
+at least I think many of us have.
+
+454
+20:33.120 --> 20:35.070
+And when I look at data patterns
+
+455
+20:35.070 --> 20:37.410
+on how do you approach AI or gen AI,
+
+456
+20:37.410 --> 20:38.610
+you look a little bit in the past
+
+457
+20:38.610 --> 20:39.930
+to see how we've done it in the past.
+
+458
+20:39.930 --> 20:42.240
+And that really helps break the big problem
+
+459
+20:42.240 --> 20:43.080
+into smaller pieces.
+
+460
+20:43.080 --> 20:45.840
+And one thing that we've done very well,
+
+461
+20:45.840 --> 20:48.510
+or we've done I guess quite a lot over the past years
+
+462
+20:48.510 --> 20:49.710
+is automation,
+
+463
+20:49.710 --> 20:52.920
+especially when you talk about internal processes,
+
+464
+20:52.920 --> 20:55.950
+looking again for productivity and efficiencies and impact.
+
+465
+20:55.950 --> 20:58.920
+And if you think about, at least at Bosch,
+
+466
+20:58.920 --> 21:01.800
+if you take the experience that we've built
+
+467
+21:01.800 --> 21:03.990
+and hundreds of thousands of bot hours
+
+468
+21:03.990 --> 21:05.523
+that have been processed,
+
+469
+21:06.630 --> 21:09.330
+gen AI or AI in that same sense
+
+470
+21:09.330 --> 21:10.920
+is a little bit of that same pattern.
+
+471
+21:10.920 --> 21:14.910
+And so you can kind of build on that experience.
+
+472
+21:14.910 --> 21:17.640
+I mean, it's about finding technology platforms
+
+473
+21:17.640 --> 21:21.720
+or technology that fits within your security
+
+474
+21:21.720 --> 21:24.120
+and privacy requirements.
+
+475
+21:24.120 --> 21:27.090
+It's about finding tools that are easy to use
+
+476
+21:27.090 --> 21:28.680
+in self-service
+
+477
+21:28.680 --> 21:31.982
+that allows you to build on your citizen development aspects
+
+478
+21:31.982 --> 21:35.520
+when you're starting to talk about gen AI or AI.
+
+479
+21:35.520 --> 21:37.890
+And then finally it's about not leaving behind your people,
+
+480
+21:37.890 --> 21:41.520
+because it's a very scary time in our organization
+
+481
+21:41.520 --> 21:44.310
+when you start thinking about how AI is going to impact us
+
+482
+21:44.310 --> 21:45.420
+and our world.
+
+483
+21:45.420 --> 21:48.540
+And so if you look at that, and start to think about
+
+484
+21:48.540 --> 21:49.950
+how you can start to implement that,
+
+485
+21:49.950 --> 21:51.570
+that's maybe the next use case,
+
+486
+21:51.570 --> 21:54.990
+is we've built what we've call Ask Bosch,
+
+487
+21:54.990 --> 21:58.320
+which is an internal platform which allows our users
+
+488
+21:58.320 --> 22:02.940
+to build, experiment and innovate in a very safe way, right?
+
+489
+22:02.940 --> 22:04.560
+So with some guard rails
+
+490
+22:04.560 --> 22:06.840
+that allows us to really experiment.
+
+491
+22:06.840 --> 22:10.290
+And what we found is some really great examples
+
+492
+22:10.290 --> 22:11.640
+that have come out,
+
+493
+22:11.640 --> 22:13.500
+what I would say is more on the long tail
+
+494
+22:13.500 --> 22:15.630
+of where AI or gen AI is
+
+495
+22:15.630 --> 22:18.060
+and really how citizen development
+
+496
+22:18.060 --> 22:20.400
+can bring a lot of a lot of value.
+
+497
+22:20.400 --> 22:24.390
+One thing, if you think about our indirect procurement,
+
+498
+22:24.390 --> 22:27.810
+as a buyer, you have access to 90,000 contracts.
+
+499
+22:27.810 --> 22:30.270
+Each contract has 20 pages.
+
+500
+22:30.270 --> 22:32.190
+Every time you have a single question about that,
+
+501
+22:32.190 --> 22:34.830
+you have 30 clicks to come to your answer,
+
+502
+22:34.830 --> 22:36.270
+28 different languages.
+
+503
+22:36.270 --> 22:40.347
+I mean, it's a prime example of being able to use LLMs
+
+504
+22:40.347 --> 22:43.740
+and a RAG solution to bring a very easy way
+
+505
+22:43.740 --> 22:45.870
+to bring a lot of efficiency and impact.
+
+506
+22:45.870 --> 22:47.330
+It makes your buyers happy,
+
+507
+22:47.330 --> 22:49.860
+it makes your customers happy, it makes your people happy.
+
+508
+22:49.860 --> 22:51.990
+And at the end of the day, that's really the target
+
+509
+22:51.990 --> 22:55.803
+as we start to look at how AI can really make impact.
+
+510
+22:56.910 --> 22:59.130
+<v ->This is really interesting.</v>
+
+511
+22:59.130 --> 23:01.530
+We work around the world.
+
+512
+23:01.530 --> 23:04.590
+And I recorded a webinar about a month ago,
+
+513
+23:04.590 --> 23:08.910
+it just passed 1.1 million views yesterday.
+
+514
+23:08.910 --> 23:12.480
+It's called the AI Revolution with Jim Harris.
+
+515
+23:12.480 --> 23:14.280
+And, look it up.
+
+516
+23:14.280 --> 23:18.630
+But I start with a 30 second piece in English,
+
+517
+23:18.630 --> 23:23.460
+and then it's in Chinese and then it's in German
+
+518
+23:23.460 --> 23:26.940
+and then Hindi and then Spanish and French.
+
+519
+23:26.940 --> 23:29.557
+And the first time I did it, a woman came up to me and said,
+
+520
+23:29.557 --> 23:32.730
+"Jim, your Mandarin was perfect."
+
+521
+23:32.730 --> 23:35.310
+And I said (speaking Mandarin) which is thank you,
+
+522
+23:35.310 --> 23:37.170
+the only word I know in Mandarin.
+
+523
+23:37.170 --> 23:41.280
+And so really, it's how can we use AI,
+
+524
+23:41.280 --> 23:46.200
+and this is a tool called HeyGen, how can we use AI,
+
+525
+23:46.200 --> 23:48.810
+given that we work in many countries
+
+526
+23:48.810 --> 23:53.340
+with many different manuals, and boom.
+
+527
+23:53.340 --> 23:56.070
+And always adding value for our customer.
+
+528
+23:56.070 --> 23:58.470
+We're gonna come for round two to you Alyssa,
+
+529
+23:58.470 --> 24:00.900
+for the last word on round two.
+
+530
+24:00.900 --> 24:04.680
+<v ->All right, well, so we work with a global pharma company.</v>
+
+531
+24:04.680 --> 24:07.080
+So your example around being able
+
+532
+24:07.080 --> 24:11.160
+to scale content globally is a good one.
+
+533
+24:11.160 --> 24:14.520
+So what we've done is we've helped them really think about
+
+534
+24:14.520 --> 24:16.230
+their whole content supply chain
+
+535
+24:16.230 --> 24:17.940
+from a marketing perspective.
+
+536
+24:17.940 --> 24:20.730
+They're spending a lot of money on outside agencies,
+
+537
+24:20.730 --> 24:24.330
+spending a lot of money even within their organization.
+
+538
+24:24.330 --> 24:25.637
+And as a pharma company,
+
+539
+24:25.637 --> 24:28.920
+the biggest challenge they have is legal review.
+
+540
+24:28.920 --> 24:31.805
+It would take like, too long
+
+541
+24:31.805 --> 24:34.011
+to get marketing content out there,
+
+542
+24:34.011 --> 24:37.740
+to get to the consumer, to personalize the content.
+
+543
+24:37.740 --> 24:39.540
+So if you think about all the idea
+
+544
+24:39.540 --> 24:41.670
+of really understanding the consumer
+
+545
+24:41.670 --> 24:44.070
+from a predictive perspective,
+
+546
+24:44.070 --> 24:46.650
+this tool is helping them do that,
+
+547
+24:46.650 --> 24:50.730
+and it's helping them do that at scale across the globe.
+
+548
+24:50.730 --> 24:54.060
+So we've seen seven times the number of reuse
+
+549
+24:54.060 --> 24:56.880
+from content globally.
+
+550
+24:56.880 --> 24:59.670
+They've been able to increase their speed to market
+
+551
+24:59.670 --> 25:01.380
+by 30% to 40%.
+
+552
+25:01.380 --> 25:04.110
+And it's all around thinking about, you know,
+
+553
+25:04.110 --> 25:06.540
+how you're taking your whole process,
+
+554
+25:06.540 --> 25:09.180
+but you're leveraging gen AI in the moment
+
+555
+25:09.180 --> 25:11.310
+and you're building on what you're learning
+
+556
+25:11.310 --> 25:12.723
+throughout the process.
+
+557
+25:13.590 --> 25:16.683
+<v ->This makes me think about the use case of design</v>
+
+558
+25:16.683 --> 25:20.640
+that Mamatha thought to throw in, which is,
+
+559
+25:20.640 --> 25:22.830
+if I'm designing something new,
+
+560
+25:22.830 --> 25:25.953
+whether it's a legal contract or a Jeep,
+
+561
+25:27.000 --> 25:29.220
+why can't I access templates
+
+562
+25:29.220 --> 25:33.420
+of parts or words of paragraphs and wording
+
+563
+25:33.420 --> 25:37.110
+so that building a standard template,
+
+564
+25:37.110 --> 25:39.390
+we don't have everybody reinventing the wheel
+
+565
+25:39.390 --> 25:42.000
+all around the world in different languages,
+
+566
+25:42.000 --> 25:44.460
+and now we have to carry, you know,
+
+567
+25:44.460 --> 25:49.110
+19 million different nut sizes to make cars.
+
+568
+25:49.110 --> 25:54.110
+So this can help in speed and standardization as well.
+
+569
+25:54.690 --> 25:58.440
+Why don't you start with our third use case first?
+
+570
+25:58.440 --> 26:01.200
+And we gotta keep it tight to two minutes.
+
+571
+26:01.200 --> 26:02.553
+<v ->Okay, fantastic.</v>
+
+572
+26:03.510 --> 26:07.470
+So the customer that I'm going to talk about is Amazon,
+
+573
+26:07.470 --> 26:09.690
+a customer of Goodyear.
+
+574
+26:09.690 --> 26:11.640
+And how are they a customer of Goodyear?
+
+575
+26:11.640 --> 26:13.740
+We started as a proof of concept
+
+576
+26:13.740 --> 26:16.413
+in one of the warehouses of Amazon.
+
+577
+26:17.250 --> 26:20.040
+And so Amazon has this UEI,
+
+578
+26:20.040 --> 26:22.890
+which is a visual inspection technology.
+
+579
+26:22.890 --> 26:26.010
+It's looking at the undercarriage and around the vehicle
+
+580
+26:26.010 --> 26:27.870
+on the defects
+
+581
+26:27.870 --> 26:32.280
+as overnight the vehicles are rolling into the warehouse.
+
+582
+26:32.280 --> 26:34.710
+And we started as a proof of concept,
+
+583
+26:34.710 --> 26:38.790
+setting up a service point in the Amazon warehouse,
+
+584
+26:38.790 --> 26:41.730
+a Goodyear service point in the Amazon warehouse,
+
+585
+26:41.730 --> 26:44.130
+collecting those vehicle signals,
+
+586
+26:44.130 --> 26:46.507
+sending it to the fleet manager and saying,
+
+587
+26:46.507 --> 26:48.213
+"On this particular vehicle,
+
+588
+26:49.796 --> 26:52.440
+this is the maintenance that needs to be done.
+
+589
+26:52.440 --> 26:57.440
+And if you do not schedule it, you know, two weeks later,
+
+590
+26:57.630 --> 27:01.170
+here is the unplanned downtime that you could expect
+
+591
+27:01.170 --> 27:02.937
+from this particular vehicle."
+
+592
+27:03.870 --> 27:07.170
+And so because fleet managers,
+
+593
+27:07.170 --> 27:12.170
+they spend 50% of this administrative effort
+
+594
+27:12.630 --> 27:16.770
+is on looking at these alerts on notifications
+
+595
+27:16.770 --> 27:18.060
+on various vehicles,
+
+596
+27:18.060 --> 27:21.360
+and when is it that they need to schedule maintenance
+
+597
+27:21.360 --> 27:22.320
+for these vehicles?
+
+598
+27:22.320 --> 27:23.153
+And we said,
+
+599
+27:23.153 --> 27:27.060
+why don't we just automate this whole thing for Amazon?
+
+600
+27:27.060 --> 27:29.160
+So we started as a proof of concept.
+
+601
+27:29.160 --> 27:33.903
+Today in the US we are in 1/3 of the Amazon warehouses.
+
+602
+27:34.995 --> 27:36.420
+1/3!
+
+603
+27:36.420 --> 27:41.130
+And now we are expanding globally with Amazon
+
+604
+27:41.130 --> 27:46.093
+to EMEA as well as to APAC and also within US.
+
+605
+27:47.190 --> 27:49.500
+And think about the fleet manager,
+
+606
+27:49.500 --> 27:53.462
+instead of administrating, now he is spending time
+
+607
+27:53.462 --> 27:57.060
+actually looking at the productivity of his fleet.
+
+608
+27:57.060 --> 27:58.980
+<v ->So this is a great use case</v>
+
+609
+27:58.980 --> 28:02.550
+because the manager is now doing higher value-added,
+
+610
+28:02.550 --> 28:04.140
+more strategic things.
+
+611
+28:04.140 --> 28:05.430
+Fantastic.
+
+612
+28:05.430 --> 28:07.140
+We're gonna go into round three,
+
+613
+28:07.140 --> 28:08.880
+and this has to be a lightning round
+
+614
+28:08.880 --> 28:12.720
+because it'd be great to get some questions from you,
+
+615
+28:12.720 --> 28:14.253
+our dear audience.
+
+616
+28:15.210 --> 28:16.680
+So start us off on round--
+
+617
+28:16.680 --> 28:17.850
+<v ->I can start.</v>
+<v ->Okay.</v>
+
+618
+28:17.850 --> 28:19.050
+<v ->So lightning round.</v>
+
+619
+28:19.050 --> 28:21.270
+I think the last use case I would bring is
+
+620
+28:21.270 --> 28:24.660
+we have a ticketing system implementation,
+
+621
+28:24.660 --> 28:25.860
+which is one of the major ones
+
+622
+28:25.860 --> 28:28.350
+that we have at Bosch at the moment.
+
+623
+28:28.350 --> 28:31.230
+And what we found, at least when you think about
+
+624
+28:31.230 --> 28:32.250
+how do we implement
+
+625
+28:32.250 --> 28:35.040
+or how do we bring AI into our organization,
+
+626
+28:35.040 --> 28:36.480
+there's two general ways.
+
+627
+28:36.480 --> 28:38.640
+One is what we call Use AI
+
+628
+28:38.640 --> 28:40.920
+and one is called, what we call is Build AI.
+
+629
+28:40.920 --> 28:42.630
+So Build AI is just like the name,
+
+630
+28:42.630 --> 28:44.940
+you are building custom LLMs,
+
+631
+28:44.940 --> 28:47.310
+bringing custom differentiating components
+
+632
+28:47.310 --> 28:49.050
+into your organization.
+
+633
+28:49.050 --> 28:49.980
+The second is Use.
+
+634
+28:49.980 --> 28:51.840
+And this is exactly, we are just using
+
+635
+28:51.840 --> 28:52.980
+what our partners are building.
+
+636
+28:52.980 --> 28:55.260
+And I think sometimes we forget about that,
+
+637
+28:55.260 --> 28:57.210
+but that's what we found has a lot of impact.
+
+638
+28:57.210 --> 28:59.670
+And so for example, our partner ServiceNow
+
+639
+28:59.670 --> 29:01.830
+is implementing Now Assist,
+
+640
+29:01.830 --> 29:06.060
+which gives us immediately access to gen AI components
+
+641
+29:06.060 --> 29:07.350
+inside of our organization.
+
+642
+29:07.350 --> 29:09.990
+So a use case in our logistics area
+
+643
+29:09.990 --> 29:12.420
+is we're getting transport messages
+
+644
+29:12.420 --> 29:14.043
+from a number of our suppliers.
+
+645
+29:15.000 --> 29:16.800
+And these come in different languages,
+
+646
+29:16.800 --> 29:18.660
+they come at different times of the day,
+
+647
+29:18.660 --> 29:20.490
+and they come very disparate.
+
+648
+29:20.490 --> 29:22.260
+And what we're able to do now is, again,
+
+649
+29:22.260 --> 29:25.020
+bring it all together, summarization, language,
+
+650
+29:25.020 --> 29:26.760
+natural language processing,
+
+651
+29:26.760 --> 29:29.820
+and makes our agents' life much easier,
+
+652
+29:29.820 --> 29:31.050
+makes them much more efficient,
+
+653
+29:31.050 --> 29:33.870
+and allow them to really respond,
+
+654
+29:33.870 --> 29:36.180
+which impacts our production.
+
+655
+29:36.180 --> 29:37.650
+So it's really, at the end of the day,
+
+656
+29:37.650 --> 29:40.380
+small changes using that generative AI
+
+657
+29:40.380 --> 29:42.393
+that comes out of the box.
+
+658
+29:43.560 --> 29:46.230
+I can't say enough about that in those cases.
+
+659
+29:46.230 --> 29:47.970
+<v Jim>Fantastic.</v>
+
+660
+29:47.970 --> 29:49.080
+Alyssa?
+
+661
+29:49.080 --> 29:51.600
+<v ->All right, so interestingly enough,</v>
+
+662
+29:51.600 --> 29:54.450
+we've been working with this House of Beauty brands.
+
+663
+29:54.450 --> 29:58.590
+And you know, they sell to not only retailers,
+
+664
+29:58.590 --> 30:00.450
+but they also sell to salons.
+
+665
+30:00.450 --> 30:02.610
+So they have a whole B2B capability.
+
+666
+30:02.610 --> 30:05.100
+And what they really needed was
+
+667
+30:05.100 --> 30:07.440
+how do they get their salespeople
+
+668
+30:07.440 --> 30:09.390
+to have a level playing field,
+
+669
+30:09.390 --> 30:12.510
+really understand who they're going in to see,
+
+670
+30:12.510 --> 30:15.000
+how they're serving up the content.
+
+671
+30:15.000 --> 30:18.120
+Very similar in the automotive space, as you've heard,
+
+672
+30:18.120 --> 30:20.520
+you know, really understanding, diagnosing
+
+673
+30:20.520 --> 30:22.260
+what they need to go in and sell.
+
+674
+30:22.260 --> 30:26.880
+So we help them leverage gen AI to think about how they,
+
+675
+30:26.880 --> 30:30.870
+you know, are serving up content to the salespeople.
+
+676
+30:30.870 --> 30:31.980
+But I think even more so,
+
+677
+30:31.980 --> 30:34.350
+when the salesperson gets into their car,
+
+678
+30:34.350 --> 30:36.180
+they can actually talk to the tool,
+
+679
+30:36.180 --> 30:38.310
+the tool will write up their notes,
+
+680
+30:38.310 --> 30:41.490
+prepare a email back to the client,
+
+681
+30:41.490 --> 30:43.770
+make sure they're sending their orders through.
+
+682
+30:43.770 --> 30:45.720
+And we're in the midst of this,
+
+683
+30:45.720 --> 30:48.570
+we're launching in one country, in Germany right now.
+
+684
+30:48.570 --> 30:51.120
+And one of the things that I wanted to share is,
+
+685
+30:51.120 --> 30:52.920
+you know, when we initiated this,
+
+686
+30:52.920 --> 30:54.840
+our biggest challenge was data
+
+687
+30:54.840 --> 30:56.940
+and making sure they had the right data
+
+688
+30:56.940 --> 30:58.500
+to be able to activate this.
+
+689
+30:58.500 --> 31:02.340
+So as you begin to think about predictive
+
+690
+31:02.340 --> 31:05.700
+and how you're entering the marketplace with gen AI,
+
+691
+31:05.700 --> 31:08.640
+with your use cases, really thinking about the data
+
+692
+31:08.640 --> 31:11.730
+and testing it in a way where it's action-oriented
+
+693
+31:11.730 --> 31:15.990
+and you can get content out there to people quickly
+
+694
+31:15.990 --> 31:16.923
+to test it out.
+
+695
+31:18.060 --> 31:19.230
+<v ->This is a great example.</v>
+
+696
+31:19.230 --> 31:21.720
+I know one CEO in the pharma space,
+
+697
+31:21.720 --> 31:26.720
+and she's got a 5X increase in open rates of her emails.
+
+698
+31:26.790 --> 31:29.280
+Because what she does is she uses ChatGPT
+
+699
+31:29.280 --> 31:31.530
+to research her prospect,
+
+700
+31:31.530 --> 31:34.740
+the CEO she's gonna pitch and the company,
+
+701
+31:34.740 --> 31:36.300
+to figure out their pain points
+
+702
+31:36.300 --> 31:40.140
+and then intersect that with her offerings.
+
+703
+31:40.140 --> 31:44.280
+And so it's not spamming people with the same email,
+
+704
+31:44.280 --> 31:47.970
+it is highly targeted to the real pain points
+
+705
+31:47.970 --> 31:49.800
+of that particular individual.
+
+706
+31:49.800 --> 31:52.045
+So I see a one-to-one future
+
+707
+31:52.045 --> 31:55.770
+that you've been talking about, Alyssa, which is how do we,
+
+708
+31:55.770 --> 31:56.880
+whether it's Marriott,
+
+709
+31:56.880 --> 31:59.340
+customize our offering just for you
+
+710
+31:59.340 --> 32:04.290
+with a dog or a bachelorette party or these other cases.
+
+711
+32:04.290 --> 32:07.440
+So we're gonna see more personalization,
+
+712
+32:07.440 --> 32:10.353
+which people then interpret as higher quality.
+
+713
+32:11.635 --> 32:14.673
+So it's an interesting time we're living in.
+
+714
+32:15.690 --> 32:17.100
+Our final example,
+
+715
+32:17.100 --> 32:18.810
+and then we'll take a couple of questions,
+
+716
+32:18.810 --> 32:21.360
+and then if there aren't enough questions,
+
+717
+32:21.360 --> 32:23.250
+we'll come back to another case study.
+
+718
+32:23.250 --> 32:24.240
+<v ->Great, thanks Jim.</v>
+
+719
+32:24.240 --> 32:26.040
+So we covered the enterprise
+
+720
+32:26.040 --> 32:28.620
+and improving inventory through ForecastGPT.
+
+721
+32:28.620 --> 32:31.110
+We talked about improving distracted driving
+
+722
+32:31.110 --> 32:34.200
+through our Ready Care product in the automotive space.
+
+723
+32:34.200 --> 32:35.220
+The last I'll share with
+
+724
+32:35.220 --> 32:38.790
+is on our lifestyle business and our consumer audio.
+
+725
+32:38.790 --> 32:41.460
+In terms of how we manage customer calls,
+
+726
+32:41.460 --> 32:44.010
+you know, we average 300,000 to 400,000
+
+727
+32:44.010 --> 32:46.020
+customer calls a year,
+
+728
+32:46.020 --> 32:49.350
+inquiries about technical questions
+
+729
+32:49.350 --> 32:52.350
+on our smart audio products and our headphones,
+
+730
+32:52.350 --> 32:57.350
+or returns, or wanting to know more about, you know,
+
+731
+32:57.720 --> 33:00.060
+recommended products.
+
+732
+33:00.060 --> 33:04.950
+And so we're using customer sentiment analysis with AI
+
+733
+33:04.950 --> 33:09.090
+to help really augment the case calls with our call center.
+
+734
+33:09.090 --> 33:12.150
+And what we're seeing is the AI goes through
+
+735
+33:12.150 --> 33:15.090
+and will look at the contextual information,
+
+736
+33:15.090 --> 33:17.430
+and within 300 milliseconds will help
+
+737
+33:17.430 --> 33:21.870
+informing the call center person the customer sentiment.
+
+738
+33:21.870 --> 33:24.960
+You know, is the customer frustrated, is there inquisitive,
+
+739
+33:24.960 --> 33:27.990
+are they negative, are they neutral,
+
+740
+33:27.990 --> 33:30.303
+or are they a promoter of the product?
+
+741
+33:32.064 --> 33:35.160
+And from that very quick analysis,
+
+742
+33:35.160 --> 33:39.210
+it arms the call center person to really narrow in on
+
+743
+33:39.210 --> 33:41.820
+how to serve the needs of that customer as efficiently
+
+744
+33:41.820 --> 33:43.470
+and as effectively as possible.
+
+745
+33:43.470 --> 33:45.420
+It normally takes us, you know, before that,
+
+746
+33:45.420 --> 33:49.110
+one to five minutes to really look through the questions,
+
+747
+33:49.110 --> 33:50.370
+the case, the information,
+
+748
+33:50.370 --> 33:53.430
+and really provide a level of information and accuracy.
+
+749
+33:53.430 --> 33:55.710
+The bot does it in, you know, 91% accuracy,
+
+750
+33:55.710 --> 33:58.950
+providing more intelligence to the call center.
+
+751
+33:58.950 --> 34:01.380
+And so when you're talking about that volume,
+
+752
+34:01.380 --> 34:03.243
+you're talking about that efficiency.
+
+753
+34:04.500 --> 34:07.680
+And you know, most importantly we're seeing
+
+754
+34:07.680 --> 34:11.820
+that over 60% to 70% of the calls
+
+755
+34:11.820 --> 34:15.660
+are going from a negative sentiment to a positive sentiment
+
+756
+34:15.660 --> 34:17.520
+just based on the way we're interacting.
+
+757
+34:17.520 --> 34:21.000
+And I know there's a lot of talk about AI replacing, right?
+
+758
+34:21.000 --> 34:23.040
+But what we look at is how does it augment,
+
+759
+34:23.040 --> 34:25.830
+how do we provide human-centric solutions
+
+760
+34:25.830 --> 34:28.500
+that improve the experience
+
+761
+34:28.500 --> 34:30.120
+with the human in the center of the loop?
+
+762
+34:30.120 --> 34:31.680
+So I think this is, again,
+
+763
+34:31.680 --> 34:34.770
+when we design these kinds of things,
+
+764
+34:34.770 --> 34:35.730
+when we wanna differentiate,
+
+765
+34:35.730 --> 34:38.910
+and I think Mamatha, you talked about customers have choice.
+
+766
+34:38.910 --> 34:41.910
+They can buy products from a lot of different opportunities.
+
+767
+34:41.910 --> 34:45.420
+But they want that personalized, unique experience,
+
+768
+34:45.420 --> 34:47.130
+seamless and frictionless.
+
+769
+34:47.130 --> 34:49.320
+And that's what will drive not only loyalty,
+
+770
+34:49.320 --> 34:53.182
+but you know, our long-term reputation
+
+771
+34:53.182 --> 34:56.463
+when it comes to being a very customer-centric company.
+
+772
+34:57.450 --> 34:58.770
+<v ->This is a great example.</v>
+
+773
+34:58.770 --> 35:01.710
+I've only been dealing with my bank for 50 years,
+
+774
+35:01.710 --> 35:03.030
+and when I want a new product,
+
+775
+35:03.030 --> 35:05.160
+they ask me my name, my address.
+
+776
+35:05.160 --> 35:07.530
+You know, only 50 years I've been dealing with them.
+
+777
+35:07.530 --> 35:10.710
+So how can we get out of the way all the stuff
+
+778
+35:10.710 --> 35:15.090
+that actually creates a very negative interaction experience
+
+779
+35:15.090 --> 35:17.040
+and automate all that?
+
+780
+35:17.040 --> 35:21.840
+So dear audience, we have four minutes and 20 seconds left.
+
+781
+35:21.840 --> 35:26.640
+So if you'd like to ask this great panel a question,
+
+782
+35:26.640 --> 35:28.980
+come to the mic.
+
+783
+35:28.980 --> 35:31.020
+We'll take number one.
+
+784
+35:31.020 --> 35:33.420
+And we're in our speed round, remember.
+
+785
+35:33.420 --> 35:34.320
+<v Audience Member>Thank you.</v>
+
+786
+35:34.320 --> 35:36.150
+I have a question related to you,
+
+787
+35:36.150 --> 35:39.120
+the master technician example that you had.
+
+788
+35:39.120 --> 35:42.150
+And you know, for like consulting companies,
+
+789
+35:42.150 --> 35:45.300
+you could have the same type of situation
+
+790
+35:45.300 --> 35:49.050
+where there's very experienced people in the company,
+
+791
+35:49.050 --> 35:51.030
+but all of that knowledge is not necessarily
+
+792
+35:51.030 --> 35:52.830
+written down somewhere.
+
+793
+35:52.830 --> 35:54.570
+So how do you get it,
+
+794
+35:54.570 --> 35:56.910
+I mean, they don't put a USB stick into their head.
+
+795
+35:56.910 --> 35:59.013
+So how do you get it into--
+<v ->Not yet.</v>
+
+796
+35:59.013 --> 36:00.210
+<v Audience Member>Into a format</v>
+
+797
+36:00.210 --> 36:03.810
+where generative or predictive AI can help you?
+
+798
+36:03.810 --> 36:05.070
+<v ->That's an amazing question.</v>
+
+799
+36:05.070 --> 36:06.270
+<v ->Yeah, great question.</v>
+
+800
+36:06.270 --> 36:07.890
+I mean, to answer the question
+
+801
+36:07.890 --> 36:10.020
+specifically for the Super Technician,
+
+802
+36:10.020 --> 36:12.870
+it's because with Bosch's experience
+
+803
+36:12.870 --> 36:16.350
+and over 100 years of a company with the data,
+
+804
+36:16.350 --> 36:17.550
+we have that.
+
+805
+36:17.550 --> 36:20.310
+And the problem wasn't necessarily putting a USB stick,
+
+806
+36:20.310 --> 36:22.080
+although that probably would've been easier
+
+807
+36:22.080 --> 36:24.480
+than trying to consolidate all the data that we have
+
+808
+36:24.480 --> 36:26.010
+and the different data lakes.
+
+809
+36:26.010 --> 36:27.420
+That was the exercise.
+
+810
+36:27.420 --> 36:28.830
+It was trying to bring the data
+
+811
+36:28.830 --> 36:31.170
+in a way that was easily consumable.
+
+812
+36:31.170 --> 36:34.800
+And what gen AI allowed us to do is exactly that.
+
+813
+36:34.800 --> 36:37.560
+So it was leveraging knowledge graphs,
+
+814
+36:37.560 --> 36:39.870
+we brought in the natural language aspect,
+
+815
+36:39.870 --> 36:43.440
+and then we really brought a easy interface
+
+816
+36:43.440 --> 36:44.640
+for those technicians.
+
+817
+36:44.640 --> 36:46.650
+Even if you started the first day,
+
+818
+36:46.650 --> 36:48.450
+you can now come in and have access to that.
+
+819
+36:48.450 --> 36:49.890
+And you can correlate that
+
+820
+36:49.890 --> 36:51.720
+to really a lot of other industries.
+
+821
+36:51.720 --> 36:53.640
+I mean, especially in the software development,
+
+822
+36:53.640 --> 36:56.070
+I guess you can also look at that in the same way.
+
+823
+36:56.070 --> 36:57.810
+You have peer programming,
+
+824
+36:57.810 --> 37:00.090
+where senior developers are the ones that are doing
+
+825
+37:00.090 --> 37:01.470
+with all the knowledge.
+
+826
+37:01.470 --> 37:03.210
+So it's going to be, you can correlate that
+
+827
+37:03.210 --> 37:04.740
+to a lot of other aspects.
+
+828
+37:04.740 --> 37:06.270
+But hopefully that answers the question.
+
+829
+37:06.270 --> 37:09.510
+<v ->You probably also had expert technician use the app,</v>
+
+830
+37:09.510 --> 37:10.770
+because it's a learning agent
+
+831
+37:10.770 --> 37:13.080
+and it's learning to get better and better
+
+832
+37:13.080 --> 37:16.260
+and mimic the behavior of the expert technician.
+
+833
+37:16.260 --> 37:17.926
+<v ->Yes. I mean, at the end of the day,</v>
+
+834
+37:17.926 --> 37:20.103
+that's the holy grail is that service data, yeah.
+
+835
+37:21.090 --> 37:24.810
+<v ->We are at the early innings of this AI revolution.</v>
+
+836
+37:24.810 --> 37:26.280
+Microsoft before the show
+
+837
+37:26.280 --> 37:28.770
+announced it will spend $80 billion,
+
+838
+37:28.770 --> 37:31.117
+I feel a Dr. Evil moment coming on,
+
+839
+37:31.117 --> 37:36.117
+$80 billion on AI data centers, 50% of them in the US.
+
+840
+37:36.540 --> 37:39.750
+So Microsoft is really doubling down on AI.
+
+841
+37:39.750 --> 37:43.980
+So we are just at the start of this AI revolution.
+
+842
+37:43.980 --> 37:46.530
+And these case studies we've heard today
+
+843
+37:46.530 --> 37:48.840
+are gonna continue to advance.
+
+844
+37:48.840 --> 37:52.680
+We have time for one more quick question if there is one.
+
+845
+37:52.680 --> 37:56.190
+And if there isn't one, by show of hands, I don't see one,
+
+846
+37:56.190 --> 38:00.750
+we're just gonna go to a quick 15 second final insight
+
+847
+38:00.750 --> 38:01.800
+from everyone.
+
+848
+38:01.800 --> 38:04.050
+Who wants to start it?
+
+849
+38:04.050 --> 38:05.996
+Davie, why don't you start us off on the far end there?
+
+850
+38:05.996 --> 38:07.050
+<v ->(laughing) Okay, thanks.</v>
+
+851
+38:07.050 --> 38:10.290
+I mean, I think as I said, look in your organization
+
+852
+38:10.290 --> 38:13.710
+for other ways that you've scaled technology successful.
+
+853
+38:13.710 --> 38:18.710
+Take those lessons learned and bring AI in that same way.
+
+854
+38:18.720 --> 38:20.880
+And please don't forget your people,
+
+855
+38:20.880 --> 38:22.230
+because they're the most important part
+
+856
+38:22.230 --> 38:23.670
+of that transformation.
+
+857
+38:23.670 --> 38:24.503
+<v Jim>Fantastic.</v>
+
+858
+38:24.503 --> 38:25.668
+Mamatha?
+
+859
+38:25.668 --> 38:29.340
+<v ->So what I would say is do not try to</v>
+
+860
+38:29.340 --> 38:33.540
+hold all of this knowledge and expertise in one small group.
+
+861
+38:33.540 --> 38:37.440
+Try to democratize it and create a tool set
+
+862
+38:37.440 --> 38:40.380
+and platform that all employees could use.
+
+863
+38:40.380 --> 38:43.650
+And when you have Millennial and Gen Z kind of employees
+
+864
+38:43.650 --> 38:45.960
+that are used to this way of working,
+
+865
+38:45.960 --> 38:49.560
+this kind of tool set will help implement things
+
+866
+38:49.560 --> 38:52.380
+and bring things faster to market for your company.
+
+867
+38:52.380 --> 38:55.440
+So don't just leave it to an engineering
+
+868
+38:55.440 --> 38:58.294
+or any other organization, democratize it.
+
+869
+38:58.294 --> 38:59.375
+<v ->Yeah.</v>
+
+870
+38:59.375 --> 39:01.290
+I would say that,
+
+871
+39:01.290 --> 39:03.450
+make sure you have a strong governance model
+
+872
+39:03.450 --> 39:05.850
+and you're building ethical, responsible,
+
+873
+39:05.850 --> 39:08.340
+and explainable AI models.
+
+874
+39:08.340 --> 39:10.560
+The human has to be at the center of the loop,
+
+875
+39:10.560 --> 39:13.290
+both from a validation and biases perspective.
+
+876
+39:13.290 --> 39:14.970
+But digital trust is everything.
+
+877
+39:14.970 --> 39:18.337
+And so making sure you have a very strong governance model
+
+878
+39:18.337 --> 39:22.470
+incorporated into your frameworks is incredibly important.
+
+879
+39:22.470 --> 39:23.303
+<v ->Fantastic.</v>
+
+880
+39:23.303 --> 39:27.150
+And we are gonna finish in the very same place we began.
+
+881
+39:27.150 --> 39:30.570
+<v ->Okay, so think of yourself as inventors.</v>
+
+882
+39:30.570 --> 39:33.300
+And not only focusing on technology,
+
+883
+39:33.300 --> 39:35.220
+think about how you're creating strategy,
+
+884
+39:35.220 --> 39:37.800
+how you're creating experiences.
+
+885
+39:37.800 --> 39:40.410
+It will change the way your organizations work.
+
+886
+39:40.410 --> 39:42.330
+So thinking about it holistically
+
+887
+39:42.330 --> 39:45.660
+and really changing the mindset of what you do every day.
+
+888
+39:45.660 --> 39:47.280
+<v ->This has been an amazing panel.</v>
+
+889
+39:47.280 --> 39:50.490
+This is gonna go up 28 to 48 hours from now,
+
+890
+39:50.490 --> 39:52.260
+live stream, not live streaming,
+
+891
+39:52.260 --> 39:54.660
+streaming on the CTA website.
+
+892
+39:54.660 --> 39:56.940
+So tell your friends about it.
+
+893
+39:56.940 --> 40:00.840
+If you could join with me in thanking this amazing panel
+
+894
+40:00.840 --> 40:02.452
+for their insights.
+
+895
+40:02.452 --> 40:05.334
+(all applauding)
+
+896
+40:05.334 --> 40:08.001
+(upbeat jingle)
+

@@ -1,0 +1,3731 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.253 --> 00:03.420
+(bright upbeat music)
+
+2
+00:10.680 --> 00:11.580
+<v ->Well, good afternoon all.</v>
+
+3
+00:11.580 --> 00:14.310
+Thank you for joining us for the third installment
+
+4
+00:14.310 --> 00:16.263
+in the Novaspace panels here at CES.
+
+5
+00:17.850 --> 00:20.820
+This panel is going to cover cloud and data centers
+
+6
+00:20.820 --> 00:22.980
+for corporate satellite connectivity.
+
+7
+00:22.980 --> 00:25.740
+My name is Dara Panahy. I'm a partner with Milbank, LLP.
+
+8
+00:25.740 --> 00:28.290
+It's a law firm, it's not a military bank.
+
+9
+00:28.290 --> 00:30.240
+I lead the firm's Space Business practice
+
+10
+00:30.240 --> 00:31.980
+and the Transportation and Space Group
+
+11
+00:31.980 --> 00:34.200
+out of the Washington, DC office.
+
+12
+00:34.200 --> 00:35.490
+Just to frame the discussion
+
+13
+00:35.490 --> 00:38.580
+before I quickly introduce the speakers,
+
+14
+00:38.580 --> 00:41.280
+satellites currently are a small
+
+15
+00:41.280 --> 00:44.970
+but essential part of the connectivity network ecosystem.
+
+16
+00:44.970 --> 00:47.910
+Satellites are growing as part of that system forecasted
+
+17
+00:47.910 --> 00:52.500
+to exceed about 50 terabits per second of capacity by 2026,
+
+18
+00:52.500 --> 00:55.230
+which is roughly doubling in two years.
+
+19
+00:55.230 --> 00:58.140
+Increasingly, cloud and data service providers,
+
+20
+00:58.140 --> 01:00.210
+including AWS, Microsoft,
+
+21
+01:00.210 --> 01:03.720
+BT, Orange, AT&amp;T, NTT, Lumen, TIM,
+
+22
+01:03.720 --> 01:06.480
+and also others, some of them here,
+
+23
+01:06.480 --> 01:10.470
+are relying on satellite networks for their services,
+
+24
+01:10.470 --> 01:12.450
+current generation satellites,
+
+25
+01:12.450 --> 01:15.180
+whether they operate in low Earth orbit
+
+26
+01:15.180 --> 01:16.890
+or medium Earth orbit,
+
+27
+01:16.890 --> 01:19.500
+we call it LEO and MEO in the satellite business,
+
+28
+01:19.500 --> 01:23.010
+as well as GEO, less so there, geostationary orbit.
+
+29
+01:23.010 --> 01:26.400
+They do provide connectivity with some trade-offs.
+
+30
+01:26.400 --> 01:29.370
+In MEO and LEO, you have latency, or delay,
+
+31
+01:29.370 --> 01:31.770
+of between 150 to 50 milliseconds
+
+32
+01:31.770 --> 01:35.070
+for the space to Earth leg.
+
+33
+01:35.070 --> 01:37.980
+And all of these different orbits involve trade-offs
+
+34
+01:37.980 --> 01:41.460
+between coverage, speed, and system complexity.
+
+35
+01:41.460 --> 01:44.130
+But there are today numerous live 5G networks
+
+36
+01:44.130 --> 01:46.320
+that are connecting via satellites to the cloud,
+
+37
+01:46.320 --> 01:47.730
+and we'll get a little bit into that as well
+
+38
+01:47.730 --> 01:49.290
+and a few other topics.
+
+39
+01:49.290 --> 01:50.880
+So with us, we're very lucky
+
+40
+01:50.880 --> 01:52.773
+to have a very distinguished panel.
+
+41
+01:53.640 --> 01:56.220
+Far to the end of the seats here is,
+
+42
+01:56.220 --> 01:58.110
+Retired Major General Clint Crosier.
+
+43
+01:58.110 --> 02:00.630
+He's director of Aerospace and Satellite
+
+44
+02:00.630 --> 02:03.870
+at Amazon Web Services, has been leading
+
+45
+02:03.870 --> 02:07.260
+the global aerospace and satellite businesses at AWS,
+
+46
+02:07.260 --> 02:09.780
+and providing customers with cloud solutions
+
+47
+02:09.780 --> 02:10.980
+and space missions.
+
+48
+02:10.980 --> 02:13.860
+Prior to AWS, he spent 33 years
+
+49
+02:13.860 --> 02:16.650
+with the Air Force / Space Force,
+
+50
+02:16.650 --> 02:17.580
+and I'll embarrass him.
+
+51
+02:17.580 --> 02:19.110
+He has been generally credited
+
+52
+02:19.110 --> 02:21.153
+as the architect of the Space Force.
+
+53
+02:22.140 --> 02:23.940
+Next to him, Rika Nakazawa,
+
+54
+02:23.940 --> 02:27.870
+she's the Chief Commercial Innovation Officer at NTT.
+
+55
+02:27.870 --> 02:31.680
+A senior technology leader, VC investor, bestselling author,
+
+56
+02:31.680 --> 02:35.280
+with expertise in technology driven transformation.
+
+57
+02:35.280 --> 02:36.840
+In her current role, she focuses
+
+58
+02:36.840 --> 02:39.360
+on advanced commercial and sustainable initiatives
+
+59
+02:39.360 --> 02:41.790
+for NTT Space satellite innovations,
+
+60
+02:41.790 --> 02:43.950
+while also leading key global initiatives
+
+61
+02:43.950 --> 02:47.580
+that integrate NTT's R &amp; D investments.
+
+62
+02:47.580 --> 02:51.480
+Next to her, Dr. Sunghee Lee, he's the CEO of Contec.
+
+63
+02:51.480 --> 02:53.880
+He spent more than 16 years before that
+
+64
+02:53.880 --> 02:56.940
+at the Korea Aerospace Research Institute, KARI,
+
+65
+02:56.940 --> 03:00.090
+which is a significant global aerospace organization.
+
+66
+03:00.090 --> 03:02.883
+He contributed to major Korean space projects,
+
+67
+03:04.230 --> 03:05.790
+and also serves as a visiting researcher
+
+68
+03:05.790 --> 03:08.250
+at the Carleton College on CubeSat missions.
+
+69
+03:08.250 --> 03:11.520
+He recently founded Contec to advance satellite technology
+
+70
+03:11.520 --> 03:14.370
+and innovative solutions in the industry.
+
+71
+03:14.370 --> 03:15.330
+So we're gonna dive right in
+
+72
+03:15.330 --> 03:18.240
+to a few topical based discussions,
+
+73
+03:18.240 --> 03:19.073
+and we'll have a couple
+
+74
+03:19.073 --> 03:21.030
+of pauses along the way for audience questions
+
+75
+03:21.030 --> 03:23.910
+or contributions if you'd like to jump in.
+
+76
+03:23.910 --> 03:26.310
+So let's start at the high level,
+
+77
+03:26.310 --> 03:28.410
+jumping into structural pros and cons
+
+78
+03:28.410 --> 03:31.920
+of connecting cloud and data centers via satellite
+
+79
+03:31.920 --> 03:34.290
+versus other modalities, whether it be fiber
+
+80
+03:34.290 --> 03:36.600
+or other terrestrial solutions, as well
+
+81
+03:36.600 --> 03:38.310
+as any emerging technologies you think will
+
+82
+03:38.310 --> 03:40.230
+enhance the proposition and efficiency
+
+83
+03:40.230 --> 03:43.020
+of using space as a connectivity node.
+
+84
+03:43.020 --> 03:45.550
+Who wanted to jump in first on that?
+
+85
+03:45.550 --> 03:47.910
+<v ->I'll go first?</v>
+<v ->Go ahead, please.</v>
+
+86
+03:47.910 --> 03:49.760
+<v ->Okay, thank you for your questions.</v>
+
+87
+03:50.670 --> 03:54.450
+Actually, I just would like to explain
+
+88
+03:54.450 --> 03:58.770
+with one example in South Korea.
+
+89
+03:58.770 --> 04:00.840
+In case of South Korea, we have a lot
+
+90
+04:00.840 --> 04:05.520
+of the great optical network, 99%,
+
+91
+04:05.520 --> 04:07.740
+in that case actually, we don't need
+
+92
+04:07.740 --> 04:10.980
+to make the communication with the satellite,
+
+93
+04:10.980 --> 04:14.850
+but, because, in case of SpaceX, they just try
+
+94
+04:14.850 --> 04:18.150
+to provide their service in South Korea.
+
+95
+04:18.150 --> 04:21.180
+But it's just Elon Musk. Sad, I guess.
+
+96
+04:21.180 --> 04:23.280
+South Korea market is not good,
+
+97
+04:23.280 --> 04:28.260
+but the other countries, like Southeast Asian area, in case
+
+98
+04:28.260 --> 04:32.280
+of Indonesia or the other country, is a lot of island.
+
+99
+04:32.280 --> 04:35.183
+In that case, not great, the optical network.
+
+100
+04:35.183 --> 04:39.540
+In that case, we needed to have the satellite communication
+
+101
+04:39.540 --> 04:44.460
+to provide the cloud access or the internet service.
+
+102
+04:44.460 --> 04:49.460
+So in terms of this, satellite connectivity is quite useful
+
+103
+04:51.060 --> 04:52.710
+to provide the internet service
+
+104
+04:52.710 --> 04:56.583
+to the whole of the people, whole of the area.
+
+105
+04:58.235 --> 05:03.235
+Also, actually we just use any kind of the video content
+
+106
+05:05.730 --> 05:09.060
+or the education, hospital.
+
+107
+05:09.060 --> 05:13.380
+So it is quite a great convenience
+
+108
+05:13.380 --> 05:14.820
+for the whole of people.
+
+109
+05:14.820 --> 05:17.790
+The other way take is,
+
+110
+05:17.790 --> 05:22.790
+if we just have some problem, the fiber optical line,
+
+111
+05:22.890 --> 05:24.000
+the satellite communication,
+
+112
+05:24.000 --> 05:28.470
+quite great backup infrastructure.
+
+113
+05:28.470 --> 05:31.683
+One of the example, maybe last year is,
+
+114
+05:33.180 --> 05:36.570
+in China, the fishing boat,
+
+115
+05:36.570 --> 05:41.340
+they just cut the ocean fiber optical line,
+
+116
+05:41.340 --> 05:43.500
+nearby the Taiwan area.
+
+117
+05:43.500 --> 05:45.870
+In the case, Taiwan government, okay,
+
+118
+05:45.870 --> 05:49.500
+we just make the backup communication with the satellite.
+
+119
+05:49.500 --> 05:52.618
+So for this reason, actually satellite communication,
+
+120
+05:52.618 --> 05:55.200
+satellite connectivity is quite useful.
+
+121
+05:55.200 --> 05:57.990
+But we also have some of the drawback.
+
+122
+05:57.990 --> 06:02.990
+So limited bandwidth, also more delay.
+
+123
+06:03.150 --> 06:05.730
+So for this reason, as I know, the AWS,
+
+124
+06:05.730 --> 06:10.730
+you just co-work with the Unibap or the D-Orbit,
+
+125
+06:11.640 --> 06:14.700
+to serve this kind of the issue,
+
+126
+06:14.700 --> 06:18.570
+though maybe in the near future, maybe AWS,
+
+127
+06:18.570 --> 06:21.270
+we just make this kind of the solution also.
+
+128
+06:21.270 --> 06:23.479
+Yeah, that is my perspective.
+
+129
+06:23.479 --> 06:24.312
+<v ->Thank you.</v>
+
+130
+06:24.312 --> 06:26.100
+<v ->Yeah, I think, so it's important.</v>
+
+131
+06:26.100 --> 06:28.920
+This is a very broad topic, right?
+
+132
+06:28.920 --> 06:31.740
+If you go to the website for this session,
+
+133
+06:31.740 --> 06:33.480
+there's a couple sentences describing,
+
+134
+06:33.480 --> 06:35.640
+but really you could unpack it in so many ways.
+
+135
+06:35.640 --> 06:37.860
+So I think it's important to parse it
+
+136
+06:37.860 --> 06:39.930
+in a way that's gonna be relevant for your business
+
+137
+06:39.930 --> 06:41.073
+or for your customer.
+
+138
+06:42.300 --> 06:44.580
+Power of three, to simplify it,
+
+139
+06:44.580 --> 06:47.010
+I think there's one segment which is,
+
+140
+06:47.010 --> 06:48.270
+all right, so data center
+
+141
+06:48.270 --> 06:52.020
+and computing in space for a space economy use.
+
+142
+06:52.020 --> 06:54.600
+So in space, what are the challenges?
+
+143
+06:54.600 --> 06:55.980
+What are the opportunities?
+
+144
+06:55.980 --> 06:58.710
+The second one is terrestrial, non-terrestrial.
+
+145
+06:58.710 --> 07:01.590
+So a very obvious one there
+
+146
+07:01.590 --> 07:03.810
+for some of us is Earth observation.
+
+147
+07:03.810 --> 07:07.380
+So what role do data centers either terrestrially
+
+148
+07:07.380 --> 07:09.840
+or eventually data centers in space?
+
+149
+07:09.840 --> 07:11.280
+And that's by the way, not going
+
+150
+07:11.280 --> 07:13.650
+to be the big monolithic structures
+
+151
+07:13.650 --> 07:16.560
+that you see in Arizona being lofted into orbit.
+
+152
+07:16.560 --> 07:18.570
+Well, I don't think so anyway.
+
+153
+07:18.570 --> 07:21.420
+So re-imagining data centers is part of the narrative,
+
+154
+07:21.420 --> 07:23.820
+but that terrestrial, non-terrestrial is
+
+155
+07:23.820 --> 07:25.680
+how do we take Earth observation images,
+
+156
+07:25.680 --> 07:28.200
+which is a tremendous amount of data, not just optically,
+
+157
+07:28.200 --> 07:31.500
+but other variety data formats that are now being able
+
+158
+07:31.500 --> 07:33.720
+to be detected with remote sensing,
+
+159
+07:33.720 --> 07:36.000
+and being able to use that here on Earth
+
+160
+07:36.000 --> 07:38.130
+for a variety of use cases.
+
+161
+07:38.130 --> 07:40.110
+And then the third segment,
+
+162
+07:40.110 --> 07:43.260
+or the third dimension to think about data centers
+
+163
+07:43.260 --> 07:46.080
+and computing in space is really the energy challenge
+
+164
+07:46.080 --> 07:47.700
+that we have with AI.
+
+165
+07:47.700 --> 07:50.610
+So NTT, we're a significant provider
+
+166
+07:50.610 --> 07:51.840
+in the data center business.
+
+167
+07:51.840 --> 07:52.673
+So this is something
+
+168
+07:52.673 --> 07:55.080
+that we're thinking about very, very carefully is
+
+169
+07:55.080 --> 07:57.720
+that the demands of AI and compute,
+
+170
+07:57.720 --> 07:59.580
+and by the way, I'm former Nvidia,
+
+171
+07:59.580 --> 08:02.310
+I worked on a team that was the mobile group,
+
+172
+08:02.310 --> 08:04.980
+that was Tegra, which is now some of the foundation
+
+173
+08:04.980 --> 08:06.930
+of what's in Nvidia today.
+
+174
+08:06.930 --> 08:09.180
+And by the way, no, I did not hold onto my stock
+
+175
+08:09.180 --> 08:11.520
+when I left in 2010, so please don't ask me.
+
+176
+08:11.520 --> 08:13.020
+It's a very sore topic.
+
+177
+08:13.020 --> 08:14.790
+Although of course I'm a big fan of Jensen,
+
+178
+08:14.790 --> 08:16.230
+and I know he really was able
+
+179
+08:16.230 --> 08:18.330
+to kick things off here at CES.
+
+180
+08:18.330 --> 08:22.860
+But the idea is that how can we use space ecosystem
+
+181
+08:22.860 --> 08:25.140
+to help solve for some of these challenges?
+
+182
+08:25.140 --> 08:27.660
+Because as AI, agentic AI,
+
+183
+08:27.660 --> 08:31.590
+and that just becomes a natural fabric of how we use compute
+
+184
+08:31.590 --> 08:33.060
+and digital economies of the future.
+
+185
+08:33.060 --> 08:35.550
+And by the way, 2 billion people around the world,
+
+186
+08:35.550 --> 08:37.500
+still not even really online yet.
+
+187
+08:37.500 --> 08:38.970
+And as they come online,
+
+188
+08:38.970 --> 08:40.440
+how are we gonna manage all of that?
+
+189
+08:40.440 --> 08:44.370
+And thinking about the space in orbit as something
+
+190
+08:44.370 --> 08:47.160
+that can help us address that is going to be key.
+
+191
+08:47.160 --> 08:49.560
+Of course, what is going to be a major barrier to that is
+
+192
+08:49.560 --> 08:51.780
+if it gets too darn crowded up there, if it's true
+
+193
+08:51.780 --> 08:53.430
+that we have a hundred thousand LEO
+
+194
+08:53.430 --> 08:56.220
+or satellites in orbit by the year 2030,
+
+195
+08:56.220 --> 08:57.780
+it's going to be very, very crowded.
+
+196
+08:57.780 --> 09:00.000
+And I think that's gonna create some significant challenges.
+
+197
+09:00.000 --> 09:01.410
+But I just wanted to kind
+
+198
+09:01.410 --> 09:05.250
+of explain how I think about this topic.
+
+199
+09:05.250 --> 09:06.600
+It's very wide,
+
+200
+09:06.600 --> 09:08.310
+but if we simplify it to those three areas,
+
+201
+09:08.310 --> 09:10.380
+I think becomes a little bit easier in terms
+
+202
+09:10.380 --> 09:14.100
+of drilling down on specific, not rabbit holes,
+
+203
+09:14.100 --> 09:16.683
+maybe more grooves of the record I'll say.
+
+204
+09:17.700 --> 09:18.533
+<v ->Yeah, thank you.</v>
+
+205
+09:18.533 --> 09:20.580
+It's a pleasure to be here at CES.
+
+206
+09:20.580 --> 09:22.770
+It's my first time here at CES,
+
+207
+09:22.770 --> 09:25.380
+and so thank you to Contec for inviting me,
+
+208
+09:25.380 --> 09:27.540
+and Novaspace for inviting me.
+
+209
+09:27.540 --> 09:29.833
+And then my friends, Dr. Lee at Contec
+
+210
+09:29.833 --> 09:31.653
+and Rika Nakazawa at NTT,
+
+211
+09:31.653 --> 09:35.160
+it's a privilege to be with you on the stage here too.
+
+212
+09:35.160 --> 09:37.530
+I think this is a really, really interesting topic,
+
+213
+09:37.530 --> 09:40.350
+which is one of the reasons I was excited to be here.
+
+214
+09:40.350 --> 09:41.580
+I think the integration
+
+215
+09:41.580 --> 09:44.490
+of these technologies is inevitable, right?
+
+216
+09:44.490 --> 09:48.270
+Between space and satcom and cloud
+
+217
+09:48.270 --> 09:49.860
+and data and data centers,
+
+218
+09:49.860 --> 09:53.100
+the integration is already occurring, but it's inevitable.
+
+219
+09:53.100 --> 09:55.050
+And it's inevitable for a couple of reasons.
+
+220
+09:55.050 --> 09:58.920
+One, we will never use as a people on the planet Earth,
+
+221
+09:58.920 --> 10:02.100
+we will never use space less tomorrow
+
+222
+10:02.100 --> 10:03.810
+than we use it today, right?
+
+223
+10:03.810 --> 10:06.660
+If we just go back and look over time, we have continued
+
+224
+10:06.660 --> 10:08.790
+to use space in more and more ways.
+
+225
+10:08.790 --> 10:10.710
+There are so many ways we use space today
+
+226
+10:10.710 --> 10:13.800
+that we didn't even envision 10 years ago, 15 years ago,
+
+227
+10:13.800 --> 10:17.550
+30 years ago, including using space data on your phone
+
+228
+10:17.550 --> 10:20.310
+to figure out the best way to get from your hotel
+
+229
+10:20.310 --> 10:22.770
+to the Las Vegas Convention Center here today, right?
+
+230
+10:22.770 --> 10:24.750
+We never anticipated that.
+
+231
+10:24.750 --> 10:26.460
+When space was born,
+
+232
+10:26.460 --> 10:29.760
+it was born primarily as a means to collect intelligence
+
+233
+10:29.760 --> 10:31.410
+and to provide communications.
+
+234
+10:31.410 --> 10:33.270
+And then we've seen the explosion
+
+235
+10:33.270 --> 10:35.040
+of the way we use space technology
+
+236
+10:35.040 --> 10:38.520
+and space capability today that will only increase.
+
+237
+10:38.520 --> 10:40.473
+It will never get less than.
+
+238
+10:41.310 --> 10:42.570
+When I look at the cloud,
+
+239
+10:42.570 --> 10:45.450
+and I'm privileged to work for Amazon Web Services,
+
+240
+10:45.450 --> 10:48.210
+a leading cloud provider in the world,
+
+241
+10:48.210 --> 10:50.940
+we will never consume less cloud
+
+242
+10:50.940 --> 10:53.460
+in the world than we do today, I don't believe so.
+
+243
+10:53.460 --> 10:55.620
+We have all understood the power
+
+244
+10:55.620 --> 10:57.360
+of cloud-based technologies,
+
+245
+10:57.360 --> 10:59.760
+whether it's artificial intelligence, machine learning,
+
+246
+10:59.760 --> 11:03.420
+advanced data analytics, quantum computing, micro computing,
+
+247
+11:03.420 --> 11:04.770
+whatever the case may be.
+
+248
+11:04.770 --> 11:07.440
+There are so many extraordinary technologies today
+
+249
+11:07.440 --> 11:09.240
+that really can only be harvested
+
+250
+11:09.240 --> 11:11.940
+and leveraged at scale on the cloud.
+
+251
+11:11.940 --> 11:13.170
+We will never, as a people,
+
+252
+11:13.170 --> 11:16.830
+use less cloud tomorrow than we do today.
+
+253
+11:16.830 --> 11:19.050
+So when we bring those together, we recognize
+
+254
+11:19.050 --> 11:21.510
+that we've got these multi technologies
+
+255
+11:21.510 --> 11:24.930
+that are all coming together in a unique fashion and fabric,
+
+256
+11:24.930 --> 11:26.520
+and they go so well together,
+
+257
+11:26.520 --> 11:29.670
+because they enable the growth of each other.
+
+258
+11:29.670 --> 11:33.660
+Space and space data will enable the growth of the cloud,
+
+259
+11:33.660 --> 11:35.430
+and the cloud will enable the growth
+
+260
+11:35.430 --> 11:37.650
+of what we use for space and space data.
+
+261
+11:37.650 --> 11:39.870
+So it's just an exciting time.
+
+262
+11:39.870 --> 11:44.013
+I really appreciate Rika's point about the space economy.
+
+263
+11:44.880 --> 11:47.340
+Some people call it space for space
+
+264
+11:47.340 --> 11:50.550
+versus space for terrestrial or space for Earth,
+
+265
+11:50.550 --> 11:53.250
+because those are two very unique markets
+
+266
+11:53.250 --> 11:55.173
+that we see right now today.
+
+267
+11:57.030 --> 12:00.480
+Today and in the near term, most of the processing,
+
+268
+12:00.480 --> 12:02.520
+the vast majority of the processing
+
+269
+12:02.520 --> 12:05.730
+of space data, goes on today on the earth.
+
+270
+12:05.730 --> 12:08.190
+And that has been okay to this point,
+
+271
+12:08.190 --> 12:11.160
+but as we're bringing more and more data down,
+
+272
+12:11.160 --> 12:14.100
+and we require less and less latency,
+
+273
+12:14.100 --> 12:16.020
+and more and more bandwidth, we're gonna have
+
+274
+12:16.020 --> 12:19.320
+to make a choice about whether we wanna process in orbit.
+
+275
+12:19.320 --> 12:21.420
+And I appreciate Dr. Lee's reference
+
+276
+12:21.420 --> 12:23.460
+to the demonstration we did
+
+277
+12:23.460 --> 12:26.130
+with our friends at D-Orbit two years ago
+
+278
+12:26.130 --> 12:29.850
+where we put an on orbit edge computing capability
+
+279
+12:29.850 --> 12:33.000
+on a D-Orbit satellite and demonstrated that that works.
+
+280
+12:33.000 --> 12:36.270
+And we reduced downlink requirements by 42%
+
+281
+12:36.270 --> 12:39.450
+by processing on orbit rather than pushing it to the ground.
+
+282
+12:39.450 --> 12:41.190
+So we're gonna see more and more of that.
+
+283
+12:41.190 --> 12:44.010
+And then, I'll turn over the microphone here,
+
+284
+12:44.010 --> 12:46.530
+but as we look at the space economy,
+
+285
+12:46.530 --> 12:49.140
+or space for space, as we think
+
+286
+12:49.140 --> 12:51.930
+about in-orbit satellite servicing,
+
+287
+12:51.930 --> 12:54.630
+in-orbit space manufacturing,
+
+288
+12:54.630 --> 12:56.940
+asteroid mining, space tourism,
+
+289
+12:56.940 --> 12:58.920
+moving through the Artemis program
+
+290
+12:58.920 --> 13:00.960
+onto the moon and then onto Mars,
+
+291
+13:00.960 --> 13:04.440
+the number of use cases for cloud
+
+292
+13:04.440 --> 13:07.080
+and satellite technology in the space economy,
+
+293
+13:07.080 --> 13:10.320
+I think will ultimately outpace what we're using space
+
+294
+13:10.320 --> 13:13.080
+for here on the earth over time, decades from now.
+
+295
+13:13.080 --> 13:15.630
+But those are just two really powerful ways
+
+296
+13:15.630 --> 13:16.463
+to think about it.
+
+297
+13:16.463 --> 13:18.690
+And Rika, I appreciate you teeing those two up.
+
+298
+13:18.690 --> 13:20.700
+<v ->Actually since you brought up space tourism.</v>
+
+299
+13:20.700 --> 13:22.590
+Do you mind Dara if I ask the audience a question?
+
+300
+13:22.590 --> 13:24.225
+<v ->Go right ahead, please.</v>
+
+301
+13:24.225 --> 13:25.560
+<v ->I'm just curious,</v>
+
+302
+13:25.560 --> 13:27.300
+because I'm starting to ask this question,
+
+303
+13:27.300 --> 13:28.800
+not just at dinner parties anymore,
+
+304
+13:28.800 --> 13:31.470
+but forums like this, by show of hands, how many
+
+305
+13:31.470 --> 13:34.470
+of you are interested in going to the moon
+
+306
+13:34.470 --> 13:35.870
+if you could go to the moon?
+
+307
+13:38.340 --> 13:39.300
+Okay.
+
+308
+13:39.300 --> 13:40.842
+<v ->About half.</v>
+<v ->Yeah, about half.</v>
+
+309
+13:40.842 --> 13:41.790
+<v ->About half, maybe about half.</v>
+
+310
+13:41.790 --> 13:42.623
+<v ->Great. Thank you.</v>
+
+311
+13:42.623 --> 13:43.830
+I was just curious. Thanks.
+
+312
+13:43.830 --> 13:45.413
+<v ->Not at all.</v>
+<v ->Depends on price.</v>
+
+313
+13:46.520 --> 13:47.640
+<v ->Depends on price point.</v>
+
+314
+13:47.640 --> 13:49.020
+<v ->That's usually my next question is</v>
+
+315
+13:49.020 --> 13:52.020
+what is the maximum disposable income amount you would
+
+316
+13:52.020 --> 13:54.120
+pay today to go to space?
+
+317
+13:54.120 --> 13:58.642
+And the number that I've gotten mostly is $10,000.
+
+318
+13:58.642 --> 14:00.693
+<v ->$10,000. Hmm.</v>
+
+319
+14:01.950 --> 14:03.650
+<v ->How much would you pay? Maximum.</v>
+
+320
+14:04.957 --> 14:06.330
+<v ->Maximum is 1 million.</v>
+<v ->1 million?</v>
+
+321
+14:06.330 --> 14:08.070
+<v ->Yeah.</v>
+<v ->Wow.</v>
+
+322
+14:08.070 --> 14:09.738
+<v ->Yeah.</v>
+<v ->All right. Thank you.</v>
+
+323
+14:09.738 --> 14:12.570
+<v ->Well, Rika, since you kindly went in uncharted territory,</v>
+
+324
+14:12.570 --> 14:17.400
+let's ask you to talk a little bit about today,
+
+325
+14:17.400 --> 14:20.400
+space to Earth, tangible applications.
+
+326
+14:20.400 --> 14:22.140
+NTT's got a few solutions
+
+327
+14:22.140 --> 14:24.390
+that's either in testing or deployed.
+
+328
+14:24.390 --> 14:26.370
+There's NTT network in a box.
+
+329
+14:26.370 --> 14:28.170
+I think it's probably got a more formal name than that,
+
+330
+14:28.170 --> 14:29.970
+but that's the name I go with.
+
+331
+14:29.970 --> 14:33.720
+And then NTT is part of a very interesting demonstration
+
+332
+14:33.720 --> 14:37.800
+ongoing in conjunction with JSAT, a satellite operator,
+
+333
+14:37.800 --> 14:40.950
+Aalto, a HAPS provider, and trying
+
+334
+14:40.950 --> 14:43.230
+to look at traditional and non-traditional space
+
+335
+14:43.230 --> 14:45.960
+and aerospace solutions to providing connectivity.
+
+336
+14:45.960 --> 14:48.390
+Love to hear about some of the tangible applications
+
+337
+14:48.390 --> 14:51.840
+in terms of how we connect corporate and other solutions.
+
+338
+14:51.840 --> 14:54.180
+<v ->Yeah, and thanks for doing the homework. That's awesome.</v>
+
+339
+14:54.180 --> 14:57.840
+So yes, network in a box. We affectionately call it the NIB.
+
+340
+14:57.840 --> 15:01.320
+It is private 5G, private wireless network in a box.
+
+341
+15:01.320 --> 15:02.490
+So it's about the size
+
+342
+15:02.490 --> 15:06.420
+of maybe the refrigerator you have in your Vegas hotel,
+
+343
+15:06.420 --> 15:08.520
+times two, depending on the size
+
+344
+15:08.520 --> 15:10.470
+of the fridge, but roughly that.
+
+345
+15:10.470 --> 15:14.280
+And the team at NTT Data, we're working
+
+346
+15:14.280 --> 15:16.890
+with SES as a partner around that.
+
+347
+15:16.890 --> 15:18.660
+So Mobile World Congress, we showcase that.
+
+348
+15:18.660 --> 15:20.880
+For any of you going to MWC next year,
+
+349
+15:20.880 --> 15:22.860
+you'll see the next iteration of that.
+
+350
+15:22.860 --> 15:24.840
+But that's all about with MEO satellite
+
+351
+15:24.840 --> 15:27.210
+to terrestrial and backhaul.
+
+352
+15:27.210 --> 15:28.740
+But more specifically, a couple
+
+353
+15:28.740 --> 15:30.000
+of the other advanced initiatives
+
+354
+15:30.000 --> 15:31.140
+that we're working on, are really
+
+355
+15:31.140 --> 15:33.450
+around terrestrial, non-terrestrial connectivity.
+
+356
+15:33.450 --> 15:35.700
+The session before this was about connected vehicle,
+
+357
+15:35.700 --> 15:38.070
+which is one of the use case areas,
+
+358
+15:38.070 --> 15:40.740
+or business case areas, that is of great interest
+
+359
+15:40.740 --> 15:42.180
+of terrestrial, non-terrestrial.
+
+360
+15:42.180 --> 15:44.850
+So being able to use 3GPP standards
+
+361
+15:44.850 --> 15:48.300
+to enable narrow band IoT connectivity in remote locations,
+
+362
+15:48.300 --> 15:52.260
+which of course, SpaceX has already been working on.
+
+363
+15:52.260 --> 15:55.260
+And there's already I think, Chinese entities
+
+364
+15:55.260 --> 15:57.720
+that have been demonstrating 6G direct to satellite.
+
+365
+15:57.720 --> 15:59.640
+So there's a lot of interesting developments
+
+366
+15:59.640 --> 16:01.950
+that are happening around terrestrial, non-terrestrial.
+
+367
+16:01.950 --> 16:04.200
+But the area that I've been spending most of my time on,
+
+368
+16:04.200 --> 16:06.840
+because one of my other areas is sustainability,
+
+369
+16:06.840 --> 16:10.290
+just in general of where sustainability hits the business
+
+370
+16:10.290 --> 16:13.260
+and commercial road, is Earth observation.
+
+371
+16:13.260 --> 16:14.520
+So about three months ago,
+
+372
+16:14.520 --> 16:16.560
+World Economic Forum in Deloitte did a study.
+
+373
+16:16.560 --> 16:18.720
+They said that Earth observation has the opportunity
+
+374
+16:18.720 --> 16:22.110
+to unlock $700 billion worth of value.
+
+375
+16:22.110 --> 16:23.970
+Earth observation has been predominantly
+
+376
+16:23.970 --> 16:27.810
+in the domain of military and intelligence
+
+377
+16:27.810 --> 16:30.450
+for reasons that are around geopolitical
+
+378
+16:30.450 --> 16:34.530
+and just tracking movement of vehicles, people,
+
+379
+16:34.530 --> 16:36.120
+and machinery around the world.
+
+380
+16:36.120 --> 16:38.100
+But really Earth observation is
+
+381
+16:38.100 --> 16:40.860
+around leveraging the advances that are happening
+
+382
+16:40.860 --> 16:43.710
+in remote sensing satellites to be able
+
+383
+16:43.710 --> 16:46.080
+to find commercial applications,
+
+384
+16:46.080 --> 16:48.060
+private sector applications,
+
+385
+16:48.060 --> 16:49.830
+which at NTT we've been looking at.
+
+386
+16:49.830 --> 16:51.060
+We've launched a new group
+
+387
+16:51.060 --> 16:53.940
+within NTT called Marble Visions, which is an ode
+
+388
+16:53.940 --> 16:55.950
+to the blue marble image that was taken
+
+389
+16:55.950 --> 16:58.030
+in 1972 by Apollo 17,
+
+390
+16:58.030 --> 16:59.940
+where the astronauts looked at the earth
+
+391
+16:59.940 --> 17:02.100
+and they said, that looks really fragile,
+
+392
+17:02.100 --> 17:03.720
+and they called it the blue marble.
+
+393
+17:03.720 --> 17:06.330
+And hence Marble Visions is our ode to that.
+
+394
+17:06.330 --> 17:09.090
+And so we're working on a vertically integrated solution,
+
+395
+17:09.090 --> 17:12.660
+which is all around putting satellites in orbit in 2026,
+
+396
+17:12.660 --> 17:14.640
+Earth observation, with some partners,
+
+397
+17:14.640 --> 17:19.347
+and being able to readily capture optical, SAR,
+
+398
+17:19.347 --> 17:22.650
+hyperspectral, multispectral, variety of data images
+
+399
+17:22.650 --> 17:24.570
+around geographic footprints,
+
+400
+17:24.570 --> 17:26.910
+and being able to integrate, institute data,
+
+401
+17:26.910 --> 17:30.150
+so from IoT devices or from machine vision cameras,
+
+402
+17:30.150 --> 17:33.390
+and create a dynamic digital twin,
+
+403
+17:33.390 --> 17:35.520
+which sounds very Star Trek holography.
+
+404
+17:35.520 --> 17:37.830
+But we do believe that that is going to be something
+
+405
+17:37.830 --> 17:40.050
+that will be coming in the very near future.
+
+406
+17:40.050 --> 17:42.630
+And those are some of the areas that we're investing in.
+
+407
+17:42.630 --> 17:47.100
+And for us, when we talk about the space ecosystem,
+
+408
+17:47.100 --> 17:50.130
+it's not science fiction stuff, it's a natural extension
+
+409
+17:50.130 --> 17:51.900
+of what NTT does today
+
+410
+17:51.900 --> 17:54.630
+around connectivity, data, and intelligence.
+
+411
+17:54.630 --> 17:57.330
+So it's a natural extension of that fabric.
+
+412
+17:57.330 --> 18:00.300
+And last summer we announced C89.
+
+413
+18:00.300 --> 18:04.290
+C stands for constellation, Constellation 89 being the name
+
+414
+18:04.290 --> 18:06.600
+that we're giving for all the different initiatives
+
+415
+18:06.600 --> 18:07.920
+that NTT is driving.
+
+416
+18:07.920 --> 18:10.740
+And we spend three and a half billion dollars
+
+417
+18:10.740 --> 18:12.480
+on R &amp; D every year.
+
+418
+18:12.480 --> 18:15.420
+And a part of that is around space and satellite ecosystem.
+
+419
+18:15.420 --> 18:16.830
+So if there's anybody that would like
+
+420
+18:16.830 --> 18:18.600
+to learn more about what we're doing there,
+
+421
+18:18.600 --> 18:20.880
+because it doesn't take the village anymore,
+
+422
+18:20.880 --> 18:25.440
+it takes the whole cosmic, space system to make this happen,
+
+423
+18:25.440 --> 18:28.264
+we'd love to talk to anybody afterwards, thank you.
+
+424
+18:28.264 --> 18:29.340
+<v ->Thank you, Rika.</v>
+
+425
+18:29.340 --> 18:31.110
+Clint, if we can pull on that thread a little bit,
+
+426
+18:31.110 --> 18:32.130
+we'd love to hear some more sort
+
+427
+18:32.130 --> 18:36.330
+of practical, tangible examples of the concept.
+
+428
+18:36.330 --> 18:39.960
+I know AWS has spent a lot of time solving for on-premise,
+
+429
+18:39.960 --> 18:42.660
+edge focused solutions, aggregation solutions,
+
+430
+18:42.660 --> 18:43.860
+localized processing.
+
+431
+18:43.860 --> 18:45.240
+If you could share some
+
+432
+18:45.240 --> 18:47.280
+of these containerized, if you will, solutions
+
+433
+18:47.280 --> 18:50.760
+with the audience, give them a lay person's sense
+
+434
+18:50.760 --> 18:53.400
+of how this is working and connected by satellite,
+
+435
+18:53.400 --> 18:54.540
+I think that'd be very helpful.
+
+436
+18:54.540 --> 18:56.160
+<v ->Yeah, thank you. Happy to do that.</v>
+
+437
+18:56.160 --> 18:59.130
+So I will tell you, four years ago, AWS sort
+
+438
+18:59.130 --> 19:01.140
+of looked out across this industry
+
+439
+19:01.140 --> 19:02.520
+and saw a lot of this growth
+
+440
+19:02.520 --> 19:04.770
+that we're talking about right now today.
+
+441
+19:04.770 --> 19:06.870
+And the first sort of foray
+
+442
+19:06.870 --> 19:09.810
+into the dedicated space mission,
+
+443
+19:09.810 --> 19:12.810
+now we've been supporting space organizations, like NASA,
+
+444
+19:12.810 --> 19:17.100
+at AWS for over a decade, but four years ago we came up
+
+445
+19:17.100 --> 19:19.530
+with a dedicated space focus mission,
+
+446
+19:19.530 --> 19:22.170
+and we launched the AWS Ground Station.
+
+447
+19:22.170 --> 19:24.360
+And the idea behind AWS Ground Station,
+
+448
+19:24.360 --> 19:28.410
+with ground station as a service, was simply, one,
+
+449
+19:28.410 --> 19:30.660
+there aren't enough ground stations out there
+
+450
+19:30.660 --> 19:32.100
+or won't be over time.
+
+451
+19:32.100 --> 19:34.170
+And we're seeing that right now, even today.
+
+452
+19:34.170 --> 19:35.640
+When you look at the number of satellites
+
+453
+19:35.640 --> 19:38.520
+that'll be on orbit in the next 5 years, 10 years,
+
+454
+19:38.520 --> 19:41.670
+the ground system industry will tell you
+
+455
+19:41.670 --> 19:45.270
+that we're concerned about the capacity that we can process
+
+456
+19:45.270 --> 19:46.680
+through all the ground stations.
+
+457
+19:46.680 --> 19:48.420
+So it was an additive value
+
+458
+19:48.420 --> 19:50.130
+to the ground station total capacity.
+
+459
+19:50.130 --> 19:53.130
+But more importantly, more importantly, the value
+
+460
+19:53.130 --> 19:54.930
+behind the AWS Ground Station was
+
+461
+19:54.930 --> 19:56.130
+we built the ground station
+
+462
+19:56.130 --> 19:59.910
+such that they're directly connected into the AWS cloud.
+
+463
+19:59.910 --> 20:01.800
+So we created even four years ago,
+
+464
+20:01.800 --> 20:04.380
+the very first direct connectivity
+
+465
+20:04.380 --> 20:08.100
+from satellite on orbit data into the AWS cloud.
+
+466
+20:08.100 --> 20:11.550
+So Earth observation companies like Capella and BlackSky
+
+467
+20:11.550 --> 20:14.790
+and others that are using the AWS Ground Station have been
+
+468
+20:14.790 --> 20:18.390
+for some years porting their data directly from space
+
+469
+20:18.390 --> 20:20.220
+into the AWS cloud to be able
+
+470
+20:20.220 --> 20:23.100
+to process near instantaneously,
+
+471
+20:23.100 --> 20:27.510
+and get reduced latency, increased security, et cetera.
+
+472
+20:27.510 --> 20:30.000
+So that's one of the things, even going back four years ago,
+
+473
+20:30.000 --> 20:31.170
+we started seeing the need
+
+474
+20:31.170 --> 20:34.200
+for direct connect capability from space into the cloud
+
+475
+20:34.200 --> 20:35.553
+or into data centers.
+
+476
+20:36.450 --> 20:39.480
+Two years later, we partnered with one of our partners
+
+477
+20:39.480 --> 20:43.110
+and friends, SES systems, SES satellites,
+
+478
+20:43.110 --> 20:47.220
+where SES built the first direct connect capability
+
+479
+20:47.220 --> 20:49.050
+from their satellites.
+
+480
+20:49.050 --> 20:50.790
+So what I described previously
+
+481
+20:50.790 --> 20:54.480
+with AWS Ground Station was an Earth observation satellite
+
+482
+20:54.480 --> 20:57.630
+downloading its Earth observation data into the cloud.
+
+483
+20:57.630 --> 21:00.807
+SES is a satcom provider, satellite communications.
+
+484
+21:00.807 --> 21:03.480
+And so we built the first partnership with SES
+
+485
+21:03.480 --> 21:06.870
+where we directly connected their satcom satellites
+
+486
+21:06.870 --> 21:11.100
+into the AWS cloud to let you port any data you wanted,
+
+487
+21:11.100 --> 21:13.560
+whether it was Earth observation or other.
+
+488
+21:13.560 --> 21:16.440
+And so with those direct connect capabilities from SES
+
+489
+21:16.440 --> 21:19.860
+into the AWS cloud, we and SES were able
+
+490
+21:19.860 --> 21:22.170
+to support companies like shipping companies,
+
+491
+21:22.170 --> 21:25.350
+and mining companies, and oil platforms,
+
+492
+21:25.350 --> 21:27.720
+remote locations that typically
+
+493
+21:27.720 --> 21:30.450
+don't have global connectivity are now connected
+
+494
+21:30.450 --> 21:32.850
+into the AWS cloud via satellite.
+
+495
+21:32.850 --> 21:35.160
+And so we've been doing that for a couple years.
+
+496
+21:35.160 --> 21:38.850
+So as we've been exploring basic connectivity
+
+497
+21:38.850 --> 21:40.200
+between space and cloud,
+
+498
+21:40.200 --> 21:42.900
+and have been doing that for a couple years,
+
+499
+21:42.900 --> 21:46.860
+my friend Dr. Lee mentioned, and Dara, you mentioned,
+
+500
+21:46.860 --> 21:48.990
+moving into edge computing.
+
+501
+21:48.990 --> 21:50.760
+So let me touch that briefly.
+
+502
+21:50.760 --> 21:53.430
+AWS has really pioneered edge computing
+
+503
+21:53.430 --> 21:55.530
+over the last 10 or 12 years.
+
+504
+21:55.530 --> 21:57.840
+And basically when we think of edge computing,
+
+505
+21:57.840 --> 21:59.430
+I know a lot of people use the term,
+
+506
+21:59.430 --> 22:01.650
+but the way we think about edge computing,
+
+507
+22:01.650 --> 22:05.220
+if you aren't computing in a data center,
+
+508
+22:05.220 --> 22:06.810
+then you're doing edge computing, right?
+
+509
+22:06.810 --> 22:09.030
+That's the basic definition.
+
+510
+22:09.030 --> 22:10.110
+You're either computing
+
+511
+22:10.110 --> 22:12.540
+inside a cloud computing data center,
+
+512
+22:12.540 --> 22:13.770
+and if you're not computing
+
+513
+22:13.770 --> 22:15.810
+inside a cloud computing data center,
+
+514
+22:15.810 --> 22:17.250
+you're doing edge computing.
+
+515
+22:17.250 --> 22:21.780
+Now, sometime that edge compute might be across the street
+
+516
+22:21.780 --> 22:25.440
+at a business, it might be 20 miles away connected
+
+517
+22:25.440 --> 22:27.840
+by fiber or optical or other,
+
+518
+22:27.840 --> 22:32.070
+or it might be an oil platform
+
+519
+22:32.070 --> 22:34.230
+or a remote agriculture facility
+
+520
+22:34.230 --> 22:38.223
+or an IoT device out on a ship, commercial shipping.
+
+521
+22:39.060 --> 22:41.070
+So for a decade, AWS is focused
+
+522
+22:41.070 --> 22:43.160
+on developing edge computing capabilities.
+
+523
+22:43.160 --> 22:46.740
+In other words, it's too costly and difficult
+
+524
+22:46.740 --> 22:49.830
+for our customers to move their data to the cloud,
+
+525
+22:49.830 --> 22:53.070
+so rather we will push the cloud to their data.
+
+526
+22:53.070 --> 22:54.270
+So we built a whole set
+
+527
+22:54.270 --> 22:57.900
+of edge computing infrastructure with Outposts and others
+
+528
+22:57.900 --> 23:00.450
+that push the cloud infrastructure capability
+
+529
+23:00.450 --> 23:03.843
+to where the data is to make it easier for our customers.
+
+530
+23:04.770 --> 23:08.460
+Our customers that we're talking about today just so happen,
+
+531
+23:08.460 --> 23:12.210
+to operate off the surface of the planet in many ways.
+
+532
+23:12.210 --> 23:14.010
+So as we're thinking about edge computing,
+
+533
+23:14.010 --> 23:16.890
+it's a natural progression to move edge computing
+
+534
+23:16.890 --> 23:20.967
+from off the terrestrial planet Earth and into space.
+
+535
+23:20.967 --> 23:23.910
+And so Dr. Lee mentioned, we did a demonstration,
+
+536
+23:23.910 --> 23:25.560
+an experiment about two years ago
+
+537
+23:25.560 --> 23:27.180
+with our friends at D-Orbit
+
+538
+23:27.180 --> 23:29.310
+where we built a cloud computing package
+
+539
+23:29.310 --> 23:31.140
+that we had to modify, by the way,
+
+540
+23:31.140 --> 23:33.420
+because satellites have SWAP limitations,
+
+541
+23:33.420 --> 23:34.560
+size, weight, and power.
+
+542
+23:34.560 --> 23:36.960
+So we had to build a purpose-built capability
+
+543
+23:36.960 --> 23:39.540
+that went on D-Orbit satellite and D-Orbit launched it.
+
+544
+23:39.540 --> 23:42.480
+And then we ran the experiment for edge computing.
+
+545
+23:42.480 --> 23:43.313
+One of the other thing,
+
+546
+23:43.313 --> 23:45.990
+and as I said, it demonstrated 42% decrease
+
+547
+23:45.990 --> 23:49.620
+in downlink requirements, which saves a lot of time, energy,
+
+548
+23:49.620 --> 23:53.190
+and money in processing unnecessary bandwidth.
+
+549
+23:53.190 --> 23:54.960
+The other tangible example
+
+550
+23:54.960 --> 23:56.940
+that we did, was quite exciting, was we partnered
+
+551
+23:56.940 --> 23:59.160
+with our friends at Axiom Space.
+
+552
+23:59.160 --> 24:02.460
+And on the very first ever Axiom mission, Ax-1,
+
+553
+24:02.460 --> 24:04.530
+last year, year and a half ago,
+
+554
+24:04.530 --> 24:07.475
+Axiom launched what we call an AWS Snowcone.
+
+555
+24:07.475 --> 24:09.900
+A snowcone is a commercial off the shelf capability
+
+556
+24:09.900 --> 24:12.180
+that you can order, you can buy it,
+
+557
+24:12.180 --> 24:15.300
+you can employ it, there's some modifications happening
+
+558
+24:15.300 --> 24:17.880
+to it now, but it has been available
+
+559
+24:17.880 --> 24:20.550
+for commercial off the shelf capabilities,
+
+560
+24:20.550 --> 24:23.520
+and we built that such that it was rugged enough
+
+561
+24:23.520 --> 24:25.140
+that you could put it in the mail
+
+562
+24:25.140 --> 24:27.330
+and send it to remote locations.
+
+563
+24:27.330 --> 24:30.330
+When we built it at AWS, we didn't realize it was so rugged
+
+564
+24:30.330 --> 24:31.860
+we would actually be able to get it
+
+565
+24:31.860 --> 24:34.920
+through NASA's space flight qualification program.
+
+566
+24:34.920 --> 24:36.090
+But we did.
+
+567
+24:36.090 --> 24:38.700
+We spent seven months doing shock, and vibration,
+
+568
+24:38.700 --> 24:40.980
+and thermal, and acoustic testing, and everything else,
+
+569
+24:40.980 --> 24:42.960
+and it passed NASA's requirements
+
+570
+24:42.960 --> 24:45.690
+for in-flight space capability.
+
+571
+24:45.690 --> 24:48.630
+So we launched that onto the International Space Station,
+
+572
+24:48.630 --> 24:52.560
+and we've run a number of experiments with customers
+
+573
+24:52.560 --> 24:55.410
+like SpiderOak and the banking industry,
+
+574
+24:55.410 --> 24:58.740
+and other companies, including in Japan
+
+575
+24:58.740 --> 25:02.427
+that are supporting, JAXA, on what edge computing
+
+576
+25:02.427 --> 25:04.950
+and space means in an on orbit space station.
+
+577
+25:04.950 --> 25:06.120
+So those are a couple of things
+
+578
+25:06.120 --> 25:08.730
+that we've been working on over the last couple of years.
+
+579
+25:08.730 --> 25:11.250
+<v ->Thank you. That's very helpful and a very nice transition.</v>
+
+580
+25:11.250 --> 25:13.890
+Dr. Lee, you've been doing some very interesting work
+
+581
+25:13.890 --> 25:15.600
+in terms of using, you know,
+
+582
+25:15.600 --> 25:18.600
+relatively low cost pedestrian devices
+
+583
+25:18.600 --> 25:20.370
+to connect into IoT solutions.
+
+584
+25:20.370 --> 25:21.780
+Love to hear about what you're doing
+
+585
+25:21.780 --> 25:23.490
+and where you see that going.
+
+586
+25:23.490 --> 25:26.310
+<v ->Yeah, but actually for the space based connectivity,</v>
+
+587
+25:26.310 --> 25:28.803
+just to provide the various application,
+
+588
+25:29.730 --> 25:34.440
+not only the IoT service, also observation data, relay,
+
+589
+25:34.440 --> 25:38.583
+also the 5GNTN or D2D service,
+
+590
+25:39.450 --> 25:42.087
+actually I'm also the CEO of the APSI.
+
+591
+25:42.087 --> 25:45.990
+The APSI, I just would like to do one examples,
+
+592
+25:45.990 --> 25:48.570
+we just manufacturing the satellite mobile phone.
+
+593
+25:48.570 --> 25:52.410
+We just co-work with the direct communication and Inmarsat.
+
+594
+25:52.410 --> 25:56.040
+So nowadays, our partner just suggested,
+
+595
+25:56.040 --> 25:58.350
+why don't you make the MBI IoT
+
+596
+25:58.350 --> 25:59.790
+on the satellite mobile phone?
+
+597
+25:59.790 --> 26:02.490
+We just try to make a certain standard.
+
+598
+26:02.490 --> 26:07.490
+So in the near future, I think, now with the 5G,
+
+599
+26:07.890 --> 26:10.590
+in the near future, we just have the service
+
+600
+26:10.590 --> 26:13.320
+for the 6GNTN, stuff like that.
+
+601
+26:13.320 --> 26:16.890
+In that case, actually space based connectivity just
+
+602
+26:16.890 --> 26:21.890
+provide the 24 hours, 365 days, D2D service, over the world.
+
+603
+26:24.630 --> 26:29.010
+So I think, for this reason that we just try
+
+604
+26:29.010 --> 26:31.440
+to make the certain standard
+
+605
+26:31.440 --> 26:36.440
+with our Korea Electric Telecommunication Institute
+
+606
+26:36.450 --> 26:38.280
+maybe the three years later,
+
+607
+26:38.280 --> 26:41.910
+maybe we be just make our standard
+
+608
+26:41.910 --> 26:44.580
+with the other country.
+
+609
+26:44.580 --> 26:49.170
+So yeah, in the case we just have the more,
+
+610
+26:49.170 --> 26:53.910
+the useful space based connectivity with our mobile phone.
+
+611
+26:53.910 --> 26:56.310
+We just provide the D2D service.
+
+612
+26:56.310 --> 26:58.293
+Also in terms of IoT service,
+
+613
+26:59.370 --> 27:03.830
+in case of the Singapore, also in South Korea, the ministry
+
+614
+27:03.830 --> 27:05.957
+of the transportation, they just try to make some
+
+615
+27:05.957 --> 27:09.390
+of the IoT sensor, whole smart city.
+
+616
+27:09.390 --> 27:12.120
+Or when satellite passed by our country,
+
+617
+27:12.120 --> 27:16.260
+we just scanning whole of the IoT data with the satellite.
+
+618
+27:16.260 --> 27:18.870
+And the satellite just also dropped down,
+
+619
+27:18.870 --> 27:23.730
+drop the whole data to the data center, the ground station,
+
+620
+27:23.730 --> 27:25.590
+and then we just correct,
+
+621
+27:25.590 --> 27:27.780
+then we just analysis those current data
+
+622
+27:27.780 --> 27:31.833
+with the space connectivity service, yeah.
+
+623
+27:32.940 --> 27:34.980
+<v ->Please, Rika, go ahead.</v>
+
+624
+27:34.980 --> 27:38.400
+<v ->Since you mentioned our collaboration with JSAT,</v>
+
+625
+27:38.400 --> 27:41.370
+there is also this, it's not a new technology.
+
+626
+27:41.370 --> 27:43.740
+Optical data relay is not a new thing,
+
+627
+27:43.740 --> 27:45.690
+but in the space sector it's going
+
+628
+27:45.690 --> 27:46.980
+to create some breakthroughs,
+
+629
+27:46.980 --> 27:49.650
+because optical data relay, so we have a partnership
+
+630
+27:49.650 --> 27:52.230
+with JSAT, a venture called Space Compass.
+
+631
+27:52.230 --> 27:55.050
+So it's a joint venture between NTT and JSAT.
+
+632
+27:55.050 --> 27:56.310
+And the idea is to be able
+
+633
+27:56.310 --> 27:58.230
+to do optical data relay in space,
+
+634
+27:58.230 --> 28:00.300
+which will bring down the latency
+
+635
+28:00.300 --> 28:01.680
+and increase the throughput,
+
+636
+28:01.680 --> 28:04.800
+and also obviate some of the challenges we have with RF,
+
+637
+28:04.800 --> 28:08.130
+and being able to bring things back down to Earth.
+
+638
+28:08.130 --> 28:11.280
+So there's the optical data relay innovation.
+
+639
+28:11.280 --> 28:14.100
+And then the other piece that we are also looking at is
+
+640
+28:14.100 --> 28:17.580
+in the high altitude platform system orbit.
+
+641
+28:17.580 --> 28:21.030
+So it's really about a multi orbit strategy and connectivity
+
+642
+28:21.030 --> 28:23.460
+and being able to have sort
+
+643
+28:23.460 --> 28:26.670
+of a high availability consideration across multi orbit.
+
+644
+28:26.670 --> 28:29.070
+So for us, we're working on HAPS,
+
+645
+28:29.070 --> 28:31.080
+high altitude platform system devices
+
+646
+28:31.080 --> 28:33.660
+with, there's a couple of providers,
+
+647
+28:33.660 --> 28:36.120
+you know who they are if you're in the ecosystem.
+
+648
+28:36.120 --> 28:38.400
+And so we do believe that HAPS is also
+
+649
+28:38.400 --> 28:40.470
+gonna bring some very important breakthroughs
+
+650
+28:40.470 --> 28:43.410
+as it relates to the private sector applications
+
+651
+28:43.410 --> 28:46.830
+around, again, remote sensing and Earth observation.
+
+652
+28:46.830 --> 28:50.400
+So I just wanted to make sure I mentioned those things too.
+
+653
+28:50.400 --> 28:51.233
+<v ->Thank you, Rika.</v>
+
+654
+28:51.233 --> 28:52.830
+We're gonna jump into a couple more topics,
+
+655
+28:52.830 --> 28:54.090
+but I was gonna do a pause now
+
+656
+28:54.090 --> 28:57.000
+to see if there's any questions, anything audience wanted
+
+657
+28:57.000 --> 28:59.130
+to add on what we've covered so far.
+
+658
+28:59.130 --> 29:00.600
+If you do, please raise your hands.
+
+659
+29:00.600 --> 29:01.890
+We have lights pointed at our eyes.
+
+660
+29:01.890 --> 29:03.340
+It's a little hard to see up.
+
+661
+29:06.630 --> 29:08.100
+Okay, we'll move on.
+
+662
+29:08.100 --> 29:10.830
+Rika, you alluded to this, part
+
+663
+29:10.830 --> 29:13.350
+of the current explosive growth in data centers
+
+664
+29:13.350 --> 29:15.510
+and AI/ML applications is
+
+665
+29:15.510 --> 29:17.910
+that it's placing some significant strain
+
+666
+29:17.910 --> 29:20.970
+on terrestrial networks, computational resources, storage,
+
+667
+29:20.970 --> 29:23.040
+power generation, and the like,
+
+668
+29:23.040 --> 29:28.040
+how can space-based enabled data centers, compute,
+
+669
+29:28.560 --> 29:29.550
+and other solutions,
+
+670
+29:29.550 --> 29:34.550
+how can that have essentially a positive, innovative sort
+
+671
+29:35.040 --> 29:38.130
+of impact on trying to solve that on the planet,
+
+672
+29:38.130 --> 29:39.660
+and also enables space to space
+
+673
+29:39.660 --> 29:43.380
+and space to beyond type solutions, which may sound esoteric
+
+674
+29:43.380 --> 29:46.593
+and sort of Star Wars now, but may not be as much?
+
+675
+29:47.430 --> 29:48.660
+You wanna start with that Rika?
+
+676
+29:48.660 --> 29:51.090
+<v ->Yeah, the energy consumption that's needed.</v>
+
+677
+29:51.090 --> 29:53.280
+So as I mentioned, when I was at Nvidia
+
+678
+29:53.280 --> 29:55.560
+and we were working on the Tegra chip,
+
+679
+29:55.560 --> 29:56.940
+first it was GoForce,
+
+680
+29:56.940 --> 29:59.490
+which is a discreet GPU on a board in a phone.
+
+681
+29:59.490 --> 30:02.730
+And then we moved to an application processor architecture.
+
+682
+30:02.730 --> 30:04.140
+The problem was the heat
+
+683
+30:04.140 --> 30:07.140
+and energy consumption envelope, which are related,
+
+684
+30:07.140 --> 30:09.750
+because when you have this high compute,
+
+685
+30:09.750 --> 30:11.550
+that creates a tremendous amount of heat.
+
+686
+30:11.550 --> 30:14.220
+So you need energy as well to cool things down.
+
+687
+30:14.220 --> 30:16.740
+So there's a lot of innovations happening in data centers
+
+688
+30:16.740 --> 30:18.375
+to be able to address that challenge.
+
+689
+30:18.375 --> 30:21.300
+But regardless, there is an expectation depending
+
+690
+30:21.300 --> 30:22.950
+on who you talk to, which analysts you talked to
+
+691
+30:22.950 --> 30:26.130
+around this, that the energy consumption is gonna far
+
+692
+30:26.130 --> 30:28.800
+outweigh the ability to provide those energy resources.
+
+693
+30:28.800 --> 30:31.860
+So there's some interesting things
+
+694
+30:31.860 --> 30:33.750
+that are happening in the nuclear energy space.
+
+695
+30:33.750 --> 30:35.880
+So that's coming back up again,
+
+696
+30:35.880 --> 30:38.130
+thinking about how we can meet those demands.
+
+697
+30:38.130 --> 30:40.770
+But in the meantime, some of the other ideas,
+
+698
+30:40.770 --> 30:42.510
+and a couple of interesting startups
+
+699
+30:42.510 --> 30:45.300
+that are working on this and VCs that are funding them, is
+
+700
+30:45.300 --> 30:46.500
+around the idea of being able
+
+701
+30:46.500 --> 30:50.730
+to bring the data center high compute capabilities
+
+702
+30:50.730 --> 30:52.350
+into space, because it's kind
+
+703
+30:52.350 --> 30:54.900
+of cold up there, most of space.
+
+704
+30:54.900 --> 30:57.720
+So except when you get near the sun, but regardless,
+
+705
+30:57.720 --> 30:59.100
+and the sun has a part to play in this,
+
+706
+30:59.100 --> 31:02.490
+because sun can provide energy, right?
+
+707
+31:02.490 --> 31:04.230
+So solar energy, being able to do that.
+
+708
+31:04.230 --> 31:07.380
+So there's some interesting work happening
+
+709
+31:07.380 --> 31:11.700
+on how do we put sort of these micro data center concepts
+
+710
+31:11.700 --> 31:15.840
+that can also have solar panel arrays attached to them.
+
+711
+31:15.840 --> 31:19.050
+And if you can angle these data centers in such a way
+
+712
+31:19.050 --> 31:23.610
+to have 24 hour access or exposure to solar panel,
+
+713
+31:23.610 --> 31:24.690
+now you're starting to be able
+
+714
+31:24.690 --> 31:28.170
+to have the idea of heat sink using components
+
+715
+31:28.170 --> 31:30.600
+and physics that's beyond me at the moment.
+
+716
+31:30.600 --> 31:31.980
+I hope I'll get there soon,
+
+717
+31:31.980 --> 31:35.310
+but it's to be able to use the natural situation
+
+718
+31:35.310 --> 31:39.660
+in space along with the solar energy supply
+
+719
+31:39.660 --> 31:42.480
+to be able to enable the compute that's needed.
+
+720
+31:42.480 --> 31:44.130
+And then of course, it's a matter
+
+721
+31:44.130 --> 31:46.230
+of thinking about the ground station ecosystem
+
+722
+31:46.230 --> 31:49.410
+that also needs to start evolving and taking shape.
+
+723
+31:49.410 --> 31:52.350
+And, you know, I just wanna give a plug to Clint
+
+724
+31:52.350 --> 31:54.630
+and his team at AWS, you know,
+
+725
+31:54.630 --> 31:56.640
+such an easy partner to work with,
+
+726
+31:56.640 --> 31:58.230
+because they're so progressive
+
+727
+31:58.230 --> 32:00.420
+thinking about what do we do together
+
+728
+32:00.420 --> 32:01.800
+to co-innovate around this.
+
+729
+32:01.800 --> 32:03.300
+And so I think it really is
+
+730
+32:03.300 --> 32:05.040
+about bringing all these players together
+
+731
+32:05.040 --> 32:06.810
+that are leaning in to the process.
+
+732
+32:06.810 --> 32:09.060
+And with Blue Origin, by the way, of getting ready
+
+733
+32:09.060 --> 32:11.040
+to have a milestone month, I'm sure
+
+734
+32:11.040 --> 32:13.170
+that Amazon in general is very excited
+
+735
+32:13.170 --> 32:15.390
+about what the future is going to hold.
+
+736
+32:15.390 --> 32:19.839
+But data centers in space, by some people's estimates,
+
+737
+32:19.839 --> 32:22.530
+is going to happen within the next, you know, five
+
+738
+32:22.530 --> 32:24.270
+to 10 years potentially.
+
+739
+32:24.270 --> 32:28.260
+And so, it starts to relieve some of the demands
+
+740
+32:28.260 --> 32:30.540
+around energy and some of the heat issues.
+
+741
+32:30.540 --> 32:32.940
+Also from a cost perspective,
+
+742
+32:32.940 --> 32:34.920
+there are some calculations that are done.
+
+743
+32:34.920 --> 32:37.380
+If you just look up cost of data centers in space,
+
+744
+32:37.380 --> 32:38.610
+you'll find some calculations
+
+745
+32:38.610 --> 32:41.970
+that have been done about the total cost of ownership
+
+746
+32:41.970 --> 32:45.390
+of running data centers in space, is apparently much less
+
+747
+32:45.390 --> 32:47.340
+than if you're trying to build it terrestrially.
+
+748
+32:47.340 --> 32:50.160
+So we'll see how this all, how the dust settles on it,
+
+749
+32:50.160 --> 32:53.850
+but it's a pretty sexy cool area to keep an eye on.
+
+750
+32:53.850 --> 32:55.410
+<v ->Yeah, if I can piggyback on that, Rika,</v>
+
+751
+32:55.410 --> 32:57.210
+and thanks for the kind words,
+
+752
+32:57.210 --> 33:01.080
+and NTT is a wonderful organization to work with as well,
+
+753
+33:01.080 --> 33:03.150
+but as we think about data centers in space,
+
+754
+33:03.150 --> 33:05.190
+micro data centers, you made a good point earlier.
+
+755
+33:05.190 --> 33:07.650
+You know, we shouldn't jump directly to, you know,
+
+756
+33:07.650 --> 33:10.410
+we think about a very large scale data center here on Earth
+
+757
+33:10.410 --> 33:12.180
+and what it looks like and suddenly we're trying
+
+758
+33:12.180 --> 33:14.070
+to lift that into space, that has all sorts
+
+759
+33:14.070 --> 33:15.540
+of issues associated with it.
+
+760
+33:15.540 --> 33:18.900
+However, when you think about micro data centers,
+
+761
+33:18.900 --> 33:20.940
+you could have a single satellite
+
+762
+33:20.940 --> 33:23.370
+or a 10 ball constellation of satellites
+
+763
+33:23.370 --> 33:26.130
+that could in fact serve the basic function
+
+764
+33:26.130 --> 33:28.620
+of a micro data center in space depending
+
+765
+33:28.620 --> 33:30.450
+on what the use case is, right?
+
+766
+33:30.450 --> 33:33.270
+So you start small based on the use cases
+
+767
+33:33.270 --> 33:34.560
+and you grow from there.
+
+768
+33:34.560 --> 33:38.670
+And that's focusing on the space
+
+769
+33:38.670 --> 33:41.430
+for Earth capabilities that you were talking about.
+
+770
+33:41.430 --> 33:44.450
+Now if I turn my lens and I think about space for space,
+
+771
+33:44.450 --> 33:47.010
+so the space economy, as an example,
+
+772
+33:47.010 --> 33:50.340
+right now today NASA's perseverance Rover is operating
+
+773
+33:50.340 --> 33:52.830
+on the surface of Mars and it's beaming data,
+
+774
+33:52.830 --> 33:55.590
+300 million miles all the way back to Earth.
+
+775
+33:55.590 --> 33:58.500
+And it's being processed on the AWS cloud
+
+776
+33:58.500 --> 34:02.550
+so that the rover can be given instructions on where to go
+
+777
+34:02.550 --> 34:04.590
+and where to drill and what analysis to do
+
+778
+34:04.590 --> 34:08.100
+in its next set of passes.
+
+779
+34:08.100 --> 34:11.640
+Think about that, a 300 million mile journey from Mars
+
+780
+34:11.640 --> 34:13.710
+to the earth to process the data to send it down
+
+781
+34:13.710 --> 34:16.680
+to Mars again, as we grow all these future missions,
+
+782
+34:16.680 --> 34:19.290
+again, human encampments on the moon,
+
+783
+34:19.290 --> 34:20.730
+human encampments on Mars,
+
+784
+34:20.730 --> 34:23.340
+asteroid mining, in-space manufacturing,
+
+785
+34:23.340 --> 34:26.910
+we simply cannot afford to port all the data back to Earth
+
+786
+34:26.910 --> 34:29.400
+and process it and then push it back to space again.
+
+787
+34:29.400 --> 34:31.530
+We're going to have to have cloud computing
+
+788
+34:31.530 --> 34:34.410
+and advanced technology capabilities available on orbit.
+
+789
+34:34.410 --> 34:37.560
+And so that's what starts to look like micro data centers
+
+790
+34:37.560 --> 34:39.900
+on an international space station
+
+791
+34:39.900 --> 34:43.050
+or on an Axiom space station, my friends at Axiom,
+
+792
+34:43.050 --> 34:46.230
+or amongst the first set of infrastructure
+
+793
+34:46.230 --> 34:49.500
+and habitat on the moon as we do human encampments,
+
+794
+34:49.500 --> 34:51.840
+how do we store and process data on the surface
+
+795
+34:51.840 --> 34:54.390
+of the moon rather than having to port it back?
+
+796
+34:54.390 --> 34:56.340
+So these things have a number of areas
+
+797
+34:56.340 --> 34:57.660
+where they all tie together
+
+798
+34:57.660 --> 35:01.110
+and come back together again, which is really interesting.
+
+799
+35:01.110 --> 35:04.080
+Rika also mentioned optical,
+
+800
+35:04.080 --> 35:06.900
+which I think is just a really exciting technology,
+
+801
+35:06.900 --> 35:09.480
+and we're gonna see the optical industry grow
+
+802
+35:09.480 --> 35:11.670
+by leaps and bounds in the coming years.
+
+803
+35:11.670 --> 35:14.280
+Not only optical inter satellite links,
+
+804
+35:14.280 --> 35:16.200
+but optical space to ground links,
+
+805
+35:16.200 --> 35:17.760
+because of the data requirements
+
+806
+35:17.760 --> 35:20.370
+and improvements as you described a moment ago.
+
+807
+35:20.370 --> 35:22.920
+So that's one that we're very excited about,
+
+808
+35:22.920 --> 35:25.470
+but my friend, Dr. Lee, mentioned as well,
+
+809
+35:25.470 --> 35:27.510
+direct to device capabilities.
+
+810
+35:27.510 --> 35:28.620
+And then you start to think
+
+811
+35:28.620 --> 35:33.060
+about the virtualization requirements for direct to device.
+
+812
+35:33.060 --> 35:37.200
+And this is where optical and micro data centers
+
+813
+35:37.200 --> 35:41.070
+and direct to device and virtualization all comes in,
+
+814
+35:41.070 --> 35:43.920
+because we can't live in the same environment in the past
+
+815
+35:43.920 --> 35:47.220
+where we hardwired radios to satellites
+
+816
+35:47.220 --> 35:48.990
+to ground systems, right?
+
+817
+35:48.990 --> 35:52.440
+We won't be able to interop from GEO to LEO to MEO
+
+818
+35:52.440 --> 35:56.130
+from IR to SAR and every, from satcom.
+
+819
+35:56.130 --> 35:58.860
+And so we're going to have to continue
+
+820
+35:58.860 --> 36:00.780
+to develop more software-defined radios,
+
+821
+36:00.780 --> 36:02.100
+software-defined networks,
+
+822
+36:02.100 --> 36:03.690
+software-defined network management,
+
+823
+36:03.690 --> 36:06.150
+software integration systems,
+
+824
+36:06.150 --> 36:08.280
+and we're working a number of those at AWS.
+
+825
+36:08.280 --> 36:10.530
+So those are some of the underlying technologies
+
+826
+36:10.530 --> 36:11.970
+that are gonna be required.
+
+827
+36:11.970 --> 36:15.000
+And then finally, my friend, Rika, mentioned digital twin.
+
+828
+36:15.000 --> 36:17.280
+I just wanna make a quick note on digital twin.
+
+829
+36:17.280 --> 36:19.710
+We believe digital twin is going to be critical
+
+830
+36:19.710 --> 36:22.350
+to managing all of these networks for the future.
+
+831
+36:22.350 --> 36:24.630
+You're talking about making a digital twin of the earth,
+
+832
+36:24.630 --> 36:27.120
+which can be powerful in so many ways,
+
+833
+36:27.120 --> 36:31.657
+but now think about the micro data centers,
+
+834
+36:32.640 --> 36:34.770
+think about the satellite connectivity,
+
+835
+36:34.770 --> 36:37.560
+think about the earth to space systems,
+
+836
+36:37.560 --> 36:38.910
+the ground link systems,
+
+837
+36:38.910 --> 36:40.980
+all the satellites that'll be interconnected.
+
+838
+36:40.980 --> 36:44.670
+And how do you simulate that? How do you virtualize that?
+
+839
+36:44.670 --> 36:47.430
+How do you visualize that? How do you orchestrate that?
+
+840
+36:47.430 --> 36:50.250
+How do you optimize that for optical interface
+
+841
+36:50.250 --> 36:51.600
+amongst all those device?
+
+842
+36:51.600 --> 36:55.290
+And so we're doing a lot of work building out digital twins
+
+843
+36:55.290 --> 36:59.910
+of network capacity that's modeling between constellations
+
+844
+36:59.910 --> 37:02.250
+and ground stations, and ground systems,
+
+845
+37:02.250 --> 37:04.260
+and multi-data paths,
+
+846
+37:04.260 --> 37:07.020
+so that we can leverage digital twin capability
+
+847
+37:07.020 --> 37:09.360
+to make the best decisions about how to build
+
+848
+37:09.360 --> 37:12.990
+and operate those complex multi systems.
+
+849
+37:12.990 --> 37:14.648
+And that's really exciting too.
+
+850
+37:14.648 --> 37:15.751
+<v ->Collision avoidance.</v>
+
+851
+37:15.751 --> 37:18.300
+<v ->Collision avoidance, I mean, again, when we talk</v>
+
+852
+37:18.300 --> 37:20.940
+about there's some 9,000 satellites on orbit today,
+
+853
+37:20.940 --> 37:23.460
+and we're gonna have 50 to 100 satellites on orbit
+
+854
+37:23.460 --> 37:27.000
+by 2030 depending on the study, the sheer magnitude,
+
+855
+37:27.000 --> 37:30.570
+and by the way, time, latency requirements, right?
+
+856
+37:30.570 --> 37:33.300
+You can't afford, when you quadruple the number
+
+857
+37:33.300 --> 37:35.370
+of satellites on orbit, you can't afford
+
+858
+37:35.370 --> 37:39.240
+to do all your orbital deconfliction on the ground in two
+
+859
+37:39.240 --> 37:42.690
+to four hours when you're talking about that number
+
+860
+37:42.690 --> 37:44.250
+of satellites suddenly operating
+
+861
+37:44.250 --> 37:45.810
+in essentially the same space.
+
+862
+37:45.810 --> 37:47.670
+Now space is big, I get it.
+
+863
+37:47.670 --> 37:49.020
+But we have to be really careful
+
+864
+37:49.020 --> 37:50.490
+about space flight management,
+
+865
+37:50.490 --> 37:52.800
+if we're gonna ensure space is sustainable
+
+866
+37:52.800 --> 37:54.540
+for the future and ensure sustainability.
+
+867
+37:54.540 --> 37:58.200
+<v ->Yeah, if anyone's flying United back or anytime soon,</v>
+
+868
+37:58.200 --> 38:00.990
+there's a documentary called "Wild Wild Space."
+
+869
+38:00.990 --> 38:02.460
+I highly recommend you watch it,
+
+870
+38:02.460 --> 38:04.350
+and please don't start freaking out
+
+871
+38:04.350 --> 38:06.330
+when you hear about the Kessler effect.
+
+872
+38:06.330 --> 38:07.690
+I'll just leave that there. So.
+
+873
+38:07.690 --> 38:08.523
+<v ->Yeah.</v>
+<v ->Thank you, Rika.</v>
+
+874
+38:08.523 --> 38:10.590
+<v ->Space is still big, but it's gonna get smaller</v>
+
+875
+38:10.590 --> 38:12.060
+and smaller as we proliferate more
+
+876
+38:12.060 --> 38:13.170
+and more satellites on orbit,
+
+877
+38:13.170 --> 38:16.590
+and digital twins, virtualization, network management,
+
+878
+38:16.590 --> 38:20.010
+reduced latency and on orbit processing in many ways,
+
+879
+38:20.010 --> 38:21.630
+automated threat detection,
+
+880
+38:21.630 --> 38:23.970
+automated collision maneuver avoidance,
+
+881
+38:23.970 --> 38:25.830
+are gonna be key to the future.
+
+882
+38:25.830 --> 38:26.885
+<v ->Thank you.</v>
+
+883
+38:26.885 --> 38:27.718
+For those of you interested in, you know,
+
+884
+38:27.718 --> 38:29.490
+the reality or soon to be reality
+
+885
+38:29.490 --> 38:31.620
+of in-space processing data centers,
+
+886
+38:31.620 --> 38:33.570
+look up a company called Lumen Orbit.
+
+887
+38:33.570 --> 38:35.460
+Look up the EU's program called ASCEND,
+
+888
+38:35.460 --> 38:37.560
+which is a live study with Thales Alenia Space
+
+889
+38:37.560 --> 38:40.140
+to see how quickly this can be deployed.
+
+890
+38:40.140 --> 38:41.850
+We're out of time, but I would like to wrap up
+
+891
+38:41.850 --> 38:45.633
+with one very short answer from each one of you.
+
+892
+38:46.620 --> 38:48.870
+You're in Vegas. This is where people make wishes.
+
+893
+38:48.870 --> 38:51.120
+Take some gambles, things happen, they don't.
+
+894
+38:52.050 --> 38:54.360
+Your wishlist, a single technology
+
+895
+38:54.360 --> 38:58.770
+or a single innovation that you think will be a game changer
+
+896
+38:58.770 --> 39:01.560
+for the role of space and satellite
+
+897
+39:01.560 --> 39:04.950
+in enabling compute data centers or the cloud.
+
+898
+39:04.950 --> 39:08.160
+Let's start with you Dr. Lee. Short answer.
+
+899
+39:08.160 --> 39:09.513
+<v ->Short answer is,</v>
+
+900
+39:12.390 --> 39:13.323
+how can I say?
+
+901
+39:16.395 --> 39:17.880
+How can we just try
+
+902
+39:17.880 --> 39:20.910
+to design and manufacture in the new rocket
+
+903
+39:20.910 --> 39:25.910
+to launch the in-space data center, yeah?
+
+904
+39:26.190 --> 39:27.570
+<v ->All right, so better, cheaper,</v>
+
+905
+39:27.570 --> 39:29.370
+more powerful access to space.
+
+906
+39:29.370 --> 39:31.013
+<v ->Right.</v>
+<v ->All right, Rika?</v>
+
+907
+39:31.013 --> 39:35.160
+<v ->I think it has to be an agentic AI touchstone that is able</v>
+
+908
+39:35.160 --> 39:39.390
+to parse all the data that's gonna come from remote sensing,
+
+909
+39:39.390 --> 39:42.840
+Earth observation, that will tell industries and companies
+
+910
+39:42.840 --> 39:46.473
+and governments how to manage for climate resilience.
+
+911
+39:48.240 --> 39:50.160
+<v ->I agree with both of those answers.</v>
+
+912
+39:50.160 --> 39:51.900
+I think those are wonderful answers.
+
+913
+39:51.900 --> 39:54.420
+My head initially went to what we're spending a lot
+
+914
+39:54.420 --> 39:57.870
+of time on at AWS, and that's generative AI
+
+915
+39:57.870 --> 40:00.150
+or generative artificial intelligence.
+
+916
+40:00.150 --> 40:04.260
+We are in early days of AI, just basic AI, right?
+
+917
+40:04.260 --> 40:07.560
+Traditional AI, we're in early days, and it blows me away.
+
+918
+40:07.560 --> 40:10.707
+It's extraordinary the ways that NTT, and Contec,
+
+919
+40:10.707 --> 40:12.210
+and other companies are starting
+
+920
+40:12.210 --> 40:14.400
+to use capabilities like AI, ML,
+
+921
+40:14.400 --> 40:16.740
+and now we think about generative AI,
+
+922
+40:16.740 --> 40:18.720
+which is AI on steroids
+
+923
+40:18.720 --> 40:21.390
+and the ability to develop wholly new concepts
+
+924
+40:21.390 --> 40:24.180
+and thought processes with our artificial intelligence.
+
+925
+40:24.180 --> 40:27.513
+That's super exciting for what it portends for the future.
+
+926
+40:28.380 --> 40:29.213
+<v ->Thank you.</v>
+
+927
+40:29.213 --> 40:32.160
+Well, audience, please join me in thanking Sunghee, Rika,
+
+928
+40:32.160 --> 40:33.853
+and Clint for this wonderful panel.
+
+929
+40:33.853 --> 40:35.286
+(audience claps)
+
+930
+40:35.286 --> 40:38.453
+(bright upbeat music)
+

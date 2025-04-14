@@ -1,0 +1,3858 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.583
+(upbeat music)
+
+2
+00:10.650 --> 00:11.580
+<v ->All right.</v>
+
+3
+00:11.580 --> 00:13.350
+Welcome, everyone.
+
+4
+00:13.350 --> 00:17.070
+We are here at The Future of Immersive TV.
+
+5
+00:17.070 --> 00:19.050
+Thanks for joining us.
+
+6
+00:19.050 --> 00:21.330
+I'm your moderator today, Rick Kowalski,
+
+7
+00:21.330 --> 00:23.820
+Senior Director of Business Intelligence
+
+8
+00:23.820 --> 00:28.500
+at Consumer Technology Association, CTA,
+
+9
+00:28.500 --> 00:31.470
+host of the show, and is the power behind CES.
+
+10
+00:31.470 --> 00:36.270
+So thanks for joining us and diving into all the great ideas
+
+11
+00:36.270 --> 00:38.040
+and innovation here this week.
+
+12
+00:38.040 --> 00:39.960
+Glad to have you here.
+
+13
+00:39.960 --> 00:43.470
+So today I have a few panelists here.
+
+14
+00:43.470 --> 00:46.890
+We're gonna talk about some of the emerging TV trends,
+
+15
+00:46.890 --> 00:48.150
+some of the technologies
+
+16
+00:48.150 --> 00:50.610
+that are coming up in the next several years,
+
+17
+00:50.610 --> 00:53.970
+and really, you know, pushing the envelope
+
+18
+00:53.970 --> 00:57.630
+and figuring out what's gonna make the TV experience
+
+19
+00:57.630 --> 00:59.490
+more immersive, more engaging.
+
+20
+00:59.490 --> 01:03.180
+So it's really gonna touch on anything that's, you know,
+
+21
+01:03.180 --> 01:06.990
+pulling in the consumer in new and exciting ways.
+
+22
+01:06.990 --> 01:11.610
+So let me introduce my guest here,
+
+23
+01:11.610 --> 01:16.560
+and I'll start with Matt Brantley from 6P Color,
+
+24
+01:16.560 --> 01:19.500
+and if you could introduce yourself as I introduce you.
+
+25
+01:19.500 --> 01:21.300
+<v ->Sure, yeah. So Matt Brantley.</v>
+
+26
+01:21.300 --> 01:22.710
+Thanks, everyone, for coming out.
+
+27
+01:22.710 --> 01:26.580
+I'm Chief Technology Officer at 6P Color Incorporated,
+
+28
+01:26.580 --> 01:29.640
+and we make color management solutions for kind
+
+29
+01:29.640 --> 01:31.590
+of the new age of consumer media,
+
+30
+01:31.590 --> 01:34.470
+as well as dipping our toes into industrial
+
+31
+01:34.470 --> 01:36.930
+and healthcare aerospace applications as well.
+
+32
+01:36.930 --> 01:37.800
+Thanks for having us.
+
+33
+01:37.800 --> 01:41.640
+<v ->Great, and Sasha McCune is Vice President</v>
+
+34
+01:41.640 --> 01:45.450
+of Media Entertainment and Culture at CMB.
+
+35
+01:45.450 --> 01:47.040
+Tell us a little bit about yourself.
+
+36
+01:47.040 --> 01:48.990
+<v ->Yeah, thanks so much for having me.</v>
+
+37
+01:48.990 --> 01:50.220
+I run the media entertainment
+
+38
+01:50.220 --> 01:52.230
+and culture practice at CMB,
+
+39
+01:52.230 --> 01:55.110
+a top insights and research consulting company,
+
+40
+01:55.110 --> 01:59.820
+and that means I'm studying fandom, viewer experiences,
+
+41
+01:59.820 --> 02:01.740
+the adoption of innovations
+
+42
+02:01.740 --> 02:04.020
+that are on the show floor here today
+
+43
+02:04.020 --> 02:07.860
+in consumer marketplace, and have a lot of fun doing it.
+
+44
+02:07.860 --> 02:08.693
+Thanks for having us.
+
+45
+02:08.693 --> 02:13.680
+<v ->Great, and to the far right is Dan Mouradian,</v>
+
+46
+02:13.680 --> 02:17.190
+SVP of Global Client Solutions at Innovid.
+
+47
+02:17.190 --> 02:18.840
+<v ->Yeah, thank you again for having us.</v>
+
+48
+02:18.840 --> 02:21.300
+We're really, really happy to be here.
+
+49
+02:21.300 --> 02:22.680
+My name is Dan Mouradian, I'm the SVP
+
+50
+02:22.680 --> 02:25.170
+of Global Client Solutions at Innovid, which is a company
+
+51
+02:25.170 --> 02:29.610
+that enables advertisers to deliver, measure, personalize,
+
+52
+02:29.610 --> 02:31.860
+and create interactive experiences for the TV,
+
+53
+02:31.860 --> 02:35.430
+which means I represent the dark side, (laughs)
+
+54
+02:35.430 --> 02:37.290
+and happy to be here.
+
+55
+02:37.290 --> 02:40.830
+<v ->So yeah, we've got the light side and the dark side.</v>
+
+56
+02:40.830 --> 02:42.653
+We've got the technology, we've got the ads (Dan laughs)
+
+57
+02:42.653 --> 02:45.210
+and marketing, all that, so, yeah.
+
+58
+02:45.210 --> 02:50.190
+So I think a good way to start this is just to think about,
+
+59
+02:50.190 --> 02:52.747
+you know, how do you define immersive TV now?
+
+60
+02:52.747 --> 02:54.060
+You know, we've got a lot
+
+61
+02:54.060 --> 02:55.890
+of different immersive experiences out there
+
+62
+02:55.890 --> 02:59.100
+in the world, but when you pull it into the home,
+
+63
+02:59.100 --> 03:02.640
+and to the consumer, what does that mean to you?
+
+64
+03:02.640 --> 03:06.240
+And I guess I can start off with Matt here.
+
+65
+03:06.240 --> 03:09.090
+<v ->So the way that I see immersive TV is anything</v>
+
+66
+03:09.090 --> 03:11.580
+that allows us to suspend disbelief for where we are,
+
+67
+03:11.580 --> 03:14.040
+and what we're doing in that exact moment.
+
+68
+03:14.040 --> 03:16.620
+A lot of it's really personalized to the individual
+
+69
+03:16.620 --> 03:18.510
+and what they're trying to accomplish with that.
+
+70
+03:18.510 --> 03:21.060
+But with the amazing technology advancements,
+
+71
+03:21.060 --> 03:23.250
+and man, some of the stuff we've seen on the floor,
+
+72
+03:23.250 --> 03:26.970
+it's amazing, just the ability for them
+
+73
+03:26.970 --> 03:29.580
+to be somewhere, do something
+
+74
+03:29.580 --> 03:31.650
+that is not physically with them there.
+
+75
+03:31.650 --> 03:33.810
+That's, I think, to us, immersion,
+
+76
+03:33.810 --> 03:36.270
+and there's a lot of things to feed into that.
+
+77
+03:36.270 --> 03:38.610
+<v ->Yeah, that's great. Sasha, how about you?</v>
+
+78
+03:38.610 --> 03:40.950
+<v ->You know, I always think about the consumer first</v>
+
+79
+03:40.950 --> 03:42.600
+in a lot of these moments.
+
+80
+03:42.600 --> 03:46.980
+The future of immersive TV being, how do you bring
+
+81
+03:46.980 --> 03:49.710
+to their homes, in their everyday lives,
+
+82
+03:49.710 --> 03:52.830
+experiences that are high quality and immersive,
+
+83
+03:52.830 --> 03:54.240
+and surround them,
+
+84
+03:54.240 --> 03:57.090
+and give them that lean back experience
+
+85
+03:57.090 --> 03:59.640
+that perhaps they used to get in theaters
+
+86
+03:59.640 --> 04:01.800
+that they're looking to bring into their home,
+
+87
+04:01.800 --> 04:05.160
+and really engage with content in new ways,
+
+88
+04:05.160 --> 04:08.490
+whether that's 360 viewing experiences,
+
+89
+04:08.490 --> 04:11.100
+viewing things on four screens at once,
+
+90
+04:11.100 --> 04:13.350
+or viewing things across platforms
+
+91
+04:13.350 --> 04:15.510
+and engaging with many things at once
+
+92
+04:15.510 --> 04:17.580
+or even, you know, surround sound
+
+93
+04:17.580 --> 04:19.260
+and kind of bringing things
+
+94
+04:19.260 --> 04:21.453
+to life in their living room in new ways.
+
+95
+04:22.560 --> 04:23.880
+<v ->Great, great. And Dan?</v>
+
+96
+04:23.880 --> 04:26.220
+<v ->Yeah, I mean, as we think about immersive TV</v>
+
+97
+04:26.220 --> 04:27.840
+from an advertising perspective,
+
+98
+04:27.840 --> 04:30.810
+I think it's really important to bear in mind
+
+99
+04:30.810 --> 04:32.910
+what my other two panelists have have mentioned here.
+
+100
+04:32.910 --> 04:36.060
+And it's about not disrupting the experience
+
+101
+04:36.060 --> 04:39.330
+that somebody has in that immersive state of mind.
+
+102
+04:39.330 --> 04:42.240
+So it's about, for the advertising world,
+
+103
+04:42.240 --> 04:45.030
+immersive TV, I think, is defined
+
+104
+04:45.030 --> 04:47.370
+as personalized creative.
+
+105
+04:47.370 --> 04:48.930
+It's interactive creative,
+
+106
+04:48.930 --> 04:51.060
+it's creative that you can engage with.
+
+107
+04:51.060 --> 04:56.060
+It's one that allows the consumer to continue to explore
+
+108
+04:56.220 --> 05:00.570
+and invest in the experiences that they're taking part of.
+
+109
+05:00.570 --> 05:03.180
+You know, one of the questions that I like to ask,
+
+110
+05:03.180 --> 05:07.770
+and as it relates to this topic is, how do you all watch TV?
+
+111
+05:07.770 --> 05:09.150
+And I think as you answer that,
+
+112
+05:09.150 --> 05:11.910
+and as you survey a room of folks who answer that question,
+
+113
+05:11.910 --> 05:14.910
+you're gonna find that TV has become, you know,
+
+114
+05:14.910 --> 05:17.160
+not this sort of laid-back experience.
+
+115
+05:17.160 --> 05:19.710
+I'm gonna sit down and I'm gonna watch.
+
+116
+05:19.710 --> 05:22.200
+My 94-year-old grandfather watches Fox News
+
+117
+05:22.200 --> 05:24.000
+at 7:00 PM every night.
+
+118
+05:24.000 --> 05:25.440
+That is TV to him,
+
+119
+05:25.440 --> 05:30.440
+but my 23-year-old daughter, TV is in bed on my phone.
+
+120
+05:30.840 --> 05:34.107
+And so the definition there is around the content
+
+121
+05:34.107 --> 05:35.760
+and the type of content that we get.
+
+122
+05:35.760 --> 05:38.190
+And as that becomes more immersive,
+
+123
+05:38.190 --> 05:39.840
+you know, it's really critical
+
+124
+05:39.840 --> 05:42.000
+that we don't disrupt those experiences
+
+125
+05:42.000 --> 05:46.290
+with ads that are not personalized.
+
+126
+05:46.290 --> 05:47.700
+People are used to personalized experiences
+
+127
+05:47.700 --> 05:50.970
+that allow the user to engage, to interact, you know,
+
+128
+05:50.970 --> 05:53.430
+and that's, I think we don't wanna break things
+
+129
+05:53.430 --> 05:55.110
+as they're getting better
+
+130
+05:55.110 --> 05:57.240
+and better and more immersive.
+
+131
+05:57.240 --> 05:58.073
+<v ->Yeah. And you're right.</v>
+
+132
+05:58.073 --> 05:59.910
+You know, what we're seeing in consumer behaviors
+
+133
+05:59.910 --> 06:01.710
+when we go study people's living rooms
+
+134
+06:01.710 --> 06:05.160
+is no one is watching TV the same way.
+
+135
+06:05.160 --> 06:08.340
+Everyone's viewing systems, their ecosystems
+
+136
+06:08.340 --> 06:10.890
+of how they're using all the different platforms,
+
+137
+06:10.890 --> 06:12.660
+all the different devices to get
+
+138
+06:12.660 --> 06:15.450
+to the content they wanna watch where they wanna watch it,
+
+139
+06:15.450 --> 06:18.420
+when they wanna watch it, have become so complicated
+
+140
+06:18.420 --> 06:22.140
+that you have this intricate web of systems and workarounds
+
+141
+06:22.140 --> 06:24.690
+and access points that consumers are going through
+
+142
+06:24.690 --> 06:26.250
+to get to their content.
+
+143
+06:26.250 --> 06:27.810
+And you know, we've equated it
+
+144
+06:27.810 --> 06:29.880
+in some recent research we've done
+
+145
+06:29.880 --> 06:32.340
+as every single consumer out there in the world
+
+146
+06:32.340 --> 06:34.650
+has this unique snowflake
+
+147
+06:34.650 --> 06:36.510
+of how they're interacting
+(Dan laughs)
+
+148
+06:36.510 --> 06:37.530
+with their content,
+
+149
+06:37.530 --> 06:40.170
+and creating a media universe in their home.
+
+150
+06:40.170 --> 06:42.360
+And a lot of them are going to extreme lengths
+
+151
+06:42.360 --> 06:45.000
+to create immersive experiences
+
+152
+06:45.000 --> 06:48.180
+that maybe they're seeing products not delivered to them.
+
+153
+06:48.180 --> 06:51.930
+You know, one of the most viral gifts I saw trending
+
+154
+06:51.930 --> 06:55.650
+on TikTok over the Christmas was projectors for bedrooms
+
+155
+06:55.650 --> 06:58.410
+and little gadgets to make viewing
+
+156
+06:58.410 --> 06:59.880
+and listening to music
+
+157
+06:59.880 --> 07:01.060
+more fun in the home.
+<v ->Guilty.</v>
+
+158
+07:01.060 --> 07:02.022
+I bought my 10-year-old
+
+159
+07:02.022 --> 07:03.510
+daughter a projector.
+(Sasha laughs)
+
+160
+07:03.510 --> 07:06.570
+<v ->I did, I also bought my nephew a projector,</v>
+
+161
+07:06.570 --> 07:10.770
+and I bought this really cool little sound visualizer
+
+162
+07:10.770 --> 07:12.751
+that has ferro fluid in it.
+
+163
+07:12.751 --> 07:13.584
+(Dan laughs)
+
+164
+07:13.584 --> 07:14.880
+It was definitely influenced,
+
+165
+07:14.880 --> 07:18.150
+and it became the hot gift of the holiday.
+
+166
+07:18.150 --> 07:20.843
+All the guys wanted one, why didn't I get one of those?
+
+167
+07:20.843 --> 07:23.700
+Now I'm like, alright, now I have to go buy five more.
+
+168
+07:23.700 --> 07:24.900
+<v ->I just have one question.</v>
+
+169
+07:24.900 --> 07:26.100
+<v ->Yeah.</v>
+
+170
+07:26.100 --> 07:28.517
+<v ->Were you targeted with a really well placed ad</v>
+
+171
+07:28.517 --> 07:31.500
+in order to buy that product?
+(all laugh)
+
+172
+07:31.500 --> 07:34.800
+<v ->So speaking of immersive experiences and ads,</v>
+
+173
+07:34.800 --> 07:38.130
+TikTok Shop is absolutely changing
+
+174
+07:38.130 --> 07:40.050
+the entire landscape right now.
+
+175
+07:40.050 --> 07:41.520
+We were joking the other day
+
+176
+07:41.520 --> 07:45.150
+that TikTok Shop has become the QVC
+
+177
+07:45.150 --> 07:46.710
+of this generation,
+(Dan laughs)
+
+178
+07:46.710 --> 07:49.830
+and it happened overnight, and it's so interesting
+
+179
+07:49.830 --> 07:52.950
+and fascinating, but it's also short form content.
+
+180
+07:52.950 --> 07:55.080
+It's portrait, not landscape.
+
+181
+07:55.080 --> 07:56.970
+Our TVs and our viewing experiences
+
+182
+07:56.970 --> 07:58.260
+aren't designed for that.
+
+183
+07:58.260 --> 07:59.220
+So we were joking,
+
+184
+07:59.220 --> 08:02.430
+at what point are TVs gonna to shift on their side?
+
+185
+08:02.430 --> 08:04.200
+Is there gonna be a button to rotate them
+
+186
+08:04.200 --> 08:07.027
+so you can TikTok Shop on your big screen?
+
+187
+08:07.027 --> 08:09.960
+You know, we were kind of riffing with that the other day.
+
+188
+08:09.960 --> 08:12.030
+<v ->Well, I think the immersion,</v>
+
+189
+08:12.030 --> 08:14.070
+what's interesting is we've known for a long time
+
+190
+08:14.070 --> 08:15.750
+that the choice in media
+
+191
+08:15.750 --> 08:17.640
+has always been a personal experience, but now,
+
+192
+08:17.640 --> 08:20.520
+it's becoming consumers expect choice
+
+193
+08:20.520 --> 08:22.560
+in how they consume that media.
+
+194
+08:22.560 --> 08:25.080
+And it's really transcending technology.
+
+195
+08:25.080 --> 08:27.060
+It's going into, it's a personal experience.
+
+196
+08:27.060 --> 08:28.710
+Like you were saying, your daughter consuming.
+
+197
+08:28.710 --> 08:29.790
+Mine do the same thing.
+
+198
+08:29.790 --> 08:31.500
+It drives me nuts.
+(audience laughs)
+
+199
+08:31.500 --> 08:34.440
+But you know, they're watching TV on their phone
+
+200
+08:34.440 --> 08:36.150
+with a TV in front of them that's off.
+
+201
+08:36.150 --> 08:36.983
+<v ->Yes.</v>
+
+202
+08:36.983 --> 08:38.130
+<v ->And I'm like, that was an expensive TV,</v>
+
+203
+08:38.130 --> 08:40.860
+why are you watching your phone? "Eh, I can just click it.
+
+204
+08:40.860 --> 08:41.910
+I don't have to grab a remote."
+
+205
+08:41.910 --> 08:43.680
+But I mean, to everybody, it's unique.
+
+206
+08:43.680 --> 08:45.213
+So it's not just the media.
+
+207
+08:45.213 --> 08:46.560
+It's how they consume it,
+
+208
+08:46.560 --> 08:49.230
+which is a fascinating kind of new landscape.
+
+209
+08:49.230 --> 08:51.660
+<v ->And I have this unique purview in my world</v>
+
+210
+08:51.660 --> 08:53.820
+where I research both the consumer side,
+
+211
+08:53.820 --> 08:56.160
+but I also get to hear the perspective
+
+212
+08:56.160 --> 08:58.710
+of traditional media executives.
+
+213
+08:58.710 --> 08:59.880
+And let me tell you,
+
+214
+08:59.880 --> 09:03.330
+traditional media executives are so concerned about the fact
+
+215
+09:03.330 --> 09:06.600
+that their TV shows exist on the television
+
+216
+09:06.600 --> 09:08.310
+surrounded in a black box.
+
+217
+09:08.310 --> 09:11.220
+And there's all this other activity happening around it.
+
+218
+09:11.220 --> 09:13.980
+There's social media while they're watching on the phone.
+
+219
+09:13.980 --> 09:17.610
+I've watched people juggle three phones to keep up
+
+220
+09:17.610 --> 09:20.460
+with a conversation while watching a sports game.
+
+221
+09:20.460 --> 09:22.950
+And the traditional media executives acknowledge
+
+222
+09:22.950 --> 09:25.920
+that they have not done a good job bridging the gap
+
+223
+09:25.920 --> 09:27.900
+between what's on the television,
+
+224
+09:27.900 --> 09:30.180
+the true traditional television,
+
+225
+09:30.180 --> 09:33.030
+and what's happening in this other universe with devices.
+
+226
+09:33.030 --> 09:36.480
+So there's a lot of cross-platform device interactivity
+
+227
+09:36.480 --> 09:39.270
+at play that hasn't really been cracked
+
+228
+09:39.270 --> 09:41.490
+as a cohesive, immersive experience.
+
+229
+09:41.490 --> 09:43.290
+<v ->Yeah. Let's talk about that a little bit more.</v>
+
+230
+09:43.290 --> 09:44.820
+What are the solutions to this?
+
+231
+09:44.820 --> 09:46.830
+You know, we talked a little bit about fragmentation
+
+232
+09:46.830 --> 09:49.560
+and kind of the fragmentation of experience.
+
+233
+09:49.560 --> 09:51.930
+What are some solutions you're seeing to kind
+
+234
+09:51.930 --> 09:54.810
+of tie all those devices together into something
+
+235
+09:54.810 --> 09:56.043
+that's more cohesive?
+
+236
+09:57.030 --> 09:59.100
+<v ->So from a fragmentation perspective,</v>
+
+237
+09:59.100 --> 10:01.110
+I'll just give a little bit of background.
+
+238
+10:01.110 --> 10:03.510
+So Innovid, the company that I work for, is an ad server.
+
+239
+10:03.510 --> 10:05.400
+For those who are unfamiliar with an ad server,
+
+240
+10:05.400 --> 10:07.140
+we're basically a counter.
+
+241
+10:07.140 --> 10:10.680
+We deliver the creative ad when the publisher
+
+242
+10:10.680 --> 10:14.190
+or the platform or the television service calls us
+
+243
+10:14.190 --> 10:17.040
+and says, "Hey, this advertiser bought media from us.
+
+244
+10:17.040 --> 10:19.650
+We wanna see an ad, or we need to show an ad."
+
+245
+10:19.650 --> 10:21.420
+And so whoever has purchased that media
+
+246
+10:21.420 --> 10:22.500
+will give us their creative,
+
+247
+10:22.500 --> 10:23.670
+and we'll serve that creative.
+
+248
+10:23.670 --> 10:25.683
+And we count the whole chain.
+
+249
+10:26.640 --> 10:30.693
+We deliver about 1.4 billion ads a day.
+
+250
+10:31.740 --> 10:34.770
+We're one of the largest video ad servers on the planet.
+
+251
+10:34.770 --> 10:37.440
+We operate in every country.
+
+252
+10:37.440 --> 10:41.550
+So we have an enormous scale.
+
+253
+10:41.550 --> 10:44.670
+The company's been in business for about 17 years now.
+
+254
+10:44.670 --> 10:47.580
+We originally started as an online video ad server,
+
+255
+10:47.580 --> 10:48.600
+which means, you know,
+
+256
+10:48.600 --> 10:50.730
+you're scrolling on your mobile device,
+
+257
+10:50.730 --> 10:51.840
+or this is pre-mobile,
+
+258
+10:51.840 --> 10:53.460
+you're scrolling on your desktop computer,
+
+259
+10:53.460 --> 10:55.350
+and you get that pre-roll ad that shows up,
+
+260
+10:55.350 --> 10:56.310
+and you hit the Skip button.
+
+261
+10:56.310 --> 10:57.300
+Thanks. You're welcome.
+
+262
+10:57.300 --> 10:58.170
+That was us.
+
+263
+10:58.170 --> 10:59.400
+(audience laughs)
+
+264
+10:59.400 --> 11:01.050
+<v ->Thank you, thank you.</v>
+<v ->Yes, thank you, but now,</v>
+
+265
+11:01.050 --> 11:02.850
+more and more of that is happening on CTV.
+
+266
+11:02.850 --> 11:06.063
+So again, 1.4 billion ads we deliver every single day.
+
+267
+11:06.990 --> 11:10.710
+58% of those end up on television screens,
+
+268
+11:10.710 --> 11:14.250
+what we define as a TV screen in the home.
+
+269
+11:14.250 --> 11:17.100
+So it's not a laptop, it's not a mobile device,
+
+270
+11:17.100 --> 11:18.333
+it's not a mobile app.
+
+271
+11:19.320 --> 11:20.550
+In that group,
+
+272
+11:20.550 --> 11:22.890
+what we see from a fragmentation perspective
+
+273
+11:22.890 --> 11:25.440
+is all the different screen sizes, the resolutions,
+
+274
+11:26.782 --> 11:28.590
+the connection speed
+
+275
+11:28.590 --> 11:30.840
+of the consumer while they're streaming.
+
+276
+11:30.840 --> 11:34.140
+We get the publisher, the platform, the device.
+
+277
+11:34.140 --> 11:35.640
+Are they viewing through a dongle?
+
+278
+11:35.640 --> 11:38.970
+Like all of the metadata associated with that ad call
+
+279
+11:38.970 --> 11:40.440
+and delivery is stuff that we warehouse
+
+280
+11:40.440 --> 11:42.750
+and we look at every single day.
+
+281
+11:42.750 --> 11:45.780
+And so what we see from a, you know, when we get a piece
+
+282
+11:45.780 --> 11:48.780
+of creative from an advertiser who has, you know,
+
+283
+11:48.780 --> 11:50.730
+hired that company, the agency,
+
+284
+11:50.730 --> 11:51.870
+and they've bought that media
+
+285
+11:51.870 --> 11:54.273
+because of the target that's there,
+
+286
+11:55.350 --> 11:57.630
+we receive the asset that's been produced.
+
+287
+11:57.630 --> 11:59.820
+And what we do is we encode that asset,
+
+288
+11:59.820 --> 12:03.270
+and we encode that asset over 90 times
+
+289
+12:03.270 --> 12:05.880
+to satisfy all the different needs
+
+290
+12:05.880 --> 12:07.620
+of the fragmentation that exists.
+
+291
+12:07.620 --> 12:11.190
+And I know Matt has an even more interesting perspective
+
+292
+12:11.190 --> 12:13.560
+on the fragmentation from the production side of things,
+
+293
+12:13.560 --> 12:14.490
+and Sasha as well.
+
+294
+12:14.490 --> 12:18.240
+<v ->I cannot imagine, Matt, how you manage color perfection</v>
+
+295
+12:18.240 --> 12:20.946
+across all these infinite screens.
+
+296
+12:20.946 --> 12:21.779
+<v ->It's interesting.</v>
+
+297
+12:21.779 --> 12:24.810
+So as you know, you go back not too long ago,
+
+298
+12:24.810 --> 12:26.220
+you watched movies in a theater,
+
+299
+12:26.220 --> 12:28.620
+you watched TV at your home television,
+
+300
+12:28.620 --> 12:31.170
+your computer was for a certain type of media.
+
+301
+12:31.170 --> 12:34.440
+The modality of the media were intricately related.
+
+302
+12:34.440 --> 12:36.300
+And as we're seeing now with the personalization
+
+303
+12:36.300 --> 12:38.047
+of how people consume media, it's the,
+
+304
+12:38.047 --> 12:41.910
+"No, I wanna watch the new Disney movie on my phone
+
+305
+12:41.910 --> 12:43.620
+at the airport," right?
+
+306
+12:43.620 --> 12:45.600
+Or wherever it's convenient for me.
+
+307
+12:45.600 --> 12:46.890
+And I do agree with you.
+
+308
+12:46.890 --> 12:49.500
+Some of the, let's say, more old-school perspectives
+
+309
+12:49.500 --> 12:51.543
+are definitely not happy about that,
+
+310
+12:51.543 --> 12:52.380
+(Sasha laughs)
+'cause it does introduce
+
+311
+12:52.380 --> 12:53.430
+new complexities-
+
+312
+12:53.430 --> 12:55.080
+<v ->Oh, yeah.</v>
+<v ->into, just as you</v>
+
+313
+12:55.080 --> 12:57.660
+were talking about, not only on the ad size,
+
+314
+12:57.660 --> 13:00.210
+but also just in the general media industry together.
+
+315
+13:00.210 --> 13:02.520
+And so, you know, what we focus on is, actually,
+
+316
+13:02.520 --> 13:04.260
+how do you provide the same experience
+
+317
+13:04.260 --> 13:06.330
+that transcends the technology?
+
+318
+13:06.330 --> 13:09.450
+'Cause the modality is intricately tied to the type
+
+319
+13:09.450 --> 13:11.610
+of technology that's used to deliver that.
+
+320
+13:11.610 --> 13:15.180
+And so our color management systems are directly, you know,
+
+321
+13:15.180 --> 13:17.760
+that's why we're creating them is to try to address that.
+
+322
+13:17.760 --> 13:21.990
+And you know, we are addressing one issue in the spectrum
+
+323
+13:21.990 --> 13:24.300
+of issues that introduces of, you know,
+
+324
+13:24.300 --> 13:26.400
+people want the same experience,
+
+325
+13:26.400 --> 13:28.800
+but it's a completely different delivery mechanism,
+
+326
+13:28.800 --> 13:30.270
+which means that now you have to understand
+
+327
+13:30.270 --> 13:32.100
+how do I ensure the same experience?
+
+328
+13:32.100 --> 13:33.570
+So you have to start thinking about things,
+
+329
+13:33.570 --> 13:34.620
+and this is how we approach it
+
+330
+13:34.620 --> 13:36.750
+in terms of what is the experience,
+
+331
+13:36.750 --> 13:39.360
+and then how do we leverage the technology to deliver that?
+
+332
+13:39.360 --> 13:42.000
+Not let the experience be described
+
+333
+13:42.000 --> 13:44.340
+by the technology itself.
+
+334
+13:44.340 --> 13:46.110
+<v ->And on the other side of things,</v>
+
+335
+13:46.110 --> 13:49.230
+you have big topics changing the landscape,
+
+336
+13:49.230 --> 13:50.640
+like generative AI.
+
+337
+13:50.640 --> 13:51.690
+You know, just walking
+
+338
+13:51.690 --> 13:53.880
+around the show floor here at here at CES,
+
+339
+13:53.880 --> 13:55.650
+I already see solutions
+
+340
+13:55.650 --> 13:58.020
+that would make consumers' lives better
+
+341
+13:58.020 --> 14:00.180
+with integrating all of the crazy things
+
+342
+14:00.180 --> 14:01.920
+that are trying to manage in their home.
+
+343
+14:01.920 --> 14:04.170
+Sometimes I am in an interview with someone,
+
+344
+14:04.170 --> 14:06.870
+and I wish I could just buy them a universal remote
+
+345
+14:06.870 --> 14:08.400
+and solve all their problems,
+
+346
+14:08.400 --> 14:11.040
+or tell them they really should replace
+
+347
+14:11.040 --> 14:13.740
+their $10 20-year-old Roku
+
+348
+14:13.740 --> 14:15.900
+that is causing all their buffering issues,
+
+349
+14:15.900 --> 14:18.060
+and maybe use their brand new smart TV
+
+350
+14:18.060 --> 14:20.130
+instead of bypassing it.
+
+351
+14:20.130 --> 14:22.440
+There's all these weird things that people are doing.
+
+352
+14:22.440 --> 14:27.090
+But, you know, thinking about the future of the solutions,
+
+353
+14:27.090 --> 14:30.900
+newer tech, updating dated technology,
+
+354
+14:30.900 --> 14:32.610
+so that people have the latest
+
+355
+14:32.610 --> 14:34.110
+and the greatest in their home,
+
+356
+14:34.110 --> 14:36.930
+and are inspired to upgrade their technology in their home,
+
+357
+14:36.930 --> 14:39.450
+so they can have good immersive experiences.
+
+358
+14:39.450 --> 14:42.420
+And another thing we are seeing here on the show floor
+
+359
+14:42.420 --> 14:46.470
+is interacting with your television in a completely new way.
+
+360
+14:46.470 --> 14:48.060
+It's going to be possible now,
+
+361
+14:48.060 --> 14:50.700
+and in the future, as the tech gets adopted,
+
+362
+14:50.700 --> 14:53.280
+to have conversations with your TV,
+
+363
+14:53.280 --> 14:55.710
+to ask your TV for recommendations,
+
+364
+14:55.710 --> 14:58.950
+and to have a dialogue about what you're in the mood
+
+365
+14:58.950 --> 15:01.650
+to watch, which is very organic way
+
+366
+15:01.650 --> 15:03.210
+of interacting with content.
+
+367
+15:03.210 --> 15:06.780
+And it's not gonna be just play X,
+
+368
+15:06.780 --> 15:09.390
+and a kind of transactional command.
+
+369
+15:09.390 --> 15:10.710
+It's gonna be a back and forth
+
+370
+15:10.710 --> 15:13.530
+and a conversation that people are gonna be able to have.
+
+371
+15:13.530 --> 15:14.363
+<v ->Yeah, I think,</v>
+
+372
+15:14.363 --> 15:16.890
+and you mentioned what's gonna inspire them,
+
+373
+15:16.890 --> 15:18.600
+and you know, I can definitely see that.
+
+374
+15:18.600 --> 15:21.840
+Are there other things we can do for consumers to kind
+
+375
+15:21.840 --> 15:23.310
+of inspire them to engage in that way
+
+376
+15:23.310 --> 15:26.280
+or raise awareness of some of the experiences?
+
+377
+15:26.280 --> 15:29.220
+'Cause I think, Dan, you might have brought it up
+
+378
+15:29.220 --> 15:31.020
+when we talked before about, you know,
+
+379
+15:31.020 --> 15:34.620
+consumers just not really being aware of all the stuff
+
+380
+15:34.620 --> 15:37.800
+that TVs can do and all the experiences they can have.
+
+381
+15:37.800 --> 15:40.140
+<v ->Yeah, so I mean, consumers have certainly chosen</v>
+
+382
+15:40.140 --> 15:41.760
+how they wanna watch TV,
+
+383
+15:41.760 --> 15:43.410
+and that's one of the things that we've seen
+
+384
+15:43.410 --> 15:45.900
+with the shift from linear viewership,
+
+385
+15:45.900 --> 15:49.290
+like the average age of a linear viewer is 65 years old.
+
+386
+15:49.290 --> 15:51.393
+The average American is 39 years old.
+
+387
+15:52.230 --> 15:55.200
+We've seen this shift to I know how to get
+
+388
+15:55.200 --> 15:56.670
+what I want when I wanna watch it.
+
+389
+15:56.670 --> 15:58.590
+And that's through connected televisions,
+
+390
+15:58.590 --> 16:01.140
+or you know, apps that are connected to television,
+
+391
+16:01.140 --> 16:03.990
+like apps on phones and desktops.
+
+392
+16:03.990 --> 16:06.570
+And with connected television, by connecting the TV
+
+393
+16:06.570 --> 16:08.850
+to the internet, you unlock a whole new set
+
+394
+16:08.850 --> 16:10.260
+of capabilities that,
+
+395
+16:10.260 --> 16:12.000
+at least in the digital advertising space,
+
+396
+16:12.000 --> 16:13.740
+we have been doing for decades now,
+
+397
+16:13.740 --> 16:15.450
+personalization, you know,
+
+398
+16:15.450 --> 16:17.730
+taking a signal that we get on an ad call,
+
+399
+16:17.730 --> 16:19.080
+like an IP address,
+
+400
+16:19.080 --> 16:21.060
+or that tells us the location,
+
+401
+16:21.060 --> 16:23.400
+that can tell us the weather outside,
+
+402
+16:23.400 --> 16:26.430
+or if somebody's streaming on a service like Disney.
+
+403
+16:26.430 --> 16:27.480
+I don't know if anybody made it
+
+404
+16:27.480 --> 16:29.340
+to the Cosmo a couple days ago,
+
+405
+16:29.340 --> 16:32.490
+but Disney made an announcement with us in partnership
+
+406
+16:32.490 --> 16:35.040
+where we were enabling a contextual targeting product
+
+407
+16:35.040 --> 16:36.690
+they call Disney Magic Words.
+
+408
+16:36.690 --> 16:40.110
+So an advertiser can buy context and mood,
+
+409
+16:40.110 --> 16:42.180
+and then we can deliver an experience
+
+410
+16:42.180 --> 16:44.850
+or an ad that relates back to that signal.
+
+411
+16:44.850 --> 16:46.230
+Mechanically, we've been able to do this
+
+412
+16:46.230 --> 16:47.580
+for a really long time.
+
+413
+16:47.580 --> 16:49.170
+It also introduces interactivity,
+
+414
+16:49.170 --> 16:52.200
+and, you know, interactive formats do perform better
+
+415
+16:52.200 --> 16:54.030
+in an ad space than standard,
+
+416
+16:54.030 --> 16:56.580
+you know, sort of delivered ads.
+
+417
+16:56.580 --> 16:57.900
+But there is that, you know,
+
+418
+16:57.900 --> 17:00.390
+just like the consumer has chosen how they wanna watch TV,
+
+419
+17:00.390 --> 17:02.610
+and that's very clearly ad supported,
+
+420
+17:02.610 --> 17:04.575
+connected television, hi.
+
+421
+17:04.575 --> 17:07.200
+(all laugh)
+
+422
+17:07.200 --> 17:08.370
+They're also learning,
+
+423
+17:08.370 --> 17:12.360
+and every new thing that comes out, whether it's voice,
+
+424
+17:12.360 --> 17:14.370
+you know, consumers are still learning how to interact
+
+425
+17:14.370 --> 17:16.500
+with TVs through voice remotes,
+
+426
+17:16.500 --> 17:17.850
+like that's relatively new,
+
+427
+17:17.850 --> 17:20.160
+even though televisions have been able to do that
+
+428
+17:20.160 --> 17:22.200
+for the last five, six years.
+
+429
+17:22.200 --> 17:25.530
+Look at the QR code, you know, 10 years ago,
+
+430
+17:25.530 --> 17:27.540
+you had to have a special app,
+
+431
+17:27.540 --> 17:30.150
+and you had to enable permissions to scan it.
+
+432
+17:30.150 --> 17:31.020
+And no one did.
+
+433
+17:31.020 --> 17:32.588
+No one did it,
+
+434
+17:32.588 --> 17:36.480
+(laughs) despite how many ads had QR codes a decade ago.
+
+435
+17:36.480 --> 17:39.270
+Now we've got QR codes that can add things straight
+
+436
+17:39.270 --> 17:41.703
+to your target.com shopping cart.
+
+437
+17:43.080 --> 17:45.690
+Buying things on TV is another one of those,
+
+438
+17:45.690 --> 17:49.470
+like shoppable TV is one of those new technologies
+
+439
+17:49.470 --> 17:52.770
+that we're starting to see the market introduce,
+
+440
+17:52.770 --> 17:55.350
+and what's gonna, you know, again,
+
+441
+17:55.350 --> 17:58.440
+we're still very much in these like consumer adoption curves
+
+442
+17:58.440 --> 18:02.430
+of early adopters, early majorities, late majorities,
+
+443
+18:02.430 --> 18:03.660
+depending on the tech.
+
+444
+18:03.660 --> 18:07.170
+And I just think it's a wide open place.
+
+445
+18:07.170 --> 18:08.340
+Forget about the ads,
+
+446
+18:08.340 --> 18:11.820
+but like, when you start thinking about how people interact
+
+447
+18:11.820 --> 18:14.010
+with their own devices,
+
+448
+18:14.010 --> 18:15.600
+advertisers are gonna glom onto that,
+
+449
+18:15.600 --> 18:17.400
+and they're gonna figure out how to use that in an ad
+
+450
+18:17.400 --> 18:18.360
+so that they can, you know,
+
+451
+18:18.360 --> 18:20.460
+capitalize on the way people are engaging.
+
+452
+18:20.460 --> 18:23.580
+But you know, that, to me, is the exciting thing,
+
+453
+18:23.580 --> 18:26.460
+like having a conversation in my room organically
+
+454
+18:26.460 --> 18:29.490
+about what I wanna watch, and then it just starts playing.
+
+455
+18:29.490 --> 18:31.590
+That sounds delightful. (laughs)
+
+456
+18:31.590 --> 18:32.940
+<v ->You mentioned the adoption curve,</v>
+
+457
+18:32.940 --> 18:35.940
+and I think that's something to really pay attention to
+
+458
+18:35.940 --> 18:38.940
+of all of these technologies as they evolve and grow.
+
+459
+18:38.940 --> 18:42.150
+We need to keep a really close eye on the adoption
+
+460
+18:42.150 --> 18:45.780
+when it's tipping over to what we call, at CMB,
+
+461
+18:45.780 --> 18:47.580
+a chasm-crossing moment.
+
+462
+18:47.580 --> 18:50.040
+And we did a study this a few months ago
+
+463
+18:50.040 --> 18:53.550
+on the consumer adoption of generative AI,
+
+464
+18:53.550 --> 18:57.840
+and we found that we were very, very close
+
+465
+18:57.840 --> 19:02.760
+to overtaking smart speakers in adoption of generative AI.
+
+466
+19:02.760 --> 19:05.640
+So we're at 36% adoption
+
+467
+19:05.640 --> 19:07.980
+of generative AI features in the gen pop,
+
+468
+19:07.980 --> 19:11.520
+and 52% with media and tech workers alone.
+
+469
+19:11.520 --> 19:13.740
+So you see how big that jumps
+
+470
+19:13.740 --> 19:15.090
+when you just zoom in on people
+
+471
+19:15.090 --> 19:16.740
+who work in the industry.
+
+472
+19:16.740 --> 19:21.210
+And then we looked at, smart speakers are at 51% penetration
+
+473
+19:21.210 --> 19:24.390
+and adoption within the US, so that tells you
+
+474
+19:24.390 --> 19:28.320
+we're already fast approaching that milestone.
+
+475
+19:28.320 --> 19:29.970
+And then for context,
+
+476
+19:29.970 --> 19:33.900
+I think we also measured the adoption of AR and VR,
+
+477
+19:33.900 --> 19:35.610
+which has also been in market,
+
+478
+19:35.610 --> 19:36.660
+and that was in the 20s.
+
+479
+19:36.660 --> 19:37.770
+<v ->29.</v>
+
+480
+19:37.770 --> 19:38.730
+<v ->The low percent.</v>
+
+481
+19:38.730 --> 19:42.000
+So we're already surpassed wit that one.
+
+482
+19:42.000 --> 19:43.590
+And we're seeing that happen,
+
+483
+19:43.590 --> 19:47.610
+because there's so much more democratized access
+
+484
+19:47.610 --> 19:48.810
+to these features.
+
+485
+19:48.810 --> 19:52.230
+There's use cases that go beyond a niche space.
+
+486
+19:52.230 --> 19:54.060
+And in the TV space,
+
+487
+19:54.060 --> 19:56.010
+you're gonna have people in sports
+
+488
+19:56.010 --> 19:59.970
+and gaming really adopt these things at an even higher rate,
+
+489
+19:59.970 --> 20:01.020
+and pressure test them
+
+490
+20:01.020 --> 20:02.730
+and bring them into their living rooms and homes,
+
+491
+20:02.730 --> 20:05.040
+because they're really, really hungry
+
+492
+20:05.040 --> 20:08.340
+for customizing their media setups in their space.
+
+493
+20:08.340 --> 20:09.570
+<v ->And I take no credit for this,</v>
+
+494
+20:09.570 --> 20:10.709
+'cause this was your research,
+
+495
+20:10.709 --> 20:11.542
+(Sasha laughs)
+but I just found
+
+496
+20:11.542 --> 20:12.780
+it so fascinating.
+
+497
+20:12.780 --> 20:16.320
+You know, Sasha did some research a while ago about,
+
+498
+20:16.320 --> 20:17.340
+you know, and one of the questions
+
+499
+20:17.340 --> 20:18.720
+in her research thesis was,
+
+500
+20:18.720 --> 20:20.760
+would you ever buy something on your phone?
+
+501
+20:20.760 --> 20:23.710
+And how many people would've said yes to that a decade ago?
+
+502
+20:24.600 --> 20:26.881
+I bought stuff on my phone like this morning,
+
+503
+20:26.881 --> 20:27.750
+(all laugh)
+
+504
+20:27.750 --> 20:32.010
+on my way over here in a cab, like it's everywhere.
+
+505
+20:32.010 --> 20:33.030
+<v ->Six months ago, a year ago,</v>
+
+506
+20:33.030 --> 20:35.250
+how many of you would've bought something on TikTok Shop?
+
+507
+20:35.250 --> 20:36.150
+TikTok Shop.
+
+508
+20:36.150 --> 20:38.340
+Now it's growing and going really crazy.
+
+509
+20:38.340 --> 20:40.320
+So yeah, it evolves all the time.
+
+510
+20:40.320 --> 20:44.400
+So now how many people would buy something on your TV
+
+511
+20:44.400 --> 20:47.490
+by scanning a QR code straight from your streaming app?
+
+512
+20:47.490 --> 20:48.750
+It's going to be happening.
+
+513
+20:48.750 --> 20:52.110
+It's going to kind of inch its way into the zeitgeist.
+
+514
+20:52.110 --> 20:54.450
+<v ->So I think a thing that adds to the complexity</v>
+
+515
+20:54.450 --> 20:57.630
+that this introduces is, you know, one of the things
+
+516
+20:57.630 --> 21:01.230
+that I find fascinating kind of in nature that we are in is,
+
+517
+21:01.230 --> 21:03.450
+you know, as advertising is starting
+
+518
+21:03.450 --> 21:05.520
+to transcend specific types of media as well,
+
+519
+21:05.520 --> 21:07.380
+and non-linear television as well.
+
+520
+21:07.380 --> 21:09.900
+And you've got some things that are even, you know,
+
+521
+21:09.900 --> 21:12.298
+a little bit of generative going into the ad itself.
+
+522
+21:12.298 --> 21:13.290
+<v ->Oh yeah.</v>
+
+523
+21:13.290 --> 21:16.111
+<v ->I've seen a few cameos from my favorite TV shows</v>
+
+524
+21:16.111 --> 21:16.944
+(panel members laugh)
+telling me I
+
+525
+21:16.944 --> 21:19.800
+should buy something, but you know, for brand managers-
+
+526
+21:19.800 --> 21:20.820
+<v ->You're welcome.</v>
+
+527
+21:20.820 --> 21:22.470
+<v ->Yeah, yeah, it was fun.</v>
+
+528
+21:22.470 --> 21:24.900
+It was very personal, very immersive.
+
+529
+21:24.900 --> 21:27.630
+But you know, I'm fascinated in how,
+
+530
+21:27.630 --> 21:30.570
+for you guys as you're delivering that,
+
+531
+21:30.570 --> 21:32.670
+how do you maintain brand standards as you're starting
+
+532
+21:32.670 --> 21:35.280
+to get content that is going to, you know,
+
+533
+21:35.280 --> 21:36.480
+they don't know where it's gonna end up.
+
+534
+21:36.480 --> 21:37.740
+They don't know if that's gonna be able
+
+535
+21:37.740 --> 21:40.500
+to show the right brand colors.
+
+536
+21:40.500 --> 21:44.250
+<v ->Yeah, I think this is a problem regardless of brand</v>
+
+537
+21:44.250 --> 21:48.570
+is the state of fragmentation is a little unhinged,
+
+538
+21:48.570 --> 21:50.460
+and it's also not getting better,
+
+539
+21:50.460 --> 21:53.340
+and it's just going to get more fragmented.
+
+540
+21:53.340 --> 21:55.830
+And that leaves everyone in this room
+
+541
+21:55.830 --> 21:58.590
+and everyone at CES, the people that work on products,
+
+542
+21:58.590 --> 22:02.250
+and technology, and the intersection of these experiences,
+
+543
+22:02.250 --> 22:04.530
+it means we're constantly designing
+
+544
+22:04.530 --> 22:07.110
+for infinite potential option.
+
+545
+22:07.110 --> 22:08.550
+Allocate, maybe.
+<v ->Absolutely, absolutely.</v>
+
+546
+22:08.550 --> 22:10.320
+<v ->And it drives all of us nuts</v>
+
+547
+22:10.320 --> 22:11.880
+all the time, I'm sure.
+(Dan laughs)
+
+548
+22:11.880 --> 22:14.220
+And unfortunately I don't see a path
+
+549
+22:14.220 --> 22:15.630
+where that changes to you.
+
+550
+22:15.630 --> 22:16.463
+<v ->No.</v>
+
+551
+22:16.463 --> 22:18.129
+(Sasha laughs) We might as well accept it.
+
+552
+22:18.129 --> 22:19.320
+<v ->I know.</v>
+<v ->Yeah.</v>
+
+553
+22:19.320 --> 22:20.880
+The interesting thing about the fragmentation
+
+554
+22:20.880 --> 22:22.380
+is when you look at the sort of companies
+
+555
+22:22.380 --> 22:24.870
+that are driving some of this, like, you know,
+
+556
+22:24.870 --> 22:26.370
+legally there's not a whole lot of merger
+
+557
+22:26.370 --> 22:28.950
+and acquisition that's gonna happen on that chart.
+
+558
+22:28.950 --> 22:32.040
+So, you know, the fragmentation is very, very well
+
+559
+22:32.040 --> 22:33.660
+and truly clearly here to stay.
+
+560
+22:33.660 --> 22:35.310
+We look at our delivery data,
+
+561
+22:35.310 --> 22:37.830
+it's like over a dozen different companies,
+
+562
+22:37.830 --> 22:39.630
+and they're the Amazons of the world.
+
+563
+22:39.630 --> 22:43.260
+They're the, you know, Facebooks, YouTubes, Google,
+
+564
+22:43.260 --> 22:47.880
+like Samsung, Roku, Hulu, those are the top platforms
+
+565
+22:47.880 --> 22:49.320
+that we're delivering into.
+
+566
+22:49.320 --> 22:53.067
+And you're just not gonna, you won't see the, you know,
+
+567
+22:53.067 --> 22:56.220
+the acquisition space begin to collapse that.
+
+568
+22:56.220 --> 22:59.130
+When you look at like the last two revolutions
+
+569
+22:59.130 --> 23:01.020
+that we've had from a consumer perspective,
+
+570
+23:01.020 --> 23:02.760
+whether that's the mobile revolution
+
+571
+23:02.760 --> 23:05.970
+or the personal computer revolution
+
+572
+23:05.970 --> 23:09.000
+before that, the winners in those spaces were the owners
+
+573
+23:09.000 --> 23:10.770
+of the operating systems.
+
+574
+23:10.770 --> 23:13.380
+And that's the, you know, with the PC,
+
+575
+23:13.380 --> 23:15.180
+it was very clearly Windows.
+
+576
+23:15.180 --> 23:17.880
+And then with mobile it was Apple, and Google,
+
+577
+23:17.880 --> 23:21.630
+and now in the TV space, the operating system manufacturers,
+
+578
+23:21.630 --> 23:23.310
+I mean, we were joking backstage about it,
+
+579
+23:23.310 --> 23:27.180
+but like, that's why the fragmentation isn't going anywhere
+
+580
+23:27.180 --> 23:30.390
+because the OS makers know that that's the key
+
+581
+23:30.390 --> 23:32.460
+to the whole puzzle.
+
+582
+23:32.460 --> 23:36.570
+And again, you just won't see it from an M&amp;A perspective.
+
+583
+23:36.570 --> 23:40.620
+<v ->And also, the other problem is that consumers almost ask</v>
+
+584
+23:40.620 --> 23:41.547
+for the fragmentation,
+
+585
+23:41.547 --> 23:42.380
+(panel members laugh)
+
+586
+23:42.380 --> 23:45.300
+because they want infinite choice.
+
+587
+23:45.300 --> 23:48.150
+And that infinite choice just adds the complexity.
+
+588
+23:48.150 --> 23:51.450
+We joked, I had a participant in a study recently,
+
+589
+23:51.450 --> 23:54.120
+and he had advocated for fragmentation.
+
+590
+23:54.120 --> 23:56.520
+He couldn't imagine one app serving his needs,
+
+591
+23:56.520 --> 23:58.800
+and he was kind of like leaning into it.
+
+592
+23:58.800 --> 24:01.350
+But at the same time he had so many blind spots
+
+593
+24:01.350 --> 24:05.040
+about what fragmentation was doing to him as a consumer
+
+594
+24:05.040 --> 24:07.950
+that he actually was paying for Paramount twice,
+
+595
+24:07.950 --> 24:10.890
+because he subscribed to it through Amazon,
+
+596
+24:10.890 --> 24:13.590
+and then bought another standalone subscription
+
+597
+24:13.590 --> 24:16.590
+to access it through his app, and he had no idea.
+
+598
+24:16.590 --> 24:18.577
+And being a researcher, you just have to be like,
+
+599
+24:18.577 --> 24:20.256
+"I am not gonna tell him."
+
+600
+24:20.256 --> 24:21.089
+(panel members laugh)
+
+601
+24:21.089 --> 24:23.223
+You can't intervene. This is his world.
+
+602
+24:23.223 --> 24:24.810
+<v ->I think that, you know,</v>
+
+603
+24:24.810 --> 24:26.340
+just talking about fragmentation there,
+
+604
+24:26.340 --> 24:27.930
+but you know, it doesn't help
+
+605
+24:27.930 --> 24:29.610
+that the consumer technology industry
+
+606
+24:29.610 --> 24:31.770
+keeps adding more screens on everything.
+
+607
+24:31.770 --> 24:33.310
+You've got it on your fridge now,
+
+608
+24:33.310 --> 24:35.520
+and you know, I've seen wearable, essentially-
+
+609
+24:35.520 --> 24:36.353
+<v Sasha>Glasses?</v>
+
+610
+24:36.353 --> 24:37.490
+<v ->Wearable displays.</v>
+
+611
+24:37.490 --> 24:38.850
+So now you know,
+
+612
+24:38.850 --> 24:41.490
+are all your screens just gonna live on your face,
+
+613
+24:41.490 --> 24:42.630
+you know, (laughs)
+
+614
+24:42.630 --> 24:44.220
+and what do you do in that environment?
+
+615
+24:44.220 --> 24:47.280
+So, you know, it's certainly changing.
+
+616
+24:47.280 --> 24:48.900
+Are there any other, you know,
+
+617
+24:48.900 --> 24:51.360
+screen technologies you're seeing on the show floor
+
+618
+24:51.360 --> 24:53.700
+that you think are especially immersive,
+
+619
+24:53.700 --> 24:56.400
+or that will will change things in years ahead?
+
+620
+24:56.400 --> 24:58.470
+<v ->I mean, we've been talking a lot about the home,</v>
+
+621
+24:58.470 --> 25:01.320
+but walking the CES floor, what's really cool
+
+622
+25:01.320 --> 25:04.320
+is you see how screens can be transformed
+
+623
+25:04.320 --> 25:05.970
+to be floors and walls,
+
+624
+25:05.970 --> 25:10.620
+and create spaces and be the boundaries of a space.
+
+625
+25:10.620 --> 25:12.450
+That's a really cool thing to think about.
+
+626
+25:12.450 --> 25:15.180
+And I also look to the sphere here,
+
+627
+25:15.180 --> 25:18.090
+and I wonder how far are we from a future
+
+628
+25:18.090 --> 25:22.710
+where consumers can recreate an experience like the sphere
+
+629
+25:22.710 --> 25:25.140
+in their own space, and have that be a part
+
+630
+25:25.140 --> 25:27.420
+of their own entertainment experience,
+
+631
+25:27.420 --> 25:30.090
+or be an experience they seek out locally.
+
+632
+25:30.090 --> 25:32.250
+It's gonna really start to change the standards
+
+633
+25:32.250 --> 25:34.350
+for what quality is.
+
+634
+25:34.350 --> 25:38.850
+And there might be more of a surround visual experience
+
+635
+25:38.850 --> 25:40.410
+that people are looking for
+
+636
+25:40.410 --> 25:42.660
+to mirror the surround sound era.
+
+637
+25:42.660 --> 25:45.750
+<v ->Well, if you think about what does that enable, right?</v>
+
+638
+25:45.750 --> 25:46.920
+I mean, in a perfect world,
+
+639
+25:46.920 --> 25:48.810
+you could take any surface anywhere,
+
+640
+25:48.810 --> 25:50.100
+and you could make that surface
+
+641
+25:50.100 --> 25:52.500
+into anything you wanted it to be.
+
+642
+25:52.500 --> 25:54.030
+You know, I mean, we still have a lot
+
+643
+25:54.030 --> 25:56.400
+of perspectives going back to the days of, oh yeah,
+
+644
+25:56.400 --> 25:58.050
+a screen is a big discreet thing,
+
+645
+25:58.050 --> 26:00.480
+and it lives in its own little spot,
+
+646
+26:00.480 --> 26:02.370
+and then you bring the people to the screen.
+
+647
+26:02.370 --> 26:03.630
+But you know, in a perfect world,
+
+648
+26:03.630 --> 26:04.740
+especially for advertisers,
+
+649
+26:04.740 --> 26:07.200
+like if you could push an ad in front of me anywhere,
+
+650
+26:07.200 --> 26:08.033
+right?
+(Sasha laughs)
+
+651
+26:08.033 --> 26:08.866
+<v ->I will.</v>
+<v ->Yeah.</v>
+
+652
+26:08.866 --> 26:09.699
+<v ->You will.</v>
+
+653
+26:09.699 --> 26:11.670
+<v ->Is it gonna have a skip button</v>
+
+654
+26:11.670 --> 26:13.290
+when it's projected on my ceiling?
+
+655
+26:13.290 --> 26:14.310
+<v ->Right? Yeah.</v>
+
+656
+26:14.310 --> 26:15.150
+<v ->Exactly.</v>
+
+657
+26:15.150 --> 26:16.290
+<v ->So we're even seeing with some</v>
+
+658
+26:16.290 --> 26:18.180
+of like the immersive like art galleries
+
+659
+26:18.180 --> 26:21.060
+and things like that, 'cause now that screens no longer have
+
+660
+26:21.060 --> 26:22.620
+to look like a screen.
+
+661
+26:22.620 --> 26:24.240
+Right, I mean, there's some stuff on the show form,
+
+662
+26:24.240 --> 26:25.650
+especially with like displays,
+
+663
+26:25.650 --> 26:28.083
+that are meant to look like printed artwork.
+
+664
+26:29.070 --> 26:31.590
+You know, the more canvas that we can give
+
+665
+26:31.590 --> 26:34.350
+to the advertiser, we can give to the creative that's trying
+
+666
+26:34.350 --> 26:35.700
+to create an immersive experience
+
+667
+26:35.700 --> 26:38.220
+or we can just make it look, I saw some amazing things,
+
+668
+26:38.220 --> 26:39.720
+one physically moving tiles,
+
+669
+26:39.720 --> 26:42.690
+and then one booth over, there's an emulation
+
+670
+26:42.690 --> 26:46.350
+of a physically moving tile, that similar effect.
+
+671
+26:46.350 --> 26:47.940
+So I think what it is,
+
+672
+26:47.940 --> 26:51.360
+it's really about just increasing the visual canvas
+
+673
+26:51.360 --> 26:56.360
+to relay experience, relay data to that user.
+
+674
+26:56.370 --> 26:58.350
+I mean, imagine a world where you're late for a flight,
+
+675
+26:58.350 --> 26:59.850
+and then you're running down the hallway
+
+676
+26:59.850 --> 27:02.370
+and then you're like this way, now turn this way,
+
+677
+27:02.370 --> 27:04.200
+and it's just popping up in front of you.
+
+678
+27:04.200 --> 27:06.450
+But that is now. That's available now.
+
+679
+27:06.450 --> 27:08.520
+So I think that's why we're seeing it
+
+680
+27:08.520 --> 27:10.830
+is because it's a tool that we can use
+
+681
+27:10.830 --> 27:12.930
+to accomplish an infinite number of jobs.
+
+682
+27:12.930 --> 27:14.610
+<v ->And we don't even need the screen now,</v>
+
+683
+27:14.610 --> 27:16.320
+because we have holographic images.
+
+684
+27:16.320 --> 27:19.230
+So I was trying to meet up with a friend yesterday,
+
+685
+27:19.230 --> 27:21.330
+walking through, navigating the halls,
+
+686
+27:21.330 --> 27:22.860
+and he said, "I'm by the holograph."
+
+687
+27:22.860 --> 27:25.410
+And I was like, "We're at CES."
+
+688
+27:25.410 --> 27:28.950
+It's really not that helpful anymore. But they're real now.
+
+689
+27:28.950 --> 27:30.300
+They're very vivid,
+
+690
+27:30.300 --> 27:33.300
+and it's really cool to think about 10 years ago,
+
+691
+27:33.300 --> 27:35.820
+not really thinking that would be accessible.
+
+692
+27:35.820 --> 27:38.820
+<v ->Yeah, so I was gonna bring up, you know,</v>
+
+693
+27:38.820 --> 27:41.490
+looking five, 10 years out now,
+
+694
+27:41.490 --> 27:44.160
+and thinking about, you know, where things are headed,
+
+695
+27:44.160 --> 27:46.410
+and we talk about, you know, some of the, you know,
+
+696
+27:46.410 --> 27:48.690
+trying to tackle some of these fragmentation issues.
+
+697
+27:48.690 --> 27:51.090
+But, you know, thinking five, 10 years out,
+
+698
+27:51.090 --> 27:54.450
+what does immersive TV look like?
+
+699
+27:54.450 --> 27:57.750
+<v ->So again, I don't think it's any surprise,</v>
+
+700
+27:57.750 --> 28:02.550
+the largest television event in the year is the Super Bowl.
+
+701
+28:02.550 --> 28:03.810
+We all talk about the Super Bowl.
+
+702
+28:03.810 --> 28:06.840
+It had 127 million viewers this year,
+
+703
+28:06.840 --> 28:08.910
+if memory serves me correctly,
+
+704
+28:08.910 --> 28:13.470
+of the top 100 television broadcasts this year,
+
+705
+28:13.470 --> 28:16.179
+98 of them were NFL.
+
+706
+28:16.179 --> 28:19.050
+(laughs) So we wanna think about the future of TV.
+
+707
+28:19.050 --> 28:21.960
+The Super Bowl rights expire in 2029.
+
+708
+28:21.960 --> 28:22.793
+Do you think?
+
+709
+28:22.793 --> 28:24.960
+You're the NFL, do you think you start negotiating
+
+710
+28:24.960 --> 28:26.400
+with traditional media companies,
+
+711
+28:26.400 --> 28:28.950
+or do you go to people like Facebook, and Amazon,
+
+712
+28:28.950 --> 28:31.890
+and Disney, and folks like that to figure out
+
+713
+28:31.890 --> 28:33.630
+what those experiences look like?
+
+714
+28:33.630 --> 28:35.910
+Amazon two years ago took a loss leader,
+
+715
+28:35.910 --> 28:37.890
+and created Thursday Night Football.
+
+716
+28:37.890 --> 28:41.010
+They created a brand new football viewing event
+
+717
+28:41.010 --> 28:43.140
+and had to educate the market on,
+
+718
+28:43.140 --> 28:46.530
+you can watch football on Amazon on Thursday night.
+
+719
+28:46.530 --> 28:49.170
+And they did so at the entirety of their homepage
+
+720
+28:49.170 --> 28:51.540
+for weeks on end, but now-
+
+721
+28:51.540 --> 28:52.373
+<v ->Still doing it.</v>
+
+722
+28:52.373 --> 28:54.180
+(Sasha laughs)
+<v ->Yeah, still, but now,</v>
+
+723
+28:54.180 --> 28:56.970
+that is a regular viewing event
+
+724
+28:56.970 --> 28:58.980
+for consumers who enjoy football.
+
+725
+28:58.980 --> 29:02.760
+So I think there's some really exciting things
+
+726
+29:02.760 --> 29:06.780
+around live sports delivery and immersive TV.
+
+727
+29:06.780 --> 29:08.520
+I mean, how cool would it be, like AR,
+
+728
+29:08.520 --> 29:12.270
+to your point, like 29% adoption rate
+
+729
+29:12.270 --> 29:14.760
+in the United States right now in terms of households
+
+730
+29:14.760 --> 29:16.320
+that have AR devices in them.
+
+731
+29:16.320 --> 29:18.750
+How cool would it be to like plop an Oculus camera
+
+732
+29:18.750 --> 29:20.940
+on the 50-yard line of the Super Bowl,
+
+733
+29:20.940 --> 29:23.940
+and then stick, I've never put one on my face before.
+
+734
+29:23.940 --> 29:24.773
+I would put it on
+
+735
+29:24.773 --> 29:26.610
+to watch the Super Bowl from the 50-yard line,
+
+736
+29:26.610 --> 29:30.120
+'cause that's a experience that I will never have in life.
+
+737
+29:30.120 --> 29:31.920
+But if the cameras are good enough,
+
+738
+29:31.920 --> 29:33.210
+and the color is good enough,
+
+739
+29:33.210 --> 29:34.530
+and the screens are good enough,
+
+740
+29:34.530 --> 29:37.500
+and I can suspend disbelief for long enough,
+
+741
+29:37.500 --> 29:39.990
+now I'm sitting, you know, court side at the Knicks,
+
+742
+29:39.990 --> 29:43.650
+or I'm sitting, you know, a 50-yard line at the Super Bowl,
+
+743
+29:43.650 --> 29:44.790
+and why do I have to be static?
+
+744
+29:44.790 --> 29:46.740
+Why can't I just get on the field with them?
+
+745
+29:46.740 --> 29:49.920
+Like, those are other things that like become new
+
+746
+29:49.920 --> 29:51.660
+and like multi-screen viewing,
+
+747
+29:51.660 --> 29:54.480
+and there's just, I think it's so bright
+
+748
+29:54.480 --> 29:55.313
+when you start thinking
+
+749
+29:55.313 --> 29:57.270
+about what immersive TV can look like.
+
+750
+29:57.270 --> 30:00.930
+And I think we'll see that inflection point as some
+
+751
+30:00.930 --> 30:04.890
+of these big media bastions start thinking the same way we
+
+752
+30:04.890 --> 30:06.330
+are all talking today.
+
+753
+30:06.330 --> 30:07.410
+<v ->And I also think we heard a lot</v>
+
+754
+30:07.410 --> 30:09.990
+about personalization in your future,
+
+755
+30:09.990 --> 30:12.300
+which I'm now gonna jump on and build on.
+
+756
+30:12.300 --> 30:15.210
+We already see fans, sports fans wanting
+
+757
+30:15.210 --> 30:17.580
+to customize their sports experiences.
+
+758
+30:17.580 --> 30:21.300
+They will curate four games on a screen, mute all of them,
+
+759
+30:21.300 --> 30:25.320
+and pull in their own commentary from radio
+
+760
+30:25.320 --> 30:28.140
+to make their experience their own.
+
+761
+30:28.140 --> 30:30.090
+And we can imagine a world
+
+762
+30:30.090 --> 30:33.390
+where they're doing that within new ecosystems
+
+763
+30:33.390 --> 30:36.465
+that they're creating their ideal fan experience,
+
+764
+30:36.465 --> 30:38.190
+so they can access all
+
+765
+30:38.190 --> 30:39.840
+of the content they want at once,
+
+766
+30:39.840 --> 30:42.113
+instead of having to choose A or B.
+
+767
+30:42.113 --> 30:45.600
+<v ->I think the, and I call it the tapas approach</v>
+
+768
+30:45.600 --> 30:46.433
+to media consumption.
+
+769
+30:46.433 --> 30:47.266
+<v ->Tapas.</v>
+
+770
+30:47.266 --> 30:48.200
+(all laugh)
+
+771
+30:48.200 --> 30:50.310
+<v ->We also talk about is as an all-you-can-eat buffet.</v>
+
+772
+30:50.310 --> 30:51.143
+<v ->There you go.</v>
+
+773
+30:51.990 --> 30:54.442
+I think it's been an interesting thing seeing with,
+
+774
+30:54.442 --> 30:57.120
+you know, like the six second of stimuli that's become,
+
+775
+30:57.120 --> 30:58.950
+you know, for Gen Alpha,
+
+776
+30:58.950 --> 31:02.550
+almost the only way that they can consume anything anymore.
+
+777
+31:02.550 --> 31:04.320
+But it's becoming very much a rapid fire.
+
+778
+31:04.320 --> 31:06.300
+I'm looking for a specific type of stimuli.
+
+779
+31:06.300 --> 31:07.500
+I can't describe it,
+
+780
+31:07.500 --> 31:09.720
+so I'm just gonna scroll till I find it.
+
+781
+31:09.720 --> 31:11.160
+But I think the big thing, you know,
+
+782
+31:11.160 --> 31:13.170
+if we wanna look out 2030, I think
+
+783
+31:13.170 --> 31:17.100
+that the generative experience is gonna be a key in there.
+
+784
+31:17.100 --> 31:20.550
+And I will say, you know, I've been in the Sora betas
+
+785
+31:20.550 --> 31:21.780
+and stuff like that, and it's great.
+
+786
+31:21.780 --> 31:22.680
+It's amazing technology.
+
+787
+31:22.680 --> 31:25.530
+It's not there yet, but it is in our future
+
+788
+31:25.530 --> 31:28.680
+that it's gonna be, I wanna watch a episode of "Seinfeld,"
+
+789
+31:28.680 --> 31:30.510
+and this is the script I wanna watch it in.
+
+790
+31:30.510 --> 31:31.530
+And it's possible.
+
+791
+31:31.530 --> 31:33.270
+<v ->And you know, that's an interesting point</v>
+
+792
+31:33.270 --> 31:35.070
+when you start talking about generative AI
+
+793
+31:35.070 --> 31:36.090
+is there's, you know,
+
+794
+31:36.090 --> 31:37.800
+we all talk about it from a creative lens,
+
+795
+31:37.800 --> 31:42.800
+creative perspective, generative AI is really, really good
+
+796
+31:43.020 --> 31:46.620
+at democratization and inclusion.
+
+797
+31:46.620 --> 31:49.620
+You know, no affiliation here,
+
+798
+31:49.620 --> 31:51.570
+but there's a platform called HeyGen.ai.
+
+799
+31:51.570 --> 31:52.560
+You can record a video
+
+800
+31:52.560 --> 31:54.630
+of yourself in your own natural language,
+
+801
+31:54.630 --> 31:56.430
+and it will translate it to any language,
+
+802
+31:56.430 --> 31:57.510
+and it will re-dub your lips
+
+803
+31:57.510 --> 31:59.400
+to make it look like you're a natural speaker.
+
+804
+31:59.400 --> 32:02.100
+It's wild. It does it in seconds.
+
+805
+32:02.100 --> 32:04.320
+Imagine like, to your point, I wanna watch "Seinfeld,"
+
+806
+32:04.320 --> 32:06.693
+but I am a native Russian speaker.
+
+807
+32:07.560 --> 32:09.630
+Fine, now I can watch "Seinfeld" all in Russian
+
+808
+32:09.630 --> 32:11.790
+and it doesn't look weird, and it doesn't feel weird.
+
+809
+32:11.790 --> 32:13.290
+And it allows me to like connect
+
+810
+32:13.290 --> 32:15.480
+with that content just a little bit more,
+
+811
+32:15.480 --> 32:17.730
+'cause it's not the traditional like dubbing
+
+812
+32:17.730 --> 32:20.910
+that you're used to seeing, or live subtitles.
+
+813
+32:20.910 --> 32:23.970
+Kids just watch subtitles.
+
+814
+32:23.970 --> 32:25.110
+Maybe it's TikTok,
+
+815
+32:25.110 --> 32:29.580
+and they're used to seeing captions go along
+
+816
+32:29.580 --> 32:30.900
+with the content they're reading.
+
+817
+32:30.900 --> 32:35.190
+But when you are with someone from Gen A or Gen Z
+
+818
+32:35.190 --> 32:38.809
+or even now Gen B, I guess we're in as of officially 2025.
+
+819
+32:38.809 --> 32:41.700
+<v ->Betas, oh, yes, are the next gen.</v>
+
+820
+32:41.700 --> 32:43.650
+<v ->Any kid who's been born in the last eight days</v>
+
+821
+32:43.650 --> 32:45.360
+is now officially Gen B.
+
+822
+32:45.360 --> 32:50.250
+But you know, they're watching screens with captions on,
+
+823
+32:50.250 --> 32:51.870
+which originally was something that we did
+
+824
+32:51.870 --> 32:53.880
+from like an ADA compliance perspective,
+
+825
+32:53.880 --> 32:55.410
+like we gotta have it so that people
+
+826
+32:55.410 --> 32:58.470
+who have difficulty hearing
+
+827
+32:58.470 --> 33:00.300
+or able to still have the content,
+
+828
+33:00.300 --> 33:01.740
+but now they're just doing it as a part
+
+829
+33:01.740 --> 33:02.790
+of like reading through.
+
+830
+33:02.790 --> 33:04.812
+I'm being captioned right now
+
+831
+33:04.812 --> 33:06.471
+as we speak live.
+<v ->Oh my gosh.</v>
+
+832
+33:06.471 --> 33:07.304
+And you know,
+
+833
+33:07.304 --> 33:09.960
+it's really just because we become too distracted.
+
+834
+33:09.960 --> 33:13.603
+And we lose track. And that's really interesting.
+
+835
+33:13.603 --> 33:16.290
+And to your point, we're also gonna probably see
+
+836
+33:16.290 --> 33:18.990
+some convergence of the creator economy
+
+837
+33:18.990 --> 33:22.080
+and short form content with traditional media,
+
+838
+33:22.080 --> 33:25.200
+because these worlds are so separate right now,
+
+839
+33:25.200 --> 33:28.080
+but they're all talking about the same content.
+
+840
+33:28.080 --> 33:31.620
+They're all involved in the same social conversation,
+
+841
+33:31.620 --> 33:34.650
+and people wanna flip back and forth from these short
+
+842
+33:34.650 --> 33:36.120
+and long form engagements
+
+843
+33:36.120 --> 33:38.550
+from these landscape and portrait moments.
+
+844
+33:38.550 --> 33:41.010
+And we need experiences that kind of bring those together
+
+845
+33:41.010 --> 33:43.440
+and create a universe where people can engage
+
+846
+33:43.440 --> 33:45.390
+with their fandom across both of those.
+
+847
+33:46.320 --> 33:48.573
+<v ->Yeah, it's ever expanding, isn't it?</v>
+
+848
+33:49.590 --> 33:52.340
+Yeah, any other technologies you're seeing
+
+849
+33:52.340 --> 33:53.430
+at the show you think
+
+850
+33:53.430 --> 33:56.220
+are gonna push the envelope with immersion?
+
+851
+33:56.220 --> 33:57.660
+<v ->Lasers in the home.</v>
+
+852
+33:57.660 --> 33:58.493
+<v ->Lasers?</v>
+
+853
+33:58.493 --> 33:59.326
+<v ->That's huge.</v>
+
+854
+33:59.326 --> 34:00.330
+<v ->Okay.</v>
+
+855
+34:00.330 --> 34:02.190
+<v ->What that unlocks for the consumer,</v>
+
+856
+34:02.190 --> 34:03.900
+which I will say there are,
+
+857
+34:03.900 --> 34:07.680
+and close to me, close to heart for me, you know,
+
+858
+34:07.680 --> 34:08.880
+content's not there for it,
+
+859
+34:08.880 --> 34:11.820
+but the technologies that we are bringing into the home
+
+860
+34:11.820 --> 34:14.580
+that were not previously available to the home
+
+861
+34:14.580 --> 34:19.230
+is there is a whole new palette of artistic expression
+
+862
+34:19.230 --> 34:21.660
+that's becoming available today.
+
+863
+34:21.660 --> 34:24.570
+And that, to me, is something that I'm just really excited
+
+864
+34:24.570 --> 34:26.070
+to see how that develops as people.
+
+865
+34:26.070 --> 34:27.780
+You know, we have the benefit now
+
+866
+34:27.780 --> 34:29.550
+of we have display technologies
+
+867
+34:29.550 --> 34:31.650
+that can show things that we can't, we don't know how
+
+868
+34:31.650 --> 34:32.763
+to create for now.
+
+869
+34:34.050 --> 34:37.800
+That is a new experience for this industry as I see it,
+
+870
+34:37.800 --> 34:40.350
+of it's always been the display technology
+
+871
+34:40.350 --> 34:43.860
+has been the rate limiter, and now, it's no longer that.
+
+872
+34:43.860 --> 34:46.980
+So I'm curious to see over the next, you know, I think one
+
+873
+34:46.980 --> 34:51.240
+to five years, how people learn to leverage that.
+
+874
+34:51.240 --> 34:52.390
+<v ->Yeah, that's amazing.</v>
+
+875
+34:53.910 --> 34:56.670
+Well, I think any other comments
+
+876
+34:56.670 --> 34:59.133
+on where this is headed?
+
+877
+35:01.479 --> 35:04.080
+<v ->Yeah, in terms of the show floor</v>
+
+878
+35:04.080 --> 35:05.670
+and things that I'm seeing that are exciting,
+
+879
+35:05.670 --> 35:08.970
+I love all of the health tech that's out there.
+
+880
+35:08.970 --> 35:11.910
+I mean just, you know, I know I joke
+
+881
+35:11.910 --> 35:14.160
+and I kid about being in the advertising space
+
+882
+35:14.160 --> 35:15.870
+and all of those things, but at the end of the day,
+
+883
+35:15.870 --> 35:18.450
+I'm a dad too, and I have children,
+
+884
+35:18.450 --> 35:19.740
+and I have a wife who has an illness,
+
+885
+35:19.740 --> 35:22.860
+and like, these are some of the things where I love to see
+
+886
+35:22.860 --> 35:25.605
+how consumer technology is, you know, democratizing
+
+887
+35:25.605 --> 35:28.140
+and normalizing and helping people live better lives.
+
+888
+35:28.140 --> 35:29.760
+And from a television
+
+889
+35:29.760 --> 35:33.063
+and an immersive television perspective, like this is where,
+
+890
+35:33.063 --> 35:35.130
+you know, we get to talk about the cool, wonderful things
+
+891
+35:35.130 --> 35:37.530
+that people are creating and doing every single day,
+
+892
+35:37.530 --> 35:40.380
+and how those are gonna, you know, impact engagement
+
+893
+35:40.380 --> 35:42.870
+and performance, and all of that.
+
+894
+35:42.870 --> 35:44.580
+But like at the end of the day, like those are the things
+
+895
+35:44.580 --> 35:48.240
+that I really enjoy looking at when I'm at shows like this
+
+896
+35:48.240 --> 35:49.620
+for the human reasons.
+
+897
+35:49.620 --> 35:51.450
+And I think that's some of what we've all been kind
+
+898
+35:51.450 --> 35:55.230
+of talking about is like how we engage, how we interact,
+
+899
+35:55.230 --> 35:57.300
+what's on the frontier, what's on the horizon.
+
+900
+35:57.300 --> 35:59.580
+Yes, we will have experiences,
+
+901
+35:59.580 --> 36:01.960
+and TV is certainly going to get more immersive
+
+902
+36:02.820 --> 36:04.530
+over the next few years as a result of some
+
+903
+36:04.530 --> 36:05.880
+of the things that we're talking about today.
+
+904
+36:05.880 --> 36:07.110
+<v ->And Dan will figure out how</v>
+
+905
+36:07.110 --> 36:09.480
+to serve us ads on all those other places too.
+
+906
+36:09.480 --> 36:10.313
+<v ->Absolutely.</v>
+
+907
+36:10.313 --> 36:11.146
+<v ->Right?</v>
+
+908
+36:11.146 --> 36:12.330
+(Sasha laughs)
+<v ->Yes, exactly.</v>
+
+909
+36:12.330 --> 36:13.530
+I think to your point too,
+
+910
+36:13.530 --> 36:15.930
+just thinking about, in CTAs research,
+
+911
+36:15.930 --> 36:18.390
+that average Gen Z'er
+
+912
+36:18.390 --> 36:22.650
+has something like 13 consumer technology products.
+
+913
+36:22.650 --> 36:24.015
+<v Dan>Only? (laughs)</v>
+
+914
+36:24.015 --> 36:24.848
+<v ->Right?</v>
+
+915
+36:24.848 --> 36:26.040
+<v Dan>That's shocking.</v>
+
+916
+36:26.040 --> 36:28.410
+<v ->I wanna know what the, I wanna count them.</v>
+
+917
+36:28.410 --> 36:29.656
+<v ->What's the panel size?</v>
+
+918
+36:29.656 --> 36:31.890
+(panel members laugh)
+
+919
+36:31.890 --> 36:32.853
+<v ->Researchers. Okay.</v>
+
+920
+36:32.853 --> 36:33.900
+(panel members laugh)
+
+921
+36:33.900 --> 36:36.150
+So but consider all these, you know,
+
+922
+36:36.150 --> 36:38.280
+products that they're engaging with every day.
+
+923
+36:38.280 --> 36:40.527
+It's all part of their full experience.
+
+924
+36:40.527 --> 36:42.120
+And I think there's still that tie in,
+
+925
+36:42.120 --> 36:46.050
+because, you know, we talked about fragmentation
+
+926
+36:46.050 --> 36:47.220
+and all the different devices,
+
+927
+36:47.220 --> 36:48.720
+and trying to make that cohesive,
+
+928
+36:48.720 --> 36:51.180
+and TV does become a part of that, you know,
+
+929
+36:51.180 --> 36:52.680
+as an entertainment medium.
+
+930
+36:52.680 --> 36:54.810
+<v ->I do have a question.</v>
+
+931
+36:54.810 --> 36:57.940
+Is there ever a point where TV's become too big?
+
+932
+36:57.940 --> 36:58.773
+(Rick laughs)
+
+933
+36:58.773 --> 36:59.845
+<v ->Not so far.</v>
+
+934
+36:59.845 --> 37:00.678
+(panel members laugh)
+
+935
+37:00.678 --> 37:02.471
+<v ->'Cause this year's show floor proved-</v>
+
+936
+37:02.471 --> 37:03.304
+<v ->It was big.</v>
+
+937
+37:03.304 --> 37:07.073
+<v ->That 163 inch micro-LED.</v>
+<v ->But isn't that what AR is?</v>
+
+938
+37:07.073 --> 37:07.906
+<v ->It's the one</v>
+
+939
+37:07.906 --> 37:09.295
+that looks like a pool.
+<v ->It's just as big.</v>
+
+940
+37:09.295 --> 37:11.040
+(panel members laugh)
+
+941
+37:11.040 --> 37:12.690
+<v ->And when you put those glasses on,</v>
+
+942
+37:12.690 --> 37:14.610
+and it's simulating a, you know,
+
+943
+37:14.610 --> 37:16.530
+300-inch screen or something.
+
+944
+37:16.530 --> 37:19.530
+<v ->It's incredible when you have to ask the question,</v>
+
+945
+37:19.530 --> 37:22.744
+do I have a door tall enough for this to fit through?
+
+946
+37:22.744 --> 37:23.577
+(Sasha laughs)
+
+947
+37:23.577 --> 37:24.410
+<v ->That's amazing.</v>
+<v ->That's when you buy</v>
+
+948
+37:24.410 --> 37:26.190
+the projector, right?
+
+949
+37:26.190 --> 37:28.080
+<v ->Yeah. (laughs)</v>
+
+950
+37:28.080 --> 37:30.600
+<v ->Well, I wanna thank my guests here.</v>
+
+951
+37:30.600 --> 37:31.950
+It was a great conversation,
+
+952
+37:31.950 --> 37:34.100
+and I hope you all got something out of it.
+
+953
+37:35.439 --> 37:38.880
+And please dive into the rest of CES.
+
+954
+37:38.880 --> 37:41.550
+Get out there, explore, be curious,
+
+955
+37:41.550 --> 37:45.147
+and yeah, make it a great CES.
+
+956
+37:45.147 --> 37:45.980
+<v ->Thank you all.</v>
+
+957
+37:45.980 --> 37:48.160
+<v Sasha And Matt>Thank you.</v>
+(audience applauds)
+
+958
+37:48.160 --> 37:50.827
+(upbeat music)
+

@@ -1,0 +1,3635 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.836 --> 00:03.419
+(upbeat music)
+
+2
+00:10.320 --> 00:14.010
+<v ->Thank you for joining us here for our session today.</v>
+
+3
+00:14.010 --> 00:15.687
+Today we're gonna be talking about EV trends
+
+4
+00:15.687 --> 00:17.850
+and the outlook for 2025.
+
+5
+00:17.850 --> 00:19.350
+My name is Martine Paris,
+
+6
+00:19.350 --> 00:22.560
+and I am a Features Correspondent for the BBC,
+
+7
+00:22.560 --> 00:25.860
+and I also write a column for Forbes on AI.
+
+8
+00:25.860 --> 00:28.200
+And joining me here on stage today
+
+9
+00:28.200 --> 00:31.680
+is Tina Jeffress of Panasonic,
+
+10
+00:31.680 --> 00:35.880
+Dr. Sabrina Rathgeber of Bosch,
+
+11
+00:35.880 --> 00:39.840
+and Sujay Sharma of BP Pulse.
+
+12
+00:39.840 --> 00:43.320
+And so before we begin, I just would like you guys
+
+13
+00:43.320 --> 00:45.030
+to tell us a little bit about yourselves
+
+14
+00:45.030 --> 00:48.930
+and the role that you are playing in the EV ecosystem.
+
+15
+00:48.930 --> 00:50.430
+Tina, let's begin with you.
+
+16
+00:50.430 --> 00:51.516
+<v ->Sure.</v>
+
+17
+00:51.516 --> 00:52.349
+Hi, Tina Jeffress.
+
+18
+00:52.349 --> 00:54.570
+I lead Energy and Sustainability Policy
+
+19
+00:54.570 --> 00:55.980
+for Panasonic North America
+
+20
+00:55.980 --> 00:58.080
+and Panasonic Energy North America.
+
+21
+00:58.080 --> 01:01.770
+So Panasonic Energy is one of the world's largest producers
+
+22
+01:01.770 --> 01:05.280
+of lithium ion battery cells for EV applications.
+
+23
+01:05.280 --> 01:07.710
+We make cylindrical cells in Reno, Nevada,
+
+24
+01:07.710 --> 01:10.170
+and we're excited to soon open our new plant
+
+25
+01:10.170 --> 01:11.250
+in De Soto, Kansas.
+
+26
+01:11.250 --> 01:14.130
+So excited to talk about where we sit in the ecosystem
+
+27
+01:14.130 --> 01:16.110
+and all of the growth we're seeing domestically here
+
+28
+01:16.110 --> 01:16.943
+in the US.
+
+29
+01:17.910 --> 01:18.990
+<v ->So, hi, everyone.</v>
+
+30
+01:18.990 --> 01:21.390
+My name is Sabrina Rathgeber.
+
+31
+01:21.390 --> 01:23.760
+I'm working for Bosch Manufacturing Solutions.
+
+32
+01:23.760 --> 01:25.980
+So we are the turnkey provider
+
+33
+01:25.980 --> 01:28.140
+for manufacturing equipment from Bosch.
+
+34
+01:28.140 --> 01:29.820
+And within that area,
+
+35
+01:29.820 --> 01:31.920
+I'm responsible globally for the battery business.
+
+36
+01:31.920 --> 01:34.530
+So everything around manufacturing of battery,
+
+37
+01:34.530 --> 01:36.960
+but also for sure new technologies
+
+38
+01:36.960 --> 01:39.993
+which are evolving in the upcoming next years.
+
+39
+01:41.370 --> 01:42.203
+<v ->Hi, everyone.</v>
+
+40
+01:42.203 --> 01:43.036
+I'm Sujay Sharma.
+
+41
+01:43.036 --> 01:44.550
+I run BP Pulse,
+
+42
+01:44.550 --> 01:46.350
+and if you're asking what is BP Pulse,
+
+43
+01:46.350 --> 01:51.350
+it is the EV charging brand of the energy major BP.
+
+44
+01:52.440 --> 01:55.560
+We operate in 12 different countries worldwide
+
+45
+01:55.560 --> 01:57.960
+with over 40,000 charge points.
+
+46
+01:57.960 --> 02:00.300
+And we are just getting in the process
+
+47
+02:00.300 --> 02:04.260
+of scaling up our EV charging presence
+
+48
+02:04.260 --> 02:05.640
+across the United States.
+
+49
+02:05.640 --> 02:07.050
+So I run that business.
+
+50
+02:07.050 --> 02:08.040
+<v ->Thank you.</v>
+
+51
+02:08.040 --> 02:09.990
+All right, so as we all know,
+
+52
+02:09.990 --> 02:13.113
+EV adoption has been lagging in the US.
+
+53
+02:15.360 --> 02:18.390
+It's behind nations like Norway and China.
+
+54
+02:18.390 --> 02:21.660
+Why is this, Tina?
+
+55
+02:21.660 --> 02:23.100
+<v ->Yeah, I'd like to first say</v>
+
+56
+02:23.100 --> 02:24.450
+that I think we're still seeing
+
+57
+02:24.450 --> 02:26.970
+very consistent growth in the industry.
+
+58
+02:26.970 --> 02:30.000
+So Panasonic currently makes 66 batteries a second
+
+59
+02:30.000 --> 02:33.420
+in Reno, Nevada, about billions of cells a year.
+
+60
+02:33.420 --> 02:35.550
+And so we have been really happy
+
+61
+02:35.550 --> 02:38.490
+to be a part of mass adoption of EVs in the US.
+
+62
+02:38.490 --> 02:42.000
+We were a part of bringing the first affordable EVs
+
+63
+02:42.000 --> 02:44.010
+that were still high performance online.
+
+64
+02:44.010 --> 02:46.740
+And so I think we're continuing to see that progress,
+
+65
+02:46.740 --> 02:48.060
+and I anticipate in the next year
+
+66
+02:48.060 --> 02:49.980
+we're going to see so much of the work
+
+67
+02:49.980 --> 02:52.800
+that's gone into date, really come to life.
+
+68
+02:52.800 --> 02:55.650
+Just earlier this week, we announced our,
+
+69
+02:55.650 --> 02:57.270
+a new partnership with Lucid Motors
+
+70
+02:57.270 --> 03:01.950
+to provide cells to their new SUV, the Gravity.
+
+71
+03:01.950 --> 03:05.940
+And already there we're gonna see 450 miles of range,
+
+72
+03:05.940 --> 03:08.970
+and that will also be with the mass adoption,
+
+73
+03:08.970 --> 03:10.680
+bringing down costs over time.
+
+74
+03:10.680 --> 03:12.930
+So I think many of the concerns that we hear about,
+
+75
+03:12.930 --> 03:14.310
+and we'll talk about today,
+
+76
+03:14.310 --> 03:16.290
+we're already making great progress on.
+
+77
+03:16.290 --> 03:18.120
+<v ->I just wanna ask you,</v>
+
+78
+03:18.120 --> 03:22.320
+I mean Panasonic also supplies the batteries to Tesla,
+
+79
+03:22.320 --> 03:26.880
+is that correct, and other car makers, is that right?
+
+80
+03:26.880 --> 03:27.713
+Here in the US?
+
+81
+03:27.713 --> 03:29.190
+<v ->We provide multiple OEMs, yes.</v>
+
+82
+03:29.190 --> 03:30.630
+<v ->Okay, thank you.</v>
+
+83
+03:30.630 --> 03:31.463
+That's okay.
+
+84
+03:31.463 --> 03:33.510
+<v ->Yeah, so Tina, I can totally agree on what you say.</v>
+
+85
+03:33.510 --> 03:38.130
+So generally, we from Bosch also still see that until 2030,
+
+86
+03:38.130 --> 03:42.960
+we expect EV range from 30 to 40% globally.
+
+87
+03:42.960 --> 03:45.390
+So we still see that the market is growing,
+
+88
+03:45.390 --> 03:47.610
+even though the growth has slowed down,
+
+89
+03:47.610 --> 03:50.733
+to the predicted growth rates we saw a couple of years ago.
+
+90
+03:51.840 --> 03:53.940
+So however, coming back to your question,
+
+91
+03:53.940 --> 03:58.260
+if I can give some insights on what they did in Norway,
+
+92
+03:58.260 --> 04:02.510
+they, from the government, supported really the sales of EV.
+
+93
+04:02.510 --> 04:04.170
+So how did they do that?
+
+94
+04:04.170 --> 04:08.040
+There is no tax if you purchase a new EV car in Norway.
+
+95
+04:08.040 --> 04:09.300
+And in addition to that,
+
+96
+04:09.300 --> 04:11.970
+there are other amenities like special lanes
+
+97
+04:11.970 --> 04:13.410
+where you can drive with your EV,
+
+98
+04:13.410 --> 04:15.450
+free parking in the cities.
+
+99
+04:15.450 --> 04:18.453
+And also because they wanted to push that business further,
+
+100
+04:19.410 --> 04:22.410
+they build up lots of charging stations on their own
+
+101
+04:22.410 --> 04:24.090
+from the governmental side.
+
+102
+04:24.090 --> 04:27.300
+So by doing so, they achieved the fantastic results.
+
+103
+04:27.300 --> 04:30.930
+So last year, sorry, last year already, 2024,
+
+104
+04:30.930 --> 04:34.500
+the overall market share of EV in new cars
+
+105
+04:34.500 --> 04:38.580
+was 89% for just pure electric cars.
+
+106
+04:38.580 --> 04:39.930
+And for this year,
+
+107
+04:39.930 --> 04:43.890
+Norway is already targeting 100% as their own target.
+
+108
+04:43.890 --> 04:47.280
+So they will just, they target to only,
+
+109
+04:47.280 --> 04:49.233
+yeah, get new cars sold as an EV.
+
+110
+04:51.180 --> 04:53.725
+<v ->Yeah, I mean I used to run our China business</v>
+
+111
+04:53.725 --> 04:55.110
+in EV charging before this.
+
+112
+04:55.110 --> 05:00.110
+And you know, what it comes down to is choice and economics
+
+113
+05:00.240 --> 05:02.670
+on the electric vehicle side of things.
+
+114
+05:02.670 --> 05:07.670
+Choice wise, we have a growing number of models and cars
+
+115
+05:08.100 --> 05:11.550
+coming in at different price points in the US,
+
+116
+05:11.550 --> 05:14.010
+but admittedly, you know,
+
+117
+05:14.010 --> 05:16.680
+they've mostly been Teslas up until recently,
+
+118
+05:16.680 --> 05:19.410
+but that trend is now starting to change.
+
+119
+05:19.410 --> 05:21.210
+So as there's more choice,
+
+120
+05:21.210 --> 05:24.000
+I think that will lead to more adoption.
+
+121
+05:24.000 --> 05:26.190
+The other point that's really important in all of this
+
+122
+05:26.190 --> 05:29.850
+is economics, making cars, nice cars
+
+123
+05:29.850 --> 05:32.700
+that people want to drive that are economically friendly.
+
+124
+05:34.110 --> 05:37.080
+And there's an industry component to this
+
+125
+05:37.080 --> 05:38.430
+that the industry can facilitate
+
+126
+05:38.430 --> 05:41.100
+by making cars that are more economical, and that's coming.
+
+127
+05:41.100 --> 05:42.915
+And there's another part of this,
+
+128
+05:42.915 --> 05:45.360
+which colleagues here have spoken about,
+
+129
+05:45.360 --> 05:48.900
+which is incentive, subsidies, what have you,
+
+130
+05:48.900 --> 05:52.800
+and that encourages adoption as well.
+
+131
+05:52.800 --> 05:56.820
+And I would not say that, I mean the US is today at 10%.
+
+132
+05:56.820 --> 06:00.030
+I think as of last year, 2024,
+
+133
+06:00.030 --> 06:03.093
+10% of new car sales were EVs.
+
+134
+06:04.020 --> 06:06.780
+Just way back in 2019, it was 2%.
+
+135
+06:06.780 --> 06:10.230
+So we've gone from 2% to 10% in five years.
+
+136
+06:10.230 --> 06:13.200
+It's good progression, and it'll continue to grow.
+
+137
+06:13.200 --> 06:16.200
+<v ->And I think California penetration is above 25%,</v>
+
+138
+06:16.200 --> 06:19.890
+but that's because California has had a lot of incentives,
+
+139
+06:19.890 --> 06:21.360
+many of which are now gone.
+
+140
+06:21.360 --> 06:25.050
+But incentives do seem to play a role.
+
+141
+06:25.050 --> 06:26.853
+Price is a big issue.
+
+142
+06:28.860 --> 06:31.710
+We, seems I've been told,
+
+143
+06:31.710 --> 06:36.660
+the magic number is to try to get a car under $30,000
+
+144
+06:36.660 --> 06:40.470
+for over 300 mile range.
+
+145
+06:40.470 --> 06:42.690
+So I think the Chevy Equinox has come out.
+
+146
+06:42.690 --> 06:44.130
+Have you, what are your thoughts
+
+147
+06:44.130 --> 06:49.130
+on other American made car makers being able to do the same,
+
+148
+06:51.300 --> 06:54.240
+offer the same type of affordability?
+
+149
+06:54.240 --> 06:57.390
+<v ->Yeah, I think we are getting closer to price parity</v>
+
+150
+06:57.390 --> 07:00.540
+on EVs and ICE vehicles across all segments.
+
+151
+07:00.540 --> 07:02.880
+It's going to take time, but we're getting there.
+
+152
+07:02.880 --> 07:05.070
+Already, if you purchase a vehicle
+
+153
+07:05.070 --> 07:08.730
+that is around the same price point, ICE, EV,
+
+154
+07:08.730 --> 07:11.460
+research from the Zero Energy Transportation Association
+
+155
+07:11.460 --> 07:12.293
+in DC
+
+156
+07:12.293 --> 07:13.980
+shows that you can expect anywhere
+
+157
+07:13.980 --> 07:17.520
+between eight and 12 grand in lifecycle savings on the EV.
+
+158
+07:17.520 --> 07:19.230
+So we do need to really,
+
+159
+07:19.230 --> 07:21.330
+there's definitely an education component here
+
+160
+07:21.330 --> 07:24.570
+on showing people that it's not just sticker price,
+
+161
+07:24.570 --> 07:26.820
+it's also about the reduced maintenance,
+
+162
+07:26.820 --> 07:30.390
+not buying fuel, and all of the other efficiencies
+
+163
+07:30.390 --> 07:33.690
+that you get from a cost perspective when you own an EV.
+
+164
+07:33.690 --> 07:37.770
+And of course on the sticker price point,
+
+165
+07:37.770 --> 07:40.500
+incentives like the 30D tax credit,
+
+166
+07:40.500 --> 07:44.430
+as well as those credits that support the manufacturers
+
+167
+07:44.430 --> 07:45.990
+and the materials providers
+
+168
+07:45.990 --> 07:48.150
+are really helping to bring down costs
+
+169
+07:48.150 --> 07:51.120
+and make these vehicles more accessible for everyone.
+
+170
+07:51.120 --> 07:52.440
+<v ->Yeah, I totally agree.</v>
+
+171
+07:52.440 --> 07:55.410
+I mean, if you look on the price point
+
+172
+07:55.410 --> 07:57.390
+from an electric vehicle,
+
+173
+07:57.390 --> 08:00.780
+the biggest portion is coming from the battery.
+
+174
+08:00.780 --> 08:04.560
+And although from the battery point of view,
+
+175
+08:04.560 --> 08:06.960
+the material is also still a big portion,
+
+176
+08:06.960 --> 08:09.810
+but there's also a lots of cost,
+
+177
+08:09.810 --> 08:12.150
+yeah, which is coming from the production.
+
+178
+08:12.150 --> 08:15.540
+And in terms of production efficiency,
+
+179
+08:15.540 --> 08:18.360
+a lot of things develop the recent years.
+
+180
+08:18.360 --> 08:20.700
+I mean many of us have heard
+
+181
+08:20.700 --> 08:25.080
+that especially the cell manufacturing are suffering
+
+182
+08:25.080 --> 08:26.130
+and having output,
+
+183
+08:26.130 --> 08:30.600
+but we also see same things about the module manufacturing.
+
+184
+08:30.600 --> 08:32.610
+So especially here within Bosch,
+
+185
+08:32.610 --> 08:36.030
+we have great technology to ensure a more stable production
+
+186
+08:36.030 --> 08:37.290
+and to increase the output.
+
+187
+08:37.290 --> 08:41.010
+And if we have an increased efficiency in the production,
+
+188
+08:41.010 --> 08:44.223
+this will then also lower in the price of the total battery.
+
+189
+08:45.960 --> 08:47.332
+<v ->Yeah, I think just building on that,</v>
+
+190
+08:47.332 --> 08:49.470
+and my colleagues here will know this better.
+
+191
+08:49.470 --> 08:52.500
+I mean, battery pack prices are hovering around
+
+192
+08:52.500 --> 08:55.860
+that 100, magical $100 per kilowatt hour number.
+
+193
+08:55.860 --> 08:57.390
+I mean I think just in the last year,
+
+194
+08:57.390 --> 09:00.210
+I was reading they've dropped about 15 or 20%
+
+195
+09:00.210 --> 09:01.620
+from the year before.
+
+196
+09:01.620 --> 09:04.710
+So pack prices are getting cheaper,
+
+197
+09:04.710 --> 09:06.930
+economies of scale are growing,
+
+198
+09:06.930 --> 09:10.500
+and we've got I think 40 or $50 billion now
+
+199
+09:10.500 --> 09:13.680
+that's going into EV manufacturing
+
+200
+09:13.680 --> 09:17.620
+or EV supporting sort of industries in the US
+
+201
+09:18.660 --> 09:21.960
+and will be going live in the next couple of years.
+
+202
+09:21.960 --> 09:24.570
+So, and a lot more models coming out with that as well.
+
+203
+09:24.570 --> 09:26.670
+So I think those economies are coming in.
+
+204
+09:26.670 --> 09:27.750
+And I think the other thing is,
+
+205
+09:27.750 --> 09:29.010
+as you look at the other markets,
+
+206
+09:29.010 --> 09:31.410
+you look at Europe for example,
+
+207
+09:31.410 --> 09:35.010
+and you look at the trend of pricing of vehicles in Europe
+
+208
+09:35.010 --> 09:37.170
+over the last four or five years,
+
+209
+09:37.170 --> 09:38.670
+if you had looked at it four or five years ago,
+
+210
+09:38.670 --> 09:40.710
+the average price was about 60,000 euros
+
+211
+09:40.710 --> 09:42.540
+or somewhere in that range.
+
+212
+09:42.540 --> 09:45.060
+Today, that price is trending downwards
+
+213
+09:45.060 --> 09:47.910
+more into the 30 to 40,000 euro range.
+
+214
+09:47.910 --> 09:50.100
+We'll see the same sort of thing happen here in the US.
+
+215
+09:50.100 --> 09:51.330
+So it's coming,
+
+216
+09:51.330 --> 09:53.130
+and it's probably coming in the next couple of years
+
+217
+09:53.130 --> 09:54.210
+if it's,
+
+218
+09:54.210 --> 09:56.040
+and then everything that Tina spoke about
+
+219
+09:56.040 --> 09:58.560
+in terms of the efficiency of operating the vehicle
+
+220
+09:58.560 --> 10:00.900
+will just make it that much more beneficial.
+
+221
+10:00.900 --> 10:05.580
+<v ->Let's talk about ubiquity of charging stations</v>
+
+222
+10:05.580 --> 10:07.500
+or charging options.
+
+223
+10:07.500 --> 10:08.910
+Maybe, Sujay, you can take this,
+
+224
+10:08.910 --> 10:11.550
+but what can we look forward to in this year
+
+225
+10:11.550 --> 10:14.310
+in terms of hot trends in charging,
+
+226
+10:14.310 --> 10:17.940
+whether it's in-home or new venues
+
+227
+10:17.940 --> 10:19.590
+that we could start to see?
+
+228
+10:19.590 --> 10:23.610
+Is there any, are there any initiatives
+
+229
+10:23.610 --> 10:27.720
+behind helping existing gas stations adopt
+
+230
+10:29.010 --> 10:34.010
+or add charging stations to their space?
+
+231
+10:37.020 --> 10:40.470
+<v ->Yeah, so especially on highways for example,</v>
+
+232
+10:40.470 --> 10:43.140
+there is NEVI funding,
+
+233
+10:43.140 --> 10:45.090
+at least that exists currently,
+
+234
+10:45.090 --> 10:48.000
+which is available to put in charging
+
+235
+10:48.000 --> 10:49.830
+along highway corridors.
+
+236
+10:49.830 --> 10:51.990
+And that's incentivized a lot of companies
+
+237
+10:51.990 --> 10:55.260
+to put in charging at those locations where it's needed,
+
+238
+10:55.260 --> 10:59.490
+at 50 to 100 miles sort of intervals.
+
+239
+10:59.490 --> 11:01.320
+And with that incentive,
+
+240
+11:01.320 --> 11:03.390
+there are requirements around uptime,
+
+241
+11:03.390 --> 11:05.940
+which is an area that we are quite focused on,
+
+242
+11:05.940 --> 11:08.220
+is having a good customer experience.
+
+243
+11:08.220 --> 11:09.750
+It comes back to customer experience.
+
+244
+11:09.750 --> 11:11.730
+Customer choice, customer experience,
+
+245
+11:11.730 --> 11:13.320
+you know, that's sort of the theme.
+
+246
+11:13.320 --> 11:15.750
+And having good reliability,
+
+247
+11:15.750 --> 11:20.750
+having good uptime, having good conveniences.
+
+248
+11:20.910 --> 11:24.030
+So BP operates eight and a half thousand
+
+249
+11:24.030 --> 11:27.270
+BP branded or Amoco branded,
+
+250
+11:27.270 --> 11:30.120
+Thorntons branded, TravelCenters of America branded,
+
+251
+11:30.120 --> 11:32.310
+these are all BP brands,
+
+252
+11:32.310 --> 11:36.840
+stores across the United States with us by ourselves,
+
+253
+11:36.840 --> 11:38.100
+or with our partners.
+
+254
+11:38.100 --> 11:41.130
+And all of these create choice for the consumer.
+
+255
+11:41.130 --> 11:43.770
+You know, when they are waiting for the car to charge,
+
+256
+11:43.770 --> 11:47.340
+they can go in, have a meal, do whatever they need to.
+
+257
+11:47.340 --> 11:49.680
+So those conveniences are important,
+
+258
+11:49.680 --> 11:53.380
+and we see that our consumers who are in the EV space
+
+259
+11:54.420 --> 11:57.120
+do like that way of charging,
+
+260
+11:57.120 --> 11:59.760
+of going to the traditional sort of gas station.
+
+261
+11:59.760 --> 12:01.470
+But in addition to that,
+
+262
+12:01.470 --> 12:04.110
+consumers are also consuming their charging differently.
+
+263
+12:04.110 --> 12:06.330
+So for example, a few months back,
+
+264
+12:06.330 --> 12:09.750
+we announced a collaboration with Simon Properties,
+
+265
+12:09.750 --> 12:13.290
+and at malls and destination locations as well.
+
+266
+12:13.290 --> 12:15.510
+Fast charging, not just slow charging,
+
+267
+12:15.510 --> 12:18.120
+not level two charging, but fast charging
+
+268
+12:18.120 --> 12:22.800
+is becoming more ubiquitous and penetrating more deeply.
+
+269
+12:22.800 --> 12:25.770
+And so these kinds of collaborations
+
+270
+12:25.770 --> 12:28.440
+will become more important as well to give consumers choice.
+
+271
+12:28.440 --> 12:33.440
+<v ->Is BP happy with the rate of change this past year?</v>
+
+272
+12:33.570 --> 12:36.780
+Because with all the NEVI funding
+
+273
+12:36.780 --> 12:40.443
+and funding from the Infrastructure Act and so forth,
+
+274
+12:41.370 --> 12:43.290
+there has been criticism
+
+275
+12:43.290 --> 12:48.213
+that not enough of the charging network has been expanded.
+
+276
+12:49.980 --> 12:51.024
+<v ->Yeah.</v>
+
+277
+12:51.024 --> 12:51.857
+<v ->What are your thoughts on that?</v>
+
+278
+12:51.857 --> 12:53.940
+<v ->I think, so this is a, it's a very good question.</v>
+
+279
+12:53.940 --> 12:56.460
+So really, there are a couple of things
+
+280
+12:56.460 --> 12:58.620
+that are important for charging, three things.
+
+281
+12:58.620 --> 13:01.860
+We call place, power and permitting, right?
+
+282
+13:01.860 --> 13:04.710
+And the problem, so place is real estate.
+
+283
+13:04.710 --> 13:06.330
+We don't have that problem.
+
+284
+13:06.330 --> 13:09.600
+As I just spoke about, the 8,000 plus locations.
+
+285
+13:09.600 --> 13:12.420
+Power is a big challenge, right?
+
+286
+13:12.420 --> 13:14.190
+Power remains a continuous challenge,
+
+287
+13:14.190 --> 13:16.590
+and that's something we continue to work with,
+
+288
+13:16.590 --> 13:19.200
+and I think other industry players as well
+
+289
+13:19.200 --> 13:23.190
+continue to work with the authorities on that.
+
+290
+13:23.190 --> 13:24.930
+And then permitting is another big one.
+
+291
+13:24.930 --> 13:26.040
+I mean, I'll give you a data point,
+
+292
+13:26.040 --> 13:29.130
+in China to build a site end to end,
+
+293
+13:29.130 --> 13:30.870
+from where you identify the real estate,
+
+294
+13:30.870 --> 13:33.600
+negotiate the lease, to getting it online,
+
+295
+13:33.600 --> 13:36.180
+a high voltage site is 90 days.
+
+296
+13:36.180 --> 13:37.380
+90 days, yeah.
+
+297
+13:37.380 --> 13:40.410
+Here, it'll take us anywhere between,
+
+298
+13:40.410 --> 13:42.810
+you know, 18 months to an eternity,
+
+299
+13:42.810 --> 13:45.450
+depending on which jurisdiction you're in.
+
+300
+13:45.450 --> 13:50.450
+So I think we have to learn from other geographies,
+
+301
+13:51.060 --> 13:52.530
+we have to look at other geographies,
+
+302
+13:52.530 --> 13:56.836
+and we've gotta then fine tune our approach to that.
+
+303
+13:56.836 --> 13:58.620
+And I think that still exists as an opportunity
+
+304
+13:58.620 --> 14:00.270
+for us in the US.
+
+305
+14:00.270 --> 14:01.410
+<v ->That's eyeopener.</v>
+
+306
+14:01.410 --> 14:03.780
+Okay, I think there's somebody
+
+307
+14:03.780 --> 14:07.140
+in charge of the Office of Efficiency coming on board
+
+308
+14:07.140 --> 14:09.483
+that might expedite things.
+
+309
+14:12.000 --> 14:15.630
+Okay, let's talk top trends for 2025.
+
+310
+14:15.630 --> 14:19.110
+Americans have an obsession,
+
+311
+14:19.110 --> 14:21.060
+there is a belief that Americans have an obsession
+
+312
+14:21.060 --> 14:23.640
+with the need to escape the zombie apocalypse,
+
+313
+14:23.640 --> 14:26.970
+to have a car that has enough range
+
+314
+14:26.970 --> 14:29.970
+that in the case of an emergency,
+
+315
+14:29.970 --> 14:31.800
+and we have a lot of natural disasters,
+
+316
+14:31.800 --> 14:33.180
+one going on right now,
+
+317
+14:33.180 --> 14:35.310
+where we feel like we need to get in our car and go.
+
+318
+14:35.310 --> 14:38.610
+We wanna go far, we have a country that's what, 3,000 miles,
+
+319
+14:38.610 --> 14:40.560
+and I'm sure that's the actual range
+
+320
+14:40.560 --> 14:42.420
+everybody would feel most comfortable with.
+
+321
+14:42.420 --> 14:45.990
+Even though we only use the car about, what, 50 miles a day.
+
+322
+14:45.990 --> 14:48.000
+So the question is,
+
+323
+14:48.000 --> 14:53.000
+for 2025, do you see Americans adopting plug-in hybrids
+
+324
+14:53.460 --> 14:56.070
+at a faster clip than maybe EVs
+
+325
+14:56.070 --> 15:00.000
+while we work out the situation of less expensive cars
+
+326
+15:00.000 --> 15:03.750
+and better charging options?
+
+327
+15:03.750 --> 15:06.690
+Because some of the plug-in hybrids right now are, what,
+
+328
+15:06.690 --> 15:09.930
+getting like 600 miles, or better, 750.
+
+329
+15:09.930 --> 15:11.760
+What are your thoughts on that?
+
+330
+15:11.760 --> 15:13.710
+<v ->Yeah, happy to start on this one.</v>
+
+331
+15:13.710 --> 15:16.860
+First off, I think plug-in hybrids are a bridge.
+
+332
+15:16.860 --> 15:21.030
+They are a way to get people addicted to driving electric.
+
+333
+15:21.030 --> 15:24.510
+Personally, my husband was not willing to buy an EV.
+
+334
+15:24.510 --> 15:26.550
+I had been an evangelist for years,
+
+335
+15:26.550 --> 15:28.140
+started working for Panasonic.
+
+336
+15:28.140 --> 15:30.450
+I was desperate to get an EV for our family.
+
+337
+15:30.450 --> 15:33.420
+He was not interested, we got a plug-in hybrid.
+
+338
+15:33.420 --> 15:34.410
+Two months in,
+
+339
+15:34.410 --> 15:37.050
+he said, I'm in, let's get on the list for a Rivian.
+
+340
+15:37.050 --> 15:38.040
+And he was ready.
+
+341
+15:38.040 --> 15:40.680
+And our range was only 20 miles.
+
+342
+15:40.680 --> 15:43.140
+And with 20 miles of an electric range a day,
+
+343
+15:43.140 --> 15:46.140
+he was like, oh, this is easy, this is no problem.
+
+344
+15:46.140 --> 15:47.820
+So now we are an EV family.
+
+345
+15:47.820 --> 15:49.560
+And so I do think when people
+
+346
+15:49.560 --> 15:52.800
+are uncomfortable with the idea of driving electric,
+
+347
+15:52.800 --> 15:54.900
+it can be a super powerful tool.
+
+348
+15:54.900 --> 15:56.790
+But from a resource perspective,
+
+349
+15:56.790 --> 15:59.580
+from a lifecycle emissions perspective,
+
+350
+15:59.580 --> 16:02.700
+it does not give us the benefits of a full EV.
+
+351
+16:02.700 --> 16:04.710
+So I think it's a great tool,
+
+352
+16:04.710 --> 16:05.850
+but I would not want that
+
+353
+16:05.850 --> 16:09.480
+to replace the trend toward electrification.
+
+354
+16:09.480 --> 16:12.090
+<v ->Yeah, so maybe from a European perspective,</v>
+
+355
+16:12.090 --> 16:13.200
+the story is a bit different,
+
+356
+16:13.200 --> 16:17.464
+because gas prices are really, really high.
+
+357
+16:17.464 --> 16:19.710
+And so if you use an hybrid,
+
+358
+16:19.710 --> 16:22.710
+it doesn't even matter if it's a plug-in hybrid
+
+359
+16:22.710 --> 16:24.780
+or just a mild hybrid.
+
+360
+16:24.780 --> 16:26.790
+The hybrids are really common in Europe
+
+361
+16:26.790 --> 16:28.530
+because they just help you
+
+362
+16:28.530 --> 16:31.710
+to reduce the fuel consumption that much.
+
+363
+16:31.710 --> 16:33.390
+So even if you then have
+
+364
+16:33.390 --> 16:37.320
+like the electric drive and the ICE both in your car,
+
+365
+16:37.320 --> 16:41.400
+it's still so helpful to drop the consumption down.
+
+366
+16:41.400 --> 16:45.270
+So this is an addition topic, at least for Europe,
+
+367
+16:45.270 --> 16:47.940
+why hybrids are really a huge interest
+
+368
+16:47.940 --> 16:49.323
+for the end customers.
+
+369
+16:50.460 --> 16:52.080
+<v ->Yeah, I think the only thing I'd go back to</v>
+
+370
+16:52.080 --> 16:53.940
+what I said earlier about economics and choice,
+
+371
+16:53.940 --> 16:56.790
+it's, you know, consumer choice.
+
+372
+16:56.790 --> 16:59.640
+What we've seen more of is, you know,
+
+373
+16:59.640 --> 17:02.910
+in the past decade, it was more about gas and diesel.
+
+374
+17:02.910 --> 17:04.170
+There was not that much choice.
+
+375
+17:04.170 --> 17:06.240
+And now, and you see this in the advertising
+
+376
+17:06.240 --> 17:08.790
+of many of the OEMs, they talk about choice.
+
+377
+17:08.790 --> 17:10.350
+You can get a gas power train,
+
+378
+17:10.350 --> 17:14.520
+you can get an electric power train, you can, you know?
+
+379
+17:14.520 --> 17:17.520
+And so I think where consumers are going with this
+
+380
+17:17.520 --> 17:19.710
+is that they want to have the choice,
+
+381
+17:19.710 --> 17:21.990
+and then depending on what suits
+
+382
+17:21.990 --> 17:25.230
+their lifestyle or their needs, they will pick and choose.
+
+383
+17:25.230 --> 17:27.060
+You know, for, I know a lot of folks
+
+384
+17:27.060 --> 17:31.890
+who don't maybe have the comfort of, you know,
+
+385
+17:31.890 --> 17:33.390
+are not comfortable with EVs,
+
+386
+17:33.390 --> 17:35.310
+and so their primary car is a gas car,
+
+387
+17:35.310 --> 17:37.020
+but their secondary car is an EV car.
+
+388
+17:37.020 --> 17:38.237
+I mean we have, you know, what,
+
+389
+17:38.237 --> 17:41.460
+2.5 vehicles on average per household or whatever in the US.
+
+390
+17:41.460 --> 17:43.830
+So there's plenty of love to go around I think
+
+391
+17:43.830 --> 17:46.440
+for all power trains.
+
+392
+17:46.440 --> 17:47.273
+<v ->Yeah.</v>
+
+393
+17:47.273 --> 17:51.630
+Okay, another hot topic for 2025, power.
+
+394
+17:51.630 --> 17:55.050
+Not just nuclear power, all types of power.
+
+395
+17:55.050 --> 18:00.050
+AI is eating the world, and EVs, and AVs along with it,
+
+396
+18:00.750 --> 18:05.750
+impacting grids, EVs may even help power grids.
+
+397
+18:05.850 --> 18:07.983
+What are your thoughts on power?
+
+398
+18:09.540 --> 18:12.330
+<v ->I think as we transition to a fully electrified world,</v>
+
+399
+18:12.330 --> 18:15.420
+power is front of mind for everyone.
+
+400
+18:15.420 --> 18:17.430
+There is definitely a misnomer
+
+401
+18:17.430 --> 18:21.000
+that until we fully transition our energy system,
+
+402
+18:21.000 --> 18:23.160
+that it doesn't make sense to drive an EV.
+
+403
+18:23.160 --> 18:24.510
+So first things first,
+
+404
+18:24.510 --> 18:27.030
+anywhere you drive an EV in the US,
+
+405
+18:27.030 --> 18:29.250
+regardless of whether that's a coal-dominant grid
+
+406
+18:29.250 --> 18:30.570
+or fully renewable,
+
+407
+18:30.570 --> 18:34.050
+you're seeing lower lifecycle emissions over time.
+
+408
+18:34.050 --> 18:36.360
+So the environmental benefits are really clear.
+
+409
+18:36.360 --> 18:37.800
+What we have to figure out now
+
+410
+18:37.800 --> 18:41.130
+is how EVs can be an asset for the grid,
+
+411
+18:41.130 --> 18:44.010
+and not further exacerbate the power shortages
+
+412
+18:44.010 --> 18:45.660
+we're seeing throughout the country.
+
+413
+18:45.660 --> 18:48.180
+Panasonic actually has a business
+
+414
+18:48.180 --> 18:49.890
+that's working on this issue,
+
+415
+18:49.890 --> 18:52.200
+figuring out how to electrify fleets,
+
+416
+18:52.200 --> 18:55.410
+and how to manage the charging on these fleets
+
+417
+18:55.410 --> 18:57.150
+that have predictable routes
+
+418
+18:57.150 --> 18:58.500
+so that you can do it at a time
+
+419
+18:58.500 --> 19:00.420
+when maybe power might be curtailed,
+
+420
+19:00.420 --> 19:03.090
+because there's excess solar in California,
+
+421
+19:03.090 --> 19:06.270
+and not charge those fleets at a time
+
+422
+19:06.270 --> 19:08.250
+when there's a huge demand for power.
+
+423
+19:08.250 --> 19:11.340
+One of my pet interests, because I have young children,
+
+424
+19:11.340 --> 19:13.260
+is electrified school buses.
+
+425
+19:13.260 --> 19:16.470
+And they could be an amazing asset for the grid,
+
+426
+19:16.470 --> 19:20.280
+because they can be, they don't have to be charged
+
+427
+19:20.280 --> 19:24.180
+and ready to operate when power demand is at their highest.
+
+428
+19:24.180 --> 19:27.330
+So at seven o'clock, you don't need to plug in
+
+429
+19:27.330 --> 19:28.260
+an electric bus,
+
+430
+19:28.260 --> 19:31.530
+it can charge overnight when everyone else is sleeping.
+
+431
+19:31.530 --> 19:34.890
+So there are definitely use cases where the grid,
+
+432
+19:34.890 --> 19:37.080
+where the vehicles can be an asset for the grid
+
+433
+19:37.080 --> 19:39.210
+beyond just the V2X applications
+
+434
+19:39.210 --> 19:40.500
+that we all love to talk about.
+
+435
+19:40.500 --> 19:43.500
+So I think that EVs are a part of the solution here.
+
+436
+19:43.500 --> 19:45.660
+<v ->Is Panasonic working on solutions</v>
+
+437
+19:45.660 --> 19:48.030
+for bidirectional powering,
+
+438
+19:48.030 --> 19:51.120
+meaning power going back to the grid from the EV.
+
+439
+19:51.120 --> 19:52.350
+<v ->It's definitely of interest,</v>
+
+440
+19:52.350 --> 19:55.380
+but it's not an area that I've particularly focused on.
+
+441
+19:55.380 --> 19:56.213
+<v Martine>Sabrina?</v>
+
+442
+19:56.213 --> 19:58.950
+<v ->But so seems that we're perfectly on the same page</v>
+
+443
+19:58.950 --> 19:59.783
+all the time, Tina,
+
+444
+19:59.783 --> 20:02.820
+because I only can agree again to just what you said.
+
+445
+20:02.820 --> 20:07.820
+Like in Europe, we saw last year,
+
+446
+20:09.120 --> 20:10.680
+or especially in Germany even,
+
+447
+20:10.680 --> 20:14.970
+63% of the energy we were using was renewable.
+
+448
+20:14.970 --> 20:17.310
+Even though the weather was not so good,
+
+449
+20:17.310 --> 20:18.150
+we had lots of rain,
+
+450
+20:18.150 --> 20:22.650
+but still with all the well tanks and wind, we got like 63%.
+
+451
+20:22.650 --> 20:25.470
+But again, we also see here challenges
+
+452
+20:25.470 --> 20:26.970
+about how we can balance it.
+
+453
+20:26.970 --> 20:29.100
+And this is also something Bosch is working on,
+
+454
+20:29.100 --> 20:30.750
+because for sure then we need
+
+455
+20:30.750 --> 20:32.610
+a different battery management system.
+
+456
+20:32.610 --> 20:35.400
+We need to see how we can use the batteries in the car
+
+457
+20:35.400 --> 20:36.780
+to balance the grid.
+
+458
+20:36.780 --> 20:38.400
+But this is something we have to do.
+
+459
+20:38.400 --> 20:42.000
+And again, looking to the success story of Norway,
+
+460
+20:42.000 --> 20:44.700
+we really need to have a clear commitment
+
+461
+20:44.700 --> 20:45.810
+also from the government,
+
+462
+20:45.810 --> 20:48.120
+because in the end, also the infrastructure
+
+463
+20:48.120 --> 20:50.460
+needs to be able to cover that.
+
+464
+20:50.460 --> 20:53.670
+But if everybody's pulling in the same direction,
+
+465
+20:53.670 --> 20:58.200
+we for sure can easily realize that also EVs are just,
+
+466
+20:58.200 --> 21:01.410
+yeah, energized with 100% electric energy.
+
+467
+21:01.410 --> 21:06.410
+<v ->How far away is the US from transitioning</v>
+
+468
+21:07.050 --> 21:12.050
+from coal and other carbon disastrous sources for the grid
+
+469
+21:17.910 --> 21:19.080
+to renewables?
+
+470
+21:19.080 --> 21:20.373
+How far away are we?
+
+471
+21:21.300 --> 21:23.160
+<v ->Yeah, happy to start there.</v>
+
+472
+21:23.160 --> 21:25.830
+So we operate our, we're building our facility
+
+473
+21:25.830 --> 21:28.590
+in De Soto, Kansas, which has a good amount of wind energy,
+
+474
+21:28.590 --> 21:31.110
+and it's really close to the national average of renewables,
+
+475
+21:31.110 --> 21:33.360
+so around 30%.
+
+476
+21:33.360 --> 21:34.890
+We are, across the country,
+
+477
+21:34.890 --> 21:37.920
+continuing to see coal plant retirements.
+
+478
+21:37.920 --> 21:39.900
+And even where we're not seeing retirements,
+
+479
+21:39.900 --> 21:42.210
+we're seeing those plants run less
+
+480
+21:42.210 --> 21:45.270
+because they are not as efficient, they don't make sense.
+
+481
+21:45.270 --> 21:46.680
+One of my favorite anecdotes
+
+482
+21:46.680 --> 21:49.710
+is that during one of the really disastrous winter storms
+
+483
+21:49.710 --> 21:51.180
+last year,
+
+484
+21:51.180 --> 21:53.550
+I think everyone thinks that in the extreme scenarios,
+
+485
+21:53.550 --> 21:54.960
+you need fossil fuels.
+
+486
+21:54.960 --> 21:58.920
+In this particular storm, the solar outperformed,
+
+487
+21:58.920 --> 22:01.080
+the wind energy outperformed,
+
+488
+22:01.080 --> 22:02.880
+and the coal stacks were frozen.
+
+489
+22:02.880 --> 22:06.840
+And so the utility was having to blow dry the coal stacks
+
+490
+22:06.840 --> 22:08.700
+in order to run their plants.
+
+491
+22:08.700 --> 22:10.680
+So the economics are there.
+
+492
+22:10.680 --> 22:13.380
+We may not see price parity every single day,
+
+493
+22:13.380 --> 22:16.590
+but the levelized cost of renewable energy is going down,
+
+494
+22:16.590 --> 22:18.900
+and now it's just about getting things online.
+
+495
+22:18.900 --> 22:20.730
+So it gets back to permitting,
+
+496
+22:20.730 --> 22:24.390
+which is I think what we could tie everything to here,
+
+497
+22:24.390 --> 22:27.870
+but getting permitting in place, getting more transmission.
+
+498
+22:27.870 --> 22:30.210
+We have the technology now
+
+499
+22:30.210 --> 22:31.773
+<v ->What about ethanol?</v>
+
+500
+22:32.730 --> 22:35.970
+That the crops, you know, being transitioned
+
+501
+22:35.970 --> 22:38.730
+to renewable fuel.
+
+502
+22:38.730 --> 22:40.800
+I mean, are you guys looking at that at all?
+
+503
+22:40.800 --> 22:42.900
+I know that came up during our panel call.
+
+504
+22:44.400 --> 22:46.260
+<v ->Yeah, maybe I can say something.</v>
+
+505
+22:46.260 --> 22:49.050
+So from a Bosch perspective for sure, we also work on that.
+
+506
+22:49.050 --> 22:51.870
+Yeah, that we kind of would be able
+
+507
+22:51.870 --> 22:53.520
+to fire this kind of fuel.
+
+508
+22:53.520 --> 22:56.250
+But just from a general overall
+
+509
+22:56.250 --> 22:58.650
+energy calculation point of view,
+
+510
+22:58.650 --> 23:00.000
+it just doesn't make sense,
+
+511
+23:00.000 --> 23:02.190
+because the energy output you get
+
+512
+23:02.190 --> 23:06.960
+of this kind of energy storage like ethanol,
+
+513
+23:06.960 --> 23:09.360
+it's actually not attractive at all.
+
+514
+23:09.360 --> 23:11.490
+<v ->Yeah, and then I know we're talking about EVs,</v>
+
+515
+23:11.490 --> 23:15.540
+but the hydrogen also is always comes up.
+
+516
+23:15.540 --> 23:17.010
+Is that ever gonna happen?
+
+517
+23:17.010 --> 23:19.710
+I mean there's no hydrogen stations.
+
+518
+23:19.710 --> 23:21.813
+What are your thoughts on hydrogen?
+
+519
+23:24.090 --> 23:25.890
+<v ->Okay, so my thoughts on hydrogen,</v>
+
+520
+23:25.890 --> 23:28.380
+I mean, again, like in Bosch strategy,
+
+521
+23:28.380 --> 23:31.383
+we still believe that hydrogen will be a big thing,
+
+522
+23:32.220 --> 23:36.000
+because we don't see that electric trucks
+
+523
+23:36.000 --> 23:38.880
+will really bridge the huge distances.
+
+524
+23:38.880 --> 23:40.320
+And from our perspective,
+
+525
+23:40.320 --> 23:43.920
+the only good solution to follow that up is by hydrogen.
+
+526
+23:43.920 --> 23:47.910
+And also maybe we use hydrogen for storage of energy.
+
+527
+23:47.910 --> 23:50.250
+I mean we still have to think about
+
+528
+23:50.250 --> 23:53.640
+how we can create energy all over the globe,
+
+529
+23:53.640 --> 23:57.003
+and how can we store and transport it.
+
+530
+23:58.050 --> 24:00.690
+With hydrogen, we have a solution in our hand,
+
+531
+24:00.690 --> 24:03.720
+which is already working really well at the moment,
+
+532
+24:03.720 --> 24:06.870
+but still we see the market is hesitating.
+
+533
+24:06.870 --> 24:08.820
+So we don't know how long it will take
+
+534
+24:08.820 --> 24:12.810
+till this topic is really starting to outperform,
+
+535
+24:12.810 --> 24:14.340
+but it will happen.
+
+536
+24:14.340 --> 24:16.230
+<v ->And we've been talking about hydrogen for, what,</v>
+
+537
+24:16.230 --> 24:17.320
+25 years I think.
+
+538
+24:17.320 --> 24:20.160
+<v ->Yeah, I mean electrolyzer technology is, I don't know,</v>
+
+539
+24:20.160 --> 24:21.750
+probably older than that, right?
+
+540
+24:21.750 --> 24:22.583
+So it's not new.
+
+541
+24:22.583 --> 24:27.583
+I think the question is, you know, use of hydrogen
+
+542
+24:27.930 --> 24:31.740
+and industrial use versus transportation,
+
+543
+24:31.740 --> 24:33.870
+which is kind of what you're talking about.
+
+544
+24:33.870 --> 24:37.170
+And I think the use for industrial use cases
+
+545
+24:37.170 --> 24:38.910
+is a little bit easier,
+
+546
+24:38.910 --> 24:41.490
+and to make the economics network is a little bit easier.
+
+547
+24:41.490 --> 24:44.430
+And we can probably see that come to fruition.
+
+548
+24:44.430 --> 24:48.390
+And BP has a number of projects we've announced globally,
+
+549
+24:48.390 --> 24:51.270
+one in Europe, one in Australia
+
+550
+24:51.270 --> 24:52.800
+that we are pursuing in that space.
+
+551
+24:52.800 --> 24:55.710
+But transportation is, to your point,
+
+552
+24:55.710 --> 24:57.750
+a little bit of a different animal,
+
+553
+24:57.750 --> 25:00.510
+because you've got to, you know,
+
+554
+25:00.510 --> 25:04.770
+compress it, decompress it, move it, it's explosive,
+
+555
+25:04.770 --> 25:07.170
+it's under pressure, it's difficult.
+
+556
+25:07.170 --> 25:09.840
+It's difficult and it's economically challenging.
+
+557
+25:09.840 --> 25:13.650
+And there's a lot of very smart folks, in Bosch, I'm sure,
+
+558
+25:13.650 --> 25:16.620
+and other companies that have, BP, that are working on it.
+
+559
+25:16.620 --> 25:20.670
+But that probably will take a little bit of more time
+
+560
+25:20.670 --> 25:22.350
+for the transportation use case, I think.
+
+561
+25:22.350 --> 25:25.920
+<v ->Is BP looking at nuclear power for powering?</v>
+
+562
+25:25.920 --> 25:28.140
+<v ->We're not currently in the nuclear power business.</v>
+
+563
+25:28.140 --> 25:29.613
+That's what I'll say.
+
+564
+25:29.613 --> 25:31.500
+<v ->I had to ask.</v>
+
+565
+25:31.500 --> 25:33.840
+Okay, autonomy.
+
+566
+25:33.840 --> 25:38.370
+Is the future of EVs autonomous?
+
+567
+25:38.370 --> 25:42.273
+<v ->I think the short answer is yes, and but.</v>
+
+568
+25:43.350 --> 25:44.850
+I think it'll take us a while,
+
+569
+25:44.850 --> 25:47.130
+a little bit of time to get there.
+
+570
+25:47.130 --> 25:50.250
+I think the US is gonna take the lead in that space,
+
+571
+25:50.250 --> 25:52.080
+because from a regulatory perspective,
+
+572
+25:52.080 --> 25:55.110
+again, back to maybe permitting in a way,
+
+573
+25:55.110 --> 25:59.130
+the US has been a little bit more open-minded about it,
+
+574
+25:59.130 --> 26:02.160
+and or has been more advanced rather than open-minded.
+
+575
+26:02.160 --> 26:03.750
+Open-minded is perhaps not the right term,
+
+576
+26:03.750 --> 26:08.160
+but more advanced in terms of what some of the companies
+
+577
+26:08.160 --> 26:09.960
+that are even presenting here are doing.
+
+578
+26:09.960 --> 26:13.320
+We've had some that have succeeded, some that are trying,
+
+579
+26:13.320 --> 26:15.210
+some that have failed.
+
+580
+26:15.210 --> 26:17.310
+I think it'll definitely be a hot topic
+
+581
+26:17.310 --> 26:19.170
+over the next five years.
+
+582
+26:19.170 --> 26:24.170
+How quickly it scales is a different question.
+
+583
+26:24.360 --> 26:27.870
+And does it scale uniformly across the entire US,
+
+584
+26:27.870 --> 26:30.690
+and when does it transfer to other geographies like Europe?
+
+585
+26:30.690 --> 26:33.060
+Those, there's probably smarter people
+
+586
+26:33.060 --> 26:34.650
+that can answer that question.
+
+587
+26:34.650 --> 26:39.650
+<v ->What are your thoughts on autonomy driving EV adoption?</v>
+
+588
+26:41.160 --> 26:44.010
+<v ->Definite, I mean, we can see autonomy</v>
+
+589
+26:44.010 --> 26:48.840
+has a very good use case for transportation,
+
+590
+26:48.840 --> 26:52.830
+for goods delivery, for mobility in general.
+
+591
+26:52.830 --> 26:55.410
+So it is definitely,
+
+592
+26:55.410 --> 26:59.793
+if you can get to the maturity on the technology,
+
+593
+27:00.930 --> 27:02.490
+it's going to scale.
+
+594
+27:02.490 --> 27:05.220
+It's the question of how and when do you get
+
+595
+27:05.220 --> 27:07.200
+to the maturity on the technology?
+
+596
+27:07.200 --> 27:09.780
+And I think also from an EV charging perspective,
+
+597
+27:09.780 --> 27:12.810
+then the charging solutions that you need maybe today
+
+598
+27:12.810 --> 27:16.500
+where there's an individual driving the vehicle,
+
+599
+27:16.500 --> 27:19.080
+versus tomorrow where it's autonomous, you don't, you know,
+
+600
+27:19.080 --> 27:22.380
+you can bring it back to a base to charge,
+
+601
+27:22.380 --> 27:23.213
+which doesn't have to
+
+602
+27:23.213 --> 27:25.620
+maybe be in an urban center, et cetera.
+
+603
+27:25.620 --> 27:30.510
+So as we look at how we design our networks
+
+604
+27:30.510 --> 27:32.520
+for charging for the future,
+
+605
+27:32.520 --> 27:35.430
+these are some of the things that we consider
+
+606
+27:35.430 --> 27:39.150
+and our thinking about as well as we go into the future.
+
+607
+27:39.150 --> 27:40.290
+<v ->Sabrina?</v>
+
+608
+27:40.290 --> 27:42.690
+<v ->So actually I hope that autonomy</v>
+
+609
+27:42.690 --> 27:45.270
+is not driving the EV business,
+
+610
+27:45.270 --> 27:46.890
+because I hope that the EV business
+
+611
+27:46.890 --> 27:48.603
+is much faster than autonomy.
+
+612
+27:49.650 --> 27:52.350
+At least if I look from a European perspective,
+
+613
+27:52.350 --> 27:53.430
+I mean, totally agree.
+
+614
+27:53.430 --> 27:55.980
+Regulations is a big thing, especially in Europe,
+
+615
+27:55.980 --> 27:57.840
+and what you just said earlier, Sujay,
+
+616
+27:57.840 --> 27:59.910
+about customer's choice.
+
+617
+27:59.910 --> 28:02.910
+So at the moment, we see that the customers in Europe
+
+618
+28:02.910 --> 28:07.710
+are a bit more hesitant about having more autonomy level
+
+619
+28:07.710 --> 28:09.930
+or higher autonomy level in the car.
+
+620
+28:09.930 --> 28:11.460
+But on the long run, for sure.
+
+621
+28:11.460 --> 28:13.230
+It's just a point of efficiency
+
+622
+28:13.230 --> 28:17.610
+that if you run many, many cars autonomous,
+
+623
+28:17.610 --> 28:19.290
+it's just much more efficient
+
+624
+28:19.290 --> 28:21.300
+rather than everyone just driving on its own,
+
+625
+28:21.300 --> 28:24.870
+and so can keep the battery in a much better working point.
+
+626
+28:24.870 --> 28:26.670
+And in addition, also when it comes to charging,
+
+627
+28:26.670 --> 28:29.580
+you can much better balance the demand of energy
+
+628
+28:29.580 --> 28:30.630
+you need in the grid.
+
+629
+28:32.668 --> 28:34.590
+<v Martine>Any last thoughts?</v>
+
+630
+28:34.590 --> 28:36.300
+<v ->I think just in this coming year,</v>
+
+631
+28:36.300 --> 28:38.670
+I'm so excited to see the realization
+
+632
+28:38.670 --> 28:40.620
+of the domestic EV economy.
+
+633
+28:40.620 --> 28:43.920
+Between all of the companies, including Panasonic,
+
+634
+28:43.920 --> 28:46.470
+bringing hundreds of thousands of jobs to the US,
+
+635
+28:46.470 --> 28:48.870
+the billions in investment that you cited.
+
+636
+28:48.870 --> 28:51.960
+I think we're gonna see a lot of change in this next year,
+
+637
+28:51.960 --> 28:53.790
+and we're excited to be a part of it.
+
+638
+28:53.790 --> 28:57.810
+<v ->So I'm gonna go to a lightning round with the speakers,</v>
+
+639
+28:57.810 --> 29:00.330
+and then I'm gonna turn the questions to the audience
+
+640
+29:00.330 --> 29:03.540
+'cause I know a lot of you came specifically for this panel.
+
+641
+29:03.540 --> 29:05.940
+And so I don't know if there's somebody here with a mic,
+
+642
+29:05.940 --> 29:09.090
+or if it's just okay to stand up
+
+643
+29:09.090 --> 29:10.320
+and then we'll repeat the questions
+
+644
+29:10.320 --> 29:11.850
+so it gets on the recording.
+
+645
+29:11.850 --> 29:16.413
+But lightning round, what are your predictions for 2025?
+
+646
+29:17.580 --> 29:19.260
+<v ->I think I already gave mine,</v>
+
+647
+29:19.260 --> 29:22.170
+but I'm excited to see all these factories come online
+
+648
+29:22.170 --> 29:25.230
+and see how that influences adoption over time.
+
+649
+29:25.230 --> 29:27.720
+I think that when people are really a part
+
+650
+29:27.720 --> 29:31.590
+of making batteries here in the US, making EVs in the US,
+
+651
+29:31.590 --> 29:34.920
+it's going to be so much more normalized to buy an EV.
+
+652
+29:34.920 --> 29:37.800
+When your neighbor works for an electric OEM,
+
+653
+29:37.800 --> 29:39.390
+when your neighbor buys an EV,
+
+654
+29:39.390 --> 29:41.730
+it's so much easier to do so yourself.
+
+655
+29:41.730 --> 29:43.200
+<v Martine>Interesting.</v>
+
+656
+29:43.200 --> 29:44.760
+<v ->Yeah, again, I would say,</v>
+
+657
+29:44.760 --> 29:46.230
+especially looking on a battery,
+
+658
+29:46.230 --> 29:48.750
+the efficiency is like the key topic.
+
+659
+29:48.750 --> 29:51.960
+So this comes for sure out of the production,
+
+660
+29:51.960 --> 29:53.670
+making the production more efficient,
+
+661
+29:53.670 --> 29:56.520
+but also, I mean we see so many new trends,
+
+662
+29:56.520 --> 29:58.320
+new type of cell chemistry,
+
+663
+29:58.320 --> 30:01.020
+then we see already at the horizon,
+
+664
+30:01.020 --> 30:02.910
+all solid state batteries coming up.
+
+665
+30:02.910 --> 30:04.890
+And I'm really curious what will happen
+
+666
+30:04.890 --> 30:06.960
+and how the development in this segment is going on
+
+667
+30:06.960 --> 30:10.833
+because this can be for sure a boost on EV sales.
+
+668
+30:12.210 --> 30:13.810
+<v ->I think for me, I have to say,</v>
+
+669
+30:15.450 --> 30:19.800
+making fast charging more reliable and ubiquitous.
+
+670
+30:19.800 --> 30:21.480
+I struggle with saying that word, by the way,
+
+671
+30:21.480 --> 30:23.250
+if I said it wrong.
+
+672
+30:23.250 --> 30:28.110
+Is it's because, you know, the experience has been
+
+673
+30:28.110 --> 30:30.240
+quite variable in the US, I would say,
+
+674
+30:30.240 --> 30:31.890
+over the past few years.
+
+675
+30:31.890 --> 30:35.040
+But the major players like ourselves and others
+
+676
+30:35.040 --> 30:39.240
+are really making a concerted effort and investment
+
+677
+30:39.240 --> 30:42.330
+into creating that opportunity
+
+678
+30:42.330 --> 30:45.930
+and a great experience for the consumer.
+
+679
+30:45.930 --> 30:47.700
+And so I'm looking forward
+
+680
+30:47.700 --> 30:49.740
+to being a part of that revolution
+
+681
+30:49.740 --> 30:51.123
+and enabling that revolution
+
+682
+30:51.123 --> 30:55.290
+with our partners and my teammates, so.
+
+683
+30:55.290 --> 30:57.660
+<v ->We were supposed to have X paying on the panel.</v>
+
+684
+30:57.660 --> 30:59.670
+And so the last question would've been,
+
+685
+30:59.670 --> 31:03.990
+is the future of cars or the future of EVs, flight?
+
+686
+31:03.990 --> 31:05.340
+But I'm gonna leave that for the audience
+
+687
+31:05.340 --> 31:07.260
+to make their own conclusions,
+
+688
+31:07.260 --> 31:10.350
+and turn the questions over to the audience.
+
+689
+31:10.350 --> 31:11.350
+This gentleman here.
+
+690
+31:14.130 --> 31:16.890
+<v Speaker 1>One of the top three questions I get asked,</v>
+
+691
+31:16.890 --> 31:21.720
+and I want to hear a professional's answer is battery life.
+
+692
+31:21.720 --> 31:26.720
+<v ->Okay, what are the technology advances for battery life?</v>
+
+693
+31:29.460 --> 31:31.770
+<v ->Yeah, I think I'd love to hear your perspective</v>
+
+694
+31:31.770 --> 31:33.750
+from the tech and R&amp;D side,
+
+695
+31:33.750 --> 31:34.920
+but I think what we're seeing
+
+696
+31:34.920 --> 31:37.740
+is that battery life is already far exceeding
+
+697
+31:37.740 --> 31:41.520
+what we hope to see at this stage in EV adoption.
+
+698
+31:41.520 --> 31:44.430
+I'm really excited about recycling of battery materials.
+
+699
+31:44.430 --> 31:46.710
+We've been challenged in that space thus far
+
+700
+31:46.710 --> 31:49.890
+because there just aren't enough batteries retiring.
+
+701
+31:49.890 --> 31:54.120
+So Panasonic makes premium cells that are longer lifed,
+
+702
+31:54.120 --> 31:55.980
+and are really staying on the road
+
+703
+31:55.980 --> 31:57.750
+longer than anyone anticipated.
+
+704
+31:57.750 --> 32:00.720
+So personally that's not one of my huge concerns.
+
+705
+32:00.720 --> 32:02.820
+<v ->Yeah, I can again agree,</v>
+
+706
+32:02.820 --> 32:07.820
+because what we see from batteries returning from the field,
+
+707
+32:08.220 --> 32:09.690
+there's state of health
+
+708
+32:09.690 --> 32:13.140
+is much higher than we would've been expected, yeah?
+
+709
+32:13.140 --> 32:16.650
+So many of these batteries, as of now already,
+
+710
+32:16.650 --> 32:20.910
+are now used in energy storage devices and their SOH,
+
+711
+32:20.910 --> 32:23.610
+so state of health is among 80%.
+
+712
+32:23.610 --> 32:28.260
+So even after like 10, 12 years being run in an EV,
+
+713
+32:28.260 --> 32:30.360
+so still the battery is quite good,
+
+714
+32:30.360 --> 32:32.880
+especially if you don't have this high peaks
+
+715
+32:32.880 --> 32:35.160
+which of energy consumption.
+
+716
+32:35.160 --> 32:37.080
+So this is why you can just easily put them
+
+717
+32:37.080 --> 32:38.790
+into energy storage.
+
+718
+32:38.790 --> 32:41.910
+And in addition, recycling will be point in EU,
+
+719
+32:41.910 --> 32:44.370
+there are regulations already,
+
+720
+32:44.370 --> 32:47.760
+which amount of, yeah, recycled mass
+
+721
+32:47.760 --> 32:49.980
+you have to insert into your battery cells,
+
+722
+32:49.980 --> 32:51.300
+which you newly manufacture
+
+723
+32:51.300 --> 32:54.180
+and the value will increase the next years.
+
+724
+32:54.180 --> 32:55.380
+<v ->Any thoughts, Sujay?</v>
+
+725
+32:55.380 --> 32:56.820
+<v ->No, I have nothing to add to the experts.</v>
+
+726
+32:56.820 --> 32:58.560
+<v ->I'd like to ask the audience,</v>
+
+727
+32:58.560 --> 33:01.263
+how many of you have bought a used EV?
+
+728
+33:02.940 --> 33:03.773
+Not many.
+
+729
+33:03.773 --> 33:05.190
+A gentleman over here.
+
+730
+33:05.190 --> 33:07.560
+My understanding, and a a couple of people in the audience,
+
+731
+33:07.560 --> 33:10.890
+my understanding is that they're seeing the fear
+
+732
+33:10.890 --> 33:14.070
+of buying a used EV is that the battery might die,
+
+733
+33:14.070 --> 33:15.960
+that's the end of the car, they're so expensive.
+
+734
+33:15.960 --> 33:18.750
+But I guess Tesla had released a study saying,
+
+735
+33:18.750 --> 33:21.840
+actually the battery is built for the life of the vehicle
+
+736
+33:21.840 --> 33:24.090
+and is going beyond 10 years, 20 years,
+
+737
+33:24.090 --> 33:25.290
+you know, I mean it's been around.
+
+738
+33:25.290 --> 33:27.210
+There is a very high expectation
+
+739
+33:27.210 --> 33:28.860
+for battery life these days.
+
+740
+33:28.860 --> 33:33.513
+So, and actually I wrote an article for the BBC on used EVs.
+
+741
+33:34.950 --> 33:37.110
+If I see you after, I can send you the link.
+
+742
+33:37.110 --> 33:38.733
+Okay, another question please.
+
+743
+33:39.750 --> 33:41.873
+Yes, this gentleman here in the second row.
+
+744
+33:42.990 --> 33:44.010
+If you could stand up maybe.
+
+745
+33:44.010 --> 33:45.090
+Yes, we can hear.
+
+746
+33:45.090 --> 33:47.433
+<v ->Guys previously have like 100 car companies.</v>
+
+747
+33:51.287 --> 33:54.510
+So I was wondering based on your domain knowledge,
+
+748
+33:54.510 --> 33:57.633
+who gonna be the big picture or who gonna survive
+
+749
+33:57.633 --> 33:59.050
+in this industry?
+
+750
+34:01.090 --> 34:02.340
+<v ->Who's gonna survive?</v>
+
+751
+34:02.340 --> 34:04.650
+Well, I don't know, that's really.
+
+752
+34:04.650 --> 34:05.483
+<v Speaker 2>It's very hard.</v>
+
+753
+34:05.483 --> 34:06.610
+<v ->Sujay, can you repeat the question?</v>
+
+754
+34:06.610 --> 34:08.970
+<v ->Yeah, the question was sort of</v>
+
+755
+34:08.970 --> 34:13.320
+who's gonna survive in the EV race, I guess.
+
+756
+34:13.320 --> 34:14.153
+<v Speaker 2>Yeah, like previous,</v>
+
+757
+34:14.153 --> 34:15.750
+so many car companies are all gone, you know?
+
+758
+34:15.750 --> 34:17.760
+<v ->Yeah, yeah.</v>
+
+759
+34:17.760 --> 34:19.048
+I mean, there are,
+
+760
+34:19.048 --> 34:20.880
+so there are both sides of the story, right?
+
+761
+34:20.880 --> 34:22.860
+There are success stories,
+
+762
+34:22.860 --> 34:25.650
+and there are not so success stories.
+
+763
+34:25.650 --> 34:28.530
+I mean if I look, I'll use the, you know,
+
+764
+34:28.530 --> 34:30.090
+a China experience for example.
+
+765
+34:30.090 --> 34:33.390
+There's a lot of startup companies,
+
+766
+34:33.390 --> 34:36.240
+or that used to be considered startup companies
+
+767
+34:36.240 --> 34:39.300
+who have been quite successful actually.
+
+768
+34:39.300 --> 34:40.980
+They're not, they didn't have a pedigree
+
+769
+34:40.980 --> 34:43.170
+of maybe ICE vehicles,
+
+770
+34:43.170 --> 34:45.930
+but they've been very successful on the EV side of things.
+
+771
+34:45.930 --> 34:47.580
+And even here in the US,
+
+772
+34:47.580 --> 34:50.850
+you've had that same sort of example of course with Tesla,
+
+773
+34:50.850 --> 34:53.040
+and perhaps you're seeing it with Rivian as well.
+
+774
+34:53.040 --> 34:55.710
+So who survives, who doesn't survive,
+
+775
+34:55.710 --> 34:57.210
+very sort of hard to say.
+
+776
+34:57.210 --> 35:00.420
+I think the reality is that the technology is there,
+
+777
+35:00.420 --> 35:01.290
+it's evolving.
+
+778
+35:01.290 --> 35:04.413
+The battery pack technology is evolving fast enough,
+
+779
+35:05.400 --> 35:08.073
+and so I think there will be enough.
+
+780
+35:09.510 --> 35:11.400
+What we can say is there will be enough choices
+
+781
+35:11.400 --> 35:14.490
+and enough models and vehicles in the market.
+
+782
+35:14.490 --> 35:16.200
+Who those players are, how they run their business
+
+783
+35:16.200 --> 35:18.662
+is very hard to comment on.
+
+784
+35:18.662 --> 35:19.710
+<v ->We have time for two more questions.</v>
+
+785
+35:19.710 --> 35:22.716
+I see a hand there, back there.
+
+786
+35:22.716 --> 35:23.549
+Oh three more.
+
+787
+35:28.590 --> 35:31.350
+The question was mass adoption of solid state batteries.
+
+788
+35:31.350 --> 35:33.870
+<v ->Thanks for looking in my direction, Tina.</v>
+
+789
+35:33.870 --> 35:36.220
+I think you're coming from the battery company.
+
+790
+35:37.410 --> 35:38.520
+Oh, it's hard to predict.
+
+791
+35:38.520 --> 35:42.600
+I mean if you look, and almost the majority of the studies
+
+792
+35:42.600 --> 35:45.090
+giving forecast when this kind of technology
+
+793
+35:45.090 --> 35:47.010
+will start evolving.
+
+794
+35:47.010 --> 35:49.413
+They usually talk about the 2030s.
+
+795
+35:50.250 --> 35:52.950
+On the other side, we already know that last year,
+
+796
+35:52.950 --> 35:54.960
+CATL announced that they already have
+
+797
+35:54.960 --> 35:57.123
+the first all solid state battery ready.
+
+798
+35:58.920 --> 35:59.970
+So we need to see,
+
+799
+35:59.970 --> 36:02.670
+but at the moment, if I look,
+
+800
+36:02.670 --> 36:05.910
+it's not even clear which technology will win the race.
+
+801
+36:05.910 --> 36:08.190
+Yeah, there are either the oxide layer,
+
+802
+36:08.190 --> 36:10.530
+the sulfide layers or the polymer ones.
+
+803
+36:10.530 --> 36:12.630
+So even that decision isn't made yet.
+
+804
+36:12.630 --> 36:17.630
+So I personally would still stick with the 2030s
+
+805
+36:17.790 --> 36:21.450
+where I would expect that we have a clear decision
+
+806
+36:21.450 --> 36:24.315
+what kind of type of all solid state batteries
+
+807
+36:24.315 --> 36:26.220
+will win the race
+
+808
+36:26.220 --> 36:28.113
+and will come into mass production.
+
+809
+36:28.980 --> 36:29.813
+<v ->I'll weigh in as well</v>
+
+810
+36:29.813 --> 36:32.160
+since I did throw you under the bus on that one.
+
+811
+36:32.160 --> 36:33.600
+I think that there will be
+
+812
+36:33.600 --> 36:36.180
+many different battery technologies that succeed.
+
+813
+36:36.180 --> 36:39.480
+It will not be solid state, that's the be all end all.
+
+814
+36:39.480 --> 36:41.490
+We're going to have different battery technologies
+
+815
+36:41.490 --> 36:42.810
+for different use cases.
+
+816
+36:42.810 --> 36:46.830
+Of course, we're focused on scaling up as quickly as we can
+
+817
+36:46.830 --> 36:50.670
+and making as many cylindrical lithium ion cells as we can.
+
+818
+36:50.670 --> 36:53.460
+And we're focused on those continuous improvement tweaks
+
+819
+36:53.460 --> 36:56.670
+rather than changing the chemistry over time.
+
+820
+36:56.670 --> 36:58.290
+Already we're enabling vehicles
+
+821
+36:58.290 --> 37:01.860
+to go 450 miles at a reasonable price point.
+
+822
+37:01.860 --> 37:05.610
+So that continuous improvement is a big deal as well.
+
+823
+37:05.610 --> 37:08.430
+But that said, we want all battery chemistries to succeed
+
+824
+37:08.430 --> 37:10.770
+because there will be different use cases,
+
+825
+37:10.770 --> 37:14.400
+particularly on the industrial and heavy duty side.
+
+826
+37:14.400 --> 37:16.050
+<v ->There's a hands up in the back.</v>
+
+827
+37:17.100 --> 37:18.990
+<v Speaker 3>Biggest question I get all the time is,</v>
+
+828
+37:18.990 --> 37:20.730
+what is the effect of the new administration
+
+829
+37:20.730 --> 37:23.103
+gonna have on the adoption and public?
+
+830
+37:26.700 --> 37:28.110
+<v ->We'll have to ask Donald Trump</v>
+
+831
+37:28.110 --> 37:29.510
+the answer to that question.
+
+832
+37:30.730 --> 37:32.130
+Is that the answer you give?
+
+833
+37:33.570 --> 37:38.040
+I think, look, it's really hard to say, honestly.
+
+834
+37:38.040 --> 37:42.960
+That's, I mean, I'll welcome inputs from the others as well.
+
+835
+37:42.960 --> 37:46.170
+The way we look at it as BP is, you know, what is,
+
+836
+37:46.170 --> 37:48.150
+we look at long-term trends.
+
+837
+37:48.150 --> 37:50.808
+We look at trends out to 2050.
+
+838
+37:50.808 --> 37:53.010
+We don't look at four year trends.
+
+839
+37:53.010 --> 37:56.050
+So the trend out to 2030 and 2050
+
+840
+37:56.050 --> 37:59.400
+is EV adoption is gonna continue to grow.
+
+841
+37:59.400 --> 38:02.790
+You know, the US market from our perspective
+
+842
+38:02.790 --> 38:06.840
+is gonna be somewhere between 25 to 30 million EVs,
+
+843
+38:06.840 --> 38:08.670
+we think in 2030.
+
+844
+38:08.670 --> 38:11.520
+And it's gonna continue to grow from there.
+
+845
+38:11.520 --> 38:16.410
+So all of those EVs need EV charging, right?
+
+846
+38:16.410 --> 38:18.720
+Today we are at, I think on average,
+
+847
+38:18.720 --> 38:21.540
+for every fast charging stall,
+
+848
+38:21.540 --> 38:26.310
+it's one fast charging stall, 200 EVs in the US.
+
+849
+38:26.310 --> 38:29.220
+In Europe, in Germany, I think it's about 130.
+
+850
+38:29.220 --> 38:31.650
+In China it's sub 50.
+
+851
+38:31.650 --> 38:33.030
+And in China, I would tell you
+
+852
+38:33.030 --> 38:36.390
+that charging is really freely available.
+
+853
+38:36.390 --> 38:40.410
+So there's a lot of, well, at least in certain markets,
+
+854
+38:40.410 --> 38:41.760
+it's really freely available.
+
+855
+38:41.760 --> 38:46.760
+So where do we, we have a long way to go directionally
+
+856
+38:47.520 --> 38:49.050
+in terms of EV growth.
+
+857
+38:49.050 --> 38:53.220
+We have a long way to grow in terms of EV charging growth
+
+858
+38:53.220 --> 38:55.530
+and reliable EV charging growth.
+
+859
+38:55.530 --> 38:58.740
+What happens in the next four years in the longer scheme,
+
+860
+38:58.740 --> 39:01.890
+larger scheme of things will probably be a blip either ways.
+
+861
+39:01.890 --> 39:04.860
+Whether it goes up substantially or goes down substantially,
+
+862
+39:04.860 --> 39:07.110
+or maybe just stays on par.
+
+863
+39:07.110 --> 39:10.350
+But we don't kind of make decisions based on that
+
+864
+39:10.350 --> 39:11.400
+from our perspective.
+
+865
+39:11.400 --> 39:14.460
+I don't know if you guys have anything to add.
+
+866
+39:14.460 --> 39:16.500
+<v ->But there were a couple more questions on this side.</v>
+
+867
+39:16.500 --> 39:17.913
+I think there's a hands up in the back.
+
+868
+39:17.913 --> 39:18.783
+Yes, yes.
+
+869
+39:47.790 --> 39:51.763
+<v ->Sorry, was your question on,</v>
+
+870
+39:52.890 --> 39:56.070
+will we still need charging if battery efficiency increases?
+
+871
+39:56.070 --> 39:57.273
+Is that the gist?
+
+872
+40:18.600 --> 40:19.950
+Do you have a view on that?
+
+873
+40:21.300 --> 40:22.560
+<v ->Yeah, I think your point,</v>
+
+874
+40:22.560 --> 40:24.960
+it's poignant in that it is self-reinforcing.
+
+875
+40:24.960 --> 40:27.120
+Obviously as we see continuous improvement
+
+876
+40:27.120 --> 40:29.400
+in charging and battery efficiency,
+
+877
+40:29.400 --> 40:31.800
+we'll all benefit from those gains.
+
+878
+40:31.800 --> 40:33.360
+So I think what I take from your question
+
+879
+40:33.360 --> 40:35.880
+is that we need a little bit of all of it,
+
+880
+40:35.880 --> 40:38.820
+but no one needs to reach this holy grail
+
+881
+40:38.820 --> 40:40.110
+of a thousand miles,
+
+882
+40:40.110 --> 40:42.390
+or charging a full battery in five minutes.
+
+883
+40:42.390 --> 40:44.280
+The continuous improvement on all fronts
+
+884
+40:44.280 --> 40:46.740
+will just vastly improve the experience.
+
+885
+40:46.740 --> 40:49.620
+<v ->I need the thousand mile range.</v>
+
+886
+40:49.620 --> 40:50.670
+I wanna thank you all.
+
+887
+40:50.670 --> 40:51.750
+Oh yes, please.
+
+888
+40:51.750 --> 40:53.190
+<v ->I was just gonna say, I think the reality,</v>
+
+889
+40:53.190 --> 40:54.900
+I mean even today, if you look at it,
+
+890
+40:54.900 --> 40:56.280
+at least the data we look at,
+
+891
+40:56.280 --> 40:58.890
+is most of the charging happens at home, right?
+
+892
+40:58.890 --> 41:00.810
+70% or what have you.
+
+893
+41:00.810 --> 41:04.710
+So, but you still need charging outside of that
+
+894
+41:04.710 --> 41:06.120
+when you are moving around.
+
+895
+41:06.120 --> 41:09.870
+So I think even if the robustness of batteries
+
+896
+41:09.870 --> 41:10.950
+or battery range increases,
+
+897
+41:10.950 --> 41:12.960
+there will be a need for a component
+
+898
+41:12.960 --> 41:14.250
+of charging outside the home.
+
+899
+41:14.250 --> 41:15.259
+Okay, over to you.
+
+900
+41:15.259 --> 41:16.092
+I took away your--
+
+901
+41:16.092 --> 41:16.925
+<v ->I'm so sorry, we're at time.</v>
+
+902
+41:16.925 --> 41:18.510
+I wanna thank this very full audience.
+
+903
+41:18.510 --> 41:20.010
+Thank you so much for joining us here
+
+904
+41:20.010 --> 41:22.500
+on a late Thursday afternoon at CES.
+
+905
+41:22.500 --> 41:26.220
+Please enjoy the show, and come and meet our speakers.
+
+906
+41:26.220 --> 41:27.136
+Thank you.
+
+907
+41:27.136 --> 41:28.965
+(audience applauding)
+
+908
+41:28.965 --> 41:31.548
+(upbeat music)
+

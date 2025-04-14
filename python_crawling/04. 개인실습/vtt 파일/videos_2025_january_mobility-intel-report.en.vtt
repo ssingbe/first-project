@@ -1,0 +1,3237 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.139 --> 00:02.722
+(upbeat music)
+
+00:10.590 --> 00:11.550
+ My name is Chris Cook.
+
+00:11.550 --> 00:14.010
+I'm the president of the Mobile Electronics Association,
+
+00:14.010 --> 00:16.883
+and strangely enough, the founder of Connect2Car
+
+00:16.883 --> 00:18.600
+some 25 years ago,
+
+00:18.600 --> 00:20.640
+and I'd like to welcome all of you as attendees
+
+00:20.640 --> 00:23.070
+of CES to Las Vegas and to the first session
+
+00:23.070 --> 00:25.860
+of CES in the automotive space.
+
+00:25.860 --> 00:30.860
+This is Connect2Car, started some 25 years ago
+
+00:30.900 --> 00:34.770
+to bridge the aftermarket and the OEM.
+
+00:34.770 --> 00:38.250
+Well, OEM is really taking over CES
+
+00:38.250 --> 00:40.410
+and aftermarkets at different shows,
+
+00:40.410 --> 00:43.770
+but still serving the same purpose of connecting people
+
+00:43.770 --> 00:48.770
+to ideas and ideologies that drive the future of mobility.
+
+00:49.050 --> 00:50.010
+So this year,
+
+00:50.010 --> 00:53.130
+a lot of our speakers are gonna be looking out to 2050.
+
+00:53.130 --> 00:54.900
+We looked out to 2030 last year.
+
+00:54.900 --> 00:56.160
+We're going a little further out
+
+00:56.160 --> 00:58.803
+to get an understanding of where things are going.
+
+01:00.308 --> 01:04.080
+So this year, you'll see that this partnership, which again,
+
+01:04.080 --> 01:07.500
+has gone on for 25 years, starting with MEA,
+
+01:07.500 --> 01:09.903
+starting when I was working for CES.
+
+01:10.830 --> 01:13.290
+We have SAE, COVESA, MEMA,
+
+01:13.290 --> 01:15.330
+and AECOM all involved,
+
+01:15.330 --> 01:16.980
+and the first speaker you'll see here
+
+01:16.980 --> 01:21.660
+has joined our group, which I'll introduce in just a moment.
+
+01:21.660 --> 01:24.660
+So the whole idea of this partnership was
+
+01:24.660 --> 01:27.540
+to demonstrate collaboration among different associations
+
+01:27.540 --> 01:29.490
+and different groups
+
+01:29.490 --> 01:31.860
+in order for you to kind of see a broader view
+
+01:31.860 --> 01:34.470
+of vehicle technology in these sessions.
+
+01:34.470 --> 01:35.670
+So what you'll see starting
+
+01:35.670 --> 01:38.280
+with the mobility intel report
+
+01:38.280 --> 01:41.100
+is Steve giving a position on where we are
+
+01:41.100 --> 01:43.650
+as an industry and where we're going.
+
+01:43.650 --> 01:46.050
+Then you'll hear next level innovation,
+
+01:46.050 --> 01:49.440
+creating the ultimate vehicle experience, vehicle payments,
+
+01:49.440 --> 01:53.310
+very key one, the road ahead, vehicle safety,
+
+01:53.310 --> 01:56.580
+reducing roadway risk and saving lives.
+
+01:56.580 --> 01:59.700
+And then we'll finish it with mobility innovations.
+
+01:59.700 --> 02:01.410
+That'll be the only one besides this one
+
+02:01.410 --> 02:03.630
+that actually has PowerPoint presentations.
+
+02:03.630 --> 02:06.750
+And each one of the speakers there will be presenting
+
+02:06.750 --> 02:09.990
+their ideas that are already into automotive,
+
+02:09.990 --> 02:12.930
+but you'll see kind of a startup.
+
+02:12.930 --> 02:16.159
+That one will also have an interesting one starting off
+
+02:16.159 --> 02:17.340
+with a little campfire chat.
+
+02:17.340 --> 02:19.170
+We won't actually start a fire.
+
+02:19.170 --> 02:22.770
+Campfire chat with the leader of Volvo
+
+02:22.770 --> 02:25.260
+talking about the Camp X program
+
+02:25.260 --> 02:28.740
+and how to foster innovation as an automaker.
+
+02:28.740 --> 02:31.500
+And you see the speakers represent a pretty broad range
+
+02:31.500 --> 02:33.900
+in the vehicle technology area.
+
+02:33.900 --> 02:36.363
+So without further ado,
+
+02:37.470 --> 02:40.260
+I would like to introduce Mr. Steve Greenfield,
+
+02:40.260 --> 02:42.780
+general partner of automotive ventures
+
+02:42.780 --> 02:46.380
+and early stage automotive technology.
+
+02:46.380 --> 02:48.180
+I like to say incubator.
+
+02:48.180 --> 02:50.580
+You find the innovation, you fund the innovation,
+
+02:50.580 --> 02:53.880
+and you make the innovation happen, and an avid car guy.
+
+02:53.880 --> 02:55.170
+So we get along just great.
+
+02:55.170 --> 02:58.950
+Steve, come on up. Thank you so much for joining us.
+
+02:58.950 --> 02:59.783
+<v ->Appreciate it.</v>
+
+03:00.750 --> 03:04.230
+I'll take that from you. All right, cool.
+
+03:04.230 --> 03:07.110
+Well thanks everyone for joining me on the first day of CES,
+
+03:07.110 --> 03:10.380
+and we have a bunch of content to cover.
+
+03:10.380 --> 03:11.970
+If anyone knows me at all,
+
+03:11.970 --> 03:13.590
+I'm usually too ambitious with trying
+
+03:13.590 --> 03:15.210
+to cram a lot of content in.
+
+03:15.210 --> 03:17.100
+So we'll glance over the top of this.
+
+03:17.100 --> 03:18.813
+A couple of housekeeping things.
+
+03:19.800 --> 03:20.970
+Good, repeat it up here.
+
+03:20.970 --> 03:23.310
+Is that I'll make the presentation available
+
+03:23.310 --> 03:24.780
+to anyone who wants it.
+
+03:24.780 --> 03:28.110
+Chris will upload it to the Connected Car site,
+
+03:28.110 --> 03:31.050
+so you'll have the presentation and these videos as well.
+
+03:31.050 --> 03:34.110
+So we are recording video in the back,
+
+03:34.110 --> 03:36.360
+but if you'd like the presentation sooner,
+
+03:36.360 --> 03:40.080
+just email me at steve@automotiveventures.com,
+
+03:40.080 --> 03:41.700
+steve@automotiveventures.com,
+
+03:41.700 --> 03:44.070
+which I'll show on the very last slide today as well.
+
+03:44.070 --> 03:47.610
+And I'm happy to sit here and send it to you immediately.
+
+03:47.610 --> 03:50.100
+And if it sparks any thoughts or conversations
+
+03:50.100 --> 03:53.790
+with you or your team, happy to get on a follow-up call
+
+03:53.790 --> 03:55.650
+and have those conversations.
+
+03:55.650 --> 03:59.580
+So when Chris and I talked about extending mobility
+
+03:59.580 --> 04:02.670
+and providing a perspective into 2050, one,
+
+04:02.670 --> 04:05.370
+I think it fits very well with all of us leaving this room
+
+04:05.370 --> 04:07.230
+and going down onto the show floor.
+
+04:07.230 --> 04:10.020
+But it's pretty ambitious as you can see here,
+
+04:10.020 --> 04:11.910
+as I've divided up the agenda today.
+
+04:11.910 --> 04:14.280
+So we're only gonna have a small amount of time
+
+04:14.280 --> 04:16.140
+for each of these topics,
+
+04:16.140 --> 04:18.930
+but hopefully the content that I have here
+
+04:18.930 --> 04:20.580
+provokes thoughts.
+
+04:20.580 --> 04:21.630
+You may not agree with everything
+
+04:21.630 --> 04:24.120
+that I show you to you today, which is great as well.
+
+04:24.120 --> 04:25.140
+But like I said,
+
+04:25.140 --> 04:27.896
+you at least get the presentation afterwards
+
+04:27.896 --> 04:29.730
+and have a chance to really digest this content.
+
+04:29.730 --> 04:32.010
+So as an investor, as Chris said,
+
+04:32.010 --> 04:34.410
+we really look at the definition of mobility
+
+04:34.410 --> 04:36.510
+in terms of how we move either humans
+
+04:36.510 --> 04:40.470
+or cargo across the modalities of land, sea,
+
+04:40.470 --> 04:42.120
+air, or space.
+
+04:42.120 --> 04:44.340
+So I'm gonna take you through that journey today
+
+04:44.340 --> 04:46.530
+and we're gonna touch on all of these things.
+
+04:46.530 --> 04:48.360
+But let's start maybe most importantly
+
+04:48.360 --> 04:50.370
+with ground transportation.
+
+04:50.370 --> 04:55.053
+So if we look back to 1975 and index horsepower,
+
+04:56.160 --> 05:00.450
+CO2 emissions, and weight, and fuel efficiency,
+
+05:00.450 --> 05:02.520
+we see that cars, interestingly enough,
+
+05:02.520 --> 05:05.550
+haven't gained a lot of weight net,
+
+05:05.550 --> 05:06.780
+that they are getting fatter
+
+05:06.780 --> 05:08.610
+in the last couple of years here.
+
+05:08.610 --> 05:12.570
+But miles per gallon has doubled, horsepower has doubled,
+
+05:12.570 --> 05:15.540
+yet the emissions are about half, right?
+
+05:15.540 --> 05:18.540
+So all of these are trending in the right direction
+
+05:18.540 --> 05:21.090
+except for the fact The Economist came out six months ago
+
+05:21.090 --> 05:24.540
+with some research showing that the weight
+
+05:24.540 --> 05:27.540
+of the cars is creating killer autos,
+
+05:27.540 --> 05:29.640
+killer vehicles on American roads.
+
+05:29.640 --> 05:33.510
+So the gray line is the probability
+
+05:33.510 --> 05:37.770
+of you having a fatality in an automobile accident
+
+05:37.770 --> 05:39.360
+for your vehicle weight.
+
+05:39.360 --> 05:42.120
+So you can see obviously the heavier your car,
+
+05:42.120 --> 05:43.617
+the less likely you you are
+
+05:43.617 --> 05:45.750
+and the occupants to die.
+
+05:45.750 --> 05:48.660
+But as the other car's weight increases,
+
+05:48.660 --> 05:52.530
+there's a seven times increase for the fatality rate
+
+05:52.530 --> 05:54.390
+for vehicles based on the other car.
+
+05:54.390 --> 05:56.670
+So we're sort of in this prisoner's dilemma now, right?
+
+05:56.670 --> 05:59.250
+So if you have a 16-year-old kid,
+
+05:59.250 --> 06:02.130
+you wanna put them in a an SUV or a pickup truck
+
+06:02.130 --> 06:04.500
+because there's this escalation of weight
+
+06:04.500 --> 06:06.420
+and size on American roads.
+
+06:06.420 --> 06:07.253
+And I don't know,
+
+06:07.253 --> 06:09.540
+now that the Pandora's box has been opened,
+
+06:09.540 --> 06:12.570
+I don't know how we ever go backwards in the US.
+
+06:12.570 --> 06:14.130
+The automakers,
+
+06:14.130 --> 06:16.740
+largely in response to pressures from the Chinese
+
+06:16.740 --> 06:18.030
+that we'll get into today,
+
+06:18.030 --> 06:20.970
+have really felt the pressure over this last year.
+
+06:20.970 --> 06:23.040
+I was talking to Daniel from Bernstein
+
+06:23.040 --> 06:24.960
+and he expects it to be an exciting year
+
+06:24.960 --> 06:29.670
+as he covers the automobile stocks over the next year.
+
+06:29.670 --> 06:31.557
+But there's tremendous pressure, right?
+
+06:31.557 --> 06:33.780
+And I think you'll sense that on the show floor
+
+06:33.780 --> 06:36.810
+as you go down there and walk the OEM's booths,
+
+06:36.810 --> 06:40.170
+the OEMs that have elected to exhibit this year.
+
+06:40.170 --> 06:42.930
+But interestingly now, if you contrast that at least
+
+06:42.930 --> 06:45.810
+to the health of the franchise dealers in the US,
+
+06:45.810 --> 06:48.870
+and there's a lot of information on the slide,
+
+06:48.870 --> 06:50.850
+this is going back 50 years.
+
+06:50.850 --> 06:54.060
+The thing to pay attention to is that blue line,
+
+06:54.060 --> 06:56.970
+which is the average franchise dealer in the US,
+
+06:56.970 --> 06:59.790
+they're in net profit pre-tax,
+
+06:59.790 --> 07:02.550
+and that's eerily hovered at 2%.
+
+07:02.550 --> 07:04.290
+There's never been a year in 50 years
+
+07:04.290 --> 07:05.610
+where it's been negative,
+
+07:05.610 --> 07:08.340
+even in the worst of years with recessions
+
+07:08.340 --> 07:11.010
+and new carbon inventories being down, et cetera.
+
+07:11.010 --> 07:14.280
+Yet up until Covid, this is a pre Covid snapshot,
+
+07:14.280 --> 07:15.480
+we've never had really a year
+
+07:15.480 --> 07:19.140
+that's been over 3% except in the last couple of years
+
+07:19.140 --> 07:22.080
+during Covid where there was this artificial restriction
+
+07:22.080 --> 07:24.090
+in supply of new and used vehicles.
+
+07:24.090 --> 07:27.840
+So very durable, defensible business model.
+
+07:27.840 --> 07:29.220
+But having said that,
+
+07:29.220 --> 07:32.760
+I liken this to squeezing a water-filled balloon in terms
+
+07:32.760 --> 07:34.410
+of the defensibility and the durability
+
+07:34.410 --> 07:37.020
+of the franchise dealership model in the US,
+
+07:37.020 --> 07:39.360
+which is really the fact that you've got up
+
+07:39.360 --> 07:42.630
+to eight different interconnected and interdependent profit
+
+07:42.630 --> 07:45.570
+and loss centers within a franchise dealership.
+
+07:45.570 --> 07:47.160
+So on any given year,
+
+07:47.160 --> 07:50.790
+if any of these sort of eight cylinders are under pressure,
+
+07:50.790 --> 07:53.670
+then the owner can reallocate resources
+
+07:53.670 --> 07:56.640
+to more healthy cylinders.
+
+07:56.640 --> 07:58.860
+If we're gonna use the automotive metaphor.
+
+07:58.860 --> 07:59.940
+And over time,
+
+07:59.940 --> 08:03.600
+we've seen a lot of innovation in the business model itself.
+
+08:03.600 --> 08:05.940
+And as a result, it's been a very durable
+
+08:05.940 --> 08:07.410
+and defensible business model
+
+08:07.410 --> 08:09.750
+from a profitability standpoint.
+
+08:09.750 --> 08:13.360
+What we have witnessed since Covid is really the death
+
+08:14.263 --> 08:15.096
+of the agency model, right?
+
+08:15.096 --> 08:18.630
+During Covid, we heard a lot of OEMs,
+
+08:18.630 --> 08:21.690
+particularly overseas, but not exclusively overseas,
+
+08:21.690 --> 08:24.090
+talking about selling directly to the consumer,
+
+08:24.090 --> 08:27.000
+resting back more control, the consumer experience,
+
+08:27.000 --> 08:30.480
+taking on the responsibility for advertising and inventory,
+
+08:30.480 --> 08:33.570
+and that largely is dead now,
+
+08:33.570 --> 08:36.630
+we aren't hearing anyone talk about an agency model.
+
+08:36.630 --> 08:39.030
+And it's mostly because inventories have mounted
+
+08:40.162 --> 08:42.480
+in in a supply constraint environment
+
+08:42.480 --> 08:45.060
+where there's more demand than supply,
+
+08:45.060 --> 08:49.080
+and gross margins for every vehicle sold are very high,
+
+08:49.080 --> 08:52.380
+of course it makes sense for an automaker to entertain
+
+08:52.380 --> 08:54.930
+owning the inventory and controlling the inventory,
+
+08:54.930 --> 08:57.570
+but that we're back for almost every single brand
+
+08:57.570 --> 09:01.350
+to oversupply in the market and discounting and incentives,
+
+09:01.350 --> 09:03.960
+it's not so attractive in this type of environment
+
+09:03.960 --> 09:06.900
+for the automaker to be taking the inventory risk.
+
+09:06.900 --> 09:09.480
+And therefore we aren't really hearing anything about
+
+09:09.480 --> 09:13.020
+dealers being disintermediated by an agency model.
+
+09:13.020 --> 09:16.329
+Let me shift to EVs while we're on ground transport.
+
+09:16.329 --> 09:19.500
+EV sales globally are increasing.
+
+09:19.500 --> 09:23.370
+So if there are 93 million new passenger vehicles
+
+09:23.370 --> 09:26.040
+sold per year globally, in 2024,
+
+09:26.040 --> 09:28.110
+we hit about 16 and a half million.
+
+09:28.110 --> 09:29.700
+And that's estimated to be somewhere near
+
+09:29.700 --> 09:30.990
+18 million for this year.
+
+09:30.990 --> 09:32.370
+So it is still increasing,
+
+09:32.370 --> 09:37.370
+but the rate of growth year over year is decelerating
+
+09:37.650 --> 09:40.350
+very, very quickly, as you can see here,
+
+09:40.350 --> 09:44.340
+almost down to a 0% growth year over year globally
+
+09:44.340 --> 09:46.080
+in terms of EVs.
+
+09:46.080 --> 09:48.510
+This is not spread evenly over countries
+
+09:48.510 --> 09:50.730
+as we hear about countries like China,
+
+09:50.730 --> 09:51.690
+countries like Norway,
+
+09:51.690 --> 09:55.140
+specifically with massive EV adoption,
+
+09:55.140 --> 09:56.880
+but definitely has decelerated
+
+09:56.880 --> 09:59.430
+in many of the more Western countries,
+
+09:59.430 --> 10:04.430
+yet if we sat last year at about 12% penetration in 2024,
+
+10:05.033 --> 10:07.830
+this is Bloomberg's estimates,
+
+10:07.830 --> 10:09.720
+at some point here we'll have sort of
+
+10:09.720 --> 10:11.220
+a massive tipping point.
+
+10:11.220 --> 10:13.890
+And I believe this passionately as well,
+
+10:13.890 --> 10:17.400
+when the battery chemistry becomes much better in terms
+
+10:17.400 --> 10:18.690
+of the amount of charge,
+
+10:18.690 --> 10:20.730
+the distance we can get out of one charge
+
+10:20.730 --> 10:23.610
+and the charging speed, forget charger availability
+
+10:23.610 --> 10:27.300
+because we'll talk about inductive charging
+
+10:27.300 --> 10:28.800
+in a few slides here,
+
+10:28.800 --> 10:30.360
+but I do believe at some point,
+
+10:30.360 --> 10:31.560
+we will have a tipping point
+
+10:31.560 --> 10:33.750
+where the average consumer will say
+
+10:33.750 --> 10:35.880
+it's just far better and more efficient
+
+10:35.880 --> 10:39.090
+for me to buy an EV than an ICE vehicle,
+
+10:39.090 --> 10:40.620
+internal combustion engine vehicle.
+
+10:40.620 --> 10:42.033
+But for the time being,
+
+10:42.915 --> 10:45.120
+that mentality is not the case in the US
+
+10:45.120 --> 10:46.290
+and many of the western countries.
+
+10:46.290 --> 10:48.390
+And there's been a lot of resistance.
+
+10:48.390 --> 10:51.554
+Let me talk about China because I don't think
+
+10:51.554 --> 10:53.970
+that right now probably if I am encouraging anyone
+
+10:53.970 --> 10:55.980
+in the industry to be paying attention to,
+
+10:55.980 --> 11:00.150
+China is the emerging force within automotive
+
+11:00.150 --> 11:03.030
+that cannot be ignored.
+
+11:03.030 --> 11:06.150
+So if we look back to the last 20 years,
+
+11:06.150 --> 11:10.650
+China car production has gone from 1% to 39%.
+
+11:10.650 --> 11:12.660
+And we'll talk about sort of the capacity
+
+11:12.660 --> 11:14.640
+they've built, the over capacity,
+
+11:14.640 --> 11:16.740
+and thus the pressure on exporting.
+
+11:16.740 --> 11:19.620
+But it's just an amazing chart to look at
+
+11:19.620 --> 11:21.570
+and then the pressure as a result
+
+11:21.570 --> 11:23.910
+for everybody else in the world responding to this,
+
+11:23.910 --> 11:26.010
+especially in international markets.
+
+11:26.010 --> 11:28.500
+And we'll talk a little bit about the tariffs that the US,
+
+11:28.500 --> 11:32.460
+Canada, and Europe have erected as a result.
+
+11:32.460 --> 11:35.670
+But you look at maybe most notably we talk about the threat
+
+11:35.670 --> 11:40.050
+in the US, but look at Japan's leading sort of share
+
+11:40.050 --> 11:42.960
+of the passenger car production back in 1998,
+
+11:42.960 --> 11:44.940
+and here we are 25 years later
+
+11:44.940 --> 11:47.820
+and they're a pale number two and feeling a lot of pressure.
+
+11:47.820 --> 11:49.530
+And this is manifesting
+
+11:49.530 --> 11:51.930
+in a lot of activity within the Japanese OEMs,
+
+11:51.930 --> 11:54.000
+not the least of which we heard the announcement recently
+
+11:54.000 --> 11:56.700
+about Honda and Nissan merging,
+
+11:56.700 --> 11:59.400
+but you're gonna see more reaction from the Japanese
+
+11:59.400 --> 12:02.430
+trying to figure out where they sit vis-a-vis
+
+12:02.430 --> 12:04.350
+the Japanese or the Chinese,
+
+12:04.350 --> 12:06.930
+and the pressure's gonna continue to mount.
+
+12:06.930 --> 12:09.120
+So I talked about production capacity.
+
+12:09.120 --> 12:10.920
+So if we look at the sales,
+
+12:10.920 --> 12:12.960
+this is China's production car capacity
+
+12:12.960 --> 12:14.820
+versus domestic car sales,
+
+12:14.820 --> 12:17.297
+domestic car sales there north of 20,
+
+12:17.297 --> 12:20.370
+but 24 million new vehicles sold per year.
+
+12:20.370 --> 12:23.070
+So by far the largest new car market in the world,
+
+12:23.070 --> 12:26.580
+but production capacity is up there north of 40 million.
+
+12:26.580 --> 12:30.995
+So there are about 250 OEMs within China right now.
+
+12:30.995 --> 12:34.800
+Most of them are not profitable whatsoever,
+
+12:34.800 --> 12:37.890
+and they're slitting each, sorry for the graphic metaphor,
+
+12:37.890 --> 12:40.290
+but they're slitting each other's throats to compete.
+
+12:40.290 --> 12:41.580
+And as a result,
+
+12:41.580 --> 12:46.140
+this extra capacity is largely being pushed internationally.
+
+12:46.140 --> 12:48.840
+So despite the fact that they may be facing tariffs,
+
+12:48.840 --> 12:51.750
+et cetera in other countries,
+
+12:51.750 --> 12:55.110
+a unit sold internationally can be far more profitable
+
+12:55.110 --> 12:57.960
+than a unit at home when they're losing money
+
+12:57.960 --> 12:59.580
+on every single unit sold.
+
+12:59.580 --> 13:03.150
+And there isn't any slowing this down at this point
+
+13:03.150 --> 13:06.060
+until there's some sort of reconciliation
+
+13:06.060 --> 13:07.590
+around the 250 OEMs,
+
+13:07.590 --> 13:10.080
+which is inevitable with this kind of dynamic.
+
+13:10.080 --> 13:12.660
+But in the meantime, there is intense pressure
+
+13:12.660 --> 13:14.823
+to export these vehicles out of China.
+
+13:16.230 --> 13:18.513
+Largely because of the excess capacity,
+
+13:19.532 --> 13:21.570
+the production costs are dramatically lower.
+
+13:21.570 --> 13:26.130
+This compares a BYD seal versus a Volkswagen ID3
+
+13:26.130 --> 13:27.600
+that's made in Europe
+
+13:27.600 --> 13:32.490
+and it's demonstrably cheaper in terms of vis-a-vis
+
+13:32.490 --> 13:33.780
+the legacy automakers, right?
+
+13:33.780 --> 13:36.090
+So the legacy automakers are looking at this and thinking,
+
+13:36.090 --> 13:39.270
+how do we respond to this other than erecting tariffs
+
+13:39.270 --> 13:41.460
+to protect our home countries?
+
+13:41.460 --> 13:43.470
+But as you can imagine, in any environment
+
+13:43.470 --> 13:45.540
+where you've got severe overcapacity,
+
+13:45.540 --> 13:47.700
+the Chinese automakers are feeling it in terms
+
+13:47.700 --> 13:50.730
+of pressure on margins as well as the dealers
+
+13:50.730 --> 13:53.973
+because there isn't margin to feed the dealers.
+
+13:53.973 --> 13:56.760
+So we've had about 4,000 Chinese franchise dealers
+
+13:56.760 --> 14:01.440
+close in 2024, and that will continue as well.
+
+14:01.440 --> 14:03.210
+So I don't need to get into economics
+
+14:03.210 --> 14:04.890
+because I'm not an economist up here,
+
+14:04.890 --> 14:07.020
+but I try to read as much as I can.
+
+14:07.020 --> 14:09.870
+And Joseph Schumpeter was an economist
+
+14:09.870 --> 14:12.810
+that coined the term creative destruction,
+
+14:12.810 --> 14:15.540
+and he saw innovation happening in waves.
+
+14:15.540 --> 14:16.980
+And if you track back to the beginning
+
+14:16.980 --> 14:18.780
+of the industrial revolution,
+
+14:18.780 --> 14:22.110
+you had the British Empire sort of dominated here
+
+14:22.110 --> 14:24.120
+these first two waves with iron,
+
+14:24.120 --> 14:26.313
+water power, steam power, et cetera.
+
+14:27.323 --> 14:30.810
+Then the US, largely on the back of petroleum products,
+
+14:30.810 --> 14:32.550
+really dominated in terms
+
+14:32.550 --> 14:34.740
+of the next three waves of innovation, right?
+
+14:34.740 --> 14:36.300
+Electricity and cheap steel all the way
+
+14:36.300 --> 14:38.343
+through IT out of Silicon Valley.
+
+14:39.242 --> 14:40.075
+The question is,
+
+14:40.075 --> 14:42.030
+if the next wave is largely gonna be powered by two things,
+
+14:42.030 --> 14:45.499
+renewable energy and also AI,
+
+14:45.499 --> 14:49.083
+who is going to emerge as the dominant superpower?
+
+14:49.923 --> 14:52.440
+And many indications are, it'll be China,
+
+14:52.440 --> 14:54.270
+at least in terms of renewables,
+
+14:54.270 --> 14:55.680
+there's no doubt at this point
+
+14:55.680 --> 14:57.600
+with some of the slides I'm about to show you,
+
+14:57.600 --> 15:00.240
+but AI is still to be determined, right?
+
+15:00.240 --> 15:03.570
+We're seeing these massive fundraisers
+
+15:03.570 --> 15:06.420
+and valuations for these companies out of Silicon Valley,
+
+15:06.420 --> 15:08.880
+but China at the same time is innovating
+
+15:08.880 --> 15:11.850
+likely at just at the same pace.
+
+15:11.850 --> 15:14.133
+What China did do 20 years ago as we saw,
+
+15:15.178 --> 15:16.011
+they preemptively,
+
+15:16.011 --> 15:18.630
+because they wanted independence from oil, which was,
+
+15:18.630 --> 15:20.820
+they're a net importer of oil,
+
+15:20.820 --> 15:22.740
+get independence around the power plant, right?
+
+15:22.740 --> 15:26.370
+So in terms of mining, processing, component production,
+
+15:26.370 --> 15:29.130
+battery production, and vehicle assembly for EVs,
+
+15:29.130 --> 15:31.080
+those yellow bars are the percentage
+
+15:31.080 --> 15:34.350
+that China owns of each of those channels.
+
+15:34.350 --> 15:38.850
+And it's daunting when you're an automaker in Western Europe
+
+15:38.850 --> 15:41.370
+or in the US looking at,
+
+15:41.370 --> 15:42.780
+you're effectively beholden
+
+15:42.780 --> 15:45.150
+to this Chinese economic engine
+
+15:45.150 --> 15:47.430
+in terms of the supply chain for EVs,
+
+15:47.430 --> 15:49.470
+whether you're trying to get the raw ingredients
+
+15:49.470 --> 15:50.640
+that go into batteries
+
+15:50.640 --> 15:53.283
+or the batteries in the EV components themselves.
+
+15:54.390 --> 15:56.790
+Elon Musk, who has had no shortage
+
+15:56.790 --> 15:58.190
+of press over the last year,
+
+15:59.067 --> 16:00.360
+I could spend 40 minutes talking about Elon,
+
+16:00.360 --> 16:04.470
+but said the Chinese EV firms will demolish
+
+16:04.470 --> 16:08.100
+the domestic automakers if we don't erect tariffs.
+
+16:08.100 --> 16:12.120
+And now he's got a strong mouth piece into Trump's ear.
+
+16:12.120 --> 16:15.330
+As a result, Biden erected 100% tariffs
+
+16:15.330 --> 16:16.890
+against the Chinese.
+
+16:16.890 --> 16:18.930
+And what I would say,
+
+16:18.930 --> 16:20.850
+tariffs are great in the short term,
+
+16:20.850 --> 16:22.500
+there're a short term bandaid,
+
+16:22.500 --> 16:24.000
+but what we have to be aware of
+
+16:24.000 --> 16:25.740
+is there's gotta be some way
+
+16:25.740 --> 16:27.870
+we innovate out of this whole, right?
+
+16:27.870 --> 16:29.580
+If you do believe, and you may not,
+
+16:29.580 --> 16:32.400
+you may not agree with me that the dominant power plant
+
+16:32.400 --> 16:34.710
+will be electric in the future.
+
+16:34.710 --> 16:35.970
+If you believe that thesis,
+
+16:35.970 --> 16:37.440
+then you need to have a strategy to say,
+
+16:37.440 --> 16:41.130
+great, these tariffs are buying us a short amount of time,
+
+16:41.130 --> 16:43.830
+let's make sure we use that time to innovate
+
+16:43.830 --> 16:46.170
+and try to leapfrog the Chinese.
+
+16:46.170 --> 16:48.090
+But we'll see how this all plays out.
+
+16:48.090 --> 16:49.260
+I don't know how this would all play out,
+
+16:49.260 --> 16:52.200
+but it's an exciting time in automotive to say the least.
+
+16:52.200 --> 16:54.720
+We heard a year ago that Ford and GM
+
+16:54.720 --> 16:57.180
+were open to partnerships in terms
+
+16:57.180 --> 16:58.560
+of collaborating on the backend.
+
+16:58.560 --> 17:00.240
+Well, a few things have happened since.
+
+17:00.240 --> 17:02.580
+One is we saw this news just a couple of weeks ago,
+
+17:02.580 --> 17:05.490
+probably about a month ago in terms of Honda and Nissan.
+
+17:05.490 --> 17:08.700
+This won't be the last, I mean the next couple of years,
+
+17:08.700 --> 17:11.220
+we'll see more at least collaboration
+
+17:11.220 --> 17:14.400
+if not discussions around mergers on the backend,
+
+17:14.400 --> 17:17.190
+partially to take out costs and get economies of scale.
+
+17:17.190 --> 17:20.580
+But a lot of this is in response to the existential threat
+
+17:20.580 --> 17:23.220
+that the Chinese have on these legacy automakers.
+
+17:23.220 --> 17:25.320
+And there'll be a whole bunch of implications
+
+17:25.320 --> 17:27.990
+on the tier one suppliers as well.
+
+17:27.990 --> 17:29.940
+Let's talk about repair and service of vehicles.
+
+17:29.940 --> 17:32.430
+So the cars are getting more complex, right?
+
+17:32.430 --> 17:35.585
+A lot of the stuff you're gonna see in the West Hall
+
+17:35.585 --> 17:36.418
+are new technologies,
+
+17:36.418 --> 17:38.370
+either software or hardware technologies
+
+17:38.370 --> 17:39.930
+that are going into the vehicles
+
+17:39.930 --> 17:42.990
+either in an immediate generation or future generation.
+
+17:42.990 --> 17:44.190
+And this is gonna have
+
+17:44.190 --> 17:46.500
+a lot of impacts on repairability
+
+17:46.500 --> 17:48.570
+and the cost to ensure these vehicles
+
+17:48.570 --> 17:50.490
+as they get more complex.
+
+17:50.490 --> 17:53.790
+The average franchise dealer in the US usually loses
+
+17:53.790 --> 17:56.850
+about 70% of the service opportunities
+
+17:56.850 --> 17:58.170
+at the end of the warranty period,
+
+17:58.170 --> 18:00.630
+which has historically been about a three year period.
+
+18:00.630 --> 18:01.890
+So I'm a franchise dealer,
+
+18:01.890 --> 18:03.450
+usually for the first three years,
+
+18:03.450 --> 18:05.310
+I have high loyalty from customers
+
+18:05.310 --> 18:06.900
+that get my Honda or Toyota
+
+18:06.900 --> 18:10.740
+or General Motors vehicle service at the franchise dealer.
+
+18:10.740 --> 18:12.810
+But after that three year period,
+
+18:12.810 --> 18:14.460
+the loyalty goes out the window
+
+18:14.460 --> 18:16.110
+and the consumer typically searches
+
+18:16.110 --> 18:19.320
+for a cheaper servicing mechanism,
+
+18:19.320 --> 18:21.720
+which has spawned this huge amount
+
+18:21.720 --> 18:23.583
+of aftermarket in the US.
+
+18:24.940 --> 18:27.120
+I believe, and not everyone agrees with me,
+
+18:27.120 --> 18:30.060
+we're gonna see a dramatically flattening out of this line.
+
+18:30.060 --> 18:32.820
+Meaning that consumers are gonna be much more loyal
+
+18:32.820 --> 18:35.430
+to going back and servicing their vehicles
+
+18:35.430 --> 18:38.310
+at franchise dealers even after the warranty period,
+
+18:38.310 --> 18:41.190
+which has big implications on the aftermarket overall.
+
+18:41.190 --> 18:44.040
+So we're already seeing articles like this,
+
+18:44.040 --> 18:46.630
+and then the pendulum sling swings from
+
+18:47.586 --> 18:51.060
+a lobbying standpoint around national right to repair acts
+
+18:51.060 --> 18:54.120
+to allow the independent repair shop to get access
+
+18:54.120 --> 18:56.670
+to the telematics data off the vehicles as well
+
+18:56.670 --> 18:57.540
+as the blueprints
+
+18:57.540 --> 18:59.820
+and just being able to repair these vehicles.
+
+18:59.820 --> 19:00.930
+But despite this,
+
+19:00.930 --> 19:03.150
+I think that the countervailing force is gonna be
+
+19:03.150 --> 19:05.730
+the cars are getting so complex
+
+19:05.730 --> 19:08.370
+and the technician skill so high
+
+19:08.370 --> 19:11.370
+and the specialized tools needed to work on the vehicles
+
+19:11.370 --> 19:13.860
+so sophisticated that despite the fact
+
+19:13.860 --> 19:15.090
+that the average repair shop,
+
+19:15.090 --> 19:18.210
+the average oil chain shop is perhaps gonna have access
+
+19:18.210 --> 19:20.070
+to be able to repair the vehicles,
+
+19:20.070 --> 19:22.470
+are they gonna have the technician sophistication
+
+19:22.470 --> 19:24.540
+and the specialized tools they need?
+
+19:24.540 --> 19:27.960
+So we can all take a page out of Apple's book in terms
+
+19:27.960 --> 19:30.720
+of the closed walled garden that they've built
+
+19:30.720 --> 19:32.070
+around that ecosystem.
+
+19:32.070 --> 19:34.800
+And it's awfully hard to work on an Apple product
+
+19:34.800 --> 19:36.510
+if you're an independent repair shop,
+
+19:36.510 --> 19:38.343
+and they make it hard on purpose.
+
+19:39.360 --> 19:41.820
+Repair inflation has been a real challenge in the US.
+
+19:41.820 --> 19:44.850
+I think that some argue that Biden lost the election
+
+19:44.850 --> 19:48.270
+to Trump primarily because of inflation in the US
+
+19:48.270 --> 19:49.920
+and the average consumer feeling this
+
+19:49.920 --> 19:51.510
+and voting against Biden.
+
+19:51.510 --> 19:53.280
+If you look at inflation for the last,
+
+19:53.280 --> 19:56.370
+sort of the beginning of Covid over the last four years,
+
+19:56.370 --> 19:59.790
+it's up about 20% the average CPI,
+
+19:59.790 --> 20:02.040
+but the repair of vehicles,
+
+20:02.040 --> 20:03.690
+the inflation for repair costs
+
+20:03.690 --> 20:05.520
+is up more than twice that, right?
+
+20:05.520 --> 20:07.590
+So consumers are really feeling pressure
+
+20:07.590 --> 20:12.150
+out of their pocketbooks for vehicle repair.
+
+20:12.150 --> 20:13.890
+And electric vehicles much more so
+
+20:13.890 --> 20:16.080
+than internal combustion engine vehicles.
+
+20:16.080 --> 20:17.520
+Think about the dynamic here.
+
+20:17.520 --> 20:20.370
+A lot of these electric vehicles are first generation,
+
+20:20.370 --> 20:23.280
+so there are more problems with recalls, et cetera.
+
+20:23.280 --> 20:25.800
+There is not the technician skill yet
+
+20:25.800 --> 20:27.180
+to work on these things,
+
+20:27.180 --> 20:29.100
+and there may not be the specialized tools
+
+20:29.100 --> 20:31.140
+out there in every repair shop.
+
+20:31.140 --> 20:34.140
+So consumers are waiting longer to get their EVs repaired
+
+20:34.140 --> 20:36.858
+and paying more to get those repairs done.
+
+20:36.858 --> 20:38.880
+And then we see things like this, right?
+
+20:38.880 --> 20:42.150
+So this was a minor fender bender by any account
+
+20:42.150 --> 20:43.740
+of a Rivian truck,
+
+20:43.740 --> 20:46.110
+and it was nine months to get the truck back,
+
+20:46.110 --> 20:49.602
+and the repair cost was $42,000.
+
+20:49.602 --> 20:51.030
+You're gonna see more of this,
+
+20:51.030 --> 20:52.350
+and let me just unpack a little bit
+
+20:52.350 --> 20:53.760
+why we're gonna see more of this.
+
+20:53.760 --> 20:56.280
+What I have a hard time juxtaposing or figure out,
+
+20:56.280 --> 20:58.020
+I've never worked for an automaker,
+
+20:58.020 --> 20:59.760
+but how automakers are thinking about
+
+20:59.760 --> 21:02.400
+what I'm about to show you in terms of vehicle design
+
+21:02.400 --> 21:04.980
+and the sophistication of that and the complexity of that,
+
+21:04.980 --> 21:07.320
+and then how the average consumer is gonna be able
+
+21:07.320 --> 21:09.780
+to own these vehicles and insure them
+
+21:09.780 --> 21:13.530
+because it won't take a lot of cases like this, for example,
+
+21:13.530 --> 21:15.060
+where the insurance companies are saying
+
+21:15.060 --> 21:17.040
+we're not gonna insure some of these models
+
+21:17.040 --> 21:18.810
+because they're gonna be so expensive to fix.
+
+21:18.810 --> 21:21.420
+So let me walk you through a couple of slides here.
+
+21:21.420 --> 21:25.470
+So on the left, you've got two Model 3s, Tesla Model 3s.
+
+21:25.470 --> 21:27.000
+On the left was a previous generation
+
+21:27.000 --> 21:30.870
+where the frame had a 150 different components.
+
+21:30.870 --> 21:33.187
+Now with mega casting or giga casting,
+
+21:33.187 --> 21:36.960
+that same vehicle has three components in the frame.
+
+21:36.960 --> 21:39.540
+And I remember when I worked in the wholesale auctions
+
+21:39.540 --> 21:40.950
+that you'd see these guys
+
+21:40.950 --> 21:43.380
+and they'd rip off a quarter panel of a vehicle
+
+21:43.380 --> 21:46.530
+and repair it and then put the car back into the fleet.
+
+21:46.530 --> 21:48.510
+Well no longer is that the case, right?
+
+21:48.510 --> 21:51.060
+You get a small tear or bend in the frame now
+
+21:51.060 --> 21:53.190
+and there aren't parts to replace.
+
+21:53.190 --> 21:56.250
+And that theme is continuing across other components
+
+21:56.250 --> 21:57.660
+of the vehicle as well.
+
+21:57.660 --> 21:59.460
+This may not be a great example,
+
+21:59.460 --> 22:01.620
+but look at that suspension component
+
+22:01.620 --> 22:03.600
+on the right hand side for this hypercar.
+
+22:03.600 --> 22:07.020
+This technology will eventually trickle down
+
+22:07.020 --> 22:08.340
+to the average vehicle,
+
+22:08.340 --> 22:11.520
+but when AI is designing car parts
+
+22:11.520 --> 22:14.397
+to remove weight and build rigidity,
+
+22:14.397 --> 22:16.620
+parts are gonna start to look like this.
+
+22:16.620 --> 22:19.410
+And I have no idea what that part would cost to replace,
+
+22:19.410 --> 22:21.990
+but I'm guessing that you can't go into your Pep Boys
+
+22:21.990 --> 22:23.583
+and buy that off the shelf.
+
+22:24.810 --> 22:26.370
+I'll get you to laugh at one of them anyway.
+
+22:26.370 --> 22:30.120
+So in the same vein, so these are Tesla parts, right?
+
+22:30.120 --> 22:33.000
+And again, I don't know a lot about vehicle manufacturing,
+
+22:33.000 --> 22:34.620
+but just common sense would dictate you look
+
+22:34.620 --> 22:36.870
+at that air conditioning manifold
+
+22:36.870 --> 22:38.490
+in the lower right hand corner,
+
+22:38.490 --> 22:43.470
+that's all one piece of solid cast aluminum.
+
+22:43.470 --> 22:45.660
+And for a domestic automaker,
+
+22:45.660 --> 22:47.220
+you'd look at that and you'd be like,
+
+22:47.220 --> 22:50.550
+there's probably 20 or 30 different individual parts
+
+22:50.550 --> 22:53.400
+that we can go into O'Reilly's or Pep Boys or Advance
+
+22:53.400 --> 22:56.730
+and buy a $20 part and swap it out and replace it.
+
+22:56.730 --> 22:59.460
+If for some reason that part gets damaged
+
+22:59.460 --> 23:02.580
+through accident or otherwise, a small tear or whatever,
+
+23:02.580 --> 23:05.520
+and you have to replace that solid piece of aluminum,
+
+23:05.520 --> 23:08.400
+that's gotta be a six or $7,000 part.
+
+23:08.400 --> 23:10.740
+So again, think about reconciling this thing, right?
+
+23:10.740 --> 23:14.070
+Cars used to be really straightforward and easy to repair.
+
+23:14.070 --> 23:15.150
+In the spirit of trying
+
+23:15.150 --> 23:18.630
+to drive down production costs in the production line,
+
+23:18.630 --> 23:22.590
+we've come up with sophisticated manufacturing processes,
+
+23:22.590 --> 23:24.570
+but those sophisticated manufacturing processes
+
+23:24.570 --> 23:26.970
+aren't doing anything for the repairability of the vehicles.
+
+23:26.970 --> 23:28.770
+And then imagine all of this
+
+23:28.770 --> 23:30.810
+will manifest in higher insurance costs,
+
+23:30.810 --> 23:31.830
+which we get to here,
+
+23:31.830 --> 23:34.740
+and vehicle insurance premiums have surged
+
+23:34.740 --> 23:37.050
+since 2004 significantly.
+
+23:37.050 --> 23:39.990
+And I don't think that this is gonna slow down at all
+
+23:39.990 --> 23:41.580
+because there is going to continue
+
+23:41.580 --> 23:44.790
+to be intense pressure from the OEMs to remove costs
+
+23:44.790 --> 23:46.800
+and their production facilities.
+
+23:46.800 --> 23:49.560
+And all of that adds to more complexity on the car.
+
+23:49.560 --> 23:51.780
+And at some point, we're gonna have to reconcile,
+
+23:51.780 --> 23:53.910
+are these cars repairable at all?
+
+23:53.910 --> 23:55.740
+Are they simply gonna be disposable?
+
+23:55.740 --> 23:57.810
+And how is a consumer gonna be able
+
+23:57.810 --> 24:00.450
+to buy the sophisticated piece of equipment
+
+24:00.450 --> 24:03.603
+and be able to afford the insurance premiums on them?
+
+24:04.667 --> 24:06.990
+All right, cool. So that was a lot on ground transport.
+
+24:06.990 --> 24:08.910
+I'm gonna fly over most of these other categories.
+
+24:08.910 --> 24:10.080
+So micromobility.
+
+24:10.080 --> 24:12.750
+So interestingly enough, when you define micromobility,
+
+24:12.750 --> 24:14.490
+and this is a chart from McKinsey here
+
+24:14.490 --> 24:16.290
+in terms of penetration,
+
+24:16.290 --> 24:18.390
+but really the three things is to pay attention to.
+
+24:18.390 --> 24:21.330
+For the first two markets, China and Asia,
+
+24:21.330 --> 24:23.970
+really we're talking about dramatic penetration
+
+24:23.970 --> 24:25.230
+of scooters,
+
+24:25.230 --> 24:29.310
+light motorcycles more in Latin America and Africa.
+
+24:29.310 --> 24:31.410
+And the US is the only market really
+
+24:31.410 --> 24:33.960
+that the dominant two-wheeler
+
+24:33.960 --> 24:35.970
+is the heavy motorcycle overall.
+
+24:35.970 --> 24:38.040
+So it's easy to generalize
+
+24:38.040 --> 24:39.930
+about what quote unquote micromobility is.
+
+24:39.930 --> 24:41.940
+And we don't even have electric scooters on here
+
+24:41.940 --> 24:43.440
+like bird and lime,
+
+24:43.440 --> 24:47.490
+but we are grouping together a complex ecosystem
+
+24:47.490 --> 24:49.530
+of different types of vehicles,
+
+24:49.530 --> 24:52.110
+but what we are seeing is an emergence
+
+24:52.110 --> 24:53.430
+of the e-bike, right?
+
+24:53.430 --> 24:56.070
+Unlike EVs for passenger vehicles,
+
+24:56.070 --> 24:58.230
+it's almost a no brainer with the cost now
+
+24:58.230 --> 24:59.970
+in these vehicles,
+
+24:59.970 --> 25:03.570
+and that is greatly reducing emissions,
+
+25:03.570 --> 25:06.480
+tailpipe emissions, and we're seeing innovations,
+
+25:06.480 --> 25:09.870
+Gogoro is the best example potentially internationally,
+
+25:09.870 --> 25:12.870
+but not the only by any means of battery swap, right?
+
+25:12.870 --> 25:16.110
+So battery swap has been attempted a few different times
+
+25:16.110 --> 25:18.900
+over the last two decades for vehicles,
+
+25:18.900 --> 25:20.700
+I wouldn't say unsuccessfully at this point
+
+25:20.700 --> 25:23.070
+because there are VC-backed startups
+
+25:23.070 --> 25:25.740
+now like Ample that continue the fight.
+
+25:25.740 --> 25:30.740
+But for small electric vehicles, two wheelers,
+
+25:31.260 --> 25:32.370
+it makes a lot of sense, right?
+
+25:32.370 --> 25:35.400
+We can just pop up to a station, swap up the battery,
+
+25:35.400 --> 25:37.170
+two minutes later you're back in action.
+
+25:37.170 --> 25:40.530
+And as long as the consumer doesn't want to own that battery
+
+25:40.530 --> 25:42.960
+and is willing to subscribe to it on a monthly basis,
+
+25:42.960 --> 25:44.670
+I think we're gonna see more of this
+
+25:44.670 --> 25:46.920
+and we'll see more of this in the US.
+
+25:46.920 --> 25:48.393
+Aviation and space is fun.
+
+25:49.260 --> 25:52.200
+One thing I'm sure of is 20, 30 years from now,
+
+25:52.200 --> 25:54.120
+we will continue to see this footage.
+
+25:54.120 --> 25:57.750
+So this is like an iconic moment in the history of space,
+
+25:57.750 --> 26:00.600
+and it just happened in our lifetime this last year.
+
+26:00.600 --> 26:03.030
+So it was an interesting and exciting year,
+
+26:03.030 --> 26:05.880
+and we'll see more progress in terms
+
+26:05.880 --> 26:08.500
+of what SpaceX is accomplishing.
+
+26:08.500 --> 26:13.500
+TNMT is Lufthansa's innovation arm.
+
+26:13.800 --> 26:16.200
+And and they believe that in terms
+
+26:16.200 --> 26:19.200
+of the trough of disillusionment,
+
+26:19.200 --> 26:22.140
+autonomous flight and sustainable aviation fuels
+
+26:22.140 --> 26:24.690
+are past the worst of it.
+
+26:24.690 --> 26:26.670
+They believe that air ships,
+
+26:26.670 --> 26:29.310
+big like sort of zeppelins and supersonic flight
+
+26:29.310 --> 26:31.440
+may not ever make it out of the trough.
+
+26:31.440 --> 26:32.880
+And then we still have to test
+
+26:32.880 --> 26:37.880
+hydrogen electric space travel and VTOLs are at this point
+
+26:38.070 --> 26:40.140
+being tested right now.
+
+26:40.140 --> 26:42.630
+We've seen some notable bankruptcies recently
+
+26:42.630 --> 26:45.360
+and big funding frankly too for the ones
+
+26:45.360 --> 26:47.460
+that are out ahead.
+
+26:47.460 --> 26:52.460
+In terms of implications here at CES, keep an eye out,
+
+26:53.310 --> 26:55.530
+last year we saw all kinds of VTOLs, right?
+
+26:55.530 --> 26:58.440
+There was amazing from Hyundai and Honda, et cetera.
+
+26:58.440 --> 27:00.810
+Keep an eye out for the Japanese
+
+27:00.810 --> 27:03.630
+and the Korean automakers in terms of what they are
+
+27:03.630 --> 27:06.780
+or aren't interestingly exhibiting this year.
+
+27:06.780 --> 27:11.780
+And then we might be overdue for these aluminum tubes
+
+27:11.790 --> 27:15.240
+that we all got here in terms of aircraft travel
+
+27:15.240 --> 27:16.890
+because that innovation really,
+
+27:16.890 --> 27:19.440
+we haven't seen any innovation for about 50 years.
+
+27:19.440 --> 27:22.590
+So in terms of both speed of aircraft,
+
+27:22.590 --> 27:25.170
+if anything it's slower now with all of the
+
+27:25.170 --> 27:27.180
+sort of TSA regulations that we go through
+
+27:27.180 --> 27:29.280
+getting onto the plane to begin with.
+
+27:29.280 --> 27:30.900
+But the flight times haven't really changed.
+
+27:30.900 --> 27:34.800
+So we are seeing at least proposed innovations in terms
+
+27:34.800 --> 27:37.710
+of carrying more people at faster speeds
+
+27:37.710 --> 27:39.630
+and more conveniently.
+
+27:39.630 --> 27:43.518
+Hydrogen as we'll talk about in a few minutes here
+
+27:43.518 --> 27:46.470
+in terms of new technologies is being tested with aviation.
+
+27:46.470 --> 27:49.350
+But there are still challenges as there are electricity
+
+27:49.350 --> 27:52.530
+as well in terms of weight and the energy density.
+
+27:52.530 --> 27:54.060
+We're talking about potentially going
+
+27:54.060 --> 27:56.250
+to one pilot in commercial flights
+
+27:56.250 --> 28:00.060
+and enhancing the autonomy of aircraft.
+
+28:00.060 --> 28:01.290
+With aircraft and marine,
+
+28:01.290 --> 28:03.780
+it's easier because there are more tolerances
+
+28:03.780 --> 28:06.270
+believe it or not in terms of AV.
+
+28:06.270 --> 28:08.340
+You don't have vehicles driving
+
+28:08.340 --> 28:10.710
+six inches from each other on a freeway.
+
+28:10.710 --> 28:13.680
+But I think that consumers are gonna have to get comfortable
+
+28:13.680 --> 28:16.920
+with more autonomous functionality
+
+28:16.920 --> 28:20.100
+in the commercial airlines that we all fly on.
+
+28:20.100 --> 28:22.350
+And then there's talk about supersonic.
+
+28:22.350 --> 28:24.450
+So American Airlines agreed to buy 20
+
+28:24.450 --> 28:26.610
+of these supersonic airplanes if
+
+28:26.610 --> 28:28.140
+and when they ever get produced,
+
+28:28.140 --> 28:30.540
+but there will be supersonic aircraft,
+
+28:30.540 --> 28:31.560
+and then there'll be aircraft
+
+28:31.560 --> 28:34.350
+that supposedly breach the atmosphere.
+
+28:34.350 --> 28:36.570
+So you can literally land anywhere on the face
+
+28:36.570 --> 28:38.310
+of the earth within one hour
+
+28:38.310 --> 28:40.470
+because you kind of go into orbit and come back down.
+
+28:40.470 --> 28:43.620
+So it'll be interesting to see can any of us,
+
+28:43.620 --> 28:45.720
+well some in the room perhaps, maybe not me,
+
+28:45.720 --> 28:49.200
+but can you justify $30,000 a ticket
+
+28:49.200 --> 28:50.670
+or whatever it's going to be?
+
+28:50.670 --> 28:52.410
+I mean for some business travelers,
+
+28:52.410 --> 28:55.200
+if you can get a Tokyo from here in one hour,
+
+28:55.200 --> 28:56.640
+people will justify that, right?
+
+28:56.640 --> 28:59.940
+So even if these aircraft don't seat a lot of people,
+
+28:59.940 --> 29:01.920
+they may be economically viable,
+
+29:01.920 --> 29:03.990
+nothing that I'm investing in early stage
+
+29:03.990 --> 29:06.120
+because I think there'll be a lot of burnouts,
+
+29:06.120 --> 29:07.200
+but at the same time it's exciting
+
+29:07.200 --> 29:10.620
+to see if we can make pretty radical transformations
+
+29:10.620 --> 29:12.960
+in terms of the efficiency of aircraft.
+
+29:12.960 --> 29:14.040
+And then obviously,
+
+29:14.040 --> 29:17.070
+no conversation about mobility would be complete
+
+29:17.070 --> 29:18.510
+without talking about drones.
+
+29:18.510 --> 29:20.520
+And I think that if you're like me,
+
+29:20.520 --> 29:22.650
+and I expect most of you are
+
+29:22.650 --> 29:26.940
+because at least most Americans are members of Amazon Prime
+
+29:26.940 --> 29:30.390
+and we're all conditioned now to get products the same day.
+
+29:30.390 --> 29:33.600
+Now we're talking about getting products within 10 minutes
+
+29:33.600 --> 29:35.040
+for anything that's light enough
+
+29:35.040 --> 29:37.960
+and durable enough to be dropped 30 feet onto your lawn
+
+29:39.420 --> 29:41.643
+and then blown away by the current overall.
+
+29:42.763 --> 29:46.350
+All right, so marine is very interesting as well.
+
+29:46.350 --> 29:51.350
+So a lot of parallels as you'll see other than wind power
+
+29:51.557 --> 29:53.100
+and wind power coming back for some of these ships at sea
+
+29:53.100 --> 29:56.122
+to try to increase sort of like fuel efficiency.
+
+29:56.122 --> 29:58.650
+There may be like sort of the equivalent of HOV
+
+29:58.650 --> 30:02.010
+or high occupancy vehicle lanes on the seas as well.
+
+30:02.010 --> 30:06.570
+So ships that have lower CO2 emissions
+
+30:06.570 --> 30:09.600
+may get preferential treatment in terms of the channels
+
+30:09.600 --> 30:12.120
+as an incentive, kind of a carrot and stick.
+
+30:12.120 --> 30:14.760
+and then we're seeing ammonia, hydrogen,
+
+30:14.760 --> 30:17.490
+and electricity all being tested.
+
+30:17.490 --> 30:19.500
+Very early stages right now,
+
+30:19.500 --> 30:21.450
+but there is a lot of venture capital money
+
+30:21.450 --> 30:24.600
+chasing these ideas to see iF these alternative
+
+30:24.600 --> 30:26.700
+drivetrains are gonna work on the water.
+
+30:26.700 --> 30:29.190
+But as you can imagine, all of them have challenges,
+
+30:29.190 --> 30:30.720
+and then autonomous as well, right?
+
+30:30.720 --> 30:35.010
+So for some of these shipping routes that are long haul,
+
+30:35.010 --> 30:37.980
+as you can imagine, he trickle down effect of
+
+30:37.980 --> 30:41.880
+the AV technology that we see at CES in vehicles will
+
+30:41.880 --> 30:45.663
+and is trickling down to ships overall on the high seas.
+
+30:47.610 --> 30:49.530
+And then we'll transition to autonomy.
+
+30:49.530 --> 30:50.760
+So it's been an interesting year.
+
+30:50.760 --> 30:52.920
+We've seen Waymo make a lot of progress,
+
+30:52.920 --> 30:55.650
+including recently announcing that they're coming
+
+30:55.650 --> 30:58.920
+into Japan in a few years, which is very interesting too.
+
+30:58.920 --> 31:01.320
+I mean it still has been a bottomless pit
+
+31:01.320 --> 31:04.110
+of money absorption, right?
+
+31:04.110 --> 31:07.890
+And as we saw withGM GM finally said enough's enough,
+
+31:07.890 --> 31:10.770
+we're not gonna continue to pour money into this thing.
+
+31:10.770 --> 31:13.230
+They didn't kill their AV initiative,
+
+31:13.230 --> 31:15.660
+they're just gonna focus on more ADAS
+
+31:15.660 --> 31:18.150
+as opposed to robo taxis.
+
+31:18.150 --> 31:20.160
+But it was sad to see
+
+31:20.160 --> 31:22.590
+because this innovation is exciting.
+
+31:22.590 --> 31:25.140
+If you have had a chance to test it out,
+
+31:25.140 --> 31:28.025
+it's very exciting if you get a chance to.
+
+31:28.025 --> 31:30.348
+And then there will be mixed feelings
+
+31:30.348 --> 31:32.370
+and mixed reactions around Elon's announcement
+
+31:32.370 --> 31:34.020
+around the Cybercab.
+
+31:34.020 --> 31:35.280
+We'll see if he can ever actually
+
+31:35.280 --> 31:36.480
+get this thing into production,
+
+31:36.480 --> 31:39.990
+but it can't hurt to have Trump's ear to be able
+
+31:39.990 --> 31:41.460
+to sort of like potentially
+
+31:41.460 --> 31:43.440
+reduce some of the regulations
+
+31:43.440 --> 31:46.680
+against testing these things in the wild.
+
+31:46.680 --> 31:49.770
+And then we had another billion dollar investment
+
+31:49.770 --> 31:53.100
+this last year out of the UK into wave as well,
+
+31:53.100 --> 31:55.830
+which is more focused on the technology
+
+31:55.830 --> 31:57.180
+than actually putting the vehicles
+
+31:57.180 --> 31:58.530
+themselves into production.
+
+31:59.439 --> 32:01.620
+So it's always nice to dig out slides
+
+32:01.620 --> 32:03.180
+from 10 or 15 years ago.
+
+32:03.180 --> 32:06.090
+This is a slide from Morgan Stanley back in 2012,
+
+32:06.090 --> 32:09.240
+and they were extrapolating out the timeline
+
+32:09.240 --> 32:11.130
+for full autonomous on roads.
+
+32:11.130 --> 32:12.750
+And you can see here by about this time,
+
+32:12.750 --> 32:15.150
+we were expected to have 100% penetration.
+
+32:15.150 --> 32:16.830
+All the passenger vehicles on the roads
+
+32:16.830 --> 32:18.180
+were gonna be fully autonomous
+
+32:18.180 --> 32:20.640
+and it was gonna cause all these disruptive effects.
+
+32:20.640 --> 32:22.500
+I'm gonna pull out another slide in a minute
+
+32:22.500 --> 32:25.005
+to show because now that we're actually starting
+
+32:25.005 --> 32:28.290
+to see here, 10, 15 years down the road,
+
+32:28.290 --> 32:32.160
+some traction around autonomous vehicles finally,
+
+32:32.160 --> 32:35.070
+these implications that we talked about 10 or 15 years ago
+
+32:35.070 --> 32:37.680
+may ultimately start to manifest themselves.
+
+32:37.680 --> 32:38.820
+Interestingly enough,
+
+32:38.820 --> 32:41.670
+a slide from Q4 last year from Goldman Sachs
+
+32:41.670 --> 32:46.670
+looked at projected penetration by country,
+
+32:47.040 --> 32:48.870
+by country in terms of AV.
+
+32:48.870 --> 32:50.250
+Now it's a bit of a cop up
+
+32:50.250 --> 32:53.400
+because they include levels three, four, and five,
+
+32:53.400 --> 32:55.020
+not just levels four and five,
+
+32:55.020 --> 32:57.390
+but they're projecting by 2040
+
+32:57.390 --> 33:01.290
+that China will be at 90% penetration
+
+33:01.290 --> 33:04.800
+for new vehicles in terms of fully autonomous.
+
+33:04.800 --> 33:08.100
+Europe, not too far behind, the US is 65%.
+
+33:08.100 --> 33:09.900
+India much further down,
+
+33:09.900 --> 33:11.820
+but still making some traction as well.
+
+33:11.820 --> 33:14.220
+So we'll talk a little bit about the puts
+
+33:14.220 --> 33:16.140
+and takes that have to happen here.
+
+33:16.140 --> 33:18.510
+But it's interesting for them to go out,
+
+33:18.510 --> 33:20.250
+especially juxtapose against that last slide
+
+33:20.250 --> 33:21.420
+by Morgan Stanley.
+
+33:21.420 --> 33:23.580
+They're reaching out to 2040
+
+33:23.580 --> 33:26.523
+to predict really high adoption rates for AV.
+
+33:27.390 --> 33:30.240
+Our friends at Roland Berger, a couple slides from them,
+
+33:30.240 --> 33:32.640
+there are challenges for autonomous vehicles, right?
+
+33:32.640 --> 33:36.690
+There's the technology itself, there's the economic case,
+
+33:36.690 --> 33:38.370
+because right now as I'm about to show you
+
+33:38.370 --> 33:40.200
+with the slide from McKinsey,
+
+33:40.200 --> 33:45.200
+it's much more expensive per mile to deliver a Waymo mile
+
+33:45.450 --> 33:47.250
+than it is just in a regular Uber.
+
+33:47.250 --> 33:48.660
+There's customer acceptance overall.
+
+33:48.660 --> 33:50.730
+Will customers feel safe in these things
+
+33:50.730 --> 33:52.050
+because a lot of people don't yet.
+
+33:52.050 --> 33:54.180
+There's regulatory complexity
+
+33:54.180 --> 33:56.160
+and then there's the capital to fund these things
+
+33:56.160 --> 33:58.650
+because it's clearly not a cheap endeavor.
+
+33:58.650 --> 34:01.590
+And if you draw your attention just down to the lower right,
+
+34:01.590 --> 34:04.500
+I mean, Roland Berger by 2040 believes
+
+34:04.500 --> 34:07.890
+that we'll get strong progress towards consumers
+
+34:07.890 --> 34:09.180
+trusting these things.
+
+34:09.180 --> 34:12.093
+Remember this is now 15 years from now,
+
+34:13.000 --> 34:14.820
+and the legal implications as well,
+
+34:14.820 --> 34:16.800
+the legal hurdles that are gonna be out there,
+
+34:16.800 --> 34:18.120
+but they're not as confident
+
+34:18.120 --> 34:20.160
+around these other areas of autonomy.
+
+34:20.160 --> 34:21.750
+So we've got, at least in the US
+
+34:21.750 --> 34:24.200
+from a western standpoint, we've got a bit to go.
+
+34:25.140 --> 34:27.900
+But there's no doubt that autonomy
+
+34:27.900 --> 34:30.210
+should theoretically save lives.
+
+34:30.210 --> 34:34.140
+In the US, we had 42,000 deaths for the last couple
+
+34:34.140 --> 34:37.440
+of years in the US from traffic fatalities.
+
+34:37.440 --> 34:42.440
+Globally, that number is 1.2, 1.3 million deaths globally.
+
+34:42.540 --> 34:44.520
+And I don't think there's any arguing
+
+34:44.520 --> 34:47.490
+that if we binary flipped over to fully autonomous,
+
+34:47.490 --> 34:48.480
+there'd be fewer deaths.
+
+34:48.480 --> 34:50.010
+We'd have all kinds of other issues,
+
+34:50.010 --> 34:54.090
+but there'd be fewer deaths from human error in fatalities.
+
+34:54.090 --> 34:58.110
+Whether that's from people not paying attention,
+
+34:58.110 --> 35:00.960
+being distracted, alcohol, what have you.
+
+35:00.960 --> 35:03.030
+So the thesis is strong.
+
+35:03.030 --> 35:06.030
+How we get there on this journey is not so clear.
+
+35:06.030 --> 35:07.230
+But I would just encourage us
+
+35:07.230 --> 35:09.630
+to not let the perfect be the enemy of the good.
+
+35:09.630 --> 35:12.120
+We need to continue to fund these initiatives
+
+35:12.120 --> 35:15.510
+and push forward through a lot of these resistors
+
+35:15.510 --> 35:17.970
+because I think that the savings,
+
+35:17.970 --> 35:21.150
+net savings of human life will make it all worthwhile.
+
+35:21.150 --> 35:24.480
+I believe Uber's whole business model to begin with.
+
+35:24.480 --> 35:27.240
+Again, remember back to that 2012 slide
+
+35:27.240 --> 35:29.790
+from Morgan Stanley was that we were on the precipice
+
+35:29.790 --> 35:32.700
+of having full autonomy which would dramatically drive down
+
+35:32.700 --> 35:37.700
+the cost per mile for human delivery, these vehicles.
+
+35:38.280 --> 35:41.650
+Uber burned a collective 31 and a half billion dollars
+
+35:42.630 --> 35:46.260
+into 2023, 10 years later.
+
+35:46.260 --> 35:50.340
+But they've made profitable quarters the last four quarters,
+
+35:50.340 --> 35:51.810
+and this will flip dramatically
+
+35:51.810 --> 35:53.970
+if they are able to co-opt Waymo
+
+35:53.970 --> 35:55.710
+and start to provide rides
+
+35:55.710 --> 35:59.010
+that don't have the human drag of costs.
+
+35:59.010 --> 36:01.320
+And as I said earlier, McKinsey recently,
+
+36:01.320 --> 36:04.200
+this is in the last month, quantified the current cost
+
+36:04.200 --> 36:08.730
+per mile for an autonomous mile driven is $8 US.
+
+36:08.730 --> 36:10.320
+But they believe that at scale,
+
+36:10.320 --> 36:13.080
+pretty massive scale as you unpack this, but at scale,
+
+36:13.080 --> 36:17.940
+that should reduce down to $1.32 per mile by 2035.
+
+36:17.940 --> 36:21.690
+So this dramatic uptake
+
+36:21.690 --> 36:25.320
+or reduction in cost per mile could flip the economics
+
+36:25.320 --> 36:26.790
+of a whole bunch of different business models,
+
+36:26.790 --> 36:28.320
+including Uber.
+
+36:28.320 --> 36:31.290
+And then a slide also I pulled out from about 10 years ago,
+
+36:31.290 --> 36:33.090
+which is downstream,
+
+36:33.090 --> 36:36.060
+which industries will be impacted the most
+
+36:36.060 --> 36:38.220
+if we do go get to a full autonomy future,
+
+36:38.220 --> 36:39.960
+the ones I'll draw your attention to
+
+36:39.960 --> 36:42.630
+in the upper right hand corner is auto insurance
+
+36:42.630 --> 36:45.570
+because the cars are safe and no longer have accidents.
+
+36:45.570 --> 36:48.870
+The health car system, at 42,000 fewer deaths a year,
+
+36:48.870 --> 36:51.120
+there'll be a definite impact on the healthcare system
+
+36:51.120 --> 36:53.070
+and then parking overall as well.
+
+36:53.070 --> 36:54.840
+We won't need to park if we can just
+
+36:54.840 --> 36:57.774
+summon these vehicles and they're fully autonomous.
+
+36:57.774 --> 36:59.250
+So I'm gonna need to move ahead here
+
+36:59.250 --> 37:00.780
+because I've got only a couple minutes left.
+
+37:00.780 --> 37:05.130
+So let me move to industrial tech.
+
+37:05.130 --> 37:06.600
+So it's great to go down
+
+37:06.600 --> 37:08.370
+and see these big earth mover machines
+
+37:08.370 --> 37:10.860
+on the show floor, which is really cool.
+
+37:10.860 --> 37:13.530
+Just like aviation and marine,
+
+37:13.530 --> 37:15.150
+there are fewer restrictions, right?
+
+37:15.150 --> 37:18.360
+You've got mining agriculture on fixed routes
+
+37:18.360 --> 37:20.460
+where you don't have humans walking around.
+
+37:20.460 --> 37:22.770
+So autonomous and electrification
+
+37:22.770 --> 37:24.210
+can be much more prevalent.
+
+37:24.210 --> 37:26.220
+So keep an eye out for this on the show floor.
+
+37:26.220 --> 37:27.620
+We're seeing this in farming
+
+37:28.530 --> 37:30.495
+with self-driving tractors and electrification,
+
+37:30.495 --> 37:32.250
+which is very interesting as well.
+
+37:32.250 --> 37:35.490
+New technologies, I think we've talked about most of this.
+
+37:35.490 --> 37:36.690
+The growth,
+
+37:36.690 --> 37:39.870
+the expected growth in lithium ion batteries is growing
+
+37:39.870 --> 37:43.710
+sort of exponentially, largely dominated by the Chinese,
+
+37:43.710 --> 37:46.890
+not exclusively, but the Asian manufacturers
+
+37:46.890 --> 37:50.310
+including Korea and Japan dominate battery production
+
+37:50.310 --> 37:53.670
+and the cost luckily is coming down pretty dramatically.
+
+37:53.670 --> 37:57.030
+Yet, if you look at sort of the density versus cost
+
+37:57.030 --> 37:58.410
+as we talked about earlier,
+
+37:58.410 --> 38:00.540
+aviation kerosene and gasoline
+
+38:00.540 --> 38:02.610
+just provides a lot more power per unit
+
+38:02.610 --> 38:05.850
+of weight than batteries on the bottom here.
+
+38:05.850 --> 38:10.230
+And until we get more energy per unit of weight,
+
+38:10.230 --> 38:13.740
+we're not realistically gonna be having airplanes powered
+
+38:13.740 --> 38:15.450
+by batteries anytime soon.
+
+38:15.450 --> 38:18.963
+And there are big implications on ships as well.
+
+38:19.920 --> 38:21.840
+There's a lot of talk, buzz,
+
+38:21.840 --> 38:24.450
+and you'll see here about solid state batteries overall.
+
+38:24.450 --> 38:26.440
+The challenge with solid state is that
+
+38:27.360 --> 38:30.240
+there are higher costs of production,
+
+38:30.240 --> 38:33.690
+there is dendrite formation as well,
+
+38:33.690 --> 38:35.880
+and then there's higher dependence on lithium,
+
+38:35.880 --> 38:37.710
+which is one thing we'd like to get away from
+
+38:37.710 --> 38:38.910
+as much as possible.
+
+38:38.910 --> 38:42.030
+And then I talked about inductive charging as well,
+
+38:42.030 --> 38:43.980
+be it over a parking spot
+
+38:43.980 --> 38:46.260
+when the car is stationary or in motion.
+
+38:46.260 --> 38:48.960
+I think that our grandchildren will look back
+
+38:48.960 --> 38:51.780
+at the fact that we had to plug a wire into the side
+
+38:51.780 --> 38:54.060
+of an electric vehicle as being similar
+
+38:54.060 --> 38:55.770
+to a rotary phone, right?
+
+38:55.770 --> 38:56.970
+It just won't compute, it'll be like,
+
+38:56.970 --> 38:58.440
+why did you have to do that?
+
+38:58.440 --> 39:01.248
+Because there will be inductive charging that's ubiquitous.
+
+39:01.248 --> 39:04.470
+This will take the edge off of a lot
+
+39:04.470 --> 39:06.840
+of the resistance towards EVs.
+
+39:06.840 --> 39:09.270
+So circling back to the beginning,
+
+39:09.270 --> 39:11.610
+how does the US position themselves to win?
+
+39:11.610 --> 39:13.920
+A lot of folks are speculating to dominate
+
+39:13.920 --> 39:17.430
+around solid state batteries if that's the future.
+
+39:17.430 --> 39:19.770
+Luckily enough, we've had some really big discoveries
+
+39:19.770 --> 39:22.200
+both in Nevada and down in Arkansas recently
+
+39:22.200 --> 39:23.340
+in terms of lithium
+
+39:23.340 --> 39:26.550
+to get energy independence in terms of the supply chain.
+
+39:26.550 --> 39:28.380
+And then there's recycling as well.
+
+39:28.380 --> 39:31.470
+So there's been a lot of VC money focused on recycling.
+
+39:31.470 --> 39:34.020
+But once there's enough EVs in population,
+
+39:34.020 --> 39:35.850
+if we're really efficient with extracting
+
+39:35.850 --> 39:39.360
+at the end of life these raw components out of the vehicles,
+
+39:39.360 --> 39:42.600
+then you can imagine this circular sort of economy
+
+39:42.600 --> 39:46.110
+of making sure that we are fairly energy independent.
+
+39:46.110 --> 39:46.943
+So I didn't have a chance
+
+39:46.943 --> 39:48.300
+to talk a lot about hydrogen today.
+
+39:48.300 --> 39:50.460
+Hydrogen has its own issues, right?
+
+39:50.460 --> 39:54.060
+The nice thing is it's abundant, but at the same time,
+
+39:54.060 --> 39:57.810
+it allows fast refueling unlike charging right now,
+
+39:57.810 --> 40:01.129
+the challenge is that it takes a lot of electricity, right?
+
+40:01.129 --> 40:05.280
+So to produce hydrogen, you really need to have abundant
+
+40:05.280 --> 40:08.774
+and cheap electricity, which renewables should provide,
+
+40:08.774 --> 40:10.320
+but you still have to worry
+
+40:10.320 --> 40:12.780
+about the infrastructure overall.
+
+40:12.780 --> 40:15.660
+Getting the hydrogen to the vehicles
+
+40:15.660 --> 40:17.433
+that need the hydrogen overall.
+
+40:19.380 --> 40:21.180
+All right, cool, so let me go through here
+
+40:21.180 --> 40:23.370
+because I am at time and Chris is gonna ask me off here.
+
+40:23.370 --> 40:28.370
+Let's wrap this up by looking at one, the supply chain.
+
+40:29.220 --> 40:31.260
+Amazon is talking very aggressively
+
+40:31.260 --> 40:35.403
+around replacing humans in their warehouses with robotics.
+
+40:36.690 --> 40:39.990
+Kathy Wood from ARK Invest says that
+
+40:39.990 --> 40:44.130
+Amazon's robots could outnumber humans within seven years.
+
+40:44.130 --> 40:45.990
+And then we're seeing evidence of this,
+
+40:45.990 --> 40:48.060
+just recently Denso said that they're going
+
+40:48.060 --> 40:53.060
+to build a worker less factory for Toyota overall.
+
+40:53.430 --> 40:55.770
+And then one of the most interesting things
+
+40:55.770 --> 40:57.600
+that we've seen over the last couple of years
+
+40:57.600 --> 41:00.870
+with both the Israeli conflict as well as Ukraine
+
+41:00.870 --> 41:05.870
+is really the rise of AI and drones within warfare overall.
+
+41:06.780 --> 41:09.210
+So this was an article of the Atlantic recently
+
+41:09.210 --> 41:11.640
+that said the waves of innovation
+
+41:11.640 --> 41:15.450
+for warfare have been, one gunpowder, two, nuclear weapons,
+
+41:15.450 --> 41:17.370
+and the next is AI.
+
+41:17.370 --> 41:20.130
+And there will be a lot of ethical issues that we all have
+
+41:20.130 --> 41:22.440
+to face with how much we're gonna allow
+
+41:22.440 --> 41:24.813
+automated machines to kill humans.
+
+41:26.490 --> 41:30.270
+This is gonna happen at the police department level overall.
+
+41:30.270 --> 41:34.320
+Drones are being very effectively used in Ukraine right now
+
+41:34.320 --> 41:36.600
+to neutralize Russian tanks,
+
+41:36.600 --> 41:38.970
+and Boston Dynamics did come out
+
+41:38.970 --> 41:42.450
+and say our robot dogs will not be armed,
+
+41:42.450 --> 41:47.370
+yet not every military vendor has the same sort of locus.
+
+41:47.370 --> 41:51.030
+And we've seen robot dogs being equipped
+
+41:51.030 --> 41:55.315
+to protect borders, to go into battlefields, et cetera.
+
+41:55.315 --> 42:00.315
+Autonomous tank-like vehicles going into battle as well.
+
+42:00.510 --> 42:04.080
+We're talking about autonomous boats for the US Navy,
+
+42:04.080 --> 42:07.200
+and then there'll be drones both underwater
+
+42:07.200 --> 42:08.880
+to attack subs potentially
+
+42:08.880 --> 42:11.550
+and boats in the military as well
+
+42:11.550 --> 42:14.670
+as the US Navy is experimenting with drones,
+
+42:14.670 --> 42:18.810
+non-human guided drones off of aircraft carriers
+
+42:18.810 --> 42:20.730
+that can go run sorties and then come back
+
+42:20.730 --> 42:22.050
+and land on aircraft carriers.
+
+42:22.050 --> 42:25.110
+And the US military, this may change under Trump,
+
+42:25.110 --> 42:26.910
+has proclaimed that by 2050,
+
+42:26.910 --> 42:28.770
+they want to be net zero and go electric,
+
+42:28.770 --> 42:30.720
+which has a lot of implications for
+
+42:30.720 --> 42:32.910
+how we're gonna be able to deploy vehicles
+
+42:32.910 --> 42:35.640
+into the field of battle that are electric.
+
+42:35.640 --> 42:37.470
+So let me wrap with climate overall.
+
+42:37.470 --> 42:39.000
+So maybe I should have started here,
+
+42:39.000 --> 42:40.650
+but maybe to dull the edge,
+
+42:40.650 --> 42:42.270
+we can talk about the implications
+
+42:42.270 --> 42:45.060
+for connecting mobility to climate overall.
+
+42:45.060 --> 42:48.330
+So there will be folks
+
+42:48.330 --> 42:49.830
+that have different perspectives here,
+
+42:49.830 --> 42:51.120
+I'll leave it as that.
+
+42:51.120 --> 42:54.180
+But from the time that we are able to measure,
+
+42:54.180 --> 42:56.790
+CO2 levels in the atmosphere are dramatically higher
+
+42:56.790 --> 42:58.110
+than they've ever been.
+
+42:58.110 --> 43:02.730
+We are facing warming climates around the world as well,
+
+43:02.730 --> 43:04.560
+which are escalating and accelerating.
+
+43:04.560 --> 43:07.290
+This trend is not a good trend, to state the obvious.
+
+43:07.290 --> 43:10.260
+And mobility plays a very large role in this, right?
+
+43:10.260 --> 43:14.673
+So we look at aircraft, how most of us got here,
+
+43:15.600 --> 43:16.890
+as well as passenger vehicles
+
+43:16.890 --> 43:21.303
+that have single occupancy if they're emitting petroleum,
+
+43:22.380 --> 43:25.290
+and there are levers to decarbonize aviation
+
+43:25.290 --> 43:27.510
+that are being pushed on at this point.
+
+43:27.510 --> 43:29.100
+The good thing this is McKinsey
+
+43:29.100 --> 43:30.660
+and company as well looking at,
+
+43:30.660 --> 43:34.740
+we may have or are experiencing peak emissions now,
+
+43:34.740 --> 43:36.870
+and so we should be able to start
+
+43:36.870 --> 43:39.450
+to heal the damage that's been done overall,
+
+43:39.450 --> 43:40.890
+but not through,
+
+43:40.890 --> 43:43.650
+we need to continue to push on these things.
+
+43:43.650 --> 43:45.240
+And then the good thing in terms
+
+43:45.240 --> 43:48.170
+of maybe a couple of feel good slides is 45%
+
+43:48.170 --> 43:50.520
+of all energy now globally
+
+43:50.520 --> 43:52.530
+is being produced through renewables.
+
+43:52.530 --> 43:55.650
+And if you look at the breaking that down,
+
+43:55.650 --> 43:59.820
+we're seeing a real acceleration in solar recently
+
+43:59.820 --> 44:01.140
+as well as wind.
+
+44:01.140 --> 44:02.550
+And if you look at solar now,
+
+44:02.550 --> 44:04.890
+this is the International Energy Agency
+
+44:04.890 --> 44:07.350
+that believes by 26, 27,
+
+44:07.350 --> 44:11.370
+solar will be generating more energy globally
+
+44:11.370 --> 44:14.763
+than anything else, including coal and natural gas.
+
+44:15.750 --> 44:19.800
+And then there are some more radical technologies
+
+44:19.800 --> 44:23.520
+that are being tested right now to increase cloud cover
+
+44:23.520 --> 44:26.970
+to protect the earth from the sun penetrating,
+
+44:26.970 --> 44:29.940
+including aerosol injection into the clouds,
+
+44:29.940 --> 44:32.340
+cloud brightening from the marine standpoint
+
+44:32.340 --> 44:34.350
+that we've seen on the west coast,
+
+44:34.350 --> 44:39.120
+and then adding alkalinity to the seas as well
+
+44:39.120 --> 44:42.570
+to neutralize and bring down the pH.
+
+44:42.570 --> 44:44.010
+And there's carbon capture as well.
+
+44:44.010 --> 44:46.620
+So let me wrap here, so we are investors,
+
+44:46.620 --> 44:49.020
+we're looking at the lens of all of these changes
+
+44:49.020 --> 44:51.330
+and then trying to deploy 10 year funds
+
+44:51.330 --> 44:55.290
+against these changes and find really talented entrepreneurs
+
+44:55.290 --> 44:57.930
+who are innovating in these spaces overall.
+
+44:57.930 --> 45:00.120
+And our investment thesis,
+
+45:00.120 --> 45:01.650
+that was the one slide where the font
+
+45:01.650 --> 45:04.290
+got corrupted a little bit, I can share this with you,
+
+45:04.290 --> 45:05.520
+happy to have these conversations about
+
+45:05.520 --> 45:07.710
+where we're seeing innovation, et cetera.
+
+45:07.710 --> 45:09.840
+One of the reasons I'm here is to walk the floor
+
+45:09.840 --> 45:11.640
+and see if there are entrepreneurs
+
+45:11.640 --> 45:14.400
+that are investible out there.
+
+45:14.400 --> 45:16.200
+The last slide that I'll leave you on here,
+
+45:16.200 --> 45:18.960
+this slide came up in the last month.
+
+45:18.960 --> 45:20.133
+This is Oliver Wyman.
+
+45:21.150 --> 45:22.170
+A lot of information on here,
+
+45:22.170 --> 45:24.810
+but these are these different areas of mobility
+
+45:24.810 --> 45:26.790
+and where they expect the quote unquote
+
+45:26.790 --> 45:30.188
+profit pools or revenue's gonna come from
+
+45:30.188 --> 45:32.520
+between now and 2035.
+
+45:32.520 --> 45:35.640
+So the green colored bars are
+
+45:35.640 --> 45:39.210
+expected 2035 revenue from these areas.
+
+45:39.210 --> 45:40.223
+And if you kind of squint at it,
+
+45:40.223 --> 45:43.170
+you see the big areas are, in the upper right hand corner,
+
+45:43.170 --> 45:45.813
+air taxis, just below that, micromobility.
+
+45:46.800 --> 45:50.280
+In the middle at the bottom, you see ADAS systems overall,
+
+45:50.280 --> 45:52.020
+with all that's going on in autonomy,
+
+45:52.020 --> 45:54.090
+autonomy's time seems to have come.
+
+45:54.090 --> 45:56.670
+In-vehicle digital services and unlocking that
+
+45:56.670 --> 45:58.050
+and having consumers pay.
+
+45:58.050 --> 45:59.160
+And then on the left hand side,
+
+45:59.160 --> 46:01.053
+you got car rental and ride hailing.
+
+46:02.130 --> 46:04.290
+So with that, Chris, I guess one shout out
+
+46:04.290 --> 46:06.990
+for one of our companies that's on the floor,
+
+46:06.990 --> 46:11.990
+if you haven't seen Kinetic do a robotic ADAS calibration,
+
+46:13.470 --> 46:15.663
+they're actually down on the floor.
+
+46:15.663 --> 46:18.510
+So you can see them in the West Hall, drop by and see them.
+
+46:18.510 --> 46:20.610
+I'll be hanging out with them quite a bit at a time.
+
+46:20.610 --> 46:22.590
+And with that we'll stop, and Chris,
+
+46:22.590 --> 46:23.423
+I don't know if we have time
+
+46:23.423 --> 46:24.980
+for questions or we have to break.
+
+46:25.890 --> 46:27.060
+I'm getting this.
+
+46:27.060 --> 46:28.980
+All right, good. If you have questions, come by and see me.
+
+46:28.980 --> 46:31.773
+But thank you very much and have a great show.
+
+46:33.267 --> 46:35.850
+(upbeat music)
+

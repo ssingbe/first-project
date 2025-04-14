@@ -1,0 +1,785 @@
+<v ->So, welcome to today's session</v>
+on Automotive Cybersecurity Revs Up.
+I think I see a lot of faces, so thank you for joining.
+Good morning to all of you.
+So, I would be the moderator.
+My name is Debasish, so you can call me Deba.
+Just a brief introduction about me.
+I am joining from Wipro.
+I had automotive practice
+within Wipro's engineering edge business line.
+Also, I'm the distinguished member within Wipro
+for my two and a half decade contribution in mobility
+and the automotive space.
+So, friends, as we are stepping
+into the new era of connected vehicle,
+and as you know, software is hitting the world syndrome,
+is now a stark reality in automotive industry.
+We are seeing a numerous cybersecurity
+and privacy challenges.
+So, we are fortunate
+to have three eminent leader from industry leaders.
+They would enlighten us with their deep insight
+on how to combat with these challenges.
+They would explain us the engineering approach,
+standardization, regulation,
+innovation happening in this space.
+Without any further ado,
+let me welcome our distinguished panelists.
+Let us start with Cindy Warner.
+She joined from 360ofme. She's the co-founder and CEO.
+So, let us hear more from her.
+<v ->Thanks, Deba,</v>
+and thanks everybody for coming early session.
+Lots of things going on last night,
+so thank you for being here.
+I'm Cindy Warner, as Deba said.
+I'm the founder and CEO of 360ofme, a data privacy company.
+We provide a data privacy layer that is industry-agnostic
+and also tech stack-agnostic.
+Prior to being the founder of this company,
+I spent four decades
+as a partner in Big 4 consulting,
+doing systems consulting work.
+I'm an architect, systems architect by trade,
+but I've done hundreds
+and hundreds of global 1,000 systems implementation.
+So, I hail from a deep technology background,
+and really appreciative of being on the panel,
+so thank you.
+<v ->Thank you.</v>
+Next, I think we will go with John.
+John joined us from Eaton
+and he is chair of multiple standardization body,
+so let's hear more from him, so we can really understand
+what guidance he has for all of you.
+<v ->Yeah, good morning, everyone. Pleasure to be here.</v>
+A little bit of background on myself
+and first of all,
+the functional excellence lead in product, cybersecurity,
+and functional safety at Eaton Corporation.
+And then, as far as giving you a little bit
+of background in my experience, I've been involved
+with cybersecurity all the way from medical devices,
+a vital signs monitoring system, both the embedded device
+in the server side system through telematics,
+through all the way
+to autonomous vehicle systems, infotainment systems,
+and various applications within automotive.
+So, one of the areas I specialize in
+is the intersection of functional safety and cybersecurity.
+And I'm currently chair, as he mentioned,
+of the vehicle cybersecurity systems
+engineering committee at SAE.
+That also makes me co-convener
+with ISO on joint working group efforts between ISO
+and SAE and automotive cybersecurity.
+That would include
+the automotive cybersecurity standard, ISO/SAE 21434.
+Road vehicles is titled,
+Road Vehicle Cybersecurity Engineering.
+And I'm also involved in subsequent efforts in that area,
+which hopefully we'll get a chance to talk about.
+<v ->Thank you, John.</v>
+Next but not last, but not the least,
+I think we would like to welcome Jurgen Mueller.
+He joined us from IAV
+and he has a deep insight
+on end-to-end cybersecurity for connected vehicle.
+Let's hear more from him. Jurgen?
+<v ->Yes. Thank you.</v>
+Very warm welcome from my side as well.
+And I must admit, so cybersecurity must be a topic,
+otherwise not so many people would be here
+at nine o'clock at Las Vegas, so thank you for that.
+Yes.
+So, I started my career actually in life science,
+not in automotive.
+And so, I basically learned
+what safety is, functional safety is.
+And when I stepped into the automotive world,
+so I was socialized in the others world
+and there I learned that it's difficult to maintain
+or achieve functional safety without security,
+especially in a connected vehicle.
+And therefore, so I really gained a lot of experience
+in developing E/E architectures and platforms including HPC,
+so high performance computing.
+And so, we had to deal a lot with security.
+And one of the really hard lessons
+was so as if you don't do it from the beginning.
+So, it's very difficult in the very end.
+So, the one of the...
+John is laughing, yeah.
+So, it's one of the key experiences was,
+so do you develop a product without security,
+and then at a certain point, you decide to be secure,
+and then you switch on security and nothing is working.
+So, we learned the hard way in short words.
+And now, I'm at IAV and I'm responsible for a division,
+it's called connected software services.
+And basically, so we take care
+of the main technology pillars of the SDV
+and cybersecurity is one of them.
+<v ->Great.</v>
+I think we are now, we know all of us.
+So, my first question,
+I think I will take the cue from Jurgen,
+first question to you.
+As we are moving to these,
+vehicles are becoming always connected.
+And mask skills software registration is taking place
+as you explained in your experience as well.
+I would like to know
+what it means to the automotive cybersecurity.
+That is the first question.
+And the second question is,
+how do you think that auto manufacturers
+are gearing towards these challenges?
+<v ->Yes, so certainly, so the always connected vehicles</v>
+and the integration of software from multiple sources
+will have an effect
+in which transform the security landscape
+of the car manufacturers.
+The connectivity or the communication
+introduces a lot of numerous tech vectors
+and the integration of third party software
+from different sources of course increases that as well.
+We don't think so far that open source is a risk.
+So, we believe it's more an opportunity
+because of its transparency.
+And this transparency
+allows basically global developer communities
+to constantly or continuously innovate
+and improve those software.
+And that mean will result in better security
+and better functionality.
+But so, it's probably John is well-aware of that.
+So, the society or the legislations are already in place
+to issue regulations and standards to basically establish
+what we call a unified security foundation,
+and then ensure that the car manufacturers
+incorporate comprehensive security measures
+in the development processes.
+And technically, the car manufacturers
+are incorporating security measures now
+on an end-to-end scale actually
+to protect the entire vehicle ecosystem.
+And so, parts of that are of course encryption methods,
+introducing secure communication protocols,
+and not to forget all kinds of monitoring actually.
+And for us, so this is one thing
+where cybersecurity agility, as we call it, comes into play,
+because it gives you the ability to modify
+and optimize your current product in the field.
+And so, it means you can change the software architecture
+which is necessary then to react and minimize,
+to react on threats
+or to minimize the possibility of threats.
+And one part of it,
+and that is probably very important in the next 5
+to 10 years is what we call crypto-agility.
+And that means that we keep the crypto components,
+the crypto methods up-to-date,
+especially if we introduce quantum computers.
+So, quantum computers have the potential to really hack
+or break the current crypto methods.
+And so, the car makers really invest
+in what we call post-quantum cryptography
+to be future future-proof.
+And there's one thing which is not so obvious
+and that is what most
+of the car manufacturers already implement as well.
+And that is a centralized software management
+in order to streamline updates
+and to maintain control over software versions in the field.
+And that is of course ensuring that the improving security,
+but on the other side,
+it's improving consistent performance
+and availability as well.
+And in the very end, it probably saves costs as well.
+So, in summary, the industry is well-aware of that
+and is evolving to meet the challenges.
+So, by really introducing being compliant with standards,
+so UNECE 5156 and the ISO 21434.
+And on the other side, embracing cybersecurity agility
+to really maintain a secure product of our lifetime.
+<v ->Yeah, just to continue what Jurgen explained.</v>
+So, it is understood that cybersecurity
+need to be considered at every point
+in the vehicle development lifecycle.
+As we have John who has been the chair of SAE
+and also the co-convener of ISO
+and the standardization bodies.
+So, I would like to request John
+to give us his insight on the standardization,
+what the rational
+and what is the potential benefit
+we can get if we follow this.
+And also,
+I would like to add one more question to you, John,
+is if I look at from the end user's point of view,
+from the end user's point of view,
+what must follow to protect their future?
+<v ->Yeah, well, first of all,</v>
+fundamentally as Jurgen had mentioned,
+what should be done by both OEMs, tier ones,
+everyone in the supply chain,
+everyone involved in automotive cybersecurity
+is the application of the ISO/SAE 21434.
+Again, cybersecurity engineering.
+And note, it says cybersecurity engineering.
+He brought up many great points
+and one of 'em being, it's not a bolt-on.
+Cybersecurity is an engineering discipline.
+So, it's very complicated
+and evolves everything from systems
+to software, to hardware, you name it.
+So, 21434.
+One of the benefits of following it
+is it helps promote consistency throughout the life cycle
+and conscious decision making.
+So, it helps you both assess and manage cybersecurity risk.
+So, what I tell people is, they say,
+hey, John, should I do X in cybersecurity?
+Whatever that may be.
+And my first answer is, well,
+did you do a risk assessment on it,
+or in 21434 terms, a threat analysis and risk assessment.
+It ultimately helps you decide
+if a threat scenario were to be encountered,
+what is the associated impact?
+What would happen and what is the feasibility?
+So, following 21434 is fundamental.
+Procedurally, it's ultimately the foundation
+and it's all the way from throughout the entire life cycle,
+from concept phase, all the way through decommissioning.
+So, whether you're dealing with vulnerabilities
+in the middle of the life cycle,
+whatever, it's throughout the entire life cycle.
+Now, that's talking about it procedurally process-wise.
+Then, we of course have to understand
+that well, there's a technical aspect too,
+and one of the reasons we did not get
+into the technical aspects of 21434
+is because whatever we publish
+could be obsolete three months later.
+So, it's gotta be a framework
+that's gonna be stand the test of time.
+So, from a technical perspective,
+you need to, as an organization,
+be very careful in your technical implementation.
+So, you would use things
+such as SAE best practices and standards.
+There's best practices in terms of test methodologies.
+Also, J3101 for hardware-protected security.
+What type of features should be available in your hardware?
+As I indicate, software cannot protect software.
+It's gotta be founded in hardware.
+So, how do you actually have a good design
+that's gonna stand the test of time?
+So, leveraging NIST Special Publications,
+special publications that actually deal
+with secure development lifecycle and cryptography.
+So, you properly apply cryptography.
+Like one of the mistakes that can occur
+is you've applied cryptography,
+but you have an error in implementation.
+So, that is a threat vector that can be used.
+It actually can make your system quite weak
+if you have a flaw in implementation.
+So, carefully following NIST Special Publications
+or other publications like that.
+And then, another aspect that's also important
+is staying up-to-date on cybersecurity.
+Unfortunately, what we released today,
+one of the things, if you've never gone to a DEF CON
+or any cybersecurity conference, I highly recommend it.
+You will walk out paranoid.
+And it's actually, I think it's a good thing,
+because I've actually got a podcast
+that I call "Healthy Paranoia".
+I think it's very good for both end users
+and engineers to have a sense of paranoia,
+to a certain extent,
+to help you keep you on your edge.
+So, you have to stay up-to-date
+with threat intelligence information,
+what's happening out in the field,
+what is happening, what are researchers doing
+to understand the current threat landscape.
+So, organizations like the Automotive ISAC,
+that stands for the Information Sharing and Analysis Center.
+Participating in that, participating in hacking conferences.
+And ultimately having that healthy sense of paranoia.
+Now, going to your last question
+from an end user perspective,
+it really boils down to the typical normal practices.
+If there's a patch, apply it, don't wait.
+That patch could have critical cybersecurity vulnerabilities
+that are addressed.
+So, I know it's all of us have a tendency, well, I'm busy,
+I'm not gonna apply the patch.
+<v ->Yeah.</v>
+<v ->Patch early and often.</v>
+If there's a patch, apply it, do not wait.
+And typical cybersecurity best practices,
+good passwords, don't use 1234,
+or something silly like that.
+Basically, basic cyber hygiene is very important.
+Another aspect that is important
+not only to basic cyber hygiene,
+but being very careful
+as to what you're allowing to be connected to your system.
+So, yes, your car can be connected
+to everything under the sun,
+but remember that when you do connect your car
+to everything under the sun,
+who knows what you're connected to and its vulnerabilities,
+its weaknesses, that system gets hacked.
+I think we've probably all heard
+about the famous hack in Las Vegas,
+where a casino got hacked through a fish tank feeder.
+They weren't trying to get into the fish tank,
+they used the fish tank feeder to get into the system.
+So, be very careful what you connect to.
+So, those are some basic best practices.
+<v ->Yeah, it's a great insight, John.</v>
+I'll switch the topic a little bit.
+We discussed the cybersecurity,
+but I think the privacy also plays a very,
+very important role, and it's little different.
+So, we have Cindy with us.
+I would like to understand
+that when we do the data exchange,
+how to make sure that there is enough trust
+between the enterprise and the end users?
+<v ->Yeah, thanks, Deba.</v>
+And that's obviously John and Jurgen
+work in the cybersecurity space.
+I do not work in the cybersecurity space
+and our company is not in the cybersecurity space.
+We're in data privacy.
+And I would tell you that in the automotive space,
+probably the greatest concern
+we have is keeping a car connected.
+And you probably all just are like,
+what is she talking about?
+There's a high propensity for people today,
+because of a lack of trust
+with unethical data use in the automotive industry
+for people to disconnect their cars.
+If you look at the trial period
+of somebody buying a new car,
+we just got some data not terribly long ago from one
+of the largest OEMs who I'll leave nameless that said,
+after the trial period, 80% of people disconnect their cars.
+Now, I don't know how in the world
+you update software in a car when the car is disconnected.
+Maybe some of you here have some great ideas
+you could share with me, but I haven't figured it out yet.
+And so, we, I believe,
+have to focus on ethical data use in the automotive industry
+as a core component of attempting
+to have software-defined vehicles become something
+that is really has delivers the promise
+and the prospect that you'll see on the show floor here
+and that every OEM talks about.
+We did a session last night,
+it was really insightful, with the World Economic Forum.
+They have a center for trusted technology,
+it's called CTT, that you should follow.
+And their whole mission is to say,
+how can we, these are my words, not theirs,
+how can we take ethical data use to a new level
+with a social contract with people that are required
+to give personal
+and sensitive data in order for a device to work?
+At the end of the day, a car's a device.
+It's no different than what your watch is or whatever.
+It's connected device.
+And so, all that data
+that the automotives need for that car to operate properly,
+the connectivity, the personal information,
+the GPS that's coming off the car,
+all of those whatever, 65 data points and sensors
+that are in that telematics stream,
+have to be protected and have to be used ethically.
+If for anybody that's been following some
+of the data privacy legislation in the federal government
+that hopefully will get passed here in 2025,
+one of the biggest facets of that bill is data minimization.
+And so, what I would say to all of you
+in the automotive space,
+just because that pipe coming into a car has 65 or whatever,
+we did a POC and found about 65 sensors,
+that data was coming into the car and that telemetry,
+just because it has 65 data fields,
+data points, and sensors,
+doesn't mean you have the right to use those.
+What it means is that you have to ask the consumer
+if you can use that data
+and get consent to use that data,
+and make sure it's the consumer
+that is telling you you can use that data,
+not a deep fake that's telling you you can use that data.
+And then, you have to minimize the data stream
+down to the data they authorized
+and consented for you to use.
+It's not a, this is not like some weird proposition.
+It's really three things.
+Verify the person giving you consent
+is that person, not a deepfake.
+Giving you consent to do it.
+And third, minimize the data
+and don't use the data nefariously,
+and they will have a value exchange with you.
+If they don't, they'll disconnect the car.
+<v ->Thank you. I think this is very, very important aspect.</v>
+Now, I will change the topic a little bit.
+Next question is to John again.
+So, we have, Cindy, safe,
+you are part of the safety as well as the cybersecurity.
+That's why it would be great if you can give your insight.
+Is it a complimentary to each other
+or is there any conflict?
+If there is any conflict happens
+during the system engineering
+between safety and security, what is the way to resolve it?
+<v ->Yeah, that's a good question.</v>
+For functional safety, just for those in the room
+that may not be aware of what exactly is functional safety,
+ultimately, you're looking at if a failure occurs
+in your vehicle, an electrical system
+or electrical or electronic system.
+And of course cybersecurity's looking at from the aspect
+of an attack on that system,
+someone's trying to do something malicious.
+So, fortunately, they're really,
+I guess, they're really complimentary.
+There are various points within the life cycle
+where it's vital that the two disciplines interact.
+And when I say interact or what I call touch points,
+that they interact and work very collaboratively together.
+So, collaboration is critical.
+So, it goes all the way to the beginning of the life cycle,
+where you're defining what's called the item definition,
+if you're in the functional safety or cybersecurity world.
+In other words, agreement.
+And what is the system that we are addressing?
+So, both parties are in agreement.
+This is the boundary of that system.
+This is what we're assessing.
+So, you work together to do the item definition.
+And at various points in the life cycle,
+we give some examples.
+Functional safety will come up with a goal.
+They'll see a particular failure
+and they'll say, well, because of that failure,
+let me give an example.
+A failure might be a vehicle safety message
+that's supposed to say, break,
+turn the brakes on, or something like that.
+So, safety might say, well, you have to make sure
+that message has integrity, so when the receiver gets it,
+they know some bit hasn't flipped
+in the message due to noise or something like that.
+So, they'll add what's called like
+a cyclic redundancy check or a CRC check to it.
+Well, now, cybersecurity looks at that
+and says, well, if I was an attacker,
+you're just using a basic CRC,
+I'm going into little technical details.
+I could mimic that as an attacker
+and I could say, disabled breaks,
+and send a valid, perfectly valid message.
+I could perform an attack on that.
+So, then I say, well, I've gotta know who sent the message,
+not just the message has integrity,
+is this an authentic message?
+Should I listen to this message?
+And so, we'll say, well gee,
+we need to add a digital signature.
+Well, that digital signature will need special hardware
+to do the cybersecurity computations in a secure enclave.
+Again, cybersecurity has to be rooted in hardware.
+Well, now, I've introduced special hardware
+that hardware can fail.
+So, now, I could fail in my cybersecurity calculation
+causing a failure in the functional safety message.
+So, now, functional safety needs to be informed about that.
+So, it's not that they conflict, you need to coordinate.
+So, you make them aware of, okay, now we need
+to consider the failure of your cybersecurity component.
+And then, cybersecurity also needs
+to look at safety impacts.
+Like one of the things you look at
+from a cybersecurity perspective
+is if this attack were to occur, what's gonna happen
+is somebody gonna get their finger pinched,
+somebody to get severely injured,
+or heaven forbid, somebody would die.
+So, you work with the functional safety team, saying,
+this is our assessment of the safety impact.
+Perhaps the driver could control the situation.
+Maybe they attack like the steering wheel,
+jerk set of somebody's hands, maybe the driver.
+So, maybe you can take controlability.
+So, you consult functional safety on that.
+And ultimately, the redundancy within functional safety
+can help as another example.
+So, that's an example where maybe some redundancy feature
+in functional safety can help you in cybersecurity.
+So, ultimately, it all boils down to within various points,
+like when you're doing specific requirements
+or deciding requirements, what are those requirements?
+So, I understand what functional safety is doing,
+pretending she's the functional safety engineer.
+She understands what I'm doing
+from a cybersecurity perspective
+and exchange that information
+to make sure they're complimentary and not conflicting.
+<v ->Thank you.</v>
+So, as we understand the system engineering
+is not just the cybersecurity,
+you have to consider multiple such items,
+functional safety, cybersecurity, privacy,
+all things need to be considered
+and we cannot ignore any of them.
+So, that's the beauty.
+Thank you for giving this deep insight.
+I would like to change the topic a little bit now,
+because as we know, AI is a new buzzword.
+In my company, we call it AI 360.
+If you see around you, everywhere, you will find AI.
+So, I would like to ask Jurgen
+how AI transform the way the auto manufacturers would detect
+and neutralize the threat of tomorrow on real time?
+<v ->Yes. (clears throat)</v>
+So, AI certainly has a potential to revolutionize detection
+and utilization of cybersecurity attacks.
+And this is simply due to the fact
+that AI algorithms are pretty good in detecting
+or analyzing vast amount of datas,
+and really detect patterns and anomalies.
+And that's why in that case,
+so they really can act with a very high speed
+and detect those anomalies.
+And then, of course, you can initiate in immediate alerts
+and react on it.
+And so, the really key characteristic is here
+that AI really is able to have a, yeah,
+achieve a speed and a scale on data
+that is unattainable human analysts, so.
+And that's why,
+so you much faster using AI algorithms than humans.
+And on the other side, of course you can use AI
+to automate analysis of security logs, for instance,
+and detect possible
+or indications for threats and attacks.
+And one example could be that you detect those
+and you detect that the system is compromised,
+and then the AI is proposing steps for isolation
+in order to prevent
+or do a kind of containment of that security attack.
+So, there's a lot of potential in AI.
+And furthermore, actually,
+you really can use AI inside the vehicle as well.
+So, incorporate AI algorithms
+really to analyze all datas from sensors
+and communication flows, communication channels, and so on.
+So, there's huge potential,
+but what you need for that
+in order to keep your product future-proof is really this,
+what I mentioned earlier, the cybersecurity agility
+to be able to exploit the characteristics
+of machine learning that such an algorithm
+can improve over time using new datas.
+And so, being able to detect
+and basically deal with emerging new threats.
+And so, and that gives you the capability really
+to deal with cybersecurity over a lifetime,
+which is really important.
+So, as John explained,
+so cybersecurity is not a static issue.
+And AI is a key technology in that.
+<v ->Thank you.</v>
+So, last question I have,
+I think it's a little tricky for you, Cindy.
+So, we are hearing the ban on the Chinese software by 2027
+and hardware by 2030.
+I know that one shoe doesn't fit all approach will work,
+but you being part of the US government in some capacity.
+So, maybe if you can give some guidance to the team.
+Yeah.
+<v ->Yeah, thanks, Deb.</v>
+And yes, yes, that is a tricky question for sure.
+It all has the inflaming power.
+So, I'll be careful there.
+But I think what I would say is that privacy
+and cybersecurity working together can ensure
+that the data that bad actors
+are trying to get their hands on,
+they don't get their hands on it.
+It's no more complicated than that.
+Obviously, these are all devices with data
+that the data has huge value,
+and the data in the wrong hands can have huge consequences.
+And so, I think actually,
+when I look at what John and Jurgen
+are doing on the cybersecurity side,
+it's really important that a consumer can believe
+that their data in a car, whatever that data is,
+all the personal and sensitive data
+is not getting into the wrong hands for nefarious reasons.
+So, we rely a ton on the cybersecurity.
+When we look at privacy by design,
+that is something that should be in the design cycle.
+I think John said cybersecurity
+should not be an afterthought.
+It should be part of the design cycle.
+And it's the same with data privacy.
+It should be part of the design cycle.
+Privacy by design should be part of the data design as well.
+And then, we do the handoff
+or the collaboration with our cybersecurity peers
+after we've done that data design for the car,
+and make sure that they understand the data that's necessary
+for some of these systems to deliver the value.
+In particular, of course,
+some of the infotainment systems
+which require a ton of personal and sensitive data,
+and how we're both deprecating that data,
+anonymizing it, if we are,
+whatever we're doing to make sure on the security side,
+it doesn't get into the wrong hands
+into the nefarious hands.
+So, I don't care whether it's the Chinese
+or whomever, whether it...
+We've seen attacks come from all over all kinds of nations,
+not just the Chinese.
+So, I don't worry as much that it's just the Chinese
+that we're gonna have these bans against,
+because candidly in the United States,
+bad actors are hacking into consumer-sensitive
+and private data all day long, so.
+<v ->Absolutely.</v>
+So, with this, I think we conclude the discussion.
+I think because of the time-constraint,
+otherwise, the amount
+of insight I'm getting from the panelist,
+I could have probably taken another one hour.
+So, I would like
+to get one final word from each of our panelists.
+So, maybe, Cindy, you can get started.
+<v ->Yeah, sure.</v>
+We believe that data privacy
+is the tip of the spear in the car.
+I spend a lot of time reviewing software-defined vehicles
+and the data necessary
+to make the dream become a reality
+in software-defined vehicles.
+And like I said before,
+I've yet to figure out how in the world
+that dream will become a reality in a disconnected car.
+So, I think we have to do everything in our power
+to make sure that we have a social contract with consumers,
+that their data is not used nefariously,
+that we're not selling it to LexisNexis
+and our insurance rates aren't rising.
+And that consent is part of this equation.
+If we wanna take data off the car
+and use that data for a value exchange with the consumer,
+they have to be able to trust you.
+And so, we have to build that social contract
+on the data side as a way
+to ensure that all of these wonderful notions
+of software-defined vehicles come to reality.
+<v ->So, John, you.</v>
+<v ->Yeah, so kind of a few closing thoughts is,</v>
+unfortunately, I think we've got
+some major challenges ahead in cybersecurity.
+I'm excited about being,
+hopefully part of the solution of it.
+But with some of the challenges
+that I see ahead is as like Jurgen had mentioned,
+is quantum computers,
+that's gonna upend cybersecurity in a monumental way.
+So, fortunately, there's already been work done on that
+from NIST, in post-quantum cryptographic algorithms
+that have been released.
+But the migration path
+in automotive to that is gonna be painful.
+That's one of it.
+And just because of that rapidly threat,
+changing threat landscape,
+again, I highly recommend you attend a hacking conference
+that were really, it really opened my eyes when I went
+to one many years ago as to how real these threats are.
+That's not just what you're seeing in a movie.
+It's actually real what's happening behind the scenes.
+So, understanding that rapidly changing threat landscape
+and doing something about it,
+staying up-to-date on threats,
+participating in things like Automotive ISAC,
+attending these cybersecurity conferences,
+things like embedded security for cars,
+conference, et cetera,
+participating in standards development, et cetera.
+Doing all these things will help us stay up-to-date,
+'cause there are major challenges ahead,
+but I look forward to tackling those challenges.
+<v ->Jurgen, you go next.</v>
+Yeah.
+<v ->Okay.</v>
+So, yeah, I believe that that speed
+and flexibility is very critical in cybersecurity.
+And the ability really to adapt for new attacks
+and to implement effective countermeasures
+will probably determine the difference
+between successful protection
+and significant security breaches.
+And as John and Cindy pointed out, it is crucial
+that those capabilities are designed into the product
+and not only into the vehicle,
+into the vehicle and the backend system.
+So, the task for the car manufacturers
+is to do that accordingly, actually.
+And then, I think with a continuous fleet monitoring
+and dynamic and agile cybersecurity strategy,
+car manufacturers can safeguard their products
+and users even with upcoming new complex dangers
+or cybersecurity threats.
+And so, being future-proof.
+<v ->Thank you.</v>
+Thank you for all your valuable insight.
+It's my pleasure to conduct such an insightful session.
+It was really a thought-provoking session for all of us.
+I think key takeaway for me
+is I think the holistic view is very, very important.
+And if we have the holistic view, then we would be able
+to place the right safeguard at right place.
+But of course, the topic is pretty complicated.
+It's may not be good enough for these 40 minutes,
+may not be a good enough time to go through all the aspect,
+but we try to touch upon the bigger canvas
+for of all of us to understand what cybersecurity means.
+I would like to thank from bottom of my heart
+to all the panelists for sharing their deep insight.
+I'm sure that it equip you
+to confront some of the challenges.
+Of course the future is very volatile.
+I'm not sure that we can provide all the insight
+to counter all the challenges of future,
+but if we probably follow some
+of the advice from our panelists, it would be of great help.
+I would like to thank the audience also
+for actively engaging with this discussion
+and probably at morning.
+So, thank you for coming here
+and being part of this session,
+and I hope this session
+would be useful for all of you in future.
+Let's secure our future as well.
+<v ->Thank you.</v>
+<v ->Thank you.</v>

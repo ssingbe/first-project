@@ -1,0 +1,690 @@
+<v Announcer>Please welcome the President</v>
+of the Consumer Technology Association, Kinsey Fabrizio.
+<v ->Good afternoon and welcome to CES 2025.</v>
+As you all in this room know,
+CES brings together the products and services
+driving the tech trends
+and the innovators whose vision
+is reinventing the world around us.
+That's why I am so thrilled to welcome Accenture,
+an innovation led company and longtime participant at CES.
+Accenture helps leaders reinvent themselves
+using emerging tech to be more efficient
+and create a great customer experiences,
+and serves as a trusted partner to more than 9,000 clients
+in more than 120 countries.
+And under Chair and CEO Julie Sweet,
+the company has reached new heights,
+delivering innovation and transformation on a global scale
+through cutting edge solutions
+in AI, cloud, computing, sustainability,
+and digital transformation.
+In addition to advising clients,
+Accenture has been rapidly reinventing itself too,
+using technology, data, and AI.
+Julie has been recognized
+as one of "Times" 100 most influential people
+and one of "Fortune's" most powerful women in business.
+As AI applications expand, she served as a trusted advisor
+helping businesses use AI and data
+to power their own reinvention,
+and a leading voice urging companies
+to develop and use AI responsibly.
+She'll be joined on stage by Julia Boorstin,
+CNBC's Senior Media and Tech Correspondent
+who covers both topics with a focus on tech innovation.
+Julia is also the author of the bestselling book,
+"When Women Lead"
+and a creator of CNBC's Disruptor 50 list of companies
+transforming our economy.
+Please help me and welcome Julie and Julia to the stage.
+<v ->Thank you you so much,</v>
+and thank you to to the CTA and CES for having us here.
+Before we get started, I just wanna acknowledge something
+that I know is on a lot of our minds,
+which are these devastating fires
+in the Los Angeles area, my hometown,
+and I just hope that technology can be part of the solution
+for rebuilding and also preventing this kind of tragedy
+from happening again, so.
+<v ->Yeah, it's just, it's so hard.</v>
+We were just talking about this backstage,
+'cause my family is also, I grew up in southern California.
+My sister's still there, my brother's still there.
+I was up like you, like half the night.
+Like I was like,
+what if you fall asleep and you need to evacuate?
+I mean, it's just so hard.
+And when you see the devastation, it's terrible,
+so really our prayers are with everyone.
+<v ->Yes, well, just wanted to acknowledge that,</v>
+before we talk about some very exciting
+and very positive and optimistic news.
+And you had a number of different headlines out of CES.
+You launched your 12 industry agent solutions
+to help accelerate AI.
+Walk us through what this news means, the AI Refinery.
+What is an AI Refinery?
+<v ->Like, I like to think of it really simply.</v>
+So just think about all of us, we each have a brain,
+and in our brain they work kind of the same way, right?
+They've got the same structure and then we learn.
+So if you think about what's happening today in companies,
+every company I work with is doing a lot of pilots.
+Like they've got a million things going on
+and most of the CEOs I talk to are like,
+"Okay, this is hard.
+It's not really giving me the value."
+And a big step that companies have not so much missed,
+but now need to move to because they were really excited
+is how do they create a brain that has the structure
+that works, whether you're in the US or you're in Europe,
+wherever you are in the company,
+and then allows this AI to learn and change your company?
+And what people are missing is the structure
+and the ease of then being able to plug in.
+And so what we did is we created the brain.
+And that brain has,
+think of it as a way of like you're onboarding a new model,
+you wanna use a model, it comes in, it gets certified,
+it goes out.
+All of your people don't ever have to know about that.
+But you know, as CEO, it's safe.
+It has these agents that everyone's talking about
+that are all trained in your data
+and they will work with everything.
+And all of this works with all of your technology.
+So it was built on NVIDIA technology as part of the brain,
+and Accenture and NVIDIA have a complete,
+everything must be interoperable,
+so you're not now creating some new tech debt,
+but it's allowing you to have the structure
+so that you can do the holy grail
+that every CEO complains about.
+How do I scale, how do I make it easy for my people,
+and how do I focus on how to use it,
+as opposed to the very, very complex landscape that,
+you know, everyone's trying to learn about it?
+And we kind of, we try to make that simple
+for every organization.
+So we're really excited.
+It was something that we've been developing
+based on all of the work and all of our work
+with all of our partners is to how do we help our partners
+and our clients get to value faster?
+<v ->So AI Refinery is sort of the platform,</v>
+and then these industry agent solutions
+are tools that will help each individual company
+build their agents faster, more efficiently,
+but they're still customizing them to their own data set
+and their own corporate information.
+<v ->Absolutely, so if you think about Accenture, right?</v>
+We're a $65 billion company.
+We work across every industry.
+We work with the leaders in every industry.
+And what we've done is we've said,
+well, we have this new great technology,
+but rather than have each of our clients
+have to make up every single part of it,
+we're industry experts, we're functional experts,
+we know the processes, if you're a refinery in the energy,
+if you are doing claims or insurance.
+And so we've taken all of our knowledge and said,
+"Here's your starter kit.
+Now take the starter kit and make it your own."
+And using that brain, that AI Refinery,
+we then tie it to your internal data, to your external data,
+and now you've been supercharged,
+not just with the technology, but with your own data.
+And you're gonna go a lot faster
+because you get to leverage all of our expertise.
+<v ->And so give me an example</v>
+of one of these AI agent solutions
+and how it might work for a particular industry.
+I mean you mentioned oil refinery,
+but walk us sort of through how it might work.
+<v ->So I'll use Accenture because as always, right,</v>
+we try to do this to ourself
+and one of my favorite and first examples
+where we used an agent at scale was in marketing.
+Now, as you might imagine at Accenture with 700,000 people,
+we like to talk
+and we like to come up with new thought leadership, right?
+So starting a couple of years ago,
+we got all of that cleaned up
+so we know what's happening any place in our company.
+But when we wanna put out a new thought leadership piece
+had a lot of steps, right?
+You had somebody who'd go out into the market
+and they'd look at, what are our competitors saying?
+You'd say, look at, what are our ecosystem partners saying?
+Look at what our clients are saying.
+Then there was quality reviews.
+And someone has to look at, hey, is this new,
+or is someone, have we said it someplace?
+We're really big, right?
+All of those were tied to people
+and sure we use technology to do search in that,
+but that was all.
+Now today, I've got that creative idea,
+I wanna make a campaign out of it, and literally in minutes,
+as that person who wants to,
+I wanna sit down and write something.
+I have a digital agent who's gone
+and looked at everything that's being said externally
+by the areas that I want,
+that tells me everything that I already have,
+so I don't write something new.
+And then, and this is one of my favorite parts,
+when I start writing, it judges me.
+It tells me, "Hey, that's not very differentiated
+from what the competitors have said,"
+or "That has absolutely no difference
+than that other asset."
+And then as I write it, I get instant feedback, right?
+This all, this used to be people and time,
+it literally would take weeks,
+and now the first thing takes minutes,
+and we are cutting about half of the time
+from the creative idea to getting it into the market.
+<v ->So massive efficiency and more accuracy?</v>
+<v ->Much better quality, and, you know,</v>
+I can't afford to have every single person
+be the absolute best editor,
+to be the absolute best person who understands,
+you know, what's going on.
+And what this allows me to do is the quality is,
+you know, we'd get there in the end,
+but we're getting there like, you know,
+I call it first time right,
+because we're getting the highest quality inputs
+early in the process.
+Now we had to massively change how we work.
+And like when we go back to think about that brain, right,
+and that we're learning, the other thing we've had to do
+is change the structure of how we operate the company.
+Because all of that used to be a sequential process,
+and then you'd have these loops.
+Now, we had to sit back and say,
+"Well what's the new creative process
+when this is happening,
+and when do we have the human in the loop?
+And how do we now actually get people
+to change the way they do it?"
+And not by the way, go check themselves, right,
+'cause you have to build trust.
+And one of the most important things,
+you know, we just put out our tech vision
+that we talk a lot about is trust,
+<v Julia>Yeah.</v>
+<v ->because if you have</v>
+this great technology and people don't use it,
+first of all it won't learn,
+so it won't get better and it won't create value,
+but it's also not, there's no return on your investment.
+<v ->So you just segued to my next question,</v>
+which is about this concept of trust.
+I mean, in your Accenture Technology Vision report,
+it's the 25th annual one, which is kind of amazing
+if you think about how much the technology world
+has changed in the past two and a half decades,
+but this idea of trust is really essential
+to the future of AI, but it's not just trust of people
+believing that it's gonna work.
+Walk us through sort of the nuances of that
+and how companies here should be thinking
+about building that trust.
+<v ->It's such an important question,</v>
+and I think part of what's been missing is sort of,
+there's two dimensions to the trust.
+One dimension, as you said, is does it actually work, right?
+And that trust comes from using it.
+And then as you use it, by the way,
+it doesn't work at the beginning, it has to learn and that.
+And so there's a defined way of building that trust, right?
+If you get people to learn it, et cetera,
+they can see that it works.
+Now you have to have change management,
+you have to build it in,
+but that's in some ways the easiest part of trust.
+It's an important step, but it's important.
+It's the emotional side of trust that is equally important,
+and that's the trust where it says,
+wait a minute, is this gonna take my job?
+You know, what's the future gonna look like, right?
+Is it gonna hurt parts of our business?
+It's the part that people get emotionally worried about.
+Are my kids gonna have a job?
+I mean, I travel and talk to people all over the world,
+and a lot of times in those casual conversations
+when I'm with companies,
+those are the things they kind of ask me on the side,
+"Julie, what should my kids study?"
+And that affects whether you're using it and embracing it.
+And so one of the things that we do is really recommend,
+and I talk to a lot of CEOs and CHRO's
+as you're thinking it is that
+it's important as you think about like change and adoption,
+that you recognize both components.
+One is about learning and practice.
+The other emotional is about transparency.
+It's about empathy, right?
+It's also, it's very much about being direct as well.
+If you get those two pieces right,
+you will accelerate your ability
+to really reinvent what you're doing,
+and instead of it sort of being a pull, right,
+you really open up.
+And I think people want this.
+I mean, we're all using it.
+I was cracking up because my fifth grade niece
+just sent all these AI avatars of our whole family.
+She's in fifth grade, like, you know,
+and she sent it on her grandmother's phone,
+and of course the grandmother's like thinking,
+this is great.
+Like this is a part of our life.
+It's not like you go to work and you say,
+"Well, I don't want AI there.
+I only want it at home."
+But it's incumbent on us as leaders
+to actually bring people along that journey.
+And at Accenture we have leadership essentials,
+like how, you know, this is what it takes to be a leader.
+And one of the most important is the courage to change
+and the ability to bring people along the journey.
+Both are important.
+You have to invest as a company and a leader.
+You owe it to your people to work on that piece.
+<v ->So that leads directly to this question of the workforce</v>
+and those concerns you hear from people all over the world,
+is this AI going to be taking my jobs?
+And if it's not gonna be taking someone's job,
+what do they need to do
+to make sure that they're still contributing
+and is what they do have to be different,
+have to be evolved?
+So one thing I think is so interesting about Accenture
+is as you are innovating and disrupting your own business
+and deploying all these technologies on your own business,
+you're advising companies
+across every single different sector on how to do the same.
+What are the workforce implications for your business,
+but also across industries?
+<v ->If you're only to remember one thing</v>
+about workforce implications, and again,
+I'm always the biases like on being practical
+is AI changes the skills that your leaders need.
+So I'm gonna start with leaders.
+And what I mean by that is if AI can reinvent
+like how you're going to market
+or how you're running finance,
+then everything you know about process
+and you have to actually understand,
+well, what can the technology do
+in order to now reinvent it?
+Most of us, almost all of us,
+didn't grow up with something called gen AI
+or gen tech architecture, so now skill is,
+you must understand this technology.
+That's a skill.
+And so you have to look at all of the job descriptions
+and say of the skills they need,
+this is one of those skills.
+And then you have to say,
+and how are they gonna get it, right?
+We've been talking about, and one of my most passionate,
+you know, things is around skills-based human resources.
+So about five years ago,
+we built our own database of all of our skills.
+So I have 780,000 people
+and I have all of their skills in a database.
+I can actually run an algorithm to say,
+hey, I need some more cloud people.
+Who could be upskilled in 20 hours, right?
+But why do I care so much about it?
+Is it goes back to,
+how are we gonna invest in our people
+to bring them along the journey?
+If you don't understand, first of all,
+what skills are needed to do the job
+and then how they're changing it,
+you won't be able to give them the education and training
+to allow them to do it.
+Which means you won't get the value,
+but it also means they can't rise to the occasion.
+And so we're doing that right now.
+The first thing we did
+when Jenny and I hit about two years earlier,
+we were already experimenting,
+the very first thing we did was we went to our technology,
+all of our main roles, and we said,
+which of the roles are affected in the different skills,
+and what are the brand new roles?
+Like prompt engineering didn't exist, right?
+And now we're systematically looking
+at every role at Accenture and saying, what are the skills,
+and then how are we gonna give it to them?
+<v ->But given that there are these additional efficiencies,</v>
+greater accuracy
+without having humans double checking things,
+will we see fundamentally that you need fewer people
+to do each job?
+Is that what it's gonna come down to,
+not just in your industry,
+but in in all these other industries as well?
+Will we have one paralegal
+be able to do the work of 20 paralegals?
+Are workforce reductions inevitable?
+<v ->Absolutely, this just to be clear.</v>
+AI does things that we have people,
+mostly it's tasks though.
+One of the biggest complaints they actually have
+is that people, CEOs will say,
+"I'm using all this AI and I don't have less people,"
+and that's because they haven't reimagined the work.
+They've just taken some of the tasks.
+<v ->But do you think they will end up doing mass layoffs?</v>
+I mean, what is the?
+<v ->No,</v>
+the reason I don't think they'll end up doing massive,
+so will there be a reduction?
+Yes, there should be.
+This goes back to skills and training,
+but it opens up all these new opportunities for the company.
+And so that's where you have to get the balance, right?
+Every stage of technology, think about basic automation.
+Back in 2015, we put out our first platform called myWizard.
+We used to have tens of thousands of people doing testing,
+and that platform automated most of them away.
+We upskilled them and they're doing different things, right?
+We also have new businesses we didn't have in 2015.
+So you can't stop, each wave of technology can't stop.
+The question is,
+do you have the ability to use the technology
+to build the new businesses,
+and do you have the ability to re-skill,
+but not everybody's gonna be re-skilled, right?
+We know that.
+That's why public and private partnerships are so important.
+That's why we have to think about K through 12 education.
+We have to think about college education.
+And we as companies need to be able to invest.
+We launched a business last year called LearnVantage,
+which provides upskilling.
+We spend about 1,000,000,000 a year on it today.
+And a lot of our clients, once this AI hit,
+were really asking us to help them.
+So we launched the business.
+I viewed that as much about my purpose
+to deliver on the promise of technology and human ingenuity
+because we have to focus as companies now
+on the human ingenuity part.
+But anyone that said like,
+of course AI is going to reduce some jobs,
+and now the idea is, and what are they gonna create?
+There are jobs that don't exist,
+but there's also entirely new business models
+that can do hyper-personalization, for example,
+that opens a whole new way of working.
+We're working with clients now where the idea is at scale,
+how do you be able to interact with a product,
+create a whole campaign for a client to draw something new?
+Those are new skills for marketing, right?
+They're not gonna do the same repetitive stuff,
+but now they're interacting differently, right?
+We're working, if you think about
+some of the stuff we're doing, like in the energy piece,
+on the one hand we're driving efficiencies.
+Those same companies are then turning and using that money
+to invest in doing more in renewables.
+And they're taking people
+that they used to take more time
+in the refinery doing the turnaround,
+and now they're saying,
+okay, now we want you to come over here
+and we're training, right?
+It goes back to being quite intentional
+and strategic about your talent.
+<v ->Yeah, and it's interesting because it seems like</v>
+we know where some of these jobs will be lost,
+but all the future jobs will be created.
+Those are maybe in industries
+we're just starting to see emerge.
+Since I'm asking you
+about all the the negative potential implications
+of technologies like AI, I wanna talk about security,
+cybersecurity, data privacy, intellectual property security.
+How should the companies here,
+and how do you advise your clients
+to think about security in a different way,
+given just how much data is being collected
+and deployed through AI?
+<v ->Well, first of all, AI is one of the best tools</v>
+to make us all more secure.
+And you know,
+that's one of the most important things to understand
+is that a lot of the incidents around security
+come from people making mistakes, right?
+It's comes from human error, still,
+it's the number one cause, right?
+AI is actually gonna help protect data,
+it's gonna protect the enterprise.
+And that's probably the most important,
+you know, thing to walk away from on security
+is the question that I tell CEOs to ask is,
+how am I using the AI to now be more secure?
+And the idea of, you know, digital, the internet, all that,
+it's been expanding, that risk has been expanding.
+The biggest thing that's changed
+with the advent of accessible AI in this way
+is now we have much better tools than we did two years ago
+to help protect it.
+<v ->And do you think we'll see AI regulation?</v>
+<v ->I hope so.</v>
+<v ->And what kind of AI regulation would you like to see</v>
+and what type of regulation
+do you think could be detrimental?
+<v ->Well, I think for example, in the US,</v>
+we've taken a very much of a perspective
+of innovation first, right?
+So how do you do the innovative while doing the safeguards?
+Why do I say I hope so?
+Because there's certain things like around data privacy
+where you want consistency,
+which enables to the innovation, right?
+So no one, if you, you know,
+we're the partners with every ecosystem partner, right?
+I don't know a single ecosystem partner
+who says there should be no regulation.
+In fact, what they ask for is consistent regulations.
+So in the US, that means let's not have something different
+in every state.
+<v Julia>The patchwork</v>
+is always a nightmare.
+<v ->Right?</v>
+But also as global companies,
+let's try to be as interoperable as possible,
+so that you're not spending lots of money
+complying with different regulations which are different,
+but not in kind like, not really in kind, right?
+So we think regulation is really important
+and the principle is balancing innovation
+with regulation and protection.
+<v ->One of the most exciting things I've seen here at CES</v>
+are these autonomous robots,
+and I know you have a big partnership
+among your many announcements here,
+your partnership with NVIDIA and KION group
+to create these new AI powered digital twins,
+which aim to really transform warehouses.
+For those of us here
+who haven't gotten to see them in action
+or seen these, this announcement yet,
+walk us through what this means
+and why you think this is so meaningful.
+<v ->Well, so there's two things to remember.</v>
+50% and physical AI.
+So we created a warehouse solution with KION and NVIDIA.
+And so think about most warehouses today, right,
+still have lots of people, forklifts, you're running around,
+and we believe this solution
+will reduce manual labor by 50%,
+which is huge because in many countries in the world,
+you cannot get enough manual labor.
+Like there is a shortage of people for these jobs.
+It'll also reduce operating costs by 50% we believe,
+and planning and optimization by 50%.
+So those are real tangible business outcomes.
+But it's also super exciting because it's the first
+like really huge scale use of physical AI.
+In fact, I was with Jensen yesterday
+and we were doing an interview and you know,
+he's like, "This is the first of its kind,"
+and it's using these, the capabilities of AI,
+but in the physical world, right,
+which allows you to, you know, it senses gravity and objects
+and continuously learning, so safety is much better.
+You can, and it, you know,
+it's actually amazing as I dug into it,
+I had no idea actually how,
+I always talk about supply chain
+being the next digital frontier,
+but when you really get into it,
+like it's so not automated today, right?
+And yet, you know, preparing for Black Friday
+is very, very different from a slow summer period,
+and all of that is still so manual.
+So real tangible outcomes,
+breakthroughs in how to bring AI to the physical world.
+And so it's quite exciting.
+<v ->Yeah and it's interesting,</v>
+so it seems like this idea of physical AI,
+this is gonna be really what we hear more and more about
+after the past few years were dominated
+more by the AI software.
+Is this something you're watching being deployed more
+on the physical AI level?
+<v ->Yeah, in fact, if, I hope you all read our tech vision,</v>
+it is our 25th anniversary
+and one of the big trends we talk about are robotics,
+which I think are super exciting.
+And if you're walking the floor, you've seen,
+there's so many different manifestations
+in health and wellness.
+I mean, it's really incredible what's happening there,
+and it opens up a whole new way of really helping society
+and businesses,
+so robotics is something absolutely to watch.
+There's a lot of work still to be done, but it's, you know,
+really a breakthrough moment for physical AI.
+<v ->Yeah, I think this will be,</v>
+this year's CES will be the turning point for that.
+Before we're out of time, I wanna take a step back
+and have you reflect a little bit on what you have learned
+by being able to work across all these different industries.
+And one thing that I find so fascinating
+is that you're able to take these learnings
+from the retail space
+and figure out what will be valuable to something
+in a different sector, looking at how AI has been deployed
+and tech systems have been deployed
+across all of these different industries
+that Accenture works with,
+are there certain best practices or commonalities
+that you were surprised to find
+have a sort of a universal value?
+<v ->I guess I would say I'm not surprised,</v>
+and more than industries, you know,
+we've always talked about people, process, technology.
+I think it's now people, process, technology, and data.
+And when I look across the industries,
+creating value comes down to those things.
+And I think that whoever came up
+with the people, process, technology,
+you know, that we've always talked about
+was very deliberate in putting people first, right?
+And I think, you know, as we move forward,
+it does matter looking back, right,
+is that we have always succeeded when we start with people
+and we understand how people will experience things
+because the best idea, as I used to call it,
+you know, everything looks good in a PowerPoint,
+and you actually go take it, start with people,
+and then process comes next because the best technology,
+if you can't actually change the way you work,
+the technology can be super cool,
+but it'll never create value.
+And then data is the thing that most of us missed
+over the years, right?
+It was always the one that's super expensive,
+people didn't wanna fix it, right,
+and it's something that now everybody pays attention to.
+So those are the just sort of the basics of like,
+as you sort of think about,
+you know, wherever you are in the world,
+whatever you do as a leader,
+when you think about am I using AI,
+just kind of grounding yourselves
+in things that actually we've known for years,
+and it really doesn't matter which industry you're in.
+The last thing I'd just say
+is like just kind of you as a person, right,
+is it's a really exciting time.
+It can also feel like a scary time,
+and so I just wanna maybe share it as we close.
+I have this little thing in my mud room,
+I live in the DC area, that my husband hung up,
+and he hung it up, right,
+the last couple years before I became the global CEO.
+It says, he likes really cheesy things, by the way,
+I'm just gonna give you that up front,
+but he won in this case 'cause it's super cheesy
+and I didn't wanna hang it, but I live by it now.
+It says, "If your dreams don't scare you,
+they're not big enough.
+If your dreams don't scare you, they're not big enough."
+And it's a personal motto of mine
+as a leader and as a person,
+because, you know, when I'm feeling like,
+wow, like this is big and it's different,
+then I know I'm pushing my organization and myself.
+If you go to work every day
+and you never feel a little like,
+wow, can we really pull this off?
+Then most likely someone is passing you by, right?
+And as an individual, we are all gonna have to change.
+I, you know, I'm changing the whole way I work
+and integrating AI and, you know,
+it sometimes it feels uncomfortable and like,
+you know, am I getting it right?
+But that's where you're dreaming big enough.
+You're not gonna wake up, right,
+and find yourself individually passed by.
+So I wanted to share that with you
+'cause it's something that does inspire me
+on those moments when you sort of look at it
+and you come to a place, CES, and you think like,
+wow, the amount of change is tremendous.
+<v ->And you're very optimistic.</v>
+<v ->I'm hugely optimistic.</v>
+I feel so privileged to lead right now
+because the opportunities with AI,
+and we didn't even really talk about
+like some of the amazing things that are happening
+with drug discovery.
+If you read our tech division,
+we talk about a company that's like creating drugs now
+in half the time you know what we can do for safety,
+what we can do to open up new things.
+I think it's amazing.
+And so we've gotta be disciplined, right, that structure,
+and we've gotta dream big to make sure
+that we use this tremendous technology to benefit everyone.
+<v ->Well that is the perfect note to end on.</v>
+Julie Sweet CEO of Accenture Global,
+thank you so much
+for joining us.
+<v ->Thank you so much.</v>
+Thanks Julia.
+<v Julia>Thank you.</v>

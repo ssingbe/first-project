@@ -1,0 +1,3808 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.235 --> 00:02.818
+(upbeat music)
+
+2
+00:11.100 --> 00:12.150
+<v ->Hello everyone.</v>
+
+3
+00:12.150 --> 00:16.538
+We have handheld mics, so hope these work out for all of us.
+
+4
+00:16.538 --> 00:20.850
+Welcome to our session. We're all really excited to be here.
+
+5
+00:20.850 --> 00:23.340
+Before I let everyone introduce themselves
+
+6
+00:23.340 --> 00:28.050
+and share their vision, I wanna introduce our panel first.
+
+7
+00:28.050 --> 00:32.310
+My name, Jane Sarasohn-Khan. I write the Health Populi blog.
+
+8
+00:32.310 --> 00:34.440
+This is my 16th CES.
+
+9
+00:34.440 --> 00:36.210
+I think health is everywhere,
+
+10
+00:36.210 --> 00:39.143
+and it's certainly everywhere at CES this year.
+
+11
+00:39.143 --> 00:43.343
+I wanna introduce our panel about the home and health
+
+12
+00:43.343 --> 00:48.343
+with a quote from 20, almost 21 years ago.
+
+13
+00:48.480 --> 00:52.260
+Dr. Charles Safran, S-A-F-R-A-N,
+
+14
+00:52.260 --> 00:56.280
+who still teaches at Harvard, was president of AMIA.
+
+15
+00:56.280 --> 00:57.796
+Those are the wonky folks who do
+
+16
+00:57.796 --> 01:00.750
+healthcare industry standards and things.
+
+17
+01:00.750 --> 01:04.140
+He's a healthcare informatician.
+
+18
+01:04.140 --> 01:07.800
+And Charles gave testimony to Congress,
+
+19
+01:07.800 --> 01:10.200
+the House Ways and Means Committee,
+
+20
+01:10.200 --> 01:13.743
+when EHRs were but a little dream,
+
+21
+01:14.580 --> 01:16.500
+which may have become a nightmare or not,
+
+22
+01:16.500 --> 01:18.810
+depending who you are, who we ask.
+
+23
+01:18.810 --> 01:21.840
+But Charles told the Congress folk
+
+24
+01:21.840 --> 01:26.040
+that patients were the most underutilized resource
+
+25
+01:26.040 --> 01:28.740
+in the United States health system.
+
+26
+01:28.740 --> 01:31.260
+So we fast forward a couple of decades,
+
+27
+01:31.260 --> 01:34.500
+and patients are still pretty underutilized in many ways.
+
+28
+01:34.500 --> 01:37.800
+But the home has a lot of promise
+
+29
+01:37.800 --> 01:40.380
+for enabling engagement in health,
+
+30
+01:40.380 --> 01:42.630
+and that's what we're gonna talk about today.
+
+31
+01:42.630 --> 01:45.870
+So without further ado, I'm gonna ask first Ricky Choi
+
+32
+01:45.870 --> 01:47.940
+of Samsung to introduce himself
+
+33
+01:47.940 --> 01:52.940
+and share his/Samsung's Holy Grail vision,
+
+34
+01:53.400 --> 01:58.400
+a hope and promise for health that's smarter from home.
+
+35
+02:00.090 --> 02:01.350
+Ricky.
+
+36
+02:01.350 --> 02:04.410
+<v ->Great, well good morning. Congratulations to all of you.</v>
+
+37
+02:04.410 --> 02:06.210
+You've made it to Thursday of CES.
+
+38
+02:06.210 --> 02:09.000
+So we really appreciate your attention and interest
+
+39
+02:09.000 --> 02:10.560
+in this whole area.
+
+40
+02:10.560 --> 02:11.820
+My name is Ricky Choi.
+
+41
+02:11.820 --> 02:13.020
+I'm the Head of Digital Health
+
+42
+02:13.020 --> 02:14.640
+at Samsung Electronics America.
+
+43
+02:14.640 --> 02:17.493
+I'm also a practicing clinician, as faculty at Stanford.
+
+44
+02:18.660 --> 02:22.440
+For Samsung, our vision is to build a healthier future
+
+45
+02:22.440 --> 02:25.650
+through connected care, centered around the home.
+
+46
+02:25.650 --> 02:29.040
+Now it's kind of obvious, but the home is just so critical.
+
+47
+02:29.040 --> 02:31.770
+It's where we begin our health journey almost every day.
+
+48
+02:31.770 --> 02:33.930
+Maybe not this week, but most days.
+
+49
+02:33.930 --> 02:35.520
+It's where we sleep to restore our body.
+
+50
+02:35.520 --> 02:37.260
+It's where we cook, and where we eat.
+
+51
+02:37.260 --> 02:40.770
+It's where we exercise, where we live our lives.
+
+52
+02:40.770 --> 02:41.853
+And at Samsung we feel like
+
+53
+02:41.853 --> 02:43.680
+that we have an incredible opportunity
+
+54
+02:43.680 --> 02:46.650
+to start to improve health through the home.
+
+55
+02:46.650 --> 02:50.400
+Given our very broad portfolio, our really deep penetration.
+
+56
+02:50.400 --> 02:51.233
+As we think about it,
+
+57
+02:51.233 --> 02:55.050
+70% of American homes have Samsung technology in it.
+
+58
+02:55.050 --> 02:59.907
+TVs, refrigerators, microwaves, wearables, and et cetera.
+
+59
+02:59.907 --> 03:02.700
+And so as a doctor, and as a leader in the health team,
+
+60
+03:02.700 --> 03:04.200
+I'm constantly trying to think about
+
+61
+03:04.200 --> 03:07.320
+how do we then tie these touch points together
+
+62
+03:07.320 --> 03:09.720
+to help people better understand their health.
+
+63
+03:09.720 --> 03:11.640
+To recognize their health status,
+
+64
+03:11.640 --> 03:14.220
+bring awareness when they might have a early sign
+
+65
+03:14.220 --> 03:15.990
+or symptom of a health condition,
+
+66
+03:15.990 --> 03:18.000
+tie them to care when they might need it,
+
+67
+03:18.000 --> 03:20.310
+help them when they get back home to recover.
+
+68
+03:20.310 --> 03:22.200
+And of course, care for their dependents,
+
+69
+03:22.200 --> 03:26.250
+whether it be aging parents, or their children.
+
+70
+03:26.250 --> 03:28.680
+So thinking a lot about the role of AI to do this,
+
+71
+03:28.680 --> 03:31.590
+or the role of next generation biosensing wearables
+
+72
+03:31.590 --> 03:33.090
+to tie those things together,
+
+73
+03:33.090 --> 03:35.190
+so we can drive personalized insights
+
+74
+03:35.190 --> 03:38.430
+to help people figure out what's that next best thing to do.
+
+75
+03:38.430 --> 03:40.230
+And if we do this really well,
+
+76
+03:40.230 --> 03:41.970
+then we have healthier people
+
+77
+03:41.970 --> 03:43.860
+who have more control over their health
+
+78
+03:43.860 --> 03:46.860
+and they can spend more time focusing on living their life
+
+79
+03:46.860 --> 03:48.870
+than constantly worrying about their health.
+
+80
+03:48.870 --> 03:51.150
+I should just add one other point.
+
+81
+03:51.150 --> 03:53.490
+While Samsung has this broad portfolio,
+
+82
+03:53.490 --> 03:56.760
+we fully recognize that health is a team sport.
+
+83
+03:56.760 --> 03:59.004
+As a physician, I can't practice by myself.
+
+84
+03:59.004 --> 04:02.130
+I need other people around me to be able to do this better.
+
+85
+04:02.130 --> 04:04.740
+People who are experts in what they do.
+
+86
+04:04.740 --> 04:07.770
+And so we have a very strong ecosystem-based approach
+
+87
+04:07.770 --> 04:10.110
+in order try to move this forward,
+
+88
+04:10.110 --> 04:12.840
+so we can find best partners to work together
+
+89
+04:12.840 --> 04:14.700
+in order to move towards this vision.
+
+90
+04:14.700 --> 04:15.900
+Thank you.
+
+91
+04:15.900 --> 04:18.570
+<v ->And as we move on to Antoine Robiliard,</v>
+
+92
+04:18.570 --> 04:20.550
+if there's someone who can turn the clock on
+
+93
+04:20.550 --> 04:22.890
+and get us on the right time, I would appreciate it.
+
+94
+04:22.890 --> 04:27.360
+So we can keep everyone to time, thank you. Antoine.
+
+95
+04:27.360 --> 04:29.520
+<v ->Good morning everyone. My name is Antoine.</v>
+
+96
+04:29.520 --> 04:32.490
+I lead Withings' efforts with the healthcare industry.
+
+97
+04:32.490 --> 04:34.440
+So for those of you who don't know us,
+
+98
+04:34.440 --> 04:37.650
+Withings invented the smart scale about 15 years ago.
+
+99
+04:37.650 --> 04:39.720
+And since then we've been developing devices
+
+100
+04:39.720 --> 04:42.030
+to help people take care of themselves at home.
+
+101
+04:42.030 --> 04:43.926
+We have a full ecosystem of devices.
+
+102
+04:43.926 --> 04:48.060
+And what we're really, really good at is at finding our way
+
+103
+04:48.060 --> 04:51.672
+into the daily life of users for a very long time.
+
+104
+04:51.672 --> 04:55.080
+And thanks to that, we're able to help them, to nudge them,
+
+105
+04:55.080 --> 04:58.770
+to drive them in the right direction towards better health.
+
+106
+04:58.770 --> 04:59.820
+About five years ago,
+
+107
+04:59.820 --> 05:02.308
+we created a division for the healthcare industry
+
+108
+05:02.308 --> 05:05.700
+to help care teams monitor their patients
+
+109
+05:05.700 --> 05:09.270
+with chronic conditions and drive better health outcome.
+
+110
+05:09.270 --> 05:11.940
+And it's thanks to this expertise with the consumer,
+
+111
+05:11.940 --> 05:13.800
+thanks to our ability to find our way
+
+112
+05:13.800 --> 05:16.650
+into their daily routine, their daily habits,
+
+113
+05:16.650 --> 05:19.170
+that we're seeing success in healthcare today.
+
+114
+05:19.170 --> 05:21.210
+Because we actually make devices and experience
+
+115
+05:21.210 --> 05:24.090
+that people like to use, that people want to use,
+
+116
+05:24.090 --> 05:25.500
+that people use in the long term,
+
+117
+05:25.500 --> 05:27.510
+and therefore generate data.
+
+118
+05:27.510 --> 05:30.840
+We're not asking them to use a piece of hospital at home.
+
+119
+05:30.840 --> 05:35.190
+We're sending data back from home to the hospital.
+
+120
+05:35.190 --> 05:37.650
+So for us, the vision is, thanks to that,
+
+121
+05:37.650 --> 05:41.730
+thanks to all this data that we're able to generate,
+
+122
+05:41.730 --> 05:43.869
+all the trends that we're able to see,
+
+123
+05:43.869 --> 05:47.313
+we're able to enable proactive healthcare.
+
+124
+05:48.240 --> 05:51.750
+So it's about collecting data in the daily life,
+
+125
+05:51.750 --> 05:54.990
+bringing this data to life in a meaningful way
+
+126
+05:54.990 --> 05:57.960
+to patients or to users, nudge them in the right direction,
+
+127
+05:57.960 --> 05:58.793
+and you mentioned AI.
+
+128
+05:58.793 --> 06:01.738
+I think there will be a lot of things to be said about that.
+
+129
+06:01.738 --> 06:03.270
+And more importantly,
+
+130
+06:03.270 --> 06:06.090
+connecting them to the healthcare industry when needed,
+
+131
+06:06.090 --> 06:07.649
+when we detect something.
+
+132
+06:07.649 --> 06:09.750
+When we have somebody that sleeps in their bed
+
+133
+06:09.750 --> 06:12.120
+and we see that there is a risk of sleep apnea.
+
+134
+06:12.120 --> 06:14.910
+When they're wearing a wearable, no matter the brand,
+
+135
+06:14.910 --> 06:17.086
+and we see there is a risk of AFib.
+
+136
+06:17.086 --> 06:20.430
+When we're able to detect various chronic conditions.
+
+137
+06:20.430 --> 06:22.284
+There are a lot that we can do today.
+
+138
+06:22.284 --> 06:24.270
+And the future for us will be about that.
+
+139
+06:24.270 --> 06:28.620
+Will be how can we help both users and care teams
+
+140
+06:28.620 --> 06:30.990
+identify a risk at a time
+
+141
+06:30.990 --> 06:33.450
+where we can actually have an impact on it
+
+142
+06:33.450 --> 06:35.463
+and avoid sick care.
+
+143
+06:37.620 --> 06:39.150
+<v Jane>Gabby.</v>
+
+144
+06:39.150 --> 06:41.580
+<v ->Hi there. My name is Gabby Goldblatt.</v>
+
+145
+06:41.580 --> 06:44.520
+I lead healthcare partnerships at DiMe,
+
+146
+06:44.520 --> 06:46.770
+or the Digital Medicine Society.
+
+147
+06:46.770 --> 06:50.160
+DiMe is a global research and education nonprofit,
+
+148
+06:50.160 --> 06:53.348
+and we convene and activate diverse stakeholders
+
+149
+06:53.348 --> 06:55.710
+around really complex problems
+
+150
+06:55.710 --> 06:59.040
+at the intersection of healthcare and technology.
+
+151
+06:59.040 --> 07:01.530
+We were really excited at the end of 2024
+
+152
+07:01.530 --> 07:05.010
+to announce a new Connected Health Collaborative Community
+
+153
+07:05.010 --> 07:08.880
+with the Consumer Technology Association and FDA
+
+154
+07:08.880 --> 07:12.660
+so that we can really intentionally convene, and again,
+
+155
+07:12.660 --> 07:16.530
+activate all of the different parties needed
+
+156
+07:16.530 --> 07:19.320
+to unlock the power of connected health
+
+157
+07:19.320 --> 07:21.000
+and healthcare at home.
+
+158
+07:21.000 --> 07:23.520
+What I'm excited about with healthcare at home
+
+159
+07:23.520 --> 07:28.140
+is how it really has the opportunity to empower people
+
+160
+07:28.140 --> 07:30.990
+to take their health into their own hands.
+
+161
+07:30.990 --> 07:32.850
+Have this real-time feedback,
+
+162
+07:32.850 --> 07:35.730
+this real-time data to learn more about themselves
+
+163
+07:35.730 --> 07:37.390
+and how they can make changes
+
+164
+07:39.030 --> 07:41.537
+that are really meaningful and impactful.
+
+165
+07:41.537 --> 07:43.260
+We're excited that we have
+
+166
+07:43.260 --> 07:45.060
+the Connected Health Collaborative Community
+
+167
+07:45.060 --> 07:46.863
+to make this a reality.
+
+168
+07:48.300 --> 07:49.200
+<v Jane>Carlos.</v>
+
+169
+07:49.200 --> 07:51.660
+<v ->Hi. Hello everyone, my name is Carlos Nunez.</v>
+
+170
+07:51.660 --> 07:54.480
+I'm the Chief Medical Officer of a company called ResMed.
+
+171
+07:54.480 --> 07:56.460
+And ResMed is the world's leading provider
+
+172
+07:56.460 --> 07:59.430
+of digital and connected solutions for sleep health,
+
+173
+07:59.430 --> 08:00.263
+breathing health,
+
+174
+08:00.263 --> 08:02.340
+and healthcare that's delivered in the home.
+
+175
+08:02.340 --> 08:04.650
+And I'm gonna make a pretty bold statement right now.
+
+176
+08:04.650 --> 08:08.220
+I think what this panel represents is the culmination of
+
+177
+08:08.220 --> 08:10.860
+what the health division at CTA represents.
+
+178
+08:10.860 --> 08:12.660
+The reason companies like ResMed
+
+179
+08:12.660 --> 08:15.150
+or the Digital Medicine Society are here,
+
+180
+08:15.150 --> 08:17.979
+it's because consumer companies like Samsung or Withings
+
+181
+08:17.979 --> 08:21.900
+are converging into this space between the home,
+
+182
+08:21.900 --> 08:23.070
+between the consumer,
+
+183
+08:23.070 --> 08:25.920
+and the traditional parts of the healthcare system.
+
+184
+08:25.920 --> 08:28.620
+We, as healthcare companies, or as medical companies,
+
+185
+08:28.620 --> 08:30.360
+are moving closer to the consumer.
+
+186
+08:30.360 --> 08:33.240
+And consumer companies are moving closer into this area
+
+187
+08:33.240 --> 08:34.620
+of health and wellness,
+
+188
+08:34.620 --> 08:36.750
+and even disease management in the home.
+
+189
+08:36.750 --> 08:39.810
+And so, again, bit of bold statement, but for me,
+
+190
+08:39.810 --> 08:42.720
+what this represents, this conversation today,
+
+191
+08:42.720 --> 08:46.800
+is the promise of what CTA brings to the table here.
+
+192
+08:46.800 --> 08:49.050
+The consumer, the person,
+
+193
+08:49.050 --> 08:51.420
+long before they ever become a patient,
+
+194
+08:51.420 --> 08:53.700
+worries about their health and their wellness.
+
+195
+08:53.700 --> 08:56.340
+And the United States and health systems around the world.
+
+196
+08:56.340 --> 08:58.440
+We call ourselves healthcare systems,
+
+197
+08:58.440 --> 09:01.290
+but we truly are more like disease intervention systems.
+
+198
+09:01.290 --> 09:04.650
+We don't do as good a job keeping people healthy,
+
+199
+09:04.650 --> 09:06.330
+having them live their best lives
+
+200
+09:06.330 --> 09:09.330
+where they want to be, in the place where they live.
+
+201
+09:09.330 --> 09:13.252
+And so being able to work with companies like the consumer,
+
+202
+09:13.252 --> 09:16.020
+work with the Consumer Technology Association,
+
+203
+09:16.020 --> 09:17.850
+and companies that are members
+
+204
+09:17.850 --> 09:20.220
+to make sure that those consumers in their homes
+
+205
+09:20.220 --> 09:23.490
+have access to the technology and the innovation
+
+206
+09:23.490 --> 09:25.440
+that can generate the data and the insights
+
+207
+09:25.440 --> 09:28.740
+to help keep them happy and healthy where they want to be.
+
+208
+09:28.740 --> 09:30.330
+It's the promise and the future
+
+209
+09:30.330 --> 09:31.740
+of where healthcare needs to go.
+
+210
+09:31.740 --> 09:33.120
+If we don't do this right,
+
+211
+09:33.120 --> 09:35.520
+the system is unsustainable as it stands.
+
+212
+09:35.520 --> 09:38.070
+And more people are in their homes,
+
+213
+09:38.070 --> 09:40.410
+or where they live their lives than they are in a hospital
+
+214
+09:40.410 --> 09:42.180
+or in a doctor's office, hopefully.
+
+215
+09:42.180 --> 09:43.740
+And it gives us an opportunity,
+
+216
+09:43.740 --> 09:45.840
+those unique insights into the patient,
+
+217
+09:45.840 --> 09:49.200
+which are the most underutilized resources in healthcare.
+
+218
+09:49.200 --> 09:51.990
+<v ->Thank you. So it's the conversation.</v>
+
+219
+09:51.990 --> 09:55.200
+Let's riff a little bit on prevention and well-being,
+
+220
+09:55.200 --> 09:57.780
+since you brought it up, Carlos, and not sick care.
+
+221
+09:57.780 --> 09:59.400
+'Cause that's one of the promises of the home.
+
+222
+09:59.400 --> 10:02.130
+Since we're only seeing a doc a couple times a year
+
+223
+10:02.130 --> 10:03.316
+and for a few minutes.
+
+224
+10:03.316 --> 10:07.232
+How can this smarter home for health
+
+225
+10:07.232 --> 10:11.640
+bolster our well-being, not just to make good choices,
+
+226
+10:11.640 --> 10:16.470
+whatever your technology or device your program seeks to do.
+
+227
+10:16.470 --> 10:18.663
+Who would like to take that on first?
+
+228
+10:20.070 --> 10:21.723
+<v ->I'm happy to go with this.</v>
+
+229
+10:24.360 --> 10:26.070
+To me, it's about the long term.
+
+230
+10:26.070 --> 10:28.920
+It's about how do we find our way into the daily life
+
+231
+10:28.920 --> 10:32.520
+of the users, or the patients, to generate this data,
+
+232
+10:32.520 --> 10:37.200
+to generate this trend that will help us
+
+233
+10:37.200 --> 10:39.060
+to nudge them in the right directions.
+
+234
+10:39.060 --> 10:41.970
+And too often I think we forget that,
+
+235
+10:41.970 --> 10:45.150
+on the other side of this remote patient monitoring program
+
+236
+10:45.150 --> 10:48.450
+or any program that healthcare organizations are leading,
+
+237
+10:48.450 --> 10:51.840
+too often, we forget that that patient is a user,
+
+238
+10:51.840 --> 10:53.190
+but that user is a consumer.
+
+239
+10:53.190 --> 10:56.130
+They consume, they have expectations.
+
+240
+10:56.130 --> 10:59.910
+We can't just expect them to change their daily habits,
+
+241
+10:59.910 --> 11:03.750
+to go in completely different directions,
+
+242
+11:03.750 --> 11:04.890
+towards better health.
+
+243
+11:04.890 --> 11:07.020
+We need to find ways to really integrate
+
+244
+11:07.020 --> 11:08.010
+into their daily lives,
+
+245
+11:08.010 --> 11:12.037
+and give them this little insight, little help,
+
+246
+11:12.037 --> 11:13.860
+to make little changes every day
+
+247
+11:13.860 --> 11:16.200
+because the accumulation of these little changes
+
+248
+11:16.200 --> 11:18.480
+that will drive something better.
+
+249
+11:18.480 --> 11:21.183
+I like to use an example. I love details.
+
+250
+11:22.470 --> 11:26.010
+On our scales, we show the weight trend.
+
+251
+11:26.010 --> 11:27.840
+Because who cares about the actual number?
+
+252
+11:27.840 --> 11:29.010
+The number is not important.
+
+253
+11:29.010 --> 11:30.690
+What's important is how you trend.
+
+254
+11:30.690 --> 11:32.700
+And by knowing how you trend every single day,
+
+255
+11:32.700 --> 11:35.490
+when you step on that scale, it helps you, as a user,
+
+256
+11:35.490 --> 11:38.400
+to make that little decision every single day
+
+257
+11:38.400 --> 11:39.930
+to be a little bit more healthy.
+
+258
+11:39.930 --> 11:41.130
+So for us it's really, yeah,
+
+259
+11:41.130 --> 11:43.230
+finding your way into the daily life.
+
+260
+11:43.230 --> 11:45.150
+The very, very long-term,
+
+261
+11:45.150 --> 11:47.550
+creating experience that are enticing
+
+262
+11:47.550 --> 11:51.240
+and that blend completely into the daily habits.
+
+263
+11:51.240 --> 11:52.320
+<v Jane>Go ahead, Rick.</v>
+
+264
+11:52.320 --> 11:53.760
+<v ->I just wanna comment on something</v>
+
+265
+11:53.760 --> 11:55.110
+you just kinda said offhandedly,
+
+266
+11:55.110 --> 11:57.540
+how you might only see your doctor a couple times a year.
+
+267
+11:57.540 --> 11:59.340
+I remember being in a meeting,
+
+268
+11:59.340 --> 12:02.220
+and hearing a presentation about diabetes.
+
+269
+12:02.220 --> 12:03.667
+And the speaker was saying,
+
+270
+12:03.667 --> 12:06.932
+"It's such an outrage that patients on average,
+
+271
+12:06.932 --> 12:10.407
+diabetics may only see their doctor an hour a year."
+
+272
+12:10.407 --> 12:13.530
+And I thought, "Wow, that's four visits a year.
+
+273
+12:13.530 --> 12:15.060
+That's a lot of visits!"
+
+274
+12:15.060 --> 12:17.100
+And so that kinda speaks to the mind frame,
+
+275
+12:17.100 --> 12:19.865
+where as a physician, wow, that's a lot of time.
+
+276
+12:19.865 --> 12:23.100
+But the patient obviously needs so much more than that.
+
+277
+12:23.100 --> 12:25.350
+Now, I think a lot of consumer technologies,
+
+278
+12:25.350 --> 12:27.420
+it started out with very basic things.
+
+279
+12:27.420 --> 12:29.040
+Like if you think about your wearable.
+
+280
+12:29.040 --> 12:31.200
+It was counting steps early on.
+
+281
+12:31.200 --> 12:33.330
+And now fast forward to where we are now,
+
+282
+12:33.330 --> 12:36.030
+now we're detecting risks of sleep apnea
+
+283
+12:36.030 --> 12:38.910
+and measuring percentage body fat and et cetera.
+
+284
+12:38.910 --> 12:40.560
+We've come a long way.
+
+285
+12:40.560 --> 12:41.550
+And at Samsung,
+
+286
+12:41.550 --> 12:44.580
+our four pillars are around stress management,
+
+287
+12:44.580 --> 12:48.630
+diet, exercise, and sleep.
+
+288
+12:48.630 --> 12:50.340
+Can't forget sleep, sorry, Carlos.
+
+289
+12:50.340 --> 12:51.696
+And sleep, absolutely.
+
+290
+12:51.696 --> 12:54.270
+And as we've started to refine and develop
+
+291
+12:54.270 --> 12:57.390
+what are traditionally kind of wellness types of areas,
+
+292
+12:57.390 --> 12:59.790
+we very quickly found out, oh, by the way,
+
+293
+12:59.790 --> 13:03.120
+those are the very foundations of prevention.
+
+294
+13:03.120 --> 13:05.370
+And as we think towards down that whole pathway
+
+295
+13:05.370 --> 13:07.127
+from prevention to early signs of illness
+
+296
+13:07.127 --> 13:08.790
+and on and going on,
+
+297
+13:08.790 --> 13:11.880
+most chronic disease and many disease programs
+
+298
+13:11.880 --> 13:14.880
+have at their foundation, not surprisingly,
+
+299
+13:14.880 --> 13:17.340
+sleep, exercise, diet and stress management.
+
+300
+13:17.340 --> 13:20.160
+And so we think of, and rehab programs and et cetera.
+
+301
+13:20.160 --> 13:23.130
+So there is a, for a different population.
+
+302
+13:23.130 --> 13:25.260
+So if you think about it, for me,
+
+303
+13:25.260 --> 13:27.080
+for the young spry people on the stage,
+
+304
+13:27.080 --> 13:28.740
+10,000 steps, who cares?
+
+305
+13:28.740 --> 13:29.880
+We did that yesterday, right?
+
+306
+13:29.880 --> 13:32.400
+We did 20 right on the floor at CES.
+
+307
+13:32.400 --> 13:35.100
+But for someone who just had a heart attack, bypass surgery,
+
+308
+13:35.100 --> 13:36.810
+knee replacement and et cetera,
+
+309
+13:36.810 --> 13:39.270
+1,000 steps, 5,000 steps, 10,000 steps
+
+310
+13:39.270 --> 13:40.950
+are extremely meaningful,
+
+311
+13:40.950 --> 13:43.500
+and create some interesting business opportunities I think,
+
+312
+13:43.500 --> 13:44.850
+because of that particular segment.
+
+313
+13:44.850 --> 13:47.293
+So all this to say is that there is a continuum
+
+314
+13:47.293 --> 13:49.710
+that from the consumer side that we're seeing,
+
+315
+13:49.710 --> 13:52.380
+there's value, leaning in on prevention,
+
+316
+13:52.380 --> 13:54.390
+and then in some ways, risk management.
+
+317
+13:54.390 --> 13:57.720
+<v ->Also, I just wanna brag about holding it here.</v>
+
+318
+13:57.720 --> 13:59.850
+I wanna brag about something Samsung
+
+319
+13:59.850 --> 14:01.380
+has done well for a few years,
+
+320
+14:01.380 --> 14:05.130
+and it's finally really come to be commercial and real.
+
+321
+14:05.130 --> 14:06.540
+'Cause I've been tracking this.
+
+322
+14:06.540 --> 14:08.373
+Your smart refrigerator,
+
+323
+14:09.360 --> 14:12.420
+shout out to your partnership with Instacart.
+
+324
+14:12.420 --> 14:13.980
+So you might not have read this press release
+
+325
+14:13.980 --> 14:17.460
+a few days ago, but Samsung and Instacart are collaborating.
+
+326
+14:17.460 --> 14:19.050
+You all know who Instacart are.
+
+327
+14:19.050 --> 14:22.830
+And if your app with your fridge
+
+328
+14:22.830 --> 14:26.790
+knows that you're managing diabetes or a low-salt diet,
+
+329
+14:26.790 --> 14:30.030
+the fridge can look inside, look at ingredients you have,
+
+330
+14:30.030 --> 14:32.520
+say you're a busy working mom.
+
+331
+14:32.520 --> 14:34.980
+The fridge knows what ingredients you have,
+
+332
+14:34.980 --> 14:38.400
+generates a recipe with the ingredients you have,
+
+333
+14:38.400 --> 14:40.316
+puts it in the screen, in your app,
+
+334
+14:40.316 --> 14:42.577
+sends a note to Instacart to say,
+
+335
+14:42.577 --> 14:44.730
+"Make a list of what's not in the fridge
+
+336
+14:44.730 --> 14:46.530
+she needs for this recipe."
+
+337
+14:46.530 --> 14:49.140
+And Instacart will either deliver it to you
+
+338
+14:49.140 --> 14:51.270
+or you can pick it up at the grocery store.
+
+339
+14:51.270 --> 14:52.500
+That's streamlined.
+
+340
+14:52.500 --> 14:55.260
+That's not just nudging, but supporting me,
+
+341
+14:55.260 --> 14:56.520
+and my, and my family's health.
+
+342
+14:56.520 --> 14:57.960
+So I just have to give you a shout-out.
+
+343
+14:57.960 --> 14:59.910
+I have no skin in his game at all.
+
+344
+14:59.910 --> 15:01.800
+I'm saying this as a consumer
+
+345
+15:01.800 --> 15:03.870
+who could spot what good looks like.
+
+346
+15:03.870 --> 15:04.703
+Congrats.
+
+347
+15:04.703 --> 15:05.536
+<v ->I mean, and I've just said,</v>
+
+348
+15:05.536 --> 15:07.560
+I think the layer, I hear what you're saying.
+
+349
+15:07.560 --> 15:10.350
+And this is the my mantra, even with my patients,
+
+350
+15:10.350 --> 15:13.830
+is how do we make the healthier choice the easier choice.
+
+351
+15:13.830 --> 15:15.060
+The easier thing to do.
+
+352
+15:15.060 --> 15:17.010
+So every time we take a friction step,
+
+353
+15:17.010 --> 15:20.040
+including I have to restock my fridge off your to-do list,
+
+354
+15:20.040 --> 15:21.780
+it makes it that much easier to do.
+
+355
+15:21.780 --> 15:23.280
+It's a little like how you set,
+
+356
+15:23.280 --> 15:24.930
+you can, for your paycheck,
+
+357
+15:24.930 --> 15:27.570
+you can automatically get it sent to a savings account
+
+358
+15:27.570 --> 15:30.690
+or donating, otherwise it's out of sight, out of mind,
+
+359
+15:30.690 --> 15:32.310
+but you're still doing the right thing.
+
+360
+15:32.310 --> 15:34.320
+The more we can do healthy things that way,
+
+361
+15:34.320 --> 15:35.550
+I think, the better.
+
+362
+15:35.550 --> 15:38.700
+<v ->Carlos, how do we nudge for better sleep</v>
+
+363
+15:38.700 --> 15:39.960
+and sleep health?
+
+364
+15:39.960 --> 15:43.080
+<v ->Yeah. So, and thank you for mentioning sleep, Ricky.</v>
+
+365
+15:43.080 --> 15:45.567
+And you've heard it a couple times now.
+
+366
+15:45.567 --> 15:47.896
+I'm here to convince you that
+
+367
+15:47.896 --> 15:50.970
+there is the most powerful medicine on earth.
+
+368
+15:50.970 --> 15:53.610
+It lives within you, and it's completely free.
+
+369
+15:53.610 --> 15:54.443
+And it really is.
+
+370
+15:54.443 --> 15:55.290
+It's a good night's sleep.
+
+371
+15:55.290 --> 15:57.810
+You heard Ricky mention the pillars of good health.
+
+372
+15:57.810 --> 16:00.303
+Sleep, diet, exercise, stress management.
+
+373
+16:01.590 --> 16:05.280
+Where you live, in your home, where you spend your time.
+
+374
+16:05.280 --> 16:08.730
+We have overemphasized in some ways,
+
+375
+16:08.730 --> 16:11.430
+things like diet and exercise at the expense of sleep.
+
+376
+16:12.630 --> 16:14.640
+We sometimes wear it as a badge of honor.
+
+377
+16:14.640 --> 16:16.860
+And if we want to talk about health and wellness
+
+378
+16:16.860 --> 16:19.620
+in the home, really, sleep is a massive part of it.
+
+379
+16:19.620 --> 16:22.800
+And it's not just, ResMed is a company that is known for
+
+380
+16:22.800 --> 16:25.110
+treating some sleep disorders like sleep apnea.
+
+381
+16:25.110 --> 16:26.850
+And both the Withings and the Samsung wearables
+
+382
+16:26.850 --> 16:28.380
+can actually detect sleep apnea.
+
+383
+16:28.380 --> 16:29.820
+And that's a very good thing.
+
+384
+16:29.820 --> 16:31.050
+But just sleep in general,
+
+385
+16:31.050 --> 16:32.610
+good healthy sleep is so important.
+
+386
+16:32.610 --> 16:33.879
+You mentioned,
+
+387
+16:33.879 --> 16:37.080
+how do we promote health and wellness in the home?
+
+388
+16:37.080 --> 16:40.560
+How do we go from sick care to more of a healthcare system?
+
+389
+16:40.560 --> 16:42.750
+And I think people just need to be aware
+
+390
+16:42.750 --> 16:45.450
+that there are significant components to health
+
+391
+16:45.450 --> 16:47.040
+that we often ignore.
+
+392
+16:47.040 --> 16:49.230
+And going back to the original thread
+
+393
+16:49.230 --> 16:53.010
+about the health in the home and consumer tech,
+
+394
+16:53.010 --> 16:55.680
+we've seen now for the last 20 or so years,
+
+395
+16:55.680 --> 16:57.870
+as you know, the Internet era has blossomed
+
+396
+16:57.870 --> 17:00.810
+and transformed into now the era of AI,
+
+397
+17:00.810 --> 17:02.910
+data is the currency that drives so much
+
+398
+17:02.910 --> 17:04.320
+of what we want to do.
+
+399
+17:04.320 --> 17:07.980
+And it's the consumer technology companies and platforms
+
+400
+17:07.980 --> 17:10.380
+that have shown us, if you collect enough data,
+
+401
+17:10.380 --> 17:13.800
+even if it's messy, even if it's not as coordinated
+
+402
+17:13.800 --> 17:16.590
+or beautiful as it is lined up in your EHR,
+
+403
+17:16.590 --> 17:19.050
+you learn a lot about people.
+
+404
+17:19.050 --> 17:21.331
+And the things you learn can help nudge them
+
+405
+17:21.331 --> 17:23.760
+to make better choices about their food,
+
+406
+17:23.760 --> 17:25.560
+to make better choices about their sleep,
+
+407
+17:25.560 --> 17:27.540
+and to understand why it's important.
+
+408
+17:27.540 --> 17:30.180
+And if you are going from wellness
+
+409
+17:30.180 --> 17:32.520
+to actually taking care of a chronic disease in the home,
+
+410
+17:32.520 --> 17:35.310
+I'll pick on the one I know the best, sleep apnea.
+
+411
+17:35.310 --> 17:37.110
+Having devices that are connected
+
+412
+17:37.110 --> 17:39.990
+so that not just your provider can see how you're doing,
+
+413
+17:39.990 --> 17:42.267
+but that you can understand how you're doing.
+
+414
+17:42.267 --> 17:43.530
+And the last thing I'll mention,
+
+415
+17:43.530 --> 17:46.140
+there is a protocol emerging in the smart home.
+
+416
+17:46.140 --> 17:47.370
+It's called Matter.
+
+417
+17:47.370 --> 17:50.070
+And it's a consortium of all of the major tech companies,
+
+418
+17:50.070 --> 17:52.560
+including like the Apples and the Amazons and the Googles
+
+419
+17:52.560 --> 17:53.580
+of the world,
+
+420
+17:53.580 --> 17:56.040
+that are trying to make a unified platform
+
+421
+17:56.040 --> 17:59.130
+so that whatever smart doorbell or smart light bulb you buy,
+
+422
+17:59.130 --> 18:00.990
+it will work with whatever assistant.
+
+423
+18:00.990 --> 18:02.820
+And there is a working group within Matter
+
+424
+18:02.820 --> 18:05.850
+that is looking to make sure that connected medical devices
+
+425
+18:05.850 --> 18:07.830
+can participate in that protocol.
+
+426
+18:07.830 --> 18:10.050
+So imagine a future that's not so far away
+
+427
+18:10.050 --> 18:13.470
+that your smart assistant of choice, let's say it's Alexa,
+
+428
+18:13.470 --> 18:16.200
+you set your alarm and it wakes you up,
+
+429
+18:16.200 --> 18:18.390
+and turns on your lights and says, "Good morning, Carlos.
+
+430
+18:18.390 --> 18:21.900
+By the way, your connected CPAP device said you did great.
+
+431
+18:21.900 --> 18:24.420
+You slept eight hours and you kept it on all night.
+
+432
+18:24.420 --> 18:26.970
+And we're gonna correlate it to the number of steps you take
+
+433
+18:26.970 --> 18:30.180
+or how well you make decisions about the food you eat."
+
+434
+18:30.180 --> 18:31.230
+That's the future.
+
+435
+18:31.230 --> 18:33.600
+The future is this multimodal approach
+
+436
+18:33.600 --> 18:37.590
+to using data in the right way, secure, anonymized,
+
+437
+18:37.590 --> 18:38.790
+appropriate for you,
+
+438
+18:38.790 --> 18:41.340
+appropriate for your provider in your situation,
+
+439
+18:41.340 --> 18:43.560
+to make sure that everything in your home,
+
+440
+18:43.560 --> 18:44.730
+everything in your life
+
+441
+18:44.730 --> 18:46.980
+can nudge you to make those good choices.
+
+442
+18:46.980 --> 18:48.510
+You use the term good choices.
+
+443
+18:48.510 --> 18:51.300
+We're in the city where people sometimes make bad choices,
+
+444
+18:51.300 --> 18:52.530
+mostly 'cause they stay up late,
+
+445
+18:52.530 --> 18:53.970
+and my friends in the National Sleep Foundation
+
+446
+18:53.970 --> 18:55.590
+that are sitting right there in the front row,
+
+447
+18:55.590 --> 18:56.587
+this morning told me, he says,
+
+448
+18:56.587 --> 18:58.440
+"Maybe people make bad decisions in Vegas
+
+449
+18:58.440 --> 19:00.000
+'cause they don't sleep well."
+
+450
+19:00.000 --> 19:03.150
+So, not to belabor the point, but yes,
+
+451
+19:03.150 --> 19:04.320
+sleep is extremely important.
+
+452
+19:04.320 --> 19:05.490
+I think it's a cornerstone of
+
+453
+19:05.490 --> 19:07.680
+what we're trying to accomplish.
+
+454
+19:07.680 --> 19:08.513
+<v Antoine>If I could add,</v>
+
+455
+19:08.513 --> 19:09.346
+<v ->I wanna ask Gabby.</v>
+
+456
+19:09.346 --> 19:12.960
+In the partnerships that DiMe is forging,
+
+457
+19:12.960 --> 19:16.860
+are there any focusing on prevention well-being?
+
+458
+19:16.860 --> 19:19.560
+Can you tell us a story about that?
+
+459
+19:19.560 --> 19:22.765
+<v ->Yeah, I think there's an increasing focus on prevention.</v>
+
+460
+19:22.765 --> 19:26.520
+To Carlos's earlier point, we have a sick care system,
+
+461
+19:26.520 --> 19:30.480
+and we need to reverse that into a true healthcare system.
+
+462
+19:30.480 --> 19:32.550
+And so we work with a lot of partners
+
+463
+19:32.550 --> 19:36.150
+who are literally sitting at the intersection
+
+464
+19:36.150 --> 19:39.540
+of consumer technology and healthcare,
+
+465
+19:39.540 --> 19:41.280
+and starting to bridge that gap
+
+466
+19:41.280 --> 19:44.911
+and making it easier for consumers, patients,
+
+467
+19:44.911 --> 19:48.540
+whether they're at home, or whether they're on the go,
+
+468
+19:48.540 --> 19:51.840
+and can actually use these connected devices
+
+469
+19:51.840 --> 19:55.920
+to continuously keep track
+
+470
+19:55.920 --> 19:59.760
+and work towards those preventative goals.
+
+471
+19:59.760 --> 20:01.860
+<v ->Antoine, did you wanna insert something?</v>
+
+472
+20:02.880 --> 20:05.342
+<v ->I wanted to add something on what Carlos said.</v>
+
+473
+20:05.342 --> 20:08.993
+You said that's the future. I think the future is here.
+
+474
+20:08.993 --> 20:11.190
+I think it's happening already today.
+
+475
+20:11.190 --> 20:14.220
+And I have a personal story to share on sleep apnea.
+
+476
+20:14.220 --> 20:15.780
+We have a device that track sleep apnea.
+
+477
+20:15.780 --> 20:18.390
+So I have four years of every single night
+
+478
+20:18.390 --> 20:20.028
+how my sleep apnea evolves.
+
+479
+20:20.028 --> 20:22.260
+Three years ago, I moved to the US,
+
+480
+20:22.260 --> 20:24.213
+and I started, I got my first kids.
+
+481
+20:25.560 --> 20:27.813
+I started to gain a little weight.
+
+482
+20:28.650 --> 20:31.110
+I have kids,
+<v Jane>Welcome to America.</v>
+
+483
+20:31.110 --> 20:33.540
+<v ->No, I'm not saying...
+(audience laughing)</v>
+
+484
+20:33.540 --> 20:37.080
+I didn't say that.
+(audience laughing)
+
+485
+20:37.080 --> 20:40.140
+I'm blaming the kids, I'm blaming the kids.
+
+486
+20:40.140 --> 20:41.070
+But I didn't care.
+
+487
+20:41.070 --> 20:43.350
+I didn't care because I have a wife, I have two kids.
+
+488
+20:43.350 --> 20:46.184
+Who care if I gain a little weight? It's okay.
+
+489
+20:46.184 --> 20:47.017
+And then one day,
+
+490
+20:47.017 --> 20:50.550
+I realized that my sleep apnea is going like crazy.
+
+491
+20:50.550 --> 20:53.460
+I move from being pretty much all the time in the green
+
+492
+20:53.460 --> 20:56.460
+to being in the yellow and sometimes in red.
+
+493
+20:56.460 --> 20:58.110
+And I'm like, "Wow, that's bad."
+
+494
+20:58.110 --> 21:00.780
+Gaining a little bit of weight is kind of okay.
+
+495
+21:00.780 --> 21:05.607
+But developing sleep apnea is much less.
+
+496
+21:05.607 --> 21:10.607
+And having access to this data has allowed me, as a user,
+
+497
+21:10.890 --> 21:14.010
+to change little things every day.
+
+498
+21:14.010 --> 21:17.910
+Lose a little bit of weight, and it got much better.
+
+499
+21:17.910 --> 21:21.060
+So I divided my AHI by two over six months
+
+500
+21:21.060 --> 21:24.180
+by losing about 15 pounds by myself.
+
+501
+21:24.180 --> 21:27.540
+No external help. And it just works.
+
+502
+21:27.540 --> 21:32.370
+And I am very excited about the potential
+
+503
+21:32.370 --> 21:35.220
+of everybody being empowered by this kind of data,
+
+504
+21:35.220 --> 21:37.140
+to make these little choices every day,
+
+505
+21:37.140 --> 21:39.643
+and be on their way to better health.
+
+506
+21:39.643 --> 21:42.000
+And I think it has started already.
+
+507
+21:42.000 --> 21:43.350
+<v ->Just to talk a little bit about the data.</v>
+
+508
+21:43.350 --> 21:44.700
+Again, it's so important.
+
+509
+21:44.700 --> 21:47.220
+Because, healthcare, there's an old quote.
+
+510
+21:47.220 --> 21:50.070
+Healthcare is data rich and information poor.
+
+511
+21:50.070 --> 21:52.290
+We could almost say that about the home,
+
+512
+21:52.290 --> 21:55.590
+except as I mentioned before, companies like Samsung,
+
+513
+21:55.590 --> 21:59.640
+Alphabet, Meta, have shown us that you can collect this,
+
+514
+21:59.640 --> 22:02.010
+every human now gives off a digital exhaust stream
+
+515
+22:02.010 --> 22:03.990
+every single minute of every single day.
+
+516
+22:03.990 --> 22:06.060
+Millions of data points generated.
+
+517
+22:06.060 --> 22:09.420
+And we've learned now through the rise of generative AI,
+
+518
+22:09.420 --> 22:11.520
+you can take these messy data
+
+519
+22:11.520 --> 22:13.590
+and turn them into real insights.
+
+520
+22:13.590 --> 22:16.860
+So where maybe hospitals are data rich and information poor,
+
+521
+22:16.860 --> 22:18.682
+although that is getting much, much better,
+
+522
+22:18.682 --> 22:20.250
+that tech companies,
+
+523
+22:20.250 --> 22:21.960
+the consumer tech companies have shown us
+
+524
+22:21.960 --> 22:24.150
+that the home doesn't have to be that way.
+
+525
+22:24.150 --> 22:25.650
+That you can take all of these data
+
+526
+22:25.650 --> 22:27.240
+and create those insights.
+
+527
+22:27.240 --> 22:28.650
+And sleep is so important,
+
+528
+22:28.650 --> 22:30.150
+not just for the reasons I mentioned,
+
+529
+22:30.150 --> 22:32.580
+but it's one of the most connected specialties
+
+530
+22:32.580 --> 22:33.780
+in all of healthcare.
+
+531
+22:33.780 --> 22:35.280
+Not to talk specifically about my company,
+
+532
+22:35.280 --> 22:37.290
+but it's the example I know the best.
+
+533
+22:37.290 --> 22:39.450
+Every one of our CPAP devices, for example,
+
+534
+22:39.450 --> 22:40.560
+has a cellular radio.
+
+535
+22:40.560 --> 22:42.600
+And it's had those for 10 years.
+
+536
+22:42.600 --> 22:46.800
+We have 25 million connected devices in patients' homes,
+
+537
+22:46.800 --> 22:49.080
+and 20 billion days and nights
+
+538
+22:49.080 --> 22:50.820
+of sleep and respiratory data.
+
+539
+22:50.820 --> 22:52.890
+Not 20 billion individual points,
+
+540
+22:52.890 --> 22:54.630
+20 billion days and nights,
+
+541
+22:54.630 --> 22:56.730
+of millions and millions of data points.
+
+542
+22:56.730 --> 22:59.130
+That allows us to do really interesting things
+
+543
+22:59.130 --> 23:02.190
+with research in making products better.
+
+544
+23:02.190 --> 23:04.470
+And also, doing it in an ethical way,
+
+545
+23:04.470 --> 23:07.260
+so that we can be a part of this ecosystem
+
+546
+23:07.260 --> 23:09.510
+and be proud of how we participate.
+
+547
+23:09.510 --> 23:12.217
+Because when you wake up and you get that score and it says,
+
+548
+23:12.217 --> 23:14.100
+"Oh my gosh, my breathing is worse."
+
+549
+23:14.100 --> 23:15.270
+I wear two different wearables,
+
+550
+23:15.270 --> 23:17.280
+a smart watch, and a smart ring.
+
+551
+23:17.280 --> 23:19.710
+And the insights and the apps
+
+552
+23:19.710 --> 23:24.150
+that the consumer facing companies can build for engagement,
+
+553
+23:24.150 --> 23:25.860
+it's a lot different than an EHR
+
+554
+23:25.860 --> 23:27.960
+that sometimes struggles just to engage the physicians
+
+555
+23:27.960 --> 23:29.220
+that have to use them.
+
+556
+23:29.220 --> 23:31.710
+So you're absolutely right.
+
+557
+23:31.710 --> 23:33.900
+Whether it's data about the way you're sleeping,
+
+558
+23:33.900 --> 23:35.670
+now there are over the counter CGMs.
+
+559
+23:35.670 --> 23:38.700
+I've tried both of the ones available in the US.
+
+560
+23:38.700 --> 23:41.850
+It's amazing how engaging the data and the insights can be
+
+561
+23:41.850 --> 23:43.530
+to help change your behaviors.
+
+562
+23:43.530 --> 23:44.670
+Maybe lose a few pounds
+
+563
+23:44.670 --> 23:46.650
+and do better when you sleep at night and breathe.
+
+564
+23:46.650 --> 23:48.397
+Or watch what you eat and decide,
+
+565
+23:48.397 --> 23:49.230
+"You know what?
+
+566
+23:49.230 --> 23:51.960
+Maybe I'm not gonna have that extra serving
+
+567
+23:51.960 --> 23:54.000
+that the American portions have given me.
+
+568
+23:54.000 --> 23:55.500
+I'm gonna go back to my French thinking,
+
+569
+23:55.500 --> 23:58.100
+and eat good bread and drink good wine."
+
+570
+23:58.100 --> 23:59.730
+(audience laughing)
+
+571
+23:59.730 --> 24:02.733
+<v ->Is Eric Wicklund, the writer, in the audience?</v>
+
+572
+24:03.870 --> 24:04.980
+Eric! Hi.
+
+573
+24:04.980 --> 24:07.650
+So the reason I'm taking your name not in vain,
+
+574
+24:07.650 --> 24:09.600
+but in joy and love,
+
+575
+24:09.600 --> 24:12.180
+is Eric recently wrote a piece in the last couple weeks
+
+576
+24:12.180 --> 24:16.530
+on the hospital to home isn't going so well.
+
+577
+24:16.530 --> 24:19.320
+And I take your point, I'm a health economist,
+
+578
+24:19.320 --> 24:20.460
+we're the dismal scientists.
+
+579
+24:20.460 --> 24:23.310
+We know, we think about barriers and limits.
+
+580
+24:23.310 --> 24:28.310
+So I wanna address some of the barriers and obstacles
+
+581
+24:28.320 --> 24:30.977
+to getting to our Holy Grail of health at home
+
+582
+24:30.977 --> 24:32.340
+from each of you.
+
+583
+24:32.340 --> 24:34.233
+And Eric, thanks for the inspiration.
+
+584
+24:35.700 --> 24:39.720
+Each of you, I would love you to identify one obstacle
+
+585
+24:39.720 --> 24:44.358
+or barrier to getting to the vision that you shared earlier
+
+586
+24:44.358 --> 24:46.800
+and how to mitigate it, get over it,
+
+587
+24:46.800 --> 24:49.920
+or how you might have done that at Samsung or Withings
+
+588
+24:49.920 --> 24:52.560
+or ResMed or a lesson from DiMe.
+
+589
+24:52.560 --> 24:55.382
+So who would like to talk about
+
+590
+24:55.382 --> 24:59.133
+one of these darker sides and how to mitigate it?
+
+591
+25:00.090 --> 25:02.910
+<v ->Yeah, I'm happy to get that conversation started.</v>
+
+592
+25:02.910 --> 25:06.180
+I think that what we've been hearing from consumers,
+
+593
+25:06.180 --> 25:10.380
+as well as healthcare industry stakeholders,
+
+594
+25:10.380 --> 25:13.680
+is a kind of a fatigue around point solutions.
+
+595
+25:13.680 --> 25:16.050
+And there are a lot of them on the floor.
+
+596
+25:16.050 --> 25:18.120
+And I think, I'm not an engineer,
+
+597
+25:18.120 --> 25:20.340
+but I know you have to start somewhere in an MVP
+
+598
+25:20.340 --> 25:22.500
+and build out and start and then building out.
+
+599
+25:22.500 --> 25:24.150
+But there is this kind of general,
+
+600
+25:24.150 --> 25:27.150
+can we start to think about the person more holistically,
+
+601
+25:27.150 --> 25:30.390
+from a thinking about the person perspective,
+
+602
+25:30.390 --> 25:33.210
+but also thinking about from a operational
+
+603
+25:33.210 --> 25:34.650
+and business perspective,
+
+604
+25:34.650 --> 25:36.480
+can we engage with this in a way
+
+605
+25:36.480 --> 25:38.760
+that can scale within my institution?
+
+606
+25:38.760 --> 25:41.190
+So I think that we need to start to think about
+
+607
+25:41.190 --> 25:42.780
+how do we get towards a little bit more
+
+608
+25:42.780 --> 25:44.430
+of a platform-based approach
+
+609
+25:44.430 --> 25:46.500
+in terms of addressing these things.
+
+610
+25:46.500 --> 25:49.020
+I just want to, and maybe add a little bit of color,
+
+611
+25:49.020 --> 25:51.780
+and a little bit of a shout out to the CTA is,
+
+612
+25:51.780 --> 25:56.205
+I think yesterday, they just made public a report
+
+613
+25:56.205 --> 25:59.790
+based on an interviews of people
+
+614
+25:59.790 --> 26:01.560
+of multiple different generations,
+
+615
+26:01.560 --> 26:04.526
+asking about their awareness, their use,
+
+616
+26:04.526 --> 26:08.206
+barriers, demands as it comes to smart technologies
+
+617
+26:08.206 --> 26:10.140
+and connected care in the home.
+
+618
+26:10.140 --> 26:13.980
+And not surprisingly, the top two were ease of use.
+
+619
+26:13.980 --> 26:16.140
+And the second one is around cost.
+
+620
+26:16.140 --> 26:18.210
+So what I'm trying to get to is that
+
+621
+26:18.210 --> 26:19.590
+we need to start to think about
+
+622
+26:19.590 --> 26:21.510
+how do we have a platform-based approach,
+
+623
+26:21.510 --> 26:24.120
+that can kind of keep the messiness below the platform,
+
+624
+26:24.120 --> 26:27.210
+but make it incredibly easy to use on top of the platform
+
+625
+26:27.210 --> 26:30.630
+where we're engaging with a patient, consumer, and user,
+
+626
+26:30.630 --> 26:31.650
+whoever that may be.
+
+627
+26:31.650 --> 26:33.900
+Caregiver too. We should be talking about that as well.
+
+628
+26:33.900 --> 26:36.720
+And I'm sure you're excited to talk about that.
+
+629
+26:36.720 --> 26:38.760
+Today, I mean, here at CES,
+
+630
+26:38.760 --> 26:41.310
+through our really strong partnership with AARP,
+
+631
+26:41.310 --> 26:42.143
+we started to think about
+
+632
+26:42.143 --> 26:44.070
+what could that platform look like?
+
+633
+26:44.070 --> 26:45.863
+And so you have a project called CareHub,
+
+634
+26:45.863 --> 26:48.690
+where we're imagining where you bring streams of data
+
+635
+26:48.690 --> 26:52.920
+from multiple different technology companies and solutions.
+
+636
+26:52.920 --> 26:56.190
+How do we create an interface that is easy to use
+
+637
+26:56.190 --> 26:59.820
+that solves problems, and hopefully that will,
+
+638
+26:59.820 --> 27:01.350
+we can use that as a starting point
+
+639
+27:01.350 --> 27:02.800
+to continue to build forward.
+
+640
+27:04.114 --> 27:05.100
+<v Jane>Great. Antoine?</v>
+
+641
+27:05.100 --> 27:08.040
+<v ->I fully agree with this. I would add another one.</v>
+
+642
+27:08.040 --> 27:10.470
+I think it's around trust.
+
+643
+27:10.470 --> 27:15.470
+How do we help care teams cut through the noise,
+
+644
+27:15.870 --> 27:20.870
+understand what is legit and act on this flow of data
+
+645
+27:23.070 --> 27:24.150
+that is coming to them.
+
+646
+27:24.150 --> 27:25.590
+And I don't think it's about more data,
+
+647
+27:25.590 --> 27:26.910
+I think it's about better data,
+
+648
+27:26.910 --> 27:28.140
+but that's a different story.
+
+649
+27:28.140 --> 27:31.530
+But the fact is, we're getting all this data from home.
+
+650
+27:31.530 --> 27:32.517
+Care teams are not used to that.
+
+651
+27:32.517 --> 27:33.690
+And it's not their fault.
+
+652
+27:33.690 --> 27:36.930
+It's just the way it has been working forever.
+
+653
+27:36.930 --> 27:39.540
+So how do us, as the industry,
+
+654
+27:39.540 --> 27:44.540
+we can do the job to educate better on what we're building,
+
+655
+27:46.050 --> 27:49.170
+develop this trust, and help them understand
+
+656
+27:49.170 --> 27:52.110
+how it can be helpful in the management of the patient.
+
+657
+27:52.110 --> 27:54.720
+For me, when I show my data to a physician,
+
+658
+27:54.720 --> 27:57.000
+one of two things happen.
+
+659
+27:57.000 --> 27:58.837
+One, they know Withings, and they're like,
+
+660
+27:58.837 --> 28:00.300
+"Oh, cool. So, what does it say?
+
+661
+28:00.300 --> 28:01.500
+Tell me more. Tell me more."
+
+662
+28:01.500 --> 28:02.333
+The other one is like,
+
+663
+28:02.333 --> 28:04.470
+"Yeah, nevermind. Let's start."
+
+664
+28:04.470 --> 28:08.184
+But I'm coming with so much data
+
+665
+28:08.184 --> 28:10.380
+that I understand that it's hard.
+
+666
+28:10.380 --> 28:12.360
+So I think the burden is on us. It's not on the care teams.
+
+667
+28:12.360 --> 28:13.500
+They already have so many things to do.
+
+668
+28:13.500 --> 28:18.500
+It's on us to kind of raise the bar and better explain,
+
+669
+28:18.690 --> 28:21.813
+better demonstrate the impact of what we can do at home.
+
+670
+28:24.180 --> 28:26.820
+<v ->Very much agree with both of you.</v>
+
+671
+28:26.820 --> 28:29.580
+One thing that we also think a lot about at DiMe
+
+672
+28:29.580 --> 28:32.820
+is how we're actually articulating the ROI
+
+673
+28:32.820 --> 28:35.910
+associated with these new and emerging technologies.
+
+674
+28:35.910 --> 28:39.483
+And articulating that ROI to different stakeholders,
+
+675
+28:40.590 --> 28:42.810
+while also being aligned
+
+676
+28:42.810 --> 28:45.120
+with how that is being articulated, right?
+
+677
+28:45.120 --> 28:48.120
+So that ensures
+
+678
+28:48.120 --> 28:52.263
+that you're actually thinking about why a clinician,
+
+679
+28:53.640 --> 28:58.640
+or how a clinician can be engaged with consumer technology.
+
+680
+28:58.980 --> 29:02.464
+There's a huge risk in not bringing clinicians along,
+
+681
+29:02.464 --> 29:06.870
+as we increase the use of consumer technology
+
+682
+29:06.870 --> 29:09.210
+and creating more silos and more data
+
+683
+29:09.210 --> 29:12.371
+that maybe clinicians don't know what to do with it.
+
+684
+29:12.371 --> 29:14.040
+So making sure again,
+
+685
+29:14.040 --> 29:16.440
+that we're thinking about that clinical ROI,
+
+686
+29:16.440 --> 29:19.080
+but also that health economic ROI.
+
+687
+29:19.080 --> 29:22.500
+And that's why it's important, and what we do at DiMe,
+
+688
+29:22.500 --> 29:25.320
+is bringing together all of these diverse stakeholders
+
+689
+29:25.320 --> 29:27.720
+to really uncover what we're talking about
+
+690
+29:27.720 --> 29:30.090
+when we're thinking about the return on investment,
+
+691
+29:30.090 --> 29:34.110
+and what value looks like to different stakeholders.
+
+692
+29:34.110 --> 29:36.930
+<v ->Yeah, similar to what Antoine was saying about trust.</v>
+
+693
+29:36.930 --> 29:38.040
+I think that for me,
+
+694
+29:38.040 --> 29:40.170
+one of the barriers coming from this direction,
+
+695
+29:40.170 --> 29:43.563
+from healthcare towards the consumer is that,
+
+696
+29:44.760 --> 29:46.010
+forgive my, sorry, Ricky.
+
+697
+29:46.010 --> 29:48.312
+So I'm a physician like Ricky, obviously.
+
+698
+29:48.312 --> 29:51.630
+We need to sort of get over ourselves a little bit.
+
+699
+29:51.630 --> 29:55.770
+Stop being so paternalistic and so protective of healthcare
+
+700
+29:55.770 --> 29:58.950
+and start to meet patients and people where they are.
+
+701
+29:58.950 --> 30:01.860
+Understand that things that they learn
+
+702
+30:01.860 --> 30:03.630
+in the ways that they learn them.
+
+703
+30:03.630 --> 30:04.740
+It might be social media,
+
+704
+30:04.740 --> 30:07.080
+it might be a question that they ask to ChatGPT,
+
+705
+30:07.080 --> 30:10.230
+or Perplexity, matter to them.
+
+706
+30:10.230 --> 30:13.890
+That these new technologies may be different,
+
+707
+30:13.890 --> 30:16.800
+or uncomfortable, but we have to be curious.
+
+708
+30:16.800 --> 30:18.720
+We have to kind of get over ourselves,
+
+709
+30:18.720 --> 30:20.940
+stop being so set in our ways.
+
+710
+30:20.940 --> 30:24.393
+So worried about disruption and embrace the disruption.
+
+711
+30:25.747 --> 30:27.240
+It's happening.
+
+712
+30:27.240 --> 30:30.090
+And healthcare has notoriously been behind
+
+713
+30:30.090 --> 30:31.353
+in other industries.
+
+714
+30:32.670 --> 30:34.297
+Bill Gates once famously said,
+
+715
+30:34.297 --> 30:37.110
+"If the automobile industry was like the computer industry
+
+716
+30:37.110 --> 30:39.240
+where computers get more and more powerful every year,
+
+717
+30:39.240 --> 30:40.950
+and cheaper and cheaper every year,
+
+718
+30:40.950 --> 30:42.867
+cars would be free, and run on water."
+
+719
+30:43.920 --> 30:46.890
+Healthcare has lagged, sometimes 20 years behind,
+
+720
+30:46.890 --> 30:48.660
+in the adoption of certain things.
+
+721
+30:48.660 --> 30:51.720
+And again, it's often that paternalistic approach.
+
+722
+30:51.720 --> 30:53.160
+It's not the regulatory agencies.
+
+723
+30:53.160 --> 30:55.170
+I see folks from the FDA in the audience.
+
+724
+30:55.170 --> 30:57.690
+They have a digital health practice within the FDA,
+
+725
+30:57.690 --> 30:59.070
+they've approved, if I get the number wrong,
+
+726
+30:59.070 --> 30:59.903
+please forgive me,
+
+727
+30:59.903 --> 31:04.680
+but nearly 1,000 devices that are software-based,
+
+728
+31:04.680 --> 31:07.980
+AI-based applications in healthcare.
+
+729
+31:07.980 --> 31:10.890
+It's not the regulators that are often holding us up.
+
+730
+31:10.890 --> 31:13.500
+It's not the patients who are refusing to embrace this.
+
+731
+31:13.500 --> 31:15.390
+It's often medicine,
+
+732
+31:15.390 --> 31:18.540
+organized medicine in the healthcare system that is slow,
+
+733
+31:18.540 --> 31:21.960
+because, I don't know why,
+
+734
+31:21.960 --> 31:23.610
+but we just, again, I hate to say it like this,
+
+735
+31:23.610 --> 31:25.410
+get over ourselves and be curious.
+
+736
+31:25.410 --> 31:27.690
+Embrace the disruption. It's happening.
+
+737
+31:27.690 --> 31:29.100
+And if you are not a part of it,
+
+738
+31:29.100 --> 31:32.250
+it's gonna happen around you and you'll be disintermediated.
+
+739
+31:32.250 --> 31:33.083
+<v ->I love that.</v>
+
+740
+31:33.083 --> 31:35.010
+And just, if I could just add one thing,
+
+741
+31:35.010 --> 31:37.260
+to weave a bit together.
+
+742
+31:37.260 --> 31:39.150
+To Gabby's point about an ROI,
+
+743
+31:39.150 --> 31:41.010
+which is something I think about a lot.
+
+744
+31:41.010 --> 31:44.434
+There was this seminal article in JAMA many years ago,
+
+745
+31:44.434 --> 31:48.060
+when value-based payment was starting to be a phrase.
+
+746
+31:48.060 --> 31:50.820
+And now we're kind of sick of it, 'cause when, when.
+
+747
+31:50.820 --> 31:53.220
+But the title of the article, and look it up,
+
+748
+31:53.220 --> 31:55.530
+because it's really worth reading.
+
+749
+31:55.530 --> 31:57.840
+It's "Value-based Payment
+
+750
+31:57.840 --> 32:01.560
+Requires Valuing What Matters to Patients."
+
+751
+32:01.560 --> 32:03.420
+And it's sort of pay,
+
+752
+32:03.420 --> 32:06.480
+if we're doing this home health thing,
+
+753
+32:06.480 --> 32:09.330
+the new home as the health hub,
+
+754
+32:09.330 --> 32:12.000
+people are inviting us into their home.
+
+755
+32:12.000 --> 32:15.810
+So we need to be designful, respectful,
+
+756
+32:15.810 --> 32:18.510
+loving, enchanting, even.
+
+757
+32:18.510 --> 32:20.220
+But we have to keep that in mind
+
+758
+32:20.220 --> 32:23.640
+as we're all at CES looking at shiny new things,
+
+759
+32:23.640 --> 32:25.980
+to make sure that these are products
+
+760
+32:25.980 --> 32:27.690
+designed with ethics by design.
+
+761
+32:27.690 --> 32:30.000
+You talked about, Carlos, privacy by design.
+
+762
+32:30.000 --> 32:33.660
+So I think about the ROI in the eyes of the patient,
+
+763
+32:33.660 --> 32:35.340
+or the caregiver who may be paying
+
+764
+32:35.340 --> 32:37.080
+for this out of their own pocket.
+
+765
+32:37.080 --> 32:41.951
+So as we come to the last big question,
+
+766
+32:41.951 --> 32:45.090
+which is that we are all in this together.
+
+767
+32:45.090 --> 32:47.490
+No one owns the home.
+
+768
+32:47.490 --> 32:51.450
+It's a sandbox full of opportunity for collaboration.
+
+769
+32:51.450 --> 32:55.022
+So let's talk about friends and collaboratives.
+
+770
+32:55.022 --> 32:58.500
+How do you figure out who to collaborate with
+
+771
+32:58.500 --> 33:02.280
+in delivering new, new solutions, new programs?
+
+772
+33:02.280 --> 33:05.670
+What filters do you use? Some best practices?
+
+773
+33:05.670 --> 33:06.960
+So who want...
+
+774
+33:06.960 --> 33:08.040
+Gabby, do you wanna start?
+
+775
+33:08.040 --> 33:11.220
+'Cause you're kind of the collaboration guru here.
+
+776
+33:11.220 --> 33:12.808
+<v ->Happy to.</v>
+
+777
+33:12.808 --> 33:15.930
+A lot of times, it starts at places like CES,
+
+778
+33:15.930 --> 33:20.070
+where we're listening to what the field is saying.
+
+779
+33:20.070 --> 33:23.040
+It also happens in conversations with people,
+
+780
+33:23.040 --> 33:26.400
+with friends and family, to hear what their challenges are,
+
+781
+33:26.400 --> 33:28.060
+and where there's opportunity
+
+782
+33:29.280 --> 33:33.990
+to match both what people at CES are saying,
+
+783
+33:33.990 --> 33:37.140
+and what people are saying.
+
+784
+33:37.140 --> 33:39.090
+Taking that data-driven approach,
+
+785
+33:39.090 --> 33:41.190
+and then actually convening around
+
+786
+33:41.190 --> 33:44.220
+a very specific problem statement
+
+787
+33:44.220 --> 33:46.230
+and bringing different stakeholders together
+
+788
+33:46.230 --> 33:49.470
+around the table is really how we're going to be able
+
+789
+33:49.470 --> 33:54.470
+to not only adopt a smart home, a health at home model,
+
+790
+33:55.230 --> 33:59.010
+but really accelerate it and achieve the promise
+
+791
+33:59.010 --> 34:02.248
+that all of us spoke about at the beginning.
+
+792
+34:02.248 --> 34:04.500
+And if we don't,
+
+793
+34:04.500 --> 34:07.530
+if we're not all kind of rowing in the same direction,
+
+794
+34:07.530 --> 34:10.980
+if you will, we risk making mistakes
+
+795
+34:10.980 --> 34:13.290
+that we've made in healthcare before.
+
+796
+34:13.290 --> 34:15.450
+Like we saw in scaling EHRs,
+
+797
+34:15.450 --> 34:17.370
+like we've seen in other situations.
+
+798
+34:17.370 --> 34:21.360
+And so we have the opportunity now to commit ourselves,
+
+799
+34:21.360 --> 34:25.290
+to actually commit ourselves to collaboration.
+
+800
+34:25.290 --> 34:28.410
+So that's what's exciting about these types of conversations
+
+801
+34:28.410 --> 34:30.990
+and I look forward to hopefully being able to
+
+802
+34:30.990 --> 34:33.480
+working with all of you and you all, in again,
+
+803
+34:33.480 --> 34:36.723
+making this connected health space a reality, and sooner.
+
+804
+34:39.090 --> 34:41.158
+<v Jane>Jump in.</v>
+<v ->I'll go next.</v>
+
+805
+34:41.158 --> 34:43.230
+I think collaboration is going to be key.
+
+806
+34:43.230 --> 34:45.330
+To the point I was making before,
+
+807
+34:45.330 --> 34:47.610
+the traditional sides of the healthcare industry
+
+808
+34:47.610 --> 34:49.590
+are going to have to be comfortable collaborating
+
+809
+34:49.590 --> 34:51.870
+with a consumer electronics company,
+
+810
+34:51.870 --> 34:55.320
+collaborating with conveners like DiMe or like CTA.
+
+811
+34:55.320 --> 34:57.030
+I think, for those of you who don't know,
+
+812
+34:57.030 --> 35:00.120
+the health division within CTA, for many years now,
+
+813
+35:00.120 --> 35:01.860
+has been the fastest growing division.
+
+814
+35:01.860 --> 35:03.870
+And there are members of the health division
+
+815
+35:03.870 --> 35:06.570
+that you'll never see at a booth on the floor here
+
+816
+35:06.570 --> 35:08.940
+because there are 361 days a year
+
+817
+35:08.940 --> 35:11.580
+where organizations like CTA aren't at CTS
+
+818
+35:11.580 --> 35:14.550
+doing lots of other stuff, like policy, advocacy,
+
+819
+35:14.550 --> 35:17.640
+working with regulators like the FDA and others.
+
+820
+35:17.640 --> 35:20.250
+And I think those partnerships are important,
+
+821
+35:20.250 --> 35:22.590
+as well as the partnerships across the industry.
+
+822
+35:22.590 --> 35:23.423
+From the consumer,
+
+823
+35:23.423 --> 35:26.640
+and from the traditional healthcare side of it.
+
+824
+35:26.640 --> 35:29.040
+And, I maybe I was a little harsh,
+
+825
+35:29.040 --> 35:30.060
+as we need to get over ourselves.
+
+826
+35:30.060 --> 35:31.170
+What we need to do is, like I said,
+
+827
+35:31.170 --> 35:33.900
+embrace not just the disruption,
+
+828
+35:33.900 --> 35:36.780
+but embrace these non-traditional tech
+
+829
+35:36.780 --> 35:38.310
+and innovation companies.
+
+830
+35:38.310 --> 35:40.590
+Because healthcare is nearly 20%
+
+831
+35:40.590 --> 35:43.140
+of the gross domestic product of the United States.
+
+832
+35:43.140 --> 35:45.480
+And we spend more per capita than anybody else.
+
+833
+35:45.480 --> 35:47.640
+But it is no secret that our outcomes
+
+834
+35:47.640 --> 35:50.220
+are not as good as they should be.
+
+835
+35:50.220 --> 35:51.897
+But when you look at how the technology
+
+836
+35:51.897 --> 35:53.700
+and the consumer technology industry
+
+837
+35:53.700 --> 35:56.310
+has advanced in the last few decades,
+
+838
+35:56.310 --> 35:57.630
+they're doing amazing things.
+
+839
+35:57.630 --> 35:59.310
+And it does get cheaper and cheaper
+
+840
+35:59.310 --> 36:01.860
+to do more amazing things every year.
+
+841
+36:01.860 --> 36:04.260
+If we do not listen and if we do not pay attention,
+
+842
+36:04.260 --> 36:06.120
+healthcare will get disrupted around us
+
+843
+36:06.120 --> 36:07.440
+if we don't participate.
+
+844
+36:07.440 --> 36:09.120
+So it's really all of the partnerships,
+
+845
+36:09.120 --> 36:10.230
+all the collaboration,
+
+846
+36:10.230 --> 36:12.380
+and all the participation that's important.
+
+847
+36:13.290 --> 36:14.470
+<v ->Yeah, just to add on,</v>
+
+848
+36:14.470 --> 36:17.610
+sometimes I come to conferences and I listen to sessions.
+
+849
+36:17.610 --> 36:19.590
+I thought, "Oh yeah, I heard all those things before."
+
+850
+36:19.590 --> 36:21.360
+And I don't know if I walk away
+
+851
+36:21.360 --> 36:23.460
+remembering anything really meaningful.
+
+852
+36:23.460 --> 36:24.293
+And maybe for me,
+
+853
+36:24.293 --> 36:27.810
+the big thing in this conversation is the urgency.
+
+854
+36:27.810 --> 36:29.220
+And I think we all know the numbers,
+
+855
+36:29.220 --> 36:30.540
+but just to highlight them, right?
+
+856
+36:30.540 --> 36:32.970
+We think about over half of adults
+
+857
+36:32.970 --> 36:34.590
+in the United States are caregivers.
+
+858
+36:34.590 --> 36:36.600
+We've actually, even on our own team,
+
+859
+36:36.600 --> 36:39.270
+have had some personal tragedies in the family
+
+860
+36:39.270 --> 36:40.380
+as they've been trying to figure out
+
+861
+36:40.380 --> 36:42.240
+how do they care for their aging parents or,
+
+862
+36:42.240 --> 36:45.210
+and sometimes and feeling really frustrated
+
+863
+36:45.210 --> 36:47.160
+about their limited ability to do so.
+
+864
+36:47.160 --> 36:48.420
+We can think about the shortage,
+
+865
+36:48.420 --> 36:51.809
+the workforce shortage in healthcare.
+
+866
+36:51.809 --> 36:53.940
+It's, what is it? Two, three million now?
+
+867
+36:53.940 --> 36:57.300
+Will be 10 in the next five years. They need help.
+
+868
+36:57.300 --> 36:58.530
+Caregivers need help.
+
+869
+36:58.530 --> 37:01.440
+And I think people who want to stay at home and age at home,
+
+870
+37:01.440 --> 37:03.113
+70% of adults, right?
+
+871
+37:03.113 --> 37:05.070
+Aging adults wanna stay at home.
+
+872
+37:05.070 --> 37:07.530
+The opportunity is tremendous. The need is very high.
+
+873
+37:07.530 --> 37:10.020
+There is tremendous urgency here.
+
+874
+37:10.020 --> 37:12.060
+Now, I don't think any of us on stage,
+
+875
+37:12.060 --> 37:14.760
+or anyone out there, has quite figured it out.
+
+876
+37:14.760 --> 37:16.890
+And I think that it's through collaborations
+
+877
+37:16.890 --> 37:19.080
+just as Carlos shared, that we're gonna be able to do this.
+
+878
+37:19.080 --> 37:20.760
+So it takes a little bit of humility,
+
+879
+37:20.760 --> 37:22.890
+it takes a little bit of let's trust the people around us,
+
+880
+37:22.890 --> 37:23.874
+let's work together,
+
+881
+37:23.874 --> 37:26.460
+and let's figure out how we can complement each other,
+
+882
+37:26.460 --> 37:29.250
+create synergies, what problems can we solve together,
+
+883
+37:29.250 --> 37:32.286
+whether it be regulation, or whether it be around
+
+884
+37:32.286 --> 37:35.670
+having a very forward approach to the way we communicate
+
+885
+37:35.670 --> 37:39.300
+to the general public about what x, y, z technology could do
+
+886
+37:39.300 --> 37:40.620
+and how it could help you.
+
+887
+37:40.620 --> 37:43.320
+And I think that slowly, we'll start to make progress.
+
+888
+37:44.670 --> 37:45.834
+<v ->I'm very aligned with all this.</v>
+
+889
+37:45.834 --> 37:50.100
+We've always been very open at Withings at sharing data,
+
+890
+37:50.100 --> 37:52.350
+of course, with the consent of the end users.
+
+891
+37:52.350 --> 37:54.810
+But we have thousands of partners
+
+892
+37:54.810 --> 37:58.242
+that collect data from our devices with their users.
+
+893
+37:58.242 --> 38:01.087
+And we're about to reach a million patient
+
+894
+38:01.087 --> 38:05.682
+that have been equipped with our devices from care teams.
+
+895
+38:05.682 --> 38:08.430
+So partnership has always been extremely important for us.
+
+896
+38:08.430 --> 38:10.530
+But I think now we need to think of
+
+897
+38:10.530 --> 38:14.160
+how can we partner together on new business models as well.
+
+898
+38:14.160 --> 38:16.890
+Because specifically here in the US,
+
+899
+38:16.890 --> 38:20.460
+we know quite well how to pay for sick care.
+
+900
+38:20.460 --> 38:23.700
+We know how to reimburse the monitoring of patients
+
+901
+38:23.700 --> 38:25.350
+that are already sick.
+
+902
+38:25.350 --> 38:27.300
+But we don't know how to pay for the patient
+
+903
+38:27.300 --> 38:28.440
+that are not sick.
+
+904
+38:28.440 --> 38:31.980
+How do we avoid these patients to even become sick?
+
+905
+38:31.980 --> 38:34.323
+And that's probably the easiest thing to do.
+
+906
+38:36.150 --> 38:37.500
+And that's by being in the room,
+
+907
+38:37.500 --> 38:39.330
+that's by this everyday data.
+
+908
+38:39.330 --> 38:41.610
+There is just no mechanism today to make this work.
+
+909
+38:41.610 --> 38:43.290
+So for us, what's important
+
+910
+38:43.290 --> 38:46.320
+is how do we find this forward-thinking partners
+
+911
+38:46.320 --> 38:48.090
+that are looking at the tomorrow,
+
+912
+38:48.090 --> 38:50.550
+that are looking at how can we help our population
+
+913
+38:50.550 --> 38:51.810
+to stay healthy,
+
+914
+38:51.810 --> 38:55.050
+and to stay as far away as the hospital as possible.
+
+915
+38:55.050 --> 38:57.060
+While of course being connected with care teams,
+
+916
+38:57.060 --> 38:59.860
+and getting the care they need when they need that care.
+
+917
+39:01.680 --> 39:04.170
+<v ->That's great. Well, we're coming to a close.</v>
+
+918
+39:04.170 --> 39:06.840
+I just wanna wrap up a little bit.
+
+919
+39:06.840 --> 39:10.530
+Collaboration is key, cooperating in the sandbox,
+
+920
+39:10.530 --> 39:12.210
+design thinking.
+
+921
+39:12.210 --> 39:15.030
+And I can say your organization,
+
+922
+39:15.030 --> 39:17.430
+I've met with you guys this week.
+
+923
+39:17.430 --> 39:20.760
+Withings' and ResMed's products I know pretty well.
+
+924
+39:20.760 --> 39:23.100
+Design thinking is embedded in them.
+
+925
+39:23.100 --> 39:26.910
+And thinking about the user, the end user,
+
+926
+39:26.910 --> 39:30.780
+and the patient as the payer, or the caregiver as the payer.
+
+927
+39:30.780 --> 39:33.930
+Caregiver's huge, thank you for bringing that up.
+
+928
+39:33.930 --> 39:36.777
+Also think about people's drivers of health
+
+929
+39:36.777 --> 39:39.300
+and their Maslow's hierarchy of needs.
+
+930
+39:39.300 --> 39:40.380
+Clean air, clean water.
+
+931
+39:40.380 --> 39:43.080
+Sleep, I'm putting in there, and connectivity.
+
+932
+39:43.080 --> 39:45.660
+So to have cellular in a device,
+
+933
+39:45.660 --> 39:48.570
+I did not know you had that kind of connectivity.
+
+934
+39:48.570 --> 39:51.090
+So we have to assume that in a connected home,
+
+935
+39:51.090 --> 39:52.950
+we have connectivity.
+
+936
+39:52.950 --> 39:55.467
+Connectivity in terms of the tech,
+
+937
+39:55.467 --> 40:00.467
+but connectivity in terms of mental social health.
+
+938
+40:00.510 --> 40:03.690
+Social connections from the heart are really key
+
+939
+40:03.690 --> 40:05.400
+when we talk about connectivity.
+
+940
+40:05.400 --> 40:09.390
+And as we close, and our theme was, the home is health.
+
+941
+40:09.390 --> 40:13.770
+I want us to spend 30 seconds in your busy day today
+
+942
+40:13.770 --> 40:16.200
+with a prayerful heart and mind
+
+943
+40:16.200 --> 40:18.870
+for anyone in Southern California
+
+944
+40:18.870 --> 40:21.960
+who's dealing with the tragic fires.
+
+945
+40:21.960 --> 40:25.890
+We need to be mindful that there's no home care
+
+946
+40:25.890 --> 40:27.600
+without a home.
+
+947
+40:27.600 --> 40:31.860
+And that's a presupposition we have to not take for granted.
+
+948
+40:31.860 --> 40:34.830
+So everyone, be well, enjoy CES,
+
+949
+40:34.830 --> 40:37.906
+and we thank you for coming to share our visions.
+
+950
+40:37.906 --> 40:42.906
+(audience applauding)
+(upbeat music)
+

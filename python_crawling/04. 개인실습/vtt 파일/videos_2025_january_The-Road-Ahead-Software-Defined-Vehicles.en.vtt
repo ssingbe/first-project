@@ -1,0 +1,3548 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.598 --> 00:05.515
+(dynamic music)
+
+2
+00:10.290 --> 00:12.030
+<v ->Thanks for joining us for this panel today</v>
+
+3
+00:12.030 --> 00:15.360
+on software-defined vehicles.
+
+4
+00:15.360 --> 00:18.630
+If you walk the show floor elsewhere in this building,
+
+5
+00:18.630 --> 00:21.870
+you will see lots of examples of software-defined vehicles
+
+6
+00:21.870 --> 00:24.750
+and we're gonna get into the details of what that
+
+7
+00:24.750 --> 00:26.940
+actually means and what the implications are in a moment.
+
+8
+00:26.940 --> 00:30.060
+But, I'd like to ask my panelists
+
+9
+00:30.060 --> 00:32.160
+to introduce themselves.
+
+10
+00:32.160 --> 00:35.640
+I should tell you that I'm Eric Savitz.
+
+11
+00:35.640 --> 00:39.210
+I'm the editor-in-chief at General Motors.
+
+12
+00:39.210 --> 00:42.840
+I've been at CES many, many years in various guise,
+
+13
+00:42.840 --> 00:45.570
+as most recently as a reporter for Barron's Magazine.
+
+14
+00:45.570 --> 00:47.010
+And I've done other things as well
+
+15
+00:47.010 --> 00:49.083
+but, excited about this new role.
+
+16
+00:50.010 --> 00:51.840
+Fern, do you want to kick us off
+
+17
+00:51.840 --> 00:54.150
+and tell people who you are.
+
+18
+00:54.150 --> 00:55.500
+<v ->Yep, I can do that.</v>
+
+19
+00:55.500 --> 00:56.820
+So, good afternoon everyone.
+
+20
+00:56.820 --> 01:00.540
+My name is Fern Yoon, and I lead an automotive systems
+
+21
+01:00.540 --> 01:03.450
+engineering and marketing team at Texas Instruments,
+
+22
+01:03.450 --> 01:06.930
+one of the suppliers that supply into automotive
+
+23
+01:06.930 --> 01:09.933
+and SDV is a big topic for us.
+
+24
+01:13.050 --> 01:13.893
+<v ->I go next?</v>
+
+25
+01:15.060 --> 01:16.023
+Good afternoon.
+
+26
+01:18.420 --> 01:19.872
+Oh, okay.
+
+27
+01:19.872 --> 01:21.990
+(audience laughs)
+
+28
+01:21.990 --> 01:22.860
+Okay.
+
+29
+01:22.860 --> 01:24.960
+My name is Aruna Anand.
+
+30
+01:24.960 --> 01:26.700
+I'm the president and CEO
+
+31
+01:26.700 --> 01:29.883
+of Continental Automotive for North America.
+
+32
+01:31.410 --> 01:35.160
+And Continental, as you might all know, many of you know,
+
+33
+01:35.160 --> 01:38.970
+has been a longstanding, is a longstanding leader
+
+34
+01:38.970 --> 01:40.920
+in the automotive industry,
+
+35
+01:40.920 --> 01:45.510
+and we are really proud of our role
+
+36
+01:45.510 --> 01:48.360
+in defining the future of mobility.
+
+37
+01:48.360 --> 01:50.460
+And thank you again for this opportunity
+
+38
+01:50.460 --> 01:55.110
+to present everything about SDV in the next,
+
+39
+01:55.110 --> 01:58.203
+I would say, 38 minutes.
+
+40
+01:59.730 --> 02:00.691
+<v ->Yeah.</v>
+
+41
+02:00.691 --> 02:01.524
+Also one, welcome from my side.
+
+42
+02:01.524 --> 02:02.357
+I'm Peter.
+
+43
+02:02.357 --> 02:03.450
+I'm running the automotive business
+
+44
+02:03.450 --> 02:06.750
+for Infinian Technology, that's a semiconductor company,
+
+45
+02:06.750 --> 02:09.240
+worldwide leader, and we are known
+
+46
+02:09.240 --> 02:12.183
+that we make cars clean, safe, and smart.
+
+47
+02:14.250 --> 02:15.083
+<v ->Good afternoon.</v>
+
+48
+02:15.083 --> 02:16.560
+My name is Magnus Oestberg.
+
+49
+02:16.560 --> 02:19.740
+I'm leading the, what we call the Mercedes-Benz
+
+50
+02:19.740 --> 02:22.620
+Operating System out of Stuttgart.
+
+51
+02:22.620 --> 02:24.900
+And excited to be back here at CES
+
+52
+02:24.900 --> 02:27.390
+and talk about software-defined vehicles.
+
+53
+02:27.390 --> 02:28.223
+<v ->Okay.</v>
+
+54
+02:28.223 --> 02:31.290
+So, you know, there's three big tech trends that you'll see
+
+55
+02:31.290 --> 02:33.963
+as you walk around the floor in the West Hall.
+
+56
+02:35.670 --> 02:38.070
+One of those is electrification, EVs.
+
+57
+02:38.070 --> 02:41.820
+One of those is autonomy and assisted driving.
+
+58
+02:41.820 --> 02:44.040
+But, the one that's sort of the most tricky
+
+59
+02:44.040 --> 02:46.470
+to define is this one, right?
+
+60
+02:46.470 --> 02:48.660
+Is software-defined vehicles.
+
+61
+02:48.660 --> 02:53.103
+And it covers a lot of ground, it touches on the other two.
+
+62
+02:54.780 --> 02:57.690
+And I would argue, might actually be the most interesting
+
+63
+02:57.690 --> 02:59.610
+in the long run, most important long run.
+
+64
+02:59.610 --> 03:02.520
+And Magnus, in preparation for this,
+
+65
+03:02.520 --> 03:04.320
+we talked a little bit about
+
+66
+03:04.320 --> 03:06.663
+what is actually included in that umbrella.
+
+67
+03:07.560 --> 03:11.700
+Tell me, kick us off by telling me how would you define
+
+68
+03:11.700 --> 03:13.350
+even what we're talking about?
+
+69
+03:13.350 --> 03:16.083
+What are we including in that umbrella?
+
+70
+03:17.070 --> 03:20.970
+<v ->Well, the way I normally answer that question is that</v>
+
+71
+03:20.970 --> 03:25.230
+at Mercedes-Benz and also at companies
+
+72
+03:25.230 --> 03:28.860
+that has been around producing these beautiful objects
+
+73
+03:28.860 --> 03:33.600
+for a very long time, they were in the past static objects.
+
+74
+03:33.600 --> 03:35.820
+They were objects that were beautiful,
+
+75
+03:35.820 --> 03:37.170
+they were wonderful to consume,
+
+76
+03:37.170 --> 03:38.760
+they were wonderful to drive in,
+
+77
+03:38.760 --> 03:40.680
+but, they did not change over time
+
+78
+03:40.680 --> 03:43.740
+for while you were owning the vehicle
+
+79
+03:43.740 --> 03:47.030
+and while you were actually then having it
+
+80
+03:47.030 --> 03:48.690
+as maybe a second vehicle.
+
+81
+03:48.690 --> 03:51.660
+And what software-defined vehicle really does
+
+82
+03:51.660 --> 03:54.390
+at Mercedes-Benz is that we have separated
+
+83
+03:54.390 --> 03:58.590
+hardware from software, so that you can really redefine
+
+84
+03:58.590 --> 04:01.410
+and change your vehicle over time
+
+85
+04:01.410 --> 04:04.020
+with introducing new software, new content,
+
+86
+04:04.020 --> 04:05.487
+new experience in the vehicle.
+
+87
+04:05.487 --> 04:10.140
+And that involves so much more than just the vehicle itself.
+
+88
+04:10.140 --> 04:13.620
+It's also the entire logistical infrastructure.
+
+89
+04:13.620 --> 04:17.310
+It's also how we source components
+
+90
+04:17.310 --> 04:20.550
+and how we set out the digital infrastructure to be able
+
+91
+04:20.550 --> 04:23.820
+to have an ongoing data pipeline
+
+92
+04:23.820 --> 04:26.880
+to the vehicles from the start of development
+
+93
+04:26.880 --> 04:29.580
+through the production system lines,
+
+94
+04:29.580 --> 04:32.220
+and also then in our dealers and aftercare,
+
+95
+04:32.220 --> 04:34.380
+and of course, continuously with the customer.
+
+96
+04:34.380 --> 04:38.910
+So, it's that major separation of hardware and software
+
+97
+04:38.910 --> 04:40.650
+that for me is the major definition
+
+98
+04:40.650 --> 04:42.030
+of software-defined vehicle.
+
+99
+04:42.030 --> 04:44.520
+<v ->I think one of the interesting elements,</v>
+
+100
+04:44.520 --> 04:47.050
+kind of ironic elements of this story is that
+
+101
+04:48.120 --> 04:50.040
+if you're gonna create a software-defined vehicle,
+
+102
+04:50.040 --> 04:52.080
+it starts with redefining what the hardware is
+
+103
+04:52.080 --> 04:53.190
+that's in the vehicle, right?
+
+104
+04:53.190 --> 04:57.609
+So Aruna, you guys have a big role to play,
+
+105
+04:57.609 --> 05:01.020
+have long provided systems to OEMs
+
+106
+05:01.020 --> 05:02.490
+to do various things in the car.
+
+107
+05:02.490 --> 05:05.070
+But, this changes the equation
+
+108
+05:05.070 --> 05:06.810
+for what you need to supply.
+
+109
+05:06.810 --> 05:10.020
+Give us a little feel for how this changes your business
+
+110
+05:10.020 --> 05:11.620
+and how you see the opportunity.
+
+111
+05:12.750 --> 05:17.130
+<v ->I mean, let's take a step back if you don't mind,</v>
+
+112
+05:17.130 --> 05:20.820
+and figure out where are we today?
+
+113
+05:20.820 --> 05:24.270
+And what does software-defined vehicles do for us today?
+
+114
+05:24.270 --> 05:27.870
+And then, you would see the opportunities that it presents,
+
+115
+05:27.870 --> 05:31.530
+not just for us, but for the entire supply chain.
+
+116
+05:31.530 --> 05:34.920
+If you look at it predominantly, the pre-SDV
+
+117
+05:34.920 --> 05:39.210
+or many of the cars today, you find that hardware
+
+118
+05:39.210 --> 05:43.500
+and software, like Magnus mentioned, is very coupled.
+
+119
+05:43.500 --> 05:46.803
+And suppliers generally provide a bundled solution.
+
+120
+05:47.760 --> 05:50.160
+And the product development follows
+
+121
+05:50.160 --> 05:53.160
+a defined lifecycle, right?
+
+122
+05:53.160 --> 05:56.040
+And this is generally in line
+
+123
+05:56.040 --> 05:58.953
+with the OEM milestone requirements.
+
+124
+06:00.000 --> 06:03.900
+Then, the hardware itself in the pre-SDV
+
+125
+06:03.900 --> 06:06.810
+or current for majority of the vehicles
+
+126
+06:06.810 --> 06:09.990
+are purpose-built hardware,
+
+127
+06:09.990 --> 06:11.940
+where the software that goes in
+
+128
+06:11.940 --> 06:14.670
+is for that particular feature.
+
+129
+06:14.670 --> 06:17.340
+And the hardware is only supporting that feature
+
+130
+06:17.340 --> 06:18.663
+and it's purpose built.
+
+131
+06:20.160 --> 06:22.710
+And imagine you have a feature
+
+132
+06:22.710 --> 06:25.020
+or a function that you want to do
+
+133
+06:25.020 --> 06:27.720
+that you wanna spread across multiple,
+
+134
+06:27.720 --> 06:29.943
+across multiple modules in the vehicle.
+
+135
+06:31.200 --> 06:35.520
+The system that we have doesn't lend that self easily.
+
+136
+06:35.520 --> 06:38.760
+It becomes really complicated, expensive,
+
+137
+06:38.760 --> 06:40.770
+and sometimes impossible.
+
+138
+06:40.770 --> 06:42.870
+Leads to frustration.
+
+139
+06:42.870 --> 06:45.603
+Okay, that's from the technical people.
+
+140
+06:46.440 --> 06:48.450
+Let us think about this
+
+141
+06:48.450 --> 06:51.150
+from an end consumer perspective, right?
+
+142
+06:51.150 --> 06:52.173
+What do I see?
+
+143
+06:53.730 --> 06:56.700
+Average in this country, in our country,
+
+144
+06:56.700 --> 06:59.823
+is people own their cars at least for 12 years.
+
+145
+07:01.380 --> 07:05.760
+And if we can update with new improved features,
+
+146
+07:05.760 --> 07:08.223
+functions, safety items,
+
+147
+07:09.870 --> 07:12.630
+they have a feeling and it is a right one,
+
+148
+07:12.630 --> 07:14.553
+that the car becomes stale.
+
+149
+07:16.170 --> 07:19.500
+And how do you keep that up?
+
+150
+07:19.500 --> 07:21.060
+There's no option really.
+
+151
+07:21.060 --> 07:22.770
+Or the options to freshen the car
+
+152
+07:22.770 --> 07:26.823
+with new and improved features, becomes untenable.
+
+153
+07:29.100 --> 07:32.970
+And another area is suppliers.
+
+154
+07:32.970 --> 07:35.880
+OEMs also can't put in new features
+
+155
+07:35.880 --> 07:39.420
+that help them to monetize all these feature sets
+
+156
+07:39.420 --> 07:40.830
+that they're coming up with.
+
+157
+07:40.830 --> 07:42.270
+So, that's the status majority.
+
+158
+07:42.270 --> 07:44.100
+And we are trying to then move to a state
+
+159
+07:44.100 --> 07:45.647
+where these don't happen,
+
+160
+07:45.647 --> 07:46.480
+<v ->Right.</v>
+
+161
+07:46.480 --> 07:47.940
+So, you raise an interesting question, right?
+
+162
+07:47.940 --> 07:48.870
+Which is, you know,
+
+163
+07:48.870 --> 07:52.260
+historically, you drove the car off the lot,
+
+164
+07:52.260 --> 07:56.160
+if you wanted to improve the car, you know,
+
+165
+07:56.160 --> 07:58.860
+you'd, well, like if you were at CS 20 years ago,
+
+166
+07:58.860 --> 08:01.140
+the automotive section was a lot of aftermarket
+
+167
+08:01.140 --> 08:02.580
+stereo equipment, right?
+<v ->Correct.</v>
+
+168
+08:02.580 --> 08:04.650
+<v ->Really big speakers that you could put in the back</v>
+
+169
+08:04.650 --> 08:07.170
+of your, you know, truck to have tailgate, right?
+
+170
+08:07.170 --> 08:08.820
+That was like the, after,
+
+171
+08:08.820 --> 08:11.400
+that was the, you know, defined vehicle
+
+172
+08:11.400 --> 08:12.762
+opportunity that you had, right?
+
+173
+08:12.762 --> 08:14.610
+So, you're right.
+
+174
+08:14.610 --> 08:18.990
+So, the part of this opportunity is over-the-air updates.
+
+175
+08:18.990 --> 08:21.270
+You can update the software over time
+
+176
+08:21.270 --> 08:23.733
+for a whole bunch of different things.
+
+177
+08:24.840 --> 08:28.470
+But, it's complicated by the need to have the right
+
+178
+08:28.470 --> 08:30.360
+underlying infrastructure.
+
+179
+08:30.360 --> 08:32.580
+So, I'd love to get the, you know,
+
+180
+08:32.580 --> 08:35.750
+we have two semiconductor players on the stage,
+
+181
+08:35.750 --> 08:39.840
+and they sit at the heart of this problem, right?
+
+182
+08:39.840 --> 08:41.520
+Because if you think about,
+
+183
+08:41.520 --> 08:45.060
+say, a 5-year-old vehicle might have, I don't know,
+
+184
+08:45.060 --> 08:47.010
+50 or a hundred microcontrollers.
+
+185
+08:47.010 --> 08:48.930
+Like, one to keep your seats warm,
+
+186
+08:48.930 --> 08:50.430
+and one to open the windows,
+
+187
+08:50.430 --> 08:52.770
+and one to move the seat back and forward,
+
+188
+08:52.770 --> 08:54.690
+and one to control the wafer blades, right?
+
+189
+08:54.690 --> 08:56.430
+And they don't talk to each other
+
+190
+08:56.430 --> 08:58.200
+and they're impossible to upgrade.
+
+191
+08:58.200 --> 09:03.200
+So, how does this new scenario change the way
+
+192
+09:03.300 --> 09:06.690
+you have to approach this market?
+
+193
+09:06.690 --> 09:08.070
+Fern, do you wanna take it first?
+
+194
+09:08.070 --> 09:10.083
+<v ->Yeah, I'll comment on that.</v>
+
+195
+09:11.070 --> 09:13.830
+We see a shift in vehicle architecture,
+
+196
+09:13.830 --> 09:16.950
+that I think is needed in order to enable
+
+197
+09:16.950 --> 09:18.780
+software-defined vehicle, which is the shift
+
+198
+09:18.780 --> 09:21.720
+from domain to zone architecture.
+
+199
+09:21.720 --> 09:24.360
+And in that sense, in that case,
+
+200
+09:24.360 --> 09:27.270
+you are now, let's call it consolidating
+
+201
+09:27.270 --> 09:29.760
+a lot of the capabilities that, as you said,
+
+202
+09:29.760 --> 09:32.850
+were discreet implementations
+
+203
+09:32.850 --> 09:37.650
+that did not talk to one another into a more intelligent
+
+204
+09:37.650 --> 09:42.240
+ECU that allows you to, I think, evolve over time.
+
+205
+09:42.240 --> 09:45.150
+And the semiconductors that we develop
+
+206
+09:45.150 --> 09:49.710
+is really the heart of what enables that technology
+
+207
+09:49.710 --> 09:51.900
+from a hardware perspective.
+
+208
+09:51.900 --> 09:55.590
+And the way we look at this evolution
+
+209
+09:55.590 --> 09:59.670
+is, how do we continue to build hardware capabilities
+
+210
+09:59.670 --> 10:03.750
+that allow, you know, customers, Tier 1,
+
+211
+10:03.750 --> 10:06.750
+to continue to extend and add features
+
+212
+10:06.750 --> 10:09.400
+continuously via software updates
+
+213
+10:10.260 --> 10:13.410
+without necessarily having to redevelop
+
+214
+10:13.410 --> 10:16.260
+the hardware piece of it all the time.
+
+215
+10:16.260 --> 10:18.630
+There's also the aspect of,
+
+216
+10:18.630 --> 10:23.340
+let's call it more intelligent edge nodes,
+
+217
+10:23.340 --> 10:26.490
+areas where you don't necessarily have to replace
+
+218
+10:26.490 --> 10:30.360
+the entire semiconductor infrastructure within the vehicle,
+
+219
+10:30.360 --> 10:32.790
+but swapping out certain intelligent edge nodes
+
+220
+10:32.790 --> 10:36.180
+as the technology progresses without overhauling
+
+221
+10:36.180 --> 10:38.190
+the entire vehicle itself.
+
+222
+10:38.190 --> 10:39.840
+And so, that certainly changes
+
+223
+10:39.840 --> 10:44.840
+also I think, how OEMs look at model years and gen-to-gen.
+
+224
+10:45.270 --> 10:46.233
+<v ->Right.</v>
+
+225
+10:46.233 --> 10:47.066
+Okay.
+
+226
+10:47.066 --> 10:47.899
+So, put a pin in that.
+
+227
+10:47.899 --> 10:48.732
+We're gonna come back to that in a second.
+
+228
+10:48.732 --> 10:50.700
+But Peter, why don't you tell us a little bit
+
+229
+10:50.700 --> 10:53.430
+about how Infinian thinks about this?
+
+230
+10:53.430 --> 10:56.280
+<v ->Yeah, I think, I mean, to repeat what you said,</v>
+
+231
+10:56.280 --> 10:58.950
+in order to make a software-defined vehicle,
+
+232
+10:58.950 --> 11:00.183
+you need to kind of,
+
+233
+11:01.260 --> 11:03.810
+make the software agnostic from the hardware.
+
+234
+11:03.810 --> 11:07.050
+In order to do so, I fully agreed
+
+235
+11:07.050 --> 11:09.840
+you need to centralize things and bring
+
+236
+11:09.840 --> 11:11.430
+cluster functions together.
+
+237
+11:11.430 --> 11:15.840
+But by that, you automatically increase the complexity.
+
+238
+11:15.840 --> 11:20.100
+And at the end, the consumer, the buyers of the car,
+
+239
+11:20.100 --> 11:23.100
+they wanna trust the electronics.
+
+240
+11:23.100 --> 11:26.640
+So, if you drive on a mountain road,
+
+241
+11:26.640 --> 11:28.980
+you should trust that the car is not breaking down
+
+242
+11:28.980 --> 11:30.180
+and you fall off the cliff.
+
+243
+11:30.180 --> 11:33.180
+So therefore, this increasing complexity
+
+244
+11:33.180 --> 11:36.000
+need to go hand-in-hand with a strong safety
+
+245
+11:36.000 --> 11:37.830
+and cybersecurity aspect.
+
+246
+11:37.830 --> 11:40.350
+And that's why it's very much important that,
+
+247
+11:40.350 --> 11:42.450
+as you said, semiconductors are very much key
+
+248
+11:42.450 --> 11:46.500
+because they will build these dependable electronics needed
+
+249
+11:46.500 --> 11:49.350
+that the drivers can trust in the car.
+
+250
+11:49.350 --> 11:54.350
+<v ->So, you know, you mentioned like, that the average car</v>
+
+251
+11:55.500 --> 11:58.740
+has a lifespan of say of 10, 12 years, right?
+
+252
+11:58.740 --> 12:00.480
+And that raises an interesting question
+
+253
+12:00.480 --> 12:02.280
+when you think about the car as a platform, right?
+
+254
+12:02.280 --> 12:04.110
+I always think about, how do you compare,
+
+255
+12:04.110 --> 12:06.360
+like the car as a platform to say PC,
+
+256
+12:06.360 --> 12:08.310
+or a mobile phone as a platform?
+
+257
+12:08.310 --> 12:10.560
+Well, for one thing,
+
+258
+12:10.560 --> 12:12.000
+you're not gonna keep your mobile phone for--
+
+259
+12:12.000 --> 12:14.110
+Anyone, have a 12-year-old mobile phone with them?
+
+260
+12:14.110 --> 12:15.930
+I don't think so.
+
+261
+12:15.930 --> 12:18.570
+Or a 12-year-old laptop for that matter?
+
+262
+12:18.570 --> 12:19.650
+Or would think that it would be
+
+263
+12:19.650 --> 12:21.300
+kind of a cool to own one, you know?
+
+264
+12:21.300 --> 12:22.500
+I don't think so, right?
+
+265
+12:23.700 --> 12:28.260
+But, if you're expecting the car to last a decade,
+
+266
+12:28.260 --> 12:30.030
+it poses interesting questions
+
+267
+12:30.030 --> 12:32.190
+about your ability to keep up with the technology.
+
+268
+12:32.190 --> 12:34.770
+So Magnus, how do you guys think about this?
+
+269
+12:34.770 --> 12:38.370
+Like, how do you think about provisioning the car
+
+270
+12:38.370 --> 12:41.283
+in a way that you can upgrade over time,
+
+271
+12:42.270 --> 12:43.950
+but knowing that,
+
+272
+12:43.950 --> 12:46.410
+we don't know exactly what the standard platform
+
+273
+12:46.410 --> 12:49.050
+might look like in five years or 10 years.
+
+274
+12:49.050 --> 12:52.140
+<v ->So, if we look at the customer experience</v>
+
+275
+12:52.140 --> 12:54.720
+and the customer advantages first,
+
+276
+12:54.720 --> 12:59.720
+we just said that we are separating hardware from software.
+
+277
+12:59.820 --> 13:01.680
+So, that means that the software
+
+278
+13:01.680 --> 13:05.640
+can definitely evolve over time, it can change.
+
+279
+13:05.640 --> 13:08.310
+And for the first customer, the first users,
+
+280
+13:08.310 --> 13:11.070
+and also, for us at Mercedes-Benz,
+
+281
+13:11.070 --> 13:14.370
+this gives a possibility to tailor the experience
+
+282
+13:14.370 --> 13:17.610
+to various regions, to various customer segment,
+
+283
+13:17.610 --> 13:19.140
+and also to individuals.
+
+284
+13:19.140 --> 13:22.487
+Which is that the first customer wave,
+
+285
+13:22.487 --> 13:25.140
+using our products, a huge advantage
+
+286
+13:25.140 --> 13:29.010
+because we see a tremendous difference
+
+287
+13:29.010 --> 13:33.480
+between customer behaviors in different regions.
+
+288
+13:33.480 --> 13:38.100
+So, our customer base in the eastern world,
+
+289
+13:38.100 --> 13:40.470
+especially in China, is very young.
+
+290
+13:40.470 --> 13:41.370
+It's very young.
+
+291
+13:41.370 --> 13:43.950
+Their first car is an S-Class, for example.
+
+292
+13:43.950 --> 13:45.120
+Very beautiful first car,
+
+293
+13:45.120 --> 13:48.993
+but very unusual to have as a first car in this country.
+
+294
+13:50.583 --> 13:55.500
+And they have a high digital native
+
+295
+13:55.500 --> 13:59.340
+expectation with the level of apps
+
+296
+13:59.340 --> 14:00.960
+and the level of integration,
+
+297
+14:00.960 --> 14:03.993
+and the level of communication they expect from the vehicle.
+
+298
+14:04.830 --> 14:09.830
+That same hardware, this beautiful S-Class, in Germany,
+
+299
+14:10.440 --> 14:14.070
+is typically owned by a slightly older population
+
+300
+14:14.070 --> 14:17.670
+that have a very different expectation from that vehicle.
+
+301
+14:17.670 --> 14:19.680
+And so, that gives us the possibility
+
+302
+14:19.680 --> 14:23.250
+to tailor this experience to different customer groups,
+
+303
+14:23.250 --> 14:24.810
+which is the first advantage.
+
+304
+14:24.810 --> 14:27.930
+The second advantage is when we then see that over time,
+
+305
+14:27.930 --> 14:31.860
+over life, is that we can follow that expectation
+
+306
+14:31.860 --> 14:33.510
+or we can change that expectation
+
+307
+14:33.510 --> 14:36.450
+and also offer new services, new products
+
+308
+14:36.450 --> 14:39.930
+to maybe the second owner that the first owner did not order
+
+309
+14:39.930 --> 14:42.450
+or it wasn't even available when the first owner
+
+310
+14:42.450 --> 14:45.693
+had that beautiful vehicle.
+
+311
+14:46.590 --> 14:48.510
+So, this is how we see it over time,
+
+312
+14:48.510 --> 14:51.390
+that it really gives us this possibility
+
+313
+14:51.390 --> 14:56.040
+to tailor the experience due over the regions,
+
+314
+14:56.040 --> 14:58.080
+and also then over time.
+
+315
+14:58.080 --> 15:01.470
+Which is for us, a fundamental difference.
+
+316
+15:01.470 --> 15:05.970
+The second that maybe is not so obvious to everybody
+
+317
+15:05.970 --> 15:08.490
+is that we now have the possibility
+
+318
+15:08.490 --> 15:12.180
+to have a real-time interaction with all of our customers.
+
+319
+15:12.180 --> 15:14.730
+So, we have right now,
+
+320
+15:14.730 --> 15:17.220
+in our Mercedes-Benz intelligent cloud,
+
+321
+15:17.220 --> 15:20.070
+we have over 12 million vehicles connected,
+
+322
+15:20.070 --> 15:23.220
+which gives us insights into how is our product used,
+
+323
+15:23.220 --> 15:24.690
+what features are being used,
+
+324
+15:24.690 --> 15:25.980
+what features are not being used.
+
+325
+15:25.980 --> 15:28.260
+How are they being used and what is the possibility?
+
+326
+15:28.260 --> 15:30.990
+And that data is for us enormously important
+
+327
+15:30.990 --> 15:33.000
+when we feed that back into,
+
+328
+15:33.000 --> 15:35.010
+you know, into our continuous development.
+
+329
+15:35.010 --> 15:36.780
+So, that continuous data loop
+
+330
+15:36.780 --> 15:40.710
+is basically, we're shifting from an open loop system,
+
+331
+15:40.710 --> 15:42.390
+where the product was put out in the market
+
+332
+15:42.390 --> 15:44.820
+and it was an open-loop to a closed-loop data system
+
+333
+15:44.820 --> 15:46.230
+that really feeds itself.
+
+334
+15:46.230 --> 15:49.200
+And that is how we see it,
+
+335
+15:49.200 --> 15:53.940
+that it gives us a possibility to really monitor
+
+336
+15:53.940 --> 15:57.810
+how well our, and what way our products
+
+337
+15:57.810 --> 15:59.130
+are being used in the market.
+
+338
+15:59.130 --> 16:00.254
+<v ->Okay.</v>
+
+339
+16:00.254 --> 16:01.380
+And well, I'm gonna get to the use cases a little bit,
+
+340
+16:01.380 --> 16:02.280
+but I'd like to,
+
+341
+16:02.280 --> 16:03.362
+go ahead.
+
+342
+16:03.362 --> 16:04.195
+You wanna jump in, Aruna.
+
+343
+16:04.195 --> 16:08.910
+<v ->I have some points because you linked the car to a phone.</v>
+
+344
+16:08.910 --> 16:12.690
+And yes, SDV we all know can do a lot of good stuff
+
+345
+16:12.690 --> 16:15.693
+and it's all good, but there are challenges.
+
+346
+16:16.680 --> 16:18.240
+Challenges are multiple.
+
+347
+16:18.240 --> 16:21.090
+And because you compared the car to a phone,
+
+348
+16:21.090 --> 16:22.923
+let me also compare the same.
+
+349
+16:23.790 --> 16:25.623
+So, if you look at the cell phone,
+
+350
+16:27.420 --> 16:30.540
+everybody has one, we use it all the time.
+
+351
+16:30.540 --> 16:34.540
+And we are all programmed if the cell phone were to fail
+
+352
+16:35.460 --> 16:37.950
+roughly, the average use is what?
+
+353
+16:37.950 --> 16:39.243
+Around 18 months.
+
+354
+16:40.080 --> 16:42.420
+We are programmed to buy another smartphone
+
+355
+16:42.420 --> 16:43.710
+for a thousand dollars.
+
+356
+16:43.710 --> 16:44.910
+We don't think about it.
+
+357
+16:45.930 --> 16:47.730
+That's for the upgrade of the phone.
+
+358
+16:48.840 --> 16:53.840
+We are not programmed to change the hardware of our car
+
+359
+16:54.390 --> 16:56.430
+for a thousand dollars every two years.
+
+360
+16:56.430 --> 16:57.263
+We are not.
+
+361
+16:58.230 --> 17:00.810
+And the question is, why not?
+
+362
+17:00.810 --> 17:02.490
+And what would it take?
+
+363
+17:02.490 --> 17:06.120
+Because you're compared to the phones.
+
+364
+17:06.120 --> 17:09.450
+And when you look at the phone, where did we start?
+
+365
+17:09.450 --> 17:13.533
+We started with landlines, then we went cellular.
+
+366
+17:14.520 --> 17:17.253
+Then, I think we went to smartphones.
+
+367
+17:18.540 --> 17:22.560
+Until 25 years ago, we've been having hardware at our home
+
+368
+17:22.560 --> 17:26.100
+with a landline, where we paid monthly rates
+
+369
+17:26.100 --> 17:29.223
+and we never had to change the hardware at all.
+
+370
+17:30.720 --> 17:34.470
+And overall, after a while, now we are programmed
+
+371
+17:34.470 --> 17:37.740
+to change the hardware every 18 months.
+
+372
+17:37.740 --> 17:39.630
+The question is, it takes time.
+
+373
+17:39.630 --> 17:43.860
+I think also software-defined vehicles, it takes time.
+
+374
+17:43.860 --> 17:46.740
+And the key is we still have to remember
+
+375
+17:46.740 --> 17:51.740
+that the car is needed go from point A to point B,
+
+376
+17:52.530 --> 17:56.730
+in a safe manner, and convenient.
+
+377
+17:56.730 --> 18:00.990
+And as much as possible connected to the external world.
+
+378
+18:00.990 --> 18:05.070
+So, if we are providing features that further enhance
+
+379
+18:05.070 --> 18:09.000
+the safety, then it is likely that,
+
+380
+18:09.000 --> 18:11.100
+that we would be able,
+
+381
+18:11.100 --> 18:14.310
+or people would want to embrace this fact
+
+382
+18:14.310 --> 18:16.350
+to make that more upgradable.
+
+383
+18:16.350 --> 18:18.330
+But, this takes time.
+
+384
+18:18.330 --> 18:22.800
+And the challenge is how much hardware do we think we need?
+
+385
+18:22.800 --> 18:25.260
+And how do you define how much hardware is needed
+
+386
+18:25.260 --> 18:28.320
+for the amount of software that we anticipate
+
+387
+18:28.320 --> 18:30.900
+needing in years to come.
+
+388
+18:30.900 --> 18:32.433
+And how do you protect for it?
+
+389
+18:34.320 --> 18:35.430
+And how much is enough?
+
+390
+18:35.430 --> 18:37.740
+And those are the challenges I see.
+
+391
+18:37.740 --> 18:40.770
+<v ->Peter, how should you be thinking about that question?</v>
+
+392
+18:40.770 --> 18:41.850
+<v ->Yeah, let me also add in,</v>
+
+393
+18:41.850 --> 18:44.523
+because first of all, as Magnus explained,
+
+394
+18:45.510 --> 18:49.260
+I also see the maturity of upgrades and updates you do
+
+395
+18:49.260 --> 18:50.340
+is in the software part.
+
+396
+18:50.340 --> 18:52.680
+It's not so much in the hardware part
+
+397
+18:52.680 --> 18:55.680
+even though, I would like that hardware has changed.
+
+398
+18:55.680 --> 18:57.030
+So, we all would like that.
+
+399
+18:57.930 --> 19:02.220
+I also don't see that it's affordable for OEMs
+
+400
+19:02.220 --> 19:06.240
+to have excess hardware just for future use.
+
+401
+19:06.240 --> 19:09.330
+That model, I think it was tried,
+
+402
+19:09.330 --> 19:12.480
+but, it's also not a very successful model.
+
+403
+19:12.480 --> 19:15.030
+But, there are things where you need to build
+
+404
+19:15.030 --> 19:17.370
+some headroom for future activities.
+
+405
+19:17.370 --> 19:19.230
+Think about cybersecurity.
+
+406
+19:19.230 --> 19:22.350
+If you launch a car,
+
+407
+19:22.350 --> 19:24.780
+you have a certain cybersecurity standard
+
+408
+19:24.780 --> 19:29.160
+and mechanisms where you get attacks.
+
+409
+19:29.160 --> 19:31.680
+But, that are everyday updated.
+
+410
+19:31.680 --> 19:33.690
+So therefore, you need to have a flexibility
+
+411
+19:33.690 --> 19:35.370
+to upgrade on the cybersecurity.
+
+412
+19:35.370 --> 19:36.360
+So, there are areas.
+
+413
+19:36.360 --> 19:38.010
+Safety is one.
+
+414
+19:38.010 --> 19:40.320
+Cybersecurity is a second one where yes,
+
+415
+19:40.320 --> 19:45.000
+there also is headroom needed in the hardware.
+
+416
+19:45.000 --> 19:47.640
+But, I would agree that the majority of the updates,
+
+417
+19:47.640 --> 19:51.060
+and especially, those which are on the drivers,
+
+418
+19:51.060 --> 19:53.410
+the user will see is more on the software side.
+
+419
+19:54.630 --> 19:56.310
+<v ->I mean, it seems,</v>
+
+420
+19:56.310 --> 19:57.143
+I don't know.
+
+421
+19:57.143 --> 19:58.020
+How you think about this, Magnus?
+
+422
+19:58.020 --> 20:00.450
+But, you can only go so far out.
+
+423
+20:00.450 --> 20:03.630
+You can't anticipate, how much DRAM am I gonna need?
+
+424
+20:03.630 --> 20:05.400
+And how much memory do we need
+
+425
+20:05.400 --> 20:07.710
+for the applications that we think we're gonna run
+
+426
+20:07.710 --> 20:09.603
+in, you know, in 2030?
+
+427
+20:10.500 --> 20:12.450
+That would seem to be not a very practical way
+
+428
+20:12.450 --> 20:13.773
+to design your car.
+
+429
+20:14.640 --> 20:18.690
+<v ->So, the way Mercedes-Benz looks at the hardware</v>
+
+430
+20:18.690 --> 20:21.900
+is that we have classified the compute in the vehicle
+
+431
+20:21.900 --> 20:25.950
+in various categories from category one to category four.
+
+432
+20:25.950 --> 20:29.760
+And if you look at the microcontroller levels,
+
+433
+20:29.760 --> 20:31.710
+which is typically a category three and four,
+
+434
+20:31.710 --> 20:33.390
+these are very static in the car.
+
+435
+20:33.390 --> 20:34.590
+These are the actuators.
+
+436
+20:34.590 --> 20:38.400
+These are things that control a motor,
+
+437
+20:38.400 --> 20:40.770
+or control something that's in the vehicle.
+
+438
+20:40.770 --> 20:44.580
+They are typically over this time period, very static.
+
+439
+20:44.580 --> 20:48.090
+Where we see the huge changes
+
+440
+20:48.090 --> 20:49.680
+is definitely in the category one,
+
+441
+20:49.680 --> 20:50.850
+in the microprocessor space.
+
+442
+20:50.850 --> 20:53.850
+And this is where you have everything that is visual,
+
+443
+20:53.850 --> 20:56.400
+that is something that the customer actually sees
+
+444
+20:56.400 --> 20:59.130
+in terms of what's happening on the screen and so forth.
+
+445
+20:59.130 --> 21:02.010
+And here you need to be flexible.
+
+446
+21:02.010 --> 21:05.400
+You need to be able to have a flexible concept
+
+447
+21:05.400 --> 21:07.440
+for how much memory is available.
+
+448
+21:07.440 --> 21:09.930
+And also, have a more flexible concept
+
+449
+21:09.930 --> 21:14.010
+on how to upgrade compute in this case.
+
+450
+21:14.010 --> 21:16.260
+And there we come into an interesting topic
+
+451
+21:16.260 --> 21:21.260
+when it comes to the disaggregation of how the applications,
+
+452
+21:21.780 --> 21:26.130
+and how various various stacks or now, AI models,
+
+453
+21:26.130 --> 21:29.430
+are then coupled with that compute.
+
+454
+21:29.430 --> 21:33.210
+So, this becomes then into an interesting debate about,
+
+455
+21:33.210 --> 21:35.160
+what is the advantages or disadvantages
+
+456
+21:35.160 --> 21:38.970
+of tying yourself to a certain type of language
+
+457
+21:38.970 --> 21:40.500
+or a certain type of model.
+
+458
+21:40.500 --> 21:43.500
+But, it's easier to talk about this
+
+459
+21:43.500 --> 21:46.770
+if you categorize the type of compute
+
+460
+21:46.770 --> 21:51.630
+that you have in a vehicle in a different categories.
+
+461
+21:51.630 --> 21:56.070
+<v ->Fern, are you finding that your customer's</v>
+
+462
+21:56.070 --> 21:59.083
+needs or opportunities are changing?
+
+463
+21:59.083 --> 22:03.510
+How does this equation shift your business?
+
+464
+22:03.510 --> 22:05.010
+<v ->Yeah, that's a great question.</v>
+
+465
+22:05.010 --> 22:06.420
+What we see, you know,
+
+466
+22:06.420 --> 22:08.670
+from our perspective at Texas instruments
+
+467
+22:08.670 --> 22:11.430
+is certainly a need for a family approach.
+
+468
+22:11.430 --> 22:16.430
+So, you know, we pride ourselves in a very broad portfolio .
+
+469
+22:16.800 --> 22:20.640
+And when we build devices, whether it's microprocessors
+
+470
+22:20.640 --> 22:23.460
+or down to the microcontrollers or even the analog
+
+471
+22:23.460 --> 22:26.400
+drivers that we have, we realize that
+
+472
+22:26.400 --> 22:28.290
+you do need a family of devices.
+
+473
+22:28.290 --> 22:32.070
+Ideally, something that is pin-to-pin, backwards compatible
+
+474
+22:32.070 --> 22:36.390
+to enable the OEMs to build that platform.
+
+475
+22:36.390 --> 22:39.090
+Certainly, something that you want to build
+
+476
+22:39.090 --> 22:40.650
+from a capability perspective,
+
+477
+22:40.650 --> 22:44.850
+and the highest model line, if you will,
+
+478
+22:44.850 --> 22:47.730
+may not necessarily be cost efficient as Peter mentioned
+
+479
+22:47.730 --> 22:48.990
+in something that's in the,
+
+480
+22:48.990 --> 22:51.540
+on the more economical line if you will.
+
+481
+22:51.540 --> 22:55.530
+And so, we do work very closely with our customers
+
+482
+22:55.530 --> 22:59.430
+on a family-based approach that allows our customers
+
+483
+22:59.430 --> 23:02.370
+to use the same platform, the same architecture,
+
+484
+23:02.370 --> 23:05.040
+the same approach, algorithms
+
+485
+23:05.040 --> 23:07.320
+to be able to build a scalable model
+
+486
+23:07.320 --> 23:11.040
+that goes across multiple platforms.
+
+487
+23:11.040 --> 23:14.940
+And in some cases, can kind of stretch that hardware life
+
+488
+23:14.940 --> 23:17.820
+across, you know, iterations as we continue to learn
+
+489
+23:17.820 --> 23:20.220
+more and more about what our customers want,
+
+490
+23:20.220 --> 23:22.233
+what our consumers are looking for,
+
+491
+23:23.220 --> 23:26.940
+the ability to go make those changes in software
+
+492
+23:26.940 --> 23:28.920
+versus having to retool the entire
+
+493
+23:28.920 --> 23:31.707
+hardware ecosystem within a vehicle.
+
+494
+23:31.707 --> 23:33.540
+<v ->So, since we're talking about,</v>
+
+495
+23:33.540 --> 23:35.610
+we're supposed to be talking about software
+
+496
+23:35.610 --> 23:37.380
+to find vehicles, let's talk about software a little bit.
+
+497
+23:37.380 --> 23:42.240
+So, you're my fellow OEM panelist,
+
+498
+23:42.240 --> 23:43.590
+so we'll talk to you first.
+
+499
+23:43.590 --> 23:44.973
+So, when you think about the opportunities,
+
+500
+23:44.973 --> 23:48.180
+when we talk about the kind of software we mean here, right?
+
+501
+23:48.180 --> 23:51.300
+There's really several different categories of stuff, right?
+
+502
+23:51.300 --> 23:53.910
+There's stuff that's about the,
+
+503
+23:53.910 --> 23:56.460
+I think the things that people think about most frequently
+
+504
+23:56.460 --> 23:58.350
+is probably infotainment related, right?
+
+505
+23:58.350 --> 24:01.470
+Your experience in the car, which is important,
+
+506
+24:01.470 --> 24:02.610
+but there are other things too.
+
+507
+24:02.610 --> 24:06.990
+So, give us a few thoughts on the categories
+
+508
+24:06.990 --> 24:09.180
+of software we're actually addressing.
+
+509
+24:09.180 --> 24:12.090
+<v ->Well the normal categories that the industry talks about</v>
+
+510
+24:12.090 --> 24:13.230
+is of course, infotainment,
+
+511
+24:13.230 --> 24:16.230
+which is what the customer normally sees and talk about,
+
+512
+24:16.230 --> 24:20.910
+which is very tied today to the various digital ecosystems
+
+513
+24:20.910 --> 24:24.120
+that is prevalent in your daily lives.
+
+514
+24:24.120 --> 24:29.120
+So, some people are very astute
+
+515
+24:29.190 --> 24:33.180
+to the Android world in the various world.
+
+516
+24:33.180 --> 24:36.540
+Or around the world, there is a certain behaviors
+
+517
+24:36.540 --> 24:38.280
+regarding payment and so forth
+
+518
+24:38.280 --> 24:40.020
+that you typically do your shopping.
+
+519
+24:40.020 --> 24:43.710
+And that basically, is tied all to that.
+
+520
+24:43.710 --> 24:46.020
+But, if you look at from a vehicle domain
+
+521
+24:46.020 --> 24:49.590
+and how we look at it is that we also need to tie that
+
+522
+24:49.590 --> 24:51.720
+to the driving experience.
+
+523
+24:51.720 --> 24:55.350
+And the driving experience for us is so important
+
+524
+24:55.350 --> 25:00.350
+when it comes now to the entire electrical drive system.
+
+525
+25:00.630 --> 25:02.760
+Because if you look at the electrical drive system,
+
+526
+25:02.760 --> 25:05.250
+what we're talking about right now is that we need to,
+
+527
+25:05.250 --> 25:07.710
+especially in this country and in Europe,
+
+528
+25:07.710 --> 25:10.140
+we need to increase the actual,
+
+529
+25:10.140 --> 25:12.450
+the penetration of the electrical drive.
+
+530
+25:12.450 --> 25:17.450
+And we need to overcome this range anxiety that exists.
+
+531
+25:18.480 --> 25:20.100
+Because penetration in this country
+
+532
+25:20.100 --> 25:22.770
+about electrical drive is below 10%.
+
+533
+25:22.770 --> 25:25.290
+In Europe, it's a little bit higher than 10%.
+
+534
+25:25.290 --> 25:27.950
+In China, it's actually 50% right now
+
+535
+25:27.950 --> 25:30.720
+of the entire population that is electric.
+
+536
+25:30.720 --> 25:32.550
+So, in order to overcome that here,
+
+537
+25:32.550 --> 25:37.550
+we need to marry, for example, how we monitor energy
+
+538
+25:38.010 --> 25:42.090
+and how we model the energy usage.
+
+539
+25:42.090 --> 25:45.660
+Because if you are using your body functions,
+
+540
+25:45.660 --> 25:49.560
+which is air conditioning, or cooling, or heating,
+
+541
+25:49.560 --> 25:53.460
+that consumes energy, that lowers your actually range.
+
+542
+25:53.460 --> 25:57.120
+And we need to be able to make sure that we have good models
+
+543
+25:57.120 --> 26:01.110
+between the body functions that is consuming energy
+
+544
+26:01.110 --> 26:03.210
+with the infotainment functions,
+
+545
+26:03.210 --> 26:05.520
+with the autonomous driving functions
+
+546
+26:05.520 --> 26:07.320
+so that we can actually provide
+
+547
+26:07.320 --> 26:11.070
+an absolute correct range to our customers,
+
+548
+26:11.070 --> 26:14.730
+making sure that they have an absolute trust
+
+549
+26:14.730 --> 26:17.880
+in the range you can have in a Mercedes-Benz vehicle.
+
+550
+26:17.880 --> 26:21.060
+So therefore, all of these functions,
+
+551
+26:21.060 --> 26:26.060
+the entertainment, the actual autonomous driving functions,
+
+552
+26:26.220 --> 26:29.700
+the body functions, and the drivetrain functions
+
+553
+26:29.700 --> 26:31.350
+are the four major domains.
+
+554
+26:31.350 --> 26:33.960
+But for us, they are really working together.
+
+555
+26:33.960 --> 26:36.600
+And that's what the Mercedes-Benz operating system is about,
+
+556
+26:36.600 --> 26:38.820
+that we have a holistic view on this,
+
+557
+26:38.820 --> 26:41.610
+and be able to marry that with the cloud.
+
+558
+26:41.610 --> 26:43.089
+<v ->And then, do you think about</v>
+
+559
+26:43.089 --> 26:46.083
+the opportunity here as one of,
+
+560
+26:47.490 --> 26:50.130
+you're going to have a better experience in your car?
+
+561
+26:50.130 --> 26:51.720
+Or do you think of it as,
+
+562
+26:51.720 --> 26:53.430
+and these are not mutually exclusive.
+
+563
+26:53.430 --> 26:56.430
+Or do you think of it as, this is an opportunity for me
+
+564
+26:56.430 --> 26:58.890
+to maintain a relationship,
+
+565
+26:58.890 --> 27:02.340
+a revenue generating relationship in some cases,
+
+566
+27:02.340 --> 27:05.640
+ongoing with the ownership of owners of the car
+
+567
+27:05.640 --> 27:07.950
+because we're gonna provide them with value added services.
+
+568
+27:07.950 --> 27:10.830
+Now, you know, I say that as someone who works at GM,
+
+569
+27:10.830 --> 27:12.900
+we've been doing OnStar for a really long time
+
+570
+27:12.900 --> 27:14.040
+and we have like, millions of people
+
+571
+27:14.040 --> 27:15.417
+who pay us to be on OnStar.
+
+572
+27:15.417 --> 27:18.060
+And so that's been, that is a pretty good example
+
+573
+27:18.060 --> 27:23.060
+of a software-defined service in a car.
+
+574
+27:23.310 --> 27:25.710
+But, there's lots of opportunities beyond that.
+
+575
+27:25.710 --> 27:26.970
+And I wonder,
+
+576
+27:26.970 --> 27:29.250
+Fern, you look like you wanna say something?
+
+577
+27:29.250 --> 27:31.320
+So, how do you guys think about this
+
+578
+27:31.320 --> 27:34.140
+from what you need to do to set the car up
+
+579
+27:34.140 --> 27:35.550
+to be able to do these things?
+
+580
+27:35.550 --> 27:39.960
+<v ->Yeah, I wanted to kinda add to Magnus' comment there,</v>
+
+581
+27:39.960 --> 27:43.320
+there's so much capability, I think, in our hardware
+
+582
+27:43.320 --> 27:45.660
+that we probably don't even realize.
+
+583
+27:45.660 --> 27:48.450
+And one of the benefits of a software-defined vehicle
+
+584
+27:48.450 --> 27:50.970
+and coupled with another hot topic AI
+
+585
+27:50.970 --> 27:55.470
+is the ability to collect data real time
+
+586
+27:55.470 --> 27:59.070
+and have a closed feedback loop, not just from our consumers
+
+587
+27:59.070 --> 28:01.920
+but from the vehicle, from the machine itself
+
+588
+28:01.920 --> 28:03.990
+that we can then use to fine tune
+
+589
+28:03.990 --> 28:06.420
+the performance of the vehicle to be honest, right?
+
+590
+28:06.420 --> 28:09.903
+Let's talk about range anxiety that Magnus mentioned.
+
+591
+28:11.370 --> 28:13.320
+How much of our systems are,
+
+592
+28:13.320 --> 28:16.170
+let's call it overbuilt conservatively?
+
+593
+28:16.170 --> 28:18.150
+Because we certainly don't wanna have
+
+594
+28:18.150 --> 28:20.160
+any of our drivers stranded on the road
+
+595
+28:20.160 --> 28:23.910
+because we told them you had another 20 kilometers
+
+596
+28:23.910 --> 28:27.180
+left to go, and you didn't actually get there, right?
+
+597
+28:27.180 --> 28:30.300
+But, with the data that we're able to collect,
+
+598
+28:30.300 --> 28:32.640
+how can we then fine tune that
+
+599
+28:32.640 --> 28:35.730
+and actually extend the range over time
+
+600
+28:35.730 --> 28:37.620
+that's adding value to our customers?
+
+601
+28:37.620 --> 28:39.690
+That's, I think, what software-defined vehicle
+
+602
+28:39.690 --> 28:43.830
+can really bring without really needing to change
+
+603
+28:43.830 --> 28:47.040
+the hardware, to be honest, you know?
+
+604
+28:47.040 --> 28:49.530
+And it depends on so many variables
+
+605
+28:49.530 --> 28:52.980
+that we don't have access to when we're developing this.
+
+606
+28:52.980 --> 28:55.920
+So, this concept of software-defined vehicles
+
+607
+28:55.920 --> 28:58.350
+really gives us another lever
+
+608
+28:58.350 --> 29:01.380
+to improve our consumers experience.
+
+609
+29:01.380 --> 29:03.180
+<v ->So, if I may add,</v>
+
+610
+29:03.180 --> 29:06.240
+yeah, hardware is important but it's not all.
+
+611
+29:06.240 --> 29:08.760
+Then, there's a lot of things one can do
+
+612
+29:08.760 --> 29:13.440
+with even what is existing today by fusion.
+
+613
+29:13.440 --> 29:15.180
+You have a lot of information.
+
+614
+29:15.180 --> 29:19.290
+How do you work across distributed modules?
+
+615
+29:19.290 --> 29:21.480
+It lends its way very easily.
+
+616
+29:21.480 --> 29:25.500
+And one understands that software-defined vehicles
+
+617
+29:25.500 --> 29:28.800
+is like some kind of a nebulous concept.
+
+618
+29:28.800 --> 29:31.983
+And how do you now bring that concept to life?
+
+619
+29:32.970 --> 29:37.957
+And for that, you also need to work on the user experience.
+
+620
+29:37.957 --> 29:39.720
+The human and machine interface
+
+621
+29:39.720 --> 29:41.160
+becomes absolutely necessary.
+
+622
+29:41.160 --> 29:44.130
+You can have the greatest of functions,
+
+623
+29:44.130 --> 29:47.820
+but if you don't have the right intuitive user defined
+
+624
+29:47.820 --> 29:50.040
+functions where you're confident that you can work
+
+625
+29:50.040 --> 29:53.130
+with the technology and the technology works with you,
+
+626
+29:53.130 --> 29:55.230
+then nobody's gonna embrace that, right?
+
+627
+29:55.230 --> 29:56.070
+So, that's where I see
+
+628
+29:56.070 --> 29:58.590
+there's a lot of good things that can be done.
+
+629
+29:58.590 --> 30:03.420
+And for example, this year, just to give kind of an example,
+
+630
+30:03.420 --> 30:06.240
+you know that when you walk up to your car
+
+631
+30:06.240 --> 30:09.090
+and have your car unlock, it's not something new.
+
+632
+30:09.090 --> 30:13.290
+But, how about your car understanding your movement patterns
+
+633
+30:13.290 --> 30:15.390
+as you walk toward it and it knows.
+
+634
+30:15.390 --> 30:18.510
+And for example, if you are walking from the grocery store
+
+635
+30:18.510 --> 30:21.870
+with your arms full of stuff from the grocery store,
+
+636
+30:21.870 --> 30:26.730
+your car is proactively able to open the trunk, for example.
+
+637
+30:26.730 --> 30:30.990
+And, also understanding various different things
+
+638
+30:30.990 --> 30:32.850
+with cameras and motion detection
+
+639
+30:32.850 --> 30:35.430
+and artificial intelligence, that you can do to today.
+
+640
+30:35.430 --> 30:39.750
+And this is the concept we are exhibiting at CES
+
+641
+30:39.750 --> 30:42.540
+in terms of intelligent vehicle experience.
+
+642
+30:42.540 --> 30:45.450
+And there's other fusion technologies that you can do
+
+643
+30:45.450 --> 30:48.540
+because you have advanced ADA systems.
+
+644
+30:48.540 --> 30:52.590
+and we are able, we are software today
+
+645
+30:52.590 --> 30:55.860
+to be able to park and steer and control it.
+
+646
+30:55.860 --> 30:59.220
+If you have equipped garages and parking spaces,
+
+647
+30:59.220 --> 31:01.920
+are you able to do the car self-park itself?
+
+648
+31:01.920 --> 31:03.660
+And if that could be a software feature
+
+649
+31:03.660 --> 31:05.370
+that you could download because the hardware
+
+650
+31:05.370 --> 31:06.720
+is are essentially there.
+
+651
+31:06.720 --> 31:10.620
+So, these are some things that lends its way very easily
+
+652
+31:10.620 --> 31:13.500
+because of SDVs.
+
+653
+31:13.500 --> 31:15.018
+<v ->So, I wanna come back to what other,</v>
+
+654
+31:15.018 --> 31:18.510
+to come back to my PC and phone analogy
+
+655
+31:18.510 --> 31:21.210
+'cause I see one other sort of risk here, right?
+
+656
+31:21.210 --> 31:22.260
+So, if you think about the history
+
+657
+31:22.260 --> 31:23.970
+of the personal computer business, right?
+
+658
+31:23.970 --> 31:26.400
+Personal computer manufacturers,
+
+659
+31:26.400 --> 31:28.980
+as much as I love HP and Dell and Lenovo,
+
+660
+31:28.980 --> 31:31.800
+like, their products are very similar, right?
+
+661
+31:31.800 --> 31:34.248
+So, they run software from a third party.
+
+662
+31:34.248 --> 31:36.900
+They're based on processors from another third party.
+
+663
+31:36.900 --> 31:39.477
+They run applications from other third parties, right?
+
+664
+31:39.477 --> 31:42.180
+And so, the challenge that they've had in some ways
+
+665
+31:42.180 --> 31:44.430
+over time is how did you distinguish your,
+
+666
+31:44.430 --> 31:47.730
+how do you distinguish yourself from the competition?
+
+667
+31:47.730 --> 31:48.960
+In the automotive business systems,
+
+668
+31:48.960 --> 31:50.430
+historically, been a problem.
+
+669
+31:50.430 --> 31:51.393
+But if you turn,
+
+670
+31:52.230 --> 31:54.990
+as the business becomes more software-driven
+
+671
+31:54.990 --> 31:57.900
+and driven by third party applications,
+
+672
+31:57.900 --> 32:00.840
+I wonder whether there's a certain amount of risk.
+
+673
+32:00.840 --> 32:04.020
+And so, Magnus, I wonder how you think about the ability
+
+674
+32:04.020 --> 32:09.020
+to maintain a distinctive Mercedes experience
+
+675
+32:10.410 --> 32:13.200
+that's not, say a CarPlay experience
+
+676
+32:13.200 --> 32:15.960
+or you know, an Android experience,
+
+677
+32:15.960 --> 32:19.710
+or of, you know, a Spotify experience when you're in the car
+
+678
+32:19.710 --> 32:22.440
+that then makes it a little less special
+
+679
+32:22.440 --> 32:23.763
+to be in a Mercedes.
+
+680
+32:24.900 --> 32:27.420
+<v ->So, that's a very excellent question.</v>
+
+681
+32:27.420 --> 32:30.330
+And that's why we have concentrated
+
+682
+32:30.330 --> 32:33.030
+when we are defining what we mean
+
+683
+32:33.030 --> 32:35.310
+with a software-defined vehicle
+
+684
+32:35.310 --> 32:37.860
+and Mercedes-Benz operating system,
+
+685
+32:37.860 --> 32:41.670
+that its code have to be the holistic experience.
+
+686
+32:41.670 --> 32:44.820
+When you get into a Mercedes-Benz,
+
+687
+32:44.820 --> 32:47.190
+you feel it by, when you close the door.
+
+688
+32:47.190 --> 32:49.230
+You hear, you sound it's a Mercedes-Benz.
+
+689
+32:49.230 --> 32:51.090
+When you then look at the screen,
+
+690
+32:51.090 --> 32:53.310
+it needs to be a Mercedes-Benz.
+
+691
+32:53.310 --> 32:57.570
+Yes, you need to find the ecosystem digital interfaces
+
+692
+32:57.570 --> 33:01.926
+that you are used to and the apps and so forth,
+
+693
+33:01.926 --> 33:05.730
+but it needs to be in a high-quality manner.
+
+694
+33:05.730 --> 33:08.970
+And the way we're doing that is through leveraging
+
+695
+33:08.970 --> 33:12.660
+a series of technologies.
+
+696
+33:12.660 --> 33:15.570
+One of them that we got a lot of credit for
+
+697
+33:15.570 --> 33:18.000
+is that last year we were the first one
+
+698
+33:18.000 --> 33:22.020
+to integrate large language models into our beta program
+
+699
+33:22.020 --> 33:26.190
+to be able to really elevate the user experience
+
+700
+33:26.190 --> 33:28.920
+when it speaks to hey Mercedes in a different manner.
+
+701
+33:28.920 --> 33:30.960
+And just before the Christmas now,
+
+702
+33:30.960 --> 33:33.150
+we've been able to launch that live
+
+703
+33:33.150 --> 33:35.790
+to two and a half million vehicles out there
+
+704
+33:35.790 --> 33:39.570
+that is already sold and been able to be produced.
+
+705
+33:39.570 --> 33:44.490
+And these customers now in Europe and in USA
+
+706
+33:44.490 --> 33:47.910
+are now having this experience live in their system.
+
+707
+33:47.910 --> 33:52.590
+So, by working with partners but keeping control
+
+708
+33:52.590 --> 33:54.870
+over this user interface, and basically look at
+
+709
+33:54.870 --> 33:58.080
+how can we make sure that we live up
+
+710
+33:58.080 --> 34:00.330
+to our safety promise as Mercedes-Benz.
+
+711
+34:00.330 --> 34:03.630
+So privacy, data security, and so forth,
+
+712
+34:03.630 --> 34:08.280
+making sure that we can enable these kind of experiences
+
+713
+34:08.280 --> 34:12.090
+in a high-quality and especially in a safe manner.
+
+714
+34:12.090 --> 34:13.830
+That is the brand promise
+
+715
+34:13.830 --> 34:16.740
+and this is what we're focusing on.
+
+716
+34:16.740 --> 34:19.350
+Then, we're leveraging a lot of partners underneath
+
+717
+34:19.350 --> 34:22.470
+so that we are leveraging standards,
+
+718
+34:22.470 --> 34:25.686
+we're leveraging the tech players
+
+719
+34:25.686 --> 34:28.020
+to enable this service for us.
+
+720
+34:28.020 --> 34:31.110
+But, it's got to be a customer relationship
+
+721
+34:31.110 --> 34:36.110
+that is resonating with the customer itself.
+
+722
+34:36.292 --> 34:38.790
+You mentioned CarPlay.
+
+723
+34:38.790 --> 34:42.123
+We have deliberately chosen to keep CarPlay in there,
+
+724
+34:43.127 --> 34:47.670
+and we are measuring everyday what is the percentage
+
+725
+34:47.670 --> 34:49.530
+of our vehicles where the customer
+
+726
+34:49.530 --> 34:52.950
+is actually choosing actively to go to CarPlay.
+
+727
+34:52.950 --> 34:55.370
+And we have been able to bring that down now,
+
+728
+34:55.370 --> 34:59.580
+in our all of our new generations to single digit numbers.
+
+729
+34:59.580 --> 35:02.160
+So, we see that they actively are choosing our system
+
+730
+35:02.160 --> 35:03.763
+because they find all of the apps
+
+731
+35:03.763 --> 35:05.490
+and all of the functionality
+
+732
+35:05.490 --> 35:10.020
+that they like in our system.
+
+733
+35:10.020 --> 35:12.510
+And when there is something missing,
+
+734
+35:12.510 --> 35:17.510
+this is exactly the real-time, open-closed loop situation
+
+735
+35:17.610 --> 35:20.940
+that enables us to find out why are they then
+
+736
+35:20.940 --> 35:23.640
+going to a foreign system.
+
+737
+35:23.640 --> 35:24.720
+What is it in our system
+
+738
+35:24.720 --> 35:27.150
+that is missing that we need to close on?
+
+739
+35:27.150 --> 35:28.770
+<v Eric>From a component point of view,</v>
+
+740
+35:28.770 --> 35:30.900
+like Peter, is there something you could do
+
+741
+35:30.900 --> 35:33.810
+to help your OEM customers
+
+742
+35:33.810 --> 35:36.390
+distinguish what they're offering
+
+743
+35:36.390 --> 35:38.290
+from what the competition is offering?
+
+744
+35:39.990 --> 35:43.770
+<v ->I mean, as Magnus said, there is certain areas</v>
+
+745
+35:43.770 --> 35:46.620
+where the OEMS need to do in order to differentiate
+
+746
+35:46.620 --> 35:49.500
+and have the specific brand recognition.
+
+747
+35:49.500 --> 35:53.070
+And as you also mentioned about standards,
+
+748
+35:53.070 --> 35:55.020
+there's a lot of functions which are in common
+
+749
+35:55.020 --> 35:57.030
+and where there's no real differentiation.
+
+750
+35:57.030 --> 35:59.640
+And here, especially when we go in more complex systems
+
+751
+35:59.640 --> 36:02.400
+like in the SDV cars,
+
+752
+36:02.400 --> 36:05.255
+I think the industry and the supply chain
+
+753
+36:05.255 --> 36:08.130
+has much more room for cooperating on topics
+
+754
+36:08.130 --> 36:09.690
+which are not really differentiating.
+
+755
+36:09.690 --> 36:11.610
+And here on the component side,
+
+756
+36:11.610 --> 36:15.630
+we can support also, on the system side, we can support.
+
+757
+36:15.630 --> 36:18.750
+So, making sure that we cooperate there
+
+758
+36:18.750 --> 36:20.580
+where there's no real differentiation
+
+759
+36:20.580 --> 36:22.440
+in order to get the energy and the bandwidth
+
+760
+36:22.440 --> 36:25.830
+free from the engineers to do the real stuff
+
+761
+36:25.830 --> 36:29.310
+which is differentiating towards the consumer space
+
+762
+36:29.310 --> 36:32.490
+and is increasing safety and security.
+
+763
+36:32.490 --> 36:34.560
+<v ->Fern, how do you feel about that?</v>
+
+764
+36:34.560 --> 36:36.610
+Is there an opportunity there for you?
+
+765
+36:37.590 --> 36:40.680
+<v ->You know, I agree with Peter on the collaboration piece.</v>
+
+766
+36:40.680 --> 36:45.680
+I think it's also looking at ways that we can help drive
+
+767
+36:46.020 --> 36:48.870
+the capabilities for additional technologies,
+
+768
+36:48.870 --> 36:51.269
+new innovations, something that,
+
+769
+36:51.269 --> 36:54.120
+that may not be thought off in the past.
+
+770
+36:54.120 --> 36:55.410
+It's a why not?
+
+771
+36:55.410 --> 36:58.710
+And how do we deliver that at the right cost point?
+
+772
+36:58.710 --> 37:02.910
+Because certainly, there's going to be a lot of capabilities
+
+773
+37:02.910 --> 37:05.640
+that we can build, but if our consumer's
+
+774
+37:05.640 --> 37:08.400
+not gonna pay for it, then is it really valuable, right?
+
+775
+37:08.400 --> 37:12.210
+So, I think from our perspective it's really understanding
+
+776
+37:12.210 --> 37:15.600
+the direction that our consumers want,
+
+777
+37:15.600 --> 37:17.593
+the direction that our OEMs wanna go to,
+
+778
+37:17.593 --> 37:20.070
+and how do we deliver the right technology
+
+779
+37:20.070 --> 37:21.390
+at the right cost point?
+
+780
+37:21.390 --> 37:22.223
+<v ->Right.</v>
+
+781
+37:22.223 --> 37:23.490
+Aruna, how do you think about it?
+
+782
+37:25.653 --> 37:29.211
+<v ->From a supplier point of view, we are ready to do either.</v>
+
+783
+37:29.211 --> 37:30.044
+(Eric chuckles lightly)
+
+784
+37:30.044 --> 37:34.410
+It doesn't matter, honestly, because if you take your,
+
+785
+37:34.410 --> 37:36.960
+you either have the iPhone or you have
+
+786
+37:36.960 --> 37:38.700
+an Android based phone.
+
+787
+37:38.700 --> 37:42.330
+And you are using your phone 24/7 literally.
+
+788
+37:42.330 --> 37:46.230
+And your car, you use on an average an hour per day.
+
+789
+37:46.230 --> 37:47.880
+And you use it predominantly
+
+790
+37:47.880 --> 37:50.760
+because you need to go to point A to point B.
+
+791
+37:50.760 --> 37:54.480
+And while these technologies seem too far,
+
+792
+37:54.480 --> 37:56.700
+actually there's a synergy,
+
+793
+37:56.700 --> 38:00.150
+because the interfaces and so on are very common.
+
+794
+38:00.150 --> 38:03.690
+And the idea to use these in car is to make it
+
+795
+38:03.690 --> 38:06.840
+as seamless as possible in your vehicle.
+
+796
+38:06.840 --> 38:09.040
+So, you don't have to do any special
+
+797
+38:11.520 --> 38:15.420
+user added experiment to get this all to work.
+
+798
+38:15.420 --> 38:20.130
+The idea is to make your journey from point A to point B
+
+799
+38:20.130 --> 38:24.000
+very, very safe, comfortable, and convenient,
+
+800
+38:24.000 --> 38:27.534
+whether it be one or the other technology.
+
+801
+38:27.534 --> 38:28.367
+<v Eric>Right.</v>
+
+802
+38:28.367 --> 38:32.790
+<v ->And software-defined vehicles lends its way to that.</v>
+
+803
+38:32.790 --> 38:35.820
+I see these as not contradicting technologies,
+
+804
+38:35.820 --> 38:39.310
+mainly as more complimentary to what we wanna do.
+
+805
+38:39.310 --> 38:40.143
+<v Eric>Right.</v>
+
+806
+38:40.143 --> 38:42.600
+<v ->The key is also being,</v>
+
+807
+38:42.600 --> 38:46.020
+also to understand, all of these technologies
+
+808
+38:46.020 --> 38:48.210
+and the apps that you use can be integrated
+
+809
+38:48.210 --> 38:49.650
+in a seamless manner.
+
+810
+38:49.650 --> 38:51.540
+But, one need to understand that there are
+
+811
+38:51.540 --> 38:54.510
+safety technologies including ADAS functions in the car
+
+812
+38:54.510 --> 38:56.850
+that can be transported to a phone.
+
+813
+38:56.850 --> 38:58.110
+There's a limit to that.
+
+814
+38:58.110 --> 39:00.120
+<v ->So, we have only about a minute left,</v>
+
+815
+39:00.120 --> 39:02.830
+but, I wanted to talk to one other thing
+
+816
+39:03.780 --> 39:05.280
+with you, which is,
+
+817
+39:05.280 --> 39:07.500
+you guys have been a little bit ahead
+
+818
+39:07.500 --> 39:10.920
+of the pack on level three autonomy.
+
+819
+39:10.920 --> 39:13.290
+And as you get into level three,
+
+820
+39:13.290 --> 39:14.940
+so you know, level three is,
+
+821
+39:14.940 --> 39:15.990
+most of the audience will know, right?
+
+822
+39:15.990 --> 39:17.370
+It's like hands off, eyes off.
+
+823
+39:17.370 --> 39:19.290
+So, you can actually take your eyes off the road
+
+824
+39:19.290 --> 39:20.670
+under certain conditions.
+
+825
+39:20.670 --> 39:22.050
+And as you get to level four,
+
+826
+39:22.050 --> 39:23.973
+where it's like more true autonomy,
+
+827
+39:25.470 --> 39:27.240
+you do something magical in the car, right?
+
+828
+39:27.240 --> 39:29.580
+Which is you give people back time.
+
+829
+39:29.580 --> 39:31.972
+And that provides, it would seem to me
+
+830
+39:31.972 --> 39:34.770
+a really interesting moment
+
+831
+39:34.770 --> 39:36.930
+to provide new services in the car,
+
+832
+39:36.930 --> 39:38.100
+particularly in entertainment.
+
+833
+39:38.100 --> 39:40.200
+I'm curious how you think about that.
+
+834
+39:40.200 --> 39:44.190
+<v ->Yes, we of course, pride ourself with the safety</v>
+
+835
+39:44.190 --> 39:46.500
+and the security of our customers.
+
+836
+39:46.500 --> 39:51.500
+That has been the center of Mercedes-Benz for 130 years.
+
+837
+39:52.620 --> 39:57.330
+So with that, the pioneering spirit of the best of nothing,
+
+838
+39:57.330 --> 40:02.310
+really, it leads to the fact that if we can free up the time
+
+839
+40:02.310 --> 40:06.630
+that the customer has in spending in the time,
+
+840
+40:06.630 --> 40:08.520
+this is the ultimate luxury, right?
+
+841
+40:08.520 --> 40:10.980
+The ultimate luxury is to free up the mind
+
+842
+40:10.980 --> 40:12.390
+and that's what level three is about.
+
+843
+40:12.390 --> 40:14.250
+You actually free up your mind so that
+
+844
+40:14.250 --> 40:16.750
+you don't need to look at the road all the time
+
+845
+40:18.420 --> 40:22.380
+because if you only are freeing up your hands,
+
+846
+40:22.380 --> 40:25.140
+still, your mind needs to be monitoring what is out there.
+
+847
+40:25.140 --> 40:28.800
+And having level three right now here in Nevada,
+
+848
+40:28.800 --> 40:33.330
+having it right now in San Francisco, and in Germany.
+
+849
+40:33.330 --> 40:37.590
+By the way, we just released that we can legally be approved
+
+850
+40:37.590 --> 40:39.990
+to drive up to 95 kilometers an hour
+
+851
+40:39.990 --> 40:41.910
+in Germany on level three.
+
+852
+40:41.910 --> 40:45.120
+Which, really, is many, many hours on the road
+
+853
+40:45.120 --> 40:48.150
+that you can then actually watch a movie.
+
+854
+40:48.150 --> 40:52.620
+You can do emails, you can work with your devices
+
+855
+40:52.620 --> 40:54.900
+that you have in your hands, take a coffee, whatever,
+
+856
+40:54.900 --> 40:57.720
+that is true luxury in our opinion.
+
+857
+40:57.720 --> 41:01.770
+And providing that luxury in a safe manner,
+
+858
+41:01.770 --> 41:04.080
+that is what Mercedes brand form about.
+
+859
+41:04.080 --> 41:07.470
+So, that is why we believe that level three
+
+860
+41:07.470 --> 41:10.530
+is a true benefit to a customer
+
+861
+41:10.530 --> 41:12.510
+where we can drive that we'll continue
+
+862
+41:12.510 --> 41:15.960
+to push the boundaries on how fast we can drive
+
+863
+41:15.960 --> 41:18.630
+using the service.
+
+864
+41:18.630 --> 41:21.120
+It's raw physics, so it's about the sensor set
+
+865
+41:21.120 --> 41:24.270
+and it's about the, how we compute that.
+
+866
+41:24.270 --> 41:26.790
+But, we believe this is the true luxury.
+
+867
+41:26.790 --> 41:31.790
+Of course, we have the luxury, also, to have the customers
+
+868
+41:31.950 --> 41:35.310
+in our premium segments that can do that.
+
+869
+41:35.310 --> 41:38.340
+But, this is the pioneering spirit about Mercedes-Benz
+
+870
+41:38.340 --> 41:41.550
+where, you know, when you bring a new technology in,
+
+871
+41:41.550 --> 41:44.580
+you bring it in to that top-end segment
+
+872
+41:44.580 --> 41:46.860
+and then you basically democratize it
+
+873
+41:46.860 --> 41:48.810
+by having the costs go down,
+
+874
+41:48.810 --> 41:51.960
+and giving that to a larger population.
+
+875
+41:51.960 --> 41:54.210
+That is how we have seen happening
+
+876
+41:54.210 --> 41:56.210
+with the basic ADAS functions,
+
+877
+41:56.210 --> 41:58.200
+and this is how it's going to go
+
+878
+41:58.200 --> 41:59.820
+with this technology as well.
+
+879
+41:59.820 --> 42:00.653
+<v ->Great.</v>
+
+880
+42:00.653 --> 42:02.310
+Well, we are over time.
+
+881
+42:02.310 --> 42:04.260
+Thank you all for sticking around
+
+882
+42:04.260 --> 42:07.290
+and for listening so attentively to our panel.
+
+883
+42:07.290 --> 42:09.090
+Please give them all a round of applause.
+
+884
+42:09.090 --> 42:10.287
+Thank you.
+
+885
+42:10.287 --> 42:11.406
+(audience clapping)
+
+886
+42:11.406 --> 42:14.739
+(light music)
+

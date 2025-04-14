@@ -1,0 +1,883 @@
+<v Lori>How's everybody doing?</v>
+We're getting ready to just start.
+For those of you in the back,
+this is like an intimate session, so don't be afraid.
+There's actually keys to a Chevy taped
+to the bottom of one of these chairs.
+So if you guys come on up closer,
+we're very attractive people also.
+I think if you see us closer,
+'cause I know a couple of you
+in the back are very nearsighted,
+so come closer 'cause we're gonna have
+a really fun discussion.
+We're gonna show some examples.
+So I'd love to see all of you up here.
+So my name is Lori H. Schwartz.
+I'm gonna be your moderator for this panel.
+This is actually the last session
+of the Tech to Lead a Better Life, to lead a good life.
+And we're very excited to wrap it up
+with some insights about really interesting technology
+that is going to change how we live
+and how it's all coming together.
+Have any of you had a chance to walk the Venetian at all?
+The Venetian Expo? It's absolutely fascinating this year.
+I'm privileged enough through my company, StoryTech,
+to provide show floor tours for CES.
+And so, I've been on that floor
+a lot the last couple of days
+and one of the most exciting things is the decision
+for CTA to literally move digital health
+and wellness to the Venetian
+where there was all this lifestyle tech.
+And so, now, what we have on
+that Venetian floor is not just a series
+of products all over the place,
+but it's really a whole expo dedicated
+to how we're going to live.
+And so, on this great panel, we're gonna really dig into it.
+So to kick us off, I wanna introduce an old friend of mine,
+Sandy Abrams, and she's gonna help us get
+into the zone of thinking about all of this.
+<v Sandy>That's right, thank you.</v>
+Yeah, this is gonna be an amazing conversation
+about the importance of measuring
+and understanding key biomarkers for our well-being.
+And I'm here to share just about two minutes
+of breath practice with you
+because breath is a really powerful modality for wellness
+to help you improve things like stress
+and lower your blood pressure,
+improve your heart rate variability
+to sleep better and improve your cognition.
+So I'm gonna share three breath practices
+that will help you calm and relax your nervous system.
+So let's begin by getting comfortable
+in your chairs and closing your eyes.
+When was the last time you closed your eyes during the day?
+Notice how luxurious this can just feel on its own.
+And the first breath practice that we're going to do,
+I'll explain it, so you can keep your eyes closed
+if you'd like, is called a physiological sigh.
+It's the fastest way to calm your nervous system,
+and it's two parts on the inhale through your nose.
+The first part, you fill up your lungs about three quarters
+of the way full, and then the second part,
+you just completely fill your lungs
+and then the exhale (breathes) through your mouth.
+We'll do two of these together. It sounds like this.
+And that's something you can do anywhere, anytime.
+The second breath practice
+is called humming or buzzing breath.
+And this activates your vagus nerve,
+the V-A-G-U-S nerve which is responsible
+for relaxing your nervous system.
+And humming or bumblebee breath sounds like this.
+Again, you'll be inhaling through your nose (inhales)
+and on the entire exhale you make a humming, buzzing sound
+for the entire length of your exhale.
+Let's just do one of these together.
+Slowly inhale (inhales) through your nose and exhale.
+Sometimes just one of those really feels like you hit
+the jackpot for relaxation.
+The third breath tool for calming your nervous system
+that we're gonna do today is to make your exhales twice
+as long as your inhales.
+So let's take an inhale (inhales)
+and exhale either through the nose or mouth,
+making it feel about twice as long.
+Slow, (exhales) exhale.
+Let your shoulders come away from your ears.
+We'll do two of these, inhaling.
+Even smile on the inhale,
+it changes your biochemistry (inhales)
+and lean into that slow, long exhale. (exhales)
+One more of these at your own pace.
+Inhale, (inhales) slowly exhale (exhales)
+and again, take these practices home with you
+because they can be done in small moments throughout the day
+to help you relax your nervous system.
+Thanks for breathing and enjoy the panel.
+<v Ramses>Thank you.</v>
+<v Lori>Let's have a calm hand for Sandy.</v>
+That was great and I love that all of you did it.
+Not that I was not having my eyes closed too.
+Okay. (laughs)
+All right, so I wanna do just a speed round
+to introduce our speakers today who are each coming
+with a very unique value prop on this concept.
+And then we're gonna dig
+in a little bit more to each of them.
+So let's start with you, Thomas,
+and just go down the line for a little speed intro.
+<v ->So I'm Thomas Serval. I'm the CEO of Baracoda,</v>
+and we focus on turning your bathroom into a primary point
+of care by collecting data from a lot
+of useful and usual devices.
+<v Pranitha>Hi, everyone, Pranitha Patil.</v>
+I am Co-Founder and COO of Function Health.
+We are a all-in-one healthcare platform
+that looks at comprehensive analysis of all
+of your organs in your organ systems,
+and I'll get into that in a little bit.
+<v ->Hey, everybody. My name is Dr. Ramses Alcaide.</v>
+I am the CEO of Neurable,
+and we work on brain computer interfaces,
+specifically to help track brain-related disease states.
+Think of neurodegenerative diseases
+or neurodiverse issues, but in everyday wearables
+<v Lori>This is so exciting 'cause they're</v>
+all collecting data in different ways.
+So we're gonna really get into how significant this is.
+So, Thomas, I know you wanna show us some slides
+and dig in a little deeper.
+And while Thomas is making his way up to the computer,
+how many of you just, raise your hand,
+are leveraging wearables
+of some kind right now in your life?
+Okay, great.
+And then how many of you are leveraging connected solutions
+in your home that are reporting back data on how you live?
+One of you, okay.
+And how many of you are making products
+in this space right now?
+Okay. And some of you are strategists or just,
+or any of you in the medical profession?
+Okay, any of you under felony investigation?
+Okay, just checking. All right, Thomas, go ahead.
+<v Ramses>We're just waiting for the clicker here.</v>
+<v Thomas>So Baracoda started 10 years ago</v>
+because my daughter was not brushing her teeth correctly,
+and I invented a smart brush called, Kolibree,
+which is humming bird.
+So it resonates with her, last exercise we just done.
+And we found a way to track
+the way she was brushing her teeth.
+So somehow one of the most insightful information,
+how do your children do when they brush their teeth?
+And we extended this, from this insight,
+we extended our vision of if we could know what's happening
+in everybody's bathroom
+without jeopardizing anybody's privacy is such a great place
+to collect the most valuable data about your health.
+You spend on average one hour in your bathroom every day.
+A mirror or a sensor are seeing you always
+under the same angle which is a terrific data set,
+and you will not bring many new devices.
+Actually, 82% of the people are already bringing
+their phone despite the privacy challenges.
+So what we have been doing is trying
+to wire correctly the bathroom.
+So starting with the toothbrushes,
+then we invented a smart bath mat,
+then a smart screen which we call a smart mirror.
+And then we turned it into a platform
+which is the best way to collect data,
+but also to add other devices to the ecosystem.
+And we believe this is going
+to be the future whether we want it or not.
+And this vision has been proven true
+because A, we were lucky to be 10 years in a row,
+world winners at CES.
+So at least the journalists like us,
+but also, because we see adoption across the world
+where there is not enough doctors
+and practitioners of healthcare,
+or you have a growing population of aging people
+for which the first reason for them
+to move out of their home is actually
+that they can no longer use
+their bathroom in the proper way.
+So with this vision, I'm just trying to,
+we try to build the underlying platform
+that number one, we are European.
+It's critical for us protect your data,
+so it's privacy by design, otherwise it would be illegal.
+There's a growing number of challenges
+'cause in a bathroom, you have, in Asia,
+three generation overlapping to each other.
+In Europe and US, two generation, but basically,
+their needs and interface should be different.
+And so, platform by platform,
+the first one which has direct impact on your health,
+and we keep discovering new insights
+is what's happening in your mouth.
+I think above 80% of all the disease
+are actually caught through your mouth.
+So knowing what's going on in your mouth
+is actually a great way to diagnose
+or prevent a lot of things.
+And also, know that with children,
+proper health habits are actually increasing
+their life expectancy by 10 years.
+So it's not minimal.
+And another one reason why people
+in emerging country are not going
+to school is actually oral care diseases.
+I'm just trying to get to the slide.
+So what a bathroom that is fully connected will mean?
+With a smart bath mat, we can collect your weight.
+As you probably know, if you combine your weight
+and your height, you have your life expectancy
+with a 5% accuracy.
+Insurers have got it since 1943
+or okay, I already mentioned
+and the mirror or the smart mirror,
+we introduced last year at CES, a mirror called BMind.
+25% of Americans wake up in the morning
+with a little low moment, you know, little depressed times.
+There is not a hundred million dollar of psychiatrists
+that can deal with those things.
+AI is the only way forward.
+And so, by building some smart way
+to do triage about how well are you doing?
+And so, we invented a way to ask you how you're doing
+and by just listening to you,
+we get so much more information beyond your language.
+We understand what you say, I'm great.
+We understand the where you sit, I'm great,
+actually your sound, it means you're not great,
+and we understand your posture is also a great message.
+So beyond the biomarker
+and the things that are very hard to catch,
+there is a lot of signals that are logging fruit
+for us to work on the future of healthcare.
+The other thing we have been working on recently
+is a smart bath mat, was also two CES award.
+So you walk on the bath mat and we track your weight.
+Your weight is one of the most interesting information.
+But beyond the weight, your balance,
+the one reason why you have problem
+in your home is you're falling.
+And the risk of falling is now based on the data,
+something we can predict.
+Falling is not an accident.
+It's actually a dysfunction of some of your major muscle,
+and you have four system in your body
+to rebalance you which have become defect,
+either by brain damage or by just aging
+the you falling.
+And then usually, it's a very bad prediction
+for your health expectancy.
+And the good news about that
+is now we know it's somehow a disease.
+There is a way to reverse those symptoms
+and by doing simple exercise every day.
+And that's why this smart mat
+has been awarded Best Startup in Korea
+which is a most aging population right now.
+We can find a way for this to work.
+Analyzing your skin, you know,
+melanoma, most of the of the mirrors,
+most of the cancer are not happening overnight.
+They are actually a long decay of some things
+that you can actually collect in skin cancer,
+not all, but collecting the inner markers,
+fluids, and the outside visible marker
+is actually a good way
+to help diagnose what's going on with your skin.
+And last but not least, I think it's important,
+the challenge for wearables is actually
+when the battery is dead, you no longer wear them.
+And which means that all the data collection,
+which I call daily healthtech,
+or longitudinal healthcare is lost.
+And I've bought sixth version of my Apple watch,
+and I'm no longer because at some point,
+actually it happens two days after CES, battery is dead,
+and the data set that I can collect is no longer accurate
+because it's interrupted.
+So with this, we have been,
+with this, what we have been able to do was
+to use your body as a battery,
+so that was also 2023 CES award.
+And this wristband is actually very promising
+for all people who need long-term tracks of their vital.
+We measure HRV.
+We measure activity and temperature,
+whether it's for women health or aging people,
+or for everybody that wants to take care of their health.
+And it's not that complicated.
+So on that note, those are all the new devices we
+are bringing together and if you want to visit our booth,
+what we are showing is actually the underling platform we
+call BConnect that enable the creation of all those devices
+and new devices allowing those devices to be interoperable,
+not only ours, but also all the 65 makers
+of devices that collect well-being or healthcare data.
+And making those data available for further research,
+further discovery, has probably a huge impact
+on longevity and well-being.
+Thank you very much.
+<v ->I wanted to just ask you just really quickly,</v>
+have you seen folks that are using your solutions
+or whatever data you're collecting,
+are they getting more used to this idea
+of having all these connected solutions?
+You know, is it something
+that we're all jumping into quickly?
+<v ->Well, each new data source open new opportunities.</v>
+Initially, the scale we wanted to do
+for just monitoring your weight
+and now, we discover we can actually predict falling.
+So that's a typical usage.
+Another one we have had with a toothbrush was
+that we invented the connected toothbrush
+because my daughter was not brushing her teeth.
+Then we receive emails from parents
+of people who have autism.
+And brushing your teeth if you have
+an autistic child is a nightmare.
+Suddenly, you can focus the attention of on the child,
+on playing a game and then it becomes easy.
+So not only application are invented by even a researcher,
+but actually users find new ways to use your tools
+beyond what the inventor have thought through.
+<v ->Now, that's so interesting.</v>
+All right, let's, and I think we're gonna find a lot
+of commonalities between these guys
+once we dig in a little bit more.
+So let's go over to Pranitha.
+Tell us about your fabulous company
+which I can't wait to use myself.
+I love it.
+<v ->Can I have the clicker?</v>
+Thank you.
+And, yeah, so Pranitha Patil, Co-founder, COO.
+And I will just take you into kind
+of how we're thinking about our platform and what we do.
+I think we know especially if we're at CES,
+that the applications of AI
+with healthcare are finally actually here.
+What we are with Function Health is we are
+an annual membership for $500 a year.
+We start with diagnostic testing.
+So blood and urine that you collect
+at your local Quest Diagnostics.
+Once you complete those tests,
+it's about a hundred biomarkers.
+We're looking at all organs
+and organ systems, your heart, your hormones,
+your liver, your thyroid.
+We're really getting a full view of what's happening
+with your body and then we're presenting
+that information back to you
+in a digestible, actionable way.
+And then over time, how we think about this
+as we apply past medical records, self-reported data,
+and any other data sets that you can think about,
+think imaging, think you're wearable that you're wearing,
+stool testing, saliva testing,
+we really think of ourselves as a platform.
+But today, what we focus on is $500
+for those a hundred biomarkers twice a year
+to establish a baseline.
+And this is just quickly kind of how it works.
+Once you set up your account, you schedule your lab tests.
+Those results are tracked in this dashboard.
+These are the tests that we do.
+I won't sit here and list all of them,
+but they're meant to be incredibly comprehensive
+because if you go to a traditional physician today,
+your annual physical,
+you're getting about 15 to 20 biomarkers done.
+They see you, they say, okay, cool, you look great.
+See you in a couple years,
+unless you come back with something severe.
+And that's what we're trying to fix.
+We're trying to say let's be as proactive as possible.
+Let's really understand what's happening
+in our body because we deserve to have
+that information on our health.
+The science is there.
+There's been only a delay in a hierarchy in getting
+that information into people's hands in a proactive way.
+So this is the list of a hundred tests that we do.
+We also have a host of add-ons.
+So you'll see cancer detection, autoimmunity, allergy.
+We just released several other add-ons that look at PFAS
+and a couple other just new tests that really take,
+you know, 18 years to get to market.
+We're trying to say let's get you access as soon
+as the research and the data and the test is there.
+I'll just quickly talk you through kind of the dashboard.
+Once you do get your tests, we have,
+you'll see here your biological age,
+the biomarkers that you've gotten tested,
+and we go category by category, so by organ system,
+kind of how you're doing and we'll take you into specifics.
+So look here, this is H-S-C-R-P. Why does it matter?
+A summary, the causes, foods you might eat,
+foods you should limit, other things
+that you might find beneficial of like what's going on.
+And in that chart, you'll see that tracks over time,
+which if I ask probably this audience,
+I don't know who has their electronic medical records
+in a clean, easy-to-access way today.
+This is meant to not only be that,
+but say, hey here's actually what you should do about it.
+We also, obviously, provide clinician notes.
+So a clinician actually goes
+through your entire medical history as well
+as the biomarkers that you got tested to provide you
+with a summary of, you know,
+what's the most important thing you need
+to be focusing on today?
+'Cause it can be kind of overwhelming
+to get results for a hundred plus biomarkers.
+So that is provided here.
+And then a clean action plan as your health stack.
+I will tell a quick story
+of an individual, his name is Jeff.
+He was able to find prostate cancer
+through the gallery test.
+I speak to members every single day,
+and it's incredible to really hear
+and understand how folks' lives are being changed with this
+because they're proactively able
+to identify not just cancer,
+but hypertension, cardiovascular risk, the list goes on,
+on things folks are able to find proactively
+and actually make a change in their day to day.
+And then, I'll end with our founding team,
+and you can join by going
+to functionhealth.com if you want.
+<v ->Awesome. I'm so going.</v>
+Before we jump over to Ramses, I just wanted to ask you,
+you have some unique brand partnerships
+with what you would call other category,
+you know, brands like Equinox,
+and I think you also have one with Thrive Global.
+Can you just talk a little bit about how
+that fills out the story of what you're trying to do?
+<v ->Yeah, I mean, if you think, take a step back.</v>
+This is an 8-billion-person problem.
+This is not just a handful of people that need this.
+When we go out and talk to potential partners,
+you can think about Function as a platform
+and apply your gym and your fitness
+on top of your biomarkers.
+You can apply Thrive Global. You can apply grocery stores.
+You can really think about this as applied as a foundation
+which is why when we speak to potential partners,
+it's a no-brainer
+because this data has been lacking for so long
+that folks want the access to what's going on in their body
+and then they can make more informed decisions
+about how they should live their life
+versus going off of a symptom.
+<v ->That's awesome.</v>
+I just like the idea of all of it coming together.
+'Cause how many of you have like a separate app, maybe,
+for your scale and a separate app for your diet
+and exercise, and all of that.
+So it would be wonderful to have it sort
+of all talk to each other-
+<v ->Yes.</v>
+<v ->which I know is the goal for all of you.</v>
+All right, let's jump over to Ramses and then again,
+after Ramses goes, we're gonna connect back to everybody.
+So Ramses, take it over.
+<v ->Hey, before I get started though,</v>
+I wanna ask for a volunteer.
+Does somebody wanna come up here
+and do something with their brain real quick?
+Just raise your hand. I need one.
+I'm not moving forward until I get a volunteer, so.
+<v ->Ramses, I'll do it if nobody will do it, so. (laughs)</v>
+<v ->Let's try to get somebody from the audience.</v>
+<v ->Come on up. Yay.</v>
+<v ->Come on. Let's make this engaging.</v>
+Come on. There we go. Thank you.
+All right, let's get my slides up real quick.
+<v Lori>Are we gonna find out anything weird about you?</v>
+<v Ramses>You come up here.</v>
+You're gonna sit up here with me.
+<v Lori>That's great.</v>
+<v Ramses>What's your name?</v>
+<v Aven>Aven.</v>
+<v Ramses>Aiden?</v>
+<v Aven>Aven.</v>
+<v Ramses>Aven. Thank you, Aven.</v>
+Awesome. Have a seat right here.
+We'll get to you in just a second.
+So really, what we work on at Neurable
+is trying to unlock the mind, right?
+A lot of you have wearable devices.
+Could you just raise your hand if you have one?
+Yeah, pretty much everybody here, right?
+That's why we're all biased in this area,
+but outside of this group,
+three outta 10 people have a wearable device, right?
+It's primarily used for things like understanding
+the body at scale and longitudinally.
+That's a thing that wearable devices really
+are changing the world with, right?
+Right now, when you go to the doctor,
+you just get a snapshot of what your life is
+and what your state is,
+and some of these wearable companies up here
+are changing that.
+But that's the big win,
+being able to do at scale,
+longitudinal analysis about your body.
+But the key thing is what about your brain?
+The most important organ in your body, right?
+Why aren't we tracking that, right?
+And there is technology to track that.
+They're called brain computer interfaces.
+They're basically technology that allows you
+to read brain activity
+and then use it to control other types of systems
+or better understand yourself.
+And I'll tell you why these systems aren't everyday devices.
+It's because essentially, even though they have
+this huge amount of aspects that you can track
+and look at, you know, imagine tracking Alzheimer's
+before you get it, right?
+Imagine tracking your focus even though
+the value proposition is enormous for these devices.
+They look like this, right?
+They're large cap systems with gel electrodes, you know,
+essentially prongs that go through your hair.
+And while it would be incredible to have this type
+of technology and to be able to track these biomarkers,
+something that no other type of device can.
+We're limited to this type of form factor.
+And that's where Neurable comes in.
+It was developed in 2011.
+It's a signal processing technology
+from the University of Michigan
+that boost the signal of brain data.
+So instead of having to use these large head cap systems
+that you see here to your left,
+we essentially boost the signal,
+and we can bring it down to a pair of headphones.
+So here, I have a beautiful pair of headphones.
+They're a premium-end headphone
+from a company called Master &amp; Dynamic.
+We license our AI to this device.
+On the inside, you will see these gray bands,
+and Aven, you're gonna be controlling
+something with your brain.
+<v Aven>Okay.</v>
+<v Ramses>Yeah. Oh, how cool is that, right?</v>
+So go ahead and put these on just like
+a normal pair of headphones.
+Now, normally, to put on a brain computer interface,
+it would take about 20 to 30 minutes.
+We'd have to put gel all over you. All this other stuff.
+Yeah, just, yep. Awesome.
+But essentially, what we're gonna do right now
+is we are just having you put it on
+like a pair of headphones.
+So I'm gonna make sure they're turned on.
+Okay.
+Wake up my computer 'cause it decided to fall asleep.
+And how many of you actually used
+brain computer interfaces before?
+Anybody? Raise your hand.
+You two are biased 'cause you guys came here for me, so.
+All right.
+And if we could switch to my computer, please.
+So for those of you that are interested,
+please stand up and move over here real quick,
+and we're gonna show you some really cool,
+brain-related things.
+And if you haven't seen a brain computer interface,
+this is gonna be really sick, so.
+<v Lori>And Ramses, is there a website also where some</v>
+of these can be looked at in case folks don't get
+to see everything we wanna see?
+<v Ramses>Yes, yes. 'll share that in a second.</v>
+Aven, can you come down to this red chair?
+And then we'll get everybody over here.
+Awesome.
+So, Aven, just have a seat right there.
+So you guys can see this graph here?
+It represents Aven's focus.
+Now, Aven, what I want you to do is,
+do you see these numbers scrolling
+on the screen right there?
+I want you to start saying those numbers
+in your head as intensely as you can.
+Are you chewing gum?
+Yeah, could you take that out real quick? (laughs)
+No worries. All right.
+So go ahead and just start focusing
+on these numbers as they pop up.
+Say them in your head as intensely as you can.
+So you can see that his focus just spiked up, right?
+Right there.
+And now, that he's distracted
+'cause I'm distracting him, you see it drop down.
+So go ahead and focus one more time
+and then you can see his focus go up.
+Now, I'm gonna show you guys something really cool.
+Hold this for a second.
+I want you to read this article.
+So, Aven is about to read an article,
+and you're gonna see his focus go up.
+<v Aven>This is my favorite headphones at CSE.</v>
+<v Ramses>You can read it in your head.</v>
+Don't worry about it.
+<v Aven>Oh, oh.</v>
+<v Ramses>Yeah, yeah, it's okay. Don't worry.</v>
+<v Lori>Don't worry everybody, (chuckles) it's okay.</v>
+<v Ramses>All right, awesome.</v>
+So you see this area right here?
+This was him reading?
+<v Aven>Yep.</v>
+<v Ramses>Oh, and then he saw the picture,</v>
+and it dropped his focus, right?
+'Cause he got distracted as he scrolled past
+this picture right here.
+And then when he went back to reading,
+it shot back up, right?
+So we're tracking his brain activity in real time.
+Something that would require a full-scalp EEG
+to get this level of capability.
+But we're able to do it essentially
+with an everyday device, right?
+So that's the real key type of technology.
+Cool, thank you all so much, Aven.
+<v Lori>Let's have a hand.</v>
+<v Ramses>A round of applause for Aven, real quick.</v>
+<v Lori>Being very creative about the demo there.</v>
+Let's just get into some group discussion.
+We have eight minutes left and I'd love for you all
+to hear from these great entrepreneurs.
+So just the question I was asking during our prep,
+not to spend too much time on this,
+but I'm wondering as we look
+at diagnostic therapies and how the FDA
+and our health insurance companies are finally paying
+for things for consumers, are all of you looking
+at the role that insurance companies will have with this
+and how doctors are treating this and things like that?
+So anyone on the panel wanna answer that?
+<v ->So my first customer,</v>
+when we started the toothbrush business
+was actually Delta Dental from California.
+'Cause it's an obvious change of the value, however,
+and it's quite disappointing, despite the fact
+that insurers show interests,
+at this moment, most of the market,
+not all, are more focusing on short-term,
+simplified interface, better user experience,
+less paperwork.
+So digitization of the user relationship
+is actually lowering the risk because somehow,
+the risk right now is properly redistributed.
+The insurance business is actually sharing
+the risk because if the risk increase,
+they will just increase the premium,
+and that's not bad for the business.
+So the insurance pathway is a long-term path.
+But for entrepreneur, we're looking for,
+I would say, quicker exit is probably not the best way
+in many areas, but it needs to be appreciated state by state
+because actually, insurance is actually regulated
+quite heavily in a state by state.
+<v Pranitha>Yeah. Similarly, we are focused</v>
+on consumers directly.
+We have a hundred thousand customers today.
+I think insurance is, to your point, the long-term play.
+But it really, really helps
+to have the direct consumer feedback right away.
+Like the number of folks that we get feedback from,
+so immediately and we can iterate
+on our product is outstanding.
+So that's our take at the moment.
+<v Lori>And Ramses.</v>
+<v Ramses>Yeah, I mean we're taking</v>
+a similar approach to like what Apple did.
+You know, they released a product,
+but it wasn't a medical product, right?
+It tracked your heart rate and then from there,
+they said, "Hey, you might have heart arrhythmia.
+Go see a doctor."
+And now, they're FDA approved,
+and they're going through that.
+And now, insurance companies are starting
+to leverage the data and so,
+we're taking a similar approach.
+That way, we can collect a ton of data,
+provide value and not be overburdened by FDA
+or insurance as a small startup company.
+<v ->That's great. I love that.</v>
+And do you see a moment in time where, you know,
+all of you are training consumers to be advocates
+for themselves, so that's gonna push the market forward.
+Am I correct? You know, the goal, that's the goal?
+<v ->Yeah, I think there is a point</v>
+where insurer actually are distributors of product
+and don't know actually how to sell hardware.
+So eventually, if there is no customer demand,
+if there is no desirability, if there is no brand,
+there is no value for the customer.
+So there is no value for the insurer.
+So really, the customer-first approach
+is really the only way forward.
+There is no big incentive despite
+whatever we can sell long-term
+for a manager that stays three years in a job
+to take a risk to actually buy a lot of hardware
+and try to see the value of five
+to 10 years down from the road.
+<v ->Yeah, wearables really like flip the script.</v>
+That's the key part, right?
+Like think about when you go to the doctor, right?
+You go to the doctor,
+and they say everything's fine.
+Go back next year, everything's fine.
+Go back next year. This happens for five, 10 years.
+And then they say, oh, your heart is abnormal, right?
+It's not that your heart hasn't been abnormal
+for the last 10 years and it just magically happened.
+It's probably been happening slowly over the last 10 years.
+But when they measured your heart at the hospital,
+they didn't detect it right?
+And so, wearables are flipping the script
+because now, you can measure that change as it's occurring.
+You can get it that information years beforehand,
+and that enables preventative care.
+That enables you to interject earlier.
+And so, that consumer-first approach enables
+that type of disruption to happen
+that using our current healthcare system,
+it's not well set up to do.
+<v ->Just maybe adding one thing.</v>
+I think there is two condition,
+when people are consumer and when people are patient.
+And there is a big, big difference.
+When people are consumer,
+it's their desire that will drive the adoption
+and insurer are not going to push it
+because it's extra cost for them,
+and the return on investment is too far away,
+in most cases, not all.
+Then when the consumer is becoming a patient,
+you're entering a brand new world
+where once you have proven the clinical value,
+which is not really, I mean some of our product are
+in that space, some of their product might enter that space.
+To enter that space takes two, three, four years
+to get the FDA approval
+and to have the clinical to support your claims.
+But there is a real benefit to the patients
+and a clinical benefit then insurers start going in
+because somehow if there is a better practice
+of care then it will be adopted by the healthcare community
+and become almost mandatory.
+But that's a complete different game for which startups
+who go to CES who have a short innovation cycle
+are not really prepared or funded to do.
+<v ->I'll also add one thing with physicians, right?</v>
+The insurance companies, that's one thing.
+The physicians on the other side,
+we've spoke to countless number of them
+that are finally getting hip to the idea of,
+yes, doing this many tests is okay,
+even though I was trained in medical school
+to think differently and taught to do differently,
+the incentive structure is not set up.
+There's so many things that are,
+honestly, battling preventative healthcare for physicians
+as they're burnt out, they have five minutes to see you.
+So if we really start to flip the script
+and say in your visit,
+we're super optimizing that time together
+because we know exactly what we need to get out of it.
+That is major change in how we do health
+and think about healthcare.
+<v ->Let me just ask the tricky question</v>
+that's a big conversation on the floor right now.
+And that's just about data security
+and also the other question in the air
+for everything right now is sustainability.
+So are those two conversations also wrapping
+into what you guys are all doing?
+Are you looking at, you know, security,
+and then also do we make a product
+that will move forward in this world?
+You know, where we're limited in resources?
+<v ->So on security, the biggest weakness</v>
+of connected device is inventor don't know cybersecurity,
+otherwise, they won't invent
+because it's so heavy and complicated.
+So that's why we introduce this BConnect platform
+to accelerate the best practice of cyber security diffusion
+as well as implementing the best practices in data privacy.
+Because data privacy, best practice
+actually not embedded in the software.
+You have to build it yourself,
+and you need to build it out of experience.
+On the sustainability, it's an economic question.
+What we have seen so far is only a few percentage
+of the population can afford paying sustainable product
+and when people are suffering from purchasing power change,
+they will focus on the price versus sustainability,
+and that's gonna last,
+<v ->I'll start with sustainability first.</v>
+If you think about pro-anything,
+proactive or preventative,
+the idea is to stave off the cost you would have
+for treating diabetes, treating heart disease.
+That is a major win if you're able to get that
+and get that outcome.
+And then as far as security, absolutely,
+our members own their data.
+They choose who they send it to,
+and that is of utmost priority with function
+because that can impact your insurance.
+It can impact a number of things down the line
+if we don't keep that top of mind.
+<v ->Yeah, ours is pretty simple.</v>
+Similar to yours, the consumer owns the data.
+If they wanna share it to us, that's wonderful
+and by sharing it to us, we give them more value, right?
+But if they just wanna use the product
+in its simplest form, that's totally fine.
+<v ->That's awesome. And just 'cause we're running outta time,</v>
+can you guys do another lightning round
+of where everybody in the audience can learn more
+about your platforms, so they can play?
+<v ->Yeah you can go to neurable.com</v>
+and actually see what we're building.
+Also, come talk to me afterwards.
+I'm happy to give you guys demos,
+and you guys can mess around with the system yourself.
+<v ->Are you on LinkedIn as well</v>
+posting about what you're doing?
+<v ->I am on LinkedIn.</v>
+You won't be able to add me 'cause I have a blocker on,
+but I will add you if you show me your QR code.
+<v ->Oh, I love that. Privacy issue there. Okay. (laughs)</v>
+<v ->I'm on LinkedIn, Pranitha Patil is my name.</v>
+And then you can learn more about Function
+by going to functionhealth.com.
+I'm also happy to chat and answer any questions after this.
+<v ->I am on all possible platform.</v>
+LinkedIn, WeChat, WhatsApp, Thomas Serval.
+You can find me or tserval on the X.
+We are on CES show floor at Eureka Park
+in the French pavilion.
+And our website has plenty of example, baracoda.com,
+B-A-R-A-C-O-D-A.com.
+<v ->Wait a minute, you're French?</v>
+Just kidding (laughs)
+All right. Let's have a big hand for our panelists.
+Such great entrepreneurs,
+really changing the way we're gonna live our lives.
+I love it. Thank you guys so much
+and please check out all their companies.
+They're just doing amazing work. Thanks, everybody.
+This ends this track,
+but there are more sessions here in the hall,
+so please check them out and have a great,
+wonderful, and safe rest of your CES.
+Thanks, everybody.
+<v Ramses>Thanks, you all.</v>
+<v Pranitha>Thank you.</v>

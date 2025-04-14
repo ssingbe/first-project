@@ -1,0 +1,3190 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.149 --> 00:02.732
+(upbeat music)
+
+00:10.590 --> 00:15.270
+- Welcome, welcome, welcome
+to "Beyond the Bottom Line:
+
+00:15.270 --> 00:16.890
+Driving Quality and Value in Healthcare."
+
+00:16.890 --> 00:18.840
+My name is Jesse Ehrenfeld.
+
+00:18.840 --> 00:20.610
+I'm a physician, I'm an informaticist,
+
+00:20.610 --> 00:22.950
+anesthesiologist at practice
+in Milwaukee, Wisconsin,
+
+00:22.950 --> 00:24.660
+and I am the immediate past president
+
+00:24.660 --> 00:26.970
+of the American Medical Association.
+
+00:26.970 --> 00:29.100
+Round of applause, please.
+
+00:29.100 --> 00:31.140
+It's mostly for my mother who's
+gonna watch the recording.
+
+00:31.140 --> 00:31.973
+Okay.
+(audience applauds)
+
+00:31.973 --> 00:35.670
+So we have a phenomenal group
+of folks, experts here today
+
+00:35.670 --> 00:39.630
+to have a great conversation
+about how do we drive value,
+
+00:39.630 --> 00:41.370
+and I'm gonna let them
+introduce themselves.
+
+00:41.370 --> 00:43.020
+We've got Jared Augenstein
+
+00:43.020 --> 00:45.480
+who's the managing
+director of Manatt Health,
+
+00:45.480 --> 00:48.540
+Carolyn Jasik, former med
+school classmate of mine,
+
+00:48.540 --> 00:51.270
+Chief Medical Officer of Omada Health,
+
+00:51.270 --> 00:52.800
+and Dr. Barbara Levy,
+
+00:52.800 --> 00:55.590
+who is the chair of the
+AMA CPT Editorial Panel.
+
+00:55.590 --> 00:57.150
+Could you all just a few minutes
+
+00:57.150 --> 00:58.440
+about who you are and what you do?
+
+00:58.440 --> 00:59.430
+- Sure.
+
+00:59.430 --> 01:01.350
+Thanks, Jesse. It's great to be here.
+
+01:01.350 --> 01:03.120
+My name is Jared Augenstein.
+
+01:03.120 --> 01:04.380
+I'm with Manatt Health.
+
+01:04.380 --> 01:06.630
+We're a consulting policy and law firm,
+
+01:06.630 --> 01:09.960
+and we work with technology
+companies, physicians,
+
+01:09.960 --> 01:11.070
+health systems, and others
+
+01:11.070 --> 01:13.070
+on making technology work in healthcare.
+
+01:14.160 --> 01:15.240
+- Hi, good afternoon.
+
+01:15.240 --> 01:16.410
+I'm Carolyn Jasik.
+
+01:16.410 --> 01:18.300
+I'm Chief Medical Officer at Omada Health.
+
+01:18.300 --> 01:21.390
+We are a in-between care visit provider
+
+01:21.390 --> 01:24.240
+of behavioral interventions
+for chronic disease,
+
+01:24.240 --> 01:27.240
+and I am a pediatrician by training
+
+01:27.240 --> 01:29.100
+and very proud to be on the stage
+
+01:29.100 --> 01:30.870
+with my former med school classmate.
+
+01:30.870 --> 01:32.220
+Very fun.
+
+01:32.220 --> 01:34.080
+- And hi, everyone, I'm Barbara Levy.
+
+01:34.080 --> 01:36.000
+I am an obstetrician/gynecologist.
+
+01:36.000 --> 01:40.020
+I've done women's health
+for 40 years or more.
+
+01:40.020 --> 01:42.420
+I'm vice chair of the CPT Editorial Panel
+
+01:42.420 --> 01:45.240
+and we'll talk a little
+bit about what CPT is,
+
+01:45.240 --> 01:49.080
+but I've been involved
+in policy for 25 years
+
+01:49.080 --> 01:52.320
+and really interested in
+the evolution of medicine
+
+01:52.320 --> 01:56.733
+and how we deliver
+quality at a lower cost.
+
+01:57.810 --> 01:58.980
+- Well, thanks, guys.
+
+01:58.980 --> 02:01.470
+There's been a lot of
+progress on the journey
+
+02:01.470 --> 02:03.000
+to delivering value-based care
+
+02:03.000 --> 02:06.030
+and obviously an explosion
+in the digital health space
+
+02:06.030 --> 02:07.740
+over the last decade.
+
+02:07.740 --> 02:11.190
+You know, where are we today
+and why is it important
+
+02:11.190 --> 02:14.583
+for us to be having this
+conversation at CES?
+
+02:17.190 --> 02:20.850
+- So I thought we would
+morph into value-based care
+
+02:20.850 --> 02:24.060
+about 15, 20 years ago
+because it made so much sense.
+
+02:24.060 --> 02:28.230
+And of course, here we
+are 15 or 20 years later.
+
+02:28.230 --> 02:31.950
+It's really challenging to change a system
+
+02:31.950 --> 02:34.140
+that is so embedded,
+
+02:34.140 --> 02:36.000
+and where we need to be
+
+02:36.000 --> 02:41.000
+is a place where we've
+defined value to whom and how.
+
+02:41.640 --> 02:45.300
+And those are things that we
+are trying to do at the panel
+
+02:45.300 --> 02:46.980
+and trying to help with,
+
+02:46.980 --> 02:49.380
+but it really takes a
+village, if you will.
+
+02:49.380 --> 02:53.220
+It takes everyone getting
+on board to make a decision
+
+02:53.220 --> 02:57.210
+that this is how we are now
+going to pay for healthcare.
+
+02:57.210 --> 03:00.900
+And I think that's a
+challenge that we all face.
+
+03:00.900 --> 03:03.840
+There's no question that technology
+
+03:03.840 --> 03:06.570
+is essential to getting us to that place.
+
+03:06.570 --> 03:09.090
+And why it didn't work 15 or 20 years ago
+
+03:09.090 --> 03:12.753
+was because we didn't have
+the tools to get there.
+
+03:15.420 --> 03:18.750
+- Yeah, I will add, I agree
+with all of that and say,
+
+03:18.750 --> 03:20.430
+because of the conference that we're at
+
+03:20.430 --> 03:21.990
+and the day that it is,
+
+03:21.990 --> 03:24.000
+this is just really an inflection point,
+
+03:24.000 --> 03:25.530
+I believe, for healthcare.
+
+03:25.530 --> 03:30.480
+We now have the monitoring
+tools, the home data collection,
+
+03:30.480 --> 03:33.450
+the consumer awareness,
+especially coming out of COVID,
+
+03:33.450 --> 03:35.340
+of the importance of in-home care.
+
+03:35.340 --> 03:38.490
+And one of the things that's
+held value-based care back
+
+03:38.490 --> 03:41.790
+for a while is even if we
+know what the value is,
+
+03:41.790 --> 03:42.750
+how do we measure it?
+
+03:42.750 --> 03:44.580
+And are we measuring it in the same way
+
+03:44.580 --> 03:46.110
+and are we using the same language?
+
+03:46.110 --> 03:47.910
+And that's the beauty of technology
+
+03:47.910 --> 03:49.680
+because we can have streamlined data,
+
+03:49.680 --> 03:51.960
+streamlined data collection methods,
+
+03:51.960 --> 03:54.120
+and we can have data
+collection in the home,
+
+03:54.120 --> 03:55.260
+which has been lacking.
+
+03:55.260 --> 03:58.380
+And so, this is just
+really an exciting time
+
+03:58.380 --> 04:01.710
+to have that data available
+and those devices available,
+
+04:01.710 --> 04:05.220
+assuming their clinical grade
+to support value-based care
+
+04:05.220 --> 04:08.250
+in a way that we haven't
+been able to to date.
+
+04:08.250 --> 04:09.083
+- [Jesse] That's perfect, Jared?
+
+04:09.083 --> 04:10.260
+- Yeah, I was just gonna say,
+
+04:10.260 --> 04:12.840
+I mean, I think from, you
+know, a technology perspective,
+
+04:12.840 --> 04:15.420
+it's sort of like it's, you
+know, it was the best of times,
+
+04:15.420 --> 04:16.953
+it was the worst of times.
+
+04:17.850 --> 04:22.850
+You know, I have yet to meet a technology
+
+04:24.570 --> 04:27.180
+more just generally disliked by physicians
+
+04:27.180 --> 04:29.340
+than the electronic health record.
+
+04:29.340 --> 04:32.310
+And I've also yet to meet a technology
+
+04:32.310 --> 04:35.400
+more universally loved
+than an ambient scribe.
+
+04:35.400 --> 04:38.880
+And so, you know, from a
+technology development perspective,
+
+04:38.880 --> 04:40.350
+you walk around the show floor here
+
+04:40.350 --> 04:42.960
+and you see some of the
+advancements being made.
+
+04:42.960 --> 04:43.920
+It's really incredible.
+
+04:43.920 --> 04:47.190
+We have amazing technology
+today that, to Dr. Levy's point,
+
+04:47.190 --> 04:49.410
+we didn't have 15 years ago, you know,
+
+04:49.410 --> 04:52.740
+in order to deliver the
+types of care models
+
+04:52.740 --> 04:54.450
+that we wanna deliver.
+
+04:54.450 --> 04:57.060
+But from a how you
+integrate that technology
+
+04:57.060 --> 04:58.983
+into workflow perspective, you know,
+
+05:00.480 --> 05:04.080
+for most technologies, it's
+sort of been a disaster.
+
+05:04.080 --> 05:06.570
+- And obviously how we integrate
+
+05:06.570 --> 05:10.230
+what's coming off of
+consumer grade devices
+
+05:10.230 --> 05:13.020
+into the ecosystem that
+influences care decisions
+
+05:13.020 --> 05:14.700
+and can influence that value equation
+
+05:14.700 --> 05:16.260
+is a part of what we
+wanna talk about today.
+
+05:16.260 --> 05:20.790
+So by the way, number one
+dissatisfier for almost a decade
+
+05:20.790 --> 05:23.310
+for physicians, the
+electronic health record
+
+05:23.310 --> 05:25.380
+that has now been supplanted
+by prior authorization,
+
+05:25.380 --> 05:27.330
+it's number two.
+(panelist laughs)
+
+05:27.330 --> 05:30.990
+So, Jared, the AMA and Manatt Health
+
+05:30.990 --> 05:32.310
+recently published some research
+
+05:32.310 --> 05:35.940
+about the role that
+CPT code set is playing
+
+05:35.940 --> 05:38.010
+in accelerating the adoption
+of value-based care.
+
+05:38.010 --> 05:39.750
+Can you tell us a little
+bit about that research,
+
+05:39.750 --> 05:41.820
+the findings and the
+implications for the space?
+
+05:41.820 --> 05:42.653
+- Yeah.
+
+05:42.653 --> 05:47.600
+So, AMA was curious
+about how CPT is utilized
+
+05:48.690 --> 05:49.560
+in value-based care,
+
+05:49.560 --> 05:52.380
+how does it support
+value-based care delivery?
+
+05:52.380 --> 05:54.300
+What are the ways in which
+it might be improved?
+
+05:54.300 --> 05:56.910
+And so we spoke with a
+couple dozen experts,
+
+05:56.910 --> 05:58.860
+including many of the folks in this room,
+
+05:58.860 --> 06:01.650
+to try and get to the
+bottom of the question.
+
+06:01.650 --> 06:04.230
+And interestingly, what we heard is CPT
+
+06:04.230 --> 06:07.110
+supports value-based care
+along three dimensions.
+
+06:07.110 --> 06:09.210
+First is that it supports
+population health
+
+06:09.210 --> 06:12.450
+and quality improvement by
+helping to identify patients
+
+06:12.450 --> 06:16.560
+who are eligible for clinical
+interventions and also
+
+06:16.560 --> 06:19.980
+by supporting payer quality
+improvement initiatives.
+
+06:19.980 --> 06:22.380
+Second thing is that it
+supports cost management
+
+06:22.380 --> 06:24.210
+by supporting cost benchmarking,
+
+06:24.210 --> 06:26.490
+by supporting risk adjustment,
+
+06:26.490 --> 06:31.490
+by enabling identification
+of high-cost patient events
+
+06:31.860 --> 06:33.120
+and high-cost patient cohorts,
+
+06:33.120 --> 06:36.210
+and also by supporting
+provider network management.
+
+06:36.210 --> 06:38.820
+And third, it supports
+the actual contracting
+
+06:38.820 --> 06:42.960
+between providers and payers
+around in a value-based way
+
+06:42.960 --> 06:45.120
+by supporting patient attribution
+
+06:45.120 --> 06:47.160
+into different value-based care models,
+
+06:47.160 --> 06:49.710
+by supporting the
+enablement of care bundles
+
+06:49.710 --> 06:52.440
+that can be used to
+support value-based care.
+
+06:52.440 --> 06:55.710
+And finally, by actually
+enabling the contracting process,
+
+06:55.710 --> 06:57.390
+you know, the contracting itself
+
+06:57.390 --> 06:59.340
+between payers and providers.
+
+06:59.340 --> 07:00.720
+And I think if you add all that up,
+
+07:00.720 --> 07:02.310
+what you realize is that, you know,
+
+07:02.310 --> 07:05.250
+CPT is really the interoperability layer
+
+07:05.250 --> 07:06.873
+for value-based care.
+
+07:08.892 --> 07:09.990
+It didn't strike me that way
+
+07:09.990 --> 07:11.340
+when I initially thought
+about the question,
+
+07:11.340 --> 07:12.270
+but that's really, you know,
+
+07:12.270 --> 07:14.010
+what we learned from this research.
+
+07:14.010 --> 07:16.230
+There were things that, you
+know, we heard in the research,
+
+07:16.230 --> 07:18.420
+areas of opportunity for improvement
+
+07:18.420 --> 07:21.510
+in terms of thinking about
+the way the CPT code set
+
+07:21.510 --> 07:22.350
+needs to evolve,
+
+07:22.350 --> 07:24.330
+given new models of care delivery,
+
+07:24.330 --> 07:26.280
+new types of bundled payments,
+
+07:26.280 --> 07:28.590
+new types of providers who
+are coming into practice
+
+07:28.590 --> 07:30.480
+and how that gets accounted for.
+
+07:30.480 --> 07:32.790
+But it's hard to think
+about making progress
+
+07:32.790 --> 07:35.130
+against our value-based care objectives
+
+07:35.130 --> 07:39.180
+without CPT as sort of the
+underlying interoperability layer
+
+07:39.180 --> 07:41.010
+for achieving that advancement.
+
+07:41.010 --> 07:41.843
+- Okay, so you just said
+
+07:41.843 --> 07:44.460
+that CPT has done a whole bunch of things,
+
+07:44.460 --> 07:45.360
+but there are folks in this room
+
+07:45.360 --> 07:46.830
+who probably really
+don't know what CPT is,
+
+07:46.830 --> 07:49.230
+and there's nobody on this stage.
+
+07:49.230 --> 07:50.610
+There's probably, in
+fact, nobody in the world
+
+07:50.610 --> 07:53.610
+who understands CPT better than Dr. Levy.
+
+07:53.610 --> 07:58.320
+So, can you just give a
+thumbnail sketch of what CPT is
+
+07:58.320 --> 08:01.590
+and how it's doing the things
+that Jared just described?
+
+08:01.590 --> 08:03.300
+Because it sounds like
+a great guideline to me,
+
+08:03.300 --> 08:05.610
+but it turns out it's a code set.
+
+08:05.610 --> 08:07.020
+- It's a language.
+
+08:07.020 --> 08:12.020
+So it's the way that we
+describe what we do in medicine.
+
+08:12.060 --> 08:15.870
+And CPT Panel is a group of physicians
+
+08:15.870 --> 08:20.870
+and practicing clinicians
+who do those procedures.
+
+08:21.240 --> 08:24.870
+So the concept is, yes, it's a code set,
+
+08:24.870 --> 08:27.150
+but to create a code,
+
+08:27.150 --> 08:31.260
+we need to use a common language,
+and we all need to agree
+
+08:31.260 --> 08:35.040
+when we talk about the
+interoperability, that when I say
+
+08:35.040 --> 08:40.040
+somebody has a high-level
+emergency kind of situation,
+
+08:40.950 --> 08:43.050
+that we're all speaking the same language,
+
+08:43.050 --> 08:45.510
+and what things are included or excluded
+
+08:45.510 --> 08:49.770
+in a particular event are
+things that we describe
+
+08:49.770 --> 08:51.120
+in the code set.
+
+08:51.120 --> 08:55.500
+So think of it as the unifying language,
+
+08:55.500 --> 08:57.330
+of a way to communicate
+
+08:57.330 --> 09:02.040
+what's happening with a patient
+or a family or an encounter.
+
+09:02.040 --> 09:03.810
+- So let me stay with you and
+then I'll come to Carolyn.
+
+09:03.810 --> 09:07.440
+So, we've got a lot of tech
+companies in this room.
+
+09:07.440 --> 09:09.540
+What are misconceptions
+that a company might have
+
+09:09.540 --> 09:11.310
+about the code set, the language
+
+09:11.310 --> 09:12.840
+as they're doing development
+
+09:12.840 --> 09:15.780
+and trying to enter into a space
+
+09:15.780 --> 09:17.280
+where they can bring these
+digital tools forward
+
+09:17.280 --> 09:18.510
+to support value-based care?
+
+09:18.510 --> 09:21.030
+- Yeah, so I think one
+of the misconceptions
+
+09:21.030 --> 09:23.520
+is that we're some group of people
+
+09:23.520 --> 09:26.790
+that are esoteric and
+academic and, you know,
+
+09:26.790 --> 09:28.800
+don't live in the real world.
+
+09:28.800 --> 09:30.060
+We're practicing doctors
+
+09:30.060 --> 09:31.830
+and we do practice in the real world
+
+09:31.830 --> 09:36.510
+and we're aware and
+excited by new technology.
+
+09:36.510 --> 09:39.690
+That said, there are certain
+rules that we have to follow,
+
+09:39.690 --> 09:42.360
+just like the grammar in a language,
+
+09:42.360 --> 09:45.420
+that a procedure or for a new code,
+
+09:45.420 --> 09:48.240
+it has to describe something that's unique
+
+09:48.240 --> 09:50.370
+that hasn't been described before,
+
+09:50.370 --> 09:52.920
+that isn't a fragmentation
+
+09:52.920 --> 09:55.290
+of something that's already been there
+
+09:55.290 --> 09:59.970
+and that it has to have
+the data to support it.
+
+09:59.970 --> 10:03.750
+So at the panel, this group of physicians
+
+10:03.750 --> 10:06.270
+who are really volunteers doing this
+
+10:06.270 --> 10:08.580
+in support of the public,
+
+10:08.580 --> 10:12.060
+we are saying, "Show me the data.
+
+10:12.060 --> 10:15.630
+Show me that this
+intervention, whatever it is,
+
+10:15.630 --> 10:18.750
+actually does what it
+says it's going to do,
+
+10:18.750 --> 10:21.300
+and impacts patient
+care in the right way."
+
+10:21.300 --> 10:24.540
+And so, it takes time to accumulate data,
+
+10:24.540 --> 10:27.240
+and you do have to have
+published literature
+
+10:27.240 --> 10:29.220
+to get a Category I code.
+
+10:29.220 --> 10:31.710
+All of those things
+though are very important
+
+10:31.710 --> 10:33.843
+in many ways to protect the public.
+
+10:34.830 --> 10:36.900
+And they're not intended to be barriers,
+
+10:36.900 --> 10:39.480
+they're intended to be benchmarks really
+
+10:39.480 --> 10:44.480
+for how we include the
+rules in the code set.
+
+10:45.420 --> 10:46.680
+- Over cocktails,
+someday I'm gonna ask you
+
+10:46.680 --> 10:47.880
+what your favorite code is,
+
+10:47.880 --> 10:49.830
+but could you give an
+example of like a new code
+
+10:49.830 --> 10:51.841
+that, you know, they might
+see as a new technology or-
+
+10:51.841 --> 10:52.950
+- Sure.
+
+10:52.950 --> 10:55.560
+So, you know, we were
+really light on our feet
+
+10:55.560 --> 10:58.260
+during the COVID crisis.
+
+10:58.260 --> 11:01.830
+We created new codes, it
+felt like every two weeks,
+
+11:01.830 --> 11:05.700
+but for the testing, so
+COVID tests needed codes
+
+11:05.700 --> 11:10.700
+to describe them for each
+individual immunization
+
+11:10.920 --> 11:14.430
+and the administration of the immunization
+
+11:14.430 --> 11:17.250
+because all of that was happening
+in a public health arena,
+
+11:17.250 --> 11:18.840
+but we had to keep track of it
+
+11:18.840 --> 11:21.360
+and we had to keep track
+of which immunization
+
+11:21.360 --> 11:23.850
+was being given to whom,
+whether it was the first one,
+
+11:23.850 --> 11:25.260
+the second one, the third one.
+
+11:25.260 --> 11:27.630
+So we created codes for that.
+
+11:27.630 --> 11:29.340
+But also over the past 10 years,
+
+11:29.340 --> 11:33.120
+we've created episodes of care codes
+
+11:33.120 --> 11:36.480
+that are really designed
+around value-based care,
+
+11:36.480 --> 11:38.550
+so chronic care management.
+
+11:38.550 --> 11:40.620
+Over a 30-day period,
+
+11:40.620 --> 11:42.900
+how much time is your
+clinical staff spending
+
+11:42.900 --> 11:46.470
+coordinating the care
+for a complex patient?
+
+11:46.470 --> 11:49.380
+Or principal care management
+for an individual,
+
+11:49.380 --> 11:53.490
+let's say a cancer patient who
+really needs care navigation?
+
+11:53.490 --> 11:54.660
+How do we pay?
+
+11:54.660 --> 11:58.170
+How do we account for the
+services that are being provided?
+
+11:58.170 --> 12:02.520
+So we've created codes that
+capture some of the newer things
+
+12:02.520 --> 12:04.800
+that are happening in value-based care.
+
+12:04.800 --> 12:08.670
+- All right, so Dr. Jasik,
+Carolyn, my colleague,
+
+12:08.670 --> 12:10.500
+Omada, your company,
+
+12:10.500 --> 12:14.160
+virtual first company
+doing evidence-based work
+
+12:14.160 --> 12:16.440
+to advance chronic disease management
+
+12:16.440 --> 12:19.260
+by providing supplemental
+support for patients.
+
+12:19.260 --> 12:22.650
+Can you describe a little
+bit about how Omada works
+
+12:22.650 --> 12:24.300
+and how you're using digital tools
+
+12:24.300 --> 12:26.250
+to support value-based care?
+
+12:26.250 --> 12:27.083
+- Sure.
+
+12:27.083 --> 12:29.190
+Well, I know what my favorite CPT code is,
+
+12:29.190 --> 12:33.210
+and that would be Omada CPT code
+
+12:33.210 --> 12:36.720
+that we were the first
+digital health company
+
+12:36.720 --> 12:39.060
+to, I believe, apply for and receive
+
+12:39.060 --> 12:42.780
+a digital health delivered CPT
+code with the AMA committee.
+
+12:42.780 --> 12:44.520
+And I think the story behind that
+
+12:44.520 --> 12:46.440
+really is a lot about value-based care.
+
+12:46.440 --> 12:48.630
+So when I first started at Omada,
+
+12:48.630 --> 12:51.480
+what we noticed about
+the CPT coding system
+
+12:51.480 --> 12:52.710
+that's really special,
+
+12:52.710 --> 12:54.720
+and I think you started to allude to that,
+
+12:54.720 --> 12:57.600
+is it is essentially a
+badge of certification
+
+12:57.600 --> 13:01.800
+that the care that is
+covered by that CPT code
+
+13:01.800 --> 13:04.110
+is evidence-based and is effective.
+
+13:04.110 --> 13:06.120
+And so, we quickly realized
+
+13:06.120 --> 13:09.270
+that were there a CPT code
+that we could bill under,
+
+13:09.270 --> 13:12.570
+it would essentially tell our customers
+
+13:12.570 --> 13:16.950
+that we were a medical provider
+of care that was worthwhile,
+
+13:16.950 --> 13:18.423
+that was worthy of payment.
+
+13:19.350 --> 13:21.870
+What a lot of people in my
+company thought and didn't know
+
+13:21.870 --> 13:23.820
+and I knew at the time is a CPT code
+
+13:23.820 --> 13:24.900
+does not come with payment.
+
+13:24.900 --> 13:27.180
+You have to talk to the payer about that.
+
+13:27.180 --> 13:29.640
+But the way that we used our CPT code
+
+13:29.640 --> 13:31.800
+and what was unique
+about it, it's not ours,
+
+13:31.800 --> 13:34.080
+it's part of the catalog,
+
+13:34.080 --> 13:37.650
+is we asked the question of
+what would a CPT code look like
+
+13:37.650 --> 13:41.580
+if it was adjudicated based on outcomes,
+
+13:41.580 --> 13:45.000
+not based on time and not
+based on medical complexity.
+
+13:45.000 --> 13:47.130
+And this was really unique at the time
+
+13:47.130 --> 13:49.260
+because we were in the
+field of weight loss.
+
+13:49.260 --> 13:50.640
+And so we were asking the question,
+
+13:50.640 --> 13:52.020
+because we are virtual care
+
+13:52.020 --> 13:55.500
+and we don't have episodic
+visits that we could cover,
+
+13:55.500 --> 13:57.810
+could we have a code
+that instead reflected
+
+13:57.810 --> 13:59.130
+the value that we were delivering
+
+13:59.130 --> 14:00.900
+for the people sponsoring our care?
+
+14:00.900 --> 14:02.880
+So if the point of the
+behavioral counseling
+
+14:02.880 --> 14:05.250
+and lifestyle medicine was to lose weight,
+
+14:05.250 --> 14:07.170
+why wouldn't the CPT code be linked
+
+14:07.170 --> 14:09.150
+to the amount of weight
+loss that was lost?
+
+14:09.150 --> 14:10.830
+And that was the code
+
+14:10.830 --> 14:13.530
+that we worked on using the DPP Program.
+
+14:13.530 --> 14:16.470
+And it's pretty much what
+we've been billing under since,
+
+14:16.470 --> 14:19.590
+and it's what a lot of the
+groups in our industry use
+
+14:19.590 --> 14:22.470
+and what was very special
+about that process
+
+14:22.470 --> 14:25.620
+is we drop the code once a month
+
+14:25.620 --> 14:29.220
+based on a little bit of
+the service that we provide,
+
+14:29.220 --> 14:31.260
+but then we have a modifier on top
+
+14:31.260 --> 14:34.560
+for the amount of weight loss
+that our member has lost.
+
+14:34.560 --> 14:36.420
+And our customers really like that
+
+14:36.420 --> 14:38.100
+because we use our remote device
+
+14:38.100 --> 14:41.520
+to support the data so they
+can feel good about that
+
+14:41.520 --> 14:43.890
+and they know that
+they're paying for value,
+
+14:43.890 --> 14:47.400
+not just services without the value.
+
+14:47.400 --> 14:50.880
+- Okay, so Jared, we've
+talked about wanting to move
+
+14:50.880 --> 14:53.520
+from a fee-for-service environment
+
+14:53.520 --> 14:55.740
+to a value-based care environment,
+
+14:55.740 --> 14:59.010
+and it's like a road filled
+with potholes and barriers
+
+14:59.010 --> 15:01.320
+and left turns that go nowhere.
+
+15:01.320 --> 15:03.780
+Can you give a quick overview
+from your perspectives?
+
+15:03.780 --> 15:06.330
+I know Manatt Health
+does a lot in this space.
+
+15:06.330 --> 15:09.450
+Why is it so difficult
+to make this transition
+
+15:09.450 --> 15:11.970
+from fee-for-service to value-based care?
+
+15:11.970 --> 15:12.803
+- Yeah.
+
+15:12.803 --> 15:14.970
+Well, so just some basic facts.
+
+15:14.970 --> 15:18.030
+So if you look at the
+percentage of healthcare
+
+15:18.030 --> 15:21.390
+that's paid for on a
+fee-for-service chassis,
+
+15:21.390 --> 15:23.584
+it's still 90% of care today.
+
+15:23.584 --> 15:24.417
+- [Jesse] 90%.
+
+15:24.417 --> 15:25.250
+- 90%.
+
+15:25.250 --> 15:27.280
+So 10% is paid on sort of
+
+15:28.830 --> 15:31.080
+a population health payment-based model.
+
+15:31.080 --> 15:33.750
+90% is paid for on a
+fee-for-service chassis.
+
+15:33.750 --> 15:36.000
+That includes, you know,
+pay-for-performance
+
+15:36.000 --> 15:39.570
+and other sorts of sort
+of low-risk population,
+
+15:39.570 --> 15:41.340
+a value-based payment.
+
+15:41.340 --> 15:44.340
+That's the macro national number.
+
+15:44.340 --> 15:46.620
+There's a lot of variability by payer.
+
+15:46.620 --> 15:48.030
+So in Medicare Advantage,
+
+15:48.030 --> 15:50.910
+25% of payments are population based.
+
+15:50.910 --> 15:54.360
+In Medicaid, 6% of payments
+are population based.
+
+15:54.360 --> 15:55.470
+And in the commercial market,
+
+15:55.470 --> 15:57.840
+only 4% of payments are population based.
+
+15:57.840 --> 16:00.240
+So that's sort of the
+macro payer level view.
+
+16:00.240 --> 16:02.610
+Now imagine you're a physician
+
+16:02.610 --> 16:06.060
+and you're trying to deliver
+a virtual diabetes model
+
+16:06.060 --> 16:09.240
+or you're trying to deliver OB care,
+
+16:09.240 --> 16:11.610
+and you're trying to deliver care
+
+16:11.610 --> 16:14.160
+in a way that is value-based,
+
+16:14.160 --> 16:16.530
+and you're trying to get
+paid for delivering that care
+
+16:16.530 --> 16:19.200
+because you need to get paid
+in order to deliver services.
+
+16:19.200 --> 16:22.380
+You're dealing with the
+traditional Medicare way
+
+16:22.380 --> 16:23.640
+of paying for services.
+
+16:23.640 --> 16:25.830
+You're dealing with the
+way that Aetna has set up
+
+16:25.830 --> 16:27.720
+their value-based payment model.
+
+16:27.720 --> 16:29.850
+You're dealing with the way
+that your local Blues plan
+
+16:29.850 --> 16:31.305
+has set up their
+value-based payment model.
+
+16:31.305 --> 16:33.690
+You're dealing with your
+state Medicaid agency
+
+16:33.690 --> 16:36.030
+and probably five different
+Medicaid managed care plans
+
+16:36.030 --> 16:37.200
+depending on the state you're in.
+
+16:37.200 --> 16:41.100
+And so, you know, it's
+easy to go a little nuts
+
+16:41.100 --> 16:43.980
+trying to figure out how to, you know,
+
+16:43.980 --> 16:46.320
+which models you're in,
+which quality measures
+
+16:46.320 --> 16:48.840
+you're being subjected to reporting on,
+
+16:48.840 --> 16:51.240
+and how you deliver care
+in a way that's consistent
+
+16:51.240 --> 16:53.940
+for all patients, but
+also allows you to hit
+
+16:53.940 --> 16:55.860
+your value-based payment benchmarks.
+
+16:55.860 --> 16:58.080
+And I think that that fragmentation
+
+16:58.080 --> 17:00.900
+and the lack of alignment across payers
+
+17:00.900 --> 17:03.810
+in terms of how these
+programs are constructed
+
+17:03.810 --> 17:05.700
+is sort of, you know, a real inhibitor
+
+17:05.700 --> 17:07.650
+that's getting in the
+way of making progress.
+
+17:07.650 --> 17:09.870
+- So, alright, those are
+some of the barriers.
+
+17:09.870 --> 17:10.770
+What are the some of the things
+
+17:10.770 --> 17:13.980
+that are accelerating the
+movement in the places
+
+17:13.980 --> 17:16.020
+that value-based care is being adopted?
+
+17:16.020 --> 17:17.670
+Obviously there are digital tools,
+
+17:17.670 --> 17:20.100
+there are new models that are
+showing benefit and promise
+
+17:20.100 --> 17:21.540
+in real outcomes for patients
+
+17:21.540 --> 17:24.930
+that Omada has obviously
+been a pioneer in.
+
+17:24.930 --> 17:26.460
+And then there's obviously
+the whole conversation
+
+17:26.460 --> 17:29.760
+about, well what do things
+like our infrastructure layers
+
+17:29.760 --> 17:32.730
+like CPT do when we move
+from a fee-for-service
+
+17:32.730 --> 17:33.930
+to a value-based care environment?
+
+17:33.930 --> 17:35.013
+Anybody wanna start?
+
+17:37.290 --> 17:41.910
+- So, there is a little
+known healthcare innovator.
+
+17:41.910 --> 17:44.100
+I think it's the biggest
+innovator in healthcare
+
+17:44.100 --> 17:45.240
+that we don't talk about,
+
+17:45.240 --> 17:48.510
+and that is the benefits
+leader at an employer.
+
+17:48.510 --> 17:50.790
+And those benefits leaders,
+
+17:50.790 --> 17:51.750
+I would say you were saying
+
+17:51.750 --> 17:53.700
+what's the biggest driver
+to value-based care?
+
+17:53.700 --> 17:56.670
+I would say it's the fatigue
+of the U.S. employer.
+
+17:56.670 --> 17:58.320
+The fatigue of the US employer
+
+17:58.320 --> 18:00.240
+for spending all this money on healthcare
+
+18:00.240 --> 18:01.860
+and not getting value out of it.
+
+18:01.860 --> 18:06.360
+We've saddled the U.S. employer
+with our healthcare spend
+
+18:06.360 --> 18:08.520
+for the most part, other
+than our government spend,
+
+18:08.520 --> 18:10.200
+which is the taxpayers.
+
+18:10.200 --> 18:11.700
+And they're tired.
+
+18:11.700 --> 18:13.590
+They're tired of spending all this money
+
+18:13.590 --> 18:14.580
+and not getting value.
+
+18:14.580 --> 18:17.250
+And so, what I have found
+is the most innovative
+
+18:17.250 --> 18:19.320
+and open minds in healthcare
+
+18:19.320 --> 18:22.260
+to look at alternative
+reimbursement models,
+
+18:22.260 --> 18:24.030
+alternative care models,
+
+18:24.030 --> 18:27.090
+payment models are the benefits buyers
+
+18:27.090 --> 18:28.890
+that are adjudicating the benefits
+
+18:28.890 --> 18:30.210
+on behalf of the employer.
+
+18:30.210 --> 18:31.650
+And they are also the,
+
+18:31.650 --> 18:33.480
+especially if they're a large employer,
+
+18:33.480 --> 18:34.920
+the primary constituent
+
+18:34.920 --> 18:39.450
+for the U.S. health insurance
+company industry and PBMs.
+
+18:39.450 --> 18:42.570
+So they're a very loud voice,
+a very influential voice
+
+18:42.570 --> 18:47.100
+and very creative and open
+to new ideas and new models
+
+18:47.100 --> 18:49.620
+due to this fatigue of
+having to spend more.
+
+18:49.620 --> 18:51.210
+And I think this year in particular
+
+18:51.210 --> 18:53.580
+with the GLP medication coming on
+
+18:53.580 --> 18:57.780
+and being faced with this
+just gut wrenching decision
+
+18:57.780 --> 18:59.280
+of here's a great medication
+
+18:59.280 --> 19:03.540
+that is pretty much
+unaffordable at a large scale,
+
+19:03.540 --> 19:05.070
+how do we afford it
+
+19:05.070 --> 19:08.730
+and how do we make it work
+and get the value out of it?
+
+19:08.730 --> 19:13.260
+So lots of interesting
+ideas around innovation,
+
+19:13.260 --> 19:16.320
+open-mindedness about the type
+of care that can be provided,
+
+19:16.320 --> 19:18.903
+how it can be billed
+for, what kind of value.
+
+19:19.920 --> 19:20.753
+Yeah.
+
+19:21.750 --> 19:22.583
+- [Jesse] Barbara.
+
+19:22.583 --> 19:25.170
+- Yeah, I think there's a
+challenge with the structure
+
+19:25.170 --> 19:26.190
+that we have right now.
+
+19:26.190 --> 19:29.610
+So we have big health systems,
+we have consolidation,
+
+19:29.610 --> 19:31.620
+and they still make most of their money
+
+19:31.620 --> 19:33.450
+in a fee-for-service world.
+
+19:33.450 --> 19:36.780
+And so doing more creates more revenue.
+
+19:36.780 --> 19:40.290
+And until we fix that, I
+think we're challenged.
+
+19:40.290 --> 19:43.140
+So the employer can drive some of that,
+
+19:43.140 --> 19:46.650
+but unless they're a major
+employer in a geography,
+
+19:46.650 --> 19:50.250
+they're not going to help
+me and my private practice
+
+19:50.250 --> 19:52.710
+be able to have the systems in place
+
+19:52.710 --> 19:56.850
+that I need to have to do
+really good value-based care.
+
+19:56.850 --> 20:01.110
+So I think for telemedicine,
+for virtual care,
+
+20:01.110 --> 20:03.660
+for the kinds of things
+that Omada is doing,
+
+20:03.660 --> 20:05.670
+that's fabulous.
+
+20:05.670 --> 20:08.280
+For some of the things that I need to do
+
+20:08.280 --> 20:11.730
+in a women's health space,
+it doesn't work, right?
+
+20:11.730 --> 20:15.500
+It still drives surgery,
+it still drives...
+
+20:16.800 --> 20:21.800
+And our population expects
+more prescriptions,
+
+20:21.840 --> 20:26.010
+more tests and more intervention
+
+20:26.010 --> 20:29.490
+rather than sitting back and
+looking at the whole picture
+
+20:29.490 --> 20:31.830
+and changing lifestyle
+and all of those things.
+
+20:31.830 --> 20:34.530
+So I think there has to be a sea change
+
+20:34.530 --> 20:37.810
+in the way we look at health
+
+20:38.670 --> 20:42.540
+and preserving health as
+opposed to sick medicine.
+
+20:42.540 --> 20:45.870
+And I think that's a
+challenge for all of us,
+
+20:45.870 --> 20:48.570
+but it's happening, and
+that's really exciting.
+
+20:48.570 --> 20:51.153
+Omada is a great example
+of how it's happening.
+
+20:52.170 --> 20:53.910
+- I think it's also, you know, helpful
+
+20:53.910 --> 20:56.703
+to sort of give credit
+where credit is due.
+
+20:57.990 --> 21:01.650
+You know, thanks to the
+work of Dr. Levy and others,
+
+21:01.650 --> 21:05.220
+the CPT Editorial Panel has been creating
+
+21:05.220 --> 21:08.820
+codes that have allowed
+providers to start practicing
+
+21:08.820 --> 21:12.210
+delivering care in a
+population health model.
+
+21:12.210 --> 21:14.283
+And so, if you go back to 2013,
+
+21:14.283 --> 21:16.860
+2013 is when the complex
+chronic care management
+
+21:16.860 --> 21:19.380
+and transitional care management
+codes were introduced.
+
+21:19.380 --> 21:21.660
+2015 was chronic care management.
+
+21:21.660 --> 21:24.180
+2019 was remote physiologic monitoring.
+
+21:24.180 --> 21:25.340
+2020 was eVisits.
+
+21:25.340 --> 21:28.680
+2022 was principal care management
+
+21:28.680 --> 21:30.810
+and remote physiologic monitoring.
+
+21:30.810 --> 21:33.660
+And if you look at the
+utilization of all of those codes,
+
+21:33.660 --> 21:37.170
+they're increasing significantly
+over the past few years.
+
+21:37.170 --> 21:39.210
+And what that's done is enabled,
+
+21:39.210 --> 21:40.860
+you know, there's companies like Omada
+
+21:40.860 --> 21:44.430
+which, you know, have our
+virtual first types of models.
+
+21:44.430 --> 21:46.890
+They've always been sort of
+delivering care in that way.
+
+21:46.890 --> 21:50.400
+But what these sets of
+CPT codes have enabled
+
+21:50.400 --> 21:53.130
+sort of, you know, any
+provider to do, if you will,
+
+21:53.130 --> 21:55.640
+is to begin to provide
+care management services,
+
+21:55.640 --> 21:57.870
+is to begin to provide
+care navigation services,
+
+21:57.870 --> 22:00.150
+to begin to remotely monitor patients.
+
+22:00.150 --> 22:02.490
+Those are sort of like the
+foundations of delivering care
+
+22:02.490 --> 22:04.590
+in a population health-based model.
+
+22:04.590 --> 22:07.500
+So physicians, health
+systems, provider groups
+
+22:07.500 --> 22:08.640
+are getting much more comfortable
+
+22:08.640 --> 22:09.840
+delivering care in that model
+
+22:09.840 --> 22:11.640
+because there's a way for them to be paid
+
+22:11.640 --> 22:13.620
+for delivering that service.
+
+22:13.620 --> 22:15.630
+I'm hopeful that because there's been
+
+22:15.630 --> 22:18.750
+such significant uptake of those code sets
+
+22:18.750 --> 22:20.790
+and because providers are
+becoming more comfortable
+
+22:20.790 --> 22:23.910
+providing care in that
+way, it'll sort of grease
+
+22:23.910 --> 22:27.420
+the wheels a little bit of
+shifting the payment model
+
+22:27.420 --> 22:28.890
+to a value-based payment model.
+
+22:28.890 --> 22:31.890
+- Yeah, and you emphasized
+an important point
+
+22:31.890 --> 22:35.490
+that Dr. Levy made, which is,
+sometimes value-based care
+
+22:35.490 --> 22:37.500
+is actually about doing less.
+
+22:37.500 --> 22:39.480
+And that's a point that
+I think we often lose
+
+22:39.480 --> 22:43.290
+in the conversation, but when
+you are getting reimbursed
+
+22:43.290 --> 22:45.510
+for doing less for the patient,
+
+22:45.510 --> 22:47.280
+doing the chronic disease management
+
+22:47.280 --> 22:48.600
+and all of the wraparound services,
+
+22:48.600 --> 22:50.850
+obviously the patients can really win.
+
+22:50.850 --> 22:53.550
+So, you know, as we talk about, you know,
+
+22:53.550 --> 22:55.320
+where healthcare is going,
+
+22:55.320 --> 22:58.740
+obviously we want to continue
+to try to reduce costs,
+
+22:58.740 --> 23:00.300
+provide more value.
+
+23:00.300 --> 23:01.710
+There's been a lot of evolution,
+
+23:01.710 --> 23:04.260
+and certainly we've learned
+a lot, and digital tools
+
+23:04.260 --> 23:07.290
+have been an important
+component of the journey.
+
+23:07.290 --> 23:09.390
+What else needs to be modernized
+
+23:09.390 --> 23:11.730
+on the infrastructure
+layer, on the tool side,
+
+23:11.730 --> 23:15.840
+on the payment side around
+how we align incentives?
+
+23:15.840 --> 23:17.730
+And Barbara is just champing
+at the bit. (laughs)
+
+23:17.730 --> 23:20.670
+- Yeah, so I've really been
+thinking about this a lot.
+
+23:20.670 --> 23:24.780
+And one of the issues is that
+we have to stop being reactive
+
+23:24.780 --> 23:27.840
+to our patients coming
+to us with a complaint
+
+23:27.840 --> 23:30.930
+and be proactive in terms of following.
+
+23:30.930 --> 23:32.550
+So if patient comes to me
+
+23:32.550 --> 23:35.070
+and she's got heavy bleeding, let's say,
+
+23:35.070 --> 23:38.820
+and we have an interaction and
+we decide on a plan of care.
+
+23:38.820 --> 23:41.610
+In a classic fee-for-service model,
+
+23:41.610 --> 23:44.400
+I would write a prescription
+or we would come up with a plan
+
+23:44.400 --> 23:48.840
+and she would go out and I
+would wait until she complained
+
+23:48.840 --> 23:49.983
+if it wasn't working.
+
+23:50.910 --> 23:53.190
+Well, in a value-based care model,
+
+23:53.190 --> 23:57.000
+you wanna use tech and AI and other tools
+
+23:57.000 --> 24:01.590
+to be able to say after her
+next period, "Did it work?
+
+24:01.590 --> 24:03.720
+Were you able to pick up your prescription
+
+24:03.720 --> 24:05.430
+or was there a barrier there?"
+
+24:05.430 --> 24:08.610
+So becoming proactive and using tools
+
+24:08.610 --> 24:13.050
+to enable us to be much more
+interactive with patients,
+
+24:13.050 --> 24:17.580
+but also to know whether what
+we've done is working or not,
+
+24:17.580 --> 24:22.580
+I think is a huge benefit
+for tech to help us do
+
+24:22.620 --> 24:25.533
+and help us become proactive
+instead of reactive.
+
+24:27.450 --> 24:29.220
+- I think I have my wishlist,
+
+24:29.220 --> 24:32.760
+which probably most innovators
+in digital health have.
+
+24:32.760 --> 24:33.870
+The first, I would say,
+
+24:33.870 --> 24:36.180
+continue the good work with the CPT codes.
+
+24:36.180 --> 24:40.080
+I think that we all
+appreciate that and need it.
+
+24:40.080 --> 24:41.640
+I think the second thing that we need
+
+24:41.640 --> 24:43.860
+is reform around licensure.
+
+24:43.860 --> 24:45.330
+If we wanna do value-based care,
+
+24:45.330 --> 24:46.590
+we need to follow our patients.
+
+24:46.590 --> 24:48.240
+All of us have traveled here, right?
+
+24:48.240 --> 24:50.310
+Someone in this room has
+had a medical concern
+
+24:50.310 --> 24:51.990
+while you've been at this conference.
+
+24:51.990 --> 24:54.510
+Can you see your home
+provider in Las Vegas
+
+24:54.510 --> 24:55.560
+if you're from the U.S.?
+
+24:55.560 --> 24:58.710
+You cannot because that person
+is not licensed in Nevada,
+
+24:58.710 --> 25:01.110
+and so they can't do a
+telehealth visit with you.
+
+25:01.110 --> 25:04.500
+So improving our licensure and
+board certification process
+
+25:04.500 --> 25:06.960
+to make it easier for
+multi-state licensure
+
+25:06.960 --> 25:10.470
+or even national licensure, I
+think would be a big, big win.
+
+25:10.470 --> 25:11.460
+And then the third thing,
+
+25:11.460 --> 25:13.110
+which I would say to
+many of you who are here
+
+25:13.110 --> 25:15.960
+who are innovators in devices is pursuing,
+
+25:15.960 --> 25:19.560
+it's easier to develop a device
+and go the wellness route.
+
+25:19.560 --> 25:22.140
+It's easier, you'll get your
+device out in the market,
+
+25:22.140 --> 25:25.710
+you'll get traction, you'll
+get consumer dollars coming in.
+
+25:25.710 --> 25:29.160
+Please take the time and work
+to go through the FDA process
+
+25:29.160 --> 25:31.050
+and produce a clinical grade device
+
+25:31.050 --> 25:33.120
+because that's how we're
+going to have value-based care
+
+25:33.120 --> 25:36.600
+because the payer, the
+government that benefits buyer,
+
+25:36.600 --> 25:38.610
+they're not gonna
+reimburse for your device
+
+25:38.610 --> 25:40.560
+unless it has gone
+through a vetting process
+
+25:40.560 --> 25:43.440
+to prove that it's delivering
+outcomes that can be trusted,
+
+25:43.440 --> 25:45.630
+especially if they're
+gonna link payment to it.
+
+25:45.630 --> 25:47.820
+So having access to your innovation
+
+25:47.820 --> 25:50.190
+on the clinical grade side,
+we are dreaming over lunch
+
+25:50.190 --> 25:52.350
+of the future of blood pressure monitoring
+
+25:52.350 --> 25:54.480
+possibly not being cuffs.
+
+25:54.480 --> 25:55.860
+We do need that innovation,
+
+25:55.860 --> 25:58.440
+but I think our regulatory process
+
+25:58.440 --> 26:00.190
+kind of scares people a little bit.
+
+26:01.260 --> 26:02.730
+So that's my wishlist.
+
+26:02.730 --> 26:04.222
+- I do wanna give a quick shout out.
+
+26:04.222 --> 26:08.430
+You know, CTA has been very
+involved in advancing standards
+
+26:08.430 --> 26:10.920
+for a lot of the consumer-facing
+digital health products.
+
+26:10.920 --> 26:12.990
+And that's a space that
+we'll continue to need to do
+
+26:12.990 --> 26:14.760
+a lot of work on to make
+sure that the things
+
+26:14.760 --> 26:19.440
+actually do work for all
+patients and all consumers.
+
+26:19.440 --> 26:20.460
+Jared?
+
+26:20.460 --> 26:22.110
+- Yeah, I mean, you know, I'll just share
+
+26:22.110 --> 26:23.910
+from my most recent healthcare experience.
+
+26:23.910 --> 26:26.520
+So I tore my meniscus two years ago.
+
+26:26.520 --> 26:29.280
+Carolyn asked in the prep if
+it was doing something exciting
+
+26:29.280 --> 26:30.393
+like skiing.
+
+26:31.260 --> 26:32.820
+Unfortunately, it was like picking up
+
+26:32.820 --> 26:35.250
+my two-year-old at the time.
+
+26:35.250 --> 26:38.100
+But I needed surgery and then I needed PT.
+
+26:38.100 --> 26:42.600
+And I asked my surgeon if
+I could do my PT virtually.
+
+26:42.600 --> 26:44.280
+And they said, "Well, you sort of can,
+
+26:44.280 --> 26:46.320
+but we don't think it's
+as good as in-person PT,"
+
+26:46.320 --> 26:49.950
+which evidence shows it's
+just as good as in-person PT.
+
+26:49.950 --> 26:52.170
+So I went and did in-person PT.
+
+26:52.170 --> 26:53.580
+And then three months later,
+
+26:53.580 --> 26:56.017
+I got a letter from Aetna saying,
+
+26:56.017 --> 26:58.320
+"We notice you have a health,"
+
+26:58.320 --> 26:59.947
+that's when the claim hit for the surgery.
+
+26:59.947 --> 27:02.010
+"We noticed you have a healthcare issue
+
+27:02.010 --> 27:02.970
+that you need PT for.
+
+27:02.970 --> 27:03.930
+Would you like to enroll
+
+27:03.930 --> 27:05.970
+in our partner's virtual PT program?"
+
+27:05.970 --> 27:07.260
+And I'm like, "Well, it
+would've been really nice
+
+27:07.260 --> 27:09.960
+if I had had this letter,
+you know, three months ago."
+
+27:10.860 --> 27:15.030
+And, you know, my ideal
+model being a working parent
+
+27:15.030 --> 27:17.580
+would've been to have some
+in-person PT in the beginning
+
+27:17.580 --> 27:18.413
+when they could've done
+
+27:18.413 --> 27:20.280
+the physical manipulation of my knee
+
+27:20.280 --> 27:23.310
+and then to sort of transition
+to virtual PT over time,
+
+27:23.310 --> 27:26.280
+with AI to make sure I was
+doing the exercises properly,
+
+27:26.280 --> 27:27.390
+with text messaging
+
+27:27.390 --> 27:29.700
+to make sure that I'm
+actually doing the exercises,
+
+27:29.700 --> 27:31.650
+checking in if there's
+anything that I need.
+
+27:31.650 --> 27:32.730
+So the care model for me
+
+27:32.730 --> 27:34.800
+is not like complicated to envision,
+
+27:34.800 --> 27:36.360
+but putting it all together in a way
+
+27:36.360 --> 27:38.790
+where that's offered to
+me at the time of service,
+
+27:38.790 --> 27:40.980
+we're totally not there yet.
+
+27:40.980 --> 27:43.080
+And then I think the other
+thing is we're gonna need
+
+27:43.080 --> 27:45.360
+the CPT code set to continue to evolve
+
+27:45.360 --> 27:47.040
+to keep up with those
+types of care models,
+
+27:47.040 --> 27:49.410
+which I know Dr. Levy and
+others are working on,
+
+27:49.410 --> 27:51.600
+you know, but I think
+that's sort of the next step
+
+27:51.600 --> 27:56.550
+of making sure there's a
+way of describing that care
+
+27:56.550 --> 27:59.130
+and getting paid for care
+in a way that is, you know,
+
+27:59.130 --> 28:00.960
+what the way that I wanna receive it,
+
+28:00.960 --> 28:03.060
+you know, in a
+patient-centric kind of way.
+
+28:03.060 --> 28:05.460
+- So, Dr. Jasik, you know,
+
+28:05.460 --> 28:07.380
+there's been a lot of concern
+
+28:07.380 --> 28:09.210
+about consolidation in healthcare,
+
+28:09.210 --> 28:11.010
+but we still have a lot of fragmentation
+
+28:11.010 --> 28:13.080
+in terms of where patients are receiving
+
+28:13.080 --> 28:16.410
+various components of the
+things that they need.
+
+28:16.410 --> 28:18.253
+You know, what Jared just described,
+
+28:18.253 --> 28:19.560
+you know, you can imagine how
+
+28:19.560 --> 28:21.990
+if he didn't have a usual source of care
+
+28:21.990 --> 28:23.850
+and had these services,
+
+28:23.850 --> 28:26.490
+that it could be spread
+across lots of places.
+
+28:26.490 --> 28:28.470
+And how on earth do you create a system
+
+28:28.470 --> 28:31.350
+that gives him the
+nudge or the opportunity
+
+28:31.350 --> 28:32.183
+to be enrolled
+
+28:32.183 --> 28:34.740
+in a truly digitally-enabled
+value-based care paradigm?
+
+28:34.740 --> 28:37.560
+You know, how is Omada
+thinking about that?
+
+28:37.560 --> 28:39.540
+And what could that future look like,
+
+28:39.540 --> 28:42.030
+given that, you know,
+he may be more likely
+
+28:42.030 --> 28:45.660
+to respond to a nudge
+from a trusted clinician
+
+28:45.660 --> 28:47.793
+rather than his third-party payer?
+
+28:48.960 --> 28:50.040
+- Well, there are a couple things
+
+28:50.040 --> 28:52.350
+preventing you from getting that nudge.
+
+28:52.350 --> 28:55.710
+So the first is, I'll say it's wonder
+
+28:55.710 --> 28:58.530
+we haven't said this word
+this long into this session.
+
+28:58.530 --> 29:00.870
+Interoperability of
+data is not at the point
+
+29:00.870 --> 29:04.090
+where it needs to be, such that
+you could receive that nudge
+
+29:05.134 --> 29:08.160
+from your payer, would
+be the most likely place.
+
+29:08.160 --> 29:11.310
+And that really needs
+to be in place for us
+
+29:11.310 --> 29:16.310
+to be able to get to a point
+where those nudges will happen.
+
+29:17.340 --> 29:19.780
+But I think the other
+thing that's going to
+
+29:21.060 --> 29:23.160
+make us not have fragmentation
+
+29:23.160 --> 29:24.870
+is just honestly a commitment.
+
+29:24.870 --> 29:26.250
+So the problem right now
+
+29:26.250 --> 29:28.380
+is the way that VC funding is
+
+29:28.380 --> 29:31.110
+for most of the digital health companies
+
+29:31.110 --> 29:34.860
+is there's a strong push
+to come out with one thing
+
+29:34.860 --> 29:38.550
+in a niche area, show
+traction and generate revenue.
+
+29:38.550 --> 29:41.160
+So what you end up having
+is 20 different companies
+
+29:41.160 --> 29:43.170
+all doing 20 different types of care
+
+29:43.170 --> 29:45.510
+and you have almost
+like a virtual pill mill
+
+29:45.510 --> 29:47.790
+where someone's going
+here to get their GLP
+
+29:47.790 --> 29:49.860
+and here to get their hair loss medication
+
+29:49.860 --> 29:51.780
+and here to get their birth control.
+
+29:51.780 --> 29:53.550
+And now they've got
+three different providers
+
+29:53.550 --> 29:55.470
+and oh no, they're in
+the emergency room now
+
+29:55.470 --> 29:58.830
+with a medical complaint and
+there's no interoperability,
+
+29:58.830 --> 30:00.750
+no one knows what medications they're on,
+
+30:00.750 --> 30:03.360
+and it's up to the patient
+to be able to manage
+
+30:03.360 --> 30:05.070
+and be aware of all that care.
+
+30:05.070 --> 30:08.310
+And that's, at least in the U.S.,
+
+30:08.310 --> 30:12.000
+what our capitalistic
+funding, you know, structure
+
+30:12.000 --> 30:13.380
+is pushing us toward.
+
+30:13.380 --> 30:15.780
+So it's gonna take us as
+a collective community
+
+30:15.780 --> 30:18.060
+to say no and to commit.
+
+30:18.060 --> 30:20.400
+And this is part of what
+Omada has tried to do
+
+30:20.400 --> 30:24.450
+by partnering with the AMA,
+is embracing the complexity
+
+30:24.450 --> 30:28.350
+of asking could we do this
+and not fragment the care?
+
+30:28.350 --> 30:32.520
+And it takes a lot of
+creativity and diligence.
+
+30:32.520 --> 30:34.740
+We are a huge supporter
+of the medical home,
+
+30:34.740 --> 30:39.740
+and whenever we think about
+our care, we think about, okay,
+
+30:39.960 --> 30:41.520
+what would a care handoff look like?
+
+30:41.520 --> 30:43.740
+If we have a member who, for example,
+
+30:43.740 --> 30:45.690
+has a concerning diabetes number,
+
+30:45.690 --> 30:47.250
+how can we reach that provider?
+
+30:47.250 --> 30:49.350
+In an ideal world, we
+would have interoperability
+
+30:49.350 --> 30:50.940
+and I could exchange that data.
+
+30:50.940 --> 30:52.350
+It's not the world we live in.
+
+30:52.350 --> 30:56.070
+So in my world, we send
+an eFax to that provider
+
+30:56.070 --> 30:59.250
+and let them know, you know,
+or we call them actually
+
+30:59.250 --> 31:01.530
+and let them know, you
+know, the sugar is high,
+
+31:01.530 --> 31:02.730
+but we've made that commitment
+
+31:02.730 --> 31:04.020
+because that's the right thing to do
+
+31:04.020 --> 31:05.430
+to not have fragmented care.
+
+31:05.430 --> 31:09.750
+And so, that's what I
+think is needed, yeah.
+
+31:09.750 --> 31:11.460
+- And I will say in the hat that I wear
+
+31:11.460 --> 31:12.660
+as a chief medical officer
+
+31:12.660 --> 31:15.300
+for a virtual women's health company,
+
+31:15.300 --> 31:18.780
+we are using the principal
+care management code
+
+31:18.780 --> 31:21.750
+to do care coordination care navigation
+
+31:21.750 --> 31:23.730
+and be that medical home.
+
+31:23.730 --> 31:28.140
+So it takes effort, to your point exactly,
+
+31:28.140 --> 31:29.730
+to reduce that fragmentation,
+
+31:29.730 --> 31:34.380
+to be sure that someone is
+gathering all of the information
+
+31:34.380 --> 31:37.290
+from all of the specialists and the care,
+
+31:37.290 --> 31:42.290
+putting it into a single place
+and then designing a chart,
+
+31:42.930 --> 31:45.990
+frankly, that has the problem
+list that's up to date
+
+31:45.990 --> 31:48.873
+that keeps the med list up to date.
+
+31:50.040 --> 31:51.903
+That costs money to do.
+
+31:52.770 --> 31:56.253
+It costs human beings right
+now to do a lot of it.
+
+31:57.750 --> 32:01.260
+But we are getting traction
+in a value-based care world
+
+32:01.260 --> 32:04.560
+to say to payers and to employers,
+
+32:04.560 --> 32:07.350
+this is a really valuable service,
+
+32:07.350 --> 32:10.890
+that that fragmentation
+if I know that an employer
+
+32:10.890 --> 32:15.890
+has those services available,
+Jared, if your employer
+
+32:16.080 --> 32:20.100
+had had the virtual services
+available or your payer,
+
+32:20.100 --> 32:23.340
+then a medical home that
+was coordinating your care,
+
+32:23.340 --> 32:27.000
+not so much the surgeon who
+was part of a health system
+
+32:27.000 --> 32:30.690
+that was trying to drive
+services to their own system,
+
+32:30.690 --> 32:33.780
+but your employer, your payer or someone
+
+32:33.780 --> 32:35.730
+who was gathering all of that information.
+
+32:35.730 --> 32:39.900
+I think that interoperability
+is absolutely critical
+
+32:39.900 --> 32:43.920
+and it's really bringing value to patients
+
+32:43.920 --> 32:46.440
+because they don't end
+up stuck in the middle.
+
+32:46.440 --> 32:49.590
+They don't end up explaining
+to the psychiatrist
+
+32:49.590 --> 32:52.623
+what the OB/GYN said about
+their menopause care.
+
+32:53.850 --> 32:57.480
+- So, you know, if
+interoperability is like,
+
+32:57.480 --> 32:58.620
+you know, a full on marathon,
+
+32:58.620 --> 33:00.150
+I don't even know what
+mile marker we're at,
+
+33:00.150 --> 33:01.680
+but we're early in the race
+
+33:01.680 --> 33:03.390
+and there are things at the policy level,
+
+33:03.390 --> 33:05.520
+and I don't know if any of our
+federal colleagues are here
+
+33:05.520 --> 33:07.620
+that have tried to move
+that needle forward
+
+33:07.620 --> 33:09.930
+and have been important and helpful,
+
+33:09.930 --> 33:12.810
+but what is CPT doing and what's its role
+
+33:12.810 --> 33:14.220
+in supporting interoperability?
+
+33:14.220 --> 33:16.380
+'Cause it's not just about
+using HL7 as a framework
+
+33:16.380 --> 33:17.940
+to shift data bits around.
+
+33:17.940 --> 33:18.960
+Obviously there's an implication
+
+33:18.960 --> 33:20.670
+on the coding infrastructure.
+
+33:20.670 --> 33:23.310
+- No, it's really about creating codes
+
+33:23.310 --> 33:28.310
+that describe that work, that
+work of care coordination,
+
+33:28.860 --> 33:32.400
+care navigation, of bringing
+all of that together.
+
+33:32.400 --> 33:34.140
+And we do have a work group
+
+33:34.140 --> 33:36.690
+that's working on
+value-based care right now
+
+33:36.690 --> 33:39.990
+that's trying to say where
+are the gaps in the CPT code?
+
+33:39.990 --> 33:44.990
+Where can we fill those
+gaps so that practices
+
+33:45.120 --> 33:48.570
+can create a medical
+home kind of environment?
+
+33:48.570 --> 33:50.670
+You know, CMS tried that, what was it?
+
+33:50.670 --> 33:54.210
+15 years ago or so, and
+it sort of kind of worked
+
+33:54.210 --> 33:56.070
+and generally didn't
+
+33:56.070 --> 33:59.820
+in terms of reducing
+cost and improving value,
+
+33:59.820 --> 34:03.690
+but given the tools that
+we have now, it can work.
+
+34:03.690 --> 34:06.750
+And so we are working to create the codes
+
+34:06.750 --> 34:11.750
+that will allow practices and
+allow health systems as well
+
+34:12.390 --> 34:14.340
+to be able to capture
+
+34:14.340 --> 34:17.763
+the work that's being
+done and get paid for it.
+
+34:18.840 --> 34:20.880
+- Alright, so let me
+ask one final question,
+
+34:20.880 --> 34:23.490
+then I'll give everybody
+a minute to wrap up.
+
+34:23.490 --> 34:26.640
+So, you know, there's a lot
+of stuff here at this meeting,
+
+34:26.640 --> 34:29.130
+exciting new technology
+
+34:29.130 --> 34:32.220
+and the number one question
+that physicians want to know
+
+34:32.220 --> 34:36.420
+when they are looking at a new
+technology is, does it work?
+
+34:36.420 --> 34:38.040
+And that's a hard question,
+
+34:38.040 --> 34:39.930
+and it's a hard question for consumers
+
+34:39.930 --> 34:41.910
+and consumer-facing technology.
+
+34:41.910 --> 34:43.290
+So how should we be thinking
+
+34:43.290 --> 34:45.840
+about the generation of evidence,
+
+34:45.840 --> 34:47.940
+the level of evidence?
+
+34:47.940 --> 34:49.890
+You know, Dr. Jasik, you made a comment
+
+34:49.890 --> 34:52.770
+about going through the
+FDA clearance process
+
+34:52.770 --> 34:55.350
+for consumer-facing products,
+
+34:55.350 --> 34:58.470
+but it's a complicated space
+and it's not always clear
+
+34:58.470 --> 35:00.390
+what level of evidence we should require
+
+35:00.390 --> 35:03.000
+for an algorithm or a tool.
+
+35:03.000 --> 35:04.920
+How should we advise companies
+
+35:04.920 --> 35:06.570
+that are trying to enter the marketplace,
+
+35:06.570 --> 35:09.117
+whether it's on the
+professional-facing side
+
+35:09.117 --> 35:10.980
+or on the consumer-facing side
+
+35:10.980 --> 35:13.380
+to be thinking about
+this important question?
+
+35:13.380 --> 35:15.330
+- Thank you for this question.
+
+35:15.330 --> 35:17.640
+At Omada, we have an internal phrase
+
+35:17.640 --> 35:20.460
+called we start with science
+and we insist on outcomes.
+
+35:20.460 --> 35:24.930
+And the outcomes that we talk
+about is we're very committed
+
+35:24.930 --> 35:29.100
+to publishing the peer-reviewed
+journal mechanism.
+
+35:29.100 --> 35:31.170
+And I would say that healthcare,
+
+35:31.170 --> 35:32.400
+at least in the United States,
+
+35:32.400 --> 35:34.110
+I know this is an international audience,
+
+35:34.110 --> 35:35.400
+but really across the world,
+
+35:35.400 --> 35:38.250
+we have amazing structures
+to adjudicate evidence.
+
+35:38.250 --> 35:39.750
+We have the CPT Coding Committee
+
+35:39.750 --> 35:41.550
+to review our evidence to give us codes.
+
+35:41.550 --> 35:43.440
+We have the FDA to review evidence
+
+35:43.440 --> 35:47.070
+to reassure us that our
+devices are are safe and good.
+
+35:47.070 --> 35:49.230
+We have professional bodies like the AMA
+
+35:49.230 --> 35:51.420
+and professional societies
+that review evidence
+
+35:51.420 --> 35:53.250
+to write clinical practice guidelines.
+
+35:53.250 --> 35:55.140
+We have the U.S. Preventive
+Services Task Force.
+
+35:55.140 --> 35:57.120
+I was reading one of
+their guidelines today,
+
+35:57.120 --> 35:59.370
+reviewing preventive healthcare evidence
+
+35:59.370 --> 36:01.380
+and making recommendations there.
+
+36:01.380 --> 36:05.670
+So I would say digital health
+should not reinvent the wheel.
+
+36:05.670 --> 36:09.150
+We don't need another place or environment
+
+36:09.150 --> 36:11.820
+to review the evidence, but
+we do need to participate
+
+36:11.820 --> 36:15.270
+and get to know and embrace
+those structures that do exist
+
+36:15.270 --> 36:16.890
+and do the proper studies,
+
+36:16.890 --> 36:18.900
+submit them to the proper organizations,
+
+36:18.900 --> 36:23.640
+publish your work, hire a
+scientist or part of a scientist
+
+36:23.640 --> 36:25.890
+to help you evaluate your technology,
+
+36:25.890 --> 36:28.740
+partner with the AMA,
+if they're interested,
+
+36:28.740 --> 36:30.540
+on whatever your technology is
+
+36:30.540 --> 36:31.890
+because they will help you,
+
+36:31.890 --> 36:33.870
+and start with science
+
+36:33.870 --> 36:36.810
+and make sure you're building
+something that is worthwhile.
+
+36:36.810 --> 36:40.470
+And so get to know the
+healthcare community.
+
+36:40.470 --> 36:42.300
+We're messy.
+
+36:42.300 --> 36:44.640
+The evidence review is slow sometimes.
+
+36:44.640 --> 36:46.290
+The regulatory process is slow,
+
+36:46.290 --> 36:49.080
+but it does work and it
+protects our consumer.
+
+36:49.080 --> 36:53.283
+And I think it's up to all
+of us to participate in that.
+
+36:54.120 --> 36:56.227
+I think tech people
+often are kind of like,
+
+36:56.227 --> 36:58.080
+"Oh, I'm here to disrupt.
+
+36:58.080 --> 37:00.930
+I'm not gonna participate in
+that institutional structure."
+
+37:00.930 --> 37:02.820
+I think that holds a lot of companies back
+
+37:02.820 --> 37:05.280
+and a lot of technology back.
+
+37:05.280 --> 37:06.930
+You should need to get to know the system
+
+37:06.930 --> 37:07.950
+and work within it.
+
+37:07.950 --> 37:09.420
+- [Jesse] Jared's nodding.
+
+37:09.420 --> 37:11.190
+- Yeah, no, I really agree.
+
+37:11.190 --> 37:14.160
+I mean, I think it's been
+a real problem though.
+
+37:14.160 --> 37:16.350
+I mean, I think if you
+look back at the history
+
+37:16.350 --> 37:19.230
+of digital health back to the early 2000s,
+
+37:19.230 --> 37:21.090
+you know, for every a hundred companies
+
+37:21.090 --> 37:23.550
+that got seed stage funding,
+
+37:23.550 --> 37:25.680
+you know, maybe one or two or three
+
+37:25.680 --> 37:28.950
+has generated a
+high-quality clinical study
+
+37:28.950 --> 37:31.440
+in a high-quality peer-reviewed journal.
+
+37:31.440 --> 37:34.860
+And it's just, you know, it
+was never really acceptable
+
+37:34.860 --> 37:36.360
+and it's shaking out in the market
+
+37:36.360 --> 37:38.340
+in terms of who's doing
+well and who's not.
+
+37:38.340 --> 37:41.130
+And I think any company
+that's raising money now
+
+37:41.130 --> 37:42.420
+or getting off the ground,
+
+37:42.420 --> 37:44.070
+that's just gonna be the expectation,
+
+37:44.070 --> 37:46.440
+is that you do a really
+high-quality study,
+
+37:46.440 --> 37:48.180
+publish in a peer-reviewed journal
+
+37:48.180 --> 37:50.400
+and you have evidence of clinical impact
+
+37:50.400 --> 37:52.260
+and you have evidence
+that it can save money
+
+37:52.260 --> 37:53.880
+and that it's worth buying.
+
+37:53.880 --> 37:55.860
+And so I think that's
+gonna be the standard
+
+37:55.860 --> 37:58.230
+and I'll add that I think one of the ways
+
+37:58.230 --> 38:00.060
+in which you can generate that evidence
+
+38:00.060 --> 38:01.920
+is through using real world evidence,
+
+38:01.920 --> 38:04.470
+which almost always relies on CPT codes.
+
+38:04.470 --> 38:05.910
+And so, there is an infrastructure
+
+38:05.910 --> 38:06.870
+through which you can measure
+
+38:06.870 --> 38:09.690
+whether your service or product
+
+38:09.690 --> 38:12.810
+is delivering the clinical
+outcome that you want.
+
+38:12.810 --> 38:15.000
+- I have to say again about the CPT code,
+
+38:15.000 --> 38:19.260
+this is how we found
+Omada's cost, the footprint
+
+38:19.260 --> 38:22.080
+of finding our CPT code
+billing and our provider code.
+
+38:22.080 --> 38:24.030
+That's how I've done
+all of my claim studies,
+
+38:24.030 --> 38:25.500
+is we have that digital footprint.
+
+38:25.500 --> 38:27.000
+- All right, I think,
+Barbara, it's the final word
+
+38:27.000 --> 38:27.833
+'cause we're running out of time.
+
+38:27.833 --> 38:28.890
+- Okay.
+- The clock is about to go
+
+38:28.890 --> 38:30.150
+flashing and expire.
+
+38:30.150 --> 38:32.040
+- No, I would just, you know,
+
+38:32.040 --> 38:33.480
+echo what everyone else has said,
+
+38:33.480 --> 38:36.150
+that the data is really
+important, the science,
+
+38:36.150 --> 38:38.250
+the studies are very important.
+
+38:38.250 --> 38:43.050
+You have to be addressing a
+problem that's really a problem
+
+38:43.050 --> 38:46.230
+and you have to think about who benefits.
+
+38:46.230 --> 38:49.350
+So is this benefiting a
+payer by reducing cost
+
+38:49.350 --> 38:51.330
+or an employer by reducing cost?
+
+38:51.330 --> 38:53.550
+Is this benefiting a patient,
+
+38:53.550 --> 38:56.400
+but a payer isn't gonna pay for it?
+
+38:56.400 --> 39:01.400
+So there are a lot of questions
+in designing your studies
+
+39:01.800 --> 39:03.630
+to be able to answer those questions.
+
+39:03.630 --> 39:04.463
+- Amazing.
+
+39:04.463 --> 39:05.640
+Alright, Jared, Carolyn, Barbara,
+
+39:05.640 --> 39:08.130
+everybody stand up in the
+audience please for me.
+
+39:08.130 --> 39:09.420
+Come on, come on. There you go.
+
+39:09.420 --> 39:11.792
+Standing ovation, look
+at that, in Vegas, guys.
+
+39:11.792 --> 39:13.290
+(audience applauding)
+
+39:13.290 --> 39:14.610
+Really appreciate you being here
+
+39:14.610 --> 39:17.880
+and thank you all for
+coming to our session.
+
+39:17.880 --> 39:19.127
+That's a wrap.
+
+39:19.127 --> 39:21.710
+(upbeat music)
+

@@ -1,0 +1,1059 @@
+<v ->Good morning, everybody,</v>
+or I should say good afternoon.
+It's already one o'clock.
+The time is going by so quickly.
+I wanna welcome you all here today.
+We're gonna talk about the cyber security talent gap
+that we're experiencing globally,
+but we have two U.S. or individuals here,
+so we'll probably talk a lot also
+about the situation in the United States.
+First, I'd like to introduce myself.
+My name's Jennifer Taylor.
+I'm the president and CEO
+of the Northern Virginia Technology Council.
+We're one of the largest tech councils in the country,
+and we've been around for 35 years.
+And what we do is we really drive
+innovation and economic growth
+in the Northern Virginia region,
+which sits right across the river
+from the capital of the United States, Washington, D.C.,
+so we really unite and bring together
+our full tech ecosystem in the national capital region,
+our nation's capital.
+Prior to this role, I actually worked
+at the Consumer Technology Association,
+where I was VP of Industry Affairs,
+and one of my roles was to lead
+all of our workforce development programming
+and policy work, so that's why I'm here today.
+Today's panel topic is titled The Cybersecurity Talent Gap.
+And this topic is really relevant and timely today,
+considering that cybersecurity talent shortages.
+This shortage has never been more pressing.
+I'm sure you're all aware of recent cyber attacks,
+such as the Salt Typhoon
+targeting the U.S. telecom industry,
+and the Volt Typhoon,
+the Chinese State-sponsored hacker group
+that has threatened critical infrastructure,
+including power, water,
+military facilities, and supply chains.
+So all of this underscores escalating risk.
+And these are just two of the more well known.
+We know companies are dealing with cyber attacks every day.
+So what I'd like to do now
+is just set the table for our discussion
+and share some general statistics with you
+about the cyber workforce.
+In the U.S., we are currently experiencing
+a significant shortage of cyber professionals
+with thousands of positions unfilled.
+And this gap poses, I find this really interesting,
+substantial risks to our organizations,
+our industries and governments
+because the lack of skilled personnel
+is predicted to account for more than half
+of significant cybersecurity incidents worldwide,
+so we need more people.
+To address the talent gap,
+there are various initiatives underway, which is great.
+We're seeing organizations map skills training
+to emerging threats.
+We're offering more continuous learning opportunities
+for staff or employees.
+Their organizations are providing more clear pathways,
+career pathways.
+We're attracting talent from more diverse populations
+and through non-traditional educational pathways,
+like apprenticeship, at least in our country.
+And we're collaborating more with public agencies
+and through national campaigns.
+So in today's discussion, we're going to do three things.
+We're gonna understand what are the factors
+that are driving the demand for cybersecurity talent.
+We're going to discuss how the increased demand for cyber
+is impacting companies,
+specifically how they're filling their talent pipelines.
+And then we're gonna showcase
+how tech companies are addressing these challenges
+through innovative and unconventional ways.
+So what I'm gonna do now is introduce
+our two subject matter experts.
+First, we have Torrell Funderburk.
+He's the CISO at Sealed Air.
+And he focuses on cyber resilience and innovation
+in the face of evolving security threats.
+He has a background in software development
+and a passion for digital transformation
+and emerging technology.
+Today, he's dedicated to bridging the gap
+between business objectives and cybersecurity strategies.
+So we're gonna talk about that.
+For those of you who are unaware of Sealed Air,
+they're now branded as C.
+Do you say C or S-E-E?
+<v ->C.</v>
+<v ->C, yeah.</v>
+And they're a packaging company.
+They're known for their innovative solutions
+in product protection, food safety, and security.
+They're headquartered in Charlotte, North Carolina,
+and you'll know some of their popular brands,
+well-known brands such as Bubble Wrap and Cryovac
+for food Packaging.
+Now, we also have Vishal Chawla.
+Am I saying that correctly?
+<v ->Yes.</v>
+<v ->Okay. (laughs)</v>
+And he's the founder and CEO of BluOcean.
+He brings over 30 years of cybersecurity expertise,
+combining his big four experience as a global cyber leader
+and a senior partner serving global Fortune 100 clients
+in the financial services and healthcare industry.
+He's now the founder and CEO of BluOcean Cyber.
+They're located in Northern Virginia,
+where he's created a product called RiskGPS.
+It's a cyber risk governance platform
+and it helps companies dominate their competition
+by redefining cybersecurity
+as a critical strategic business asset.
+And he'll tell us more about that as well.
+And he's been published in "The Wall Street Journal,"
+"The MIT Review" and many other publications.
+So thank you both for being here today.
+<v ->Thank you for having us.</v>
+<v ->Okay, so we will take time for a few questions at the end,</v>
+so if you have any, you know,
+we look forward to hearing from you.
+So we're gonna start with Torrell and then Vishal.
+So based on your respective experiences,
+at Sealed Air and Deloitte, when you were working with them,
+Vishal, what do you believe are the main factors
+driving the increased demand for cybersecurity strategies?
+what's driving the demand?
+<v ->This is like an incredible question,</v>
+and I like this question
+because I think it's a combination of many factors.
+I think one, obvious for large publicly traded companies,
+is the new SEC regulations
+and trying to aim for regulatory compliance
+and shared accountability and ownership
+at the leadership level.
+But on top of that, I think the general awareness
+for the cyber securities is being raised across industry.
+So more people are aware of it,
+more people kind of understand
+that they need their collective strategies towards cyber.
+And I think as a side effect of that,
+it almost feels as if through that focus,
+there's a realization that cyber can also de-risk
+and enable the business as well,
+because of the unique nature that cyber has to play.
+So, if a business has a strategy
+that they're driving towards,
+how can cyber be leveraged to de-risk that
+while maintain kind of operational resilience
+for their current operations effectively?
+So I think a combination of all those three things
+is really what's driving the need and demand
+for effective cyber strategies
+and also demand for cyber strategy
+to be communicated effectively,
+which is also a challenge in our industry.
+<v Jennifer>Yeah.</v>
+What are your thoughts, Vishal?
+<v ->No, those are great points, Torrell.</v>
+I'll add few aspects to it.
+I would pick about four things.
+One, I think what we have seen is
+the cyber criminals are not anymore...
+I joke like two men in a truck,
+door wrangler, just try to come in.
+They have become organized.
+<v Jennifer>Yeah.</v>
+<v ->Ransomware as a service, like LockBit.</v>
+These companies have HR department,
+you get paid, you come in nine to six,
+you hack all day-
+<v ->Unbelievable.</v>
+<v ->You go home.</v>
+So they are businesses.
+They are not just two people
+just trying to see sitting in a basement or a dorm room
+trying to break in.
+So that shifts like bringing the professionalism,
+if you think about it, to attacking,
+to hacking companies and holding them hostage.
+So that is a big shift we are seeing.
+The number two is definitely when you look at
+in terms of automation and everything, what's going on.
+We are seeing a lot more stuff like cloud and SaaS.
+Especially after COVID, we saw this huge shift,
+we gotta move.
+But cloud and SaaS means
+now you gotta go out of your perimeter.
+You don't have that control, right?
+<v ->Right.</v>
+<v ->So, that creates now</v>
+a very open-ended environment,
+like I call it why you need to come into a house
+when your house is actually outside or-
+<v Jennifer>Yeah, yeah, yeah.</v>
+<v ->Or the other way I look at it is,</v>
+we used to always call it what happens in Vegas,
+stays in Vegas.
+Not anymore.
+It's on a SaaS cloud sitting somewhere,
+which we have no clue.
+And they don't need to come in,
+they just hack in and those things,
+so it's changing that whole thing.
+<v ->I love these analogies.</v>
+Like I like that house is outside of the house.
+<v ->It is, everything is out, right?</v>
+You can go ahead Salesforce for any of these tech company
+outside, you don't need to come into the parameter.
+And I think the third biggest thing we are seeing,
+which is third biggest thing we are seeing is
+the attack pattern has shifted
+because earlier, the people wanted to go attack for data.
+Every one of our information had some value,
+but that value has gone down considerably.
+So when Ticketmaster got hacked,
+I think they got half a billion record, I think,
+and they asked for 400,000.
+That's less than-
+<v ->Dollars.</v>
+<v ->That's less than a penny for each of our record.</v>
+That's it.
+But what they are shifted is
+they are going after business disruption.
+How I disrupt business, like change healthcare,
+how I go, like, don't want to name the companies,
+but companies we are disrupt the business, shut it down,
+so I hold them hostage and they gotta pay me now.
+And the last part I would say which has changed
+the attack pattern is everything we look in CTM is
+I'm sure we are enjoying CES, right?
+Every technology we see.
+As fast the technology is moving,
+like we were talking about Abbott,
+when I was looking at the device, the hacker is moving too.
+And the more technology-enabled company we become,
+the more opening is for hackers to go after us.
+So I think these four factors-
+<v ->It's very well said.</v>
+<v ->are creating an ecosystem,</v>
+which is creating this talent gap also
+because it's not where we were,
+it's like, your hockey, where the puck is going,
+that's moving too fast, it's going somewhere else
+and we are still kind of moving slowly towards it
+<v Jennifer>So the skills, the talent pipeline</v>
+has to keep up with the pace of technology.
+<v Torrell>Yeah, I love the analogy</v>
+because I use it internally.
+<v Jennifer>I'm seeing the technology,</v>
+you know, have the hockey stick.
+<v ->Yeah.</v>
+<v ->And then the hackers.</v>
+But the talent has to-
+<v ->Correct.</v>
+<v ->Go along with it.</v>
+<v ->Skate to the puck.</v>
+<v ->Yeah.</v>
+<v Jennifer>Absolutely.</v>
+So I'm gonna go to my next question.
+So how has increased demand for cyber security impacted C?
+Like what are the conversations you're having as the CISO
+with your CEO and your leadership team?
+<v ->I think kind of what I touched on earlier,</v>
+and that's leveraging kind of the capabilities
+that we've established at our company
+to actually de-risk the business strategy, right?
+So we're elevating our integration into the organization.
+So it's not just this back office project function.
+It is how we align with the business
+to de-risk that strategy
+and the expectations and outcomes that come with that.
+So it is raising the bar
+for the expectations of security
+in terms of helping driving outcomes,
+but also more visibility
+in terms of our readiness for operational disruption,
+as Vishal mentioned.
+<v Jennifer>So are you able to give us a specific example?</v>
+I don't know if it's proprietary,
+but of de-risking a specific strategy.
+So, like what might be-
+<v ->I'll give you an example.</v>
+So Vishal gave a great example.
+So, there's an increase in attack posture,
+attack surface with the boom of the devices
+and emerging technology.
+So you have AI, you have IoT and manufacturing.
+There's this I4.0 revolution, right?
+<v Jennifer>That's right.</v>
+<v ->So a lot of connected devices,</v>
+smart manufacturing, digital twins, all this.
+<v ->Right, so I'm visualizing C's manufacturing operations</v>
+as you're describing that, and this is massive.
+<v ->Yeah, yeah, so-</v>
+<v ->And I'm sure it's global,</v>
+<v ->It's a global footprint.</v>
+<v ->Yep, yep.</v>
+<v ->So from a security standpoint,</v>
+how do we align with the major stakeholders in the business
+that are driving this strategy
+for more digital operation to de-risk it
+in terms of like building secure by design models?
+So we have a clearly understood model
+to onboard this emerging technology onto our operation
+that not only protects
+against like existing or emerging risks,
+but it also improves
+the performance of our current operation as well.
+<v Jennifer>Mm-hmm. Okay. Okay.</v>
+<v ->So, I think the days of just expecting it</v>
+to be secure is gone.
+It's like, okay, secure and what?
+Secure and more efficient, more cost efficient,
+more operational resilient.
+So I think the more integration to business outcomes
+is kind of what I'm seeing.
+<v ->Gotcha. Wow.</v>
+<v ->Yeah.</v>
+<v ->And so, how, how is it impacting-</v>
+<v ->Talent side?</v>
+<v ->What?</v>
+<v Vishal>The talent?</v>
+<v Jennifer>Well, so this increased demand</v>
+for cybersecurity.
+<v ->Yeah.</v>
+<v ->How is it impacting?</v>
+How are you seeing companies respond from your perspective,
+either while you were working,
+you know, with the big four or with BluOcean?
+<v ->I think-</v>
+<v ->How are companies responding to any these four-</v>
+<v ->Absolutely.</v>
+<v ->trends you just outlined?</v>
+<v ->So, when I take those trends</v>
+and I think back to Torrell's great point
+about the business-centric kind of thinking,
+I think what it's creating is I step back
+and been I've consultant for so long.
+When I look at the problem from outside in,
+I see we have a talent issue
+at about four different dimensions to it.
+I'll start with the first one is,
+what Torrell and I were talking a few minutes ago
+is just the security leadership.
+Is the security leadership trained enough
+to understand the mission and the business-
+<v ->Okay.</v>
+<v ->and very business-centric?</v>
+Back to the SEC regulation.
+They want you to focus on the business centricity.
+Because the criminal looks at your business to attack you.
+So there's a huge demand on security leadership,
+how to train themselves
+to move more toward the business side of the gap.
+So that's some of the companies are pushing
+their security leaders to be more strategic.
+And what I call it, we were great
+as a professional cybersecurity leader
+used to be a good defender and a technologist.
+As I remember a bank in Virginia,
+they hired someone and he was phenomenal in technology,
+how to transition to cloud, but then they get hacked.
+Not his fault, but again, that's how they used to hire.
+And now, they have to move to hiring people
+who are more strategists and collaborator.
+<v ->Okay.</v>
+<v ->So you gotta shift</v>
+from technologist and defender
+to building new additional muscles
+of a strategist and collaborator.
+So that's number one.
+The number two I would pick, Jen, is
+it's really the skill side
+where companies are investing into
+back to, yes, we need certain skills,
+but what exactly the skills are gonna be needed
+for the future where things are going.
+So, we can be great with the skills we have,
+but we gotta shift that skill pattern to, oh, you got AI.
+Now, you got SaaS application,
+which security never had to really deal with application
+too much because it was inside the...
+But there's no more wall,
+there's no more around the company anymore,
+so everything is outside, so you gotta change the skillset.
+I think the third big thing which we are seeing,
+and you will see, like if you guys align with NACD
+and the board,
+there's a huge pressure on the board of directors
+<v Jennifer>Yes.</v>
+<v ->to bring some cyber security skills at the leadership.</v>
+<v Jennifer>Okay. Even into the board.</v>
+<v ->Even into the board.</v>
+<v ->Yeah.</v>
+<v ->And actually, interestingly,</v>
+there's a senator out of state of Washington, I think.
+He has proposed, actually put something on the table,
+which I don't think this is gonna get passed,
+but we're holding criminally.
+<v Jennifer>Yes, I remember reading that.</v>
+<v ->The board and the CISOs</v>
+start getting accountable for it.
+So there is a huge pressure on the board
+that if you're gonna do the governance,
+this is a risk you need to manage.
+So that's the third skill gap
+which companies are trying to address.
+And the fourth one I feel is awareness.
+As we know, what?
+80% or so cyber attacks happens because of human errors?
+80?
+So how are we gonna become savvy?
+It's just like when you purchase a car,
+you learn how to manage the car, right?
+Now you got all these devices,
+like, I don't wanna put anyone like
+I go and ask this question sometime.
+Like, go and open your Venmo and see
+who all is paying to whom.
+Can you see that?
+And if you can't see that,
+that means you have that personal information,
+which you don't need to know because it's all there.
+So you gotta understand technology.
+<v ->Okay, so wait, let's talk about this example.</v>
+So when I go into my Venmo, what did you say?
+I can see everybody that I paid, right?
+<v ->And all your friends who you're paying, anyone.</v>
+<v ->Oh, absolutely.</v>
+<v ->It's like why I need to know.</v>
+<v ->I put my thing on private.</v>
+<v ->Yeah.</v>
+<v ->Because I remember seeing</v>
+a friend from high school-
+<v ->Yeah.</v>
+<v ->That said that she paid a tutor for her daughter.</v>
+And I went, "Hmm, her daughter must need help with math."
+Why do I need to know that eight states away?
+That's weird, you know? But yeah,
+<v ->If you go back to,</v>
+I'm sure everyone has watched "Home Alone," right?
+<v ->Yes. Love it.</v>
+<v ->People had to go and go to the house</v>
+to figure out is someone gonna leave the house,
+so I can come and commit the crime.
+<v ->Now you don't need to do that.</v>
+<v ->Now, you don't need to do anything.</v>
+You can check on the phone.
+Okay, they just bought their tickets.
+Okay, what I need to do next?
+<v ->That's right.</v>
+<v ->So we need to become,</v>
+I think that's where my fourth aspect is becoming
+at a human level, we need to become
+more aware of the technology.
+We need to become aware of how our information can be used.
+<v ->Our digital footprint.</v>
+<v ->And how to digital footprint</v>
+and bring it down.
+So that's what I see companies are becoming more,
+they're investing a lot more
+in security awareness and training.
+They are pushing the boards to transition.
+They are asking cyber leadership to becoming more strategic,
+and then really investing in talent from AI.
+So those are the four aspects I will touch on.
+<v ->And I would like to add to that too,</v>
+about the kind of people you're looking for
+to solve these problems.
+If we know we have the risk with the,
+the human risk, the human element
+and the scenario we just played out,
+why is that public and not private by default?
+And it goes back to the secure by design discussion
+and the technology adoption.
+Like, are we securing that before we adopt it?
+Or do we adopt it and then scramble
+to try to figure it out afterwards?
+So the talent that you need to do that needs to be aligned
+with the outcome of that secure by design thinking
+and not defending.
+<v ->And it's a great point actually,</v>
+just to add one thing to it,
+if you look at most of the people,
+how many people are like in technology company
+or technology, or how many are financial services and stuff?
+Not much.
+Or retail or manufacturing?
+Yeah.
+Probably you guys are already seeing a big shift
+where a lot more technology decision,
+back to Torrell's point,
+is getting done at the business level
+with CIOs are not even involved
+and they're purchasing these SaaS products like this.
+I mean, we are working with a company,
+they have 1,200 of these.
+And then we go into their Slack,
+and the Slack is talking to another 500 applications.
+It's like, do you know where your data is?
+What you're gonna do?
+And when you don't know anything,
+so that's what is happening,
+the technology is coming so fast.
+<v Jennifer>Right.</v>
+<v ->So we need products to become more secure,</v>
+like security by design,
+because the business is saying, "I need this tech.
+I saw CES Conference, I'm gonna bring it in
+and I'm gonna use it tomorrow morning.
+And the CIO was like, "No, no, no, I don't know."
+I was like, "What do you mean by you don't know?
+Just sit back." Right?
+Because you wanna move forward and you want to move fast
+and there's a competition, the growth.
+So I think that's where the security by design
+is gonna become more, I think the seesaw,
+which is the big, it's not a regulatory body,
+but Center for Information Security.
+And they have been pushing for this SBOM,
+Software Bill of Material,
+which is you should be able to just like you buy...
+Actually, my boys also look at the water where it came from,
+but no.
+But it's the bill of material on everything software.
+So you know, how it was tested, how it was coded,
+how it was set up, how it was done.
+And if you have that SBOM, that changes the game too.
+So I think we are gonna see those pressure pretty hard,
+moving SBOM, security by design,
+so these products are inherently secured.
+<v Torrell>Mm-hmm.</v>
+<v Jennifer>This is fascinating.</v>
+So at C, how many employees do you need?
+Or you know, how many do you need?
+What type of skills do they need?
+<v Torrell>This is also interesting.</v>
+<v Jennifer>Do you have lots of open jobs?</v>
+<v ->Cheryl is gonna take resume on the-</v>
+<v ->Yeah, yeah.</v>
+Like, how does it look from your perspective?
+<v ->This is also a great question</v>
+because I think it also can be a trap
+for a lot of security programs
+because they would make this decree
+for infinite number of people, resources,
+but are those resources deployed at the right problem
+that align to the business?
+So the first question is kind of what is our mission
+and why are we doing what we're doing?
+If we're here to manage and mitigate
+and kind of de-risk the business strategy
+and maintain our current operations, and how do we do that?
+What are those critical processes like solutions to do that?
+And then this back
+into kinda who do we need to get that done
+per that demand?
+So, for us, I think we are doing a really good job at that.
+And then you can leverage these emerging technologies
+with kind of AI and automation to handle
+kind of the, we call it L1, L1 procedural task.
+And then raise expectations for the people you do have,
+if it's more constrained resources
+to focus on like a much higher-level outcomes
+versus just tactical day-to-day things, right?
+So, with the emerging technology kind of coming to fruition,
+we are able to push some of the tactical day-to-day stuff
+to the technology, but elevating the people
+to oversee that technology
+and then focus on the high-level outcomes.
+<v Jennifer>And so are you doing,</v>
+like, are you upskilling and training your people?
+<v ->Yeah, yeah.</v>
+<v ->Yeah.</v>
+<v ->Yeah.</v>
+<v Jennifer>And how are you doing that?</v>
+<v ->So Vishal made a credible point earlier</v>
+about if you're skating to where the puck is going
+and the puck is going to, say, cloud computing
+or quantum computing or whatever, application,
+whatever you're going to,
+largely, you're not gonna find analysts
+right outta undergrad to solve that larger problem.
+What I do, what I prefer to do
+is understand people who are already in cloud computing.
+They may be cloud architects.
+They may be software reliability engineers.
+<v Jennifer>Interesting.</v>
+So the ones who have built it.
+<v ->Correct.</v>
+<v ->Okay.</v>
+Designed or craft, okay.
+<v ->If there's an upcoming demand for SBOM, Bill of Materials,</v>
+how do we get that?
+Well, that's just technology integration
+into things that they've already been doing to collect that.
+So it's more of taking them and re-skilling them
+and placing their focus and capabilities
+on security focus like topics.
+But to do that, I think is you have to build that pathway
+to make them kind of want to do that
+and then have some sort of career development.
+<v Jennifer>So, that's like an investment</v>
+inside your company.
+<v ->Yes.</v>
+<v ->Like, you know, so making those career pathways</v>
+and, you know, continuous learning within your company.
+<v ->Yeah, but it also-</v>
+<v ->Which takes time and resources.</v>
+<v ->But also strategically,</v>
+if your security program is aligned to your company,
+your company's business, these are the perfect people
+to pull into your security program
+'cause they intimately understand the company itself.
+<v ->And you guys were talking about that</v>
+before we came here,
+you know, the importance of the employees
+understanding the mission.
+<v ->Mission correct.</v>
+<v Jennifer>And the vision.</v>
+Well, let's talk about that a little bit more.
+Why does that matter so much?
+<v ->I think the big part-</v>
+<v ->Does it help them</v>
+identify things more easily, like threats or-
+<v ->It's definitely, I think it's a multifold</v>
+because the security is sitting at this silo,
+to some extent.
+And I call it we gotta get security
+to be on the grownup table a lot of time
+because it's sitting on the side table, the kids' table.
+And, if they understand the strategy and the mission,
+then it starts changing the game.
+I've got a very good friend,
+she's been CISO for all her life
+and she's very business-centric.
+And I asked her, "Why did you became business-centric?"
+She's like, "I like expensive stuff
+and I that's why I wanted to get paid more."
+<v Jennifer>Okay.</v>
+<v ->"So I started speaking the executive language</v>
+and that got me to the strategy table."
+But then her team started becoming,
+the side effect was
+the team feels like we are protecting a mission.
+<v Jennifer>Yes.</v>
+<v ->So if you are, like we were turn</v>
+and I were talking a few minutes ago,
+we were doing some work with the hospital and I'm like,
+okay, so what exactly are you doing?
+And what is exactly the...
+Oh, we are doing this security, this, this, this.
+I said, "But your CEO wants patient safety."
+<v Jennifer>That's right.</v>
+<v ->"So what you're doing for patient safety?"</v>
+"Oh, we got multifactor authentication."
+We don't do, no, no, no.
+Let's go back again.
+Start from patient safety.
+So, the challenge was
+because if you're not mission-oriented,
+then you're not gonna get the support of the leadership,
+then they're gonna say,
+"I gotta just keep moving and I'll deal with it." Right?
+<v Jennifer>Right, so what it's like moving</v>
+from just doing a transactional job
+to serving a higher purpose.
+<v ->The higher purpose.</v>
+<v ->Yes.</v>
+<v ->And I think to build those skills,</v>
+back to Torrell, your point, I think
+it's thinking from that mission.
+And I think if we do mission-based model
+and we have seen it, there are models,
+what I call it skill to risk.
+So what I call it skill to risk
+or skill to value kind of model.
+It's a model which has been used,
+which some of the companies have started doing
+because no one is gonna be able to hire talent,
+what you need.
+But on the other side, after COVID and working remote,
+we have ability to hire people,
+the best people wherever we want.
+I mean, you can be company in Charlotte
+and you can have someone working from California
+and they don't have to be there, right?
+So skill to risk model, that's what I call it.
+So if you understand where your biggest risks are,
+whether it is, hey, I'm a health tech company,
+and we tell everyone, "Give us your data and trust us."
+Because people are giving you their data
+to know all thing about your health
+and what they care most about.
+If that data goes out in public and knows everyone-
+<v Jennifer>Right, so like for example, like an EMR,</v>
+like an electronic medical record.
+<v ->Think about like your health tech devices</v>
+we were talking about, right?
+<v ->Yes, we were.</v>
+<v ->They know your blood pressure,</v>
+what happens to your blood pressure, what makes you this.
+You can do anything you want.
+So people are giving that information
+because they expect secrecy and trust.
+That trust is based on keeping its secrecy.
+So when you drive the skill to risk model is
+you understand your mission,
+you understand what your risks are,
+and you hire to the skills, hire skills
+which require to manage that risk.
+And then the lower risk things,
+you can start looking at talent globally like offshoring,
+outsourcing, whatever you want to do,
+and then you can outsource certain things.
+And what we have seen is the companies
+who start moving skill to risk model,
+they train talent better
+because they are training for a mission,
+and those people can go into other career fields also,
+like becoming a CTO and other career path.
+They are not just-
+<v ->Stuck in, yeah.</v>
+<v ->Just look at protector, protector.</v>
+I get it. But why?
+And the second thing we start seeing is actually
+the talent demand.
+The talent needed is going down generally
+goes down by 20 to 30%.
+So we have seen companies go reduce their talent need by 30%
+because they are hiring for skill to risk.
+<v ->Okay.</v>
+<v ->And the medium risk one,</v>
+okay, what I need to do.
+Okay, I can outsource or something.
+And this one, that's okay.
+I understand it's there.
+I don't need to go manage everything
+because that risk is so low, who cares?
+<v Jennifer>Okay.</v>
+<v ->Versus trying to be like we were working with one client,</v>
+it's like back to this RiskGPS we were doing.
+And like, but can you find out if anyone,
+one of my servers is patched?
+I'm like, what is on that server is more important
+before you worry about whether that server,
+that machine is patched or not.
+<v Jennifer>Okay. Was there vital information on it?</v>
+<v ->Yeah, if you don't.</v>
+So firstly, understanding the skill to risk
+is firstly understand where my risk is,
+what the ecosystem I need to protect,
+what mission I need to protect,
+and then creating job description based on that,
+and then hiring the talent,
+that starts the strategy from top down.
+<v ->I love that kind of motto.</v>
+And as you were talking, I was kind of categorizing,
+it's like three different sectors, right?
+<v ->Yeah.</v>
+<v ->The skill to risk and to summarize the first group</v>
+of like highly skilled people.
+The thing that highly skilled people love the most
+is purpose, right?
+<v ->Yeah.</v>
+<v ->And if your strategy is aligned to the business,</v>
+it gives them a vision and a purpose
+for why they're doing what they're doing.
+And that medium tier is your partner collaboration.
+Like who are your partners
+that help you solve those medium risk?
+And then below that, your AI and automation, right?
+So I love that.
+<v ->I like that phrase too.</v>
+<v ->Yeah.</v>
+<v Jennifer>Like I'm always amazed</v>
+how the time goes by so quickly.
+<v ->Wow.</v>
+<v ->So we have nine minutes.</v>
+And I do wanna take a few questions, if there are.
+<v ->Sure.</v>
+<v ->Let's talk about the entry level and like talent</v>
+that's coming in.
+In Northern Virginia, just by way of background,
+George Mason University is the largest university
+in our state, and they were the first in our state
+to have a cybersecurity degree.
+Am I right on that?
+<v ->Absolutely.</v>
+<v ->Yeah.</v>
+And so in our region,
+because of the collaboration
+with a lot of our government agencies,
+there's been a need to have this curriculum.
+And I think the school graduates
+a few thousand students a year.
+How can we get more students to,
+you know, pursue a degree in cyber
+or, you know, pursue an apprenticeship in cyber?
+Do you think that we should have increased awareness
+about this career path?
+<v ->Absolutely.</v>
+<v ->We have a need for more people to study it, right?</v>
+<v ->Yeah, I think it's absolutely needed.</v>
+And I agree with what you're saying.
+I would say not because we are associated with you
+in Northern Virginia Techno,
+but I think what we are in Northern Virginia,
+we need to do more in other states.
+<v ->Yes.</v>
+<v ->Because you have created a collaboration</v>
+between industry and the academia.
+<v ->Yes.</v>
+<v ->Right?</v>
+So that's the number one important aspect.
+The third big collaboration is you gotta bring
+the government into it
+because there have a lot of demand,
+but there are also a lot of things which are happening,
+which they can motivate in terms of how government
+is trying to dive into the school education system.
+So we are still doing George Mason,
+and I wanna go back to schools actually.
+So, when I was building, this is for Deloitte,
+I was building their offshore,
+their delivery capability centers around the world.
+We used to hire people and someone will come,
+"Oh, I just do IBM, XYZ product."
+And you, so, "No, no.
+Tomorrow we are gonna work with this product
+and I will put them in the team and four weeks later,
+they are back to IBM XYZ.
+So I started saying like,
+"Okay, I got a lot of people who are like a,
+they adjust their hammer for a nail.
+And if it's a three-inch nail,
+then they don't know what to do with it.
+<v ->Okay.</v>
+<v ->How we shifted</v>
+and what we did was exactly what you talked about.
+We shifted everything to bring people from campus,
+and then have a very structured hands-on training program
+for six weeks, like a bootcamp.
+You put them through the process
+and work through their model, put them into the training,
+and when they come out,
+they understand a lot more about cyber.
+And then what I call it,
+it's more like a hourglass kind of a career model.
+Don't start with getting into the swim lane quickly,
+but start broad and then slowly you learn everything
+and then you become more mission-oriented,
+you understand the risk, you understand criminal behavior,
+criminal thinking versus saying,
+"I understand how to find hacker."
+Okay, what are you gonna do after that?
+"I don't know. That team.
+<v ->Okay.</v>
+<v ->No, you gotta understand.</v>
+So I think we are seeing that model
+played out in Northern Virginia.
+And actually there are about two countries
+and I'm connected with one.
+Israel, I do work with a lot of their cyber product too.
+Israel and Estonia.
+Those are two countries actually
+who are famous for building cyber talent from ground up.
+<v ->Really?</v>
+<v ->Yeah.</v>
+They have built that model very unique.
+And it's basically exactly on those.
+They have a...
+Educate all the way from school time,
+all the way to the college,
+cyber is part of the curriculum, basic education
+and then you go deep.
+Very strong cross collaboration
+between the government, academia
+and industry councils like NVTC,
+and then lot more investment on hands-on training.
+You look at most of the cyber product companies
+from Israel, a lot of those people actually work
+in Israel Army.
+<v ->Okay, okay.</v>
+<v ->Most of these CISOs work from there.</v>
+And even on our side,
+if you look at some of the phenomenal companies,
+I think you and I were talking about,
+like CrowdStrike and MiniAn,
+these companies were started by people
+who came from that mission thinking of how to deal with it,
+so that's why they, they moved so fast
+because they're trying to deal.
+So I think that's the collaborate hands-on training.
+So I think those three aspect
+of cross collaboration, education
+and then last one I would say is constantly upskilling
+because if we depend too much on AI, that is the challenge,
+we are gonna get it.
+Oh, AI will figure it out.
+I can do this.
+Pretty soon, we're gonna be like, okay.
+But the AI is what I call, it's a very deterministic model.
+You do A plus B equal to C.
+The criminal operate on a probabilistic model.
+Okay, what is the probability this person
+is not gonna watch this so I go attack them?
+<v Jennifer>Right.</v>
+<v ->So we need that critical thinking</v>
+and stuff into the model.
+<v ->Yeah, yeah.</v>
+Good, good.
+All right, are there any questions from the audience?
+Feel free to come up to the mic.
+<v Participant>So a more basic question,</v>
+just is there enough technology people
+to fill all the roles?
+Or is it a question of people
+just don't wanna do cybersecurity work?
+So I'm an IP and IT council.
+So from the IP side, I've noticed I've lost a lot of people.
+Well, I don't say I personally,
+but the industry has lost a lot of people
+where traditionally if you didn't wanna work in research
+or industry, patents were like a side branch.
+But now we're losing a lot of people
+to private equity and venture capitalists
+because they're using those skills.
+It's very valuable for those guys.
+And so, we're seeing a shift from,
+instead of just being a patent attorney,
+it's like, okay, I could be working venture capital
+or I could be a patent attorney,
+and so you've cut down the pool of people by 50%.
+<v ->Wow.</v>
+<v Participant>So I'm just throwing numbers out there,</v>
+but are you seeing something similar in your profession
+that either people are being shunted off
+to different professions
+or they don't wanna do cybersecurity work?
+<v ->I have an opinion, but I'll let Torrell start with that.</v>
+<v ->Honestly, because I think that's like a, I don't know,</v>
+a complex question.
+So I think the people that are very successful
+in cybersecurity
+are normally those high agency IT professionals.
+But what comes with that is like a seven-post accountability
+that makes them susceptible to burnout, right?
+So you have really good people that come into cybersecurity
+that kind of burn out.
+But to directly answer your question,
+I think that if we changed the problem
+from a cybersecurity technology problem
+to like an innovation problem,
+I think we have better candidates of selling the innovation
+and opportunity to innovate and solve
+and within a very dynamic space.
+I think it solves that problem.
+I think if we try to scope it to cybersecurity,
+you run into that problem, but-
+<v ->So position the career-</v>
+<v ->As innovative.</v>
+<v ->As one that's innovative and solving problems</v>
+and evolving, and it has a creative aspect to it.
+<v ->Correct, yeah, correct.</v>
+<v ->Yeah, but I mean, from what I'm reading, what I see,</v>
+we don't have enough workers.
+So there's so many strategies to attack that.
+And in our region, there's many approaches,
+but is getting industry and government
+involved with the academic aspect?
+But then also, we have to start in high school.
+And like what we do as a tech council,
+we work with our regional school districts
+and we have career exploration days.
+We bring the students to the offices,
+we bring some of the staff to the classrooms,
+so that they understand that these careers are available.
+<v ->Yeah.</v>
+<v ->So, it's a challenge,</v>
+but we have to encourage more kids to pursue,
+you know, jobs in tech.
+So anyway, go ahead.
+<v Participant>I have a question.</v>
+At Internet 2.0, Michael Kove had mentioned
+in a conversation with Microsoft that due generative AI,
+85% of the software engineers were no longer required.
+So my suggestion or question is,
+are you looking to leverage all of those engineers
+losing their jobs to copilot,
+to turn them into security professionals.
+Because that would be phenomenal.
+<v ->I don't know if they will lose the job.</v>
+I still don't believe it because I think we are,
+with a bunch of people, I'm sure in this room,
+where we have seen the dot-com days, right?
+It took 7, 8, 10 years before we realized the power of it
+and then we needed all those skills.
+I think we are with AI like version 0.1 or 0.5,
+whatever you wanna call it.
+We don't even know where it is gonna go.
+So it's gonna take more people
+with a lot of critical thinking skills.
+And I think that's where, back to when Torrell was saying
+that the security by design.
+So we're gonna see, I completely agree with you.
+In my view, even one of the reason
+when I moved out of my big four and building my company,
+I bring, I've got software developers, engineer, consultant,
+and someone who has been in industry,
+all four just attacking one single problem.
+And you will always find much better solution
+when you have the diversity of skillset.
+So I completely agree with you.
+The more diverse skillset we bring,
+we are gonna be much better
+because the hackers do the same thing, right?
+I call it, I do a talk "Thinking Like a Criminal,"
+but I use actually how many,
+I'm sure "Ocean's Eleven" movie.
+I use that as a framework.
+And we have analyzed that framework.
+It did not require one person, it required 11,
+and those 11 had 11 unique skills to make that crime happen.
+And so same way, we need to be thinking on the other side is
+where I need to bring developer engineer.
+And back to your point and what you were saying,
+that will also create very interesting career models
+because then you don't have to remain
+just in a cyber field over time.
+You may go become a CTO.
+You may go become a product lead
+because you understand how things are built from bottom up.
+So I agree with you.
+I think more engineers we can bring in,
+but statistically the numbers are anywhere from like,
+I think what Jen mentioned earlier, like half a million
+to a couple of million people shortage.
+<v ->Yeah.</v>
+<v ->Great point.</v>
+<v Torrell>Yeah, if this does happen,</v>
+I would definitely welcome it.
+<v Jennifer>Yeah.</v>
+<v Crew>No, actually.</v>
+<v Jennifer>Can we take one more question?</v>
+<v ->No.</v>
+<v ->No?</v>
+Okay. Well, thank you all for being here with us
+and I hope you enjoyed the last two days of CES,
+day and a half.

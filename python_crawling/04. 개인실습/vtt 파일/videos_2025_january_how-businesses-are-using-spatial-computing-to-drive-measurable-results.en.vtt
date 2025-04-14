@@ -1,0 +1,3398 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.250 --> 00:02.833
+(upbeat music)
+
+00:11.094 --> 00:13.533
+<v ->Good morning.</v>
+
+00:15.450 --> 00:18.250
+And welcome to this second session
+
+00:19.200 --> 00:22.050
+that my business partner Tim Bajarin and I put together,
+
+00:22.050 --> 00:25.050
+it was meant to kind of go back to back.
+
+00:25.050 --> 00:26.100
+Just out of curiosity,
+
+00:26.100 --> 00:28.020
+how many of you attended the previous session?
+
+00:28.020 --> 00:30.390
+Just raise your hand. Okay, that's great.
+
+00:30.390 --> 00:32.520
+So it was kind of meant to be a back to back.
+
+00:32.520 --> 00:35.170
+So Tim presented the whole technical side
+
+00:36.270 --> 00:39.600
+and then I'm coming in with the business side
+
+00:39.600 --> 00:42.750
+and we link together, as Tim already alluded to
+
+00:42.750 --> 00:47.250
+in our AI and spatial computing resource center.
+
+00:47.250 --> 00:50.040
+And also Tim and I do a podcast together.
+
+00:50.040 --> 00:53.490
+So we kind of like to use this format.
+
+00:53.490 --> 00:56.550
+Okay, here's what we're gonna do for today.
+
+00:56.550 --> 00:59.850
+We have three very distinguished
+
+00:59.850 --> 01:02.220
+industry subject matter experts
+
+01:02.220 --> 01:04.020
+and executives in their own rights.
+
+01:04.020 --> 01:06.210
+I'll be introducing them
+
+01:06.210 --> 01:09.150
+or they'll be introducing themselves momentarily.
+
+01:09.150 --> 01:11.940
+We're going to have them give some indication
+
+01:11.940 --> 01:14.970
+of how they're using spatial computing today
+
+01:14.970 --> 01:18.870
+in their day-to-day businesses and the impact it's having.
+
+01:18.870 --> 01:20.820
+We're gonna then go to a group of questions.
+
+01:20.820 --> 01:23.370
+I've got five pre-made questions,
+
+01:23.370 --> 01:26.340
+but I love a little bit of serendipity and surprise.
+
+01:26.340 --> 01:29.520
+So I'm gonna actually ask the audience for some questions.
+
+01:29.520 --> 01:31.560
+So you do be prepared as you hear us.
+
+01:31.560 --> 01:32.725
+If you feel like,
+
+01:32.725 --> 01:35.250
+you know, I want to ask somebody or them all,
+
+01:35.250 --> 01:36.570
+that's perfectly fine.
+
+01:36.570 --> 01:37.403
+And then I'll close
+
+01:37.403 --> 01:39.840
+with some observations and remarks, okay?
+
+01:39.840 --> 01:41.430
+So with that, and without further ado,
+
+01:41.430 --> 01:43.590
+let me click the first slide.
+
+01:43.590 --> 01:45.240
+And by the way, I hope you're in the right session.
+
+01:45.240 --> 01:48.450
+This is how businesses are using spatial computing
+
+01:48.450 --> 01:50.310
+to drive measurable results.
+
+01:50.310 --> 01:51.570
+If you're in the wrong session,
+
+01:51.570 --> 01:54.900
+this is the appropriate time to exit the stage.
+
+01:54.900 --> 01:57.960
+Okay, so let me start with my immediate left,
+
+01:57.960 --> 02:00.990
+and Peter, would you be kind enough to introduce yourself?
+
+02:00.990 --> 02:03.420
+<v ->Yeah, thank you, Barton, and good morning everyone.</v>
+
+02:03.420 --> 02:05.340
+It's great to have you.
+
+02:05.340 --> 02:06.810
+So my name is Peter Koerte.
+
+02:06.810 --> 02:10.950
+I am the CTO at Siemens German conglomerate
+
+02:10.950 --> 02:12.970
+in terms of tech company
+
+02:12.970 --> 02:16.080
+where we provide all the software and hardware
+
+02:16.080 --> 02:17.100
+in the industrial space.
+
+02:17.100 --> 02:20.070
+And I'm very, very pleased to be here today.
+
+02:20.070 --> 02:22.590
+<v ->Thank you, Peter. And we welcome you.</v>
+
+02:22.590 --> 02:23.890
+Jane, I think you're next.
+
+02:25.110 --> 02:25.943
+<v ->Good morning everyone.</v>
+
+02:25.943 --> 02:27.540
+My name is Jane Nakagawa,
+
+02:27.540 --> 02:32.130
+and I'm the vice president of R&amp;D at American Honda Motors,
+
+02:32.130 --> 02:33.930
+which sounds very technology,
+
+02:33.930 --> 02:36.600
+but it's actually mostly the design center
+
+02:36.600 --> 02:38.550
+about a couple hundred designers
+
+02:38.550 --> 02:42.570
+in addition to some other divisions, but mostly design.
+
+02:42.570 --> 02:43.440
+Thank you.
+
+02:43.440 --> 02:45.030
+<v ->We welcome you, Jane. Harvey?</v>
+
+02:45.030 --> 02:48.030
+<v ->Good morning everybody. My name is Dr. Harvey Castro.</v>
+
+02:48.030 --> 02:50.970
+My friends lovingly call me Dr. GPT.
+
+02:50.970 --> 02:52.020
+Honestly wrote the first book
+
+02:52.020 --> 02:54.720
+on how to use chat GPT in healthcare back in 2022.
+
+02:54.720 --> 02:55.807
+And last year I wrote a book
+
+02:55.807 --> 02:58.530
+on how to use the Apple Vision Pro in healthcare.
+
+02:58.530 --> 03:01.170
+Quick background, I created about 30 companies.
+
+03:01.170 --> 03:02.760
+The largest was a healthcare company
+
+03:02.760 --> 03:04.200
+I grew it to about 400 employees
+
+03:04.200 --> 03:07.320
+and it was emergency rooms, hospitals, urgent cares.
+
+03:07.320 --> 03:10.350
+Fast forward now I'm working consulting companies
+
+03:10.350 --> 03:13.050
+like Singapore, countries like Singapore,
+
+03:13.050 --> 03:15.090
+helping them with AI and healthcare.
+
+03:15.090 --> 03:17.340
+NASA has asked me to help them with Mission Mars
+
+03:17.340 --> 03:19.110
+and so I'm really excited about this space
+
+03:19.110 --> 03:20.820
+and so thanks for coming.
+
+03:20.820 --> 03:22.080
+<v ->Thank you, Harvey.</v>
+
+03:22.080 --> 03:24.810
+Okay, to help the panelists,
+
+03:24.810 --> 03:26.430
+I'm gonna ask a couple of questions.
+
+03:26.430 --> 03:28.020
+Just raise your hand and I'm gonna have to stand up
+
+03:28.020 --> 03:29.670
+'cause these lights are terribly bright,
+
+03:29.670 --> 03:30.900
+but I'm trying to figure out
+
+03:30.900 --> 03:32.550
+who's in the audience to help the the panelists.
+
+03:32.550 --> 03:35.490
+So how many of you are in the business side of the house
+
+03:35.490 --> 03:36.323
+please raise your hand,
+
+03:36.323 --> 03:39.990
+working a business function, represent a business function?
+
+03:39.990 --> 03:44.340
+So I'm gonna guess that's about about 20, 30%
+
+03:44.340 --> 03:46.980
+how many are on the IT side of the house?
+
+03:46.980 --> 03:48.663
+So working in an IT function.
+
+03:50.190 --> 03:52.050
+Kind of a similar number.
+
+03:52.050 --> 03:53.820
+So let's just say a third, a third.
+
+03:53.820 --> 03:55.950
+And for those, just out of curiosity,
+
+03:55.950 --> 04:00.450
+how many of you are on the business to business side?
+
+04:00.450 --> 04:02.223
+So doing business to business.
+
+04:03.210 --> 04:05.190
+That's very interesting. There's a lot more there.
+
+04:05.190 --> 04:08.790
+And on the business to consumer, would you raise your hands?
+
+04:08.790 --> 04:12.300
+Yeah, so we are business to business focused more
+
+04:12.300 --> 04:13.170
+than business to consumer.
+
+04:13.170 --> 04:14.550
+And pretty much evenly split,
+
+04:14.550 --> 04:18.713
+as I saw the hands go up between business and IT, okay?
+
+04:19.680 --> 04:22.170
+So with that in mind, would you start,
+
+04:22.170 --> 04:25.050
+Peter, I'll ask just 'cause it's simpler, you're on my left.
+
+04:25.050 --> 04:26.490
+Why don't you spend about three minutes,
+
+04:26.490 --> 04:30.600
+tell us a little bit about how you and Siemens,
+
+04:30.600 --> 04:33.780
+one of the world's greatest companies, and your clients
+
+04:33.780 --> 04:38.550
+have been able to use spatial computing today
+
+04:38.550 --> 04:41.820
+to drive measurable business results.
+
+04:41.820 --> 04:46.820
+<v ->Yeah. So the spatial computing conversation,</v>
+
+04:47.130 --> 04:50.010
+last year, we had that also the panel
+
+04:50.010 --> 04:50.910
+as you as you remember.
+
+04:50.910 --> 04:53.910
+And at the time we were talking a little bit more about the,
+
+04:53.910 --> 04:55.650
+what we call the industrial metaverse.
+
+04:55.650 --> 04:57.930
+So obviously from a terminology perspective,
+
+04:57.930 --> 05:02.310
+we haven't really moved over to call it spatial compute,
+
+05:02.310 --> 05:04.740
+we are still stuck with that term
+
+05:04.740 --> 05:07.800
+or we are sticking to this term of a industrial metaverse.
+
+05:07.800 --> 05:09.180
+Why?
+
+05:09.180 --> 05:10.920
+The answer is that we believe
+
+05:10.920 --> 05:13.230
+in the combination of hardware, software
+
+05:13.230 --> 05:15.030
+to bring both worlds together,
+
+05:15.030 --> 05:17.820
+digital worlds and the real worlds.
+
+05:17.820 --> 05:19.470
+And the reason being is
+
+05:19.470 --> 05:22.680
+that you can solve problems in the digital world
+
+05:22.680 --> 05:25.440
+a thousand times faster than in the real world.
+
+05:25.440 --> 05:27.180
+Because once you have abstracted them,
+
+05:27.180 --> 05:30.600
+once you have modeled them by the means of digital twins.
+
+05:30.600 --> 05:31.560
+And the data,
+
+05:31.560 --> 05:34.020
+I'm sure probably gonna talk about AI today too,
+
+05:34.020 --> 05:35.540
+you're so much faster.
+
+05:35.540 --> 05:38.370
+And I can give you an example
+
+05:38.370 --> 05:42.840
+where we are using this already today for our own purpose.
+
+05:42.840 --> 05:47.430
+So every factory we are building, it's being built twice,
+
+05:47.430 --> 05:49.980
+it's being built first in the digital world
+
+05:49.980 --> 05:53.130
+and then actually it's being built in the real world.
+
+05:53.130 --> 05:54.450
+It doesn't stop there though.
+
+05:54.450 --> 05:56.080
+So once you have built it, then we connect the two
+
+05:56.080 --> 06:00.810
+and then actually the model that was originally there
+
+06:00.810 --> 06:03.420
+is actually being continuously updated.
+
+06:03.420 --> 06:04.950
+What's the benefit?
+
+06:04.950 --> 06:09.480
+We see that we can actually increase capacity by 200%,
+
+06:09.480 --> 06:13.440
+200% without adding any new floor plans or whatever that is.
+
+06:13.440 --> 06:16.440
+And the reason being that you can optimize,
+
+06:16.440 --> 06:18.690
+you can optimize a thousand times
+
+06:18.690 --> 06:20.880
+and see how the material flow, how it's gonna be,
+
+06:20.880 --> 06:22.740
+how the machinery set up is gonna be,
+
+06:22.740 --> 06:23.970
+how people and brokers
+
+06:23.970 --> 06:27.360
+are gonna gonna rock on that shop floor.
+
+06:27.360 --> 06:29.670
+We increased productivity by 20%,
+
+06:29.670 --> 06:32.490
+we reduced significantly energy usage
+
+06:32.490 --> 06:35.010
+because again, you can all simulate that.
+
+06:35.010 --> 06:38.580
+So we find it incredibly, incredibly helpful.
+
+06:38.580 --> 06:42.180
+And together with NVIDIA for example, we have helped Foxconn
+
+06:42.180 --> 06:45.600
+to move some of their factories also into Mexico.
+
+06:45.600 --> 06:48.420
+Same story, incredible savings.
+
+06:48.420 --> 06:51.780
+So we certainly believe that bringing
+
+06:51.780 --> 06:53.190
+by the means of special compute
+
+06:53.190 --> 06:54.348
+meaning industrial metaverse,
+
+06:54.348 --> 06:57.720
+the reality in the digital world optimizing it,
+
+06:57.720 --> 07:02.190
+it has the major impact of becoming more sustainable
+
+07:02.190 --> 07:03.900
+and more competitive.
+
+07:03.900 --> 07:04.733
+<v ->Thank you, Peter.</v>
+
+07:04.733 --> 07:07.770
+And I just wanna make sure everybody heard clearly.
+
+07:07.770 --> 07:10.110
+So Peter, this is not something you're gonna do tomorrow,
+
+07:10.110 --> 07:12.330
+this is something you're doing today, is that correct?
+
+07:12.330 --> 07:13.530
+<v ->That's correct.</v>
+
+07:13.530 --> 07:16.980
+<v ->And Peter actually last year, when he spoke for us</v>
+
+07:16.980 --> 07:20.700
+and he actually showed a video of how the two factories,
+
+07:20.700 --> 07:23.370
+the digital factory and the real factory,
+
+07:23.370 --> 07:25.320
+how the real factory moves into the digital
+
+07:25.320 --> 07:26.820
+and then how you optimize the digital.
+
+07:26.820 --> 07:28.920
+So it's a very, very fascinating process.
+
+07:28.920 --> 07:31.290
+I should have mentioned spatial computing.
+
+07:31.290 --> 07:34.200
+Today we look at that, at least for this panel purposes,
+
+07:34.200 --> 07:37.200
+augmented reality, virtual reality, extended reality,
+
+07:37.200 --> 07:38.070
+and mixed reality.
+
+07:38.070 --> 07:39.960
+Okay, it's kind of an umbrella term
+
+07:39.960 --> 07:42.930
+the industry seems to be moving towards, but quite knows.
+
+07:42.930 --> 07:44.850
+Okay, Jane, would you be kind enough
+
+07:44.850 --> 07:46.200
+to spend a couple of minutes
+
+07:46.200 --> 07:48.780
+and tell us a little bit about how you are,
+
+07:48.780 --> 07:51.720
+you and or your clients are using space computing today
+
+07:51.720 --> 07:54.180
+to drive measurable business results?
+
+07:54.180 --> 07:57.570
+<v ->Yeah, so our work is, it starts today,</v>
+
+07:57.570 --> 07:59.250
+but the output we don't really see
+
+07:59.250 --> 08:01.107
+until about five years from now.
+
+08:01.107 --> 08:05.520
+And we're trying to shorten that development timing.
+
+08:05.520 --> 08:07.770
+We use it today because of,
+
+08:07.770 --> 08:10.980
+maybe some of the same reasons for speed and efficiency,
+
+08:10.980 --> 08:15.980
+but also for us it's expanding the creative possibilities.
+
+08:15.990 --> 08:20.990
+So we believe that the digital tools that we have,
+
+08:21.150 --> 08:24.510
+it's almost like having hundreds of extra,
+
+08:24.510 --> 08:28.080
+you know, creative staff, and, you know, at your service.
+
+08:28.080 --> 08:31.080
+And we are able to
+
+08:31.080 --> 08:34.410
+really expand the way we think the future might be
+
+08:34.410 --> 08:37.290
+for the way we provide value in automobiles
+
+08:37.290 --> 08:39.570
+and other transportation devices.
+
+08:39.570 --> 08:42.750
+And we can do so without as much risk
+
+08:42.750 --> 08:45.420
+in making mistakes so much
+
+08:45.420 --> 08:48.750
+because there's so much at stake when we launch a car.
+
+08:48.750 --> 08:53.550
+And so, I think for us it's really this amazing tool
+
+08:53.550 --> 08:55.840
+to be able to create better
+
+08:56.970 --> 08:58.920
+while being able to sort of not worry
+
+08:58.920 --> 09:01.830
+about making mistakes right away.
+
+09:01.830 --> 09:02.850
+So we use the tools,
+
+09:02.850 --> 09:06.300
+but really it's all about creating value for Honda.
+
+09:06.300 --> 09:10.620
+So Honda I see as in kind of three trimesters.
+
+09:10.620 --> 09:14.485
+The first founding of Honda had two semesters.
+
+09:14.485 --> 09:17.940
+The first one was when we invented the motor,
+
+09:17.940 --> 09:20.040
+you know, so the Honda Motor Company,
+
+09:20.040 --> 09:22.110
+Mr. Honda stuck a motor onto a bicycle
+
+09:22.110 --> 09:24.150
+and thus began the two wheeled business,
+
+09:24.150 --> 09:27.000
+which eventually turned into the four wheel business,
+
+09:27.000 --> 09:30.000
+which was the, you know, the kind of the second trimester.
+
+09:30.000 --> 09:35.000
+And it was an area where we did a lot of package magic.
+
+09:35.040 --> 09:38.370
+So this idea that the car was much bigger on the inside
+
+09:38.370 --> 09:41.940
+than we believed it would be from the outside.
+
+09:41.940 --> 09:46.440
+So machine minimum and human maximum.
+
+09:46.440 --> 09:49.950
+And then we just kind of kicked off a few years ago,
+
+09:49.950 --> 09:51.180
+the second founding of Honda,
+
+09:51.180 --> 09:54.510
+and it's all gonna be about immersive experiences.
+
+09:54.510 --> 09:56.400
+So that's kind of how we see it.
+
+09:56.400 --> 09:58.410
+So everything we're doing right now
+
+09:58.410 --> 10:02.760
+is to create value through digital immersive experiences
+
+10:02.760 --> 10:07.170
+and it's an incredible time to be in automotive it,
+
+10:07.170 --> 10:12.170
+in the creative area, it's turning the work inside out,
+
+10:13.020 --> 10:13.853
+literally.
+
+10:13.853 --> 10:18.360
+So, you know, if there were auto OEMs present here today,
+
+10:18.360 --> 10:21.750
+most of them, if not all, would be exterior designers,
+
+10:21.750 --> 10:23.880
+even at Honda that's also the case.
+
+10:23.880 --> 10:26.370
+But I think in the very new near future
+
+10:26.370 --> 10:27.930
+it will be interior designers.
+
+10:27.930 --> 10:31.590
+So we're starting the work of car design
+
+10:31.590 --> 10:33.660
+from digital experiences
+
+10:33.660 --> 10:35.550
+and what is the value we're bringing
+
+10:35.550 --> 10:37.260
+from an immersive experience,
+
+10:37.260 --> 10:39.450
+then we go into interior design,
+
+10:39.450 --> 10:41.580
+then we do color and materials,
+
+10:41.580 --> 10:44.130
+and then finally we'll do package.
+
+10:44.130 --> 10:46.110
+And then the exterior design
+
+10:46.110 --> 10:49.350
+is really just the wrapping and the bow on the package.
+
+10:49.350 --> 10:51.150
+So it's gonna be inside out
+
+10:51.150 --> 10:53.040
+and we're already starting to design that way,
+
+10:53.040 --> 10:56.100
+and that's all because of this technology, so.
+
+10:56.100 --> 10:58.680
+<v ->Is, just out of curiosity, is Mr. Honda still alive?</v>
+
+10:58.680 --> 10:59.786
+<v ->No, he's not-</v>
+
+10:59.786 --> 11:01.470
+<v ->Because I think he would roll in his grave right now</v>
+
+11:01.470 --> 11:03.877
+if he saw what's happening to his two wheel company.
+
+11:03.877 --> 11:05.617
+<v ->I think. I think, well,</v>
+
+11:05.617 --> 11:07.440
+I think I know what you're talking about,
+
+11:07.440 --> 11:10.170
+but yeah, we don't want to talk about that right now.
+
+11:10.170 --> 11:12.090
+<v ->Harvey, why don't you share with us,</v>
+
+11:12.090 --> 11:14.130
+and obviously you bring a very different perspective
+
+11:14.130 --> 11:15.570
+from the medical side.
+
+11:15.570 --> 11:17.610
+Tell us a little bit about how you and/or your clients
+
+11:17.610 --> 11:19.530
+are using spatial computing today
+
+11:19.530 --> 11:21.570
+to drive measurable business results.
+
+11:21.570 --> 11:24.780
+<v ->Yeah. So my favorite phrase when I was a med student</v>
+
+11:24.780 --> 11:28.440
+was see one, do one, teach one.
+
+11:28.440 --> 11:29.940
+And basically it was,
+
+11:29.940 --> 11:32.250
+hey Harvey, come over here, we need to intubate this person.
+
+11:32.250 --> 11:33.990
+And I'm like, oh, I read about it.
+
+11:33.990 --> 11:35.490
+And they're like, no, no, no, here I'm gonna show you
+
+11:35.490 --> 11:36.323
+and I'd do it.
+
+11:36.323 --> 11:37.320
+And they're like, okay, now go to room three
+
+11:37.320 --> 11:38.460
+and we gotta intubate this person.
+
+11:38.460 --> 11:41.790
+And I'm like, I just saw it and then I would do it.
+
+11:41.790 --> 11:42.623
+And then they're like,
+
+11:42.623 --> 11:44.730
+okay, now you need to teach Jane how to do it.
+
+11:44.730 --> 11:46.620
+And I'm like, wow, that's a lot of stress,
+
+11:46.620 --> 11:47.453
+a lot of pressure.
+
+11:47.453 --> 11:49.410
+But now spatial computing,
+
+11:49.410 --> 11:52.200
+I could do it a hundred times before I even touch a patient.
+
+11:52.200 --> 11:53.550
+Amazing.
+
+11:53.550 --> 11:56.610
+Second, I'm really big on empathy, I think,
+
+11:56.610 --> 11:59.730
+and I'm curious of show of hands on healthcare,
+
+11:59.730 --> 12:00.930
+do you think empathy's really high?
+
+12:00.930 --> 12:02.130
+Do you think your healthcare provider's
+
+12:02.130 --> 12:04.320
+like yeah, he's right on there.
+
+12:04.320 --> 12:05.370
+I think some doctors
+
+12:05.370 --> 12:07.800
+and healthcare professionals sometimes miss the boat.
+
+12:07.800 --> 12:10.680
+And I think spatial computing can help in so many ways.
+
+12:10.680 --> 12:12.690
+Now, the spatial computing, I'm putting it on
+
+12:12.690 --> 12:14.790
+and it's analyzing how am I speaking?
+
+12:14.790 --> 12:17.490
+How am I talking, what's my tone? What's my voice?
+
+12:17.490 --> 12:20.430
+Or am I just like looking at my phone? Am I standing?
+
+12:20.430 --> 12:23.700
+That brings that to it, to that second patient effect.
+
+12:23.700 --> 12:26.970
+The third, as this technology continues,
+
+12:26.970 --> 12:29.280
+I see it as a segue to train robots
+
+12:29.280 --> 12:31.020
+to put that into the next level.
+
+12:31.020 --> 12:33.360
+So I really think that's how we're gonna be using this
+
+12:33.360 --> 12:34.650
+in the healthcare field.
+
+12:34.650 --> 12:36.603
+And there's a zillion other examples.
+
+12:37.440 --> 12:40.710
+<v ->Yeah, we've gotten to know Harvey, he's on our podcast</v>
+
+12:40.710 --> 12:42.810
+and just as a friend.
+
+12:42.810 --> 12:45.420
+He's a very interesting individual and is committed
+
+12:45.420 --> 12:48.210
+to these technologies both in the operating room,
+
+12:48.210 --> 12:49.800
+in the emergency room.
+
+12:49.800 --> 12:50.910
+And it's just very fascinating.
+
+12:50.910 --> 12:52.110
+He's written extensively about it.
+
+12:52.110 --> 12:53.850
+We are gonna get into a couple of health questions
+
+12:53.850 --> 12:55.080
+during today's session,
+
+12:55.080 --> 12:56.880
+but we're delighted to have you on the panel,
+
+12:56.880 --> 12:58.230
+so thank you.
+<v ->Thank you.</v>
+
+12:58.230 --> 13:01.920
+Okay, let's start asking a few questions.
+
+13:01.920 --> 13:04.560
+So one of the things that I've always found fascinating
+
+13:04.560 --> 13:06.570
+is I, and I should have introduced myself,
+
+13:06.570 --> 13:08.010
+I'm Barton Goldenberg,
+
+13:08.010 --> 13:11.760
+I'm 40 years in applying leading edge technologies
+
+13:11.760 --> 13:13.050
+to global corporations
+
+13:13.050 --> 13:16.080
+in the area of sales and marketing and customer service.
+
+13:16.080 --> 13:19.170
+And I cut my teeth as a CRM guy, wrote three books,
+
+13:19.170 --> 13:20.910
+and managed many conferences,
+
+13:20.910 --> 13:23.970
+moved into digital technologies
+
+13:23.970 --> 13:26.730
+in the form of digital communities.
+
+13:26.730 --> 13:29.970
+Then I moved into Metaverse with my colleague Tim Bajarin.
+
+13:29.970 --> 13:33.030
+And ultimately we're also working with AI.
+
+13:33.030 --> 13:35.280
+During that period in time we have,
+
+13:35.280 --> 13:36.360
+I think it's very important,
+
+13:36.360 --> 13:39.780
+we've looked at literally hundreds of use cases
+
+13:39.780 --> 13:44.780
+for XR, VR, AR whatever you wanna put in there, MR as well.
+
+13:45.540 --> 13:47.520
+And that's what's in the resource center.
+
+13:47.520 --> 13:50.550
+And that helped Tim and I learn about, is this stuff real?
+
+13:50.550 --> 13:53.460
+Is it gonna happen now? Is it soon?
+
+13:53.460 --> 13:54.713
+There's a case study from Siemens,
+
+13:54.713 --> 13:56.670
+there's a case study, I think even,
+
+13:56.670 --> 13:58.710
+well not from Honda but from Mercedes
+
+13:58.710 --> 14:00.360
+and a couple of other car companies.
+
+14:00.360 --> 14:03.300
+And what Tim and I learned was, it's amazing
+
+14:03.300 --> 14:07.290
+what is being done right now using these technologies
+
+14:07.290 --> 14:08.580
+for success.
+
+14:08.580 --> 14:12.030
+And how many people were still clouded in their minds,
+
+14:12.030 --> 14:13.260
+is this something I do now?
+
+14:13.260 --> 14:14.760
+Do I put the stakes in the ground?
+
+14:14.760 --> 14:17.190
+Do I wait a couple years until it matures?
+
+14:17.190 --> 14:18.480
+Is the technology there?
+
+14:18.480 --> 14:20.100
+How are we gonna deal with the people side?
+
+14:20.100 --> 14:23.280
+There were lots of questions that everybody was asking.
+
+14:23.280 --> 14:25.080
+So let me ask this question to the panelists,
+
+14:25.080 --> 14:27.870
+and Harvey, I'll start on all the way down your side.
+
+14:27.870 --> 14:29.970
+So what would you say
+
+14:29.970 --> 14:32.130
+would be the top three reasons
+
+14:32.130 --> 14:35.730
+why companies should invest in spatial computing today
+
+14:35.730 --> 14:38.115
+versus wait till tomorrow?
+
+14:38.115 --> 14:38.948
+<v ->Yeah.</v>
+
+14:38.948 --> 14:42.060
+You know, I'm gonna speak as an emergency room doctor
+
+14:42.060 --> 14:45.510
+when seconds count, when I need that information now,
+
+14:45.510 --> 14:47.820
+not in five minutes, not in 10 minutes.
+
+14:47.820 --> 14:51.600
+Think about a surgeon wearing the VR glasses
+
+14:51.600 --> 14:53.250
+and being able to do surgery
+
+14:53.250 --> 14:54.540
+and not have to pull up an x-ray
+
+14:54.540 --> 14:57.000
+and then put his attention span at different places.
+
+14:57.000 --> 14:59.670
+He could be in the visual field of doing surgery
+
+14:59.670 --> 15:01.110
+and get that data.
+
+15:01.110 --> 15:04.440
+As an ER doctor to my example of when seconds count,
+
+15:04.440 --> 15:08.370
+I truly think when I have the lab results showing up,
+
+15:08.370 --> 15:10.560
+if I have a patient that's had an overdose,
+
+15:10.560 --> 15:12.840
+I need to know which one it was and I'm treating,
+
+15:12.840 --> 15:15.360
+but once I know, then I know how to channel it.
+
+15:15.360 --> 15:18.210
+So that's one way the efficiency in the workflow.
+
+15:18.210 --> 15:20.010
+Second, going back to my first point,
+
+15:20.010 --> 15:22.890
+I really think this is huge in training.
+
+15:22.890 --> 15:24.743
+I truly think these devices are gonna,
+
+15:24.743 --> 15:26.370
+instead of having a workforce
+
+15:26.370 --> 15:27.990
+of taking medical students four years,
+
+15:27.990 --> 15:29.580
+I think in the future we'll be able to push it
+
+15:29.580 --> 15:30.780
+to maybe three.
+
+15:30.780 --> 15:31.980
+Because I'm learning quicker,
+
+15:31.980 --> 15:34.320
+I'm seeing pattern recognition, I'm able to see,
+
+15:34.320 --> 15:37.470
+so from an efficiency point, the hospital systems,
+
+15:37.470 --> 15:41.910
+I think now is the time in medical training and the empathy.
+
+15:41.910 --> 15:45.480
+And then the last for me, when I look at this technology,
+
+15:45.480 --> 15:47.790
+I just see it as such a game changer.
+
+15:47.790 --> 15:50.430
+I see it as something that will help us today.
+
+15:50.430 --> 15:53.400
+And so being able to link this VR to AI
+
+15:53.400 --> 15:54.750
+and we'll talk about that later,
+
+15:54.750 --> 15:55.980
+that gives us another entity.
+
+15:55.980 --> 15:57.090
+And that's why I would be nice
+
+15:57.090 --> 15:58.860
+to start that infrastructure today
+
+15:58.860 --> 16:00.660
+so that when these newer technologies come,
+
+16:00.660 --> 16:02.460
+you already have that.
+
+16:02.460 --> 16:05.130
+<v ->Yeah, you know, we did a, I think it was a podcast</v>
+
+16:05.130 --> 16:07.500
+or I think it was a podcast with Mayo Clinic
+
+16:07.500 --> 16:11.940
+and I don't think they let anybody join Mayo Clinic today,
+
+16:11.940 --> 16:12.773
+any physician,
+
+16:12.773 --> 16:17.550
+unless they go through a very comprehensive virtual reality
+
+16:17.550 --> 16:19.320
+and augmented reality program
+
+16:19.320 --> 16:21.780
+where they learn all of the equipment at Mayo Clinic
+
+16:21.780 --> 16:23.910
+and how to work the labs and so forth.
+
+16:23.910 --> 16:25.260
+'Cause as Harvey has already alluded to,
+
+16:25.260 --> 16:26.520
+it's brought down tremendously
+
+16:26.520 --> 16:28.560
+the amount of time it takes to bring them in,
+
+16:28.560 --> 16:30.780
+but they're also better at what they do when they do it.
+
+16:30.780 --> 16:32.460
+so it's really quite interesting.
+
+16:32.460 --> 16:33.870
+Jane, in your opinion,
+
+16:33.870 --> 16:35.880
+three reasons why companies should invest
+
+16:35.880 --> 16:37.713
+in spatial computing today?
+
+16:39.120 --> 16:41.670
+<v ->I think that there's a couple of reasons</v>
+
+16:41.670 --> 16:45.330
+that are very different from each other.
+
+16:45.330 --> 16:48.840
+The first one is, for us, it's really important
+
+16:48.840 --> 16:53.790
+to be able to figure out what the customers are gonna want
+
+16:53.790 --> 16:56.100
+in the near future and in the far future.
+
+16:56.100 --> 17:00.360
+And that is harder and harder to do these days.
+
+17:00.360 --> 17:03.210
+You know, back when I first started in auto 30 years ago,
+
+17:03.210 --> 17:04.050
+it was a little bit easier.
+
+17:04.050 --> 17:07.140
+The pace of change wasn't as rapid
+
+17:07.140 --> 17:12.090
+and the type of change was a little bit more predictable.
+
+17:12.090 --> 17:13.290
+Well, I didn't think so at the time,
+
+17:13.290 --> 17:16.500
+but now looking back, it was definitely the case.
+
+17:16.500 --> 17:19.290
+So I think what spatial commuting
+
+17:19.290 --> 17:22.260
+and metaverse and playing around in that area
+
+17:22.260 --> 17:27.260
+helps us to envision the future in a really realistic way,
+
+17:27.930 --> 17:29.610
+even though none of it has happened yet.
+
+17:29.610 --> 17:33.240
+And I think that helps us with our storytelling
+
+17:33.240 --> 17:36.360
+and putting the context around the product concepts
+
+17:36.360 --> 17:37.560
+that we're launching.
+
+17:37.560 --> 17:40.380
+So that's more about the creative process.
+
+17:40.380 --> 17:43.560
+And then the other one is really about efficiency.
+
+17:43.560 --> 17:48.560
+So, in terms of process, so, you know, designing a car
+
+17:48.900 --> 17:52.020
+is a very labor intensive activity,
+
+17:52.020 --> 17:54.330
+usually you have a design person
+
+17:54.330 --> 17:57.300
+who's really good at illustration and concept making,
+
+17:57.300 --> 18:00.390
+but it's usually in 2D, then you bring it to someone
+
+18:00.390 --> 18:02.697
+who can create a 3D model of it,
+
+18:02.697 --> 18:04.980
+and then it goes to a clay modeler
+
+18:04.980 --> 18:06.960
+and they literally make a lump of clay
+
+18:06.960 --> 18:08.370
+that looks like a car.
+
+18:08.370 --> 18:11.220
+And then, you know, once that's measured and approved,
+
+18:11.220 --> 18:15.570
+then you have to send that data to the development people,
+
+18:15.570 --> 18:17.340
+then they tweak it, make final,
+
+18:17.340 --> 18:18.480
+and then it goes to the factory
+
+18:18.480 --> 18:19.800
+and that's the car that's made.
+
+18:19.800 --> 18:24.000
+And I think all of the tools that are available now
+
+18:24.000 --> 18:26.280
+is going to shorten that period.
+
+18:26.280 --> 18:28.680
+So right now, we're using it a lot more
+
+18:28.680 --> 18:30.990
+at the front end of the design process
+
+18:30.990 --> 18:34.500
+because at the the farther end it's a little bit harder.
+
+18:34.500 --> 18:38.250
+Even at the final design decision making,
+
+18:38.250 --> 18:41.280
+it's still not good enough compared to reality.
+
+18:41.280 --> 18:43.140
+So right now we're doing the awful thing
+
+18:43.140 --> 18:45.570
+of having both the clay and the digital model,
+
+18:45.570 --> 18:46.863
+you know, side by side.
+
+18:47.790 --> 18:49.890
+It's also a human problem.
+
+18:49.890 --> 18:52.740
+A lot of our top executives
+
+18:52.740 --> 18:55.770
+are not as familiar with these tools,
+
+18:55.770 --> 18:57.840
+so they're not as accepting
+
+18:57.840 --> 19:00.390
+and, you know, they don't wanna wear the big goggles
+
+19:00.390 --> 19:03.030
+and I complain it ruins my makeup and things like that.
+
+19:03.030 --> 19:08.030
+So, I think, you know, people who are in the evaluation area
+
+19:10.680 --> 19:13.470
+also need to evolve and accept these tools.
+
+19:13.470 --> 19:16.036
+<v ->And this is a real transition in the automotive industry.</v>
+
+19:16.036 --> 19:16.869
+<v ->Yes.</v>
+<v ->And-</v>
+
+19:16.869 --> 19:17.702
+<v ->It's huge.</v>
+
+19:17.702 --> 19:19.710
+<v ->It's amazing what companies are doing</v>
+
+19:19.710 --> 19:21.090
+and how quickly it's evolving
+
+19:21.090 --> 19:23.100
+and how new companies are coming in
+
+19:23.100 --> 19:25.260
+and the, it's just, it's a whole new bogging.
+
+19:25.260 --> 19:27.030
+<v ->Yeah. And it's really exciting.</v>
+
+19:27.030 --> 19:27.863
+<v ->Yeah.</v>
+<v ->Yeah.</v>
+
+19:27.863 --> 19:28.860
+<v ->I can imagine.</v>
+<v ->Yeah.</v>
+
+19:28.860 --> 19:30.960
+<v ->Peter, share with us top three reasons</v>
+
+19:30.960 --> 19:32.370
+why you feel companies should invest
+
+19:32.370 --> 19:33.900
+in spatial computing today.
+
+19:33.900 --> 19:38.130
+<v ->Well, first off, these are great examples by the way.</v>
+
+19:38.130 --> 19:41.010
+It has to prove its value.
+
+19:41.010 --> 19:43.332
+I mean obviously it's an investment, so it's an ROI
+
+19:43.332 --> 19:45.180
+and what I mentioned earlier,
+
+19:45.180 --> 19:47.340
+building a digital twin, make it immersive,
+
+19:47.340 --> 19:48.840
+getting perhaps, you know,
+
+19:48.840 --> 19:51.360
+in an immersive engineering jointly do it.
+
+19:51.360 --> 19:54.750
+If you can cut down time and if you improve the quality
+
+19:54.750 --> 19:56.940
+and if you can work more concurrently,
+
+19:56.940 --> 19:57.990
+that's the major benefits.
+
+19:57.990 --> 20:02.990
+So the results there and the savings are demonstrated.
+
+20:03.090 --> 20:06.150
+So therefore I think there's a very good case to be had.
+
+20:06.150 --> 20:09.453
+The second reason though, also where Jane was going is,
+
+20:10.410 --> 20:13.800
+it's technology, but in the end it's the humans,
+
+20:13.800 --> 20:16.020
+it's the people that have to use it.
+
+20:16.020 --> 20:17.640
+And what we find is
+
+20:17.640 --> 20:20.250
+it's not just only how do you use the devices,
+
+20:20.250 --> 20:22.020
+but very often
+
+20:22.020 --> 20:25.140
+you bring different departments together, right?
+
+20:25.140 --> 20:30.140
+So in R&amp;D, in engineering, in supply chain, in service,
+
+20:30.840 --> 20:35.100
+they have to work collaboratively, come together
+
+20:35.100 --> 20:37.080
+and actually are in this virtual world
+
+20:37.080 --> 20:39.180
+to solve that very problem.
+
+20:39.180 --> 20:41.550
+But I can tell you from our own organization,
+
+20:41.550 --> 20:43.740
+but all the companies that we're working with is,
+
+20:43.740 --> 20:46.530
+usually, this is the hardest part to crack.
+
+20:46.530 --> 20:49.080
+How do you bring all the different disparate parts
+
+20:49.080 --> 20:52.440
+of an organization together so that they jointly do that?
+
+20:52.440 --> 20:55.230
+So therefore, I think you have to start now
+
+20:55.230 --> 20:57.210
+because here's the third one.
+
+20:57.210 --> 20:59.940
+This is just the beginning of what we're gonna see.
+
+20:59.940 --> 21:01.920
+We are gonna see more and more work happening
+
+21:01.920 --> 21:05.730
+in that digital world immersive or 2D,
+
+21:05.730 --> 21:08.250
+but it's really happening.
+
+21:08.250 --> 21:11.220
+And so I firmly believe if you don't start now
+
+21:11.220 --> 21:13.350
+in exploring what are the use cases,
+
+21:13.350 --> 21:16.260
+getting the people in there, getting them together,
+
+21:16.260 --> 21:18.360
+used to that kind of environment,
+
+21:18.360 --> 21:20.940
+you're gonna fall behind in the future.
+
+21:20.940 --> 21:22.500
+<v ->Yeah, it's very, very insightful.</v>
+
+21:22.500 --> 21:26.340
+When I first met Peter, he was the chief technical officer
+
+21:26.340 --> 21:27.173
+and I think he was also
+
+21:27.173 --> 21:29.700
+the chief strategy officer for Siemens.
+
+21:29.700 --> 21:30.780
+And for those that are not familiar,
+
+21:30.780 --> 21:32.820
+this is one of the world's greatest companies
+
+21:32.820 --> 21:34.710
+dating back a hundred and some odd years,
+
+21:34.710 --> 21:35.910
+even more than that now.
+
+21:36.780 --> 21:40.170
+But what is very interesting is Peter was recently appointed
+
+21:40.170 --> 21:41.850
+a member of the managing board,
+
+21:41.850 --> 21:43.920
+and that's just recently in the last few months.
+
+21:43.920 --> 21:45.090
+And I thought that was a,
+
+21:45.090 --> 21:47.880
+first of all, an indication of how wonderful Peter is
+
+21:47.880 --> 21:51.780
+as a evangelist of all of these technologies within Siemens,
+
+21:51.780 --> 21:54.540
+which can be a very conservative and serious company,
+
+21:54.540 --> 21:55.680
+but equally important,
+
+21:55.680 --> 21:58.830
+how willing the board was to bring in this thinking
+
+21:58.830 --> 22:01.710
+so that it could become pervasive within the organization.
+
+22:01.710 --> 22:04.950
+So I thought that was a real signal about both you and them.
+
+22:04.950 --> 22:06.497
+<v ->Well, thank you. Thank you, Barton.</v>
+
+22:06.497 --> 22:07.740
+<v ->You're welcome.</v>
+
+22:07.740 --> 22:11.190
+Okay, somebody mentioned the magic word AI,
+
+22:11.190 --> 22:14.610
+and I think it was very funny in the last session Tim said,
+
+22:14.610 --> 22:18.690
+I think this is probably an emerging trend.
+
+22:18.690 --> 22:20.970
+I think we're way beyond an emerging trend,
+
+22:20.970 --> 22:24.300
+this is an obsession trend, but it's also fantastic.
+
+22:24.300 --> 22:27.390
+So now that AI's become a dominant force,
+
+22:27.390 --> 22:29.730
+both at this event, but Harvey and what you do
+
+22:29.730 --> 22:31.980
+and Jane and Peter and all of what you're doing,
+
+22:31.980 --> 22:34.320
+Would you be kind enough to share with us
+
+22:34.320 --> 22:37.800
+as you continue your work in digital twin whether it be
+
+22:37.800 --> 22:40.320
+or design or whether it be medical applications
+
+22:40.320 --> 22:43.350
+using VR and AR tool sets,
+
+22:43.350 --> 22:46.500
+how will you maximize AR technologies
+
+22:46.500 --> 22:48.660
+in these spatial computing efforts?
+
+22:48.660 --> 22:51.030
+And for that, Jane, I'll start right in the middle.
+
+22:51.030 --> 22:56.030
+<v ->Okay. I think for us, a good way to explain it</v>
+
+22:56.660 --> 23:00.450
+is the difference between Google and Chat GPT.
+
+23:00.450 --> 23:02.940
+And the way we talk about it at Honda
+
+23:02.940 --> 23:05.250
+is Google is kind of like what you use
+
+23:05.250 --> 23:07.950
+when you're looking for an answer to something.
+
+23:07.950 --> 23:11.250
+So all the arrows are, you know, the questions are pointing
+
+23:11.250 --> 23:12.600
+into the dot in the middle,
+
+23:12.600 --> 23:15.180
+which is the question you're trying to ask.
+
+23:15.180 --> 23:19.650
+I think Chat GPT is more about going out,
+
+23:19.650 --> 23:21.360
+so all the arrows are pointing out.
+
+23:21.360 --> 23:24.330
+So it's expanding the possibilities.
+
+23:24.330 --> 23:29.220
+And I think that's why we in creative love AI
+
+23:29.220 --> 23:34.110
+because it's really prompting us to ask questions
+
+23:34.110 --> 23:36.180
+that we didn't even know we should be asking.
+
+23:36.180 --> 23:37.380
+So it's asking us questions
+
+23:37.380 --> 23:39.480
+about what questions we should ask, you know?
+
+23:39.480 --> 23:43.830
+And it really does help kind of trigger a part of the mind
+
+23:43.830 --> 23:48.150
+that was of dormant or wasn't active.
+
+23:48.150 --> 23:50.580
+And it's all happening within us,
+
+23:50.580 --> 23:54.630
+but this tool is helping us to think about possibilities
+
+23:54.630 --> 23:56.580
+in ways that we hadn't thought about
+
+23:56.580 --> 23:58.890
+because automotive is kind of old,
+
+23:58.890 --> 24:00.780
+you know, and we've been doing things a certain way
+
+24:00.780 --> 24:02.190
+for a long time
+
+24:02.190 --> 24:04.290
+and now everything is turning inside out.
+
+24:04.290 --> 24:06.030
+And so, we really have to make sure
+
+24:06.030 --> 24:07.800
+that we're using the right tools
+
+24:07.800 --> 24:11.040
+and asking the right questions to make sure that we're
+
+24:11.040 --> 24:13.447
+looking into the right kind of possibilities.
+
+24:13.447 --> 24:14.850
+<v ->Great.</v>
+<v ->If that makes sense.</v>
+
+24:14.850 --> 24:16.587
+<v ->Yeah, it does makes a lot of sense. Thank you.</v>
+
+24:16.587 --> 24:20.100
+Harvey, how are you leveraging AI
+
+24:20.100 --> 24:22.470
+in some of your spatial computing efforts
+
+24:22.470 --> 24:23.550
+in the medical field?
+
+24:23.550 --> 24:27.180
+<v ->Yeah, I'm really stoked about education.</v>
+
+24:27.180 --> 24:29.850
+So I've been going to the medical schools, PA schools
+
+24:29.850 --> 24:32.383
+and analyzing how well they're doing.
+
+24:32.383 --> 24:35.520
+They call it OSCE exams, just the physical exam,
+
+24:35.520 --> 24:39.030
+but the beauty of medicine, it's the art of medicine.
+
+24:39.030 --> 24:41.280
+So that's where we're taking AI,
+
+24:41.280 --> 24:42.780
+combining it with the human,
+
+24:42.780 --> 24:45.210
+I have 20 years experience, putting it together.
+
+24:45.210 --> 24:48.000
+And so then I could take a video of that student
+
+24:48.000 --> 24:49.230
+recording the patient,
+
+24:49.230 --> 24:50.790
+how they're interacting, how they're speaking.
+
+24:50.790 --> 24:52.410
+Then I can throw that in AI
+
+24:52.410 --> 24:54.180
+and I can give him a five page report on,
+
+24:54.180 --> 24:56.670
+look, you held a stethoscope wrong,
+
+24:56.670 --> 24:58.320
+you talked to the patient wrong.
+
+24:58.320 --> 25:01.200
+And honestly, the medical students sometimes
+
+25:01.200 --> 25:03.600
+like the bot to tell them versus me telling them
+
+25:03.600 --> 25:06.960
+because it's not as horrible to them.
+
+25:06.960 --> 25:09.030
+The other thing that I'm really stoked about
+
+25:09.030 --> 25:10.110
+is mental health
+
+25:10.110 --> 25:12.990
+because some patients would rather talk to a bot.
+
+25:12.990 --> 25:16.950
+They'd rather get into a therapy, put on the,
+
+25:16.950 --> 25:19.380
+you know, AR or VR headset
+
+25:19.380 --> 25:21.240
+and put them into that special place.
+
+25:21.240 --> 25:22.770
+Like, I'm going out to the beach,
+
+25:22.770 --> 25:24.360
+this is gonna lower my blood pressure.
+
+25:24.360 --> 25:26.370
+And then they have a bot that's talking to them,
+
+25:26.370 --> 25:28.680
+it's like a counseling session.
+
+25:28.680 --> 25:30.780
+And they would not do that with their personal doctor,
+
+25:30.780 --> 25:31.620
+some people.
+
+25:31.620 --> 25:33.300
+And so just seeing these things I'm like,
+
+25:33.300 --> 25:36.480
+wow, this is next level for healthcare.
+
+25:36.480 --> 25:38.463
+<v ->Yeah, we'll come back to this.</v>
+
+25:39.360 --> 25:40.680
+Peter, can you give us your feeling
+
+25:40.680 --> 25:43.020
+for how Siemens is applying
+
+25:43.020 --> 25:45.690
+some of the AI tools and techniques today
+
+25:45.690 --> 25:47.820
+to your spatial computing efforts?
+
+25:47.820 --> 25:52.200
+<v ->Yeah, the AI and specifically gen AI</v>
+
+25:52.200 --> 25:54.060
+has been really a game changer.
+
+25:54.060 --> 25:57.907
+And the thing is that in industry we have,
+
+25:57.907 --> 26:01.080
+we have such an amount of data that's today not being used.
+
+26:01.080 --> 26:02.730
+80% of the data is not being used.
+
+26:02.730 --> 26:06.090
+And turns out there's 17 billion, twice as many people,
+
+26:06.090 --> 26:07.890
+smart devices out there sending data
+
+26:07.890 --> 26:09.540
+and you have to aggregate them
+
+26:09.540 --> 26:11.070
+and then you have to bring them all together
+
+26:11.070 --> 26:14.040
+in your digital twin in an immersive environment, right?
+
+26:14.040 --> 26:16.740
+And we've been struggling in collecting all this data
+
+26:16.740 --> 26:19.260
+then, of course, making it contextual
+
+26:19.260 --> 26:20.877
+so that all fits together.
+
+26:20.877 --> 26:22.860
+And AI is wonderful,
+
+26:22.860 --> 26:24.885
+because AI is the best translator
+
+26:24.885 --> 26:26.010
+that you can think of, right?
+
+26:26.010 --> 26:27.660
+So therefore we take it
+
+26:27.660 --> 26:29.220
+to solve one of the biggest challenge
+
+26:29.220 --> 26:32.520
+that we have in industry, which is called interoperability.
+
+26:32.520 --> 26:34.620
+And with AI we can teach it
+
+26:34.620 --> 26:37.530
+that you can take measurements and data formats
+
+26:37.530 --> 26:39.090
+and to convert it from one to the other
+
+26:39.090 --> 26:41.070
+and then you can make it comparable.
+
+26:41.070 --> 26:42.960
+But what we are really getting excited about
+
+26:42.960 --> 26:45.420
+is that immersive engineering
+
+26:45.420 --> 26:48.090
+where we have a headset together with Sony
+
+26:48.090 --> 26:51.030
+just launched yesterday, which is now ready for shipping.
+
+26:51.030 --> 26:55.620
+And what we see there is we have a software, CAD software,
+
+26:55.620 --> 26:58.170
+which now starts to do design for you.
+
+26:58.170 --> 26:59.910
+So in other words, you can take a piece of,
+
+26:59.910 --> 27:03.270
+you know, of a part that you wanna design,
+
+27:03.270 --> 27:04.530
+you tell the system, you know,
+
+27:04.530 --> 27:06.330
+what's the stress level and so on
+
+27:06.330 --> 27:07.800
+on that very different parts.
+
+27:07.800 --> 27:09.750
+And then you say, go and optimize it for me,
+
+27:09.750 --> 27:12.150
+and then it reduces you the weight by 80%
+
+27:12.150 --> 27:14.820
+and it comes up with completely new geometries,
+
+27:14.820 --> 27:16.200
+which one, as an engineer,
+
+27:16.200 --> 27:18.753
+and I am as from an education perspective,
+
+27:19.590 --> 27:22.170
+you would've never come up, this is amazing stuff.
+
+27:22.170 --> 27:24.084
+And it happens really, really fast.
+
+27:24.084 --> 27:29.084
+And it helps, of course, customers to drive down costs,
+
+27:29.190 --> 27:31.410
+but also improve their sustainability
+
+27:31.410 --> 27:32.940
+because these pieces are lighter rates.
+
+27:32.940 --> 27:33.900
+So that's very important
+
+27:33.900 --> 27:35.960
+in aerospace and automotive and so on.
+
+27:35.960 --> 27:38.910
+So we see that as a really big game changer
+
+27:38.910 --> 27:41.130
+where different technologies are coming together, right?
+
+27:41.130 --> 27:42.840
+So it's the question about the headset,
+
+27:42.840 --> 27:43.673
+how do you see it?
+
+27:43.673 --> 27:45.960
+But then also how do you interact with it
+
+27:45.960 --> 27:50.400
+and also how you manipulate the design in that space.
+
+27:50.400 --> 27:51.510
+And it's been huge
+
+27:51.510 --> 27:53.940
+and we have many, many customers right now
+
+27:53.940 --> 27:56.970
+coming our way saying, hey, how can I use it?
+
+27:56.970 --> 28:00.900
+<v ->Yeah. You mentioned, all of you, one way or another,</v>
+
+28:00.900 --> 28:03.480
+out of curiosity, how many went to the keynote last night
+
+28:03.480 --> 28:04.953
+with NVIDIA keynote?
+
+28:05.970 --> 28:07.980
+Okay, a large portion, but not all of you.
+
+28:07.980 --> 28:09.390
+I would highly recommend
+
+28:09.390 --> 28:10.910
+as soon as that's available that you listen to it,
+
+28:10.910 --> 28:13.080
+it was a fascinating keynote.
+
+28:13.080 --> 28:16.060
+But one of the key takeaways from the keynote was
+
+28:17.100 --> 28:21.180
+NVIDIA's observation and Jensen Huang's observation
+
+28:21.180 --> 28:25.740
+that the amount of data is replicating itself,
+
+28:25.740 --> 28:28.620
+duplicating itself so quickly
+
+28:28.620 --> 28:33.600
+that we have to use AI in order to bring it together,
+
+28:33.600 --> 28:35.340
+inference it, and serve it up.
+
+28:35.340 --> 28:37.350
+And I mean, Peter's examples is as good as any,
+
+28:37.350 --> 28:40.890
+when you build a complex digital twin factory
+
+28:40.890 --> 28:43.920
+with thousands of machines and valves and controls
+
+28:43.920 --> 28:44.820
+and everything,
+
+28:44.820 --> 28:47.790
+there's gazillions of information coming in
+
+28:47.790 --> 28:50.520
+and you've gotta manage it to optimize the factory.
+
+28:50.520 --> 28:52.890
+And what AI is really allowing us to do
+
+28:52.890 --> 28:55.710
+is to take all of this incoming data,
+
+28:55.710 --> 28:57.510
+make better sense of it,
+
+28:57.510 --> 28:59.460
+and then inference it and use it effectively.
+
+28:59.460 --> 29:00.600
+So it's just interesting.
+
+29:00.600 --> 29:01.830
+Okay, next question.
+
+29:01.830 --> 29:03.600
+I'm curious,
+
+29:03.600 --> 29:07.230
+and this may be based on what you've said, Jane,
+
+29:07.230 --> 29:12.230
+somewhat headed your way, but are you using Apple Vision Pro
+
+29:14.490 --> 29:16.530
+or any other spatial headsets
+
+29:16.530 --> 29:19.830
+in your spatial computing initiatives in yes,
+
+29:19.830 --> 29:22.623
+if yes, how important have these headsets been?
+
+29:24.360 --> 29:26.220
+<v ->The answer is yes.</v>
+
+29:26.220 --> 29:31.220
+And we probably own every headset that's been made so far.
+
+29:32.250 --> 29:34.230
+So we like to experiment,
+
+29:34.230 --> 29:37.080
+we buy a few of them and try them out.
+
+29:37.080 --> 29:39.570
+There's some that are better for different things,
+
+29:39.570 --> 29:41.040
+but Apple Vision Pro
+
+29:41.040 --> 29:44.850
+is probably one of my favorite devices, personally.
+
+29:44.850 --> 29:48.360
+And I think it's because I feel like it's the best
+
+29:48.360 --> 29:51.510
+at kind of telling the kind of stories
+
+29:51.510 --> 29:53.850
+that I was mentioning before.
+
+29:53.850 --> 29:57.810
+So the idea that, of the kind of value
+
+29:57.810 --> 29:59.190
+that we're trying to create at Honda
+
+29:59.190 --> 30:01.440
+moving forward in the second founding
+
+30:01.440 --> 30:04.260
+is, you know, in the old days the experience
+
+30:04.260 --> 30:06.240
+that we provided when you bought a car
+
+30:06.240 --> 30:08.970
+had a very strong beginning and a very strong end.
+
+30:08.970 --> 30:10.740
+So you enter the car, you drive the car,
+
+30:10.740 --> 30:12.060
+you go wherever you were gonna go,
+
+30:12.060 --> 30:14.850
+and then you leave the car and the experience ends.
+
+30:14.850 --> 30:19.290
+But now, we believe there is no beginning and no end
+
+30:19.290 --> 30:20.940
+to the vehicle experience.
+
+30:20.940 --> 30:24.750
+And so when you think about that, it's hard to imagine that.
+
+30:24.750 --> 30:27.090
+And the headsets kind of help us
+
+30:27.090 --> 30:30.330
+to be in that kind of an environment.
+
+30:30.330 --> 30:31.920
+And so, I really like it.
+
+30:31.920 --> 30:32.970
+The one thing I don't like,
+
+30:32.970 --> 30:35.550
+and we were talking about that earlier, is that,
+
+30:35.550 --> 30:38.310
+you know, every person who puts on the headset takes,
+
+30:38.310 --> 30:40.560
+I don't know, a good couple three minutes
+
+30:40.560 --> 30:42.330
+to get the settings right.
+
+30:42.330 --> 30:43.710
+And so I think that's one of the things.
+
+30:43.710 --> 30:47.010
+And in general the headsets are very heavy and bulky
+
+30:47.010 --> 30:49.890
+and you look kind of weird wearing them.
+
+30:49.890 --> 30:52.050
+So, you know, I kind of wish
+
+30:52.050 --> 30:54.600
+that my daughter was wearing the meta,
+
+30:54.600 --> 30:56.490
+you know, the glasses, the Ray-Bans,
+
+30:56.490 --> 30:58.020
+and those look a lot better
+
+30:58.020 --> 30:59.400
+'cause they look kind of like the glasses
+
+30:59.400 --> 31:01.980
+that I wear in my profile picture there.
+
+31:01.980 --> 31:05.400
+So, but yeah, I think they're gonna get smaller, but yeah.
+
+31:05.400 --> 31:07.280
+But we use them and we love them and-
+
+31:07.280 --> 31:10.140
+<v ->And I think you were an early user of Apple Vision Pro,</v>
+
+31:10.140 --> 31:11.190
+if I remember correctly.
+<v ->We were.</v>
+
+31:11.190 --> 31:14.250
+Yeah. And we've gone to Apple a couple times
+
+31:14.250 --> 31:19.170
+and trying to collaborate with them on, you know, like
+
+31:19.170 --> 31:21.330
+they often ask, why don't you use them at the dealerships?
+
+31:21.330 --> 31:23.400
+I'm like, well, because we can't spend five minutes
+
+31:23.400 --> 31:25.650
+setting up the headsets for each customer
+
+31:25.650 --> 31:27.090
+that walks into the dealership.
+
+31:27.090 --> 31:27.923
+<v ->Yeah.</v>
+<v ->You know?</v>
+
+31:27.923 --> 31:31.410
+So they're aware of that, but also we're working with,
+
+31:31.410 --> 31:33.180
+you know, they're gonna help us
+
+31:33.180 --> 31:36.930
+sort of with that 360 video production.
+
+31:36.930 --> 31:39.660
+So I think that's the kind of creative output
+
+31:39.660 --> 31:42.000
+that Apple's really known for and it's,
+
+31:42.000 --> 31:43.397
+it really is spectacular.
+
+31:43.397 --> 31:44.230
+<v ->Yeah. These are exciting types.</v>
+
+31:44.230 --> 31:45.063
+<v ->Yeah. Yeah.</v>
+
+31:45.063 --> 31:46.770
+<v ->Either Harvey and or Peter,</v>
+
+31:46.770 --> 31:48.990
+any perspectives on the use
+
+31:48.990 --> 31:50.400
+of these spatial computing headsets,
+
+31:50.400 --> 31:53.670
+whether it be Apple or other and the impact that's had
+
+31:53.670 --> 31:56.133
+in spatial computing efforts that you're doing?
+
+31:57.120 --> 31:59.850
+<v ->Yeah, so I took these out on purpose.</v>
+
+31:59.850 --> 32:01.470
+These are the meta glasses.
+
+32:01.470 --> 32:05.640
+And the way I see it is the culture now is accepting this
+
+32:05.640 --> 32:07.710
+before they're like, oh those are weird.
+
+32:07.710 --> 32:09.780
+I know my wife hates it when I buy stuff like this,
+
+32:09.780 --> 32:12.450
+but the more they look real, the more she appreciates it.
+
+32:12.450 --> 32:14.580
+So now we're seeing a cultural shift
+
+32:14.580 --> 32:16.380
+as these things get better and better,
+
+32:16.380 --> 32:18.780
+it's allowing all of us to interact with this.
+
+32:18.780 --> 32:21.270
+In the near future, I have my own digital twin
+
+32:21.270 --> 32:23.490
+on my books singing, interviews is all there.
+
+32:23.490 --> 32:25.410
+I would be able to pair that to this
+
+32:25.410 --> 32:26.490
+and then have a conversation.
+
+32:26.490 --> 32:27.570
+So when you ask me a question,
+
+32:27.570 --> 32:29.250
+I can say, hey, let's ask my digital twin.
+
+32:29.250 --> 32:30.930
+And then you're interacting with it.
+
+32:30.930 --> 32:32.490
+And so that's where we are
+
+32:32.490 --> 32:35.520
+and it's only gonna get better for all of us.
+
+32:35.520 --> 32:36.353
+<v ->Funny Harvey,</v>
+
+32:36.353 --> 32:38.420
+I always thought that those were your glasses.
+
+32:39.390 --> 32:40.223
+Peter?
+
+32:40.223 --> 32:43.140
+<v ->Yeah. Maybe I build on this, this is a perfect segue is,</v>
+
+32:43.140 --> 32:46.800
+so today, if you think about spatial computing
+
+32:46.800 --> 32:50.190
+in a way that if we say XR or or VR,
+
+32:50.190 --> 32:53.460
+it's pretty much limited to engineering, right?
+
+32:53.460 --> 32:56.070
+This is where most of the time you find it.
+
+32:56.070 --> 32:58.140
+But the question is how can we democratize it?
+
+32:58.140 --> 33:00.360
+And the reason that why that's not happening is
+
+33:00.360 --> 33:02.340
+because they're too heavy, they're too big
+
+33:02.340 --> 33:05.490
+and they're just not convenient to wear the whole day.
+
+33:05.490 --> 33:07.950
+However, exactly what Harvey has shown,
+
+33:07.950 --> 33:11.190
+you don't need to have always the display, right?
+
+33:11.190 --> 33:13.740
+So, in this case, right now we are,
+
+33:13.740 --> 33:15.900
+we are exploring the idea.
+
+33:15.900 --> 33:16.800
+We launched something
+
+33:16.800 --> 33:18.570
+which is called the industrial copilot.
+
+33:18.570 --> 33:19.840
+So one of the issues is
+
+33:20.820 --> 33:22.890
+we don't find factory workers anymore.
+
+33:22.890 --> 33:24.450
+The average tenure of the factory worker
+
+33:24.450 --> 33:26.400
+has dropped from 20 years down to three years.
+
+33:26.400 --> 33:29.970
+People are not wanting to work in a factory.
+
+33:29.970 --> 33:31.920
+And the ones that have been working in the factory,
+
+33:31.920 --> 33:33.360
+they're leaving the factory.
+
+33:33.360 --> 33:36.060
+So because they're retiring. So it's a big issue.
+
+33:36.060 --> 33:39.720
+So knowledge is walking out of the door.
+
+33:39.720 --> 33:41.460
+So that's why we've been developing
+
+33:41.460 --> 33:43.500
+an industrial copilot together with Microsoft
+
+33:43.500 --> 33:45.720
+that helps you to set up machines, to rectify them,
+
+33:45.720 --> 33:46.553
+all that stuff, right?
+
+33:46.553 --> 33:48.930
+So it's a human, it's like your smart colleague
+
+33:48.930 --> 33:52.680
+that helps us people in order to get this stuff done.
+
+33:52.680 --> 33:56.130
+The question always is the last mile, the interface,
+
+33:56.130 --> 33:58.320
+what's that human machine interface there
+
+33:58.320 --> 33:59.940
+and how you gonna perceive that?
+
+33:59.940 --> 34:01.140
+Now, imagine this one
+
+34:01.140 --> 34:04.680
+because the Ray-Bans are not having a display,
+
+34:04.680 --> 34:06.270
+but they have audio.
+
+34:06.270 --> 34:07.650
+So, and they have a microphone.
+
+34:07.650 --> 34:08.940
+So, and you can stream it.
+
+34:08.940 --> 34:10.050
+So you can look at the machine
+
+34:10.050 --> 34:13.260
+and say, hey, what about this machine?
+
+34:13.260 --> 34:15.870
+Can you tell me what are the steps to rectify it?
+
+34:15.870 --> 34:17.430
+And then if you have your AI,
+
+34:17.430 --> 34:20.250
+you don't have any human in there in that loop,
+
+34:20.250 --> 34:22.920
+it just tells you acoustically of,
+
+34:22.920 --> 34:25.260
+you know, take step 1, 2, 3, 4, 5.
+
+34:25.260 --> 34:27.420
+That is gonna be a game changer
+
+34:27.420 --> 34:30.633
+simply because it really solves one of the big issues
+
+34:30.633 --> 34:33.180
+that is knowledge on the factory worker space.
+
+34:33.180 --> 34:35.160
+And with that it becomes more ubiquitous,
+
+34:35.160 --> 34:36.780
+it's not just limited to engineering,
+
+34:36.780 --> 34:40.170
+but pretty much you can think of it being everywhere.
+
+34:40.170 --> 34:41.010
+<v ->Thank you.</v>
+
+34:41.010 --> 34:42.840
+Harvey, I'm gonna give you just a couple minutes.
+
+34:42.840 --> 34:43.890
+I'd ask you to be concise
+
+34:43.890 --> 34:45.960
+'cause this could be an hour discussion,
+
+34:45.960 --> 34:47.733
+but share with us past, present,
+
+34:48.690 --> 34:50.760
+past, current and future roles
+
+34:50.760 --> 34:52.140
+of spatial computing and healthcare.
+
+34:52.140 --> 34:56.400
+I know that my sister just had a surgery on her back,
+
+34:56.400 --> 34:58.290
+spinal surgery in Boston
+
+34:58.290 --> 35:02.880
+and they used VR headsets to put the screws in to her spine
+
+35:02.880 --> 35:03.713
+to make sure
+
+35:03.713 --> 35:06.420
+that they were not getting the soft bone but good bone.
+
+35:06.420 --> 35:08.760
+So I know this stuff is happening every single day
+
+35:08.760 --> 35:11.400
+and every single healthcare, you know, capability.
+
+35:11.400 --> 35:13.680
+But share with us your, where you think it's headed.
+
+35:13.680 --> 35:17.400
+<v ->Yeah, so in the past these things were huge, heavy,</v>
+
+35:17.400 --> 35:18.360
+long lag time.
+
+35:18.360 --> 35:19.770
+You would talk to it and you'd wait forever,
+
+35:19.770 --> 35:21.600
+the graphics were horrible.
+
+35:21.600 --> 35:24.090
+And so, you know, medical students was like,
+
+35:24.090 --> 35:25.340
+I don't wanna wear those.
+
+35:26.190 --> 35:27.780
+Apple Vision Pro, I'm biased.
+
+35:27.780 --> 35:28.740
+You can see through it.
+
+35:28.740 --> 35:30.900
+I can do a procedure like you were saying just now
+
+35:30.900 --> 35:33.600
+and I can go through and have the x-ray
+
+35:33.600 --> 35:35.130
+and have everything up in virtual world
+
+35:35.130 --> 35:36.660
+and tell me exactly what it is.
+
+35:36.660 --> 35:38.940
+And as I'm getting older, my eyes aren't the greatest.
+
+35:38.940 --> 35:41.040
+So now I can explore my visual feel
+
+35:41.040 --> 35:43.890
+and make it 50 times bigger and I can really get in there.
+
+35:43.890 --> 35:46.920
+And then now in the future, going back to this point,
+
+35:46.920 --> 35:48.930
+this is gonna get smaller and smaller.
+
+35:48.930 --> 35:51.030
+And for you guys you could take a picture.
+
+35:51.030 --> 35:52.230
+Like right now I could have these on
+
+35:52.230 --> 35:54.180
+and say, hey, I gotta take my meds at 12
+
+35:54.180 --> 35:55.320
+and it'll remind me tomorrow
+
+35:55.320 --> 35:58.050
+that at 12 it's time to take my meds in the near future.
+
+35:58.050 --> 35:59.070
+I mean it already has it now,
+
+35:59.070 --> 36:01.367
+I can put up some food and eat and take a picture
+
+36:01.367 --> 36:03.030
+and be like, how many calories is this?
+
+36:03.030 --> 36:04.110
+Is this good for my cholesterol?
+
+36:04.110 --> 36:05.880
+Is this good for my hypertension?
+
+36:05.880 --> 36:07.230
+And so that's where we're headed.
+
+36:07.230 --> 36:09.450
+And in the near future all of that'll be seamless
+
+36:09.450 --> 36:10.603
+and it'll be integrated with AI
+
+36:10.603 --> 36:13.263
+and it'll be in here and it'll be back and forth.
+
+36:14.220 --> 36:15.780
+<v ->Yeah, I think it would be fair to say</v>
+
+36:15.780 --> 36:19.390
+that we're really at the beginning of the medical evolution
+
+36:20.340 --> 36:24.030
+that the way doctors and do not just procedures
+
+36:24.030 --> 36:26.970
+but testing and imaging and all kinds of things
+
+36:26.970 --> 36:29.010
+is gonna be very, very different.
+
+36:29.010 --> 36:30.270
+So this is very exciting times.
+
+36:30.270 --> 36:31.800
+Thank you for sharing that with us.
+
+36:31.800 --> 36:33.930
+Okay, I want you to get your questions ready
+
+36:33.930 --> 36:34.860
+if you have questions
+
+36:34.860 --> 36:37.110
+I can't see very well from the front here,
+
+36:37.110 --> 36:39.210
+but think of some questions if you have them.
+
+36:39.210 --> 36:40.950
+And I'll, raise your hand nice and high
+
+36:40.950 --> 36:42.510
+and I'll get to you not just yet though,
+
+36:42.510 --> 36:44.400
+I just want to get my last question in
+
+36:44.400 --> 36:46.080
+and then I'm gonna open it to the audience, okay?
+
+36:46.080 --> 36:48.750
+But I see at least two of you that have braved yourselves
+
+36:48.750 --> 36:50.550
+to get ready for the question.
+
+36:50.550 --> 36:53.020
+Let me ask you guys to be a little bit
+
+36:54.270 --> 36:56.340
+in a front leadership mode.
+
+36:56.340 --> 36:59.883
+We meet here next year 2026.
+
+37:00.900 --> 37:03.660
+And in your humble observation,
+
+37:03.660 --> 37:06.180
+how do you see spatial computing
+
+37:06.180 --> 37:08.910
+playing out over the next 12 months?
+
+37:08.910 --> 37:11.400
+And Peter, if you will, I'll start with my left.
+
+37:11.400 --> 37:13.800
+<v ->Yeah, I was thinking a little bit of where this is going.</v>
+
+37:13.800 --> 37:17.550
+Number one is to make it not limited to engineering,
+
+37:17.550 --> 37:20.220
+but really to all the other departments that we wanna see.
+
+37:20.220 --> 37:21.210
+So I think we're gonna see
+
+37:21.210 --> 37:23.760
+that more use cases demonstrating real value
+
+37:23.760 --> 37:25.800
+of where you can make that work.
+
+37:25.800 --> 37:28.380
+And then also from a new development perspective,
+
+37:28.380 --> 37:32.340
+I expect these devices becoming smaller, lighter,
+
+37:32.340 --> 37:34.623
+and in particular AI powered.
+
+37:35.739 --> 37:38.520
+AI powered in many ways from generative design
+
+37:38.520 --> 37:40.410
+to as a coworker helping you
+
+37:40.410 --> 37:42.660
+to navigate all of these pieces.
+
+37:42.660 --> 37:44.340
+So you're gonna see more of blends
+
+37:44.340 --> 37:47.190
+of different technologies, right? Coming together.
+
+37:47.190 --> 37:49.770
+And actually the place where that is gonna be
+
+37:49.770 --> 37:52.410
+is always at the human machine interface
+
+37:52.410 --> 37:54.600
+and I believe that's gonna be the place.
+
+37:54.600 --> 37:56.340
+<v ->Excellent. Jane?</v>
+
+37:56.340 --> 37:57.333
+<v ->Yeah, I agree.</v>
+
+37:58.530 --> 38:02.070
+I think OpenAI celebrated their one year birthday
+
+38:02.070 --> 38:03.120
+not too long ago.
+
+38:03.120 --> 38:06.270
+So I imagine this next year is gonna be
+
+38:06.270 --> 38:08.673
+leaps and bounds moving forward,
+
+38:09.720 --> 38:12.480
+but I think yeah, there's gonna be,
+
+38:12.480 --> 38:15.690
+you know, we talk about spatial computing as kind of like
+
+38:15.690 --> 38:17.490
+the pixels are so small you can't tell the difference
+
+38:17.490 --> 38:20.190
+between being in the physical world or the virtual world.
+
+38:20.190 --> 38:23.970
+And I think in our experience and immersive experiences
+
+38:23.970 --> 38:26.490
+that we're gonna provide with our cars,
+
+38:26.490 --> 38:28.590
+I think people are gonna get more and more comfortable
+
+38:28.590 --> 38:29.730
+with that idea
+
+38:29.730 --> 38:33.150
+of kind of being in both the physical and the virtual world.
+
+38:33.150 --> 38:34.500
+<v ->I can't wait. It's so exciting.</v>
+
+38:34.500 --> 38:35.400
+<v ->Yeah, it's very exciting.</v>
+
+38:35.400 --> 38:36.233
+<v ->I have to tell you,</v>
+
+38:36.233 --> 38:39.180
+I'm an old Jaguar racer, collector
+
+38:39.180 --> 38:42.480
+and, you know, car rallies and so forth and they're,
+
+38:42.480 --> 38:43.890
+they've waited an awfully long time
+
+38:43.890 --> 38:45.030
+to get to the new generation,
+
+38:45.030 --> 38:46.620
+but it's gonna be very exciting
+
+38:46.620 --> 38:47.849
+how the whole industry moves forward.
+
+38:47.849 --> 38:48.690
+<v ->Right. And if you wanna pretend</v>
+
+38:48.690 --> 38:51.090
+that you're driving an old classic car, you can do that too.
+
+38:51.090 --> 38:52.620
+<v ->Oh, thank goodness.</v>
+
+38:52.620 --> 38:54.400
+Harvey, where are we at 12 months from now?
+
+38:54.400 --> 38:57.600
+<v ->Yeah. I see education being huge.</v>
+
+38:57.600 --> 38:59.850
+The more we educate ourselves on a healthcare,
+
+38:59.850 --> 39:01.620
+I call it their healthcare IQ will improve.
+
+39:01.620 --> 39:03.780
+And when that improves, our longevity will improve,
+
+39:03.780 --> 39:05.130
+our quality of life will improve.
+
+39:05.130 --> 39:06.630
+So I see these devices helping
+
+39:06.630 --> 39:08.010
+my case in point that I just told you
+
+39:08.010 --> 39:10.170
+about the medication reminder.
+
+39:10.170 --> 39:12.750
+The second part is this is gonna be my friend,
+
+39:12.750 --> 39:13.800
+it's gonna be AI.
+
+39:13.800 --> 39:15.450
+I can have a conversation when I'm driving.
+
+39:15.450 --> 39:18.180
+I can say, hey, my doctor said I have high cholesterol,
+
+39:18.180 --> 39:19.140
+what does that mean?
+
+39:19.140 --> 39:20.400
+And I'm just having a conversation
+
+39:20.400 --> 39:22.110
+and it's going through my glasses and it's telling me
+
+39:22.110 --> 39:24.120
+and I'm educating and I'm improving and I'm like,
+
+39:24.120 --> 39:26.370
+okay, probably should take my cholesterol medicine,
+
+39:26.370 --> 39:27.600
+I get it now.
+
+39:27.600 --> 39:29.340
+The second part is what's with the VR.
+
+39:29.340 --> 39:32.010
+Imagine if I got your x-rays CAT scan, put it on and say,
+
+39:32.010 --> 39:33.540
+hey, we're gonna go through your heart right now
+
+39:33.540 --> 39:34.830
+and I'm gonna show you your arteries.
+
+39:34.830 --> 39:36.090
+And if you're not taking your medicine,
+
+39:36.090 --> 39:38.670
+this is what's going on in your heart,
+
+39:38.670 --> 39:40.470
+are you likely to take your medicine?
+
+39:40.470 --> 39:42.090
+Probably.
+
+39:42.090 --> 39:42.923
+<v ->Good, thank you.</v>
+
+39:42.923 --> 39:45.483
+So I had two questions. I saw one up front. Yes.
+
+39:48.660 --> 39:50.070
+<v ->This question is more so directed</v>
+
+39:50.070 --> 39:51.810
+towards Jane and Dr. Harvey
+
+39:51.810 --> 39:55.140
+and that was why specifically the Vision Pro
+
+39:55.140 --> 39:57.360
+and not something like the Quest 3.
+
+39:57.360 --> 39:58.193
+And as a follow up,
+
+39:58.193 --> 40:02.730
+this question is more so directed towards you and Dr. Harvey
+
+40:02.730 --> 40:07.380
+and that with regards to AI and leveraging in your field,
+
+40:07.380 --> 40:10.740
+there is a lot of proprietary and confidential data.
+
+40:10.740 --> 40:14.970
+How do you foresee legal and privacy implications?
+
+40:14.970 --> 40:16.710
+Which regards to using it for training?
+
+40:16.710 --> 40:18.450
+<v ->Yeah, I'll be quick.</v>
+
+40:18.450 --> 40:19.560
+I like the Apple Vision Pro
+
+40:19.560 --> 40:21.360
+'cause it's a high retinal display
+
+40:21.360 --> 40:23.130
+and you can see through it and there's not lag time
+
+40:23.130 --> 40:25.080
+and I don't feel like it's there with the Meta.
+
+40:25.080 --> 40:26.580
+As far as the legal question,
+
+40:26.580 --> 40:28.950
+the way around it would be using more edge technology
+
+40:28.950 --> 40:31.080
+and creating it in your own interest server
+
+40:31.080 --> 40:32.130
+so that it's there.
+
+40:32.130 --> 40:33.840
+And then with the data, that's the big piece,
+
+40:33.840 --> 40:35.520
+who owns the data, how do you get it?
+
+40:35.520 --> 40:37.710
+But assuming that you do like federated learning
+
+40:37.710 --> 40:40.950
+and we can talk later about how you could do that legally.
+
+40:40.950 --> 40:42.000
+<v ->All right.</v>
+<v ->Oh.</v>
+
+40:42.000 --> 40:43.080
+<v ->Go ahead, Jane.</v>
+
+40:43.080 --> 40:45.960
+<v ->For Apple Vision Pro, I think for me personally,</v>
+
+40:45.960 --> 40:47.970
+it is the, being able to see through it
+
+40:47.970 --> 40:49.320
+and you have better peripheral vision,
+
+40:49.320 --> 40:51.090
+so it feels more natural.
+
+40:51.090 --> 40:54.540
+But also Apple is I think the best partner
+
+40:54.540 --> 40:57.960
+when you're heading into creative endeavors.
+
+40:57.960 --> 41:01.110
+I think they always have been and they still are.
+
+41:01.110 --> 41:04.140
+<v ->Peter, any observation on the privacy,</v>
+
+41:04.140 --> 41:07.830
+you're European privacy is at a higher level of concern
+
+41:07.830 --> 41:09.600
+to most Europe, to most Europeans.
+
+41:09.600 --> 41:13.410
+I'm married to an Italian, she reminds me of that daily.
+
+41:13.410 --> 41:16.800
+But I'd be just curious the questions on everybody's mind
+
+41:16.800 --> 41:21.179
+as more data gets delivered, as more data gets inferenced
+
+41:21.179 --> 41:25.050
+and is made available and is made available with AI
+
+41:25.050 --> 41:27.390
+and there's all kinds of things you can do with the data,
+
+41:27.390 --> 41:30.030
+where does this whole privacy, where are we going?
+
+41:30.030 --> 41:31.560
+<v Peter>Well, I mean,</v>
+
+41:31.560 --> 41:33.000
+I'm not sure how much time you wanna take.
+
+41:33.000 --> 41:34.327
+<v Barton>Yeah, exactly.</v>
+
+41:34.327 --> 41:36.180
+<v ->The good news there on our end</v>
+
+41:36.180 --> 41:37.937
+is since we end in industrial world,
+
+41:37.937 --> 41:40.179
+we are not using so much privacy
+
+41:40.179 --> 41:43.020
+in terms of personal related data.
+
+41:43.020 --> 41:45.750
+So forced machine data, so that's very simple,
+
+41:45.750 --> 41:47.130
+but it becomes very complex
+
+41:47.130 --> 41:48.930
+the minute we talk about, of course, healthcare data.
+
+41:48.930 --> 41:51.600
+This is where I spend most of my career also.
+
+41:51.600 --> 41:53.280
+It's a very sensitive topic.
+
+41:53.280 --> 41:56.700
+I guess we need to have an own panel on this conversation.
+
+41:56.700 --> 41:58.560
+But to go, going back to your question
+
+41:58.560 --> 42:01.800
+exactly as Harvey also said is for one, it's edge computing,
+
+42:01.800 --> 42:02.983
+this is the way how to go about it.
+
+42:02.983 --> 42:05.100
+Reinforcement learning, this is fine.
+
+42:05.100 --> 42:07.320
+Federated learning is that's the way
+
+42:07.320 --> 42:10.770
+how we usually treat that based on a pre-trained model.
+
+42:10.770 --> 42:13.595
+And that's usually working pretty well.
+
+42:13.595 --> 42:15.450
+<v Barton>Okay. I'm taking just one more question.</v>
+
+42:15.450 --> 42:16.283
+I know there's many,
+
+42:16.283 --> 42:17.670
+you can come up to the panel afterwards.
+
+42:17.670 --> 42:20.120
+Gentlemen right here. Yes, please. Nice and loud.
+
+42:21.000 --> 42:22.260
+<v ->Question for Peter, please.</v>
+
+42:22.260 --> 42:25.811
+And your experience with digital twins for factories-
+
+42:25.811 --> 42:26.644
+<v ->Yeah.</v>
+
+42:26.644 --> 42:30.060
+<v ->And people solving problems in that virtual environment.</v>
+
+42:30.060 --> 42:32.667
+What are your top three HMI challenges,
+
+42:32.667 --> 42:35.348
+human machine interface challenges?
+
+42:35.348 --> 42:36.330
+<v ->All right.</v>
+
+42:36.330 --> 42:38.663
+Challenge number one is the devices that are out there
+
+42:38.663 --> 42:40.650
+are usually too big, too large.
+
+42:40.650 --> 42:45.390
+And if you are a factory, let's say manager,
+
+42:45.390 --> 42:47.490
+I mean they drive productivity every day.
+
+42:47.490 --> 42:48.930
+If you come there and say, you know what?
+
+42:48.930 --> 42:51.840
+Take the device for thousand $4,000, they throw you out.
+
+42:51.840 --> 42:53.370
+So that's not working, right?
+
+42:53.370 --> 42:55.440
+So therefore you have to take a few other devices
+
+42:55.440 --> 42:58.290
+that are less complicated, that are more sturdy
+
+42:58.290 --> 43:00.060
+and that actually really can be used.
+
+43:00.060 --> 43:01.380
+It's number one.
+
+43:01.380 --> 43:05.970
+Number two is, there is still a lack of education
+
+43:05.970 --> 43:07.800
+where people are a little bit reluctant
+
+43:07.800 --> 43:09.087
+about what does it really mean and,
+
+43:09.087 --> 43:11.730
+and how do do does it, do we go about it?
+
+43:11.730 --> 43:13.160
+And number three is,
+
+43:13.160 --> 43:18.160
+is very often that the way we look at the use cases,
+
+43:18.420 --> 43:21.660
+and usually that is about how we set up machines and so on,
+
+43:21.660 --> 43:24.360
+the tutorials, the data is not there yet.
+
+43:24.360 --> 43:26.790
+So that's the stuff that we have to build
+
+43:26.790 --> 43:29.340
+in order to make this useful, right?
+
+43:29.340 --> 43:30.173
+But that's coming.
+
+43:30.173 --> 43:32.550
+So, I'm sure that the 12 month question,
+
+43:32.550 --> 43:35.490
+we are very well on our way to do just that.
+
+43:35.490 --> 43:38.010
+<v ->Last year at the Siemens keynote,</v>
+
+43:38.010 --> 43:42.240
+the CEO Roland Bush said that,
+
+43:42.240 --> 43:44.160
+I don't remember the year he said it in, but he said,
+
+43:44.160 --> 43:45.870
+but within the next few years,
+
+43:45.870 --> 43:47.970
+every object will have a digital twin.
+
+43:47.970 --> 43:49.710
+I just remember that distinctly in my head.
+
+43:49.710 --> 43:51.600
+Okay, let me make a couple of references
+
+43:51.600 --> 43:53.370
+and we'll bring it to a close.
+
+43:53.370 --> 43:54.690
+Ladies and gentlemen in the back,
+
+43:54.690 --> 43:56.760
+I have no idea, my machine up front is freaking out,
+
+43:56.760 --> 44:00.753
+but I just wanna go to this slide right here if I may.
+
+44:01.590 --> 44:03.390
+That didn't seem to, there we go, okay.
+
+44:03.390 --> 44:05.280
+So I wanna just give you three references,
+
+44:05.280 --> 44:07.920
+two references that we alluded to, Tim alluded to this.
+
+44:07.920 --> 44:12.090
+This is the spatial AI and spatial resource center,
+
+44:12.090 --> 44:15.990
+greater than 300 AI and spatial computing use cases,
+
+44:15.990 --> 44:18.420
+including Siemens, including current companies
+
+44:18.420 --> 44:19.482
+and medical industries,
+
+44:19.482 --> 44:22.950
+it's a wealth of knowledge and it's free of charge.
+
+44:22.950 --> 44:24.270
+It's our work, Tim and mine,
+
+44:24.270 --> 44:26.670
+but it's many, many other scholarly people
+
+44:26.670 --> 44:29.550
+that have joined and provided information and insight.
+
+44:29.550 --> 44:31.140
+I would strongly recommend you go there,
+
+44:31.140 --> 44:33.750
+there are videos more than 150 videos.
+
+44:33.750 --> 44:35.640
+It's really a great resource center
+
+44:35.640 --> 44:37.020
+for those that might be interested.
+
+44:37.020 --> 44:40.500
+Tim and I have been doing a podcast since February, 2023.
+
+44:40.500 --> 44:44.880
+We have I think 30 or 32 episodes now, very interesting.
+
+44:44.880 --> 44:46.470
+They never last more than 25 minutes.
+
+44:46.470 --> 44:48.510
+What we do is we take a company,
+
+44:48.510 --> 44:51.360
+we go deep and we look at how they're applying
+
+44:51.360 --> 44:53.460
+some of the spatial computing technologies.
+
+44:53.460 --> 44:54.480
+If you'd like to get in touch
+
+44:54.480 --> 44:56.250
+with any of the folks on the panel,
+
+44:56.250 --> 44:59.370
+here's just a quick, they're all on LinkedIn but you,
+
+44:59.370 --> 45:00.435
+and they're not very complicated
+
+45:00.435 --> 45:01.890
+'cause their first name and last name.
+
+45:01.890 --> 45:05.280
+But take a picture and that might help you moving forward.
+
+45:05.280 --> 45:06.840
+Let me say the following,
+
+45:06.840 --> 45:09.090
+you know, I've been around for a long time
+
+45:09.090 --> 45:10.950
+and I've chaired many a panel
+
+45:10.950 --> 45:12.650
+and for that matter, a conference.
+
+45:13.710 --> 45:17.670
+Rarely do I get a panel as first of all diversified,
+
+45:17.670 --> 45:20.670
+but as distinguished as this group of executives.
+
+45:20.670 --> 45:22.350
+You know, I want to thank you folks.
+
+45:22.350 --> 45:23.490
+You are in your own right,
+
+45:23.490 --> 45:24.973
+very pleasant and enjoyable people.
+
+45:24.973 --> 45:26.520
+I've gotten to know you a little bit,
+
+45:26.520 --> 45:27.780
+we've got to know each other
+
+45:27.780 --> 45:29.610
+and that's what life is all about.
+
+45:29.610 --> 45:30.990
+But on a professional side,
+
+45:30.990 --> 45:33.780
+I just think that you bring such a wealth of knowledge
+
+45:33.780 --> 45:37.410
+and display it and discuss it
+
+45:37.410 --> 45:39.810
+in such an easy to understand manner
+
+45:39.810 --> 45:40.980
+that I just want to thank you
+
+45:40.980 --> 45:42.870
+and I'd like you to put your hands together
+
+45:42.870 --> 45:44.470
+and thank the panelists as well.
+
+45:45.767 --> 45:47.978
+(attendees applauding)
+
+45:47.978 --> 45:50.561
+(upbeat music)
+

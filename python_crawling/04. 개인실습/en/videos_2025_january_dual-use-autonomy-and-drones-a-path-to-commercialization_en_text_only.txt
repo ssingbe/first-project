@@ -1,0 +1,1441 @@
+<v ->My name's Mike Embrescia,</v>
+I am the Chief Development Officer
+for "Carnegie Robotics"
+based in Pittsburgh PA.
+We have a really cool name "Carnegie" before it,
+but it is not the university, okay?
+So, you know,
+half the room's gonna walk out,
+"Oh, I thought I was seeing someone CMU."
+We were actually spun out
+of Carnegie Mellon University,
+and we have a very close relationship,
+as does everybody on this panel here.
+But, with us up here are four colleagues
+from the Pittsburgh area,
+that are all focused in drones,
+marine, and military,
+and we're gonna get to them in just a second.
+Should I get to them in a second,
+or can I tell my story?
+I'm gonna tell my story first.
+So, you all are here,
+and you wanna you know,
+talk about autonomy et cetera,
+and I'm sure a lot of you
+have also heard about Pittsburgh,
+why Pittsburgh?
+You know, why is Pittsburgh a buzz globally
+with all things robotics?
+Well yeah, Carnegie Mellon
+has a lot to do with it,
+but I figured I'd give ya a quick story,
+I'll give you the quick 90-second,
+whenever people come into our building,
+what we like to share with them,
+and here's how it goes.
+Pittsburgh is the robotics
+capital of the world,
+we believe that very firmly
+and here's why.
+In the early '90s,
+CMU, Carnegie Mellon University
+and NASA put a bunch of money into a pot,
+now some people may correct me on this story,
+but this is just how we look at it.
+CMU and NASA put a bunch of money into a pot,
+they stirred that pot,
+and out, spit out the child,
+the "NREC",
+the "National Robotics Engineering Center",
+the "NREC",
+that is the...
+The large facility that houses
+the Carnegie Mellon Robotics effort.
+And so, the powers that be at the time,
+they said,
+"Where we wanna put this new facility?
+We wanna put it on campus?
+Nah, let's put it in the Lawrence Field
+District of Pittsburgh."
+"You mean that blighted,
+rundown former steel town
+that's about a mile
+and a half outside of Downtown Pittsburgh?
+You know all the steel companies left in the '70s
+and '80s?"
+"Yeah, that place."
+"You mean where the police cars,
+and the sirens,
+and people getting shot every other day,
+you mean that part of town?"
+"Yeah, that part of town?"
+"Well, why?"
+"Because they have
+all this amazing building stock.
+They had these massive warehouses
+left over from when steel
+and manufacturing was the mecca in Pittsburgh."
+"Great."
+So, NREC was established.
+In the early '90s,
+they had a director,
+coincidentally happened to be my CEO,
+and my current boss,
+who helped build the NREC
+to a few hundred people.
+And then, subsequently,
+Carnegie Mellon did something really neat,
+they established the world's first PhD
+and Masters Program in Robotics,
+"Ah, so that's why."
+Lot of folks from across the globe
+started to matriculate to Pittsburgh
+to get this new cutting-edge degree,
+so there's where you started to see this...
+This rumbling of activity in tech,
+and AI that really started to blossom
+in our backyard, right?
+And so today,
+we boast about 120 robotics companies up
+and down what the media likes to call
+"Robotics Row", right?
+Lot of the companies were there
+before there was a "row",
+the gentleman to my left here
+is one of those people,
+our company was certainly there
+before there was a "row",
+and there's a lot of upstarts here as well.
+But the reason I share that story with you,
+is because the four-people seated to my left,
+are four of the...
+Four of some of the premiere companies
+that we have in our backyard,
+so we're very happy to have them
+here in Vegas with us.
+So, without further adieu,
+I'm gonna introduce Sanjiv Singh
+who's the Founder CEO of "Near Earth Autonomy".
+I recently found out that Sanjiv was the first
+Masters in Robotics out of Carnegie Mellon,
+possibly the world, so um...
+We have Phil Hahn here,
+Phil was until recently,
+the Chief Strategy Officer for "AFWERX"
+based in Pittsburgh,
+who has, I believe as of this week,
+started a new role with Divergent,
+he can share all that about...
+All of that with you,
+also Lieutenant Colonel in the service.
+we have Xiaoyu Kaess,
+Co-founder and COO of "Aquatonomy".
+And we have Olga Pogoda from KEF Robotics,
+K-E-F Robotics here,
+wonderful drone company.
+So, here's our panel, guys.
+Hey, you done hearing me talk? Right.
+<v ->Keep it going.</v>
+<v ->Oh okay, you got it.</v>
+Xiaoyu, I'll start with you,
+because you're the nicest one to me today.
+Why don't you tell us
+a little bit about Aquatonomy?
+Now, full-transparency?
+I actually learned about your company
+watching a Sunday news program
+and said,
+"I really like what you guys are doing."
+And then, two days later,
+I got asked to do a panel with you.
+<v Xiaoyu>Oh, what an honor,</v>
+thank you, thank you.
+I'm Xiaoyu Kaess,
+co-founder and COO of Aquatonomy,
+at Aquatonomy, we're creating underwater drones
+to address the inspection of underwater assets,
+they're including,
+but not limited to dams,
+bridges, and ports,
+and we provide action-driven insights
+to help the owners
+make better maintenance decisions
+and strategize their cost,
+and get confident decisions,
+and get better financial-return.
+<v Mike>Great, thank you.</v>
+Olga, how 'bout you guys?
+<v ->Hi, my name is Olga,</v>
+I'm the Chief Operating Officer at KEF Robotics.
+At KEF, we work on GPS-denied navigation,
+so what we try to do is build software
+that leverages cameras,
+and other very low-cost,
+off-the-shelf censors,
+to get an aircraft from point "A" to point "B",
+and back,
+and then, maybe do something smart along the way.
+And we wanna do that in highly-contested
+GPS-denied communication jams environments.
+<v ->Well, it's great to be back in Vegas,</v>
+I spent a lot of my former years
+as a flight-test engineer out this way.
+To your point earlier,
+I need to add "former" in front of my role
+at AFWERX, I just...
+As of this week,
+transitioned out back to the private sector.
+AFWERX as a whole?
+It's the innovation,
+and investment arm of the air force
+and space force,
+so I spent the last four
+and a half years building that out
+in really the way that we work in the DoD
+to bridge the technology gap
+and work with commercial entities,
+to partner with the government
+and find pathways through,
+and I think a lot of the panelists here with me
+have experienced that process that we've built
+over the last four
+and a half years,
+and we've executed well over $5-billion
+in my time at AFWERX.
+I'm transitioning over
+to "Divergent Technologies",
+it's a advanced manufacturing company,
+started out in the automobile sector
+to 3D print vehicles,
+so Singer Vehicles is underneath that
+with super cars,
+so I do everything from Bugatti parts,
+and now I'm working with our former director
+at AFWERX Nate Diller,
+working through
+and developing the Aerospace &amp; Defense section
+of Divergent Technologies.
+<v ->Great, thanks Mike.</v>
+So, I'm Sanjiv Singh,
+I'm the CEO of "Near Earth Autonomy",
+what we do,
+is we build an autonomy stack
+for all kinds of aircraft,
+but we are focused on rotorcraft,
+and we're focused on logistic missions,
+so we have a big engagement with the DoD,
+especially the marine corp
+and the army,
+to work on various scales of aircraft.
+And our value proposition,
+I like to say is that we enable aircraft
+to fly safe,
+land safe,
+do it without GPS,
+even when things go wrong.
+And the idea is that,
+if the world were perfect,
+and the aircraft were perfect,
+then you know,
+you don't need any sensors,
+and you just take off,
+and fly some...
+Fly some...
+Going through some breadcrumbs,
+but in fact,
+the world is not perfect,
+all sorts of things in maps are not correct,
+you have weather,
+you have things break down on an aircraft,
+so what we want is autonomy,
+to be able to do what a pilot would do,
+which is to deal with the varying conditions
+on the aircraft.
+So, for different scales of aircraft,
+this matters differently,
+but especially if they're flying low,
+if they're gonna be...
+The root that's been given to them
+is gonna go through a tower,
+they should see the tower
+and fly around it, okay?
+So, the autonomy part we've been doing
+for a long time,
+and the big focus of our company right now
+is to make sure that the autonomy is there
+when you need it.
+So, autonomy is gonna keep you out of trouble,
+but how do you know that it's gonna be there?
+And that's what you need
+when you get to a larger aircraft,
+for example, if you're flying
+a Black Hawk autonomously,
+then you better be able to say
+to all the stakeholders like,
+"Look, here's why even if some
+of the main systems on the aircraft
+fail during flight,
+the aircraft is gonna be okay."
+So, that's the emphasis on our program,
+of our company,
+we develop this...
+This kind of software
+and hardware combination that,
+that aircraft use to do their mission.
+<v ->Thank you, that's wonderful.</v>
+So, a couple of ground rules
+that I did not mention at the top.
+First of all,
+I didn't share anything about Carnegie Robotics,
+if ya ask later,
+I'll tell ya.
+But, this is really about you guys.
+And trust me,
+I will tell you,
+'cause I'll talk a lot about what we do.
+Also, if you wanna go on social media,
+and you wanna start you know,
+saying amazing things about this panel,
+please tag everybody here,
+their names,
+and their companies,
+'cause we're selfish like that.
+So, the theme up here,
+and it just kinda hit...
+It kinda struck me this morning
+when we were having our pre-brief,
+that, with respect to autonomy,
+and drones,
+and heck, even AI these days,
+lot of the folks probably thought
+they were gonna come in here
+talking exclusively about
+commercial-type opportunities.
+However, there is a huge tilt towards defense,
+pretty much in everything that we do
+on this stage here,
+how does that,
+focusing on defense-work,
+how does that help get your product to market
+and help grow your business?
+Because after all,
+we are not non-profits.
+So Olga, help us understand that,
+I think we just had a conversation about that.
+<v ->Yeah, I mean,</v>
+I think we've seen over the years
+that the military is a great first customer.
+First of all,
+they have funding to help you
+take a very early prototype,
+to something that can be tested,
+even on the front lines,
+and there's very...
+Various programs that you can go through,
+and maybe we'll touch on them later.
+But, as we've seen throughout the years,
+you know GPS, right?
+Like, we're trying to replace GPS,
+but GPS itself,
+when it was first invented,
+it was first invented for the military,
+they were the first adopters,
+they were the first users
+before it hit the market.
+So, I think what we're seeing
+with a lot of different technologies
+is that the DoD is really good at testing things
+and being that first customer,
+when the commercial market
+is just not ready for your product yet,
+it may be in the future,
+and there's applications that exist,
+but it just needs time to get there,
+and that's kind of the space that I live in.
+So, I think that in the future,
+there'll be plenty of opportunity
+for our company to work with commercial airlines,
+with rotorcraft,
+with all different kinds of commercial customers,
+but right now,
+it's really defense.
+<v ->Right. And years ago I...</v>
+Thank you.
+Years ago, I learned about "Near Earth Autonomy",
+we had not yet know each other,
+and you had...
+It was published that you were doing
+some work with Boeing,
+and that put my antennae up
+because I always wanted to be a pilot,
+and Boeing makes airplanes,
+"So maybe I should go work
+for Near Earth Autonomy."
+But again, your business...
+You know, maybe we will, buddy.
+But your business is...
+Your business is really evolved
+to focus on military work,
+can you help explore that with everybody?
+<v ->Yeah, so like Olga said you know,</v>
+almost every aviation innovation
+has started with the military,
+and the idea is that if you look
+at the commercial world,
+commercial end-users don't want something
+that is sort of there,
+and comes with an engineer,
+but the military is willing to do that,
+so they...
+Big emphasis on robustness,
+big emphasis on performance,
+but not so much on the economics.
+So, the problem with the...
+With staking new technology is,
+straight to the commercial world
+is that it needs very deep pockets
+if you're going to make everything work,
+it has to be...
+It has to be feasible,
+it has to be easy to use,
+and it has to be economically viable,
+so all of those things are hard to make work
+at the beginning,
+to get this technology in a military setting
+where there is funding,
+there's a lower bar for success,
+and a higher tolerance for risk,
+this is what makes it much more easy to work,
+start with the military.
+And then of course these things migrate,
+like from the internet to GPS,
+to all sorts of other...
+Every aircraft that has been,
+except for one rotorcraft,
+has started with a military application.
+Right, and Xiaoyu when you
+and team got Aquatonomy off the ground,
+was there an emphasis on filling a gap?
+Filling a need for the military services
+with your product?
+<v ->Actually, our two technical co-founders</v>
+started their early career by solving complex
+national security challenges,
+one is Dr. Michael Cass,
+he dedicated 15-years of academic research
+on autonomous navigation,
+and mapping in GPS in night environments,
+and his work was used by the navy,
+the army,
+and founded by the Office of Naval Research,
+and army research labs at first,
+and his work is used
+in the International Space Station
+before we incorporated our company.
+Our second technical co-founder
+also dedicated his work
+in marine robotics collaboration,
+he was a award winner of Young Investigator Award
+by the navy...
+Office of Naval Research.
+And so, we're kind of testament
+of how national security needs drove innovation,
+that later we could use
+as a solid tactical foundation
+in commercial applications
+and we continue to observe this as a trend.
+National security applications drive,
+especially in defining old,
+pioneering use-cases
+and goals,
+and be a stable,
+predictable founding source
+for innovations to happen.
+<v ->Right. And, so with military work,</v>
+the requirements,
+there's a high-bar,
+middle-spec, middle-grade et cetera,
+so that translates well
+if ever the commercial markets
+ever were to take over,
+or integrate set product
+across their portfolio.
+So, I can't see a show of hands here
+of folks who have worked with military,
+or any defense conduit in any way,
+or form, but Phil Hahn at AFWERX,
+is accustomed to people like us
+beating down his door,
+asking for help
+and guidance, really we just want money,
+but he helps guide us,
+he and his folks would help guide us
+towards the right path
+of this particular program,
+this funding conduit,
+"Here's where the necessary players are,
+and here's where you have to go to achieve
+said project."
+So, can you help understand...
+Help everybody understand
+your side of the fence
+when you're dealing with people like us?
+<v ->Sure, yeah.</v>
+So, I mean,
+a lot of why AFWERX was founded,
+was to kind of bridge that gap
+of the commercial innovation to the...
+To the department,
+in our case,
+air force
+and space force.
+But, if you look back the...
+You know, the research labs,
+the DARPA's of the world,
+they still...
+They still have all all their projects
+and programs that they're working,
+but we really needed to tap into
+all of the amazing technology that was out there,
+we talked through the requirements process,
+the acquisition process in the...
+In the DoD is very slow,
+and a lot of times we have to have
+that very solid requirement at the forefront.
+And so, what we did at AFWERX,
+was we developed something called
+"The Open Topic"
+and this was more of a,
+"Come pitch the government,
+come show us what your technology is,
+we wanna be a partner,
+we don't need to be the only partner."
+I think in that aspect of it.
+And so, that has lead
+to different funding streams,
+different ways that you
+could get your foot in the door,
+get some...
+Get some of that you know,
+startup capital,
+get some funding early on,
+and then provide those opportunities,
+provide that foresight to...
+To showcase your technology
+to different parts of the DoD,
+that we could then pass that along.
+And so, that development life cycle
+was something that we built out at AFWERX
+and at the other innovation
+organizations in the DoD to really help
+with more of a...
+Think of it more as a partnership,
+instead of just an ownership aspect
+that the government is starting to play.
+<v ->Great. I'm gonna pick on you a little bit more,</v>
+so keep that mic.
+<v ->What we've seen,</v>
+the companies have seen the military evolve,
+and I'm gonna get off the military talk
+in a second.
+But, we've seen the necessary groups evolve
+from just a traditional RFI/RFP process,
+with evolutions of having an AFWERX,
+having a SOFWERX,
+DIU has been especially refreshing,
+the "Defensive Innovative Unit",
+which in translation,
+instead of going to the robust,
+$700-billion army website
+and looking at it,
+and you know it's...
+It's a massive,
+massive entity, the army.
+But, the DIU has unleashed
+a really interesting conduit
+where you go to a website with great gooey,
+great user interface,
+it's easy to navigate,
+it's modern, they put out a project,
+this is all new within the last couple of years,
+and instead of closing down your business
+for a couple of weeks to write
+this robusto proposal,
+they simply ask you for a five-page
+written proposal,
+or 15-slides, not 16,
+not 13, 15-slides.
+Ya hit "submit",
+they let you know within two or three-weeks
+whether or not you move on,
+and they have simply streamlined the process.
+So, how have you seen that evolve
+in your career,
+I mean, now your former career at AFWERX?
+You had a hand in helping
+generate that evolution.
+<v ->Yeah, the whole point coming into this</v>
+was understanding it through the eyes
+of the small business,
+through the eyes of the startup,
+through the eyes of the technologist.
+You know, before...
+Before really the DIU's
+and the AFWERX's of the world,
+playing in...
+Playing in the defense space
+was kinda taboo from that standpoint,
+like they didn't wanna invest...
+You know, venture capital
+actually told investors to not go
+work with the military,
+or work with the...
+Work with the Department,
+for the sole factor of,
+"It's just gonna take a long time,
+it's gonna suck resources."
+So, a big key point
+that we were trying to get to was,
+"How do we make this process quicker?
+How do we let them know
+whether we wanna play or not?
+And do we have the capital,
+and the funding that we can put in place,
+you know, for the technology companies,
+to run them through the life-cycle
+that is the...
+You know, the larger acquisition process
+in the department?"
+And it's not just military application,
+like we talked about dual use,
+you know, the title this is "dual use",
+and so, that was a real key factor
+into what we were looking at,
+'cause we don't want to necessarily
+be that end customer,
+because when you look through again,
+the acquisition life cycle
+in the department,
+there are valleys,
+there are cliffs,
+there are you know,
+we're in a CR right now,
+a Continue Resolution where the funding
+may not come,
+so we definitely look for those
+dual use technologies,
+to be able to have your private sector client,
+your commercial client,
+as well as working with...
+Working with the department to better develop
+your technology.
+<v ->And just super quick,</v>
+and then we'll...
+We'll evolve the discussion.
+More commercial?
+Xiaoyu, can you give us an example
+of if you have leverage any of these
+new form submittals for funding?
+Because after all,
+our businesses need to eat,
+and in order to get off of the ground,
+you need...
+Some of us need to find capital to go out there,
+to help fuel said projects.
+<v ->Yeah, definitely.</v>
+We actually recently won a contract
+from the US Army Corp of Engineers,
+to provide a technology that can be used
+to invest, to monitor,
+and inspect dams,
+and lochs in the Pittsburgh area.
+And the process was smooth as you said,
+you know, because it's improved
+based on the needs
+of the small businesses,
+and the contract is very easy to execute,
+and it really provides a stabilizing cash flow
+for us to further devolve our technology,
+and really focus on getting the technology out,
+rather than satisfying investors' requirements.
+So, this is a...
+This kind of a innovation in a governing space
+is really helpful,
+critical for innovation.
+<v ->Yeah.</v>
+<v ->And if I can add to that?</v>
+So, I mean that's a perfect example
+where it's...
+It's you know...
+You think you're working with the military,
+you're working with the army,
+it's not just you know,
+bombs and drones,
+and stuff that gonna you know,
+attack things,
+we have critical infrastructure,
+we have you know,
+the lochs,
+and the dams,
+and everything else.
+And so, finding the technologies,
+so we don't have to send a diver down
+to look at things,
+or you know...
+Those are the real reason of dual-use
+that we're looking at.
+You know, I don't wanna...
+I wanna make sure that everyone understands
+it's not just the weaponization
+of your technology, it is...
+It is how we can further build
+the national security industrial base.
+<v ->Yeah, absolutely.</v>
+The same with you Olga,
+you guys saw early,
+really quick bids
+that were able to help keep your...
+Get your company off of the ground,
+and you were leveraging simpler platforms
+as opposed to these large robust,
+government, scary proposals.
+<v Olga>Yeah, absolutely.</v>
+Congrats on your win by the way.
+But yeah, our business,
+we've been in business for six-years,
+and that is how we have won
+the majority of our contract,
+is through flexible,
+and these like new,
+smart operations,
+like SOFWERX,
+Army Applications Lab, AFFWERX.
+And we were able to apply quickly,
+get an answer quickly.
+And I think one of the biggest benefits
+is the reporting on it is so much easier
+than anything you've ever encountered,
+if you've ever applied for like an NSF grant,
+or anything like that,
+you know, the reporting on it is so easy,
+and the payout on it is very quick,
+and flexible as well.
+For example, for folks that have not
+worked with SOFWERX,
+I don't know that there's been a time
+in six-years that I've billed them,
+and they haven't turned around a payment
+in like three days.
+So yeah, lots of really amazing
+opportunities out there.
+<v ->Yeah, that's...</v>
+This is vital in order
+to get our businesses off the ground
+and keep them fed until they hit
+that magic button where they don't need
+the runway over here,
+where they have found the path to productivity
+into revenue generation,
+and then subsequently profit.
+So, I have something I wanna pitch to you
+about commercial...
+About transitioning to commercial,
+but I'll...
+I'll share a little of how
+we view it at Carnegie Robotics,
+so we've...
+The group up here views it as commercial
+and defense,
+and I'm sure you do the same, right?
+So, the revenue that we bring in,
+and the projects,
+and the programs that we work on,
+be it software,
+hardware, or just...
+Just a thing,
+just a product or an engineering service,
+we like to segment our revenues
+between commercial
+and defense.
+Now, how you break that down revenue-wise,
+or just hypothetically,
+commercial's the fun stuff, right?
+Those are the programs
+that you're working with a privately held...
+A private company,
+a publicly traded company or whatever,
+non-military, right?
+And you build a relationship,
+and you get that contract,
+you get that work,
+you get that collaboration,
+that partnership,
+and you know,
+ya gotta go through this
+master of services process
+where you're gonna arm wrestle over the IP,
+and the exclusivity,
+and the termination clauses,
+and basically who gets the kids
+in the divorce, right?
+Margins are higher in work like that,
+north of 10/15/20% margin 'cause it's cool,
+exciting work with a private,
+or a publicly traded company.
+Then you have defense work, right?
+I'm not saying that it's boring,
+because it's not,
+it's actually quite exhilarating
+and exciting, 'cause it leads to commercial
+in the future, right?
+You have to go through a difficult time sometimes
+to get said government contract,
+the margins on government work are much smaller,
+5%/6%/7%,
+but it's non-dilutive capital, right?
+It's non-dilutive capital.
+I know with our work we get pretty special
+intellectual property rights
+to help us build subsequent platforms.
+So, the reason that I share that with you,
+is because we have been successful
+as a company now at 15-years-old
+and growing,
+to create a diverse model,
+whereas years ago,
+our government
+and defense work was probably around 15/20%
+of our revenues,
+where now at the close
+of last year's about 50/50,
+so that is a diverse model, right?
+So, I share that with you because we believe that
+that's what we have to do as a company
+in order to...
+Listen, there could be,
+sadly, a global conflict,
+that could impact our business
+with private companies, right?
+There could be a presidential election
+just occurred,
+or there could be shifts in congress,
+Taylor and Travis may break up,
+I don't know,
+there's a lot of things that could occur
+that could impact the trajectory of our business,
+that's why we must be diverse at all times.
+So, I turn over to commercial,
+and I'm looking at you Sanjiv,
+you guys started on commercial,
+you were really working heavily in military,
+are there plans longterm
+to take your technologies,
+and to adapt them,
+and integrate them into the commercial world?
+<v ->That's great,</v>
+and since the topic of this panel
+is about dual-use,
+we think about this all the time,
+and it's a good thing to bring up.
+I'll tell you about
+a conference I went to in Huntsville,
+where the Army Aviation is,
+and what they talked about is that,
+we have three uses of drones,
+or unmanned aircraft,
+they called it,
+"Find it. Move it. Kill it." Okay?
+It's a little hard to take sometimes,
+is I love the brevity of it.
+The "it" is not the same thing, right?
+You don't move the thing that you find
+and then kill the thing that you moved,
+it's three missions, right?
+So now, that...
+Having said that,
+so the question is,
+"Where, if we're going to do
+a military kind of start,
+will we find a commercial use-case?"
+So, I'll tell you that the two cases,
+the "Find it"
+and the "Move it" part
+have commercial applications.
+The "Find it" may be a little bit more nuanced,
+because "Find it" might not be
+just find a target,
+but it's like finding something,
+a fault in there.
+So inspection is a big deal with drones,
+we can...
+We actually have a enterprise much like yours,
+like Thorough,
+we have a division called Proxim
+that is looking to inspect large aircraft
+with small drones, okay?
+And the idea is just like,
+you want to do all sorts of predictive analysis,
+you wanna be able to capture some data,
+we use these small drones that can fly around
+without any infrastructure,
+map a larger aircraft like the C-17,
+but also could be a A380,
+or a 777,
+787, and then be able to find the defects
+and deal with all of the sort of logist...
+The data analytics that's associated
+with containing aircraft,
+which is a very big deal,
+hard to do in the military
+for reasons of footprint,
+you know, the number of people involved,
+but also, very,
+very useful for the commercial side, okay?
+So, we have deployments in Doha,
+working with Emirates,
+and other places.
+Also at the same time,
+we're working with the US Air Force
+to inspect large aircraft.
+The other side,
+the "Move it" side is like an obvious thing,
+you know?
+We need DHL,
+UPS, you name it,
+FedEx want to move things,
+and the idea is that
+if you could move these things autonomously
+without somebody,
+and safely from "A" to "B",
+not the last mile,
+but the mid-mile,
+you could actually be able
+to meet the cost per kilo of a truck,
+and that's a very,
+very attractive kind of a proposition
+to be able to do that.
+So, all of these things
+are a little futuristic,
+they will take some time,
+The FA is not eager to be super progressive,
+or, progressive is the wrong word,
+"cutting edge"?
+Because they care deeply about safety,
+and you know,
+don't get a lot of benefit from making these...
+Accelerating these technologies,
+get their hand slapped when something bad happens.
+So, I think the...
+You know, we have to prove these technologies out
+before they enter commercial service,
+how we're gonna do that?
+Well you know,
+if you've had some technology flying
+for tens or hundreds of thousands
+of hours on a military setting,
+then you know,
+we might be able to make the case
+that it's okay to fly between Allan Town
+and Zelienople, think about that.
+<v ->Yeah, that's far away.</v>
+Thank you.
+Olga, the same with you guys,
+there's gonna be an evolution
+into the commercial space,
+so what kind...
+I mean, without giving away too much,
+and people tweeting it out,
+what can you share
+of what you're looking at
+in the commercial space?
+<v ->Yeah, I mean,</v>
+I think that for us,
+I agree with everything you said Sanjiv,
+you know, safety is very,
+very important.
+So, I see in the future, KEF...
+KEF's products being a backup system
+for you know,
+large aircraft, right?
+So, GPS fails,
+comms fail, pilot can't figure out
+how to land an aircraft,
+might not know where they are in air space,
+a system like ours could be able
+to lead that pilot home safely.
+So, this is in the future,
+right now, you know,
+we're having...
+We can see this all over the world,
+right now we can't even get a small drone
+from point "A" to point "B" without conflict,
+right now, there's been a ton of news
+about airplane accidents,
+and also just confusion in you know,
+GPS, so we need to solve
+these smaller problems first in my opinion.
+<v ->So, 10-years ago,</v>
+I remember, I think a lot of people can relate
+to this in the room.
+I remember going home,
+I saw a drone,
+then I went
+and told my wife,
+go, "Babe, I saw a drone."
+"Really?"
+"Yeah, I saw a drone."
+The dude had a little joystick,
+and he had a little camera on it,
+it was a GoPro,
+like the guys that jump off the mountain,
+like really, could see like perfectly
+crystal clear,
+"Oh, how about that."
+Fast-forward 10-years now,
+everybody and their step sister has a drone,
+and there's a drone company sprouting up,
+probably 10 today,
+in this room, right?
+So, it's...
+And I love that,
+I love that innovation,
+I love that entrepreneur spirit.
+So, those are the challenges
+that you dealt with in you know,
+to try to find that unique value prop.
+You know, we also saw it in autonomy
+with military,
+if you went 10-years-ago to an AUSA,
+Association for US Army,
+you walked in
+and you were autotomizing a thing,
+you were the belle at the ball,
+today everybody's doing it.
+So, our businesses are tasked
+with constantly evolving
+and finding that unique valued prop,
+so in the Aquatonomy space, how...
+How are you looking at the future?
+Because right now you guys
+are building software for cutting-edge processes,
+but you're gonna see where you're gonna go
+in the commercial space,
+or is it the unknown?
+<v ->It is actually not unknown,</v>
+the reason I can say this
+is because we're fortunate enough
+to have very...
+To fuel very early customer engagement,
+even before our products are ready
+to deeply understand
+what the customer's paying points are,
+what their needs are,
+and how they will like solution
+to work for them, both in...
+Because we're in duel technology space,
+we engage customer both
+in the government sector,
+and also in commercial sector.
+Under water environments
+are very difficult to reach,
+navigate, there's no GPS,
+and it presents a very different
+set of challenges,
+compared to land
+and sky.
+Amazingly, currently,
+most of the underwater inspections
+are still done by divers,
+it is very dangerous,
+and a hard...
+Difficult work environment,
+and it's also very expensive
+because of the challenges.
+By introducing autonomy,
+as I said that we're specialized
+in autonomous underwater navigation,
+and mapping.
+Especially in complex areas,
+and even in turbulent water,
+so by introducing autonomy,
+we drastically accelerate,
+and simplify underwater data collection.
+And because of the localization technology
+that we develop,
+we're able to build 3D models that are accurate,
+allowing the users to identify problems
+and keep track of changes.
+So, by introducing the cutting edge technology
+in the industry,
+we transform how things are done,
+so that is the future that we're seeing.
+<v ->I love it.</v>
+I wanna jump really quick,
+because we have five-minutes left,
+to see if there's any questions,
+if everybody's okay with that?
+And we already got one,
+go for it.
+Do it buddy, shout it!
+<v Aaron>Okay. Hi, my name's Aaron,</v>
+so, I wonder how you all think about
+the evolution of the ground control station?
+I mean, some drones are big,
+and maybe they're not gonna ever you know,
+like send their...
+Send what they're looking at or sensing
+into a human at the ground,
+but a lot of the smaller form drones you know,
+the legacy is the come with some custom GCS,
+and if that thing breaks,
+then whatever the drone was doing,
+it's you know kinda worthless.
+So, how do you guys think about that?
+How do you think about,
+as a drone company,
+what's your responsibility
+to think about the network?
+Or do you leave that to others?
+Just looking for your thoughts.
+<v ->Yeah, thank you.</v>
+We decided that not only did we want
+to actually work on the autonomy in the air,
+but we wanted to create a whole ecosystem
+for how drones could be used
+to request for supplies,
+to then monitor the aircraft
+that actually deliver it,
+to re-task them,
+or doing anything that exceptional.
+So, we created a thing
+called "Push Button Delivery",
+which sits on top of some standards
+like 8TACK, okay?
+So, "Push Button Delivery"
+has exactly the amount of information
+that a person in the field needs
+for just the logistics task,
+and you can imagine I think the way to do this
+is not a confusing kind of a panel
+with all sorts of status,
+like somewhere in here with lots of tabs,
+et cetera, to be able to look
+at the different status,
+you wanna know as the requester,
+"Hey, I asked for something,
+I asked for this in the field,
+and now, how far away is it?"
+And it's close by,
+is it okay to land...
+Loiter or land,
+okay to land,
+and if it's not,
+if the person doesn't respond,
+it has to make it's own mind up
+whether she's okay to land,
+or go back.
+So, this is the idea of what we call
+"Push Button Delivery",
+and I think the idea of comms channels,
+I think you wanna be completely transparent
+to whatever is out there.
+So, in our case,
+we use mesh radios,
+the ones that the marine corp uses,
+we use some sort of a Satcom kind of thing
+and any other kind of like cell service,
+that's all built into a comms panel,
+which is completely transparent to the user.
+So, if you're...
+If you're nowhere where there's infrastructure,
+then you have a slower link, okay?
+And the idea is that the person
+on either end of the delivery thing
+is gonna only look at very,
+very low bandwidth kind of information
+using all the information
+that's already out there.
+And so, you can get it faster,
+or you can get it,
+you know, whatever is the...
+Is the mode that works the best at that time,
+so that's just completely transparent,
+we don't wanna take any kinda stake
+into what kind of...
+What kind of challenge should be used.
+<v ->Thank you. Any...</v>
+Anybody else, another question?
+Oh. Enthusiastic in the front. Here.
+<v Shonya>Hi, my name is Shonya,</v>
+and my question was around a point
+that you mentioned,
+that the FA's being super cautious
+with you know,
+allowing commercialization
+of technology like drones,
+but then we see companies like Zipline,
+Prime Air already building infrastructure
+for you know,
+delivery, last time delivery.
+Do you have a metric
+or a number of years where you can say,
+"Okay, in these many years,
+commercial drones are going to be
+a normal thing in society."?
+Or at least in the US.
+<v ->We have to go,</v>
+15-seconds or less,
+answer it, 'cause I wanna get to work.
+<v ->I don't think that there is any such thing,</v>
+any prediction that works here,
+I think it has to do with politics,
+it has to do with a level of safety
+our society decides it wants to, okay?
+I can say more later if you like.
+<v ->Who else?</v>
+This person. That person.
+<v Bob>Bob Kurt, Wilkins &amp; Barker.</v>
+I had a quick question on the public panic,
+the fever pitch over drone sightings
+in the North East,
+do you think that's going to be
+good for business or bad for business,
+and why?
+<v ->Those were Olga's drones.</v>
+<v ->Mike, you said you weren't gonna tell anybody.</v>
+<v ->Olga, do you have a response to that, or?</v>
+<v ->I could just tell you at Thanksgiving,</v>
+it was the sat with this.
+"Those are your drones?"
+"Those are your drones?"
+Sorry, can't say.
+If I ever told ya,
+I'd have to shoot you.
+I think that there's some hysteria here
+about the kinds of drones,
+and we just haven't gotten used to it,
+just like self-driving cars,
+this is a technology that has...
+I mean, the technology works,
+but there's a question of public acceptance,
+it's just gonna take some time
+for us to be able to do this.
+<v Terran>Hey folks, my name is Terran.</v>
+Very nice discussion,
+I kind of have a very,
+maybe like a general question for folks,
+as someone who's worked on
+autonomy systems in the past.
+With the advent of where AI is going,
+and all the innovations in AI specifically,
+how fast are your guys' development cycles
+for your stacks?
+And, is there an AI tool,
+or an AI system that you think
+would make your work faster?
+<v ->Let me give it to you again.</v>
+Go for it.
+<v ->Okay, so look,</v>
+AI and machine learning
+are sort of being conflated, right?
+I don't know what you call AI,
+but I'm betting that,
+that is the case,
+that it's machine learning.
+We try as a company,
+not to put any of that
+into safety critical systems, okay?
+Safety critical systems need a process,
+it's that part I talked about,
+about the assurance that you need
+to prove to people that...
+All the stakeholders, right?
+That the user,
+the sponsor,
+and even the insurers
+that this thing is gonna work.
+And aviation has very establish standards,
+170A/DO254, you can't skip those kinds of things,
+if these things is gonna have
+some sort of a lasting impact.
+So you know,
+hey you wanna use machine learning
+to possible detect lung cancer early?
+Go for it.
+You know, you want it to detect
+that your carburetor is potentially misfiring
+ahead of time,
+early warning,
+or your tires are getting worn out?
+Go for it,
+you know, ahead of time.
+But, to put it inside a decision loop,
+I think is a mistake
+and you know,
+all of these people trying to think
+that more data is gonna solve the problem,
+just see how many years it is
+before we have a million
+Robotaxis running around.
+That was promised many years ago,
+I'm still waiting,
+so I think, you know...
+<v ->We take a similar approach.</v>
+I know we're over time,
+but if you wanna get up
+and leave, you can leave,
+but I know there's probably two more questions,
+if you'd like?
+Go ahead, sir.
+Go ahead.
+<v Audience Member>So, as a member</v>
+of the RC model aircraft community,
+once the Walmart drones came out,
+basically the FA nearly killed the hobby.
+So, seeing...
+And it has a massive track record,
+very long track record of no incidents.
+So, keeping that in mind,
+when I see this commercial drone...
+over cities,
+I always think about this technology,
+and then actually trying to get
+the technology into the public sphere.
+Something as simple as,
+you don't have a camera,
+it won't have video feeds,
+you're gonna record those video feeds,
+now what about,
+you flew over someone's backyard
+and they were sunbathing without any clothes,
+you know?
+Just simple stuff like that you know,
+that's an extreme example, but...
+And like for example,
+wind turbines,
+they fail not because of the technologies,
+because of local...
+<v ->Yeah, thank you.</v>
+<v Audience Member>So, the question was,</v>
+is there...
+What are...
+What's in place to start addressing
+those kind of concerns?
+Whether it's amongst you,
+or is there like a lobby group
+that is starting to think about this,
+and has to come up with education
+for the politicians...
+<v ->Get him, Sanjiv!</v>
+<v ->Oh jeez.</v>
+<v ->Sorry rest of panel,</v>
+I'm just gonna have Sanjiv just take 'em.
+<v ->Okay, so there's a simple thing</v>
+that I think the mayor of Pittsburgh,
+the ex mayor of Pittsburgh said,
+we we were talking about this,
+and he said,
+"Well, what is the rule
+that you'd have to have,
+what is the common sense idea
+that if somebody put up a camera on your house,
+looking into the neighbor's yard?"
+You know?
+The same thing should apply to drones, you know?
+So, there's some common sense things
+I think...
+I'm not as worried about privacy
+as I am with safety.
+And here's the thing that I wanna say,
+a little controversial,
+the same things that we are working on
+to keep these...
+Make these aircraft fly safely,
+even when things go wrong,
+could be used in not so great uses.
+If you have a low-flying aircraft
+that can fly by itself,
+that doesn't need any comms,
+and doesn't need any GPS,
+where could it not go, right?
+So, I think that the safety issue
+is a bigger issue right now,
+both from the idea,
+"What happens if it doesn't work,
+and it falls?"
+You know, somebody walking their dog,
+and then a drone falls on them?
+Okay, that's no good.
+But, what if it also works?
+What if it works really well?
+That's also not that great in the hands...
+In every set of hands.
+So, I think there's safety issues on both sides
+that are much bigger than the privacy issues,
+which I think some common sense will sort out.
+<v ->I'd like to end it there</v>
+because we're over time,
+and Sanjiv needs water.
+But, we're gonna be sticking around,
+if anybody has any questions,
+wanna come up
+and see us?
+Please look up all of our companies,
+"carnegierobotics.com',
+"Near Earth Autonomy",
+"Aquatonomy", "Divergent",
+"KEF Robotics".
+I'd be remise in not closing remark saying,
+thank you, special thanks
+to the Pittsburgh Technology Council,
+and the Allegheny Conference
+who are our two flagship entities,
+and Pittsburgh who helped put this together,
+we rely upon them for everything.
+So, Pittsburgh Technology,
+"pittsburghtech.org"
+and Allegheny Conference
+on community development.
+Also, two things.
+One, I gotta mention the
+Brunswick Corporation booth,
+because that's who are our partner is,
+we developed the autonomy
+for the large Boston Whaler that you'll see
+right downstairs,
+West Hall 6116.
+And finally-finally,
+all of this works because of collaboration
+and partnership,
+Pittsburgh is known as the robotics capital,
+if you haven't been there,
+please come, because it is a special place,
+it's magnetic, it's electric,
+everybody wants to be a part of it, right?
+We have a friend
+and a colleague who's sitting out here,
+Dr. Amanda Scrowe from NAYA Systems,
+NAYA's a competitor of ours, right?
+It's probably the only two competitors in town,
+but guess what?
+We're friends,
+and we are invested in each other's success,
+so next year we'll have Amanda
+sitting up here with us,
+wherever you are Amanda.
+And, all of these companies here
+work together,
+you've heard of Aurora,
+the self-driving truck?
+They are a partner of ours,
+they were in our high bay you know,
+using our water jet last week,
+10-people, 12-people,
+my facilities people brought them lunch, right?
+This is who Pittsburgh is,
+this is who we are,
+we are not siloed,
+and that's what makes us different,
+and special.
+Thank you, enjoy the rest of your conference.

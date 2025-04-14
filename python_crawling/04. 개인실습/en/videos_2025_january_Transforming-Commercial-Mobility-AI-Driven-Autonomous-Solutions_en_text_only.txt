@@ -1,0 +1,945 @@
+<v ->Hello, I'm Ed Bernardon with Code19 Racing,</v>
+and I wanna welcome you all to our CES '25 panel,
+Transforming Commercial Mobility
+with AI-Driven Autonomous Solutions.
+And I want you to start off
+and think about when you hear the word autonomous vehicle,
+you probably think about a robotaxi or a self-driving car.
+But today, we're gonna shift that focus,
+we're gonna shift it to commercial autonomy.
+And in some cases,
+we're gonna combine autonomy with automation.
+And these are applications where they're AI-powered,
+they're in unstructured environments,
+and they're defined by the three D's,
+dull, dirty, or dangerous,
+some combination of the three D's.
+So these are all the types of tasks
+that humans would just love to give to a machine.
+And so what we'll do is we'll start off with a quick,
+have each of the panelists introduce themselves,
+and then we'll jump into the questions right after that.
+John, go right ahead.
+<v ->Hello, I'm John Beck.</v>
+I'm the director for Autonomy &amp; Active Safety
+at Oshkosh Corporation,
+a global industrial technology company
+that builds purpose-built vehicles
+and other equipment for fire and emergency,
+refuse collection, construction, access equipment defense,
+and airport products.
+<v ->And I'm Don Burnett, I'm the founder and CEO of Kodiak.</v>
+Kodiak is a technology startup
+working in the self-driving space.
+We really like to think we embody the dull, dirty,
+and dangerous.
+We have trucks,
+our autonomy technology running in semi-truck over the road,
+working to carry freight all across the United States
+with some amazing partners like J.B. Hunt
+and Werner Enterprises and many others,
+but we also do off-road autonomy and unstructured autonomy
+in context like military applications.
+We work with the U.S. Army
+and provide off-road autonomy services there.
+And we also run freight
+for off-road commercial applications.
+We have customers in and related to the mining industry,
+where they're moving goods, raw materials,
+and other things in and out of mining environments.
+And those very, very dull and dirty jobs
+are ones that are ripe for automation.
+So thank you.
+<v ->Hello. Good afternoon, everybody.</v>
+My name is Carolina Diez,
+and I guess I'm the only non-American in the panel,
+so just take it easy on me.
+I'm vice president of Future Solutions
+in Volvo Construction Equipment,
+which is the construction
+and infrastructure part of Volvo Group, Swedish company.
+And we do trucks, construction machinery, buses,
+and engines for boats as well.
+<v ->And, Jeremy?</v>
+<v ->I'm Benjamin Lyon. Great to meet all of you.</v>
+And I'm the Chief Technology officer of Aptiv,
+and Aptiv makes autonomous solutions
+that run in many, many passenger vehicles
+as well as commercial vehicles all over the world,
+in addition to autonomous systems
+to drive 5G networks in the United States
+and all over the world.
+<v ->So, John, let's start off with Oshkosh.</v>
+You do all sorts of different applications, construction,
+you do refuse collection, defense.
+How does AI help you bring value
+to these kinds of applications?
+<v ->Sure. So I can walk you through a few examples</v>
+and we'll start with in the construction space.
+So we have an access equipment business unit
+that makes the boom lifts
+and telehandler that you find on every construction site
+around the world.
+We are currently developing an all electric version
+that has a self-leveling chassis, and on that is a boom.
+And the idea is that it can transform
+either between a boom lift for carrying people up and down,
+or it could be, you know,
+put a implement on the end like forks for moving materials.
+We're also exploring various end effectors
+that can, you know, perform the work at height
+rather than a person.
+So it could be a power washer, it could be a saw,
+it could be something that could hold materials in place
+while a person is fasting in place, welding,
+you know, bolting, what have you.
+We're also, you know, that particular platform,
+self-leveling, but we're looking at applying AI
+to the perception stack on that one
+to identify common obstacles and materials
+in the construction space
+so that as it maneuvers around, it can avoid those.
+Furthermore, because it's fully electric,
+we are developing an autonomous mobile charging robot
+that could detect when these electric vehicles
+get low on charge and navigate to those vehicles
+and autonomously connect and charge them in place
+as opposed to these vehicles
+going back to essential charging area.
+Then we can move into, you know,
+and the airport products
+and the ground support equipment there.
+First we have, you know,
+Aerotech builds and sells the jet bridges
+that you use to get on and off airplanes.
+Those things are very hard to control manually.
+You know, they're big, they're kind of clumsy.
+You use a joystick,
+you have the three degrees of freedom,
+left, right, up, down, forward, back,
+plus it sort of pivots.
+And there's a, you need to accommodate a multitude
+of different types of aircraft.
+It's the perfect opportunity to automate.
+I'm sure you've all experienced
+being late coming to the gate
+and then having to wait an extra 20 minutes
+for the gate operator to get there
+and drive the thing to the plane.
+So I've always wanted to automate these things.
+Now we're doing it.
+An it autonomously, you know,
+it recognizes the shape of the door,
+the sides of the fuselage,
+and autonomously approaches to within about an inch or two
+of the aircraft,
+and it allows a human operator
+to get it the rest of the way.
+On top of that, the Aerotech,
+we're looking at automating fully electric cargo
+and baggage handling equipment,
+where, you know, the airports are extremely well defined.
+They've got open skies.
+And although they are very, very busy places,
+because of the, you know,
+the nature of fairly low-speed operations,
+and it's very well known,
+with coordination software,
+it seems to be ripe launch point for autonomy.
+And then some sort of less mobile applications
+as we're using AI on refuse vehicles
+to, you know, camera system be able to understand
+the difference between a trash can and a refuse can
+and locate those things for curbside collection.
+And then the arm that comes off the side of the vehicle
+can automatically grab that can and empty it into the back.
+Another camera that's in the hopper of that refuse vehicle
+can detect contaminants in the recycling stream,
+which informs the operator
+that, you know, now you have a contaminated load
+and don't take it directly to the clean recycle sort plant.
+Instead, take it to a sorting facility
+so that it can be cleaned up.
+And that brings value to the customer.
+And then also there's some technology
+that was born in the motorsports world,
+where Corvette Racing had a rear-facing radar on camera,
+be able to de determine the trajectory of vehicles
+that were overcoming it in racing.
+Our fire emergency business unit is using that
+to alert roadside emergency responders
+in the event of an impending collision.
+So.
+<v ->One of the interesting things, I think,</v>
+when we first spoke, 'cause you didn't,
+when you're talking about your refuse collector,
+for instance,
+you didn't say that it was autonomously driven.
+So this idea of autonomy and automation,
+or how do those come together?
+Because there's a lot of things that happen
+when you're picking up garbage
+that don't have to do with driving,
+and yet automation and AI
+is helping make that task more efficient, safer.
+<v ->That's absolutely true.</v>
+So there's, you know, it takes a skilled operator
+to do that, particularly the curbside collection.
+Certainly, we're looking into eventually
+having sort of a self-driving,
+where the vehicle can collect,
+drives itself to from can to can,
+and those types of things.
+<v ->But it's not necessarily the most important thing.</v>
+<v ->Exactly.</v>
+Right now, it's make it more efficient
+for the operator in their day-to-day lives.
+They do this thousands of times a day, so.
+<v ->That's the dull part.</v>
+<v ->That's the dull part. Exactly.</v>
+And, you know, so an electric side-loading arm
+is a few seconds faster than that.
+And over the course of a day that,
+that makes up for about 45 minutes.
+<v ->Don, when we spoke, you mentioned that you think</v>
+that autonomy is at an inflection point that's driven by AI,
+especially in unstructured environments.
+This is really what we're all talking about here.
+Tell us about this inflection point, why now?
+<v ->Well, when you look at the results out there,</v>
+I've been in the self-driving industry for over 15 years.
+It's been a very long, slow, arduous process.
+I'm sure most of you are aware of the history
+and all the promises.
+And, you know, it's here, it's gonna be next year,
+it's gonna be next year, it's gonna be next year.
+And it feels like it really never came, until now.
+And it's finally, it's finally here.
+There's many examples of self-driving vehicles
+that are out there in the wild.
+I think Waymo is the most prominent.
+Most of you are probably familiar with that.
+Hopefully, many of you have actually had an opportunity
+to ride in a Waymo.
+Even though it's not my company, I'm a strong advocate
+for the great things that they're doing for the industry.
+It truly is an amazing experience,
+and everyone should go experience it
+because I truly believe it is a life-changing experience.
+And once you have that, you really see the path.
+But that's just one example.
+And as Ed mentioned in the beginning,
+we're not necessarily here to focus on Robotaxi.
+There's so many other use cases,
+particularly in the commercial space,
+but also in the military space, in refuse, in vocational,
+there's all of these opportunities to automate mobility.
+And the interesting thing for me
+having seen the trajectory of technology
+over the last 15 years
+is that in the last two to three years,
+we've seen an explosion in capability,
+particularly generalizable AI.
+And rather than really specific niche use cases,
+we've seen the technology kind of proliferate
+into general use cases,
+which has allowed us to take it into off-road
+and unstructured environments, like Ed mentioned.
+To give you an example of that,
+we have, Kodiak has driverless vehicles
+that are out operating today.
+These are Class 8 semi trucks,
+and they're operating out in a place
+called the Permian Basin in west Texas.
+This is the oil and gas fields of Texas.
+If you've ever been there, it's incredibly remote,
+there's not much around, but there are road networks.
+And they're mostly on dirt roads.
+So you get a lot of unstructured environments.
+It's not really an area
+that's conducive to mapping technology.
+You can't really go out and map it ahead of time
+because the sand is shifting, the dirt is shifting,
+the roads are shifting by the minute.
+So everything's always changing.
+And it requires a very generalizable AI system
+to be able to understand the world,
+make sense of the road boundaries,
+make sense of the drivable corridors,
+detect other dynamic vehicles in the vicinity.
+So it's not mining, meaning it's not an enclosed area.
+These are road networks where you have oncoming traffic
+and pedestrians and, you know, crossing ways
+and other kind of complex maneuvers.
+But with the advent of VLMs
+and all of the transformer AI technology we've had,
+we've been able,
+the industry has been able to really push the limits
+of what we previously thought was possible.
+And now you're finally starting to see these deployments.
+And so I think it's only going to accelerate.
+That's why I talk about 2025
+really being the inflection point of autonomy.
+It's no longer about, "Don't worry, trust us, it's coming."
+Although some companies continue to, you know,
+say that year after year, but there are concrete examples
+of this technology out there,
+providing useful value to companies today.
+And 2025, 2026,
+you're gonna see a massive amount of scaling.
+And now it's really about the operational efficiency
+and other less R&amp;D, less technology-driven,
+or less technology-related challenges
+that still face the industry.
+But I think it's a very exciting time
+to be in self-driving and to be in automation in general.
+<v ->You know, every industry has its characteristics,</v>
+its personality.
+And let's take trucking, truck for instance.
+I was fortunate to get to see your truck a few days ago.
+And the trucking industry
+could probably be described as conservative.
+They're not gonna be at the forefront.
+<v ->Trucks are conservative.</v>
+<v ->So when you're designing an autonomous,</v>
+let's say I want to tackle
+this autonomous trucking application.
+Certainly, there's the AI, there's the sensors,
+there's the planning, the perception,
+but then there's also the mechanical aspects
+and the ability to develop trust with your customer.
+<v ->Yes.</v>
+<v ->That's what impressed me the most about your truck</v>
+is you can take, if I'm a fleet owner,
+you can come in with the right partners
+and actually make that truck autonomous.
+<v ->Yeah, that's right.</v>
+So we've developed a platform-agnostic solution.
+It's not tied to any one specific make or model,
+which is really important in the commercial trucking space
+because most companies use many different makes and models
+of their vehicles.
+So we wanna make sure we're not tied to a specific one.
+We wanna create hardware and sensors that are universal
+so they can be put onto any vehicle that comes around.
+And we wanna make the maintenance
+and installation process dumb and easy, right?
+They don't want to have to deal with anything sophisticated.
+They just want the technology to work.
+And it all comes down to exactly as you said, Ed, trust.
+And it's taken a lot of time to build that trust.
+We've been working at this for seven years at Kodiak
+and many more years be before Kodiak.
+And we've, I feel like we finally cracked the code, right?
+When you talk to trucking companies,
+they believe this technology is real.
+They believe that...
+They see the benefits to their businesses
+and they're really starting to trust
+that this technology is gonna be transformative.
+But it was a long road, no pun intended, to get here,
+but we're finally there.
+<v ->Carolina, Volvo Construction Equipment,</v>
+and I'm gonna read from this,
+wide range of machinery, excavators, wheel loaders,
+mining haulers, compactors,
+pipe layers that operate in all over the world.
+And certainly in Asia, the rules are probably different,
+the regulations are different than they are in Europe
+or the United States,
+but maybe in the northeast corner Colorado,
+there are different rules there is in the southwest corner,
+who knows what?
+How does AI help you in not just the operation
+of these kinds of machines, but the engineering,
+the operation, and then maintaining them and improving them?
+'Cause AI applies all across these diverse
+and challenging applications I would imagine.
+<v ->We do have a very big palette of operations</v>
+in Volvo Construction Equipment.
+And it's to the point we do have a very different customers.
+They work in different segments,
+their businesses are extremely complex,
+and they're very, very different.
+If we think about, it's extremely different
+to extract materials on a quarry, to construct a road,
+to build a playground.
+The landscapes, the challenges,
+the purpose of our customers are extremely different.
+And on top of that,
+we need to understand that these environments
+are extremely dynamic.
+They change.
+And even though the site managers
+plan them as good as they can, things move along the way.
+It's always changing.
+And on top of that,
+before we com in into regulations and how AI help us,
+the environment needs our products to be robust.
+And the durability is actually important for us
+because we have, we are working in very rough conditions.
+Good for us, we have AI supporting us already.
+We do have, for instance, connected map.
+We have 170,000 connected machines.
+And there, we extract the data for the machines.
+We're learning how they work,
+we are learning how they're operating.
+And by that, we are supporting our customers
+to take wiser decisions when it comes to productivity.
+And it's also supporting us, to your point and question,
+to get a better understanding of our products,
+to keep learning.
+We are a company with a very long history
+in production machinery.
+But nevertheless,
+we want our products to be the best our customer can have.
+And so that's, for instance, AI is supporting us very much
+with a predictive maintenance as an example.
+Then, when it comes to autonomy
+and how the machines will look like,
+we do have different challenges than the, let's say,
+car industry, for instance,
+because of course,
+mobility is something that is very interesting for us.
+And we could understand that in some of our systems
+where we have confined areas with the safety standards,
+it can be easier for us to move into autonomous solutions.
+But nevertheless, we do have also segments
+where there's other equipment,
+there is people moving around, and it's very tough.
+So it takes a bit more time for us to get there.
+Just to give some examples, if we think about,
+you said before, we have wheel loaders, we have excavators,
+we have numbers.
+Place yourself, picturing your mind a large excavator.
+Most of the times,
+I mean, they are pretty much at the same spot.
+They don't really move.
+So in this equipment,
+the moving is perhaps not the most of the difficult things
+for us to do, automotivewise,
+but we need to understand
+that our products are doing a process.
+They're used to do something.
+So is the mobility of the boom and the arm
+that is perhaps more interesting.
+Our machines, they do several different things.
+An excavator can drill, can trench.
+So we really need to get an understanding
+of how the process is working
+and also how the attachment will go.
+How does it swing? How does it tilt?
+So for us, to do the automation in these machines
+is all about knowing our customers and knowing our products
+and understanding how they work in different environments.
+Coming into, when we spoke last time,
+if you remember, you were extremely interested
+in the LX03,
+which is the autonomous electric wheel loader we have.
+Volvo Group had a keynote yesterday,
+and our CTO, Lars Stenqvist, talk about it a little bit,
+and it's one of my favorite projects, if I have to say,
+'cause it's my guys in my department working with that one.
+And this is bringing the technologies that we see right now
+and innovation to the next level.
+What we did with this was to really say,
+"Okay, we know how the wheel loader works
+because we know our customers.
+However, how is it gonna be?
+How is it going to work in the future?"
+And not just on the autonomy, on the software side.
+I mean, do we really need a cab?
+We need to think how our products
+are gonna be in a different way.
+So luckily for us, we do have a very, very good relationship
+and partnership with LEGO Technic.
+So we approached those clever guys in Denmark
+and we put a question.
+And we really jumped directly together.
+We did the sketches.
+And on top of that, we did have,
+when we do partnerships where we have a reference group
+just to see that we're going in the good direction.
+And this time,
+at least for the very first time for us
+in Volvo Construction Equipment,
+we had children with us.
+And that was super great.
+I mean it's fantastic to work with kids
+because the sky's the limits.
+They have no boundaries when we think.
+And that's where the concept of the LX03 came out.
+This machine is of course following Volvo Group's,
+and by that Volvo Construction Equipment's
+sustainable commitments,
+we want all our products to be electrified
+and sustainable for 2040.
+That's our target.
+So this particular machine, it's a five ton,
+and it's fully electric, it's autonomous.
+And what we are doing with it
+is that we based component wise on the L25 Electric
+that we have right now.
+So just to make sure that, okay,
+how is going to be autonomous and electric at the same time?
+So this is a prototype.
+Of course, it's something
+that we are not commercializing right now.
+That is why the machine is green.
+But it's supporting us to understand,
+okay, how is the machine going to to be,
+how does it interact with other prototypes
+and other concepts that we have?
+How is the system going to work?
+Because in the end, our machines,
+and I guess everybody here agrees with me,
+they do not work on their own.
+I don't have an excavator and I do my thing.
+I need a damper, I need a truck.
+So it's all about the process.
+So it's really the moment right now
+to understand how this collaborative environment
+is going to be,
+how the machine-machine interaction,
+how the machine-human interaction is going to be.
+And we want these machines to be intelligent autonomous.
+This is going to help our customer to have a safer,
+more productive, and of course, sustainable environment.
+But it is right now that's coming to the moment
+that we see that right now is when AI is really coming.
+We see that we are getting the,
+I mean with the knowledge has been there for many years,
+but we see that it's really coming right now
+in construction.
+At Volvo Group,
+we are really wanting to have trustworthy systems.
+It's very important for us
+that we develop our AR systems in the right way.
+That they're fair, that say we are being secure,
+that we are transparent,
+that we can actually have a traceability
+to make sure that the decisions
+that our machines are learning right now,
+because we're in a learning phase,
+but in some years, when they really come out,
+that we really make sure
+that we're doing things right from the beginning.
+<v ->I wanna talk to you a little bit about that learning.</v>
+So I would imagine most of the people in this room
+know how to drive or have a driver's license.
+And so they say, "Oh, okay,
+so they understand what Waymo is, you know,
+is trying to do."
+So I have tried to run a backhoe before,
+and the guy that was running the construction company
+that was watching me pulled me out of the seat really fast.
+And it's a little tricky.
+It's not just knowing how to articulate it,
+but you have to look for rocks and this and that.
+So how do you...
+And, you know, it could be a big rock, a little rock,
+who knows what, or a pipe that you don't wanna burst,
+whatever it might be, how do you go about.
+It seems to me that that's a tougher job
+than avoiding the bouncing ball
+in front of an autonomous car
+that's coming outta the playground
+and putting the brakes on.
+How do you anticipate all these edge cases
+and deal with them?
+<v ->It's all about the learnings.</v>
+I mean, luckily, we have been a corporate,
+I mean, we have been cooperating with our customers
+for many, many years,
+and they really know how their ecosystems work.
+Even though if we talk about a quarry
+and we know that there's no two quarries
+from the same customer that look like the same,
+they know their business.
+So for us, it's really, collaboration is the key,
+the partnership.
+We're doing this co-creation together with them
+because by getting an understanding
+of putting these machines in a safety environment
+in the field to really try,
+that's when really the magic happens.
+<v ->Benjamin, you had a long career at Apple</v>
+in the special projects group,
+then you went on to work in satellites.
+So the question for you is,
+how does what you learned in those applications,
+'cause they don't seem to be like a wheel loader
+or an off-road truck or garbage collector.
+How did what you learned there
+provide a foundation that can be applied
+to these commercial off-road construction
+and type applications?
+<v ->Well, it's a good question.</v>
+I would start with the thing
+that actually every one of our panelists said here today,
+which is they really deeply understand their customer.
+And at the end of the day,
+all of the technology that they're employing
+is really to a single goal,
+and that is to deliver a great experience
+for their customer.
+And their customers have different goals,
+but they're using the technologies
+all to deliver a very high-class solution
+to their customers.
+And that's something I think that is really universal
+in great technology companies.
+So I would start there.
+The other thing that I would talk about
+is there's a big change
+that we've all been kind of describing,
+which is old school AI was very rule-based,
+where you would do a lot of data collection
+and you would learn in your particular application,
+if this happens, then do that,
+which we call rules-based.
+And the problem with that is, is that the automation,
+be it automated networking, be it an automated loader,
+be it an autonomous car
+or an autonomous rocket going to space
+or a satellite moving around in space,
+you don't deal with new situations very well that way
+because you look through your list
+of everything you learned from the past.
+And if you don't find it on the list, what do you do?
+You wait for more data and then you try again.
+The new school of AI
+is all about an end-to-end machine learned approach,
+which is actually the way humans work.
+We learn and we get this generalized intelligence
+that the panelists have been talking about.
+And because of that end-to-end learned approach,
+you're able to handle new situations really, really well.
+And that difference is why the world of AI today
+is fundamentally different than a year or two years ago.
+<v ->When we spoke earlier this week,</v>
+you talked about the concept of big AI and small AI
+and how that really applies to these types.
+Maybe you could explain that, what you really mean by that.
+<v ->Sure.</v>
+And it actually, again, it ties very much
+to all of our solutions.
+When you hear about large language models
+being used to create a beautiful movie or a new graphic
+or solve some very difficult mathematical problem,
+that's all running on a data center.
+And in that data center,
+there's many, many thousands of pieces of compute,
+and that's tied to usually to a power station.
+And so you're consuming a tremendous amount of power.
+But when you're out in the middle of the nowhere,
+in the middle of nowhere or you're on a smart device
+or you're on a vehicle of some sort,
+you're limited by the amount of energy
+that can be provided by the battery
+or by the combustion engine
+or by solar, if you're in space, that you can get.
+And so the magic of actually bringing AI to market
+is the ability not only to run the big stuff
+in the public cloud on a data center,
+but then to turn around
+and be able to write super, super optimized algorithms
+that can run on a cheap little chip inside,
+maybe even inside the sensor like a radar or a camera
+on an excavator or on a car
+and have it provide the value that it needs to provide.
+So you have to be able to go from really, really small
+to really, really big, and that requires optimization.
+And so all of the panelists,
+well, one of the things we deal with
+and have to build the capability for,
+what we call an AI factory,
+is the ability to take what might be great academically
+and can run in a cloud
+and optimize it to really perform at low power
+on a small footprint.
+<v ->I mentioned early on that a lot of these applications</v>
+are dull, dirty, or dangerous.
+And so for a second, I wanna focus on the dirty part,
+and I'll tell you why.
+I was involved in a project,
+where we were trying to get rally cars
+using autonomous technologies,
+lidars, radars, cameras,
+whatever it might to detect spectators.
+And if anybody knows about rally,
+there is dust and dirt all over the place.
+In the end, we ended up focusing just on radar
+'cause it was the only one that would really work.
+So maybe could you give an example,
+maybe start with you, John, of how the dirt and the muck
+and all this that it's all over the place
+in these applications.
+How does that change fundamentally?
+What's at the base here, the sensors, the perception?
+<v ->Yeah, dust, airborne obscurations are obviously an issue,</v>
+and, you know, one way of dealing with them
+is multimodal perceptions.
+So, like you said, radar can see through it.
+Lidar sometimes can, sometimes can't.
+All dust is different.
+But again, by training models,
+you can do get to the point
+where if you can see the ground in front of you
+and you know that you're dealing with heavy obscures,
+you can limit your speed just like you do,
+just like you and I do in a dusty situation.
+We slow down until we can, you know, see the stuff.
+<v ->It's not just the sensor,</v>
+just the whole programming, how it all works together.
+<v ->It'd be wonderful if we had a sensor</v>
+that could see through clearly.
+<v ->But it's exactly what a human driver would do.</v>
+Getting, oh, all of a sudden the rain's super strong,
+you slow down a little bit till it goes away.
+That kind of thing.
+<v ->Yeah, exactly. Yep.</v>
+<v ->Any-</v>
+<v ->One way of doing it.</v>
+<v ->Anyone else?</v>
+Sure, I mean I completely agree with what was just said.
+The other consideration you have to think about
+is in the cleaning of the sensors, right?
+So if you're throwing muck and dirt
+and debris up into the vehicle that you're riding,
+particularly in a rally car situation,
+I've never driven rally car,
+but I'm vaguely familiar with it, then sensor cleaning
+becomes an important piece of that, right?
+Having a forced air and kind of fluid or wiping
+or something like that, designing those systems
+becomes a critical piece of your safety story.
+If this is a driverless vehicle
+that is in a safety critical environment,
+which most of these driverless vehicles will be,
+then that becomes a critical piece of your safety story.
+The other thing, and I think this really illustrates
+the importance of multimodal sensing.
+And there's a lot of different schools of thought out there.
+And depending on who you listen to,
+who's on stage at the moment,
+they might tell you that cameras are the best
+or that lidar is the best or whatever.
+But the truth of the matter
+is that these different modalities
+have different strengths and weaknesses.
+And in particular, as John mentioned,
+radar sees right through all of it.
+So it can be a very, very powerful sensor
+when you have dust or rain or dirt or snow
+or any of those kinds of things.
+And then the camera,
+the camera can really work with lidar
+even in an obscured situation
+to identify and classify what you're looking at.
+And then by classifying it, your AI algorithm can then say,
+"I'm gonna reject this or not."
+And it's really hard to do that just with lidar,
+and it's sometimes very difficult to do that
+just with camera.
+And I think this really gets to the argument
+of why so many companies developing this technology
+rely on and spend so much time
+optimizing multimodal solutions
+because those multimodal solutions
+can really help when shits the fan,
+figuratively and literally sometimes, but.
+<v ->I can know more than I agree with what you say.</v>
+I mean, what we see is that there is no perfect sensor
+for such a critical problem for us.
+So of course, I mean it has to do a lot of with exploration,
+with trial and error.
+Again, partnerships.
+There is many, many good companies
+having very good components that we are trying.
+By having this,
+right now, it's a great opportunity to have the dialogue
+to really put on the table the requirements
+and the challenges that we have
+with the companies developing these components
+because we are helping them to help us.
+So it's a very great way to bring up into what's the,
+perhaps the first solution will not be,
+but then later on in the future.
+<v ->Now that we're talking about sensors,</v>
+keeping 'em clean, you know, keeping that fan
+doing what it's supposed to be doing,
+are there any other different types of sensors that you use
+because these applications are different?
+Or is it the standard lidar, radar, camera thing?
+Is there a unique thing that you have to do
+with these sensors to get these diverse applications
+to, you know, do what they have to do
+that's different than what you do in a car?
+<v ->I can bring it from...</v>
+The thing that we have
+is that we do have different customers,
+as I said in the beginning.
+It's very different segments.
+And we cannot unfortunately create the perfect solution
+for each of the customers or the segments that we have.
+So at some point, we need to find the solution
+that is best compromised from everybody.
+But yes, I mean there's no essence for instance as well
+that we are trying to understand
+how much they can help us as an example.
+So again, there's many, many things
+that we can try to utilize to try to find
+in a more flexibility way what can be bringing the best
+for all the range of products that we have
+and all the segments that we operate and not.
+<v ->Just one comment to add,</v>
+slightly tangential to the actual question,
+which is that we generally think of sensors
+in terms of their types of performance.
+And you think about it in terms of performance,
+in your good question was asked in terms of performance.
+What I would tell you is that as you go into production,
+companies start to care a lot less
+about the performance of sensors
+and they care a lot more about the reliability of sensors.
+And so when we're evaluating different sensors
+or different modalities,
+the first question is not how performant is it?
+The first question is,
+if I'm in a truck and I'm bouncing around like this 24/7,
+like how often is it gonna break?
+And if it breaks every other week, then that's no good
+and it doesn't really matter what it offers us.
+But to specifically answer your question,
+we're also really interested in infrared cameras,
+which are technically still cameras,
+but they provide a lot of value, especially at night,
+if you're gonna do a lot of night driving,
+if you're gonna do a lot of unprotected maneuvering,
+where you could see a lot of wildlife, we see a lot of cows,
+we see a lot of cattle guards,
+we see a lot of deer, and other things in our driving,
+and infrared definitely helps distinguish
+what you can safely hit and what you should probably avoid.
+<v ->Ed, I would add one interesting kind of, I guess,</v>
+tangent to this, which is that in our company,
+we actually have to deal
+with the issue of a scalable architecture.
+On one end, we have entry models
+that are incredibly high volumes
+that do things like adaptive cruise control
+or autonomous emergency braking.
+And at the complete other end,
+we have, you know, autonomous driving, for example.
+And so that means that you need an architecture,
+an AI architecture
+that can deal with a very, very limited sensor set
+and then scale all the way up to a very rich sensor set
+without having to completely redesign
+and rebuild the entire architecture.
+And so, you know, as you move
+from kind of prototyping into production,
+one of the things you have to think about
+for a long-term roadmap is a scalable architecture.
+<v ->We've got about three minutes left.</v>
+And I think one of the interesting things
+about this panel is you have a diverse set of experience
+in the world of autonomy.
+So it gives you a different perspective.
+So what I want to do
+in the limited amount of time we have left,
+each of you take a little, just a few seconds here
+and give us your vision
+of what AI-driven mobility is gonna be like
+in the year 2035.
+So 10 years from now.
+It could be on road, off-road, whatever you want.
+How is mobility gonna be?
+What's it gonna be like 10 years from now
+when we come back here and we reunite this panel?
+<v ->So I think, you know,</v>
+there's, you know, with this advent of Generative AI,
+I think that's going to accelerate the perception
+and the motion planning,
+all this, everything autonomy, right?
+So, you know, we have a lot of applied machine learning
+and applied AI today,
+and I think there's a lot of opportunity
+for GenAI to improve all that.
+So our machines are gonna be much, much smarter
+in about 10 years.
+And I think the way that we interact with these machines
+is gonna be different as well, right?
+We're gonna have different types of AMI,
+using forms of AR or VR,
+and just and even natural language processing,
+in the interest of time.
+<v ->Sure. Yeah.</v>
+I mean, I think the most significant impact
+is not just gonna be the,
+not the penetration or the density of autonomy and mobility.
+Obviously, I can sit here and say,
+"I think it's gonna take off
+and there's gonna be lots of autonomous vehicles."
+That's definitely true,
+but I think it's going to become commonplace.
+And it's a perception difference,
+societal perception difference
+that I think is going to be the most interesting thing
+in the next 10 years,
+to the point where all of the easy stuff,
+and by easy stuff,
+I do mean like basic driving around town
+and that sort of thing,
+is gonna become commonplace and expected.
+And once it's expected,
+people are gonna start asking the questions
+that are more akin to how do you pick up this specific bin
+at a specific angle and other things.
+And we're gonna go into the more of the niche markets
+and more of the kind of niche opportunities
+within mobility and automation.
+But I think it's gonna become ubiquitous within society.
+I don't think it's gonna take over all the vehicles
+in the next 10 years.
+I think it's gonna take longer than that for it to roll out,
+but the acceptance is gonna be dramatically different
+<v ->Yeah, I agree.</v>
+I think it's going to be very much related
+to the trust that our customers are going to take.
+They're also going to see the value coming out of it.
+Because if we think about the construction business,
+it's all about the process optimization and the safety.
+So it's going to be into that direction.
+I believe that we will see an early adoption
+in some of our ecosystems or some of the customers.
+Well, it will take a little more time than others.
+We'll be learning along the way.
+And it will be very interesting
+to see the different machine and machine interaction.
+And I work for Volvo Construction Equipment,
+but I was telling you before,
+unfortunately, my company cannot deliver all the products
+that a customer needs.
+So I'm expecting machine-machine interaction agnostically
+in between different brands.
+I'm really looking forward to that.
+<v ->You know, it's very true.</v>
+The average vehicle on the road in the United States
+is over a decade old.
+So there will be time that's over a decade
+even to get 50% penetration.
+That said, generative AI is moving
+at an incredible accelerating rate.
+And so I think the big difference we will see
+is the level of seamlessness and personalization
+that comes from that intelligence
+across all the products we use
+as well as how we do our work and we live our lives.
+<v ->Panelists, thank you so much.</v>
+I hope we've opened up your eyes a little bit
+as to a different world of autonomy.
+And I look forward to coming back here in 10 years
+to see if all this comes true.
+Thank you very, very much.

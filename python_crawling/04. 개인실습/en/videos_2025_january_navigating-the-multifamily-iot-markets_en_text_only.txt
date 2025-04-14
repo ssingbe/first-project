@@ -1,0 +1,957 @@
+<v Kristen>Good afternoon, everyone,</v>
+and welcome to our session
+on navigating the multifamily IoT markets.
+We're very excited to have you all here with us today.
+If you haven't met me before, I'm Kristen Hanich,
+research director here at Parks Associates.
+I lead our coverage of multifamily housing,
+really guiding our research efforts,
+both syndicated and custom throughout the year.
+Before we get started, I would like to give
+a special thank you to all of our sponsors
+for helping to make this event possible,
+as well as our other events as well.
+So this is our 2:00 PM session, as I mentioned,
+really taking a look at navigating
+the multifamily IoT markets.
+Special thank you to SmartRent
+for highlighting this session.
+So we are gonna be taking the next 40 minutes or so
+to really dive into this topic.
+So understanding what is going on on this markets,
+why it is appealing to folks,
+as well as diving into some additional details.
+The topics of note are really taking a look
+at how IoT is serving this role,
+both as an operational tool as an amenity,
+and also looking at connectivity as a key enabler
+for deploying all of these different solutions.
+We're also gonna be taking a look at what to expect in 2025.
+So there are some major developments underway.
+A little bit of context, again before I get started,
+so we've seen in multi-family housing,
+there is this pendulum that tends to swing
+from one way to the other every few years.
+The last couple of years,
+we have been in an operational efficiency mode.
+So really focusing on reducing costs,
+improving efficiencies,
+we do expect to see this historic amount
+of new inventory hits the markets
+and renewed focus on resident satisfaction,
+especially bringing in these new amenities.
+So a lot of times, IoT has served
+kinda this operational role, but also resident satisfaction.
+The most interesting solutions are of course
+those that really hit both of those needs.
+So serving the needs of both the owners
+and operators as well as the residents.
+I mentioned wifi.
+It is really this key enabling technology,
+making a lot of these IoT deployments possible.
+A lot of owners and operators are deploying managed wifi
+really throughout their properties,
+both inside of residential units
+and throughout the property as a whole.
+I will say that with a lot of retrofitting going on,
+we are seeing increased demand, not just for wifi networks
+but also solutions that will work without wifi.
+So sparing them the expense of having to retrofit
+in a lot of complex connectivity.
+To discuss all of this and more, I have an excellent lineup
+of panelists here today, so very excited
+to dig into this conversation.
+Let's go through and do a round of introductions.
+Maybe a couple of minutes for each of us.
+Let's see.
+John, you are first up in the lineup.
+Can you tell us a little bit about yourself,
+your work at ADT?
+<v John>Thanks.</v>
+The headshot's a little bit old.
+I guess I gotta add a few pounds and eight years to that.
+Thanks for everybody for joining.
+John Butrim, I oversee the Builder
+Multifamily and Community Association division at ADT.
+Basically, anything that is a commercial relationship
+but ends with a residential user
+in front of that panel or phone for the app.
+<v Kristen>Very excited to have you here with us today</v>
+and kinda looking again to dive a little bit more
+into the subject.
+Eric, so you and I were talking a little bit
+not too long ago about kind of Kwikset
+and some of it's movement there.
+So excited to hear a bit more.
+<v Eric>Yeah, great to be here.</v>
+My name's Eric Harnischfeger.
+I'm a senior product manager with Kwikset
+as part of the ASSA ABLOY Americas residential group.
+I'm particularly responsible for Kwikset's
+multifamily electronic organization
+for the access control market for multifamily.
+We're in a really interesting place right now,
+because Kwikset is relatively new
+to electronic multifamily access control,
+but we're now part of ASSA ABLOY,
+which is obviously a market leader here.
+So I'm excited to be here and have the opportunity
+to talk through how we're navigating that
+as both part of a kind of a new entrant into the field,
+but also with the backing of the ASSA ABLOY establishment.
+<v Kristen>Very happy to have you here with us today, Eric,</v>
+and of course Greg Mora,
+longtime mainstay here at our Parks events.
+So Greg, can you tell us maybe a little bit about yourself,
+your work at Johnson Controls?
+<v Greg>Alright, thank you everybody.</v>
+My name is Greg Mora,
+and I'm with the Global Product Security
+Division within Johnson Controls.
+We have about 10 different business units,
+and global product security is one of them
+where we focus on everything from access control,
+video services to a business that we call Intrusion,
+which ties closely to our relationship with parks.
+A large percentage of the smart homes
+or connected homes today feature monitored security.
+And so we support the multifamily businesses,
+like ADT and others through an extension
+of our products that are primarily based around security
+and now increasingly are expanding
+into the market for builder,
+build to rent and multifamily.
+<v Kristen>Thanks so much, Greg.</v>
+Very happy to have you here with us again also.
+And Braeden Scheer, joining us from SmartRent.
+Braeden, can tell us a little bit about yourself,
+your role at SmartRent?
+<v Braeden>Absolutely, well, great to be here.</v>
+Thank you, everybody.
+I'm Braeden, vice president of product.
+I oversee our hardware and software product strategy.
+SmartRent, we're a leading provider of smart community
+and smart operations software in multifamily.
+Our vision is to help everyone live and work smarter
+and we do that through a purpose-built ecosystem
+of our own hardware and software,
+but we also have a great network of partners
+to help us deliver that mission, provide asset protection,
+operational efficiency, and a premium residence experience.
+<v Speaker>You look like you're a headshot.</v>
+That's good.
+<v Braeden>Thank you.</v>
+Although I need to get a new one, probably. (laughs)
+<v Kristen>I think we all need to update</v>
+our headshots at some point.
+But yes, very happy to have you here with us.
+Also joining us, Hagan Kappler,
+co-founder and CEO of Daisy.
+Hagan, can I ask a little bit about yourself,
+your role at Daisy, kind of what you guys do?
+<v Hagan>Great, yeah, thanks so much for having me.</v>
+Hagan Kappler, I'm the co-founder and CEO of Daisy.
+Daisy is the first national installer
+and service provider of all the technology
+that you need in your home.
+Small business, apartment, everything from TV,
+speakers, lighting, home security cameras,
+also motorized shades, the control systems
+that tie them all together.
+One day, we'll be installing the robots in your home
+and then coming around to service them when they break,
+because at the end of the day, it is technology after all.
+So our points of differentiation are, one,
+being a national provider and having that brand awareness.
+We are the one and only national brand in that space.
+And then two, we have an ongoing service
+so we're not just installing the technology
+and then kind of leaving the resident
+or the homeowner to their own devices,
+because, again, technology breaks.
+Also, the consumer needs evolve and change over time.
+And technology evolves, pricing changes.
+I mean, we're all here at CES
+and it's amazing how technology changes over time
+or even in just a few months or in a year.
+And so we're there every quarter to help our consumers
+as we listen to them, help them with their needs,
+fix things when they break,
+but then install things over time.
+Anyway, so that's Daisy and that's who we are.
+And I think I look exactly like my Photoshopped-
+<v ->Absolutely.</v>
+<v ->Headshot.</v>
+<v ->But yeah, I'm very happy to have you here</v>
+with us today to discuss this topic.
+I think it's extremely timely.
+We're seeing a lot of exciting momentum
+in multifamily housing, especially kind of when it comes
+to retrofitting, what's going on there.
+But let's first take a little bit of a step backwards.
+So our audience here at CES is maybe a bit different
+than our usual, so I would like to, first,
+kind of dive into the topic of demand
+for smart living and multifamily.
+So what are you guys seeing that makes multifamily
+kind of a great market to get into when it comes to IoT?
+Like what kind of smart solutions
+are these owners and operators asking for?
+And Hagan, maybe you can kick us off
+and we can go kind of this way.
+<v ->Sure, I think there's two kind of customers, right?</v>
+There's the property manager
+and then there's the resident herself.
+And so from a property manager perspective,
+they're looking for kind of the basics.
+And probably, this panel is best suited
+to those kinds of questions.
+And from our perspective, we can help with those basics.
+Then when it comes down to the resident,
+that's no different from what the average
+homeowner and consumer now.
+Daisy today skews more towards the luxury
+higher end consumer,
+but you're seeing everything from television, speaker,
+human-centric lighting, the security cameras,
+again, which a number of folks on this panel can speak to.
+And then something that kind of ties it all together.
+The stuff is super complicated.
+What we're seeing on average is that,
+well, from the Parks research,
+and again, these guys can speak to it better than I could.
+Jason in the back could speak to it very well,
+but is that on average, 22 connected devices
+in a customer's home, but that people are more frustrated
+and overwhelmed than ever.
+So they're really looking not just for the device themself,
+but for an ongoing service.
+And so those are two of the drivers that we're seeing.
+And then from a multifamily perspective,
+if you think about who's really drawn to multifamily,
+it's going to be a consumer who skews a bit younger,
+and those younger consumers are gonna be looking
+for kind of the latest and greatest in technology,
+the cool television to watch sports on the weekend,
+they're gonna be looking
+for the latest and greatest in speakers,
+something simple on their app.
+They're typically gonna be a do-it-for-me type of consumer.
+No offense, I don't know if anybody's in this generation,
+but they're not really used to installing stuff themselves.
+They kind of came out of the womb
+with the technology working like for them.
+And so they're not going to be installing it for themselves.
+There's human-centric technology that's at play here.
+So lighting that is working and evolving
+with their kind of needs as a human.
+And then motorized shades that's in tune
+with what's happening outside.
+And then if you think about kind of the older consumer,
+there's technology that's helping with aging in place
+and that's actually working
+with kind of their family and friends.
+So those are the types of technologies
+and the needs of our clients that we're seeing.
+<v ->Yes, and certainly,</v>
+a lot of different potential use cases,
+a lot of different values,
+and especially as you're saying with the younger generation
+kind of looking for this as an amenity specifically.
+<v ->Yeah, so I'd like to,</v>
+I'd like to share Hagan's comments a bit
+in terms of the buyer types or the customer types.
+And certainly, you see that is twofold,
+but then behind the customer,
+that is the resident, the person that's going
+to be living with the technology
+and then the property manager
+that will be making decisions and installing
+and living with the result of that.
+I think we have to include the ecosystem
+of partnerships that it takes
+to be successful in this marketplace.
+And so there are challenges on all three sides.
+For the consumer,
+smart home tech is now becoming somewhat
+of an amenity for properties,
+they can differentiate with and compete with.
+Years ago, it was stainless steel type,
+appliances or the flooring
+or finishes and things like that.
+And now, I agree with you a hundred percent,
+the demographic is shifting a little bit more
+around the expectation around lifestyle and amenity
+and it becomes a show point, it becomes an expectation
+and the connectedness to the app and the phone
+and what they can do and how it makes their life easier,
+they identify with that a little bit more.
+Now, I don't know that we're at a tipping point yet,
+but certainly, we are,
+I heard it mentioned earlier,
+we're like on the threshold to the mass market,
+and I would agree with that comment.
+Now, the challenge for manufacturers like us that sets up
+is that for the property manager
+and for those customers that that Hagan's team is servicing
+and others, what value do we provide then?
+Well, again, we're coming at it from an established,
+established long-term businesses
+as portfolios of products that have been reliably installed
+and operating over generations.
+So there's higher confidence.
+We are a global brand, not just a national brand.
+So for these partners, a lot of these big property managers
+who are more than regional, they're national and beyond,
+they need a partner.
+They need a single throat to choke, so to speak,
+when it comes to that selection.
+And they know that they're gonna be serviced
+and there are gonna be minimal callbacks.
+In a traditional security market,
+we refer to a quality metric known as a truck roll.
+Once I do the installation, do I have to go back?
+And one of our KPIs is to basically allow that install
+to go very fast with high reliability and not have to churn,
+not have to get called back.
+And so I think one of the property management
+challenges today is they're short staffed,
+and they have to learn some smart tech.
+So how do we make their life easier?
+I think that's a second layer.
+And third, again, I said is backed up by this ecosystem.
+We all have to work together
+and partner in a more effective way
+to help keep that cost of operation in line
+and make it attractive to then
+deploy to more sites smart tech, okay?
+So it's not just about what the protocol is
+or what the device is itself.
+It's how it all plays together.
+<v ->Yes, and I think one throat to choke is underrated</v>
+as a measure of importance.
+So we've been hearing from a lot of companies
+that that helps them quite a bit.
+<v ->Yep, yeah, maybe I'll pivot a little bit</v>
+to the market itself, since we have this wider audience.
+You saw enterprise smart home in the multifamily industry
+really take off in 2019 and into 2020
+as COVID really forced adoption
+for self-guided tours, right?
+Apartment complexes wouldn't need a leasing agent
+to show a prospective resident a vacant unit.
+They could have technology help 'em out with that.
+So we saw it soar, right?
+Also during that time, as we all know, low interest rates,
+so more properties were bought and sold,
+and when properties are bought and sold,
+that's a time when investment happens in that property.
+As the new investors, the buyer
+wants to drive additional revenue,
+wants to decrease operational expenses.
+And so adoption was soaring.
+I would say it's tempered a bit more
+because of the size of the market today compared to 2020.
+The new construction is hitting records.
+However, what, is it half a million,
+600,000 new units being built like
+compared to the total multifamily market
+of 42 million units?
+Like you can't match that
+by getting adoption up high enough
+in new construction.
+A new construction, we'll adopt it
+at close to the high 80s, 90% range.
+But those retrofits, those existing properties
+are really the next area of expansion that we see.
+<v ->Yes, and I think we've heard rumblings</v>
+that with this historic amount
+of new inventory hitting the market,
+I think it was like a half million in 2024
+and then another million expected in 2025,
+that is gonna change some of the competitive landscape.
+So a lot of companies are looking to retrofits
+and kind of different ways
+of making this make financial sense for them.
+<v ->Yeah, and interest rates changing, right?</v>
+So interest rates changing,
+those that got low interest rates in 2020 are gonna be,
+some of those are variable that are being forced out here
+in the next couple years.
+You'll have more transactionings happening
+that'll drive that increased adoption as well.
+<v ->Eric, any thoughts?</v>
+<v ->Yeah, I mean, so to jump off of that as well,</v>
+I mean, it's interesting what you say about retrofit.
+Kwikset Unite, which is our new electronic
+access control platform, was designed primarily
+for new construction, because Kwikset first and foremost
+really is a company built on its relationships,
+from the largest builders in the country
+to a lot of the kind of successful local businessmen.
+But what we're seeing more and more
+is even with interest rates coming down,
+housing markets in the single family are still wild.
+So it's one of those things of how are they able
+to justify rents in these multifamily units,
+given that there are so many out there now?
+So renovations are definitely increasing,
+and to kind of pivot as well
+to the overarching market and demand,
+one of the biggest things I say about multifamily
+and multifamily access control as a solution,
+really the differentiation point
+between a commercial access control system and multifamily,
+it's just the level of training
+that the users are going to have coming into it.
+So for us, really, the focus is on ease of use
+and understanding how it kind of meets the market
+and meets our customers,
+both on the property management side
+and as Hagan was saying, on the resident side as well
+and how it kind of fits into their life.
+So that level of training
+and kind of understanding
+where multifamily access control sits
+within this wider realm of commercial enterprise
+all the way down to multifamily is really something
+that we've been focusing on as well.
+<v ->Yes, and then kind of like you were saying,</v>
+like Hagan was saying, there is a lot of learning, I think,
+on the part of property staff
+and how to actually manage these things
+and get them to work properly.
+So how do you navigate that
+and how do you make it like dead simple for somebody
+who might have only had a week of training to-
+<v ->Yeah, there's this continued trade off</v>
+between all the security in the world versus ease of use.
+The more customization, then the more options you have.
+And inherently, the more security you have,
+the harder it is to use.
+So opening it up and understanding at what level
+within that user hierarchy do you expose functionality
+has really been a big focus for us,
+and it's something that we've really seen
+people struggle with as a barrier of entry
+within multifamily as well.
+<v ->And you add to that, the turnover</v>
+is high on property, right?
+So leasing staff to agents,
+the maintenance team members are turning over,
+so training becomes even more paramount.
+<v ->Yeah, our bread and butter is suburbanized garden style,</v>
+and what we'll see is within the first 10 years,
+that site may trade hand four or five times.
+<v ->So there's a lot of headwinds in this dynamic market</v>
+for multifamily right now.
+Used to underwrite this smart home technology
+maybe as an amenity,
+maybe it's a technology fee, right?
+For the lease, for the residents.
+Retention is an issue in multifamily site.
+Teams are churning over at a higher rate
+than they've seen in the last 10, 15 years.
+Fed rates are high, more supply in the market.
+So if you're an owner in a multifamily environment
+trying to compete, trying to be successful,
+it's a new paradigm as we look into 2025,
+and the paradigm comes full circle
+into how well am I operating this community
+from an efficiency standpoint?
+Am I delivering a premium resident experience?
+Am I being efficient on the tackling and blocking on site?
+Sort of the natural conclusion
+of this thought process isn't,
+is it Matter or Z-Wave,
+or these standards that all of us talk about
+from a smart home perspective.
+It's more about the magic of what is this technology
+delivering to me from an enablement standpoint?
+Is it working well in my ecosystem
+of my business stack as an owner.
+I may be working with 15 different vendors at this property.
+How seamless does this access control?
+Does this security, does this in-home IoT
+allow me to sort of leverage as a differentiation point?
+It has become an expectation for residents, I think,
+to have these type of technologies onsite,
+but it's also becoming an expectation
+for the onsite staff as well.
+Why go to the key track when I can use my phone?
+If I can save one to two minutes,
+you know what this industry really needs
+is scalability in their solutions.
+If I save the one to two minutes, that one work order,
+I can do that across a hundred thousand units
+and a million work orders.
+That's where this technology's gonna be
+transformational in 2025.
+<v ->I think, Braeden, you've raised a very interesting point.</v>
+So how are these companies measuring the effectiveness
+of these solutions and kind of what is driving
+the interest there?
+So you mentioned kinda with access control,
+looking at kind of reducing the time it takes
+to get work orders, and of course there's benefits there
+and not have to have maintenance go pickup keys.
+<v ->Absolutely.</v>
+The level of detail this industry pays
+to the most minute operational things on site
+is honestly impressive.
+We have customers of ours
+that look at their entire field structure
+and they will be tracking the time it takes for you
+just to re-key a lock on move out.
+That one task, they're tracking that across
+potentially 120,000 apartment homes.
+Why do they track that?
+Well, again, it comes back to this position they're in
+trying to compete in a local market
+where maybe there's brand new supply,
+they can't raise their rents.
+And so the way they're looking at the underwriting
+and the performance of the smart technology
+boils down to NOI, it boils down to OPEX,
+and it's gonna come back to how much time
+and efficiency are we creating through these programs.
+And that's not just on the back
+of house maintenance side of things.
+You're gonna see that in leasing as well.
+How fast can we get from where we're at
+to that prospect and that prospect go around that community,
+engage with us, ask us questions efficiently?
+These are little metrics that they're gonna be exposing
+not just at a property level, but at a regional level.
+And they're gonna be looking back
+at the technology partners of theirs to say,
+"Okay, are you doing what you need to do
+to pass me the right data from one partner to another,
+so that way, we can look at this information and assess,
+do we have the right investment thesis with you
+from one property to potentially the entire portfolio?"
+<v ->Yes, and from what we've been hearing,</v>
+they do like to run these pilot projects,
+so really measuring as much data as they can and say,
+"Okay, does it make financial sense for me
+to take this solution and roll it out
+maybe across my whole portfolio?"
+<v ->Absolutely.</v>
+I think the barrier to entry for technologies
+to sort of get adoption in multifamily
+is gonna continue to increase.
+The scrutiny that you have in the first one
+to two to three properties is gonna be higher
+because they're trying to sort of
+put you in different environments.
+You're gonna be maybe at a mid-rise,
+looking at different problem statements there,
+and they're gonna expose you to that garden style
+in completely different part of the country.
+They're gonna expose you to the high rise.
+And the reason why they wanna do that
+is to see the versatility of your solution,
+how you work from an integration standpoint
+with your partners, how well you can go and meet the needs,
+the go-to market perspective of what's happening on site
+with their residents and their site teams.
+And if they can model that well in a small echo chamber
+and it takes them perhaps three, maybe four quarters,
+I mean, this is a little bit of a lengthy process.
+Once they can feel confident
+that this is a scalable solution,
+then the turnkey happens,
+and now there may be an underwriting decision
+at the corporate level to say,
+"Let's bring this at a broader adoption point."
+<v ->That's a great point because this is the first time</v>
+that most of these clients
+are adopting this kind of technology, right?
+And to your point, they measure everything
+to the minute detail.
+And so if it's something that they've done in the past,
+they've got processes at the wazoo
+that they're gonna follow.
+They know exactly what play to run
+and how to run it and who to run it with.
+With this, it's brand new.
+It's something that they haven't used before.
+So you see that through the sales process,
+through the install process,
+through the account management process,
+that there's so many different departments involved,
+whether it's HR, IT, operations, sales
+from your client that I think it's up to the integrators
+to help provide a lot of this as well, right?
+Help providing the data that they need
+to make decisions for future properties.
+<v ->Being able to get it right from the beginning</v>
+has been really essential for us.
+One of the things that we've seen
+is most of our customer base
+is coming from mechanical mindset.
+So once they make that switch,
+if they don't get it right in the first few months,
+they're just gonna go back to mechanical.
+They don't wanna roll trucks,
+they don't wanna pay for keying,
+but they also have to be comfortable right off the bat.
+And to your point, scalability is one of the biggest things
+that we've been seeing as well.
+I mean, relatively basic on the garden style,
+but as you scale up, the costs scale up,
+the complexity scales up,
+and that's something you need to meet for as well.
+<v ->And Greg, what are you seeing at Johnson Controls</v>
+in terms of kind of how
+people are evaluating these solutions
+and what they're interested in?
+<v ->You're saying automating solutions?</v>
+<v ->How are they evaluating?</v>
+<v ->Oh, the value add, for sure.</v>
+Well, certainly, I think the perceived value
+of having a secured home and then extending that out
+into automated services
+and being able to do that within a common ecosystem
+and having a great selection to do that
+from a partnering standpoint,
+that, to us, is a very obvious immediate adjacent market.
+They already have confidence in the brand,
+they have confidence in the viability of the solution
+and the market segments that we cover.
+So for us adding locks, adding some of the other features
+are an extension of that.
+We consider that more automation
+so that you can control more of the climate and other items.
+Beyond that, perimeter security's big.
+Access control out at the perimeter.
+So we have a specialized technology that can address that.
+And again, being a multinational brand
+that can provide that for us has been
+probably one of the more attractive elements
+that we have in these conversations
+in terms of delivering value as a manufacturer.
+<v ->Yes, and I think we've been hearing</v>
+a ton of demand for access control,
+and access control oftentimes is the tip of the sphere
+for kind of a more widespread deployment of technologies.
+So Hagan, so we've been talking a little bit about
+kind of what companies are looking for
+when it comes to deploying solutions,
+but when it comes to like actually deploying them,
+so rolling them out, what are some things
+that kind of companies should keep in mind
+and kinda product makers should think about
+when designing the solutions?
+<v ->Yeah, I think it's just about meeting the needs</v>
+of that end consumer.
+I don't think that we should necessarily
+dumb down the solutions necessarily.
+What we advise property managers,
+or if we're developing a new build,
+is just to think about simplifying
+or working on boiler plate, kind of standard templates,
+and then we can work with the resident.
+And for us, it's a gift.
+So we can have residents who we can partner with
+to develop customized solutions.
+And so that way, we can develop wire,
+partner with OEMs to make sure
+that there is a whole integrated solution
+that's going to work really well for the property manager.
+And then just because of we're a national brand
+and because we have the backing of our brand behind Daisy,
+they know that they can count on us
+to be there for not just the lifetime of the build project,
+but the lifetime of each resident
+and the residents that come after, as there's turnover.
+Our company actually loves truck rolls,
+so we're very different, I think,
+from how probably companies before us in home services
+and also in some of the supply chain side
+or manufacturer side
+has probably thought about this industry.
+And so if you think about multifamily, even better.
+So we're building out route density,
+we're building out density
+as we build out this brand nationally.
+So in the single family side,
+we can go from home to home to home
+and do kind of a 30-minute system checkup.
+We do this for free.
+It's 30 minutes just to checkup and see,
+how is your system performing?
+And from there, there may be a service call,
+there just may be a broken remote control,
+babies step on remote controls,
+and those need to be troubleshooted,
+but there also could be some speakers
+that you need to be installed by a putting green.
+Don't we all have those challenges in life?
+So that happens as well.
+Well, as we look at the multifamily space,
+talk about density, we park a truck,
+we can certainly work on servicing a whole building
+and help our OEMs and improve kind of the NPS scores
+and kind of the satisfaction and the brand awareness
+and make sure that there's good quality
+just from the fact that they're maintained over time.
+We can also ensure that customers
+have good knowledge and education
+over the time of the lifetime of those brands.
+So those are some of the trends that we're seeing
+from residents and also from property managers.
+<v ->Right, and then Eric,</v>
+I'm gonna pick on you a little bit more.
+So you were mentioning, I think the way Kwikset
+was looking at kind of retrofitting
+and deploying its smart locks into different properties,
+so making sure that they would work even without wifi.
+We've been hearing from a lot of properties
+that wifi has been a big challenge
+when it comes to retrofitting
+just because it can be very costly
+to build out those networks
+depending on how the property was constructed.
+<v ->Yeah, it's been interesting as we've gone out,</v>
+and with ASSA ABLOY, we have the advantage of having
+a pretty thorough spec writing team
+in addition to what we have with our sales team at Kwikset.
+As we've gone out and we've interacted with customers,
+kind of understanding what their needs are from the offset,
+if you're coming into a retrofit situation, it's challenging
+because the networks are there, the infrastructure's there,
+and convincing people to upgrade
+that can be quite challenging.
+Our solution is offline-based, so we are able to have
+a cloud based infrastructure that passes data through
+from the phone down to the lock,
+and the lock is independent of the network.
+But what we're seeing in a lot of new construction
+is this demand for these full service,
+the SmartRents, the ADTs, these recurring revenue services
+that offer this value that justifies that.
+And being able for us to integrate with them
+has been very helpful for us.
+But understanding and kind of communicating
+to the sites that, depending on the network
+connectivity you need, some of the expectations
+that you have for what you're gonna deliver
+may not be realistic.
+So understanding that for the suburbanized garden style
+that we really compete in,
+do you really want a router on every floor?
+Are you really gonna pay for this
+when your rents may not offset it,
+versus a mixed use
+or a mid-rise where you really can have that?
+It's all education and working with the customers
+and understanding really what their needs are as well.
+<v ->Yeah, so those needs, yeah,</v>
+as you're saying, can be different depending on
+certainly the building type, how old the building is,
+what it's made of, all those factor in.
+<v ->Also, what problems are they trying to solve?</v>
+What is their overall goal in the experience
+and the brand they're trying to have
+to their residents on site.
+And I think that's where you have to absolutely just meet
+that customer where they're at that community.
+It's community by community.
+And when you think about it in those terms,
+what you ultimately want to create is just optionality.
+You wanna be flexible.
+Perhaps at a certain community, you will be using wifi.
+If that's there, that's a goal they have,
+but perhaps you'll be using different technology
+that rolls back on cell or Bluetooth.
+The point is to have versatility.
+And when you're thinking about deployment
+into this multifamily environment,
+if you have that versatility,
+then it comes down to what's the experience
+ultimately to the end user.
+And that's where, at the end of the day,
+all of this technology is just an enabler
+to the software experiences you create for the resident,
+for the site team.
+You can have a white glove around how you train them,
+how you set certain expectations,
+but you never want to be in a position
+where to solve a problem,
+you have to now spear horn into this conversation
+a 'let's go and run' in a really expensive circuit
+to your community because it has to be wifi.
+Well, it doesn't have to be that.
+If their problem was I just wanna deliver
+a moving experience so my residents
+can have smart thermostats, have versatility
+and meet them where they're at.
+<v ->It's like you've talked about,</v>
+the customer base out there is not asking
+for specific technologies most of the time.
+It's what they're able to enable.
+And what you were talking about, Hagan, as well,
+that demand pole generation from the resident base,
+we get a lot of the inverse at Kwikset
+where our property management and our system integrators
+kind of tell us what they need for the residents.
+It's one of the unique things with multifamily
+that just has to be planned for.
+You have this dynamic customer client model
+where the people who are using it every day may
+not be the people who are buying it.
+I mean, the purchasing decision for multifamily
+is not on the residents.
+And even though the residents are using it every day,
+they're not the ones that are paying for it.
+So being able to meet both sides of that market
+with a single solution, it's inherently challenged,
+but it's the thing we're all kind of going around here.
+<v ->Yeah, and I think you notice</v>
+that we've all kind of talked about in some way
+a multi customer that we're approaching, right?
+Whether it's the resident, the property staff, the owner,
+there's one that we've kind of left off the list,
+I feel like, which is the technician.
+And so for those that are designing products,
+like this needs to be a fast install, right?
+This can't be something that you're on site in a unit
+for eight hours trying to learn in a device
+or program a hub, like the expense of doing this
+for both the property and the integrator,
+they need to be able to turn over units rather quickly.
+And so be able to create that experience for the technician
+to be able to install quickly,
+move on to the next unit is very important.
+<v ->Yeah, that's where that kind of boilerplate,</v>
+having kind of the basic template
+for every unit would really work well.
+And then I'm just thinking of one example
+just out of my hat.
+Like Daisy, for example, could come in
+and then customize.
+<v ->I've heard of Daisy.</v>
+<v ->Well. (laughs)</v>
+<v ->Yeah, so we have one question left</v>
+in just a couple of minutes.
+Maybe we could do kinda like Daniel did in our last session,
+just a lightning round.
+So what do you think is on the roadmap for 2025?
+What are you most excited about?
+And maybe two sentences each.
+Hagan, if you can kick us off again.
+<v ->Oh, I'm really excited.</v>
+I think I've already talked about services,
+and so kind of being there for the customer,
+helping kind of the OEMs out in terms of brand
+and ensuring that we're there for customers
+when they need us and having that ongoing services.
+And whether they're a multi-family resident,
+I think most of the innovation
+is actually probably coming from residents
+of these multifamily businesses.
+So listening them and going back to manufacturers
+and saying, "Hey, we've got some pretty cool ideas here."
+I'm really excited about that.
+<v ->Yeah, I think for us, it's gonna be a very exciting year,</v>
+and I'll try to keep this super brief.
+It's kind of our mainstream panel.
+We have restyled, if you will, for the multifamily market.
+We're coming out with a brand new line of automation
+to allow additional lighting control
+and several other things.
+So we've got a portfolio that's been under development
+that's begun deploying,
+and we're super excited about that.
+And we're talking about protocols and everything else.
+This thing is a rock concert of radios.
+It is dual path connected to the cloud.
+I could go on and on and on, but that's it.
+Now, the other thing and kind of the compliment to it
+is the customer experience.
+And I was gonna piggyback onto John's comment a moment ago,
+but the technician, the person that's installing
+and servicing the CX
+that they experienced for a fast install,
+and there were some very unique challenges
+in the multifamily space,
+with mesh devices and everything else.
+We've poured a lot of effort into that to make it
+very, very cool and very fast
+to keep that operating cost low.
+So just plenty.
+Hopefully, we'll be able to connect with folks at the,
+everybody's gonna be coming to the happy hour later,
+but we could go on.
+I'll leave it at that, yeah.
+It's good to hear.
+<v ->So is the happy hour the thing</v>
+you're looking forward to most in 2025?
+<v ->Certainly, yeah.</v>
+Every journey begins with one step,
+and that step begins at about, what, 6:00 PM tonight.
+<v ->Look, macroeconomically, I'm just excited for the market,</v>
+going back to kind of the way it was in the past
+with interest from just transactions overall increasing.
+From an ADT standpoint,
+we're relaunching our own multifamily platform.
+It's dedicated directly to multifamily users.
+And so it's not just the traditional ADT product
+with a paint of multifamily slab on it.
+It's built for this client base
+that we've been discussing today.
+And it includes a level of mobile security.
+So it's a security that can go with you
+if you're a leasing agent or if you're a resident,
+and you have an SOS button that'll connect you
+to an ADT monitoring agent.
+So it's a stability for us to connect
+and protect folks wherever they are, not just on site,
+and build that sense of community for that resident
+through that service that we provide.
+So shout out to Ashley Etwine who runs our product
+and engineering team for all that good stuff.
+<v ->Yeah, and selfishly from our side,</v>
+I mean, Kwikset's a lock company, right?
+But our Kwikset Unite portfolio, we developed this
+with a very thorough software and cloud ecosystem
+that we only expose a little bit of it.
+So as we come into '25, understanding from the market
+what they're actually looking for with regards
+to that trade off between
+that customization versus that ease of use,
+we think we have it right right now,
+but opening that up, particularly from a more macro sense,
+we are seeing many, many more renovations
+than we thought we would.
+And I think that's really gonna influence
+where the feature set goes and kind of what track we follow.
+So understanding where that goes,
+and as you're saying, kind of some leveling out
+of some of the interest rates as well too,
+that construction is gonna be picking up again
+in the next couple years.
+So just excited to see where that goes
+and kind of continue to build upon that for Kwikset.
+<v ->Well, as we turn the corner in 2025,</v>
+from a SmartRent perspective, for many of our customers,
+this is no longer a novelty and amenity.
+This is becoming infrastructure at the community.
+What I'm really looking forward to seeing,
+I mean, among many other things, is just the stories
+that we can tell and the insights that we can share,
+namely around energy and sustainability.
+There's so many of these customers of ours
+that have their reports around this topic be,
+how many trees do we plant this year?
+But the underlying value,
+what the SmartRent technology can deliver is insight
+into that perspective of what is happening around
+energy behavior and usage in this community
+across the units and how can we make sure
+that we find ways to influence that in a positive manner.
+<v ->Well, thank you so very much everyone</v>
+for joining us today and for that wonderful discussion.
+Please join me, audience, in a round of applause
+in thanking our panelists.

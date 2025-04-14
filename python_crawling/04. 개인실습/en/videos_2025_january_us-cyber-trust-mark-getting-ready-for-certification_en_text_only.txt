@@ -1,0 +1,1167 @@
+<v ->Welcome everyone.</v>
+I'm Mike Bergman,
+I'm Vice President of Technology and Standards
+for the Consumer Technology Association,
+owner and producer of CES.
+Welcome to this amazing event this week
+and to a session devoted to something else amazing
+that's been going on, the United States Cyber Trust Mark.
+It's my distinct pleasure
+to welcome White House Deputy National Security Advisor
+for Cyber and Emerging Technologies, Anne Neuberger today.
+I'm also delighted to be able to welcome
+the Federal Communications Commission Chairwoman,
+Jessica Rosenworcel.
+I'd also like to welcome the newly announced
+lead administrator for the US Cyber Trust Mark US Solutions
+represented by Global Vice President
+and General Manager, Identity Management and Security,
+Chante Maurio.
+Best Buy Senior Director,
+Head of Enterprise Privacy and Data Protection,
+Michael Dolan is here
+as is Amazon Vice President Steve Downer,
+and they're also here to speak about this important program.
+We will have a panel following some opening remarks
+with subject matter experts on this program.
+But first ladies and gentlemen, Anne Neuberger.
+<v ->Hi everyone.</v>
+Good morning.
+It's really great to be here with everyone
+and to talk about this program
+with key partners in this program.
+So first, connected devices bring
+so much value to our lives.
+You just have to walk around the CES floor
+and you see everybody's eyes light up as they think about,
+oh, that cool connected device, whether it's a connect,
+whether it's large or whether it's small,
+whether it's a personal device
+or a large scale commercial environment.
+And as we think about the value connected devices
+bring into our homes from a national security space,
+you know, we look at the threats, we look at the risks
+and those threats and risks come both from countries.
+We know, for example, China has a well-resourced,
+sophisticated offensive cyber programs
+and it comes from criminals.
+And we see the impact
+of criminal cyber attacks on hospitals in the country
+and on connected devices across hospitals as a good example.
+So as we think about how to give American consumers,
+consumers around the world,
+but this is a program focused first on American consumers,
+the confidence know they can bring all kinds
+of connected devices into their homes commercially into
+companies knowing that those risks from countries,
+adversarial countries or criminals can be managed.
+That is where US Cyber Trust Mark comes in
+and it connects consumers who want to buy secure
+because they love the tech and they wanna feel there.
+It can protect their privacy, it can protect their data
+with companies who know that they want
+to deliver a more cyber secure product,
+but they want a way to show consumers
+that they've done the effort, they've done this,
+it's been tested, and the US government,
+which wants to keep consumers safe
+and wants to ensure innovation can be a part of our lives.
+So Cyber Trust Mark connects the three of those.
+Any companies whose products meet
+the National Institute for Standard standard
+and are tested to it can bear the government label,
+and we're really thrilled to have Best Buy and Amazon here
+to help us with the consumer education part of that.
+A final comment, it's particularly exciting
+to have US solutions selected
+as the lead administrator first
+because of the name recognition, the Trust UL Solutions has
+because of the work you're already doing
+and testing devices for.
+So we want to leverage that as much as possible to jumpstart
+and rapidly bring labeled products to the market.
+And because it fills that key loop
+and tie between government
+and the private sector, a huge thank you in closing
+to FCC commission chairwoman Jessica Rosenworcel
+for her leadership throughout this program
+and really the team across the FCC, across NIST
+and across the White House who've worked
+for the last two years to bring this into fruition.
+So with thanks to everybody who is speaking today,
+I want to turn it over to FCC chairwoman,
+Jessica Rosenworcel.
+<v ->Thank you so much Anne, and good morning.</v>
+It is so terrific
+to be here at the Premier Consumer Technology Showcase.
+I'm sure all of you have had the opportunity to walk around
+on the floor and you saw just what Anne described,
+connected devices everywhere.
+Those devices bring all kinds of conveniences
+to our daily lives,
+but they also introduce all kinds of cyber vulnerabilities
+and that's what we're here to talk about today
+with the US Cyber Trust Mark.
+And when I talk about these issues, I always like
+to tell this story from a writer
+who wrote about cyber crime named Misha Glenn
+and Misha Glenn writes about a bank,
+and this was a bank that had spared no expense
+when it came to cybersecurity
+because of course they're dealing day to day
+with the transfer of funds and security means all.
+So they had spent lots of money on their networks,
+on their systems with risk assessment and risk management.
+They had a lot of confidence
+that every fund transfer at their institution
+would be secure.
+But of course pride often comes before the fall.
+And it didn't take very long for a hacker
+to find their way into this bank and into this network,
+and it didn't move through any
+of those fancy systems they had put in place.
+Instead, they found a vending machine,
+like with chips and chocolate.
+You know, the one where you go in mid-afternoon,
+because you need a little salt or sugar
+to keep yourself going as an employee.
+Well, that vending machine had an IP address
+and that IP address was not on their regular system
+for updates for patches.
+And I think that story is such a good one
+because it reminds us that there is so much in our lives
+that is connected, the things we think about
+and the things we don't think about
+and the vulnerabilities are only gonna expand
+as we expand the number of connected things.
+Right now, we've got about 18 billion internet of things
+devices in the world.
+There's gonna be 25 billion by the end of the decade.
+All those devices you see on the floor, they're growing,
+they're expanding rapidly.
+So we've gotta expand our efforts to make sure
+that every one of those connections is secure.
+Whatever you bring into your homes
+and whatever you bring into your businesses
+should be secure.
+I mean, just imagine you're shopping for a baby monitor.
+When you bring that device into your home,
+you wanna know it's not inviting malware
+or someone monitoring what you're doing in your house.
+How can we make it possible for consumers
+and businesses to have that security?
+And that's what the US Cyber Trust Mark is all about,
+which is getting going right now.
+And I appreciate the work
+that we've done across the administration
+and with the private sector to make this happen.
+It started back in 2022 when we went to the White House
+and we all gathered and talked about these issues
+and I went back to the FCC
+and said, we've been doing this for a long time.
+We've been setting up relationships with the private sector
+to make sure that radio frequency devices are secure.
+We can do more using those relationships
+and develop the Cyber Trust Mark.
+So I really want to thank UL Solutions for stepping up
+to be the administrator of this Cyber Trust Mark.
+And what we're aiming for is something akin
+to the Energy Star logo, which you might know
+because when you buy a washer or dryer,
+if you look for that logo, you know that
+that is an environmentally safe product to purchase.
+Our goal is to make the US Cyber Trust Mark similar.
+So when you bring all those Internet of Things devices
+into your house, you can look for
+that logo and have confidence.
+And the more companies that wanna use it,
+the more consumers are gonna wanna request it.
+And we're gonna have a virtuous cycle that makes more
+of these Internet of Things devices
+more safe and more secure.
+This is not a small task, but it's worth the effort
+because if we do this,
+we are gonna have innovation opportunities like the ones
+you see on the floor here that are gonna be expand
+and we are gonna connect more things,
+probably more vending machines, but lots of other things
+and get lots of intelligence and utility
+and convenience from them as a result.
+But we'll be able to do it safely and securely.
+So thank you so much
+and I think I've gotta ask UL Solutions our administrator
+to come up here and join us for some remarks.
+<v ->So good morning everyone.</v>
+It's such an honor to be here today to recognize the talent
+and hard work that's been required to develop this program
+that will equip, qualify
+and smart products with a cybersecurity safety label.
+From the dedication of the White House
+through Deputy Neuberger to the leadership
+and execution by Chairwoman Rosenworcel,
+congratulations on the success of a multi-year journey
+in launching a public-private partnership
+to address a significant cybersecurity need.
+I also want to highlight the many hours
+that industry has already contributed to the development
+of the Cyber Trust program.
+We should all be thankful to CTA
+and to the guidance that Mike Bergman in particular
+has provided for leading work on the technical
+and logistical needs for an IoT labeling program.
+So a little bit about UL Solutions.
+For 130 years, UL Solutions has been empowering trust
+and pioneering technologies.
+What started as testing of electrical wiring has grown
+to include the enablement of 5G
+and grid scale renewable energy.
+We're excited to continue our mission of working
+for a safer world, bringing the legacy to the security
+of the connected products
+that are now everywhere in our homes.
+UL Solutions would like to commend the FCC
+for recognizing the role conformity assessment
+must play in labeling program.
+Testing and certification are efficient means
+for maintaining a level playing field,
+providing consistency in the applications of standards
+and enabling enforcement and identifying bad actors.
+In short, it's the process that helps ensure
+that consumers can trust in the program
+and the products that carry the Cyber Trust Mark.
+It's funny you mentioned the Energy Star program
+because we also believe that just as the Energy Star program
+educated the public and created incentives for manufacturers
+to offer more energy efficient appliances,
+our cybersecurity labeling program will pave the way
+for more secure smart products.
+We're honored to serve as the lead administrator
+for the program.
+As those of you who have followed the FCC's developments
+of the program know the next 90 days will be busy ones.
+It's only January 9th
+and I think we're all already very tired.
+Over this time, we'll be working with stakeholders
+to develop recommendations that will serve
+as the Cyber Trust Mark's technical requirements
+for an initial chosen class of products.
+While this will be a sprint, we intend this work
+to be guided by five core principles in alignment
+with the FCC's vision.
+The first is to create a rigorous program
+that will meaningfully impact security.
+The second is that we want to leverage existing work
+that stakeholders have developed
+that has been guided by NIST 8425.
+The third is that we want to work toward global alignment,
+wherever that is possible.
+The fourth, we want to involve a balanced group
+of stakeholders in the process.
+And finally, we want to focus
+on the long-term sustainability of the program.
+The 90-day process will rely on stakeholder committees
+to develop requirements for testing the renewal process
+and the label itself.
+We encourage stakeholders with experience
+and expertise in these areas to apply to join.
+Please go to the new section
+of the UL Solutions website to learn more.
+The application window is really short
+because our timeline is very tight
+and we do intend to hold the first workshop the last week
+of January and that workshop is going
+to focus on the development of technical requirements.
+Even after the 90-day process concludes,
+there will still be a significant amount
+of work ahead of us.
+However, we're looking forward to being the organization
+that not only helps launch the program,
+but also makes sure it becomes a durable force
+for improving security for many, many years to come.
+So thanks so much for your time today.
+I think I need to pass the mic to you, Mike.
+Best Buy's senior director.
+<v ->All right, good morning everybody.</v>
+I'll be pretty brief here.
+First off, Mike and I talked a little bit about this
+and so to the two of you, thank you for your service.
+Thank you for your initiative and support of this program.
+And I have request for the room.
+Could y'all please give a round of applause
+and the congratulations for their success?
+All right, so now as I was thinking about this talk,
+this very brief talk I was thinking about, okay,
+what does this room want to know?
+What are the people who are here in support of this program?
+What do you really wanna know?
+What I'll tell you is
+that Best Buy believes in the promise of this program.
+I am here because Best Buy believes
+in the promise of this program.
+If you pursue this label with your products,
+our intention is to support you in that effort
+and to help you distinguish your product
+through the various channels that we work with, right?
+We've got our blue shirts at over a thousand stores.
+We have our Geek Squads agents in thousands
+of homes every day, our website with billions of impressions
+and the most downloaded app over Black Friday,
+that's for sales.
+So we have these channels, we have these abilities,
+and we're there to help you with it.
+This is real.
+This isn't vaporware.
+This is a great opportunity for success.
+And look, I'm here, Amazon is here.
+Interestingly enough, neither one
+of us are governed affairs people.
+We're not the kind of people that usually do this
+kind of stuff, right?
+I'm the privacy guy, he's VP of huge sales
+and he'll explain his title later.
+But the bottom line is, it means something
+that we are here and we're in support.
+So I thank you to CTA, thank you Mike Bergman,
+and I hope you all enjoy the conference.
+<v ->Good morning.</v>
+I hope everyone is having a fantastic CES.
+I have found this to be an absolutely amazing year for CES
+and I look at this forum
+and I think what an amazing venue
+to talk about such an important topic
+as the US Cyber Security Trust Mark.
+My name is Steve Downer
+and I'm the Vice President
+for Consumer Electronics at Amazon.
+In addition to providing a vast selection to all
+of our customers in the consumer electronics category,
+I also serve the greater consumer technology,
+this greater consumer technology community
+as the chairman of the Consumer Technology Association,
+their executive board.
+And it's really through both of these lenses that I'm here
+to offer our support for the US Cyber Trust Mark.
+We believe that our customers will value
+the US Cyber Trust Mark
+and the confidence it will bring to packages
+as they're delivered to your doorstep
+or while you're shopping online.
+It's funny because as a former major appliances executive,
+your reference to the Energy Star program, it is spot on
+and that is what we should all be envisioning
+for this program as it moves forward.
+It's taken many leaders
+and a great amount of collaboration across many groups
+to get the program to this point.
+The government has prioritized the importance
+of smart home security.
+The private sector is stewarding the implementation
+of the program and civil society
+and standards organizations like the CTA
+have created the technical foundational framework
+for this important program.
+I'd like to thank Anne
+and the National Security Council, the FCC
+and the CTA for pulling this event together today
+and creating this forum for what will be
+a wonderful discussion.
+Thank you for having us here today
+and I wish you all a wonderful CES.
+<v ->I would like to echo the thanks to</v>
+Deputy National Security Advisor Neuberger
+and FCC Chairwoman Rosenworcel for your leadership,
+driving this forward, leading the program effort
+in both the White House and at the FCC,
+the owner of the program, Chante, UL stepping up
+as the lead administrator and our manufacturers
+and retailers, the industry represented
+by Best Buy and Amazon today.
+I want to add one more and that is NIST.
+For a long time now, NIST has been working
+on the foundational technologies
+that establish baseline security.
+What is baseline security for IoT?
+Because the original intent of this program was
+to get a solid base of security
+for as many devices as possible.
+Something that could be rolled out and applied quickly.
+NIST was led by a team
+that included their chief technical gun, Mike Fagan.
+I'd like to invite Mike to join us here on stage.
+He's going to be one of our panelists.
+With Mike Fagan, Dr. Mike Fagan.
+We have Adam Goldberg,
+who is a subject matter expert on cybersecurity for Sony.
+Grace Burkard, who's director of operations
+for IOXT, a cybersecurity certification entity,
+and recently announced CLA, Cybersecurity Labeling Authority
+for this program, designated so by the FCC
+and Scott Register,
+whose Keysight organization is developing test software
+compatible with the requirements for the program.
+In addition, all of these individuals
+have contributed many hours of their own time
+to build the technical foundations of,
+any day now, the technical foundation of this effort.
+I will briefly say, I'm going to do
+a very, very quick dive into this,
+but the CTA's technical standards bodies,
+which is an ASC accredited standards effort
+led by Alexander Blaskin.
+The working groups have been developing
+proposed documents with many, many
+of the deep dive details necessary
+to make a program like this work.
+In the basic concept,
+which generally is I would call the plan of record
+for almost everybody involved in this program.
+There's a QR code
+and an FCC trademark protected,
+a US PTO protected certification mark on the package.
+An analogous thing on an eCommerce website,
+the QR code provides a link to first a consumer friendly,
+mobile friendly page.
+You can scan this with your smartphone
+and pull up the consumer friendly page.
+A number of pieces of information, I'm not gonna go
+through them in detail, but a number of pieces
+of information that are listed in
+the FCC's report in order.
+In addition, there's a second page, which is for
+the technical ecosystem
+to help improve cybersecurity overall.
+These two pieces of information are available
+from any one of these packages
+through the smartphone QR code reader.
+Big picture wise, this is a voluntary program hosted
+by the FCC administered by their designee UL Solutions,
+that should say.
+The standards and test procedures are going to be developed
+as Chante mentioned, over the next 90 days ish.
+Well, there's an opportunity
+to extend the program a little bit if necessary.
+And there's accreditation
+for all the important entities involved.
+The administrators of the program, the CLAs,
+and for the test labs themselves.
+NISTIR 8425 is the foundational document.
+This is the consumer profile
+of the NIST IoT cybersecurity baseline.
+Mentioned that Dr. Mike Fagan led the technical effort
+to develop both of those tracks.
+The 8259 baseline and 8425.
+The CTA technical working groups have been developing
+a framework that takes 8425
+and puts in more prescriptive detail exactly tracking it,
+leaving nothing out, adding as little as possible,
+but trying to make sure that it's a viable, workable,
+detailed piece that leverages exactly what's in 8425.
+And every one of the people on the stage has been
+participating in helping develop that.
+It is IoT product.
+The consumer is protected best if we look not only
+at the hardware device, but also at the app in the cloud.
+And I mentioned the working groups process from here,
+lead administrator program, we talked about,
+there will be a number of additional public notices
+to take the lead administrator developed recommendations
+and bring them into the public record into law.
+And then finally, I'll say what CTA is trying to do.
+We believe that it's possible
+to see certified products at this event next year.
+So I wanna thank everybody who has contributed to this,
+our five opening remarks people, the panelists, a host
+of people in the background, and check with us next year.
+So let's talk about the requirements.
+The goal of this panel is to talk about
+getting ready for certification.
+And if you look at the top level requirements, you start off
+with developing your product, of course,
+but then you make an application.
+So we're gonna do this a little bit backwards
+and talk about the application requirements,
+the responsibilities of the entity that gets the grant
+of certification from the FCC through their designees.
+And we just lost our screen.
+So let's not stress over that.
+Oh, there we go.
+There we go.
+So Grace,
+IOXT is already deeply involved in accepting applications
+for your own program.
+And I think you probably have a really good feel for,
+you know, all the give and take
+and can you talk about this a little bit?
+What's gonna be required for someone
+who's applying for the mark?
+<v Grace>Yeah, so as IOXT, we do a bunch of certifications</v>
+for IOT products.
+We really focus on smart home,
+smart building, mobile applications, and cellular IoT.
+For this program, obviously we're focusing
+on smart home even more.
+And so what we see on a day-to-day basis
+is what do they need to do?
+It's usually manufacturers, sometimes it's OEMs or ODMs,
+but a lot of manufacturers.
+And so that is going to be really relevant here.
+So what do they need to do?
+First, just start with the application process, right?
+You need to submit an application,
+complete the attestation process
+that you will then receive the mark.
+Once you receive the mark, you're on the hook
+for any complaints that might come through.
+These will be validated of course.
+And so what that looks like is they'll need
+to investigate those complaints.
+There is a 20 day period where they need
+to report the results of that investigation.
+That's big because 20 days is not a lot of time,
+so it's gonna be a pretty quick turnaround.
+And the focus on that is great.
+There are other common responsibilities
+that you see on an ongoing basis.
+So that's going to be, you know, maintaining records
+and continued compliance.
+But some of the new ones that maybe not everybody
+is aware of is keeping the registry
+or API updated if there's any,
+we have our own registry I should start with.
+And so you can go to our website,
+you can see which products are already certified.
+You can see how they're certified.
+And so I'm sure there will be probably multiple registries
+at this point for the CLAs.
+So the manufacturers will have that responsibility
+to make sure that that is up to date with any new versions
+or software updates.
+There's also going to be point of contact for everyone,
+all the manufacturers, where they will be able to have
+individuals, you know,
+you hear about vulnerability disclosure programs
+and so individuals can submit disputes or complaints.
+And so that will be important of having
+that point of contact.
+We'll talk about that a little bit later,
+but that's a big one going forward.
+And then another big one
+is going to be actually educating customers.
+And this is a big task
+because it's slightly out there.
+We'd like to see more of it happen.
+And so in that instance, we are really looking for
+what do customers need to do when it comes to configuration
+or product security.
+And then especially a big one that's coming up
+and you'll hear a lot more about it
+is the software support period, right?
+There's not a whole lot that do it currently.
+I mean there are some,
+but the ones we like to see more of it.
+And the ones that are doing it,
+that support period really ranges.
+It could be one year, two years, 10 years, 20 years.
+So I think it's really great for consumer transparency
+to understand what they're signing up for
+and then to have some accountability as well.
+<v ->That's a lot.</v>
+<v ->Yeah, sorry.</v>
+<v Michael>So there's requirements going in.</v>
+Including a successful test report
+and then there's some ongoing compliance requirements.
+Well, let's talk about the technical requirements
+going into this.
+What does the product need to do?
+So the first thing that caught my eye
+when I was first introduced to the baseline requirements
+was the asset identification.
+Basically some identifier.
+Scott.
+<v ->Yeah.</v>
+So I'll take that, right?
+So asset identification really means that every component
+of your IoT product has a unique identifier
+that the product maintains an inventory of all
+of the unique identifiers or the components of the product.
+When I say components could be sensors, smartphone apps,
+thermostats, you know, whatever.
+And that that inventory is available
+to authorized entities, right?
+So why do we have that?
+Well, having a unique identifier
+for some kind of entity is really important
+for security, right?
+When you log onto your bank account,
+your username is your unique identifier.
+So if you're John Smith at, you know, Bank of America,
+there's not another John Smith with that username.
+And so when you log in, you see exactly your bank account.
+It's also really handy if you're doing forensics,
+like if there is a security event, you want to be able
+to uniquely identify all of the different devices,
+let's say on a network.
+So you can see which ones were impacted, go back,
+maybe see was there firmware modified
+and things like that.
+One kind of important note there,
+if that unique identifier is exposed,
+if that causes a security issue, then you have
+to protect it, right?
+Like, so if the identifier for your device gets exposed
+and that's a problem, you have to make sure
+that that is protected.
+Like if you've for some reason built that into a password
+or something like that.
+Now this caused, I think hearing this requirement
+caused maybe a little concern
+because there was maybe some concern
+with manufacturers, oh, does this mean every device has
+to roll off, you know, the assembly line
+with a unique identifier, a globally unique identifier,
+and you know, how do you manage that?
+It's actually not that bad
+because manufacturers get to decide sort of
+how they manage that process.
+And that unique identifier can be sort
+of unique within a deployment, right?
+So I can have a, you know,
+a webcam deployment at my house called, I don't know,
+I could name it THX 1138.
+And then I could have camera one, camera two,
+camera three inside that.
+Now Adam down the street could also have camera one,
+camera two, camera three in his deployment.
+But because the top level name is different,
+he calls it Adam's network
+or whatever, then those are unique, right?
+Because you combine the deployment name, the camera name,
+so it's really pretty easy
+to meet that requirement.
+<v ->So just to clarify,</v>
+when you say components,
+you mean the top level components like the hardware box,
+the software app, the cloud services.
+Not the chips.
+<v ->That's right.</v>
+That's right.
+<v ->Okay, great, great.</v>
+Got it. Got it.
+Cool, cool, cool. Thank you.
+Product configuration,
+what does that mean?
+<v ->Happy to give</v>
+a little bit background on that.
+And actually to add on the last one, I think just
+to reiterate what Scott said
+and the need for asset ID from this perspective,
+like the example given this morning by the chairwoman
+about the vending machine and how it kind of gets lost
+in the mix as just another IP address.
+The ability to identify like Scott was reflecting
+can support even a business
+that's using this kind of technology
+to be able to manage their network.
+Now, that wasn't a main goal, of course, as being
+for consumers, but that kind of cross sector,
+if you wanna call it that use of
+consumer IoT was something that's been
+on our minds.
+<v ->Terrific, terrific.</v>
+Well how about
+product configuration?
+<v ->And so with</v>
+product configuration.
+<v ->Is this software?</v>
+<v ->No, no, no.</v>
+Not how you configure the software in your system
+or on your backend.
+I know we just mentioned like clouds
+or even the mobile applications configuration
+in the sense of what libraries it might use.
+Here we're talking about the settings
+that you would see in a product.
+You know, Scott mentioned the ability
+to change the password.
+So to set that password
+or to set the identifier to something
+that would be unique in your configuration,
+or excuse me in your environment,
+is the kinds of settings we're talking about here.
+So product level settings
+that might then apply across all those high level components
+like we were mentioning before.
+And built into this is also this
+concept of a secure default.
+So when you open it up, you plug it into your network,
+either you're immediately prompted as a user
+to take certain actions to configure certain settings,
+changing a default password for example.
+Or it is already secure by some measure of the program
+or somebody else there that you know,
+maybe you don't even have
+to touch it.
+<v ->So you got the option</v>
+to go back to a secure default
+even if the configuration settings are messed up.
+Very cool, data protection.
+Okay, this one I think everybody has
+an intuitive feel for.
+<v ->Do you though?</v>
+So for data protection, I mean, you know,
+it sort of includes a bunch of sensible things like
+don't store passwords in clear text and memory
+and things like that.
+But more broadly, I suppose that that whatever data
+is stored gets appropriate security for that data.
+So passwords and you know, user name passwords,
+credentials like that,
+of course we've gotta be, you know,
+have a different sort of security to it than, you know,
+cached website data or something.
+But on the other hand,
+things that are sensitive to you,
+things like personally identifiable information
+or things like that are stored securely
+and maintained securely.
+And I think there's a real need
+for that in terms of being robust to somebody trying
+to exfiltrate that sort of data
+but also part of the data protection
+is to sanitize inputs.
+Make sure that the data
+that the device or product is processing
+is not able to do things it shouldn't be able to do.
+There's an XKCD from a number of years ago
+that that talks about a woman who named her kid
+an SQL string, like drop, you know, drop students
+or something to delete the database.
+And so it's things like that where you, you know,
+if it's a text field, there shouldn't be any way to,
+you know, insert SQL commands into it in a way
+that they actually work.
+And there's a whole set of these sort of things
+and related things like cross side scripting and stuff.
+So it's important that the products
+only do what they mean to do and not allow,
+you know, injection of some sort of programmatic
+or otherwise things
+that could be disruptive.
+<v ->And what about</v>
+transmission of data?
+<v ->Well, yes, for sure.</v>
+Oh yes, thanks Mike.
+So among the sets of requirements is, you know,
+the things be secure, but the data be secured
+in a non deprecated manner.
+So for example, you know, I mean if, depending on
+how far back you can remember, SSL 1.0
+and 1.1, like the very beginnings
+of secure internet traffic,
+their usefulness has long passed.
+And the current ones
+are the only ones that should be used.
+Everything prior, which was deprecated for one reason
+or another because there was some vulnerability
+or the better way to do things or et cetera
+that those things aren't used.
+So with respect to data protection,
+you gotta actually protect the data
+and not just look like it.
+<v ->Yeah.</v>
+And I know CTA has a list of deprecated protocols
+that's gonna be submitted
+to the 90 days stakeholder processes,
+potentially a template for don't use these.
+Great, great.
+Interface access control.
+I know what all those words mean.
+<v ->So the sort of simple explanation is</v>
+any ways into your device, any network ports
+or physical interfaces, access to those is restricted
+and controlled, right?
+So practically what does it mean?
+If you have a physical kind of interface on your device,
+you don't want someone to be able to walk up to it
+and plug into it
+with some commonly available tool and take it over.
+Right?
+Now if it's a proprietary interface
+or you have to have some special protocol to attack,
+you're probably fine, but you don't want someone just
+walking up with like a serial port and plugging in
+and taking it over because you don't know where all
+of these devices are deployed.
+Now, on the network side, which is typically
+how these things are accessed, you want to make sure,
+first of all that you're not exposing
+any unnecessary services.
+So for example, if you're building an IoT product
+that's based on Android, you wanna make sure
+that the Android debug interface isn't turned on
+because that--
+<v ->Or FTP.</v>
+Insecure services.
+<v ->Yeah insecure services</v>
+that aren't needed for device setup or management.
+So if you don't need it, it should be turned off.
+I mean that's because if you can
+make the attack surface smaller,
+it's harder to get into, right?
+Really sort of basic stuff.
+And then you want to also make sure
+that you have good passwords, right?
+So access to any interface needs
+to be authenticated and that means, you know,
+doing so in a good way.
+So what does a good password mean?
+Basically things like passwords should be changed
+on first use or they have to be randomly generated
+and strong, right?
+Long special characters, things like that.
+Why do we need something like that?
+If you think back to like the Mirai Botnet, right?
+Which took down huge chunks of the internet,
+why was that successful?
+It wasn't super sophisticated,
+but there were hundreds of thousands of IoT devices,
+webcams, set up boxes, et cetera, that were still running
+with a password they left the factory with, right?
+And so if you just gathered up a list of half dozen
+or so with those passwords, you could take over lots
+and lots of devices and we don't want that to happen again.
+That's one of the big goals of the program
+is sort of protecting the internet, right?
+And so if you have good passwords,
+then that's a lot less likely to to happen.
+And then one of the last things, oh what, sorry,
+quickly, so input validation,
+and Adam touched on a lot of this, you wanna make sure
+that you're not receiving data
+that can mess up your device, right?
+So if someone can't pass a string that's too long,
+that writes stuff into executable memory, like malware,
+that could let someone again, take over the device.
+We saw that recently with a smart plug, right?
+Where that was the case.
+<v ->Terrific. Terrific.</v>
+Yeah, I just wanna ask our panelists
+to pick up the pace a little bit,
+make sure that we get everything in.
+Okay.
+Software update, this is great.
+There's only one bullet item here,
+so it must be easy to do, right?
+<v Grace>Yes, I can take that one.</v>
+That is actually, it's gonna be very quick, right?
+So software product components should be able to be updated
+by authorized individuals or services using a secure
+and configurable mechanism.
+So what does that really mean?
+That they would be able to,
+the component essentially can receive, verify
+and apply the update
+and then also that mechanism, how it's done,
+essentially, is it going to be automatic?
+Which would be great
+because then it could just happen
+when the manufacturer updates.
+Or another way is to provide a push notification
+to customers and then wait for the customer
+to manually go in
+and update it.
+<v ->Terrific, terrific.</v>
+And I have to say that this is,
+to me, this is one of the most important elements
+of this program overall because we mark a boundary
+between a requirement that the device just work
+and the next generation led by the US Cyber Trust Mark,
+the requirement is the product has to work
+and be updated when it's hacked.
+And that is even they think it's hacked.
+Okay, moving on.
+Cybersecurity state awareness.
+<v ->I can grab this one quick.</v>
+<v ->Sure.</v>
+<v ->So the idea like it says in the slide is</v>
+to support some kind of logging in the device
+or the product I should say.
+The goal here is to support even folk ad hoc forensics
+by the user perhaps,
+but not necessarily the baseline is
+that this data's collected somewhere
+within the product ecosystem.
+So if a update were to fail, say,
+or if it for some reason a encryption algorithm defaulted
+to something that wasn't acceptable to the particular user
+or some other context of the ecosystem, it's captured
+and that data can then be accessed and we know it's secure.
+We know that that data can be trusted
+by some forensics entity.
+Might be the manufacturer themselves,
+might be another third party looking into something
+that happened.
+<v ->Or even, you know,</v>
+multiple attempts to log in with the wrong password.
+<v ->Certainly yes.</v>
+<v ->Right.</v>
+But the key is to be able to have
+an effective forensic investigation
+and figure out what happened where the problem was
+so that it can be fixed.
+<v ->Exactly.</v>
+<v ->And now does the consumer,</v>
+I think there was something
+about the manufacturer.
+<v ->Yeah, I mentioned</v>
+at the top, you know,
+a consumer may have a reason to access this
+for some products, but for many products,
+especially the full scope of what would be captured
+to support forensics, effective forensics user wouldn't need
+or should not be able
+to access that.
+<v ->But the manufacturer</v>
+should be getting data,
+I mean this is unfortunately this is the, you know,
+ET is phoning home again,
+issue that people have with privacy.
+But the manufacturer getting data that says, you know,
+this particular thing is happening across the board
+to many of my devices,
+it's a call to action for the developers.
+<v ->Exactly.</v>
+<v ->Terrific. Terrific.</v>
+I think this one is a little,
+was one of the most difficult ones for me to appreciate
+and I appreciate the clarity.
+All right, let's talk about
+the non-technical requirements.
+So that was a quick walk through the six major categories
+of technical requirements from the 8259 baseline
+that migrated into the 8425 consumer profile.
+These are NIST documents,
+so you can find them online very easily.
+But what does the organization need to do.
+<v ->Right?</v>
+<v ->I can take</v>
+this one too, Mike.
+So we're talking about non-technical now,
+these are things the organization would be doing,
+doesn't necessarily be reflected through the products,
+features or functions.
+One of the core non-technical capabilities we talk about
+in 8425 is documentation, excuse me,
+this is sets of information collected,
+what we say pre-market and post-market.
+So throughout the entire life cycle of a product
+that show all sorts of different things,
+it's contextual to the product, right?
+A few examples of what is required across the border.
+Given on the slide here for pre-market, for, well for both
+of them, but I'm gonna stick to the pre-market,
+just to keep it short.
+The list of the IoT components like we were talking about
+earlier, where is the cloud?
+What is it, what kind of app are you using to support it,
+the product itself.
+And then of course as what we were just discussing,
+how you might meet those baseline product criteria,
+particularly the technical ones.
+What kind of data protection do you use?
+What kind of configuration is available?
+How can you set the asset ID
+or what kind of asset ID is used?
+For example.
+<v ->Right, right, right, right.</v>
+So this is an example of ongoing compliance
+in the post market.
+<v ->Yes, yes.</v>
+<v ->Okay, great.</v>
+Information and query reception.
+Grace is looking at me.
+<v ->I can help with this one.</v>
+So essentially what this means
+is information intake, right?
+So essentially the manufacturer having
+some type of program we usually refer to them
+as vulnerability disclosure program
+or bug bounty program, CVE.
+And so that program allows individuals to
+report complaints or issues or incidents
+and usually cybersecurity incidents.
+I need to make that clear
+because this is not feature issues, right?
+It's not, oh, I'm locked out of my account,
+I forgot my password, I have a broken part.
+These are cybersecurity incidents.
+So you're looking at your bugs, your vulnerabilities,
+and I believe that if you have these programs in place,
+which there could be more,
+and having a point of contact to be able to report those,
+that's going to be really important.
+It helps with, you know,
+some market surveillance, which is great.
+And then also if anything is found, it's going
+to help boost the security of those devices
+because when we go back to software updates,
+you can make those updates and push them out and make
+the products more secure.
+<v ->Well then there's</v>
+a specific advertised point of contact
+for security researchers to say, hey, I found this thing.
+A lot of that exists now,
+but it's sometimes a problem for a researcher
+to reach the right people,
+especially in very large companies.
+<v Grace>Right.</v>
+And it could be something as simple
+as security@company.com, right?
+It doesn't need to be, oh,
+contact this person at this time, these days.
+I mean, just a general inbox
+would be great.
+<v ->Yeah, we recommend</v>
+security at domain name
+as just the easiest, simplest way.
+And that's actually what researchers have told me
+they usually do first is they just put the word security at
+and then the domain of the company
+and then see if that gets a response.
+Okay, so that's information reception,
+taking in security information
+from the ecosystem.
+<v ->Yes.</v>
+And then you have information dissemination,
+and this is pushing out information.
+So this is where manufacturers
+for any cyber security relevant information
+that may come across specifically maybe from these queries.
+So then this is where they are pushing that information out
+to relevant people, right?
+So that's your customers.
+If there's a breach and something happens
+and there are steps that need to be taken
+or actions to rectify that, then they need to make
+that information available and put that out there.
+Likewise, it's not, I mean that could also be
+mitigation operations, it could be maintenance operations,
+could be terms of support or service.
+So there's a lot of different things
+that it could be, but not just customers.
+You also wanna look at your external stakeholders.
+So that includes, you know, third party support,
+any supply chain partners, certifiers, you know,
+whoever it's going to impact
+and needs to have this information.
+So a good way to think about it is like, okay,
+we need to have information being brought in
+and then based on that information
+and if it is verified, what do we,
+what do the manufacturers need to do
+and communicate to everybody else in order
+to let everybody know.
+<v ->So I find out that</v>
+log 4J affects my products
+and I need to send out an advisory to, you know,
+the test lab and to my customers and Chairwoman Rosenworcel.
+<v ->Yeah, exactly.</v>
+<v ->And when those,</v>
+when problems are found in open source that's used
+by lots of folks that it get fed back
+into the open source process.
+<v ->Yeah.</v>
+<v ->And again,</v>
+raising security across the board.
+Terrific.
+What's the risk assessment thing?
+<v ->I can give some details on that if you like.</v>
+So risk assessment
+as we're the CTA 2119 effort landed is recommended
+but not required to be certified.
+So if you meet all the other requirements, you may not need
+to produce the risk assessment or threat model
+or whatever you might call it for your product.
+But from this perspective, we feel that your application
+of any cybersecurity is gonna be undergirded by
+that threat model or that risk assessment.
+How you are securing the broader ecosystem
+and how you might imagine your customers are gonna secure
+the product and the consumer space, you know, that's ad hoc.
+There's not a CSF that consumers are gonna be using
+that you can look to, to understand their
+exact requirements and needs.
+Which is why I think the good work that's gone into 2119
+helps demonstrate a lot of the kind of security
+that you would expect across the board.
+But in some cases there may be products that need
+to communicate a risk assessment
+as far as information dissemination as part of the process
+of being certified for one reason or another,
+they're doing it differently.
+<v ->Okay, terrific.</v>
+I mean, risk assessment's part
+of a secure development life cycle.
+<v ->Yes.</v>
+<v ->And you start off saying,</v>
+what am I at risk for here in the first place?
+Okay, thank you.
+Product education and awareness.
+Bring us home.
+Bring us home.
+<v ->Bring us home.</v>
+Thank you.
+So in addition to all of these other things
+that it's important to provide consumers information
+that they need about this whole, what the label means
+and what the implications of that are.
+Things like what they need
+to know about changing configuration settings,
+requirements system passwords and other access controls.
+The fact that software updates are, you know, available
+and for how long and what the mechanism is
+for those updates to happen either automatically
+or you know, periodically, you might get notified
+that there's an update available, click here to do it.
+That sort of thing.
+And that, you know, all of this sort of includes
+how the maintenance of the product works,
+including what happens after this.
+The support period is over, you know, it's possible
+that security updates persist beyond
+other warranty issues or shorter even.
+And so to explain to consumers
+what all the details, benefits and maybe cautionary tales
+about how to operate the product
+that has the certification.
+<v ->All good. All good.</v>
+Thank you. Thank you.
+I'm gonna jump to one last slide, get your cameras out.
+This slide has a QR code that goes to a CTA landing page
+with more information about the program.
+We will be updating that
+with some information from UL Solutions.
+Chante and I will need to coordinate on that.
+But to make sure that you can get into that effort,
+the 90 day stakeholder process, there's our
+contact points, standards@CTA.tech if you're interested
+in that part of the process.
+And finally, the FCC has a booth
+for the US Cyber Trust Mark.
+It's the second level of the Venetian,
+it's at the top of the escalators.
+When you get to the top of the escalators, turn around
+and go back a little bit and you'll see it there.
+And they've got flyers and information
+and people to talk to you about the US Cyber Trust Mark.
+So that's level two at the Venetian, it's SUL-2
+and you can also find it in your app.
+There are multiple FCCs in the app,
+so make sure you find the right one.
+I want to thank my panelists for the brilliant analysis
+and update for everyone here today.
+I want to thank our esteemed guests
+and I also want to thank all the media who got up and left
+after our esteemed guests spoke,
+because that was actually pretty amusing to see.
+So ladies and gentlemen, thank you so much for coming.

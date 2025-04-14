@@ -1,0 +1,922 @@
+<v ->Good morning, everyone.</v>
+Welcome to our panel, Safe Money, Venture Leaders
+Leading the Way in Cybersecurity.
+My name is Chris Ahern, I'll be the moderator today
+for our panel.
+I'm a partner at Strategic Cyber Ventures.
+We're a venture capital firm based in Washington, DC.
+We invest in early stage cybersecurity technology companies.
+I've been at SCV for about eight years.
+Prior to that I was at Georgetown for my MBA
+and then before that I was at Ernst &amp; Young
+getting my, or in the audit practice there.
+So, we have a great panel today.
+We're gonna be discussing all things
+cybersecurity and venture capital.
+So why don't we start off with the round of intros.
+Kaiti, why don't you kick us off?
+<v ->Kaiti Delaney, I'm a principal at Ten Eleven Ventures.</v>
+We're a cybersecurity only fund.
+We're stage agnostic.
+Anything from series C all the way to full buyouts.
+My background is in strategic finance M&amp;A.
+I joined Ten Eleven back in 2018,
+so I've seen kind of all the hype cycles
+that have gone on over the last almost decade.
+Nick.
+<v ->Nick Sands with Citi Ventures,</v>
+it's Citibank's Venture Corporate Venture Fund.
+We invest in FinTech companies, lending marketplaces,
+Web3 to cyber dev tools, and we have about
+I used to work at Lockheed Martin before that.
+To you, Brian.
+<v ->Brian Norville, I am the technology lead</v>
+for the IQT's cybersecurity investment practice.
+In-Q-Tel is a not-for-profit strategic investor
+and we invest in enhanced technologies
+on behalf of the national security community.
+We, so prior to IQT, I've been there for about seven years
+and prior to that I spent a number of years
+working for various organizations
+within the national security community
+as a cybersecurity practitioner.
+<v ->Great.</v>
+So maybe we can start by just kind of setting the stage
+for the cybersecurity venture capital landscape.
+So 2024 was a little bit of a comeback year
+in cybersecurity venture capital.
+and really record breaking 2021 and 2022.
+So maybe let's just kind of set the stage.
+So, Kaiti, maybe what are you seeing
+in terms of like deal activity, deal volume, valuations?
+Are you busier now than ever?
+What are you seeing today heading into 2025?
+<v ->So I'm a little biased coming off of Q4.</v>
+I think every company tries to get
+some announcement in before the holidays.
+So, Q4 was really busy.
+<v Chris>Yep.</v>
+<v ->I would say from most of the sources</v>
+that I've seen in kind of our own internal tracking,
+I think the innovation cycles in 2023
+were a bit muted as you kind of spoke of.
+And I think then 2024, we had a lot of innovation
+in kind of the automated SOC space, a lot of data privacy,
+AI, security.
+So I think that there was a lot more hype in the market
+and we did see crazy deals
+with crazy valuations getting done.
+I think from our perspective, we're still dealing
+with an overhang of 2021 and 2022 valuations.
+So there were a decent amount of rerating
+and kind of restructurings and expectations
+when it came to fundraising.
+But I still think that it's a really robust
+funding market right now.
+And everything I've seen is 2024 was a bigger year
+in terms of dollars and deal account than 2023.
+<v ->Yeah, yeah.</v>
+So you mentioned like really lofty valuations.
+I've seen the same thing and I've been trying
+to think about that and kind of rationalize that.
+So yeah, I mean there is still some frothiness
+in the market even though overall funding
+is kind of feels a little bit more kind of pre-pandemic.
+So, Nick, like how do you think about that?
+Just sort of kind of those two concepts
+that for some companies is really, really hard to raise
+and then other companies, you know,
+there's term sheets flying at them
+and valuations get pretty zany.
+<v ->Yeah, I mean you see it with the companies</v>
+that are just performing like exceptionally well.
+They get priced at 100x current revenue.
+And that's just pretty consistent
+across all really high-quality companies.
+Or if you're an AI company, you also get kind of
+a blank check to have a really high evaluation.
+It's tough to say exactly,
+but if you look at public markets,
+you look at the top cyber companies,
+they're the highest like valued companies
+EV to revenue out there right now.
+And I think the private markets see that,
+see the resilience of those companies, even when we go
+through economic downturns, those companies still perform
+and it's because those budgets
+don't usually go away in a downturn.
+Those budgets usually remain constant.
+<v ->Yeah, I was looking at some data for the panel.</v>
+So Altitude Cyber, they're a investment bank
+in the cybersecurity space.
+So they had some data, I thought this was interesting.
+So Q2 and Q4 of 2023, there was 1.7 billion and 1.9 billion
+of venture financing in the cybersecurity space.
+You actually have to go all the way back to 2018
+to find a single quarter with that little
+of transaction volume.
+Yeah, so it's, I mean 2018 seems like
+it's like when I started my venture career, it's like,
+it seems like ages ago.
+It was ages ago.
+I guess is that just like a hangover
+from like the craziness of 2021 and 2022?
+I dunno, Brian, do you wanna?
+<v ->No, maybe.</v>
+<v ->Or Kaiti or Nick, whoever.</v>
+<v ->Yeah, I think there's a lot of firms</v>
+that saw what crazy valuations too early
+in a company's lifecycle could do to a company
+and it's damaging on some level for their ability
+to fundraise going forward and they have
+to reset expectations and cap tables are really messy
+and recaps are not really ideal for new investors.
+So I think that there is a lot more, I would say, cognizance
+around these crazy valuations.
+Still there's hot companies and hot spaces
+that I think people are okay riding blind 100 times
+multiples on just knowing that they're gonna grow
+into them over time.
+But I do think there's more cognizance among,
+I would say the VCs in cyber and we talk a lot about
+the tourists that came in in 2021, 2022.
+They've left.
+<v Chris>Yeah.</v>
+<v ->For the most part.</v>
+And so I think that also has rationalized a lot
+of the deal volumes than I think that it is more of a,
+I would say, investor friendly environment
+than it has been over the last three, four years.
+So, that's kind of my view.
+<v ->Yeah, the only other thing I'd add is that in 2023</v>
+people talked about like the VC overhang,
+there's a bunch of dry powder,
+basically funds had raised a lot of money
+and they hadn't deployed it yet.
+There's still a little bit of that in the market
+with these really highly valued companies
+is that venture firms need to deploy capital,
+and so they wanna write really big checks.
+Usually a really big check correlates
+to a really high price.
+<v Chris>Yeah.</v>
+<v ->And so we still see that for a couple companies.</v>
+<v ->Yeah, and the one thing I'll add there</v>
+is that we're seeing a lot of activity
+and interest in the hype around generative AI,
+especially in cybersecurity and we're seeing a lot
+of really great teams and repeat founders
+kind of venture out into that space.
+But I think both on the investor and buyer side,
+there's a little bit of skepticism to see
+how this actually shakes out since we're really early
+in the hype cycle and the space is moving fairly quickly.
+So what we're hearing from buyers
+is that they're really interested
+in how much incremental benefit these solutions,
+generative AI enhanced solutions provide
+over the current set of cybersecurity tools.
+So they're more interested in increased security outcomes
+and not necessarily in a novelty of applying generative AI.
+<v ->Yeah, yeah, yeah, I mean I personally,</v>
+I kind of prefer this environment.
+Like I remember 2021, 2022,
+you'd meet an interesting company and the deal would,
+you know, it'd be like you have 48 hours
+to get a term sheet out and it was,
+yeah, it was just a tough environment.
+This is a little bit more, I think,
+a little bit more rational I think overall.
+So we discussed, we mentioned generative AI.
+I think, Kaiti, you mentioned data privacy
+and data security.
+In 2024, I also noticed that identity and access management
+was a very hot area in terms of investment.
+So what are the areas that you all are excited about
+heading into 2025?
+We can start with you, Kaiti.
+<v ->Yeah, so we're a little bit unique</v>
+because we're cyber only.
+We kind of have our own view of the ecosystem.
+There's like 20 big verticals that we look at
+and then we have sub-verticals within that
+and we can't invest in competing companies.
+So we have bets in kind of the data privacy side
+or the data DLP side.
+We have AI for security.
+So I would say are a little bit unique,
+but what we're looking at into 2025 is a lot around quantum.
+We haven't made a bet in that space.
+We haven't made a bet necessarily
+in smacked up application security.
+And I think that it's pretty ripe for disruption.
+We think that cloud security is something
+where the incumbents are pretty strong,
+but we hear a lot of whispers about runtime cloud security,
+so we're doing a little bit more
+of a deep dive in that space.
+So it's more of the next gen agentic AI enabled companies
+that we're starting to look at.
+So maybe next gen network security, next gen EDR.
+So those are kind of the areas that we're looking at,
+which I would say is a little different than most companies
+or most VC firms that don't have bets in security
+for AI or DLP for LLMs and whatnot.
+<v ->Yeah, so like what is the next evolution</v>
+of these various security categories likely
+with some kind of AI kind of use case.
+Nick, what about you?
+What are you interested in?
+<v ->Well, so I'm really interested in identity</v>
+and it has to do a lot with AI.
+So if you think about how, you know,
+even consumers are gonna start interacting with AI,
+like you might start telling Siri to go buy groceries
+for you, or in the context of a large business,
+you might tell some sort of bot to like,
+"Hey, go pull these reports for me."
+And so then the concept of what's an identity
+kind of changes a lot.
+Hey did like, how do you know that Steve told that AI
+to like go pull those reports?
+Like how do you have auditability around that?
+And then how do you know, hey, I told that AI
+to go buy me groceries.
+I think the way that we're gonna be transacting
+is gonna be very different.
+And so there's an entirely new identity landscape
+that's gonna have to be kind of constructed.
+We'll kind of see that play out over the next couple years
+as you start seeing more of these age agentic things.
+People are starting to see that integrated in their devices,
+in their browsers and are starting to use AI more
+to do day-to-day things and transactions.
+<v ->Yeah, we're also interested in identities</v>
+around agentic AI as that system of systems
+that are operating on your behalf in addition
+to all of the high proliferation of IOT devices that are,
+is happening in the world right now.
+And now you have devices talking to devices,
+services talking to services, which makes it
+a really complex problem.
+But we're also interested in kind of generative AI security
+in two different ways, right?
+So the first being securing enterprise use of generative AI
+and then the second, which I think everyone earlier
+kind of spoke to, applying generative AI
+to security workflows.
+So on the first piece, the way that you interact
+with generative AI models is fundamentally different
+than the way we interact with our existing
+IT systems, right?
+These systems, they're probabilistic,
+they're not deterministic.
+And you can interact with them
+in an almost infinite amount of ways.
+You can ask the same question
+and while conveying the same intent.
+And that makes it really challenging for the current crop
+of security tools that we're used to using
+to secure those environments, right?
+It's really hard to use a regex
+or a deterministic style rule or policy-based approach.
+So we've been looking at several tools in the market
+that are popping up, that are looking at combining
+the deterministic and classical detection approach
+with using additional maybe smaller models on top of that
+to kind of catch some of the variants.
+And then on the generative AI for security,
+we're kind of looking at looking at that
+in three different ways.
+So, one being upskilling your existing cyber talent.
+The second being automation,
+which I think we heard about earlier.
+And then the third being like workforce agility.
+So the upskilling is really about how do we make
+my junior analysts that just came out of a security program
+or a university a super analyst on day one, right?
+How do we automate a lot of the tedious tasks
+that they do on a daily basis?
+And then the automation is both semi-autonomous
+and fully autonomous.
+And what we're seeing and with the current set
+of cybersecurity tools, and organizations
+are still very hesitant to let their tools kind of run amuck
+in their environment and start turning knobs.
+And we see that same hesitancy carry across
+to the generative AI enhanced security tooling.
+So we think the key there is really gonna be
+about transparency, right?
+So tools that really show you exactly
+what these generative AI models are doing
+and how they're coming to the assessment
+that they're coming for the environment.
+And then the last piece,
+and then I'll hit on is workforce agility.
+We all know how hard it is to hire and retain
+really great cybersecurity talent, right?
+And then you hire them and then they spend six months
+in your organization really understanding
+your environment and then they leave.
+And that's really hard 'cause now you have
+to bring in someone else and train 'em up all over again.
+So we're looking at platforms that maybe use things
+like natural language querying that allows you
+to ask really critical questions of your cyber data sets
+in a way that makes sense for them, right?
+So that they don't have to go through the de tedious effort
+of learning new environment, learning the specific
+query languages across different tools.
+So that's really where we're focusing for the time being.
+<v ->Yeah, so you mentioned automation.</v>
+Do you see like a fully automated SOC in our future?
+So SOC is a security operations center.
+Do do you see that down the road?
+Do you have like a rough timeline in your head?
+<v ->Yeah, I think we're a ways off.</v>
+I think people are still figuring out
+how to get the full value from the current
+set of security tools.
+So for certainly for some with short organizations,
+I think they're gonna lean in, really lean into
+the fully autonomous SOC, especially at the tier one level
+where the stakes are a little bit lower.
+But I think as you go higher into the tier two
+or tier three where the stakes are higher,
+we'll see more hesitancy.
+<v ->Right.</v>
+But right now we're not really seeing fully autonomous
+like decisioning done by AI at the SOC level.
+People are just aren't quite ready for that and maybe they,
+you know, the models are not quite ready for that yet.
+<v ->Yeah, not quite ready.</v>
+There are are a few startups that are popping up
+and a lot of novel capabilities that are aiming
+to kind of develop that, but we're still early days.
+<v ->So, Kaiti, how do you think about what Brian mentioned,</v>
+like AI for cybersecurity, cybersecurity for AI,
+that's kind of a basic mental model that I use.
+So yeah, how are you thinking about that?
+Like cybersecurity impacting AI and vice versa
+and what are you excited about in AI?
+<v ->Yeah, so I think we forget that AI has been around</v>
+for cybersecurity for a long time.
+We were early investors in Cylance, Darktrace.
+They all were using some form of machine learning and AI.
+And so I don't think that part is necessarily new.
+I think what came out were LLMs and the ability
+for all companies to take advantage of the technology.
+So the hurdle rate is a lot lower.
+So I think from the aspect of AI for security,
+it's not necessarily new and kind as Brian said,
+we have a long ways to go.
+I think we're early in the lifecycle of being able
+to fully trust AI in their decision making.
+If you look at network detection, a lot of people
+don't have the auto remediate on there
+'cause they don't want their networked connection
+to just be cut off.
+<v Chris>Right.</v>
+<v ->So I think human in the loop is gonna be really important</v>
+and I think we're probably five plus years out
+of being able to actually have things go autonomously.
+So tier one level triaging and a SOC is a great use case
+'cause it's low stakes.
+In terms of security for AI,
+I think that's a really innovative space.
+We've invested in hidden layer,
+which has kind of coined the MLDR.
+So it's machine learning detection and response.
+And I think there's a lot of opportunities there.
+So there's a lot of the governance
+and compliance piece of AI.
+I think that there is a lot of opportunity
+for companies to do the DLP side of LLMs
+and the usage more across the enterprise.
+So I think that's an area I think of more innovation.
+And I think we have a long ways to go for AI for security.
+<v ->Yeah, so maybe touch on that.</v>
+You mentioned hidden layer.
+Like what are sort of some
+of the cybersecurity risks associated with AI?
+I mean, I think every Fortune 1000 in the country
+wants to adopt AI, but I know security is top of mind.
+For the audience that maybe doesn't know,
+like what's the risk of adopting these technologies?
+You mentioned data loss.
+What are some of the concerns that companies
+like Hidden Layer help with?
+<v ->Yeah, so there's data poisoning.</v>
+So somebody could come in and tamper
+with the data that's training your model.
+It might not be operating the way
+that you had intended it to.
+Kind of a good example is all the autonomous cars,
+they learn off of stop signs so that they know how to stop,
+but you could go in and basically change the algorithm
+or change the data so that they end up blowing through them.
+So making sure that they're actually
+operating the way that they should.
+Hallucinations is the other one.
+As we've all kind of seen in the news,
+it's all what's feeding into your data is kind of the,
+I would say the goldmine of AI/ML.
+So having proprietary data that's protected
+and not tamperable is really important.
+And then it's also kind of that compliance piece.
+So there's a lot of watermarking of making sure
+that the content is AI generated,
+that a lot of these companies are being forced to produce.
+And so being able to almost do like an AI bomb
+of where everything is coming from
+and being able to accredit the fact
+that it's AI generated is also important.
+<v ->Yeah, I would love to hear what Brian has to say about it,</v>
+but I think just to add to what Kaiti just said.
+One of the key things to think about it
+is it's application software
+just like you would download repos from GitHub,
+but there are different type of application.
+And so the entire supply chain's really important.
+Like lots of companies mid market to up market
+scan their code before it ever goes to production.
+They scan their open source code.
+You should be scanning your models the same way.
+You should understand where your model came from,
+who's the one who uploaded it last
+in probably something like Hugging Face.
+Are you getting 'em from Google?
+Are you getting them from OpenAI?
+And you should understand where those
+are going in production and you should understand
+that entire lifecycle.
+And we're just starting to see companies
+that are trying to tackle that problem.
+But that's the problem that enterprises are gonna start
+facing in the next year or two.
+<v ->Yeah, completely agree.</v>
+I think companies like Hugging Face,
+there where GitHub was like several years ago
+before they really started scrutinizing the code
+that's there and running their own kind of internal
+and community-based scans on it.
+But I would say DLP, that's the one area
+where I think is the biggest
+and what we hear from CISOs a lot.
+And it's been really fascinating to see
+how quickly generative AI has been adopted by organizations,
+so enterprises and consumers, right?
+So everyone started using it
+for some sort of productivity gain.
+And a lot of organizations realize like, wait, "Hey,
+our engineers are copying in proprietary code
+and are using it to write things, right?
+And our sensitive information is just going out the door."
+We really don't understand these things enough.
+We don't understand where they're being stored,
+who has access to that data?
+Is the model being retrained on that and will it spit it out
+to one of our competitors later, right?
+So the initial kind of response by the market was just like,
+"Hey, let's block everything."
+And then as we began to understand, there's been policies,
+data security policies that organizations have put in place
+around that and we're really seeing the DLP cybersecurity
+or DLP tools for AI models coming into play,
+looking at the prompts that are going in
+and out of these platforms and making sure
+that the people who need access to that data
+can only access that data and nothing else.
+And I think that also ties into
+Nick's point earlier on identity.
+<v ->So, Brian, when you talk to companies,</v>
+what sort of the breakdown of,
+so companies that are use using LLMs,
+what's sort of the breakdown of closed source, open source?
+Are they taking open source models
+off the shelf and customizing them?
+Do you have like kind of an idea in your head
+of how these are all kind of breaking out a little bit?
+<v ->Yeah, I think we're seeing a little bit of both, right?</v>
+So obviously in Intel we operate
+on behalf of the national security community.
+And I would say a close analogy is the financial sector.
+That's super highly regulated, right?
+So I think for the commercial market
+is certainly fine to use some of the closed source
+hosted models like your ChatGPTs and others,
+or Gemini and other that are offered.
+But for close environments that are disconnected
+from the internet, we're seeing companies
+really think about how to provide the same value
+that they would provide to their commercial customers,
+to those environments as well.
+So I would say it's a hybrid of both,
+but it's really mostly about the customer
+and the deployment environment.
+<v ->Gotcha.</v>
+So, 2024 was an interesting year in cybersecurity though.
+I think there's basically never
+a dull year in cybersecurity.
+So we had the largest telecoms hack
+in maybe the country's history.
+We had a large outage, IT outage,
+caused by a cybersecurity vendor.
+And then there was also most recently
+an incident at the Department of Treasury.
+I guess for me it seems like these events
+are getting bigger and bigger each year, broader and broader
+and more and more impactful.
+What's your your take on this?
+Is this like just the new normal?
+Kaiti, I dunno, we can start with you.
+<v ->Yeah, so I think that even with AI,</v>
+it's gonna get even more difficult to defend against
+because the attacks are gonna get better and better
+and I think social engineering's gonna get trickier
+and I think the human aspect of cybersecurity
+is the hardest to defend against.
+And so I think what we've started to see
+is a zero trust architecture
+where you just don't trust anybody.
+And I think that's gonna be
+kind of the go forward assumption
+is that you've already been breached
+and you have to basically make sure
+that you are not gonna get exfiltrated
+or that you are taking the precautions to make sure
+that there's not huge ramifications after a breach.
+So I think that kind of that zero trust architecture
+is gonna be the go forward norm.
+And I do think that we're gonna have to fight
+more sophisticated attacks with more sophisticated tools.
+Yeah.
+<v ->Yeah, if you talk to most CISOs they'll say like,</v>
+"It's not if but when you'll get hacked."
+I think that's gonna be, you know,
+going forward it's gonna be much the same.
+And you see like a couple key categories
+where like people are investing in things
+that are gonna allow you to continue your,
+allow your business to continue to operate
+even though you've been hacked.
+So like Rubrik just went public,
+and that's a cloud data backup company.
+There's a bunch of interesting companies
+that are just focused on alleviating ransomware.
+So part of your systems get ransomware,
+they capture the encryption keys
+and they're able to unransomware your keys.
+So you've still been hacked,
+but you can continue to operate your business.
+I think you're gonna start seeing more and more technologies
+that allow people to continue to do their work
+even when they're someone inside your systems
+that you're trying to actively get outta your systems.
+<v ->Yeah, I agree with Nick and Kaiti.</v>
+The other thing I'll add.
+With some of these attacks, a lot of them
+have been focused on legacy infrastructure
+and traditionally these devices, they're old,
+they weren't developed with security in mind
+and people are very hesitant to do anything to them, right?
+Like you can't apply your traditional
+or your general purpose compute on cybersecurity solutions
+to these devices because they might break.
+And in a critical infrastructure situation
+that might have catastrophic consequences.
+So, I think we need to look at
+implementing security practices in those environments,
+which will help with some of these really large attacks
+that where the attackers are able to kind of operate
+low and slow within the environment.
+The other thing that I think
+is key for the industry going forward is a renewed focus
+on cyber data management and cyber data analytics.
+A lot of these attackers, they're practicing kind of
+living off the land, so they're using benign tools
+that exist on your system that wouldn't necessarily
+raise an alarm to operate and persist
+within that network without flagging
+by being flagged by any of the security tools.
+And this may happen over the course of a year, right?
+And many organizations, it's really expensive to store data
+and oftentimes you have a 30 day window
+and then after that it's like out the window.
+So figuring out ways that we can figure out
+which information we need, normalize it,
+so it's all in a similar format.
+And then get that into the right place.
+so that we can drop really critical insights out of it,
+I think is gonna be essential in the future
+to really highlight anomalies.
+<v ->Yeah, I think there's so much interconnectedness.</v>
+You have software using third-party software.
+Sometimes that software is using other third-party software
+and open source software that when you have a breach
+of a software application, and it's used
+by a hundred thousand customers.
+I mean, that's gonna be just a fairly catastrophic event.
+On that topic, have you all looked at
+software supply chain security companies?
+<v ->Yeah, so I think 2021 was kind of the poster year</v>
+of software supply chain companies
+just given the SolarWinds breach.
+So I think that the market went crazy in 2021
+and all of the companies that came
+to market got crazy valuations.
+We actually sat out just because we couldn't get there
+in terms of exit profile given the valuations
+that they were requiring.
+But yes, we've seen a ton of them
+and I think that it's a pretty fragmented space still.
+There's a lot when you look at the SDLC
+to see kind of where you can play in.
+I think Snyk's kind of the best well-known, maybe Veracode
+in that space where you can have a whole suite of tools
+that help you kind of do
+that software supply chain analysis.
+So yeah, we spent a lot of time,
+we haven't necessarily made a bet in this space.
+<v ->Yeah, we invested in a company called Indoor Labs.</v>
+We're also investors in Snyk.
+And I think with all things software supply chain,
+it's about increasing kind of signal to noise.
+So a lot of tools out there are super, super noisy,
+whether it's a SaaS tool, an SCA tool, a DAS tool.
+Your people who are analyzing these results
+get a swamp of data and then they have to go decide
+like what to go fix first.
+What am I gonna go tell my developers to fix first?
+And it's really difficult problem.
+So there's new techniques coming out there that are able
+to tell like, well, this is a vulnerability,
+but this one actually gets executed in your code,
+so that's probably something you should fix.
+This is a vulnerability, it doesn't get executed
+in your code, so you shouldn't fix it.
+As well as like new techniques in SCA to just improve
+kind of signal to noise ratio for reachability.
+So I think there's just a lot of really cool innovation
+in this space right now and I think
+you're gonna kind of continue to see that
+because it's so important going into '25.
+<v ->Yeah, we're also interested in the</v>
+software supply chain security space.
+We're looking at it from the lens of secure by design.
+So secure by design software.
+So there's companies out there like Chainguard,
+which offer containers that they kind of rebuild
+from scratch with where they can promise zero
+or near zero CVEs over the lifetime
+of your use of that container.
+We're also interested in software
+contributor analysis, right?
+So most people when they go to write code today,
+the first line in that code is an import or an include.
+And immediately they're bringing in
+potentially thousands of lines of code that let's be honest,
+like no one sits there and looks through it, right?
+And that is introducing vulnerabilities
+into your environment, which could have
+like really bad consequences down the road.
+So number one, we need to understand the provenance
+of those pieces of code and libraries
+and dependencies that we're bringing in.
+And we also need to know who's contributing to those, right?
+So if you go to these projects on GitHub,
+there's a long list of user handles
+and screen names of people that we have no idea
+where they're from, right?
+It may list a geographic IP, but that's really hard
+to actually truly pinpoint.
+So I think solutions, we've been looking at solutions
+that can help us to gain a more holistic understanding
+of the people contributing to the code
+within our environments and our code.
+<v ->Yeah, yeah.</v>
+And that is the beauty of open source as well
+is that you can actually look at and analyze the code.
+So, let's see.
+So we all invest at kind of different stages
+of the software lifecycle or sorry, the startup lifecycle
+and we all have like kind of slightly different mandates
+though there is a lot of overlap.
+What are some of the things that you all look for
+when evaluating these early stage technology companies?
+Kaiti, maybe we can start with you.
+<v ->Yeah, so my background is actually in more public markets.</v>
+So when I started venture and realized
+there's no revenue to value, I was a little dumbfounded.
+Math is really easy in venture,
+it's really more of the intangibles.
+So the team, especially in cybersecurity,
+you've really gotta have that ecosystem
+of who's your next hire.
+And so people coming out of really
+well-known big cybersecurity companies
+that know who their number one, two, three next hires
+are really important.
+So, a lot of times you're betting on the team.
+On the product side.
+I mean even in public markets you're like,
+"Oh, I know exactly what products I could do
+with some of the parts."
+Half the time they don't even have a product,
+they have a deck and an idea.
+So a lot of times it's the feasibility, the architecture,
+what the incumbents are doing
+and the vulnerabilities in the incumbents.
+And so it's more, I would say, future looking,
+you know, what can they do?
+And then we look at go to market as well.
+So, are the incumbents really well funded?
+Like Wiz is a really great example.
+Like I don't think I'd wanna go up against Wiz
+directly in the synapse space right now.
+And so you start to really look at like
+how they're gonna market motion's gonna impact
+their success going forward.
+And then daily odds is kind of what we call
+the term sheets and the valuations.
+Like if you're getting in a series A
+at a hundred million posts, most cybersecurity companies
+are exiting at less than 450 million to strategic companies.
+So when you're looking at 10x in your early seed As.
+That's pretty difficult to do when you start to do the math.
+So there does have to be some easy math
+that corresponds with it.
+And then because we're cyber only,
+we have to preclude ourselves from any competing spaces.
+So we don't wanna to have any companies
+that are gonna have a conflict of interest
+with us being on the board.
+So that's the other nuance for us.
+<v ->Yeah, yeah, I have a friend who invests in public markets</v>
+and he's like, "I don't know how you guys do what you do.
+There's no information."
+And I'm like, "I don't know how you do what you do.
+There's an overwhelming amount of information.
+You can almost just drown in the amount of information."
+So, Nick, so what are you,
+I guess, yeah, from your perspective,
+what are you seeing in terms of like the market?
+<v ->Yeah, I mean I think it really depends on</v>
+like how the economy goes this year and still TBD.
+I think if things continue as they go this year,
+then it's gonna be a lot like 2024
+and we're gonna have another hot year,
+a lot of acquisitions.
+Like one thing that we did mention
+in terms of big cyber events,
+Splunk got bought for $16 billion last year.
+That's maybe the biggest cyber acquisition ever.
+<v Chris>I think so, yeah.</v>
+<v ->So, I think we're gonna continue to see that.</v>
+There are a lot of companies out there
+and a lot of companies that are valued way higher
+than their current traction.
+And maybe those companies aren't gonna go anywhere.
+And so you're gonna see strategic acquirers
+start buying them and not just cyber companies.
+You're not gonna just see CrowdStrike buying,
+but you're gonna see the likes of Google, Amazon,
+other companies, IBM, et cetera, that are gonna be looking
+to pick up these teams and pick up these products
+because of how important this market is
+to anything IT related right now.
+<v Chris>Yeah.</v>
+<v ->Yeah, right.</v>
+Other thing I'll add on to Kaiti's point on team,
+we're looking at the technical pedigree of the founders
+and the engineering team, especially as related to the space
+that they're operating in, right?
+So if you're someone that's developing an embedded system
+security company, that's a very specific profile
+of a person.
+I'd also say just given that generative AI
+is the new hotness and all cybersecurity,
+a lot of cybersecurity companies are looking
+to incorporate generative AI into their product offerings.
+We're looking for that AI and data skill set
+in addition to the security expertise
+on those founding teams, 'cause we feel like that
+is a fundamentally different skill
+and it's gonna be really critical as these companies scale
+to support enterprise level data.
+<v ->Yep, so we have five minutes left.</v>
+We're also happy to take questions.
+So if you have any questions, you know, feel free to come up
+to one of the mics and and we can answer that.
+Oh.
+<v Bob>Yeah.</v>
+<v ->Sure, go ahead.</v>
+<v Bob>Hello, Bob Struble from Blue Venture Investors.</v>
+I think we've worked with a couple of y'all.
+Just something Nick said, pops in my head
+it was sort of the exit path to strategics,
+non-cyber strategics, the Googles and the Microsofts,
+et cetera, of the world.
+Everywhere else we're hearing that those people
+are gonna go crazy investing in buying an AI companies
+and there's not enough skills, et cetera.
+So the thought is, is there potentially a crowding out
+of time, attention, money as those big enterprises
+look for the AI skill sets and cyber
+kind of falls to the back burner?
+<v ->Sorry, could you rephrase the question?</v>
+Like, what are you asking?
+<v Bob>I'm talking about if Google and Microsoft</v>
+and other large enterprises are gonna be viable exit paths
+for our portfolio companies, does the attention on cyber
+that we've seen become diminished
+because there is so much focus now on AI and acquihire
+and we've gotta get these skill sets
+and there's not enough out there on the AI side itself?
+<v ->Oh yeah, no, I mean that's definitely a great question.</v>
+Probably best to be answered by someone
+who works at Google or Microsoft.
+But I mean, I think if you think about what those companies
+are thinking about strategically,
+like they're very AI focused right now and their M&amp;A teams
+are very AI focused right now,
+including cyber companies whose M&amp;A teams
+are very AI focused as well.
+So I think it's a totally valid point.
+I mean I think we'll have to see how the year goes,
+but I'm still pretty optimistic overall.
+I don't know.
+Kaiti, what do you think?
+<v ->Yeah, so I'll opine because some of our investment thesis</v>
+in investing in company security for AI
+is that Microsoft would go buy 'em.
+I think that there's a huge concern in the general public
+on safety, privacy, especially everything that happened
+with Apple and Siri just recently.
+So I actually think that there's a signal to the market
+from these big aggregators buying security companies
+that their browsers are more secure
+or their AI models are more secure.
+So I actually think that they could throw out
+crazy multiples for AI, security for AI companies
+and it's more of a signal to the market that,
+hey, like Microsoft for example,
+we have the most secure models in the industry
+because we ended up buying X company.
+So I actually think that they're not precluded
+from focusing on the security aspect.
+I think that the general public is still just as concerned
+and with all of the news articles,
+especially on the privacy side and AI leakage,
+I think that they're still interested.
+<v ->Yep, other thing I'll add on that</v>
+is such a fast paced market
+and novel capabilities are being developed all the time.
+So I think we're gonna start to see
+a lot more startup activity in that space.
+And over time some of them will stick around
+and for the long run, but ultimately a lot
+of those really great security capabilities will be acquired
+by some of these large market incumbents
+and then that's how they'll kind of
+bolstered their security offerings.
+<v ->So we have about a minute and 30 seconds left.</v>
+Maybe we could just end
+on some maybe personal cybersecurity best practices.
+I imagine the audience, there's a kind of wide range
+of cybersecurity knowledge.
+So what are some tips you can give
+on cybersecurity best practices from a personal standpoint?
+<v ->Yeah, so joining a cyber only firm,</v>
+you get pretty paranoid.
+So I would say that my cyber hygiene's a little bit more
+robust than you would see other people.
+So we don't use public Wi-Fi,
+we always use our phones as hot spots.
+Also, password managers is really important,
+MFA whenever possible, don't ever use public USB ports.
+They could have malware in them.
+And then I would say a lot of times
+it's the human clicking on phishing
+that is getting credentials compromised,
+and so be very cautious of the links that you guys click on.
+Make sure that attachments are from people you know.
+Just some basic things.
+<v Nick>Yeah, I mean.</v>
+<v Chris>Perhaps quick ones.</v>
+<v ->Yeah, you took mine, I would say password manager.</v>
+And this is more personal for me
+and it's actually less about security
+and more about productivity.
+Like I find that whether you're using like Googles or Apples
+or like another third-party provider,
+it just like makes life so much easier
+to have a password manager.
+So, that's only personally for me.
+<v ->Yeah, and I'll add the use encrypted messaging</v>
+applications when you can like Signal.
+<v ->That's a good one.</v>
+<v ->Especially after the telecom hack. (laughs)</v>
+<v ->Oh yeah, that's a good one, yeah, yeah.</v>
+<v ->All right, well, thank you all for coming today</v>
+and thank you to our panelists.

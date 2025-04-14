@@ -1,0 +1,1021 @@
+<v ->I'm David Shrier.</v>
+I am your host for this session.
+We are joined by an esteemed panel
+who I will introduce as we go through the questions,
+and we'll be talking about,
+What's Next for Smart Cities:
+AI for Data, Planning and Beyond.
+So my first question goes to Sheri Bachstein,
+who leads The Weather Channel,
+excuse me, The Weather Company,
+a role which has given her the chance
+to chase eight tornadoes in a day.
+Sheri, you may have insight into something
+that I'm rather interested in.
+Last year, we saw devastation to regions of the US
+that don't normally get impacted by hurricanes,
+like the mountains of Eastern Tennessee
+and the west end of North Carolina.
+Not to mention, extreme heat,
+which killed people at a rate 100% higher than 20 years ago,
+mostly in urban environments, right?
+So we're dealing with these extreme weather events.
+How do we better prepare cities and communities
+so that they, in turn, can better protect people
+and infrastructure?
+<v ->Well, David, thank you for including me</v>
+on the panel today.
+It's great to be here.
+And, you know, there is absolutely no doubt
+that our climate is changing
+and we are seeing more extreme events.
+But, not only that, we're seeing weather events
+happen outside of their seasonal norms, right?
+So that becomes very challenging,
+because it's not predictable anymore.
+And so you definitely saw that with the devastation
+that happened in Asheville,
+you would never think a hurricane would impact inland.
+And so there's a few things as we look
+at how AI can really help as it relates to extreme weather.
+One of the areas is around urban design, right?
+And really being able to design an infrastructure
+that can hold up to events
+that we've never seen before, right?
+And so the power of AI, you can take a lot of climate data
+and be able to come up with those scenarios
+that we haven't seen
+versus what we kind of do today
+is we look back at historical data, right?
+And so this gives us the ability to be more predictive,
+so then we can redesign those infrastructures,
+we can redesign those emergency response systems,
+which I think are critically important.
+And then, the other thing that I'm very excited about,
+because it plays right into what The Weather Company does,
+and The Weather Channel is one of our brands,
+so that's okay, is that, you know,
+traditionally, AI is now giving us the ability
+to much further our forecasting capabilities, right?
+And so a lot of the weather that you get,
+whether you look at your forecast as deterministic, right?
+That, for decades, we've delivered a deterministic forecast,
+which means one single prediction, right?
+With AI now we can really turn
+to look at probabilistic forecasting.
+And that means that we can take the power of AI
+and run thousands of scenarios
+to give us a better look at what's the probability
+that while this is the best forecast,
+there is always going to be the probability
+that it could go either side of that forecast.
+So this can give communities and governments
+the ability to better scenario plan,
+again, looking at it to be more predictive,
+more preparation.
+You know, we can't control Mother Nature, right,
+and the forecast will always, you know, be interesting.
+But we can better plan for the uncertainty,
+and I think that's really where smart cities
+can really benefit.
+<v ->Great, thank you.</v>
+So Barbara Bickham is a CTO and venture capital leader,
+and has won two poker championships.
+She'll be running a game after the panel just in Hall C.
+Barbara, you've worked at the convergence
+of different technologies with AI, like blockchain,
+in crafting innovative city environments
+from Honduras to Ohio.
+How are you using technology to improve citizen experiences?
+<v ->So we utilize AI (audio drops)</v>
+in quantum computing, Internet of Things,
+'cause we are gonna be one of the things
+in these smart cities, and also Web3 experiences,
+in order to not only plan a city,
+how do you go about moving around in a city,
+but what should a city really look like and be governed?
+So we are looking at using DAOs,
+distributed autonomous organizations,
+in order for citizens to have more say
+in the governance of a smart city.
+So instead of having a traditional centralized government
+where you would go to a DMV,
+well, we still would have DMV,
+those records would be on a blockchain.
+But instead of having certain centralized services,
+you could utilize something like Clean &amp; Safe,
+where citizens could be involved in their area
+and say, "Well, we don't want the graffiti here.
+We wanna vote to have that remitted or abated.
+We don't wanna have this types of crimes here.
+We want to have more policing
+and more kind of socialized services over in these areas."
+So it's a way for the citizenry
+to be more involved in their community
+and more connected to each other
+versus having this kind of one layer of person
+that is in between
+where you kind of feel disconnected amongst each other.
+<v ->Okay, thank you.</v>
+<v ->Mhmm.</v>
+<v ->So Prachi Vakharia is strategic advisor</v>
+for innovations and infrastructure with ARPA-I,
+a US government initiative
+to deliver transportation innovation.
+So, Prachi, tell us a little bit
+about this new ARPA-I initiative
+around leveraging emerging data sets
+and new techniques in AI
+for better understanding infrastructure assets.
+<v ->Wonderful, thank you.</v>
+Good afternoon, everyone, great to have you here.
+ARPA-I, before I get into ARPA-I,
+can I see a show of hands,
+how many of you have heard of DARPA?
+Okay, wow, this is a really impressive crowd.
+All right, so you all know DARPA was created,
+actually, it was a reaction to the Soviets
+at the time launching Sputnik,
+and Eisenhower waking up and saying,
+you know, "We, as a country,
+should never be caught by surprise again,"
+and, within four months,
+creating this agency that used to be called ARPA,
+now it's called DARPA.
+But DARPA has given us things like the internet.
+I think we can all appreciate that.
+Nearly a lot of the foundational technologies here at CES
+actually come from DARPA funding.
+Drone technologies, for example, internet, like I mentioned,
+GPS, global positioning systems,
+so on and so forth.
+And given how successful this model has been,
+about two years ago, the US government,
+and especially the Bipartisan Infrastructure Law,
+created a whole new agency called ARPA-I.
+So it's not an initiative, it's actually an agency.
+We're in the process of setting it up,
+and it ties into infrastructure.
+Why infrastructure?
+You know, we have so much amazing existing infrastructure
+in this country,
+and still it certainly can be improved.
+What ARPA-I is tasked to do is saying,
+"Well, can we use this DARPA model
+that's given us so much exciting technology
+and apply that to our roads, bridges,
+maritime sector, aviation?"
+And that includes, I get to look at amazing technologies,
+everything from self-healing concrete
+to new kinds of sensors that are way more precise
+than traditional sensors have been
+or classical sensors have been.
+To then, of course,
+things like electrification and automation,
+these trends we've been seeing
+for at least the last 10 years in the sector.
+Another side note, by the way,
+DARPA is also to be credited for creating the AV industry,
+the automated vehicle industry.
+This is coming from their 2004, '06, and '07
+Grand Challenge, which said,
+"Hey, can we have a vehicle that's operated
+without an operator inside?"
+And especially for battlefield environments,
+this became quite a necessity.
+So they kicked off this whole industry
+simply with the power of one challenge.
+So really ARPA-I has a great path,
+and possibility, and promise ahead.
+Now, why are we looking at transportation infrastructure?
+A couple of reasons.
+You know, I'm always in awe of the defense sector.
+Like they know more of what's happening
+in the streets of Iraq, for example,
+more than we know what's happening in our country.
+I used to work at city and state DOTs, and if you ask
+a DOT Department of Transportation commissioner,
+"Hey, you know, how many bridges do you have in your state,
+and what condition are they in?"
+and many of them will not be able
+to give you a precise answer on that.
+We just don't know the condition of many of our assets.
+So, last year, we launched a very creative initiative
+called Complete Streets AI, with the goal being,
+you know, can we use this amazing satellite imagery
+that we have access to today?
+New, you know, AI models as well,
+just new types of computer vision tools,
+put that all together
+and better make sense of our built infrastructure.
+You know, what is the condition of our roads,
+our bridges, our highways?
+Where do we spend our infrastructure dollars first
+and where should we not spend them?
+You know, what is in a state of good repair, what isn't?
+So really this is why we created the initiative.
+I will add one small side note again here is,
+I think this is much needed.
+If you even think of basic technologies like GPS,
+even today, GPS accuracy in defense applications
+is at centimeter-level accuracy,
+while in the civilian space it's at meter-level accuracy.
+So really our mandate is how do we be the best
+and use the most cutting-edge technologies
+that are out there
+or create and inspire them to be built for us?
+So this is exactly what we are doing at ARPA-I.
+<v ->And I recommend to everyone the book,</v>
+"The Entrepreneurial State" by Mariana Mazzucato,
+which tells you more detail
+on how almost every innovation enjoyed today
+was funded by a large-scale government program,
+not by Silicon Valley.
+So her stage name is Nadia Hansen.
+She drives digital transformation at Salesforce.com
+and actually lives in Las Vegas.
+She is the rare Las Vegas local.
+So, Nadia, you used to be the CIO of Las Vegas,
+and I'm sure you have some interesting stories
+to share both on your past role
+and what you're doing with Salesforce.com.
+How is AI being used to drive transformation
+across cities and countries in Vegas and globally?
+<v ->Thank you, well, good afternoon, welcome to my city.</v>
+I know nobody says that, I've been here for 25 years.
+I've seen the city grow firsthand.
+I live in Henderson, which Henderson didn't even exist.
+So coming back to your question, David.
+You know, some of the things that we're seeing
+just globally, I have the privilege of working
+with a lot of different state and local agencies,
+and it really starts with some foundational basics.
+If I want an Amazon experience, I want an Airbnb experience,
+I want an Uber experience,
+why can't government provide me with that same experience?
+So it's very foundational.
+I want seamless, I want easy,
+intuitive interaction with my government.
+How many of you love going to the DMV,
+Department of Motor Vehicles, to get a license?
+How many of you love to pay your bills,
+and then, you know what?
+Sometimes you can't pay it online.
+Yes, except for one person in back.
+Thank you very much for that.
+Nobody loves to pay their bills.
+But let me tell you, if you make the process,
+and if you make the experience easier
+for constituents and for citizens,
+yes, the interaction will be a lot better.
+So a lot of the conversations
+are around how can we have an omnichannel approach?
+And what I mean by omnichannel is,
+look, we're serving five different generations
+in government.
+We have the Traditionalists, we have Baby Boomers,
+we have the Gen Xs, we have pretty soon the Gen Zs,
+and all of them want to be served differently.
+Some people want to come
+into a brick-and-mortar building, great.
+Some people never want to see a human, great.
+Some people only want to talk
+through a mobile device, great.
+I think this is the imperative
+of us being able to move forward in providing that,
+especially with now AI being as part of the realm,
+which I'm sure everybody has used ChatGPT in this room.
+Pretty much most people.
+We're talking about instant gratification.
+Okay, and I think we live in this world right now
+where every state and local agency
+that I speak to is thinking about,
+"How do I set up AI governance in my institution?
+How do I set up a cyber policy?
+How do I have a data governance committee?"
+'Cause essentially everything starts with data.
+Data is your foundation.
+And, in government, I used to work
+in government for 15 years,
+I have to tell you, we have petabytes of data.
+And you don't know how to visualize it,
+and you don't know how to make data-driven decisions
+because there's so much of it.
+So I think it really starts with basics.
+What is the outcome that we're trying to achieve?
+And then, how can we reverse engineer back to that?
+So I'll pass it back to you,
+but I wanna talk about agents too
+in the next set of questions.
+<v ->Sure, well,</v>
+so now we're gonna get into some collaborative questions.
+So this first one is for Barbara and Nadia.
+Data seems pretty central to the AI conversation, right?
+And so what are some of the challenges
+around working with AI and data in the smart city context?
+<v ->I can kick it off?</v>
+<v ->Yeah, please.</v>
+<v ->So, okay, so a lot of the agencies</v>
+that, one, I used to work for,
+and, two, a very simple example,
+what's the number one thing, when you think of Las Vegas,
+what's the number one thing that you think of?
+<v ->Casino.</v>
+<v ->Casinos.</v>
+Gambling, entertainment.
+Hockey.
+<v ->Water.</v>
+<v ->Losing money.</v>
+Could be all of those things.
+When we were redesigning the website for Clark County,
+which is the county here that runs Las Vegas,
+we were like, "What do people come here for?
+Maybe they come here for a marriage license."
+So we decided to design it that way.
+But guess what?
+We went back and took a look at the data,
+and the data actually showed the number one search
+on Clark County's website at the time was,
+"We're searching for an inmate in jail,"
+'cause people just end up missing somehow in Vegas
+and they end up in jail,
+because there's a lot of things happening.
+So coming back to data, this is why when you think,
+"Ah, people come here for different reasons,"
+yeah, that's an assumption,
+but you need evidence to be able to prove it.
+So data is imperative in order to do any kind of AI.
+So we're talking about AI agents,
+that's a digital agent you can have on your side,
+your buddy who can actually do everything for you,
+and that's kind of augmenting existing workers, right?
+And I think that's in the era where we're at,
+but you really need to have clean, accurate data
+to provide you with the results that you're looking for.
+That's the foundation.
+<v David>Thank you.</v>
+Barbara, Prachi, would you like to build on that?
+<v ->I'll build on that a little bit.</v>
+Back to the fact of you have massive amounts of data,
+petabytes of data, and that it's probably siloed off,
+so the data is not in kind of an easy way to access.
+So that's an opportunity to start using
+kind of decentralized AIs so that they can start
+having conversation amongst each other,
+the AIs can have the conversations and go,
+"Hey, I need this data,
+because someone is looking for someone in jail,"
+or "someone is looking for a marriage license,"
+or "someone is looking
+for where is the loop here."
+So depending upon what people are thinking
+about and looking for,
+that siloed area is also a problem,
+because data can be hidden in one place
+that needs to be surfaced somewhere else.
+So that's a very common problem, not only in a city,
+but many companies have this common problem
+of where is all the data?
+Why is the data not transparent?
+And why is it so siloed off into certain sections?
+So that's where the decentralized AI,
+decentralized data concepts can help move a city forward.
+<v ->Adding to both these points,</v>
+I recently just this afternoon
+ran into the economic minister of Estonia.
+And I asked him, you know, "What makes Estonia special?"
+And the one thing he mentioned is,
+"We have lots and lots of digitized data."
+And this is really key,
+'cause data can be in all different forms and formats.
+"We have so much historic data."
+Well, it turns out no one's managed to digitize it
+and put it in the right format,
+you know, structural, unstructured,
+but, you know, hopefully, structured data
+in a way that actually makes it usable.
+Now in the transportation sector,
+that gets amplified quite a bit.
+We have a federated system of building stuff
+here in this country,
+that means we have nonstandard curb cuts
+or curb ramps, for example.
+You know, the sidewalk itself is designed differently,
+and it's designed differently in every town,
+every city, every state.
+We have national centers,
+but sometimes states do,
+or cities and regions do
+what they need to serve their people,
+which means they go about building things
+the way they've been building for the last 50 years.
+And this is a big problem,
+because there's no lack of standardization.
+Well, how do you then put something
+at a national level that makes sense
+and create a kind of national database of things?
+You know, one small example is you could have,
+I could have a national database of bike routes,
+for example, in this country, and say like,
+"Hey, you know, if I wanna bike from A to B,
+can I take a bike route across the way?"
+But, you know, how do you define bike routes?
+And turns out, there are many different definitions of it,
+many different ways they're protected, unprotected.
+So lots and lots of variations,
+so this is one about data quality itself.
+Another anecdote I'll share is when I was working
+with the Massachusetts government,
+you know, I was in charge of enhancements,
+especially to stations,
+especially those people coming into transit stations
+in the Boston region.
+And when I asked for maps of these stations
+so I could start, you know, building
+on what enhancements we needed to build on top of it,
+I got a Dropbox folder,
+which was randomly created by a contractor,
+with PDF files of the station as-built maps from the 1970s.
+This is the best and the most recent data
+they had of our infrastructure.
+So that tells you there's a lot we need to do
+and improve in terms of data quality, data standardization,
+and then, of course, your AI tools can come on top of that.
+AI itself is really exciting.
+You know, along with all these hundreds of models
+we've seen applicants use,
+even things like visual language models.
+Again, that combines and helps you do extraction
+from maps or images,
+and also combine it with language.
+So there's a lot of hope,
+and I think AI can fill a lot of gaps in this data spectrum.
+So I'm excited.
+<v ->And so kind of extending this point,</v>
+data's obviously a big part of the intersection
+of weather and infrastructure.
+So this is for Sheri,
+and then, Prachi, you can build on this.
+Are there places where public-private partnerships
+could help us around getting better AI
+and better quality data going into that AI?
+<v ->Oh, absolutely.</v>
+And, Nadia, I would've thought the most searched term
+would've been "What's the weather in Las Vegas?"
+<v ->Yes.</v>
+<v ->But maybe not.</v>
+But, no, The Weather Company,
+for years we've had partnerships
+with NOAA, NWS, with the government,
+with universities
+that we're doing science and projects with,
+and then with other companies.
+Right now, for example, we are partnering with Nvidia
+to build the next generation of AI weather modeling.
+And it's a weather model, it'll be the first of its kind,
+that will be down to a one kilometer.
+It's an AI numeric-based model.
+And so, you know, there's a lot of ways to get data
+and to partner to get that data.
+Our forecasts, we use 100 different models,
+some from governments around the world,
+some from, you know, private sector,
+from sensors, as you were talking about,
+from airplane sensors,
+from your cell phones, if you give us permission.
+All of that goes into input,
+because I think the more quality data that we can look at,
+the better the answer will be.
+And so I think having an ecosystem
+where you have partnerships across different sectors
+is really fundamental
+as we continue down this AI journey collectively.
+<v ->Yeah, I'll touch more on just how weather</v>
+and infrastructure connect together.
+One example is, of course, like, all of us,
+you know, a lot of times our routes get disrupted
+if there's rain or there's snow,
+things take just much longer to get to than before.
+During my time at Amazon as well,
+I know they've explored using weather companies
+and weather services
+that even give information at the very block level,
+so you know exactly at this block how much traffic there is.
+You also wanna understand, "Well, are the tires
+on this truck going to be slippery?" for example.
+From a kind of public sector side,
+a lot of cities and states can also do things
+like continuous route planning,
+and this is, again, a technology
+that could be possible in the future.
+'Cause right now, route planning is,
+you know, "I wanna go from A to B
+and here are the steps to get there."
+But what if it's something that's continuous?
+And, you know, new kinds of technology can enable that.
+So that means, you know,
+as you're moving through your route,
+you can then figure out,
+"Well, there's traffic here
+or there's a weather event here
+or there's a blockage there,
+this road is closed, well, let's reroute it,"
+but all happening in real time.
+So imagine a digital twin of your city or your region
+and that helps you go from A to B.
+One technology I'm excited for,
+again, weather infrastructure is also perhaps the role
+that quantum computing can play in this.
+Quantum computers are still very far away,
+but we started to see some models
+that look interesting and promising.
+For example, with tsunamis or hurricanes,
+how do you have evacuation done in a way
+that's really intelligent and optimized?
+Because, again, quantum computers,
+you know, they work in sort of bits
+which have zeros and ones,
+quantum qubits can have multiple different states,
+zero-one or zero and one at the same time.
+Anyways, it's this exponential and fast compute time
+that makes them really great,
+which means you could add just way more constraints,
+way more variables into your model
+and make that better and better and better.
+So we certainly see a lot of great technologies
+in the future that can help with weather and infrastructure
+and how they connect together.
+<v Barbara>David, I'd like to add on to this</v>
+a little bit.
+<v ->Yeah, please.</v>
+<v ->So Honduras, we are dealing with, like,</v>
+they had a weather event.
+And had we been able to see that ahead of time,
+now their port is stuck.
+Like, they can't ship anything out of their port,
+so we're trying to help them move products
+out of their port.
+So now their economy has stopped,
+like, their economy is stuck,
+because they can't ship out their crabs
+and their other kind of high-end things
+that they use for their economy.
+So we're going in there and helping solve that immediately.
+But if there were weather models that said,
+"Hey, this is hurricane season,
+these hurricanes are gonna come in here at these times,"
+you could potentially reroute those products
+into a whole different area
+so that they can still have their economy functioning
+versus now they're stuck and-
+<v ->Supply chain optimization.</v>
+<v ->Yeah, we can help-</v>
+<v ->Supply chain resiliency.</v>
+<v ->Yeah, the resiliency</v>
+of the supply chain, 'cause we know,
+"Okay, we know to the centimeter,
+like, the hurricane's gonna be hitting in these areas,
+so now we need to migrate these products this way initially,
+and then we can kind of reset it back
+when the weather is better,"
+and so it's a powerful-
+<v ->I mean, I think this lends-</v>
+<v ->Powerful use case for that.</v>
+<v ->Yeah, please.</v>
+<v ->Itself to governments,</v>
+businesses all have to have a weather strategy, right,
+because of the changes in the climate.
+So you no more can just predict it or ignore that,
+that would be not responsible to do that.
+So I agree, like, if they had a weather strategy and a plan,
+you know, because AI is giving us that ability
+to better predict, right?
+<v ->Yes.</v>
+<v ->Especially down to a storm scale level,</v>
+which is really critical.
+<v ->Well, they know,</v>
+and they know, right?
+Because every year this happens.
+So it's not like it's a surprise,
+but they just weren't prepared.
+Maybe it was a little bit worse this year than last year,
+or the year before, but it's a constant thing.
+And it's absolutely impacting their supply chain now
+and their economy has stopped.
+So at that, you know, it's unfortunate,
+like, we all know about North Carolina,
+but like this country, their GDP is going down,
+because they can't ship any products out.
+<v ->Sure.</v>
+<v ->Well, and so,</v>
+we're talking about AI, obviously, on this panel.
+It's a hot topic.
+Everyone is very excited by the new Nvidia announcement
+that we heard this week at CES.
+So there's lots of talk about artificial intelligence,
+but what about human intelligence?
+I mean, where does the humanity intersect
+with this artificial intelligence?
+How do you see AI and human intelligence working together,
+and what's the potential
+for that collaboration to look like?
+So I throw that open to the panel,
+whoever wants to jump in on this.
+<v ->So I'm working with a company called Reliable,</v>
+and they have a mix of AI and human intelligence.
+So what they do is they try and take bias out of the data,
+because it's not only about how the model is created,
+it's also how the model algorithmically starts
+looking at the data, and then surfacing data.
+So they have the ability to auto-tag
+and also for you to tag it yourself
+so that the data ends up becoming more robust
+and more clear so that the accuracy is better.
+And so that product kind of helps surface
+all of the different pieces of data
+that AI could utilize there.
+It's not just, you know, we talked a lot,
+okay, I'll leave it there.
+<v ->Yeah, sure.</v>
+<v ->I'll leave it there.</v>
+<v ->Yeah, yeah.</v>
+<v ->Thank you.</v>
+<v ->If I can provide a sort of mental model or taxonomy,</v>
+or if you wanna call it, for AI and humans,
+one way to think about it is,
+think of it in four stages.
+One is like a human only, right?
+So any task that's given,
+and depending on the variety of tasks,
+but tasks are human only
+with very little assistance from AI.
+The next level is human-in-the-loop.
+And this is where, again, AI does some of the work,
+but it's really meant to assist the human being themselves
+and, you know, the human, like us,
+maybe using ChatGPT once in a while to ask questions,
+that's human-in-the-loop.
+Well, the next after that is human-on-the-loop,
+and this is where AI is doing a lot of the planning,
+it's doing a lot of the planning, a lot of the execution,
+but key decision making or supervision
+happens from the human side.
+And then, the last stage is AI only,
+which is where the AI system is in full control
+of all execution planning, of task operations, et cetera.
+<v ->I think to add to Prachi's point,</v>
+you know, AI's been around for, what, 10 plus years,
+and it really started with automation.
+It was very simple.
+It's like workflow processing automation,
+making sure things get routed to the appropriate region,
+department, agency, whatever that might be.
+And then, the second wave was more on predictive analysis,
+which is what we talked about.
+So you could still do predictive analysis.
+AI has a lot of different flavors.
+It's not just generative AI,
+which is now the third wave which we're in right now.
+And I do feel with the evolution of LLMs,
+we're not quite there yet to be fully automated, Prachi,
+like, you know, with the only AI
+being the central hub of everything,
+just because you brought up bias,
+there's a consistency, there's transparency,
+there's accountability,
+there's all of these things that have to be in place
+before you can fully rely and trust a robot
+or a machine to be able to do everything.
+We're getting really good at reasoning,
+we're getting really good at logic, and processing,
+and making sure...
+Like, I was recently using NotebookLM for fun,
+and I was trying to create a podcast.
+And I love how it has the ums and the ahs,
+so we can take the transcript of this entire session
+and put it into an LLM,
+and it can generate a podcast between the four of us.
+That's where we're at right now with human-like feeling.
+So I feel we're kind of there, but not really there,
+so you still need to have humans in the loop
+to be able to augment, to be able to test,
+to verify the accuracy,
+especially, since our data is kind of all over the map.
+And you had mentioned silos before.
+<v ->Yes.</v>
+<v ->Like, especially</v>
+in government, if we're trying to be a smart city,
+you cannot be smart without having your data integrated
+so you can see a cohesive picture.
+John Smith is maybe in 19 different systems
+in different ways.
+John A. Smith, J.A. Smith, John Smith,
+but it's the same person.
+So it really comes back to personalization of services,
+really knowing your customer,
+understanding what are they here for,
+and let me just provide the services
+that they're looking for,
+rather than them having to dig it up.
+<v ->So back to the tagging,</v>
+because we were talking about humans,
+and I'm glad you brought that up,
+Reliabl helps you do the human pieces
+of that tagging.
+It's not just all AI doing it, humans are doing it as well.
+So that we have a say in how we wanna see
+the data and information that we wanna see from AI.
+<v ->I mean, I think it's a combination, right?</v>
+Man and machine really, that's what we have always done.
+We call it actually human-over-the-loop
+in what we do in looking at all the weather models,
+'cause, you know, it's a paradox, right?
+Because AI provides just a vast amount of information,
+but, in some cases, you're still needing humans
+to actually make the decision
+off whatever that information is surfacing.
+And so I think, you know, in this stage of AI,
+and I agree, we've been using it for a couple decades
+actually in our weather forecasting,
+it's changing now with generative AI.
+But, you know, I think at this point in time,
+and where we are in the AI journey,
+I think, you know, the match between AI and HI,
+we can really learn a lot from each other,
+and it's, you know, AI's augmenting human intelligence
+to help us make better decisions essentially.
+<v ->Great, so we now have time</v>
+for questions from the audience.
+If you do have a question,
+please go up to one of those two microphones
+so we can hear you.
+If you don't have questions I'll just keep going.
+But we did wanna invite you to be part of this conversation
+if there is anything you'd like to ask.
+If you have a question-
+<v ->Go ahead.</v>
+<v ->Make sure you go to the mic so we can hear you.</v>
+<v Attendee>I just had one clarification.</v>
+AI is not there for the last 10 years.
+It is there for 40 years, 60 years back, right?
+<v ->Right.</v>
+<v ->Right.</v>
+<v Attendee>It is just in computational space-</v>
+<v Nadia>10 plus years, yep, absolutely.</v>
+<v Attendee>It's there for a long, long time.</v>
+<v ->Mhmm.</v>
+<v ->Yeah.</v>
+Yes, AI was invented in World War II by Alan Turing
+to crack the code on the German submarines.
+So it's been around for a long time.
+<v ->Very true, very true.</v>
+<v ->Hi, Prachi, this is Siva.</v>
+<v ->Yeah.</v>
+<v Attendee>And, I mean, I think this is a question</v>
+for any one of the speakers here.
+But, I mean, what I'm hearing
+is different ways of analyzing where AI is a tool
+and where it is the decision maker,
+and you guys are vacillating,
+because the use case is what's making it vacillating.
+So from the person listening, I'm kind of wondering,
+"Are you shooting left, right?
+Which, what the heck?"
+I mean, because I've seen the same thing in transportation.
+I work in the automation, not autonomous,
+I'm not there yet, but automation.
+So my question to you is, while you sound vacillating,
+you're not, you're deliberate.
+You're trying to say there's a trust factor
+and there's a use-case-based thing,
+and I've known Prachi for a long time, but,
+so one of you, can you help us understand
+in the maturation cycle,
+what will it take for us to kind of say,
+"Hey, this kid's grown up?"
+The AI that is, "Maybe once in a while we can let him ride
+and I'll sit in the back."
+<v ->So is your question, when will we have L4 mobility,</v>
+fully autonomous?
+<v Attendee>I mean, for that you need a whole 90 minutes,</v>
+but, for this question... (laughs)
+<v ->No, we don't need that.</v>
+<v ->I think the question is more like,</v>
+how do you do validation?
+What's trustworthy AI?
+What is AI insurance looking like?
+<v Attendee>Yeah, when is social acceptance likely?</v>
+Because it's social engineering, it's not-
+<v ->Okay, so when will people trust AI?</v>
+<v Attendee>When will governments,</v>
+and governments are also people,
+so when will systems
+and institutions start trusting AI?
+<v ->I have a hot take on it.</v>
+My take is education is important.
+So a lot of re-skilling and upskilling needs to happen,
+not just within government, agencies, employees,
+but also constituents, citizens, just regular people.
+I think there's a lot of mistrusted places
+where people are just like, "Hmm, I'm not so sure.
+I don't wanna give government more information
+than I have to," since we're on the government panel.
+So I feel there needs to be a bit
+of one transparency aspect to it.
+So what are we gonna do with your data?
+I think that needs to happen.
+<v Attendee>Yeah, especially with your background</v>
+being the county.
+<v ->Yeah.</v>
+<v ->Thanks.</v>
+<v ->No, absolutely.</v>
+So I think that's kind of part of it.
+I feel there needs to be an active movement
+towards making sure that we are providing,
+there's a lot of free tools right now to educate,
+but are people actually grabbing them?
+Google does it, Salesforce does it.
+We have Trailhead, it teaches you soft skills, hard skills,
+AI, whatever you need to know.
+But I feel like are people actually utilizing
+that information to learn, absorb,
+and try to get comfortable within,
+and then say, "Ah, these are the risks.
+Here's how we can mitigate it."
+But that transparency level's not quite there yet.
+<v ->AI is rather ubiquitous actually.</v>
+When you go to McDonald's you use AI.
+I call the bank the AI phone weave,
+which is the most annoying thing when you call.
+It's so annoying.
+I mean, AI is rather ubiquitous.
+Most people don't recognize that they're using AI
+on a daily basis in life.
+So when is it gonna be massly adopted or massly accepted?
+We're stealthily accepting it,
+because it's out there in the real world every day.
+If you go to certain things, AI is there.
+We don't call it AI, we don't call the,
+I call it the AI phone weave for the bank.
+But when you call the bank and they have all the prompts,
+we don't call that an AI specifically,
+but it is a form of AI.
+<v Sheri>I think with any change</v>
+there's always gonna be a long tail, right,
+of people that there's gonna be the early adopters.
+But I agree with you, it's a silence accepter,
+it's been happening for decades where AI is being used.
+You know, it came to the forefront because of ChatGPT.
+<v ->That's right.</v>
+<v ->That's how consumers</v>
+really found out about it.
+Which is good, but for all the companies
+that have been doing it for decades,
+they're like, "What the heck?
+We've been using this for a long time."
+<v ->Exactly.</v>
+<v ->And so I do agree,</v>
+but there's always gonna be a long tail to anything.
+I mean, look how long it took for us to all get on HD,
+to get on to use (audio drops) phones, right?
+I think it'll happen much faster than those technologies,
+but I still think it's gonna take time to trust, right?
+<v Prachi>I disagree a little bit,</v>
+just a quick point.
+<v ->Sure.</v>
+<v ->I think AI, Siva, to your point,</v>
+I forget where you're sitting now,
+is just it's use-case dependent.
+It's gonna take a lot longer for defense applications.
+It's gonna take maybe shorter if it's a productivity app
+that has no financial or safety consequences,
+yeah, then use case is immediate.
+<v ->Great, quick question from the audience.</v>
+This is the last question before we wrap up.
+<v Attendee>So I have, it's more of a curiosity</v>
+than a question for Ms. Bickham.
+What was the first DAO
+you launched, what city?
+What was the first city to use a DAO?
+Is there one?
+<v ->We were looking at using a DAO,</v>
+so in 2019, part of the pandemic,
+I had four smart cities that I was working on,
+some in Africa, some not, some in the Caribbean.
+And we were looking at utilizing DAOs
+as governance and compliance,
+and we were gonna layer AI
+on certain of the types of that, those DAOs,
+because we knew that autonomy was important,
+we knew the data was important,
+and we knew that the communities,
+it was more important for the communities
+to actually have more of a say
+than having a centralized way
+of having a say in the community.
+So if you're in The Bahamas,
+this is one of the ones we were doing,
+like The Bahamas is not just one island,
+it's, like, multiple islands.
+So we were looking at doing a DAO,
+because communities were not gonna be
+in one centralized place.
+<v Attendee>Yeah, it seems like it'll be easier to start</v>
+in an emerging environment
+versus something that's already established.
+<v ->Well, it depends.</v>
+I mean, most of these I was doing from dirt.
+So, like, most of the smart cities
+I work on are kind of like from zero, I'll call it,
+versus something that was already there.
+But when you're creating something from kind of zero,
+you wanna reimagine how do you really want governance?
+How do you want governments?
+How do you want communities to interact?
+How do you want people to work with each other?
+How do you want people to interact, right?
+We're gonna have the extremes.
+You're gonna have the ones that wanna do everything,
+and then you're gonna wanna have the ones
+that opt out of everything and they're paranoid.
+We know that, so where is kind of the middle ground.
+And so we kind of looked at the middle ground, and said,
+"This is how we wanna reimagine a smart city,"
+because we're thinking about the future.
+Because the quantum computer is coming,
+'cause Google had a crack on their chip
+or something had happened with them.
+We watch that very carefully.
+And when that comes,
+then how are you now going to govern anything?
+<v David>So we're getting close to the end of time,</v>
+so we're gonna get into lightning round.
+<v ->All right.</v>
+<v ->We're gonna go down</v>
+the panel on two questions,
+and you'll each give an answer.
+So the first question is,
+what's one AI trend that has surprised you
+in the past year?
+Nadia, lead us off.
+<v ->Ah, I would say-</v>
+<v ->Hot takes.</v>
+<v ->Hot take, okay, I would say, you know what?</v>
+I use AI for everything and so do my kids, number one.
+They use it for school.
+I have the privilege of teaching
+at the University of Nevada, Las Vegas
+as a part-time professor.
+Every single student is using some level of ChatGPT or AI
+to be able to augment essays, and answers, and all that.
+So that's not going away.
+<v ->Ubiquity, yeah, okay.</v>
+<v ->Flat out, so I think that's been a bit of a,</v>
+how quickly everybody has absorbed it
+and using it in the day to day,
+I think it's been a bit of a surprise,
+especially since it's been out
+for like the last 10 plus years.
+<v David>All right, Barbara, hot take.</v>
+<v ->Hot take, years ago-</v>
+<v ->Surprising trend.</v>
+<v ->Hot take, I said, years ago,</v>
+there would be no reason to learn how to code.
+I said that in 2016.
+So earlier, in 2024, I literally,
+I'm in the CTO Forum,
+and all the CTOs have figured out how to not code
+and be more strategic.
+So they're utilizing all the GPTs,
+they're creating all their own LLMs,
+they're creating all their own algorithmic methodologies
+in order to advance coding faster
+so that these large companies now can,
+something that two weeks, can take maybe three days.
+<v ->Sheri.</v>
+<v ->I think it's interesting</v>
+how quickly AI has been adapted into HR systems.
+I mean, that is the human connection point, right?
+And I think it's fascinating on all aspects
+of hiring in HR.
+It's really, it's almost pretty much taken over
+that type of environment,
+and I think that that's really interesting,
+'cause that's where you kind of feel
+some of the most trusted pieces of your company.
+So I think that's interesting.
+<v ->Prachi.</v>
+<v ->Yeah, what's been interesting is just how large</v>
+these models are and how much data they need.
+And a challenge maybe to this room and this conference is,
+can have AI models for smaller data sets,
+and especially an infrastructure is engineering data sets.
+And, you know, you don't have too many of the same
+to be tagging everything.
+So that would be a kind of challenge is,
+like, can we work on smaller data sets?
+<v ->All right, great, well, I wanna thank our panelists,</v>
+Prachi Vakharia, Sheri Bachstein,
+Barbara Bickham, and Nadia Hansen.
+And thank you all for joining us here
+on this discussion about AI and smart cities.

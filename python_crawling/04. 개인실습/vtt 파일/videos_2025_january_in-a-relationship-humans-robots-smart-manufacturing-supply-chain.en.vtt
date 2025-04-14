@@ -1,0 +1,2545 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.734 --> 00:03.317
+(lively music)
+
+00:10.830 --> 00:15.660
+<v ->All right. Well, good morning and welcome to CES 2025.</v>
+
+00:16.980 --> 00:18.690
+I'm Mike Oitzman.
+
+00:18.690 --> 00:21.210
+I'm senior editor for The Robot Report,
+
+00:21.210 --> 00:25.230
+co-host and producer of "The Robot Report Podcast."
+
+00:25.230 --> 00:28.680
+If you love robotics and love hearing about industry,
+
+00:28.680 --> 00:31.650
+hearing from industry folks in the industry,
+
+00:31.650 --> 00:35.280
+I encourage you to download an episode for your flight home
+
+00:35.280 --> 00:37.680
+and stay up to date with what's going on
+
+00:37.680 --> 00:39.810
+in the robotics industry.
+
+00:39.810 --> 00:41.040
+I love my job
+
+00:41.040 --> 00:44.400
+because I get to talk to interesting people all day
+
+00:44.400 --> 00:47.133
+and help amplify the stories that are,
+
+00:47.970 --> 00:50.970
+you know, on the cutting edge of robotics and innovation.
+
+00:50.970 --> 00:53.970
+And so I'm excited to be here this morning at CES
+
+00:53.970 --> 00:57.630
+not only to see all of the innovation on the showfloor,
+
+00:57.630 --> 00:58.890
+and there's lots of that,
+
+00:58.890 --> 01:02.010
+so I hope you guys are, you know,
+
+01:02.010 --> 01:05.010
+excited to see what is going on there.
+
+01:05.010 --> 01:07.020
+But more than that, I'm excited to be on stage
+
+01:07.020 --> 01:10.350
+with this incredible cast of individuals,
+
+01:10.350 --> 01:13.500
+who all have some very industry-leading stories
+
+01:13.500 --> 01:14.580
+to talk about.
+
+01:14.580 --> 01:19.020
+So let's get going because I know they've got a lot to say.
+
+01:19.020 --> 01:21.131
+And so I'm gonna ask each of them
+
+01:21.131 --> 01:23.130
+to introduce themselves individually
+
+01:23.130 --> 01:26.400
+as we go along here with the first question.
+
+01:26.400 --> 01:28.440
+And so you'll get to know who they are.
+
+01:28.440 --> 01:31.170
+And, Sally, I'm gonna start with you.
+
+01:31.170 --> 01:32.787
+So please introduce yourself
+
+01:32.787 --> 01:35.940
+and tell us what emerging technologies and trends
+
+01:35.940 --> 01:37.680
+you're seeing that are shaping the future
+
+01:37.680 --> 01:39.750
+of robotics and automation at DHL.
+
+01:39.750 --> 01:41.940
+<v ->Sure. Thanks, Mike.</v>
+
+01:41.940 --> 01:46.230
+My name is Sally Miller. I'm with DHL.
+
+01:46.230 --> 01:48.570
+I would ask for a raise of hands
+
+01:48.570 --> 01:52.440
+but I can't see any of you, because the lights are bright,
+
+01:52.440 --> 01:54.970
+but I'm sure you're a customer
+
+01:56.106 --> 01:58.200
+of one of our divisions at some point.
+
+01:58.200 --> 02:00.813
+So DHL has five divisions.
+
+02:02.490 --> 02:06.750
+We run the postal business for Germany,
+
+02:06.750 --> 02:08.430
+we have a forwarding business
+
+02:08.430 --> 02:12.210
+where we move freight between continents,
+
+02:12.210 --> 02:17.210
+and we are the largest time-definite parcel provider
+
+02:17.670 --> 02:19.950
+outside the US.
+
+02:19.950 --> 02:23.610
+And then we have a newer division called e-commerce,
+
+02:23.610 --> 02:27.330
+which inserts packages less than five pounds
+
+02:27.330 --> 02:31.320
+into the postal system of a couple of different countries.
+
+02:31.320 --> 02:33.390
+And then we have the supply chain division,
+
+02:33.390 --> 02:34.830
+which is the division I'm in,
+
+02:34.830 --> 02:38.460
+and we provide warehousing and transportation
+
+02:38.460 --> 02:41.133
+and value added services to companies.
+
+02:42.150 --> 02:46.050
+We service several market verticals.
+
+02:46.050 --> 02:50.850
+And I bring this up in the context of the conversation today
+
+02:50.850 --> 02:55.110
+of what, you know, are the emerging trends
+
+02:55.110 --> 02:58.023
+and things that are important to our business.
+
+03:01.000 --> 03:04.650
+We have over 55,000 hourly associates
+
+03:04.650 --> 03:06.840
+across the US and Canada.
+
+03:06.840 --> 03:11.430
+And we have a high dependency on hourly labor
+
+03:11.430 --> 03:16.430
+to provide service to our customers and our sites,
+
+03:16.740 --> 03:20.250
+we have about 500 across the US and Canada.
+
+03:20.250 --> 03:24.210
+And so what we're seeing and what we're focused on
+
+03:24.210 --> 03:29.210
+are trends that can help our operations be more efficient
+
+03:29.340 --> 03:32.310
+and reduce our dependency on hourly labor.
+
+03:32.310 --> 03:35.820
+So we look at robotics,
+
+03:35.820 --> 03:40.650
+mainly assisted robotics that work with people
+
+03:40.650 --> 03:45.480
+to help make the more mundane, non-value added activities
+
+03:45.480 --> 03:50.480
+easier, reduce travel time, make the job less stressful.
+
+03:51.600 --> 03:54.120
+The second thing is autonomous material
+
+03:54.120 --> 03:55.350
+and handling equipment.
+
+03:55.350 --> 04:00.350
+So autonomous forklift trucks are of interest to us.
+
+04:00.420 --> 04:03.570
+And also AI in several forms.
+
+04:03.570 --> 04:07.560
+And I know it's highly overused lately,
+
+04:07.560 --> 04:11.700
+but gen AI, we're doing a lot of use cases
+
+04:11.700 --> 04:16.700
+and back office activities, including IT development,
+
+04:16.740 --> 04:21.207
+data mapping, generating documents,
+
+04:22.620 --> 04:25.230
+you know, like most large organizations.
+
+04:25.230 --> 04:28.800
+And DHL, I believe, is the 15th largest
+
+04:28.800 --> 04:30.300
+private employer in the world.
+
+04:30.300 --> 04:35.280
+We generate a lot of legal documents, associate documents,
+
+04:35.280 --> 04:37.740
+and documents to suppliers and customers.
+
+04:37.740 --> 04:42.390
+And those are all very nice use cases for gen AI.
+
+04:42.390 --> 04:45.900
+We're also using AI machine learning
+
+04:45.900 --> 04:48.300
+to take data from different systems
+
+04:48.300 --> 04:51.510
+that we utilize in our operations
+
+04:51.510 --> 04:55.380
+to make our core activities more efficient.
+
+04:55.380 --> 04:57.930
+So there's a lot going on.
+
+04:57.930 --> 05:00.123
+It's a fun time to be in IT.
+
+05:02.067 --> 05:05.820
+I think after years of reporting uptime statistics
+
+05:05.820 --> 05:10.020
+and, you know, number of applications deployed,
+
+05:10.020 --> 05:13.560
+we're really focused on driving innovation
+
+05:13.560 --> 05:17.640
+and changing how things are done in the industry.
+
+05:17.640 --> 05:21.900
+So that's a bit about me and my focus.
+
+05:21.900 --> 05:23.280
+<v ->Well, thanks for that.</v>
+
+05:23.280 --> 05:25.440
+Jay, same question to you.
+
+05:25.440 --> 05:26.430
+Please introduce yourself,
+
+05:26.430 --> 05:29.010
+tell us what emerging technologies you foresee
+
+05:29.010 --> 05:32.460
+shaping the future of robotics and automation at Oshkosh.
+
+05:32.460 --> 05:34.080
+<v ->Yeah, good morning. Can you hear me?</v>
+
+05:34.080 --> 05:35.490
+Okay.
+<v ->Yeah.</v>
+
+05:35.490 --> 05:36.323
+<v ->Good morning.</v>
+
+05:36.323 --> 05:38.970
+As an introduction, my name is Jay Iyengar.
+
+05:38.970 --> 05:40.410
+I'm the chief technology
+
+05:40.410 --> 05:43.503
+and strategic sourcing officer for Oshkosh Corporation.
+
+05:44.850 --> 05:46.833
+As an introduction to Oshkosh,
+
+05:48.308 --> 05:51.450
+you know, we are an industrial technology company
+
+05:51.450 --> 05:54.840
+who've been around since 1917.
+
+05:54.840 --> 05:56.070
+The company was founded
+
+05:56.070 --> 05:59.223
+on innovation for mobility since 1917.
+
+06:00.720 --> 06:03.360
+What our products, what we work on
+
+06:03.360 --> 06:06.663
+is we use the term everyday heroes,
+
+06:07.500 --> 06:10.233
+those who move the world forward, right?
+
+06:12.621 --> 06:15.483
+We couldn't exist without them, as an example.
+
+06:16.470 --> 06:20.973
+Everyday heroes are, you know, people that work daily,
+
+06:22.358 --> 06:24.810
+your refuse collection, your firefighters,
+
+06:24.810 --> 06:27.540
+people that deliver your mail,
+
+06:27.540 --> 06:29.913
+people that actually serve the military,
+
+06:31.020 --> 06:33.330
+people that work in construction.
+
+06:33.330 --> 06:37.320
+So these are all the people that, everyday heroes.
+
+06:37.320 --> 06:40.110
+And all our products and technology
+
+06:40.110 --> 06:41.670
+serve those everyday heroes.
+
+06:41.670 --> 06:44.670
+As an example, we have, you know, firefighting,
+
+06:44.670 --> 06:47.040
+we have, you know, firefighting equipment,
+
+06:47.040 --> 06:50.190
+which is fire trucks both for, you know,
+
+06:50.190 --> 06:52.713
+residential, commercial use, as well as airports.
+
+06:53.790 --> 06:58.790
+We have, you know, equipment around the airport itself,
+
+07:00.540 --> 07:03.360
+such as ground support equipment around the airport itself,
+
+07:03.360 --> 07:05.490
+people that work on the tarmac.
+
+07:05.490 --> 07:09.960
+Chances are if you flew in, you know, to this event
+
+07:09.960 --> 07:11.520
+in the last couple of days,
+
+07:11.520 --> 07:13.170
+you probably got on the jet bridge,
+
+07:13.170 --> 07:14.913
+which was an Oshkosh jet bridge.
+
+07:15.870 --> 07:18.120
+That's an example of another one of the everyday heroes
+
+07:18.120 --> 07:19.500
+that I talked about, right?
+
+07:19.500 --> 07:20.880
+People that collect your refuse.
+
+07:20.880 --> 07:24.750
+We do have refuse and recycling collection trucks.
+
+07:24.750 --> 07:27.630
+So we are a vehicle manufacturer,
+
+07:27.630 --> 07:30.090
+we are a technology provider.
+
+07:30.090 --> 07:32.580
+And, again, the common theme that ties it together
+
+07:32.580 --> 07:34.293
+is this everyday heroes theme.
+
+07:35.280 --> 07:40.280
+And what we do is we apply technology
+
+07:40.350 --> 07:45.350
+to address both spoken and unspoken needs of our customers.
+
+07:45.750 --> 07:48.480
+By the way, these jobs are very difficult jobs.
+
+07:48.480 --> 07:50.190
+These aren't something that,
+
+07:50.190 --> 07:53.850
+you know, many times it's tendency to take it for granted.
+
+07:53.850 --> 07:55.590
+As an example, your refuse collection,
+
+07:55.590 --> 07:56.820
+your garbage collection job
+
+07:56.820 --> 07:59.670
+is the seventh most dangerous job in the country
+
+07:59.670 --> 08:01.500
+according to Department of Labor,
+
+08:01.500 --> 08:04.740
+because they have to climb in and out of the vehicles.
+
+08:04.740 --> 08:08.850
+They actually, on average, do 24,000 steps a day.
+
+08:08.850 --> 08:11.193
+So these are very, very difficult jobs.
+
+08:12.120 --> 08:14.430
+It takes time for somebody to learn
+
+08:14.430 --> 08:16.410
+how to actually drive the vehicle,
+
+08:16.410 --> 08:18.600
+park it right next to your garbage can
+
+08:18.600 --> 08:21.960
+and deploy the arm and using the joystick
+
+08:21.960 --> 08:25.560
+and collect it, you know, and dump it back into the trucks,
+
+08:25.560 --> 08:28.173
+and that repetitive task frequently.
+
+08:29.880 --> 08:33.180
+Those kind of things, there's opportunities that we see
+
+08:33.180 --> 08:36.930
+in terms of technology, how the technology can apply
+
+08:36.930 --> 08:40.830
+to make those jobs more efficient,
+
+08:40.830 --> 08:43.170
+more productive, and safer.
+
+08:43.170 --> 08:44.640
+So that's what we focus on,
+
+08:44.640 --> 08:48.750
+is we have, you know, automation, autonomous technologies,
+
+08:48.750 --> 08:50.580
+we use it at moments of autonomy.
+
+08:50.580 --> 08:53.160
+You don't really need a completely driverless vehicle,
+
+08:53.160 --> 08:54.930
+but there's a lot we could do
+
+08:54.930 --> 08:59.930
+to make those difficult jobs easier, efficient, et cetera.
+
+09:00.840 --> 09:03.330
+Another example is your jet bridge.
+
+09:03.330 --> 09:05.880
+How many times have you been stuck on an aircraft
+
+09:05.880 --> 09:09.690
+because don't you know that your jet bridge didn't deploy
+
+09:09.690 --> 09:12.300
+or a person that was supposed to deploy the jet bridge
+
+09:12.300 --> 09:13.893
+wasn't available, right?
+
+09:15.162 --> 09:17.310
+That's an example of something we are working on,
+
+09:17.310 --> 09:18.450
+you know, automating it
+
+09:18.450 --> 09:20.820
+so that there is an autonomous jet dock
+
+09:20.820 --> 09:24.030
+where the dock identifies an aircraft
+
+09:24.030 --> 09:26.340
+and actually, you know, automatically moves,
+
+09:26.340 --> 09:29.100
+identifies the aircraft and the door of the aircraft
+
+09:29.100 --> 09:31.080
+and automatically it deploys itself.
+
+09:31.080 --> 09:33.240
+So get very, very close to the door.
+
+09:33.240 --> 09:36.990
+So there a lot of opportunities there in applying AI,
+
+09:36.990 --> 09:39.660
+you know, advanced sensing and robotics
+
+09:39.660 --> 09:43.230
+to really make those difficult jobs easier.
+
+09:43.230 --> 09:44.063
+At the end of the day,
+
+09:44.063 --> 09:46.650
+making it very productive for our customers,
+
+09:46.650 --> 09:48.840
+providing them both, you know, financial benefits
+
+09:48.840 --> 09:51.660
+and overall total cost ownership benefits.
+
+09:51.660 --> 09:53.910
+<v ->Yeah, some great examples of everyday automation</v>
+
+09:53.910 --> 09:56.361
+that we don't think about.
+
+09:56.361 --> 09:57.194
+<v ->Absolutely.</v>
+<v ->We're interacting with</v>
+
+09:57.194 --> 09:58.773
+or interacting with parts of our lives.
+
+09:59.769 --> 10:01.170
+<v ->Absolutely.</v>
+<v ->So thanks for sharing that.</v>
+
+10:01.170 --> 10:03.600
+Andrew, I'm gonna ask you to go next.
+
+10:03.600 --> 10:06.100
+Now, you're the entrepreneur on the panel here
+
+10:07.140 --> 10:10.560
+and you're developing a new robotic system.
+
+10:10.560 --> 10:12.570
+So tell us a bit about your journey
+
+10:12.570 --> 10:14.550
+and how you've come to evaluate
+
+10:14.550 --> 10:16.620
+the opportunities for automation in robotics
+
+10:16.620 --> 10:18.360
+in the markets that you're serving.
+
+10:18.360 --> 10:20.460
+<v ->Sure. First of all, thank you.</v>
+
+10:20.460 --> 10:21.780
+I'm very happy to be here.
+
+10:21.780 --> 10:23.400
+I love what I do and I'm grateful
+
+10:23.400 --> 10:25.500
+to get to share a little bit more about it.
+
+10:25.500 --> 10:27.090
+I'm the founder of Lucid Bots,
+
+10:27.090 --> 10:29.550
+and we focus on extending human reach
+
+10:29.550 --> 10:32.880
+by building robots that do dangerous and demanding jobs.
+
+10:32.880 --> 10:35.370
+Currently, we're focused on exterior cleaning.
+
+10:35.370 --> 10:36.900
+And we have customers around the world
+
+10:36.900 --> 10:39.090
+doing anything from cleaning office windows
+
+10:39.090 --> 10:42.930
+to industrial water tanks, all the way to stadium domes.
+
+10:42.930 --> 10:44.910
+On average, it's about two times faster
+
+10:44.910 --> 10:46.080
+than traditional methods
+
+10:46.080 --> 10:48.900
+and you're not suspending human workers from lifts,
+
+10:48.900 --> 10:50.370
+ladder, scaffolds.
+
+10:50.370 --> 10:53.100
+You're able to relocate them to the ground.
+
+10:53.100 --> 10:56.040
+And there are three fundamental beliefs about the future
+
+10:56.040 --> 10:58.890
+that really guide how we think about our business.
+
+10:58.890 --> 11:03.840
+The first is there's this world of dirty, dangerous jobs
+
+11:03.840 --> 11:07.170
+where robots are primed to step in and be helpful.
+
+11:07.170 --> 11:09.690
+And the second is these robots, we feel,
+
+11:09.690 --> 11:11.790
+really need to be built domestically
+
+11:11.790 --> 11:14.070
+as we think about our own economic resilience,
+
+11:14.070 --> 11:16.590
+national security, and data privacy.
+
+11:16.590 --> 11:17.490
+And the third belief
+
+11:17.490 --> 11:19.980
+is everything that moves will be automated.
+
+11:19.980 --> 11:23.250
+And that combination of robotics and automation
+
+11:23.250 --> 11:26.460
+is what can unlock a world of prosperity.
+
+11:26.460 --> 11:29.520
+And to tell a little bit of a story of how we began,
+
+11:29.520 --> 11:33.660
+I had a very unusual journey into the robotics world.
+
+11:33.660 --> 11:36.690
+I originally went to Davidson College to play baseball,
+
+11:36.690 --> 11:39.270
+and I was majoring in the highly relevant fields
+
+11:39.270 --> 11:41.280
+of economics and Spanish.
+
+11:41.280 --> 11:44.220
+And it was a fall windy day of my junior year
+
+11:44.220 --> 11:47.520
+and I saw these window washers cleaning large building
+
+11:47.520 --> 11:50.220
+and the platform they were on got caught in the wind,
+
+11:50.220 --> 11:52.410
+started slamming against the building.
+
+11:52.410 --> 11:53.850
+And you saw the workers up there
+
+11:53.850 --> 11:57.420
+just white knuckling the rails, hanging on for dear life.
+
+11:57.420 --> 12:00.510
+And I just asked what seemed like an obvious question:
+
+12:00.510 --> 12:03.870
+how can we leverage technology to make this job safer,
+
+12:03.870 --> 12:05.670
+to make it more efficient?
+
+12:05.670 --> 12:08.610
+And I looked around me at all of these buildings
+
+12:08.610 --> 12:10.560
+and I realized we're building more buildings,
+
+12:10.560 --> 12:12.810
+they're getting larger, more complex
+
+12:12.810 --> 12:15.750
+yet we've got less and less people willing to do the work,
+
+12:15.750 --> 12:18.630
+which represents just an enormous opportunity
+
+12:18.630 --> 12:21.333
+to introduce robotics and automation.
+
+12:22.237 --> 12:24.720
+And in terms of how we think about it at Lucid Bots,
+
+12:24.720 --> 12:26.160
+again, we're a little bit unique
+
+12:26.160 --> 12:29.340
+versus the traditional robotics world.
+
+12:29.340 --> 12:31.740
+Firstly, for the last several decades,
+
+12:31.740 --> 12:32.940
+we've been building robots
+
+12:32.940 --> 12:36.810
+but primarily for the factory settings and warehouses.
+
+12:36.810 --> 12:38.130
+And the way we think about this
+
+12:38.130 --> 12:40.230
+is static environment robots,
+
+12:40.230 --> 12:42.930
+one robot on the same job site every day,
+
+12:42.930 --> 12:44.850
+sometimes literally bolted to the floor
+
+12:44.850 --> 12:46.503
+where the work comes to it.
+
+12:47.663 --> 12:50.070
+In our world, we focus on dynamic robots,
+
+12:50.070 --> 12:53.370
+robots that operate on a different job site every day
+
+12:53.370 --> 12:54.897
+and they actually go to work.
+
+12:54.897 --> 12:56.310
+And the second big difference
+
+12:56.310 --> 12:58.650
+is just how we approached our business.
+
+12:58.650 --> 13:00.900
+We weren't originally a team of researchers
+
+13:00.900 --> 13:03.930
+looking to expand some foundational technology.
+
+13:03.930 --> 13:08.220
+What we saw was a real world, everyday expensive problem,
+
+13:08.220 --> 13:10.920
+and we wanted to focus on solving that problem
+
+13:10.920 --> 13:13.890
+and delivering customer value as quickly as possible
+
+13:13.890 --> 13:15.903
+as we now look to continue expanding.
+
+13:17.790 --> 13:20.220
+<v ->Yeah, that's a great story and thanks for sharing.</v>
+
+13:20.220 --> 13:21.900
+And, again, it speaks to the fact
+
+13:21.900 --> 13:24.990
+that anybody in this room could start their own journey
+
+13:24.990 --> 13:28.230
+by recognizing a problem that could be automated,
+
+13:28.230 --> 13:30.933
+a dull, dangerous, dirty job,
+
+13:31.898 --> 13:34.290
+and, you know, helping to make society better.
+
+13:34.290 --> 13:38.640
+And I think, again, that is on display on the floor here
+
+13:38.640 --> 13:41.310
+from all of these companies that are displaying here,
+
+13:41.310 --> 13:42.510
+their own technologies
+
+13:42.510 --> 13:45.540
+that are impacting consumers' lives, right?
+
+13:45.540 --> 13:49.080
+So the last individual I wanna introduce you to is Rahul.
+
+13:49.080 --> 13:53.160
+And he works for an organization.
+
+13:53.160 --> 13:56.100
+If you're in the industry, you'll recognize the name.
+
+13:56.100 --> 13:58.797
+But, Rahul, tell us a little bit about who you are
+
+13:58.797 --> 14:00.810
+and what Siemens is doing.
+
+14:00.810 --> 14:03.450
+<v ->Yeah, happy to be here. I'm Rahul Garg.</v>
+
+14:03.450 --> 14:05.670
+I lead the global business
+
+14:05.670 --> 14:09.180
+for our industrial machinery manufacturers,
+
+14:09.180 --> 14:12.780
+companies that make machines, companies that build robots,
+
+14:12.780 --> 14:17.780
+companies that make equipment that enable their customers
+
+14:17.820 --> 14:20.940
+to manufacture in their factories.
+
+14:20.940 --> 14:24.600
+So as part of my job, I have the good fortune
+
+14:24.600 --> 14:27.540
+to work with companies who are driving innovation
+
+14:27.540 --> 14:29.490
+inside their factories.
+
+14:29.490 --> 14:34.490
+And at Siemens, we enable a lot of the automation
+
+14:34.770 --> 14:36.850
+inside a factory and we also enable
+
+14:38.188 --> 14:39.480
+a lot of the development of the products
+
+14:39.480 --> 14:41.280
+that are gonna be built in the factories.
+
+14:41.280 --> 14:43.440
+We have a extensive industrial
+
+14:43.440 --> 14:46.020
+software business application as well.
+
+14:46.020 --> 14:48.600
+So as part of what we are trying to do
+
+14:48.600 --> 14:53.600
+is drive this whole notion of a comprehensive digital twin.
+
+14:54.390 --> 14:57.360
+Now, most of you may have heard the idea of a digital twin
+
+14:57.360 --> 15:00.270
+and you think of it as a product,
+
+15:00.270 --> 15:01.530
+and the digital twin of the product.
+
+15:01.530 --> 15:04.290
+But when I'm referring to the comprehensive digital twin,
+
+15:04.290 --> 15:07.050
+a physics-based digital twin, we try and extend that
+
+15:07.050 --> 15:10.470
+throughout the entire lifecycle of the product,
+
+15:10.470 --> 15:13.020
+from the time it is designed, engineered
+
+15:13.020 --> 15:15.150
+to the time it's manufactured,
+
+15:15.150 --> 15:18.090
+and to the time it's serviced and supported as well.
+
+15:18.090 --> 15:21.990
+And we think bringing that digital twin,
+
+15:21.990 --> 15:24.180
+comprehensive digital twin capability
+
+15:24.180 --> 15:27.270
+and combining it closer to the physical world
+
+15:27.270 --> 15:30.480
+will allow you to do some very useful things
+
+15:30.480 --> 15:34.080
+in optimizing your business processes,
+
+15:34.080 --> 15:36.720
+helping you ask very difficult questions
+
+15:36.720 --> 15:39.900
+and meet your many challenging demands.
+
+15:39.900 --> 15:42.180
+So as part of that whole digital twin
+
+15:42.180 --> 15:43.590
+and the comprehensive digital twin,
+
+15:43.590 --> 15:47.403
+we enable the digital twin of a factory as well.
+
+15:48.240 --> 15:50.850
+And inside the digital twin of a factory,
+
+15:50.850 --> 15:55.830
+we think in terms of how to harmonize
+
+15:55.830 --> 15:57.570
+and build the entire process
+
+15:57.570 --> 16:00.300
+for what you're gonna be building inside a factory.
+
+16:00.300 --> 16:02.070
+And inside a factory, you've got equipment,
+
+16:02.070 --> 16:04.500
+you've got robots, you've got humans.
+
+16:04.500 --> 16:08.610
+So how do you get all of that to work in a seamless manner?
+
+16:08.610 --> 16:11.970
+And as part of that whole process through a digital twin,
+
+16:11.970 --> 16:14.100
+we can enable you to look
+
+16:14.100 --> 16:16.080
+at how the machine would be functioning,
+
+16:16.080 --> 16:18.510
+what are the speeds that you would be needing
+
+16:18.510 --> 16:20.130
+to work the machine at,
+
+16:20.130 --> 16:22.380
+you can look at how the humans would be interacting,
+
+16:22.380 --> 16:24.270
+how the robots would be interacting.
+
+16:24.270 --> 16:29.270
+So as part of that process, it becomes very critical
+
+16:29.340 --> 16:33.870
+that you can evaluate all these capabilities
+
+16:33.870 --> 16:37.740
+in a digital way and gives you the freedom
+
+16:37.740 --> 16:40.590
+and the flexibility to try out different options,
+
+16:40.590 --> 16:45.390
+to try out different scenarios you would want to run,
+
+16:46.890 --> 16:50.160
+and make sure that you can design the most flexible,
+
+16:50.160 --> 16:55.110
+the most optimal production facility
+
+16:55.110 --> 16:57.420
+and get the necessary output
+
+16:57.420 --> 16:59.040
+that you would want from your factory.
+
+16:59.040 --> 17:00.513
+<v ->Yeah.</v>
+
+17:00.513 --> 17:02.160
+And I think the interesting thing about digital twins,
+
+17:02.160 --> 17:05.490
+and there's been a lot of news this week about,
+
+17:05.490 --> 17:07.980
+you know, simulation in the real world
+
+17:07.980 --> 17:09.933
+and in the virtual world,
+
+17:10.890 --> 17:14.430
+the idea that you can create an entire factory line,
+
+17:14.430 --> 17:16.200
+a process manufacturing
+
+17:16.200 --> 17:21.200
+or a typical labor-based manufacturing line
+
+17:21.657 --> 17:25.650
+and actually change the parameters parametrically
+
+17:25.650 --> 17:26.610
+and see the output,
+
+17:26.610 --> 17:30.240
+see how the KPIs change is just incredible.
+
+17:30.240 --> 17:32.670
+And it helps close the loop that much faster
+
+17:32.670 --> 17:34.920
+on the rights answer.
+
+17:34.920 --> 17:35.820
+<v ->It does, it does.</v>
+
+17:35.820 --> 17:39.450
+And in fact, and bringing in a lot of AI capabilities
+
+17:39.450 --> 17:42.480
+into the digital twin, allowing you to simulate
+
+17:42.480 --> 17:44.700
+a lot more variables that you did not have
+
+17:44.700 --> 17:46.383
+at your hand before.
+<v ->Right.</v>
+
+17:47.940 --> 17:52.560
+Well, having made it through 2024,
+
+17:52.560 --> 17:54.300
+the big hype for us last year
+
+17:54.300 --> 17:57.270
+in the robotics industry was humanoids.
+
+17:57.270 --> 18:00.993
+The big question of course was what are they gonna do?
+
+18:01.950 --> 18:04.050
+As a journalist, I'm a skeptic,
+
+18:04.050 --> 18:06.750
+that's my job, to be a skeptic,
+
+18:06.750 --> 18:10.920
+and I'm still questioning exactly when humanoids
+
+18:10.920 --> 18:13.590
+are going to become real or if they're gonna become real.
+
+18:13.590 --> 18:16.170
+So I wanted to pull you guys,
+
+18:16.170 --> 18:19.140
+and we talked about this before we got on stage here
+
+18:19.140 --> 18:21.240
+as one of the most hyped stories.
+
+18:21.240 --> 18:22.500
+You know, so there's multiple vendors
+
+18:22.500 --> 18:23.460
+on the showfloor today.
+
+18:23.460 --> 18:27.090
+You're gonna see opportunities to interact with humanoids.
+
+18:27.090 --> 18:29.583
+They're getting better every quarter.
+
+18:30.930 --> 18:31.950
+From the capabilities,
+
+18:31.950 --> 18:34.740
+but the question remains is there work for them to do?
+
+18:34.740 --> 18:37.870
+And it's this question of general purpose automation
+
+18:38.880 --> 18:41.580
+versus specific purpose automation.
+
+18:41.580 --> 18:42.750
+Purpose-built automation,
+
+18:42.750 --> 18:44.430
+automation like an industrial robot
+
+18:44.430 --> 18:48.390
+that does one welding operation a thousand times a day
+
+18:48.390 --> 18:50.310
+versus a general purpose automation
+
+18:50.310 --> 18:54.540
+that can do many different tasks and change it up.
+
+18:54.540 --> 18:58.740
+So having said that, it seems that labor availability
+
+18:58.740 --> 19:00.660
+has been one of the key things
+
+19:00.660 --> 19:03.120
+that both the venture capital community sees
+
+19:03.120 --> 19:05.070
+as an opportunity here,
+
+19:05.070 --> 19:07.170
+why they've invested some large sums of money
+
+19:07.170 --> 19:09.750
+in some humanoid companies this last two years.
+
+19:09.750 --> 19:13.170
+And so I wanted to ask you guys your thoughts
+
+19:13.170 --> 19:15.780
+about the reality in future for humanoids,
+
+19:15.780 --> 19:18.739
+whether you believe it's a good thing or a bad thing.
+
+19:18.739 --> 19:20.430
+And so I'm asking you to go on a record a bit here.
+
+19:20.430 --> 19:22.340
+So, Sally, I'm gonna start with you
+
+19:22.340 --> 19:24.960
+'cause I know you are in charge of a program
+
+19:24.960 --> 19:28.260
+that actually evaluates new technology
+
+19:28.260 --> 19:29.840
+for the use cases.
+<v Sally>Yes.</v>
+
+19:29.840 --> 19:31.590
+<v ->So tell us a little bit about your experience</v>
+
+19:31.590 --> 19:33.000
+with the humanoid world.
+
+19:33.000 --> 19:38.000
+<v ->So humanoids are a vision of roboticists</v>
+
+19:40.800 --> 19:45.573
+and well-financed friends, I would say.
+
+19:47.160 --> 19:51.840
+In supply chain in a warehouse,
+
+19:51.840 --> 19:55.170
+you don't need a robot to have legs.
+
+19:55.170 --> 19:59.220
+In fact, if they have a stronger base
+
+19:59.220 --> 20:04.050
+that has a battery pack, they can operate for more hours.
+
+20:04.050 --> 20:06.360
+And I'm a firm believer
+
+20:06.360 --> 20:10.110
+in that what you deploy in the warehouse
+
+20:10.110 --> 20:13.050
+should look like its intended use.
+
+20:13.050 --> 20:16.140
+And I'm taking that quote from Rodney Brooks,
+
+20:16.140 --> 20:19.410
+who invented the Roomba, which we all have,
+
+20:19.410 --> 20:20.860
+especially if you have a dog.
+
+20:22.110 --> 20:25.080
+And there is a human element
+
+20:25.080 --> 20:27.300
+in everything that we've talked about
+
+20:27.300 --> 20:29.310
+while we've introduced ourselves.
+
+20:29.310 --> 20:32.340
+And, you know, I have to wonder,
+
+20:32.340 --> 20:36.006
+would you wanna be working next to,
+
+20:36.006 --> 20:39.900
+you know, something that looked outta "Star Wars" every day
+
+20:39.900 --> 20:44.900
+or a robot with a nice screen, interactive lights
+
+20:45.690 --> 20:50.553
+that was designed for the use case it was intended?
+
+20:51.930 --> 20:55.740
+My hope, because I'm an optimistic person,
+
+20:55.740 --> 20:59.670
+is that there are, you know, products
+
+20:59.670 --> 21:04.380
+that come out of the huge investment in humanoids
+
+21:04.380 --> 21:08.730
+that can be leveraged for the use cases
+
+21:08.730 --> 21:13.730
+in what we do in warehouses, which is receive product,
+
+21:13.977 --> 21:17.370
+put it away, pick it, package it, and ship it out.
+
+21:17.370 --> 21:22.370
+And I really don't think it will be very well received
+
+21:24.052 --> 21:26.903
+in the look and feel in the warehouse.
+
+21:26.903 --> 21:27.990
+There's a lot of sensitivities
+
+21:27.990 --> 21:31.650
+to robots taking over humans' jobs.
+
+21:31.650 --> 21:33.450
+And I think if you design a robot
+
+21:33.450 --> 21:35.730
+that looks just like a human,
+
+21:35.730 --> 21:40.680
+you're looking for some problem with the labor force
+
+21:40.680 --> 21:44.790
+that we're desperately trying to attract, retain, and keep
+
+21:44.790 --> 21:46.653
+and make as efficient as possible.
+
+21:48.071 --> 21:48.960
+<v ->Yeah. Jay, what's your thoughts?</v>
+
+21:48.960 --> 21:52.383
+<v ->Yeah, so I agree with comments made by Sally too.</v>
+
+21:53.460 --> 21:54.480
+At the end of the day,
+
+21:54.480 --> 21:57.543
+if you think of what a humanoid is, right,
+
+21:59.160 --> 22:01.680
+what we all do as humans is we sense,
+
+22:01.680 --> 22:03.960
+sensing is a really critical part of it.
+
+22:03.960 --> 22:06.390
+We perceive sensing, perception,
+
+22:06.390 --> 22:09.153
+self-learning, and making decisions, right?
+
+22:11.483 --> 22:12.570
+Very simplistically, those are the key elements
+
+22:12.570 --> 22:15.420
+of what a humanoid is.
+
+22:15.420 --> 22:17.490
+Human form is, you agree with me,
+
+22:17.490 --> 22:20.640
+human form is extremely inefficient from an,
+
+22:20.640 --> 22:23.640
+you don't wanna mimic something that's inefficient
+
+22:23.640 --> 22:26.850
+to do something that you're trying to solve.
+
+22:26.850 --> 22:29.250
+Creating a human form just for the sake of it
+
+22:29.250 --> 22:30.210
+doesn't do anything.
+
+22:30.210 --> 22:33.279
+In our industry, what we are trying to do is,
+
+22:33.279 --> 22:36.030
+as I mentioned earlier, is to solve,
+
+22:36.030 --> 22:39.180
+there's a lot of low-hanging fruit inefficiencies
+
+22:39.180 --> 22:41.380
+as we are looking at the manufacturing floor
+
+22:42.390 --> 22:44.760
+or on our own products,
+
+22:44.760 --> 22:48.690
+what we could do for the users of our products as well.
+
+22:48.690 --> 22:50.703
+I'll just give you maybe one example,
+
+22:51.708 --> 22:55.680
+is we are the leaders in access equipment,
+
+22:55.680 --> 22:56.940
+people working at height.
+
+22:56.940 --> 22:59.131
+If you walk around the building,
+
+22:59.131 --> 23:00.030
+you see the JLG machines.
+
+23:00.030 --> 23:02.610
+By the way, they're really, really safe.
+
+23:02.610 --> 23:05.400
+The platform stays flat at 185 feet.
+
+23:05.400 --> 23:08.070
+So there's a lot of technology that goes into it.
+
+23:08.070 --> 23:11.747
+But still there's a human being standing up there
+
+23:11.747 --> 23:15.105
+that's cleaning the window, or it's used for a lot of,
+
+23:15.105 --> 23:16.200
+like welding is another example.
+
+23:16.200 --> 23:19.380
+They go there and move materials and they weld.
+
+23:19.380 --> 23:22.620
+Sometimes there's two machines, two machines go together
+
+23:22.620 --> 23:25.140
+where, you know, the material is carried on one
+
+23:25.140 --> 23:26.730
+and the person's on the other one.
+
+23:26.730 --> 23:31.730
+So there's a lot of repetitive human parts.
+
+23:32.580 --> 23:34.350
+You can even argue to an extent
+
+23:34.350 --> 23:39.240
+it is more of mundane type of tasks that are there.
+
+23:39.240 --> 23:42.450
+So we call about end-effector humanoids
+
+23:42.450 --> 23:45.480
+where you could still have the saw machines
+
+23:45.480 --> 23:48.610
+but the last part of the work that they do can be automated
+
+23:49.959 --> 23:51.330
+with having an arm that actually,
+
+23:51.330 --> 23:53.880
+you know, goes and welds automatically, right,
+
+23:53.880 --> 23:56.880
+and then coordinates with another machine
+
+23:56.880 --> 24:00.060
+to bring the equipment, bring the materials out there
+
+24:00.060 --> 24:03.030
+so that that work can be more efficiently,
+
+24:03.030 --> 24:04.920
+whereas human being can move on
+
+24:04.920 --> 24:07.530
+to something higher level tasks.
+
+24:07.530 --> 24:10.110
+We don't believe in just we have to replace something,
+
+24:10.110 --> 24:13.140
+we can augment what people do today
+
+24:13.140 --> 24:15.150
+and take out the mundane work,
+
+24:15.150 --> 24:17.280
+take out the, you know, potentially unsafe work,
+
+24:17.280 --> 24:20.280
+and talked about dangerous environments, et cetera,
+
+24:20.280 --> 24:22.140
+but make that more efficient
+
+24:22.140 --> 24:24.270
+so that we can move on to some higher level work.
+
+24:24.270 --> 24:28.350
+So that's what we focus on from that sense.
+
+24:28.350 --> 24:29.760
+We're seeing a lot advancements
+
+24:29.760 --> 24:31.740
+in, you know, we use cameras, LiDARs
+
+24:31.740 --> 24:33.480
+and, you know, processors.
+
+24:33.480 --> 24:37.530
+And AI chips have come a very, very long way.
+
+24:37.530 --> 24:40.833
+We saw some announcements this week, yet from Nvidia,
+
+24:41.790 --> 24:44.700
+being able to do, we do digital twins today by the way.
+
+24:44.700 --> 24:48.810
+We simulate factories, we simulate test environments,
+
+24:48.810 --> 24:50.940
+we do some virtual testing
+
+24:50.940 --> 24:52.830
+before we do physical testing on our products,
+
+24:52.830 --> 24:55.440
+using a lot of Siemens's applications.
+
+24:55.440 --> 25:00.210
+But with AI, you can do a lot more scenario planning
+
+25:00.210 --> 25:03.390
+you couldn't normally do with today with this thing.
+
+25:03.390 --> 25:07.950
+So I think there's a lot of low-hanging fruit opportunities
+
+25:07.950 --> 25:10.170
+we need to go after before you design,
+
+25:10.170 --> 25:11.760
+before you really wanna mimic
+
+25:11.760 --> 25:14.940
+the inefficient human form in a humanoid.
+
+25:14.940 --> 25:16.710
+<v ->Yeah, if you listen to the podcast,</v>
+
+25:16.710 --> 25:18.690
+Steve, my co-host, we talk often
+
+25:18.690 --> 25:22.140
+about the humanoid robot video of the week
+
+25:22.140 --> 25:24.060
+because it seems like every week,
+
+25:24.060 --> 25:26.640
+one of the other companies is one-upping each other
+
+25:26.640 --> 25:27.540
+with what they're doing.
+
+25:27.540 --> 25:31.530
+And I'm supporting my Boston Dynamics Atlas Socks
+
+25:31.530 --> 25:33.600
+on stage today as an homage
+
+25:33.600 --> 25:37.260
+to, you know, one of the OGs in the industry.
+
+25:37.260 --> 25:40.411
+But having said that, Rahul, what are your thoughts about,
+
+25:40.411 --> 25:41.730
+you know, humanoids even in the digital twin?
+
+25:41.730 --> 25:45.104
+Is it a good opportunity to try to validate that-
+
+25:45.104 --> 25:46.620
+<v ->Yeah, you know, first of all,</v>
+
+25:46.620 --> 25:50.490
+I do think humanoids are on the cutting edge of technology.
+
+25:50.490 --> 25:51.540
+They're very fascinating.
+
+25:51.540 --> 25:55.080
+And they bring in some new capabilities
+
+25:55.080 --> 25:58.170
+that can be adopted more universally
+
+25:58.170 --> 26:00.540
+but on a technology side.
+
+26:00.540 --> 26:02.733
+I think from a general purpose perspective,
+
+26:04.500 --> 26:08.370
+the usage of humanoids is not there as yet
+
+26:08.370 --> 26:09.600
+from a production perspective.
+
+26:09.600 --> 26:12.840
+I think we have to still rely on special purpose robots
+
+26:12.840 --> 26:15.030
+that are eventually gonna do the function
+
+26:15.030 --> 26:16.620
+in a more efficient manner.
+
+26:16.620 --> 26:19.650
+The reason you're using robot is to bring in more efficiency
+
+26:19.650 --> 26:22.050
+and a humanoid will not get you that efficiency
+
+26:22.050 --> 26:23.400
+that you're looking for.
+
+26:23.400 --> 26:25.590
+So from a digital twin perspective,
+
+26:25.590 --> 26:30.120
+we actually do have the ability already in place
+
+26:30.120 --> 26:32.522
+to create a digital twin of a human.
+
+26:32.522 --> 26:35.460
+In fact, we have a Jack and a Jill version of the human
+
+26:35.460 --> 26:39.420
+to allow you to evaluate different ergonomics,
+
+26:39.420 --> 26:41.220
+different safety criteria,
+
+26:41.220 --> 26:46.220
+different capabilities that a human could be functioning
+
+26:46.290 --> 26:49.182
+in a manufacturing environment.
+
+26:49.182 --> 26:50.610
+So you can do that complete evaluation
+
+26:50.610 --> 26:52.380
+from a digital perspective.
+
+26:52.380 --> 26:56.250
+You can even evaluate a person
+
+26:56.250 --> 26:59.100
+based on characteristics of a person,
+
+26:59.100 --> 27:01.200
+whether it's, not only a man or woman,
+
+27:01.200 --> 27:04.410
+but if they're from the US versus China
+
+27:04.410 --> 27:07.380
+and their capacities of handling things.
+
+27:07.380 --> 27:09.360
+So all that can be done digitally.
+
+27:09.360 --> 27:12.510
+But trying to bring in that humanoid, I think it's not,
+
+27:12.510 --> 27:14.760
+the ability is not on the digital side,
+
+27:14.760 --> 27:16.110
+it's more on the physical side.
+
+27:16.110 --> 27:20.010
+I think the systems are not there, as Jay indicated,
+
+27:20.010 --> 27:22.170
+the perception capabilities,
+
+27:22.170 --> 27:24.333
+a lot of those things are still missing.
+
+27:25.447 --> 27:29.260
+The freedom of movements are not there as yet
+
+27:30.403 --> 27:32.430
+to bring in that capability as yet.
+
+27:32.430 --> 27:35.550
+<v ->Yeah. And, Andrew, I'll let you get a moment here.</v>
+
+27:35.550 --> 27:38.130
+I know you're not using humanoids at all,
+
+27:38.130 --> 27:40.500
+but we had some interesting thoughts
+
+27:40.500 --> 27:42.150
+in our pre-conversation.
+
+27:42.150 --> 27:44.640
+<v ->I'll acknowledge that the human form factor</v>
+
+27:44.640 --> 27:46.080
+is highly adaptable,
+
+27:46.080 --> 27:49.233
+but three things cause me to be reserved about humanoids.
+
+27:50.314 --> 27:53.190
+If you're optimizing for strength, stability, and cost,
+
+27:53.190 --> 27:55.863
+a humanoid is not the design you would tend toward.
+
+27:57.966 --> 28:00.120
+Another big thing, just from a physics perspective,
+
+28:00.120 --> 28:02.820
+rotational motion is much more power-dense
+
+28:02.820 --> 28:05.430
+than linear motion, which is humanoids.
+
+28:05.430 --> 28:06.985
+And then the last thing
+
+28:06.985 --> 28:08.940
+that I think often goes overlooked with robotics
+
+28:08.940 --> 28:10.650
+is robots are a little bit like cars
+
+28:10.650 --> 28:13.770
+and they need ongoing maintenance and servicing.
+
+28:13.770 --> 28:17.130
+And simplicity is what scales in this industry.
+
+28:17.130 --> 28:20.790
+And the humanoid introduces so many extra failure points
+
+28:20.790 --> 28:22.770
+that would need to be serviced and cared for
+
+28:22.770 --> 28:25.350
+over the duration of a customer relationship.
+
+28:25.350 --> 28:27.930
+And in robotics, you wanna minimize customer headaches
+
+28:27.930 --> 28:29.883
+at every opportunity you get.
+
+28:31.415 --> 28:34.770
+<v ->Says the entrepreneur who's rolling out products</v>
+
+28:34.770 --> 28:36.120
+to new customers every week.
+
+28:36.120 --> 28:38.820
+So yeah, serviceability, maintainability,
+
+28:38.820 --> 28:42.420
+and customer service key for any robotics company.
+
+28:42.420 --> 28:44.550
+So with the time we have left,
+
+28:44.550 --> 28:46.380
+we brought up the topic of AI,
+
+28:46.380 --> 28:49.260
+which again is changing so rapidly.
+
+28:49.260 --> 28:50.970
+We've already talked briefly about this.
+
+28:50.970 --> 28:55.110
+But again, as you walk the CES floor today,
+
+28:55.110 --> 28:57.540
+I stopped counting how many companies
+
+28:57.540 --> 29:01.650
+are talking about AI as the core part of their products.
+
+29:01.650 --> 29:05.133
+And, again, as a skeptic, Jay said that,
+
+29:06.049 --> 29:09.000
+you know, where is AI deployed and really what is it, right?
+
+29:09.000 --> 29:10.530
+I think that's the question,
+
+29:10.530 --> 29:15.530
+is what are those places that AI and innovation
+
+29:16.560 --> 29:19.560
+is feasible today to do real work?
+
+29:19.560 --> 29:23.181
+So did you wanna expand a bit more on-
+
+29:23.181 --> 29:25.580
+<v ->Sure. Oh, okay, okay.</v>
+
+29:25.580 --> 29:30.580
+So AI is being used today extensively in our products.
+
+29:32.280 --> 29:35.700
+And clearly we apply AI as we're making decisions,
+
+29:35.700 --> 29:37.980
+whether it's within the factories
+
+29:37.980 --> 29:39.830
+and making decisions on what happens.
+
+29:41.490 --> 29:43.800
+You know, is the supplier gonna deliver something on time?
+
+29:43.800 --> 29:46.470
+There's things that we use for AI for enterprise decisions,
+
+29:46.470 --> 29:49.170
+but right on the products there's AI being used.
+
+29:49.170 --> 29:50.280
+If you go to the Oshkosh booth,
+
+29:50.280 --> 29:52.280
+you're gonna see some of that in action.
+
+29:54.038 --> 29:55.861
+Machine learning, deep learning,
+
+29:55.861 --> 29:57.060
+at the edge, on the devices,
+
+29:57.060 --> 29:59.430
+having embedded systems on the devices.
+
+29:59.430 --> 30:01.590
+One simple example I'll give you
+
+30:01.590 --> 30:04.890
+is that I talked about refuse collection earlier, right?
+
+30:04.890 --> 30:08.370
+So we have sensors and technology on your arm
+
+30:08.370 --> 30:11.193
+on the side of your refuse truck.
+
+30:12.661 --> 30:15.540
+As today, what they do is they drive by
+
+30:15.540 --> 30:16.980
+and then they look to make sure
+
+30:16.980 --> 30:19.560
+that they actually parked the vehicle closer to,
+
+30:19.560 --> 30:21.160
+stop the vehicle closer to your,
+
+30:22.759 --> 30:25.020
+where you put your, you know, refuse on the curb,
+
+30:25.020 --> 30:26.280
+then they use their joystick
+
+30:26.280 --> 30:28.620
+and then they line it all up and then they grab it.
+
+30:28.620 --> 30:33.150
+That whole task, applying sensors in AI,
+
+30:33.150 --> 30:38.150
+it actually identifies and locates the refuse bin.
+
+30:38.640 --> 30:40.830
+If there's a kid there or if there's a bicycle there,
+
+30:40.830 --> 30:42.636
+it won't deploy.
+
+30:42.636 --> 30:44.820
+It identifies and locates that is exactly refuse bin,
+
+30:44.820 --> 30:48.240
+deploys the arm and grabs it and puts it back,
+
+30:48.240 --> 30:49.740
+empties out the refuse container.
+
+30:49.740 --> 30:52.200
+That's a very real world use case
+
+30:52.200 --> 30:55.293
+that you see today in production applying AI.
+
+30:56.159 --> 30:58.290
+<v ->And helping that driver just get that much more efficiency</v>
+
+30:58.290 --> 30:59.550
+out of their task, yeah.
+<v ->Absolutely.</v>
+
+30:59.550 --> 31:01.053
+We've done the mapping.
+
+31:01.945 --> 31:03.090
+Actually if you look at putting,
+
+31:03.090 --> 31:05.970
+it's almost, you can say one hour of work a day.
+
+31:05.970 --> 31:09.060
+They do thousands of these pickups each day.
+
+31:09.060 --> 31:11.880
+Look at the fatigue that they have to face, right?
+
+31:11.880 --> 31:14.190
+The second example is, I don't know how many of you
+
+31:14.190 --> 31:15.750
+really are good about recycling.
+
+31:15.750 --> 31:18.120
+Many times, I have to admit,
+
+31:18.120 --> 31:19.860
+I mix recycling and refuse together.
+
+31:19.860 --> 31:21.930
+I try hard not to put the recycling in there,
+
+31:21.930 --> 31:23.940
+but there are times I mix it up.
+
+31:23.940 --> 31:25.080
+I'm getting a lot better now
+
+31:25.080 --> 31:26.400
+after learning a lot about this.
+
+31:26.400 --> 31:27.780
+But it's the wrong thing to do
+
+31:27.780 --> 31:30.600
+because it costs more money to sort it out
+
+31:30.600 --> 31:32.610
+when you mixed things together on the,
+
+31:32.610 --> 31:34.560
+we call it cross-contamination.
+
+31:34.560 --> 31:36.480
+Applying cameras in AI technology,
+
+31:36.480 --> 31:38.730
+we actually identify there's been a,
+
+31:38.730 --> 31:39.990
+as soon as the garbage goes in there,
+
+31:39.990 --> 31:42.930
+identify there's been a cross-contamination,
+
+31:42.930 --> 31:46.560
+which actually informs the driver, informs the customer.
+
+31:46.560 --> 31:48.900
+You do not wanna throw batteries in your garbage.
+
+31:48.900 --> 31:49.800
+Do not do that.
+
+31:49.800 --> 31:52.833
+It's got a serious impact in terms of safety.
+
+31:54.120 --> 31:55.080
+Those are the kind of things
+
+31:55.080 --> 31:56.640
+we can actually provide more warning
+
+31:56.640 --> 31:59.400
+and it can be in consumer education piece of it.
+
+31:59.400 --> 32:01.893
+So there is practical applications.
+
+32:02.831 --> 32:03.664
+And the jet dock is another example.
+
+32:03.664 --> 32:05.220
+How does it know it's an aircraft?
+
+32:05.220 --> 32:07.440
+How does it know it's a door of the aircraft?
+
+32:07.440 --> 32:08.760
+Aircraft's very, very expensive.
+
+32:08.760 --> 32:11.160
+You just cannot deploy something and hit it.
+
+32:11.160 --> 32:13.643
+So there are practical applications of AI, things like that,
+
+32:15.450 --> 32:19.620
+but what we do see is advancements in AI processing
+
+32:19.620 --> 32:23.220
+and being able to do a better job of sensor fusion
+
+32:23.220 --> 32:25.863
+between the cameras and LADARs and LiDARs.
+
+32:27.391 --> 32:30.281
+Training the models much more efficiently,
+
+32:30.281 --> 32:33.540
+millions of scenarios, training using videos.
+
+32:33.540 --> 32:36.030
+So we see that, we see it taken to the next level,
+
+32:36.030 --> 32:37.950
+but AI is here and now
+
+32:37.950 --> 32:41.040
+and you'll see it across the board on our products.
+
+32:41.040 --> 32:41.933
+<v ->Yeah, yeah.</v>
+
+32:42.769 --> 32:44.010
+Rahul, for the Siemens,
+
+32:44.010 --> 32:47.370
+again, you're a hardware company and a software company.
+
+32:47.370 --> 32:50.763
+We talked about the digital aspects of the digital world,
+
+32:51.825 --> 32:53.610
+but, again, how is AI being infused
+
+32:53.610 --> 32:55.920
+across that entire stack?
+
+32:55.920 --> 32:59.400
+<v ->Yeah, we are, (clears throat) excuse me,</v>
+
+32:59.400 --> 33:01.140
+we are looking at AI, in modern,
+
+33:01.140 --> 33:03.330
+what we are calling as industrial AI
+
+33:03.330 --> 33:04.770
+where we are trying to make sure
+
+33:04.770 --> 33:08.700
+that the AI that's being used is robust and reliable enough
+
+33:08.700 --> 33:11.220
+from an industrial application perspective.
+
+33:11.220 --> 33:12.720
+And from our point of view,
+
+33:12.720 --> 33:14.880
+we are looking at it in three ways.
+
+33:14.880 --> 33:18.930
+The first one is leveraging the AI on the shop floor
+
+33:18.930 --> 33:22.320
+for the operators, making it easy for them
+
+33:22.320 --> 33:25.260
+to perhaps even communicate on issues.
+
+33:25.260 --> 33:26.610
+Something very simple.
+
+33:26.610 --> 33:27.870
+When an operator has an issue,
+
+33:27.870 --> 33:29.850
+we have found that 80% of the issues
+
+33:29.850 --> 33:31.470
+do not even get reported
+
+33:31.470 --> 33:34.470
+because of the challenges in trying to document
+
+33:34.470 --> 33:36.120
+the issue, for example.
+
+33:36.120 --> 33:38.850
+So just having a very easy mechanism
+
+33:38.850 --> 33:40.290
+to capture that information,
+
+33:40.290 --> 33:42.630
+getting it to the right person inside the company,
+
+33:42.630 --> 33:44.430
+getting, using large language models
+
+33:44.430 --> 33:47.610
+for any language perspective, taking photographs,
+
+33:47.610 --> 33:49.380
+getting that in front of-
+
+33:49.380 --> 33:51.705
+<v ->Part of process improvement then, yeah.</v>
+
+33:51.705 --> 33:53.198
+<v ->Exactly, exactly, right.</v>
+
+33:53.198 --> 33:57.990
+And then even using our edge devices.
+
+33:57.990 --> 34:00.090
+Jay just mentioned, there's some announcements from Nvidia.
+
+34:00.090 --> 34:01.830
+We have partnered with Nvidia now
+
+34:01.830 --> 34:05.760
+where we are embedding their GPUs inside our edge devices
+
+34:05.760 --> 34:08.520
+so that when an operator finds an issue,
+
+34:08.520 --> 34:12.240
+they can get their resolution capabilities right there
+
+34:12.240 --> 34:17.240
+without having any issues around security of the data.
+
+34:17.430 --> 34:18.810
+So that's one on the operator.
+
+34:18.810 --> 34:23.250
+The second piece is enabling the engineers,
+
+34:23.250 --> 34:27.240
+the programmers with the AI using copilots.
+
+34:27.240 --> 34:29.040
+We see tremendous advantage
+
+34:29.040 --> 34:33.450
+in trying to design the product, design the factory,
+
+34:33.450 --> 34:37.140
+designing the simulation, programming the robots.
+
+34:37.140 --> 34:40.380
+Close to 75% of the cost of a robot
+
+34:40.380 --> 34:41.760
+and the during the life of a robot
+
+34:41.760 --> 34:43.200
+is actually in programming.
+
+34:43.200 --> 34:48.090
+And if we can minimize that using copilot capabilities,
+
+34:48.090 --> 34:50.490
+we can help that significantly
+
+34:50.490 --> 34:55.350
+by driving more adoption of robots in the factories as well.
+
+34:55.350 --> 34:58.606
+So that's the second big application we see
+
+34:58.606 --> 35:03.093
+in the mass usage of copilots.
+
+35:04.066 --> 35:05.070
+And the third piece is actually
+
+35:05.070 --> 35:07.050
+on the production floor itself
+
+35:07.050 --> 35:09.243
+and actually using AI for production.
+
+35:10.500 --> 35:13.020
+And this is where visual capabilities at least
+
+35:13.020 --> 35:17.160
+are becoming more adaptive and useful today.
+
+35:17.160 --> 35:18.450
+Simple example I would give you,
+
+35:18.450 --> 35:21.360
+for example, trying to look at deformities
+
+35:21.360 --> 35:23.400
+on the paint of a car, right?
+
+35:23.400 --> 35:24.480
+It's not an easy thing,
+
+35:24.480 --> 35:28.110
+but using visual cameras to identify the issues
+
+35:28.110 --> 35:30.060
+and figure out where the issue is,
+
+35:30.060 --> 35:35.010
+what's the depth of the issue, the size of the issue,
+
+35:35.010 --> 35:38.250
+and then processing it to take it to the next level
+
+35:38.250 --> 35:39.600
+to actually fix the paint.
+
+35:39.600 --> 35:42.540
+And as you're trying to move that whole assembly line,
+
+35:42.540 --> 35:45.810
+moving it in the right space and at the right time.
+
+35:45.810 --> 35:47.670
+So those are some applications
+
+35:47.670 --> 35:52.350
+we are starting to adapt inside our factories.
+
+35:52.350 --> 35:54.780
+<v ->Yeah, real practical applications,</v>
+
+35:54.780 --> 35:58.803
+maybe the less sexy examples of where AI is being deployed.
+
+35:59.684 --> 36:02.700
+And, Andrew, you know, again, you're flying drones,
+
+36:02.700 --> 36:06.540
+you've got your ground-based robots for cleaning.
+
+36:06.540 --> 36:08.100
+AI, I assume, is a core part
+
+36:08.100 --> 36:12.033
+of what it's doing to navigate and complete its tasks.
+
+36:13.024 --> 36:14.490
+<v ->It's really fun living at the forefront</v>
+
+36:14.490 --> 36:18.210
+of trying to embody AI on a physical robot,
+
+36:18.210 --> 36:21.270
+'cause that's where the most opportunity is.
+
+36:21.270 --> 36:24.240
+And over the summer, we actually acquired an AI company
+
+36:24.240 --> 36:26.670
+and where we've seen the greatest benefits from AI
+
+36:26.670 --> 36:28.410
+just in the short run.
+
+36:28.410 --> 36:30.990
+One has been with our actual software development.
+
+36:30.990 --> 36:33.210
+Things, five years ago, we used a program,
+
+36:33.210 --> 36:35.250
+we're up to 20 times faster today
+
+36:35.250 --> 36:37.710
+just using AI tools and workflows.
+
+36:37.710 --> 36:39.660
+But we get most excited about, though,
+
+36:39.660 --> 36:43.800
+is truly getting agentic AI to work on our robots.
+
+36:43.800 --> 36:45.660
+And when I say that, that's allowing the robot
+
+36:45.660 --> 36:48.750
+the ability to perceive, reason, act, and learn.
+
+36:48.750 --> 36:50.130
+And to give an example,
+
+36:50.130 --> 36:52.500
+it's like having a coworker right next to you
+
+36:52.500 --> 36:54.840
+where you can communicate what needs to be done.
+
+36:54.840 --> 36:56.460
+They can take in their surroundings
+
+36:56.460 --> 36:58.957
+and use relevant sensors and data to understand,
+
+36:58.957 --> 37:00.990
+"Here are the actions I need to do."
+
+37:00.990 --> 37:02.400
+And as they're doing those actions,
+
+37:02.400 --> 37:04.200
+they continue to take your feedback,
+
+37:04.200 --> 37:06.150
+they continue to perceive and reason.
+
+37:06.150 --> 37:08.760
+And as they do it, they learn and refine.
+
+37:08.760 --> 37:10.080
+And starting that flywheel
+
+37:10.080 --> 37:13.020
+where every single time your robot operates,
+
+37:13.020 --> 37:14.640
+it's getting more intelligent,
+
+37:14.640 --> 37:17.970
+it's improving its autonomy, efficiency, effectiveness,
+
+37:17.970 --> 37:21.690
+that's the holy grail within this AI robotic space.
+
+37:21.690 --> 37:22.523
+<v ->Yeah.</v>
+
+37:23.524 --> 37:24.357
+Well, we're just about out of time,
+
+37:24.357 --> 37:28.740
+but I wanna ask Sally to give us a preview.
+
+37:28.740 --> 37:30.540
+Sally, you are responsible
+
+37:30.540 --> 37:35.220
+for the innovation, evaluation team at DHL.
+
+37:35.220 --> 37:36.690
+So you're continually looking
+
+37:36.690 --> 37:39.180
+at young entrepreneurial opportunities,
+
+37:39.180 --> 37:42.240
+companies like Jay, but for the warehousing space.
+
+37:42.240 --> 37:46.410
+So talk to us briefly about the program
+
+37:46.410 --> 37:48.360
+for folks that might be interested
+
+37:48.360 --> 37:51.720
+in, you know, getting involved in that
+
+37:51.720 --> 37:54.540
+and how you evaluate the capabilities
+
+37:54.540 --> 37:56.400
+of some of these systems you're deploying.
+
+37:56.400 --> 38:01.400
+<v ->Yeah, so we have a innovation funnel where we look at,</v>
+
+38:02.027 --> 38:03.870
+you know, I mentioned trends and supply chain,
+
+38:03.870 --> 38:07.110
+what will impact our business, make us more efficient.
+
+38:07.110 --> 38:09.090
+So it's targeted.
+
+38:09.090 --> 38:11.763
+We're not, you know, looking for,
+
+38:12.930 --> 38:17.070
+you know, things that are necessarily way far out.
+
+38:17.070 --> 38:20.193
+We're more use case-driven.
+
+38:21.660 --> 38:24.060
+You know, problems we're trying to solve
+
+38:24.060 --> 38:27.033
+and optimize in what we do every day.
+
+38:27.871 --> 38:31.210
+And working with a lot of startup companies like yourself
+
+38:32.790 --> 38:37.790
+to help roboticists, non-operational supply chain people
+
+38:39.120 --> 38:44.120
+develop their products so that we get an ROI.
+
+38:46.949 --> 38:49.349
+We're running a business. We have to make money.
+
+38:50.220 --> 38:53.730
+You know, you mentioned your Boston Dynamics Socks.
+
+38:53.730 --> 38:57.510
+It's a good example of, you know, the leader,
+
+38:57.510 --> 38:59.373
+I would say, in robotics.
+
+39:00.450 --> 39:03.840
+Worked with them on developing the stretch product
+
+39:03.840 --> 39:06.540
+which unloads cartons from a trailer
+
+39:06.540 --> 39:09.660
+and will have more specific use cases
+
+39:09.660 --> 39:13.470
+to be able to do other case movements within the warehouse.
+
+39:13.470 --> 39:16.770
+So working alongside companies
+
+39:16.770 --> 39:19.680
+that have the robotics expertise,
+
+39:19.680 --> 39:22.620
+we bring the operational expertise.
+
+39:22.620 --> 39:25.020
+And we're interested in things
+
+39:25.020 --> 39:27.360
+that can scale across our operations.
+
+39:27.360 --> 39:30.150
+There are a lot of niche solutions,
+
+39:30.150 --> 39:32.700
+but, you know, assisted picking,
+
+39:32.700 --> 39:36.488
+we do each picking in a lot of facilities.
+
+39:36.488 --> 39:40.230
+So the ability, you know, to scale up
+
+39:40.230 --> 39:42.300
+gives us the best benefit.
+
+39:42.300 --> 39:46.680
+And we've got over 7,500 bots deployed globally
+
+39:46.680 --> 39:51.680
+and are always looking for solutions in our use case,
+
+39:52.710 --> 39:54.393
+you know, that fit our use case.
+
+39:55.890 --> 39:59.707
+<v ->Great. Well, we are right on time, so.</v>
+
+39:59.707 --> 40:01.260
+<v Sally>Yeah, I saw the countdown-</v>
+
+40:01.260 --> 40:03.300
+<v ->Yeah, so I wanna thank you guys</v>
+
+40:03.300 --> 40:05.818
+for the great conversation.
+
+40:05.818 --> 40:08.520
+I think you guys can hang out for a few minutes here.
+
+40:08.520 --> 40:11.853
+So if you wanna reach out to any of the folks on stage,
+
+40:13.080 --> 40:14.520
+catch them over here on the side.
+
+40:14.520 --> 40:16.830
+But, again, thanks for your time today.
+
+40:16.830 --> 40:18.655
+Thank you, guys.
+
+40:18.655 --> 40:21.120
+And, again, download the episode
+
+40:21.120 --> 40:23.919
+of "The Robot Report Podcast" for your flight home.
+
+40:23.919 --> 40:26.430
+And thank you for your time today.
+
+40:26.430 --> 40:27.671
+<v ->Thank you.</v>
+<v Rahul>Thank you.</v>
+
+40:27.671 --> 40:29.393
+(audience applauding)
+
+40:29.393 --> 40:31.976
+(lively music)
+

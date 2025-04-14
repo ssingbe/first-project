@@ -1,0 +1,4868 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.468 --> 00:03.051
+(upbeat music)
+
+2
+00:10.740 --> 00:11.640
+<v ->I guess, I wanna start</v>
+
+3
+00:11.640 --> 00:15.630
+with how many of you out there have a wearable?
+
+4
+00:15.630 --> 00:17.100
+Are wearing a wearable right now?
+
+5
+00:17.100 --> 00:18.690
+Could you raise your hands?
+
+6
+00:18.690 --> 00:19.863
+That's to be expected.
+
+7
+00:21.060 --> 00:22.710
+I think what we're seeing is that wearables
+
+8
+00:22.710 --> 00:24.840
+are an increasingly important part
+
+9
+00:24.840 --> 00:26.440
+of the digital health landscape.
+
+10
+00:27.720 --> 00:29.400
+And being at CES,
+
+11
+00:29.400 --> 00:30.750
+we're talking about consumer health,
+
+12
+00:30.750 --> 00:33.990
+specifically consumer-focused wearables.
+
+13
+00:33.990 --> 00:35.730
+But where I come from
+
+14
+00:35.730 --> 00:37.593
+and I work for health leaders,
+
+15
+00:39.060 --> 00:43.080
+sorry, I look for that connection
+
+16
+00:43.080 --> 00:44.970
+between the consumer
+
+17
+00:44.970 --> 00:47.277
+and the healthcare provider, the health system,
+
+18
+00:47.277 --> 00:48.660
+and the hospital executive,
+
+19
+00:48.660 --> 00:50.040
+and the doctor and the nurse.
+
+20
+00:50.040 --> 00:51.510
+So the conversation here today
+
+21
+00:51.510 --> 00:54.810
+is going to kind of branch into that territory.
+
+22
+00:54.810 --> 00:55.643
+We're gonna start,
+
+23
+00:55.643 --> 00:58.650
+and I'm gonna allow my wonderful panelists
+
+24
+00:58.650 --> 00:59.970
+here to introduce themselves
+
+25
+00:59.970 --> 01:03.270
+and talk a little bit about the wearables
+
+26
+01:03.270 --> 01:04.320
+that they have.
+
+27
+01:04.320 --> 01:06.930
+And then we're gonna talk about perhaps
+
+28
+01:06.930 --> 01:10.560
+how this area of digital health,
+
+29
+01:10.560 --> 01:13.020
+how these wearables might be introduced
+
+30
+01:13.020 --> 01:14.400
+in remote patient monitoring
+
+31
+01:14.400 --> 01:15.960
+or hospital home or some of the other
+
+32
+01:15.960 --> 01:19.110
+programs that we're seeing as healthcare
+
+33
+01:19.110 --> 01:20.190
+moves out of the hospital
+
+34
+01:20.190 --> 01:22.260
+and the doctor's office and more into the home.
+
+35
+01:22.260 --> 01:24.363
+So what I want to do is just start,
+
+36
+01:25.440 --> 01:27.120
+my first question is gonna be to allow
+
+37
+01:27.120 --> 01:28.800
+yourselves to talk a little bit
+
+38
+01:28.800 --> 01:29.910
+about your company's
+
+39
+01:29.910 --> 01:31.020
+and your wearables,
+
+40
+01:31.020 --> 01:32.160
+and tell me a little bit about
+
+41
+01:32.160 --> 01:35.763
+how you see the wearable market evolving.
+
+42
+01:37.410 --> 01:38.760
+So let's start on this end.
+
+43
+01:39.930 --> 01:41.010
+<v ->Good morning, everyone.</v>
+
+44
+01:41.010 --> 01:43.800
+First of all, thanks to folks here at CES
+
+45
+01:43.800 --> 01:45.300
+for organizing a digital health track.
+
+46
+01:45.300 --> 01:46.890
+I was excited to see the digital health track
+
+47
+01:46.890 --> 01:48.420
+and all the great conversations
+
+48
+01:48.420 --> 01:49.680
+that have been going on.
+
+49
+01:49.680 --> 01:51.240
+My name is Praveen Raja.
+
+50
+01:51.240 --> 01:53.340
+I lead digital health R&amp;D
+
+51
+01:53.340 --> 01:55.743
+at Samsung Research Center in the U.S.
+
+52
+01:56.850 --> 01:59.190
+Our company, as you know, manufacturers
+
+53
+01:59.190 --> 02:01.530
+and delivers a whole bunch of wearables
+
+54
+02:01.530 --> 02:03.090
+and services associated with them.
+
+55
+02:03.090 --> 02:06.540
+Smart rings, we have obviously our phones,
+
+56
+02:06.540 --> 02:08.610
+we have our smart watches
+
+57
+02:08.610 --> 02:11.040
+and a whole bunch of devices at home
+
+58
+02:11.040 --> 02:13.950
+that you don't think of as health devices.
+
+59
+02:13.950 --> 02:15.480
+But these are very important things,
+
+60
+02:15.480 --> 02:17.070
+like even our refrigerator
+
+61
+02:17.070 --> 02:19.530
+and our TVs are increasingly health devices
+
+62
+02:19.530 --> 02:21.510
+and they provide a lot in terms
+
+63
+02:21.510 --> 02:23.220
+of helping people stay healthy
+
+64
+02:23.220 --> 02:25.890
+and eat the right foods, exercise,
+
+65
+02:25.890 --> 02:29.520
+and live a stress-free life with wellbeing.
+
+66
+02:29.520 --> 02:32.280
+So our team develops all the features
+
+67
+02:32.280 --> 02:35.373
+and devices for Samsung products.
+
+68
+02:36.630 --> 02:38.010
+<v ->Hi, I am Alexi Coffey.</v>
+
+69
+02:38.010 --> 02:39.510
+I'm the VP of product at WHOOP.
+
+70
+02:39.510 --> 02:41.670
+We are the human performance
+
+71
+02:41.670 --> 02:44.910
+and health company that has a wearable
+
+72
+02:44.910 --> 02:46.440
+health and fitness coach that helps people
+
+73
+02:46.440 --> 02:48.150
+reach their goals.
+
+74
+02:48.150 --> 02:49.890
+Super excited to be in this conversation today.
+
+75
+02:49.890 --> 02:50.723
+Thank you so much.
+
+76
+02:50.723 --> 02:52.080
+I think it's a really exciting time
+
+77
+02:52.080 --> 02:54.750
+to be talking about wearables and health.
+
+78
+02:54.750 --> 02:57.270
+At WHOOP, I lead our product innovation
+
+79
+02:57.270 --> 03:00.720
+and have brought features like stress monitor,
+
+80
+03:00.720 --> 03:02.400
+pregnancy insights, our AI coach
+
+81
+03:02.400 --> 03:03.810
+into the forefront.
+
+82
+03:03.810 --> 03:06.000
+And I think there's this amazing shift
+
+83
+03:06.000 --> 03:07.650
+that's happening in consumer health today
+
+84
+03:07.650 --> 03:09.090
+where people really wanna understand
+
+85
+03:09.090 --> 03:11.460
+their bodies, they really value this daily
+
+86
+03:11.460 --> 03:14.940
+relationship, this daily data loop that they get.
+
+87
+03:14.940 --> 03:17.430
+And I think that we're seeing this moment
+
+88
+03:17.430 --> 03:19.080
+where there's an increased conversation
+
+89
+03:19.080 --> 03:21.120
+of how can we collaborate across wearables,
+
+90
+03:21.120 --> 03:23.130
+across healthcare to ultimately
+
+91
+03:23.130 --> 03:25.260
+deliver better health outcomes
+
+92
+03:25.260 --> 03:26.880
+for the consumer, for the member.
+
+93
+03:26.880 --> 03:28.830
+And so it's just an exciting time
+
+94
+03:28.830 --> 03:31.230
+and grateful to be in conversation with you all.
+
+95
+03:32.910 --> 03:33.743
+<v ->Good morning, everyone.</v>
+
+96
+03:33.743 --> 03:36.150
+My name is Scott Burgett, I'm from Garmin.
+
+97
+03:36.150 --> 03:38.610
+I lead our Garmin health engineering team
+
+98
+03:38.610 --> 03:43.410
+as well as drive our biosensor roadmap worldwide.
+
+99
+03:43.410 --> 03:45.990
+So if it's on the bottom of the watch
+
+100
+03:45.990 --> 03:48.240
+as a biosensor, that's a roadmap that I manage.
+
+101
+03:48.240 --> 03:51.420
+So I'm very, very in great depth
+
+102
+03:51.420 --> 03:53.490
+involved in not only the sensors,
+
+103
+03:53.490 --> 03:55.500
+but the applications of all the biosensor
+
+104
+03:55.500 --> 03:57.120
+data and the watches.
+
+105
+03:57.120 --> 03:58.620
+I'm sure you're familiar with Garmin.
+
+106
+03:58.620 --> 04:02.280
+We make wearable devices that go from
+
+107
+04:02.280 --> 04:05.100
+low-cost to very expensive,
+
+108
+04:05.100 --> 04:08.430
+and we are really passionate about making
+
+109
+04:08.430 --> 04:10.170
+a wearable that people wanna wear,
+
+110
+04:10.170 --> 04:13.410
+it's essential and provides the best data.
+
+111
+04:13.410 --> 04:15.630
+And I agree this is a great time
+
+112
+04:15.630 --> 04:17.048
+for digital health,
+
+113
+04:17.048 --> 04:19.500
+we are really at the point
+
+114
+04:19.500 --> 04:21.420
+where the adoption is going to go up
+
+115
+04:21.420 --> 04:24.840
+and we really see a lot of opportunity
+
+116
+04:24.840 --> 04:28.260
+in the use of wearable data in many ways,
+
+117
+04:28.260 --> 04:30.750
+many applications, certainly in terms
+
+118
+04:30.750 --> 04:33.420
+of remote patient monitoring,
+
+119
+04:33.420 --> 04:35.490
+population health, things like that.
+
+120
+04:35.490 --> 04:38.130
+So I'm really excited to be here
+
+121
+04:38.130 --> 04:39.990
+and thank you for having me
+
+122
+04:39.990 --> 04:41.590
+and looking forward to chatting.
+
+123
+04:42.510 --> 04:43.814
+<v ->Thank you.</v>
+
+124
+04:43.814 --> 04:45.330
+So I'm Olivier, Olivier Ropars.
+
+125
+04:45.330 --> 04:47.070
+I lead a consumer
+
+126
+04:47.070 --> 04:49.830
+bio wearable division for Abbot.
+
+127
+04:49.830 --> 04:51.240
+And so this is a new division
+
+128
+04:51.240 --> 04:53.250
+that Abbot created a few years ago.
+
+129
+04:53.250 --> 04:56.370
+And the whole idea was to bring medical grade
+
+130
+04:56.370 --> 04:59.100
+technology invented within Abbot
+
+131
+04:59.100 --> 05:00.210
+to the consumer space
+
+132
+05:00.210 --> 05:01.470
+and putting this technology straight
+
+133
+05:01.470 --> 05:03.180
+into the hands of consumers.
+
+134
+05:03.180 --> 05:05.850
+And the strong belief here is the technology,
+
+135
+05:05.850 --> 05:06.810
+especially with AI,
+
+136
+05:06.810 --> 05:09.030
+and we'll talk about AI in a minute,
+
+137
+05:09.030 --> 05:11.790
+is ready to help people
+
+138
+05:11.790 --> 05:13.260
+really take care of their health
+
+139
+05:13.260 --> 05:14.460
+and be much more proactive
+
+140
+05:14.460 --> 05:16.200
+on how they manage their health.
+
+141
+05:16.200 --> 05:19.080
+So we launched our first product last year
+
+142
+05:19.080 --> 05:21.360
+in 2024 in the UK and the U.S.,
+
+143
+05:21.360 --> 05:23.910
+it's a continuous glucose monitor
+
+144
+05:23.910 --> 05:25.350
+dedicated to the consumer.
+
+145
+05:25.350 --> 05:26.850
+Consumers can buy it anywhere,
+
+146
+05:26.850 --> 05:28.650
+no need for a prescription.
+
+147
+05:28.650 --> 05:31.710
+And we focus on glucose as a first product
+
+148
+05:31.710 --> 05:33.690
+for us because glucose is probably
+
+149
+05:33.690 --> 05:37.500
+the most important biomarker of metabolic health
+
+150
+05:37.500 --> 05:40.440
+and also poor glucose control has been associated
+
+151
+05:40.440 --> 05:43.680
+to the prominence of most chronic diseases.
+
+152
+05:43.680 --> 05:44.700
+So we believe that putting
+
+153
+05:44.700 --> 05:46.980
+this tool in people's hands,
+
+154
+05:46.980 --> 05:48.630
+they can improve their glucose management
+
+155
+05:48.630 --> 05:51.090
+and avoid chronic disease, which is really
+
+156
+05:51.090 --> 05:52.080
+what we're all about here,
+
+157
+05:52.080 --> 05:53.980
+is keeping people healthy much longer.
+
+158
+05:55.350 --> 05:56.902
+<v ->Thank you.</v>
+
+159
+05:56.902 --> 05:59.700
+Okay, we talk a lot about patient
+
+160
+05:59.700 --> 06:04.080
+care management, the empowered consumer,
+
+161
+06:04.080 --> 06:07.110
+the idea that these devices, these wearables
+
+162
+06:07.110 --> 06:09.873
+are used by consumers to manage their own health.
+
+163
+06:10.730 --> 06:12.180
+Now we had settled on some questions
+
+164
+06:12.180 --> 06:13.350
+ahead of time, I'm gonna jump
+
+165
+06:13.350 --> 06:15.660
+around a little bit just to kind
+
+166
+06:15.660 --> 06:17.730
+of spice things up a little bit,
+
+167
+06:17.730 --> 06:21.090
+but I do want to get into the idea
+
+168
+06:21.090 --> 06:23.460
+that as you had mentioned,
+
+169
+06:23.460 --> 06:26.400
+collaboration between care providers
+
+170
+06:26.400 --> 06:29.730
+and consumers on using these types of devices
+
+171
+06:29.730 --> 06:30.563
+on their health.
+
+172
+06:30.563 --> 06:32.550
+So I'm gonna go down to you Olivier with this one
+
+173
+06:32.550 --> 06:34.500
+and just kind of continue the conversation
+
+174
+06:34.500 --> 06:35.970
+or what you had just said.
+
+175
+06:35.970 --> 06:40.290
+How do you get healthcare providers
+
+176
+06:40.290 --> 06:42.240
+to pay more attention to wearables,
+
+177
+06:42.240 --> 06:44.557
+to become interested or to want to use
+
+178
+06:44.557 --> 06:47.730
+wearables in remote patient monitoring
+
+179
+06:47.730 --> 06:51.690
+programs or other clinical programs?
+
+180
+06:51.690 --> 06:53.400
+<v ->Yeah, so I mean, first,</v>
+
+181
+06:53.400 --> 06:55.380
+I always say like most of our customers
+
+182
+06:55.380 --> 06:57.180
+have bought the product directly
+
+183
+06:57.180 --> 06:58.860
+and are using it on their own.
+
+184
+06:58.860 --> 07:00.270
+The whole design of the product
+
+185
+07:00.270 --> 07:01.440
+made it very easy for people
+
+186
+07:01.440 --> 07:03.540
+to understand the data, the insights,
+
+187
+07:03.540 --> 07:04.710
+and take actions on it.
+
+188
+07:04.710 --> 07:06.870
+So this is a self-contained product
+
+189
+07:06.870 --> 07:08.400
+dedicated for the user only.
+
+190
+07:08.400 --> 07:12.120
+However, while working with also primary care
+
+191
+07:12.120 --> 07:14.730
+physicians and nutritionists in the UK
+
+192
+07:14.730 --> 07:15.840
+and in the U.S. as well,
+
+193
+07:15.840 --> 07:18.240
+and we see a lot of value in this
+
+194
+07:18.240 --> 07:19.590
+and they see a lot of benefits in working
+
+195
+07:19.590 --> 07:20.550
+with a sensor.
+
+196
+07:20.550 --> 07:22.470
+So I'll give you two examples.
+
+197
+07:22.470 --> 07:25.353
+So on the physician side, what we see is,
+
+198
+07:26.190 --> 07:28.290
+it saves them a lot of time
+
+199
+07:28.290 --> 07:29.790
+and improve the quality of care.
+
+200
+07:29.790 --> 07:33.150
+So number one, for patients who have any
+
+201
+07:33.150 --> 07:35.520
+kind of anxieties or concerns
+
+202
+07:35.520 --> 07:37.290
+about their glucose level,
+
+203
+07:37.290 --> 07:40.020
+weight management, incidents of diabetes
+
+204
+07:40.020 --> 07:41.460
+or pre-diabetes in their family,
+
+205
+07:41.460 --> 07:42.840
+and they're concerned about, you know,
+
+206
+07:42.840 --> 07:44.670
+maybe it could happen to them as well.
+
+207
+07:44.670 --> 07:47.910
+The doctor will direct them to a lingo center.
+
+208
+07:47.910 --> 07:49.350
+And what it does is already
+
+209
+07:49.350 --> 07:52.350
+all the concerns about meal planning,
+
+210
+07:52.350 --> 07:53.910
+nutrition, what should I eat,
+
+211
+07:53.910 --> 07:55.473
+what is good nutrition for me,
+
+212
+07:56.451 --> 07:57.600
+what I should do differently in the evening
+
+213
+07:57.600 --> 07:58.800
+versus the morning and so forth.
+
+214
+07:58.800 --> 08:00.630
+All of this is taken care by the application.
+
+215
+08:00.630 --> 08:02.520
+So it simplifies
+
+216
+08:02.520 --> 08:05.010
+the interaction with a physician.
+
+217
+08:05.010 --> 08:08.460
+On top of that, now the main interaction
+
+218
+08:08.460 --> 08:09.870
+you have with the physician is only
+
+219
+08:09.870 --> 08:11.850
+for critical medical matters.
+
+220
+08:11.850 --> 08:12.780
+So it saves time
+
+221
+08:12.780 --> 08:14.250
+and in 15 minutes, physicians
+
+222
+08:14.250 --> 08:15.630
+don't have time to answer this question.
+
+223
+08:15.630 --> 08:18.480
+So it's a time-saving for the physicians.
+
+224
+08:18.480 --> 08:19.770
+For nutritionist,
+
+225
+08:19.770 --> 08:21.450
+what we've seen is they've embedded
+
+226
+08:21.450 --> 08:24.090
+a sensor in their treatment plan.
+
+227
+08:24.090 --> 08:26.670
+So they use a sensor to establish a baseline,
+
+228
+08:26.670 --> 08:28.650
+a data-driven baseline,
+
+229
+08:28.650 --> 08:30.960
+and then they also use a data
+
+230
+08:30.960 --> 08:32.220
+to demonstrate the value
+
+231
+08:32.220 --> 08:34.380
+of their recommendations, which drive
+
+232
+08:34.380 --> 08:36.630
+therefore adherence to the plan
+
+233
+08:36.630 --> 08:39.030
+and better patient outcome ultimately.
+
+234
+08:39.030 --> 08:41.070
+So both population, nutritionists
+
+235
+08:41.070 --> 08:42.930
+and physicians, I've seen a better patient
+
+236
+08:42.930 --> 08:45.390
+outcome by working with a sensor
+
+237
+08:45.390 --> 08:47.820
+like a glucose monitor that we have.
+
+238
+08:47.820 --> 08:49.500
+So we didn't really know
+
+239
+08:49.500 --> 08:51.780
+how the healthcare professional will react
+
+240
+08:51.780 --> 08:53.550
+when we put this product straight
+
+241
+08:53.550 --> 08:54.900
+into the hand of the consumers,
+
+242
+08:54.900 --> 08:56.370
+but in fact, they've embraced it
+
+243
+08:56.370 --> 08:57.450
+and we see them promoting it
+
+244
+08:57.450 --> 09:00.277
+to their patients quite frequently, in fact.
+
+245
+09:00.277 --> 09:02.100
+<v Eric>Okay.</v>
+
+246
+09:02.100 --> 09:02.933
+<v ->I just wanna jump in</v>
+
+247
+09:02.933 --> 09:04.260
+and add just a little bit to what you said,
+
+248
+09:04.260 --> 09:06.480
+Olivier, I feel like we are thinking
+
+249
+09:06.480 --> 09:08.700
+about the world in two different ways.
+
+250
+09:08.700 --> 09:09.990
+We're saying there's a healthcare segment
+
+251
+09:09.990 --> 09:11.250
+and a consumer segment.
+<v Olivier>Yes.</v>
+
+252
+09:11.250 --> 09:12.600
+<v ->I'm not sure there's such a distinction</v>
+
+253
+09:12.600 --> 09:14.340
+and I think the distinction is eroding
+
+254
+09:14.340 --> 09:15.630
+and I think Abbott Lingo is an example
+
+255
+09:15.630 --> 09:17.460
+of that, as you're saying.
+
+256
+09:17.460 --> 09:19.610
+I think we demonstrated here, you know,
+
+257
+09:19.610 --> 09:20.970
+in our booths, there are two booths here,
+
+258
+09:20.970 --> 09:23.143
+Samsung main booth and a booth with an ARP,
+
+259
+09:23.143 --> 09:25.140
+a concept that we call, CareHub,
+
+260
+09:25.140 --> 09:26.130
+where we're showing how these
+
+261
+09:26.130 --> 09:28.020
+two worlds are coming together.
+
+262
+09:28.020 --> 09:30.600
+So for example, as a consumer,
+
+263
+09:30.600 --> 09:32.670
+you don't have two different worlds.
+
+264
+09:32.670 --> 09:34.380
+You're only trying to manage your health
+
+265
+09:34.380 --> 09:36.390
+and your wellbeing and meet your health goals.
+
+266
+09:36.390 --> 09:37.920
+Sometimes, you do that on your own,
+
+267
+09:37.920 --> 09:39.720
+sometimes, you do that with your doctor
+
+268
+09:39.720 --> 09:41.910
+and usually both these worlds are together,
+
+269
+09:41.910 --> 09:44.040
+right, so that's what we are enabling.
+
+270
+09:44.040 --> 09:46.500
+So increasingly, there's a trend
+
+271
+09:46.500 --> 09:48.390
+for these two worlds to combine,
+
+272
+09:48.390 --> 09:51.150
+for example, the data that you see
+
+273
+09:51.150 --> 09:53.010
+within wearable data that you see
+
+274
+09:53.010 --> 09:55.530
+on your smartphones from your wearables
+
+275
+09:55.530 --> 09:57.270
+can now easily go to your doctor.
+
+276
+09:57.270 --> 09:58.770
+And the other way around as well,
+
+277
+09:58.770 --> 10:00.390
+we launched a few months ago,
+
+278
+10:00.390 --> 10:02.580
+a way in which you can get your medical records
+
+279
+10:02.580 --> 10:04.590
+from your doctor, all your health records
+
+280
+10:04.590 --> 10:06.195
+directly into Samsung Health.
+
+281
+10:06.195 --> 10:07.530
+So you can see in one place
+
+282
+10:07.530 --> 10:09.270
+both your Samsung Health data
+
+283
+10:09.270 --> 10:11.460
+as well as, your data from your doctor.
+
+284
+10:11.460 --> 10:12.990
+It's not just seeing data either,
+
+285
+10:12.990 --> 10:14.700
+it's really about getting better.
+
+286
+10:14.700 --> 10:16.447
+So for example, if a doctor said,
+
+287
+10:16.447 --> 10:18.120
+"Hey, I want you to take this medication
+
+288
+10:18.120 --> 10:21.300
+three times a day for six weeks
+
+289
+10:21.300 --> 10:23.490
+or eight weeks or a year,"
+
+290
+10:23.490 --> 10:25.230
+you need some way to manage that.
+
+291
+10:25.230 --> 10:27.600
+Your doctor's not with you all the time.
+
+292
+10:27.600 --> 10:29.227
+So we have tools now to say,
+
+293
+10:29.227 --> 10:32.310
+"Okay, here's what your doctor wanted you to do,
+
+294
+10:32.310 --> 10:34.290
+you can list those medications in one place
+
+295
+10:34.290 --> 10:35.640
+from your medical records,
+
+296
+10:35.640 --> 10:37.530
+we know what your medications are,
+
+297
+10:37.530 --> 10:39.030
+we know when you need to take them.
+
+298
+10:39.030 --> 10:40.440
+We will help you stay on track
+
+299
+10:40.440 --> 10:41.370
+and get better."
+
+300
+10:41.370 --> 10:43.050
+So that's how the two worlds,
+
+301
+10:43.050 --> 10:44.310
+I think are coming together.
+
+302
+10:44.310 --> 10:46.590
+And in the CareHub concept we talked about,
+
+303
+10:46.590 --> 10:47.700
+if there's a flag,
+
+304
+10:47.700 --> 10:49.500
+if there's some risks that we detect,
+
+305
+10:49.500 --> 10:50.580
+let's say, we detect a risk
+
+306
+10:50.580 --> 10:52.430
+for sleep apnea from our wearables,
+
+307
+10:52.430 --> 10:54.810
+or we notice the irregular heart rhythm,
+
+308
+10:54.810 --> 10:56.730
+you can simply click a button,
+
+309
+10:56.730 --> 10:59.670
+connect to a caregiver, your healthcare provider
+
+310
+10:59.670 --> 11:00.750
+or some other healthcare provider
+
+311
+11:00.750 --> 11:02.400
+and say, "Hey, what's going on with me?
+
+312
+11:02.400 --> 11:03.480
+Can you help me?"
+
+313
+11:03.480 --> 11:05.130
+So we are seeing these two worlds coming
+
+314
+11:05.130 --> 11:06.120
+together in that way in terms
+
+315
+11:06.120 --> 11:07.800
+of a whole suite of services,
+
+316
+11:07.800 --> 11:09.240
+integration of data,
+
+317
+11:09.240 --> 11:10.560
+understanding what may be happening
+
+318
+11:10.560 --> 11:13.110
+with you, following your doctor's recommendations,
+
+319
+11:13.110 --> 11:14.280
+getting help when you need it.
+
+320
+11:14.280 --> 11:16.290
+I think it's a exciting period.
+
+321
+11:16.290 --> 11:17.123
+<v ->Yeah.</v>
+
+322
+11:17.123 --> 11:18.303
+Now Scott and Alexi,
+
+323
+11:19.470 --> 11:20.550
+a lot of these devices,
+
+324
+11:20.550 --> 11:22.290
+a lot of these wearables are focused
+
+325
+11:22.290 --> 11:25.334
+on the health and the fitness industry,
+
+326
+11:25.334 --> 11:26.167
+the health and fitness uses,
+
+327
+11:26.167 --> 11:27.180
+health and wellness.
+
+328
+11:27.180 --> 11:29.560
+How do you move from or how do you
+
+329
+11:30.870 --> 11:32.250
+pitch these types of wearables
+
+330
+11:32.250 --> 11:33.360
+to clinicians who are looking
+
+331
+11:33.360 --> 11:35.373
+for clinical outcomes?
+
+332
+11:36.540 --> 11:37.590
+<v ->Go ahead.</v>
+
+333
+11:37.590 --> 11:39.450
+<v ->Well, I think what we're finding, right,</v>
+
+334
+11:39.450 --> 11:41.310
+is that so much of health comes
+
+335
+11:41.310 --> 11:42.930
+from the daily choices we make every day.
+
+336
+11:42.930 --> 11:44.640
+And so you can't look at health
+
+337
+11:44.640 --> 11:46.170
+and healthcare if you're not looking at sleep,
+
+338
+11:46.170 --> 11:47.520
+if you're not looking at fitness,
+
+339
+11:47.520 --> 11:49.350
+if you're not looking at managing stress
+
+340
+11:49.350 --> 11:51.000
+and understanding, you know, the daily choices,
+
+341
+11:51.000 --> 11:52.530
+how much alcohol you're consuming, et cetera,
+
+342
+11:52.530 --> 11:53.363
+impact your wellbeing.
+
+343
+11:53.363 --> 11:55.590
+And so I think people are realizing
+
+344
+11:55.590 --> 11:56.730
+that when we are looking at driving
+
+345
+11:56.730 --> 11:58.620
+behavior change, which is something
+
+346
+11:58.620 --> 12:00.330
+that we haven't really figured out yet,
+
+347
+12:00.330 --> 12:02.700
+50% of premature deaths are coming
+
+348
+12:02.700 --> 12:04.410
+or linked to modifiable behaviors
+
+349
+12:04.410 --> 12:05.310
+like improved sleep,
+
+350
+12:05.310 --> 12:07.080
+improved exercise, reduced stress.
+
+351
+12:07.080 --> 12:10.080
+And so I think wearables with this daily loop,
+
+352
+12:10.080 --> 12:12.030
+this relationship we have with our members,
+
+353
+12:12.030 --> 12:13.650
+people that wear WHOOP, they wake up
+
+354
+12:13.650 --> 12:15.030
+with WHOOP, they go to sleep with WHOOP.
+
+355
+12:15.030 --> 12:15.863
+And we're playing this really
+
+356
+12:15.863 --> 12:17.250
+important role in their lives to help them
+
+357
+12:17.250 --> 12:18.870
+stay accountable because it's really hard
+
+358
+12:18.870 --> 12:20.730
+to drive behavior change.
+
+359
+12:20.730 --> 12:22.650
+Like we might be motivated humans,
+
+360
+12:22.650 --> 12:24.450
+but we have a lot of things we're trying to do.
+
+361
+12:24.450 --> 12:26.640
+And so it's hard to keep health top of mind.
+
+362
+12:26.640 --> 12:28.260
+And so you might have people that are,
+
+363
+12:28.260 --> 12:30.180
+for example, going to their doctor's office
+
+364
+12:30.180 --> 12:31.320
+and they're finding out that they
+
+365
+12:31.320 --> 12:32.370
+have high cholesterol
+
+366
+12:32.370 --> 12:35.400
+or they have some other concerning result
+
+367
+12:35.400 --> 12:36.233
+and they're being told,
+
+368
+12:36.233 --> 12:38.460
+"Hey, go improve these things."
+
+369
+12:38.460 --> 12:40.200
+Well, the moment they leave,
+
+370
+12:40.200 --> 12:41.670
+where are they going for support?
+
+371
+12:41.670 --> 12:43.410
+And so I think what we're finding
+
+372
+12:43.410 --> 12:44.790
+is that people are using WHOOP
+
+373
+12:44.790 --> 12:46.800
+and other wearables to drive that behavior
+
+374
+12:46.800 --> 12:47.790
+change and then they're going back
+
+375
+12:47.790 --> 12:48.997
+to their doctor and they're saying,
+
+376
+12:48.997 --> 12:49.860
+"Wow, you've made a
+
+377
+12:49.860 --> 12:50.693
+lot of progress in this time."
+
+378
+12:50.693 --> 12:52.260
+And so I think in the future,
+
+379
+12:52.260 --> 12:53.670
+we need to see a lot more collaboration
+
+380
+12:53.670 --> 12:55.410
+so that that's such a seamless experience
+
+381
+12:55.410 --> 12:56.460
+for the end consumer.
+
+382
+12:57.330 --> 13:00.600
+<v ->Yeah, Alexi, I totally agree with that.</v>
+
+383
+13:00.600 --> 13:02.760
+It's really interesting because
+
+384
+13:02.760 --> 13:05.640
+I believe traditional medicine was episodic.
+
+385
+13:05.640 --> 13:06.600
+You went to the doctor,
+
+386
+13:06.600 --> 13:08.127
+you got your blood pressure,
+
+387
+13:08.127 --> 13:09.030
+you know, you had a blood draw
+
+388
+13:09.030 --> 13:11.460
+and you got, you know, a lipid profile.
+
+389
+13:11.460 --> 13:14.244
+Wearables create mountains of data
+
+390
+13:14.244 --> 13:16.800
+all day, every day.
+
+391
+13:16.800 --> 13:18.840
+Now what do you do with that?
+
+392
+13:18.840 --> 13:23.430
+So, you know, we create lots of metrics,
+
+393
+13:23.430 --> 13:26.400
+body battery, stress, we measure your sleep
+
+394
+13:26.400 --> 13:29.550
+that you can use yourself to, you know,
+
+395
+13:29.550 --> 13:30.780
+keep track of your behavior
+
+396
+13:30.780 --> 13:32.550
+and your wellness state.
+
+397
+13:32.550 --> 13:34.140
+But I think the challenge
+
+398
+13:34.140 --> 13:36.330
+that we're at right now is what does
+
+399
+13:36.330 --> 13:38.460
+the clinician do with this mountain of data?
+
+400
+13:38.460 --> 13:41.070
+You show up at your doctor's office
+
+401
+13:41.070 --> 13:43.020
+and say, "Here's the last six months
+
+402
+13:43.020 --> 13:45.600
+of my stress data."
+
+403
+13:45.600 --> 13:47.670
+They don't know what to do with that, right?
+
+404
+13:47.670 --> 13:52.670
+So the intersection of the wearable data
+
+405
+13:52.920 --> 13:55.320
+and the clinician is still evolving
+
+406
+13:55.320 --> 13:57.930
+right now because I've seen it both ways.
+
+407
+13:57.930 --> 13:59.767
+I've talked to doctors who are like,
+
+408
+13:59.767 --> 14:01.020
+"I don't care what that says,
+
+409
+14:01.020 --> 14:02.670
+it's not a medical device, you know,
+
+410
+14:02.670 --> 14:04.440
+it doesn't have a 510(k)."
+
+411
+14:04.440 --> 14:06.840
+And I've gone to doctors
+
+412
+14:06.840 --> 14:08.670
+and showed them an ECG strip
+
+413
+14:08.670 --> 14:10.020
+from a Garmin wearable,
+
+414
+14:10.020 --> 14:11.760
+and they immediately read it
+
+415
+14:11.760 --> 14:13.680
+and said, "Yep, this is premature atrial
+
+416
+14:13.680 --> 14:15.450
+contractions, this is AFib."
+
+417
+14:15.450 --> 14:17.280
+I've seen both sides.
+
+418
+14:17.280 --> 14:20.493
+And so I think the challenge here is,
+
+419
+14:22.170 --> 14:25.290
+you know, Alexi mentioned that people adhere,
+
+420
+14:25.290 --> 14:26.400
+they wear these devices
+
+421
+14:26.400 --> 14:28.413
+because they see such great benefit,
+
+422
+14:29.640 --> 14:31.470
+so they're modifying their own behavior,
+
+423
+14:31.470 --> 14:34.080
+but when they get to the doctor,
+
+424
+14:34.080 --> 14:35.520
+I think there's still something that needs
+
+425
+14:35.520 --> 14:38.370
+to be done to process this data,
+
+426
+14:38.370 --> 14:40.860
+create something that's easily digestible
+
+427
+14:40.860 --> 14:42.270
+for a clinician to look at
+
+428
+14:42.270 --> 14:46.320
+and give them give you insights about,
+
+429
+14:46.320 --> 14:48.930
+okay, here's some ideas about how to improve.
+
+430
+14:48.930 --> 14:52.260
+So it's really an interesting thing
+
+431
+14:52.260 --> 14:54.600
+and as Praveen said, giving that data
+
+432
+14:54.600 --> 14:56.970
+to the doctor is happening
+
+433
+14:56.970 --> 14:58.350
+and then getting your doctor to pay
+
+434
+14:58.350 --> 15:01.440
+attention to it, that's another challenge.
+
+435
+15:01.440 --> 15:02.880
+<v ->If I can add a little bit more, I think,</v>
+
+436
+15:02.880 --> 15:04.080
+you know, one of the things that I find
+
+437
+15:04.080 --> 15:05.190
+really encouraging is we hear all
+
+438
+15:05.190 --> 15:07.680
+these stories from members, things like,
+
+439
+15:07.680 --> 15:10.170
+you know, "I understood what my regular data
+
+440
+15:10.170 --> 15:12.570
+looks like, I noticed this unusual pattern,
+
+441
+15:12.570 --> 15:14.550
+I took action and I got some medical help,
+
+442
+15:14.550 --> 15:15.810
+and my cardiologist said that,
+
+443
+15:15.810 --> 15:17.642
+WHOOP saved my life."
+
+444
+15:17.642 --> 15:20.141
+And so I think when we start to have people,
+
+445
+15:20.141 --> 15:20.974
+you know, that are going
+
+446
+15:20.974 --> 15:21.937
+to the healthcare system saying,
+
+447
+15:21.937 --> 15:23.280
+"Hey, like there's something in my data,
+
+448
+15:23.280 --> 15:24.113
+please look at it."
+
+449
+15:24.113 --> 15:25.920
+And they have these amazing experiences
+
+450
+15:25.920 --> 15:26.753
+and they find out
+
+451
+15:26.753 --> 15:27.586
+they're about to have a heart attack
+
+452
+15:27.586 --> 15:28.860
+and they can get the care they need.
+
+453
+15:28.860 --> 15:32.040
+That starts really like creating this shift
+
+454
+15:32.040 --> 15:32.873
+where we start to say,
+
+455
+15:32.873 --> 15:34.440
+"Okay, this is really important,
+
+456
+15:34.440 --> 15:36.060
+we need to collaborate better."
+
+457
+15:36.060 --> 15:37.920
+But we know that there's other people
+
+458
+15:37.920 --> 15:38.753
+that go there
+
+459
+15:38.753 --> 15:40.200
+and they don't get that enriched conversation,
+
+460
+15:40.200 --> 15:42.270
+their wearable data is not fully understood.
+
+461
+15:42.270 --> 15:43.680
+And even for wearables
+
+462
+15:43.680 --> 15:45.810
+that have medically cleared features,
+
+463
+15:45.810 --> 15:47.790
+we know that sometimes that is taking people
+
+464
+15:47.790 --> 15:49.620
+that wouldn't have been screened before,
+
+465
+15:49.620 --> 15:51.870
+sending them to the healthcare
+
+466
+15:51.870 --> 15:53.490
+to try to get a consultation.
+
+467
+15:53.490 --> 15:55.200
+And we're just overburdening
+
+468
+15:55.200 --> 15:56.880
+an already overburdened system.
+
+469
+15:56.880 --> 15:58.080
+And so I think we have to really figure
+
+470
+15:58.080 --> 16:00.180
+that out because ultimately,
+
+471
+16:00.180 --> 16:01.200
+the consumer needs a better
+
+472
+16:01.200 --> 16:03.150
+experience and can't feel lost there.
+
+473
+16:03.150 --> 16:04.410
+<v ->Yeah.</v>
+
+474
+16:04.410 --> 16:05.880
+Here, we've talked about a lot of the benefits
+
+475
+16:05.880 --> 16:07.050
+of wearables, let's talk a little bit
+
+476
+16:07.050 --> 16:10.140
+about why doctors right now are not
+
+477
+16:10.140 --> 16:13.410
+using wearables or they're not collaborating.
+
+478
+16:13.410 --> 16:14.760
+What are the barriers right now
+
+479
+16:14.760 --> 16:18.423
+to clinical acceptance?
+
+480
+16:20.580 --> 16:22.263
+<v ->Let me take that real quick.</v>
+
+481
+16:23.220 --> 16:26.550
+I feel like a doctor's not always paid
+
+482
+16:26.550 --> 16:28.350
+to read wearable data, okay.
+
+483
+16:28.350 --> 16:30.300
+So there's a payer
+
+484
+16:30.300 --> 16:32.520
+or there is a reimbursement issue, okay.
+
+485
+16:32.520 --> 16:34.860
+So a doctor's not gonna take their time
+
+486
+16:34.860 --> 16:35.693
+to look at your wearable data,
+
+487
+16:35.693 --> 16:37.890
+if they're not gonna be reimbursed for that.
+
+488
+16:40.991 --> 16:42.150
+So one of the things that's happening right now
+
+489
+16:42.150 --> 16:43.920
+is we're in the evidence gathering phase
+
+490
+16:43.920 --> 16:46.170
+for wearables where we are gathering evidence
+
+491
+16:46.170 --> 16:47.760
+to show that use of a wearable
+
+492
+16:47.760 --> 16:51.081
+improves an outcome, saves money.
+
+493
+16:51.081 --> 16:52.860
+Somebody who has diabetes,
+
+494
+16:52.860 --> 16:54.390
+they have way less care costs
+
+495
+16:54.390 --> 16:55.470
+because they use a wearable.
+
+496
+16:55.470 --> 16:58.110
+So we're in that evidence gathering phase.
+
+497
+16:58.110 --> 17:00.480
+The next step is for the payers of the world
+
+498
+17:00.480 --> 17:02.580
+to say, "Yeah, this works.
+
+499
+17:02.580 --> 17:03.660
+This is gonna be a treatment
+
+500
+17:03.660 --> 17:05.130
+we're gonna be reimbursed for."
+
+501
+17:05.130 --> 17:06.277
+And then the doctor can say,
+
+502
+17:06.277 --> 17:07.980
+"Yeah, bring it on.
+
+503
+17:07.980 --> 17:09.570
+I'll read your data,
+
+504
+17:09.570 --> 17:12.780
+I'll prescribe a wearable digital therapy,"
+
+505
+17:12.780 --> 17:14.190
+and they'll be reimbursed for it.
+
+506
+17:14.190 --> 17:16.350
+So that's where we are now
+
+507
+17:16.350 --> 17:18.450
+and we're going to get there.
+
+508
+17:18.450 --> 17:19.890
+The data is really indisputable.
+
+509
+17:19.890 --> 17:22.350
+I think it's just a matter of getting it done.
+
+510
+17:22.350 --> 17:24.060
+<v ->I am a lot more optimistic about this.</v>
+
+511
+17:24.060 --> 17:26.880
+I see them using wearable, I mean,
+
+512
+17:26.880 --> 17:28.140
+every doctor we've talked to,
+
+513
+17:28.140 --> 17:30.180
+every nutritionist as I mentioned earlier,
+
+514
+17:30.180 --> 17:31.710
+they embrace the wearable.
+
+515
+17:31.710 --> 17:33.090
+What the doctors don't have
+
+516
+17:33.090 --> 17:36.046
+is a lot of time per patient, right?
+
+517
+17:36.046 --> 17:39.030
+There is a epidemic of chronic diseases
+
+518
+17:39.030 --> 17:41.400
+in this country, in every developed economy,
+
+519
+17:41.400 --> 17:43.950
+90% of healthcare expenditures is dedicated
+
+520
+17:43.950 --> 17:46.680
+to chronic disease management.
+
+521
+17:46.680 --> 17:48.690
+Doctors have 15 minutes per patient,
+
+522
+17:48.690 --> 17:50.340
+it gets very hard to get a doctor.
+
+523
+17:50.340 --> 17:52.290
+I moved to the Bay area six months ago.
+
+524
+17:52.290 --> 17:53.580
+I'm still looking for that doctor
+
+525
+17:53.580 --> 17:56.100
+that will accept new patients, right?
+
+526
+17:56.100 --> 17:58.710
+So they want to save time.
+
+527
+17:58.710 --> 18:00.990
+And so they see a lot of value in the sensors,
+
+528
+18:00.990 --> 18:03.900
+but we have a responsibility as industry players
+
+529
+18:03.900 --> 18:06.120
+to make sure that we're not creating anxiety
+
+530
+18:06.120 --> 18:08.760
+with the user and that we're integrating
+
+531
+18:08.760 --> 18:10.560
+our knowledge with their knowledge
+
+532
+18:10.560 --> 18:11.520
+of the patients.
+
+533
+18:11.520 --> 18:12.870
+So what Praveen was talking about,
+
+534
+18:12.870 --> 18:13.830
+like this is very much,
+
+535
+18:13.830 --> 18:15.600
+wearable needs to be an extension
+
+536
+18:15.600 --> 18:17.040
+of healthcare providers.
+
+537
+18:17.040 --> 18:18.660
+So all the minor issues,
+
+538
+18:18.660 --> 18:20.580
+all the minor concerns can be taken care
+
+539
+18:20.580 --> 18:23.400
+by the wearable, the app and so forth.
+
+540
+18:23.400 --> 18:25.530
+And then you save time for the practitioners
+
+541
+18:25.530 --> 18:27.930
+to focus on exactly what matters the most.
+
+542
+18:27.930 --> 18:29.640
+So I'm very optimistic about it.
+
+543
+18:29.640 --> 18:31.290
+I've been very pleased to see the reaction
+
+544
+18:31.290 --> 18:32.850
+of doctors and practitioners.
+
+545
+18:32.850 --> 18:34.353
+So I think this is, well,
+
+546
+18:34.353 --> 18:35.430
+definitely the right direction.
+
+547
+18:35.430 --> 18:37.860
+<v ->Just if I could add just a tiny bit.</v>
+
+548
+18:37.860 --> 18:39.000
+When I was at J&amp;J,
+
+549
+18:39.000 --> 18:40.987
+we did a study with physicians to say,
+
+550
+18:40.987 --> 18:43.470
+"How can they consume digital health easily?"
+
+551
+18:43.470 --> 18:44.970
+What we found is that when you sit
+
+552
+18:44.970 --> 18:46.440
+and you watch a physician
+
+553
+18:46.440 --> 18:49.470
+and a patient visit, it's only a 15 minute visit,
+
+554
+18:49.470 --> 18:51.630
+as Olivier said, but the first five,
+
+555
+18:51.630 --> 18:53.070
+seven minutes sometimes is taken up
+
+556
+18:53.070 --> 18:55.087
+by asking people how they're doing at home.
+
+557
+18:55.087 --> 18:56.400
+"Hey, how are you sleeping?
+
+558
+18:56.400 --> 18:57.750
+How are you eating?
+
+559
+18:57.750 --> 18:59.610
+Are you exercising, right?
+
+560
+18:59.610 --> 19:00.660
+Is there stress in your life?"
+
+561
+19:00.660 --> 19:02.910
+Because those four things I mentioned
+
+562
+19:02.910 --> 19:04.200
+that we internally at Samsung call,
+
+563
+19:04.200 --> 19:06.090
+four pillars affect almost
+
+564
+19:06.090 --> 19:07.050
+every chronic condition,
+
+565
+19:07.050 --> 19:08.700
+makes every chronic condition worse.
+
+566
+19:08.700 --> 19:10.080
+And as a physician, you wanna understand
+
+567
+19:10.080 --> 19:11.910
+that beyond that, you wanna understand
+
+568
+19:11.910 --> 19:13.320
+other questions that doctor ask
+
+569
+19:13.320 --> 19:14.617
+in those few minutes is,
+
+570
+19:14.617 --> 19:16.230
+"Are you taking your medications?
+
+571
+19:16.230 --> 19:17.160
+Is it helping?
+
+572
+19:17.160 --> 19:18.240
+Are your symptoms better?
+
+573
+19:18.240 --> 19:20.130
+Are you having side effects?"
+
+574
+19:20.130 --> 19:22.440
+So we can answer all those questions
+
+575
+19:22.440 --> 19:24.570
+for physicians because we know
+
+576
+19:24.570 --> 19:26.340
+how patients have done at home
+
+577
+19:26.340 --> 19:29.430
+for the 90 days on average between visits.
+
+578
+19:29.430 --> 19:31.230
+So it's our job to summarize that
+
+579
+19:31.230 --> 19:32.760
+for the doctor quickly.
+
+580
+19:32.760 --> 19:34.680
+So if they have 30 seconds,
+
+581
+19:34.680 --> 19:36.390
+15 seconds to see a record
+
+582
+19:36.390 --> 19:37.920
+before they walk into a patient,
+
+583
+19:37.920 --> 19:39.870
+we need to be able as a industry
+
+584
+19:39.870 --> 19:40.957
+to summarize that and say,
+
+585
+19:40.957 --> 19:42.630
+"Hey, this is what's happened at home
+
+586
+19:42.630 --> 19:43.770
+for the last 90 days.
+
+587
+19:43.770 --> 19:45.960
+Medication taking is at 75%.
+
+588
+19:45.960 --> 19:48.030
+These medications have these side effects.
+
+589
+19:48.030 --> 19:49.440
+Patient is not sleeping well."
+
+590
+19:49.440 --> 19:52.200
+Summarize, and then they will then find value
+
+591
+19:52.200 --> 19:53.460
+in that because you've just saved them
+
+592
+19:53.460 --> 19:54.930
+the first five or seven minutes.
+
+593
+19:54.930 --> 19:56.160
+That's the path forward.
+
+594
+19:56.160 --> 19:57.750
+And that, I think, the kind
+
+595
+19:57.750 --> 19:59.970
+of tools that we're trying to build.
+
+596
+19:59.970 --> 20:02.400
+<v ->Yeah, you mentioned a reimbursement,</v>
+
+597
+20:02.400 --> 20:03.930
+it's a huge issue because
+
+598
+20:03.930 --> 20:07.590
+we talk about wearables, the worried well.
+
+599
+20:07.590 --> 20:10.170
+The ones that are tracking their health data
+
+600
+20:10.170 --> 20:13.440
+and talking to their doctor about that data,
+
+601
+20:13.440 --> 20:15.690
+they're not the ones we need to worry about.
+
+602
+20:15.690 --> 20:18.480
+The larger population out there
+
+603
+20:18.480 --> 20:20.217
+are not tracking their health data
+
+604
+20:20.217 --> 20:22.530
+and they're not worried about their health data,
+
+605
+20:22.530 --> 20:23.680
+they should be worried.
+
+606
+20:25.890 --> 20:28.620
+They are part of a much larger population
+
+607
+20:28.620 --> 20:31.130
+that really would benefit from wearables,
+
+608
+20:31.130 --> 20:33.470
+if they were introduced to wearables
+
+609
+20:33.470 --> 20:35.770
+or if they were convinced to use the wearables
+
+610
+20:37.323 --> 20:40.140
+and really, that's the Medicare population.
+
+611
+20:40.140 --> 20:43.650
+And unless CMS, which is notoriously slow
+
+612
+20:43.650 --> 20:46.290
+in reimbursing new technology,
+
+613
+20:46.290 --> 20:49.350
+starts supporting wearables,
+
+614
+20:49.350 --> 20:52.080
+it's gonna be a challenge to really
+
+615
+20:52.080 --> 20:54.210
+move the needle on chronic care
+
+616
+20:54.210 --> 20:56.340
+management and others.
+
+617
+20:56.340 --> 21:00.657
+And you know, are there different methods
+
+618
+21:00.657 --> 21:04.113
+for engaging with that type of population?
+
+619
+21:06.780 --> 21:10.620
+<v ->Well, I think that the way you do it is,</v>
+
+620
+21:10.620 --> 21:13.020
+you just make a wearable that people wanna wear.
+
+621
+21:14.550 --> 21:16.350
+We were talking in the speaker's lounge,
+
+622
+21:16.350 --> 21:17.490
+I was talking with Alexi,
+
+623
+21:17.490 --> 21:19.110
+once people put on their wearable,
+
+624
+21:19.110 --> 21:20.880
+their Garmin, their WHOOP, or whatever,
+
+625
+21:20.880 --> 21:22.890
+a lot of them, they get hooked on it,
+
+626
+21:22.890 --> 21:24.000
+they never take it off.
+
+627
+21:24.000 --> 21:24.833
+They look at their data
+
+628
+21:24.833 --> 21:27.060
+every morning after they sleep.
+
+629
+21:27.060 --> 21:30.360
+And so if we can just get people, you know,
+
+630
+21:30.360 --> 21:33.480
+introduced to it, we find that they keep wearing
+
+631
+21:33.480 --> 21:36.090
+it and it changes behavior.
+
+632
+21:36.090 --> 21:38.430
+And so how do we reach all of those people?
+
+633
+21:38.430 --> 21:40.530
+I don't know, better advertising,
+
+634
+21:40.530 --> 21:42.150
+better marketing, but it starts
+
+635
+21:42.150 --> 21:43.830
+with a really good wearable experience.
+
+636
+21:43.830 --> 21:45.270
+It has to have good sensors,
+
+637
+21:45.270 --> 21:47.040
+has to have a really good app
+
+638
+21:47.040 --> 21:48.810
+and it has to engage people.
+
+639
+21:48.810 --> 21:49.980
+And you know, one of the things
+
+640
+21:49.980 --> 21:52.950
+that we have found in the use of Garmin devices
+
+641
+21:52.950 --> 21:55.260
+and like clinical research
+
+642
+21:55.260 --> 21:57.360
+is that adherence is good.
+
+643
+21:57.360 --> 21:58.710
+People start wearing it
+
+644
+21:58.710 --> 22:00.630
+and they finish the study wearing it.
+
+645
+22:00.630 --> 22:01.920
+They don't fall out.
+
+646
+22:01.920 --> 22:04.260
+And I think that's really strong evidence
+
+647
+22:04.260 --> 22:06.180
+that people find value in it.
+
+648
+22:06.180 --> 22:08.640
+And that if we could get more people to wear it,
+
+649
+22:08.640 --> 22:10.953
+we would see, you know, improved outcomes.
+
+650
+22:12.480 --> 22:14.220
+<v ->I totally agree that, you know,</v>
+
+651
+22:14.220 --> 22:16.230
+it all goes back to the consumer experience.
+
+652
+22:16.230 --> 22:19.110
+Is this something that you want to wear 24/7,
+
+653
+22:19.110 --> 22:20.940
+what else do you wear 24/7?
+
+654
+22:20.940 --> 22:21.900
+Maybe, a wedding ring,
+
+655
+22:21.900 --> 22:24.030
+but it's such a high bar.
+
+656
+22:24.030 --> 22:26.490
+And so I think you have to create this seamless,
+
+657
+22:26.490 --> 22:29.340
+enjoyable experience that feels really rewarding.
+
+658
+22:29.340 --> 22:31.680
+And at the same time, I think, you know,
+
+659
+22:31.680 --> 22:33.030
+we're in this evolution where wearables
+
+660
+22:33.030 --> 22:34.080
+were once worn by people
+
+661
+22:34.080 --> 22:35.100
+that were into biohacking
+
+662
+22:35.100 --> 22:36.300
+or had very specific conditions
+
+663
+22:36.300 --> 22:38.190
+or we're seeing just this proliferation
+
+664
+22:38.190 --> 22:40.290
+of people figure out that's a really
+
+665
+22:40.290 --> 22:41.340
+important part of their life
+
+666
+22:41.340 --> 22:42.930
+and they like that empowerment.
+
+667
+22:42.930 --> 22:45.300
+And I think this is also aligned with,
+
+668
+22:45.300 --> 22:46.170
+we need to continue
+
+669
+22:46.170 --> 22:47.520
+to make wearables more accessible.
+
+670
+22:47.520 --> 22:49.680
+So for WHOOP, we have a 30-day free trial.
+
+671
+22:49.680 --> 22:51.120
+And I think if you've never worn a wearable
+
+672
+22:51.120 --> 22:53.220
+before or if you've always wondered
+
+673
+22:53.220 --> 22:55.410
+what it's like to wear something like WHOOP,
+
+674
+22:55.410 --> 22:57.360
+it's way easier to just try it,
+
+675
+22:57.360 --> 22:58.193
+to understand, you know,
+
+676
+22:58.193 --> 22:59.280
+how well do you actually sleep?
+
+677
+22:59.280 --> 23:00.360
+Do you get as much exercise
+
+678
+23:00.360 --> 23:01.680
+as you think you do, you know,
+
+679
+23:01.680 --> 23:04.290
+how do you feel when you're starting your day?
+
+680
+23:04.290 --> 23:05.430
+And so I think continuous
+
+681
+23:05.430 --> 23:06.990
+business model innovation's really important
+
+682
+23:06.990 --> 23:09.180
+to make this accessible to more people.
+
+683
+23:09.180 --> 23:10.680
+And so that it's not just something
+
+684
+23:10.680 --> 23:12.330
+that pro athletes wear.
+
+685
+23:12.330 --> 23:14.010
+And we've really been on this journey
+
+686
+23:14.010 --> 23:16.140
+where it's like the best athletes in the world
+
+687
+23:16.140 --> 23:17.880
+wear WHOOP, but also people that just wanna
+
+688
+23:17.880 --> 23:19.620
+be a better leader, a better parent,
+
+689
+23:19.620 --> 23:22.350
+a better human, they wanna feel good for longer.
+
+690
+23:22.350 --> 23:23.490
+And you know,
+
+691
+23:23.490 --> 23:24.750
+we need to bring that to more people.
+
+692
+23:24.750 --> 23:26.640
+I fully agree, there's an accessibility
+
+693
+23:26.640 --> 23:28.140
+thing that's really important.
+
+694
+23:29.040 --> 23:30.000
+<v ->Scott, I just wanted to add,</v>
+
+695
+23:30.000 --> 23:31.979
+'cause you talked about, you know,
+
+696
+23:31.979 --> 23:33.780
+what's the incentive for physicians, et cetera.
+
+697
+23:33.780 --> 23:35.280
+I know, we talked about there being a lack
+
+698
+23:35.280 --> 23:37.620
+of reimbursement, but there is some reimbursement
+
+699
+23:37.620 --> 23:38.730
+and we should recognize that, right?
+
+700
+23:38.730 --> 23:41.040
+There's remote patient monitoring codes
+
+701
+23:41.040 --> 23:42.810
+and certain guidelines for monitoring
+
+702
+23:42.810 --> 23:44.250
+patients remotely using wearables
+
+703
+23:44.250 --> 23:45.960
+and there's reimbursement.
+
+704
+23:45.960 --> 23:47.250
+It's just that it's not always
+
+705
+23:47.250 --> 23:48.930
+well known in the physician population.
+
+706
+23:48.930 --> 23:52.350
+And they're not well-equipped in a clinic setting
+
+707
+23:52.350 --> 23:55.170
+to provide all the requirements
+
+708
+23:55.170 --> 23:56.190
+or to meet all the requirements
+
+709
+23:56.190 --> 23:57.210
+for remote patient monitoring
+
+710
+23:57.210 --> 23:58.890
+and therefore, there's a bit of friction,
+
+711
+23:58.890 --> 24:00.690
+but there are some reimbursement pathways.
+
+712
+24:00.690 --> 24:01.523
+<v ->There is, yes.</v>
+
+713
+24:01.523 --> 24:03.270
+Remote physiological monitoring,
+
+714
+24:03.270 --> 24:04.830
+I think is what CMS describes
+
+715
+24:04.830 --> 24:08.490
+it as a therapeutic monitoring as well.
+
+716
+24:08.490 --> 24:10.620
+Sometimes, the hoops you have to jump through
+
+717
+24:10.620 --> 24:12.690
+to get those reimbursements is a little bit
+
+718
+24:12.690 --> 24:14.440
+too daunting as well.
+<v Praveen>Yes.</v>
+
+719
+24:14.440 --> 24:16.350
+<v ->We're getting down to 15 minutes left</v>
+
+720
+24:16.350 --> 24:17.910
+and I knew this was gonna happen.
+
+721
+24:17.910 --> 24:20.403
+I mean, I've given up on the questions, totally.
+
+722
+24:21.510 --> 24:24.213
+We can continue this conversation all day long.
+
+723
+24:25.290 --> 24:28.740
+I want to talk a little bit about AI
+
+724
+24:28.740 --> 24:32.862
+and about how wearables are going to evolve.
+
+725
+24:32.862 --> 24:37.020
+Where do you see this platform
+
+726
+24:37.020 --> 24:38.103
+expanding or you know,
+
+727
+24:38.103 --> 24:40.770
+what other wearables are we gonna see
+
+728
+24:40.770 --> 24:42.000
+out there in the new future?
+
+729
+24:42.000 --> 24:44.790
+And how is AI, which is everywhere,
+
+730
+24:44.790 --> 24:48.150
+which is in every single conversation here,
+
+731
+24:48.150 --> 24:49.410
+how is that going
+
+732
+24:49.410 --> 24:52.620
+to affect the wearables industry?
+
+733
+24:52.620 --> 24:54.960
+<v ->So I'm very bullish about wearable,</v>
+
+734
+24:54.960 --> 24:58.530
+obviously, as the four of us, I suspect.
+
+735
+24:58.530 --> 25:01.080
+We already know wearables can drive
+
+736
+25:01.080 --> 25:03.780
+behavioral change toward healthier habits.
+
+737
+25:03.780 --> 25:05.580
+I remember my dad 20 years ago,
+
+738
+25:05.580 --> 25:07.800
+at the beginning of the step trackers
+
+739
+25:07.800 --> 25:09.360
+will go for a walk after dinner.
+
+740
+25:09.360 --> 25:11.220
+I was making fun of him.
+
+741
+25:11.220 --> 25:13.380
+He wanted to close his 10,000 steps.
+
+742
+25:13.380 --> 25:14.460
+Now I do the same,
+
+743
+25:14.460 --> 25:17.010
+which is a healthy habit as well, right?
+
+744
+25:17.010 --> 25:19.290
+We see with glucose monitoring for the consumer,
+
+745
+25:19.290 --> 25:21.000
+not just for people with diabetes,
+
+746
+25:21.000 --> 25:23.040
+they change the way they eat.
+
+747
+25:23.040 --> 25:24.180
+You know, they stop the carbs
+
+748
+25:24.180 --> 25:26.490
+that don't suit them, they focus on proteins,
+
+749
+25:26.490 --> 25:27.660
+leafy greens and so forth.
+
+750
+25:27.660 --> 25:29.400
+We see it because they can see the impact
+
+751
+25:29.400 --> 25:31.620
+right away in real time on their watch.
+
+752
+25:31.620 --> 25:32.730
+So it's already happening,
+
+753
+25:32.730 --> 25:34.500
+it's already changing behaviorals.
+
+754
+25:34.500 --> 25:35.970
+I think the power of AI
+
+755
+25:35.970 --> 25:37.200
+and I think this is the right time
+
+756
+25:37.200 --> 25:39.510
+to go hard on wearable.
+
+757
+25:39.510 --> 25:41.460
+The power of AI is twofold.
+
+758
+25:41.460 --> 25:44.550
+One, it has a power of simplifying the complex.
+
+759
+25:44.550 --> 25:46.800
+So it thrives on big data.
+
+760
+25:46.800 --> 25:47.850
+Trying to understand,
+
+761
+25:47.850 --> 25:49.470
+like for us is a glucose graph,
+
+762
+25:49.470 --> 25:50.340
+like what does that mean?
+
+763
+25:50.340 --> 25:52.920
+Your glucose going up and down all the time.
+
+764
+25:52.920 --> 25:55.260
+Most of it is nothing to worry about.
+
+765
+25:55.260 --> 25:56.940
+Some of them is something you should focus
+
+766
+25:56.940 --> 25:58.410
+and try to change your behavior around it.
+
+767
+25:58.410 --> 26:00.420
+So being able to identify the part
+
+768
+26:00.420 --> 26:01.980
+of your glucose volatility that matters
+
+769
+26:01.980 --> 26:04.680
+versus not is part of AI right there.
+
+770
+26:04.680 --> 26:05.940
+Another part of AI is,
+
+771
+26:05.940 --> 26:08.220
+it brings the whole medical expertise
+
+772
+26:08.220 --> 26:10.680
+of the world literally into your pocket.
+
+773
+26:10.680 --> 26:13.380
+So you're working basically with a physician
+
+774
+26:13.380 --> 26:14.820
+and the behavioral psychologist
+
+775
+26:14.820 --> 26:16.230
+right in your pocket,
+
+776
+26:16.230 --> 26:18.780
+trying to help you to develop better habits.
+
+777
+26:18.780 --> 26:20.820
+So that's very unique.
+
+778
+26:20.820 --> 26:22.740
+And while we're trying to do it already now
+
+779
+26:22.740 --> 26:24.540
+without AI is clunky, right?
+
+780
+26:24.540 --> 26:26.670
+So with AI, it becomes much more personalized,
+
+781
+26:26.670 --> 26:28.500
+much smoother and so forth.
+
+782
+26:28.500 --> 26:30.750
+So I'm very, very excited about this,
+
+783
+26:30.750 --> 26:33.060
+primarily for behavioral change
+
+784
+26:33.060 --> 26:35.936
+because I mean, I think you mentioned Alexi,
+
+785
+26:35.936 --> 26:38.460
+like 50% causes of death is avoidable.
+
+786
+26:38.460 --> 26:40.710
+I think 80% of chronic diseases
+
+787
+26:40.710 --> 26:41.820
+are caused by lifestyle,
+
+788
+26:41.820 --> 26:43.590
+not DNA, lifestyle, not DNA.
+
+789
+26:43.590 --> 26:45.810
+So everything is avoidable
+
+790
+26:45.810 --> 26:47.910
+and it's much easier to change behavior
+
+791
+26:47.910 --> 26:49.680
+early on in life than later on.
+
+792
+26:49.680 --> 26:51.300
+Like I prefer to, you know,
+
+793
+26:51.300 --> 26:53.850
+optimize by 10% in my 20s if I knew
+
+794
+26:53.850 --> 26:56.262
+that rather than waiting in my 50s
+
+795
+26:56.262 --> 26:58.140
+and now I need to do a 180 degree
+
+796
+26:58.140 --> 27:00.300
+change in my way of living, right?
+
+797
+27:00.300 --> 27:04.080
+So the more we can drive behavioral change,
+
+798
+27:04.080 --> 27:06.630
+the more we can lower chronic diseases,
+
+799
+27:06.630 --> 27:09.210
+the more we can free up capacity in hospitals
+
+800
+27:09.210 --> 27:11.670
+and so forth and the more impact
+
+801
+27:11.670 --> 27:13.410
+we can have on the associated basis.
+
+802
+27:13.410 --> 27:14.910
+So I think AI is the right time
+
+803
+27:14.910 --> 27:16.080
+to bring it into it.
+
+804
+27:16.080 --> 27:17.790
+Now, we have a huge challenge
+
+805
+27:17.790 --> 27:19.650
+as industry players going forward
+
+806
+27:19.650 --> 27:23.220
+because what the future of wearable is not
+
+807
+27:23.220 --> 27:25.830
+is 13 sensors in your body
+
+808
+27:25.830 --> 27:29.370
+is 13 notifications every 10 minutes
+
+809
+27:29.370 --> 27:31.980
+with different recommendations
+
+810
+27:31.980 --> 27:33.450
+on what you need to do
+
+811
+27:33.450 --> 27:35.010
+that will drive more anxiety,
+
+812
+27:35.010 --> 27:36.510
+more cost to the healthcare system
+
+813
+27:36.510 --> 27:37.343
+and so forth.
+
+814
+27:37.343 --> 27:39.750
+So our responsibilities is to simplify
+
+815
+27:39.750 --> 27:41.610
+all this, to integrate
+
+816
+27:41.610 --> 27:43.590
+not only amongst ourselves to create like,
+
+817
+27:43.590 --> 27:45.570
+you know, a source of truth for your health
+
+818
+27:45.570 --> 27:48.060
+because your health is not just one metric
+
+819
+27:48.060 --> 27:49.440
+or the other, it's a sum of all those
+
+820
+27:49.440 --> 27:51.450
+metrics put together, then integrate
+
+821
+27:51.450 --> 27:53.670
+with the healthcare system to have a continuum.
+
+822
+27:53.670 --> 27:55.440
+So one is the extension of the user,
+
+823
+27:55.440 --> 27:56.730
+the two should work very well together
+
+824
+27:56.730 --> 27:58.110
+like Praveen was mentioning.
+
+825
+27:58.110 --> 27:59.130
+So I think this is on us
+
+826
+27:59.130 --> 28:01.080
+to make it very, very easy for users
+
+827
+28:01.080 --> 28:02.790
+to engage with those wearable
+
+828
+28:02.790 --> 28:04.890
+and connect with their physicians as well.
+
+829
+28:06.570 --> 28:07.403
+<v ->I agree with so much</v>
+
+830
+28:07.403 --> 28:09.120
+of what you just said, Olivier.
+
+831
+28:09.120 --> 28:10.713
+I think, you know, there's a couple of things
+
+832
+28:10.713 --> 28:12.900
+that we're gonna see as wearables
+
+833
+28:12.900 --> 28:14.790
+really cemented themselves
+
+834
+28:14.790 --> 28:16.410
+into people's daily lives.
+
+835
+28:16.410 --> 28:17.243
+We just wanna make
+
+836
+28:17.243 --> 28:18.930
+that as frictionless as possible, right?
+
+837
+28:18.930 --> 28:22.110
+So continuous improvements in battery life,
+
+838
+28:22.110 --> 28:25.140
+simplicity in form factor,
+
+839
+28:25.140 --> 28:26.580
+the ability to make it your own
+
+840
+28:26.580 --> 28:27.990
+so WHOOP, you can change your band,
+
+841
+28:27.990 --> 28:29.220
+you can wear WHOOP on your body
+
+842
+28:29.220 --> 28:30.660
+and your bra, in your underwear,
+
+843
+28:30.660 --> 28:31.830
+on your bicep.
+
+844
+28:31.830 --> 28:33.960
+And just this ability to integrate
+
+845
+28:33.960 --> 28:35.850
+into people's lives because people understand
+
+846
+28:35.850 --> 28:38.040
+the value of measuring every heartbeat.
+
+847
+28:38.040 --> 28:39.450
+With AI, I think we're gonna continue
+
+848
+28:39.450 --> 28:41.430
+to see this hyper-personalization.
+
+849
+28:41.430 --> 28:43.350
+So what is your best next move
+
+850
+28:43.350 --> 28:46.500
+based on your data today in this moment?
+
+851
+28:46.500 --> 28:48.360
+And it's gonna have to simplify
+
+852
+28:48.360 --> 28:49.860
+'cause it's not just about what you track,
+
+853
+28:49.860 --> 28:51.360
+like that's table stakes, but it's about
+
+854
+28:51.360 --> 28:53.130
+what can you make this person do?
+
+855
+28:53.130 --> 28:53.963
+How can you help
+
+856
+28:53.963 --> 28:55.470
+them unlock their full potential?
+
+857
+28:55.470 --> 28:56.850
+How can you help them take action
+
+858
+28:56.850 --> 28:58.350
+earlier so that time is on their side
+
+859
+28:58.350 --> 28:59.280
+when it comes to health?
+
+860
+28:59.280 --> 29:00.450
+And I think we're gonna continue
+
+861
+29:00.450 --> 29:02.160
+to see some really exciting trends
+
+862
+29:02.160 --> 29:03.160
+in those directions.
+
+863
+29:04.650 --> 29:05.730
+<v ->I think first of all,</v>
+
+864
+29:05.730 --> 29:06.563
+you asked about two things.
+
+865
+29:06.563 --> 29:08.460
+The technology trends, I agree
+
+866
+29:08.460 --> 29:09.690
+are getting more personal, right?
+
+867
+29:09.690 --> 29:10.523
+Wearables are not
+
+868
+29:10.523 --> 29:11.850
+what they were when I started my career,
+
+869
+29:11.850 --> 29:14.050
+like there are patches and things like that.
+
+870
+29:15.360 --> 29:17.340
+Wearables now are fitting into people's life,
+
+871
+29:17.340 --> 29:19.680
+right, ring for example, we launched our ring,
+
+872
+29:19.680 --> 29:20.513
+I wear it all the time,
+
+873
+29:20.513 --> 29:21.660
+I don't even know it's there,
+
+874
+29:21.660 --> 29:23.340
+it's just part of my body.
+
+875
+29:23.340 --> 29:24.930
+So we're making it easier like that.
+
+876
+29:24.930 --> 29:26.430
+I think of other form factors
+
+877
+29:26.430 --> 29:29.280
+that are coming as you know are like AR glasses
+
+878
+29:29.280 --> 29:30.780
+and they're textile kind of variables.
+
+879
+29:30.780 --> 29:32.310
+So I think as an industry,
+
+880
+29:32.310 --> 29:33.840
+we are developing things that are fitting
+
+881
+29:33.840 --> 29:35.190
+into people's life versus something
+
+882
+29:35.190 --> 29:36.660
+that's so artificial
+
+883
+29:36.660 --> 29:37.770
+and add on to people's life.
+
+884
+29:37.770 --> 29:40.260
+I think that's one kind of trend.
+
+885
+29:40.260 --> 29:43.230
+With regard to AI, there are two places
+
+886
+29:43.230 --> 29:45.060
+where I think AI is really making a difference
+
+887
+29:45.060 --> 29:48.330
+and both have to do with putting the consumer,
+
+888
+29:48.330 --> 29:50.250
+our users at the center.
+
+889
+29:50.250 --> 29:51.840
+So it's not like previously where
+
+890
+29:51.840 --> 29:53.730
+you're thinking, "Hey, I have all this data,
+
+891
+29:53.730 --> 29:55.500
+now how do I generate insights from that
+
+892
+29:55.500 --> 29:57.180
+and how do I feed that to people?"
+
+893
+29:57.180 --> 29:58.560
+It's the other way around.
+
+894
+29:58.560 --> 30:02.070
+Start with you're a user, what are your goals?
+
+895
+30:02.070 --> 30:03.180
+What are your preferences?
+
+896
+30:03.180 --> 30:04.170
+What are you trying to achieve
+
+897
+30:04.170 --> 30:05.880
+in your life in terms of your health?
+
+898
+30:05.880 --> 30:09.240
+And then AI, knowing your data,
+
+899
+30:09.240 --> 30:11.790
+knowing what you want, knowing your goals,
+
+900
+30:11.790 --> 30:13.140
+knowing what's happened with your doctor,
+
+901
+30:13.140 --> 30:15.660
+bringing all that together from all your devices,
+
+902
+30:15.660 --> 30:18.157
+including home devices and saying,
+
+903
+30:18.157 --> 30:20.250
+"Hey, here's what's happening
+
+904
+30:20.250 --> 30:21.210
+with you the last week,
+
+905
+30:21.210 --> 30:23.040
+you're not sleeping well, right?
+
+906
+30:23.040 --> 30:24.780
+And it may be because your stress
+
+907
+30:24.780 --> 30:26.589
+is high the last few days,
+
+908
+30:26.589 --> 30:29.370
+how about trying these three things?"
+
+909
+30:29.370 --> 30:30.540
+So it's that personal
+
+910
+30:30.540 --> 30:32.070
+and it's real time.
+
+911
+30:32.070 --> 30:34.590
+I think that personalization that Alexi,
+
+912
+30:34.590 --> 30:36.690
+you talked about is the most important thing.
+
+913
+30:36.690 --> 30:38.400
+I think it's not a mass manufactured
+
+914
+30:38.400 --> 30:39.990
+thing anymore, it's really understanding
+
+915
+30:39.990 --> 30:41.400
+each person's life, their context,
+
+916
+30:41.400 --> 30:43.140
+their questions, and guiding them
+
+917
+30:43.140 --> 30:44.520
+in real time based on their data
+
+918
+30:44.520 --> 30:45.690
+to help them achieve their goals
+
+919
+30:45.690 --> 30:49.500
+with little nudges and insights along the way.
+
+920
+30:49.500 --> 30:51.000
+I think there's one more AI trend
+
+921
+30:51.000 --> 30:52.800
+that's happening that I want to call out,
+
+922
+30:52.800 --> 30:54.900
+which is we can't give people
+
+923
+30:54.900 --> 30:55.950
+a whole string of numbers.
+
+924
+30:55.950 --> 30:57.390
+So if you just think about Samsung,
+
+925
+30:57.390 --> 30:58.980
+we got so much data from our wearables,
+
+926
+30:58.980 --> 31:01.080
+our smart watches, our rings,
+
+927
+31:01.080 --> 31:03.720
+data coming from doctors, et cetera, right?
+
+928
+31:03.720 --> 31:05.790
+And home devices as well.
+
+929
+31:05.790 --> 31:06.750
+That's a lot of data
+
+930
+31:06.750 --> 31:08.940
+that we just can't give them a string of data.
+
+931
+31:08.940 --> 31:11.970
+So we have to create a more personalized way
+
+932
+31:11.970 --> 31:13.020
+of engaging with it.
+
+933
+31:13.020 --> 31:15.360
+So with the advent of generative AI
+
+934
+31:15.360 --> 31:17.040
+and large language models
+
+935
+31:17.040 --> 31:20.160
+and health assistant type of interfaces,
+
+936
+31:20.160 --> 31:21.750
+we're hoping to allow users to ask
+
+937
+31:21.750 --> 31:23.400
+their own questions of the data,
+
+938
+31:23.400 --> 31:24.570
+what they want to know,
+
+939
+31:24.570 --> 31:27.480
+and then give them the insights
+
+940
+31:27.480 --> 31:28.650
+and coaching and guidance that they
+
+941
+31:28.650 --> 31:30.930
+need to get to where they want to get to.
+
+942
+31:30.930 --> 31:32.160
+But even in terms of numbers,
+
+943
+31:32.160 --> 31:33.330
+there's another approach we are taking,
+
+944
+31:33.330 --> 31:36.120
+which is, how can we give people just one number?
+
+945
+31:36.120 --> 31:37.140
+So if you don't have time
+
+946
+31:37.140 --> 31:38.840
+and you just wanna know one number
+
+947
+31:39.960 --> 31:41.070
+in terms of how you're doing
+
+948
+31:41.070 --> 31:42.810
+and whether you're ready to take on the day,
+
+949
+31:42.810 --> 31:44.670
+we have something called, an energy score.
+
+950
+31:44.670 --> 31:45.780
+Just look at that one number
+
+951
+31:45.780 --> 31:47.827
+on your phones and you can say,
+
+952
+31:47.827 --> 31:49.530
+"Okay, my score tells me
+
+953
+31:49.530 --> 31:51.210
+that I didn't sleep well last night,
+
+954
+31:51.210 --> 31:52.290
+I'm a bit tired.
+
+955
+31:52.290 --> 31:53.610
+Maybe I even have something coming
+
+956
+31:53.610 --> 31:55.290
+on like a flu or something.
+
+957
+31:55.290 --> 31:56.580
+I better take it easy today."
+
+958
+31:56.580 --> 31:57.900
+Or, "My energy is very high,
+
+959
+31:57.900 --> 31:58.950
+I'm ready to take on the day.
+
+960
+31:58.950 --> 32:00.090
+Maybe I can do more things,
+
+961
+32:00.090 --> 32:02.040
+maybe even work out today, et cetera."
+
+962
+32:02.040 --> 32:04.650
+So that energy score, that one number
+
+963
+32:04.650 --> 32:06.210
+can be a very good guide
+
+964
+32:06.210 --> 32:07.893
+to how to manage your day.
+
+965
+32:09.669 --> 32:12.930
+<v ->I agree with my co-panelists.</v>
+
+966
+32:12.930 --> 32:15.360
+Wearables are about personalized medicine,
+
+967
+32:15.360 --> 32:17.070
+it's personalization.
+
+968
+32:17.070 --> 32:18.720
+You have an enormous amount of data
+
+969
+32:18.720 --> 32:21.570
+about yourself, so much of medicine
+
+970
+32:21.570 --> 32:22.680
+is you take a measurement
+
+971
+32:22.680 --> 32:24.660
+and you look at this point cloud of data
+
+972
+32:24.660 --> 32:27.630
+and you fit yourself to some linear model
+
+973
+32:27.630 --> 32:29.910
+and it's not a good fit for you.
+
+974
+32:29.910 --> 32:31.410
+With wearable data,
+
+975
+32:31.410 --> 32:34.320
+it's so personal and it's exactly right,
+
+976
+32:34.320 --> 32:36.390
+it's like how do we take this mountain of data
+
+977
+32:36.390 --> 32:38.460
+that's being collected, every heartbeat,
+
+978
+32:38.460 --> 32:39.720
+all the stress, all the sleep,
+
+979
+32:39.720 --> 32:42.420
+and how do we provide really personalized
+
+980
+32:42.420 --> 32:45.810
+input to the user so they can do something
+
+981
+32:45.810 --> 32:48.000
+to improve their health state.
+
+982
+32:48.000 --> 32:50.370
+It's a big opportunity.
+
+983
+32:50.370 --> 32:52.110
+You know, there's a lot of talk about AI,
+
+984
+32:52.110 --> 32:55.440
+but it's not just a large language model,
+
+985
+32:55.440 --> 32:58.470
+it's a really difficult problem
+
+986
+32:58.470 --> 33:00.060
+and we'll be working on it for a long time,
+
+987
+33:00.060 --> 33:02.550
+but the opportunity is enormous, I think
+
+988
+33:02.550 --> 33:04.380
+because of just all the data
+
+989
+33:04.380 --> 33:06.480
+that we can input into these sorts of models
+
+990
+33:06.480 --> 33:09.090
+and what we can provide to the user.
+
+991
+33:09.090 --> 33:10.620
+<v ->Yeah, we talked about providing data</v>
+
+992
+33:10.620 --> 33:12.900
+to the user, but also sorting
+
+993
+33:12.900 --> 33:14.970
+and managing that data for the provider,
+
+994
+33:14.970 --> 33:17.550
+for the doctor so that the doctor as we've said
+
+995
+33:17.550 --> 33:20.370
+before, is not overwhelmed by the data coming in.
+
+996
+33:20.370 --> 33:21.333
+<v ->You know, Praveen said something</v>
+
+997
+33:21.333 --> 33:22.740
+that I thought was really good.
+
+998
+33:22.740 --> 33:24.000
+It's like the first five minutes
+
+999
+33:24.000 --> 33:25.650
+of the visit is, how well are you sleeping?
+
+1000
+33:25.650 --> 33:27.150
+How active are you?
+
+1001
+33:27.150 --> 33:28.470
+That's right there.
+
+1002
+33:28.470 --> 33:30.150
+That should take 30 seconds.
+
+1003
+33:30.150 --> 33:33.270
+It's all in your data record from your wearable.
+
+1004
+33:33.270 --> 33:35.730
+We know how much activity you had.
+
+1005
+33:35.730 --> 33:37.050
+We know how much running you did,
+
+1006
+33:37.050 --> 33:39.090
+we know how well you slept,
+
+1007
+33:39.090 --> 33:40.650
+that could be right there for the doctor.
+
+1008
+33:40.650 --> 33:42.300
+And that could start that conversation
+
+1009
+33:42.300 --> 33:44.760
+five minutes farther along, right?
+
+1010
+33:44.760 --> 33:46.350
+And you could have a way more high value
+
+1011
+33:46.350 --> 33:49.200
+visit with your clinician that way.
+
+1012
+33:49.200 --> 33:52.380
+So it's an excellent point.
+
+1013
+33:52.380 --> 33:55.170
+It's like we have to do more
+
+1014
+33:55.170 --> 33:57.240
+with all of this data to really
+
+1015
+33:57.240 --> 33:59.460
+set up an improved experience
+
+1016
+33:59.460 --> 34:01.590
+up and down the healthcare chain.
+
+1017
+34:01.590 --> 34:02.940
+<v ->Now, in the amount of time we have left,</v>
+
+1018
+34:02.940 --> 34:04.773
+which is five minutes,
+
+1019
+34:07.860 --> 34:09.420
+we talk about the using the data
+
+1020
+34:09.420 --> 34:11.343
+in the doctor's office visit,
+
+1021
+34:13.260 --> 34:14.310
+the consumer comes to the doctor's
+
+1022
+34:14.310 --> 34:15.600
+office, hospital, whatever.
+
+1023
+34:15.600 --> 34:17.310
+How about in-between?
+
+1024
+34:17.310 --> 34:20.310
+You know, how do you see wearables
+
+1025
+34:20.310 --> 34:21.990
+allowing that collaboration
+
+1026
+34:21.990 --> 34:23.580
+outside of the hospital,
+
+1027
+34:23.580 --> 34:25.200
+outside of the doctor's office
+
+1028
+34:25.200 --> 34:28.170
+when the data shows that a consumer
+
+1029
+34:28.170 --> 34:30.789
+is trending in the wrong direction
+
+1030
+34:30.789 --> 34:33.120
+with some chronic condition such as,
+
+1031
+34:33.120 --> 34:35.160
+diabetes or heart failure?
+
+1032
+34:35.160 --> 34:37.090
+You know, how do you see wearables
+
+1033
+34:37.980 --> 34:41.190
+affecting that relationship or enabling,
+
+1034
+34:41.190 --> 34:43.260
+empowering providers
+
+1035
+34:43.260 --> 34:45.630
+to intervene when it's most needed?
+
+1036
+34:45.630 --> 34:48.090
+<v ->Right, that what happens with your car, right?</v>
+
+1037
+34:48.090 --> 34:50.310
+When you get a call from the mechanic
+
+1038
+34:50.310 --> 34:51.143
+telling you that your car
+
+1039
+34:51.143 --> 34:53.760
+needs a revision or something, right?
+
+1040
+34:53.760 --> 34:55.773
+So I mean, look,
+
+1041
+34:57.508 --> 35:00.060
+as you know, Abbot has been the number one
+
+1042
+35:00.060 --> 35:02.370
+in diabetes glucose sensors
+
+1043
+35:02.370 --> 35:03.930
+for the diabetes population.
+
+1044
+35:03.930 --> 35:06.150
+So we already have that interaction
+
+1045
+35:06.150 --> 35:08.010
+with the doctor or the doctor has all access
+
+1046
+35:08.010 --> 35:09.930
+to all the information from the patient
+
+1047
+35:09.930 --> 35:11.310
+and can reach out to that patient
+
+1048
+35:11.310 --> 35:12.450
+when they see something abnormal
+
+1049
+35:12.450 --> 35:13.628
+and so forth.
+
+1050
+35:13.628 --> 35:14.490
+So this is already existing
+
+1051
+35:14.490 --> 35:16.530
+for a lot of our sensors.
+
+1052
+35:16.530 --> 35:18.900
+In the consumer space,
+
+1053
+35:18.900 --> 35:21.126
+what we're trying to do here is
+
+1054
+35:21.126 --> 35:24.930
+to help the users take care of their health
+
+1055
+35:24.930 --> 35:27.660
+outside of the doctor's visit, right?
+
+1056
+35:27.660 --> 35:31.500
+So trying to reduce cost
+
+1057
+35:31.500 --> 35:32.910
+to the healthcare system basically
+
+1058
+35:32.910 --> 35:33.810
+by giving them the tools
+
+1059
+35:33.810 --> 35:36.360
+to manage their health themselves.
+
+1060
+35:36.360 --> 35:38.250
+But we do work with, as I mentioned,
+
+1061
+35:38.250 --> 35:39.660
+nutritionists and doctors
+
+1062
+35:39.660 --> 35:42.300
+to also feed into the product requirements.
+
+1063
+35:42.300 --> 35:44.220
+So I think that's one interesting point
+
+1064
+35:44.220 --> 35:46.530
+is how do you get the product more accepted
+
+1065
+35:46.530 --> 35:50.850
+by physicians and medical professionals is
+
+1066
+35:50.850 --> 35:52.440
+by designing the product for both,
+
+1067
+35:52.440 --> 35:54.060
+for the hand users, the consumers,
+
+1068
+35:54.060 --> 35:55.710
+and the doctors as well, right?
+
+1069
+35:55.710 --> 35:57.300
+Because there are two users here
+
+1070
+35:57.300 --> 36:00.060
+and some of the doctors focus
+
+1071
+36:00.060 --> 36:01.800
+is more on the data, how do we get the data,
+
+1072
+36:01.800 --> 36:03.570
+but also how do we simplify
+
+1073
+36:03.570 --> 36:04.530
+the data for the doctor?
+
+1074
+36:04.530 --> 36:07.770
+Again, they have very little time to look into it
+
+1075
+36:07.770 --> 36:09.720
+and how do we make the experience particularly
+
+1076
+36:09.720 --> 36:12.450
+easy for the end users, but also,
+
+1077
+36:12.450 --> 36:14.700
+always, sorry, in the objective
+
+1078
+36:14.700 --> 36:16.350
+of driving behavioral change.
+
+1079
+36:16.350 --> 36:19.500
+Like the way we talk about it within Lingo
+
+1080
+36:19.500 --> 36:20.940
+is we are not a data company,
+
+1081
+36:20.940 --> 36:22.860
+we're not a glucose monitoring company.
+
+1082
+36:22.860 --> 36:25.290
+We are a behavioral change company
+
+1083
+36:25.290 --> 36:26.370
+'cause that's what matters at the end.
+
+1084
+36:26.370 --> 36:27.900
+If you don't change behaviors,
+
+1085
+36:27.900 --> 36:29.550
+it's a lot of money for not much.
+
+1086
+36:30.741 --> 36:31.574
+<v ->Yeah.</v>
+<v Alexi>Go ahead.</v>
+
+1087
+36:31.574 --> 36:34.320
+<v ->Sorry, I think that one of the things is that,</v>
+
+1088
+36:34.320 --> 36:35.670
+as I mentioned earlier, I think
+
+1089
+36:35.670 --> 36:37.410
+we need to save time for doctors obviously,
+
+1090
+36:37.410 --> 36:40.440
+but we have something that with wearables,
+
+1091
+36:40.440 --> 36:42.270
+we have something that's a different kind
+
+1092
+36:42.270 --> 36:44.070
+of data because it's real time
+
+1093
+36:44.070 --> 36:45.450
+and it's continuous, right?
+
+1094
+36:45.450 --> 36:47.400
+Compared to all other health data, which is,
+
+1095
+36:47.400 --> 36:48.900
+I get a blood test every 90 days
+
+1096
+36:48.900 --> 36:50.340
+or a couple of times a year.
+
+1097
+36:50.340 --> 36:52.320
+This is continuous, which means
+
+1098
+36:52.320 --> 36:54.210
+that we can monitor at home
+
+1099
+36:54.210 --> 36:56.190
+with people are at risk for something.
+
+1100
+36:56.190 --> 36:58.230
+If I'm monitoring their sleep all the time,
+
+1101
+36:58.230 --> 36:59.130
+I can see there's
+
+1102
+36:59.130 --> 37:00.660
+something wrong with their sleep.
+
+1103
+37:00.660 --> 37:02.280
+So for example, we got FDA approval
+
+1104
+37:02.280 --> 37:03.870
+and we launched a few months ago,
+
+1105
+37:03.870 --> 37:05.647
+a way in which our wearables can say,
+
+1106
+37:05.647 --> 37:07.590
+"You are at risk for sleep apnea,"
+
+1107
+37:07.590 --> 37:09.000
+which is a condition that affects millions
+
+1108
+37:09.000 --> 37:10.080
+and millions of people,
+
+1109
+37:10.080 --> 37:12.240
+but we can identify risk for that.
+
+1110
+37:12.240 --> 37:14.610
+So you don't have to give every data
+
+1111
+37:14.610 --> 37:16.740
+to the doctor, but when there's these flags,
+
+1112
+37:16.740 --> 37:18.480
+you have a risk of sleep apnea
+
+1113
+37:18.480 --> 37:19.530
+that can go to the doctor.
+
+1114
+37:19.530 --> 37:21.030
+Now they have something to go by
+
+1115
+37:21.030 --> 37:22.200
+and they can do something about it.
+
+1116
+37:22.200 --> 37:23.820
+So we call those triggers.
+
+1117
+37:23.820 --> 37:26.070
+So within the data that we are seeing
+
+1118
+37:26.070 --> 37:28.440
+and watching, if there's a trigger, a flag
+
+1119
+37:28.440 --> 37:31.800
+that something is wrong, that's a higher reason
+
+1120
+37:31.800 --> 37:33.090
+to send something to the doctor.
+
+1121
+37:33.090 --> 37:35.880
+Similarly, we have a lot of heart types
+
+1122
+37:35.880 --> 37:37.410
+of function and monitoring.
+
+1123
+37:37.410 --> 37:40.320
+So we can do ECGs on our watches.
+
+1124
+37:40.320 --> 37:42.510
+We can monitor irregular heart rhythms.
+
+1125
+37:42.510 --> 37:44.160
+So if there's something wrong
+
+1126
+37:44.160 --> 37:45.750
+where you see a irregular heart rhythm
+
+1127
+37:45.750 --> 37:47.700
+or you see signs of atrial fibrillation
+
+1128
+37:48.864 --> 37:51.150
+for which we have FDA approval,
+
+1129
+37:51.150 --> 37:52.780
+we can flag that to the doctor
+
+1130
+37:54.144 --> 37:54.977
+or bring that
+
+1131
+37:54.977 --> 37:56.370
+to the notice of a healthcare provider.
+
+1132
+37:56.370 --> 37:59.670
+So the idea of us monitoring continuously,
+
+1133
+37:59.670 --> 38:01.230
+identifying risk factors,
+
+1134
+38:01.230 --> 38:02.790
+flagging that at the right time
+
+1135
+38:02.790 --> 38:03.870
+and getting people the help they
+
+1136
+38:03.870 --> 38:05.670
+need with integration to services such as,
+
+1137
+38:05.670 --> 38:07.890
+telehealth is the full suite of things
+
+1138
+38:07.890 --> 38:10.297
+that we're trying to do to address this.
+
+1139
+38:11.280 --> 38:13.320
+<v ->I think that, you know,</v>
+
+1140
+38:13.320 --> 38:15.630
+this interpretation is so important both
+
+1141
+38:15.630 --> 38:17.400
+for the consumer and for healthcare, right?
+
+1142
+38:17.400 --> 38:19.140
+So how do you simplify?
+
+1143
+38:19.140 --> 38:20.970
+It's not just about having enough data,
+
+1144
+38:20.970 --> 38:22.710
+if we don't know how to understand that
+
+1145
+38:22.710 --> 38:24.710
+and digest it, it's sort of meaningless.
+
+1146
+38:25.587 --> 38:26.460
+And so I think that's really important.
+
+1147
+38:26.460 --> 38:28.500
+It's exciting that healthcare is seeing
+
+1148
+38:28.500 --> 38:31.140
+the value of this continuous monitoring.
+
+1149
+38:31.140 --> 38:33.150
+And so I think that relationship
+
+1150
+38:33.150 --> 38:35.100
+is important to continue to have.
+
+1151
+38:35.100 --> 38:37.650
+And today, we already have instances
+
+1152
+38:37.650 --> 38:38.483
+where doctors are saying,
+
+1153
+38:38.483 --> 38:39.316
+"Hey, I really want you
+
+1154
+38:39.316 --> 38:40.830
+to wear a WHOOP or another wearable
+
+1155
+38:40.830 --> 38:41.910
+because I wanna understand
+
+1156
+38:41.910 --> 38:42.870
+and help you monitor
+
+1157
+38:42.870 --> 38:44.280
+your autoimmune condition, right?"
+
+1158
+38:44.280 --> 38:46.560
+And so when you have longitudinal data
+
+1159
+38:46.560 --> 38:48.060
+and you understand your own baseline
+
+1160
+38:48.060 --> 38:49.800
+and then you see deviations of that,
+
+1161
+38:49.800 --> 38:51.480
+it allows you to get that prompt medical
+
+1162
+38:51.480 --> 38:52.530
+attention that you might not have
+
+1163
+38:52.530 --> 38:55.020
+otherwise gotten if you didn't have a wearable.
+
+1164
+38:55.020 --> 38:58.590
+We're also seeing people manage conditions like,
+
+1165
+38:58.590 --> 38:59.880
+you know, improving their mental health,
+
+1166
+38:59.880 --> 39:01.680
+which is so deeply related to sleep.
+
+1167
+39:01.680 --> 39:03.480
+And so you can see when you have
+
+1168
+39:03.480 --> 39:04.440
+somebody wearing a wearable,
+
+1169
+39:04.440 --> 39:06.390
+if their sleep patterns are getting erratic,
+
+1170
+39:06.390 --> 39:07.620
+you know, there's real wisdom there.
+
+1171
+39:07.620 --> 39:09.420
+And so they're able to have richer conversations
+
+1172
+39:09.420 --> 39:10.530
+with their healthcare providers.
+
+1173
+39:10.530 --> 39:11.370
+And so I think whilst
+
+1174
+39:11.370 --> 39:12.810
+it's not always formal relationships,
+
+1175
+39:12.810 --> 39:14.310
+this pattern's already happening
+
+1176
+39:14.310 --> 39:15.393
+and will continue.
+
+1177
+39:18.300 --> 39:23.300
+<v ->I have conversations with doctors</v>
+
+1178
+39:23.430 --> 39:25.170
+about, you know, you're talking about
+
+1179
+39:25.170 --> 39:26.820
+in-between being in the clinic
+
+1180
+39:26.820 --> 39:30.390
+and being at home, one thing that I see is
+
+1181
+39:30.390 --> 39:33.990
+for cancer patients undergoing chemotherapy
+
+1182
+39:33.990 --> 39:36.360
+or you know, a stem cell transplant
+
+1183
+39:36.360 --> 39:37.533
+or something like that.
+
+1184
+39:38.490 --> 39:39.870
+I talk to doctors who recognize
+
+1185
+39:39.870 --> 39:41.490
+that if they can monitor you
+
+1186
+39:41.490 --> 39:43.140
+after they discharge you,
+
+1187
+39:43.140 --> 39:45.540
+they can intervene more quickly, right?
+
+1188
+39:45.540 --> 39:48.150
+They can see the signs of you're declining
+
+1189
+39:48.150 --> 39:50.190
+or sepsis, things like that,
+
+1190
+39:50.190 --> 39:52.620
+and they can get you in back to their office
+
+1191
+39:52.620 --> 39:55.020
+and they can intervene before you wind up
+
+1192
+39:55.020 --> 39:56.460
+showing up in the emergency room,
+
+1193
+39:56.460 --> 39:58.620
+which is extremely expensive for them
+
+1194
+39:58.620 --> 40:01.442
+because they don't want to see you readmitted.
+
+1195
+40:01.442 --> 40:03.450
+I've talked to doctors
+
+1196
+40:03.450 --> 40:05.610
+who want to use it for that purpose, right?
+
+1197
+40:05.610 --> 40:06.840
+They see the value there.
+
+1198
+40:06.840 --> 40:09.870
+So it's the remote patient monitoring,
+
+1199
+40:09.870 --> 40:11.970
+but it's like post discharge to make sure
+
+1200
+40:11.970 --> 40:14.400
+that someone's had a hip transplant,
+
+1201
+40:14.400 --> 40:15.630
+it's getting their activity,
+
+1202
+40:15.630 --> 40:17.070
+they're not declining.
+
+1203
+40:17.070 --> 40:18.830
+I think that's gonna be a very common use
+
+1204
+40:18.830 --> 40:20.340
+of wearables in the future.
+
+1205
+40:20.340 --> 40:21.303
+I see that coming.
+
+1206
+40:22.140 --> 40:22.973
+<v Eric>Definitely.</v>
+
+1207
+40:22.973 --> 40:24.960
+Okay, Scott, Alexi, Praveen,
+
+1208
+40:24.960 --> 40:26.370
+Olivier, thank you very much.
+
+1209
+40:26.370 --> 40:27.870
+It's been a wonderful conversation.
+
+1210
+40:27.870 --> 40:29.520
+We certainly could go a lot longer,
+
+1211
+40:29.520 --> 40:30.930
+but we got the red light going on
+
+1212
+40:30.930 --> 40:32.190
+and the next group's
+
+1213
+40:32.190 --> 40:35.190
+gonna want to storm the stage.
+(audience applauding)
+
+1214
+40:35.190 --> 40:36.323
+<v Olivier>Thank you.</v>
+<v Alexi>Thank you.</v>
+
+1215
+40:37.332 --> 40:40.082
+(logo swooshing)
+

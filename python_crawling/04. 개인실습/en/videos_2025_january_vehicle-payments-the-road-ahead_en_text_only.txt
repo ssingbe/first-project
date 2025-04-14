@@ -1,0 +1,924 @@
+<v Chris>This is our largest panel.</v>
+So I'm gonna talk for 3.4 seconds,
+but I wanted to introduce my friend and somebody,
+again, we're celebrating our 25th year of Connect2Car,
+and Suzanne, who is Vice President
+of Advanced Mobility Payments System and Automation
+and anything else you can get your hands into at AECOM.
+So Suzanne was actually here for year two,
+and we put on, when I was working at CTA at the time,
+we put on the first V to V
+or V to X demonstration right underneath this building,
+which used to be a parking lot.
+So think of that 24 years ago.
+You're the only one that I've had that goes back that far.
+Everybody else has left me.
+So thanks for coming back.
+<v Suzanne>Of course.</v>
+<v Chris>And without me muttering up the panel,</v>
+Suzanne, thank you so much.
+<v ->All right, thank you, Chris.</v>
+Okay, so I'm so excited about this panel,
+and I'm so excited I brought a jury for you
+because there's just so much to say.
+So 2025 is gonna be the year.
+We've been trying to figure out
+how to do payments from vehicles since I've been working,
+since I've been working.
+So, and this was so exciting that so many people
+had so many great things to talk about
+that they're actually doing now.
+And we're gonna see what's gonna happen in 2025.
+By the time we get done this panel, you're gonna be shocked.
+So our format's gonna be a little bit different,
+because most people don't know
+what's going on with vehicle payments.
+Most people in the world don't know,
+most people in our industries don't know.
+So I'm gonna ask everybody here
+to do maybe a three- to five-minute introduction
+of themselves and what they're accomplishing in this field.
+And then at the end,
+we're going to do some really quick questions
+about what's coming up.
+Is that okay with everybody as an approach?
+I thought that was good to do with so many people.
+Okay, so first up is JJ, and have at it.
+<v ->All right, I'll go up here.</v>
+<v ->Perfect.</v>
+You can go wherever you want,
+if you wanna stand up or sit down.
+It's all good.
+<v ->Just do it this way.</v>
+<v ->Perfect.</v>
+<v ->So thanks everybody for coming.</v>
+And you're probably wondering why
+is a government agency even here, and why am I here?
+Right?
+So, you know, I've been doing in-vehicle payments
+for over 50 years,
+and automated in-vehicle payments for,
+believe it or not, almost 40 years.
+You know, we started the toll industry
+with the organization I helped co-found called E-ZPass.
+And if you look at E-ZPass as an in-vehicle payment system,
+although it's only doing tolling, and now some parking
+and some other things, you know, we're doing, we're one
+of the top five of all payment processors in the country,
+which is pretty impressive.
+You know, we're doing over $10 billion annually in revenue,
+and if you look at the rest of the country
+and what they're doing and add that in,
+it gets even bigger than that.
+The other issues that we're starting to have,
+if you do a SWAT on the toll industry right now,
+you're gonna see some challenges coming ahead.
+So the transponder, for instance,
+there is currently a company looking
+at taking that frequency band.
+And when we started E-ZPass, we looked at it,
+and basically, the E-ZPass transponder right now
+that we used came from Los Alamos.
+It was a technology transfer out of the military,
+but when we started E-ZPass, it was this,
+we weren't the first.
+There was a system in Dallas,
+they used a different technology,
+and of course, when we started,
+we thought we could do it better.
+So we used something different, and then California
+and others used different technologies,
+and then Succeed came along, and it came different again.
+So interoperability was a problem.
+But now with connected vehicles coming along
+and how interoperable the toll agencies have become due
+to necessity and people not just traveling in one state,
+you're starting to see, you know, the ability
+to start moving into a more connected vehicle side.
+In addition, when we started tolling,
+we started it to move traffic.
+We didn't care about the revenue, really,
+it was just to move traffic.
+That model has totally changed.
+Now we're looking at it as a revenue source,
+the way to pay for new roads.
+You know, when I started in this business,
+it was a million dollars a mile,
+now it's 110 million a mile
+for the road we opened this year.
+So the transponder is a problem also.
+And with our a hundred million customer database
+that we have right now,
+it's time to leap forward into vehicle payments.
+In North Carolina alone,
+we are looking at new technologies
+and the way to open our APIs,
+and we're actually looking at to do some pilots,
+and to bring the industry together.
+I'm still on the executive board of E-ZPass,
+so I know it's going there.
+I'm still on IBTTA working with them.
+So, you know, we've piloted other technologies too.
+We piloted that gasoline with Circle K,
+we piloted McDonald's in fast food,
+and we know the public wants it.
+We know there's problems in the financial model
+and bringing it together.
+But it's all possible.
+It's all possible, and Succeed,
+it's starting to move forward at such a rapid rate
+that the toll industry's
+having even issues keeping up with it.
+So I'm not saying there's not gonna be challenges,
+but you know, we're hoping that within the next year
+that we start seeing some active pilots within this country,
+not only with us, with others.
+The key is to have this open platform,
+and not have, you know, frankly,
+I'd like to get this whole process out of government
+and into an open payment platform that,
+you know, is commercialized.
+So with that, Suzanne, I'll turn it back to you.
+<v ->Awesome, JJ, did you mention,</v>
+I don't know if, JJ, if you said it,
+but he's the executive director
+of North Carolina tolling authority,
+and so we have, for the first time, I think,
+in the room, government agencies
+executing tolling transactions over the air,
+and potentially disrupting the whole transponder industry
+by doing payments from cars.
+And I'm gonna introduce Cathi
+and doing some of the same stuff.
+Please go ahead.
+<v ->Yes. Hi, I'm Cathi Chinn.</v>
+I'm the Vice President of Innovation
+and Connected Vehicle Services at Verra Mobility.
+And Verra Mobility is a publicly traded company.
+I've been in business about two decades,
+and we've been serving transportation needs
+for quite some time.
+And what I mean by that is that we have serviced some
+of the largest fleets in the fleet managed carriers
+in the world.
+And we provide title
+and registration services, violation management services,
+tolling managed services.
+In fact, we're the largest
+global tolling managed service provider.
+And that's just one division.
+That's commercial services in which I work in.
+Verra Mobility also has two other divisions,
+one in parking, T2 Systems,
+servicing municipalities and universities.
+And our government services,
+which is your speed enforcement,
+red light cameras, speed cameras, school bus safety,
+I don't typically bring that up in social networks,
+'cause once you start talking about the fact
+that tickets are going out, you become really unpopular.
+So I joined Verra Mobility about three years ago,
+little over three years ago.
+And so excited to do so.
+I've been in transportation working
+with connected vehicles telematics data predominantly
+in safety and efficiency for over 20 years.
+But coming to Verra Mobility, they were looking
+for a really innovative shift in play
+into the automotive market,
+'cause it just makes sense, right?
+And I think that we've all talked about that for a while.
+We have a connected vehicle services platform
+that we have developed in partnerships with tolling agencies
+and automotive companies that we have had in play,
+in pilot, for about two and a half years,
+and just commercializing at the beginning of this year.
+And because of my desperate need to just fit in,
+I'm gonna run with the tolling theme here.
+We have been piloting a lot
+of different operational scenarios for tolling.
+So obviously we're thinking about payments,
+but also the complexities with tolling agencies
+and the toll roads, whether it's an express lane
+and you have to think about lane discrimination,
+whether it's high occupancy discounts
+and looking at passenger detection systems to determine
+how many people are in the vehicle,
+so you can appropriately rate that toll
+and pay that toll in real time.
+Also, congestion.
+Equity is a really big thing when you think
+about deploying toll roads in communities,
+especially disadvantaged communities,
+the impact that that can have.
+So we've also been piloting different mechanisms
+to identify equity and equity advantaged pricing.
+And so we're super excited
+to really continue with this platform.
+In fact, we've had some amazing partners,
+some sitting on this panel today,
+who have helped us in this connected vehicle journey.
+But it's definitely the time. The time is now.
+I think that when I look at connected vehicles
+and in-vehicle payments, it's really the same lifecycle,
+I think, very similar that we went through
+with mobile phones.
+And so if you remember we had mobile phones,
+we were afraid of smartphones for a while,
+and then slowly but surely,
+we begin to share more information like location data
+and other information.
+And we became comfortable with using the digital wallet
+of the phone, and I see that same transition happening
+in the vehicles.
+And so I think there's a lot
+that we can learn from that practice,
+and certainly it's one way
+to ease people into it of reminding them
+that we've been through this before.
+We went through it with the PCs,
+we went through it through mobile phones.
+I'm not familiar with the transition,
+'cause I'm way too young for the PCs,
+but my boss is in the audience,
+and so he is very familiar.
+<v Suzanne>Your boss for now.</v>
+<v ->Yeah.</v>
+My former boss (laughs) was there.
+But, I mean, we've been through this before, right?
+And so when we think about that bridge,
+I think it'll be easier this time
+than it has been in the past.
+But it's certainly the same type
+of requirements from a privacy perspective
+is obviously a concern,
+how we use that data, security authentication.
+One of the things that I'll mention is Verra Mobility,
+I mentioned that we service large fleets.
+Well, we are the primary provider for rental car companies
+as well with all of these different transactions.
+And so there's this shared aspect of payments.
+And so I think that's still one of the complexities
+that we have to think through
+and work on is that if you have a digital wallet associated
+with your car,
+and we start to move into shared environments,
+how do you authenticate, right?
+And not just from a rental car perspective and car share,
+but think about other people that use your car.
+There's new communities coming up where no cars are allowed,
+and basically you have a shared pool of cars.
+How do you think about managing the digital payments
+along the user journey for road charges?
+And when I think about road charges,
+I'm thinking about parking, I think about fueling,
+EV charging, tolling, road usage charge.
+So a lot of complexities there,
+but I think it's a very exciting time
+to be a part of this transition.
+<v ->I think it is too.</v>
+And we're gonna move on down the value chain.
+We talked a little about infrastructure and tolling.
+We're gonna move to a little bit
+of the other aspects of the payment.
+<v ->Hi, my name is Cynthia Hollen,</v>
+and I'm the CEO and founder of Mavi OnMyWay Commerce.
+And I've been working in the e-commerce
+and digital channels since the beginning of e-commerce.
+And I agree with you, Cathi,
+that payments have gotten in some ways easier
+since we went from the, "Oh, I don't know if it's safe
+to type my credit card number into this browser" thing,
+to now feeling much more comfortable with that.
+So it's gotten easier from that perspective,
+but it's actually gotten harder
+because payments has become a consumer service,
+whereas it used to be a thing that I had to do
+to buy a thing.
+Now it's a thing all by itself.
+We're putting, we're launching shopping from cars this week,
+next week, I think,
+so soon, you're gonna be able to buy an Audi,
+"Hey Audi, I'm hungry."
+"Okay, Cynthia, your favorite cheeseburger can be ready
+for you in five minutes.
+Do you want me to pay for it for you
+because your credit card is already built
+into the wallet of the car,
+tell them that you're coming,
+and by the way, would you like to have, you know,
+points accumulated as part of that?"
+This is what's happening, right?
+I'm talking to consumers
+and I'm telling them this amazing thing.
+Your car is gonna be able
+to make sure your French fries are crispy
+for you when you arrive
+and they're gonna be able to tell the delivery person
+what parking space you're in.
+You know what they ask me?
+They say, "Oh, am I gonna be able
+to get my loyalty points for that?"
+"Oh, can I use Apple Pay for that?"
+"Oh, am I gonna be able to have it identified from the,
+how do I know that it's my husband's credit card
+and not my credit card?"
+So the expectation from consumers about all
+of the sophistications of payments that they've come
+to be part of their everyday world are now the thing
+that's making payments more complicated.
+It's how many different ways people want to be able to pay,
+and we're really excited to bring that to people,
+because the more, frankly the more ways they want
+to give me their money in as many different places
+as they are, we're building more and more pipes.
+Those 72 minutes a day
+that we're all trapped in a car right now
+with not an easy way to spend more money is the playground
+for all of us to collect in right now.
+<v ->All right, thank you, Cynthia. John?</v>
+<v ->Hi, my name is John Moon. I'm with 19Y Advisors.</v>
+We kind of consult with clients on the automotive industry.
+Prior to this, I was a managing director
+at Honda Innovations working on in-vehicle payments.
+I think it's been now almost 10 years
+that I've actually worked on this.
+Not quite as long as the toll folks down there, but-
+<v Cynthia>Oh, the toll folks.</v>
+<v ->I think in 2017 we showcased some work together</v>
+with fuel pumps and parking meters,
+and then in 2019, kind of showcased an entire platform.
+I also worked more recently
+with the in-vehicle payments special interest group
+with COVESA, who's kind of a supporting sponsor
+of this session and panel as well.
+So I've kept in touch with a lot of the technology
+and the partners and the players
+and the OEMs within in-vehicle payments.
+And I have to say we are seeing the most,
+let's say signs of life in terms of a ecosystem
+that's beginning to thrive.
+You know, we have all of the parts and components.
+I think what we'll see this year is actually a bit
+of that organization that needs
+to make that ecosystem actually something
+that you deliver to clients and customers.
+And I think we're gonna start seeing that ability
+for the technology
+to really now be in consumer's hands, or in their cars,
+and you'll be able to start like actually seeing some
+of these transactions.
+I think there's an expectation
+that this capability should be there,
+and I think what you're starting to see is,
+automakers are actually beginning to deploy technologies
+that make it possible.
+And some of that's connectivity, some of that's screen size,
+some of that is actual like platforms, Android Automotive,
+or CarPlay even.
+So all of the ingredients are there,
+we just need to bake the cake,
+and hopefully that's what we start seeing here
+in the next few years.
+<v ->We're gonna see it this year.</v>
+So we've done infrastructure,
+we've done payment approaches or systems, payment systems,
+and now we have the banks.
+So Abdullah, if you could kick that off.
+<v ->Sure.</v>
+Hi, my name's Abdullah Pandit,
+and I work at JP Morgan Payments.
+So we talked about a lot of the use cases.
+We talked about tolling, we talked about QSR,
+we talked about parking here.
+The underlying capability across all these use cases
+is being able to make a payment for those,
+and in a safe, frictionless, efficient manner,
+whether that's through card payments
+in certain jurisdictions and countries,
+there's alternative payment methods as well like bank rail
+for certain use cases might be better off.
+So what we're looking to build at JP Morgan
+is a vertical SaaS platform dedicated to mobility,
+and we are working with a number
+of partners in the ecosystem,
+and we strongly believe that there is growth in this sector,
+and I think I have spoken to most
+of the people in this panel already,
+and that's something we really wanna bring in,
+and the fact we being working with a lot of these players,
+whether those are auto OEMs,
+whether those are energy majors or petrol majors,
+we're trying to build this platform of life.
+<v ->All right, Mo?</v>
+<v ->Hello, my name is Mohamed Abouelenin,</v>
+and I'm VP of product architecture
+and social engineering at MasterCard.
+Just a small like clarification,
+we are a network of banks, not just one bank. (laughs)
+<v Suzanne>Okay.</v>
+<v ->So we have been working, and we've been privileged</v>
+to be leading the payment innovation
+for the last almost decade that touches the commerce
+for digital and physical world,
+and with a specific interest
+and focus on connected vehicles,
+'cause of what we just have heard from all the use cases.
+That's very something very common we have heard
+from Cathi, from JJ
+that they are very keen on finding the best way
+for interoperability for payment,
+and this is exactly what we are working on.
+So we have been working on with a bunch of partners,
+as Abdullah mentioned, with a main goal,
+and more actually focusing
+on how can we bring all those partnerships in a way
+that we can enable standard way to communicate
+between the service providers and the credential providers?
+So the payment becomes very secure,
+seamless for the consumers,
+and we can leverage all the great technology data points
+that we have been seeing on the rise
+from the authentication,
+knowing that the how many actually passengers
+in the vehicle, and how can we leverage this
+in a very interoperable way based on a standard.
+So when we look at MasterCard, those actually solutions,
+we mainly focus on how first thing is how we make sure
+that the transaction is seamless, frictionless, secure.
+And then the second actually thing comes for us is the easy
+for the user journey to load their credentials,
+make sure that they are able to transact
+from an open loop infrastructure,
+that means they're banking cars.
+They don't need to juggle multiple apps,
+or multiple accounts, or QR code.
+That simplifies a lot their user journey on the second side,
+and the most important thing is we wanna make sure
+when we talk about partnerships,
+we meet our partners where they are.
+We don't ask them to just implement
+and live with the legacy solutions that have been there
+for payments for like 20 or for 30 years.
+We wanna make sure we co-innovate together, we hear them,
+we make sure we take the extra miles that we need to take
+to land where we need to land,
+and we don't need to boil the ocean on the other side.
+So we wanna make sure we start somewhere with what we have,
+and make sure we don't compromise on the payment principles,
+like secure, fast, seamless and and privacy by design.
+But we also wanna make sure we start,
+actually start meeting the demand from the customers,
+as JJ was mentioning.
+But last but not least, I would like to,
+wanna focus on the fact that in order to achieve this,
+we realized that we cannot do it alone.
+We have to do it with a bunch of the right partners,
+but also we wanted to build this infrastructure,
+and build this standardization
+for the infrastructure together with partners.
+And this is where we actually were have been leading
+with an EMVCo, which is the payment standardization body
+that actually assures the interoperability.
+This is how today, when you tap your phone
+or your card on a terminal,
+it doesn't actually matter whether it's a MasterCard
+or Visa, Amex, because it's the same actually protocol used
+to communicate between the device and the terminal.
+This is what we mean for interoperable,
+and this is what we exactly trying to bring here
+for all connected vehicles use cases.
+We are actually spending from tollways,
+parking, EV charging, fuel,
+we are covering all those use cases trying
+to lead standardization with an EMVCo
+so we can have the base
+and foundation for all partners to innovate upon,
+and scale the use case with other actually partners
+within the ecosystem, and with that, back to you, Suzanne.
+<v ->Yeah, that was amazing.</v>
+By the way, everyone did that so precisely,
+and we have 18 minutes left, so that's very exciting.
+So when we think about the value chain of this transaction,
+there's one group which is missing,
+because we didn't have any more room
+for more chairs up here.
+I'm not even kidding, and that is the OEMs.
+And so I'm gonna pose, you know,
+the question that we talked about ahead of time,
+which is I'm gonna ask all of you to talk
+a little bit about maybe one
+or two specific things that you're going to do in 2025,
+because you know, I think maybe it's because I got
+an actual vacation over Christmas,
+and like for a few days I didn't leave the house,
+but I came back feeling so fired up
+and so excited about this year
+that this is gonna be the year where it happens.
+And so I'm hoping that all
+of you guys could maybe talk a little bit
+about one specific thing that you're doing this year
+to make payment from the vehicles a reality,
+and if you could incorporate maybe your work with the OEMs,
+because they're not here, but I assure you,
+and I assure you that they are deeply engaged in this,
+and deeply involved with many members on our panel,
+and independently working on this also.
+So they're not left out of what we're working on here.
+So if you wouldn't mind,
+could you kick us off, JJ, and talk about that?
+<v ->Sure, so this year, I am actually really excited,</v>
+'cause North Carolina, as a business unit,
+we'll call it like that, 'cause we're actually a business
+within government, we're actually responsible for our own,
+you know, P&amp;L and stuff like that.
+So I don't believe in just doing things to do 'em,
+and I don't believe
+in doing 7 million white papers to get there.
+So you know, we're the ones that came up
+with the video enforcement system,
+you know, out of North Carolina.
+We actually piloted that originally,
+and we were the first ones to do all electronic tolling too,
+and take the toll booths out.
+So you know, in anything, you have to prove the concept.
+So this year, second quarter, hopefully, you know,
+we're going to have a connected vehicle payment system,
+end-to-end, to try to make that happen,
+to prove the concept that it really works.
+We're working with a couple car companies,
+a couple of the payment providers,
+and the ultimate goal is to come up with an open system
+that will do not just tolling,
+but the other things I talked about earlier, parking,
+fast food, you know,
+basically anything you could talk about,
+car washes and things,
+like open it up to the things you talked about
+is ordering your, your French fries
+and your hamburger, right?
+And then getting points for it,
+and making sure that it all comes together.
+There's a lot to do to get there.
+Tolling, as you know, has been kind
+of a compartmentalized thing between agencies.
+But you know, as I said,
+I was there when we founded E-ZPass.
+Nobody wanted to do it, right?
+It was just seven agencies originally.
+Now we're up to like 36, right?
+We have 15 agencies partnered
+with us on this connected vehicle pilot
+that we're working on for payment currently.
+We've come together on interoperability.
+Now you can drive the whole East Coast,
+and into Texas, and Colorado,
+and others on the same transponders and our license plate.
+So we're working together on making it happen,
+and again it's not just North Carolina trying
+to come up with a system for them.
+We're trying to come up with an open payment system
+and an open platform that will work for everybody.
+My CTO Manish is in the audience,
+and in reality, we'll probably go
+through a couple different phases of this.
+If anything, E-ZPass did too, right?
+All electronic toll collection.
+There's one agency that just went live
+with it 35 years later.
+So you know, it's gonna evolve.
+This is a evolution, not a revolution.
+But I think you brought up the cell phone.
+I think that's a good analogy.
+You know, probably not as fast as AI caught on to the,
+you know, that's probably the first one now for expansion,
+and cell phones were second,
+but I think this is really gonna take off.
+<v ->All right, Cathi.</v>
+<v ->So I mentioned earlier</v>
+that we have been piloting road usage charging
+and tolling for about two and a half years.
+And so in 2025 is our point of commercialization,
+and so we're working
+with multiple OEMs at different phases in the pipeline,
+but it will be really exciting to see the work
+and all of the lessons learned applied
+for the commercial aspect this year.
+The one thing that that I wanna mention I thought about
+as you were talking, JJ,
+is that it has been essential to have the right partners
+in the room when you go about things like this.
+And so, JJ, you were talking about your community,
+and the tolling community,
+and so for those of you who aren't aware,
+there's a larger organization, IBTTA,
+which is a collection of toll agencies
+and industry experts that jump in fully ready
+to move things forward.
+And so I can tell you that without their help
+and without their participation, without them allowing us
+to use their toll roads
+and the different scenarios that they have,
+we wouldn't be as far along as we are today.
+We wouldn't be ready for commercialization.
+And so I see more of that in the future,
+and I think that there's other organizations
+in authoring bodies
+that will probably dive a little bit deeper into
+to get that type of support.
+But our focus is commercialization
+and learning from the consumer experience.
+<v ->That's awesome. Thank you.</v>
+So we have toll deployments, look for this year.
+By this time next year,
+we'll have several toll deployments.
+Cynthia, I know you can't see the clock.
+It's at 12 minutes.
+You don't have the benefit of that.
+So we have three minutes for, oh see,
+look at how clever you are, thank you.
+<v ->I am going to speak on behalf</v>
+of what I call great big giant motorized shopping carts
+on wheels, the OEMs.
+We work closely with a lot
+of these motorized shopping cart companies,
+and in fact, we're invited into the industry four years ago
+by several of them, who smartly said we've been trying
+to put shopping, in-car shopping in vehicles for years,
+and we finally figured out that we're car guys.
+We actually need someone who understands retail
+and understands consumers,
+and understands payments to tell us what is it
+that consumers want.
+Or as I like to say, how can I take all
+of your money in every place that you are?
+Can you please retail experts, marketplace experts,
+consumer experts, tell us what do we do
+with this fabulous biggest interactive screen
+in your household that is GPS-enabled
+and tied to an in-car wallet,
+and actually provide an experience
+that consumers care about?
+And we know that it's tolling, and we know that it's fuel,
+and we know that it's parking
+and we think that it's these other things.
+Can you tell us what that means?
+So I think that's great
+that the OEMs are thinking about ways
+that this consumer electronic device can become a real part
+of my world other than a piece of transportation.
+And they are all out there thinking about it.
+In terms of commercialization, as I mentioned,
+we are actually rolling out into millions of vehicles
+with in-car commerce in the next weeks,
+in the next days, I think, certainly up
+to about 15 million vehicles in the United States this year
+across about four or five different OEMs.
+And the technology partnerships, as Cathi mentioned,
+are critical to making that happen,
+not just in the car world, but in the retail world.
+How do you partner with Walmart?
+How do you partner with Oracle, and NCR,
+and all of these players, because the cars are a screen,
+the retail coming from the world of retail, I'm biased,
+the retail is what's really out there,
+and this is another channel for us to sell more things.
+If you wanna see an example of some of the great technology
+that's being being put in place, JP Morgan, and Mavi,
+and Qualcomm have a demo right downstairs
+where you can see a combined using the bio identity
+to recognize a person figuring out which payment device
+to use based on that camera.
+So the valet isn't stealing your car and going out
+and buying a burger on, you know,
+on joyriding with your burgers.
+And then Mavi, of course,
+is processing the transaction and putting that through.
+So the problem has been solved.
+What we've all been trying to think about making happen
+for 10 years, it's here now.
+So shop a lot from your cars.
+<v ->And to Cynthia's point, the technology,</v>
+and what I said before,
+the ecosystem's kind of primed and ready.
+I worked with Mohamed's group before, five years ago,
+and the technology, payments technology,
+was there and available then.
+It's available now.
+But again, I think there are many components
+to the ecosystem that need to mature,
+and I think you're starting to see that maturity.
+To take a transportation analogy,
+I don't think it's gonna be a bang.
+I think it's gonna be like a train leaving the station.
+More people will get on board, you'll see more
+and more implementations, you'll see more success,
+and that will build on itself.
+So I think it'll be more like a train, less of a bang,
+and that's kind of looking at a variety
+of the different OEMs that I work with through partners
+and a variety of other partners that we advise
+or clients that we advise.
+But yeah, I think you'll start to see more
+and more of it this year.
+<v ->So I wanna sort of...</v>
+Hi, so I wanna touch upon some of the stuff that John said
+and Cynthia said earlier.
+So payments has been around for a while.
+Vehicle is just a different form factor.
+You've had mobile phones.
+Before that, you had desktops.
+Before that, you had physical form factors, physical cards.
+What makes payments from automotive or vehicles unique
+is the identity and authentication piece
+because is very different
+from how it's done in other form factors.
+And I think that's something which
+was something we wanna focus on solving this year.
+And that's something, as Cynthia mentioned downstairs,
+you can go to the Qualcomm booth.
+We've done it with Qualcomm where we're showcasing
+how the payment credentials tie to the biometric facial ID
+of the individual can be used to perform a payment.
+And I think that's one
+of the things we've really pushed this year.
+We are already working with a number of automotives
+across Europe and North America,
+and that's something we wanna sort
+of bring out over the course of the year.
+<v ->Thank you, so I will start by saying</v>
+that we're gonna actually make
+all your wishes happen for 2025.
+We're gonna build the all the rail for this to make happen.
+Yeah, late Santa Claus
+So let's start by maybe actually how we closed 2024.
+So we have been able by means of engagement
+with like great partners in the OEM industry, from OEM side,
+from service provider side, from service integrators side,
+to be able to build lots
+of the infrastructure needed for car commerce to happen.
+And with one big actually milestone happened,
+end of last year, that when one of the major OEMs,
+I wish we can actually disclose the name,
+we have been able
+to run the first open loop payment transaction
+for EV charging session using an actually production vehicle
+with zero modifications on the vehicle,
+and small modifications on production charger.
+That was actually a great achievement,
+because it built and allowed us to build a foundation
+that's gonna enable lots of those interoperability
+that we have been talking about
+and facilitate more
+from what we have been actually discussing today
+from use case perspective.
+And what we are looking for in 2025
+is run actually at this couple of pilots
+for a couple of use cases toll agencies,
+and EV charging is gonna be on top of them
+to demonstrate actually how the standard's gonna help scale
+those use cases with different industry stakeholders.
+Thank you.
+<v ->Wow. That was great.</v>
+We did that with five minutes left.
+Does anybody in the audience have any questions?
+I know we're not set up to do that, but I can come down and,
+Oh, go ahead. Let me come down.
+All right.
+<v Audience Member>So I think I heard you say you guys</v>
+are piloting some in-vehicle payment scenarios
+with EV charging.
+<v ->That's right.</v>
+<v ->Okay, 'cause I know a lot of times,</v>
+there are challenges when individuals
+are using their apps to charge,
+and there's always issues, and so definitely like the toll
+and all the other activities, 'cause those are real.
+But you know, in order to drive EV demand
+and getting people more comfortable, just seeing more pilots
+around in-vehicle payments for charging
+just to make that seamless.
+<v ->I love the question.</v>
+That's exactly what we have been actually busy doing
+for the whole last year,
+and for exact addressing your concern,
+and as we said from the second actually pillar
+within MasterCard, how we look at those things.
+We wanna make sure that users have the freedom
+to choose whatever actually payment method they wanna have
+without actually being forced
+to have specific apps, creating an account,
+private label cards.
+They wanna actually make a transaction,
+this should be truly
+what is called in the EV charging industry plug and charge.
+That's what we are standardizing and going after
+to be more specific about EV charging open
+to payment standardization.
+This is exactly what we're piloting.
+But of course,
+because it's a very well established industry,
+as you know, with some sort of legacy,
+we have been trying to find the right
+and the best solution that actually,
+that does not actually necessarily disrupt
+the existing infrastructure from the OEM side
+or the charging side,
+but it just provide the minimum requirements
+that allows for payment to run securely and seamlessly,
+and address exactly your concern for the end consumers.
+<v ->And I think JJ wanted to add to that.</v>
+<v ->Yeah, I think, you know,</v>
+the whole electric vehicle concept that came along,
+I own one, and I own a hybrid also,
+has really pushed technology and vehicle, you know,
+10,000%, and as far as payment,
+you know, every time I go
+to charge away from my house, you know,
+it's an issue whether you're using whoever's or whatever.
+So I think that's a driver
+for this technology going forward, and in my industry,
+in tolling it's the business model too, right?
+So again, I said it before
+that originally we were designed to move traffic.
+Right now we're looking at revenue in order to build,
+you know, $110 million a mile roadways.
+The current business model we have does not sustain that.
+You know, we kind of inserted ourself
+as the middleman in the whole transaction
+where you don't really need that.
+I equate it to like,
+you should be like buying a shovel
+at Home Depot or wherever.
+You go, you buy the shovel, you paid,
+you make the payment, and you're out, right?
+You accumulate the points or whatever.
+You know, we have other issues.
+And two, I mentioned the transponder, out-of-state payments.
+You know, there's, you hear it in local news
+and all over the time, all over the place
+is that connecting across state lines is a problem.
+You know, in state we could hold your registration,
+we could do things like that, but out of state,
+we're accumulating hundreds of millions
+of dollars worth of uncollectible debt, right?
+So it's an unsustainable model that we have
+to look at going forward.
+And in any transition, as I said before,
+when we did E-ZPass,
+it wasn't easy to put it that way, right?
+And the technology was the easy part,
+and we had, when we went into it,
+we thought that would definitely be the hard part.
+It wasn't.
+It was the how do we handle the transactions,
+when are the payments being made?
+All that stuff that, you know, we didn't think about,
+that we know about now.
+So I think now is the time, it's a time in our industry
+who holds, you know, hundreds of millions of dollars,
+billions of dollars worth of transactions,
+and billions of transactions every day,
+that it's time now to move forward,
+and you know, eventually, tolling's not gonna be the dog.
+We'll probably be a flea on that dog
+because the size of the rest of the parking,
+and everything is bigger.
+But I think we're available for a launch.
+You know, we're the ones that are here now.
+We're the ones that have been doing it for, you know,
+and we have the customer base,
+so people are used to paying us.
+So anyway, I think this is a great time to move forward
+with connective vehicle payment,
+and if we don't do it now, it's gonna be a long time.
+<v Suzanne>And we have 30 seconds left.</v>
+I have one more question also.
+Thanks. Oh, is it, Roger? (laughs)
+Do you guys know him?
+<v Roger>Who knows me? Nobody.</v>
+Cathi, I got here a little late.
+I'm wondering, have you talked about the kind
+of run rate annualized
+that Verra is processing on connected cars?
+<v ->I could talk about,</v>
+publicly, I can talk about transactions,
+and just on the tolling side alone,
+we process over 300 million transactions a year.
+And so obviously that grows once we move into
+and commercialize with the OEMs.
+In fact, we're JJ's largest customer.
+In fact, almost every toll agency,
+we're their largest customers,
+because we actually hold the toll liability,
+and put the capital up to secure those transactions.
+<v ->All right. And we're out of time.</v>
+Also check out in ground dynamic charging.
+This is something that we're working into at AECOM.
+So the roads will be equipped with equipment
+to charge vehicles as they go by.
+And so we'll be looking at how to do payments for that too.
+All right, we'll answer questions privately after this,
+'cause our time is up.
+Thank you, everybody.
+<v ->Thank you, everybody.

@@ -1,0 +1,4223 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.583
+(upbeat music)
+
+2
+00:11.280 --> 00:12.270
+<v ->Thank you for being here.</v>
+
+3
+00:12.270 --> 00:14.910
+Final session in this room of this day.
+
+4
+00:14.910 --> 00:16.953
+So you guys are the survivors.
+
+5
+00:17.820 --> 00:19.170
+So we're talking about AI
+
+6
+00:19.170 --> 00:21.420
+in the context of Hollywood.
+
+7
+00:21.420 --> 00:22.740
+My name is Lesley Silverman.
+
+8
+00:22.740 --> 00:24.150
+I'm the head of New Technology
+
+9
+00:24.150 --> 00:27.090
+at United Talent Agency in Los Angeles.
+
+10
+00:27.090 --> 00:30.540
+We're a leading global talent and entertainment company.
+
+11
+00:30.540 --> 00:32.670
+And first, before we dive in,
+
+12
+00:32.670 --> 00:33.720
+I just wanna acknowledge
+
+13
+00:33.720 --> 00:36.000
+that most of us on this panel
+
+14
+00:36.000 --> 00:37.950
+live in Los Angeles
+
+15
+00:37.950 --> 00:40.770
+and our thoughts and our hearts
+
+16
+00:40.770 --> 00:43.170
+are with our family and friends
+
+17
+00:43.170 --> 00:44.970
+and those people that we know
+
+18
+00:44.970 --> 00:46.380
+who've actually lost their homes.
+
+19
+00:46.380 --> 00:50.430
+And luckily we're all safe for now,
+
+20
+00:50.430 --> 00:52.530
+but I just wanna acknowledge
+
+21
+00:52.530 --> 00:53.820
+that there's a lot going on.
+
+22
+00:53.820 --> 00:56.040
+So if any of us seem a little distracted,
+
+23
+00:56.040 --> 00:57.840
+I think that's why.
+
+24
+00:57.840 --> 00:59.400
+But we're here to talk about AI
+
+25
+00:59.400 --> 01:00.870
+in the context of Hollywood,
+
+26
+01:00.870 --> 01:03.480
+and I'm very excited to be joined
+
+27
+01:03.480 --> 01:05.130
+by experts on this topic
+
+28
+01:05.130 --> 01:07.200
+and to learn from each of you this afternoon.
+
+29
+01:07.200 --> 01:08.820
+So I'm really looking forward to that.
+
+30
+01:08.820 --> 01:10.380
+So let's dive in.
+
+31
+01:10.380 --> 01:13.020
+First, I just wanna do some brief intros.
+
+32
+01:13.020 --> 01:14.400
+So I'll start with you, Duncan,
+
+33
+01:14.400 --> 01:15.840
+maybe you could introduce yourself
+
+34
+01:15.840 --> 01:18.360
+and tell us how many times
+
+35
+01:18.360 --> 01:20.697
+you've come to CES in the past.
+
+36
+01:20.697 --> 01:22.350
+<v ->(laughing) Thanks, Lesley.</v>
+
+37
+01:22.350 --> 01:23.700
+My name's Duncan Crabtree-Ireland.
+
+38
+01:23.700 --> 01:25.020
+I'm the national executive director
+
+39
+01:25.020 --> 01:26.520
+and chief negotiator of SAG-AFTRA,
+
+40
+01:26.520 --> 01:29.460
+which is the union that represents professional performers,
+
+41
+01:29.460 --> 01:31.400
+broadcast journalists, recording artists.
+
+42
+01:31.400 --> 01:34.350
+We say basically anybody who works in front of a camera
+
+43
+01:34.350 --> 01:35.730
+or behind a microphone,
+
+44
+01:35.730 --> 01:36.720
+that's who we represent.
+
+45
+01:36.720 --> 01:39.390
+We have about 160,000 members in the US
+
+46
+01:39.390 --> 01:40.470
+and actually around the world.
+
+47
+01:40.470 --> 01:45.210
+And this, I believe, is my 21st CES, (laughing)
+
+48
+01:45.210 --> 01:46.340
+so.
+<v ->Anyone in this room</v>
+
+49
+01:46.340 --> 01:48.780
+been here more than 21 times?
+
+50
+01:48.780 --> 01:50.700
+Okay, nobody, all right, you win, Duncan.
+
+51
+01:50.700 --> 01:52.980
+All right, Momo, you're next.
+
+52
+01:52.980 --> 01:54.330
+<v ->Hi, this is Momo Wang.</v>
+
+53
+01:54.330 --> 01:55.620
+I'm an animation director.
+
+54
+01:55.620 --> 01:58.830
+I used to work as at Illumination Entertainment,
+
+55
+01:58.830 --> 02:01.590
+directing the short film and the animation content
+
+56
+02:01.590 --> 02:03.540
+for "Minions," "Despicable Me."
+
+57
+02:03.540 --> 02:05.215
+And my film, "Penglai",
+
+58
+02:05.215 --> 02:07.590
+was shortlist for Oscar 2023,
+
+59
+02:07.590 --> 02:09.180
+Best Anime Short.
+
+60
+02:09.180 --> 02:10.980
+Also, in the past two years on,
+
+61
+02:10.980 --> 02:12.900
+I was engaged with AI filmmaking,
+
+62
+02:12.900 --> 02:15.000
+and my AI film, "Until We Meet Again,"
+
+63
+02:15.000 --> 02:18.360
+was selected by China National Film Museum.
+
+64
+02:18.360 --> 02:19.860
+<v ->Incredible, thank you.</v>
+
+65
+02:19.860 --> 02:20.850
+Nik.
+
+66
+02:20.850 --> 02:22.230
+<v ->Hey, I'm Nik Kleverov,</v>
+
+67
+02:22.230 --> 02:24.330
+chief creative officer of Native Foreign,
+
+68
+02:24.330 --> 02:27.210
+a creative agency that's doing a lot with AI.
+
+69
+02:27.210 --> 02:29.100
+We had the fortune of actually working
+
+70
+02:29.100 --> 02:31.440
+on the Delta keynote here at CES
+
+71
+02:31.440 --> 02:32.820
+a couple days ago.
+
+72
+02:32.820 --> 02:35.700
+And we're very excited about what AI tools
+
+73
+02:35.700 --> 02:38.820
+mean for boutique startup agencies like ours
+
+74
+02:38.820 --> 02:42.300
+to create on a top level.
+
+75
+02:42.300 --> 02:43.320
+<v ->Fantastic.</v>
+
+76
+02:43.320 --> 02:44.280
+Walter.
+
+77
+02:44.280 --> 02:46.560
+<v ->My name's Walter Woodman.</v>
+
+78
+02:46.560 --> 02:49.020
+I work with a production company
+
+79
+02:49.020 --> 02:52.053
+and creative collective called Shy Kids.
+
+80
+02:52.980 --> 02:55.710
+And we are probably best known this year
+
+81
+02:55.710 --> 02:58.800
+for making a film called "Air Head,"
+
+82
+02:58.800 --> 03:01.800
+which was the first kind of short film
+
+83
+03:01.800 --> 03:06.480
+made with OpenAI's Sora video model.
+
+84
+03:06.480 --> 03:07.920
+<v ->Fantastic.</v>
+
+85
+03:07.920 --> 03:10.290
+One other fun fact before we dive in
+
+86
+03:10.290 --> 03:12.930
+is that two of our panelists
+
+87
+03:12.930 --> 03:14.790
+have produced video content
+
+88
+03:14.790 --> 03:16.920
+for the Sphere here in Las Vegas.
+
+89
+03:16.920 --> 03:18.750
+That would be Momo and Nik.
+
+90
+03:18.750 --> 03:20.340
+So both of them have been in there
+
+91
+03:20.340 --> 03:23.370
+and have worked on projects in the Sphere.
+
+92
+03:23.370 --> 03:24.203
+Pretty cool.
+
+93
+03:24.203 --> 03:28.560
+Okay, so before we jump into conversation,
+
+94
+03:28.560 --> 03:30.870
+we're actually, because it's a Hollywood panel,
+
+95
+03:30.870 --> 03:32.250
+we're gonna show a few videos.
+
+96
+03:32.250 --> 03:33.663
+So let's do that first.
+
+97
+03:35.699 --> 03:38.366
+(dynamic music)
+
+98
+04:13.530 --> 04:14.700
+Fantastic.
+
+99
+04:14.700 --> 04:17.250
+Round of applause for that.
+(audience clapping)
+
+100
+04:17.250 --> 04:19.700
+Okay, we're gonna roll right into the next video.
+
+101
+04:20.797 --> 04:21.900
+(bell ringing)
+
+102
+04:21.900 --> 04:24.120
+<v Teacher>Florp, can you come to the front of the class</v>
+
+103
+04:24.120 --> 04:24.990
+and tell us what you learned
+
+104
+04:24.990 --> 04:26.523
+on your solar vacation?
+
+105
+04:27.810 --> 04:28.730
+<v Florp>My name is Florp</v>
+
+106
+04:28.730 --> 04:32.220
+and this is the solar vacation video I made
+
+107
+04:32.220 --> 04:35.760
+for my trip to Planet 3582,
+
+108
+04:35.760 --> 04:40.353
+colloquially, colloquially known as Earth.
+
+109
+04:42.150 --> 04:46.470
+Earth is home to over three trillion living entities.
+
+110
+04:46.470 --> 04:47.910
+Some of my favorites
+
+111
+04:47.910 --> 04:52.623
+are the praying mantis, jellyfish and axolotls.
+
+112
+04:54.540 --> 04:56.610
+Of all the creatures on this planet,
+
+113
+04:56.610 --> 04:59.763
+the most peculiar is one called the human.
+
+114
+05:01.740 --> 05:04.380
+On my trip, my parents informed me
+
+115
+05:04.380 --> 05:07.470
+that they had visited these creatures before.
+
+116
+05:07.470 --> 05:09.930
+Mom and Dad visited Area 51
+
+117
+05:09.930 --> 05:10.763
+on their honeymoon.
+
+118
+05:10.763 --> 05:11.910
+(projector clacking)
+
+119
+05:11.910 --> 05:15.060
+Mom warned me never to get close to the humans
+
+120
+05:15.060 --> 05:17.010
+because they're dangerous
+
+121
+05:17.010 --> 05:19.200
+and because they are scared.
+
+122
+05:19.200 --> 05:21.960
+But I was fascinated with their world,
+
+123
+05:21.960 --> 05:24.210
+I wanted to experience it.
+
+124
+05:24.210 --> 05:25.680
+The carnivals,
+
+125
+05:25.680 --> 05:29.250
+eating uncooked water species on grain,
+
+126
+05:29.250 --> 05:33.696
+art, discoteques, Black Friday.
+
+127
+05:33.696 --> 05:35.130
+<v ->Ah.</v>
+<v ->I saw they made</v>
+
+128
+05:35.130 --> 05:36.840
+a lot of mistakes,
+
+129
+05:36.840 --> 05:38.910
+or what they called, "Oopsies,"
+
+130
+05:38.910 --> 05:41.040
+like when they burned down that big library
+
+131
+05:41.040 --> 05:44.040
+that had all the knowledge that we gave them,
+
+132
+05:44.040 --> 05:45.780
+or when that Austrian duke
+
+133
+05:45.780 --> 05:49.230
+went on vacation to Bosnia.
+(gun firing)
+
+134
+05:49.230 --> 05:51.663
+I wondered if they were always like this,
+
+135
+05:52.590 --> 05:54.150
+always so scared of things
+
+136
+05:54.150 --> 05:57.600
+that they couldn't understand.
+
+137
+05:57.600 --> 05:58.560
+What I learned from them
+
+138
+05:58.560 --> 06:00.723
+is that even though they do oopsies,
+
+139
+06:01.710 --> 06:03.900
+like lots of oopsies,
+
+140
+06:03.900 --> 06:06.060
+they keep trying,
+
+141
+06:06.060 --> 06:07.893
+and sometimes they get it right.
+
+142
+06:09.270 --> 06:11.910
+That's how they made contact with us.
+
+143
+06:11.910 --> 06:15.960
+Even if they were the 3582nd planet to do so,
+
+144
+06:15.960 --> 06:17.163
+it's still pretty cool.
+
+145
+06:18.090 --> 06:21.180
+This was my time with the humans on Earth.
+
+146
+06:21.180 --> 06:22.013
+Thank you.
+
+147
+06:23.571 --> 06:26.171
+(upbeat music)
+
+148
+06:26.171 --> 06:29.640
+(audience clapping)
+
+149
+06:29.640 --> 06:31.840
+<v Lesley>All right, third and final video.</v>
+
+150
+06:33.930 --> 06:34.763
+Uncooked water species
+
+151
+06:34.763 --> 06:37.050
+is great.
+<v ->This is Native Foreign.</v>
+
+152
+06:37.050 --> 06:39.570
+We are a women-owned hybrid creative agency
+
+153
+06:39.570 --> 06:41.550
+and production company,
+
+154
+06:41.550 --> 06:43.530
+telling your story
+
+155
+06:43.530 --> 06:45.180
+elevated by design.
+
+156
+06:45.180 --> 06:47.640
+We have many any-grade stock creatives
+
+157
+06:47.640 --> 06:50.670
+and are immersed in all the latest technology,
+
+158
+06:50.670 --> 06:52.710
+including, yes, AI.
+
+159
+06:52.710 --> 06:54.720
+We were birthed from a changing industry
+
+160
+06:54.720 --> 06:57.840
+and accept that change is the only constant.
+
+161
+06:57.840 --> 06:59.356
+<v ->Toys R Us has just.</v>
+
+162
+06:59.356 --> 07:01.027
+<v ->A minute-long promo film</v>
+
+163
+07:01.027 --> 07:03.157
+created almost entirely with AI.
+
+164
+07:03.157 --> 07:05.610
+<v Reporter>Toys R Us studios and Native Foreign</v>
+
+165
+07:05.610 --> 07:08.231
+created the first text-to-video branded AI film.
+
+166
+07:08.231 --> 07:10.357
+1.4 billion impressions and counting,
+
+167
+07:10.357 --> 07:12.947
+our viral piece reached the entire globe
+
+168
+07:12.947 --> 07:16.440
+and started conversations about the future of marketing.
+
+169
+07:16.440 --> 07:17.730
+<v Representative>Native foreign exists</v>
+
+170
+07:17.730 --> 07:19.620
+to get you high-end creative
+
+171
+07:19.620 --> 07:21.300
+anchored in strategy.
+
+172
+07:21.300 --> 07:24.240
+Located centrally in Los Angeles, California,
+
+173
+07:24.240 --> 07:26.850
+we have a variety of storytelling tools and techniques
+
+174
+07:26.850 --> 07:27.787
+at our fingertips.
+
+175
+07:27.787 --> 07:29.310
+(upbeat music)
+
+176
+07:29.310 --> 07:32.493
+Native foreign is your story elevated.
+
+177
+07:34.500 --> 07:36.885
+<v ->Awesome, okay, thanks, thanks for that.</v>
+
+178
+07:36.885 --> 07:38.250
+(audience clapping)
+
+179
+07:38.250 --> 07:40.080
+Really amazing.
+
+180
+07:40.080 --> 07:42.630
+So Momo, Walter and Nik,
+
+181
+07:42.630 --> 07:45.660
+all videos that you shared.
+
+182
+07:45.660 --> 07:47.770
+So I'd love to hear from each of you
+
+183
+07:49.410 --> 07:53.580
+what contributions to these videos were human
+
+184
+07:53.580 --> 07:55.383
+and what was AI?
+
+185
+07:57.060 --> 07:58.860
+Momo, I'll start with you.
+
+186
+07:58.860 --> 08:00.240
+<v ->Yeah, I think my video</v>
+
+187
+08:00.240 --> 08:02.040
+missed the beginning part. (laughing)
+
+188
+08:02.040 --> 08:06.060
+So there was a opening shot, stop motion style,
+
+189
+08:06.060 --> 08:09.330
+actually that was shot in stop motion.
+
+190
+08:09.330 --> 08:14.330
+And actually the the key frame was made 15 years ago.
+
+191
+08:14.670 --> 08:18.180
+I built a puppet 15 years ago.
+
+192
+08:18.180 --> 08:22.020
+But thanks to all the reduced workflow with AI,
+
+193
+08:22.020 --> 08:24.060
+now I can easily animate it.
+
+194
+08:24.060 --> 08:27.630
+And also the piece close to the end,
+
+195
+08:27.630 --> 08:30.480
+the "Until We Meet Again" animation,
+
+196
+08:30.480 --> 08:32.550
+that's a collaboration with Kling,
+
+197
+08:32.550 --> 08:33.720
+and also, the same time,
+
+198
+08:33.720 --> 08:36.660
+does a combination with the AI generate visual
+
+199
+08:36.660 --> 08:38.400
+and special effects.
+
+200
+08:38.400 --> 08:40.290
+<v ->Amazing.</v>
+<v ->And also,</v>
+
+201
+08:40.290 --> 08:41.640
+in the end, the last frame,
+
+202
+08:41.640 --> 08:44.310
+that's the sugar cookie,
+
+203
+08:44.310 --> 08:45.960
+the funny dog on the sugar cookie,
+
+204
+08:45.960 --> 08:47.010
+that was a hand drawing,
+
+205
+08:47.010 --> 08:49.650
+but all the rest, that's Midjourney.
+
+206
+08:49.650 --> 08:50.520
+<v ->Really incredible.</v>
+
+207
+08:50.520 --> 08:52.890
+And obviously, your taste and your direction?
+
+208
+08:52.890 --> 08:55.500
+<v ->Yeah, so my idea, all the idea, creative idea.</v>
+
+209
+08:55.500 --> 08:57.060
+<v ->Fantastic.</v>
+
+210
+08:57.060 --> 08:58.920
+Nik, do you wanna maybe talk about,
+
+211
+08:58.920 --> 09:00.060
+I don't know, any of the pieces
+
+212
+09:00.060 --> 09:01.830
+in that reel, yeah?
+<v ->Sure, yeah,</v>
+
+213
+09:01.830 --> 09:03.090
+I'll just say, to Momo's point,
+
+214
+09:03.090 --> 09:04.530
+like one of the interesting things
+
+215
+09:04.530 --> 09:06.600
+is that what the AI tools do,
+
+216
+09:06.600 --> 09:07.800
+let us creatives do,
+
+217
+09:07.800 --> 09:11.070
+is explore ideas that have been locked in a vault
+
+218
+09:11.070 --> 09:13.350
+or just not able to be made,
+
+219
+09:13.350 --> 09:15.720
+especially with shoestring budgets.
+
+220
+09:15.720 --> 09:17.220
+And I think that's pretty exciting
+
+221
+09:17.220 --> 09:19.230
+'cause I've also just delved into ideas
+
+222
+09:19.230 --> 09:20.340
+I've had for a long time,
+
+223
+09:20.340 --> 09:22.020
+and starting to bring them to life
+
+224
+09:22.020 --> 09:23.490
+is really exciting.
+
+225
+09:23.490 --> 09:24.870
+One of the pieces in there
+
+226
+09:24.870 --> 09:26.970
+is a film called "Critters" that we made.
+
+227
+09:26.970 --> 09:29.720
+And it was really early AI, GenAI,
+
+228
+09:29.720 --> 09:31.560
+it was like almost two years ago,
+
+229
+09:31.560 --> 09:33.300
+but we used Dolly
+
+230
+09:33.300 --> 09:34.860
+to generate these images
+
+231
+09:34.860 --> 09:35.970
+of these like forest critters,
+
+232
+09:35.970 --> 09:36.990
+and then we brought 'em to life.
+
+233
+09:36.990 --> 09:40.920
+And I think the fun thing about that is,
+
+234
+09:40.920 --> 09:44.880
+it was a lot of humans making the thing
+
+235
+09:44.880 --> 09:47.400
+and using the tools to bring a vision to life,
+
+236
+09:47.400 --> 09:50.400
+and again, kind of to what I said earlier,
+
+237
+09:50.400 --> 09:52.830
+that just got nominated for a PGA Innovation Award,
+
+238
+09:52.830 --> 09:55.410
+which like for upstart like ours,
+
+239
+09:55.410 --> 09:57.480
+we're up against Marvel and ILM
+
+240
+09:57.480 --> 09:59.610
+with a piece that we made with like a dozen people.
+
+241
+09:59.610 --> 10:01.140
+So it's really cool
+
+242
+10:01.140 --> 10:03.360
+to be able to kind of create on that level.
+
+243
+10:03.360 --> 10:05.160
+And I see the future
+
+244
+10:05.160 --> 10:09.150
+as like a very hybrid approach of using the tools
+
+245
+10:09.150 --> 10:12.150
+and our human creativity together.
+
+246
+10:12.150 --> 10:12.983
+<v ->Awesome.</v>
+
+247
+10:12.983 --> 10:13.890
+Walter, how about you?
+
+248
+10:13.890 --> 10:15.480
+What about "Florp?"
+
+249
+10:15.480 --> 10:17.424
+<v ->Well, I'm the voice of Florp.</v>
+
+250
+10:17.424 --> 10:18.750
+(Lesley laughing)
+
+251
+10:18.750 --> 10:21.480
+So I just basically talked like this,
+
+252
+10:21.480 --> 10:23.913
+and then we pitched my voice up a little bit.
+
+253
+10:24.750 --> 10:29.520
+But the script was obviously handwritten by us,
+
+254
+10:29.520 --> 10:30.630
+and the voice,
+
+255
+10:30.630 --> 10:32.400
+and then the music
+
+256
+10:32.400 --> 10:34.323
+is also a song that we made.
+
+257
+10:36.240 --> 10:38.100
+I think a great thing about AI
+
+258
+10:38.100 --> 10:40.710
+is it breathes life into old things,
+
+259
+10:40.710 --> 10:44.190
+and it was this demo of a song that lays around
+
+260
+10:44.190 --> 10:45.480
+and you kind of lay it in there
+
+261
+10:45.480 --> 10:49.440
+and it's the perfect marriage between these things.
+
+262
+10:49.440 --> 10:53.160
+So yeah, there's tons of human fingerprints throughout it,
+
+263
+10:53.160 --> 10:55.140
+as well as just editing it all together,
+
+264
+10:55.140 --> 10:56.640
+but yeah.
+
+265
+10:56.640 --> 10:59.220
+<v ->I love that, and it's so good to be able to show</v>
+
+266
+10:59.220 --> 11:02.160
+rather than talk about what might happen with these tools.
+
+267
+11:02.160 --> 11:07.160
+So thank you for sharing those pieces with all of us.
+
+268
+11:07.380 --> 11:09.480
+Okay, so our topic is the good,
+
+269
+11:09.480 --> 11:11.520
+the bad, the unknown.
+
+270
+11:11.520 --> 11:15.720
+So let's start with maybe the bad and the unknown, okay?
+
+271
+11:15.720 --> 11:17.250
+I'd say there's a lot of fear
+
+272
+11:17.250 --> 11:19.650
+and uncertainty out there.
+
+273
+11:19.650 --> 11:22.260
+Whether it's displacement of jobs
+
+274
+11:22.260 --> 11:23.460
+or IP rights
+
+275
+11:23.460 --> 11:25.890
+and potential infringements,
+
+276
+11:25.890 --> 11:27.720
+there's a lot that we don't know
+
+277
+11:27.720 --> 11:29.970
+about this new suite of tools
+
+278
+11:29.970 --> 11:31.620
+or seemingly new suite of tools.
+
+279
+11:31.620 --> 11:35.250
+So as a professional working in this field,
+
+280
+11:35.250 --> 11:36.900
+what are your perspectives?
+
+281
+11:36.900 --> 11:38.643
+So I'll start with you, Duncan.
+
+282
+11:39.600 --> 11:41.610
+<v ->Sure, I mean, I think the good, bad and unknown</v>
+
+283
+11:41.610 --> 11:42.900
+is a great way to describe
+
+284
+11:42.900 --> 11:45.450
+sort of how (laughing) we have to look at
+
+285
+11:45.450 --> 11:46.950
+a lot of AI tools now.
+
+286
+11:46.950 --> 11:49.140
+And we also have to recognize when we say AI,
+
+287
+11:49.140 --> 11:50.610
+we're talking very, very broadly,
+
+288
+11:50.610 --> 11:54.000
+because there's a lot of different aspects of AI
+
+289
+11:54.000 --> 11:56.370
+and tools that are using AI
+
+290
+11:56.370 --> 11:57.960
+that have different implications
+
+291
+11:57.960 --> 11:59.490
+for creative talent.
+
+292
+11:59.490 --> 12:02.490
+Obviously our members have been very concerned
+
+293
+12:02.490 --> 12:04.800
+about what the impact of these tools
+
+294
+12:04.800 --> 12:07.860
+is going to be on human creativity,
+
+295
+12:07.860 --> 12:08.970
+the participation of humans
+
+296
+12:08.970 --> 12:12.060
+in the creative process and the outputs,
+
+297
+12:12.060 --> 12:14.550
+and uniquely, I think, or perhaps not uniquely,
+
+298
+12:14.550 --> 12:16.590
+but especially for our members,
+
+299
+12:16.590 --> 12:19.740
+what that means when people are using their image,
+
+300
+12:19.740 --> 12:21.900
+their voice, their performance,
+
+301
+12:21.900 --> 12:24.420
+and then using tools to morph it,
+
+302
+12:24.420 --> 12:27.030
+change it, recreate it, reuse it,
+
+303
+12:27.030 --> 12:30.420
+and under what circumstances that can happen.
+
+304
+12:30.420 --> 12:33.150
+And so I think we've sort of looked at this
+
+305
+12:33.150 --> 12:35.310
+as two major areas of concern.
+
+306
+12:35.310 --> 12:37.020
+One is the area of concern
+
+307
+12:37.020 --> 12:39.090
+relating to what we call digital replication.
+
+308
+12:39.090 --> 12:40.860
+So that is using someone's image,
+
+309
+12:40.860 --> 12:43.050
+voice, likeness, past performance,
+
+310
+12:43.050 --> 12:43.980
+for something new,
+
+311
+12:43.980 --> 12:47.790
+and establishing some rules of the road for that,
+
+312
+12:47.790 --> 12:49.320
+so that it's not the Wild West,
+
+313
+12:49.320 --> 12:51.030
+so that people can have confidence
+
+314
+12:51.030 --> 12:53.940
+that when they show up to work as a performer,
+
+315
+12:53.940 --> 12:56.760
+that they're not essentially in one job
+
+316
+12:56.760 --> 12:58.740
+giving away the future of their career,
+
+317
+12:58.740 --> 13:00.330
+nor are they letting someone
+
+318
+13:00.330 --> 13:02.160
+decide what words to put in their mouth.
+
+319
+13:02.160 --> 13:05.460
+I mean, obviously this industry's built on contracts
+
+320
+13:05.460 --> 13:06.540
+and things like that,
+
+321
+13:06.540 --> 13:09.663
+but there's always been in the real world,
+
+322
+13:10.590 --> 13:12.450
+everyone had a veto power
+
+323
+13:12.450 --> 13:14.430
+over what they would say or what they would do,
+
+324
+13:14.430 --> 13:17.400
+because they obviously would have to actually say it
+
+325
+13:17.400 --> 13:19.530
+or do it in order for it to happen.
+
+326
+13:19.530 --> 13:21.660
+That's not necessarily true anymore.
+
+327
+13:21.660 --> 13:23.700
+And so that creates a great deal of anxiety.
+
+328
+13:23.700 --> 13:26.310
+And so I think it's important that we've established,
+
+329
+13:26.310 --> 13:28.230
+and we have established in collective bargaining
+
+330
+13:28.230 --> 13:29.430
+with the studios, the streamers,
+
+331
+13:29.430 --> 13:30.510
+the major record labels,
+
+332
+13:30.510 --> 13:31.500
+we're trying to establish
+
+333
+13:31.500 --> 13:32.973
+with the video game companies right now,
+
+334
+13:32.973 --> 13:34.650
+been on strike for more than six months,
+
+335
+13:34.650 --> 13:36.540
+or about six months with them,
+
+336
+13:36.540 --> 13:38.610
+the concept basically of informed consent,
+
+337
+13:38.610 --> 13:42.300
+saying when someone's voice, image, likeness, performance,
+
+338
+13:42.300 --> 13:43.890
+is gonna be altered,
+
+339
+13:43.890 --> 13:46.470
+used in a way that they didn't specifically approve of,
+
+340
+13:46.470 --> 13:49.260
+they have a right to say yes or no to that,
+
+341
+13:49.260 --> 13:51.240
+and they also have a right to be fairly compensated
+
+342
+13:51.240 --> 13:52.073
+for that use.
+
+343
+13:52.073 --> 13:54.960
+Now, I think that is a consensus
+
+344
+13:54.960 --> 13:56.310
+that has developed a lot
+
+345
+13:56.310 --> 13:58.620
+since our strike of a year and a half ago.
+
+346
+13:58.620 --> 13:59.790
+And I think that clearly
+
+347
+13:59.790 --> 14:02.970
+is where we're all gonna end up sooner or later,
+
+348
+14:02.970 --> 14:04.290
+once we get the video game companies
+
+349
+14:04.290 --> 14:07.530
+and some other stragglers corralled.
+
+350
+14:07.530 --> 14:09.570
+The other part is what happens with generative AI
+
+351
+14:09.570 --> 14:11.910
+and the creation of fully synthetic performances
+
+352
+14:11.910 --> 14:13.890
+that aren't replicating somebody?
+
+353
+14:13.890 --> 14:15.710
+Does that take humans out of the process?
+
+354
+14:15.710 --> 14:17.460
+And I mean, it's so great to see
+
+355
+14:17.460 --> 14:19.230
+the three examples that we have here,
+
+356
+14:19.230 --> 14:22.890
+because in none of those examples does that happen,
+
+357
+14:22.890 --> 14:24.330
+but it is something that is happening.
+
+358
+14:24.330 --> 14:25.560
+And if you doubt me,
+
+359
+14:25.560 --> 14:27.480
+I mean, it's happening more in voice right now
+
+360
+14:27.480 --> 14:29.160
+than it is in audiovisual,
+
+361
+14:29.160 --> 14:29.993
+but if you doubt me,
+
+362
+14:29.993 --> 14:32.730
+just go to ElevenLabs website as one example.
+
+363
+14:32.730 --> 14:34.320
+Not only them, there's so many.
+
+364
+14:34.320 --> 14:36.120
+But there are people out there
+
+365
+14:36.120 --> 14:39.720
+who really want to replace human participation
+
+366
+14:39.720 --> 14:40.830
+in the creative process
+
+367
+14:40.830 --> 14:44.370
+with synthetic AI-generated outputs.
+
+368
+14:44.370 --> 14:46.650
+And there are very serious issues with this
+
+369
+14:46.650 --> 14:48.660
+about where the training data came from
+
+370
+14:48.660 --> 14:50.730
+to create those models,
+
+371
+14:50.730 --> 14:52.500
+what kind of impact
+
+372
+14:52.500 --> 14:53.940
+that's gonna have on the creative process.
+
+373
+14:53.940 --> 14:55.470
+Thankfully, there's very serious
+
+374
+14:55.470 --> 14:56.730
+copyright problems with that.
+
+375
+14:56.730 --> 14:58.980
+So that's helpful actually
+
+376
+14:58.980 --> 15:01.470
+to kind of keep this moving along in a fair way.
+
+377
+15:01.470 --> 15:04.320
+But I'll end this rather lengthy point
+
+378
+15:04.320 --> 15:07.680
+by just saying the reality is,
+
+379
+15:07.680 --> 15:08.820
+the digital replication part,
+
+380
+15:08.820 --> 15:10.980
+that is happening now,
+
+381
+15:10.980 --> 15:12.210
+has happened already
+
+382
+15:12.210 --> 15:14.310
+and is growing rapidly.
+
+383
+15:14.310 --> 15:16.050
+The synthetic performance part,
+
+384
+15:16.050 --> 15:18.240
+other than in voice,
+
+385
+15:18.240 --> 15:19.890
+it's moving more slowly,
+
+386
+15:19.890 --> 15:22.140
+and I think it's gonna give us a little bit of time,
+
+387
+15:22.140 --> 15:23.940
+so this is maybe the unknown part,
+
+388
+15:23.940 --> 15:24.900
+a little bit of time
+
+389
+15:24.900 --> 15:28.470
+to try to come up with a more substantial consensus
+
+390
+15:28.470 --> 15:29.303
+in the industry
+
+391
+15:29.303 --> 15:32.340
+about how to deal with issues like that.
+
+392
+15:32.340 --> 15:33.420
+<v ->Yeah, fantastic.</v>
+
+393
+15:33.420 --> 15:36.540
+And I think, the fact, one of the things that struck me
+
+394
+15:36.540 --> 15:40.110
+when we spoke prior to this panel is,
+
+395
+15:40.110 --> 15:43.890
+the way that you're able to see around corners
+
+396
+15:43.890 --> 15:45.960
+to anticipate, for example,
+
+397
+15:45.960 --> 15:47.820
+that digital replica is coming
+
+398
+15:47.820 --> 15:48.870
+and it's gonna be an issue
+
+399
+15:48.870 --> 15:51.030
+and we're gonna need to have a position on it,
+
+400
+15:51.030 --> 15:54.210
+is because you come to conferences like this one
+
+401
+15:54.210 --> 15:55.680
+and you hear people talk
+
+402
+15:55.680 --> 15:57.300
+and you kind of anticipate that.
+
+403
+15:57.300 --> 15:59.460
+So I loved hearing that.
+
+404
+15:59.460 --> 16:00.293
+For the three of you,
+
+405
+16:00.293 --> 16:03.630
+maybe just like a slight shift on that question then,
+
+406
+16:03.630 --> 16:07.710
+if we're scared, if we think these tools
+
+407
+16:07.710 --> 16:10.590
+are gonna replace our jobs, for example,
+
+408
+16:10.590 --> 16:11.910
+what are some things,
+
+409
+16:11.910 --> 16:12.870
+because the three of you
+
+410
+16:12.870 --> 16:14.610
+sort of have like picked up these tools
+
+411
+16:14.610 --> 16:16.590
+and really started experimenting with them
+
+412
+16:16.590 --> 16:18.390
+until they break.
+
+413
+16:18.390 --> 16:19.860
+So can you talk a little bit about
+
+414
+16:19.860 --> 16:22.980
+how we should be, if we're afraid,
+
+415
+16:22.980 --> 16:26.910
+how we should maybe shift our perspective,
+
+416
+16:26.910 --> 16:29.610
+or what you guys did to tackle that?
+
+417
+16:29.610 --> 16:31.560
+Momo, maybe I'll start with you.
+
+418
+16:31.560 --> 16:34.650
+<v ->Yeah, I don't think we need to scale off AI</v>
+
+419
+16:34.650 --> 16:36.660
+because in the past two years
+
+420
+16:36.660 --> 16:38.850
+it's been like so many filmmakers,
+
+421
+16:38.850 --> 16:43.560
+like somehow that's like a frustrating situation
+
+422
+16:43.560 --> 16:45.840
+that so many top filmmakers,
+
+423
+16:45.840 --> 16:48.450
+they graduate from the top school, like USCFI,
+
+424
+16:48.450 --> 16:50.613
+and then now they are working on,
+
+425
+16:50.613 --> 16:52.200
+like the whole casting,
+
+426
+16:52.200 --> 16:54.000
+whole like film setup team,
+
+427
+16:54.000 --> 16:58.200
+they are working on shooting the short-form content,
+
+428
+16:58.200 --> 17:00.600
+which is for like something like a reel short or something,
+
+429
+17:00.600 --> 17:04.260
+and like they show like 80-pages script in a week
+
+430
+17:04.260 --> 17:06.840
+and also with all logical stories.
+
+431
+17:06.840 --> 17:09.420
+So yeah, that's their only job
+
+432
+17:09.420 --> 17:11.070
+we can find in the past two years.
+
+433
+17:11.070 --> 17:12.750
+I mean, before the rise of AI,
+
+434
+17:12.750 --> 17:15.150
+it's already the shifting
+
+435
+17:15.150 --> 17:17.940
+of a viewing and watching hobby of a new generation,
+
+436
+17:17.940 --> 17:19.170
+and the audience,
+
+437
+17:19.170 --> 17:21.600
+they already changed the whole industry.
+
+438
+17:21.600 --> 17:22.800
+I feel like, yeah, I mean,
+
+439
+17:22.800 --> 17:25.710
+AI actually that's a really good tool
+
+440
+17:25.710 --> 17:29.310
+for like help the filmmakers have another voice,
+
+441
+17:29.310 --> 17:31.080
+especially the personal voice,
+
+442
+17:31.080 --> 17:32.970
+to still use their talent.
+
+443
+17:32.970 --> 17:35.504
+I feel that's one point of view.
+
+444
+17:35.504 --> 17:36.972
+<v ->Yeah.</v>
+<v ->And yeah.</v>
+
+445
+17:36.972 --> 17:37.830
+<v ->Great.</v>
+
+446
+17:37.830 --> 17:39.330
+<v ->Yeah, I would say, for us,</v>
+
+447
+17:39.330 --> 17:41.700
+the AI hasn't really changed
+
+448
+17:41.700 --> 17:43.890
+the way that we do projects.
+
+449
+17:43.890 --> 17:46.050
+We still have projects kind of set up
+
+450
+17:46.050 --> 17:48.240
+with the same types of structure.
+
+451
+17:48.240 --> 17:50.160
+I look at a lot of the AI things we do
+
+452
+17:50.160 --> 17:51.480
+as like a main title sequence,
+
+453
+17:51.480 --> 17:53.730
+and that is something, in my past,
+
+454
+17:53.730 --> 17:56.259
+I did a lot of titles for shows.
+
+455
+17:56.259 --> 17:58.110
+The most notable one is "Narcos."
+
+456
+17:58.110 --> 18:00.240
+And in that process, we have a creative director,
+
+457
+18:00.240 --> 18:03.090
+art director, designers, animators, editors,
+
+458
+18:03.090 --> 18:05.160
+and like we still have all those people
+
+459
+18:05.160 --> 18:06.960
+doing all those things.
+
+460
+18:06.960 --> 18:09.960
+So, for us, it's really just a tool we're using
+
+461
+18:09.960 --> 18:12.210
+to kind of actually do more projects,
+
+462
+18:12.210 --> 18:13.230
+which is exciting.
+
+463
+18:13.230 --> 18:14.760
+We've (laughing) actually been creating more jobs
+
+464
+18:14.760 --> 18:16.560
+because we're hiring more people
+
+465
+18:16.560 --> 18:17.970
+and doing more things.
+
+466
+18:17.970 --> 18:19.230
+And I'm a big believer
+
+467
+18:19.230 --> 18:21.360
+in shooting things in person still.
+
+468
+18:21.360 --> 18:23.850
+I love filming, I love working with actors.
+
+469
+18:23.850 --> 18:25.770
+And I do think a hybrid way
+
+470
+18:25.770 --> 18:29.400
+where we get to still showcase the talents of actors,
+
+471
+18:29.400 --> 18:32.070
+but then maybe get to tell bigger stories
+
+472
+18:32.070 --> 18:33.330
+in more efficient ways.
+
+473
+18:33.330 --> 18:36.450
+We're not doing like these crazy insane VFX sequences,
+
+474
+18:36.450 --> 18:38.070
+maybe we can use AI
+
+475
+18:38.070 --> 18:39.570
+to kind of achieve some of that.
+
+476
+18:39.570 --> 18:41.490
+It echoes what Cord Jefferson said
+
+477
+18:41.490 --> 18:42.937
+at the Oscars the other year,
+
+478
+18:42.937 --> 18:45.660
+"Instead of like the one $200 million movie,
+
+479
+18:45.660 --> 18:48.990
+let's look at making 40 $5 million movies," or whatever.
+
+480
+18:48.990 --> 18:50.670
+So I'm excited about it.
+
+481
+18:50.670 --> 18:54.450
+And yes, I think, as technology grows and changes,
+
+482
+18:54.450 --> 18:57.480
+of course there are going to be positions and jobs
+
+483
+18:57.480 --> 18:58.920
+that are going to be displaced.
+
+484
+18:58.920 --> 19:01.500
+Like do we have matte painters anymore in film?
+
+485
+19:01.500 --> 19:04.740
+Probably not, but there's always gonna be a degree of that.
+
+486
+19:04.740 --> 19:07.020
+But I think staying ahead of it is exciting
+
+487
+19:07.020 --> 19:09.420
+and making sure that everyone can prosper
+
+488
+19:09.420 --> 19:13.770
+while the technology inevitably keeps moving forward.
+
+489
+19:13.770 --> 19:15.030
+<v ->Walter, I'm gonna see if I can,</v>
+
+490
+19:15.030 --> 19:16.290
+through mental telepathy,
+
+491
+19:16.290 --> 19:17.460
+get you to tell me the thing
+
+492
+19:17.460 --> 19:18.960
+that you told me on the prep call
+
+493
+19:18.960 --> 19:21.420
+about the experience of working
+
+494
+19:21.420 --> 19:24.450
+both with AI and actors,
+
+495
+19:24.450 --> 19:27.633
+and how that has changed your process as a director.
+
+496
+19:28.770 --> 19:30.630
+<v ->Yeah, well, I mean,</v>
+
+497
+19:30.630 --> 19:35.130
+it's so good to have real actors and real performances.
+
+498
+19:35.130 --> 19:37.380
+And there's like a real magic to that.
+
+499
+19:37.380 --> 19:41.190
+And I think that constantly on a film set
+
+500
+19:41.190 --> 19:43.680
+what you're trying to do is fight the clock.
+
+501
+19:43.680 --> 19:44.880
+You're burning daylight,
+
+502
+19:44.880 --> 19:45.990
+you're fighting daylight.
+
+503
+19:45.990 --> 19:48.540
+And for us, what we found
+
+504
+19:48.540 --> 19:49.860
+when we were working with AI
+
+505
+19:49.860 --> 19:53.130
+was it actually opened up more collaborations
+
+506
+19:53.130 --> 19:57.030
+where the actors and everybody on the creative team
+
+507
+19:57.030 --> 19:59.790
+was like more open to sharing ideas,
+
+508
+19:59.790 --> 20:02.760
+because normally, as the director,
+
+509
+20:02.760 --> 20:04.800
+you just tell everyone what to do.
+
+510
+20:04.800 --> 20:08.850
+And now people can try stuff,
+
+511
+20:08.850 --> 20:10.410
+they can attempt something
+
+512
+20:10.410 --> 20:11.460
+and they can show everyone
+
+513
+20:11.460 --> 20:13.410
+and they could go, "Well, what about this?"
+
+514
+20:13.410 --> 20:15.067
+And instead of that being like,
+
+515
+20:15.067 --> 20:17.070
+"Oh, no, we'll never have enough time
+
+516
+20:17.070 --> 20:18.510
+and space to do that,"
+
+517
+20:18.510 --> 20:21.270
+I think sometimes this opens up some time and space
+
+518
+20:21.270 --> 20:22.140
+to do things.
+
+519
+20:22.140 --> 20:24.360
+And that's what, for me,
+
+520
+20:24.360 --> 20:25.800
+is really exciting,
+
+521
+20:25.800 --> 20:29.970
+And it's allowed for, on our team,
+
+522
+20:29.970 --> 20:31.920
+our producer is an actor,
+
+523
+20:31.920 --> 20:36.570
+and so she feels far more invested in the process
+
+524
+20:36.570 --> 20:37.950
+than normally she would be,
+
+525
+20:37.950 --> 20:39.900
+'cause it was sort of like, "Stay in your lane,"
+
+526
+20:39.900 --> 20:41.737
+and now it's a little bit more like,
+
+527
+20:41.737 --> 20:42.690
+"Oh, what do you think?
+
+528
+20:42.690 --> 20:44.790
+Let's all kind of talk about it."
+
+529
+20:44.790 --> 20:45.870
+<v ->Those are great messages.</v>
+
+530
+20:45.870 --> 20:47.164
+Yeah, Momo.
+<v ->I share</v>
+
+531
+20:47.164 --> 20:49.320
+(laughing) a quick plug in that.
+
+532
+20:49.320 --> 20:51.330
+For creator side, I would like to share
+
+533
+20:51.330 --> 20:54.003
+that something feeling really like downside for it.
+
+534
+20:54.900 --> 20:57.060
+I mean, I feel so many people,
+
+535
+20:57.060 --> 20:58.800
+they are like mistaken
+
+536
+20:58.800 --> 21:02.040
+believing that AI is a shortcut to creativity,
+
+537
+21:02.040 --> 21:04.650
+and then became that's so many people,
+
+538
+21:04.650 --> 21:05.760
+they are thinking, "Oh,
+
+539
+21:05.760 --> 21:10.620
+so when they can quickly mastering AI tools
+
+540
+21:10.620 --> 21:11.790
+in the short period,
+
+541
+21:11.790 --> 21:14.670
+and then immediately they can create excellent work."
+
+542
+21:14.670 --> 21:17.010
+But actually for all the great work
+
+543
+21:17.010 --> 21:20.400
+is driven by creative original idea content
+
+544
+21:20.400 --> 21:23.100
+and also professional expertise.
+
+545
+21:23.100 --> 21:25.290
+Those are request much longer term
+
+546
+21:25.290 --> 21:27.120
+to train and study.
+
+547
+21:27.120 --> 21:31.500
+And there was so many filmmakers, like creators,
+
+548
+21:31.500 --> 21:35.280
+especially like right now, after the rise of AI,
+
+549
+21:35.280 --> 21:36.900
+it's creating a illusion,
+
+550
+21:36.900 --> 21:40.260
+make people believing they can do this shortcut,
+
+551
+21:40.260 --> 21:45.260
+but actually that's not really gonna help the creators.
+
+552
+21:45.330 --> 21:48.840
+<v ->Yeah, it's like, everyone has a phone in their pocket</v>
+
+553
+21:48.840 --> 21:49.770
+that has a camera,
+
+554
+21:49.770 --> 21:52.080
+it doesn't make everyone a photographer.
+
+555
+21:52.080 --> 21:56.940
+And I think that if it looks easy,
+
+556
+21:56.940 --> 21:58.890
+then it's probably the years
+
+557
+21:58.890 --> 22:01.050
+that it took to get there,
+
+558
+22:01.050 --> 22:03.000
+not just the press of a button.
+
+559
+22:03.000 --> 22:05.640
+And when you were talking about, "What's the negative?"
+
+560
+22:05.640 --> 22:07.560
+I think, as you were kind of mentioning, Duncan,
+
+561
+22:07.560 --> 22:09.840
+that AI is this blanket term,
+
+562
+22:09.840 --> 22:12.153
+I mean, go downstairs at CES.
+
+563
+22:12.153 --> 22:14.130
+(Lesley laughing)
+
+564
+22:14.130 --> 22:15.720
+If spellcheck came out today,
+
+565
+22:15.720 --> 22:18.180
+they would say, "AI spelling tool,"
+
+566
+22:18.180 --> 22:22.260
+And I think that AI can be this kind of coverall term
+
+567
+22:22.260 --> 22:23.700
+that can mean so many things,
+
+568
+22:23.700 --> 22:27.090
+but I think that they're actually just tools
+
+569
+22:27.090 --> 22:30.090
+that really require someone in the driver's seat
+
+570
+22:30.090 --> 22:32.970
+who is conscientiously making decisions
+
+571
+22:32.970 --> 22:34.020
+in order for them to work.
+
+572
+22:34.020 --> 22:36.390
+It's not just, "Here you go."
+
+573
+22:36.390 --> 22:38.220
+And for me, that's been a negative
+
+574
+22:38.220 --> 22:39.787
+of people just being like,
+
+575
+22:39.787 --> 22:42.330
+"Well, just use your AI and fix it."
+
+576
+22:42.330 --> 22:43.931
+It's like, (laughing)
+
+577
+22:43.931 --> 22:44.940
+"What do you mean?"
+<v ->Oh my gosh.</v>
+
+578
+22:44.940 --> 22:47.760
+From a like client education perspective,
+
+579
+22:47.760 --> 22:49.680
+'cause obviously we're doing originals,
+
+580
+22:49.680 --> 22:51.480
+but also a lot of client stuff,
+
+581
+22:51.480 --> 22:53.797
+I do constantly deal with like,
+
+582
+22:53.797 --> 22:56.250
+"Oh, well, can't the AI just make this like tomorrow?
+
+583
+22:56.250 --> 22:57.083
+I saw on LinkedIn
+
+584
+22:57.083 --> 22:58.950
+that someone made like a short film in an hour
+
+585
+22:58.950 --> 22:59.970
+and it's a masterpiece,"
+
+586
+22:59.970 --> 23:02.432
+but there's always more to it than that.
+
+587
+23:02.432 --> 23:03.397
+<v ->That's right.</v>
+
+588
+23:03.397 --> 23:04.589
+Suddenly everyone's an expert.
+
+589
+23:04.589 --> 23:06.810
+<v ->Well, and I think that's part of the point</v>
+
+590
+23:06.810 --> 23:07.850
+that needs to be made,
+
+591
+23:07.850 --> 23:12.850
+and I mean, really, the problem is not creative talent
+
+592
+23:12.870 --> 23:16.050
+in the form of directors, producers, writers,
+
+593
+23:16.050 --> 23:18.540
+who are using AI tools
+
+594
+23:18.540 --> 23:21.450
+to help advance their creative efforts
+
+595
+23:21.450 --> 23:22.283
+and their storytelling.
+
+596
+23:22.283 --> 23:24.300
+The problem is companies
+
+597
+23:24.300 --> 23:27.870
+that are so focused on cost-cutting
+
+598
+23:27.870 --> 23:30.510
+that they want to try and force the use of these tools
+
+599
+23:30.510 --> 23:32.310
+in ways that don't actually advance
+
+600
+23:32.310 --> 23:33.810
+the creative process.
+
+601
+23:33.810 --> 23:37.680
+And the case that we at SAG-AFTRA are making to them is,
+
+602
+23:37.680 --> 23:40.410
+if you're in the entertainment business,
+
+603
+23:40.410 --> 23:41.520
+what makes you unique,
+
+604
+23:41.520 --> 23:42.600
+what makes you special
+
+605
+23:42.600 --> 23:43.830
+and what makes your company
+
+606
+23:43.830 --> 23:45.420
+and what you create valuable
+
+607
+23:45.420 --> 23:47.610
+is the human creativity
+
+608
+23:47.610 --> 23:49.860
+that contributes to that result,
+
+609
+23:49.860 --> 23:51.720
+to that incredible piece of art.
+
+610
+23:51.720 --> 23:53.280
+And if you eliminate that
+
+611
+23:53.280 --> 23:56.820
+and what you do is focus entirely on using these AI tools
+
+612
+23:56.820 --> 24:01.230
+to streamline processes and to cost-cut,
+
+613
+24:01.230 --> 24:02.100
+then what you're doing
+
+614
+24:02.100 --> 24:05.610
+is giving up the special advantage that you have.
+
+615
+24:05.610 --> 24:09.060
+And now, if that's what you train the consumer to want,
+
+616
+24:09.060 --> 24:10.590
+every AI company out there
+
+617
+24:10.590 --> 24:12.450
+can do the exact same thing that you can do,
+
+618
+24:12.450 --> 24:14.400
+and they can probably do it cheaper,
+
+619
+24:14.400 --> 24:16.230
+and your competitive advantage
+
+620
+24:16.230 --> 24:18.720
+and what makes your business successful is gone.
+
+621
+24:18.720 --> 24:21.630
+So you have to cultivate and value
+
+622
+24:21.630 --> 24:23.910
+the human creativity and those relationships,
+
+623
+24:23.910 --> 24:26.520
+which are what make your companies unique and special.
+
+624
+24:26.520 --> 24:27.870
+And I think that message
+
+625
+24:27.870 --> 24:30.347
+is starting to resonate a bit.
+
+626
+24:30.347 --> 24:31.890
+<v ->That's a perfect segue,</v>
+
+627
+24:31.890 --> 24:34.020
+because I wanted to ask you guys,
+
+628
+24:34.020 --> 24:39.020
+what legacy media companies have done interesting work,
+
+629
+24:39.720 --> 24:41.310
+have used these tools effectively?
+
+630
+24:41.310 --> 24:46.310
+Or alternatively, whose knee-jerk reaction
+
+631
+24:46.530 --> 24:51.243
+kind of in retrospect doesn't look so innovative?
+
+632
+24:52.440 --> 24:53.283
+Walter, yeah.
+
+633
+24:54.540 --> 24:56.280
+<v ->Well, they can reach out to me.</v>
+
+634
+24:56.280 --> 24:58.050
+The Disneys and all of them,
+
+635
+24:58.050 --> 25:00.060
+we're open for business.
+(Lesley laughing)
+
+636
+25:00.060 --> 25:03.870
+But I think that there's still like an apprehension,
+
+637
+25:03.870 --> 25:05.610
+and I think like rightfully so
+
+638
+25:05.610 --> 25:06.990
+that there's an apprehension,
+
+639
+25:06.990 --> 25:10.080
+'cause it's kind of like a black box
+
+640
+25:10.080 --> 25:13.413
+where no one really knows exactly what it means.
+
+641
+25:14.640 --> 25:16.950
+What I will say that was like a fascinating thing
+
+642
+25:16.950 --> 25:19.590
+after "Air Head" was released was on Twitter,
+
+643
+25:19.590 --> 25:21.420
+as you can imagine, the vitriol,
+
+644
+25:21.420 --> 25:22.620
+we had all these people,
+
+645
+25:22.620 --> 25:25.080
+like I think I counted 40 people
+
+646
+25:25.080 --> 25:26.310
+told me to kill myself,
+
+647
+25:26.310 --> 25:28.083
+which is like pretty crazy.
+
+648
+25:29.010 --> 25:32.250
+But a lot of it was coming from the VFX community,
+
+649
+25:32.250 --> 25:34.710
+which is like our community,
+
+650
+25:34.710 --> 25:36.900
+which is the place where we were raised.
+
+651
+25:36.900 --> 25:41.610
+And it just strikes me as,
+
+652
+25:41.610 --> 25:43.890
+I was watching this ILM documentary
+
+653
+25:43.890 --> 25:45.720
+about the making of ILM,
+
+654
+25:45.720 --> 25:48.960
+and it was the exact same conversation
+
+655
+25:48.960 --> 25:53.010
+when they moved from puppets and small VFX
+
+656
+25:53.010 --> 25:54.840
+into digital VFX,
+
+657
+25:54.840 --> 25:57.690
+and now we've created this whole new industry.
+
+658
+25:57.690 --> 26:00.480
+It's the same thing as if I told you 20 years ago
+
+659
+26:00.480 --> 26:02.850
+that the number-one job that kids would want
+
+660
+26:02.850 --> 26:04.740
+is to be a influencer,
+
+661
+26:04.740 --> 26:07.050
+you would be like, "What are you talking about?"
+
+662
+26:07.050 --> 26:09.480
+And I think that there's just this general thing
+
+663
+26:09.480 --> 26:12.210
+that it either has to be this or that.
+
+664
+26:12.210 --> 26:15.270
+And I think that there's actually something new
+
+665
+26:15.270 --> 26:16.103
+that it could be.
+
+666
+26:16.103 --> 26:18.000
+It doesn't need to be this or that,
+
+667
+26:18.000 --> 26:19.560
+it could be a little bit of this.
+
+668
+26:19.560 --> 26:22.050
+And I think that we also have a bunch to learn
+
+669
+26:22.050 --> 26:23.070
+from those companies,
+
+670
+26:23.070 --> 26:25.050
+as much as they have to learn from us.
+
+671
+26:25.050 --> 26:27.060
+<v ->So maybe some of the examples, good or bad,</v>
+
+672
+26:27.060 --> 26:28.110
+we don't even know
+
+673
+26:28.110 --> 26:30.933
+that they're leveraging this technology, right.
+
+674
+26:31.980 --> 26:34.065
+Any other takes on this one?
+
+675
+26:34.065 --> 26:36.477
+Good ahead, yeah.
+<v ->Well,</v>
+
+676
+26:36.477 --> 26:38.683
+I'll shock you and give you a good example,
+
+677
+26:38.683 --> 26:40.633
+(laughing) as opposed to a bad example,
+
+678
+26:42.420 --> 26:44.910
+which actually goes back to Disney and to Lucasfilm,
+
+679
+26:44.910 --> 26:47.340
+and like "The Book of Boba Fett,"
+
+680
+26:47.340 --> 26:48.510
+some of the projects they've done
+
+681
+26:48.510 --> 26:50.910
+where they've used Respeecher
+
+682
+26:50.910 --> 26:55.770
+to replicate voices of original characters.
+
+683
+26:55.770 --> 26:58.320
+But they are doing that with consent,
+
+684
+26:58.320 --> 26:59.940
+with compensation,
+
+685
+26:59.940 --> 27:03.630
+and in fact, are actually using actors
+
+686
+27:03.630 --> 27:04.860
+who do the voice work now
+
+687
+27:04.860 --> 27:07.350
+whose voices are then modified
+
+688
+27:07.350 --> 27:09.000
+using their AI tools
+
+689
+27:09.000 --> 27:11.460
+to resemble or to replicate the voices
+
+690
+27:11.460 --> 27:13.170
+of the original actors,
+
+691
+27:13.170 --> 27:15.150
+such as James Earl Jones, for example,
+
+692
+27:15.150 --> 27:16.200
+but others as well.
+
+693
+27:16.200 --> 27:17.280
+And they're also doing that
+
+694
+27:17.280 --> 27:19.740
+with on-camera performance as well.
+
+695
+27:19.740 --> 27:21.660
+And I think, from our point of view,
+
+696
+27:21.660 --> 27:24.420
+we're not here saying that AI should be banned.
+
+697
+27:24.420 --> 27:25.530
+Some of our members feel that way,
+
+698
+27:25.530 --> 27:27.420
+that's not the position that we're taking.
+
+699
+27:27.420 --> 27:28.253
+What we're saying is
+
+700
+27:28.253 --> 27:30.210
+that if you're gonna use these kinds of tools,
+
+701
+27:30.210 --> 27:32.790
+it has to be done in a respectful, ethical way.
+
+702
+27:32.790 --> 27:34.530
+And if you've got consent,
+
+703
+27:34.530 --> 27:36.360
+you're fairly compensating people,
+
+704
+27:36.360 --> 27:37.800
+that's the pathway
+
+705
+27:37.800 --> 27:41.250
+to an appropriate, human-centered,
+
+706
+27:41.250 --> 27:43.350
+like augmentative use of AI,
+
+707
+27:43.350 --> 27:45.390
+and something that I think the creative community
+
+708
+27:45.390 --> 27:46.920
+can appreciate and get behind,
+
+709
+27:46.920 --> 27:49.600
+and also helps you create something really special
+
+710
+27:50.468 --> 27:51.510
+in the content that you're creating.
+
+711
+27:51.510 --> 27:54.780
+So I think that's one good example.
+
+712
+27:54.780 --> 27:57.060
+<v ->I'm not shocked that it was a good example,</v>
+
+713
+27:57.060 --> 27:58.440
+but thank you, that was a great one.
+
+714
+27:58.440 --> 27:59.610
+Momo.
+
+715
+27:59.610 --> 28:01.170
+<v ->Yeah, so last year,</v>
+
+716
+28:01.170 --> 28:02.370
+one of my favorite film,
+
+717
+28:02.370 --> 28:05.100
+that "Furiosa," and Warner Brother.
+
+718
+28:05.100 --> 28:06.870
+So the child actress,
+
+719
+28:06.870 --> 28:10.230
+the face look exactly like Anya Taylor.
+
+720
+28:10.230 --> 28:11.880
+I mean, because they were using AI
+
+721
+28:11.880 --> 28:13.740
+to mix the face together.
+
+722
+28:13.740 --> 28:15.750
+And yeah, it's a good example,
+
+723
+28:15.750 --> 28:17.640
+but on the same time,
+
+724
+28:17.640 --> 28:18.630
+last year, in China,
+
+725
+28:18.630 --> 28:20.700
+there was a film called "The Traveler,"
+
+726
+28:20.700 --> 28:23.250
+which is top director and casting,
+
+727
+28:23.250 --> 28:26.940
+and that's a feature live-action film,
+
+728
+28:26.940 --> 28:31.890
+and including a 20-minute flashback process with AI.
+
+729
+28:31.890 --> 28:33.540
+So it was double the fusion.
+
+730
+28:33.540 --> 28:36.150
+But it is because the final resort,
+
+731
+28:36.150 --> 28:37.710
+the quality wasn't very good.
+
+732
+28:37.710 --> 28:41.280
+So negative comments kind of killed the box office.
+
+733
+28:41.280 --> 28:45.273
+So there's a feeling that if,
+
+734
+28:46.230 --> 28:48.330
+I think the application of AI,
+
+735
+28:48.330 --> 28:50.430
+ideal application of AI using,
+
+736
+28:50.430 --> 28:55.430
+it's a high level, high degree of realism and completeness.
+
+737
+28:58.980 --> 29:02.760
+So they will be more acceptable for audience,
+
+738
+29:02.760 --> 29:05.190
+and then it's gonna make more sense
+
+739
+29:05.190 --> 29:10.190
+and help people to wildly adopt AI technology in industry.
+
+740
+29:11.100 --> 29:12.990
+<v ->Excellent, okay, I'm gonna move us on.</v>
+
+741
+29:12.990 --> 29:15.930
+What is a way that AI
+
+742
+29:15.930 --> 29:19.380
+could be used in the context of Hollywood,
+
+743
+29:19.380 --> 29:21.210
+you decide where,
+
+744
+29:21.210 --> 29:22.560
+that we're not thinking about,
+
+745
+29:22.560 --> 29:23.670
+that we haven't thought about
+
+746
+29:23.670 --> 29:26.184
+and that we should be thinking about?
+
+747
+29:26.184 --> 29:27.134
+Who wants to start?
+
+748
+29:28.710 --> 29:32.730
+<v ->Yeah, I think, for me,</v>
+
+749
+29:32.730 --> 29:34.140
+what is really interesting
+
+750
+29:34.140 --> 29:36.570
+is I think there's a lot of films
+
+751
+29:36.570 --> 29:39.810
+that we go and see in the theater
+
+752
+29:39.810 --> 29:41.700
+'cause they're a spectacle,
+
+753
+29:41.700 --> 29:45.300
+and I think that there is a sort of limited amount of people
+
+754
+29:45.300 --> 29:49.080
+who have the access to make those spectacle films.
+
+755
+29:49.080 --> 29:51.570
+And what I'm really excited about seeing
+
+756
+29:51.570 --> 29:54.960
+is like new film communities pop up.
+
+757
+29:54.960 --> 29:58.530
+Like I don't know if anyone watches Nollywood films,
+
+758
+29:58.530 --> 30:02.250
+it's like Nigerian action movies
+
+759
+30:02.250 --> 30:03.810
+that are--
+<v ->Any hands, any hands?</v>
+
+760
+30:03.810 --> 30:05.430
+No.
+<v ->Any Nollywood fans?</v>
+
+761
+30:05.430 --> 30:09.120
+Anyways, there are these like amazing films made in Nigeria
+
+762
+30:09.120 --> 30:14.070
+that are like super-crazy, low-budget like wild films.
+
+763
+30:14.070 --> 30:15.300
+And like my question is,
+
+764
+30:15.300 --> 30:19.020
+when they have access to making their effects
+
+765
+30:19.020 --> 30:19.860
+look a lot better
+
+766
+30:19.860 --> 30:21.090
+and making things look better,
+
+767
+30:21.090 --> 30:23.910
+where do those communities kind of pop up?
+
+768
+30:23.910 --> 30:25.110
+So I think what you're gonna see
+
+769
+30:25.110 --> 30:29.430
+is a lot of new hotbeds for cinema
+
+770
+30:29.430 --> 30:32.130
+that have not had the ability
+
+771
+30:32.130 --> 30:34.380
+to like play with the big boys, so to speak,
+
+772
+30:34.380 --> 30:36.510
+that I think would be really interesting.
+
+773
+30:36.510 --> 30:39.240
+Where's that next place gonna be?
+
+774
+30:39.240 --> 30:41.520
+<v ->It's gonna come from the bottom up, I think.</v>
+
+775
+30:41.520 --> 30:43.530
+And I think what's exciting is,
+
+776
+30:43.530 --> 30:46.470
+we're gonna get to see all of these new stories
+
+777
+30:46.470 --> 30:49.650
+from all edges of the world be told,
+
+778
+30:49.650 --> 30:52.380
+and we're gonna find some incredible films
+
+779
+30:52.380 --> 30:54.690
+being made by people we've never heard of.
+
+780
+30:54.690 --> 30:56.310
+I think it's gonna be an interesting mix
+
+781
+30:56.310 --> 30:59.160
+of the people in top Hollywood,
+
+782
+30:59.160 --> 31:01.440
+but also just complete upstarts,
+
+783
+31:01.440 --> 31:03.390
+and to Walter's point,
+
+784
+31:03.390 --> 31:07.080
+being able to actually get to a result quicker.
+
+785
+31:07.080 --> 31:10.320
+And then once those effects, let's say,
+
+786
+31:10.320 --> 31:13.230
+and that level of, let's say, quality is ubiquitous,
+
+787
+31:13.230 --> 31:15.090
+then what sets your film apart?
+
+788
+31:15.090 --> 31:16.050
+And then I think we do
+
+789
+31:16.050 --> 31:19.260
+have just this really strong emphasis on story
+
+790
+31:19.260 --> 31:22.110
+and what your unique point of view is
+
+791
+31:22.110 --> 31:23.760
+and what story you wanna tell
+
+792
+31:23.760 --> 31:26.250
+about life and anything.
+
+793
+31:26.250 --> 31:27.750
+<v ->Right.</v>
+
+794
+31:27.750 --> 31:29.190
+<v ->Well, and now I'll add something different,</v>
+
+795
+31:29.190 --> 31:31.530
+which is not exactly creative,
+
+796
+31:31.530 --> 31:33.360
+but I think is true.
+
+797
+31:33.360 --> 31:35.700
+AI can also be used in a totally different way
+
+798
+31:35.700 --> 31:39.120
+to help enforce rights obligations,
+
+799
+31:39.120 --> 31:42.660
+to better track and reduce the friction
+
+800
+31:42.660 --> 31:44.910
+of the transactional part of the industry.
+
+801
+31:44.910 --> 31:47.220
+And to the extent that it's used for that,
+
+802
+31:47.220 --> 31:48.150
+I think that will be great,
+
+803
+31:48.150 --> 31:50.400
+because I think it'll be great for creative talent
+
+804
+31:50.400 --> 31:53.160
+to receive their appropriate contractual payments
+
+805
+31:53.160 --> 31:55.200
+in a more timely and consistent manner.
+
+806
+31:55.200 --> 31:57.660
+And I think it would be great to know
+
+807
+31:57.660 --> 32:02.660
+that there's a way to make that process happen
+
+808
+32:04.794 --> 32:07.050
+with less sort of weight on it,
+
+809
+32:07.050 --> 32:08.700
+so that it's not taking up
+
+810
+32:08.700 --> 32:12.660
+so much of the resources of the industry to do it,
+
+811
+32:12.660 --> 32:13.493
+to carry it out.
+
+812
+32:13.493 --> 32:15.390
+And so then perhaps more of those resources
+
+813
+32:15.390 --> 32:17.280
+can be devoted to the creative process.
+
+814
+32:17.280 --> 32:19.650
+So I'd love to see AI used in that direction.
+
+815
+32:19.650 --> 32:21.210
+<v ->Working at a talent agency,</v>
+
+816
+32:21.210 --> 32:22.380
+plus one to that,
+
+817
+32:22.380 --> 32:24.240
+like couldn't agree with you more.
+
+818
+32:24.240 --> 32:25.560
+We want our clients to be paid
+
+819
+32:25.560 --> 32:28.350
+and we want them to be paid quickly.
+
+820
+32:28.350 --> 32:30.000
+Okay, I'm gonna move us on.
+
+821
+32:30.000 --> 32:31.380
+Duncan, I'm coming over to you.
+
+822
+32:31.380 --> 32:33.930
+So you mentioned Respeecher,
+
+823
+32:33.930 --> 32:37.380
+what AI companies does SAG-AFTRA
+
+824
+32:37.380 --> 32:41.250
+think are going about this kind of season of AI
+
+825
+32:41.250 --> 32:42.083
+the right way?
+
+826
+32:42.083 --> 32:43.590
+And are there companies
+
+827
+32:43.590 --> 32:44.910
+who you wish would reach out,
+
+828
+32:44.910 --> 32:47.220
+maybe a postcard from the stage
+
+829
+32:47.220 --> 32:48.641
+to those companies? (laughing)
+
+830
+32:48.641 --> 32:50.460
+<v ->(laughing) Well, first of all,</v>
+
+831
+32:50.460 --> 32:52.980
+let me just say, we don't endorse any companies,
+
+832
+32:52.980 --> 32:55.710
+because obviously companies, like people, are complicated.
+
+833
+32:55.710 --> 32:57.480
+Having said that, there are a few
+
+834
+32:57.480 --> 32:59.010
+that I can mention specifically
+
+835
+32:59.010 --> 33:01.740
+that we think have adopted a good approach here.
+
+836
+33:01.740 --> 33:03.300
+One that we've been talking about for a long time
+
+837
+33:03.300 --> 33:04.440
+is Flawless AI,
+
+838
+33:04.440 --> 33:09.330
+which is focused on using GenAI technology to modify,
+
+839
+33:09.330 --> 33:10.163
+among other things,
+
+840
+33:10.163 --> 33:12.900
+facial movements of performers,
+
+841
+33:12.900 --> 33:14.610
+for a variety of purposes,
+
+842
+33:14.610 --> 33:16.170
+but one of those purposes, for example,
+
+843
+33:16.170 --> 33:18.180
+is to improve dubbing.
+
+844
+33:18.180 --> 33:19.890
+So that instead of the dubbing script
+
+845
+33:19.890 --> 33:21.990
+having to be changed to match the mouth movements
+
+846
+33:21.990 --> 33:23.280
+in the original language,
+
+847
+33:23.280 --> 33:25.650
+you can actually directly translate the script
+
+848
+33:25.650 --> 33:26.910
+and adjust the mouth movements
+
+849
+33:26.910 --> 33:29.220
+to match the human dubbing performance
+
+850
+33:29.220 --> 33:30.270
+that goes with that.
+
+851
+33:30.270 --> 33:32.160
+And I think that's a great example
+
+852
+33:32.160 --> 33:35.670
+of improving the result of dubbing
+
+853
+33:35.670 --> 33:38.970
+without taking away the human creative element.
+
+854
+33:38.970 --> 33:41.310
+Another great example is a company called Ethovox
+
+855
+33:41.310 --> 33:43.650
+we've just signed an agreement with recently,
+
+856
+33:43.650 --> 33:45.180
+which is looking to create
+
+857
+33:45.180 --> 33:48.900
+a fully ethically sourced foundational model
+
+858
+33:48.900 --> 33:51.720
+for digital voice replicas for use,
+
+859
+33:51.720 --> 33:53.340
+among other things, in video games.
+
+860
+33:53.340 --> 33:56.790
+And so one of the real challenges we all face
+
+861
+33:56.790 --> 33:58.440
+with AI foundational models
+
+862
+33:58.440 --> 34:00.840
+is there are almost none of them
+
+863
+34:00.840 --> 34:03.060
+that have actually been sourced
+
+864
+34:03.060 --> 34:06.360
+with fully consented content.
+
+865
+34:06.360 --> 34:07.410
+And this is a huge battle,
+
+866
+34:07.410 --> 34:09.390
+there's all kinds of litigation going on.
+
+867
+34:09.390 --> 34:11.310
+I certainly hope and SAG-AFTRA hopes
+
+868
+34:11.310 --> 34:12.480
+that the result of that
+
+869
+34:12.480 --> 34:14.730
+is a clear decision by the courts
+
+870
+34:14.730 --> 34:17.220
+that that is wrong to just take people's content
+
+871
+34:17.220 --> 34:19.020
+and use it to train foundational models
+
+872
+34:19.020 --> 34:20.970
+without consent or compensation.
+
+873
+34:20.970 --> 34:22.500
+But regardless of the outcomes of that,
+
+874
+34:22.500 --> 34:23.407
+this company has said,
+
+875
+34:23.407 --> 34:25.920
+"We're building a model from the ground up
+
+876
+34:25.920 --> 34:27.630
+where all of the data,
+
+877
+34:27.630 --> 34:30.240
+all the training data is fully consented,
+
+878
+34:30.240 --> 34:32.940
+ethically sourced, and we can prove it."
+
+879
+34:32.940 --> 34:34.590
+And so I think that's really great.
+
+880
+34:34.590 --> 34:36.120
+So unlike most of our contracts,
+
+881
+34:36.120 --> 34:36.953
+this is not a company
+
+882
+34:36.953 --> 34:39.930
+that's looking to create the end product, the output.
+
+883
+34:39.930 --> 34:42.120
+This is a company that's looking to create
+
+884
+34:42.120 --> 34:44.550
+the foundational model to then be made available
+
+885
+34:44.550 --> 34:46.680
+to video game companies and others
+
+886
+34:46.680 --> 34:48.990
+for digital voice replication.
+
+887
+34:48.990 --> 34:50.700
+Those are just a couple of the examples.
+
+888
+34:50.700 --> 34:52.830
+There are many others, Replica Studios,
+
+889
+34:52.830 --> 34:54.540
+Replika Media is another example
+
+890
+34:54.540 --> 34:56.970
+of a company that's doing something like that.
+
+891
+34:56.970 --> 34:59.940
+And we even have an advertising-related platform
+
+892
+34:59.940 --> 35:01.890
+called Narrative that we've done an agreement with,
+
+893
+35:01.890 --> 35:05.520
+that has agreed to apply these full protections
+
+894
+35:05.520 --> 35:09.390
+and let performers sort of dip their toe in,
+
+895
+35:09.390 --> 35:10.740
+letting their digital replicas
+
+896
+35:10.740 --> 35:13.740
+perform audio commercials for digital use,
+
+897
+35:13.740 --> 35:15.630
+but also, if they decide that's not for them,
+
+898
+35:15.630 --> 35:17.280
+to then stop that
+
+899
+35:17.280 --> 35:20.370
+and not have their face voice, et cetera,
+
+900
+35:20.370 --> 35:23.130
+used in perpetuity in these digital models
+
+901
+35:23.130 --> 35:23.963
+that have been created.
+
+902
+35:23.963 --> 35:25.740
+So I think there's a lot of companies
+
+903
+35:25.740 --> 35:27.150
+and people who wanna do the right thing,
+
+904
+35:27.150 --> 35:28.800
+and we certainly wanna lift them up.
+
+905
+35:28.800 --> 35:32.040
+And I think there's a lot that have some way to go.
+
+906
+35:32.040 --> 35:33.810
+And I guess if I had to call out any one group,
+
+907
+35:33.810 --> 35:36.300
+I would say the major video game companies
+
+908
+35:36.300 --> 35:38.880
+that we're still locked in this strike against.
+
+909
+35:38.880 --> 35:40.740
+I mean, this strike is all about AI
+
+910
+35:40.740 --> 35:43.065
+and it's about informed consent and fair compensation,
+
+911
+35:43.065 --> 35:45.480
+and I feel like that's a concept
+
+912
+35:45.480 --> 35:47.130
+that we should all already be on board with.
+
+913
+35:47.130 --> 35:48.990
+This shouldn't have to be so difficult.
+
+914
+35:48.990 --> 35:50.340
+And I really wish those companies
+
+915
+35:50.340 --> 35:53.557
+would come back to the table with a mindset of,
+
+916
+35:53.557 --> 35:55.620
+"Yes, let's give all performers
+
+917
+35:55.620 --> 35:56.880
+who work in video games
+
+918
+35:56.880 --> 35:59.220
+appropriate consent rights and fair compensation
+
+919
+35:59.220 --> 36:01.410
+when we're creating replicas of their performance."
+
+920
+36:01.410 --> 36:03.390
+<v ->Yeah, thank you for that.</v>
+
+921
+36:03.390 --> 36:05.400
+I'm just gonna stay with you for one more moment,
+
+922
+36:05.400 --> 36:08.190
+because I asked you to invite companies
+
+923
+36:08.190 --> 36:09.303
+to come to the table.
+
+924
+36:10.530 --> 36:13.350
+I had this experience working on a deal actually
+
+925
+36:13.350 --> 36:15.630
+where we insisted, "Don't come to us,
+
+926
+36:15.630 --> 36:18.390
+go to SAG-AFTRA first, have a discussion,
+
+927
+36:18.390 --> 36:20.100
+this is about performers,
+
+928
+36:20.100 --> 36:21.840
+have a discussion and come back to us."
+
+929
+36:21.840 --> 36:25.080
+And I just wanna say, I think that process,
+
+930
+36:25.080 --> 36:26.940
+if a company's feeling shy
+
+931
+36:26.940 --> 36:29.370
+about wanting to work in this area
+
+932
+36:29.370 --> 36:30.630
+and not knowing what to do,
+
+933
+36:30.630 --> 36:32.430
+that you can be a great ally,
+
+934
+36:32.430 --> 36:35.850
+and also not halt the process.
+
+935
+36:35.850 --> 36:38.100
+It was like a week-and-a-half-long process,
+
+936
+36:38.100 --> 36:39.210
+it was really incredible.
+
+937
+36:39.210 --> 36:41.490
+You can say more about it if you'd like to.
+
+938
+36:41.490 --> 36:42.540
+<v ->Yeah, I mean, first of all,</v>
+
+939
+36:42.540 --> 36:43.770
+I really appreciate you saying that,
+
+940
+36:43.770 --> 36:46.620
+because I know that when you're like in a company
+
+941
+36:46.620 --> 36:49.620
+and you don't deal with this sort of thing all the time,
+
+942
+36:49.620 --> 36:51.870
+and you've seen the strikes
+
+943
+36:51.870 --> 36:55.620
+got a lot of press attention in 2023 and all of that,
+
+944
+36:55.620 --> 36:57.420
+I know that can seem scary.
+
+945
+36:57.420 --> 37:00.990
+But in actuality, I gave you some examples,
+
+946
+37:00.990 --> 37:02.310
+we've got a long list of companies
+
+947
+37:02.310 --> 37:04.110
+we've been able to work out deals with,
+
+948
+37:04.110 --> 37:06.090
+it doesn't necessarily take a long time.
+
+949
+37:06.090 --> 37:07.110
+The example you're talking about
+
+950
+37:07.110 --> 37:09.000
+is a very big company
+
+951
+37:09.000 --> 37:11.760
+that really needed a very specific use case,
+
+952
+37:11.760 --> 37:13.620
+and we were able in a matter of a couple of weeks
+
+953
+37:13.620 --> 37:16.110
+to work out an agreement with that company
+
+954
+37:16.110 --> 37:17.880
+that let them do what they wanted to do,
+
+955
+37:17.880 --> 37:20.910
+but also ensured that those performers
+
+956
+37:20.910 --> 37:22.470
+had their basic rights
+
+957
+37:22.470 --> 37:24.990
+of informed consent and fair compensation upheld.
+
+958
+37:24.990 --> 37:29.220
+So I absolutely encourage and welcome companies
+
+959
+37:29.220 --> 37:30.053
+to reach out to us.
+
+960
+37:30.053 --> 37:31.623
+We reach out to companies as well.
+
+961
+37:32.580 --> 37:33.510
+It doesn't have to be
+
+962
+37:33.510 --> 37:35.490
+and isn't an adversarial process,
+
+963
+37:35.490 --> 37:37.620
+it's a process of trying to work together
+
+964
+37:37.620 --> 37:39.540
+to just make sure those basic respects
+
+965
+37:39.540 --> 37:40.500
+and ethics are upheld.
+
+966
+37:40.500 --> 37:42.360
+And with that framework,
+
+967
+37:42.360 --> 37:43.620
+there's a lot we can do together.
+
+968
+37:43.620 --> 37:44.730
+<v ->Amazing, okay.</v>
+
+969
+37:44.730 --> 37:46.980
+In our last few minutes here,
+
+970
+37:46.980 --> 37:50.310
+what are we talking about on this stage next year?
+
+971
+37:50.310 --> 37:53.040
+If you could kind of look in your crystal ball.
+
+972
+37:53.040 --> 37:54.930
+And I'll start down at the end with Walter,
+
+973
+37:54.930 --> 37:57.180
+and then make our way back.
+
+974
+37:57.180 --> 37:58.013
+<v ->Oh man.</v>
+
+975
+37:59.940 --> 38:01.537
+I was at the massage chair booth.
+
+976
+38:01.537 --> 38:02.400
+(Duncan laughing)
+So some sort of
+
+977
+38:02.400 --> 38:04.890
+massage chair future.
+
+978
+38:04.890 --> 38:09.890
+No, I think what will be really interesting is,
+
+979
+38:10.050 --> 38:13.560
+when we start to see the small companies come up
+
+980
+38:13.560 --> 38:16.020
+and we start to see those companies get legitimized
+
+981
+38:16.020 --> 38:18.690
+with the awards and Oscars
+
+982
+38:18.690 --> 38:19.523
+and those types of things--
+
+983
+38:19.523 --> 38:22.020
+<v ->One of those companies being Shy Kids?</v>
+
+984
+38:22.020 --> 38:24.360
+<v ->Of course, we're gonna find our funder tonight,</v>
+
+985
+38:24.360 --> 38:29.100
+and we're gonna be talking about this very moment,
+
+986
+38:29.100 --> 38:30.330
+they're gonna play this clip,
+
+987
+38:30.330 --> 38:32.610
+and it's gonna be very cool.
+
+988
+38:32.610 --> 38:34.180
+But I think another thing
+
+989
+38:35.034 --> 38:36.330
+that I've been thinking a lot about
+
+990
+38:36.330 --> 38:39.420
+is like the indivisualization of stories
+
+991
+38:39.420 --> 38:40.590
+I think will be really cool,
+
+992
+38:40.590 --> 38:43.800
+of what happens when you can add your kid
+
+993
+38:43.800 --> 38:46.170
+into an episode of "Bluey" or something like that?
+
+994
+38:46.170 --> 38:48.000
+I think that there's a,
+
+995
+38:48.000 --> 38:49.907
+I don't know, I see that being something.
+
+996
+38:49.907 --> 38:51.120
+<v ->I love that prediction.</v>
+
+997
+38:51.120 --> 38:52.110
+Nik.
+
+998
+38:52.110 --> 38:54.120
+<v ->Yeah, obviously the big takeaway</v>
+
+999
+38:54.120 --> 38:55.890
+is that there's no magic button,
+
+1000
+38:55.890 --> 38:57.090
+you need creatives,
+
+1001
+38:57.090 --> 39:00.720
+and great storytelling will ultimately win.
+
+1002
+39:00.720 --> 39:02.970
+I'm actually as curious as you are
+
+1003
+39:02.970 --> 39:05.343
+to see what happens by next year.
+
+1004
+39:06.510 --> 39:09.900
+<v ->Yeah, I feel no matter is the film or other industry,</v>
+
+1005
+39:09.900 --> 39:12.180
+the keyword's still the talent,
+
+1006
+39:12.180 --> 39:15.240
+I'm looking forward to see more like filmmakers,
+
+1007
+39:15.240 --> 39:16.740
+they can learn this new tool
+
+1008
+39:16.740 --> 39:18.630
+and create more amazing films,
+
+1009
+39:18.630 --> 39:20.310
+including the feature films,
+
+1010
+39:20.310 --> 39:21.960
+this year, also the coming years.
+
+1011
+39:23.460 --> 39:25.260
+<v ->And I guess I'll make two predictions.</v>
+
+1012
+39:25.260 --> 39:27.630
+One is I think we'll see more technology
+
+1013
+39:27.630 --> 39:29.850
+that integrates the process
+
+1014
+39:29.850 --> 39:33.090
+of securing consent from performers
+
+1015
+39:33.090 --> 39:37.110
+and maybe even from other people into a workflow
+
+1016
+39:37.110 --> 39:39.360
+for people who are doing production,
+
+1017
+39:39.360 --> 39:43.410
+so that it is less of like an exceptional thing
+
+1018
+39:43.410 --> 39:45.300
+that seems so complicated
+
+1019
+39:45.300 --> 39:47.490
+and more of a, "Here's this, click the button."
+
+1020
+39:47.490 --> 39:49.080
+We've already seen this starting to happen
+
+1021
+39:49.080 --> 39:50.640
+with the company Flawless I mentioned,
+
+1022
+39:50.640 --> 39:53.790
+and integrations into Avid and Pro Tools
+
+1023
+39:53.790 --> 39:55.290
+and things like that.
+
+1024
+39:55.290 --> 39:56.670
+The other prediction I'll make is,
+
+1025
+39:56.670 --> 39:58.360
+we're gonna see more technology
+
+1026
+40:00.450 --> 40:03.720
+that's gonna integrate the GenAI synthetic creation
+
+1027
+40:03.720 --> 40:05.820
+of video and audio together,
+
+1028
+40:05.820 --> 40:08.160
+because we've been seeing that as sort of split out,
+
+1029
+40:08.160 --> 40:09.540
+not as much together.
+
+1030
+40:09.540 --> 40:12.510
+And that's gonna be positioned for consumer use.
+
+1031
+40:12.510 --> 40:15.150
+But what's going to actually answer that question
+
+1032
+40:15.150 --> 40:15.990
+is what Walter said,
+
+1033
+40:15.990 --> 40:18.030
+which is the fact that you have a camera in your pocket
+
+1034
+40:18.030 --> 40:19.650
+doesn't make you a photographer,
+
+1035
+40:19.650 --> 40:24.000
+and the fact that there will be broader public access
+
+1036
+40:24.000 --> 40:27.810
+to those tools won't mean that anyone in the general public
+
+1037
+40:27.810 --> 40:29.850
+is going to be able to really create
+
+1038
+40:29.850 --> 40:31.860
+compelling content from that.
+
+1039
+40:31.860 --> 40:33.450
+I think that that will have its moment,
+
+1040
+40:33.450 --> 40:38.173
+and then that moment will rapidly fail
+
+1041
+40:40.140 --> 40:43.170
+to find a foothold with a broader audience.
+
+1042
+40:43.170 --> 40:45.120
+<v ->Well, great predictions from all of you.</v>
+
+1043
+40:45.120 --> 40:47.647
+Let's give a huge round of applause to
+
+1044
+40:47.647 --> 40:49.500
+our speakers this afternoon.
+(audience clapping)
+
+1045
+40:49.500 --> 40:50.790
+Thank you.
+
+1046
+40:50.790 --> 40:52.920
+And thank you all for being such a great audience
+
+1047
+40:52.920 --> 40:54.360
+at the end of the day on Thursday.
+
+1048
+40:54.360 --> 40:55.290
+I know you're all tired,
+
+1049
+40:55.290 --> 40:56.610
+so thank you for being with us.
+
+1050
+40:56.610 --> 40:59.009
+And enjoy the rest of your week at CES.
+
+1051
+40:59.009 --> 41:01.592
+(upbeat music)
+

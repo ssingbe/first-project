@@ -1,0 +1,3014 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.000 --> 00:03.167
+(gentle bright music)
+
+00:10.620 --> 00:11.460
+<v ->I'm David Shrier.</v>
+
+00:11.460 --> 00:13.680
+I am your host for this session.
+
+00:13.680 --> 00:15.840
+We are joined by an esteemed panel
+
+00:15.840 --> 00:18.510
+who I will introduce as we go through the questions,
+
+00:18.510 --> 00:19.950
+and we'll be talking about,
+
+00:19.950 --> 00:22.140
+What's Next for Smart Cities:
+
+00:22.140 --> 00:25.353
+AI for Data, Planning and Beyond.
+
+00:26.340 --> 00:30.120
+So my first question goes to Sheri Bachstein,
+
+00:30.120 --> 00:32.070
+who leads The Weather Channel,
+
+00:32.070 --> 00:33.930
+excuse me, The Weather Company,
+
+00:33.930 --> 00:35.760
+a role which has given her the chance
+
+00:35.760 --> 00:38.223
+to chase eight tornadoes in a day.
+
+00:39.120 --> 00:41.040
+Sheri, you may have insight into something
+
+00:41.040 --> 00:43.230
+that I'm rather interested in.
+
+00:43.230 --> 00:47.220
+Last year, we saw devastation to regions of the US
+
+00:47.220 --> 00:50.430
+that don't normally get impacted by hurricanes,
+
+00:50.430 --> 00:52.830
+like the mountains of Eastern Tennessee
+
+00:52.830 --> 00:56.070
+and the west end of North Carolina.
+
+00:56.070 --> 00:58.410
+Not to mention, extreme heat,
+
+00:58.410 --> 01:03.410
+which killed people at a rate 100% higher than 20 years ago,
+
+01:03.690 --> 01:06.060
+mostly in urban environments, right?
+
+01:06.060 --> 01:08.580
+So we're dealing with these extreme weather events.
+
+01:08.580 --> 01:11.700
+How do we better prepare cities and communities
+
+01:11.700 --> 01:14.460
+so that they, in turn, can better protect people
+
+01:14.460 --> 01:15.810
+and infrastructure?
+
+01:15.810 --> 01:17.190
+<v ->Well, David, thank you for including me</v>
+
+01:17.190 --> 01:18.023
+on the panel today.
+
+01:18.023 --> 01:18.870
+It's great to be here.
+
+01:18.870 --> 01:21.840
+And, you know, there is absolutely no doubt
+
+01:21.840 --> 01:23.490
+that our climate is changing
+
+01:23.490 --> 01:27.330
+and we are seeing more extreme events.
+
+01:27.330 --> 01:29.580
+But, not only that, we're seeing weather events
+
+01:29.580 --> 01:32.220
+happen outside of their seasonal norms, right?
+
+01:32.220 --> 01:34.050
+So that becomes very challenging,
+
+01:34.050 --> 01:36.060
+because it's not predictable anymore.
+
+01:36.060 --> 01:38.760
+And so you definitely saw that with the devastation
+
+01:38.760 --> 01:39.900
+that happened in Asheville,
+
+01:39.900 --> 01:43.410
+you would never think a hurricane would impact inland.
+
+01:43.410 --> 01:45.750
+And so there's a few things as we look
+
+01:45.750 --> 01:50.750
+at how AI can really help as it relates to extreme weather.
+
+01:50.910 --> 01:54.090
+One of the areas is around urban design, right?
+
+01:54.090 --> 01:57.180
+And really being able to design an infrastructure
+
+01:57.180 --> 02:00.180
+that can hold up to events
+
+02:00.180 --> 02:02.010
+that we've never seen before, right?
+
+02:02.010 --> 02:05.730
+And so the power of AI, you can take a lot of climate data
+
+02:05.730 --> 02:08.220
+and be able to come up with those scenarios
+
+02:08.220 --> 02:09.540
+that we haven't seen
+
+02:09.540 --> 02:11.310
+versus what we kind of do today
+
+02:11.310 --> 02:13.980
+is we look back at historical data, right?
+
+02:13.980 --> 02:16.830
+And so this gives us the ability to be more predictive,
+
+02:16.830 --> 02:19.140
+so then we can redesign those infrastructures,
+
+02:19.140 --> 02:22.770
+we can redesign those emergency response systems,
+
+02:22.770 --> 02:24.810
+which I think are critically important.
+
+02:24.810 --> 02:28.080
+And then, the other thing that I'm very excited about,
+
+02:28.080 --> 02:30.540
+because it plays right into what The Weather Company does,
+
+02:30.540 --> 02:32.070
+and The Weather Channel is one of our brands,
+
+02:32.070 --> 02:35.070
+so that's okay, is that, you know,
+
+02:35.070 --> 02:39.390
+traditionally, AI is now giving us the ability
+
+02:39.390 --> 02:43.320
+to much further our forecasting capabilities, right?
+
+02:43.320 --> 02:46.200
+And so a lot of the weather that you get,
+
+02:46.200 --> 02:48.930
+whether you look at your forecast as deterministic, right?
+
+02:48.930 --> 02:52.680
+That, for decades, we've delivered a deterministic forecast,
+
+02:52.680 --> 02:56.190
+which means one single prediction, right?
+
+02:56.190 --> 02:59.040
+With AI now we can really turn
+
+02:59.040 --> 03:01.530
+to look at probabilistic forecasting.
+
+03:01.530 --> 03:05.370
+And that means that we can take the power of AI
+
+03:05.370 --> 03:08.250
+and run thousands of scenarios
+
+03:08.250 --> 03:11.310
+to give us a better look at what's the probability
+
+03:11.310 --> 03:13.800
+that while this is the best forecast,
+
+03:13.800 --> 03:16.170
+there is always going to be the probability
+
+03:16.170 --> 03:18.660
+that it could go either side of that forecast.
+
+03:18.660 --> 03:21.060
+So this can give communities and governments
+
+03:21.060 --> 03:23.670
+the ability to better scenario plan,
+
+03:23.670 --> 03:26.790
+again, looking at it to be more predictive,
+
+03:26.790 --> 03:28.410
+more preparation.
+
+03:28.410 --> 03:31.740
+You know, we can't control Mother Nature, right,
+
+03:31.740 --> 03:36.510
+and the forecast will always, you know, be interesting.
+
+03:36.510 --> 03:39.180
+But we can better plan for the uncertainty,
+
+03:39.180 --> 03:42.000
+and I think that's really where smart cities
+
+03:42.000 --> 03:43.350
+can really benefit.
+
+03:43.350 --> 03:44.790
+<v ->Great, thank you.</v>
+
+03:44.790 --> 03:49.230
+So Barbara Bickham is a CTO and venture capital leader,
+
+03:49.230 --> 03:52.500
+and has won two poker championships.
+
+03:52.500 --> 03:55.563
+She'll be running a game after the panel just in Hall C.
+
+03:56.580 --> 03:58.230
+Barbara, you've worked at the convergence
+
+03:58.230 --> 04:01.140
+of different technologies with AI, like blockchain,
+
+04:01.140 --> 04:03.510
+in crafting innovative city environments
+
+04:03.510 --> 04:06.360
+from Honduras to Ohio.
+
+04:06.360 --> 04:10.803
+How are you using technology to improve citizen experiences?
+
+04:11.970 --> 04:15.510
+<v ->So we utilize AI (audio drops)</v>
+
+04:15.510 --> 04:17.820
+in quantum computing, Internet of Things,
+
+04:17.820 --> 04:20.040
+'cause we are gonna be one of the things
+
+04:20.040 --> 04:23.880
+in these smart cities, and also Web3 experiences,
+
+04:23.880 --> 04:27.810
+in order to not only plan a city,
+
+04:27.810 --> 04:31.260
+how do you go about moving around in a city,
+
+04:31.260 --> 04:36.260
+but what should a city really look like and be governed?
+
+04:36.510 --> 04:39.480
+So we are looking at using DAOs,
+
+04:39.480 --> 04:42.300
+distributed autonomous organizations,
+
+04:42.300 --> 04:45.450
+in order for citizens to have more say
+
+04:45.450 --> 04:48.450
+in the governance of a smart city.
+
+04:48.450 --> 04:51.420
+So instead of having a traditional centralized government
+
+04:51.420 --> 04:53.730
+where you would go to a DMV,
+
+04:53.730 --> 04:55.170
+well, we still would have DMV,
+
+04:55.170 --> 04:57.390
+those records would be on a blockchain.
+
+04:57.390 --> 05:02.390
+But instead of having certain centralized services,
+
+05:02.910 --> 05:06.480
+you could utilize something like Clean &amp; Safe,
+
+05:06.480 --> 05:09.690
+where citizens could be involved in their area
+
+05:09.690 --> 05:12.240
+and say, "Well, we don't want the graffiti here.
+
+05:12.240 --> 05:16.890
+We wanna vote to have that remitted or abated.
+
+05:16.890 --> 05:19.470
+We don't wanna have this types of crimes here.
+
+05:19.470 --> 05:21.990
+We want to have more policing
+
+05:21.990 --> 05:25.200
+and more kind of socialized services over in these areas."
+
+05:25.200 --> 05:27.810
+So it's a way for the citizenry
+
+05:27.810 --> 05:30.510
+to be more involved in their community
+
+05:30.510 --> 05:32.460
+and more connected to each other
+
+05:32.460 --> 05:36.900
+versus having this kind of one layer of person
+
+05:36.900 --> 05:38.730
+that is in between
+
+05:38.730 --> 05:41.970
+where you kind of feel disconnected amongst each other.
+
+05:41.970 --> 05:43.828
+<v ->Okay, thank you.</v>
+<v ->Mhmm.</v>
+
+05:43.828 --> 05:47.100
+<v ->So Prachi Vakharia is strategic advisor</v>
+
+05:47.100 --> 05:50.400
+for innovations and infrastructure with ARPA-I,
+
+05:50.400 --> 05:52.380
+a US government initiative
+
+05:52.380 --> 05:54.540
+to deliver transportation innovation.
+
+05:54.540 --> 05:56.220
+So, Prachi, tell us a little bit
+
+05:56.220 --> 05:58.620
+about this new ARPA-I initiative
+
+05:58.620 --> 06:00.540
+around leveraging emerging data sets
+
+06:00.540 --> 06:03.000
+and new techniques in AI
+
+06:03.000 --> 06:05.790
+for better understanding infrastructure assets.
+
+06:05.790 --> 06:07.080
+<v ->Wonderful, thank you.</v>
+
+06:07.080 --> 06:09.540
+Good afternoon, everyone, great to have you here.
+
+06:09.540 --> 06:11.850
+ARPA-I, before I get into ARPA-I,
+
+06:11.850 --> 06:13.050
+can I see a show of hands,
+
+06:13.050 --> 06:15.303
+how many of you have heard of DARPA?
+
+06:16.230 --> 06:18.720
+Okay, wow, this is a really impressive crowd.
+
+06:18.720 --> 06:21.300
+All right, so you all know DARPA was created,
+
+06:21.300 --> 06:23.490
+actually, it was a reaction to the Soviets
+
+06:23.490 --> 06:25.320
+at the time launching Sputnik,
+
+06:25.320 --> 06:26.940
+and Eisenhower waking up and saying,
+
+06:26.940 --> 06:28.140
+you know, "We, as a country,
+
+06:28.140 --> 06:30.330
+should never be caught by surprise again,"
+
+06:30.330 --> 06:31.380
+and, within four months,
+
+06:31.380 --> 06:33.360
+creating this agency that used to be called ARPA,
+
+06:33.360 --> 06:34.680
+now it's called DARPA.
+
+06:34.680 --> 06:37.290
+But DARPA has given us things like the internet.
+
+06:37.290 --> 06:38.970
+I think we can all appreciate that.
+
+06:38.970 --> 06:41.700
+Nearly a lot of the foundational technologies here at CES
+
+06:41.700 --> 06:43.320
+actually come from DARPA funding.
+
+06:43.320 --> 06:45.900
+Drone technologies, for example, internet, like I mentioned,
+
+06:45.900 --> 06:48.570
+GPS, global positioning systems,
+
+06:48.570 --> 06:50.610
+so on and so forth.
+
+06:50.610 --> 06:52.980
+And given how successful this model has been,
+
+06:52.980 --> 06:54.600
+about two years ago, the US government,
+
+06:54.600 --> 06:57.090
+and especially the Bipartisan Infrastructure Law,
+
+06:57.090 --> 06:59.430
+created a whole new agency called ARPA-I.
+
+06:59.430 --> 07:01.680
+So it's not an initiative, it's actually an agency.
+
+07:01.680 --> 07:04.290
+We're in the process of setting it up,
+
+07:04.290 --> 07:06.300
+and it ties into infrastructure.
+
+07:06.300 --> 07:07.710
+Why infrastructure?
+
+07:07.710 --> 07:10.170
+You know, we have so much amazing existing infrastructure
+
+07:10.170 --> 07:11.100
+in this country,
+
+07:11.100 --> 07:13.263
+and still it certainly can be improved.
+
+07:15.030 --> 07:16.567
+What ARPA-I is tasked to do is saying,
+
+07:16.567 --> 07:18.210
+"Well, can we use this DARPA model
+
+07:18.210 --> 07:20.340
+that's given us so much exciting technology
+
+07:20.340 --> 07:22.770
+and apply that to our roads, bridges,
+
+07:22.770 --> 07:24.390
+maritime sector, aviation?"
+
+07:24.390 --> 07:27.060
+And that includes, I get to look at amazing technologies,
+
+07:27.060 --> 07:29.880
+everything from self-healing concrete
+
+07:29.880 --> 07:32.610
+to new kinds of sensors that are way more precise
+
+07:32.610 --> 07:33.930
+than traditional sensors have been
+
+07:33.930 --> 07:36.150
+or classical sensors have been.
+
+07:36.150 --> 07:36.983
+To then, of course,
+
+07:36.983 --> 07:39.000
+things like electrification and automation,
+
+07:39.000 --> 07:40.050
+these trends we've been seeing
+
+07:40.050 --> 07:42.750
+for at least the last 10 years in the sector.
+
+07:42.750 --> 07:43.920
+Another side note, by the way,
+
+07:43.920 --> 07:47.460
+DARPA is also to be credited for creating the AV industry,
+
+07:47.460 --> 07:49.110
+the automated vehicle industry.
+
+07:49.110 --> 07:51.420
+This is coming from their 2004, '06, and '07
+
+07:51.420 --> 07:52.447
+Grand Challenge, which said,
+
+07:52.447 --> 07:55.510
+"Hey, can we have a vehicle that's operated
+
+07:56.824 --> 07:58.260
+without an operator inside?"
+
+07:58.260 --> 08:00.090
+And especially for battlefield environments,
+
+08:00.090 --> 08:01.680
+this became quite a necessity.
+
+08:01.680 --> 08:03.090
+So they kicked off this whole industry
+
+08:03.090 --> 08:05.340
+simply with the power of one challenge.
+
+08:05.340 --> 08:07.680
+So really ARPA-I has a great path,
+
+08:07.680 --> 08:10.890
+and possibility, and promise ahead.
+
+08:10.890 --> 08:13.890
+Now, why are we looking at transportation infrastructure?
+
+08:13.890 --> 08:15.630
+A couple of reasons.
+
+08:15.630 --> 08:18.360
+You know, I'm always in awe of the defense sector.
+
+08:18.360 --> 08:20.040
+Like they know more of what's happening
+
+08:20.040 --> 08:21.930
+in the streets of Iraq, for example,
+
+08:21.930 --> 08:24.840
+more than we know what's happening in our country.
+
+08:24.840 --> 08:27.990
+I used to work at city and state DOTs, and if you ask
+
+08:27.990 --> 08:30.607
+a DOT Department of Transportation commissioner,
+
+08:30.607 --> 08:33.630
+"Hey, you know, how many bridges do you have in your state,
+
+08:33.630 --> 08:35.550
+and what condition are they in?"
+
+08:35.550 --> 08:37.200
+and many of them will not be able
+
+08:37.200 --> 08:39.450
+to give you a precise answer on that.
+
+08:39.450 --> 08:42.270
+We just don't know the condition of many of our assets.
+
+08:42.270 --> 08:44.850
+So, last year, we launched a very creative initiative
+
+08:44.850 --> 08:47.280
+called Complete Streets AI, with the goal being,
+
+08:47.280 --> 08:49.500
+you know, can we use this amazing satellite imagery
+
+08:49.500 --> 08:52.140
+that we have access to today?
+
+08:52.140 --> 08:53.820
+New, you know, AI models as well,
+
+08:53.820 --> 08:55.770
+just new types of computer vision tools,
+
+08:55.770 --> 08:57.240
+put that all together
+
+08:57.240 --> 08:59.880
+and better make sense of our built infrastructure.
+
+08:59.880 --> 09:02.250
+You know, what is the condition of our roads,
+
+09:02.250 --> 09:04.200
+our bridges, our highways?
+
+09:04.200 --> 09:07.290
+Where do we spend our infrastructure dollars first
+
+09:07.290 --> 09:08.610
+and where should we not spend them?
+
+09:08.610 --> 09:11.370
+You know, what is in a state of good repair, what isn't?
+
+09:11.370 --> 09:13.650
+So really this is why we created the initiative.
+
+09:13.650 --> 09:16.104
+I will add one small side note again here is,
+
+09:16.104 --> 09:17.910
+I think this is much needed.
+
+09:17.910 --> 09:20.820
+If you even think of basic technologies like GPS,
+
+09:20.820 --> 09:23.490
+even today, GPS accuracy in defense applications
+
+09:23.490 --> 09:25.560
+is at centimeter-level accuracy,
+
+09:25.560 --> 09:28.650
+while in the civilian space it's at meter-level accuracy.
+
+09:28.650 --> 09:31.110
+So really our mandate is how do we be the best
+
+09:31.110 --> 09:33.090
+and use the most cutting-edge technologies
+
+09:33.090 --> 09:34.020
+that are out there
+
+09:34.020 --> 09:36.840
+or create and inspire them to be built for us?
+
+09:36.840 --> 09:39.270
+So this is exactly what we are doing at ARPA-I.
+
+09:39.270 --> 09:41.107
+<v ->And I recommend to everyone the book,</v>
+
+09:41.107 --> 09:44.670
+"The Entrepreneurial State" by Mariana Mazzucato,
+
+09:44.670 --> 09:46.500
+which tells you more detail
+
+09:46.500 --> 09:48.990
+on how almost every innovation enjoyed today
+
+09:48.990 --> 09:51.420
+was funded by a large-scale government program,
+
+09:51.420 --> 09:53.043
+not by Silicon Valley.
+
+09:54.360 --> 09:57.030
+So her stage name is Nadia Hansen.
+
+09:57.030 --> 10:00.540
+She drives digital transformation at Salesforce.com
+
+10:00.540 --> 10:03.000
+and actually lives in Las Vegas.
+
+10:03.000 --> 10:05.460
+She is the rare Las Vegas local.
+
+10:05.460 --> 10:09.360
+So, Nadia, you used to be the CIO of Las Vegas,
+
+10:09.360 --> 10:11.250
+and I'm sure you have some interesting stories
+
+10:11.250 --> 10:12.840
+to share both on your past role
+
+10:12.840 --> 10:15.180
+and what you're doing with Salesforce.com.
+
+10:15.180 --> 10:18.810
+How is AI being used to drive transformation
+
+10:18.810 --> 10:23.160
+across cities and countries in Vegas and globally?
+
+10:23.160 --> 10:25.920
+<v ->Thank you, well, good afternoon, welcome to my city.</v>
+
+10:25.920 --> 10:29.550
+I know nobody says that, I've been here for 25 years.
+
+10:29.550 --> 10:32.460
+I've seen the city grow firsthand.
+
+10:32.460 --> 10:35.370
+I live in Henderson, which Henderson didn't even exist.
+
+10:35.370 --> 10:38.430
+So coming back to your question, David.
+
+10:38.430 --> 10:39.780
+You know, some of the things that we're seeing
+
+10:39.780 --> 10:42.000
+just globally, I have the privilege of working
+
+10:42.000 --> 10:44.460
+with a lot of different state and local agencies,
+
+10:44.460 --> 10:48.900
+and it really starts with some foundational basics.
+
+10:48.900 --> 10:53.850
+If I want an Amazon experience, I want an Airbnb experience,
+
+10:53.850 --> 10:56.040
+I want an Uber experience,
+
+10:56.040 --> 10:59.610
+why can't government provide me with that same experience?
+
+10:59.610 --> 11:01.170
+So it's very foundational.
+
+11:01.170 --> 11:03.510
+I want seamless, I want easy,
+
+11:03.510 --> 11:06.900
+intuitive interaction with my government.
+
+11:06.900 --> 11:09.060
+How many of you love going to the DMV,
+
+11:09.060 --> 11:11.520
+Department of Motor Vehicles, to get a license?
+
+11:11.520 --> 11:13.500
+How many of you love to pay your bills,
+
+11:13.500 --> 11:14.490
+and then, you know what?
+
+11:14.490 --> 11:16.260
+Sometimes you can't pay it online.
+
+11:16.260 --> 11:17.970
+Yes, except for one person in back.
+
+11:17.970 --> 11:19.590
+Thank you very much for that.
+
+11:19.590 --> 11:22.050
+Nobody loves to pay their bills.
+
+11:22.050 --> 11:24.840
+But let me tell you, if you make the process,
+
+11:24.840 --> 11:27.840
+and if you make the experience easier
+
+11:27.840 --> 11:30.150
+for constituents and for citizens,
+
+11:30.150 --> 11:32.100
+yes, the interaction will be a lot better.
+
+11:32.100 --> 11:33.600
+So a lot of the conversations
+
+11:33.600 --> 11:36.870
+are around how can we have an omnichannel approach?
+
+11:36.870 --> 11:38.853
+And what I mean by omnichannel is,
+
+11:39.750 --> 11:41.820
+look, we're serving five different generations
+
+11:41.820 --> 11:42.750
+in government.
+
+11:42.750 --> 11:45.540
+We have the Traditionalists, we have Baby Boomers,
+
+11:45.540 --> 11:49.830
+we have the Gen Xs, we have pretty soon the Gen Zs,
+
+11:49.830 --> 11:53.130
+and all of them want to be served differently.
+
+11:53.130 --> 11:54.180
+Some people want to come
+
+11:54.180 --> 11:56.220
+into a brick-and-mortar building, great.
+
+11:56.220 --> 11:58.680
+Some people never want to see a human, great.
+
+11:58.680 --> 12:00.690
+Some people only want to talk
+
+12:00.690 --> 12:03.060
+through a mobile device, great.
+
+12:03.060 --> 12:04.770
+I think this is the imperative
+
+12:04.770 --> 12:07.740
+of us being able to move forward in providing that,
+
+12:07.740 --> 12:10.950
+especially with now AI being as part of the realm,
+
+12:10.950 --> 12:14.493
+which I'm sure everybody has used ChatGPT in this room.
+
+12:15.510 --> 12:17.370
+Pretty much most people.
+
+12:17.370 --> 12:19.890
+We're talking about instant gratification.
+
+12:19.890 --> 12:22.170
+Okay, and I think we live in this world right now
+
+12:22.170 --> 12:23.820
+where every state and local agency
+
+12:23.820 --> 12:25.357
+that I speak to is thinking about,
+
+12:25.357 --> 12:28.770
+"How do I set up AI governance in my institution?
+
+12:28.770 --> 12:30.990
+How do I set up a cyber policy?
+
+12:30.990 --> 12:34.050
+How do I have a data governance committee?"
+
+12:34.050 --> 12:36.750
+'Cause essentially everything starts with data.
+
+12:36.750 --> 12:37.770
+Data is your foundation.
+
+12:37.770 --> 12:39.150
+And, in government, I used to work
+
+12:39.150 --> 12:40.800
+in government for 15 years,
+
+12:40.800 --> 12:43.500
+I have to tell you, we have petabytes of data.
+
+12:43.500 --> 12:45.030
+And you don't know how to visualize it,
+
+12:45.030 --> 12:47.250
+and you don't know how to make data-driven decisions
+
+12:47.250 --> 12:48.930
+because there's so much of it.
+
+12:48.930 --> 12:51.270
+So I think it really starts with basics.
+
+12:51.270 --> 12:54.150
+What is the outcome that we're trying to achieve?
+
+12:54.150 --> 12:57.360
+And then, how can we reverse engineer back to that?
+
+12:57.360 --> 12:59.160
+So I'll pass it back to you,
+
+12:59.160 --> 13:00.450
+but I wanna talk about agents too
+
+13:00.450 --> 13:03.360
+in the next set of questions.
+
+13:03.360 --> 13:04.380
+<v ->Sure, well,</v>
+
+13:04.380 --> 13:07.639
+so now we're gonna get into some collaborative questions.
+
+13:07.639 --> 13:11.850
+So this first one is for Barbara and Nadia.
+
+13:11.850 --> 13:15.097
+Data seems pretty central to the AI conversation, right?
+
+13:15.097 --> 13:17.580
+And so what are some of the challenges
+
+13:17.580 --> 13:21.873
+around working with AI and data in the smart city context?
+
+13:23.100 --> 13:24.657
+<v ->I can kick it off?</v>
+<v ->Yeah, please.</v>
+
+13:24.657 --> 13:29.250
+<v ->So, okay, so a lot of the agencies</v>
+
+13:29.250 --> 13:30.810
+that, one, I used to work for,
+
+13:30.810 --> 13:33.750
+and, two, a very simple example,
+
+13:33.750 --> 13:36.840
+what's the number one thing, when you think of Las Vegas,
+
+13:36.840 --> 13:39.840
+what's the number one thing that you think of?
+
+13:39.840 --> 13:41.103
+<v ->Casino.</v>
+<v ->Casinos.</v>
+
+13:42.390 --> 13:44.850
+Gambling, entertainment.
+
+13:44.850 --> 13:46.530
+Hockey.
+<v ->Water.</v>
+
+13:46.530 --> 13:47.550
+<v ->Losing money.</v>
+
+13:47.550 --> 13:49.000
+Could be all of those things.
+
+13:50.400 --> 13:53.970
+When we were redesigning the website for Clark County,
+
+13:53.970 --> 13:57.330
+which is the county here that runs Las Vegas,
+
+13:57.330 --> 13:58.770
+we were like, "What do people come here for?
+
+13:58.770 --> 14:00.780
+Maybe they come here for a marriage license."
+
+14:00.780 --> 14:02.550
+So we decided to design it that way.
+
+14:02.550 --> 14:03.660
+But guess what?
+
+14:03.660 --> 14:05.940
+We went back and took a look at the data,
+
+14:05.940 --> 14:09.330
+and the data actually showed the number one search
+
+14:09.330 --> 14:12.487
+on Clark County's website at the time was,
+
+14:12.487 --> 14:15.390
+"We're searching for an inmate in jail,"
+
+14:15.390 --> 14:18.120
+'cause people just end up missing somehow in Vegas
+
+14:18.120 --> 14:19.020
+and they end up in jail,
+
+14:19.020 --> 14:20.820
+because there's a lot of things happening.
+
+14:20.820 --> 14:23.287
+So coming back to data, this is why when you think,
+
+14:23.287 --> 14:25.860
+"Ah, people come here for different reasons,"
+
+14:25.860 --> 14:27.690
+yeah, that's an assumption,
+
+14:27.690 --> 14:30.120
+but you need evidence to be able to prove it.
+
+14:30.120 --> 14:33.180
+So data is imperative in order to do any kind of AI.
+
+14:33.180 --> 14:34.890
+So we're talking about AI agents,
+
+14:34.890 --> 14:37.620
+that's a digital agent you can have on your side,
+
+14:37.620 --> 14:40.140
+your buddy who can actually do everything for you,
+
+14:40.140 --> 14:44.490
+and that's kind of augmenting existing workers, right?
+
+14:44.490 --> 14:46.500
+And I think that's in the era where we're at,
+
+14:46.500 --> 14:49.350
+but you really need to have clean, accurate data
+
+14:49.350 --> 14:51.900
+to provide you with the results that you're looking for.
+
+14:51.900 --> 14:54.330
+That's the foundation.
+<v David>Thank you.</v>
+
+14:54.330 --> 14:56.220
+Barbara, Prachi, would you like to build on that?
+
+14:56.220 --> 14:58.650
+<v ->I'll build on that a little bit.</v>
+
+14:58.650 --> 15:03.450
+Back to the fact of you have massive amounts of data,
+
+15:03.450 --> 15:08.040
+petabytes of data, and that it's probably siloed off,
+
+15:08.040 --> 15:13.040
+so the data is not in kind of an easy way to access.
+
+15:13.680 --> 15:17.460
+So that's an opportunity to start using
+
+15:17.460 --> 15:21.480
+kind of decentralized AIs so that they can start
+
+15:21.480 --> 15:23.790
+having conversation amongst each other,
+
+15:23.790 --> 15:26.197
+the AIs can have the conversations and go,
+
+15:26.197 --> 15:28.110
+"Hey, I need this data,
+
+15:28.110 --> 15:32.220
+because someone is looking for someone in jail,"
+
+15:32.220 --> 15:34.650
+or "someone is looking for a marriage license,"
+
+15:34.650 --> 15:35.880
+or "someone is looking
+
+15:35.880 --> 15:40.740
+for where is the loop here."
+
+15:40.740 --> 15:43.470
+So depending upon what people are thinking
+
+15:43.470 --> 15:44.700
+about and looking for,
+
+15:44.700 --> 15:47.970
+that siloed area is also a problem,
+
+15:47.970 --> 15:50.490
+because data can be hidden in one place
+
+15:50.490 --> 15:52.620
+that needs to be surfaced somewhere else.
+
+15:52.620 --> 15:56.070
+So that's a very common problem, not only in a city,
+
+15:56.070 --> 15:58.830
+but many companies have this common problem
+
+15:58.830 --> 16:01.050
+of where is all the data?
+
+16:01.050 --> 16:03.480
+Why is the data not transparent?
+
+16:03.480 --> 16:07.290
+And why is it so siloed off into certain sections?
+
+16:07.290 --> 16:09.060
+So that's where the decentralized AI,
+
+16:09.060 --> 16:13.623
+decentralized data concepts can help move a city forward.
+
+16:14.640 --> 16:15.930
+<v ->Adding to both these points,</v>
+
+16:15.930 --> 16:17.910
+I recently just this afternoon
+
+16:17.910 --> 16:21.030
+ran into the economic minister of Estonia.
+
+16:21.030 --> 16:23.400
+And I asked him, you know, "What makes Estonia special?"
+
+16:23.400 --> 16:25.237
+And the one thing he mentioned is,
+
+16:25.237 --> 16:28.230
+"We have lots and lots of digitized data."
+
+16:28.230 --> 16:29.250
+And this is really key,
+
+16:29.250 --> 16:31.327
+'cause data can be in all different forms and formats.
+
+16:31.327 --> 16:33.150
+"We have so much historic data."
+
+16:33.150 --> 16:35.190
+Well, it turns out no one's managed to digitize it
+
+16:35.190 --> 16:36.420
+and put it in the right format,
+
+16:36.420 --> 16:37.560
+you know, structural, unstructured,
+
+16:37.560 --> 16:39.270
+but, you know, hopefully, structured data
+
+16:39.270 --> 16:41.520
+in a way that actually makes it usable.
+
+16:41.520 --> 16:43.500
+Now in the transportation sector,
+
+16:43.500 --> 16:45.720
+that gets amplified quite a bit.
+
+16:45.720 --> 16:47.640
+We have a federated system of building stuff
+
+16:47.640 --> 16:48.480
+here in this country,
+
+16:48.480 --> 16:51.600
+that means we have nonstandard curb cuts
+
+16:51.600 --> 16:52.980
+or curb ramps, for example.
+
+16:52.980 --> 16:55.590
+You know, the sidewalk itself is designed differently,
+
+16:55.590 --> 16:57.210
+and it's designed differently in every town,
+
+16:57.210 --> 16:59.043
+every city, every state.
+
+17:00.120 --> 17:02.100
+We have national centers,
+
+17:02.100 --> 17:03.240
+but sometimes states do,
+
+17:03.240 --> 17:04.530
+or cities and regions do
+
+17:04.530 --> 17:06.330
+what they need to serve their people,
+
+17:06.330 --> 17:07.650
+which means they go about building things
+
+17:07.650 --> 17:10.110
+the way they've been building for the last 50 years.
+
+17:10.110 --> 17:11.400
+And this is a big problem,
+
+17:11.400 --> 17:13.560
+because there's no lack of standardization.
+
+17:13.560 --> 17:15.300
+Well, how do you then put something
+
+17:15.300 --> 17:17.070
+at a national level that makes sense
+
+17:17.070 --> 17:20.730
+and create a kind of national database of things?
+
+17:20.730 --> 17:23.910
+You know, one small example is you could have,
+
+17:23.910 --> 17:27.270
+I could have a national database of bike routes,
+
+17:27.270 --> 17:28.897
+for example, in this country, and say like,
+
+17:28.897 --> 17:30.990
+"Hey, you know, if I wanna bike from A to B,
+
+17:30.990 --> 17:33.000
+can I take a bike route across the way?"
+
+17:33.000 --> 17:34.470
+But, you know, how do you define bike routes?
+
+17:34.470 --> 17:36.900
+And turns out, there are many different definitions of it,
+
+17:36.900 --> 17:39.300
+many different ways they're protected, unprotected.
+
+17:39.300 --> 17:41.550
+So lots and lots of variations,
+
+17:41.550 --> 17:43.890
+so this is one about data quality itself.
+
+17:43.890 --> 17:46.380
+Another anecdote I'll share is when I was working
+
+17:46.380 --> 17:48.080
+with the Massachusetts government,
+
+17:49.252 --> 17:51.960
+you know, I was in charge of enhancements,
+
+17:51.960 --> 17:53.040
+especially to stations,
+
+17:53.040 --> 17:55.500
+especially those people coming into transit stations
+
+17:55.500 --> 17:56.730
+in the Boston region.
+
+17:56.730 --> 17:59.010
+And when I asked for maps of these stations
+
+17:59.010 --> 17:59.942
+so I could start, you know, building
+
+17:59.942 --> 18:03.510
+on what enhancements we needed to build on top of it,
+
+18:03.510 --> 18:05.700
+I got a Dropbox folder,
+
+18:05.700 --> 18:07.620
+which was randomly created by a contractor,
+
+18:07.620 --> 18:12.620
+with PDF files of the station as-built maps from the 1970s.
+
+18:12.780 --> 18:14.940
+This is the best and the most recent data
+
+18:14.940 --> 18:17.580
+they had of our infrastructure.
+
+18:17.580 --> 18:19.200
+So that tells you there's a lot we need to do
+
+18:19.200 --> 18:22.380
+and improve in terms of data quality, data standardization,
+
+18:22.380 --> 18:25.380
+and then, of course, your AI tools can come on top of that.
+
+18:25.380 --> 18:26.910
+AI itself is really exciting.
+
+18:26.910 --> 18:28.710
+You know, along with all these hundreds of models
+
+18:28.710 --> 18:29.880
+we've seen applicants use,
+
+18:29.880 --> 18:33.120
+even things like visual language models.
+
+18:33.120 --> 18:35.310
+Again, that combines and helps you do extraction
+
+18:35.310 --> 18:37.170
+from maps or images,
+
+18:37.170 --> 18:39.480
+and also combine it with language.
+
+18:39.480 --> 18:40.500
+So there's a lot of hope,
+
+18:40.500 --> 18:44.520
+and I think AI can fill a lot of gaps in this data spectrum.
+
+18:44.520 --> 18:46.110
+So I'm excited.
+
+18:46.110 --> 18:48.540
+<v ->And so kind of extending this point,</v>
+
+18:48.540 --> 18:50.880
+data's obviously a big part of the intersection
+
+18:50.880 --> 18:53.250
+of weather and infrastructure.
+
+18:53.250 --> 18:54.870
+So this is for Sheri,
+
+18:54.870 --> 18:56.940
+and then, Prachi, you can build on this.
+
+18:56.940 --> 18:59.610
+Are there places where public-private partnerships
+
+18:59.610 --> 19:02.890
+could help us around getting better AI
+
+19:03.870 --> 19:06.750
+and better quality data going into that AI?
+
+19:06.750 --> 19:07.583
+<v ->Oh, absolutely.</v>
+
+19:07.583 --> 19:09.990
+And, Nadia, I would've thought the most searched term
+
+19:09.990 --> 19:11.823
+would've been "What's the weather in Las Vegas?"
+
+19:11.823 --> 19:13.920
+<v ->Yes.</v>
+<v ->But maybe not.</v>
+
+19:13.920 --> 19:16.980
+But, no, The Weather Company,
+
+19:16.980 --> 19:18.780
+for years we've had partnerships
+
+19:18.780 --> 19:21.810
+with NOAA, NWS, with the government,
+
+19:21.810 --> 19:24.240
+with universities
+
+19:24.240 --> 19:28.230
+that we're doing science and projects with,
+
+19:28.230 --> 19:29.610
+and then with other companies.
+
+19:29.610 --> 19:32.850
+Right now, for example, we are partnering with Nvidia
+
+19:32.850 --> 19:37.200
+to build the next generation of AI weather modeling.
+
+19:37.200 --> 19:40.470
+And it's a weather model, it'll be the first of its kind,
+
+19:40.470 --> 19:43.830
+that will be down to a one kilometer.
+
+19:43.830 --> 19:46.680
+It's an AI numeric-based model.
+
+19:46.680 --> 19:50.700
+And so, you know, there's a lot of ways to get data
+
+19:50.700 --> 19:52.620
+and to partner to get that data.
+
+19:52.620 --> 19:54.960
+Our forecasts, we use 100 different models,
+
+19:54.960 --> 19:56.790
+some from governments around the world,
+
+19:56.790 --> 19:59.520
+some from, you know, private sector,
+
+19:59.520 --> 20:02.070
+from sensors, as you were talking about,
+
+20:02.070 --> 20:03.630
+from airplane sensors,
+
+20:03.630 --> 20:06.600
+from your cell phones, if you give us permission.
+
+20:06.600 --> 20:08.820
+All of that goes into input,
+
+20:08.820 --> 20:12.720
+because I think the more quality data that we can look at,
+
+20:12.720 --> 20:14.670
+the better the answer will be.
+
+20:14.670 --> 20:17.190
+And so I think having an ecosystem
+
+20:17.190 --> 20:20.100
+where you have partnerships across different sectors
+
+20:20.100 --> 20:22.230
+is really fundamental
+
+20:22.230 --> 20:25.113
+as we continue down this AI journey collectively.
+
+20:26.340 --> 20:28.770
+<v ->Yeah, I'll touch more on just how weather</v>
+
+20:28.770 --> 20:31.620
+and infrastructure connect together.
+
+20:31.620 --> 20:33.217
+One example is, of course, like, all of us,
+
+20:33.217 --> 20:36.030
+you know, a lot of times our routes get disrupted
+
+20:36.030 --> 20:38.160
+if there's rain or there's snow,
+
+20:38.160 --> 20:41.220
+things take just much longer to get to than before.
+
+20:41.220 --> 20:42.600
+During my time at Amazon as well,
+
+20:42.600 --> 20:45.217
+I know they've explored using weather companies
+
+20:45.217 --> 20:46.770
+and weather services
+
+20:46.770 --> 20:49.530
+that even give information at the very block level,
+
+20:49.530 --> 20:52.260
+so you know exactly at this block how much traffic there is.
+
+20:52.260 --> 20:53.940
+You also wanna understand, "Well, are the tires
+
+20:53.940 --> 20:56.910
+on this truck going to be slippery?" for example.
+
+20:56.910 --> 20:58.890
+From a kind of public sector side,
+
+20:58.890 --> 21:00.960
+a lot of cities and states can also do things
+
+21:00.960 --> 21:03.030
+like continuous route planning,
+
+21:03.030 --> 21:04.980
+and this is, again, a technology
+
+21:04.980 --> 21:06.570
+that could be possible in the future.
+
+21:06.570 --> 21:07.680
+'Cause right now, route planning is,
+
+21:07.680 --> 21:08.513
+you know, "I wanna go from A to B
+
+21:08.513 --> 21:10.200
+and here are the steps to get there."
+
+21:10.200 --> 21:12.060
+But what if it's something that's continuous?
+
+21:12.060 --> 21:14.070
+And, you know, new kinds of technology can enable that.
+
+21:14.070 --> 21:15.240
+So that means, you know,
+
+21:15.240 --> 21:17.070
+as you're moving through your route,
+
+21:17.070 --> 21:18.127
+you can then figure out,
+
+21:18.127 --> 21:19.440
+"Well, there's traffic here
+
+21:19.440 --> 21:20.670
+or there's a weather event here
+
+21:20.670 --> 21:22.410
+or there's a blockage there,
+
+21:22.410 --> 21:24.990
+this road is closed, well, let's reroute it,"
+
+21:24.990 --> 21:26.790
+but all happening in real time.
+
+21:26.790 --> 21:30.120
+So imagine a digital twin of your city or your region
+
+21:30.120 --> 21:32.880
+and that helps you go from A to B.
+
+21:32.880 --> 21:34.470
+One technology I'm excited for,
+
+21:34.470 --> 21:36.990
+again, weather infrastructure is also perhaps the role
+
+21:36.990 --> 21:39.390
+that quantum computing can play in this.
+
+21:39.390 --> 21:41.730
+Quantum computers are still very far away,
+
+21:41.730 --> 21:43.164
+but we started to see some models
+
+21:43.164 --> 21:45.600
+that look interesting and promising.
+
+21:45.600 --> 21:47.520
+For example, with tsunamis or hurricanes,
+
+21:47.520 --> 21:50.970
+how do you have evacuation done in a way
+
+21:50.970 --> 21:52.890
+that's really intelligent and optimized?
+
+21:52.890 --> 21:54.960
+Because, again, quantum computers,
+
+21:54.960 --> 21:56.160
+you know, they work in sort of bits
+
+21:56.160 --> 21:57.180
+which have zeros and ones,
+
+21:57.180 --> 21:59.760
+quantum qubits can have multiple different states,
+
+21:59.760 --> 22:02.370
+zero-one or zero and one at the same time.
+
+22:02.370 --> 22:05.430
+Anyways, it's this exponential and fast compute time
+
+22:05.430 --> 22:06.990
+that makes them really great,
+
+22:06.990 --> 22:09.120
+which means you could add just way more constraints,
+
+22:09.120 --> 22:11.550
+way more variables into your model
+
+22:11.550 --> 22:13.140
+and make that better and better and better.
+
+22:13.140 --> 22:15.360
+So we certainly see a lot of great technologies
+
+22:15.360 --> 22:17.307
+in the future that can help with weather and infrastructure
+
+22:17.307 --> 22:19.020
+and how they connect together.
+
+22:19.020 --> 22:21.090
+<v Barbara>David, I'd like to add on to this</v>
+
+22:21.090 --> 22:22.950
+a little bit.
+<v ->Yeah, please.</v>
+
+22:22.950 --> 22:26.130
+<v ->So Honduras, we are dealing with, like,</v>
+
+22:26.130 --> 22:28.260
+they had a weather event.
+
+22:28.260 --> 22:31.740
+And had we been able to see that ahead of time,
+
+22:31.740 --> 22:33.360
+now their port is stuck.
+
+22:33.360 --> 22:36.120
+Like, they can't ship anything out of their port,
+
+22:36.120 --> 22:38.670
+so we're trying to help them move products
+
+22:38.670 --> 22:39.510
+out of their port.
+
+22:39.510 --> 22:41.070
+So now their economy has stopped,
+
+22:41.070 --> 22:43.020
+like, their economy is stuck,
+
+22:43.020 --> 22:45.030
+because they can't ship out their crabs
+
+22:45.030 --> 22:47.760
+and their other kind of high-end things
+
+22:47.760 --> 22:50.490
+that they use for their economy.
+
+22:50.490 --> 22:53.760
+So we're going in there and helping solve that immediately.
+
+22:53.760 --> 22:56.227
+But if there were weather models that said,
+
+22:56.227 --> 22:57.810
+"Hey, this is hurricane season,
+
+22:57.810 --> 23:00.960
+these hurricanes are gonna come in here at these times,"
+
+23:00.960 --> 23:03.540
+you could potentially reroute those products
+
+23:03.540 --> 23:05.940
+into a whole different area
+
+23:05.940 --> 23:09.420
+so that they can still have their economy functioning
+
+23:09.420 --> 23:11.310
+versus now they're stuck and-
+
+23:11.310 --> 23:13.500
+<v ->Supply chain optimization.</v>
+<v ->Yeah, we can help-</v>
+
+23:13.500 --> 23:15.840
+<v ->Supply chain resiliency.</v>
+<v ->Yeah, the resiliency</v>
+
+23:15.840 --> 23:17.257
+of the supply chain, 'cause we know,
+
+23:17.257 --> 23:19.740
+"Okay, we know to the centimeter,
+
+23:19.740 --> 23:22.200
+like, the hurricane's gonna be hitting in these areas,
+
+23:22.200 --> 23:25.920
+so now we need to migrate these products this way initially,
+
+23:25.920 --> 23:28.800
+and then we can kind of reset it back
+
+23:28.800 --> 23:30.390
+when the weather is better,"
+
+23:30.390 --> 23:32.400
+and so it's a powerful-
+<v ->I mean, I think this lends-</v>
+
+23:32.400 --> 23:34.200
+<v ->Powerful use case for that.</v>
+
+23:34.200 --> 23:36.750
+<v ->Yeah, please.</v>
+<v ->Itself to governments,</v>
+
+23:36.750 --> 23:40.110
+businesses all have to have a weather strategy, right,
+
+23:40.110 --> 23:42.570
+because of the changes in the climate.
+
+23:42.570 --> 23:45.690
+So you no more can just predict it or ignore that,
+
+23:45.690 --> 23:48.235
+that would be not responsible to do that.
+
+23:48.235 --> 23:51.858
+So I agree, like, if they had a weather strategy and a plan,
+
+23:51.858 --> 23:54.870
+you know, because AI is giving us that ability
+
+23:54.870 --> 23:56.610
+to better predict, right?
+<v ->Yes.</v>
+
+23:56.610 --> 23:58.800
+<v ->Especially down to a storm scale level,</v>
+
+23:58.800 --> 24:00.000
+which is really critical.
+<v ->Well, they know,</v>
+
+24:00.000 --> 24:00.870
+and they know, right?
+
+24:00.870 --> 24:02.220
+Because every year this happens.
+
+24:02.220 --> 24:04.080
+So it's not like it's a surprise,
+
+24:04.080 --> 24:07.140
+but they just weren't prepared.
+
+24:07.140 --> 24:09.540
+Maybe it was a little bit worse this year than last year,
+
+24:09.540 --> 24:12.360
+or the year before, but it's a constant thing.
+
+24:12.360 --> 24:15.780
+And it's absolutely impacting their supply chain now
+
+24:15.780 --> 24:17.160
+and their economy has stopped.
+
+24:17.160 --> 24:19.680
+So at that, you know, it's unfortunate,
+
+24:19.680 --> 24:21.450
+like, we all know about North Carolina,
+
+24:21.450 --> 24:24.660
+but like this country, their GDP is going down,
+
+24:24.660 --> 24:26.280
+because they can't ship any products out.
+
+24:26.280 --> 24:28.350
+<v ->Sure.</v>
+<v ->Well, and so,</v>
+
+24:28.350 --> 24:31.620
+we're talking about AI, obviously, on this panel.
+
+24:31.620 --> 24:32.640
+It's a hot topic.
+
+24:32.640 --> 24:35.460
+Everyone is very excited by the new Nvidia announcement
+
+24:35.460 --> 24:37.950
+that we heard this week at CES.
+
+24:37.950 --> 24:40.860
+So there's lots of talk about artificial intelligence,
+
+24:40.860 --> 24:43.170
+but what about human intelligence?
+
+24:43.170 --> 24:46.200
+I mean, where does the humanity intersect
+
+24:46.200 --> 24:49.620
+with this artificial intelligence?
+
+24:49.620 --> 24:53.520
+How do you see AI and human intelligence working together,
+
+24:53.520 --> 24:54.600
+and what's the potential
+
+24:54.600 --> 24:56.390
+for that collaboration to look like?
+
+24:56.390 --> 24:57.810
+So I throw that open to the panel,
+
+24:57.810 --> 24:59.460
+whoever wants to jump in on this.
+
+24:59.460 --> 25:01.863
+<v ->So I'm working with a company called Reliable,</v>
+
+25:02.700 --> 25:06.780
+and they have a mix of AI and human intelligence.
+
+25:06.780 --> 25:10.050
+So what they do is they try and take bias out of the data,
+
+25:10.050 --> 25:13.080
+because it's not only about how the model is created,
+
+25:13.080 --> 25:17.160
+it's also how the model algorithmically starts
+
+25:17.160 --> 25:20.520
+looking at the data, and then surfacing data.
+
+25:20.520 --> 25:23.880
+So they have the ability to auto-tag
+
+25:23.880 --> 25:26.790
+and also for you to tag it yourself
+
+25:26.790 --> 25:30.120
+so that the data ends up becoming more robust
+
+25:30.120 --> 25:34.833
+and more clear so that the accuracy is better.
+
+25:35.760 --> 25:39.797
+And so that product kind of helps surface
+
+25:42.060 --> 25:44.370
+all of the different pieces of data
+
+25:44.370 --> 25:46.620
+that AI could utilize there.
+
+25:46.620 --> 25:51.620
+It's not just, you know, we talked a lot,
+
+25:51.630 --> 25:53.477
+okay, I'll leave it there.
+
+25:53.477 --> 25:54.910
+<v ->Yeah, sure.</v>
+<v ->I'll leave it there.</v>
+
+25:54.910 --> 25:56.550
+<v ->Yeah, yeah.</v>
+<v ->Thank you.</v>
+
+25:56.550 --> 25:59.040
+<v ->If I can provide a sort of mental model or taxonomy,</v>
+
+25:59.040 --> 26:02.970
+or if you wanna call it, for AI and humans,
+
+26:02.970 --> 26:04.530
+one way to think about it is,
+
+26:04.530 --> 26:05.820
+think of it in four stages.
+
+26:05.820 --> 26:07.350
+One is like a human only, right?
+
+26:07.350 --> 26:08.790
+So any task that's given,
+
+26:08.790 --> 26:10.260
+and depending on the variety of tasks,
+
+26:10.260 --> 26:11.910
+but tasks are human only
+
+26:11.910 --> 26:14.070
+with very little assistance from AI.
+
+26:14.070 --> 26:16.230
+The next level is human-in-the-loop.
+
+26:16.230 --> 26:18.330
+And this is where, again, AI does some of the work,
+
+26:18.330 --> 26:21.030
+but it's really meant to assist the human being themselves
+
+26:21.030 --> 26:22.350
+and, you know, the human, like us,
+
+26:22.350 --> 26:25.530
+maybe using ChatGPT once in a while to ask questions,
+
+26:25.530 --> 26:26.620
+that's human-in-the-loop.
+
+26:26.620 --> 26:29.190
+Well, the next after that is human-on-the-loop,
+
+26:29.190 --> 26:32.280
+and this is where AI is doing a lot of the planning,
+
+26:32.280 --> 26:34.440
+it's doing a lot of the planning, a lot of the execution,
+
+26:34.440 --> 26:36.690
+but key decision making or supervision
+
+26:36.690 --> 26:38.340
+happens from the human side.
+
+26:38.340 --> 26:40.500
+And then, the last stage is AI only,
+
+26:40.500 --> 26:42.840
+which is where the AI system is in full control
+
+26:42.840 --> 26:46.230
+of all execution planning, of task operations, et cetera.
+
+26:46.230 --> 26:48.000
+<v ->I think to add to Prachi's point,</v>
+
+26:48.000 --> 26:50.910
+you know, AI's been around for, what, 10 plus years,
+
+26:50.910 --> 26:53.040
+and it really started with automation.
+
+26:53.040 --> 26:54.150
+It was very simple.
+
+26:54.150 --> 26:56.400
+It's like workflow processing automation,
+
+26:56.400 --> 26:59.610
+making sure things get routed to the appropriate region,
+
+26:59.610 --> 27:01.950
+department, agency, whatever that might be.
+
+27:01.950 --> 27:04.500
+And then, the second wave was more on predictive analysis,
+
+27:04.500 --> 27:06.240
+which is what we talked about.
+
+27:06.240 --> 27:08.280
+So you could still do predictive analysis.
+
+27:08.280 --> 27:09.840
+AI has a lot of different flavors.
+
+27:09.840 --> 27:11.250
+It's not just generative AI,
+
+27:11.250 --> 27:15.090
+which is now the third wave which we're in right now.
+
+27:15.090 --> 27:17.940
+And I do feel with the evolution of LLMs,
+
+27:17.940 --> 27:20.520
+we're not quite there yet to be fully automated, Prachi,
+
+27:20.520 --> 27:22.680
+like, you know, with the only AI
+
+27:22.680 --> 27:24.390
+being the central hub of everything,
+
+27:24.390 --> 27:26.490
+just because you brought up bias,
+
+27:26.490 --> 27:29.550
+there's a consistency, there's transparency,
+
+27:29.550 --> 27:30.570
+there's accountability,
+
+27:30.570 --> 27:33.510
+there's all of these things that have to be in place
+
+27:33.510 --> 27:37.500
+before you can fully rely and trust a robot
+
+27:37.500 --> 27:40.290
+or a machine to be able to do everything.
+
+27:40.290 --> 27:42.330
+We're getting really good at reasoning,
+
+27:42.330 --> 27:45.240
+we're getting really good at logic, and processing,
+
+27:45.240 --> 27:46.200
+and making sure...
+
+27:46.200 --> 27:49.710
+Like, I was recently using NotebookLM for fun,
+
+27:49.710 --> 27:51.420
+and I was trying to create a podcast.
+
+27:51.420 --> 27:54.420
+And I love how it has the ums and the ahs,
+
+27:54.420 --> 27:57.750
+so we can take the transcript of this entire session
+
+27:57.750 --> 27:59.580
+and put it into an LLM,
+
+27:59.580 --> 28:02.400
+and it can generate a podcast between the four of us.
+
+28:02.400 --> 28:06.030
+That's where we're at right now with human-like feeling.
+
+28:06.030 --> 28:08.477
+So I feel we're kind of there, but not really there,
+
+28:08.477 --> 28:10.860
+so you still need to have humans in the loop
+
+28:10.860 --> 28:13.950
+to be able to augment, to be able to test,
+
+28:13.950 --> 28:16.260
+to verify the accuracy,
+
+28:16.260 --> 28:18.780
+especially, since our data is kind of all over the map.
+
+28:18.780 --> 28:20.820
+And you had mentioned silos before.
+
+28:20.820 --> 28:22.170
+<v ->Yes.</v>
+<v ->Like, especially</v>
+
+28:22.170 --> 28:24.240
+in government, if we're trying to be a smart city,
+
+28:24.240 --> 28:27.330
+you cannot be smart without having your data integrated
+
+28:27.330 --> 28:29.580
+so you can see a cohesive picture.
+
+28:29.580 --> 28:32.550
+John Smith is maybe in 19 different systems
+
+28:32.550 --> 28:33.383
+in different ways.
+
+28:33.383 --> 28:36.360
+John A. Smith, J.A. Smith, John Smith,
+
+28:36.360 --> 28:37.680
+but it's the same person.
+
+28:37.680 --> 28:40.830
+So it really comes back to personalization of services,
+
+28:40.830 --> 28:42.150
+really knowing your customer,
+
+28:42.150 --> 28:43.950
+understanding what are they here for,
+
+28:43.950 --> 28:46.170
+and let me just provide the services
+
+28:46.170 --> 28:47.370
+that they're looking for,
+
+28:47.370 --> 28:49.620
+rather than them having to dig it up.
+
+28:49.620 --> 28:50.970
+<v ->So back to the tagging,</v>
+
+28:50.970 --> 28:53.040
+because we were talking about humans,
+
+28:53.040 --> 28:55.290
+and I'm glad you brought that up,
+
+28:55.290 --> 28:58.770
+Reliabl helps you do the human pieces
+
+28:58.770 --> 29:01.950
+of that tagging.
+
+29:01.950 --> 29:05.430
+It's not just all AI doing it, humans are doing it as well.
+
+29:05.430 --> 29:08.680
+So that we have a say in how we wanna see
+
+29:10.050 --> 29:13.290
+the data and information that we wanna see from AI.
+
+29:13.290 --> 29:16.140
+<v ->I mean, I think it's a combination, right?</v>
+
+29:16.140 --> 29:20.310
+Man and machine really, that's what we have always done.
+
+29:20.310 --> 29:22.410
+We call it actually human-over-the-loop
+
+29:22.410 --> 29:25.200
+in what we do in looking at all the weather models,
+
+29:25.200 --> 29:27.300
+'cause, you know, it's a paradox, right?
+
+29:27.300 --> 29:31.530
+Because AI provides just a vast amount of information,
+
+29:31.530 --> 29:34.020
+but, in some cases, you're still needing humans
+
+29:34.020 --> 29:35.460
+to actually make the decision
+
+29:35.460 --> 29:37.980
+off whatever that information is surfacing.
+
+29:37.980 --> 29:40.560
+And so I think, you know, in this stage of AI,
+
+29:40.560 --> 29:42.990
+and I agree, we've been using it for a couple decades
+
+29:42.990 --> 29:45.360
+actually in our weather forecasting,
+
+29:45.360 --> 29:48.180
+it's changing now with generative AI.
+
+29:48.180 --> 29:50.760
+But, you know, I think at this point in time,
+
+29:50.760 --> 29:52.920
+and where we are in the AI journey,
+
+29:52.920 --> 29:56.160
+I think, you know, the match between AI and HI,
+
+29:56.160 --> 29:57.900
+we can really learn a lot from each other,
+
+29:57.900 --> 30:01.470
+and it's, you know, AI's augmenting human intelligence
+
+30:01.470 --> 30:03.870
+to help us make better decisions essentially.
+
+30:03.870 --> 30:06.870
+<v ->Great, so we now have time</v>
+
+30:06.870 --> 30:08.550
+for questions from the audience.
+
+30:08.550 --> 30:09.600
+If you do have a question,
+
+30:09.600 --> 30:12.750
+please go up to one of those two microphones
+
+30:12.750 --> 30:14.370
+so we can hear you.
+
+30:14.370 --> 30:17.490
+If you don't have questions I'll just keep going.
+
+30:17.490 --> 30:19.970
+But we did wanna invite you to be part of this conversation
+
+30:19.970 --> 30:21.050
+if there is anything you'd like to ask.
+
+30:21.050 --> 30:21.990
+If you have a question-
+<v ->Go ahead.</v>
+
+30:21.990 --> 30:24.150
+<v ->Make sure you go to the mic so we can hear you.</v>
+
+30:24.150 --> 30:25.470
+<v Attendee>I just had one clarification.</v>
+
+30:25.470 --> 30:27.210
+AI is not there for the last 10 years.
+
+30:27.210 --> 30:29.400
+It is there for 40 years, 60 years back, right?
+
+30:29.400 --> 30:30.233
+<v ->Right.</v>
+<v ->Right.</v>
+
+30:30.233 --> 30:31.620
+<v Attendee>It is just in computational space-</v>
+
+30:31.620 --> 30:33.270
+<v Nadia>10 plus years, yep, absolutely.</v>
+
+30:33.270 --> 30:34.180
+<v Attendee>It's there for a long, long time.</v>
+
+30:34.180 --> 30:35.520
+<v ->Mhmm.</v>
+<v ->Yeah.</v>
+
+30:35.520 --> 30:38.970
+Yes, AI was invented in World War II by Alan Turing
+
+30:38.970 --> 30:41.190
+to crack the code on the German submarines.
+
+30:41.190 --> 30:42.360
+So it's been around for a long time.
+
+30:42.360 --> 30:44.220
+<v ->Very true, very true.</v>
+
+30:44.220 --> 30:46.707
+<v ->Hi, Prachi, this is Siva.</v>
+<v ->Yeah.</v>
+
+30:46.707 --> 30:48.630
+<v Attendee>And, I mean, I think this is a question</v>
+
+30:48.630 --> 30:50.610
+for any one of the speakers here.
+
+30:50.610 --> 30:54.690
+But, I mean, what I'm hearing
+
+30:54.690 --> 30:59.280
+is different ways of analyzing where AI is a tool
+
+30:59.280 --> 31:01.050
+and where it is the decision maker,
+
+31:01.050 --> 31:02.970
+and you guys are vacillating,
+
+31:02.970 --> 31:06.060
+because the use case is what's making it vacillating.
+
+31:06.060 --> 31:09.667
+So from the person listening, I'm kind of wondering,
+
+31:09.667 --> 31:11.010
+"Are you shooting left, right?
+
+31:11.010 --> 31:11.910
+Which, what the heck?"
+
+31:11.910 --> 31:15.090
+I mean, because I've seen the same thing in transportation.
+
+31:15.090 --> 31:18.060
+I work in the automation, not autonomous,
+
+31:18.060 --> 31:20.340
+I'm not there yet, but automation.
+
+31:20.340 --> 31:25.050
+So my question to you is, while you sound vacillating,
+
+31:25.050 --> 31:26.880
+you're not, you're deliberate.
+
+31:26.880 --> 31:29.730
+You're trying to say there's a trust factor
+
+31:29.730 --> 31:31.527
+and there's a use-case-based thing,
+
+31:31.527 --> 31:34.590
+and I've known Prachi for a long time, but,
+
+31:34.590 --> 31:38.730
+so one of you, can you help us understand
+
+31:38.730 --> 31:40.920
+in the maturation cycle,
+
+31:40.920 --> 31:44.257
+what will it take for us to kind of say,
+
+31:44.257 --> 31:45.870
+"Hey, this kid's grown up?"
+
+31:45.870 --> 31:50.100
+The AI that is, "Maybe once in a while we can let him ride
+
+31:50.100 --> 31:51.507
+and I'll sit in the back."
+
+31:52.680 --> 31:55.980
+<v ->So is your question, when will we have L4 mobility,</v>
+
+31:55.980 --> 31:57.333
+fully autonomous?
+
+31:58.590 --> 32:00.570
+<v Attendee>I mean, for that you need a whole 90 minutes,</v>
+
+32:00.570 --> 32:02.661
+but, for this question... (laughs)
+
+32:02.661 --> 32:03.960
+<v ->No, we don't need that.</v>
+
+32:03.960 --> 32:05.400
+<v ->I think the question is more like,</v>
+
+32:05.400 --> 32:06.540
+how do you do validation?
+
+32:06.540 --> 32:07.800
+What's trustworthy AI?
+
+32:07.800 --> 32:09.630
+What is AI insurance looking like?
+
+32:09.630 --> 32:13.050
+<v Attendee>Yeah, when is social acceptance likely?</v>
+
+32:13.050 --> 32:14.654
+Because it's social engineering, it's not-
+
+32:14.654 --> 32:16.830
+<v ->Okay, so when will people trust AI?</v>
+
+32:16.830 --> 32:18.120
+<v Attendee>When will governments,</v>
+
+32:18.120 --> 32:20.160
+and governments are also people,
+
+32:20.160 --> 32:22.080
+so when will systems
+
+32:22.080 --> 32:25.593
+and institutions start trusting AI?
+
+32:26.700 --> 32:28.410
+<v ->I have a hot take on it.</v>
+
+32:28.410 --> 32:31.110
+My take is education is important.
+
+32:31.110 --> 32:35.370
+So a lot of re-skilling and upskilling needs to happen,
+
+32:35.370 --> 32:39.690
+not just within government, agencies, employees,
+
+32:39.690 --> 32:43.740
+but also constituents, citizens, just regular people.
+
+32:43.740 --> 32:46.020
+I think there's a lot of mistrusted places
+
+32:46.020 --> 32:48.210
+where people are just like, "Hmm, I'm not so sure.
+
+32:48.210 --> 32:50.130
+I don't wanna give government more information
+
+32:50.130 --> 32:52.320
+than I have to," since we're on the government panel.
+
+32:52.320 --> 32:54.450
+So I feel there needs to be a bit
+
+32:54.450 --> 32:57.290
+of one transparency aspect to it.
+
+32:57.290 --> 32:59.880
+So what are we gonna do with your data?
+
+32:59.880 --> 33:01.200
+I think that needs to happen.
+
+33:01.200 --> 33:03.390
+<v Attendee>Yeah, especially with your background</v>
+
+33:03.390 --> 33:04.953
+being the county.
+<v ->Yeah.</v>
+
+33:04.953 --> 33:06.690
+<v ->Thanks.</v>
+<v ->No, absolutely.</v>
+
+33:06.690 --> 33:08.790
+So I think that's kind of part of it.
+
+33:08.790 --> 33:13.790
+I feel there needs to be an active movement
+
+33:13.800 --> 33:15.960
+towards making sure that we are providing,
+
+33:15.960 --> 33:18.150
+there's a lot of free tools right now to educate,
+
+33:18.150 --> 33:19.650
+but are people actually grabbing them?
+
+33:19.650 --> 33:21.360
+Google does it, Salesforce does it.
+
+33:21.360 --> 33:24.090
+We have Trailhead, it teaches you soft skills, hard skills,
+
+33:24.090 --> 33:26.460
+AI, whatever you need to know.
+
+33:26.460 --> 33:28.920
+But I feel like are people actually utilizing
+
+33:28.920 --> 33:30.750
+that information to learn, absorb,
+
+33:30.750 --> 33:32.550
+and try to get comfortable within,
+
+33:32.550 --> 33:34.830
+and then say, "Ah, these are the risks.
+
+33:34.830 --> 33:36.390
+Here's how we can mitigate it."
+
+33:36.390 --> 33:39.543
+But that transparency level's not quite there yet.
+
+33:40.800 --> 33:43.140
+<v ->AI is rather ubiquitous actually.</v>
+
+33:43.140 --> 33:45.270
+When you go to McDonald's you use AI.
+
+33:45.270 --> 33:47.160
+I call the bank the AI phone weave,
+
+33:47.160 --> 33:49.620
+which is the most annoying thing when you call.
+
+33:49.620 --> 33:51.330
+It's so annoying.
+
+33:51.330 --> 33:53.220
+I mean, AI is rather ubiquitous.
+
+33:53.220 --> 33:56.040
+Most people don't recognize that they're using AI
+
+33:56.040 --> 33:58.320
+on a daily basis in life.
+
+33:58.320 --> 34:02.520
+So when is it gonna be massly adopted or massly accepted?
+
+34:02.520 --> 34:05.760
+We're stealthily accepting it,
+
+34:05.760 --> 34:09.540
+because it's out there in the real world every day.
+
+34:09.540 --> 34:12.660
+If you go to certain things, AI is there.
+
+34:12.660 --> 34:14.913
+We don't call it AI, we don't call the,
+
+34:16.080 --> 34:17.760
+I call it the AI phone weave for the bank.
+
+34:17.760 --> 34:20.190
+But when you call the bank and they have all the prompts,
+
+34:20.190 --> 34:22.920
+we don't call that an AI specifically,
+
+34:22.920 --> 34:25.353
+but it is a form of AI.
+
+34:26.400 --> 34:27.810
+<v Sheri>I think with any change</v>
+
+34:27.810 --> 34:30.390
+there's always gonna be a long tail, right,
+
+34:30.390 --> 34:33.363
+of people that there's gonna be the early adopters.
+
+34:34.320 --> 34:36.780
+But I agree with you, it's a silence accepter,
+
+34:36.780 --> 34:40.980
+it's been happening for decades where AI is being used.
+
+34:40.980 --> 34:44.583
+You know, it came to the forefront because of ChatGPT.
+
+34:44.583 --> 34:45.540
+<v ->That's right.</v>
+<v ->That's how consumers</v>
+
+34:45.540 --> 34:46.953
+really found out about it.
+
+34:48.060 --> 34:50.163
+Which is good, but for all the companies
+
+34:50.163 --> 34:51.990
+that have been doing it for decades,
+
+34:51.990 --> 34:52.980
+they're like, "What the heck?
+
+34:52.980 --> 34:53.937
+We've been using this for a long time."
+
+34:53.937 --> 34:55.860
+<v ->Exactly.</v>
+<v ->And so I do agree,</v>
+
+34:55.860 --> 34:57.960
+but there's always gonna be a long tail to anything.
+
+34:57.960 --> 35:01.353
+I mean, look how long it took for us to all get on HD,
+
+35:02.280 --> 35:04.710
+to get on to use (audio drops) phones, right?
+
+35:04.710 --> 35:08.430
+I think it'll happen much faster than those technologies,
+
+35:08.430 --> 35:12.750
+but I still think it's gonna take time to trust, right?
+
+35:12.750 --> 35:13.740
+<v Prachi>I disagree a little bit,</v>
+
+35:13.740 --> 35:14.940
+just a quick point.
+<v ->Sure.</v>
+
+35:14.940 --> 35:16.950
+<v ->I think AI, Siva, to your point,</v>
+
+35:16.950 --> 35:18.420
+I forget where you're sitting now,
+
+35:18.420 --> 35:20.010
+is just it's use-case dependent.
+
+35:20.010 --> 35:22.980
+It's gonna take a lot longer for defense applications.
+
+35:22.980 --> 35:25.620
+It's gonna take maybe shorter if it's a productivity app
+
+35:25.620 --> 35:28.350
+that has no financial or safety consequences,
+
+35:28.350 --> 35:30.720
+yeah, then use case is immediate.
+
+35:30.720 --> 35:32.460
+<v ->Great, quick question from the audience.</v>
+
+35:32.460 --> 35:34.770
+This is the last question before we wrap up.
+
+35:34.770 --> 35:37.170
+<v Attendee>So I have, it's more of a curiosity</v>
+
+35:37.170 --> 35:39.000
+than a question for Ms. Bickham.
+
+35:39.000 --> 35:40.833
+What was the first DAO
+
+35:42.810 --> 35:43.800
+you launched, what city?
+
+35:43.800 --> 35:46.380
+What was the first city to use a DAO?
+
+35:46.380 --> 35:47.520
+Is there one?
+
+35:47.520 --> 35:49.920
+<v ->We were looking at using a DAO,</v>
+
+35:49.920 --> 35:52.830
+so in 2019, part of the pandemic,
+
+35:52.830 --> 35:56.460
+I had four smart cities that I was working on,
+
+35:56.460 --> 35:59.310
+some in Africa, some not, some in the Caribbean.
+
+35:59.310 --> 36:02.040
+And we were looking at utilizing DAOs
+
+36:02.040 --> 36:03.960
+as governance and compliance,
+
+36:03.960 --> 36:05.700
+and we were gonna layer AI
+
+36:05.700 --> 36:09.060
+on certain of the types of that, those DAOs,
+
+36:09.060 --> 36:12.720
+because we knew that autonomy was important,
+
+36:12.720 --> 36:14.130
+we knew the data was important,
+
+36:14.130 --> 36:16.170
+and we knew that the communities,
+
+36:16.170 --> 36:18.210
+it was more important for the communities
+
+36:18.210 --> 36:20.880
+to actually have more of a say
+
+36:20.880 --> 36:24.540
+than having a centralized way
+
+36:24.540 --> 36:25.980
+of having a say in the community.
+
+36:25.980 --> 36:27.120
+So if you're in The Bahamas,
+
+36:27.120 --> 36:28.710
+this is one of the ones we were doing,
+
+36:28.710 --> 36:30.450
+like The Bahamas is not just one island,
+
+36:30.450 --> 36:32.760
+it's, like, multiple islands.
+
+36:32.760 --> 36:34.950
+So we were looking at doing a DAO,
+
+36:34.950 --> 36:38.430
+because communities were not gonna be
+
+36:38.430 --> 36:40.230
+in one centralized place.
+
+36:40.230 --> 36:43.680
+<v Attendee>Yeah, it seems like it'll be easier to start</v>
+
+36:43.680 --> 36:46.020
+in an emerging environment
+
+36:46.020 --> 36:48.600
+versus something that's already established.
+
+36:48.600 --> 36:49.983
+<v ->Well, it depends.</v>
+
+36:51.356 --> 36:53.730
+I mean, most of these I was doing from dirt.
+
+36:53.730 --> 36:55.350
+So, like, most of the smart cities
+
+36:55.350 --> 36:59.340
+I work on are kind of like from zero, I'll call it,
+
+36:59.340 --> 37:01.350
+versus something that was already there.
+
+37:01.350 --> 37:05.460
+But when you're creating something from kind of zero,
+
+37:05.460 --> 37:09.120
+you wanna reimagine how do you really want governance?
+
+37:09.120 --> 37:10.260
+How do you want governments?
+
+37:10.260 --> 37:12.360
+How do you want communities to interact?
+
+37:12.360 --> 37:14.790
+How do you want people to work with each other?
+
+37:14.790 --> 37:17.400
+How do you want people to interact, right?
+
+37:17.400 --> 37:18.990
+We're gonna have the extremes.
+
+37:18.990 --> 37:20.820
+You're gonna have the ones that wanna do everything,
+
+37:20.820 --> 37:21.930
+and then you're gonna wanna have the ones
+
+37:21.930 --> 37:24.390
+that opt out of everything and they're paranoid.
+
+37:24.390 --> 37:27.000
+We know that, so where is kind of the middle ground.
+
+37:27.000 --> 37:29.497
+And so we kind of looked at the middle ground, and said,
+
+37:29.497 --> 37:33.060
+"This is how we wanna reimagine a smart city,"
+
+37:33.060 --> 37:36.330
+because we're thinking about the future.
+
+37:36.330 --> 37:38.280
+Because the quantum computer is coming,
+
+37:38.280 --> 37:40.260
+'cause Google had a crack on their chip
+
+37:40.260 --> 37:41.880
+or something had happened with them.
+
+37:41.880 --> 37:43.560
+We watch that very carefully.
+
+37:43.560 --> 37:45.060
+And when that comes,
+
+37:45.060 --> 37:48.870
+then how are you now going to govern anything?
+
+37:48.870 --> 37:50.790
+<v David>So we're getting close to the end of time,</v>
+
+37:50.790 --> 37:52.680
+so we're gonna get into lightning round.
+
+37:52.680 --> 37:53.513
+<v ->All right.</v>
+<v ->We're gonna go down</v>
+
+37:53.513 --> 37:55.380
+the panel on two questions,
+
+37:55.380 --> 37:56.670
+and you'll each give an answer.
+
+37:56.670 --> 37:58.470
+So the first question is,
+
+37:58.470 --> 38:02.760
+what's one AI trend that has surprised you
+
+38:02.760 --> 38:03.963
+in the past year?
+
+38:06.030 --> 38:07.650
+Nadia, lead us off.
+
+38:07.650 --> 38:09.597
+<v ->Ah, I would say-</v>
+<v ->Hot takes.</v>
+
+38:09.597 --> 38:11.700
+<v ->Hot take, okay, I would say, you know what?</v>
+
+38:11.700 --> 38:15.000
+I use AI for everything and so do my kids, number one.
+
+38:15.000 --> 38:17.070
+They use it for school.
+
+38:17.070 --> 38:18.510
+I have the privilege of teaching
+
+38:18.510 --> 38:20.190
+at the University of Nevada, Las Vegas
+
+38:20.190 --> 38:21.660
+as a part-time professor.
+
+38:21.660 --> 38:25.290
+Every single student is using some level of ChatGPT or AI
+
+38:25.290 --> 38:28.260
+to be able to augment essays, and answers, and all that.
+
+38:28.260 --> 38:30.750
+So that's not going away.
+<v ->Ubiquity, yeah, okay.</v>
+
+38:30.750 --> 38:32.880
+<v ->Flat out, so I think that's been a bit of a,</v>
+
+38:32.880 --> 38:36.180
+how quickly everybody has absorbed it
+
+38:36.180 --> 38:37.710
+and using it in the day to day,
+
+38:37.710 --> 38:39.510
+I think it's been a bit of a surprise,
+
+38:39.510 --> 38:41.460
+especially since it's been out
+
+38:41.460 --> 38:43.410
+for like the last 10 plus years.
+
+38:43.410 --> 38:44.787
+<v David>All right, Barbara, hot take.</v>
+
+38:44.787 --> 38:47.520
+<v ->Hot take, years ago-</v>
+<v ->Surprising trend.</v>
+
+38:47.520 --> 38:48.960
+<v ->Hot take, I said, years ago,</v>
+
+38:48.960 --> 38:50.850
+there would be no reason to learn how to code.
+
+38:50.850 --> 38:52.590
+I said that in 2016.
+
+38:52.590 --> 38:56.910
+So earlier, in 2024, I literally,
+
+38:56.910 --> 38:57.960
+I'm in the CTO Forum,
+
+38:57.960 --> 39:01.230
+and all the CTOs have figured out how to not code
+
+39:01.230 --> 39:02.760
+and be more strategic.
+
+39:02.760 --> 39:05.670
+So they're utilizing all the GPTs,
+
+39:05.670 --> 39:07.320
+they're creating all their own LLMs,
+
+39:07.320 --> 39:10.950
+they're creating all their own algorithmic methodologies
+
+39:10.950 --> 39:13.560
+in order to advance coding faster
+
+39:13.560 --> 39:16.560
+so that these large companies now can,
+
+39:16.560 --> 39:20.550
+something that two weeks, can take maybe three days.
+
+39:20.550 --> 39:22.380
+<v ->Sheri.</v>
+<v ->I think it's interesting</v>
+
+39:22.380 --> 39:26.040
+how quickly AI has been adapted into HR systems.
+
+39:26.040 --> 39:28.800
+I mean, that is the human connection point, right?
+
+39:28.800 --> 39:31.650
+And I think it's fascinating on all aspects
+
+39:31.650 --> 39:34.110
+of hiring in HR.
+
+39:34.110 --> 39:38.250
+It's really, it's almost pretty much taken over
+
+39:38.250 --> 39:40.530
+that type of environment,
+
+39:40.530 --> 39:42.030
+and I think that that's really interesting,
+
+39:42.030 --> 39:44.100
+'cause that's where you kind of feel
+
+39:44.100 --> 39:46.680
+some of the most trusted pieces of your company.
+
+39:46.680 --> 39:48.690
+So I think that's interesting.
+<v ->Prachi.</v>
+
+39:48.690 --> 39:50.580
+<v ->Yeah, what's been interesting is just how large</v>
+
+39:50.580 --> 39:52.950
+these models are and how much data they need.
+
+39:52.950 --> 39:55.380
+And a challenge maybe to this room and this conference is,
+
+39:55.380 --> 39:58.020
+can have AI models for smaller data sets,
+
+39:58.020 --> 40:01.380
+and especially an infrastructure is engineering data sets.
+
+40:01.380 --> 40:03.600
+And, you know, you don't have too many of the same
+
+40:03.600 --> 40:05.820
+to be tagging everything.
+
+40:05.820 --> 40:07.320
+So that would be a kind of challenge is,
+
+40:07.320 --> 40:09.870
+like, can we work on smaller data sets?
+
+40:09.870 --> 40:11.910
+<v ->All right, great, well, I wanna thank our panelists,</v>
+
+40:11.910 --> 40:14.100
+Prachi Vakharia, Sheri Bachstein,
+
+40:14.100 --> 40:16.200
+Barbara Bickham, and Nadia Hansen.
+
+40:16.200 --> 40:18.270
+And thank you all for joining us here
+
+40:18.270 --> 40:20.543
+on this discussion about AI and smart cities.
+
+40:20.543 --> 40:21.612
+(audience claps)
+
+40:21.612 --> 40:23.140
+(gentle bright music)
+
+40:23.140 --> 40:26.723
+(gentle bright music ends)
+

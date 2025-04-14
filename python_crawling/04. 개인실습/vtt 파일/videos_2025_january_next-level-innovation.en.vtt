@@ -1,0 +1,3742 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.251 --> 00:02.834
+(upbeat music)
+
+2
+00:10.740 --> 00:12.690
+<v Chris>Thank you so much for stepping in</v>
+
+3
+00:12.690 --> 00:15.720
+for our Next Level Innovation session.
+
+4
+00:15.720 --> 00:18.458
+Mr. John Ellis, president of Codethink.
+
+5
+00:18.458 --> 00:20.580
+And as I mentioned in the first session,
+
+6
+00:20.580 --> 00:21.510
+for those of you who are here,
+
+7
+00:21.510 --> 00:23.870
+this is our 25th anniversary for Connect2Car
+
+8
+00:23.870 --> 00:25.620
+and pretty excited about a lot
+
+9
+00:25.620 --> 00:28.260
+of the panels we have looking out to 2050.
+
+10
+00:28.260 --> 00:30.780
+John gave us a pretty interesting, for those of you,
+
+11
+00:30.780 --> 00:31.613
+how many of you were here
+
+12
+00:31.613 --> 00:34.530
+for last year's sessions and saw John?
+
+13
+00:34.530 --> 00:36.360
+Okay, so there were a couple of people in here
+
+14
+00:36.360 --> 00:38.460
+that was a pretty interesting presentation.
+
+15
+00:38.460 --> 00:40.140
+There were horses
+
+16
+00:40.140 --> 00:43.623
+and there were battery powered cars in 19 what, John?
+
+17
+00:45.602 --> 00:48.210
+<v ->Uh, wow, 1910.</v>
+<v ->Yeah, 1910.</v>
+
+18
+00:48.210 --> 00:50.730
+So this isn't the first time we've tried it,
+
+19
+00:50.730 --> 00:52.517
+but I met John when he was
+
+20
+00:52.517 --> 00:57.517
+doing some really interesting things at Ford at the time,
+
+21
+00:57.742 --> 01:00.120
+and he spoke at Connect2Car
+
+22
+01:00.120 --> 01:01.920
+and we were having some issues trying to connect
+
+23
+01:01.920 --> 01:04.500
+some of our aftermarket devices to the OEM
+
+24
+01:04.500 --> 01:06.480
+and I mentioned we were having problems
+
+25
+01:06.480 --> 01:07.687
+and John was like, "Well, what's the problem?
+
+26
+01:07.687 --> 01:08.850
+"We can fix that."
+
+27
+01:08.850 --> 01:10.650
+And we've been friends ever since.
+
+28
+01:10.650 --> 01:12.540
+So John, I really appreciate you doing this.
+
+29
+01:12.540 --> 01:13.980
+I'll let you introduce your panelists
+
+30
+01:13.980 --> 01:15.840
+and we'll get this day rolling.
+
+31
+01:15.840 --> 01:16.740
+Thank you so much.
+
+32
+01:20.100 --> 01:20.933
+<v ->Thanks Chris.</v>
+
+33
+01:22.432 --> 01:24.720
+Happy holidays. Happy New Year.
+
+34
+01:24.720 --> 01:26.340
+Welcome to Las Vegas.
+
+35
+01:26.340 --> 01:28.710
+So Chris said, my name is John Ellis and I'm really thrilled
+
+36
+01:28.710 --> 01:30.480
+and delighted to be here again
+
+37
+01:30.480 --> 01:33.281
+on the stage at Connect2Car with you,
+
+38
+01:33.281 --> 01:35.610
+but I'm more thrilled to be joined
+
+39
+01:35.610 --> 01:37.818
+by some esteemed colleagues and friends
+
+40
+01:37.818 --> 01:39.450
+and I'll introduce 'em quickly.
+
+41
+01:39.450 --> 01:41.460
+And then I'm gonna do some level setting
+
+42
+01:41.460 --> 01:43.980
+of some rules about our conversation.
+
+43
+01:43.980 --> 01:46.470
+So to my immediate right is Madison Beebe
+
+44
+01:46.470 --> 01:47.703
+from Ford Motor Company,
+
+45
+01:48.570 --> 01:50.691
+an American OEM and provider
+
+46
+01:50.691 --> 01:54.870
+of the number one selling car in the US at this time.
+
+47
+01:54.870 --> 01:58.241
+To her immediate right is Jonathan Moore from Exida,
+
+48
+01:58.241 --> 02:02.430
+probably renowned for the leading cybersecurity
+
+49
+02:02.430 --> 02:05.370
+and safety assessment company.
+
+50
+02:05.370 --> 02:08.683
+Next to him is Sabina Schneider from Globant.
+
+51
+02:08.683 --> 02:12.150
+Globant is a global digital IT services company.
+
+52
+02:12.150 --> 02:14.580
+We're pleased to have that conversation.
+
+53
+02:14.580 --> 02:16.740
+And then last but not least to her immediate far right
+
+54
+02:16.740 --> 02:19.380
+is Joseph Perry from Sony Picture Entertainment,
+
+55
+02:19.380 --> 02:21.123
+a global content provider.
+
+56
+02:21.960 --> 02:25.200
+So we have a cast of characters with a lot
+
+57
+02:25.200 --> 02:27.150
+of different context backgrounds.
+
+58
+02:27.150 --> 02:30.180
+And as we begin talking about what we might want to do
+
+59
+02:30.180 --> 02:32.970
+as we talk about next level innovation was we came up
+
+60
+02:32.970 --> 02:35.250
+with a few different things that we're gonna do today.
+
+61
+02:35.250 --> 02:38.310
+First, we're not gonna take any questions from the audience,
+
+62
+02:38.310 --> 02:40.189
+we only have 39 minutes.
+
+63
+02:40.189 --> 02:43.200
+Panelists will be available afterwards
+
+64
+02:43.200 --> 02:45.630
+and they will also be available tonight at the Cavesa event.
+
+65
+02:45.630 --> 02:46.463
+And they will be available
+
+66
+02:46.463 --> 02:47.580
+throughout the course of the week.
+
+67
+02:47.580 --> 02:48.413
+If you use the app,
+
+68
+02:48.413 --> 02:51.300
+you can get ahold of them if you have questions.
+
+69
+02:51.300 --> 02:52.710
+Number two is each one of them
+
+70
+02:52.710 --> 02:55.080
+is gonna represent the context that they're coming from
+
+71
+02:55.080 --> 02:57.300
+and this is gonna be sort of like a bar conversation.
+
+72
+02:57.300 --> 03:00.060
+So while we might not be looking at you or the camera,
+
+73
+03:00.060 --> 03:01.140
+we are aware of you,
+
+74
+03:01.140 --> 03:02.970
+but we're we're just five folks here
+
+75
+03:02.970 --> 03:05.370
+trying to talk about innovation through a lens
+
+76
+03:05.370 --> 03:07.720
+of some future context, whether it's five years, 15 years,
+
+77
+03:07.720 --> 03:11.280
+2050, 2070, whatnot, okay?
+
+78
+03:11.280 --> 03:13.230
+So again, thank you so very much for joining us.
+
+79
+03:13.230 --> 03:14.670
+Appreciate you being here.
+
+80
+03:14.670 --> 03:16.830
+Look forward to following up with you all afterwards.
+
+81
+03:16.830 --> 03:19.140
+And with that, let me start.
+
+82
+03:19.140 --> 03:20.793
+Okay, friends, here we are.
+
+83
+03:21.720 --> 03:22.553
+Got our drinks.
+
+84
+03:22.553 --> 03:26.070
+Alright, so I asked a question earlier,
+
+85
+03:26.070 --> 03:27.870
+I'm gonna ask it again.
+
+86
+03:27.870 --> 03:31.500
+Next level innovation 2040, 2050.
+
+87
+03:31.500 --> 03:33.057
+I, last year was talking about 2050
+
+88
+03:33.057 --> 03:35.220
+and I talked about some things that had to happen.
+
+89
+03:35.220 --> 03:36.690
+But let's start with you Madison.
+
+90
+03:36.690 --> 03:39.207
+What do you foresee 2035?
+
+91
+03:39.207 --> 03:41.190
+So 10 years from today, 2035,
+
+92
+03:41.190 --> 03:42.903
+and maybe even up to 2045.
+
+93
+03:43.800 --> 03:46.110
+<v ->Yeah, I think we need to start with the perspective</v>
+
+94
+03:46.110 --> 03:49.200
+of the consumer and customer expectations
+
+95
+03:49.200 --> 03:50.310
+because during that timeframe,
+
+96
+03:50.310 --> 03:54.720
+you're gonna have a wide variety and growing awareness
+
+97
+03:54.720 --> 03:57.851
+of technology in the purchases of the vehicles.
+
+98
+03:57.851 --> 03:59.922
+More familiar with technology,
+
+99
+03:59.922 --> 04:02.760
+higher demand for seamless connectivity
+
+100
+04:02.760 --> 04:05.610
+and experiences from your apps to your, sorry,
+
+101
+04:05.610 --> 04:07.260
+from your phone to your car,
+
+102
+04:07.260 --> 04:09.420
+potentially to other methods of transportation,
+
+103
+04:09.420 --> 04:10.950
+whether it's your e-bike,
+
+104
+04:10.950 --> 04:12.420
+your Uber, or even your home, right?
+
+105
+04:12.420 --> 04:15.563
+So you have a highly educated consumer first of all.
+
+106
+04:15.563 --> 04:17.736
+And then depending on the region,
+
+107
+04:17.736 --> 04:22.736
+it's addressing the range anxiety is still a thing, right?
+
+108
+04:22.881 --> 04:26.280
+So I'm expecting evolutions
+
+109
+04:26.280 --> 04:28.803
+in the performance of batteries.
+
+110
+04:28.803 --> 04:31.560
+I'm expecting an evolution of the consumer expectation
+
+111
+04:31.560 --> 04:33.840
+from seamless connectivity,
+
+112
+04:33.840 --> 04:35.790
+seamless experiences
+
+113
+04:35.790 --> 04:37.524
+that are continuously updated over time,
+
+114
+04:37.524 --> 04:41.190
+but something that helps me transition from home to car,
+
+115
+04:41.190 --> 04:42.971
+to work to play.
+
+116
+04:42.971 --> 04:47.610
+And then through that, not just from a battery perspective,
+
+117
+04:47.610 --> 04:51.120
+but there's a shift from consumers feeling comfortable
+
+118
+04:51.120 --> 04:54.783
+with EVs to going full in and that being their only car.
+
+119
+04:55.740 --> 04:57.480
+So it's connectivity, it's experience,
+
+120
+04:57.480 --> 05:00.450
+it's long range EVs or EREVs right?
+
+121
+05:00.450 --> 05:02.659
+But beyond that, you have this massive
+
+122
+05:02.659 --> 05:05.280
+internal electrical architecture revolution.
+
+123
+05:05.280 --> 05:09.450
+And that varies if it's a startup, if it's a new EV company
+
+124
+05:09.450 --> 05:11.460
+or if it's a legacy OEM like Ford,
+
+125
+05:11.460 --> 05:13.800
+where you not only have current vehicles in production
+
+126
+05:13.800 --> 05:15.930
+that you have to maintain over time,
+
+127
+05:15.930 --> 05:17.040
+but you have next generation
+
+128
+05:17.040 --> 05:20.457
+electrical architecture development and the tuning of that.
+
+129
+05:20.457 --> 05:23.670
+So I view the internal innovation as just as important
+
+130
+05:23.670 --> 05:27.090
+as the experiences to develop new things at speed,
+
+131
+05:27.090 --> 05:30.540
+at velocity, at high quality, you know, automation testing
+
+132
+05:30.540 --> 05:32.130
+and all the DevOps infrastructure
+
+133
+05:32.130 --> 05:34.410
+that enables that innovation.
+
+134
+05:34.410 --> 05:36.570
+<v ->So building on that conversation, Joseph,</v>
+
+135
+05:36.570 --> 05:38.857
+I want to come come over to you
+
+136
+05:38.857 --> 05:40.110
+and ask you the following question.
+
+137
+05:40.110 --> 05:41.970
+So experience has obviously played deeply
+
+138
+05:41.970 --> 05:43.920
+in Madison's conversation and you know,
+
+139
+05:43.920 --> 05:48.917
+Ford a hundred and almost 125 years now in the making,
+
+140
+05:48.917 --> 05:52.620
+question that is Sony Pictures Entertainment,
+
+141
+05:52.620 --> 05:54.630
+Sony, I mean, we've had movies,
+
+142
+05:54.630 --> 05:56.130
+we've had content for a long period of time.
+
+143
+05:56.130 --> 05:58.500
+We start with, you know, silent films.
+
+144
+05:58.500 --> 06:00.480
+We've moved up into where we're at,
+
+145
+06:00.480 --> 06:03.930
+where do you see the content evolution occurring
+
+146
+06:03.930 --> 06:07.680
+such that consumption in 2035, is it immersive?
+
+147
+06:07.680 --> 06:08.513
+Is it three?
+
+148
+06:08.513 --> 06:11.340
+Where are we or where do you see coming from Sony
+
+149
+06:11.340 --> 06:13.320
+where that might ultimately end up given the role
+
+150
+06:13.320 --> 06:15.870
+that you're playing in trying to bring content to vehicles
+
+151
+06:15.870 --> 06:17.580
+and feel free to make this a global,
+
+152
+06:17.580 --> 06:19.380
+like if there's regional differences,
+
+153
+06:19.380 --> 06:21.210
+by all means, feel free to point on that.
+
+154
+06:21.210 --> 06:22.950
+<v ->Yeah, exactly.</v>
+
+155
+06:22.950 --> 06:26.400
+So I think before I deep into your answer,
+
+156
+06:26.400 --> 06:27.480
+dig deep into your answer,
+
+157
+06:27.480 --> 06:29.670
+I'd like to kind of comment on something
+
+158
+06:29.670 --> 06:32.940
+that she just mentioned, customer expectations.
+
+159
+06:32.940 --> 06:34.890
+And I think that's real important.
+
+160
+06:34.890 --> 06:37.230
+I think customer expectations right now
+
+161
+06:37.230 --> 06:40.290
+is that they should be able to watch their content
+
+162
+06:40.290 --> 06:43.470
+from their different various services in their vehicles.
+
+163
+06:43.470 --> 06:46.314
+And that currently is not available
+
+164
+06:46.314 --> 06:47.880
+in majority of the vehicles.
+
+165
+06:47.880 --> 06:48.840
+So let's start off with that.
+
+166
+06:48.840 --> 06:52.470
+That's the basic minimum of what consumers expect,
+
+167
+06:52.470 --> 06:55.350
+but where we expect to go from there,
+
+168
+06:55.350 --> 06:56.610
+Sony pictures as well as
+
+169
+06:56.610 --> 06:59.730
+other particular entertainment services.
+
+170
+06:59.730 --> 07:01.320
+We think about the future of
+
+171
+07:01.320 --> 07:03.990
+what those immersive experiences looks like,
+
+172
+07:03.990 --> 07:06.186
+and along with the technology
+
+173
+07:06.186 --> 07:08.970
+and the capabilities of the technology
+
+174
+07:08.970 --> 07:12.324
+such as the APIs that are being developed,
+
+175
+07:12.324 --> 07:15.780
+available inside the vehicle to create experiences
+
+176
+07:15.780 --> 07:18.798
+that are actually, you cannot duplicate inside the house.
+
+177
+07:18.798 --> 07:23.798
+You can't sit inside your living room and drive down,
+
+178
+07:24.000 --> 07:27.870
+let's say the 15 here in Las Vegas and move around the car
+
+179
+07:27.870 --> 07:30.660
+and then maybe have a content experience that reacts to
+
+180
+07:30.660 --> 07:32.061
+that particular momentum
+
+181
+07:32.061 --> 07:35.190
+or to be playing a game inside of a vehicle.
+
+182
+07:35.190 --> 07:38.580
+Sony has groups, has other gaming companies as well
+
+183
+07:38.580 --> 07:40.080
+that would react to that.
+
+184
+07:40.080 --> 07:44.790
+So I think taking the basic expectation of being able
+
+185
+07:44.790 --> 07:46.950
+to access my content in my vehicle
+
+186
+07:46.950 --> 07:49.620
+or wherever I am in a way that interacts
+
+187
+07:49.620 --> 07:52.350
+with my environment is where we're gonna go in the future.
+
+188
+07:52.350 --> 07:54.750
+And I think a leveraging the technology that enables
+
+189
+07:54.750 --> 07:56.130
+that experience is where
+
+190
+07:56.130 --> 07:57.993
+we're gonna see in the next 10 years.
+
+191
+07:59.074 --> 08:00.390
+<v ->So I want to, I'm gonna get to Sabina in a second here,</v>
+
+192
+08:00.390 --> 08:02.400
+but I want to jump back to you and ask you a question.
+
+193
+08:02.400 --> 08:05.010
+So are we ever moving away
+
+194
+08:05.010 --> 08:06.840
+from the single vehicle ownership model?
+
+195
+08:06.840 --> 08:07.673
+Are we moving away?
+
+196
+08:07.673 --> 08:09.510
+Because if we're gonna really enable the services
+
+197
+08:09.510 --> 08:11.970
+and experiences that Joseph just talked about,
+
+198
+08:11.970 --> 08:15.390
+I don't see drivers necessarily being able
+
+199
+08:15.390 --> 08:16.950
+to take advantage of that equally.
+
+200
+08:16.950 --> 08:18.257
+So where do we get to from,
+
+201
+08:18.257 --> 08:20.160
+say an OEM's perspective broadly?
+
+202
+08:20.160 --> 08:21.900
+You don't have to talk about Ford just broadly
+
+203
+08:21.900 --> 08:24.364
+to enable passenger awareness,
+
+204
+08:24.364 --> 08:27.543
+passenger content, not driver or owner content?
+
+205
+08:28.770 --> 08:30.150
+<v ->Help me clarify real quick.</v>
+
+206
+08:30.150 --> 08:31.500
+When you say passenger content, you?
+
+207
+08:31.500 --> 08:32.700
+<v ->Well, not the driver.</v>
+
+208
+08:32.700 --> 08:34.470
+So anybody who's not driving the vehicle.
+
+209
+08:34.470 --> 08:35.970
+So you have, right, you're in the car.
+
+210
+08:35.970 --> 08:37.050
+So some of the things that you were talking about
+
+211
+08:37.050 --> 08:39.360
+just very cool, like, you know,
+
+212
+08:39.360 --> 08:41.400
+and awesome except that it takes away
+
+213
+08:41.400 --> 08:42.930
+from being able to drive in safety.
+
+214
+08:42.930 --> 08:44.970
+So we now have to worry about
+
+215
+08:44.970 --> 08:47.010
+what's the rest of the occupants of the vehicle?
+
+216
+08:47.010 --> 08:48.750
+Yeah, sorry, non-driver.
+
+217
+08:48.750 --> 08:49.583
+<v ->That makes sense.</v>
+
+218
+08:49.583 --> 08:51.450
+I think you were spot on, right?
+
+219
+08:51.450 --> 08:55.260
+You have, if you're a single person, one car,
+
+220
+08:55.260 --> 08:56.520
+you're optimizing for safety
+
+221
+08:56.520 --> 08:57.720
+and the driving experience, right?
+
+222
+08:57.720 --> 08:59.970
+If you have a family, you have kids in the back,
+
+223
+08:59.970 --> 09:02.940
+you wanna entertain them, even in different markets
+
+224
+09:02.940 --> 09:06.635
+where many of the people use their vehicles
+
+225
+09:06.635 --> 09:08.910
+for a form of relaxation, right?
+
+226
+09:08.910 --> 09:11.190
+You park in the garage, relax,
+
+227
+09:11.190 --> 09:13.050
+you wanna have that connected experience
+
+228
+09:13.050 --> 09:15.060
+that you can actually evolve the vehicle
+
+229
+09:15.060 --> 09:18.479
+into more of a habitat on wheels type of a vibe.
+
+230
+09:18.479 --> 09:21.360
+And one of the things kind of aligned to what you're saying,
+
+231
+09:21.360 --> 09:23.340
+but in addition to the connected experiences,
+
+232
+09:23.340 --> 09:25.230
+it's more of the personalization of the vehicle.
+
+233
+09:25.230 --> 09:27.270
+So it's not just used for driving,
+
+234
+09:27.270 --> 09:28.620
+but it's like the physical aspects
+
+235
+09:28.620 --> 09:30.090
+of if it's a connected accessory,
+
+236
+09:30.090 --> 09:34.050
+a physical accessory for camping, for some adventure,
+
+237
+09:34.050 --> 09:37.470
+I think maybe the demand right now, especially in the US,
+
+238
+09:37.470 --> 09:38.760
+might not be so large for that type
+
+239
+09:38.760 --> 09:40.620
+of habitat on wheels environment.
+
+240
+09:40.620 --> 09:42.000
+Certainly in other regions
+
+241
+09:42.000 --> 09:44.640
+it's very pervasive and high demand.
+
+242
+09:44.640 --> 09:47.324
+And I think the vehicle will evolve to have to deliver
+
+243
+09:47.324 --> 09:51.090
+those seamless experiences, not just for the driver,
+
+244
+09:51.090 --> 09:53.700
+but for all the passengers in the vehicle.
+
+245
+09:53.700 --> 09:56.190
+<v ->So Sabina, conversations that we've had</v>
+
+246
+09:56.190 --> 09:57.360
+over the last couple of weeks
+
+247
+09:57.360 --> 10:00.270
+as we've been sharing our love of Latin America
+
+248
+10:00.270 --> 10:02.044
+and software and services,
+
+249
+10:02.044 --> 10:06.239
+everything that Joseph and Madison are talking about,
+
+250
+10:06.239 --> 10:08.520
+we can imagine, absolutely.
+
+251
+10:08.520 --> 10:11.594
+But it is deeply, deeply seeded in software.
+
+252
+10:11.594 --> 10:13.074
+<v ->Sure, yeah.</v>
+
+253
+10:13.074 --> 10:16.604
+<v ->Is this industry broadly, automotive,</v>
+
+254
+10:16.604 --> 10:18.300
+are we ready for it?
+
+255
+10:18.300 --> 10:19.350
+Are we there yet?
+
+256
+10:19.350 --> 10:20.430
+And I mean broadly, right?
+
+257
+10:20.430 --> 10:22.290
+There are elements, there's the traditional,
+
+258
+10:22.290 --> 10:23.610
+as we called it, OEMs.
+
+259
+10:23.610 --> 10:24.900
+There's the startup OEMs.
+
+260
+10:24.900 --> 10:27.600
+We have China, we have Asia, we have other,
+
+261
+10:27.600 --> 10:29.250
+so OEM is not equal to everyone,
+
+262
+10:29.250 --> 10:32.070
+but is the industry broadly ready for this?
+
+263
+10:32.070 --> 10:33.461
+And does it understand what that
+
+264
+10:33.461 --> 10:34.350
+challenge really looks like?
+
+265
+10:34.350 --> 10:36.330
+<v ->I think it's a very important question.</v>
+
+266
+10:36.330 --> 10:38.430
+And before answering the question,
+
+267
+10:38.430 --> 10:40.980
+I was dreaming about the experience
+
+268
+10:40.980 --> 10:42.570
+that we can have at the car.
+
+269
+10:42.570 --> 10:45.420
+If you are thinking more about 35 years from now,
+
+270
+10:45.420 --> 10:48.199
+even hundreds years from now, we were talking about,
+
+271
+10:48.199 --> 10:52.380
+you were talking last time about horses a hundred years ago.
+
+272
+10:52.380 --> 10:54.021
+So really thinking ahead
+
+273
+10:54.021 --> 10:56.737
+and probably I'm cutting it short,
+
+274
+10:56.737 --> 10:59.156
+but I think that the autonomous
+
+275
+10:59.156 --> 11:01.590
+and the electric vehicles are going to be
+
+276
+11:01.590 --> 11:05.130
+like a commodity at the time, a hundred years from now.
+
+277
+11:05.130 --> 11:07.837
+And the experience inside the car,
+
+278
+11:07.837 --> 11:09.857
+to your points, both of you,
+
+279
+11:09.857 --> 11:13.899
+is going to be the differentiator between the brands,
+
+280
+11:13.899 --> 11:17.895
+which is a brand that is offering smooth drive.
+
+281
+11:17.895 --> 11:20.657
+The entertainment inside the car
+
+282
+11:20.657 --> 11:22.418
+is going to be very important
+
+283
+11:22.418 --> 11:25.350
+because as this is going to be more autonomous,
+
+284
+11:25.350 --> 11:28.170
+I'm thinking more about the Disney movies,
+
+285
+11:28.170 --> 11:31.890
+about capsules driving themselves throughout the country
+
+286
+11:31.890 --> 11:34.964
+and getting you to one point to the other
+
+287
+11:34.964 --> 11:37.920
+without even hesitating, that's the objective
+
+288
+11:37.920 --> 11:40.260
+and is going to be fulfilled very easily.
+
+289
+11:40.260 --> 11:42.330
+So having that in mind, it's a lot.
+
+290
+11:42.330 --> 11:44.400
+And going back to your question,
+
+291
+11:44.400 --> 11:49.050
+AI is going to be core in the technology inside the car.
+
+292
+11:49.050 --> 11:51.134
+Cybersecurity of course is going
+
+293
+11:51.134 --> 11:55.080
+to be very important in order to make sure
+
+294
+11:55.080 --> 11:57.671
+that the car runs smoothly.
+
+295
+11:57.671 --> 12:01.984
+But above all, I think that to achieve that,
+
+296
+12:01.984 --> 12:05.626
+I don't see all the ecosystem being ready
+
+297
+12:05.626 --> 12:07.863
+to jump into something like that.
+
+298
+12:07.863 --> 12:10.474
+It's a very challenging envisioning
+
+299
+12:10.474 --> 12:12.287
+that we are putting in place
+
+300
+12:12.287 --> 12:17.086
+and that really requires the architecture to be
+
+301
+12:17.086 --> 12:21.512
+flexible to enable this type of technology inside the car
+
+302
+12:21.512 --> 12:25.470
+and also in the manufacturing of the car.
+
+303
+12:25.470 --> 12:28.320
+So I think that it involves a massive,
+
+304
+12:28.320 --> 12:30.360
+profound, to your point, Madison,
+
+305
+12:30.360 --> 12:32.700
+inside transformation in order
+
+306
+12:32.700 --> 12:36.570
+to make sure that we are ready for those technologies too,
+
+307
+12:36.570 --> 12:38.700
+like you mentioned, DevOps,
+
+308
+12:38.700 --> 12:41.520
+continuous deployment is something
+
+309
+12:41.520 --> 12:44.790
+that is one of the key points in technology in order
+
+310
+12:44.790 --> 12:47.970
+to achieve something like this type of envisioning.
+
+311
+12:47.970 --> 12:50.910
+And we are still struggling with with that I think.
+
+312
+12:50.910 --> 12:53.550
+<v ->So.</v>
+<v ->Sorry and legacies.</v>
+
+313
+12:53.550 --> 12:54.925
+<v ->No, no. Yes.</v>
+
+314
+12:54.925 --> 12:55.758
+<v ->Legacies</v>
+<v ->And what?</v>
+
+315
+12:55.758 --> 12:58.320
+<v ->Legacies.</v>
+<v ->Legacy, okay. Yeah, yeah.</v>
+
+316
+12:58.320 --> 13:02.207
+<v ->Sorry, it's about thinking technology</v>
+
+317
+13:02.207 --> 13:07.207
+away from the traditional IT organizations.
+
+318
+13:07.290 --> 13:11.724
+It's not the traditional IT that of course is needed
+
+319
+13:11.724 --> 13:13.350
+for the manufacturing
+
+320
+13:13.350 --> 13:15.990
+and everything to get like the standardization,
+
+321
+13:15.990 --> 13:17.160
+don't get me wrong,
+
+322
+13:17.160 --> 13:20.220
+but what we are talking about the experience inside the car,
+
+323
+13:20.220 --> 13:22.020
+it involves a different technology,
+
+324
+13:22.020 --> 13:26.220
+flexibility, scalability, and more consumer centric
+
+325
+13:26.220 --> 13:28.530
+that is not the traditional IT for sure.
+
+326
+13:28.530 --> 13:30.540
+<v ->So software's product now.</v>
+<v ->Right, yes.</v>
+
+327
+13:30.540 --> 13:31.800
+<v ->It's actually a product deliver.</v>
+
+328
+13:31.800 --> 13:33.267
+<v ->Yes.</v>
+<v ->Yeah.</v>
+
+329
+13:33.267 --> 13:34.800
+So then that Jonathan brings me to you.
+
+330
+13:34.800 --> 13:37.890
+And so as I build off everything
+
+331
+13:37.890 --> 13:41.609
+you've just heard from Joseph, Madison, and Sabina,
+
+332
+13:41.609 --> 13:44.883
+the first reaction that I have and question for you is,
+
+333
+13:46.399 --> 13:50.250
+is the industry ready for software
+
+334
+13:50.250 --> 13:53.182
+that is now a product in the car?
+
+335
+13:53.182 --> 13:57.020
+Where are we at in terms of sort of state of the art today?
+
+336
+13:57.020 --> 14:00.420
+Where might we need to go in terms of innovation
+
+337
+14:00.420 --> 14:03.390
+inside of how do we know that we can trust or that we can,
+
+338
+14:03.390 --> 14:05.100
+that we actually can use that,
+
+339
+14:05.100 --> 14:07.560
+which they've just talked about this amazing thing,
+
+340
+14:07.560 --> 14:10.200
+but coming from an industry that is not historically
+
+341
+14:10.200 --> 14:15.120
+software focused, where are we and where do we need to go?
+
+342
+14:15.120 --> 14:16.200
+<v ->Well I'm sure everyone's thinking</v>
+
+343
+14:16.200 --> 14:20.460
+what is a safety engineer doing at the leading innovation?
+
+344
+14:20.460 --> 14:21.750
+<v ->Because he's a friend of mine.</v>
+
+345
+14:21.750 --> 14:23.517
+He's a friend. Yeah, that's why, yeah.
+
+346
+14:23.517 --> 14:25.260
+<v ->And of course safety is regarded</v>
+
+347
+14:25.260 --> 14:27.960
+as one of the business prevention units
+
+348
+14:27.960 --> 14:29.760
+in most companies, right?
+
+349
+14:29.760 --> 14:32.137
+You might as well have a sign on the door that says,
+
+350
+14:32.137 --> 14:36.639
+"The answer to your next question is no," and-
+
+351
+14:36.639 --> 14:38.401
+<v ->What about the question after that?</v>
+
+352
+14:38.401 --> 14:39.943
+Also no?
+<v ->Yes.</v>
+
+353
+14:39.943 --> 14:41.294
+(John laughs)
+
+354
+14:41.294 --> 14:43.950
+Those silos are becoming ever more entrenched.
+
+355
+14:43.950 --> 14:46.170
+The standards get bigger.
+
+356
+14:46.170 --> 14:49.270
+The words that we have to read get more every year
+
+357
+14:50.580 --> 14:55.175
+and ultimately safety comes down to who you trust.
+
+358
+14:55.175 --> 14:59.550
+And software couldn't be a more abstract thing
+
+359
+14:59.550 --> 15:01.110
+to put your trust in.
+
+360
+15:01.110 --> 15:02.100
+Mechanical engineering,
+
+361
+15:02.100 --> 15:05.280
+which has been the dominant force in automotive,
+
+362
+15:05.280 --> 15:06.330
+is very easy to trust.
+
+363
+15:06.330 --> 15:09.870
+You can look at it and you can see how thick the metal is
+
+364
+15:09.870 --> 15:11.550
+and how strong the things are.
+
+365
+15:11.550 --> 15:13.800
+Software you have no idea where on the planet
+
+366
+15:13.800 --> 15:15.570
+that software was created.
+
+367
+15:15.570 --> 15:18.750
+And being able to trust software is crucial.
+
+368
+15:18.750 --> 15:21.450
+And which software do you trust?
+
+369
+15:21.450 --> 15:25.950
+And I'd love to see a button on my phone that tells me
+
+370
+15:25.950 --> 15:30.030
+whether I can trust my car for the next journey.
+
+371
+15:30.030 --> 15:34.710
+And how does a blind person trust the car is safe?
+
+372
+15:34.710 --> 15:35.970
+We're gonna be transporting
+
+373
+15:35.970 --> 15:38.400
+a whole new section of society, children.
+
+374
+15:38.400 --> 15:40.140
+There are gonna be parents
+
+375
+15:40.140 --> 15:43.200
+who want to put their child in the vehicle
+
+376
+15:43.200 --> 15:44.970
+and send them around the block a few times
+
+377
+15:44.970 --> 15:46.800
+because it sends them to sleep.
+
+378
+15:46.800 --> 15:49.200
+How do they trust that software?
+
+379
+15:49.200 --> 15:51.150
+So trust is at the heart of it.
+
+380
+15:51.150 --> 15:55.170
+And unfortunately the standards are mired in ancient dogma
+
+381
+15:55.170 --> 15:58.440
+from the 1980s where the software was written
+
+382
+15:58.440 --> 16:00.222
+by electrical engineers,
+
+383
+16:00.222 --> 16:04.445
+not by competent computer engineers
+
+384
+16:04.445 --> 16:06.960
+who understood how software works
+
+385
+16:06.960 --> 16:10.980
+and maybe didn't spend all of their time thinking like I do,
+
+386
+16:10.980 --> 16:12.930
+about how it can go wrong,
+
+387
+16:12.930 --> 16:14.760
+but spend enough time putting tools
+
+388
+16:14.760 --> 16:16.740
+in place to prevent that.
+
+389
+16:16.740 --> 16:20.580
+And so we need a huge upgrade in how we trust software
+
+390
+16:20.580 --> 16:24.540
+and what we do in order to achieve that trust.
+
+391
+16:24.540 --> 16:27.780
+And for me it's an existential threat to my organization
+
+392
+16:27.780 --> 16:32.780
+because we make a business out of periodically reviewing
+
+393
+16:32.831 --> 16:37.462
+the work you do and maximally,
+
+394
+16:37.462 --> 16:40.620
+we can do that about every six months.
+
+395
+16:40.620 --> 16:42.300
+And yet with the rate of change
+
+396
+16:42.300 --> 16:44.790
+and the number of recalls that are being suffered
+
+397
+16:44.790 --> 16:46.860
+by automotive OEMs today,
+
+398
+16:46.860 --> 16:50.730
+it's clear that we need to provide that assessment daily.
+
+399
+16:50.730 --> 16:53.168
+And yet most software safety engineers
+
+400
+16:53.168 --> 16:56.880
+want to hide away behind their sign that says no
+
+401
+16:56.880 --> 16:59.070
+and don't want to get involved in solving the problem.
+
+402
+16:59.070 --> 17:02.460
+So I'm here to encourage people to get involved
+
+403
+17:02.460 --> 17:05.490
+and want to understand how things can go wrong
+
+404
+17:05.490 --> 17:07.620
+in order that we can convey to our customers
+
+405
+17:07.620 --> 17:10.171
+that they can better trust our product and your product
+
+406
+17:10.171 --> 17:12.093
+and the claims that we make.
+
+407
+17:12.990 --> 17:14.799
+<v ->Sorry, John one point.</v>
+
+408
+17:14.799 --> 17:16.140
+<v ->No go. Yeah, go ahead.</v>
+<v ->Follow up.</v>
+
+409
+17:16.140 --> 17:19.500
+I like how you stated to trust the software
+
+410
+17:19.500 --> 17:22.590
+and even more so with AI coming inside the car,
+
+411
+17:22.590 --> 17:26.973
+what do you think that trust can be fulfilled in a way?
+
+412
+17:27.870 --> 17:29.490
+<v ->Well, I think it's fairly clear</v>
+
+413
+17:29.490 --> 17:32.640
+that the uses AI are being put to today
+
+414
+17:32.640 --> 17:35.040
+are just a bullshit generator.
+
+415
+17:35.040 --> 17:38.100
+You take crap in and you regurgitate it.
+
+416
+17:38.100 --> 17:39.813
+And from a safety point of view,
+
+417
+17:40.788 --> 17:45.788
+something like an AI that's got at best an 85% success rate
+
+418
+17:48.576 --> 17:51.570
+is just not even close to being something
+
+419
+17:51.570 --> 17:53.550
+you'd want to trust your life in.
+
+420
+17:53.550 --> 17:55.383
+It's okay to win a game of go,
+
+421
+17:56.310 --> 17:57.870
+but would you trust the outcome
+
+422
+17:57.870 --> 18:01.860
+of the next game of go to your life?
+
+423
+18:01.860 --> 18:05.310
+And most people would have cause to think about that.
+
+424
+18:05.310 --> 18:07.440
+And if you're basing your large language model
+
+425
+18:07.440 --> 18:10.800
+on the information that's publicly available
+
+426
+18:10.800 --> 18:12.390
+on the internet,
+
+427
+18:12.390 --> 18:15.060
+of course we all know that the vast majority
+
+428
+18:15.060 --> 18:17.288
+of that information is written
+
+429
+18:17.288 --> 18:20.250
+for reasons other than accuracy
+
+430
+18:20.250 --> 18:23.940
+and contains information other than unbiased fact.
+
+431
+18:23.940 --> 18:25.440
+And of course that's a big influence
+
+432
+18:25.440 --> 18:27.390
+in the results of the language models.
+
+433
+18:27.390 --> 18:29.550
+Now, no doubt given 10 years,
+
+434
+18:29.550 --> 18:31.140
+there will be solutions to that.
+
+435
+18:31.140 --> 18:33.660
+But again, it's gonna come down to trust.
+
+436
+18:33.660 --> 18:36.210
+Which language model are you going to trust?
+
+437
+18:36.210 --> 18:37.140
+The one that's trained
+
+438
+18:37.140 --> 18:41.443
+on marketing and advertising click generation?
+
+439
+18:41.443 --> 18:44.370
+Is that really the right model to be using for safety?
+
+440
+18:44.370 --> 18:45.827
+And a lot of people
+
+441
+18:45.827 --> 18:47.580
+don't really know the answer to that yet.
+
+442
+18:47.580 --> 18:50.700
+<v ->They don't know or they're not willing to accept it?</v>
+
+443
+18:50.700 --> 18:51.898
+<v ->I know the answer to that.</v>
+
+444
+18:51.898 --> 18:54.570
+(John laughs)
+
+445
+18:54.570 --> 18:56.300
+<v ->Alright, so Joseph, you've heard this.</v>
+
+446
+18:56.300 --> 18:58.500
+I could see what people don't know in the audience.
+
+447
+18:58.500 --> 19:01.770
+You are with me, an alum of Ford Motor companies.
+
+448
+19:01.770 --> 19:03.330
+So we have automotive in our,
+
+449
+19:03.330 --> 19:04.320
+I don't have it in my blood,
+
+450
+19:04.320 --> 19:07.164
+but I think you do have it in your blood as you claim.
+
+451
+19:07.164 --> 19:10.830
+But now in content and hearing what we just talked about
+
+452
+19:10.830 --> 19:12.540
+and where things are at,
+
+453
+19:12.540 --> 19:14.940
+what does that bring when you have conversations like,
+
+454
+19:14.940 --> 19:16.650
+I'm gonna bring content into a vehicle.
+
+455
+19:16.650 --> 19:19.770
+I came from a vehicle group so I understand the dimensions
+
+456
+19:19.770 --> 19:21.510
+of the problem safety and others,
+
+457
+19:21.510 --> 19:24.720
+but yet at the same time I'm here to make experiences.
+
+458
+19:24.720 --> 19:27.690
+Creative, consumptive artistic experiences happen
+
+459
+19:27.690 --> 19:29.250
+whilst you're in the vehicle.
+
+460
+19:29.250 --> 19:31.860
+How do you balance or where is Sony Pictures
+
+461
+19:31.860 --> 19:32.970
+or maybe just you personally,
+
+462
+19:32.970 --> 19:34.800
+where are you finding yourself in trying
+
+463
+19:34.800 --> 19:39.135
+to balance both the ask from OEMs or the ask from Sony
+
+464
+19:39.135 --> 19:42.810
+and the ability to deliver into that environment?
+
+465
+19:42.810 --> 19:45.990
+<v ->Well, I think it's not necessarily</v>
+
+466
+19:45.990 --> 19:48.060
+a challenge specific to Sony,
+
+467
+19:48.060 --> 19:50.070
+but I think it's a challenge
+
+468
+19:50.070 --> 19:52.860
+that we have multiple industries
+
+469
+19:52.860 --> 19:54.750
+that are now in a relationship
+
+470
+19:54.750 --> 19:57.030
+that didn't used to have a relationship
+
+471
+19:57.030 --> 20:00.960
+and that has created a whole new set of challenges
+
+472
+20:00.960 --> 20:02.850
+in terms of how we work together,
+
+473
+20:02.850 --> 20:05.610
+what our processes are, what our workflows are,
+
+474
+20:05.610 --> 20:08.670
+and integrating those two within those different industries.
+
+475
+20:08.670 --> 20:12.953
+So I think that is something going, speaking about trust,
+
+476
+20:12.953 --> 20:15.330
+I think that kind of feeds into that trust issue.
+
+477
+20:15.330 --> 20:18.630
+It's not so much when I talk to a lot of manufacturers,
+
+478
+20:18.630 --> 20:19.823
+when I talk to people in the industry
+
+479
+20:19.823 --> 20:21.428
+or even just consumers,
+
+480
+20:21.428 --> 20:24.360
+everybody wants content in the vehicles,
+
+481
+20:24.360 --> 20:28.021
+everybody wants these emerging experiences.
+
+482
+20:28.021 --> 20:30.256
+But a lot of the feedback is,
+
+483
+20:30.256 --> 20:34.398
+hey, we're just trying to stabilize our platform right now
+
+484
+20:34.398 --> 20:36.600
+just to be able to support the services
+
+485
+20:36.600 --> 20:37.890
+that we have to have.
+
+486
+20:37.890 --> 20:39.660
+And if we start introducing
+
+487
+20:39.660 --> 20:41.364
+all these additional other services,
+
+488
+20:41.364 --> 20:43.680
+our concern is being able to manage
+
+489
+20:43.680 --> 20:46.770
+all these changes at the same time.
+
+490
+20:46.770 --> 20:49.890
+So I think that is a really big concern with how we do that.
+
+491
+20:49.890 --> 20:51.390
+So how to operationalize that.
+
+492
+20:52.620 --> 20:53.820
+And then one of the other things that I think
+
+493
+20:53.820 --> 20:56.572
+that came to my mind as we were just talking
+
+494
+20:56.572 --> 20:59.948
+is that when you have all these changes,
+
+495
+20:59.948 --> 21:03.270
+it takes so long right now
+
+496
+21:03.270 --> 21:04.980
+for some of these things to get corrected.
+
+497
+21:04.980 --> 21:06.360
+You mentioned the recalls.
+
+498
+21:06.360 --> 21:08.940
+You know, I have had an issue just
+
+499
+21:08.940 --> 21:12.030
+with my simple wireless CarPlay in one of my vehicles
+
+500
+21:12.030 --> 21:13.958
+that has not worked right in a year.
+
+501
+21:13.958 --> 21:14.791
+<v ->Yes.</v>
+
+502
+21:14.791 --> 21:16.090
+<v ->I mean that we can't even get that fixed, right?</v>
+
+503
+21:16.090 --> 21:18.900
+And Apple's a company that, you know, embodies trust,
+
+504
+21:18.900 --> 21:20.970
+but I don't trust Apple when it comes to CarPlay
+
+505
+21:20.970 --> 21:23.790
+because I know that the technology struggles
+
+506
+21:23.790 --> 21:27.750
+and then you've got a challenge with the industry experts
+
+507
+21:27.750 --> 21:29.190
+and the retailers, the dealerships,
+
+508
+21:29.190 --> 21:30.450
+and they're struggling with it too.
+
+509
+21:30.450 --> 21:32.880
+So being able to fix all these things
+
+510
+21:32.880 --> 21:35.760
+where we can respond better, we can have workflows better,
+
+511
+21:35.760 --> 21:37.110
+we can have processes better,
+
+512
+21:37.110 --> 21:38.700
+I think all of that is gonna be necessary
+
+513
+21:38.700 --> 21:40.740
+to get people more comfortable.
+
+514
+21:40.740 --> 21:43.260
+<v ->Excellent, so I wanna tap on something</v>
+
+515
+21:43.260 --> 21:45.270
+and feel free, I've not, this is gonna be,
+
+516
+21:45.270 --> 21:47.520
+we're in the brand new space here, so feel free to say,
+
+517
+21:47.520 --> 21:48.720
+let's pass on to the question,
+
+518
+21:48.720 --> 21:52.260
+but what kind of innovation would we expect
+
+519
+21:52.260 --> 21:54.840
+to see in dealerships or at the point of sale?
+
+520
+21:54.840 --> 21:57.840
+Maybe just forget dealerships, at point of sale.
+
+521
+21:57.840 --> 21:59.730
+If I'm a consumer 20 years down the road,
+
+522
+21:59.730 --> 22:01.590
+am I still going to a physical location?
+
+523
+22:01.590 --> 22:03.540
+Am I still interacting with someone?
+
+524
+22:03.540 --> 22:06.118
+Like how might we imagine the car
+
+525
+22:06.118 --> 22:09.235
+actually suddenly being actually purchased
+
+526
+22:09.235 --> 22:11.978
+or being acquired?
+
+527
+22:11.978 --> 22:13.860
+Do you have a thought on that?
+
+528
+22:13.860 --> 22:14.850
+<v ->I mean, quite frankly,</v>
+
+529
+22:14.850 --> 22:17.889
+this is a bit out of my realm at Ford.
+
+530
+22:17.889 --> 22:18.722
+<v ->Okay.</v>
+
+531
+22:18.722 --> 22:20.807
+<v ->I do think that you touched on a few great points around,</v>
+
+532
+22:20.807 --> 22:22.800
+you know, it'll tie into this
+
+533
+22:22.800 --> 22:25.668
+in terms of collaboration and how we work together.
+
+534
+22:25.668 --> 22:28.170
+When you talk about operational models
+
+535
+22:28.170 --> 22:32.177
+across the supply chain, they're, I wouldn't say broken,
+
+536
+22:33.240 --> 22:35.880
+but they weren't established under the framework
+
+537
+22:35.880 --> 22:37.590
+of a truly software defined vehicle
+
+538
+22:37.590 --> 22:39.480
+or software as a product, right?
+
+539
+22:39.480 --> 22:41.160
+So when you talk about collaborative models
+
+540
+22:41.160 --> 22:45.100
+and even how we improve the point of sale,
+
+541
+22:45.100 --> 22:50.100
+there is a large opportunity for improvement
+
+542
+22:50.280 --> 22:53.160
+of how the OEMs collaborate with our supply chain,
+
+543
+22:53.160 --> 22:54.270
+how we integrate together,
+
+544
+22:54.270 --> 22:57.120
+how we integrate into our common build pipelines, right?
+
+545
+22:57.120 --> 22:59.820
+To manage that continuous deployment of new content.
+
+546
+22:59.820 --> 23:03.120
+But that also helps with the point of sale interaction
+
+547
+23:03.120 --> 23:04.860
+'cause you're ensuring that the vehicle is
+
+548
+23:04.860 --> 23:07.620
+as its intended state at the most fresh state
+
+549
+23:07.620 --> 23:10.350
+with the best and most recent content.
+
+550
+23:10.350 --> 23:11.720
+Things like that.
+
+551
+23:11.720 --> 23:13.560
+I think I'd have to pass personally
+
+552
+23:13.560 --> 23:16.170
+on the point of sale interaction.
+
+553
+23:16.170 --> 23:17.670
+<v ->Okay. Yeah, no, that's fine.</v>
+
+554
+23:18.750 --> 23:20.850
+So one of the things that Jonathan,
+
+555
+23:20.850 --> 23:25.113
+also an automotive background before into safety.
+
+556
+23:26.970 --> 23:28.800
+Madison just talked about the contracts
+
+557
+23:28.800 --> 23:30.870
+and the collaboration model having to change
+
+558
+23:30.870 --> 23:32.460
+as did Joseph, et cetera.
+
+559
+23:32.460 --> 23:34.050
+You and I have had a long conversation
+
+560
+23:34.050 --> 23:37.230
+over many, many months where the historic contracts
+
+561
+23:37.230 --> 23:39.810
+for suppliers were very steeped on hundreds
+
+562
+23:39.810 --> 23:41.760
+of pages about the physical building,
+
+563
+23:41.760 --> 23:44.620
+the ability not to delay the plant
+
+564
+23:45.480 --> 23:47.070
+very little into software.
+
+565
+23:47.070 --> 23:49.590
+And now however, software is in fact
+
+566
+23:49.590 --> 23:51.120
+some of the most increasing reasons
+
+567
+23:51.120 --> 23:53.280
+why either the hardware product is delayed
+
+568
+23:53.280 --> 23:56.460
+or the car is built out of the factory, but then can't ship.
+
+569
+23:56.460 --> 24:01.020
+Given where we're at in terms of either the safety industry
+
+570
+24:01.020 --> 24:04.980
+or our culture of trust for software, how do you see us,
+
+571
+24:04.980 --> 24:08.070
+what innovations have to actually happen do you think,
+
+572
+24:08.070 --> 24:10.470
+in order for us to actually
+
+573
+24:10.470 --> 24:13.320
+not only solve the problem but get ahead of the problem?
+
+574
+24:13.320 --> 24:15.900
+<v ->Well, the trust model I'm afraid,</v>
+
+575
+24:15.900 --> 24:19.110
+starts when you walk into the dealership
+
+576
+24:19.110 --> 24:21.183
+and not many people trust the dealership.
+
+577
+24:22.620 --> 24:25.980
+And there's not very much transparency there.
+
+578
+24:25.980 --> 24:28.170
+Not many people are sure they've got a fair price
+
+579
+24:28.170 --> 24:30.758
+for the vehicle having paid for it.
+
+580
+24:30.758 --> 24:32.880
+The information you're expected to read
+
+581
+24:32.880 --> 24:37.710
+and sign in many cases is longer than the Magna Carta
+
+582
+24:37.710 --> 24:39.300
+and the Magna Carta is sufficient
+
+583
+24:39.300 --> 24:41.673
+for the whole of the UK to declare freedom.
+
+584
+24:42.925 --> 24:44.130
+(Sabina laughs)
+
+585
+24:44.130 --> 24:46.740
+And if now I've got to go into the dealership
+
+586
+24:46.740 --> 24:49.260
+and believe I don't need airbags
+
+587
+24:49.260 --> 24:51.390
+and I don't need crash protection
+
+588
+24:51.390 --> 24:53.040
+because the car's not going to crash
+
+589
+24:53.040 --> 24:56.100
+'cause it's got crash protection software.
+
+590
+24:56.100 --> 24:57.300
+So a very long way you've got
+
+591
+24:57.300 --> 24:58.920
+to bring people in a short period of time
+
+592
+24:58.920 --> 25:00.333
+to persuade them of that.
+
+593
+25:01.246 --> 25:02.130
+And of course you think about cars
+
+594
+25:02.130 --> 25:05.010
+over the last even 15 years,
+
+595
+25:05.010 --> 25:06.300
+the widths have increased,
+
+596
+25:06.300 --> 25:07.440
+the weights have increased,
+
+597
+25:07.440 --> 25:09.660
+the current consumption has increased,
+
+598
+25:09.660 --> 25:11.670
+and all of that is the exact opposite
+
+599
+25:11.670 --> 25:14.880
+of what you need for an electric economy.
+
+600
+25:14.880 --> 25:17.193
+So at some point we have to reconcile
+
+601
+25:17.193 --> 25:20.070
+the safety improvements we get with safety,
+
+602
+25:20.070 --> 25:23.730
+with all these potentially unneeded safety features
+
+603
+25:23.730 --> 25:26.130
+that have evolved in the car that clearly
+
+604
+25:26.130 --> 25:29.460
+and demonstrably do a good job of keeping us safe.
+
+605
+25:29.460 --> 25:31.740
+And it's got to start with that initial experience
+
+606
+25:31.740 --> 25:33.607
+that you have with the people
+
+607
+25:33.607 --> 25:36.540
+that you hope are going to buy your product.
+
+608
+25:36.540 --> 25:38.910
+<v ->So everything you just touched on,</v>
+
+609
+25:38.910 --> 25:41.772
+so Sabina, again steeped in software,
+
+610
+25:41.772 --> 25:44.956
+where do you see globally,
+
+611
+25:44.956 --> 25:48.060
+so you're from Argentina, currently now in the States,
+
+612
+25:48.060 --> 25:49.380
+but Globant is international,
+
+613
+25:49.380 --> 25:51.180
+like, where do you see regionally,
+
+614
+25:51.180 --> 25:54.060
+like, are we globally prepared for this?
+
+615
+25:54.060 --> 25:55.860
+Not forget even just the automotive OEMs,
+
+616
+25:55.860 --> 25:58.260
+we just talked about the OEMs, but we have supply chains,
+
+617
+25:58.260 --> 26:00.360
+we have others that are part of a supply chain
+
+618
+26:00.360 --> 26:02.280
+that's bigger than just automotive.
+
+619
+26:02.280 --> 26:05.400
+Are we ready to actually do the kind of innovation
+
+620
+26:05.400 --> 26:06.630
+that are being asked of?
+
+621
+26:06.630 --> 26:10.440
+So powered by software in the context of this arena
+
+622
+26:10.440 --> 26:14.430
+being a very safe or trustable vehicle experience on a road.
+
+623
+26:14.430 --> 26:15.601
+Are we there?
+
+624
+26:15.601 --> 26:19.200
+<v ->I think there's a long way to get there</v>
+
+625
+26:19.200 --> 26:21.540
+from I think what you're referring
+
+626
+26:21.540 --> 26:26.160
+on the contracts put in place for the providers,
+
+627
+26:26.160 --> 26:27.935
+the IT providers.
+
+628
+26:27.935 --> 26:30.060
+I see that many of them
+
+629
+26:30.060 --> 26:33.420
+are mostly for the traditional providers, the IT areas,
+
+630
+26:33.420 --> 26:36.180
+but not for the innovative,
+
+631
+26:36.180 --> 26:38.550
+the customer centric type of thing,
+
+632
+26:38.550 --> 26:40.740
+or building the experiences, as you say,
+
+633
+26:40.740 --> 26:44.310
+from the dealership up to the OEMs.
+
+634
+26:44.310 --> 26:47.040
+I think there is a lot of work to be done there.
+
+635
+26:47.040 --> 26:49.980
+And even I think that we can think about
+
+636
+26:49.980 --> 26:54.540
+a different operational model inside the companies
+
+637
+26:54.540 --> 26:57.900
+where you can get that specific innovation,
+
+638
+26:57.900 --> 27:01.981
+that type of consumer centric IT software development
+
+639
+27:01.981 --> 27:03.963
+in a different way because it is,
+
+640
+27:03.963 --> 27:08.666
+it's a different type of product centric thinking,
+
+641
+27:08.666 --> 27:11.862
+more UX experience for the customers,
+
+642
+27:11.862 --> 27:14.040
+for the dealers as well.
+
+643
+27:14.040 --> 27:16.631
+So how to build that ecosystem of collaboration
+
+644
+27:16.631 --> 27:18.730
+from the digital standpoint
+
+645
+27:18.730 --> 27:22.920
+requires a different standpoint on the contract,
+
+646
+27:22.920 --> 27:25.249
+the architecture, the organizational,
+
+647
+27:25.249 --> 27:29.424
+and how you measure the success of those developments
+
+648
+27:29.424 --> 27:33.720
+is different to the more traditional IT areas, I think.
+
+649
+27:33.720 --> 27:35.230
+<v ->Okay, but I don't wanna let let you off the hook</v>
+
+650
+27:35.230 --> 27:37.200
+with just sort of the framing.
+
+651
+27:37.200 --> 27:40.350
+I want you to offer if you're willing to like,
+
+652
+27:40.350 --> 27:41.880
+how ready are we?
+
+653
+27:41.880 --> 27:43.666
+Are we?
+<v ->Oh, we are not. We are not.</v>
+
+654
+27:43.666 --> 27:44.520
+<v ->Okay.</v>
+<v ->No, no.</v>
+
+655
+27:44.520 --> 27:46.020
+We are far away from ready, I think.
+
+656
+27:46.020 --> 27:47.491
+<v ->Far from ready?</v>
+<v ->Yes.</v>
+
+657
+27:47.491 --> 27:49.893
+<v ->Okay. Are we like, ready in my lifetime?</v>
+
+658
+27:51.150 --> 27:53.130
+<v ->Depends on how-</v>
+<v ->How long I live?</v>
+
+659
+27:53.130 --> 27:54.671
+You're right, you're right. Yeah.
+
+660
+27:54.671 --> 27:55.822
+(audience laughs)
+<v ->No!</v>
+
+661
+27:55.822 --> 27:56.760
+<v ->I'm at the, for those in the audience that know me,</v>
+
+662
+27:56.760 --> 27:59.370
+I don't have a long expectation.
+
+663
+27:59.370 --> 28:00.511
+<v ->No, no, I-</v>
+<v ->Too much drinking.</v>
+
+664
+28:00.511 --> 28:01.410
+<v ->I wish you long life.</v>
+<v ->Yeah, yeah, I know.</v>
+
+665
+28:01.410 --> 28:02.490
+Thank you. Yes, yes, yes.
+
+666
+28:02.490 --> 28:04.620
+But for those in the audience that know me, it's not,
+
+667
+28:04.620 --> 28:05.820
+they're surprised I'm still here.
+
+668
+28:05.820 --> 28:08.340
+That's what they're really surprised I'm still here.
+
+669
+28:08.340 --> 28:10.560
+<v ->No, it's the willingness to change.</v>
+
+670
+28:10.560 --> 28:15.330
+I think the willingness to see a different mindset
+
+671
+28:15.330 --> 28:16.560
+inside the organization,
+
+672
+28:16.560 --> 28:21.560
+a willingness to get quicker cycles of development
+
+673
+28:22.185 --> 28:24.606
+inside the companies.
+
+674
+28:24.606 --> 28:28.080
+So that requires a different operational model,
+
+675
+28:28.080 --> 28:29.160
+different architecture again.
+
+676
+28:29.160 --> 28:31.680
+So, but it's the willingness to change that.
+
+677
+28:31.680 --> 28:34.710
+And you don't need to change the whole organization.
+
+678
+28:34.710 --> 28:37.890
+You can, as with any digital transformation,
+
+679
+28:37.890 --> 28:41.789
+you can set aside our organizational group
+
+680
+28:41.789 --> 28:45.570
+that is set up for success, for that development.
+
+681
+28:45.570 --> 28:47.368
+And then from getting those results,
+
+682
+28:47.368 --> 28:49.920
+you can start seeing what of those process
+
+683
+28:49.920 --> 28:52.290
+you can ingest in the organization,
+
+684
+28:52.290 --> 28:55.380
+but not really thinking about a massive organization
+
+685
+28:55.380 --> 28:57.750
+that will take like forever to do,
+
+686
+28:57.750 --> 29:01.290
+but thinking more about building different MVPs,
+
+687
+29:01.290 --> 29:04.500
+testing like a more agile approach
+
+688
+29:04.500 --> 29:07.020
+to the software development without thinking
+
+689
+29:07.020 --> 29:10.110
+about the Pharaonic transformation overall,
+
+690
+29:10.110 --> 29:12.060
+which, sorry, I've seen many of those
+
+691
+29:12.060 --> 29:15.060
+Pharaonic transformations that is not going anywhere.
+
+692
+29:15.060 --> 29:17.010
+The business gets super frustrated
+
+693
+29:17.010 --> 29:18.720
+and they stop the investment
+
+694
+29:18.720 --> 29:20.610
+and then you stop the transformation,
+
+695
+29:20.610 --> 29:22.290
+which is what you need in order
+
+696
+29:22.290 --> 29:26.430
+to continue having a good experience for the customer.
+
+697
+29:26.430 --> 29:30.690
+<v ->So Joseph, and I will ask through the lens of Sony,</v>
+
+698
+29:30.690 --> 29:33.011
+but it's really content creators broadly
+
+699
+29:33.011 --> 29:35.040
+coming from a different mindset,
+
+700
+29:35.040 --> 29:37.740
+strong software or strong content creation,
+
+701
+29:37.740 --> 29:40.170
+which probably maybe a much longer storytelling
+
+702
+29:40.170 --> 29:42.951
+and narrative of software and the creation of,
+
+703
+29:42.951 --> 29:45.720
+are you finding to what Sabina talked about,
+
+704
+29:45.720 --> 29:48.420
+the willingness in the collaborations to,
+
+705
+29:48.420 --> 29:51.660
+can Sony offer insights to how to move faster,
+
+706
+29:51.660 --> 29:52.770
+how to change faster?
+
+707
+29:52.770 --> 29:55.290
+Or any of your co-creators?
+
+708
+29:55.290 --> 29:56.123
+Again, I don't,
+
+709
+29:56.123 --> 29:57.690
+you don't even have to talk about your competitors, but.
+
+710
+29:57.690 --> 30:00.840
+<v ->Yeah, and I don't think it's just, it's with Sony,</v>
+
+711
+30:00.840 --> 30:03.030
+I think it's with all the stakeholders
+
+712
+30:03.030 --> 30:06.300
+that are gonna be partners in bringing these services
+
+713
+30:06.300 --> 30:09.030
+and experiences in the vehicle together.
+
+714
+30:09.030 --> 30:13.948
+And I think I like this idea of having an agile mindset,
+
+715
+30:13.948 --> 30:16.770
+but not only in terms of the product development
+
+716
+30:16.770 --> 30:18.060
+or the technology development,
+
+717
+30:18.060 --> 30:20.100
+but really for the whole operating model
+
+718
+30:20.100 --> 30:22.440
+in terms of the business model, how we partner together.
+
+719
+30:22.440 --> 30:24.000
+We have to work differently
+
+720
+30:24.000 --> 30:25.680
+within these different frameworks
+
+721
+30:25.680 --> 30:28.440
+and we cannot wait until it's done or built
+
+722
+30:28.440 --> 30:30.630
+because our grandchildren will be sitting here
+
+723
+30:30.630 --> 30:32.370
+still trying to figure it out if we wait that long.
+
+724
+30:32.370 --> 30:33.720
+So we have to start,
+
+725
+30:33.720 --> 30:36.090
+we have to start now with the small pieces,
+
+726
+30:36.090 --> 30:37.260
+with the small steps
+
+727
+30:37.260 --> 30:39.968
+and then that's our roadmap to get to where we need to be.
+
+728
+30:39.968 --> 30:41.130
+<v ->Excellent.</v>
+
+729
+30:41.130 --> 30:44.730
+So Madison, given what Jonathan talked about in terms
+
+730
+30:44.730 --> 30:47.790
+of the inverse relationship of size of vehicle,
+
+731
+30:47.790 --> 30:50.442
+weight of vehicle going into electric,
+
+732
+30:50.442 --> 30:54.162
+giving sort of technology roadmap being place
+
+733
+30:54.162 --> 30:58.770
+that you sort of occupy, where do you see,
+
+734
+30:58.770 --> 31:00.300
+what do you see an electric vehicle
+
+735
+31:00.300 --> 31:02.730
+either looking like, touching like,
+
+736
+31:02.730 --> 31:05.070
+feeling like in that 15 year timeframe?
+
+737
+31:05.070 --> 31:06.630
+Is it lighter?
+
+738
+31:06.630 --> 31:08.130
+Is it heavier batteries?
+
+739
+31:08.130 --> 31:09.930
+Is it fully consumptive?
+
+740
+31:09.930 --> 31:11.070
+Like where do you think,
+
+741
+31:11.070 --> 31:12.960
+and again, just more broadly,
+
+742
+31:12.960 --> 31:16.140
+where do you think that we as an automotive industry
+
+743
+31:16.140 --> 31:17.613
+will try and head to?
+
+744
+31:18.570 --> 31:20.040
+<v ->Well, I think coming from Ford,</v>
+
+745
+31:20.040 --> 31:22.110
+we have a bit of a unique perspective
+
+746
+31:22.110 --> 31:25.500
+because we have an electrified F-150,
+
+747
+31:25.500 --> 31:26.460
+which is at the high end
+
+748
+31:26.460 --> 31:29.940
+of the weight power, you know, scale.
+
+749
+31:29.940 --> 31:33.513
+And then we have a Mach-E, which is a crossover essentially.
+
+750
+31:34.920 --> 31:35.771
+So I think-
+
+751
+31:35.771 --> 31:36.604
+<v ->They're both awesome vehicles.</v>
+
+752
+31:36.604 --> 31:37.530
+I'm driven both. They're awesome.
+
+753
+31:37.530 --> 31:40.350
+<v ->Yeah, I have a Lightning, absolutely love it.</v>
+
+754
+31:40.350 --> 31:42.172
+So I think it's gonna be,
+
+755
+31:42.172 --> 31:45.090
+well I think it will vary based on
+
+756
+31:45.090 --> 31:46.408
+whether you're talking about
+
+757
+31:46.408 --> 31:49.620
+a Tesla, a Rivian, an EV startup,
+
+758
+31:49.620 --> 31:54.620
+or you're talking about an OEM with a very broad portfolio
+
+759
+31:54.780 --> 31:57.270
+and if you look at the distribution
+
+760
+31:57.270 --> 31:59.190
+and the applicability of an electrical architecture
+
+761
+31:59.190 --> 32:02.220
+and you're managing ICE, EV, PHEV,
+
+762
+32:02.220 --> 32:03.690
+potentially EREV, long term,
+
+763
+32:03.690 --> 32:06.339
+like from an OEM with such a broad portfolio,
+
+764
+32:06.339 --> 32:08.580
+you have to consider cost, weight, power,
+
+765
+32:08.580 --> 32:10.511
+but also the scalability of your platform
+
+766
+32:10.511 --> 32:13.050
+to the breadth of your portfolio, right?
+
+767
+32:13.050 --> 32:14.967
+So that's one challenge there.
+
+768
+32:14.967 --> 32:16.560
+From a long-term perspective,
+
+769
+32:16.560 --> 32:19.230
+I think we're gonna see higher performance batteries.
+
+770
+32:19.230 --> 32:20.910
+I think we'll see some mid-range
+
+771
+32:20.910 --> 32:25.443
+of a combination of plugin, hybrid EV and EREV,
+
+772
+32:25.443 --> 32:27.660
+especially depending on the region
+
+773
+32:27.660 --> 32:30.861
+in terms of infrastructure, charging infrastructure.
+
+774
+32:30.861 --> 32:34.486
+I personally took a drive out into the desert
+
+775
+32:34.486 --> 32:37.380
+with my Lightning and my main concern was,
+
+776
+32:37.380 --> 32:39.887
+is there going to be a charger available to me?
+
+777
+32:39.887 --> 32:43.290
+Is it going to be open and is it not going to be broken?
+
+778
+32:43.290 --> 32:48.120
+So I think there's gonna be an evolution in optimization
+
+779
+32:48.120 --> 32:49.710
+of the architectures that we have today
+
+780
+32:49.710 --> 32:52.320
+to span the breadth of your portfolio.
+
+781
+32:52.320 --> 32:55.860
+I think we'll see more higher performant batteries,
+
+782
+32:55.860 --> 32:57.930
+lighter weight, higher power,
+
+783
+32:57.930 --> 32:59.820
+but the mix of EV and EREV together.
+
+784
+32:59.820 --> 33:02.700
+And I think that has to be coupled with investment
+
+785
+33:02.700 --> 33:04.500
+and evolution in the infrastructure,
+
+786
+33:04.500 --> 33:05.850
+especially in areas in the US
+
+787
+33:05.850 --> 33:07.830
+where it's either difficult to find,
+
+788
+33:07.830 --> 33:11.430
+difficult to access or they're damaged.
+
+789
+33:11.430 --> 33:13.230
+<v ->So Jonathan, how do you,</v>
+
+790
+33:13.230 --> 33:15.870
+having heard what Madison just shared in the variants
+
+791
+33:15.870 --> 33:19.049
+as a safety person thinking of software, how do you,
+
+792
+33:19.049 --> 33:21.210
+how does that make you feel?
+
+793
+33:21.210 --> 33:22.740
+<v ->Well, thankfully we're not trying</v>
+
+794
+33:22.740 --> 33:24.325
+to dismantle nuclear bombs.
+
+795
+33:24.325 --> 33:25.947
+(John laughs)
+
+796
+33:25.947 --> 33:26.780
+That's a good starting point.
+
+797
+33:27.771 --> 33:29.490
+There are far riskier, far more areas
+
+798
+33:29.490 --> 33:31.470
+that result in far more harm
+
+799
+33:31.470 --> 33:34.470
+than automotive will ever have to deal with.
+
+800
+33:34.470 --> 33:37.470
+So the technology, the solutions already exist there,
+
+801
+33:37.470 --> 33:39.330
+but scaling them to automotive
+
+802
+33:39.330 --> 33:41.866
+is of course always the difficulty.
+
+803
+33:41.866 --> 33:44.160
+And you know, I'm sure Madison would like
+
+804
+33:44.160 --> 33:47.763
+to talk about 10 exciting products like the Lightning,
+
+805
+33:48.750 --> 33:49.860
+but of course we're limited
+
+806
+33:49.860 --> 33:53.280
+by how quickly we can scale our engineering
+
+807
+33:53.280 --> 33:55.771
+and design process to deliver that.
+
+808
+33:55.771 --> 33:56.700
+We've got a finite number of people
+
+809
+33:56.700 --> 33:58.450
+that we can afford to do that work.
+
+810
+33:59.466 --> 34:02.880
+I'm thrilled to have given Red Hat a certificate this week
+
+811
+34:02.880 --> 34:07.080
+for a big component of their upcoming open operating system.
+
+812
+34:07.080 --> 34:10.770
+Certainly openness is going to play a crucial part.
+
+813
+34:10.770 --> 34:14.225
+What I really like about open software
+
+814
+34:14.225 --> 34:18.731
+is that the politicians can't do anything about it.
+
+815
+34:18.731 --> 34:21.390
+We can play around the world
+
+816
+34:21.390 --> 34:26.390
+to the best of our human ability in the open.
+
+817
+34:27.300 --> 34:30.330
+And of course there's the trustable framework at Codethink,
+
+818
+34:30.330 --> 34:32.151
+which is the only,
+
+819
+34:32.151 --> 34:35.160
+is the only initiative I'm aware of
+
+820
+34:35.160 --> 34:36.960
+that's even aware of the need
+
+821
+34:36.960 --> 34:40.560
+for trust in the entire software supply chain.
+
+822
+34:40.560 --> 34:43.260
+So I'm quite excited about that.
+
+823
+34:43.260 --> 34:44.093
+I'm an engineer,
+
+824
+34:44.093 --> 34:46.080
+so I'm a little bit more excited
+
+825
+34:46.080 --> 34:48.333
+about our ability to solve these problems,
+
+826
+34:49.740 --> 34:54.740
+but openness and trust are gonna be crucial in that.
+
+827
+34:56.520 --> 34:57.353
+<v ->Excellent.</v>
+
+828
+34:57.353 --> 34:59.580
+<v ->Sorry, I have a reflection on what John was saying.</v>
+
+829
+34:59.580 --> 35:02.151
+I think that's a very important point
+
+830
+35:02.151 --> 35:04.290
+about the crowdsourcing of the development.
+
+831
+35:04.290 --> 35:06.660
+If we are thinking about all these very good ideas
+
+832
+35:06.660 --> 35:09.030
+of where is the vehicle going in,
+
+833
+35:09.030 --> 35:10.800
+I don't know, a hundred years from now,
+
+834
+35:10.800 --> 35:13.053
+I think it's almost impossible to think
+
+835
+35:13.053 --> 35:16.980
+that only one team can solve these type of experiences
+
+836
+35:16.980 --> 35:20.745
+and the creative power is better if we can boost
+
+837
+35:20.745 --> 35:23.940
+and have the architecture safe, of course,
+
+838
+35:23.940 --> 35:27.090
+and scalable to allow different developers
+
+839
+35:27.090 --> 35:30.180
+to bring the applications on the car.
+
+840
+35:30.180 --> 35:33.180
+But that requires a good infrastructure
+
+841
+35:33.180 --> 35:36.300
+in place right there, good architecture.
+
+842
+35:36.300 --> 35:38.070
+<v ->Excellent, so we have four minutes left.</v>
+
+843
+35:38.070 --> 35:40.560
+I know the time has been so fast.
+
+844
+35:40.560 --> 35:43.260
+I'm gonna give each of you, we hadn't talked about this,
+
+845
+35:43.260 --> 35:45.690
+so audience, this is a surprise,
+
+846
+35:45.690 --> 35:48.060
+each of you, one minute public service announcement message
+
+847
+35:48.060 --> 35:49.080
+starting with you Joseph,
+
+848
+35:49.080 --> 35:51.420
+what do you wanna leave the audience with
+
+849
+35:51.420 --> 35:53.250
+about the topic of next level innovation
+
+850
+35:53.250 --> 35:54.810
+or about Sony Picture Entertainment
+
+851
+35:54.810 --> 35:56.250
+or about your thoughts
+
+852
+35:56.250 --> 35:58.290
+on where we are of vis-a-vis innovation?
+
+853
+35:58.290 --> 36:00.993
+I'll ask each of you then to go in one minute each.
+
+854
+36:01.980 --> 36:03.840
+<v ->I think I would like to leave with the fact</v>
+
+855
+36:03.840 --> 36:05.880
+that I think we are starting now.
+
+856
+36:05.880 --> 36:07.590
+I think you've seen some
+
+857
+36:07.590 --> 36:10.470
+and even announcements as recent as this week
+
+858
+36:10.470 --> 36:13.380
+in terms of small steps that start us to get to that place
+
+859
+36:13.380 --> 36:15.060
+of working collaboratively.
+
+860
+36:15.060 --> 36:19.851
+And just the plug, we do have a vehicle in the Xperi booth
+
+861
+36:19.851 --> 36:22.321
+that's partnered with our partner Mercedes vehicles
+
+862
+36:22.321 --> 36:23.790
+that talks about some of those
+
+863
+36:23.790 --> 36:25.980
+initial immersive experiences.
+
+864
+36:25.980 --> 36:27.510
+Please stop by and take a look at it
+
+865
+36:27.510 --> 36:30.060
+and I welcome to talk with any of you
+
+866
+36:30.060 --> 36:32.310
+about future partnership opportunities.
+
+867
+36:32.310 --> 36:34.350
+<v ->Fantastic, Sabina?</v>
+
+868
+36:34.350 --> 36:37.230
+<v ->I think that we barely touched upon that,</v>
+
+869
+36:37.230 --> 36:40.020
+but it is a huge topic about data.
+
+870
+36:40.020 --> 36:43.942
+Data monetization for AMS is a good opportunity.
+
+871
+36:43.942 --> 36:46.620
+Always focusing on the consumer
+
+872
+36:46.620 --> 36:50.283
+and getting that innovation from the consumer to the rest.
+
+873
+36:50.283 --> 36:52.320
+And I think that Globant
+
+874
+36:52.320 --> 36:55.680
+can have a privileged opportunity there
+
+875
+36:55.680 --> 36:59.546
+to help you step up in those transformationals,
+
+876
+36:59.546 --> 37:02.370
+process that you already have in place.
+
+877
+37:02.370 --> 37:04.050
+Or if you want to challenge yourself,
+
+878
+37:04.050 --> 37:06.150
+we can be the perfect partner for you
+
+879
+37:06.150 --> 37:09.120
+to get along the this journey and challenge.
+
+880
+37:09.120 --> 37:11.010
+<v ->Thank you, Jonathan?</v>
+
+881
+37:11.010 --> 37:13.380
+<v ->Well, become an automotive engineer.</v>
+
+882
+37:13.380 --> 37:16.713
+It's the most fulfilling and rewarding career you can have.
+
+883
+37:18.090 --> 37:21.805
+It's tremendously sensitive to small mistakes,
+
+884
+37:21.805 --> 37:24.870
+but I can tell you every single component on the vehicle
+
+885
+37:24.870 --> 37:27.210
+is one that the customer notices.
+
+886
+37:27.210 --> 37:29.531
+And if it's not one they're directly interfacing with,
+
+887
+37:29.531 --> 37:32.820
+and if it fails, they will notice.
+
+888
+37:32.820 --> 37:34.080
+And if they don't notice it,
+
+889
+37:34.080 --> 37:36.630
+it's going to be deleted as a cost save.
+
+890
+37:36.630 --> 37:38.550
+And I can't think of anything more rewarding
+
+891
+37:38.550 --> 37:41.070
+than working on something that your customers
+
+892
+37:41.070 --> 37:44.220
+actively have an interface with and have to deal with.
+
+893
+37:44.220 --> 37:46.350
+So come and become an automotive engineer,
+
+894
+37:46.350 --> 37:49.590
+come and solve complex software and safety problems.
+
+895
+37:49.590 --> 37:51.063
+<v ->Thank you, Madison?</v>
+
+896
+37:52.103 --> 37:53.700
+<v ->I guess my parting thoughts,</v>
+
+897
+37:53.700 --> 37:56.220
+first, it's great to be up here on stage with you guys
+
+898
+37:56.220 --> 37:58.890
+and thank you for everybody who joined.
+
+899
+37:58.890 --> 38:00.791
+I think a parting thought
+
+900
+38:00.791 --> 38:02.490
+on the technology advancements
+
+901
+38:02.490 --> 38:04.350
+is something that you mentioned is the complexity
+
+902
+38:04.350 --> 38:06.300
+of the systems that we're talking about.
+
+903
+38:06.300 --> 38:11.300
+And I think we're in a stage of tuning and then next gen,
+
+904
+38:12.651 --> 38:15.351
+we as an industry have evolved
+
+905
+38:15.351 --> 38:18.806
+to potentially a zonal based architecture.
+
+906
+38:18.806 --> 38:20.700
+But I talked about the beginning
+
+907
+38:20.700 --> 38:22.260
+about customer expectations.
+
+908
+38:22.260 --> 38:23.580
+Our customer's expectations
+
+909
+38:23.580 --> 38:26.130
+are about affordable vehicles as well.
+
+910
+38:26.130 --> 38:29.640
+So I think we're gonna be seeing tuning and optimization
+
+911
+38:29.640 --> 38:32.430
+and cost downs in addition to the management
+
+912
+38:32.430 --> 38:33.810
+of these complex systems,
+
+913
+38:33.810 --> 38:38.310
+the complexity of the software, so yeah.
+
+914
+38:38.310 --> 38:39.389
+<v ->Excellent.</v>
+
+915
+38:39.389 --> 38:42.390
+Ladies and gentlemen, please give a big round of applause
+
+916
+38:42.390 --> 38:46.291
+to my colleagues, Joseph, Sabina, Jonathan and Madison.
+
+917
+38:46.291 --> 38:47.940
+(audience applauding)
+
+918
+38:47.940 --> 38:50.220
+It's been great to put this show on for you.
+
+919
+38:50.220 --> 38:52.080
+It really was for us to show we, like I said,
+
+920
+38:52.080 --> 38:54.911
+we kind of ignored you and had our little conversation here.
+
+921
+38:54.911 --> 38:58.170
+All will be available for a few minutes after today.
+
+922
+38:58.170 --> 38:59.250
+They'll also be available
+
+923
+38:59.250 --> 39:01.830
+at the session tonight if you're interested.
+
+924
+39:01.830 --> 39:03.360
+And then as Joseph said,
+
+925
+39:03.360 --> 39:05.280
+there's booths now, feel free to find them.
+
+926
+39:05.280 --> 39:06.330
+Use the app.
+
+927
+39:06.330 --> 39:08.010
+Thank you again for coming and supporting Connect2Car.
+
+928
+39:08.010 --> 39:08.880
+Appreciate you.
+
+929
+39:08.880 --> 39:10.671
+Enjoy the rest of your show.
+
+930
+39:10.671 --> 39:12.005
+(audience applauding)
+
+931
+39:12.005 --> 39:14.588
+(upbeat music)
+

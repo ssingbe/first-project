@@ -1,0 +1,980 @@
+<v ->All right. Hi everyone.</v>
+We're so glad you could join us.
+And good afternoon, CES.
+It's really great to have all of you here with us today.
+So we're gonna have a great panel discussion today
+on smart cities and cybersecurity.
+We're going to address how smart cities can stay smart
+when it comes to cybersecurity.
+As our cities become more connected and intelligent,
+safeguarding the flow of information
+and protecting critical infrastructure is paramount.
+I think we all can agree to that.
+So today we're gonna explore some of the challenges
+and the opportunities of securing smart cities.
+Also discussing innovative strategies
+to ensure safety, privacy, and resilience
+of these rapidly evolving urban environments.
+So before we get started, I'd like to intro-
+Standards programs at the Consumer Technology Association.
+I'm also the president
+of the US National Committee of the IEC.
+And in that role, we're focused on global standardization
+and conformity assessment.
+So bringing a lot of the work
+that I do in American National Standards internationally.
+I'm also the first woman to hold that position,
+which I'm really proud of.
+The IEC got it start in 1906.
+So imagine all the way through 2024,
+it took that long to get a woman elected.
+So very proud to hold that role.
+And being a member of that group,
+I'm also a member of the IEC Board,
+their business advisory committee,
+which looks at how we might globally influence
+standardization among some of the big three.
+I'm also on the American National Standards
+Institute Board of Directors.
+So standards are something I hold very dear to my heart.
+I'm also a US Army veteran
+because it seems like I really like
+to take on a lot of jobs. (laughs)
+So I'm really thrilled to have our panel of experts
+here with us today.
+They'll bring some diverse perspectives
+to what we're talking about
+when it comes to smart cities and cybersecurity.
+So I'm gonna let each of them introduce themselves.
+So Michelle, we'll start with you.
+<v ->So nice to be here.</v>
+It's my first time speaking at the CES,
+so I'm pretty excited.
+My name is Michelle Sahar.
+I'm the Cybersecurity Director of OpenPolicy.
+OpenPolicy, it's the first AI powered platform
+that democratize access to startups and innovators
+engaged in regulatory engagement, not only hold visibility,
+but also have the proactive knowledge
+and participate in this great landscape.
+So in my job, I advise clients not only
+on how to address all this information of regulation,
+but also how they can engage in helping info sharing
+with amazing government agencies.
+So my specialties are in IOT, which is very interesting
+about what we're gonna talk about today, AI, iCloud,
+and yeah, and I'm very excited for this, yeah.
+<v Veronica>Glad to have you here.</v>
+<v ->Matthew Straeb, I'm with Global Security Systems.</v>
+Our brand is ALERT FM,
+and we've been delivering communication systems
+that work when cell and other systems fail
+or you lose power or internet.
+So we kind of came in this from a different point of view
+because what we found out is that we work mostly
+in state and local communities,
+and they're all obviously have a very strong interest
+in alerting their citizenry.
+And a lot of these disasters
+can get into a situation where they fail very quickly.
+The power, internet and cell can all just fail
+right in five to 10 minutes,
+depending on what the disaster is.
+And we found that cybersecurity,
+cyber communications is the same profile.
+There's, you know, two types of cyber communication issues.
+One is ransomware, I'll just get in.
+And then the other one is, you know,
+they're gonna go after something
+that's gonna be important to you
+and that's gonna be typically communications.
+So we fill that gap.
+And we developed, I'm a co-founder, we developed a system
+where we basically use existing FM radio infrastructure.
+So you know how you get your song
+and title information on your car radio,
+we turn that into a alert system.
+And what's unique about it, it's independent because,
+and we deliver all of our data
+to the radio stations by satellite.
+So the only way you would be able to hack the system
+would be able to physically, you'd have to break into the,
+to knock at the satellite uplink.
+So we fill that gap.
+So when everything goes to, you know, goes south,
+our system would continue to work.
+So thank you.
+<v ->Thank you.</v>
+<v ->And good afternoon everyone.</v>
+Great to see you all again here at CES.
+My name is Billy Bob Brown Jr.
+I'm the executive assistant director
+for Emergency Communications
+at the Cybersecurity and Infrastructure Security Agency.
+We spend most of our time talking about the idea
+of how do we improve cyber safety across the nation,
+and how do we encourage partners across the world
+to think about creating a world that's secure
+for all of our internet connected devices.
+<v ->Great. So glad to have all three of you with us.</v>
+And I have so many questions, some of which I've shared,
+but I love the mindset that we have here.
+I think we've got lots to talk about.
+So why don't we start with the biggest question maybe.
+What are the biggest cybersecurity challenges
+that you think smart cities face today?
+Maybe from each of your perspectives.
+<v ->So, smart cities, with the great technology comes,</v>
+there's like multiple layer vulnerabilities.
+And when we're talking about interconnected systems,
+basically, right, Smart cities wants to help us
+and help our lives to get better by interconnecting systems.
+So one of the vulnerabilities is IoT product, right?
+This interconnectivity can lead to vulnerabilities
+that we need to know how to mitigate
+from the outgoing, from the starts, right,
+from the development of the product itself
+before it's even connected.
+And the attack surface management now that we see
+if smart cities get expanded exponentially, right?
+There are so many small items,
+products, AI powered platform,
+we're not even mentioning the amount of data
+that flows through all the critical infrastructures.
+So all of this attack surface, someone needs to manage
+and needs to manage it in real time.
+And to be able not only to predict what can be,
+what can happen or which threat we can encounter,
+but also which kind of security measurements,
+which can cybersecurity protocols we need to do
+to also remediate and be resilient
+to the ever evolving threats.
+So I think how smart cities are built, it's great,
+but they're unfolding so many small pieces
+that we need to have some kind of a security baseline
+to know how we are addressing them.
+<v ->Yeah, I love that.</v>
+Security baselines, I think, are quite important,
+especially in standardization.
+We talk about that a lot.
+So do you envision, I think,
+maybe in your view of smart cities is,
+I agree we have so many products, IoT products,
+and we're bringing all that data together.
+Do you almost envision that there needs to be
+sort of like maybe a city management sort of a,
+you know, overview of?
+<v ->One centralized?</v>
+Yeah, or do you think it needs to be more,
+I mean, 'cause I know we definitely want to see
+more of the customers being proactive
+and in being cyber smart,- but knowing that
+<v ->The IoT Cyber Trust Mark, right?</v>
+I am a great fan of that initiative
+and I think it's forming beautifully
+with the idea of smart cities, right?
+Because if someone is not aware,
+the US Cyber Trust Mark is a great initiative
+to trying to not only raise awareness of customers, right,
+and to understand if the consumer,
+if my mom wants pay the extra 10 bucks
+to have a better, more secure IoT product.
+But also, how we are forming
+this security baseline for IoT product?
+What is like the basic threshold of security standards?
+And I think that this initiative,
+it's exactly what you just mentioned.
+And I think that smart cities and local government
+can use that and emphasize the importance of this initiative
+and try to see if the consumer, how we can raise awareness,
+which is crucial for security for smart cities.
+And also to protect the basic lines of IoT products,
+which are the basic foundation of smart cities, right?
+<v ->Absolutely. Absolutely.</v>
+So Matthew, what do you think?
+<v ->Well, there's, there's two sides to it.</v>
+One is, you know, we wanna be able to use these devices.
+We don't want burden people.
+But at the same time we have privacy issues
+and people don't even realize
+that there could be a entry point too
+for a cybersecurity breach or attack, particularly if,
+and we deal mostly with government, you know,
+government employees, law enforcement,
+emergency management, those types of folks.
+And, you know, a lot of times we'll walk in and we'll say,
+you know, so that's on the IOT side or the device side.
+Now on the infrastructure side,
+the challenge is they've got so many disparate systems,
+you know, some are, I would say non-cyber security,
+you know, protectable because they're old
+and no one's even thinking about it.
+<v ->That's true.</v>
+<v ->So they either have</v>
+to throw the system out,
+spend the money to do the X, Y, Z to replace,
+and they're not willing to do that.
+And a lot of the governance, we found,
+is a lot of the governance that goes into the cybersecurity,
+you know, laws, protection, regulations is on a state level,
+every state's different, every locality's different,
+every budget's different.
+And so, you know, a lot of times
+we'll walk into a sheriff's office
+and we'll say, "Cybersecurity."
+And they'll say, "What's that?" You know?
+I mean, unfortunately.
+<v ->That's true.</v>
+<v ->And so we have to educate them, but it's a serious thing.</v>
+And you know, as an example,
+I was in a media headquarters, a large media headquarters,
+and, you know, there's a thousand employees working there
+and they gave me a tour and they said,
+"That's the operation center.
+Only three people are allowed to go in there."
+So, you know, people are locking down.
+It's not just, it's physical security,
+it's other layers of security.
+So I think the challenge is that,
+and I think CISA is doing a great job.
+They had a billion dollar grant program
+and we were at this Q&amp;A.
+And, you know, basically it's just there for them
+to write a cybersecurity plan, not even implement it.
+So we still have a long ways to go.
+<v Veronica>Yeah, right. I'd agree.</v>
+What do you think about that?
+<v ->Yeah, so I'm gonna be a little bit contrarian</v>
+and I'm hoping for a little dialogue this afternoon.
+So I think about the vulnerability in smart cities
+from the perspective of the greatest challenges,
+the people, you know?
+So we're in the people business.
+We're trying to create partnerships
+across government spaces, across industry spaces,
+across nonprofit spaces, across academia,
+'cause we recognize in order to secure
+the nation to improve resilience,
+it takes all of us actually working together.
+So some of the people problem
+relates to a way of thinking about products
+in a former style, which was, if it had that,
+and I don't want to call anyone out,
+but if it had that seal of approval, then it's good.
+So set it and forget it.
+You know, I'm only gonna buy the product
+that has the seal on it so I can set it and forget it.
+And which meant that you never looked at it
+and you never thought that there could be a vulnerability
+discovered last night,
+somebody in the basement somewhere spent up all night
+and they figured out a way to exploit a vulnerability.
+And now that they have that exploit,
+they're gonna use that in order to try
+and compromise your system for some purpose.
+And you might not actually be the target,
+you may be the avenue of approach
+to get to a target that they're trying to get to.
+You know, so the set it and forget it kind of mindset
+is what we really need to overcome.
+You know, how do we create a movement of people
+that are thinking about how do we secure our world?
+You know, how do we think of those basic security principles
+as being a responsibility that all of us,
+even at the individual consumer, should be thinking about.
+And then we should be demanding that from the producers of,
+so as, you know, as we talk about secure by design,
+secure by default, you know, it comes from consumers
+also requiring a higher threshold of security
+in those all internet connected devices
+as they're developed in the future,
+as they're created in the future,
+even applications, you know?
+So it really is a mindset.
+And but I wanna say, you know,
+in some ways it's like a mindset
+that we had before, but we forgot about it.
+<v ->You know, so you buy a horse and you think, yeah,</v>
+this horse is gonna gonna get me from point A to point B.
+You know, but that horse had to be fed every day.
+That horse had to be groomed every day.
+That horse had to be actually taken care of every day.
+We had to do something to make sure
+that that was going to successfully perform the function.
+But somehow we got away from that
+and the idea that, oh yeah, we can buy a product.
+It had that seal so I don't need to do anything.
+I don't even need to think about it
+that that number one doesn't really make sense.
+And today, as we see certainly cyber crime,
+cyber crime for hire as a problem and a challenge,
+that we all need to be more cyber smart
+to ensure cyber safety.
+<v ->Yeah, I really love that,</v>
+'cause I think if we think about it now,
+for me, I always use this example with, to your point
+about when you have a seal of approval on something,
+you do tend to have that set it and forget it mindset.
+So if you have a hair dryer, you know,
+maybe had a little hair dryer this morning,
+or a pot of coffee, you just plug it in
+and you don't check to see if it was certified in testing
+and it's met all the electronic standardization
+that it needs and has been tested appropriately,
+and you're not gonna catch on fire
+or blow the building up, right?
+But I agree when it comes to cybersecurity,
+because it's moving so quickly
+and there are so many devices,
+there are all these different entry points into there.
+So I think we do have to ask people come together.
+What do you think?
+What's your view for how we might make that work?
+I mean, 'cause that's a huge task, right?
+<v ->Yeah, and I definitely would like to hear</v>
+kind of what some of the other thoughts are.
+But, so I've been on a quest for a couple years now
+trying to sort out how do we create a movement.
+So one of the things that the,
+as I've been going around the world
+talking a little bit about,
+certainly emergency communications,
+that's where really my primary focus and expertise is,
+you know, but as we think about communications capabilities,
+you know, it is the same challenges.
+You know, some of the legacy way
+that we moved information by voice,
+you used an analog capability,
+that is going by the wayside.
+And more and more and more
+of that voice communications capability is all IP
+and it's using technologies that are internet connected.
+You know, some are behind firewalls,
+some of them are, you know, have some walled garden,
+but there are still opportunities for remote accessing.
+And I actually had a conversation with someone
+a couple years ago and they were telling me,
+"Oh yeah, no, no, this is closed off."
+And then I watched them reach into their pocket,
+they pulled out their smart device
+and they did something and they put their smart device away.
+And, you know, a few minutes later
+they leaned over and said, "Yeah, I've got this ability,
+I can remotely, you know, tune this thing in up
+and I just got something so I fixed it.
+And so I waited about an hour and then I asked,
+I was like, "Oh, you know, that remote access that you use,
+that's a internet vulnerability that you just opened."
+They said, "What?" (chuckles)
+They didn't even realize, you know,
+but it's the idea of how do we, you know,
+as I'm talking to governments around the world,
+all of us have the same challenge
+of moving emergency information to protect citizens.
+We should all be very cognizant of the fact
+that the all interconnected IP environment
+requires all of us to be thinking
+and to be partnering, you know, across our organizations
+with the information security specialists.
+<v Veronica>Yeah.</v>
+<v ->I would say, I know education and awareness is, right?</v>
+And then where does the responsibility fall?
+Is it with the manufacturer or with the user?
+I think that's gonna be become more and more of an issue.
+And I think people are willing to pay for that.
+You know, from a consumer electronics point of view,
+I wanna know that I have a secure system
+and I don't wanna worry about it
+and I'll pay you for that, you know?
+<v Veronica>Right. Yeah.</v>
+<v ->And I think that's a real opportunity</v>
+for a lot of manufacturers to take advantage of that.
+'Cause if anyone's ever been a victim of identity theft
+or any of that kind of stuff, I mean, it's a real pain.
+<v ->Yes. Yes.</v>
+<v ->So, you know,</v>
+and it costs time and money
+and I think people, there's a value to it.
+And if we can avoid that,
+then I think that's gonna be something
+that manufacturers are gonna start promoting
+that their system is closed.
+And there's a few that I come to mind
+that are kind of in that camp
+that have been pretty successful so.
+<v ->Yeah, that's very interesting.</v>
+Especially I do agree,
+I think that there's a good opportunity for manufacturers
+to help educate consumers.
+And I think the more,
+especially me being in the standards business,
+I feel like the more manufacturers that are involved
+in talking about these cybersecurity vulnerabilities
+and how we might be able to work together
+to create awareness without dipping
+into the secret networks, right?
+But if we can work together
+and create standards that help make a stronger system,
+it's definitely a better way.
+Plus we can definitely get that out to the consumers
+that these manufacturers follow these standards.
+So I think that's a very important way.
+<v ->I think it's gonna be a feature.</v>
+It'll become a feature that people are wanna pay for.
+<v ->But at some level too, like all of us though,</v>
+have a responsibility.
+Even at the consumer end,
+all of us have a responsibility to be looking at it daily.
+You know, so for anyone that's got a smart device right now,
+I don't think anyone in the room has any problem
+with the idea of checking, you know, the application store
+and seeing that there's been an update to an application
+for, you know, if you've got, you know,
+it's I wanna call out names here but.
+So if you've got an app for getting a ride somewhere,
+you know, you don't think anything of updating that app,
+you know, 'cause some new features have been, you know?
+But also, some security flaws have been updated, you know?
+So there's a responsibility on the consumer side
+to do something, you know?
+On the application developer side or the manufacturer side,
+they did something,
+but it also requires the consumer to do something.
+And part of that, I believe,
+is consumers also having the mindset,
+I should be demanding good security, right?
+So somebody should be doing something when they find out
+that there's an exploit in the wild,
+doing something to close that
+to make this application more safe for me.
+<v ->Yeah, I agree wholeheartedly.</v>
+So when we're thinking about technical strategic approaches,
+what role do you think emerging technologies
+like AI and blockchain will play
+in securing smart city infrastructures?
+<v ->Wow, the full potential of AI in smart city</v>
+can unleash new capabilities and new things
+from real time detections and predictive analytics.
+It can be everything.
+It can be even helping just detect
+the vulnerabilities we just spoke about
+of IoT product basically, and isolate them from the system
+and basically mitigate the threats.
+But we are all talking about the other side of AI
+and what is happening if we are integrating
+AI full potential in smart cities.
+And I think that when it can introduce great stuff,
+also we need to look about the AI risk
+as an holistic perspective about what we just spoke about,
+about data security, cybersecurity,
+critical infrastructures.
+How we can manage and mitigate all the risks
+that involve through that specific connection
+because of the fragile elements of smart cities,
+which is everything is interconnected.
+<v Veronica>Right. Right.</v>
+<v ->And if we are not looking at as an holistic thing,</v>
+we are missing out.
+And it can be a very hard aftermath
+that we need to think about it from the start.
+<v ->Yeah, for sure.</v>
+What do you think?
+<v ->You know, to managing all, you know, this data,</v>
+we have unbelievable amounts of data.
+We don't know what to do with
+We have no idea this falling on the floor all the time
+and nobody knows what to do with it,
+whether it's coming from a jet engine or whatever.
+And, you know, cybersecurity
+is just gonna be another application
+that goes inside of the AI world.
+So it's gonna be a while,
+but I think definitely that has lots of potential.
+On the blockchain side. I mean, that's gonna be,
+you know, help us a lot with privacy.
+You know, that's gonna be the answer.
+So it's, you know, I think as we have these things
+that really come into up, you know,
+cybersecurity has become more of an issue,
+we've got responses to it, so the technology.
+So that's a good thing.
+<v ->Yeah, and I think to your point about privacy,</v>
+I feel like most concerns tend to be based around privacy.
+When you talk to consumers, it's not, you know,
+not so much their understanding of the,
+about their data is going to be out there so.
+<v ->I just wanna get in my app.</v>
+I've been working on three weeks to get in this app
+and you can help me, please help me,
+because it's so, you know what I mean.
+<v ->Yeah, for sure. What do you think about the power of AI</v>
+and the future potential there?
+<v ->Yeah, I'm super excited about emerging technology</v>
+and the ability to help citizens to bring safety
+and responders to support citizens in everyday life, right?
+You know, so Matt mentioned a little bit earlier
+about the idea of, you know, a disaster happens
+and we sort out how to help people.
+I'm from Washington, DC,
+we got like three inches of snow on the ground,
+that's a disaster for us.
+<v ->Yeah, it's a disaster.</v>
+<v ->Yeah, you know,</v>
+so they're going through that right now,
+trying to sort that out.
+But, you know, in the everyday situation,
+you know, we have people that are in trouble.
+Something happens, they need help.
+They need to do a request for assistance using 911,
+you know, next generation of 911 is coming out,
+which will in only increase the IP connectedness
+of those call, those public safety answering points
+and the ability to do distributed calls
+and some sort of collective support
+across regional environments.
+But it also brings a cybersecurity concern.
+But as we were talking a little bit before the panel today,
+you know, the thing I think about all the time
+is the large scale challenge at scale.
+You know, so I think about an earthquake.
+In the center of the country,
+there's a fault line called New Madrid.
+The New Madrid earthquake is prime for 100 year challenge,
+and there's gonna be tens of millions of people
+impacted by that.
+Artificial intelligence gives us the opportunity
+to try at scale to understand where people are
+in order to better manage the ability
+to get responders to help those citizens
+as those responder organizations are marshaled.
+You know, so and in terms of blockchain, you know,
+I'm super excited personally about blockchain.
+I just think that there's unlimited potential
+that has not really been thought about,
+about how we can actually validate.
+And that's where I see blockchain helping out,
+validate, you know, who is trying to send information.
+You know, so I'm super excited.
+<v ->I'm really excited about too.</v>
+It's kind of great to have fellow tech nerdy up here.
+into future focus.
+What do you think about when we're thinking
+about more of these advanced technologies,
+ow should our cybersecurity strategies evolve
+to address new threats?
+And that's always, that's the big question, right?
+Like how do we stay ahead of the new threats?
+<v ->Yeah, so I'll just sort of jump right in</v>
+and, you know, at some level it cannot only be government
+that's trying to figure that out, you know?
+So and again, as it is a mantra of our organization
+that we are partnering, you know,
+we want everybody to come to the table.
+You know, industry has gotta be a part of the equation.
+Nonprofits have gotta be a part of the equation.
+Academia has gotta be a part of the equation.
+You know, we believe cybersecurity really has no borders.
+You know, someone from across the world
+could be making a cyber intrusion into a device.
+And, you know, therefore every good government on the planet
+should be working together to try to figure out
+how are we creating a cybersecurity framework
+that allows all of us to secure information
+so that it can perform the actual work
+that it's intended to perform
+in that application or the device.
+You know, but it takes all of us
+bringing ideas to the table to actually create a solution
+even as the emerging technology comes into play.
+So like I'm a huge proponent for Quantum.
+You know, I've been talking to my team
+and, you know, nobody agrees with me.
+So if everybody in the room wants to say,
+"I don't agree with you either," join the club.
+Nobody agrees with me.
+But I believe Quantum is going to radically transform
+the way we move information in the future.
+<v Veronica>Yeah, I agree.</v>
+I agree with you.
+<v ->Can I also?</v>
+<v ->Go ahead.</v>
+<v ->I would add</v>
+from the innovator perspective,
+I totally agree with you.
+And also info sharing, information sharing is so critical
+to help not only the regulator,
+but also to have some kind of a resilient framework
+that is updating constantly, right?
+As we are very pushing on updating apps,
+we need to update frameworks of cybersecurity
+and understanding that cybersecurity is a great pillar
+of the security of smart cities, for example.
+But how we make it update?
+By talking with the people on the ground,
+by talking to researchers,
+by seeing which kind of vulnerabilities and threats.
+For example, the clients of the kinds that work with us
+have so many information and white papers
+about things that they see.
+And this information is critical
+not only just to map what's going to be the next threat,
+but also like which kind of solution,
+technical solution we can bring to the table.
+And basically, yeah, help raising this resilient aspect.
+<v ->Yeah, and that's a lot of data.</v>
+And to your point, we don't want it to fall on the floor,
+maybe as a good opportunity for AI
+to train against all that data
+and share that in a secure way of course.
+<v ->In quantum we'll just..</v>
+<v ->In quantum.</v>
+Right. Exactly.
+<v ->Just sweep.</v>
+<v ->There you-</v>
+<v ->It just takes out</v>
+a whole layer.
+<v ->You got more believers.</v>
+<v ->It just takes out a whole layer.</v>
+It just takes out a whole layer processing that,
+you know, is going to exponentially
+provide more solutions so.
+<v ->Yeah, that's excellent.</v>
+So I think maybe going back to disaster management,
+thinking about the snowstorm (laughs)
+and being very happy to be here
+and not shoveling snow back in DC,
+how do you think we can, in smart cities, I mean,
+leverage some of that technology we talked about
+for certainly improving first response in 911,
+but how can we work on that overall
+with disaster management strategies?
+You spoke about the potential for the earthquake,
+and I think back to when we had
+a very tiny earthquake in the DC area,
+but you would've thought it was the largest
+like we were in California or something,
+but it was very tiny.
+Having grown up in California was hardly worth mentioning.
+But it's still important
+to have disaster resilience strategies
+to address all of that.
+What are your thoughts on what smart cities could be doing?
+<v ->Well, I mean, they have to protect their networks,</v>
+first of all, so that they can operate.
+And then on the edge, like, you know, I was going to this,
+where is my, there's only two ways to alert people.
+I lost my phone.
+There's two ways to alert people.
+One is the cell phone
+and the other is another device that we make actually.
+<v Veronica>Oh, there you go.</v>
+<v ->And this is the device</v>
+that actually is a geo-targeted device
+that will receive earthquake alerts, weather alerts,
+and it's works even when the internet and the power fail
+'cause it has a battery in it,
+and the cell network fails
+because it's on a totally independent network.
+<v ->So the thing that people underestimate</v>
+is how quickly we can lose all of our communication tools
+and people are then basically stuck
+and that's where people get upset.
+So that's the gap that we're filling.
+And it goes back to analog.
+I mean at the end of the day, I mean,
+I don't care what kind of AI you got
+or, you know, how big your television is or whatever.
+It's that FM, it's a radio infrastructure
+that's gonna save lives
+in those disasters that you talked about.
+Cell is great until we get to that point,
+but those networks are not built.
+A lot of this stuff is not built
+because we didn't think about all of this
+for all these other disasters and cybersecurity
+and all this things, pop, came up.
+So, you know, we have all the infrastructure now.
+It's just educating people.
+The way that disaster management works though in the US
+is that each state decides
+how they wanna manage their disasters.
+So you're basically dealing with 50 plus countries,
+you know, in essence.
+<v ->Yes.</v>
+<v ->So trying to get them all to agree,</v>
+I mean, forget about the international space.
+And everyone's got a different idea.
+Everyone's got a different experience.
+Some come from law enforcement,
+some come from fire, it's all different.
+So that's the challenge is bringing all of those together
+and then educating them so that they can protect their,
+you know, protect their citizens.
+<v Veronica>Yeah, I agree.</v>
+<v ->And I believe, as you were saying,</v>
+the idea of, you know, educating
+even those that may have differing perspectives, right?
+You know, state of California, state of Missouri,
+they think differently, they have a different population,
+they have different geography.
+You know, certainly in terms of scale and size,
+the opportunity in their tax base to do things
+are different.
+You know, so they think about how they're gonna manage
+to the resources that they have differently.
+And, you know, I believe that's totally okay.
+There's no problem with that.
+And, you know, but there should be some way
+that we think about saving the life of a citizen
+as being universal, right?
+So it doesn't matter what state you're from,
+it doesn't matter what country you're from, you know,
+that we all think about saving of a life
+from the same perspective.
+And I think smart cities are going to help with that
+because we're bringing more and more and more connectivity.
+And, you know, in the standards arena, you know,
+there's something they were talking about pro,
+say, side link, you know, way for mesh to make mesh.
+Really capable, even for those cellular devices
+to be able to move signals one device
+to another device in order to move,
+whether it's request for assistance information
+or alerting information.
+You know, I think that technology
+is moving farther forward that that'll help us
+with that disaster management thing.
+<v ->And what that infers is a federal solution,</v>
+which we all are afraid of.
+<v ->I'm not afraid of it.</v>
+I love federal solutions.
+<v ->That's Billy Bob. (laughs)</v>
+But maybe even cybersecurity,
+'cause it is a national threat.
+So I'm not suggest, I'm just-
+<v ->Absolutely.</v>
+<v ->We've been dealing a lot with these different states</v>
+and it's very, very complicated.
+They all have different priorities,
+as you mentioned financially, you know,
+and they get different budgets.
+You're not gonna get there unless it comes from the top down
+and meet somewhere in the middle.
+So that's just my opinion, personal opinion.
+<v ->Right, right.</v>
+<v ->Unfortunately.
+And certainly when you start</v>
+thinking about like-
+<v ->Unfortunately.</v>
+<v ->The critical areas, right, like power.</v>
+<v ->Yeah, power, right.</v>
+<v ->Power. (laughs)</v>
+Communications, the big ones, yeah.
+Well, we're getting down to, gosh, that panel went so fast.
+Because we have about eight minutes left,
+I wanna make sure if anyone has questions in the audience,
+we have time to answer them.
+But if you don't have any questions,
+I'll come up with some of my own.
+<v Participant>I've been in the embedded space a long time.</v>
+I've worked for a very large manufacturer
+that did an IoT SOC.
+And what I found in that situation
+was people weren't paying for security.
+And so when you get to the actual consumer,
+I understand everything you said,
+and I personally believe everything you said,
+but I think we all have propellers in our head
+or secure propellers in our head.
+But when it gets to the consumer,
+people buy the cheapest thing.
+And we found in that company that the cost would've been $20
+and the vendors wouldn't accept that.
+We lowered it down to a dollar
+and the vendors would not accept that.
+So when I hear you say, you know,
+convince the manufacturers,
+I think the manufacturers are convinced.
+So no manufacturer wants to know that it was, you know,
+ACME, whatever, IoT device that caused this break.
+You know it's a huge problem.
+So I think the challenge for us,
+and I'm kind of throwing that out,
+how do we get people to accept security?
+You know, and Michael, something you said at the end,
+maybe it has to be top down, right,
+'cause otherwise it's, you know, it's the cheapest part
+that I buy, that the consumer buy, throw that out.
+<v ->Well, I mean, you start with standards.</v>
+You try to be nice, do it the the nice way,
+get people to adopt it and implement it.
+And if that doesn't work, then you have to go to,
+you know, keep escalating.
+So it just, there's a, I mean there's a huge liability here
+that nobody really talks about that, you know,
+that could sink a business if they don't play,
+you know, take care of it so.
+Right, sink a city too.
+Right, exactly.
+<v ->Yeah, so in kind of our secure fault,</v>
+secure by design conversation, you know,
+we expressed the idea that corporate boards,
+you know, so on the manufacturer,
+on the developer side, have some responsibility.
+All of the risks shouldn't be translated
+right directly to the consumer.
+You know, there should be some on that side.
+But I equate that same thought process, you know,
+to how we think about partnering, you know, all of us.
+So if we just talk about the United States, you know,
+we have, you know, so now I'm gonna go off script,
+hopefully somebody's not recording this, you know,
+but so I'm gonna go off script for just a second.
+We have something like $23 trillion
+running through our gross domestic product, you know?
+So in my opinion, you can't tell me that we can't figure out
+a creative way to inside of $23 trillion
+sort out how we can improve security.
+You know, so at some level, you know,
+what Matt sort of mentioned the idea of, you know,
+maybe the consumer side picks it up, you know,
+is there maybe an idea that at some level,
+maybe there's some insurance that could be reduced?
+On some level,
+ts there some tax relief that could be introduced?
+You know, is there some way to create that ability
+to ensure that security is baked in
+and it's looked at each and every day?
+You know, by thinking more creatively
+about, you know, the entire GDP
+and how that could be utilized to bring us to a common place
+where we all recognize and believe that,
+hey, it takes all of us to improve resilience and security
+across the entire nation.
+It should take all of the GDP
+as we think about how can we get to that solution
+that makes it more cyber safe for all of us.
+<v ->Yeah, I think you're right on point</v>
+when it comes to things like perhaps tax incentives
+or, you know, or insurance incentives.
+So those sort of the key ways to help manufacturers
+that are saying, we've got a product
+and we've already gotten the price as low as we can
+and it's still, we don't wanna be the ACME, you know,
+IOT device that takes down the US, right?
+No one wants that.
+But I do think that, to your point,
+we certainly have a large GDP
+and we should be able to figure that out.
+<v ->I think it's shortsighted</v>
+because, you know, a current incident cost
+And I was a shareholder, so I know that 100 billion's gonna,
+I mean that's like real, real money.
+So I think there's gonna be more of that,
+you know, as these attack, as these different,
+you know, threats come into play so.
+<v ->Just to add, I think that it's the biggest question</v>
+of the young generation.
+I think that the young generation that was born
+to this interconnected world cannot be just like, you know,
+they don't have any knowledge about cybersecurity.
+It's not like when I was born, we didn't have computers.
+That's great.
+But now, like what?
+So I think this is the role of the next educational systems.
+And I think that the FCC is involved in that.
+And also, they're trying not to figure out
+how to make the, for example, the IoT Trust Mark
+more friendly for consumers to make them more incentivized,
+trying to convince my mom why she need to pay more, right?
+But this is the old generation.
+What about the new TikTok generation, right?
+It means something, this currency of data,
+it means something that, as we talked about before,
+we understand it because we are from it.
+But how I make sure that the next generation
+willing to pay for it
+because the understanding significant of that.
+And I think this is the biggest question
+that we need to touch it, like we need to find a solution.
+<v ->Yeah, I think, there one more question?</v>
+Yeah?
+<v ->Yeah.</v>
+So really loving that, you know,
+fantastic point for you Michelle.
+Perhaps a question to the audience, to the panelists,
+building on that, and we love your perspective
+as well on this, Michelle,
+we talked about perhaps consumer salience,
+consumer awareness.
+Great, we're working at maybe not enough,
+but what we have seen is fellow procurement
+and we've seen fellow procurement
+potentially prioritizing the trust mark, right?
+There's been some reporting on that coming in soon.
+We've seen fellow procurement prioritizing security
+based on measures.
+That's the IoT Cybersecurity Improvement Act.
+I heard from you maybe the states
+and cities can take that approach.
+So we'd love to hear more all, you know,
+audio your perspective on this.
+Should we have state and local officials
+using their procurement authority, right,
+to incentivize those manufacturers of IoT
+who are putting the secure by design culture in.
+What do you think?
+<v ->I think it's important, significant, obviously,</v>
+and also this is exactly the point,
+If it'll make smart cities smart enough on cybersecurity
+or not, because we can all agree it depends
+on which state local it'll be
+and who will be deleting authority, right,
+and which who, what you will incentivize.
+and if cybersecurity even will be something
+that you think about
+when you're thinking about smart cities.
+So exactly to your point.
+And I think that this gap
+that we see not only in smart cities
+but in so many different elements of security
+or national security, we need to mitigate the gap
+between the federal and the federal perspective
+and the local government.
+And we need to see how we can make sure
+that the same security baseline,
+exactly the point that we just talked about,
+how there is a threshold that is we can make sure
+that the foundation is equal to every state,
+<v Veronica>Right, and that's definitely a challenge,</v>
+I'd say, in some of my time working with the states.
+And we have 30 seconds,
+so make that a quick question for me.
+<v Participant>Yeah, you talked a lot about cyber attacks,</v>
+how to protect the critical infrastructure.
+So when we had some windstorms to Texas,
+cable was cut.
+<v ->Yeah, yeah, no that's 100% right.</v>
+And as we think about cyber security,
+we think about the actual nexus
+between physical security and cybersecurity.
+You know, so physical challenges
+that were experienced in Texas a few years ago
+and that ice storm, you know,
+when power was lost was, it was a fuels problem.
+You know, there was some decisions made on fuels
+and, you know, they've since recognized
+that the temperatures could be sub-zero
+and it's a problem the way they're doing fuels then.
+So, you know, they've started to correct that,
+but that's kind of thinking all across the nation
+and recognizing and understanding physical threats
+and how those physical threats can also impact
+the security on the cyber side of our systems
+that are more and more IP connected.
+<v ->Well we are now out of time,</v>
+so I wanna thank my panelists for joining me.
+It was a great conversation.
+I can't believe it went so fast.
+So thank you very much for attending today.
+We really appreciate it.

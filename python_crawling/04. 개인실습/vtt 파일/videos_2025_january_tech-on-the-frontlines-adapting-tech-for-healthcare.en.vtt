@@ -1,0 +1,3805 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:01.127 --> 00:04.544
+(bright energetic music)
+
+2
+00:10.680 --> 00:15.680
+<v ->Well, welcome, everyone, to the Postprandial CES session.</v>
+
+3
+00:16.020 --> 00:19.380
+I know folks' glucose might be challenged.
+
+4
+00:19.380 --> 00:21.330
+We've talked a lot about glucose monitors
+
+5
+00:21.330 --> 00:22.770
+the past couple of days,
+
+6
+00:22.770 --> 00:27.117
+but we promise to keep this session spicy so
+
+7
+00:27.117 --> 00:28.052
+(group laughing)
+
+8
+00:28.052 --> 00:28.885
+you all stay awake.
+
+9
+00:29.736 --> 00:32.425
+<v Guest>That's good news.</v>
+<v ->It's about tech</v>
+
+10
+00:32.425 --> 00:33.360
+on the front lines
+
+11
+00:33.360 --> 00:37.590
+and how we adapt technology for healthcare.
+
+12
+00:37.590 --> 00:40.530
+So the premise that we're gonna go with is
+
+13
+00:40.530 --> 00:44.400
+that utilizing tech for healthcare is
+
+14
+00:44.400 --> 00:45.960
+different than other industries.
+
+15
+00:45.960 --> 00:47.250
+And people may disagree,
+
+16
+00:47.250 --> 00:49.650
+but that's the premise that we're gonna go with,
+
+17
+00:49.650 --> 00:52.926
+and that we haven't even really tapped
+
+18
+00:52.926 --> 00:56.730
+the true potential of tech and health,
+
+19
+00:56.730 --> 01:01.170
+given all that we've seen in the various exhibit booths.
+
+20
+01:01.170 --> 01:02.880
+And then finally, we're gonna learn
+
+21
+01:02.880 --> 01:07.380
+what can other industries learn from health and wellness
+
+22
+01:07.380 --> 01:09.870
+in terms of how we're adopting tech?
+
+23
+01:09.870 --> 01:13.617
+I'm John Whyte. I'm the Chief Medical Officer at WebMD.
+
+24
+01:13.617 --> 01:15.580
+Many of you know it and have come to it.
+
+25
+01:15.580 --> 01:17.493
+It is a huge online platform.
+
+26
+01:17.493 --> 01:21.270
+It's our 30th anniversary this year.
+
+27
+01:21.270 --> 01:23.935
+So we have survived.
+
+28
+01:23.935 --> 01:25.080
+(audience clapping)
+
+29
+01:25.080 --> 01:26.894
+That's a long time-
+<v Guest>Wow, that's</v>
+
+30
+01:26.894 --> 01:28.970
+a long time.
+<v ->For the tech industry.</v>
+
+31
+01:28.970 --> 01:31.630
+And we have a great panel today to talk
+
+32
+01:31.630 --> 01:34.290
+about what this session is all about.
+
+33
+01:34.290 --> 01:37.410
+So I'm gonna allow them to introduce themselves.
+
+34
+01:37.410 --> 01:39.210
+<v ->Hey, friends, I am Jen Gardy.</v>
+
+35
+01:39.210 --> 01:41.640
+I'm with the Bill and Melinda Gates Foundation.
+
+36
+01:41.640 --> 01:44.280
+It is our first time at CES.
+
+37
+01:44.280 --> 01:46.970
+We are incredibly excited to be here.
+
+38
+01:46.970 --> 01:50.100
+My role at the foundation, I'm a Deputy Director
+
+39
+01:50.100 --> 01:52.680
+on two teams within our Global Health Division.
+
+40
+01:52.680 --> 01:54.000
+One is the Malaria Team,
+
+41
+01:54.000 --> 01:56.460
+and one is our Institute for Disease Modeling.
+
+42
+01:56.460 --> 01:58.170
+And at the end of the day, most of my work
+
+43
+01:58.170 --> 02:00.570
+at the foundations rolls up under the umbrella
+
+44
+02:00.570 --> 02:03.181
+of how do we use data, including digital data
+
+45
+02:03.181 --> 02:05.163
+for better decision making.
+
+46
+02:06.780 --> 02:08.760
+<v ->Hello, everyone. My name's Karen Finger.</v>
+
+47
+02:08.760 --> 02:11.520
+I'm with Verizon Business, and I'm our Global Lead
+
+48
+02:11.520 --> 02:15.543
+for our Connected Health Strategy and Innovation Ecosystem.
+
+49
+02:15.543 --> 02:19.320
+And what that really means is we,
+
+50
+02:19.320 --> 02:21.930
+if you think about Verizon at a macro level,
+
+51
+02:21.930 --> 02:25.349
+we, our vision is to build connected experiences
+
+52
+02:25.349 --> 02:28.770
+and have an impeccable consumer experience,
+
+53
+02:28.770 --> 02:32.190
+and also an impeccable enterprise employee experience.
+
+54
+02:32.190 --> 02:34.235
+So what our team does is
+
+55
+02:34.235 --> 02:37.080
+literally we adapt that for healthcare.
+
+56
+02:37.080 --> 02:39.660
+So we take a look at all the assets
+
+57
+02:39.660 --> 02:42.300
+and capabilities that Verizon can bring forward
+
+58
+02:42.300 --> 02:46.680
+around the transformative nature of our 5G network
+
+59
+02:46.680 --> 02:48.641
+and platforms, edge computing,
+
+60
+02:48.641 --> 02:51.870
+our security portfolio.
+
+61
+02:51.870 --> 02:55.380
+Verizon, little known fact, we see
+
+62
+02:55.380 --> 02:58.050
+over 70% of the world's traffic.
+
+63
+02:58.050 --> 03:01.200
+So as we think about healthcare, to John's point,
+
+64
+03:01.200 --> 03:03.510
+security plays a big role.
+
+65
+03:03.510 --> 03:05.850
+And so we help, you know,
+
+66
+03:05.850 --> 03:08.250
+figure out and bring expertise forward
+
+67
+03:08.250 --> 03:10.890
+around building those secure platforms.
+
+68
+03:10.890 --> 03:15.180
+We've got, we look across our IOT platforms
+
+69
+03:15.180 --> 03:18.765
+as well, and then our CX platforms.
+
+70
+03:18.765 --> 03:21.780
+And if you, we also look inward at Verizon,
+
+71
+03:21.780 --> 03:26.130
+and how are we leveraging for our own company around?
+
+72
+03:26.130 --> 03:29.719
+We run one of the largest retail organizations
+
+73
+03:29.719 --> 03:31.860
+and supply chains in the world,
+
+74
+03:31.860 --> 03:33.750
+so, and consumer channels.
+
+75
+03:33.750 --> 03:36.660
+So what learnings can we adapt from that
+
+76
+03:36.660 --> 03:38.400
+to bring into healthcare?
+
+77
+03:38.400 --> 03:43.230
+We deploy vast technologies into venues,
+
+78
+03:43.230 --> 03:45.930
+retail, hospitality, financial services.
+
+79
+03:45.930 --> 03:50.190
+And so we, part of my role is
+
+80
+03:50.190 --> 03:52.920
+to look at across all those technologies
+
+81
+03:52.920 --> 03:57.000
+and leverage that to help solve complex problems
+
+82
+03:57.000 --> 03:59.700
+in healthcare around how do we extend patient access
+
+83
+03:59.700 --> 04:01.380
+to underserved communities?
+
+84
+04:01.380 --> 04:03.840
+How do we personalize the experience?
+
+85
+04:03.840 --> 04:07.136
+How do we capture, secure, collect, move the data
+
+86
+04:07.136 --> 04:10.890
+around the ecosystem between the workforce,
+
+87
+04:10.890 --> 04:14.151
+the med tech devices into the home,
+
+88
+04:14.151 --> 04:16.290
+you know, building that
+
+89
+04:16.290 --> 04:19.080
+smart connected hospital ecosystem, if you will?
+
+90
+04:19.080 --> 04:20.610
+I'll be quiet now 'cause I gotta let Zach,
+
+91
+04:20.610 --> 04:23.310
+but one quick thing is we always get,
+
+92
+04:23.310 --> 04:25.050
+which is I still find very interesting
+
+93
+04:25.050 --> 04:27.507
+after all this time, is what's Verizon do in healthcare?
+
+94
+04:27.507 --> 04:29.370
+So hopefully, you know, we'll shed
+
+95
+04:29.370 --> 04:30.203
+a little bit of light then.
+
+96
+04:30.203 --> 04:33.480
+But I think Uber now, you've superseded us
+
+97
+04:33.480 --> 04:34.313
+and topped us in.
+
+98
+04:34.313 --> 04:36.570
+When I've mentioned you were gonna be on the panel with me,
+
+99
+04:36.570 --> 04:37.890
+what's Uber do in healthcare.
+
+100
+04:37.890 --> 04:38.850
+So that's a good segue.
+<v ->Okay, there's</v>
+
+101
+04:38.850 --> 04:40.726
+one moderator here.
+<v ->To turn...</v>
+
+102
+04:40.726 --> 04:42.090
+(group laughing)
+
+103
+04:42.090 --> 04:44.157
+<v ->That was a fantastic segue. Thank you.</v>
+
+104
+04:44.157 --> 04:47.240
+Zach Clark. I'm the Global GM for Uber Health.
+
+105
+04:47.240 --> 04:49.800
+To your comments, what is Uber doing in health?
+
+106
+04:49.800 --> 04:52.410
+So we are a platform that extends access
+
+107
+04:52.410 --> 04:53.880
+to non-emergent medical transport
+
+108
+04:53.880 --> 04:55.080
+as well as delivery into the home.
+
+109
+04:55.080 --> 04:57.960
+We work directly with medical providers,
+
+110
+04:57.960 --> 05:00.660
+health systems, payers, and states
+
+111
+05:00.660 --> 05:02.460
+to extend the underlying network
+
+112
+05:02.460 --> 05:04.470
+that Uber curates and bring it to healthcare.
+
+113
+05:04.470 --> 05:09.060
+So our customers leverage us in every day to move patients
+
+114
+05:09.060 --> 05:11.338
+to their homes and into clinical settings.
+
+115
+05:11.338 --> 05:13.350
+And then we also do the reverse, right?
+
+116
+05:13.350 --> 05:15.000
+So we then bring things to the home,
+
+117
+05:15.000 --> 05:17.430
+whether those are prescriptions, healthy items,
+
+118
+05:17.430 --> 05:19.113
+OTC, grocery items, et cetera.
+
+119
+05:21.540 --> 05:23.610
+<v ->All right, good afternoon. I'm Mattias Lange.</v>
+
+120
+05:23.610 --> 05:25.860
+I'm from NXP Semiconductor.
+
+121
+05:25.860 --> 05:29.160
+I'm running, I'm Vice President of the Industrial Systems
+
+122
+05:29.160 --> 05:30.480
+with a special focus on health.
+
+123
+05:30.480 --> 05:33.030
+And I've been running our personal health business
+
+124
+05:33.030 --> 05:35.520
+that had a specific focus on portable
+
+125
+05:35.520 --> 05:37.470
+and personal medical devices.
+
+126
+05:37.470 --> 05:40.020
+And we all know that all technology, right?
+
+127
+05:40.020 --> 05:43.080
+It runs on semiconductor, it runs on chips.
+
+128
+05:43.080 --> 05:44.720
+So we are one of those who provide all
+
+129
+05:44.720 --> 05:47.580
+of the fundamental technology that enables
+
+130
+05:47.580 --> 05:48.990
+all of these great applications
+
+131
+05:48.990 --> 05:50.671
+and everything that we will talk about.
+
+132
+05:50.671 --> 05:53.934
+<v ->So the premise of this session, again, is that</v>
+
+133
+05:53.934 --> 05:58.934
+tech and health is different than in other industries,
+
+134
+05:59.130 --> 06:01.740
+and everyone likes to think that they're different.
+
+135
+06:01.740 --> 06:06.019
+So I'm gonna start off last first and start with Mattias
+
+136
+06:06.019 --> 06:09.462
+and ask how is tech and health
+
+137
+06:09.462 --> 06:11.010
+different than other industries?
+
+138
+06:11.010 --> 06:13.140
+And if you disagree, let's hear it..
+
+139
+06:13.140 --> 06:14.610
+<v ->Because you promised to keep it spicy, right?</v>
+
+140
+06:14.610 --> 06:15.637
+So I'll say-
+<v John>Yeah, you are</v>
+
+141
+06:15.637 --> 06:16.871
+the one that keeps it spicy.
+<v ->Right outta the gate.</v>
+
+142
+06:16.871 --> 06:19.110
+(group laughing)
+
+143
+06:19.110 --> 06:23.012
+So for us, and you're right,
+
+144
+06:23.012 --> 06:25.620
+all industries say, "We are special," okay?
+
+145
+06:25.620 --> 06:30.090
+And we work at our company, we are in cars,
+
+146
+06:30.090 --> 06:32.700
+we are in medical, we are in consumer applications,
+
+147
+06:32.700 --> 06:34.290
+all kinds of industrial.
+
+148
+06:34.290 --> 06:38.010
+I would say fundamentally, most of the technologies have
+
+149
+06:38.010 --> 06:39.420
+a lot of commonalities.
+
+150
+06:39.420 --> 06:43.770
+You want more compute power, you want AI capabilities,
+
+151
+06:43.770 --> 06:46.770
+you want security, you want connectivity,
+
+152
+06:46.770 --> 06:48.240
+wireless and so on.
+
+153
+06:48.240 --> 06:50.727
+So for us, the fundamental building blocks are
+
+154
+06:50.727 --> 06:52.680
+very much the same.
+
+155
+06:52.680 --> 06:54.990
+The instantiation of them are different.
+
+156
+06:54.990 --> 06:56.460
+And I would say actually one
+
+157
+06:56.460 --> 07:00.690
+of the biggest differences is the ecosystem.
+
+158
+07:00.690 --> 07:03.840
+What do I need to actually build a complete system solution?
+
+159
+07:03.840 --> 07:05.460
+So the fundamental technologies
+
+160
+07:05.460 --> 07:07.230
+I would argue are not very different,
+
+161
+07:07.230 --> 07:08.401
+but it's the ecosystem
+
+162
+07:08.401 --> 07:11.149
+and what actually creates opportunities
+
+163
+07:11.149 --> 07:13.830
+and willingness for people to invest and go
+
+164
+07:13.830 --> 07:15.753
+and develop the final applications.
+
+165
+07:16.890 --> 07:19.590
+<v ->Yeah, I would say for Uber and for Uber Health</v>
+
+166
+07:19.590 --> 07:21.390
+in particular, I would agree with you.
+
+167
+07:21.390 --> 07:23.310
+I think the fundamental building blocks need
+
+168
+07:23.310 --> 07:24.600
+to remain the same.
+
+169
+07:24.600 --> 07:26.910
+Certainly there are requirements about data security,
+
+170
+07:26.910 --> 07:29.490
+HIPAA security, et cetera, that make the way that we manage
+
+171
+07:29.490 --> 07:32.190
+that data or the way that we can leverage that data
+
+172
+07:32.190 --> 07:34.380
+differentiated from a true consumer experience.
+
+173
+07:34.380 --> 07:36.820
+But I would also say that if we're doing our jobs right,
+
+174
+07:36.820 --> 07:38.160
+we're bringing the magic
+
+175
+07:38.160 --> 07:41.160
+of what a consumer experience is to the space.
+
+176
+07:41.160 --> 07:43.590
+And that's something that we think really critically about,
+
+177
+07:43.590 --> 07:46.829
+which is in an environment that is notoriously difficult
+
+178
+07:46.829 --> 07:49.350
+to navigate, it is complex.
+
+179
+07:49.350 --> 07:51.390
+When's the last time anybody in this room understood
+
+180
+07:51.390 --> 07:54.093
+what their EOB was, let alone an EOP?
+
+181
+07:55.230 --> 07:57.000
+And I use that as an example only
+
+182
+07:57.000 --> 08:00.570
+because the reality around the complexity
+
+183
+08:00.570 --> 08:02.760
+of navigating the system is already really challenging.
+
+184
+08:02.760 --> 08:06.300
+And so we want to take the best of that consumer experience
+
+185
+08:06.300 --> 08:08.430
+and those building blocks and then impart them
+
+186
+08:08.430 --> 08:10.672
+and hopefully shed value, create value
+
+187
+08:10.672 --> 08:13.980
+and shed a light on what can be made easy.
+
+188
+08:13.980 --> 08:15.150
+And I would say the second piece
+
+189
+08:15.150 --> 08:18.080
+of that is there are few experiences
+
+190
+08:18.080 --> 08:20.340
+in healthcare that are always the same.
+
+191
+08:20.340 --> 08:21.780
+There's not a lot of redundancy,
+
+192
+08:21.780 --> 08:24.150
+there's not a lot of scalability in some cases.
+
+193
+08:24.150 --> 08:25.350
+That's why it's so fragmented,
+
+194
+08:25.350 --> 08:27.150
+particularly here in the US.
+
+195
+08:27.150 --> 08:29.550
+And so I think there's something to be said around,
+
+196
+08:29.550 --> 08:32.310
+at least for Uber, the repeatability and durability
+
+197
+08:32.310 --> 08:34.470
+of knowing exactly what's gonna happen every time I get
+
+198
+08:34.470 --> 08:37.410
+into that vehicle and I get to a hospital and I get back.
+
+199
+08:37.410 --> 08:39.810
+And I, knowing that and having that,
+
+200
+08:39.810 --> 08:42.390
+that to me is kind of the building block
+
+201
+08:42.390 --> 08:45.714
+by which we think about where there's differentiation, so.
+
+202
+08:45.714 --> 08:48.213
+<v ->Yeah, that's a big question.</v>
+
+203
+08:49.290 --> 08:53.190
+So we come at it, our point of view is,
+
+204
+08:53.190 --> 08:55.350
+and again, we, I've had the privilege
+
+205
+08:55.350 --> 08:57.720
+of working really in, across all the different kind
+
+206
+08:57.720 --> 08:58.800
+of vertical industries,
+
+207
+08:58.800 --> 09:00.465
+and they all have their own personality
+
+208
+09:00.465 --> 09:02.900
+and nuances and regulations, but healthcare, as we all know,
+
+209
+09:02.900 --> 09:04.380
+is just complex and hard.
+
+210
+09:04.380 --> 09:07.303
+So as we think about adapting the technology,
+
+211
+09:07.303 --> 09:10.350
+I mean, foremost as we're building
+
+212
+09:10.350 --> 09:14.610
+those network connectivity, strategic platforms is
+
+213
+09:14.610 --> 09:18.060
+starting from the ground up and building it right.
+
+214
+09:18.060 --> 09:20.638
+And then once you build out the proper platform
+
+215
+09:20.638 --> 09:22.650
+that's strategic, it becomes
+
+216
+09:22.650 --> 09:26.010
+an innovation utility platform, if you will.
+
+217
+09:26.010 --> 09:29.809
+We think about how do we make sure it's secure and trusted
+
+218
+09:29.809 --> 09:34.260
+and then frictionless for the end users,
+
+219
+09:34.260 --> 09:36.910
+for the consumers, for the patients, for the members.
+
+220
+09:37.830 --> 09:40.437
+And also how do we make it easy to use
+
+221
+09:40.437 --> 09:43.200
+for the clinicians?
+
+222
+09:43.200 --> 09:46.230
+And there's such a vast shortage of clinicians.
+
+223
+09:46.230 --> 09:48.480
+And so how do we, and you know, we find, like,
+
+224
+09:48.480 --> 09:51.930
+our team ends up working with and talking to
+
+225
+09:51.930 --> 09:53.580
+and collaborating with clinicians
+
+226
+09:53.580 --> 09:54.720
+and we say, "You bring the clinical,
+
+227
+09:54.720 --> 09:55.710
+we'll bring the technical."
+
+228
+09:55.710 --> 09:58.173
+But we've gotta have their buy-in upfront.
+
+229
+09:59.400 --> 10:01.290
+You know, where and what can we automate
+
+230
+10:01.290 --> 10:02.850
+across that ecosystem?
+
+231
+10:02.850 --> 10:06.294
+But I'd say secure, you know, thinking mostly about security
+
+232
+10:06.294 --> 10:10.020
+and the user friendliness of the experience,
+
+233
+10:10.020 --> 10:11.790
+both for the providers and the patients
+
+234
+10:11.790 --> 10:12.660
+so they won't use it.
+
+235
+10:12.660 --> 10:15.960
+And patients or consumers really, they don't wanna have
+
+236
+10:15.960 --> 10:17.040
+to use their healthcare,
+
+237
+10:17.040 --> 10:19.833
+but when they use it, it's gotta be, like, easy to use.
+
+238
+10:20.670 --> 10:23.160
+<v ->And I'll answer it from a different perspective.</v>
+
+239
+10:23.160 --> 10:24.300
+You know, at the Gates Foundation,
+
+240
+10:24.300 --> 10:26.550
+we work in the Global Health and Development space.
+
+241
+10:26.550 --> 10:29.489
+So bring a different lens than my fellow panelists.
+
+242
+10:29.489 --> 10:33.060
+I think the first thing that I would mention is that
+
+243
+10:33.060 --> 10:37.260
+in that space, developing technology for health isn't
+
+244
+10:37.260 --> 10:39.870
+a nice to have or a need to have.
+
+245
+10:39.870 --> 10:41.970
+It's, like, a moral imperative.
+
+246
+10:41.970 --> 10:44.634
+If there is technology that has the potential
+
+247
+10:44.634 --> 10:48.180
+to improve health outcomes around the world,
+
+248
+10:48.180 --> 10:49.410
+to save people's lives,
+
+249
+10:49.410 --> 10:52.694
+we have to be developing this technology.
+
+250
+10:52.694 --> 10:54.450
+It's a must.
+
+251
+10:54.450 --> 10:56.070
+And then part of that, you know,
+
+252
+10:56.070 --> 10:57.671
+Karen talked about designing systems
+
+253
+10:57.671 --> 10:59.850
+right from the ground up.
+
+254
+10:59.850 --> 11:02.610
+And part of that is designing for access too,
+
+255
+11:02.610 --> 11:04.431
+because health technology is nothing
+
+256
+11:04.431 --> 11:06.930
+without access to that technology.
+
+257
+11:06.930 --> 11:09.330
+You can have the most incredible product,
+
+258
+11:09.330 --> 11:10.770
+the most incredible offering,
+
+259
+11:10.770 --> 11:14.237
+but if it can't get to the communities where it is needed
+
+260
+11:14.237 --> 11:16.170
+and if it's not taken up,
+
+261
+11:16.170 --> 11:18.360
+if the community's not receptive to that,
+
+262
+11:18.360 --> 11:21.210
+you're sort of innovating into a void.
+
+263
+11:21.210 --> 11:22.590
+And the last point I'd make
+
+264
+11:22.590 --> 11:25.148
+from the global health perspective too, is that for us,
+
+265
+11:25.148 --> 11:28.200
+technology encompasses innovation
+
+266
+11:28.200 --> 11:30.060
+at a range of different scales.
+
+267
+11:30.060 --> 11:30.930
+I mean, yes, some of it
+
+268
+11:30.930 --> 11:33.690
+to Mattias's point includes semiconductors,
+
+269
+11:33.690 --> 11:35.550
+but some of it can be, you know, as simple as
+
+270
+11:35.550 --> 11:38.010
+a plastic sheet or a color changing sticker.
+
+271
+11:38.010 --> 11:41.190
+So our view of health technology might be
+
+272
+11:41.190 --> 11:43.785
+a little different than my fellow panelists.
+
+273
+11:43.785 --> 11:45.807
+<v ->Well, actually, can I add on to that?</v>
+
+274
+11:45.807 --> 11:46.640
+<v ->Sure.</v>
+<v ->Yes.</v>
+
+275
+11:46.640 --> 11:49.500
+So great points around, I'm thinking about delivery
+
+276
+11:49.500 --> 11:51.678
+to the point of care, or the point of need.
+
+277
+11:51.678 --> 11:54.030
+So we spend a lot of time thinking
+
+278
+11:54.030 --> 11:56.910
+about how do we extend our network and our capabilities
+
+279
+11:56.910 --> 11:59.489
+and our vast partner ecosystem together
+
+280
+11:59.489 --> 12:02.520
+to deliver care into, you know,
+
+281
+12:02.520 --> 12:03.870
+the rural parts of the world?
+
+282
+12:03.870 --> 12:07.710
+So some examples are,
+
+283
+12:07.710 --> 12:10.710
+you know, we've stood up private networks out
+
+284
+12:10.710 --> 12:12.750
+in, like, an Indian reservation in Alaska
+
+285
+12:12.750 --> 12:14.460
+to bring healthcare out there.
+
+286
+12:14.460 --> 12:17.670
+We are looking at how do we connect
+
+287
+12:17.670 --> 12:19.690
+the home as a smart patient room
+
+288
+12:20.580 --> 12:22.200
+and really become that care,
+
+289
+12:22.200 --> 12:25.020
+that assistant to the care team
+
+290
+12:25.020 --> 12:27.630
+through intelligent automation into the home
+
+291
+12:27.630 --> 12:29.670
+or within the four walls of the hospital.
+
+292
+12:29.670 --> 12:34.290
+And we look at even, I mean, I could walk around...
+
+293
+12:34.290 --> 12:36.480
+I mean, I had to be, this is my first CES.
+
+294
+12:36.480 --> 12:38.517
+I'd have to be here, like, a month to probably even,
+
+295
+12:38.517 --> 12:40.157
+and I don't even know if I'd see everything.
+
+296
+12:40.157 --> 12:45.116
+But you know, when I walk through the halls,
+
+297
+12:45.116 --> 12:47.670
+whether it's a healthcare company or not,
+
+298
+12:47.670 --> 12:50.130
+it's, like, how can we adapt that for healthcare?
+
+299
+12:50.130 --> 12:51.780
+And we, you know, there's even interesting
+
+300
+12:51.780 --> 12:53.400
+strategic partnerships we've done with,
+
+301
+12:53.400 --> 12:55.230
+around banks as an example,
+
+302
+12:55.230 --> 12:57.360
+to put health station kiosks at banks
+
+303
+12:57.360 --> 13:02.360
+to deliver point of care, you know, access there.
+
+304
+13:02.460 --> 13:03.420
+So there's a lot of interesting...
+
+305
+13:03.420 --> 13:06.030
+We just have to experiment and try different things
+
+306
+13:06.030 --> 13:07.890
+and some things work and some things don't work.
+
+307
+13:07.890 --> 13:10.290
+But you know, we really, because we're connecting
+
+308
+13:10.290 --> 13:14.640
+that entire ecosystem, we see kind of,
+
+309
+13:14.640 --> 13:17.850
+we get a perspective from all the different endpoints,
+
+310
+13:17.850 --> 13:19.530
+if you will, of the point of care.
+
+311
+13:19.530 --> 13:22.470
+<v ->Much of the conference is about the future, right?</v>
+
+312
+13:22.470 --> 13:23.520
+The future of tech.
+
+313
+13:23.520 --> 13:26.910
+And, Jennifer, you and I were talking before we came in,
+
+314
+13:26.910 --> 13:31.500
+that does tech and health have to be different
+
+315
+13:31.500 --> 13:34.170
+than tech and other industries in the future?
+
+316
+13:34.170 --> 13:37.504
+What do you see that and what needs to change for us
+
+317
+13:37.504 --> 13:38.520
+to get there?
+
+318
+13:38.520 --> 13:42.630
+Is it regulation? Is it workflow?
+
+319
+13:42.630 --> 13:46.800
+Why are we different, and how do we become less different?
+
+320
+13:46.800 --> 13:48.002
+<v ->Yeah, well, I think one of the things</v>
+
+321
+13:48.002 --> 13:50.340
+that we really have to lean into is looking
+
+322
+13:50.340 --> 13:54.031
+for multi-sectoral solutions in the health space.
+
+323
+13:54.031 --> 13:56.939
+You know, Karen just spoke of how
+
+324
+13:56.939 --> 14:00.990
+it's about the entire ecosystem to get innovation out there.
+
+325
+14:00.990 --> 14:02.880
+And that's really what we're seeing at the foundation.
+
+326
+14:02.880 --> 14:04.390
+It's not enough for us to invest
+
+327
+14:04.390 --> 14:06.117
+in a really amazing product,
+
+328
+14:06.117 --> 14:08.047
+but we have to be thinking about things like,
+
+329
+14:08.047 --> 14:11.520
+you know, what does the future of the market
+
+330
+14:11.520 --> 14:13.650
+for this look, what does that look like?
+
+331
+14:13.650 --> 14:15.960
+And how can we help that to evolve
+
+332
+14:15.960 --> 14:17.400
+in the way that it needs to?
+
+333
+14:17.400 --> 14:21.450
+What does the future of the regulatory ecosystem look like?
+
+334
+14:21.450 --> 14:24.849
+And can we be supporting entities that help set the policy
+
+335
+14:24.849 --> 14:27.960
+or, you know, accelerate time to market
+
+336
+14:27.960 --> 14:29.310
+for some of these innovations?
+
+337
+14:29.310 --> 14:32.160
+So for us, a lot of it is thinking about how do we just go
+
+338
+14:32.160 --> 14:35.970
+beyond the health sector to leverage, you know,
+
+339
+14:35.970 --> 14:38.850
+other sector's expertise and past experience?
+
+340
+14:38.850 --> 14:40.560
+And I think one of the other things that we need
+
+341
+14:40.560 --> 14:43.320
+to look at too, and that I'd love to see represented
+
+342
+14:43.320 --> 14:46.920
+in future CES's is changing the geographic focus
+
+343
+14:46.920 --> 14:48.930
+of tech in health as well.
+
+344
+14:48.930 --> 14:51.960
+'Cause as I go out and look around the CES exhibit floor,
+
+345
+14:51.960 --> 14:54.467
+you know, I see a lot of stuff coming from North America,
+
+346
+14:54.467 --> 14:56.160
+from Asia, from Europe,
+
+347
+14:56.160 --> 14:58.410
+and I would love to come to this event in, you know,
+
+348
+14:58.410 --> 15:01.005
+two or three years and see tech innovations
+
+349
+15:01.005 --> 15:03.762
+that are coming from say, the African continent,
+
+350
+15:03.762 --> 15:08.580
+because you do have there an incredibly fast growing market
+
+351
+15:08.580 --> 15:11.580
+and incredibly young population is gonna be really receptive
+
+352
+15:11.580 --> 15:14.700
+to both using and developing these sorts of technologies.
+
+353
+15:14.700 --> 15:17.491
+So for me, the future is both multi-sectoral
+
+354
+15:17.491 --> 15:21.990
+and, you know, a dramatically expanded geographic footprint.
+
+355
+15:21.990 --> 15:23.550
+<v ->Zach has leaned forward.</v>
+
+356
+15:23.550 --> 15:26.420
+So I feel like there's something you wanna say.
+
+357
+15:26.420 --> 15:28.433
+Is it payers? Is it regulators?
+
+358
+15:28.433 --> 15:33.180
+What needs to change so it's more uniform?
+
+359
+15:33.180 --> 15:34.560
+<v ->There's quite a bit that needs to change.</v>
+
+360
+15:34.560 --> 15:35.529
+I think we all know that.
+
+361
+15:35.529 --> 15:39.960
+What I would say though, John, is it's different.
+
+362
+15:39.960 --> 15:41.340
+Let's use my business for example,
+
+363
+15:41.340 --> 15:43.860
+which is non-emergent medical transport,
+
+364
+15:43.860 --> 15:46.050
+which many of you may not have experienced before.
+
+365
+15:46.050 --> 15:47.120
+But if you're not familiar with it,
+
+366
+15:47.120 --> 15:48.720
+it is essentially a benefit that
+
+367
+15:48.720 --> 15:52.080
+every Medicaid beneficiary of the United States has.
+
+368
+15:52.080 --> 15:56.280
+And the requirement, effectively going back to 1971, is that
+
+369
+15:56.280 --> 15:57.870
+if you're going to take federal dollars
+
+370
+15:57.870 --> 15:59.790
+to perform, or not perform,
+
+371
+15:59.790 --> 16:02.970
+but to serve Medicaid beneficiaries in a state scenario,
+
+372
+16:02.970 --> 16:04.560
+you have to offer transport
+
+373
+16:04.560 --> 16:06.360
+for those who are transportation insecure.
+
+374
+16:06.360 --> 16:07.980
+So this is something that's been going on now
+
+375
+16:07.980 --> 16:10.350
+for multiple decades.
+
+376
+16:10.350 --> 16:13.470
+In that construct, there are still 24 states
+
+377
+16:13.470 --> 16:17.160
+in the United States that don't allow rides hare companies
+
+378
+16:17.160 --> 16:20.426
+like Uber or Lyft to participate in those programs.
+
+379
+16:20.426 --> 16:23.036
+Still today there are states that say
+
+380
+16:23.036 --> 16:26.820
+taxis have preference over ride share
+
+381
+16:26.820 --> 16:31.223
+or ambulatory entities have
+
+382
+16:31.223 --> 16:33.180
+preference over ride share, et cetera.
+
+383
+16:33.180 --> 16:34.080
+And why is this?
+
+384
+16:34.080 --> 16:35.820
+There's a whole lot of regulatory capture
+
+385
+16:35.820 --> 16:36.810
+that's kind of embedded in it.
+
+386
+16:36.810 --> 16:40.260
+But the reality is these are technologies that have been,
+
+387
+16:40.260 --> 16:41.790
+that have diffused around the world.
+
+388
+16:41.790 --> 16:43.650
+They are low cost, they're redundant,
+
+389
+16:43.650 --> 16:45.510
+they create magical experiences
+
+390
+16:45.510 --> 16:48.775
+for both the driver and for the patient.
+
+391
+16:48.775 --> 16:52.050
+And they're still not allowed in several states, right?
+
+392
+16:52.050 --> 16:53.760
+And so in many states,
+
+393
+16:53.760 --> 16:55.800
+even when there's a low cost requirement,
+
+394
+16:55.800 --> 16:58.380
+which requires the entity that's managing that program
+
+395
+16:58.380 --> 17:00.942
+to choose the lowest cost provider for that beneficiary,
+
+396
+17:00.942 --> 17:03.967
+we would be the lowest cost provider by 20%.
+
+397
+17:03.967 --> 17:06.750
+But we're not even in that market today
+
+398
+17:06.750 --> 17:08.584
+because of the historical constructs
+
+399
+17:08.584 --> 17:10.650
+and the protectionism that exists
+
+400
+17:10.650 --> 17:12.420
+in the marketplace today in that scenario.
+
+401
+17:12.420 --> 17:15.922
+And I leaned in because that challenge doesn't exist
+
+402
+17:15.922 --> 17:18.120
+in the Medicare Advantage program, right?
+
+403
+17:18.120 --> 17:20.811
+Medicare Advantage is adjudicated at a federal basis,
+
+404
+17:20.811 --> 17:23.269
+it's funded through taxpayer dollars directly.
+
+405
+17:23.269 --> 17:24.860
+It is a federal program.
+
+406
+17:24.860 --> 17:29.130
+And in that scenario, we have no barriers to access.
+
+407
+17:29.130 --> 17:31.441
+So seniors are taking rides now at historical rates
+
+408
+17:31.441 --> 17:33.030
+and transportation programs
+
+409
+17:33.030 --> 17:35.310
+that their health plans have been offering now,
+
+410
+17:35.310 --> 17:36.960
+really since the advent of SSBCI,
+
+411
+17:36.960 --> 17:38.820
+but even a little bit before that.
+
+412
+17:38.820 --> 17:41.550
+So you're looking at five or six year window of time,
+
+413
+17:41.550 --> 17:43.320
+and in those cases the proliferation
+
+414
+17:43.320 --> 17:45.900
+of access has been really demonstrable.
+
+415
+17:45.900 --> 17:47.836
+So patients get where they need to be,
+
+416
+17:47.836 --> 17:50.763
+they get there efficiently, it's cost effective,
+
+417
+17:50.763 --> 17:53.370
+and it's an experience that I think has
+
+418
+17:53.370 --> 17:56.310
+a lot of empathy for that patient and the user.
+
+419
+17:56.310 --> 17:58.320
+And so to your, why are we different?
+
+420
+17:58.320 --> 18:03.060
+That's a great example where the complexity of regulation
+
+421
+18:03.060 --> 18:05.040
+that are sometimes completely in conflict
+
+422
+18:05.040 --> 18:06.690
+with each other create really strong,
+
+423
+18:06.690 --> 18:08.670
+I think, barriers to access that I think we need
+
+424
+18:08.670 --> 18:09.930
+to think about changing, so.
+
+425
+18:09.930 --> 18:12.420
+<v ->Yeah, I think we can't get out of our own way here</v>
+
+426
+18:12.420 --> 18:13.440
+in the US sometimes.
+
+427
+18:13.440 --> 18:15.381
+I mean, I've been to the first,
+
+428
+18:15.381 --> 18:18.706
+the telemedicine conference that was in China
+
+429
+18:18.706 --> 18:21.095
+and they were doing things that, you know,
+
+430
+18:21.095 --> 18:25.020
+early, I mean, this was 12 years ago in telemedicine
+
+431
+18:25.020 --> 18:29.400
+that we had yet to do here, because, you know,
+
+432
+18:29.400 --> 18:31.050
+see more of a single payer system,
+
+433
+18:31.050 --> 18:32.820
+which can simplify things.
+
+434
+18:32.820 --> 18:35.850
+But to your point in other geographies, right,
+
+435
+18:35.850 --> 18:37.095
+what can we learn?
+
+436
+18:37.095 --> 18:39.330
+I think out of a necessity, they're doing things right.
+
+437
+18:39.330 --> 18:41.910
+They're innovating and have a more sense
+
+438
+18:41.910 --> 18:45.750
+of urgency towards it than I think we're...
+
+439
+18:45.750 --> 18:48.750
+I do feel a perfect storm coming here for 2025
+
+440
+18:48.750 --> 18:50.251
+with just the massive amounts of data
+
+441
+18:50.251 --> 18:53.010
+that everybody wants to harness
+
+442
+18:53.010 --> 18:54.564
+and deliver in real time to clinicians
+
+443
+18:54.564 --> 18:57.158
+for faster clinical decision support,
+
+444
+18:57.158 --> 19:01.410
+for better patient experience, you know, care anywhere.
+
+445
+19:01.410 --> 19:03.390
+But the prior panel,
+
+446
+19:03.390 --> 19:05.250
+the Chief Medical Officer for ResMed said,
+
+447
+19:05.250 --> 19:07.371
+you know, I think the best quote I've heard so far was,
+
+448
+19:07.371 --> 19:08.998
+you know, "We have to get over ourselves
+
+449
+19:08.998 --> 19:12.300
+and embrace the disruption,
+
+450
+19:12.300 --> 19:14.250
+maybe not take ourselves so seriously
+
+451
+19:14.250 --> 19:16.320
+and just start doing things and executing."
+
+452
+19:16.320 --> 19:19.530
+And I think, you know, it's time to really start executing.
+
+453
+19:19.530 --> 19:21.720
+It does not have to be different than the other verticals,
+
+454
+19:21.720 --> 19:23.400
+other than we are dealing with life and death.
+
+455
+19:23.400 --> 19:25.850
+But I think there's ways to right solve for that.
+
+456
+19:26.760 --> 19:30.120
+<v ->I think that you asked, John, what is different</v>
+
+457
+19:30.120 --> 19:31.500
+between healthcare and other places,
+
+458
+19:31.500 --> 19:33.558
+because we also know that we have the technology
+
+459
+19:33.558 --> 19:35.540
+to solve a lot of the problems.
+
+460
+19:35.540 --> 19:38.694
+So we know that nurses are overworked.
+
+461
+19:38.694 --> 19:40.050
+They're overstressed.
+
+462
+19:40.050 --> 19:42.240
+There are horrific numbers actually showing
+
+463
+19:42.240 --> 19:44.146
+how many nurses actually want to quit and so on.
+
+464
+19:44.146 --> 19:47.618
+There are solutions that can release their burden,
+
+465
+19:47.618 --> 19:50.430
+but because of how things are budgeted
+
+466
+19:50.430 --> 19:52.020
+and who's paying for what,
+
+467
+19:52.020 --> 19:53.730
+the technology doesn't get accessed.
+
+468
+19:53.730 --> 19:55.130
+So I'll give you one example is
+
+469
+19:55.130 --> 19:58.140
+something that we have solutions for is
+
+470
+19:58.140 --> 19:59.730
+smart wound care.
+
+471
+19:59.730 --> 20:02.430
+70%, we have numbers showing that 70%
+
+472
+20:02.430 --> 20:05.100
+of wounds in hospitals are not treated correctly.
+
+473
+20:05.100 --> 20:07.980
+And you could get to the terms of that
+
+474
+20:07.980 --> 20:12.270
+to a high degree if you had intelligence in those dressings
+
+475
+20:12.270 --> 20:15.990
+that could measure pH, pressure and a bunch of other things.
+
+476
+20:15.990 --> 20:17.604
+So that technology is actually available,
+
+477
+20:17.604 --> 20:19.860
+and it's pretty cost effective,
+
+478
+20:19.860 --> 20:23.070
+but there's inertia in the system to get those kind
+
+479
+20:23.070 --> 20:24.930
+of things deployed and get those things out,
+
+480
+20:24.930 --> 20:27.234
+because of the way things are structured and budgeted
+
+481
+20:27.234 --> 20:28.680
+and paid for and so on.
+
+482
+20:28.680 --> 20:32.190
+So these are key things I think that the industry will need
+
+483
+20:32.190 --> 20:34.533
+to work at to get access to the technology.
+
+484
+20:35.760 --> 20:38.670
+<v ->You know, much of healthcare success is</v>
+
+485
+20:38.670 --> 20:40.530
+based on partnerships.
+
+486
+20:40.530 --> 20:41.963
+It's very hard to have a technology
+
+487
+20:41.963 --> 20:45.000
+in and of itself to be successful.
+
+488
+20:45.000 --> 20:46.140
+I mean, we've heard about this.
+
+489
+20:46.140 --> 20:47.370
+You know, wearables
+
+490
+20:47.370 --> 20:50.820
+without including healthcare providers is not
+
+491
+20:50.820 --> 20:52.290
+gonna be successful,
+
+492
+20:52.290 --> 20:55.034
+which is a little different than some other industries.
+
+493
+20:55.034 --> 20:59.520
+So where have you seen partnerships
+
+494
+20:59.520 --> 21:03.000
+in health tech be successful,
+
+495
+21:03.000 --> 21:05.793
+and where have they might have failed?
+
+496
+21:06.750 --> 21:08.403
+Who wants to take that one first?
+
+497
+21:13.800 --> 21:15.060
+<v ->I would say another thing.</v>
+
+498
+21:15.060 --> 21:18.120
+I know where I want to see it go, okay, more so.
+
+499
+21:18.120 --> 21:20.280
+So because we are showing things here
+
+500
+21:20.280 --> 21:23.190
+where I think we can take things to the next level
+
+501
+21:23.190 --> 21:25.230
+of providing a much, much better care,
+
+502
+21:25.230 --> 21:29.185
+and I think the partnerships are absolutely essential.
+
+503
+21:29.185 --> 21:31.080
+The way things are going now
+
+504
+21:31.080 --> 21:32.550
+with everything getting connected,
+
+505
+21:32.550 --> 21:35.245
+more data and everything is getting more available is
+
+506
+21:35.245 --> 21:37.080
+it's all about systems.
+
+507
+21:37.080 --> 21:39.660
+It's about not how does this thing work,
+
+508
+21:39.660 --> 21:40.860
+this individual thing.
+
+509
+21:40.860 --> 21:44.343
+How does this thing work together with other things?
+
+510
+21:45.600 --> 21:47.970
+So we have one example that we are showing here
+
+511
+21:47.970 --> 21:50.970
+at the show is a in-home care system
+
+512
+21:50.970 --> 21:53.460
+where I can provide a different level
+
+513
+21:53.460 --> 21:57.000
+of surveillance or care over somebody in a home
+
+514
+21:57.000 --> 21:58.800
+by combining things,
+
+515
+21:58.800 --> 22:01.380
+by combining different type of sensors,
+
+516
+22:01.380 --> 22:04.170
+blood glucose sensors together
+
+517
+22:04.170 --> 22:05.735
+with other things like fall detectors
+
+518
+22:05.735 --> 22:10.590
+connected to a caretaker, connected to a home
+
+519
+22:10.590 --> 22:15.393
+and even to 911 or alarm systems.
+
+520
+22:16.530 --> 22:19.405
+An example is that you can find somebody unresponsive,
+
+521
+22:19.405 --> 22:21.390
+somebody trips or falls over,
+
+522
+22:21.390 --> 22:23.850
+and becomes unresponsive in their home.
+
+523
+22:23.850 --> 22:27.540
+A system that connects multiple different application can
+
+524
+22:27.540 --> 22:30.750
+draw an analysis and say, "Hey, something happened.
+
+525
+22:30.750 --> 22:34.279
+The blood glucose levels became low,
+
+526
+22:34.279 --> 22:37.620
+the person fell over, is now unresponsive,
+
+527
+22:37.620 --> 22:39.690
+I'm calling the caretaker."
+
+528
+22:39.690 --> 22:43.488
+So through the network caretaker might or might not respond,
+
+529
+22:43.488 --> 22:47.160
+the system can connect to 911,
+
+530
+22:47.160 --> 22:49.232
+get the emergency responders out there,
+
+531
+22:49.232 --> 22:52.770
+open the door, let them in,
+
+532
+22:52.770 --> 22:55.230
+and actually even guide through the house,
+
+533
+22:55.230 --> 22:57.030
+the person to the right place.
+
+534
+22:57.030 --> 23:00.120
+To get these things to work, it's a whole network of system
+
+535
+23:00.120 --> 23:02.190
+and things that needs to work together.
+
+536
+23:02.190 --> 23:04.470
+And I don't think, we are not there yet today,
+
+537
+23:04.470 --> 23:06.540
+but these are the kinds of things that we need to drive for
+
+538
+23:06.540 --> 23:09.120
+and the collaborations that needs to happen.
+
+539
+23:09.120 --> 23:11.910
+<v ->Jennifer?</v>
+<v ->Yeah, I was gonna add</v>
+
+540
+23:11.910 --> 23:13.020
+a perspective that again,
+
+541
+23:13.020 --> 23:14.430
+from the Gates Foundation perspective,
+
+542
+23:14.430 --> 23:17.880
+our work is entirely done through partnerships.
+
+543
+23:17.880 --> 23:19.500
+We're not doing this work ourselves.
+
+544
+23:19.500 --> 23:21.870
+It's our partners that are out there having this impact.
+
+545
+23:21.870 --> 23:24.090
+And the partnerships exist across many scales.
+
+546
+23:24.090 --> 23:25.380
+It could be, you know, working
+
+547
+23:25.380 --> 23:28.141
+with an individual researcher, innovator somewhere,
+
+548
+23:28.141 --> 23:32.430
+private sector, academic labs, regulatory bodies,
+
+549
+23:32.430 --> 23:33.840
+all the way up to these big entities.
+
+550
+23:33.840 --> 23:36.810
+Things like GAVI, the vaccine procurement distributor
+
+551
+23:36.810 --> 23:40.590
+or the Global Fund for Commodities for HIV, TB and malaria.
+
+552
+23:40.590 --> 23:43.230
+But no matter the scale of that partnership,
+
+553
+23:43.230 --> 23:45.060
+one of the things, you know, you ask what makes
+
+554
+23:45.060 --> 23:47.059
+for a successful partnership or when that fails
+
+555
+23:47.059 --> 23:48.660
+can tell you time and time again,
+
+556
+23:48.660 --> 23:50.730
+is if that partnership does not include
+
+557
+23:50.730 --> 23:53.940
+community representation and the people that you are trying
+
+558
+23:53.940 --> 23:58.465
+to design that tech for, it will fail.
+
+559
+23:58.465 --> 24:01.380
+So to go back to my earlier point about the importance
+
+560
+24:01.380 --> 24:05.250
+of access to innovation, that community engagement
+
+561
+24:05.250 --> 24:08.310
+and having people with lived experience being part
+
+562
+24:08.310 --> 24:10.890
+of the design process from day zero is,
+
+563
+24:10.890 --> 24:14.310
+I personally think the single best ingredient
+
+564
+24:14.310 --> 24:17.583
+to set a partnership up for success and impact.
+
+565
+24:18.510 --> 24:21.300
+<v ->Yeah, I think I'm not so sure, like, failure would be</v>
+
+566
+24:21.300 --> 24:22.500
+the right way to think about it,
+
+567
+24:22.500 --> 24:24.600
+but versus, you know, challenges.
+
+568
+24:24.600 --> 24:26.700
+And I'm seeing it's kind of evolving
+
+569
+24:26.700 --> 24:27.990
+in an iterative process,
+
+570
+24:27.990 --> 24:32.550
+but we in our role at, you know, our team at Verizon,
+
+571
+24:32.550 --> 24:34.320
+we end up talking to and working with
+
+572
+24:34.320 --> 24:36.630
+and partnering with retail health providers.
+
+573
+24:36.630 --> 24:40.050
+So all the, you know, the CVSs, Walgreens, Walmarts, right?
+
+574
+24:40.050 --> 24:42.600
+All that channel if you will, which is kind
+
+575
+24:42.600 --> 24:45.600
+of going direct to consumer threatening some
+
+576
+24:45.600 --> 24:47.340
+of the healthcare systems.
+
+577
+24:47.340 --> 24:49.260
+So then we work with the healthcare systems who want
+
+578
+24:49.260 --> 24:52.860
+to protect their turf and build, you know,
+
+579
+24:52.860 --> 24:55.470
+their own smart connected hospital ecosystems
+
+580
+24:55.470 --> 24:58.380
+out into the communities and extend their brand and reach.
+
+581
+24:58.380 --> 24:59.910
+And then we work with the health plans
+
+582
+24:59.910 --> 25:03.180
+that are also have their own actually physician providers
+
+583
+25:03.180 --> 25:05.340
+and some of 'em their own hospitals.
+
+584
+25:05.340 --> 25:09.810
+So it often looks very siloed,
+
+585
+25:09.810 --> 25:12.030
+and we're like, why aren't you guys all talking
+
+586
+25:12.030 --> 25:13.830
+to each other and come together?
+
+587
+25:13.830 --> 25:15.840
+We are starting to see that now
+
+588
+25:15.840 --> 25:18.840
+where the health systems are starting to work
+
+589
+25:18.840 --> 25:23.010
+with the retailers to kind of build more of that
+
+590
+25:23.010 --> 25:24.000
+hub and spoke or collaborative
+
+591
+25:24.000 --> 25:27.790
+community engagement and platform
+
+592
+25:29.940 --> 25:31.680
+and really figuring out,
+
+593
+25:31.680 --> 25:33.690
+you know, as a patient starts out
+
+594
+25:33.690 --> 25:36.870
+on their healthcare journey from their home,
+
+595
+25:36.870 --> 25:41.700
+how do you get 'em to the right place, at the right time
+
+596
+25:41.700 --> 25:44.160
+for the right need for their, you know,
+
+597
+25:44.160 --> 25:46.950
+healthcare moment in time, if you will.
+
+598
+25:46.950 --> 25:50.550
+So it's just a complex, right,
+
+599
+25:50.550 --> 25:53.970
+relationship ecosystem and we are starting to see
+
+600
+25:53.970 --> 25:57.780
+a lot more collaboration there, you know?
+
+601
+25:57.780 --> 26:00.093
+'Cause it all has a role to play.
+
+602
+26:02.130 --> 26:04.350
+And yeah, that's, yeah...
+
+603
+26:04.350 --> 26:05.438
+<v ->I think from my lens, John,</v>
+
+604
+26:05.438 --> 26:07.350
+when partnerships don't go well,
+
+605
+26:07.350 --> 26:08.970
+they don't go well because the objectives
+
+606
+26:08.970 --> 26:10.530
+between those two organizations are not
+
+607
+26:10.530 --> 26:12.420
+really clearly defined and aligned
+
+608
+26:12.420 --> 26:14.490
+right out through the relationship.
+
+609
+26:14.490 --> 26:16.740
+And so, we see that a lot where there's
+
+610
+26:16.740 --> 26:19.320
+a lot of interest in brand equity,
+
+611
+26:19.320 --> 26:21.630
+or there's a lot of interest in research,
+
+612
+26:21.630 --> 26:23.250
+or there's a lot of interest in other aspects
+
+613
+26:23.250 --> 26:24.810
+of things that we may be able to contribute.
+
+614
+26:24.810 --> 26:27.780
+But if the organizations, the ethos aren't aligned,
+
+615
+26:27.780 --> 26:29.815
+and the objectives aren't aligned to begin with,
+
+616
+26:29.815 --> 26:32.820
+I think it becomes a really challenging environment
+
+617
+26:32.820 --> 26:34.920
+to get to define really what success looks like.
+
+618
+26:34.920 --> 26:36.883
+And then you end up in a scenario where failure is
+
+619
+26:36.883 --> 26:40.470
+a really obvious kind of next door, so to speak.
+
+620
+26:40.470 --> 26:43.550
+So I know that's a comment more around when we don't,
+
+621
+26:43.550 --> 26:47.370
+when it doesn't work, but I think that has been the kind
+
+622
+26:47.370 --> 26:49.980
+of the ethos of the industry in the last couple of years.
+
+623
+26:49.980 --> 26:52.440
+I think Rock Health a couple of days ago announced
+
+624
+26:52.440 --> 26:56.370
+there were 400 digital health or other partnerships
+
+625
+26:56.370 --> 27:00.226
+that were announced in some form or fashion in 2024 alone.
+
+626
+27:00.226 --> 27:03.540
+Like, it's an enormous amount of activity.
+
+627
+27:03.540 --> 27:06.409
+Like, what that activity is creating, I'm not sure.
+
+628
+27:06.409 --> 27:08.119
+Not sure yet, so.
+
+629
+27:08.119 --> 27:11.010
+<v ->I'm gonna turn to the issue</v>
+
+630
+27:11.010 --> 27:13.170
+of frontline workers in health.
+
+631
+27:13.170 --> 27:15.240
+All of you have spent a fair amount
+
+632
+27:15.240 --> 27:17.505
+of time talking about the impact on patients,
+
+633
+27:17.505 --> 27:19.620
+and that's a good thing.
+
+634
+27:19.620 --> 27:22.559
+But understanding the healthcare workforce,
+
+635
+27:22.559 --> 27:25.170
+which we've heard over the past couple of days
+
+636
+27:25.170 --> 27:29.460
+globally is challenged by the number
+
+637
+27:29.460 --> 27:30.660
+of healthcare professionals,
+
+638
+27:30.660 --> 27:32.695
+and the belief that there will be shortages
+
+639
+27:32.695 --> 27:35.700
+this year, end of the decade.
+
+640
+27:35.700 --> 27:40.417
+So how can AI, other tech tools help
+
+641
+27:41.790 --> 27:43.620
+address this issue with frontline workers?
+
+642
+27:43.620 --> 27:45.750
+Some could argue sometimes it makes
+
+643
+27:45.750 --> 27:47.313
+their lives more difficult.
+
+644
+27:49.438 --> 27:50.520
+<v ->Oh, go ahead.</v>
+
+645
+27:50.520 --> 27:53.640
+<v ->Yeah, this is very dear to my heart,</v>
+
+646
+27:53.640 --> 27:57.179
+because I think we have a responsibility as an industry here
+
+647
+27:57.179 --> 28:00.210
+actually not only in healthcare but across the board.
+
+648
+28:00.210 --> 28:03.570
+And I think also first we need to realize we are
+
+649
+28:03.570 --> 28:06.150
+at about the level of hello, world,
+
+650
+28:06.150 --> 28:07.397
+of what the capabilities are.
+
+651
+28:07.397 --> 28:09.510
+We are just starting.
+
+652
+28:09.510 --> 28:14.070
+So the AI capabilities are really enabling things
+
+653
+28:14.070 --> 28:16.110
+to become more intelligent.
+
+654
+28:16.110 --> 28:18.660
+So far, when people have mentioned smart,
+
+655
+28:18.660 --> 28:22.320
+it's been, it's meant connected and not much more.
+
+656
+28:22.320 --> 28:25.500
+But with the AI capabilities, we can make things
+
+657
+28:25.500 --> 28:29.403
+more real smart, provide some real intelligence,
+
+658
+28:29.403 --> 28:31.235
+and this will change completely
+
+659
+28:31.235 --> 28:33.540
+how we interact with technology.
+
+660
+28:33.540 --> 28:36.030
+<v ->Like, genius. I'm thinking of a better word.</v>
+
+661
+28:36.030 --> 28:38.460
+Really smart.
+<v ->Yes, very smart,</v>
+
+662
+28:38.460 --> 28:40.260
+intelligent, I dunno what's the next.
+
+663
+28:40.260 --> 28:42.570
+We have to find another word for smart.
+
+664
+28:42.570 --> 28:44.564
+Okay? We've passed smart.
+
+665
+28:44.564 --> 28:47.970
+And I think it has the possibility
+
+666
+28:47.970 --> 28:51.000
+to completely, fundamentally change how we do it.
+
+667
+28:51.000 --> 28:53.520
+But then the people who develop the technology,
+
+668
+28:53.520 --> 28:56.520
+we have to put the user at the central focus.
+
+669
+28:56.520 --> 29:00.030
+We have to make it friendly, we have to make it easy to use
+
+670
+29:00.030 --> 29:02.880
+and we have to clean out a lot of those issues that we have.
+
+671
+29:02.880 --> 29:04.174
+So all of the potential
+
+672
+29:04.174 --> 29:05.128
+is there.
+<v John>Who's the user?</v>
+
+673
+29:05.128 --> 29:06.081
+That's part of the question.
+
+674
+29:06.081 --> 29:08.850
+<v ->The healthcare worker. Okay?</v>
+
+675
+29:08.850 --> 29:11.010
+So the nurse, whoever's using it,
+
+676
+29:11.010 --> 29:13.230
+because if I spend all my time doing a setup
+
+677
+29:13.230 --> 29:15.119
+or trying to make the thing connect or get the...
+
+678
+29:15.119 --> 29:16.410
+We can't have that.
+
+679
+29:16.410 --> 29:18.090
+Okay. We need to get past those things.
+
+680
+29:18.090 --> 29:20.490
+But if we do, it can really provide
+
+681
+29:20.490 --> 29:23.537
+that next level of help, so it can really change things.
+
+682
+29:23.537 --> 29:24.370
+<v ->Can I-</v>
+<v ->Let's go down the line.</v>
+
+683
+29:24.370 --> 29:27.240
+<v ->Can I just get my clinician to look me in the face</v>
+
+684
+29:27.240 --> 29:29.049
+while I'm out in an actual clinical room
+
+685
+29:29.049 --> 29:31.320
+and actually look at me instead of the EMR?
+
+686
+29:31.320 --> 29:32.730
+'Cause that's step one, right?
+
+687
+29:32.730 --> 29:34.042
+<v ->Yeah, yeah.</v>
+
+688
+29:34.042 --> 29:34.875
+<v ->Like, that's, I think that, like,</v>
+
+689
+29:34.875 --> 29:38.550
+I say it just because, like, incrementalism is okay here
+
+690
+29:38.550 --> 29:39.840
+to me at least, right?
+
+691
+29:39.840 --> 29:41.940
+Like, whether that's because ambient listening then,
+
+692
+29:41.940 --> 29:43.950
+and AI-generated ambient listening then allows you
+
+693
+29:43.950 --> 29:45.120
+to be more proactive
+
+694
+29:45.120 --> 29:47.319
+around in the patient experience in a clinical setting,
+
+695
+29:47.319 --> 29:49.263
+those types of things.
+
+696
+29:50.747 --> 29:52.620
+I think we forget a lot of times though,
+
+697
+29:52.620 --> 29:54.570
+it is horrible to be a patient
+
+698
+29:54.570 --> 29:56.310
+in the system that we've generated today.
+
+699
+29:56.310 --> 29:59.760
+So all of this needs to be geared
+
+700
+29:59.760 --> 30:01.627
+towards improvement of that experience.
+
+701
+30:01.627 --> 30:03.330
+And a patient's experience is going
+
+702
+30:03.330 --> 30:05.010
+to be better when you have a liberated provider
+
+703
+30:05.010 --> 30:06.780
+and a provider that feels like they can operate
+
+704
+30:06.780 --> 30:09.000
+at the top of their license, that they can bring the empathy
+
+705
+30:09.000 --> 30:11.070
+that is the origination of why they're in this industry
+
+706
+30:11.070 --> 30:14.070
+to begin with, to the experience
+
+707
+30:14.070 --> 30:15.120
+that that patient is having.
+
+708
+30:15.120 --> 30:20.040
+So my hope is that we're okay with incrementalism,
+
+709
+30:20.040 --> 30:22.890
+as long as there is a really clear focus
+
+710
+30:22.890 --> 30:24.900
+on the improvement of those two experiences.
+
+711
+30:24.900 --> 30:25.770
+'Cause it's broken right now.
+
+712
+30:25.770 --> 30:28.105
+That relationship is fundamentally broken.
+
+713
+30:28.105 --> 30:31.259
+<v ->Right, so part of our vision is</v>
+
+714
+30:31.259 --> 30:34.542
+we've got to make the hospital smart
+
+715
+30:34.542 --> 30:39.542
+so it is literally a member of the clinical care team.
+
+716
+30:39.600 --> 30:42.579
+Feeding, delivering information over, you know,
+
+717
+30:42.579 --> 30:47.579
+seamless, reliable connectivity platforms to the clinicians.
+
+718
+30:47.640 --> 30:50.370
+So if you think about just, you know, use case example
+
+719
+30:50.370 --> 30:51.889
+around the smart patient room,
+
+720
+30:51.889 --> 30:55.410
+lots of things going on inside that patient room.
+
+721
+30:55.410 --> 30:56.580
+Lots of data being collected
+
+722
+30:56.580 --> 31:01.230
+around remote patient monitoring, fall detection,
+
+723
+31:01.230 --> 31:03.840
+patient, you know, patient even controls
+
+724
+31:03.840 --> 31:05.760
+around controlling the environments
+
+725
+31:05.760 --> 31:07.650
+within the patient room around, you know,
+
+726
+31:07.650 --> 31:10.080
+the lighting, the temperature.
+
+727
+31:10.080 --> 31:12.000
+I need a blanket or I need my food.
+
+728
+31:12.000 --> 31:15.780
+So instead of AI, we think of it as intelligent automation
+
+729
+31:15.780 --> 31:18.360
+and automating that, that's relieving the burden
+
+730
+31:18.360 --> 31:20.840
+on the nurses from running around doing non-essential tasks
+
+731
+31:20.840 --> 31:23.160
+so they can then operate at the top of their license,
+
+732
+31:23.160 --> 31:24.270
+but have a view.
+
+733
+31:24.270 --> 31:27.090
+You have virtual nurses that can offload
+
+734
+31:27.090 --> 31:29.536
+the nurses that are on site at the hospital
+
+735
+31:29.536 --> 31:32.010
+where they can be monitoring patients
+
+736
+31:32.010 --> 31:34.683
+in real time predictively.
+
+737
+31:36.090 --> 31:40.080
+And then, also thinking about okay, you know,
+
+738
+31:40.080 --> 31:42.720
+moving that now, you know, virtual discharge is
+
+739
+31:42.720 --> 31:45.150
+another big low hanging fruit use case we're seeing
+
+740
+31:45.150 --> 31:48.270
+where nurses can do that virtually inside the patient room.
+
+741
+31:48.270 --> 31:50.895
+And then really taking that smart patient room,
+
+742
+31:50.895 --> 31:53.760
+when we think about it, it's not just
+
+743
+31:53.760 --> 31:56.340
+inside the four walls, but now into the home.
+
+744
+31:56.340 --> 31:59.430
+And that's just another node, an endpoint
+
+745
+31:59.430 --> 32:02.820
+on a, you know, unified, cohesive,
+
+746
+32:02.820 --> 32:06.300
+connected network platform that's really becomes
+
+747
+32:06.300 --> 32:08.306
+the care delivery platform.
+
+748
+32:08.306 --> 32:11.520
+But if, you know, we make it smart, then it literally is,
+
+749
+32:11.520 --> 32:13.260
+it's talking to those clinicians
+
+750
+32:13.260 --> 32:15.340
+and doing a lot of their
+
+751
+32:17.040 --> 32:22.040
+manual or you know, non-complex tasks.
+
+752
+32:22.050 --> 32:22.883
+That offloads them.
+
+753
+32:22.883 --> 32:25.290
+That's the number one thing we're seeing
+
+754
+32:25.290 --> 32:26.970
+and having conversations around right now
+
+755
+32:26.970 --> 32:28.440
+to relieve the burden
+
+756
+32:28.440 --> 32:30.633
+and address the shortage of clinicians.
+
+757
+32:31.560 --> 32:35.038
+<v ->Frontline health where we work looks very different.</v>
+
+758
+32:35.038 --> 32:38.280
+And if folks haven't had the chance
+
+759
+32:38.280 --> 32:41.010
+to visit Gates Foundation booth in Hall D,
+
+760
+32:41.010 --> 32:45.000
+there's actually a really cool immersive experience there.
+
+761
+32:45.000 --> 32:45.833
+You can put on
+
+762
+32:45.833 --> 32:46.770
+a little helmet-
+<v John>Tell us the number</v>
+
+763
+32:46.770 --> 32:47.790
+of the section.
+
+764
+32:47.790 --> 32:50.510
+<v ->It's D something five.</v>
+<v John>Oh, sorry. Nevermind.</v>
+
+765
+32:50.510 --> 32:51.900
+<v ->Something, something,</v>
+
+766
+32:51.900 --> 32:53.391
+54735.
+<v ->Okay, all right.</v>
+
+767
+32:53.391 --> 32:54.780
+It's a big booth. I've seen it.
+
+768
+32:54.780 --> 32:56.310
+<v ->It's a big one.</v>
+
+769
+32:56.310 --> 32:58.537
+Turn right at the robot dog and you'll find us.
+
+770
+32:58.537 --> 33:01.505
+But there's this really cool immersive experience there
+
+771
+33:01.505 --> 33:02.790
+where you can put on these goggles
+
+772
+33:02.790 --> 33:05.520
+and travel to a village in Zambia
+
+773
+33:05.520 --> 33:08.790
+where you're following polio immunization workers.
+
+774
+33:08.790 --> 33:10.380
+And this thing, I tried it out yesterday.
+
+775
+33:10.380 --> 33:12.270
+I have traveled to these locations myself.
+
+776
+33:12.270 --> 33:15.270
+It is incredibly evocative,
+
+777
+33:15.270 --> 33:18.840
+and what you'll see is what the lived experience
+
+778
+33:18.840 --> 33:21.210
+of a community healthcare worker in a setting like
+
+779
+33:21.210 --> 33:23.880
+sub-Saharan Africa looks like.
+
+780
+33:23.880 --> 33:28.020
+And so for us, AI is really transformative for those,
+
+781
+33:28.020 --> 33:30.289
+call them CHWs, community healthcare workers
+
+782
+33:30.289 --> 33:32.310
+in so many different ways.
+
+783
+33:32.310 --> 33:35.340
+I mean, yes, there's the opportunity to have chat bots,
+
+784
+33:35.340 --> 33:38.209
+especially chat bots done in local languages
+
+785
+33:38.209 --> 33:40.990
+that they can use to sort of access information,
+
+786
+33:40.990 --> 33:44.070
+review a patient's concerns,
+
+787
+33:44.070 --> 33:45.957
+get some suggestions as to what's happening.
+
+788
+33:45.957 --> 33:48.720
+And you have to remember these community healthcare workers,
+
+789
+33:48.720 --> 33:51.210
+these are typically volunteers from the community.
+
+790
+33:51.210 --> 33:53.100
+They're not nurses, they're not doctors,
+
+791
+33:53.100 --> 33:55.080
+they're just individuals who might have
+
+792
+33:55.080 --> 33:57.105
+no more than a grade school education.
+
+793
+33:57.105 --> 33:59.970
+But through training courses
+
+794
+33:59.970 --> 34:03.750
+and through essentially kind of decision tree algorithms,
+
+795
+34:03.750 --> 34:07.320
+we have equipped this workforce with the ability to diagnose
+
+796
+34:07.320 --> 34:09.593
+and treat some of the most common things that you'll see,
+
+797
+34:09.593 --> 34:11.280
+you know, out there in these settings.
+
+798
+34:11.280 --> 34:13.407
+Things like malaria, diarrheal diseases.
+
+799
+34:13.407 --> 34:16.590
+And so with AI, you then have this opportunity
+
+800
+34:16.590 --> 34:19.170
+to expand really by orders of magnitude,
+
+801
+34:19.170 --> 34:22.200
+the ability of conditions that these CHWs are
+
+802
+34:22.200 --> 34:25.650
+really equipped to diagnose and manage.
+
+803
+34:25.650 --> 34:28.328
+So tremendous opportunity for improving sort
+
+804
+34:28.328 --> 34:31.530
+of the footprint of care that they're able to offer.
+
+805
+34:31.530 --> 34:33.660
+And the other thing that we see a lot of happening
+
+806
+34:33.660 --> 34:36.360
+in the front lines isn't just patient level care
+
+807
+34:36.360 --> 34:38.010
+but population level care.
+
+808
+34:38.010 --> 34:40.800
+Global health is about population and public health.
+
+809
+34:40.800 --> 34:42.660
+So how can you take AI tools
+
+810
+34:42.660 --> 34:44.760
+and use them to improve service delivery
+
+811
+34:44.760 --> 34:47.010
+for population level interventions?
+
+812
+34:47.010 --> 34:48.630
+And you know, I could talk for hours
+
+813
+34:48.630 --> 34:50.542
+about some of the things we do in the malaria
+
+814
+34:50.542 --> 34:53.100
+and the polio and the immunization space,
+
+815
+34:53.100 --> 34:56.150
+but things like using AI to process satellite imagery
+
+816
+34:56.150 --> 34:59.490
+and identify what is likely a residential structure
+
+817
+34:59.490 --> 35:01.319
+versus a non-residential structure
+
+818
+35:01.319 --> 35:03.597
+so that a community healthcare worker can go out there
+
+819
+35:03.597 --> 35:06.390
+with a smartphone, know which structures they have
+
+820
+35:06.390 --> 35:08.340
+to visit to administer vaccines,
+
+821
+35:08.340 --> 35:10.420
+they can quickly on that smartphone platform,
+
+822
+35:10.420 --> 35:12.660
+mark a house as visited.
+
+823
+35:12.660 --> 35:15.210
+That same cell phone platform can be used
+
+824
+35:15.210 --> 35:17.760
+to issue a micropayment to that healthcare worker
+
+825
+35:17.760 --> 35:19.350
+for their services.
+
+826
+35:19.350 --> 35:22.890
+So we see AI as an incredibly enabling technology
+
+827
+35:22.890 --> 35:25.410
+on the front lines, but also as something that's plugged
+
+828
+35:25.410 --> 35:28.200
+into this larger digital health ecosystem.
+
+829
+35:28.200 --> 35:31.890
+A lot of which boils down to one device in your hand.
+
+830
+35:31.890 --> 35:33.510
+<v ->We only have a few minutes left.</v>
+
+831
+35:33.510 --> 35:37.080
+So I wanna end with hearing from each of you.
+
+832
+35:37.080 --> 35:41.640
+We talked about how tech and healthcare is different,
+
+833
+35:41.640 --> 35:45.627
+but what can other tech industries learn
+
+834
+35:45.627 --> 35:47.910
+from the health and wellness space
+
+835
+35:47.910 --> 35:52.890
+that maybe they should adopt to be successful?
+
+836
+35:52.890 --> 35:54.340
+Who wants to start with that?
+
+837
+35:57.660 --> 36:00.840
+What are the lessons learned in the health space
+
+838
+36:00.840 --> 36:02.853
+that others can benefit from?
+
+839
+36:05.160 --> 36:06.755
+<v ->I'll start.</v>
+
+840
+36:06.755 --> 36:09.000
+I think patience is something that we've had
+
+841
+36:09.000 --> 36:10.860
+to learn in this industry.
+
+842
+36:10.860 --> 36:12.870
+<v John>P-A-T-I-E-N-C-E.</v>
+
+843
+36:12.870 --> 36:14.242
+<v ->Patience.</v>
+<v ->T-I-E-N-C-E. (laughs)</v>
+
+844
+36:14.242 --> 36:15.840
+<v ->No, P-A-T-I-I-E-N-C-E.</v>
+
+845
+36:15.840 --> 36:17.094
+<v John>Okay, as opposed to-</v>
+
+846
+36:17.094 --> 36:18.837
+<v ->Patience, not patients, but patience.</v>
+
+847
+36:18.837 --> 36:22.740
+And I say that because the time it takes
+
+848
+36:22.740 --> 36:24.990
+for innovation to proliferate in healthcare is
+
+849
+36:24.990 --> 36:27.590
+probably three to four times as slow as it is
+
+850
+36:27.590 --> 36:28.650
+in other sectors, right?
+
+851
+36:28.650 --> 36:33.540
+And so when it happens, its scale, in that scalability,
+
+852
+36:33.540 --> 36:36.000
+that moment comes, it's transformative,
+
+853
+36:36.000 --> 36:37.770
+but it takes a lot of energy
+
+854
+36:37.770 --> 36:40.050
+and a lot of patience to get there.
+
+855
+36:40.050 --> 36:42.150
+And I think that for organizations
+
+856
+36:42.150 --> 36:44.790
+that are thinking about coming into this space
+
+857
+36:44.790 --> 36:47.040
+and even looking at things like commercial terms
+
+858
+36:47.040 --> 36:48.870
+and you go, well, it takes 2 1/2 years,
+
+859
+36:48.870 --> 36:50.550
+like, effectively to sell to a health system,
+
+860
+36:50.550 --> 36:51.457
+and somebody looks at you like,
+
+861
+36:51.457 --> 36:53.280
+"My sales cycle's 2 1/2 years?"
+
+862
+36:53.280 --> 36:58.117
+Right, like, so I think there's a a degree of acceptance
+
+863
+36:58.117 --> 37:00.872
+of, like, of the speed by which we operate
+
+864
+37:00.872 --> 37:02.640
+and make decisions.
+
+865
+37:02.640 --> 37:04.202
+And I think you have to be able
+
+866
+37:04.202 --> 37:07.590
+to really address that meaningfully
+
+867
+37:07.590 --> 37:09.450
+if you're going to make a change in this industry.
+
+868
+37:09.450 --> 37:11.274
+<v ->That's a great point, 'cause the field often seems</v>
+
+869
+37:11.274 --> 37:15.843
+very much in a rush to get something done.
+
+870
+37:17.850 --> 37:22.620
+<v ->There's also in all industries that require things</v>
+
+871
+37:22.620 --> 37:25.110
+to really, really work, you have to pay attention
+
+872
+37:25.110 --> 37:27.270
+and have to have a higher level of quality.
+
+873
+37:27.270 --> 37:29.790
+You don't want to have a pacemaker that's gonna give up
+
+874
+37:29.790 --> 37:30.840
+at a certain amount of time.
+
+875
+37:30.840 --> 37:32.490
+And so we have actually learned
+
+876
+37:32.490 --> 37:34.290
+from a semiconductor point of view
+
+877
+37:34.290 --> 37:37.260
+a lot on how to ensure certain levels of quality
+
+878
+37:37.260 --> 37:38.430
+and so on in the devices.
+
+879
+37:38.430 --> 37:40.410
+So that is something actually that
+
+880
+37:40.410 --> 37:42.270
+other industries are taking great benefit
+
+881
+37:42.270 --> 37:45.150
+from the work that we do together with them.
+
+882
+37:45.150 --> 37:48.085
+<v ->Yeah, it's about the evidentiary threshold required</v>
+
+883
+37:48.085 --> 37:51.510
+to get a technology to uptake.
+
+884
+37:51.510 --> 37:54.690
+And I think as you're developing technology for health
+
+885
+37:54.690 --> 37:56.520
+or developing it in other sectors,
+
+886
+37:56.520 --> 37:59.286
+paying attention to the rest of that enabling ecosystem
+
+887
+37:59.286 --> 38:03.630
+and what needs to be done in that regulatory space.
+
+888
+38:03.630 --> 38:04.890
+Who are the policy makers?
+
+889
+38:04.890 --> 38:06.180
+Who are the decision makers
+
+890
+38:06.180 --> 38:09.090
+that will ultimately help your tech to get to market?
+
+891
+38:09.090 --> 38:11.610
+I think there's a lot that other sectors can learn
+
+892
+38:11.610 --> 38:14.130
+from how we in health manage what can be
+
+893
+38:14.130 --> 38:18.120
+fairly complex stakeholder dynamics in that regulatory space
+
+894
+38:18.120 --> 38:20.696
+to actually get things over that evidentiary threshold
+
+895
+38:20.696 --> 38:22.710
+and into market.
+
+896
+38:22.710 --> 38:25.290
+<v ->And, Karen, we'll give you the final word.</v>
+
+897
+38:25.290 --> 38:27.420
+<v ->You know, it's funny, I spend so much time thinking</v>
+
+898
+38:27.420 --> 38:29.393
+about what we can learn from the other industries
+
+899
+38:29.393 --> 38:30.750
+to adopt for healthcare.
+
+900
+38:30.750 --> 38:32.250
+<v ->I mixed it up at the end.</v>
+<v ->So you're really</v>
+
+901
+38:32.250 --> 38:33.612
+flipping the switch here.
+
+902
+38:33.612 --> 38:37.163
+You know, I would say really what I'm most, you know,
+
+903
+38:37.163 --> 38:40.330
+learnings and impressed by is
+
+904
+38:41.387 --> 38:45.120
+the number of people
+
+905
+38:45.120 --> 38:47.460
+and different stakeholders that truly want
+
+906
+38:47.460 --> 38:49.500
+to try to figure it out and solve problems.
+
+907
+38:49.500 --> 38:51.942
+And just working with, I spent a lot of time,
+
+908
+38:51.942 --> 38:54.240
+surprisingly, I mean, really spending
+
+909
+38:54.240 --> 38:56.010
+a lot of time talking to the clinicians,
+
+910
+38:56.010 --> 38:57.210
+and like, what are they trying to...
+
+911
+38:57.210 --> 38:58.996
+So really having access to that,
+
+912
+38:58.996 --> 39:03.450
+the people that have the ideas and that are using it,
+
+913
+39:03.450 --> 39:06.510
+and have to use the technology so that,
+
+914
+39:06.510 --> 39:08.250
+you know, I know we've talked about people need
+
+915
+39:08.250 --> 39:10.920
+to collaborate more, but there is a lot of, you know,
+
+916
+39:10.920 --> 39:12.720
+brain, I think thoughts and ideas
+
+917
+39:12.720 --> 39:14.070
+and collaboration going on.
+
+918
+39:14.070 --> 39:15.750
+It's just a matter of now, like,
+
+919
+39:15.750 --> 39:17.790
+how do we really actually execute, you know,
+
+920
+39:17.790 --> 39:20.610
+stop talking about it and executing it?
+
+921
+39:20.610 --> 39:21.780
+I do wanna do a shout out
+
+922
+39:21.780 --> 39:23.820
+to a colleague, Fred Moltz, out there.
+
+923
+39:23.820 --> 39:27.000
+I see you. Yeah, so interestingly enough, he's with Verizon.
+
+924
+39:27.000 --> 39:30.780
+We met for the first time yesterday.
+
+925
+39:30.780 --> 39:32.160
+We didn't know each other, but he leads
+
+926
+39:32.160 --> 39:35.910
+our Accessibility Programs at Verizon,
+
+927
+39:35.910 --> 39:39.120
+which is a huge thing in healthcare.
+
+928
+39:39.120 --> 39:40.650
+But what we were talking about yesterday,
+
+929
+39:40.650 --> 39:42.840
+and we're excited to collaborate more
+
+930
+39:42.840 --> 39:44.414
+to figure out how do we bring that forward
+
+931
+39:44.414 --> 39:46.500
+to solve really problems
+
+932
+39:46.500 --> 39:48.450
+across all our verticals at Verizon.
+
+933
+39:48.450 --> 39:51.780
+But if you solve it for, you know,
+
+934
+39:51.780 --> 39:54.720
+what he shared with me which resonated is
+
+935
+39:54.720 --> 39:57.810
+if you solve accessibility problems, you're really elevating
+
+936
+39:57.810 --> 40:01.830
+and improving that experience for everybody,
+
+937
+40:01.830 --> 40:03.480
+not just people with disabilities.
+
+938
+40:03.480 --> 40:05.940
+So that's, like, a win-win across the board.
+
+939
+40:05.940 --> 40:08.670
+So I think we can get some learnings from that
+
+940
+40:08.670 --> 40:11.520
+and apply it, you know, to all aspects
+
+941
+40:11.520 --> 40:14.850
+of different industries and life and verticals.
+
+942
+40:14.850 --> 40:16.500
+<v ->Well, our red light is flashing,</v>
+
+943
+40:16.500 --> 40:18.180
+so that means our time is up.
+
+944
+40:18.180 --> 40:19.343
+I want to thank the panelists
+
+945
+40:19.343 --> 40:21.812
+for sharing their insights this afternoon.
+
+946
+40:21.812 --> 40:26.812
+(audience clapping)
+(bright energetic music)
+

@@ -1,0 +1,2472 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.000 --> 00:02.583
+(upbeat music)
+
+00:10.950 --> 00:12.540
+<v ->Good afternoon and welcome</v>
+
+00:12.540 --> 00:14.490
+to the "Calling from Space Session,"
+
+00:14.490 --> 00:18.360
+the last session as part of the space track at CES.
+
+00:18.360 --> 00:21.360
+My name is Sumaiya Najarali and I will be your moderator
+
+00:21.360 --> 00:22.980
+for today's session.
+
+00:22.980 --> 00:25.440
+So before we get started on this conversation,
+
+00:25.440 --> 00:27.540
+on direct-to-device connectivity,
+
+00:27.540 --> 00:29.993
+I'd like to give our panelists the opportunity
+
+00:29.993 --> 00:34.021
+to introduce themselves, a bit about their company's role
+
+00:34.021 --> 00:36.480
+in the direct-to-device market,
+
+00:36.480 --> 00:38.880
+as well as share some major events,
+
+00:38.880 --> 00:40.277
+milestones over the past year
+
+00:40.277 --> 00:43.530
+as we reflect on 2024.
+
+00:43.530 --> 00:45.150
+So perhaps, Barbee, we could start with you
+
+00:45.150 --> 00:47.370
+and then make our way down the line.
+
+00:47.370 --> 00:49.020
+<v ->Sure. So thank you, Sumaiya.</v>
+
+00:49.020 --> 00:50.640
+It's good to be with you again
+
+00:50.640 --> 00:54.690
+after a wonderful show in Paris back in September,
+
+00:54.690 --> 00:57.063
+so glad to continue the conversation.
+
+00:58.080 --> 01:00.870
+I'm Barbee Ponder, General Counsel
+
+01:00.870 --> 01:04.320
+and Vice President of Regulatory Affairs for Globalstar.
+
+01:04.320 --> 01:07.650
+Globalstar is a mobile satellite services company.
+
+01:07.650 --> 01:10.341
+We've been providing mobile satellite services now
+
+01:10.341 --> 01:13.080
+for over two decades.
+
+01:13.080 --> 01:15.570
+We own and operate our own constellation
+
+01:15.570 --> 01:18.720
+of low-earth-orbit satellites as well
+
+01:18.720 --> 01:22.320
+as a global infrastructure of ground stations
+
+01:22.320 --> 01:25.623
+around the world that support that constellation.
+
+01:27.540 --> 01:30.720
+Importantly, about two years ago
+
+01:30.720 --> 01:33.951
+we started providing D2D connectivity
+
+01:33.951 --> 01:38.763
+and we've been doing it now successfully in 17 countries.
+
+01:39.690 --> 01:44.640
+I'm proud to say that now there are tens of millions
+
+01:44.640 --> 01:49.640
+and I'm sure very soon a hundred million people
+
+01:49.680 --> 01:51.990
+with Globalstar at their fingertips
+
+01:51.990 --> 01:54.210
+for critical communications, you know,
+
+01:54.210 --> 01:58.300
+when they are in a rather desperate situation
+
+01:59.250 --> 02:04.053
+as quite frankly, we saw recently with our latest,
+
+02:05.303 --> 02:07.800
+the past hurricane season.
+
+02:07.800 --> 02:12.723
+So, you know, we have used the same spectrum.
+
+02:13.710 --> 02:15.690
+Well, I'm sure we'll get into that a little bit,
+
+02:15.690 --> 02:20.343
+but 2024 was a very busy year for us.
+
+02:21.270 --> 02:23.320
+We're just getting started quite frankly.
+
+02:25.410 --> 02:28.110
+We were successful in having the FCC
+
+02:28.110 --> 02:32.100
+reauthorize our HIBLEO-4 Constellation
+
+02:32.100 --> 02:34.440
+for another 15-year license term
+
+02:34.440 --> 02:38.880
+and we'll be launching eight new satellites
+
+02:38.880 --> 02:43.470
+later this year to help replenish that constellation.
+
+02:43.470 --> 02:45.123
+And finally,
+
+02:46.650 --> 02:49.320
+at the end of last year we announced
+
+02:49.320 --> 02:52.260
+an additional $1.7 billion investment
+
+02:52.260 --> 02:55.110
+that we'll be making in more satellites
+
+02:55.110 --> 02:57.420
+and more ground infrastructure
+
+02:57.420 --> 02:59.190
+over the next couple of years.
+
+02:59.190 --> 03:01.530
+So 2024 was busy.
+
+03:01.530 --> 03:04.353
+2025 will be just as busy. Thank you.
+
+03:07.320 --> 03:08.550
+<v ->Thanks Sumaiya.</v>
+
+03:08.550 --> 03:11.100
+Hi, everybody. I'm Tim Last.
+
+03:11.100 --> 03:13.200
+I'm the Executive Vice President of Sales
+
+03:13.200 --> 03:14.450
+and Marketing at Iridium.
+
+03:16.260 --> 03:18.600
+I think about 70% of Barbee's introduction
+
+03:18.600 --> 03:20.790
+probably applies to Iridium as well.
+
+03:20.790 --> 03:22.740
+If you don't know us,
+
+03:22.740 --> 03:25.817
+we are a global mobile satellite services company.
+
+03:25.817 --> 03:27.810
+We have a fleet
+
+03:27.810 --> 03:30.180
+of about 80 satellites in orbit
+
+03:30.180 --> 03:31.650
+in low earth orbit around the world.
+
+03:31.650 --> 03:34.260
+We've been in the satellite business for getting on
+
+03:34.260 --> 03:36.390
+for 30 years with the current constellation
+
+03:36.390 --> 03:38.673
+only being about four or five years old.
+
+03:40.050 --> 03:41.850
+And like Barbee's company,
+
+03:41.850 --> 03:45.240
+we provide direct-to-device connectivity today,
+
+03:45.240 --> 03:48.750
+one of the major changes for Iridium is that we're midway
+
+03:48.750 --> 03:50.370
+through the development and launch
+
+03:50.370 --> 03:53.310
+of a standard space direct-to-device connectivity.
+
+03:53.310 --> 03:55.200
+I think that's what most people are here
+
+03:55.200 --> 03:57.090
+to hear about and understand.
+
+03:57.090 --> 04:01.140
+We've been a leader in sort of proprietary connectivity
+
+04:01.140 --> 04:02.250
+for satellite networks
+
+04:02.250 --> 04:06.690
+and we've done that successfully across many major markets,
+
+04:06.690 --> 04:09.753
+verticals, geographies, both commercial and government.
+
+04:10.830 --> 04:12.198
+And we're excited about the opportunity
+
+04:12.198 --> 04:17.198
+to deliver that using more standards-based technology.
+
+04:17.280 --> 04:20.190
+For us, it's one of the probably two
+
+04:20.190 --> 04:22.170
+or three major capital programs underway
+
+04:22.170 --> 04:23.220
+in the company at the moment,
+
+04:23.220 --> 04:26.280
+so we're putting our money where our mouth is.
+
+04:26.280 --> 04:27.360
+Over the last year,
+
+04:27.360 --> 04:30.660
+we've successfully got Iridium's technology embedded
+
+04:30.660 --> 04:33.193
+into the next release of 3GPP.
+
+04:33.193 --> 04:36.340
+So we will be part of the standards-based
+
+04:37.500 --> 04:40.245
+sort of kit of options
+
+04:40.245 --> 04:42.900
+that consumer electronics,
+
+04:42.900 --> 04:44.900
+chip set companies and the like can use.
+
+04:46.590 --> 04:48.900
+Looking forward to 25, we'll be over the air
+
+04:48.900 --> 04:52.350
+middle of this year testing
+
+04:52.350 --> 04:54.360
+and prototyping and what have you
+
+04:54.360 --> 04:57.090
+and we're looking at market launch for our service
+
+04:57.090 --> 05:00.150
+by about the first month or two of 2026.
+
+05:00.150 --> 05:01.890
+So good to be here.
+
+05:01.890 --> 05:05.013
+Good to meet everybody and thanks for inviting us, Sumaiya.
+
+05:06.990 --> 05:09.450
+<v ->Thank you, Sumaiya. My name is Parth Trivedi.</v>
+
+05:09.450 --> 05:12.030
+I'm the CEO co-founder of Skylo,
+
+05:12.030 --> 05:15.300
+which is a global direct-to-device service operator
+
+05:15.300 --> 05:19.050
+that connects cellular devices directly over satellite
+
+05:19.050 --> 05:21.183
+so that customers never lose coverage.
+
+05:22.050 --> 05:24.540
+Skylo wears two hats.
+
+05:24.540 --> 05:26.910
+One, we're a technology developer
+
+05:26.910 --> 05:29.580
+that builds the underlying infrastructure
+
+05:29.580 --> 05:32.670
+that powers the direct-to-device solution
+
+05:32.670 --> 05:37.050
+using the 3GPP standards with our radio access network
+
+05:37.050 --> 05:39.540
+and our core now installed
+
+05:39.540 --> 05:42.510
+and operationalized within half a dozen
+
+05:42.510 --> 05:45.570
+different satellite partners that we work with
+
+05:45.570 --> 05:49.270
+across more than 10 Earth stations around the world
+
+05:50.430 --> 05:53.670
+and integrated with multiple carriers
+
+05:53.670 --> 05:56.640
+just as another roaming partner, if you will.
+
+05:56.640 --> 05:59.460
+So we play the role of a technology developer
+
+05:59.460 --> 06:01.650
+on the one hand and the other role that we play
+
+06:01.650 --> 06:04.260
+is of a service operator.
+
+06:04.260 --> 06:08.370
+So we operate our service live over four continents,
+
+06:08.370 --> 06:11.190
+more than 35 markets.
+
+06:11.190 --> 06:15.180
+2024 has been an incredible year with activating millions
+
+06:15.180 --> 06:17.400
+of devices on our network
+
+06:17.400 --> 06:19.140
+and scaling what is now
+
+06:19.140 --> 06:22.800
+the world's largest standards-based NTN.
+
+06:22.800 --> 06:25.290
+And we're really excited about the ecosystem
+
+06:25.290 --> 06:28.170
+that we're building, certifying everything
+
+06:28.170 --> 06:30.346
+from the chip set and the module
+
+06:30.346 --> 06:33.270
+all the way up to the device.
+
+06:33.270 --> 06:36.316
+And 2024 we called out certifications
+
+06:36.316 --> 06:39.360
+with Qualcomm's Snapdragon chip set.
+
+06:39.360 --> 06:41.550
+We announced partnership with Google
+
+06:41.550 --> 06:44.310
+across every Pixel smartphone
+
+06:44.310 --> 06:47.160
+and announced a partnership as well with Verizon
+
+06:47.160 --> 06:50.070
+so that we can bring this incredible capability
+
+06:50.070 --> 06:53.100
+to the consumer, to the enterprises
+
+06:53.100 --> 06:55.460
+and all types of use cases in between.
+
+06:55.460 --> 06:59.220
+And excited to share some of those stories with you today.
+
+06:59.220 --> 07:00.053
+<v ->Great, thank you.</v>
+
+07:00.053 --> 07:02.220
+And excited to have you all here as well.
+
+07:02.220 --> 07:04.710
+So I think busy defined it very well.
+
+07:04.710 --> 07:08.370
+Lots of momentum in the D2D space in 2024.
+
+07:08.370 --> 07:10.980
+We saw that on the satellite infrastructure side,
+
+07:10.980 --> 07:12.900
+so with some of the companies like AST
+
+07:12.900 --> 07:15.990
+and Starlink launching in the past year,
+
+07:15.990 --> 07:17.430
+also on the hardware side.
+
+07:17.430 --> 07:18.480
+So seeing, you know,
+
+07:18.480 --> 07:21.360
+more than 20 phone variants carrying both satellite
+
+07:21.360 --> 07:24.810
+and terrestrial compatibility globally.
+
+07:24.810 --> 07:28.650
+So as we look forward into 2025, we're really trying to see
+
+07:28.650 --> 07:30.600
+how we're getting the market developed
+
+07:30.600 --> 07:33.330
+and seeing how we can get services to market.
+
+07:33.330 --> 07:35.130
+So with satellite operators, you know,
+
+07:35.130 --> 07:36.870
+turning these addressable users
+
+07:36.870 --> 07:39.840
+of direct-to-device services into subscribers,
+
+07:39.840 --> 07:41.940
+what are some of the benefits and shortfalls
+
+07:41.940 --> 07:43.860
+of these go-to market strategies
+
+07:43.860 --> 07:45.360
+that US satellite operators,
+
+07:45.360 --> 07:48.510
+network providers are adopting, whether it be, you know,
+
+07:48.510 --> 07:52.080
+taking a hardware approach or partnering with MNOs.
+
+07:52.080 --> 07:55.470
+So perhaps, Tim, if you wanna get started there
+
+07:55.470 --> 07:58.800
+and discuss maybe a little bit about Iridium's approach.
+
+07:58.800 --> 08:00.420
+<v ->Yeah, sure.</v>
+
+08:00.420 --> 08:02.160
+I mean, I don't know that I can comment too much
+
+08:02.160 --> 08:04.020
+on the shortfalls or pitfalls.
+
+08:04.020 --> 08:07.860
+I mean, I think we are in the very early stages
+
+08:07.860 --> 08:11.970
+of development of this fairly nascent market opportunity,
+
+08:11.970 --> 08:15.510
+both for, you know, those of us in the satellite industry,
+
+08:15.510 --> 08:18.891
+but also for terrestrial companies and OEMs
+
+08:18.891 --> 08:22.920
+and chip set companies, anybody that sees the opportunity
+
+08:22.920 --> 08:27.363
+to develop and use this type of crossover technology.
+
+08:28.650 --> 08:31.140
+You know, we have a particular view
+
+08:31.140 --> 08:33.930
+of how best we can go to market
+
+08:33.930 --> 08:35.790
+by sort of providing
+
+08:35.790 --> 08:38.640
+a vertically integrated networking experience.
+
+08:38.640 --> 08:41.370
+We will look and feel like a roaming option
+
+08:41.370 --> 08:42.870
+for any MNO in the world that wants
+
+08:42.870 --> 08:45.180
+to use our capability and service.
+
+08:45.180 --> 08:48.450
+That's important because the, you know,
+
+08:48.450 --> 08:50.670
+the least amount of friction you can provide
+
+08:50.670 --> 08:52.560
+to the MNOs the more chance they are
+
+08:52.560 --> 08:55.170
+of adopting your capability.
+
+08:55.170 --> 08:57.960
+But it's also true, I think that, you know,
+
+08:57.960 --> 09:01.080
+nobody's gonna be kind of taking the whole market here.
+
+09:01.080 --> 09:03.150
+This is gonna be a choice of options
+
+09:03.150 --> 09:04.953
+for many of the mobile operators.
+
+09:05.790 --> 09:08.340
+We also have a pretty clear strategy
+
+09:08.340 --> 09:11.670
+that the market opportunity for Iridium is not only
+
+09:11.670 --> 09:14.460
+what you might consider direct-to-consumer devices,
+
+09:14.460 --> 09:18.090
+so to handsets, but also in IoT.
+
+09:18.090 --> 09:21.210
+For us, IoT has been a strong part of our market growth
+
+09:21.210 --> 09:23.520
+for the past 15 years or so.
+
+09:23.520 --> 09:27.660
+And while I think the, you know,
+
+09:27.660 --> 09:29.610
+the business case and the value proposition
+
+09:29.610 --> 09:31.980
+for consumers can sometimes be questioned.
+
+09:31.980 --> 09:34.350
+Nobody's paying much
+
+09:34.350 --> 09:35.880
+for this kind of capability today,
+
+09:35.880 --> 09:38.580
+at least not from a consumer perspective.
+
+09:38.580 --> 09:42.210
+It is clear that there's a very compelling use case
+
+09:42.210 --> 09:44.486
+and business case for many enterprises
+
+09:44.486 --> 09:47.220
+who have been crying out for a connectivity
+
+09:47.220 --> 09:48.570
+in places that they can't get to,
+
+09:48.570 --> 09:49.770
+whether you be automotive
+
+09:49.770 --> 09:52.320
+or oil and gas companies or many
+
+09:52.320 --> 09:55.245
+of the other industrial IoT markets.
+
+09:55.245 --> 10:00.243
+So I think there's money for everybody in that ecosystem.
+
+10:01.470 --> 10:03.180
+It gets tougher in the IoT market
+
+10:03.180 --> 10:04.560
+'cause there's less money to go around,
+
+10:04.560 --> 10:08.130
+but I think the next several years will reveal,
+
+10:08.130 --> 10:09.780
+you know, who's got the right
+
+10:09.780 --> 10:11.100
+kind of go-to-market approach
+
+10:11.100 --> 10:14.610
+and who may struggle because of, you know, what they control
+
+10:14.610 --> 10:16.650
+and what they don't control in that value chain.
+
+10:16.650 --> 10:18.183
+So thanks.
+
+10:20.040 --> 10:21.300
+<v ->Barbee, did you want to jump in there</v>
+
+10:21.300 --> 10:24.510
+and maybe just discuss Globalstar's go-to-market approach,
+
+10:24.510 --> 10:25.745
+you know, with partnering with Apple,
+
+10:25.745 --> 10:27.320
+but then also the path forward
+
+10:27.320 --> 10:30.723
+with the extended MSS network coverage?
+
+10:31.560 --> 10:32.393
+<v ->Sure.</v>
+
+10:32.393 --> 10:35.550
+So, you know, Globalstar not only, you know,
+
+10:35.550 --> 10:38.100
+owns and operates its own constellation of satellites,
+
+10:38.100 --> 10:41.790
+but we've developed internally quite a few
+
+10:41.790 --> 10:44.670
+of the products that operate over that system.
+
+10:44.670 --> 10:47.087
+One of those products we introduced in 2007,
+
+10:47.087 --> 10:51.480
+it's a consumer line of messaging devices
+
+10:51.480 --> 10:55.950
+called SPOT that has been incredibly successful.
+
+10:55.950 --> 11:00.950
+And we've always tried to make a device, you know,
+
+11:01.020 --> 11:04.620
+smaller, cheaper, incredibly easy to use,
+
+11:04.620 --> 11:06.780
+pull it out of your pocket, push a button,
+
+11:06.780 --> 11:09.262
+let your family know regardless of where you are
+
+11:09.262 --> 11:10.830
+that you're okay,
+
+11:10.830 --> 11:13.233
+or if you're in trouble, push the SOS.
+
+11:14.100 --> 11:16.863
+And so for us, when we were looking to,
+
+11:17.790 --> 11:21.000
+I think sort of, you know, pioneer a path forward
+
+11:21.000 --> 11:25.770
+to direct-to-device, it was a natural fit for us
+
+11:25.770 --> 11:29.880
+to partner with a smartphone manufacturer
+
+11:29.880 --> 11:33.480
+because we all understood the enormous public benefits
+
+11:33.480 --> 11:37.750
+that would be available if we could essentially
+
+11:38.760 --> 11:40.090
+shoehorn our technology
+
+11:40.090 --> 11:42.060
+and connectivity, you know,
+
+11:42.060 --> 11:44.730
+into one of their feature products.
+
+11:44.730 --> 11:47.490
+And it took a quite a bit of work,
+
+11:47.490 --> 11:48.903
+but we were able to do that.
+
+11:49.770 --> 11:52.530
+So, you know, that's how we ended up in market
+
+11:52.530 --> 11:55.187
+and now we don't have a go-to-market strategy,
+
+11:55.187 --> 11:57.898
+we need a stay-in-market strategy and execute that
+
+11:57.898 --> 12:02.193
+and we're gonna continue to invest in our network,
+
+12:03.420 --> 12:07.140
+innovate and evolve quite frankly
+
+12:07.140 --> 12:10.260
+and expand and make sure that we are able
+
+12:10.260 --> 12:13.210
+to continue to provide that level of connectivity
+
+12:14.580 --> 12:18.840
+that people want when they're off the grid,
+
+12:18.840 --> 12:22.053
+either voluntarily or not,
+
+12:23.100 --> 12:25.330
+and at a price point
+
+12:26.370 --> 12:28.893
+that they feel comfortable paying.
+
+12:32.220 --> 12:36.990
+<v ->I always like to start with the consumer experience</v>
+
+12:36.990 --> 12:39.990
+and just by a quick show of hands,
+
+12:39.990 --> 12:44.580
+how many of you have an iPhone 14 or above
+
+12:44.580 --> 12:46.293
+or a Google Pixel 9?
+
+12:48.960 --> 12:49.793
+Got it.
+
+12:49.793 --> 12:51.843
+So those who of you who have your hand up,
+
+12:52.980 --> 12:55.590
+I want to maybe ask you another follow-up question.
+
+12:55.590 --> 12:59.100
+How many of you have tried the satellite demo mode
+
+12:59.100 --> 13:00.930
+that is inherent in your device?
+
+13:00.930 --> 13:02.070
+Awesome.
+
+13:02.070 --> 13:03.610
+I'm glad I saw more hands
+
+13:05.190 --> 13:07.020
+versus the last time I did this,
+
+13:07.020 --> 13:11.160
+but I think that making a consumer aware
+
+13:11.160 --> 13:13.650
+of this capability is step one, right?
+
+13:13.650 --> 13:16.129
+It's blatantly present within your device,
+
+13:16.129 --> 13:18.120
+now how do you get access to it?
+
+13:18.120 --> 13:20.670
+What is the 1G of this look like
+
+13:20.670 --> 13:23.910
+when you try and access this non-terrestrial network
+
+13:23.910 --> 13:25.020
+for the first time
+
+13:25.020 --> 13:28.890
+and how can we make it a predictable user experience?
+
+13:28.890 --> 13:30.127
+So that was the starting point
+
+13:30.127 --> 13:33.030
+and frankly a lot of the focus for last year
+
+13:33.030 --> 13:34.680
+and the year before
+
+13:34.680 --> 13:38.220
+was establishing a common baseline for consumers
+
+13:38.220 --> 13:40.680
+that they could start to take for granted.
+
+13:40.680 --> 13:43.440
+I was in Redwood National Park in California
+
+13:43.440 --> 13:46.350
+and texting over satellite with my family
+
+13:46.350 --> 13:48.570
+and it was an incredible experience.
+
+13:48.570 --> 13:52.770
+But then as we think about the services beyond
+
+13:52.770 --> 13:56.040
+that baseline, peer-to-peer services, messaging,
+
+13:56.040 --> 13:59.700
+access to a constrained IP connection, et cetera,
+
+13:59.700 --> 14:03.180
+those start to look an awful lot like the carrier services
+
+14:03.180 --> 14:04.860
+that you're receiving today.
+
+14:04.860 --> 14:07.560
+So our approach is being
+
+14:07.560 --> 14:11.460
+a complimentary support network
+
+14:11.460 --> 14:13.620
+with the carrier being complimentary
+
+14:13.620 --> 14:15.630
+to the services that they're providing
+
+14:15.630 --> 14:18.360
+to consumers from a 5G perspective
+
+14:18.360 --> 14:19.830
+and making this appear
+
+14:19.830 --> 14:23.160
+to be minimal change in user behavior
+
+14:23.160 --> 14:25.620
+in accessing direct-to-device connectivity
+
+14:25.620 --> 14:27.071
+is a huge part of our focus.
+
+14:27.071 --> 14:29.342
+Whether that's the work that we do behind the scenes
+
+14:29.342 --> 14:32.250
+with Android on the user experience
+
+14:32.250 --> 14:35.190
+or whether that's the work that we do with the carriers
+
+14:35.190 --> 14:38.703
+around how they present this to the end users.
+
+14:39.630 --> 14:42.300
+<v ->And I think that's a good segue into user experience</v>
+
+14:42.300 --> 14:45.540
+and a lot of the conversation on what can users expect
+
+14:45.540 --> 14:48.930
+to see with satellite direct-to-device connectivity, right?
+
+14:48.930 --> 14:50.040
+Are we gonna be able to see
+
+14:50.040 --> 14:52.290
+the same broadband-type capabilities?
+
+14:52.290 --> 14:53.450
+And that's a lot of the conversation
+
+14:53.450 --> 14:56.310
+as that kind of fuels into who's paying for the service.
+
+14:56.310 --> 14:59.670
+So how do you as operators, network providers,
+
+14:59.670 --> 15:02.550
+intend on managing user expectations
+
+15:02.550 --> 15:04.533
+around D2D services?
+
+15:07.140 --> 15:09.240
+<v ->I can kick things off maybe.</v>
+
+15:09.240 --> 15:11.070
+So, you know, the first thing
+
+15:11.070 --> 15:13.530
+is understanding the market really well,
+
+15:13.530 --> 15:14.919
+understanding the user really well.
+
+15:14.919 --> 15:18.770
+And I wanted to share with you the results
+
+15:18.770 --> 15:21.720
+of a survey that we ran
+
+15:21.720 --> 15:25.443
+across a thousand Americans over the course of December.
+
+15:27.150 --> 15:28.650
+And we asked them
+
+15:28.650 --> 15:30.960
+some of the most common questions
+
+15:30.960 --> 15:33.520
+about the connectivity challenges that they face
+
+15:34.860 --> 15:37.560
+and the insights were quite fascinating.
+
+15:37.560 --> 15:40.080
+So two thirds of respondents
+
+15:40.080 --> 15:42.510
+of Americans across the country, by the way,
+
+15:42.510 --> 15:45.630
+not in any specific location,
+
+15:45.630 --> 15:49.510
+two thirds of Americans face connectivity issues
+
+15:51.000 --> 15:53.460
+and 20% actually face connectivity issues
+
+15:53.460 --> 15:55.770
+on almost a daily basis.
+
+15:55.770 --> 15:57.300
+I think the thing that struck me the most
+
+15:57.300 --> 16:02.300
+is that a majority of folks faced connectivity issues
+
+16:02.539 --> 16:04.530
+in their own neighborhood
+
+16:04.530 --> 16:06.540
+or on their commute to work
+
+16:06.540 --> 16:08.430
+or to see their friends and family.
+
+16:08.430 --> 16:11.643
+So it was a much higher percentage than I thought of.
+
+16:12.494 --> 16:16.980
+And the issue is quite real in terms of the pain point
+
+16:16.980 --> 16:19.980
+that the frustration that Americans experience
+
+16:19.980 --> 16:23.550
+when they don't have reception and connectivity available.
+
+16:23.550 --> 16:26.340
+So it's becoming more and more real
+
+16:26.340 --> 16:29.520
+around how this gets presented and monetized.
+
+16:29.520 --> 16:31.770
+But then you also think about the use cases
+
+16:31.770 --> 16:33.570
+to your question of is it, you know,
+
+16:33.570 --> 16:37.020
+what are the types of services that consumers care about?
+
+16:37.020 --> 16:40.470
+The other question we asked was around exactly that,
+
+16:40.470 --> 16:43.560
+what are the use cases that you intend to leverage?
+
+16:43.560 --> 16:47.820
+50% of respondents said that their biggest use case
+
+16:47.820 --> 16:49.860
+for non-terrestrial networks
+
+16:49.860 --> 16:52.443
+on their device was emergency contact.
+
+16:53.640 --> 16:56.400
+20% of users after that
+
+16:56.400 --> 16:58.800
+said that their biggest use case was navigation,
+
+16:59.970 --> 17:01.143
+followed by texting.
+
+17:02.040 --> 17:04.470
+And interestingly, social media
+
+17:04.470 --> 17:06.450
+and other internet use cases
+
+17:06.450 --> 17:09.753
+was less than 5% of respondents.
+
+17:11.370 --> 17:13.350
+And the other thing I'll maybe just conclude with
+
+17:13.350 --> 17:17.940
+is we are seeing a massive shift
+
+17:17.940 --> 17:21.540
+in how content on the internet is consumed.
+
+17:21.540 --> 17:23.400
+So where previously you would have gone
+
+17:23.400 --> 17:26.310
+and browsed multiple websites to gain an answer
+
+17:26.310 --> 17:29.670
+to your question, you now have ChatGPT,
+
+17:29.670 --> 17:32.820
+you have Perplexity, you are able to turn
+
+17:32.820 --> 17:36.870
+a previously pretty heavy data-intensive experience
+
+17:36.870 --> 17:40.320
+into frankly a text-based narrow-band experience
+
+17:40.320 --> 17:41.370
+that matters.
+
+17:41.370 --> 17:43.380
+That's a very important change
+
+17:43.380 --> 17:45.600
+that has happened over the past two years.
+
+17:45.600 --> 17:49.020
+And because we're building greenfield networks
+
+17:49.020 --> 17:52.080
+that haven't been designed or been built before,
+
+17:52.080 --> 17:55.023
+we're able to optimize for these use cases.
+
+17:55.937 --> 17:57.180
+What will the next set
+
+17:57.180 --> 17:58.350
+of not just peer-to-peer
+
+17:58.350 --> 18:01.470
+but also peer-to-AI interactions look like?
+
+18:01.470 --> 18:04.320
+So that's what we spend a lot of time also thinking about
+
+18:05.640 --> 18:06.473
+<v ->Certainly.</v>
+
+18:06.473 --> 18:08.730
+And any other thoughts on managing user expectations
+
+18:08.730 --> 18:12.720
+as we discussed different D2D capabilities?
+
+18:12.720 --> 18:14.160
+<v ->I think my first comment would be</v>
+
+18:14.160 --> 18:15.750
+keep their expectations low
+
+18:15.750 --> 18:18.300
+because that's probably where things will start.
+
+18:18.300 --> 18:22.650
+I mean, as Parth indicates, initial use cases
+
+18:22.650 --> 18:26.200
+and the consumer's pain points
+
+18:27.480 --> 18:30.240
+generally speaking are around basic connectivity
+
+18:30.240 --> 18:33.963
+and often text-based or very modest data needs.
+
+18:35.040 --> 18:36.600
+You know, we've known this from being
+
+18:36.600 --> 18:39.870
+in the satellite industry for 25 years
+
+18:39.870 --> 18:44.400
+to know how end users can find value
+
+18:44.400 --> 18:47.580
+without having endless bandwidth and capability.
+
+18:47.580 --> 18:49.380
+That doesn't mean it shouldn't be an aspiration
+
+18:49.380 --> 18:51.180
+or a target to aim for,
+
+18:51.180 --> 18:54.130
+but it's very different connecting to a satellite
+
+18:54.990 --> 18:56.944
+either 35,000 miles away
+
+18:56.944 --> 18:59.940
+or traveling at 18,000 miles an hour compared
+
+18:59.940 --> 19:01.920
+to connecting to a cell tower
+
+19:01.920 --> 19:03.570
+that's two miles down the street.
+
+19:04.800 --> 19:06.450
+But there are use cases
+
+19:06.450 --> 19:08.637
+which people will definitely pay for,
+
+19:08.637 --> 19:12.210
+find value in, even in those modest areas.
+
+19:12.210 --> 19:14.914
+You know, the example of texting, the example of, you know,
+
+19:14.914 --> 19:19.020
+basic tracking capability, find your friends capability,
+
+19:19.020 --> 19:21.780
+these are all things that people will find useful,
+
+19:21.780 --> 19:24.630
+particularly in those areas where they have dead spots.
+
+19:24.630 --> 19:27.663
+But I think from a quality and customer experience,
+
+19:29.160 --> 19:31.410
+you know, it will be different.
+
+19:31.410 --> 19:33.810
+You know, we strive, just like Parth does,
+
+19:33.810 --> 19:36.210
+to ensure that the customer experience
+
+19:36.210 --> 19:39.240
+is as close as possible to what they may have
+
+19:39.240 --> 19:41.190
+in their terrestrial use case.
+
+19:41.190 --> 19:43.090
+But we also know that sometimes
+
+19:44.220 --> 19:45.780
+it's challenging to make that happen
+
+19:45.780 --> 19:47.310
+when you're dealing with very different assets
+
+19:47.310 --> 19:49.160
+and infrastructure behind the scenes.
+
+19:50.940 --> 19:54.360
+<v ->You know, I think we're, at least I'd like to think</v>
+
+19:54.360 --> 19:56.438
+that we're changing the public's perception
+
+19:56.438 --> 19:59.883
+and their expectations on what it means to be connected.
+
+20:01.410 --> 20:03.954
+I think that that the public is going to expect
+
+20:03.954 --> 20:06.840
+that when they, you know, pull out their smartphone,
+
+20:06.840 --> 20:10.830
+it's going to work regardless of where they are,
+
+20:10.830 --> 20:14.253
+regardless of their situation or their predicament.
+
+20:15.450 --> 20:17.430
+And regardless of whether there is
+
+20:17.430 --> 20:20.760
+or was a terrestrial mobile network that was there
+
+20:20.760 --> 20:22.503
+that was to support them.
+
+20:23.550 --> 20:27.573
+So I think that, you know, that's where we're heading,
+
+20:28.740 --> 20:32.280
+a basic level of connectivity, you know,
+
+20:32.280 --> 20:35.613
+at a price point that that is affordable.
+
+20:36.480 --> 20:39.707
+And from there, you know, we move forward
+
+20:39.707 --> 20:42.753
+with further work, further innovation and service.
+
+20:43.680 --> 20:46.353
+But I saw a report this morning,
+
+20:48.000 --> 20:52.320
+I think it's the first public report
+
+20:52.320 --> 20:56.460
+of a rescue via satellite in Japan.
+
+20:56.460 --> 20:59.550
+Japan was the 17th country added
+
+20:59.550 --> 21:03.000
+to the emergency SOS via satellite family of countries
+
+21:03.000 --> 21:04.470
+where it's now available.
+
+21:04.470 --> 21:07.110
+And I think the first report was this morning
+
+21:07.110 --> 21:09.390
+and I think, you know, it's just, you know,
+
+21:09.390 --> 21:12.840
+people don't expect to be in a situation
+
+21:12.840 --> 21:15.190
+where they're gonna need satellite connectivity
+
+21:17.010 --> 21:19.980
+but they want it there when it's an emergency.
+
+21:19.980 --> 21:21.600
+So...
+
+21:21.600 --> 21:22.433
+<v ->Yeah, absolutely.</v>
+
+21:22.433 --> 21:24.360
+And I think as satellite connectivity, you know,
+
+21:24.360 --> 21:27.030
+becomes more integrated with terrestrial networks,
+
+21:27.030 --> 21:30.060
+we're looking at revenue-generating opportunities here.
+
+21:30.060 --> 21:31.860
+So what are some of the key
+
+21:31.860 --> 21:34.890
+revenue-generating opportunities you're focusing on
+
+21:34.890 --> 21:37.124
+and how are you going to monetize that?
+
+21:37.124 --> 21:40.650
+So really trying to see is justifying the business case here
+
+21:40.650 --> 21:43.380
+and curious also to know from an MNO perspective,
+
+21:43.380 --> 21:45.900
+so how they can be added to this plan
+
+21:45.900 --> 21:49.200
+of also expanding the services and then profiting from that.
+
+21:49.200 --> 21:51.690
+So you know, so far we're looking more at the freemium model
+
+21:51.690 --> 21:53.130
+or it's embedded in your phone.
+
+21:53.130 --> 21:57.333
+How is the path going forward with monetizing D2D services?
+
+22:00.210 --> 22:02.040
+<v ->Maybe I'll try to answer this one.</v>
+
+22:02.040 --> 22:05.013
+I think many and varied is the straight answer.
+
+22:06.210 --> 22:07.980
+We're building a capability
+
+22:07.980 --> 22:11.220
+just like our current network service today,
+
+22:11.220 --> 22:14.360
+which will serve a really wide variety
+
+22:14.360 --> 22:18.630
+of different use cases, vertical markets, customer types.
+
+22:18.630 --> 22:20.550
+The consumers, one of them clearly,
+
+22:20.550 --> 22:22.440
+and there'll be a certain expectation there
+
+22:22.440 --> 22:25.020
+and it's likely for most people
+
+22:25.020 --> 22:28.740
+that that experience will be managed through their carrier,
+
+22:28.740 --> 22:31.440
+their MNO, their cellular provider.
+
+22:31.440 --> 22:34.636
+So you'll be bundled in as part of that package
+
+22:34.636 --> 22:37.260
+or part of that monthly fee.
+
+22:37.260 --> 22:39.570
+Maybe it'll be a, you know,
+
+22:39.570 --> 22:41.880
+a small premium to have that capability.
+
+22:41.880 --> 22:45.390
+Maybe you get it because you buy the premium device,
+
+22:45.390 --> 22:47.640
+maybe the company a bit like the Apple example,
+
+22:47.640 --> 22:50.340
+they provide it free of charge for some period of time.
+
+22:50.340 --> 22:52.170
+Somebody somewhere will have to pay
+
+22:52.170 --> 22:54.420
+in order to monetize what the investment
+
+22:54.420 --> 22:57.690
+that companies like ours are making in that,
+
+22:57.690 --> 22:59.640
+you know, behind the scenes capability.
+
+23:00.570 --> 23:03.690
+Once you get into the IoT market, it varies hugely
+
+23:03.690 --> 23:07.830
+'cause there's so many different use cases and capability
+
+23:07.830 --> 23:11.280
+and business models that are being supported, you know.
+
+23:11.280 --> 23:12.660
+Certainly there's an awful lot
+
+23:12.660 --> 23:14.730
+of very low cost industrial IoT
+
+23:14.730 --> 23:17.160
+and if you're not within, you know,
+
+23:17.160 --> 23:21.060
+pennies of that expectation, even on cellular,
+
+23:21.060 --> 23:22.980
+the satellite industry won't be an option
+
+23:22.980 --> 23:24.930
+for many of these use cases.
+
+23:24.930 --> 23:27.900
+It doesn't matter that you are filling in the dead spots,
+
+23:27.900 --> 23:29.790
+if you can't get within spitting distance
+
+23:29.790 --> 23:31.830
+of their cost expectation,
+
+23:31.830 --> 23:33.420
+you're still not gonna make the market.
+
+23:33.420 --> 23:37.258
+There's other examples where there is an appetite
+
+23:37.258 --> 23:41.460
+to pay more for connectivity, whether it be backup
+
+23:41.460 --> 23:44.490
+or, you know, for dead zones
+
+23:44.490 --> 23:46.740
+and those will be the ones that, you know,
+
+23:46.740 --> 23:49.770
+companies like ours will all be trying to mine first.
+
+23:49.770 --> 23:51.270
+Where can we find the companies
+
+23:51.270 --> 23:53.070
+that are prepared to pay for that capability?
+
+23:53.070 --> 23:56.460
+We already do it today with our proprietary network.
+
+23:56.460 --> 23:58.350
+The market just gets a lot bigger
+
+23:58.350 --> 24:01.197
+once you're dealing with standards-based technology
+
+24:01.197 --> 24:03.870
+and it becomes much easier for those companies
+
+24:03.870 --> 24:06.210
+to simply add you into the mix.
+
+24:06.210 --> 24:07.043
+So...
+
+24:08.640 --> 24:11.490
+<v ->Yeah, I would say that our approach</v>
+
+24:11.490 --> 24:15.540
+is where wholesale B2B service operator,
+
+24:15.540 --> 24:18.930
+so we don't go to the end user directly,
+
+24:18.930 --> 24:22.470
+but we have a nuanced go-to-market approach as it relates
+
+24:22.470 --> 24:24.600
+to consumer as one vertical,
+
+24:24.600 --> 24:26.790
+as automotive, as another vertical,
+
+24:26.790 --> 24:29.490
+and IoT or enterprise as a third vertical.
+
+24:29.490 --> 24:33.600
+And each of these has its own nuances as it relates
+
+24:33.600 --> 24:38.010
+to the type of ecosystem that you have to activate
+
+24:38.010 --> 24:42.210
+in order to successfully bring a user online
+
+24:42.210 --> 24:46.110
+that looks very different across these three segments.
+
+24:46.110 --> 24:48.600
+So as an example, in the IoT segment,
+
+24:48.600 --> 24:52.080
+we have to work with a lot of module makers
+
+24:52.080 --> 24:54.360
+and, you know, folks who are building these end devices,
+
+24:54.360 --> 24:56.520
+get them certified on Skylo's network.
+
+24:56.520 --> 25:00.280
+We run the industry's only certification program for NTN
+
+25:01.140 --> 25:02.640
+using the 3GPP standards.
+
+25:02.640 --> 25:06.300
+So that's a large part of the supporting work that we do
+
+25:06.300 --> 25:10.680
+before carriers and MVNOs are able to realize the benefit
+
+25:10.680 --> 25:14.340
+of dual-mode connectivity on these IoT devices.
+
+25:14.340 --> 25:16.740
+Then you have to also educate them on, hey,
+
+25:16.740 --> 25:20.310
+here's the developer experience that you want,
+
+25:20.310 --> 25:22.050
+here's what you can expect.
+
+25:22.050 --> 25:24.930
+To Tim's point on setting expectations,
+
+25:24.930 --> 25:28.800
+you want developers to be able to access this new mode
+
+25:28.800 --> 25:30.840
+of connectivity much in the same way
+
+25:30.840 --> 25:32.700
+that they accessed cellular.
+
+25:32.700 --> 25:34.590
+What can they take for granted?
+
+25:34.590 --> 25:36.450
+What are the new things that they have to learn
+
+25:36.450 --> 25:40.290
+or set expectations around for their users?
+
+25:40.290 --> 25:42.960
+So that's the IoT market for the automotive market.
+
+25:42.960 --> 25:45.810
+As you can imagine, we work with chip set companies
+
+25:45.810 --> 25:47.520
+but also TCU vendors,
+
+25:47.520 --> 25:50.400
+folks who make the Sharkfin antenna in your car
+
+25:50.400 --> 25:52.560
+all the way up to the carrier.
+
+25:52.560 --> 25:55.710
+And again, there's different types of services
+
+25:55.710 --> 25:58.950
+that these three markets are interested in
+
+25:58.950 --> 26:00.420
+relative to each other.
+
+26:00.420 --> 26:03.480
+And consumer market I think gets a lot of oxygen
+
+26:03.480 --> 26:05.529
+because of the fact that it's so near
+
+26:05.529 --> 26:09.360
+and dear to the device that's already in your pocket.
+
+26:09.360 --> 26:12.270
+But for that market, it's again, entirely carrier-led
+
+26:12.270 --> 26:16.350
+with supporting OEMs setting the baseline for connectivity
+
+26:16.350 --> 26:17.673
+that you can access.
+
+26:20.010 --> 26:20.843
+<v ->Certainly.</v>
+
+26:20.843 --> 26:23.370
+So we talk a lot about upside potential strategies
+
+26:23.370 --> 26:26.760
+with go-to-market, spectrum, momentum in the industry,
+
+26:26.760 --> 26:30.090
+monetization now, kinda looking at challenges in the market.
+
+26:30.090 --> 26:31.890
+So what are some of the biggest issues
+
+26:31.890 --> 26:34.290
+that you think will break or make the market
+
+26:34.290 --> 26:38.430
+and result in the success of D2D as everyone sees it?
+
+26:38.430 --> 26:39.720
+Barbee, you wanna kickstart us off
+
+26:39.720 --> 26:41.793
+with some of the challenges that you see?
+
+26:42.660 --> 26:44.553
+<v ->I guess, you know,</v>
+
+26:46.269 --> 26:51.120
+Globalstar and Iridium are pioneers in MSS,
+
+26:51.120 --> 26:53.130
+we've been doing this a while
+
+26:53.130 --> 26:56.587
+and I think one for us, one of the challenges is,
+
+26:56.587 --> 26:59.793
+you know, where are we not, right?
+
+27:01.020 --> 27:03.930
+We have mobile satellites,
+
+27:03.930 --> 27:06.600
+MSS spectrum, mobile satellite services spectrum
+
+27:06.600 --> 27:11.010
+is ITU-allocated, globally harmonized.
+
+27:11.010 --> 27:14.100
+And so we were able
+
+27:14.100 --> 27:18.823
+to serve very large regions of the Earth quickly
+
+27:18.823 --> 27:20.553
+with our capabilities.
+
+27:21.746 --> 27:23.790
+I think for us, you know,
+
+27:23.790 --> 27:28.790
+one of the challenges is to continuously open up new markets
+
+27:29.296 --> 27:32.290
+and new regions to our services
+
+27:33.358 --> 27:37.770
+that historically have have not been perhaps as welcome.
+
+27:37.770 --> 27:40.380
+And so that for us will be, I think,
+
+27:40.380 --> 27:45.380
+a major focus over, you know, the next couple of years
+
+27:45.390 --> 27:48.480
+as we move forward with, you know,
+
+27:48.480 --> 27:52.770
+our D2D connectivity and an enormous amount of,
+
+27:52.770 --> 27:53.910
+you know, public benefit
+
+27:53.910 --> 27:57.513
+that comes with that to open,
+
+27:58.470 --> 28:00.640
+quite frankly, countries that that
+
+28:06.516 --> 28:10.080
+we have not been able to serve so far.
+
+28:10.080 --> 28:12.693
+<v ->I think Barbee touched on regulatory,</v>
+
+28:13.530 --> 28:15.030
+I'll perhaps build on that
+
+28:15.030 --> 28:18.480
+and say that it takes a village to go to market.
+
+28:18.480 --> 28:20.970
+In telecom, it really takes a huge amount
+
+28:20.970 --> 28:23.068
+of work to build an ecosystem
+
+28:23.068 --> 28:25.680
+that results in a predictable,
+
+28:25.680 --> 28:28.263
+reliable experience for the end user.
+
+28:29.100 --> 28:30.300
+And doing that is challenging.
+
+28:30.300 --> 28:33.720
+You know, you're getting multiple different behemoths
+
+28:33.720 --> 28:36.570
+in line to activate a solution
+
+28:36.570 --> 28:39.033
+with a particular standard is not easy.
+
+28:40.320 --> 28:44.580
+And the second thing I'll say is that usage
+
+28:44.580 --> 28:48.370
+is very closely tied to user experience.
+
+28:48.370 --> 28:51.870
+So as an example, how can we make access
+
+28:51.870 --> 28:53.896
+to even a basic service like messaging
+
+28:53.896 --> 28:56.820
+as frictionless as possible?
+
+28:56.820 --> 28:59.760
+How can we end up, in fact, it's part of our roadmap,
+
+28:59.760 --> 29:01.590
+how can we end up in a future scenario
+
+29:01.590 --> 29:04.740
+where the phone rings while it's in your pocket
+
+29:04.740 --> 29:08.610
+as you're in your car driving at highway speeds?
+
+29:08.610 --> 29:11.580
+Enabling that requires a ton of work.
+
+29:11.580 --> 29:14.280
+And of course there's technical challenges involved,
+
+29:14.280 --> 29:15.720
+but I feel,
+
+29:15.720 --> 29:18.960
+and given my experience in this so far,
+
+29:18.960 --> 29:20.580
+working with the ecosystem
+
+29:20.580 --> 29:23.081
+and bringing a predictable user experience online
+
+29:23.081 --> 29:26.223
+that you can take for granted is super difficult.
+
+29:28.050 --> 29:29.950
+<v ->Tim, any anything to add on to that?</v>
+
+29:30.840 --> 29:33.300
+<v ->I think one of the challenges we have as an industry</v>
+
+29:33.300 --> 29:36.480
+is to not oversell the opportunity.
+
+29:36.480 --> 29:41.480
+I mean, you know, we obviously want want to encourage
+
+29:41.610 --> 29:45.480
+as many, you know, participants in this ecosystem
+
+29:45.480 --> 29:48.330
+that feel they can get value
+
+29:48.330 --> 29:51.810
+from having satellite connectivity as part of the solution.
+
+29:51.810 --> 29:54.330
+But we shouldn't be overselling that
+
+29:54.330 --> 29:57.090
+because the, you know, there are certain capabilities
+
+29:57.090 --> 30:01.088
+that are currently out of reach of satellite operators,
+
+30:01.088 --> 30:03.180
+the technology that's available today,
+
+30:03.180 --> 30:04.410
+That doesn't mean you can't dream
+
+30:04.410 --> 30:06.150
+and try and aspire to something,
+
+30:06.150 --> 30:10.170
+but I think having some realism about what capabilities
+
+30:10.170 --> 30:12.600
+and use cases are available is kind of important
+
+30:12.600 --> 30:16.710
+because, you know, we can burn a lot of goodwill
+
+30:16.710 --> 30:20.790
+and, you know, a lot of reputation in the market
+
+30:20.790 --> 30:21.720
+by promising the earth
+
+30:21.720 --> 30:25.083
+and only delivering knee-high level services.
+
+30:27.450 --> 30:30.510
+I mean, beyond that, I think spectrum broadly
+
+30:30.510 --> 30:32.340
+for the industry, it's the same challenge
+
+30:32.340 --> 30:33.480
+in the terrestrial world.
+
+30:33.480 --> 30:36.221
+Spectrum will continue to be, I say, a challenge.
+
+30:36.221 --> 30:38.550
+It'll be a challenge because A,
+
+30:38.550 --> 30:40.953
+there's never enough of it to go round.
+
+30:42.000 --> 30:45.930
+B, not every spectrum is equal to each other.
+
+30:45.930 --> 30:49.140
+Different capabilities, different services are possible.
+
+30:49.140 --> 30:51.900
+And there's also a lot of different competing use cases
+
+30:51.900 --> 30:54.840
+for that spectrum, even within the satellite world.
+
+30:54.840 --> 30:57.510
+Companies today are trying to find ways
+
+30:57.510 --> 30:58.950
+to monetize that spectrum
+
+30:58.950 --> 31:03.480
+and what today might be a apparently attractive D2D use case
+
+31:03.480 --> 31:06.270
+tomorrow might become very attractive
+
+31:06.270 --> 31:07.339
+to monetize in a different way.
+
+31:07.339 --> 31:10.950
+So I think, you know, we have to figure out fairly quickly
+
+31:10.950 --> 31:13.320
+how to monetize it confidently,
+
+31:13.320 --> 31:15.510
+otherwise that spectrum is gonna get repurposed
+
+31:15.510 --> 31:19.290
+into other things, other use cases, other industries.
+
+31:19.290 --> 31:20.280
+So...
+
+31:20.280 --> 31:21.120
+<v ->Absolutely.</v>
+
+31:21.120 --> 31:24.660
+And before we carry forward to some of the other topics,
+
+31:24.660 --> 31:26.850
+just gonna give the audience an opportunity
+
+31:26.850 --> 31:31.293
+to ask any questions that they may have for our panelists.
+
+31:34.620 --> 31:35.550
+Yep. In the back.
+
+31:35.550 --> 31:36.600
+I could either pass you the mic
+
+31:36.600 --> 31:39.150
+or if you can project loud enough then..
+
+31:39.150 --> 31:40.680
+<v Attendee>Yeah, I'm wondering, you know,</v>
+
+31:40.680 --> 31:43.164
+right now it sounds like, you know,
+
+31:43.164 --> 31:45.892
+the focus is providing text
+
+31:45.892 --> 31:47.809
+or other low data uses,
+
+31:49.384 --> 31:53.550
+but eventually it will seem like consumers will dream
+
+31:53.550 --> 31:57.780
+about (indistinct) faster connectivity.
+
+31:57.780 --> 32:01.380
+Will the result simply be that the satellites
+
+32:01.380 --> 32:03.210
+will need to get bigger and bigger?
+
+32:03.210 --> 32:04.983
+Is that sort of an inevitable,
+
+32:07.362 --> 32:09.364
+you know, outlook if you're looking
+
+32:09.364 --> 32:12.567
+out three, four, or five years?
+
+32:12.567 --> 32:14.520
+<v ->I don't know that bigger and bigger</v>
+
+32:14.520 --> 32:15.690
+is necessarily the case.
+
+32:15.690 --> 32:17.250
+I mean certainly there are some aspects
+
+32:17.250 --> 32:19.260
+of satellite technology.
+
+32:19.260 --> 32:23.970
+I mean, there are operators today
+
+32:23.970 --> 32:26.049
+that have, you know, more legacy technology
+
+32:26.049 --> 32:27.720
+that is not as capable.
+
+32:27.720 --> 32:30.690
+There are new companies, companies like AST Space
+
+32:30.690 --> 32:33.330
+that are promoting very large antenna arrays
+
+32:33.330 --> 32:36.690
+that can make up for some of the shortcomings
+
+32:36.690 --> 32:38.490
+of trying to connect to cellular devices.
+
+32:38.490 --> 32:41.280
+One of the things that, you know, you know,
+
+32:41.280 --> 32:44.820
+while this device in your pocket may seem to be amazing
+
+32:44.820 --> 32:46.593
+and fantastic and wonderful,
+
+32:47.730 --> 32:49.560
+for, you know, engineers,
+
+32:49.560 --> 32:52.350
+and probably you guys will agree with this in,
+
+32:52.350 --> 32:53.760
+you know, they're really crappy
+
+32:53.760 --> 32:55.890
+at connecting to things a long way away.
+
+32:55.890 --> 32:57.270
+You know, it's really difficult
+
+32:57.270 --> 33:00.750
+to close a reliable high-quality connection
+
+33:00.750 --> 33:03.150
+with the quality of antennas and devices
+
+33:03.150 --> 33:04.680
+that are installed in some of these things.
+
+33:04.680 --> 33:08.010
+What makes it low cost and so competitive
+
+33:08.010 --> 33:10.380
+and easy in the terrestrial world
+
+33:10.380 --> 33:12.960
+equally makes it a challenging connecting
+
+33:12.960 --> 33:14.760
+to assets like satellites.
+
+33:14.760 --> 33:18.360
+So I think some of that will be mitigated by different,
+
+33:18.360 --> 33:20.520
+newer, bigger satellites maybe
+
+33:20.520 --> 33:23.010
+and some of it will be other technologies
+
+33:23.010 --> 33:25.500
+that evolve other, technologies within the core network.
+
+33:25.500 --> 33:30.240
+I mean, the good news is that most of this transition
+
+33:30.240 --> 33:32.580
+or, you know, appetite around
+
+33:32.580 --> 33:35.070
+to direct-to-device is persuading much
+
+33:35.070 --> 33:37.860
+of the satellite industry to move much
+
+33:37.860 --> 33:39.090
+of its core infrastructure
+
+33:39.090 --> 33:41.760
+more onto a standard space footing.
+
+33:41.760 --> 33:43.223
+If you go back 20 or 30 years,
+
+33:43.223 --> 33:45.330
+all of the satellite companies in the world,
+
+33:45.330 --> 33:48.240
+pretty much most of them had a load
+
+33:48.240 --> 33:50.850
+of proprietary technology all the way through their network,
+
+33:50.850 --> 33:53.430
+all the way from the core right to the edge,
+
+33:53.430 --> 33:54.780
+and that's no longer the case,
+
+33:54.780 --> 33:56.070
+including companies like Iridium.
+
+33:56.070 --> 34:00.453
+So I think that can only bring benefits of integration.
+
+34:01.410 --> 34:03.510
+Whether it really closes the gap
+
+34:03.510 --> 34:04.770
+to that consumer experience,
+
+34:04.770 --> 34:07.520
+I think it's gonna take a little while to work through.
+
+34:11.640 --> 34:14.043
+<v ->Any other questions from the audience?</v>
+
+34:15.095 --> 34:16.517
+Yep, we have one in the back.
+
+34:16.517 --> 34:19.609
+(attendee speaking faintly)
+
+34:19.609 --> 34:23.448
+<v Attendee>800 megahertz, and this is really realistic</v>
+
+34:23.448 --> 34:27.254
+to think of 5G as, especially, like, C band, you know,
+
+34:27.254 --> 34:32.254
+you push a 4.3 kilohertz circuit (speaking faintly)
+
+34:33.165 --> 34:34.723
+I mean, I can't make that circuit work.
+
+34:34.723 --> 34:37.140
+I don't know if you guys can.
+
+34:37.990 --> 34:41.231
+<v ->Happy to trade notes on that offline, sir.</v>
+
+34:41.231 --> 34:43.950
+<v Attendee>I'm just gonna say, I'm the same way-</v>
+
+34:43.950 --> 34:46.280
+<v ->We operate with a fade margin of seven</v>
+
+34:46.280 --> 34:48.690
+or 10 DB depending on the device,
+
+34:48.690 --> 34:51.600
+so it's not a flaky connection, you know?
+
+34:51.600 --> 34:53.760
+When you use it outdoors,
+
+34:53.760 --> 34:56.220
+you obviously don't try this when you're deep
+
+34:56.220 --> 34:57.990
+inside your garage underground.
+
+34:57.990 --> 34:59.040
+But again,
+
+34:59.040 --> 35:00.900
+setting the right expectations is important
+
+35:00.900 --> 35:02.009
+if you can do that.
+
+35:02.009 --> 35:05.676
+(attendee speaking faintly)
+
+35:09.300 --> 35:12.200
+Yeah, no, would love to trade notes after this. Thank you.
+
+35:13.500 --> 35:14.350
+<v ->Yeah, go ahead.</v>
+
+35:15.958 --> 35:18.570
+<v Attendee>I'm curious about the automotive industry.</v>
+
+35:18.570 --> 35:22.520
+So I think we're talking maybe 2026 at the soonest for NTN
+
+35:22.520 --> 35:27.003
+to be available potentially in a car somewhere,
+
+35:27.900 --> 35:29.130
+but how do you see that unfolding?
+
+35:29.130 --> 35:31.230
+Do you see the carriers controlling that implementation
+
+35:31.230 --> 35:33.960
+or do you see the wireless,
+
+35:33.960 --> 35:35.670
+I'm sorry, the satellite industry
+
+35:35.670 --> 35:37.820
+engaging directly with the automators?
+
+35:39.537 --> 35:41.169
+<v ->Happy to take a quick crack at it.</v>
+
+35:41.169 --> 35:44.340
+I think that the things
+
+35:44.340 --> 35:47.190
+that play out in automotive are very similar
+
+35:47.190 --> 35:50.943
+to the way things play out in consumer with a lag.
+
+35:52.140 --> 35:56.400
+So I think you should expect to see a similar rollout
+
+35:56.400 --> 35:58.650
+as you have seen for consumer handsets
+
+35:58.650 --> 36:03.063
+in that the first innings of this might very well be
+
+36:03.063 --> 36:06.360
+with a baseline that the OEM helps set
+
+36:06.360 --> 36:07.871
+so that they can set an expectation
+
+36:07.871 --> 36:12.390
+with their drivers and passengers that hey, you're covered
+
+36:12.390 --> 36:14.730
+with a certain basic element irrespective
+
+36:14.730 --> 36:17.490
+of the market in which you buy the car
+
+36:17.490 --> 36:18.600
+or the truck, you know,
+
+36:18.600 --> 36:20.970
+if you're talking commercial vehicle.
+
+36:20.970 --> 36:23.970
+Then the next innings is about those enhanced services,
+
+36:23.970 --> 36:26.340
+which, frankly, I'm an automaker,
+
+36:26.340 --> 36:31.020
+I don't really care about the services revenue that accrue
+
+36:31.020 --> 36:33.690
+from a service that an MNO
+
+36:33.690 --> 36:38.370
+in that country is much more adequately equipped to sell,
+
+36:38.370 --> 36:42.570
+distribute, and support than the OEM.
+
+36:42.570 --> 36:44.820
+So I think that's the way it see it play out.
+
+36:44.820 --> 36:47.490
+<v Attendee>All right, quick follow up,</v>
+
+36:47.490 --> 36:50.132
+any thoughts on when a regulatory requirement
+
+36:50.132 --> 36:55.080
+for next gen 911 or next gen eCall might require
+
+36:55.080 --> 36:57.510
+satellite connectivity in parts?
+
+36:57.510 --> 36:58.800
+<v ->You know, it's interesting,</v>
+
+36:58.800 --> 37:00.960
+and thank you for bringing that up.
+
+37:00.960 --> 37:04.020
+If you look at the regulations in Europe
+
+37:04.020 --> 37:05.970
+as an example, they're very tight.
+
+37:05.970 --> 37:07.740
+So to meet some of those SLAs,
+
+37:07.740 --> 37:09.300
+it becomes incredibly important
+
+37:09.300 --> 37:12.480
+to have a high nines reliable network connection,
+
+37:12.480 --> 37:15.750
+especially when you're doing cross-border 3PL.
+
+37:15.750 --> 37:17.640
+In India, as an example,
+
+37:17.640 --> 37:20.730
+there's a regulation called AIS 140
+
+37:20.730 --> 37:24.450
+that applies to logistics, tracking devices, and trucks,
+
+37:24.450 --> 37:27.210
+which is also quite stringent
+
+37:27.210 --> 37:29.229
+around in enhancing the level of visibility,
+
+37:29.229 --> 37:31.350
+observability, and safety.
+
+37:31.350 --> 37:33.616
+So I do think that carriers around the world
+
+37:33.616 --> 37:36.540
+are going to take satellite
+
+37:36.540 --> 37:40.170
+more and more seriously as a part of the total offering
+
+37:40.170 --> 37:41.823
+to the 3PL providers.
+
+37:43.680 --> 37:44.513
+<v ->Yeah, I agree.</v>
+
+37:44.513 --> 37:49.020
+I mean, it's more of a regional issue.
+
+37:49.020 --> 37:50.430
+That one, I mean, eCall in Europe
+
+37:50.430 --> 37:52.800
+has been developing a lot faster,
+
+37:52.800 --> 37:55.230
+even though it's developing at a fairly slow pace
+
+37:55.230 --> 37:57.240
+compared to the rest of the world.
+
+37:57.240 --> 38:01.230
+Similar to past Indian example, Brazil for example, today,
+
+38:01.230 --> 38:03.420
+even prior to NTN technology,
+
+38:03.420 --> 38:06.733
+Brazil is a pretty fertile market for satellite connectivity
+
+38:06.733 --> 38:09.480
+because of the relatively poorer coverage
+
+38:09.480 --> 38:12.960
+and the combination of regulatory action,
+
+38:12.960 --> 38:15.753
+insurance companies, and that kind of thing.
+
+38:16.710 --> 38:19.440
+So we're gonna see these sort of different pockets play out,
+
+38:19.440 --> 38:22.230
+I think, and some of them will be a great use case
+
+38:22.230 --> 38:25.350
+for satellite, which will help pull this along.
+
+38:25.350 --> 38:27.900
+I think the one thing with automotive is true
+
+38:27.900 --> 38:31.590
+that I think the OEM in the, you know,
+
+38:31.590 --> 38:34.410
+consumer automotive world will try
+
+38:34.410 --> 38:36.780
+to control experience as much as possible.
+
+38:36.780 --> 38:39.209
+So regardless of how they procure the connectivity
+
+38:39.209 --> 38:41.797
+in the back end, they will be controlling that experience.
+
+38:41.797 --> 38:45.450
+That will be very different in industrial markets.
+
+38:45.450 --> 38:49.110
+Industrial markets usually start out with a myriad
+
+38:49.110 --> 38:52.200
+of aftermarket solutions first 'cause they can prove it out
+
+38:52.200 --> 38:55.650
+and move a lot faster than an OEM ever can.
+
+38:55.650 --> 38:58.050
+You don't get quite the same aftermarket
+
+38:58.050 --> 39:00.930
+kind of experience these days in automotive.
+
+39:00.930 --> 39:04.350
+It's not like people are buying GPS devices
+
+39:04.350 --> 39:06.840
+and stick them in their cars other than their smartphone.
+
+39:06.840 --> 39:08.730
+So I think it'll take a while for that
+
+39:08.730 --> 39:11.610
+to really take hold, but it's a market that I do think
+
+39:11.610 --> 39:13.980
+is still a significant one for this sort
+
+39:13.980 --> 39:15.980
+of satellite direct-to-device, for sure.
+
+39:17.040 --> 39:18.103
+<v ->Thank you. Thanks for the answer.</v>
+
+39:18.103 --> 39:20.820
+So I think that actually takes us very close
+
+39:20.820 --> 39:22.770
+to the end of our session.
+
+39:22.770 --> 39:25.410
+So I'd like to thank you all for attending.
+
+39:25.410 --> 39:27.750
+I'd like to give a special thanks to our panelists
+
+39:27.750 --> 39:29.550
+for the insightful discussion,
+
+39:29.550 --> 39:31.680
+of course our audience members for their questions,
+
+39:31.680 --> 39:34.890
+and I hope you enjoy the rest of your time at CES.
+
+39:34.890 --> 39:36.463
+Thank you.
+
+39:36.463 --> 39:39.046
+(upbeat music)
+

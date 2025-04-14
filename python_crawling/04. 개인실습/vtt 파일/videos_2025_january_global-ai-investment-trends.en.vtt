@@ -1,0 +1,2559 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:01.090 --> 00:03.673
+(upbeat music)
+
+00:11.190 --> 00:12.570
+<v ->Good afternoon, everyone.</v>
+
+00:12.570 --> 00:14.130
+Welcome to the future.
+
+00:14.130 --> 00:18.000
+This is the much anticipated, drum roll, right?
+
+00:18.000 --> 00:21.000
+Investment panel on AI investments
+
+00:21.000 --> 00:22.920
+and what is actually happening,
+
+00:22.920 --> 00:24.570
+what we actually wanna invest in.
+
+00:24.570 --> 00:27.120
+And we have an incredible panelists,
+
+00:27.120 --> 00:29.880
+a group of panelists, that we're going to invite up.
+
+00:29.880 --> 00:34.260
+And I think what's really important to recognize
+
+00:34.260 --> 00:36.960
+in this coming panel is that
+
+00:36.960 --> 00:39.900
+there are so many different angles
+
+00:39.900 --> 00:43.203
+that we're approaching this technology and its use.
+
+00:44.520 --> 00:47.850
+Well, I wanna first invite Warren Packard up.
+
+00:47.850 --> 00:50.073
+He is part of the AI Fund.
+
+00:51.870 --> 00:53.428
+Please welcome him.
+
+00:53.428 --> 00:56.595
+(audience applauding)
+
+00:59.400 --> 01:03.115
+We also have Tony Kim with BlackRock.
+
+01:03.115 --> 01:06.282
+(audience applauding)
+
+01:15.390 --> 01:17.250
+We should have music in our intros, right?
+
+01:17.250 --> 01:19.410
+It makes it a lot more exciting.
+
+01:19.410 --> 01:23.603
+We have Tien Wong with Opus8.
+
+01:26.127 --> 01:29.294
+(audience applauding)
+
+01:30.480 --> 01:34.113
+We have Alex Yeh with GMI.
+
+01:35.365 --> 01:38.344
+(audience applauding)
+
+01:38.344 --> 01:40.427
+Moyi Dang with Coinfeeds.
+
+01:42.521 --> 01:45.688
+(audience applauding)
+
+01:46.530 --> 01:49.678
+And myself, please join us.
+
+01:49.678 --> 01:52.845
+(audience applauding)
+
+01:54.930 --> 01:58.050
+So I'd like to go around the panel
+
+01:58.050 --> 01:59.760
+and just have a quick intro
+
+01:59.760 --> 02:02.476
+so that everybody here understands
+
+02:02.476 --> 02:07.320
+what exactly is the interest of the panelists in this group
+
+02:07.320 --> 02:11.010
+and what they prefer and look for.
+
+02:11.010 --> 02:13.110
+Warren, could you start this off, please?
+
+02:13.110 --> 02:15.570
+<v ->Sure, so I'm a partner at AI Fund.</v>
+
+02:15.570 --> 02:19.230
+This is Andrew Ng's venture studio.
+
+02:19.230 --> 02:21.510
+Probably many of you are familiar with Andrew
+
+02:21.510 --> 02:25.500
+who's been teaching AI and ML for decades,
+
+02:25.500 --> 02:26.910
+was the founder of Coursera
+
+02:26.910 --> 02:30.840
+and now has taught about 8 million computer scientists
+
+02:30.840 --> 02:32.190
+their trade in AI.
+
+02:32.190 --> 02:35.970
+As a venture studio, we co-found companies,
+
+02:35.970 --> 02:40.350
+so our focus is on bringing in ideas and concepts
+
+02:40.350 --> 02:42.240
+and typically we work with corporations
+
+02:42.240 --> 02:44.940
+and other venture funds and entrepreneurs
+
+02:44.940 --> 02:48.030
+to bring as a co-founder their ideas to life.
+
+02:48.030 --> 02:51.660
+So we've got resources as business founders,
+
+02:51.660 --> 02:54.630
+technology prototypers, recruiters,
+
+02:54.630 --> 02:56.790
+and of course we have investment dollars as well.
+
+02:56.790 --> 03:00.000
+So we don't invest in going concerns,
+
+03:00.000 --> 03:02.850
+we work with you to create your company
+
+03:02.850 --> 03:06.900
+and write the business plan and precede finance the company.
+
+03:06.900 --> 03:09.750
+But yeah, we're at the earliest stages.
+
+03:09.750 --> 03:10.893
+<v ->Awesome, thank you.</v>
+
+03:12.780 --> 03:14.163
+<v ->I'm Tony Kim.</v>
+
+03:16.500 --> 03:21.500
+I head up the technology investment sector at BlackRock.
+
+03:24.660 --> 03:27.720
+We're at the complete opposite end of the spectrum
+
+03:27.720 --> 03:28.800
+to Warren.
+
+03:28.800 --> 03:33.800
+So when companies get late stage before the IPO,
+
+03:35.518 --> 03:38.790
+all the way to the IPO, and then after the IPO,
+
+03:38.790 --> 03:41.790
+and then the big companies we know in the public market,
+
+03:41.790 --> 03:43.800
+that whole spectrum is where I get involved.
+
+03:43.800 --> 03:45.270
+After he builds the companies,
+
+03:45.270 --> 03:47.073
+then we vet them and say,
+
+03:48.150 --> 03:50.820
+are you worthy of investment?
+
+03:50.820 --> 03:52.270
+And that's kind of what I do.
+
+03:53.340 --> 03:54.173
+<v Denise>Thank you, Tony.</v>
+
+03:54.173 --> 03:55.140
+<v ->Great, Tien Wong.</v>
+
+03:55.140 --> 03:57.180
+And as an investor, I'm wearing two hats.
+
+03:57.180 --> 04:00.180
+One is as a direct investor in mostly post-seed,
+
+04:00.180 --> 04:02.130
+pre-A and A round companies.
+
+04:02.130 --> 04:04.800
+And I'm also a venture partner at Iron Gate Capital,
+
+04:04.800 --> 04:08.970
+which is a dual-use venture capital fund,
+
+04:08.970 --> 04:10.830
+which invest in a fund-to-fund basis.
+
+04:10.830 --> 04:14.070
+So half of our assets are deployed into fund managers
+
+04:14.070 --> 04:15.993
+and half are direct investments.
+
+04:17.040 --> 04:20.700
+And then my third hat that I wear is I assist fund managers
+
+04:20.700 --> 04:22.440
+and companies in raising capital,
+
+04:22.440 --> 04:26.913
+finding LPs and equity money for early-stage companies.
+
+04:27.810 --> 04:28.800
+<v Denise>Awesome.</v>
+
+04:28.800 --> 04:29.850
+Go ahead, Alex.
+<v ->My name's Alex,</v>
+
+04:29.850 --> 04:32.490
+founder and CEO of GMI Cloud.
+
+04:32.490 --> 04:35.460
+GMI is a AI cloud company.
+
+04:35.460 --> 04:38.430
+So we enable and allow founders and enterprise
+
+04:38.430 --> 04:40.350
+to build AI instantly.
+
+04:40.350 --> 04:43.080
+So whether you have an idea
+
+04:43.080 --> 04:45.840
+and you wanna build a RAG or build a solution,
+
+04:45.840 --> 04:47.100
+we're here to help.
+
+04:47.100 --> 04:51.070
+Or enterprise, you want to enable your employees
+
+04:52.110 --> 04:53.540
+and you need to scale inferencing
+
+04:53.540 --> 04:55.350
+or you need to train internally,
+
+04:55.350 --> 04:57.780
+we're here to help to provide on-prem services
+
+04:57.780 --> 04:59.643
+or solutions for you.
+
+05:00.656 --> 05:01.489
+And so I guess,
+
+05:01.489 --> 05:04.470
+I'm on the opposite end of the investors here.
+
+05:04.470 --> 05:06.840
+You guys invest in money to the startups,
+
+05:06.840 --> 05:10.710
+and in turn startups gave their precious investment dollars
+
+05:10.710 --> 05:12.090
+to me,
+
+05:12.090 --> 05:15.213
+for me to enable them to build a really amazing product.
+
+05:16.350 --> 05:17.183
+<v ->Love that.</v>
+
+05:17.183 --> 05:18.016
+Go ahead, Moyi.
+
+05:19.800 --> 05:21.720
+<v ->Hi, so my name is Moyi.</v>
+
+05:21.720 --> 05:24.600
+I'm the founder of Coinfeeds AI.
+
+05:24.600 --> 05:29.100
+So we provide AI solutions to investment funds.
+
+05:29.100 --> 05:32.550
+So we help in investment funds, big and small,
+
+05:32.550 --> 05:35.880
+to build internal AI solutions,
+
+05:35.880 --> 05:39.720
+we connect with their own data,
+
+05:39.720 --> 05:43.770
+and we deploy securely to a virtual private cloud,
+
+05:43.770 --> 05:46.803
+we help manage permissions, et cetera.
+
+05:48.870 --> 05:51.480
+Now, the company was started in 2021
+
+05:51.480 --> 05:54.480
+where we applied AI to crypto.
+
+05:54.480 --> 05:56.940
+We were one of the first companies to do that
+
+05:56.940 --> 06:01.710
+and we sold social media analytics to investment funds.
+
+06:01.710 --> 06:03.570
+But in recent years,
+
+06:03.570 --> 06:08.400
+we focus more on providing AI solutions to investment funds.
+
+06:08.400 --> 06:09.300
+<v ->I love that.</v>
+
+06:09.300 --> 06:12.870
+So we obviously have so many different perspectives here
+
+06:12.870 --> 06:15.510
+and different angles when it comes to investing.
+
+06:15.510 --> 06:17.733
+I would love to start with you, Tony,
+
+06:19.020 --> 06:20.670
+given your background.
+
+06:20.670 --> 06:23.850
+And would love to ask more about
+
+06:23.850 --> 06:25.830
+what key factors do you consider
+
+06:25.830 --> 06:28.530
+when assessing the market potential of companies
+
+06:28.530 --> 06:30.810
+integrating AI technologies,
+
+06:30.810 --> 06:33.510
+whether in verticals like fintech, health,
+
+06:33.510 --> 06:35.970
+or broader applications.
+
+06:35.970 --> 06:38.693
+I think your perspective could be very valuable in there.
+
+06:41.130 --> 06:46.130
+<v ->So AI is a horizontal technology,</v>
+
+06:47.853 --> 06:51.510
+and yet we're an investor, right?
+
+06:51.510 --> 06:52.380
+So we're investing.
+
+06:52.380 --> 06:56.010
+And so it doesn't, per se, matter.
+
+06:56.010 --> 06:57.570
+There are principles,
+
+06:57.570 --> 07:00.030
+foundational principles for investment.
+
+07:00.030 --> 07:02.850
+I mean, it probably extends from the early stage
+
+07:02.850 --> 07:06.090
+all the way to the public market.
+
+07:06.090 --> 07:10.530
+And so there are certain, these principles of,
+
+07:10.530 --> 07:13.083
+is the market big enough?
+
+07:14.250 --> 07:17.940
+What is the competitive dynamic in the company?
+
+07:17.940 --> 07:20.490
+What is the business model,
+
+07:20.490 --> 07:22.443
+the financial profile of the company?
+
+07:23.610 --> 07:25.050
+Is there differentiation?
+
+07:25.050 --> 07:27.150
+Is there competitive edge?
+
+07:27.150 --> 07:28.740
+Is there uniqueness?
+
+07:28.740 --> 07:30.510
+What's your moat?
+
+07:30.510 --> 07:32.040
+You know, all of these,
+
+07:32.040 --> 07:35.163
+let's just call it business principles.
+
+07:36.750 --> 07:40.860
+And then you apply that prism to AI.
+
+07:40.860 --> 07:44.580
+And so it's no different to the prior cycles
+
+07:44.580 --> 07:49.580
+we've had of social media or e-commerce or SaaS,
+
+07:49.620 --> 07:52.497
+or fintech or crypto.
+
+07:52.497 --> 07:54.510
+It kind of doesn't matter.
+
+07:54.510 --> 07:55.683
+Now that said,
+
+07:57.000 --> 07:58.413
+so you take that framework,
+
+07:59.663 --> 08:02.400
+it's a universal framework of what I call,
+
+08:02.400 --> 08:04.650
+and I believe fervently,
+
+08:04.650 --> 08:06.663
+and what I believe in power laws.
+
+08:07.770 --> 08:09.240
+Every sector,
+
+08:09.240 --> 08:12.250
+every company, category
+
+08:13.560 --> 08:16.440
+follows power laws of winners and losers.
+
+08:16.440 --> 08:20.310
+And generally there are very few winners and lots of losers
+
+08:20.310 --> 08:22.017
+or mediocre companies.
+
+08:22.017 --> 08:24.759
+And so through that lens,
+
+08:24.759 --> 08:29.400
+I invest across whatever category.
+
+08:29.400 --> 08:34.380
+And so then AI is a horizontal technology
+
+08:34.380 --> 08:36.420
+and it touches many, many things,
+
+08:36.420 --> 08:38.070
+many, many industries,
+
+08:38.070 --> 08:42.210
+and then up and down what I call a stack technology.
+
+08:42.210 --> 08:44.250
+And then you apply these power law principles
+
+08:44.250 --> 08:46.140
+to every layer of the stack in AI.
+
+08:46.140 --> 08:49.590
+And that applies to then every industry vertical
+
+08:49.590 --> 08:50.880
+that AI will touch.
+
+08:50.880 --> 08:52.200
+So you follow those principles
+
+08:52.200 --> 08:53.370
+and then that gives you a lens
+
+08:53.370 --> 08:57.953
+of how we approach investing in companies in AI.
+
+08:59.850 --> 09:00.900
+<v ->That makes sense.</v>
+
+09:00.900 --> 09:03.240
+I think data is a big part of this, right?
+
+09:03.240 --> 09:06.450
+When you're going through the due diligence piece.
+
+09:06.450 --> 09:08.250
+And with that said, Moyi,
+
+09:08.250 --> 09:11.760
+you know, with Coinfeeds and the data part of you,
+
+09:11.760 --> 09:15.420
+I would love to know more about how can AI-powered analytics
+
+09:15.420 --> 09:18.150
+uncover hidden trends and patterns
+
+09:18.150 --> 09:20.970
+in financial and market data
+
+09:20.970 --> 09:24.240
+to identify promising investment opportunities,
+
+09:24.240 --> 09:25.503
+from your perspective?
+
+09:26.910 --> 09:29.250
+<v ->Yeah, so one way to think of this is</v>
+
+09:29.250 --> 09:33.480
+that AI lets us scalably do something
+
+09:33.480 --> 09:36.183
+that would take a human a very long time to do.
+
+09:37.080 --> 09:38.943
+So, for example,
+
+09:40.680 --> 09:42.000
+within our AI platforms,
+
+09:42.000 --> 09:44.190
+we have a tool that allows investors
+
+09:44.190 --> 09:49.190
+to ask the same question to a lot of different documents,
+
+09:49.590 --> 09:52.470
+such as earnings calls, for example.
+
+09:52.470 --> 09:55.530
+So you can imagine asking something like,
+
+09:55.530 --> 09:59.190
+what is this company's outlook on inflation
+
+09:59.190 --> 10:02.730
+or how does the next administration affect this company?
+
+10:02.730 --> 10:05.070
+And for the AI to summarize that
+
+10:05.070 --> 10:07.560
+across hundreds and thousands of companies
+
+10:07.560 --> 10:11.373
+and look for trends across different sectors.
+
+10:12.810 --> 10:14.970
+<v ->And is this something that you have seen</v>
+
+10:14.970 --> 10:16.770
+offers a lot of value
+
+10:16.770 --> 10:19.410
+and can summarize it pretty accurately?
+
+10:19.410 --> 10:20.340
+<v ->Yes, absolutely.</v>
+
+10:20.340 --> 10:24.513
+So you can ask the AI to condense its findings into say,
+
+10:25.560 --> 10:28.410
+something numerical so that then you can aggregate
+
+10:28.410 --> 10:31.020
+across industries for example.
+
+10:31.020 --> 10:33.100
+We're actually going to release
+
+10:34.860 --> 10:36.753
+a case study on this very soon.
+
+10:37.650 --> 10:38.700
+<v ->Love that.</v>
+
+10:38.700 --> 10:42.840
+So, Warren, since you take a different approach
+
+10:42.840 --> 10:44.490
+to investing,
+
+10:44.490 --> 10:47.523
+I'd like to hear more about, you know, just,
+
+10:48.480 --> 10:52.050
+I mean you have over 30 exits, that's pretty impressive.
+
+10:52.050 --> 10:54.780
+Don't mean to, you know, make a big deal outta that,
+
+10:54.780 --> 10:56.823
+but it is a big deal personally.
+
+10:58.290 --> 11:00.300
+I would love to hear at what stage
+
+11:00.300 --> 11:02.970
+are you investing in right now from your perspective?
+
+11:02.970 --> 11:05.970
+And I think this question also goes to Tien who's, you know,
+
+11:05.970 --> 11:08.043
+an investor as well separately.
+
+11:09.930 --> 11:12.240
+At what stage are you investing right now
+
+11:12.240 --> 11:14.970
+and what are you looking for in the investment opportunities
+
+11:14.970 --> 11:17.040
+that you ultimately close?
+
+11:17.040 --> 11:19.260
+<v ->So echoing Tony's point,</v>
+
+11:19.260 --> 11:20.700
+AI is a vertical technology.
+
+11:20.700 --> 11:24.240
+So AI in and of itself is gonna be pervasive.
+
+11:24.240 --> 11:26.310
+It's the new electricity.
+
+11:26.310 --> 11:28.500
+And so we're looking for applications
+
+11:28.500 --> 11:30.450
+that are fitting a real need
+
+11:30.450 --> 11:32.160
+in each of these different verticals.
+
+11:32.160 --> 11:34.500
+Again, what Tony was talking about.
+
+11:34.500 --> 11:39.030
+So we very deliberately look for subject matter experts
+
+11:39.030 --> 11:40.920
+in all of these different sectors,
+
+11:40.920 --> 11:44.610
+whether that's an expert in a specific domain in healthcare
+
+11:44.610 --> 11:46.530
+or in sales, automation,
+
+11:46.530 --> 11:49.650
+or marketing automation or whatever.
+
+11:49.650 --> 11:51.510
+I mean, every single vertical out there,
+
+11:51.510 --> 11:53.400
+and there's an abundance of opportunities.
+
+11:53.400 --> 11:56.610
+And we look at ourselves and say we do only two things well.
+
+11:56.610 --> 11:57.810
+Number one, we start companies,
+
+11:57.810 --> 12:01.710
+and number two, we understand the AI technology landscape
+
+12:01.710 --> 12:03.390
+and we have an opinion or a point of view
+
+12:03.390 --> 12:04.590
+on where it's going.
+
+12:04.590 --> 12:08.370
+So if you combine our expertise, if you will,
+
+12:08.370 --> 12:09.900
+in the horizontal layer
+
+12:09.900 --> 12:12.990
+with the vertical market expertise of the corporations
+
+12:12.990 --> 12:16.050
+or venture capital funds or entrepreneurs with whom we work,
+
+12:16.050 --> 12:19.950
+that's a really great recipe for creating
+
+12:19.950 --> 12:23.070
+typically B2B SaaS applications.
+
+12:23.070 --> 12:25.990
+And now SaaS is service as software
+
+12:26.880 --> 12:31.020
+where you can really implement services
+
+12:31.020 --> 12:33.990
+that can execute all the way end to end.
+
+12:33.990 --> 12:36.840
+And kind of expanding on Moyi's point there,
+
+12:36.840 --> 12:38.790
+just as an example,
+
+12:38.790 --> 12:40.830
+with the GenTech technology coming about
+
+12:40.830 --> 12:43.020
+and becoming much more pervasive,
+
+12:43.020 --> 12:44.730
+what you can do with agents
+
+12:44.730 --> 12:48.000
+when you're trying to analyze marketplaces,
+
+12:48.000 --> 12:50.130
+competition, landscapes, et cetera,
+
+12:50.130 --> 12:52.680
+you can have each of these agents
+
+12:52.680 --> 12:54.930
+debate with amongst themselves
+
+12:54.930 --> 12:57.180
+and come up with a much more optimal answer
+
+12:57.180 --> 13:00.120
+than you could have six months ago let's say.
+
+13:00.120 --> 13:01.920
+If you just, for instance,
+
+13:01.920 --> 13:04.470
+were just training on a single data set
+
+13:04.470 --> 13:06.960
+and having a single LLM generate a summary.
+
+13:06.960 --> 13:09.090
+Now you can have all these different perspectives
+
+13:09.090 --> 13:10.380
+from all these different agents.
+
+13:10.380 --> 13:12.480
+So it could be that somebody comes to us
+
+13:12.480 --> 13:15.120
+with an expertise in a certain area,
+
+13:15.120 --> 13:18.600
+we apply the latest in agentic technology
+
+13:18.600 --> 13:21.990
+or multimodal or local LLMs or whatever.
+
+13:21.990 --> 13:25.080
+And we're able to prototype that extremely quickly,
+
+13:25.080 --> 13:27.780
+hire the CEO, board member,
+
+13:27.780 --> 13:29.970
+the first five employees, finance the company,
+
+13:29.970 --> 13:32.400
+and get the company up and running extremely rapidly
+
+13:32.400 --> 13:35.460
+'cause speed and time into market is absolutely crucial.
+
+13:35.460 --> 13:38.160
+And hopefully we build something that has staying power,
+
+13:38.160 --> 13:40.140
+and Tony looks at it and says,
+
+13:40.140 --> 13:42.570
+yeah, this is something I want to get into.
+
+13:42.570 --> 13:45.030
+<v ->That's why I sat you guys together, just saying.</v>
+
+13:45.030 --> 13:45.863
+I'm kidding.
+
+13:45.863 --> 13:48.720
+Tien, I would love to hear your feedback on that as well.
+
+13:48.720 --> 13:51.690
+<v ->Yeah, I mean it's just like Tony had mentioned,</v>
+
+13:51.690 --> 13:53.430
+this is a horizontal technology,
+
+13:53.430 --> 13:54.660
+it's an enabling technology.
+
+13:54.660 --> 13:57.180
+I think the most recent example
+
+13:57.180 --> 13:59.850
+might be to follow what happened with cloud computing
+
+13:59.850 --> 14:01.440
+and application migration.
+
+14:01.440 --> 14:04.770
+And as far as our investment, you know,
+
+14:04.770 --> 14:08.430
+we're not investing in pure play horizontal technologies
+
+14:08.430 --> 14:09.263
+and AI,
+
+14:09.263 --> 14:12.180
+we're investing in companies that are, like Warren said,
+
+14:12.180 --> 14:14.730
+in specific verticals with specific management teams
+
+14:14.730 --> 14:17.790
+that have core expertise that can move very quickly
+
+14:17.790 --> 14:18.810
+and have the agility
+
+14:18.810 --> 14:22.050
+to sort of deal with the competitive dynamics
+
+14:22.050 --> 14:23.280
+in the marketplace.
+
+14:23.280 --> 14:24.990
+I think to your first question,
+
+14:24.990 --> 14:29.550
+I did want to bring up two points in looking at factors
+
+14:29.550 --> 14:31.800
+and they are regulatory and ethical,
+
+14:31.800 --> 14:33.840
+which we don't really hear too much about,
+
+14:33.840 --> 14:36.600
+but as an investor, you know, you wanna look at risk factors
+
+14:36.600 --> 14:38.490
+that can take down your whole company.
+
+14:38.490 --> 14:41.490
+And companies can be taken down by regulatory
+
+14:41.490 --> 14:44.520
+and ethical missteps for a variety of different reasons.
+
+14:44.520 --> 14:46.380
+So very, very hard diligence.
+
+14:46.380 --> 14:48.300
+I don't know if there's an AI tool
+
+14:48.300 --> 14:51.750
+that you can develop that might be able to diligence that,
+
+14:51.750 --> 14:54.750
+but certainly those are two very big sort of clouds.
+
+14:54.750 --> 14:56.730
+And as a dual-use investor works,
+
+14:56.730 --> 15:00.180
+very, very sensitive to regulatory risk
+
+15:00.180 --> 15:03.903
+and ethical considerations in the deployment of AI.
+
+15:05.160 --> 15:07.500
+<v ->I just wanna elaborate on some of the comments</v>
+
+15:07.500 --> 15:08.333
+just made here.
+
+15:08.333 --> 15:13.333
+So both generally venture-early investors,
+
+15:13.620 --> 15:17.070
+I'm later private and public investor,
+
+15:17.070 --> 15:22.070
+and focusing on vertical AI for industries, two things,
+
+15:25.452 --> 15:30.452
+these big horizontal layers at the bottom of the stack,
+
+15:31.200 --> 15:35.550
+the infrastructure, the silicon, the cloud,
+
+15:35.550 --> 15:37.410
+even the model,
+
+15:37.410 --> 15:40.480
+this is tens to hundreds of billions of dollars
+
+15:41.490 --> 15:42.423
+to play the game.
+
+15:43.350 --> 15:45.930
+So this, in many ways,
+
+15:45.930 --> 15:47.850
+there are few very big,
+
+15:47.850 --> 15:50.430
+very few companies and each one of these
+
+15:50.430 --> 15:52.593
+that can play that game.
+
+15:53.430 --> 15:56.040
+Warren is at the very top,
+
+15:56.040 --> 15:58.140
+and you could see,
+
+15:58.140 --> 16:00.810
+they're picking off at the application layer
+
+16:00.810 --> 16:05.370
+and, I think, in a very prescient comment about services.
+
+16:05.370 --> 16:09.330
+So in the last era it was all about SaaS,
+
+16:09.330 --> 16:10.650
+which is the application layer,
+
+16:10.650 --> 16:14.673
+which is software running on CPU and a small database.
+
+16:15.540 --> 16:18.660
+And now, you have AI that will basically take,
+
+16:18.660 --> 16:21.420
+and agents will take over SaaS, I think.
+
+16:21.420 --> 16:24.720
+And not only that, it will start eating into
+
+16:24.720 --> 16:26.880
+the human service layer.
+
+16:26.880 --> 16:29.790
+So now you're gonna have new kinds of companies
+
+16:29.790 --> 16:32.430
+that are vertically specifically focused.
+
+16:32.430 --> 16:34.050
+And they're not necessarily competing
+
+16:34.050 --> 16:36.738
+at this foundational horizontal layer.
+
+16:36.738 --> 16:39.120
+They're competing here
+
+16:39.120 --> 16:41.430
+and they're picking off very specific applications
+
+16:41.430 --> 16:46.263
+like call centers or, you know,
+
+16:47.372 --> 16:49.560
+medical services or whatever.
+
+16:49.560 --> 16:52.080
+And there's gonna be lots of new companies
+
+16:52.080 --> 16:53.730
+being built at that layer,
+
+16:53.730 --> 16:57.270
+and they're gonna eat into labor,
+
+16:57.270 --> 16:59.310
+and they're gonna eat into software
+
+16:59.310 --> 17:01.080
+and it's gonna be software and services
+
+17:01.080 --> 17:04.200
+combined into some kind of new kind of thing.
+
+17:04.200 --> 17:06.090
+And then you're gonna have,
+
+17:06.090 --> 17:08.070
+hopefully you're gonna have lots of new companies
+
+17:08.070 --> 17:11.340
+that are attacking the incumbent verticals
+
+17:11.340 --> 17:12.447
+at that layer of the stack.
+
+17:12.447 --> 17:13.800
+And so that's where the,
+
+17:13.800 --> 17:15.720
+I think the venture community are gonna create
+
+17:15.720 --> 17:17.640
+lots of new companies at that layer of the stack.
+
+17:17.640 --> 17:20.340
+At the bottom of the stack, you know,
+
+17:20.340 --> 17:23.760
+it's the giants that need a hundred billion dollars or more
+
+17:23.760 --> 17:24.693
+to play that game.
+
+17:25.819 --> 17:26.700
+And so you're not gonna have,
+
+17:26.700 --> 17:29.980
+it's gonna be very, very difficult to have new companies
+
+17:30.840 --> 17:33.570
+interject themselves at that layer of the stack.
+
+17:33.570 --> 17:34.560
+<v ->Absolutely.</v>
+
+17:34.560 --> 17:38.520
+So I think that's a perfect time to have Alex jump in
+
+17:38.520 --> 17:40.470
+with his expertise.
+
+17:40.470 --> 17:43.320
+Alex, you know, regarding risk mitigation
+
+17:43.320 --> 17:45.270
+when it comes to AI ventures,
+
+17:45.270 --> 17:48.213
+what unique risks do you encounter
+
+17:48.213 --> 17:50.370
+when investing or dealing with companies,
+
+17:50.370 --> 17:53.130
+with the AI-driven startups and infrastructure projects
+
+17:53.130 --> 17:54.780
+and how do you mitigate those risks
+
+17:54.780 --> 17:58.080
+to ensure sustainability and returns?
+
+17:58.080 --> 18:00.780
+<v ->What Tony said it was exactly right,</v>
+
+18:00.780 --> 18:04.170
+to play in the infrastructure game, in the LLM game,
+
+18:04.170 --> 18:06.540
+you need a hundred million to start,
+
+18:06.540 --> 18:09.180
+that's the minimum ticket size that you need.
+
+18:09.180 --> 18:12.360
+And I think the stages are already set.
+
+18:12.360 --> 18:15.630
+People who are on the poker table, it's already set.
+
+18:15.630 --> 18:17.400
+And I think in the next few years
+
+18:17.400 --> 18:20.220
+there will be a washout wave in M&amp;A
+
+18:20.220 --> 18:22.950
+across the infrastructure space, right?
+
+18:22.950 --> 18:24.900
+And then across that, right,
+
+18:24.900 --> 18:28.650
+there will be a lot of different called software stack
+
+18:28.650 --> 18:30.758
+sitting on top of infrastructure.
+
+18:30.758 --> 18:31.950
+'Cause we're kind of the natural,
+
+18:31.950 --> 18:34.470
+I would say vertical solution company, right?
+
+18:34.470 --> 18:39.470
+So we buy a lot of NVIDIA's silicon GPUs,
+
+18:39.990 --> 18:42.180
+and we also have to build a lot of software solutions
+
+18:42.180 --> 18:43.620
+on top, right?
+
+18:43.620 --> 18:46.863
+Memory optimization that allows LM to train faster,
+
+18:47.790 --> 18:50.550
+token cost to be lower on the inferencing side,
+
+18:50.550 --> 18:52.470
+providing different kinds of LMs,
+
+18:52.470 --> 18:56.820
+all the latest open-source LLMs like DeepSeek V3 whatnot,
+
+18:56.820 --> 18:59.550
+like we have to integrate that onto our platform, right?
+
+18:59.550 --> 19:00.600
+That allows, you know,
+
+19:00.600 --> 19:04.920
+our customers to use it more efficiently.
+
+19:04.920 --> 19:06.170
+So that's why I see that,
+
+19:07.170 --> 19:11.040
+there are some like inference-specific companies
+
+19:11.040 --> 19:13.110
+that I think will consolidate,
+
+19:13.110 --> 19:15.480
+and it'll be a natural buyer from the,
+
+19:15.480 --> 19:17.340
+I would say the hyperscalers,
+
+19:17.340 --> 19:20.090
+because they have a lot of, I would say customer group.
+
+19:20.940 --> 19:24.240
+In terms of risk, I think there will be two things.
+
+19:24.240 --> 19:25.410
+I would like to break that down into,
+
+19:25.410 --> 19:28.560
+one is enterprise and startup, right?
+
+19:28.560 --> 19:32.070
+So on the enterprise side, number one thing,
+
+19:32.070 --> 19:33.840
+number one risk I would say is security
+
+19:33.840 --> 19:35.340
+and security and security.
+
+19:35.340 --> 19:36.420
+Nothing else matter, right?
+
+19:36.420 --> 19:39.000
+Cost, I think is a relative term.
+
+19:39.000 --> 19:40.800
+You can choose a neo cloud that will,
+
+19:40.800 --> 19:44.070
+I think will be able to significantly lower that cost,
+
+19:44.070 --> 19:47.700
+compute costs relative to hyperscalers.
+
+19:47.700 --> 19:52.700
+Security is because for manufacturing or for chip design
+
+19:52.980 --> 19:54.783
+or data-sensitive companies,
+
+19:56.010 --> 19:58.443
+most of our data are on-prem still, right?
+
+19:59.370 --> 20:00.990
+And it's really,
+
+20:00.990 --> 20:03.060
+they're sitting on, I would say a gold mine.
+
+20:03.060 --> 20:06.930
+And AI is just, you know, a fancy word,
+
+20:06.930 --> 20:09.090
+but it's just data, right?
+
+20:09.090 --> 20:12.573
+Extracting valuable information from that.
+
+20:14.266 --> 20:15.099
+And so,
+
+20:15.990 --> 20:18.780
+the cool thing about this wave, I mean,
+
+20:18.780 --> 20:22.110
+to make this data insightful
+
+20:22.110 --> 20:24.300
+is you have to break down all the walls, right?
+
+20:24.300 --> 20:26.310
+Think about a large enterprise.
+
+20:26.310 --> 20:29.190
+A large enterprise, you have different data silo, right?
+
+20:29.190 --> 20:33.720
+HR have their own tool, solutions, right, data silo.
+
+20:33.720 --> 20:35.370
+Sales have their own figures.
+
+20:35.370 --> 20:37.560
+Finance obviously have theirs, right?
+
+20:37.560 --> 20:39.930
+So, it's probably stored different, elsewhere.
+
+20:39.930 --> 20:44.550
+One maybe in Oracle, one in AWS, one in GCP, right?
+
+20:44.550 --> 20:46.380
+But in order to extract insights,
+
+20:46.380 --> 20:49.020
+you have to break down all the walls, right?
+
+20:49.020 --> 20:50.820
+So I think that becomes an issue.
+
+20:50.820 --> 20:52.680
+And here it comes to the next point
+
+20:52.680 --> 20:54.210
+I wanna make on the enterprise side,
+
+20:54.210 --> 20:57.420
+which is IAM, user access management, right?
+
+20:57.420 --> 21:01.560
+So for example, if a sales person next to you
+
+21:01.560 --> 21:04.650
+ask the LM and say, hey, who's the sales figure?
+
+21:04.650 --> 21:06.400
+What's this bonus from last quarter
+
+21:07.350 --> 21:08.910
+asking for another sales, right?
+
+21:08.910 --> 21:09.870
+You can't have that, right?
+
+21:09.870 --> 21:14.870
+So there will be I would say vertical cut, right,
+
+21:16.080 --> 21:18.600
+and horizontal cuts based on kind of the levels.
+
+21:18.600 --> 21:20.130
+And each company is built different.
+
+21:20.130 --> 21:22.170
+All the data is different.
+
+21:22.170 --> 21:25.650
+So I think that's an issue for a large enterprise
+
+21:25.650 --> 21:26.850
+when they want to deploy AI.
+
+21:26.850 --> 21:30.090
+Because agentic AI is one of the easiest,
+
+21:30.090 --> 21:31.830
+I would say no-brainer,
+
+21:31.830 --> 21:34.530
+for any enterprise to adopt like right now, right?
+
+21:34.530 --> 21:37.260
+It just increased productivity for all their employees.
+
+21:37.260 --> 21:39.210
+Instead of asking for HR
+
+21:39.210 --> 21:41.340
+and they'll get back to you in a day, right,
+
+21:41.340 --> 21:45.510
+you can ask the AI instantly and get a feedback.
+
+21:45.510 --> 21:49.350
+But having a robust IAM system will be very important.
+
+21:49.350 --> 21:53.020
+And how you store that data cost-effectively
+
+21:53.940 --> 21:55.890
+also will be in our problem.
+
+21:55.890 --> 21:58.740
+And once you say, figure it out,
+
+21:58.740 --> 22:00.630
+fine train and fine tune,
+
+22:00.630 --> 22:02.430
+then will be starting to inference.
+
+22:02.430 --> 22:05.280
+And initially,
+
+22:05.280 --> 22:07.980
+company enterprise will probably start internally,
+
+22:07.980 --> 22:10.367
+so it will be hit, you know,
+
+22:10.367 --> 22:13.080
+a thousand or 10,000 times or QPS, right,
+
+22:13.080 --> 22:14.400
+queries per second.
+
+22:14.400 --> 22:16.530
+And if it's stored on-prem,
+
+22:16.530 --> 22:17.850
+then it will start a lot of issues
+
+22:17.850 --> 22:20.490
+because now the server can't handle, right?
+
+22:20.490 --> 22:24.210
+And you're too afraid to go to open that to public
+
+22:24.210 --> 22:26.850
+because you're dealing with sensitive data.
+
+22:26.850 --> 22:29.760
+So to scaling that is also infrastructure issues.
+
+22:29.760 --> 22:32.190
+And so we're helping enterprise
+
+22:32.190 --> 22:33.660
+to think through all that problem.
+
+22:33.660 --> 22:37.830
+So I would say we're almost like a consultation,
+
+22:37.830 --> 22:40.410
+consultant for them to solve that problem,
+
+22:40.410 --> 22:43.440
+so that's like, I see on the enterprise side.
+
+22:43.440 --> 22:44.520
+In terms of startup,
+
+22:44.520 --> 22:47.610
+it's speed,
+
+22:47.610 --> 22:50.790
+scale and ease of use, right?
+
+22:50.790 --> 22:52.950
+They don't wanna wait six months.
+
+22:52.950 --> 22:54.663
+They want it now, right?
+
+22:57.180 --> 22:58.200
+And also cost,
+
+22:58.200 --> 23:00.270
+because all other,
+
+23:00.270 --> 23:05.270
+I mean, not intend to kind of talk it OpenAI,
+
+23:05.400 --> 23:08.730
+but when Sora came out,
+
+23:08.730 --> 23:11.100
+it was so beautiful, six months ago, right?
+
+23:11.100 --> 23:11.973
+But now,
+
+23:13.260 --> 23:14.460
+six months later,
+
+23:14.460 --> 23:19.460
+it's okay compared to other video generative companies.
+
+23:19.470 --> 23:22.320
+So speed matters a lot to startups, right?
+
+23:22.320 --> 23:27.320
+So I think providing scaled GPU usage to startups
+
+23:27.510 --> 23:29.430
+will be very important.
+
+23:29.430 --> 23:32.550
+And also second point is ease of use, right?
+
+23:32.550 --> 23:33.783
+Ease of use is,
+
+23:35.190 --> 23:37.140
+it's hard to deploy bare-metal, right?
+
+23:37.140 --> 23:40.740
+It's much easier to use API keys,
+
+23:40.740 --> 23:43.380
+to deploy whatever model they want.
+
+23:43.380 --> 23:45.270
+And they don't wanna spend time
+
+23:45.270 --> 23:48.210
+on dealing with infrastructure either, right?
+
+23:48.210 --> 23:50.370
+Imagine like you're just spinning up a website
+
+23:50.370 --> 23:52.320
+and you have to think about whether your server
+
+23:52.320 --> 23:53.460
+will go up or down,
+
+23:53.460 --> 23:58.440
+and what's the variables that you have to tune,
+
+23:58.440 --> 24:00.510
+that's too much work.
+
+24:00.510 --> 24:03.090
+So you wanna rely that on to infrastructure.
+
+24:03.090 --> 24:06.160
+So I guess that would be opportunities and risks that I see
+
+24:07.530 --> 24:10.260
+in terms of enterprise and startups.
+
+24:10.260 --> 24:11.940
+<v ->Thank you for that.</v>
+
+24:11.940 --> 24:13.620
+I think another aspect to this
+
+24:13.620 --> 24:15.360
+is the cost savings piece, right?
+
+24:15.360 --> 24:16.860
+When you're using AI models
+
+24:16.860 --> 24:20.370
+to analyze potential investments.
+
+24:20.370 --> 24:22.350
+Tony, I would really like to hear your feedback
+
+24:22.350 --> 24:24.690
+on that as well as Warren and Tien,
+
+24:24.690 --> 24:26.310
+from an investor perspective,
+
+24:26.310 --> 24:27.570
+when you're looking through that,
+
+24:27.570 --> 24:29.100
+you know, from the cost savings.
+
+24:29.100 --> 24:30.930
+<v ->Let's just talk cost.</v>
+
+24:30.930 --> 24:34.050
+Well, AI, I see really two vectors,
+
+24:34.050 --> 24:37.410
+there's efficiency, which is cost,
+
+24:37.410 --> 24:41.070
+and then there are breakthroughs,
+
+24:41.070 --> 24:43.140
+beyond cost, okay?
+
+24:43.140 --> 24:44.640
+So yeah, of course,
+
+24:44.640 --> 24:48.173
+in enterprise, which is, you know, the big,
+
+24:48.173 --> 24:52.290
+there's a hundred trillion dollar GDP, right?
+
+24:52.290 --> 24:53.890
+It's a hundred trillion dollars.
+
+24:54.900 --> 24:59.900
+IT spending is, you know, small percentage of that GDP.
+
+25:00.090 --> 25:03.330
+You know the biggest single-dollar item
+
+25:03.330 --> 25:06.033
+in that hundred trillion dollars is labor.
+
+25:06.990 --> 25:09.180
+So labor is two-thirds,
+
+25:09.180 --> 25:12.693
+70, 60, 70% of an enterprise's spend.
+
+25:13.590 --> 25:18.590
+So agents, AI, productivity, co-pilots,
+
+25:18.990 --> 25:21.690
+on and on and on and on, they attack,
+
+25:21.690 --> 25:22.560
+at the end of the day,
+
+25:22.560 --> 25:27.390
+they're gonna attack the central biggest line item of cost,
+
+25:27.390 --> 25:28.800
+that is labor.
+
+25:28.800 --> 25:32.610
+And so Warren brought up, he's building vertical apps
+
+25:32.610 --> 25:36.060
+that have this kind of service element to it
+
+25:36.060 --> 25:37.740
+with AI software.
+
+25:37.740 --> 25:40.830
+So to me, that is the biggest single biggest opportunity.
+
+25:40.830 --> 25:42.420
+And you're seeing it,
+
+25:42.420 --> 25:45.960
+you're seeing it, people are even saying it's digital labor,
+
+25:45.960 --> 25:47.370
+digital workers,
+
+25:47.370 --> 25:51.780
+and if you can reduce cost efficiency, et cetera,
+
+25:51.780 --> 25:52.613
+that's number one.
+
+25:52.613 --> 25:54.960
+So this is going to be a narrative vein
+
+25:54.960 --> 25:58.140
+that will extend for the next, you know, five years
+
+25:58.140 --> 26:02.310
+as agents become more, more widespread.
+
+26:02.310 --> 26:07.080
+So that's efficiency cost in my opinion.
+
+26:07.080 --> 26:08.550
+That's what's gonna happen.
+
+26:08.550 --> 26:12.240
+Because IT budgets are not growing to the sky,
+
+26:12.240 --> 26:14.100
+they're growing GDP plus.
+
+26:14.100 --> 26:16.500
+So where are you gonna buy all this compute?
+
+26:16.500 --> 26:18.630
+You're gonna bring all this new stuff in?
+
+26:18.630 --> 26:19.980
+Where's the budget coming from?
+
+26:19.980 --> 26:21.450
+Well, you gotta take it out,
+
+26:21.450 --> 26:23.820
+you've gotta take the dollar out of something
+
+26:23.820 --> 26:25.560
+to fund all of this spend.
+
+26:25.560 --> 26:29.010
+To me, the single biggest thing is the labor.
+
+26:29.010 --> 26:32.730
+So that's, I think that's gonna be a big push.
+
+26:32.730 --> 26:36.630
+Then there's AI that has nothing to do with that.
+
+26:36.630 --> 26:41.010
+And you saw that at Jensen's keynote on Monday.
+
+26:41.010 --> 26:45.333
+It is AI for breakthroughs, scientific breakthroughs,
+
+26:46.470 --> 26:51.060
+that unlock things that potentially,
+
+26:51.060 --> 26:53.640
+that has nothing to do with cost savings and efficiencies.
+
+26:53.640 --> 26:57.900
+Can we achieve breakthroughs in biology and materials
+
+26:57.900 --> 27:00.925
+and chemistry and autonomy?
+
+27:00.925 --> 27:04.110
+And that brings a different kind of dynamic
+
+27:04.110 --> 27:07.680
+that is what I call a net additive to the market
+
+27:07.680 --> 27:09.600
+than just cost efficiency.
+
+27:09.600 --> 27:13.323
+So both of these things are gonna probably parallelize.
+
+27:14.220 --> 27:16.443
+So that's what I think on cost.
+
+27:18.180 --> 27:20.430
+<v ->Yeah, well, it's a great answer.</v>
+
+27:20.430 --> 27:25.230
+And, you know, our companies at the very earliest stages,
+
+27:25.230 --> 27:28.710
+you know, many of them are focused on doing the same job,
+
+27:28.710 --> 27:30.780
+just significantly lower cost,
+
+27:30.780 --> 27:33.153
+so, you know, scenario number one.
+
+27:34.290 --> 27:35.760
+A few of our companies
+
+27:35.760 --> 27:38.670
+are working on the absolute breakthrough technologies.
+
+27:38.670 --> 27:41.070
+And I mean, I'm gonna be very candid.
+
+27:41.070 --> 27:45.120
+Like I would love to spend 95% of my time on the innovations
+
+27:45.120 --> 27:49.115
+that are gonna completely disrupt industries and like,
+
+27:49.115 --> 27:49.948
+you know, healthcare,
+
+27:49.948 --> 27:53.280
+you know, we're gonna truly have personalized medicine,
+
+27:53.280 --> 27:55.230
+we're gonna know each of our personal genomes
+
+27:55.230 --> 27:58.620
+and we're gonna be able to prescribe molecules that,
+
+27:58.620 --> 28:02.040
+you know, cure our cold and we're over it,
+
+28:02.040 --> 28:05.130
+and, you know, it's like those old Star Trek episodes.
+
+28:05.130 --> 28:06.360
+You know, somebody has kidney failure
+
+28:06.360 --> 28:09.270
+and Bones gives them a shot and, you know,
+
+28:09.270 --> 28:10.830
+you're done with your kidney failure.
+
+28:10.830 --> 28:11.760
+That's what I wanna work on.
+
+28:11.760 --> 28:14.310
+But the reality, I believe,
+
+28:14.310 --> 28:16.710
+and it's gonna, it's gonna get closer and closer
+
+28:16.710 --> 28:18.450
+to where we can play in that.
+
+28:18.450 --> 28:20.340
+But that's still,
+
+28:20.340 --> 28:25.340
+at fundamentally larger capital expenditure,
+
+28:26.580 --> 28:29.220
+especially if you're talking about like healthcare.
+
+28:29.220 --> 28:32.340
+I know that Tony's involved with a quantum computer company,
+
+28:32.340 --> 28:34.260
+these are things that we can't get involved with.
+
+28:34.260 --> 28:35.520
+But all that being said,
+
+28:35.520 --> 28:37.050
+there's a lot of low-hanging fruit
+
+28:37.050 --> 28:39.210
+where there's a significant amount
+
+28:39.210 --> 28:41.760
+and percentage of cost savings that can accrue
+
+28:41.760 --> 28:43.260
+into these vertical markets.
+
+28:43.260 --> 28:45.870
+And because those can be funded with,
+
+28:45.870 --> 28:48.180
+our pre-seed check is a million dollars.
+
+28:48.180 --> 28:52.500
+And Tony doesn't wake up for, you know, 10 million bucks.
+
+28:52.500 --> 28:54.930
+I don't wanna speak for him but,
+
+28:54.930 --> 28:56.490
+lose change in his couch, you know.
+
+28:56.490 --> 28:58.440
+<v ->But, you know, just think about it,</v>
+
+28:58.440 --> 29:00.920
+1% savings on a hundred trillion dollars
+
+29:00.920 --> 29:02.020
+is a trillion dollars.
+
+29:02.910 --> 29:04.410
+Okay and then the market,
+
+29:04.410 --> 29:07.173
+S&amp;P's trading at, I don't know, 20 times?
+
+29:08.130 --> 29:12.150
+You could capitalize $20 trillion of market value
+
+29:12.150 --> 29:14.550
+with 1% savings.
+
+29:14.550 --> 29:16.170
+<v Denise>Exactly.</v>
+
+29:16.170 --> 29:17.010
+<v ->That's on cost.</v>
+
+29:17.010 --> 29:19.560
+But imagine if you create new creation.
+
+29:19.560 --> 29:21.270
+<v Denise>Yeah.</v>
+<v ->Of breakthroughs</v>
+
+29:21.270 --> 29:23.250
+and then that's on top of just, you know,
+
+29:23.250 --> 29:25.470
+AI is on one hand,
+
+29:25.470 --> 29:27.690
+yeah, we're gonna be hyper fixated
+
+29:27.690 --> 29:30.570
+in the tactical near term about cost, cost, cost,
+
+29:30.570 --> 29:32.760
+efficiency, efficiency, efficiency.
+
+29:32.760 --> 29:33.593
+But like Warren said,
+
+29:33.593 --> 29:35.930
+it's more fun to be betting on the breakthroughs.
+
+29:38.713 --> 29:39.690
+But to fund, you know,
+
+29:39.690 --> 29:43.110
+these multi-trillion dollar AI CapEx investments
+
+29:43.110 --> 29:44.940
+that's coming in the next decade,
+
+29:44.940 --> 29:46.260
+how are you gonna pay for that?
+
+29:46.260 --> 29:48.540
+You know, you gotta come out of something.
+
+29:48.540 --> 29:49.980
+<v ->Exactly.</v>
+
+29:49.980 --> 29:52.050
+So from a practical standpoint,
+
+29:52.050 --> 29:56.970
+what do you feel is right now the common trend, Moyi,
+
+29:56.970 --> 30:00.510
+when it comes to what typical startups
+
+30:00.510 --> 30:02.580
+from a data perspective
+
+30:02.580 --> 30:06.240
+tend to be the go-to startups to try to fund
+
+30:06.240 --> 30:09.720
+or, you know, that are getting a lot of traction right now
+
+30:09.720 --> 30:11.070
+from a data perspective?
+
+30:11.070 --> 30:13.863
+And I would love to hear your opinion too, Tien.
+
+30:17.940 --> 30:19.980
+<v ->Okay, well so,</v>
+
+30:19.980 --> 30:21.720
+well, I'm not an investor,
+
+30:21.720 --> 30:22.863
+so I don't really,
+
+30:24.990 --> 30:27.030
+I'm not sure this is what you're looking for.
+
+30:27.030 --> 30:27.900
+<v Denise>No, no, no.</v>
+
+30:27.900 --> 30:29.350
+What I meant is from like a data perspective.
+
+30:29.350 --> 30:30.570
+<v ->Okay.</v>
+<v Denise>When you see</v>
+
+30:30.570 --> 30:33.780
+what the companies that you are evaluating right now,
+
+30:33.780 --> 30:35.400
+what do they tend to be?
+
+30:35.400 --> 30:37.920
+What verticals do they tend to be in?
+
+30:37.920 --> 30:42.150
+<v ->Well, one trend that I see is,</v>
+
+30:42.150 --> 30:43.720
+I would argue that
+
+30:45.960 --> 30:48.490
+companies in almost every industry
+
+30:49.590 --> 30:51.843
+needs an internal AI platform,
+
+30:52.860 --> 30:55.890
+which is an evolution of a machine learning platform,
+
+30:55.890 --> 30:59.673
+which used to be found only in the big tech companies.
+
+31:01.290 --> 31:04.470
+And the reason for this is that
+
+31:04.470 --> 31:07.263
+AI is a truly transformational technology,
+
+31:08.100 --> 31:10.743
+as others have alluded to here.
+
+31:13.302 --> 31:17.250
+AI agents can increase productivity
+
+31:17.250 --> 31:22.250
+for many different teams across many verticals of a company.
+
+31:23.970 --> 31:25.413
+And at the same time,
+
+31:26.400 --> 31:28.980
+AI is a full stack problem.
+
+31:28.980 --> 31:32.040
+It isn't really just, you know,
+
+31:32.040 --> 31:33.930
+machine learning or data science.
+
+31:33.930 --> 31:37.050
+It goes back to the data,
+
+31:37.050 --> 31:38.500
+the quality of the data
+
+31:40.440 --> 31:41.910
+and how that data,
+
+31:41.910 --> 31:43.323
+where that data is stored,
+
+31:44.820 --> 31:48.030
+the model risks, the model deployment.
+
+31:48.030 --> 31:52.320
+So all of those best practices can be applied
+
+31:52.320 --> 31:56.850
+and used across different divisions in the company.
+
+31:56.850 --> 31:57.683
+<v ->That makes sense.</v>
+
+31:57.683 --> 31:59.380
+Tien, would you like to add a few comments?
+
+31:59.380 --> 32:02.163
+<v ->Yeah, I mean, we're looking at mostly digital health,</v>
+
+32:03.720 --> 32:06.180
+health technology as well as biotechnology
+
+32:06.180 --> 32:08.280
+and drug development for AI,
+
+32:08.280 --> 32:11.490
+specifically application-wise and also CRM.
+
+32:11.490 --> 32:13.413
+So I come from a CRM background.
+
+32:15.300 --> 32:19.140
+We are already seeing 80% reduction of labor costs
+
+32:19.140 --> 32:21.570
+for lower to middle.
+
+32:21.570 --> 32:26.570
+I'd like to know what the $70 trillion worth of labor.
+
+32:26.790 --> 32:28.170
+How much of that is lower or middle,
+
+32:28.170 --> 32:30.810
+because there's gonna be some major disruption.
+
+32:30.810 --> 32:33.000
+But the fun part about,
+
+32:33.000 --> 32:35.370
+let's say the CRM, let's take that for an example,
+
+32:35.370 --> 32:39.030
+you're gonna see personalized customer service,
+
+32:39.030 --> 32:40.050
+customer experience,
+
+32:40.050 --> 32:41.520
+and, you know, companies,
+
+32:41.520 --> 32:44.700
+the big brands are looking at trying to enhance LTV
+
+32:44.700 --> 32:49.700
+and purchase amounts and longevity of the relationship
+
+32:50.640 --> 32:51.473
+by doing that.
+
+32:51.473 --> 32:53.250
+So that's kind of the cool part of the AI.
+
+32:53.250 --> 32:54.900
+And on the CRM labor side,
+
+32:54.900 --> 32:57.510
+yeah, you're seeing at least in 80% reduction,
+
+32:57.510 --> 32:59.220
+in some cases more.
+
+32:59.220 --> 33:00.117
+But yeah,
+
+33:00.117 --> 33:04.380
+and we are looking at a lot of technology in that space.
+
+33:04.380 --> 33:06.900
+It's all agent-driven for the most part.
+
+33:06.900 --> 33:08.700
+And it's pretty low-hanging fruit, I think.
+
+33:08.700 --> 33:10.110
+<v ->Yeah, yeah.</v>
+
+33:10.110 --> 33:12.480
+So I'm gonna jump a little bit to a different topic
+
+33:12.480 --> 33:14.370
+that I think since we have limited time
+
+33:14.370 --> 33:18.570
+is very important to address is the diversity factor, right?
+
+33:18.570 --> 33:20.370
+As we're gathering data,
+
+33:20.370 --> 33:22.680
+other panels have talked about
+
+33:22.680 --> 33:26.460
+making sure that the data that's being fed into these models
+
+33:26.460 --> 33:28.950
+come from very diverse backgrounds that are practical
+
+33:28.950 --> 33:33.090
+and that apply to the use case within that vertical.
+
+33:33.090 --> 33:35.040
+So Warren, would you like to share a little bit
+
+33:35.040 --> 33:35.873
+about that too?
+
+33:35.873 --> 33:38.110
+And then Alex, I'd love for you to follow that.
+
+33:39.180 --> 33:40.013
+<v ->Yeah, I mean,</v>
+
+33:40.013 --> 33:43.170
+clearly if you're gonna be catering to a global economy,
+
+33:43.170 --> 33:45.030
+you need data that represents
+
+33:45.030 --> 33:48.725
+the global perspective, et cetera.
+
+33:48.725 --> 33:50.190
+I mean, you think about healthcare immediately
+
+33:50.190 --> 33:51.060
+where there's been,
+
+33:51.060 --> 33:53.610
+and hopefully this is getting at the answer to the question,
+
+33:53.610 --> 33:54.750
+but like in healthcare,
+
+33:54.750 --> 33:56.880
+there's been lots and lots of studies
+
+33:56.880 --> 33:59.460
+on white middle-aged males,
+
+33:59.460 --> 34:02.160
+and yet the diversity of our population in the US
+
+34:02.160 --> 34:03.120
+and of course globally,
+
+34:03.120 --> 34:04.680
+doesn't represent that whatsoever.
+
+34:04.680 --> 34:07.350
+You're not gonna be able to advance healthcare
+
+34:07.350 --> 34:09.570
+if you're not looking at a diverse data set
+
+34:09.570 --> 34:11.970
+that represents everybody across the board.
+
+34:11.970 --> 34:13.140
+If you're looking at consumers
+
+34:13.140 --> 34:14.640
+and you're trying to do market research
+
+34:14.640 --> 34:17.340
+and you're looking to sell to a diverse customer base,
+
+34:17.340 --> 34:20.430
+you need data that represents your diverse customer base.
+
+34:20.430 --> 34:24.900
+So ultimately, we have an obligation,
+
+34:24.900 --> 34:25.733
+it's not even,
+
+34:25.733 --> 34:27.870
+there's an economic motive
+
+34:27.870 --> 34:31.290
+there have diversity across our data sets,
+
+34:31.290 --> 34:33.870
+to have diversity in our workforces,
+
+34:33.870 --> 34:37.020
+and to be able to serve a truly global population.
+
+34:37.020 --> 34:39.540
+There is no company in our portfolio
+
+34:39.540 --> 34:44.040
+that is not going after ultimately the global marketplace.
+
+34:44.040 --> 34:46.590
+And that is as diverse as it gets.
+
+34:46.590 --> 34:49.240
+And that's what you need your data to be represented.
+
+34:50.996 --> 34:52.268
+<v ->Yeah, I think that is,</v>
+
+34:52.268 --> 34:53.820
+that is a very interesting insight.
+
+34:53.820 --> 34:55.590
+So I would like to talk about
+
+34:55.590 --> 34:57.690
+in terms of like sovereign AI side, right?
+
+34:58.560 --> 35:01.830
+So people have said, you know, AI is racist, whatnot, right?
+
+35:01.830 --> 35:03.270
+But it's actually just a data problem,
+
+35:03.270 --> 35:05.280
+because just on the dataset it's trained to train
+
+35:05.280 --> 35:06.990
+on all the publicly available data
+
+35:06.990 --> 35:09.660
+is skewed towards a certain groups, right?
+
+35:09.660 --> 35:10.710
+Just the way it is.
+
+35:10.710 --> 35:13.560
+That's why each nation state or company
+
+35:13.560 --> 35:15.450
+will develop their own AI, right?
+
+35:15.450 --> 35:17.430
+For example, if you ask OpenAI,
+
+35:17.430 --> 35:20.700
+say, hey, what is the best udon place in Kyoto?
+
+35:20.700 --> 35:21.750
+They probably won't know,
+
+35:21.750 --> 35:24.510
+because it does not have that data, right?
+
+35:24.510 --> 35:26.100
+It's the way it is.
+
+35:26.100 --> 35:28.080
+And so that's why it's very important
+
+35:28.080 --> 35:33.080
+to have a local language LLM in areas, right?
+
+35:33.390 --> 35:35.253
+And maybe create some sort of MOE,
+
+35:36.450 --> 35:37.620
+mixture of experts, right,
+
+35:37.620 --> 35:39.660
+so when you're asking a question,
+
+35:39.660 --> 35:41.340
+it would just automatically,
+
+35:41.340 --> 35:45.270
+so you go through a first layer of LLM that sorts
+
+35:45.270 --> 35:49.830
+which agent or which LLM to ask a question to
+
+35:49.830 --> 35:52.770
+and use that LLM specifically for that data.
+
+35:52.770 --> 35:56.310
+I think that's your answer towards kind of diversity,
+
+35:56.310 --> 35:59.430
+which is, you know, you create different domain-specific
+
+35:59.430 --> 36:04.260
+or area-specific or geolocation-specific LLM model
+
+36:04.260 --> 36:05.610
+that have different insights.
+
+36:05.610 --> 36:07.260
+And when you ask that question,
+
+36:07.260 --> 36:10.110
+then you'll be able to have a more much accurate answer.
+
+36:10.110 --> 36:11.520
+<v Denise>That's great, thanks.</v>
+
+36:11.520 --> 36:13.530
+<v ->I would just add on the data thing.</v>
+
+36:13.530 --> 36:16.060
+I think there's a lot of these questions are about
+
+36:17.730 --> 36:21.750
+this diversity question is around human data,
+
+36:21.750 --> 36:22.950
+human-created data,
+
+36:22.950 --> 36:26.463
+but it's already all been consumed.
+
+36:27.510 --> 36:30.303
+The vast majority of human-created data is already,
+
+36:32.103 --> 36:33.330
+is at least the publicly available data
+
+36:33.330 --> 36:35.520
+for the most part is already been pre-trained.
+
+36:35.520 --> 36:37.290
+It's already done in the pre-training.
+
+36:37.290 --> 36:39.450
+And so, you know,
+
+36:39.450 --> 36:42.570
+you hear that you're running out of pre-training data
+
+36:42.570 --> 36:44.230
+for human side.
+
+36:44.230 --> 36:47.790
+And then you have this other kinds of scaling laws,
+
+36:47.790 --> 36:50.430
+which is extending now to what they call it inference time
+
+36:50.430 --> 36:53.610
+or test time compute, which is a different kind of thing.
+
+36:53.610 --> 36:56.730
+And it is not about just pre-training on,
+
+36:56.730 --> 36:58.860
+oh, let's get this data set in the Middle East
+
+36:58.860 --> 37:00.063
+and the Asian people.
+
+37:00.960 --> 37:04.080
+For the most part, that's already been done, okay?
+
+37:04.080 --> 37:08.190
+So this test time or inference compute
+
+37:08.190 --> 37:09.720
+is gonna be this reasoning models.
+
+37:09.720 --> 37:12.753
+and then a lot of this is synthetic data.
+
+37:14.640 --> 37:17.430
+And this is like for maybe,
+
+37:17.430 --> 37:20.580
+it might be 90% synthetic data,
+
+37:20.580 --> 37:23.010
+five, 10% human data.
+
+37:23.010 --> 37:25.890
+And so especially as you enter these other domains
+
+37:25.890 --> 37:27.630
+like the physical world,
+
+37:27.630 --> 37:30.750
+robotics, autonomous driving,
+
+37:30.750 --> 37:32.040
+et cetera, et cetera,
+
+37:32.040 --> 37:33.540
+what they call world model,
+
+37:33.540 --> 37:36.150
+not a language model, but a world model,
+
+37:36.150 --> 37:38.940
+a lot of that's gonna be synthetic data generated.
+
+37:38.940 --> 37:42.060
+And so this idea of like we're fixated on,
+
+37:42.060 --> 37:43.560
+we gotta get the human data right,
+
+37:43.560 --> 37:45.330
+well, it's already been all consumed.
+
+37:45.330 --> 37:47.610
+<v ->And as far as like the founders though, Tony,</v>
+
+37:47.610 --> 37:50.190
+and also Warren and Tien,
+
+37:50.190 --> 37:52.350
+how do you feel, is it important,
+
+37:52.350 --> 37:57.120
+is that part of the ethos to have diversity in the founders?
+
+37:57.120 --> 37:59.730
+I mean, do you see a value add there
+
+37:59.730 --> 38:03.197
+or is that something that's a component that may or may not?
+
+38:03.197 --> 38:04.439
+<v ->I mean, I'm just, you know,</v>
+
+38:04.439 --> 38:05.310
+yeah, sure, yes.
+
+38:05.310 --> 38:06.990
+But you want great people,
+
+38:06.990 --> 38:09.210
+you want great leaders, great people,
+
+38:09.210 --> 38:11.513
+and they can come from everywhere in the world.
+
+38:12.570 --> 38:13.530
+<v ->Yeah, I would concur.</v>
+
+38:13.530 --> 38:14.363
+I think,
+
+38:15.540 --> 38:17.610
+the founders will find us.
+
+38:17.610 --> 38:20.310
+And so we select from the founders who do find us,
+
+38:20.310 --> 38:22.710
+and we're very proud of the diversity
+
+38:22.710 --> 38:24.210
+within our founder portfolio.
+
+38:24.210 --> 38:28.320
+But the thing we can control is the diversity of the team,
+
+38:28.320 --> 38:31.470
+the executive team, the management team,
+
+38:31.470 --> 38:34.470
+with the recruiting capabilities that we bring to bear
+
+38:34.470 --> 38:35.970
+and kind of get started.
+
+38:35.970 --> 38:37.500
+You start with a diverse group,
+
+38:37.500 --> 38:39.330
+you have a diversity of opinions.
+
+38:39.330 --> 38:40.800
+If you don't have a diversity of opinions,
+
+38:40.800 --> 38:42.630
+you automatically have group think
+
+38:42.630 --> 38:44.070
+that's not good for business.
+
+38:44.070 --> 38:47.460
+So you wanna start off on the right direction
+
+38:47.460 --> 38:48.660
+with respect to diversity.
+
+38:48.660 --> 38:49.493
+<v ->Absolutely.</v>
+
+38:49.493 --> 38:52.560
+So thank you, thank you to our amazing panelists
+
+38:52.560 --> 38:53.610
+for their perspective
+
+38:53.610 --> 38:56.760
+and for your energy in this room as well.
+
+38:56.760 --> 38:58.019
+Thank you.
+
+38:58.019 --> 39:00.031
+(audience applauding)
+
+39:00.031 --> 39:02.614
+(upbeat music)
+

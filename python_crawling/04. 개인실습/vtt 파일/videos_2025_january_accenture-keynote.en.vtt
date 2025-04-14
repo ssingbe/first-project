@@ -1,0 +1,2075 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.317 --> 00:02.900
+(upbeat music)
+
+00:10.380 --> 00:11.820
+<v Announcer>Please welcome the President</v>
+
+00:11.820 --> 00:15.883
+of the Consumer Technology Association, Kinsey Fabrizio.
+
+00:15.883 --> 00:18.466
+(upbeat music)
+
+00:23.981 --> 00:27.398
+<v ->Good afternoon and welcome to CES 2025.</v>
+
+00:29.400 --> 00:31.200
+As you all in this room know,
+
+00:31.200 --> 00:35.070
+CES brings together the products and services
+
+00:35.070 --> 00:36.870
+driving the tech trends
+
+00:36.870 --> 00:39.060
+and the innovators whose vision
+
+00:39.060 --> 00:42.420
+is reinventing the world around us.
+
+00:42.420 --> 00:47.190
+That's why I am so thrilled to welcome Accenture,
+
+00:47.190 --> 00:52.190
+an innovation led company and longtime participant at CES.
+
+00:53.700 --> 00:57.300
+Accenture helps leaders reinvent themselves
+
+00:57.300 --> 00:59.970
+using emerging tech to be more efficient
+
+00:59.970 --> 01:03.960
+and create a great customer experiences,
+
+01:03.960 --> 01:08.960
+and serves as a trusted partner to more than 9,000 clients
+
+01:09.330 --> 01:12.840
+in more than 120 countries.
+
+01:12.840 --> 01:16.320
+And under Chair and CEO Julie Sweet,
+
+01:16.320 --> 01:18.990
+the company has reached new heights,
+
+01:18.990 --> 01:23.990
+delivering innovation and transformation on a global scale
+
+01:24.030 --> 01:25.440
+through cutting edge solutions
+
+01:25.440 --> 01:29.700
+in AI, cloud, computing, sustainability,
+
+01:29.700 --> 01:31.653
+and digital transformation.
+
+01:32.610 --> 01:34.800
+In addition to advising clients,
+
+01:34.800 --> 01:38.700
+Accenture has been rapidly reinventing itself too,
+
+01:38.700 --> 01:42.630
+using technology, data, and AI.
+
+01:42.630 --> 01:44.400
+Julie has been recognized
+
+01:44.400 --> 01:48.630
+as one of "Times" 100 most influential people
+
+01:48.630 --> 01:52.410
+and one of "Fortune's" most powerful women in business.
+
+01:52.410 --> 01:57.410
+As AI applications expand, she served as a trusted advisor
+
+01:57.900 --> 02:01.110
+helping businesses use AI and data
+
+02:01.110 --> 02:03.660
+to power their own reinvention,
+
+02:03.660 --> 02:06.990
+and a leading voice urging companies
+
+02:06.990 --> 02:10.353
+to develop and use AI responsibly.
+
+02:11.610 --> 02:15.360
+She'll be joined on stage by Julia Boorstin,
+
+02:15.360 --> 02:19.590
+CNBC's Senior Media and Tech Correspondent
+
+02:19.590 --> 02:24.480
+who covers both topics with a focus on tech innovation.
+
+02:24.480 --> 02:28.207
+Julia is also the author of the bestselling book,
+
+02:28.207 --> 02:30.120
+"When Women Lead"
+
+02:30.120 --> 02:34.560
+and a creator of CNBC's Disruptor 50 list of companies
+
+02:34.560 --> 02:36.720
+transforming our economy.
+
+02:36.720 --> 02:41.290
+Please help me and welcome Julie and Julia to the stage.
+
+02:41.290 --> 02:46.290
+(upbeat music)
+(audience applauds)
+
+02:55.230 --> 02:56.190
+<v ->Thank you you so much,</v>
+
+02:56.190 --> 03:00.450
+and thank you to to the CTA and CES for having us here.
+
+03:00.450 --> 03:02.283
+Before we get started, I just wanna acknowledge something
+
+03:02.283 --> 03:03.870
+that I know is on a lot of our minds,
+
+03:03.870 --> 03:06.360
+which are these devastating fires
+
+03:06.360 --> 03:08.910
+in the Los Angeles area, my hometown,
+
+03:08.910 --> 03:12.960
+and I just hope that technology can be part of the solution
+
+03:12.960 --> 03:15.600
+for rebuilding and also preventing this kind of tragedy
+
+03:15.600 --> 03:16.780
+from happening again, so.
+
+03:16.780 --> 03:18.540
+<v ->Yeah, it's just, it's so hard.</v>
+
+03:18.540 --> 03:21.390
+We were just talking about this backstage,
+
+03:21.390 --> 03:24.540
+'cause my family is also, I grew up in southern California.
+
+03:24.540 --> 03:27.510
+My sister's still there, my brother's still there.
+
+03:27.510 --> 03:29.040
+I was up like you, like half the night.
+
+03:29.040 --> 03:30.120
+Like I was like,
+
+03:30.120 --> 03:32.430
+what if you fall asleep and you need to evacuate?
+
+03:32.430 --> 03:33.990
+I mean, it's just so hard.
+
+03:33.990 --> 03:36.450
+And when you see the devastation, it's terrible,
+
+03:36.450 --> 03:39.120
+so really our prayers are with everyone.
+
+03:39.120 --> 03:42.240
+<v ->Yes, well, just wanted to acknowledge that,</v>
+
+03:42.240 --> 03:44.160
+before we talk about some very exciting
+
+03:44.160 --> 03:46.950
+and very positive and optimistic news.
+
+03:46.950 --> 03:50.700
+And you had a number of different headlines out of CES.
+
+03:50.700 --> 03:54.540
+You launched your 12 industry agent solutions
+
+03:54.540 --> 03:57.030
+to help accelerate AI.
+
+03:57.030 --> 04:01.440
+Walk us through what this news means, the AI Refinery.
+
+04:01.440 --> 04:03.453
+What is an AI Refinery?
+
+04:04.560 --> 04:06.510
+<v ->Like, I like to think of it really simply.</v>
+
+04:06.510 --> 04:10.200
+So just think about all of us, we each have a brain,
+
+04:10.200 --> 04:13.260
+and in our brain they work kind of the same way, right?
+
+04:13.260 --> 04:17.643
+They've got the same structure and then we learn.
+
+04:18.510 --> 04:21.840
+So if you think about what's happening today in companies,
+
+04:21.840 --> 04:24.510
+every company I work with is doing a lot of pilots.
+
+04:24.510 --> 04:27.060
+Like they've got a million things going on
+
+04:27.060 --> 04:29.167
+and most of the CEOs I talk to are like,
+
+04:29.167 --> 04:30.600
+"Okay, this is hard.
+
+04:30.600 --> 04:33.270
+It's not really giving me the value."
+
+04:33.270 --> 04:37.800
+And a big step that companies have not so much missed,
+
+04:37.800 --> 04:41.130
+but now need to move to because they were really excited
+
+04:41.130 --> 04:44.550
+is how do they create a brain that has the structure
+
+04:44.550 --> 04:48.600
+that works, whether you're in the US or you're in Europe,
+
+04:48.600 --> 04:50.490
+wherever you are in the company,
+
+04:50.490 --> 04:54.240
+and then allows this AI to learn and change your company?
+
+04:54.240 --> 04:57.930
+And what people are missing is the structure
+
+04:57.930 --> 05:00.570
+and the ease of then being able to plug in.
+
+05:00.570 --> 05:05.310
+And so what we did is we created the brain.
+
+05:05.310 --> 05:07.290
+And that brain has,
+
+05:07.290 --> 05:10.020
+think of it as a way of like you're onboarding a new model,
+
+05:10.020 --> 05:13.200
+you wanna use a model, it comes in, it gets certified,
+
+05:13.200 --> 05:14.670
+it goes out.
+
+05:14.670 --> 05:17.640
+All of your people don't ever have to know about that.
+
+05:17.640 --> 05:20.970
+But you know, as CEO, it's safe.
+
+05:20.970 --> 05:23.880
+It has these agents that everyone's talking about
+
+05:23.880 --> 05:26.610
+that are all trained in your data
+
+05:26.610 --> 05:28.320
+and they will work with everything.
+
+05:28.320 --> 05:31.290
+And all of this works with all of your technology.
+
+05:31.290 --> 05:36.290
+So it was built on NVIDIA technology as part of the brain,
+
+05:37.650 --> 05:40.260
+and Accenture and NVIDIA have a complete,
+
+05:40.260 --> 05:41.820
+everything must be interoperable,
+
+05:41.820 --> 05:44.820
+so you're not now creating some new tech debt,
+
+05:44.820 --> 05:47.610
+but it's allowing you to have the structure
+
+05:47.610 --> 05:48.930
+so that you can do the holy grail
+
+05:48.930 --> 05:50.340
+that every CEO complains about.
+
+05:50.340 --> 05:54.750
+How do I scale, how do I make it easy for my people,
+
+05:54.750 --> 05:57.510
+and how do I focus on how to use it,
+
+05:57.510 --> 06:01.860
+as opposed to the very, very complex landscape that,
+
+06:01.860 --> 06:03.540
+you know, everyone's trying to learn about it?
+
+06:03.540 --> 06:05.430
+And we kind of, we try to make that simple
+
+06:05.430 --> 06:06.630
+for every organization.
+
+06:06.630 --> 06:08.220
+So we're really excited.
+
+06:08.220 --> 06:10.110
+It was something that we've been developing
+
+06:10.110 --> 06:14.100
+based on all of the work and all of our work
+
+06:14.100 --> 06:17.880
+with all of our partners is to how do we help our partners
+
+06:17.880 --> 06:20.550
+and our clients get to value faster?
+
+06:20.550 --> 06:23.010
+<v ->So AI Refinery is sort of the platform,</v>
+
+06:23.010 --> 06:25.290
+and then these industry agent solutions
+
+06:25.290 --> 06:29.040
+are tools that will help each individual company
+
+06:29.040 --> 06:32.010
+build their agents faster, more efficiently,
+
+06:32.010 --> 06:34.410
+but they're still customizing them to their own data set
+
+06:34.410 --> 06:37.320
+and their own corporate information.
+
+06:37.320 --> 06:39.150
+<v ->Absolutely, so if you think about Accenture, right?</v>
+
+06:39.150 --> 06:40.770
+We're a $65 billion company.
+
+06:40.770 --> 06:42.660
+We work across every industry.
+
+06:42.660 --> 06:44.430
+We work with the leaders in every industry.
+
+06:44.430 --> 06:46.170
+And what we've done is we've said,
+
+06:46.170 --> 06:48.030
+well, we have this new great technology,
+
+06:48.030 --> 06:50.190
+but rather than have each of our clients
+
+06:50.190 --> 06:52.290
+have to make up every single part of it,
+
+06:52.290 --> 06:54.405
+we're industry experts, we're functional experts,
+
+06:54.405 --> 06:58.080
+we know the processes, if you're a refinery in the energy,
+
+06:58.080 --> 07:00.480
+if you are doing claims or insurance.
+
+07:00.480 --> 07:03.247
+And so we've taken all of our knowledge and said,
+
+07:03.247 --> 07:05.250
+"Here's your starter kit.
+
+07:05.250 --> 07:08.970
+Now take the starter kit and make it your own."
+
+07:08.970 --> 07:12.480
+And using that brain, that AI Refinery,
+
+07:12.480 --> 07:17.160
+we then tie it to your internal data, to your external data,
+
+07:17.160 --> 07:19.470
+and now you've been supercharged,
+
+07:19.470 --> 07:23.010
+not just with the technology, but with your own data.
+
+07:23.010 --> 07:25.140
+And you're gonna go a lot faster
+
+07:25.140 --> 07:28.380
+because you get to leverage all of our expertise.
+
+07:28.380 --> 07:29.640
+<v ->And so give me an example</v>
+
+07:29.640 --> 07:31.950
+of one of these AI agent solutions
+
+07:31.950 --> 07:33.480
+and how it might work for a particular industry.
+
+07:33.480 --> 07:34.770
+I mean you mentioned oil refinery,
+
+07:34.770 --> 07:36.990
+but walk us sort of through how it might work.
+
+07:36.990 --> 07:40.830
+<v ->So I'll use Accenture because as always, right,</v>
+
+07:40.830 --> 07:42.420
+we try to do this to ourself
+
+07:42.420 --> 07:44.730
+and one of my favorite and first examples
+
+07:44.730 --> 07:48.420
+where we used an agent at scale was in marketing.
+
+07:48.420 --> 07:52.560
+Now, as you might imagine at Accenture with 700,000 people,
+
+07:52.560 --> 07:53.490
+we like to talk
+
+07:53.490 --> 07:55.830
+and we like to come up with new thought leadership, right?
+
+07:55.830 --> 07:57.720
+So starting a couple of years ago,
+
+07:57.720 --> 07:59.370
+we got all of that cleaned up
+
+07:59.370 --> 08:02.940
+so we know what's happening any place in our company.
+
+08:02.940 --> 08:06.810
+But when we wanna put out a new thought leadership piece
+
+08:06.810 --> 08:08.520
+had a lot of steps, right?
+
+08:08.520 --> 08:10.770
+You had somebody who'd go out into the market
+
+08:10.770 --> 08:13.260
+and they'd look at, what are our competitors saying?
+
+08:13.260 --> 08:16.320
+You'd say, look at, what are our ecosystem partners saying?
+
+08:16.320 --> 08:18.090
+Look at what our clients are saying.
+
+08:18.090 --> 08:19.500
+Then there was quality reviews.
+
+08:19.500 --> 08:21.840
+And someone has to look at, hey, is this new,
+
+08:21.840 --> 08:23.370
+or is someone, have we said it someplace?
+
+08:23.370 --> 08:25.260
+We're really big, right?
+
+08:25.260 --> 08:26.850
+All of those were tied to people
+
+08:26.850 --> 08:29.010
+and sure we use technology to do search in that,
+
+08:29.010 --> 08:29.843
+but that was all.
+
+08:29.843 --> 08:33.120
+Now today, I've got that creative idea,
+
+08:33.120 --> 08:38.120
+I wanna make a campaign out of it, and literally in minutes,
+
+08:38.250 --> 08:39.660
+as that person who wants to,
+
+08:39.660 --> 08:42.300
+I wanna sit down and write something.
+
+08:42.300 --> 08:44.280
+I have a digital agent who's gone
+
+08:44.280 --> 08:47.520
+and looked at everything that's being said externally
+
+08:47.520 --> 08:49.710
+by the areas that I want,
+
+08:49.710 --> 08:52.860
+that tells me everything that I already have,
+
+08:52.860 --> 08:54.720
+so I don't write something new.
+
+08:54.720 --> 08:56.940
+And then, and this is one of my favorite parts,
+
+08:56.940 --> 08:59.643
+when I start writing, it judges me.
+
+09:00.720 --> 09:03.960
+It tells me, "Hey, that's not very differentiated
+
+09:03.960 --> 09:06.480
+from what the competitors have said,"
+
+09:06.480 --> 09:08.970
+or "That has absolutely no difference
+
+09:08.970 --> 09:10.080
+than that other asset."
+
+09:10.080 --> 09:14.250
+And then as I write it, I get instant feedback, right?
+
+09:14.250 --> 09:18.930
+This all, this used to be people and time,
+
+09:18.930 --> 09:21.000
+it literally would take weeks,
+
+09:21.000 --> 09:23.880
+and now the first thing takes minutes,
+
+09:23.880 --> 09:27.270
+and we are cutting about half of the time
+
+09:27.270 --> 09:30.750
+from the creative idea to getting it into the market.
+
+09:30.750 --> 09:33.960
+<v ->So massive efficiency and more accuracy?</v>
+
+09:33.960 --> 09:36.180
+<v ->Much better quality, and, you know,</v>
+
+09:36.180 --> 09:39.450
+I can't afford to have every single person
+
+09:39.450 --> 09:41.340
+be the absolute best editor,
+
+09:41.340 --> 09:44.010
+to be the absolute best person who understands,
+
+09:44.010 --> 09:45.030
+you know, what's going on.
+
+09:45.030 --> 09:48.210
+And what this allows me to do is the quality is,
+
+09:48.210 --> 09:50.250
+you know, we'd get there in the end,
+
+09:50.250 --> 09:51.943
+but we're getting there like, you know,
+
+09:51.943 --> 09:53.460
+I call it first time right,
+
+09:53.460 --> 09:56.670
+because we're getting the highest quality inputs
+
+09:56.670 --> 09:58.200
+early in the process.
+
+09:58.200 --> 10:00.930
+Now we had to massively change how we work.
+
+10:00.930 --> 10:03.330
+And like when we go back to think about that brain, right,
+
+10:03.330 --> 10:06.570
+and that we're learning, the other thing we've had to do
+
+10:06.570 --> 10:10.620
+is change the structure of how we operate the company.
+
+10:10.620 --> 10:14.400
+Because all of that used to be a sequential process,
+
+10:14.400 --> 10:16.140
+and then you'd have these loops.
+
+10:16.140 --> 10:18.007
+Now, we had to sit back and say,
+
+10:18.007 --> 10:20.490
+"Well what's the new creative process
+
+10:20.490 --> 10:21.420
+when this is happening,
+
+10:21.420 --> 10:24.420
+and when do we have the human in the loop?
+
+10:24.420 --> 10:26.610
+And how do we now actually get people
+
+10:26.610 --> 10:28.020
+to change the way they do it?"
+
+10:28.020 --> 10:30.557
+And not by the way, go check themselves, right,
+
+10:30.557 --> 10:32.790
+'cause you have to build trust.
+
+10:32.790 --> 10:34.560
+And one of the most important things,
+
+10:34.560 --> 10:36.030
+you know, we just put out our tech vision
+
+10:36.030 --> 10:37.083
+that we talk a lot about is trust,
+
+10:37.083 --> 10:38.760
+<v Julia>Yeah.</v>
+<v ->because if you have</v>
+
+10:38.760 --> 10:42.783
+this great technology and people don't use it,
+
+10:43.890 --> 10:45.030
+first of all it won't learn,
+
+10:45.030 --> 10:47.490
+so it won't get better and it won't create value,
+
+10:47.490 --> 10:49.590
+but it's also not, there's no return on your investment.
+
+10:49.590 --> 10:51.660
+<v ->So you just segued to my next question,</v>
+
+10:51.660 --> 10:53.340
+which is about this concept of trust.
+
+10:53.340 --> 10:55.710
+I mean, in your Accenture Technology Vision report,
+
+10:55.710 --> 10:59.610
+it's the 25th annual one, which is kind of amazing
+
+10:59.610 --> 11:01.140
+if you think about how much the technology world
+
+11:01.140 --> 11:03.900
+has changed in the past two and a half decades,
+
+11:03.900 --> 11:06.450
+but this idea of trust is really essential
+
+11:06.450 --> 11:11.100
+to the future of AI, but it's not just trust of people
+
+11:11.100 --> 11:12.870
+believing that it's gonna work.
+
+11:12.870 --> 11:14.850
+Walk us through sort of the nuances of that
+
+11:14.850 --> 11:17.280
+and how companies here should be thinking
+
+11:17.280 --> 11:19.443
+about building that trust.
+
+11:20.280 --> 11:22.020
+<v ->It's such an important question,</v>
+
+11:22.020 --> 11:24.750
+and I think part of what's been missing is sort of,
+
+11:24.750 --> 11:27.063
+there's two dimensions to the trust.
+
+11:28.050 --> 11:32.580
+One dimension, as you said, is does it actually work, right?
+
+11:32.580 --> 11:37.020
+And that trust comes from using it.
+
+11:37.020 --> 11:39.240
+And then as you use it, by the way,
+
+11:39.240 --> 11:42.060
+it doesn't work at the beginning, it has to learn and that.
+
+11:42.060 --> 11:45.360
+And so there's a defined way of building that trust, right?
+
+11:45.360 --> 11:46.830
+If you get people to learn it, et cetera,
+
+11:46.830 --> 11:49.020
+they can see that it works.
+
+11:49.020 --> 11:51.240
+Now you have to have change management,
+
+11:51.240 --> 11:52.950
+you have to build it in,
+
+11:52.950 --> 11:56.010
+but that's in some ways the easiest part of trust.
+
+11:56.010 --> 11:58.083
+It's an important step, but it's important.
+
+11:58.083 --> 12:03.083
+It's the emotional side of trust that is equally important,
+
+12:04.230 --> 12:05.790
+and that's the trust where it says,
+
+12:05.790 --> 12:08.373
+wait a minute, is this gonna take my job?
+
+12:10.200 --> 12:14.160
+You know, what's the future gonna look like, right?
+
+12:14.160 --> 12:15.960
+Is it gonna hurt parts of our business?
+
+12:15.960 --> 12:19.710
+It's the part that people get emotionally worried about.
+
+12:19.710 --> 12:21.330
+Are my kids gonna have a job?
+
+12:21.330 --> 12:24.720
+I mean, I travel and talk to people all over the world,
+
+12:24.720 --> 12:26.910
+and a lot of times in those casual conversations
+
+12:26.910 --> 12:27.870
+when I'm with companies,
+
+12:27.870 --> 12:30.547
+those are the things they kind of ask me on the side,
+
+12:30.547 --> 12:32.907
+"Julie, what should my kids study?"
+
+12:34.110 --> 12:39.110
+And that affects whether you're using it and embracing it.
+
+12:40.020 --> 12:43.620
+And so one of the things that we do is really recommend,
+
+12:43.620 --> 12:46.440
+and I talk to a lot of CEOs and CHRO's
+
+12:46.440 --> 12:48.240
+as you're thinking it is that
+
+12:48.240 --> 12:52.860
+it's important as you think about like change and adoption,
+
+12:52.860 --> 12:55.800
+that you recognize both components.
+
+12:55.800 --> 12:59.070
+One is about learning and practice.
+
+12:59.070 --> 13:02.550
+The other emotional is about transparency.
+
+13:02.550 --> 13:04.710
+It's about empathy, right?
+
+13:04.710 --> 13:08.640
+It's also, it's very much about being direct as well.
+
+13:08.640 --> 13:11.670
+If you get those two pieces right,
+
+13:11.670 --> 13:14.220
+you will accelerate your ability
+
+13:14.220 --> 13:16.080
+to really reinvent what you're doing,
+
+13:16.080 --> 13:19.680
+and instead of it sort of being a pull, right,
+
+13:19.680 --> 13:21.450
+you really open up.
+
+13:21.450 --> 13:24.030
+And I think people want this.
+
+13:24.030 --> 13:25.200
+I mean, we're all using it.
+
+13:25.200 --> 13:28.620
+I was cracking up because my fifth grade niece
+
+13:28.620 --> 13:32.850
+just sent all these AI avatars of our whole family.
+
+13:32.850 --> 13:35.010
+She's in fifth grade, like, you know,
+
+13:35.010 --> 13:37.920
+and she sent it on her grandmother's phone,
+
+13:37.920 --> 13:39.420
+and of course the grandmother's like thinking,
+
+13:39.420 --> 13:40.253
+this is great.
+
+13:40.253 --> 13:42.330
+Like this is a part of our life.
+
+13:42.330 --> 13:43.807
+It's not like you go to work and you say,
+
+13:43.807 --> 13:44.970
+"Well, I don't want AI there.
+
+13:44.970 --> 13:47.340
+I only want it at home."
+
+13:47.340 --> 13:50.670
+But it's incumbent on us as leaders
+
+13:50.670 --> 13:53.820
+to actually bring people along that journey.
+
+13:53.820 --> 13:55.770
+And at Accenture we have leadership essentials,
+
+13:55.770 --> 13:58.710
+like how, you know, this is what it takes to be a leader.
+
+13:58.710 --> 14:03.710
+And one of the most important is the courage to change
+
+14:04.020 --> 14:08.490
+and the ability to bring people along the journey.
+
+14:08.490 --> 14:10.140
+Both are important.
+
+14:10.140 --> 14:14.220
+You have to invest as a company and a leader.
+
+14:14.220 --> 14:17.700
+You owe it to your people to work on that piece.
+
+14:17.700 --> 14:20.520
+<v ->So that leads directly to this question of the workforce</v>
+
+14:20.520 --> 14:23.310
+and those concerns you hear from people all over the world,
+
+14:23.310 --> 14:26.370
+is this AI going to be taking my jobs?
+
+14:26.370 --> 14:29.370
+And if it's not gonna be taking someone's job,
+
+14:29.370 --> 14:30.270
+what do they need to do
+
+14:30.270 --> 14:33.330
+to make sure that they're still contributing
+
+14:33.330 --> 14:35.520
+and is what they do have to be different,
+
+14:35.520 --> 14:36.690
+have to be evolved?
+
+14:36.690 --> 14:39.420
+So one thing I think is so interesting about Accenture
+
+14:39.420 --> 14:42.900
+is as you are innovating and disrupting your own business
+
+14:42.900 --> 14:45.600
+and deploying all these technologies on your own business,
+
+14:45.600 --> 14:46.650
+you're advising companies
+
+14:46.650 --> 14:50.103
+across every single different sector on how to do the same.
+
+14:50.940 --> 14:54.120
+What are the workforce implications for your business,
+
+14:54.120 --> 14:56.283
+but also across industries?
+
+14:57.930 --> 15:00.300
+<v ->If you're only to remember one thing</v>
+
+15:00.300 --> 15:02.400
+about workforce implications, and again,
+
+15:02.400 --> 15:05.140
+I'm always the biases like on being practical
+
+15:06.030 --> 15:11.030
+is AI changes the skills that your leaders need.
+
+15:12.150 --> 15:13.750
+So I'm gonna start with leaders.
+
+15:14.760 --> 15:19.560
+And what I mean by that is if AI can reinvent
+
+15:19.560 --> 15:21.330
+like how you're going to market
+
+15:21.330 --> 15:23.460
+or how you're running finance,
+
+15:23.460 --> 15:25.890
+then everything you know about process
+
+15:25.890 --> 15:27.720
+and you have to actually understand,
+
+15:27.720 --> 15:30.000
+well, what can the technology do
+
+15:30.000 --> 15:32.193
+in order to now reinvent it?
+
+15:33.840 --> 15:35.430
+Most of us, almost all of us,
+
+15:35.430 --> 15:37.650
+didn't grow up with something called gen AI
+
+15:37.650 --> 15:42.650
+or gen tech architecture, so now skill is,
+
+15:43.860 --> 15:45.990
+you must understand this technology.
+
+15:45.990 --> 15:46.983
+That's a skill.
+
+15:48.120 --> 15:52.620
+And so you have to look at all of the job descriptions
+
+15:52.620 --> 15:55.230
+and say of the skills they need,
+
+15:55.230 --> 15:56.400
+this is one of those skills.
+
+15:56.400 --> 15:57.780
+And then you have to say,
+
+15:57.780 --> 16:00.390
+and how are they gonna get it, right?
+
+16:00.390 --> 16:02.640
+We've been talking about, and one of my most passionate,
+
+16:02.640 --> 16:06.210
+you know, things is around skills-based human resources.
+
+16:06.210 --> 16:08.610
+So about five years ago,
+
+16:08.610 --> 16:11.910
+we built our own database of all of our skills.
+
+16:11.910 --> 16:13.920
+So I have 780,000 people
+
+16:13.920 --> 16:16.290
+and I have all of their skills in a database.
+
+16:16.290 --> 16:18.870
+I can actually run an algorithm to say,
+
+16:18.870 --> 16:20.490
+hey, I need some more cloud people.
+
+16:20.490 --> 16:23.700
+Who could be upskilled in 20 hours, right?
+
+16:23.700 --> 16:25.590
+But why do I care so much about it?
+
+16:25.590 --> 16:26.790
+Is it goes back to,
+
+16:26.790 --> 16:28.470
+how are we gonna invest in our people
+
+16:28.470 --> 16:29.940
+to bring them along the journey?
+
+16:29.940 --> 16:31.860
+If you don't understand, first of all,
+
+16:31.860 --> 16:33.390
+what skills are needed to do the job
+
+16:33.390 --> 16:35.190
+and then how they're changing it,
+
+16:35.190 --> 16:37.620
+you won't be able to give them the education and training
+
+16:37.620 --> 16:38.880
+to allow them to do it.
+
+16:38.880 --> 16:40.560
+Which means you won't get the value,
+
+16:40.560 --> 16:44.550
+but it also means they can't rise to the occasion.
+
+16:44.550 --> 16:46.440
+And so we're doing that right now.
+
+16:46.440 --> 16:47.610
+The first thing we did
+
+16:47.610 --> 16:50.100
+when Jenny and I hit about two years earlier,
+
+16:50.100 --> 16:51.180
+we were already experimenting,
+
+16:51.180 --> 16:54.210
+the very first thing we did was we went to our technology,
+
+16:54.210 --> 16:56.820
+all of our main roles, and we said,
+
+16:56.820 --> 17:00.450
+which of the roles are affected in the different skills,
+
+17:00.450 --> 17:01.710
+and what are the brand new roles?
+
+17:01.710 --> 17:04.230
+Like prompt engineering didn't exist, right?
+
+17:04.230 --> 17:06.360
+And now we're systematically looking
+
+17:06.360 --> 17:11.250
+at every role at Accenture and saying, what are the skills,
+
+17:11.250 --> 17:13.110
+and then how are we gonna give it to them?
+
+17:13.110 --> 17:16.410
+<v ->But given that there are these additional efficiencies,</v>
+
+17:16.410 --> 17:17.370
+greater accuracy
+
+17:17.370 --> 17:20.340
+without having humans double checking things,
+
+17:20.340 --> 17:23.370
+will we see fundamentally that you need fewer people
+
+17:23.370 --> 17:24.480
+to do each job?
+
+17:24.480 --> 17:26.250
+Is that what it's gonna come down to,
+
+17:26.250 --> 17:27.540
+not just in your industry,
+
+17:27.540 --> 17:29.850
+but in in all these other industries as well?
+
+17:29.850 --> 17:31.980
+Will we have one paralegal
+
+17:31.980 --> 17:34.593
+be able to do the work of 20 paralegals?
+
+17:35.430 --> 17:38.070
+Are workforce reductions inevitable?
+
+17:38.070 --> 17:41.943
+<v ->Absolutely, this just to be clear.</v>
+
+17:43.140 --> 17:46.890
+AI does things that we have people,
+
+17:46.890 --> 17:49.320
+mostly it's tasks though.
+
+17:49.320 --> 17:50.970
+One of the biggest complaints they actually have
+
+17:50.970 --> 17:53.287
+is that people, CEOs will say,
+
+17:53.287 --> 17:56.007
+"I'm using all this AI and I don't have less people,"
+
+17:57.300 --> 18:00.210
+and that's because they haven't reimagined the work.
+
+18:00.210 --> 18:02.730
+They've just taken some of the tasks.
+
+18:02.730 --> 18:05.610
+<v ->But do you think they will end up doing mass layoffs?</v>
+
+18:05.610 --> 18:06.750
+I mean, what is the?
+<v ->No,</v>
+
+18:06.750 --> 18:08.670
+the reason I don't think they'll end up doing massive,
+
+18:08.670 --> 18:10.140
+so will there be a reduction?
+
+18:10.140 --> 18:12.750
+Yes, there should be.
+
+18:12.750 --> 18:14.790
+This goes back to skills and training,
+
+18:14.790 --> 18:19.320
+but it opens up all these new opportunities for the company.
+
+18:19.320 --> 18:23.430
+And so that's where you have to get the balance, right?
+
+18:23.430 --> 18:28.020
+Every stage of technology, think about basic automation.
+
+18:28.020 --> 18:31.680
+Back in 2015, we put out our first platform called myWizard.
+
+18:31.680 --> 18:36.680
+We used to have tens of thousands of people doing testing,
+
+18:38.520 --> 18:41.193
+and that platform automated most of them away.
+
+18:42.150 --> 18:46.380
+We upskilled them and they're doing different things, right?
+
+18:46.380 --> 18:49.623
+We also have new businesses we didn't have in 2015.
+
+18:50.490 --> 18:55.490
+So you can't stop, each wave of technology can't stop.
+
+18:55.980 --> 18:58.290
+The question is,
+
+18:58.290 --> 19:01.890
+do you have the ability to use the technology
+
+19:01.890 --> 19:03.960
+to build the new businesses,
+
+19:03.960 --> 19:05.880
+and do you have the ability to re-skill,
+
+19:05.880 --> 19:08.790
+but not everybody's gonna be re-skilled, right?
+
+19:08.790 --> 19:09.623
+We know that.
+
+19:09.623 --> 19:12.840
+That's why public and private partnerships are so important.
+
+19:12.840 --> 19:15.600
+That's why we have to think about K through 12 education.
+
+19:15.600 --> 19:17.640
+We have to think about college education.
+
+19:17.640 --> 19:21.390
+And we as companies need to be able to invest.
+
+19:21.390 --> 19:25.200
+We launched a business last year called LearnVantage,
+
+19:25.200 --> 19:27.540
+which provides upskilling.
+
+19:27.540 --> 19:30.690
+We spend about 1,000,000,000 a year on it today.
+
+19:30.690 --> 19:33.420
+And a lot of our clients, once this AI hit,
+
+19:33.420 --> 19:35.460
+were really asking us to help them.
+
+19:35.460 --> 19:37.440
+So we launched the business.
+
+19:37.440 --> 19:40.650
+I viewed that as much about my purpose
+
+19:40.650 --> 19:43.560
+to deliver on the promise of technology and human ingenuity
+
+19:43.560 --> 19:46.830
+because we have to focus as companies now
+
+19:46.830 --> 19:48.690
+on the human ingenuity part.
+
+19:48.690 --> 19:50.610
+But anyone that said like,
+
+19:50.610 --> 19:54.870
+of course AI is going to reduce some jobs,
+
+19:54.870 --> 19:57.480
+and now the idea is, and what are they gonna create?
+
+19:57.480 --> 19:58.770
+There are jobs that don't exist,
+
+19:58.770 --> 20:03.000
+but there's also entirely new business models
+
+20:03.000 --> 20:05.850
+that can do hyper-personalization, for example,
+
+20:05.850 --> 20:09.000
+that opens a whole new way of working.
+
+20:09.000 --> 20:13.860
+We're working with clients now where the idea is at scale,
+
+20:13.860 --> 20:18.000
+how do you be able to interact with a product,
+
+20:18.000 --> 20:22.860
+create a whole campaign for a client to draw something new?
+
+20:22.860 --> 20:25.590
+Those are new skills for marketing, right?
+
+20:25.590 --> 20:27.420
+They're not gonna do the same repetitive stuff,
+
+20:27.420 --> 20:30.510
+but now they're interacting differently, right?
+
+20:30.510 --> 20:32.220
+We're working, if you think about
+
+20:32.220 --> 20:34.950
+some of the stuff we're doing, like in the energy piece,
+
+20:34.950 --> 20:36.840
+on the one hand we're driving efficiencies.
+
+20:36.840 --> 20:40.080
+Those same companies are then turning and using that money
+
+20:40.080 --> 20:42.810
+to invest in doing more in renewables.
+
+20:42.810 --> 20:43.800
+And they're taking people
+
+20:43.800 --> 20:45.960
+that they used to take more time
+
+20:45.960 --> 20:47.850
+in the refinery doing the turnaround,
+
+20:47.850 --> 20:48.683
+and now they're saying,
+
+20:48.683 --> 20:50.550
+okay, now we want you to come over here
+
+20:50.550 --> 20:52.320
+and we're training, right?
+
+20:52.320 --> 20:54.930
+It goes back to being quite intentional
+
+20:54.930 --> 20:57.570
+and strategic about your talent.
+
+20:57.570 --> 20:59.820
+<v ->Yeah, and it's interesting because it seems like</v>
+
+20:59.820 --> 21:01.770
+we know where some of these jobs will be lost,
+
+21:01.770 --> 21:04.500
+but all the future jobs will be created.
+
+21:04.500 --> 21:05.700
+Those are maybe in industries
+
+21:05.700 --> 21:07.620
+we're just starting to see emerge.
+
+21:07.620 --> 21:08.453
+Since I'm asking you
+
+21:08.453 --> 21:11.550
+about all the the negative potential implications
+
+21:11.550 --> 21:14.550
+of technologies like AI, I wanna talk about security,
+
+21:14.550 --> 21:18.810
+cybersecurity, data privacy, intellectual property security.
+
+21:18.810 --> 21:20.670
+How should the companies here,
+
+21:20.670 --> 21:22.770
+and how do you advise your clients
+
+21:22.770 --> 21:25.410
+to think about security in a different way,
+
+21:25.410 --> 21:28.020
+given just how much data is being collected
+
+21:28.020 --> 21:30.360
+and deployed through AI?
+
+21:30.360 --> 21:33.210
+<v ->Well, first of all, AI is one of the best tools</v>
+
+21:33.210 --> 21:35.130
+to make us all more secure.
+
+21:35.130 --> 21:36.990
+And you know,
+
+21:36.990 --> 21:39.570
+that's one of the most important things to understand
+
+21:39.570 --> 21:42.690
+is that a lot of the incidents around security
+
+21:42.690 --> 21:45.930
+come from people making mistakes, right?
+
+21:45.930 --> 21:47.910
+It's comes from human error, still,
+
+21:47.910 --> 21:49.860
+it's the number one cause, right?
+
+21:49.860 --> 21:53.400
+AI is actually gonna help protect data,
+
+21:53.400 --> 21:55.170
+it's gonna protect the enterprise.
+
+21:55.170 --> 21:56.970
+And that's probably the most important,
+
+21:56.970 --> 21:59.310
+you know, thing to walk away from on security
+
+21:59.310 --> 22:03.150
+is the question that I tell CEOs to ask is,
+
+22:03.150 --> 22:08.150
+how am I using the AI to now be more secure?
+
+22:08.610 --> 22:13.610
+And the idea of, you know, digital, the internet, all that,
+
+22:14.130 --> 22:17.130
+it's been expanding, that risk has been expanding.
+
+22:17.130 --> 22:19.170
+The biggest thing that's changed
+
+22:19.170 --> 22:22.170
+with the advent of accessible AI in this way
+
+22:22.170 --> 22:27.170
+is now we have much better tools than we did two years ago
+
+22:27.450 --> 22:28.800
+to help protect it.
+
+22:28.800 --> 22:31.113
+<v ->And do you think we'll see AI regulation?</v>
+
+22:32.130 --> 22:32.963
+<v ->I hope so.</v>
+
+22:32.963 --> 22:35.820
+<v ->And what kind of AI regulation would you like to see</v>
+
+22:35.820 --> 22:36.960
+and what type of regulation
+
+22:36.960 --> 22:39.000
+do you think could be detrimental?
+
+22:39.000 --> 22:41.340
+<v ->Well, I think for example, in the US,</v>
+
+22:41.340 --> 22:44.280
+we've taken a very much of a perspective
+
+22:44.280 --> 22:46.170
+of innovation first, right?
+
+22:46.170 --> 22:49.350
+So how do you do the innovative while doing the safeguards?
+
+22:49.350 --> 22:52.170
+Why do I say I hope so?
+
+22:52.170 --> 22:55.650
+Because there's certain things like around data privacy
+
+22:55.650 --> 22:57.540
+where you want consistency,
+
+22:57.540 --> 23:01.470
+which enables to the innovation, right?
+
+23:01.470 --> 23:05.040
+So no one, if you, you know,
+
+23:05.040 --> 23:07.770
+we're the partners with every ecosystem partner, right?
+
+23:07.770 --> 23:09.810
+I don't know a single ecosystem partner
+
+23:09.810 --> 23:12.720
+who says there should be no regulation.
+
+23:12.720 --> 23:16.560
+In fact, what they ask for is consistent regulations.
+
+23:16.560 --> 23:19.177
+So in the US, that means let's not have something different
+
+23:19.177 --> 23:21.330
+in every state.
+<v Julia>The patchwork</v>
+
+23:21.330 --> 23:22.163
+is always a nightmare.
+<v ->Right?</v>
+
+23:22.163 --> 23:24.390
+But also as global companies,
+
+23:24.390 --> 23:27.570
+let's try to be as interoperable as possible,
+
+23:27.570 --> 23:29.980
+so that you're not spending lots of money
+
+23:31.200 --> 23:34.680
+complying with different regulations which are different,
+
+23:34.680 --> 23:37.380
+but not in kind like, not really in kind, right?
+
+23:37.380 --> 23:40.920
+So we think regulation is really important
+
+23:40.920 --> 23:43.950
+and the principle is balancing innovation
+
+23:43.950 --> 23:45.660
+with regulation and protection.
+
+23:45.660 --> 23:47.940
+<v ->One of the most exciting things I've seen here at CES</v>
+
+23:47.940 --> 23:49.560
+are these autonomous robots,
+
+23:49.560 --> 23:51.300
+and I know you have a big partnership
+
+23:51.300 --> 23:53.400
+among your many announcements here,
+
+23:53.400 --> 23:55.890
+your partnership with NVIDIA and KION group
+
+23:55.890 --> 23:59.610
+to create these new AI powered digital twins,
+
+23:59.610 --> 24:03.000
+which aim to really transform warehouses.
+
+24:03.000 --> 24:04.500
+For those of us here
+
+24:04.500 --> 24:06.420
+who haven't gotten to see them in action
+
+24:06.420 --> 24:08.130
+or seen these, this announcement yet,
+
+24:08.130 --> 24:09.030
+walk us through what this means
+
+24:09.030 --> 24:11.370
+and why you think this is so meaningful.
+
+24:11.370 --> 24:14.100
+<v ->Well, so there's two things to remember.</v>
+
+24:14.100 --> 24:17.490
+50% and physical AI.
+
+24:17.490 --> 24:22.380
+So we created a warehouse solution with KION and NVIDIA.
+
+24:22.380 --> 24:25.860
+And so think about most warehouses today, right,
+
+24:25.860 --> 24:29.640
+still have lots of people, forklifts, you're running around,
+
+24:29.640 --> 24:31.980
+and we believe this solution
+
+24:31.980 --> 24:34.380
+will reduce manual labor by 50%,
+
+24:34.380 --> 24:38.070
+which is huge because in many countries in the world,
+
+24:38.070 --> 24:39.720
+you cannot get enough manual labor.
+
+24:39.720 --> 24:42.750
+Like there is a shortage of people for these jobs.
+
+24:42.750 --> 24:47.040
+It'll also reduce operating costs by 50% we believe,
+
+24:47.040 --> 24:49.980
+and planning and optimization by 50%.
+
+24:49.980 --> 24:53.220
+So those are real tangible business outcomes.
+
+24:53.220 --> 24:56.430
+But it's also super exciting because it's the first
+
+24:56.430 --> 24:59.760
+like really huge scale use of physical AI.
+
+24:59.760 --> 25:01.290
+In fact, I was with Jensen yesterday
+
+25:01.290 --> 25:03.630
+and we were doing an interview and you know,
+
+25:03.630 --> 25:05.760
+he's like, "This is the first of its kind,"
+
+25:05.760 --> 25:10.380
+and it's using these, the capabilities of AI,
+
+25:10.380 --> 25:13.500
+but in the physical world, right,
+
+25:13.500 --> 25:18.420
+which allows you to, you know, it senses gravity and objects
+
+25:18.420 --> 25:23.310
+and continuously learning, so safety is much better.
+
+25:23.310 --> 25:24.300
+You can, and it, you know,
+
+25:24.300 --> 25:25.800
+it's actually amazing as I dug into it,
+
+25:25.800 --> 25:28.230
+I had no idea actually how,
+
+25:28.230 --> 25:29.760
+I always talk about supply chain
+
+25:29.760 --> 25:31.320
+being the next digital frontier,
+
+25:31.320 --> 25:32.670
+but when you really get into it,
+
+25:32.670 --> 25:35.640
+like it's so not automated today, right?
+
+25:35.640 --> 25:38.130
+And yet, you know, preparing for Black Friday
+
+25:38.130 --> 25:40.740
+is very, very different from a slow summer period,
+
+25:40.740 --> 25:43.560
+and all of that is still so manual.
+
+25:43.560 --> 25:47.850
+So real tangible outcomes,
+
+25:47.850 --> 25:52.350
+breakthroughs in how to bring AI to the physical world.
+
+25:52.350 --> 25:54.270
+And so it's quite exciting.
+
+25:54.270 --> 25:55.350
+<v ->Yeah and it's interesting,</v>
+
+25:55.350 --> 25:57.390
+so it seems like this idea of physical AI,
+
+25:57.390 --> 25:59.490
+this is gonna be really what we hear more and more about
+
+25:59.490 --> 26:01.470
+after the past few years were dominated
+
+26:01.470 --> 26:03.180
+more by the AI software.
+
+26:03.180 --> 26:05.430
+Is this something you're watching being deployed more
+
+26:05.430 --> 26:06.930
+on the physical AI level?
+
+26:06.930 --> 26:09.270
+<v ->Yeah, in fact, if, I hope you all read our tech vision,</v>
+
+26:09.270 --> 26:11.520
+it is our 25th anniversary
+
+26:11.520 --> 26:14.460
+and one of the big trends we talk about are robotics,
+
+26:14.460 --> 26:16.080
+which I think are super exciting.
+
+26:16.080 --> 26:17.640
+And if you're walking the floor, you've seen,
+
+26:17.640 --> 26:19.560
+there's so many different manifestations
+
+26:19.560 --> 26:20.880
+in health and wellness.
+
+26:20.880 --> 26:23.850
+I mean, it's really incredible what's happening there,
+
+26:23.850 --> 26:27.960
+and it opens up a whole new way of really helping society
+
+26:27.960 --> 26:28.793
+and businesses,
+
+26:28.793 --> 26:30.930
+so robotics is something absolutely to watch.
+
+26:30.930 --> 26:35.100
+There's a lot of work still to be done, but it's, you know,
+
+26:35.100 --> 26:38.280
+really a breakthrough moment for physical AI.
+
+26:38.280 --> 26:39.930
+<v ->Yeah, I think this will be,</v>
+
+26:39.930 --> 26:42.540
+this year's CES will be the turning point for that.
+
+26:42.540 --> 26:45.360
+Before we're out of time, I wanna take a step back
+
+26:45.360 --> 26:48.510
+and have you reflect a little bit on what you have learned
+
+26:48.510 --> 26:51.690
+by being able to work across all these different industries.
+
+26:51.690 --> 26:53.550
+And one thing that I find so fascinating
+
+26:53.550 --> 26:55.800
+is that you're able to take these learnings
+
+26:55.800 --> 26:57.300
+from the retail space
+
+26:57.300 --> 27:00.268
+and figure out what will be valuable to something
+
+27:00.268 --> 27:04.110
+in a different sector, looking at how AI has been deployed
+
+27:04.110 --> 27:05.880
+and tech systems have been deployed
+
+27:05.880 --> 27:07.620
+across all of these different industries
+
+27:07.620 --> 27:09.120
+that Accenture works with,
+
+27:09.120 --> 27:12.480
+are there certain best practices or commonalities
+
+27:12.480 --> 27:14.070
+that you were surprised to find
+
+27:14.070 --> 27:16.083
+have a sort of a universal value?
+
+27:17.995 --> 27:20.610
+<v ->I guess I would say I'm not surprised,</v>
+
+27:20.610 --> 27:22.980
+and more than industries, you know,
+
+27:22.980 --> 27:26.340
+we've always talked about people, process, technology.
+
+27:26.340 --> 27:29.490
+I think it's now people, process, technology, and data.
+
+27:29.490 --> 27:32.430
+And when I look across the industries,
+
+27:32.430 --> 27:36.360
+creating value comes down to those things.
+
+27:36.360 --> 27:38.310
+And I think that whoever came up
+
+27:38.310 --> 27:40.140
+with the people, process, technology,
+
+27:40.140 --> 27:42.000
+you know, that we've always talked about
+
+27:42.000 --> 27:44.764
+was very deliberate in putting people first, right?
+
+27:44.764 --> 27:48.960
+And I think, you know, as we move forward,
+
+27:48.960 --> 27:51.600
+it does matter looking back, right,
+
+27:51.600 --> 27:56.600
+is that we have always succeeded when we start with people
+
+27:56.820 --> 28:01.230
+and we understand how people will experience things
+
+28:01.230 --> 28:04.260
+because the best idea, as I used to call it,
+
+28:04.260 --> 28:07.140
+you know, everything looks good in a PowerPoint,
+
+28:07.140 --> 28:10.860
+and you actually go take it, start with people,
+
+28:10.860 --> 28:15.860
+and then process comes next because the best technology,
+
+28:15.870 --> 28:19.680
+if you can't actually change the way you work,
+
+28:19.680 --> 28:22.920
+the technology can be super cool,
+
+28:22.920 --> 28:25.380
+but it'll never create value.
+
+28:25.380 --> 28:28.470
+And then data is the thing that most of us missed
+
+28:28.470 --> 28:29.630
+over the years, right?
+
+28:29.630 --> 28:31.830
+It was always the one that's super expensive,
+
+28:31.830 --> 28:33.840
+people didn't wanna fix it, right,
+
+28:33.840 --> 28:38.070
+and it's something that now everybody pays attention to.
+
+28:38.070 --> 28:41.340
+So those are the just sort of the basics of like,
+
+28:41.340 --> 28:43.080
+as you sort of think about,
+
+28:43.080 --> 28:44.850
+you know, wherever you are in the world,
+
+28:44.850 --> 28:46.800
+whatever you do as a leader,
+
+28:46.800 --> 28:48.600
+when you think about am I using AI,
+
+28:48.600 --> 28:50.130
+just kind of grounding yourselves
+
+28:50.130 --> 28:53.160
+in things that actually we've known for years,
+
+28:53.160 --> 28:57.120
+and it really doesn't matter which industry you're in.
+
+28:57.120 --> 28:58.050
+The last thing I'd just say
+
+28:58.050 --> 29:01.050
+is like just kind of you as a person, right,
+
+29:01.050 --> 29:04.983
+is it's a really exciting time.
+
+29:06.250 --> 29:08.280
+It can also feel like a scary time,
+
+29:08.280 --> 29:11.640
+and so I just wanna maybe share it as we close.
+
+29:11.640 --> 29:14.070
+I have this little thing in my mud room,
+
+29:14.070 --> 29:17.220
+I live in the DC area, that my husband hung up,
+
+29:17.220 --> 29:18.540
+and he hung it up, right,
+
+29:18.540 --> 29:21.453
+the last couple years before I became the global CEO.
+
+29:22.530 --> 29:25.590
+It says, he likes really cheesy things, by the way,
+
+29:25.590 --> 29:27.750
+I'm just gonna give you that up front,
+
+29:27.750 --> 29:30.000
+but he won in this case 'cause it's super cheesy
+
+29:30.000 --> 29:32.610
+and I didn't wanna hang it, but I live by it now.
+
+29:32.610 --> 29:36.630
+It says, "If your dreams don't scare you,
+
+29:36.630 --> 29:38.520
+they're not big enough.
+
+29:38.520 --> 29:41.670
+If your dreams don't scare you, they're not big enough."
+
+29:41.670 --> 29:44.970
+And it's a personal motto of mine
+
+29:44.970 --> 29:46.560
+as a leader and as a person,
+
+29:46.560 --> 29:49.890
+because, you know, when I'm feeling like,
+
+29:49.890 --> 29:51.960
+wow, like this is big and it's different,
+
+29:51.960 --> 29:56.960
+then I know I'm pushing my organization and myself.
+
+29:57.090 --> 29:58.620
+If you go to work every day
+
+29:58.620 --> 30:00.360
+and you never feel a little like,
+
+30:00.360 --> 30:02.760
+wow, can we really pull this off?
+
+30:02.760 --> 30:06.990
+Then most likely someone is passing you by, right?
+
+30:06.990 --> 30:11.040
+And as an individual, we are all gonna have to change.
+
+30:11.040 --> 30:13.560
+I, you know, I'm changing the whole way I work
+
+30:13.560 --> 30:15.750
+and integrating AI and, you know,
+
+30:15.750 --> 30:17.187
+it sometimes it feels uncomfortable and like,
+
+30:17.187 --> 30:19.650
+you know, am I getting it right?
+
+30:19.650 --> 30:22.020
+But that's where you're dreaming big enough.
+
+30:22.020 --> 30:24.180
+You're not gonna wake up, right,
+
+30:24.180 --> 30:27.240
+and find yourself individually passed by.
+
+30:27.240 --> 30:28.650
+So I wanted to share that with you
+
+30:28.650 --> 30:32.070
+'cause it's something that does inspire me
+
+30:32.070 --> 30:34.170
+on those moments when you sort of look at it
+
+30:34.170 --> 30:36.210
+and you come to a place, CES, and you think like,
+
+30:36.210 --> 30:39.570
+wow, the amount of change is tremendous.
+
+30:39.570 --> 30:41.340
+<v ->And you're very optimistic.</v>
+
+30:41.340 --> 30:42.840
+<v ->I'm hugely optimistic.</v>
+
+30:42.840 --> 30:47.840
+I feel so privileged to lead right now
+
+30:48.420 --> 30:51.780
+because the opportunities with AI,
+
+30:51.780 --> 30:53.130
+and we didn't even really talk about
+
+30:53.130 --> 30:54.990
+like some of the amazing things that are happening
+
+30:54.990 --> 30:56.520
+with drug discovery.
+
+30:56.520 --> 30:57.480
+If you read our tech division,
+
+30:57.480 --> 31:00.480
+we talk about a company that's like creating drugs now
+
+31:00.480 --> 31:04.680
+in half the time you know what we can do for safety,
+
+31:04.680 --> 31:06.780
+what we can do to open up new things.
+
+31:06.780 --> 31:08.430
+I think it's amazing.
+
+31:08.430 --> 31:12.513
+And so we've gotta be disciplined, right, that structure,
+
+31:13.530 --> 31:17.100
+and we've gotta dream big to make sure
+
+31:17.100 --> 31:22.100
+that we use this tremendous technology to benefit everyone.
+
+31:22.170 --> 31:24.030
+<v ->Well that is the perfect note to end on.</v>
+
+31:24.030 --> 31:25.710
+Julie Sweet CEO of Accenture Global,
+
+31:25.710 --> 31:26.577
+thank you so much
+
+31:26.577 --> 31:27.410
+for joining us.
+<v ->Thank you so much.</v>
+
+31:27.410 --> 31:28.923
+Thanks Julia.
+<v Julia>Thank you.</v>
+
+31:28.923 --> 31:33.923
+(audience applauds)
+(upbeat music)
+

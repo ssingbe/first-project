@@ -1,0 +1,3920 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.111 --> 00:02.778
+(rousing music)
+
+2
+00:10.587 --> 00:13.020
+<v ->Who has on day one?</v>
+
+3
+00:13.020 --> 00:15.870
+Who's day one today? Anybody?
+
+4
+00:15.870 --> 00:17.163
+Day one people? Day two?
+
+5
+00:18.510 --> 00:19.770
+Day one, day one, okay.
+
+6
+00:19.770 --> 00:20.770
+Yeah, yeah. Day two?
+
+7
+00:21.780 --> 00:23.343
+Got a few. Any day threes?
+
+8
+00:24.240 --> 00:26.193
+Yeah, there we go. Day fours?
+
+9
+00:27.510 --> 00:29.760
+Wow. Right on. Day five?
+
+10
+00:29.760 --> 00:31.500
+Any other media? Yep. Yep.
+
+11
+00:31.500 --> 00:34.320
+I started on Sunday at one o'clock.
+
+12
+00:34.320 --> 00:38.790
+Yeah, great to see you all. Absolutely.
+
+13
+00:38.790 --> 00:41.160
+Yeah, day five for me.
+
+14
+00:41.160 --> 00:43.380
+Very glad to see y'all.
+
+15
+00:43.380 --> 00:47.160
+I've been planning out how to stay awake and energized
+
+16
+00:47.160 --> 00:50.100
+through Thursday and Friday since December 1st.
+
+17
+00:50.100 --> 00:51.840
+Very good to see y'all.
+
+18
+00:51.840 --> 00:54.600
+We've got about 14 hours of recording in on my channel.
+
+19
+00:54.600 --> 00:58.650
+I'm Dr. Doreen Galli, Chief of Research at TBW Advisors.
+
+20
+00:58.650 --> 01:00.990
+That's Technical Business Whispers.
+
+21
+01:00.990 --> 01:03.630
+The answer is always in the whispers.
+
+22
+01:03.630 --> 01:08.160
+And we've been working on our conference whispers, CES 2025,
+
+23
+01:08.160 --> 01:09.783
+and we can't wait to get it out.
+
+24
+01:10.797 --> 01:14.040
+But in the meantime, I wanna ask you if you have a phone,
+
+25
+01:14.040 --> 01:17.340
+'cause I want you to pick it up and first put it on mute,
+
+26
+01:17.340 --> 01:20.370
+and second, do me a huge favor.
+
+27
+01:20.370 --> 01:23.580
+Go to YouTube and please subscribe to my channel.
+
+28
+01:23.580 --> 01:27.450
+Seriously, I'm like 34 away from getting paid for ads.
+
+29
+01:27.450 --> 01:28.590
+So do me a favor,
+
+30
+01:28.590 --> 01:31.230
+and if anyone hits the 1,000th subscriber in the room,
+
+31
+01:31.230 --> 01:33.630
+please scream so we can celebrate.
+
+32
+01:33.630 --> 01:36.600
+I think we got enough people in here to make that happen.
+
+33
+01:36.600 --> 01:40.920
+So TBW Advisors, Technical Business Whispers.
+
+34
+01:40.920 --> 01:44.040
+I got over 14 hours complete plus releases,
+
+35
+01:44.040 --> 01:46.950
+complete shows from Unveiled and so on,
+
+36
+01:46.950 --> 01:48.240
+so really appreciate it.
+
+37
+01:48.240 --> 01:50.730
+And if anyone is the 1,000th subscriber,
+
+38
+01:50.730 --> 01:52.983
+please shout out loud so we can celebrate.
+
+39
+01:53.910 --> 01:55.443
+So a little bit about me.
+
+40
+01:56.490 --> 02:01.200
+I solve really, really tough problems.
+
+41
+02:01.200 --> 02:04.710
+If it's a problem 14 people have failed before at it,
+
+42
+02:04.710 --> 02:05.823
+I raise my hand.
+
+43
+02:06.660 --> 02:09.480
+If it's something that they consider impossible
+
+44
+02:09.480 --> 02:10.740
+and it's been difficult,
+
+45
+02:10.740 --> 02:13.440
+but it has to get done for the business,
+
+46
+02:13.440 --> 02:15.720
+that's when they called Doreen.
+
+47
+02:15.720 --> 02:19.410
+So outside of getting most of the.com on,
+
+48
+02:19.410 --> 02:21.393
+the companies during the .com era,
+
+49
+02:22.230 --> 02:24.960
+I digitally transformed Dell Manufacturing
+
+50
+02:24.960 --> 02:28.860
+and about 1,100 other companies since then as an analyst.
+
+51
+02:28.860 --> 02:31.440
+I integrated eight acquisitions for Deutsche Post World Net,
+
+52
+02:31.440 --> 02:34.143
+and was a Fortune 10 officer before the age of 40.
+
+53
+02:35.280 --> 02:37.830
+Most recent problem I got called in to solve
+
+54
+02:37.830 --> 02:40.170
+was on a sabbatical at Microsoft
+
+55
+02:40.170 --> 02:42.480
+where I was designing the next generation of Azure,
+
+56
+02:42.480 --> 02:45.030
+including installing a data boundary.
+
+57
+02:45.030 --> 02:46.860
+For those of you not familiar,
+
+58
+02:46.860 --> 02:49.020
+Azure used to have paired regions.
+
+59
+02:49.020 --> 02:51.060
+That meant they explicitly were moving data
+
+60
+02:51.060 --> 02:53.493
+from one region to another for resiliency,
+
+61
+02:55.080 --> 02:56.730
+and they were also very transparent.
+
+62
+02:56.730 --> 02:58.350
+So it wasn't just customer data,
+
+63
+02:58.350 --> 02:59.880
+but all the log and metadata,
+
+64
+02:59.880 --> 03:00.960
+and they told the whole world
+
+65
+03:00.960 --> 03:03.870
+where all of those dittle related datas.
+
+66
+03:03.870 --> 03:05.010
+And so, because of that,
+
+67
+03:05.010 --> 03:07.950
+the architecture had to accommodate it all as well.
+
+68
+03:07.950 --> 03:09.600
+Tons of fun.
+
+69
+03:09.600 --> 03:13.500
+But today, we're here to talk about data collection,
+
+70
+03:13.500 --> 03:16.230
+privacy, and why you should care.
+
+71
+03:16.230 --> 03:18.900
+And lemme tell you, I have the most amazing panel,
+
+72
+03:18.900 --> 03:20.190
+and they don't always agree.
+
+73
+03:20.190 --> 03:21.840
+So we're gonna have a great session.
+
+74
+03:21.840 --> 03:23.790
+So without further ado, I'll take my seat,
+
+75
+03:23.790 --> 03:27.060
+and I would love my panelists to introduce themselves.
+
+76
+03:27.060 --> 03:27.893
+<v ->Hi, everyone.</v>
+
+77
+03:27.893 --> 03:29.310
+I'm Kate Barecchia.
+
+78
+03:29.310 --> 03:31.080
+I'm Deputy General Counsel
+
+79
+03:31.080 --> 03:34.800
+and Global Data Privacy Officer at Imperva.
+
+80
+03:34.800 --> 03:37.890
+At Imperva, we focus on cybersecurity,
+
+81
+03:37.890 --> 03:40.350
+and we're sort of invisibly in front
+
+82
+03:40.350 --> 03:44.130
+of a lot of the websites and data that you use today.
+
+83
+03:44.130 --> 03:46.680
+I'm really excited that all of you are here today.
+
+84
+03:46.680 --> 03:48.903
+So thank you so much for joining us.
+
+85
+03:51.070 --> 03:54.840
+I'm happy to have three certifications in data privacy
+
+86
+03:54.840 --> 03:59.070
+from the International Association of Privacy Professionals,
+
+87
+03:59.070 --> 04:04.070
+and I'm also a fellow of information privacy from the IAPP.
+
+88
+04:04.350 --> 04:06.180
+My background is in engineering,
+
+89
+04:06.180 --> 04:11.130
+and I find that that enables me to serve as a good bridge
+
+90
+04:11.130 --> 04:15.300
+between sometimes the complicated regulatory schemes we have
+
+91
+04:15.300 --> 04:17.310
+and the technical know-how that it takes
+
+92
+04:17.310 --> 04:19.620
+to build products and solutions
+
+93
+04:19.620 --> 04:22.350
+that comply with those regulations.
+
+94
+04:22.350 --> 04:26.340
+Over the past few years, I've built two privacy programs
+
+95
+04:26.340 --> 04:28.920
+for global compliance from scratch,
+
+96
+04:28.920 --> 04:31.200
+and I'm really excited to share today
+
+97
+04:31.200 --> 04:33.630
+some of the pain points and other things
+
+98
+04:33.630 --> 04:35.043
+I've learned along the way.
+
+99
+04:36.810 --> 04:38.160
+<v ->All right. Thank you very much, Doreen,</v>
+
+100
+04:38.160 --> 04:39.540
+for bringing me onto this panel,
+
+101
+04:39.540 --> 04:41.040
+and I'm very happy to be
+
+102
+04:41.040 --> 04:43.380
+amongst these illustrious colleagues of mine.
+
+103
+04:43.380 --> 04:44.640
+My name is Olaf Groth,
+
+104
+04:44.640 --> 04:46.920
+I'm the CEO of Cambrian Futures,
+
+105
+04:46.920 --> 04:49.200
+which is an analyst think tank,
+
+106
+04:49.200 --> 04:52.560
+as it were, on the intersections of emerging tech,
+
+107
+04:52.560 --> 04:54.483
+business strategy and policy.
+
+108
+04:55.530 --> 04:57.390
+I also am the CEO of Cambrian Labs,
+
+109
+04:57.390 --> 05:00.040
+which has invented the Bouncer Bot
+
+110
+05:01.470 --> 05:04.680
+privacy inclusive data access agent.
+
+111
+05:04.680 --> 05:07.260
+I'll be talking about that concept here today.
+
+112
+05:07.260 --> 05:09.060
+And I'm a professional faculty member,
+
+113
+05:09.060 --> 05:10.170
+a professor of practice,
+
+114
+05:10.170 --> 05:12.000
+or professor of industry, as they say,
+
+115
+05:12.000 --> 05:14.790
+at UC Berkeley School of Business, UT Malaysia,
+
+116
+05:14.790 --> 05:17.100
+and Halt International Business School.
+
+117
+05:17.100 --> 05:18.300
+Coming to this conversation
+
+118
+05:18.300 --> 05:21.660
+after about 28 years in the private sector,
+
+119
+05:21.660 --> 05:24.210
+mostly large technology companies.
+
+120
+05:24.210 --> 05:25.950
+It's a pleasure to be here.
+
+121
+05:25.950 --> 05:27.180
+<v ->Awesome.</v>
+
+122
+05:27.180 --> 05:28.830
+Hi, folks. My name's Shannon Murphy.
+
+123
+05:28.830 --> 05:30.600
+I'm a security and risk strategist
+
+124
+05:30.600 --> 05:33.540
+at a very large cybersecurity platform vendor.
+
+125
+05:33.540 --> 05:35.550
+It's called Trend Micro.
+
+126
+05:35.550 --> 05:38.897
+And I spend most of my time with CIOs
+
+127
+05:38.897 --> 05:42.780
+and CISOs in the Fortune 500, but also the mid-market,
+
+128
+05:42.780 --> 05:44.880
+working on a couple different things.
+
+129
+05:44.880 --> 05:47.610
+The first is managing
+
+130
+05:47.610 --> 05:50.670
+these different infrastructure shifts and pressures
+
+131
+05:50.670 --> 05:52.470
+that get put onto an organization
+
+132
+05:52.470 --> 05:55.560
+when we're looking at things like the AI transformation
+
+133
+05:55.560 --> 05:57.360
+or digital transformation.
+
+134
+05:57.360 --> 06:02.130
+And then secondly, helping architect technology stacks
+
+135
+06:02.130 --> 06:06.570
+that actually help put them one step ahead of the bad guys.
+
+136
+06:06.570 --> 06:09.810
+Today, I'm gonna give a slightly different perspective
+
+137
+06:09.810 --> 06:11.640
+on the panel, I think,
+
+138
+06:11.640 --> 06:14.610
+kind of exposing more what's happening
+
+139
+06:14.610 --> 06:16.830
+when it comes to illegitimate data collection.
+
+140
+06:16.830 --> 06:20.040
+And in fact, there's a better word for that, it's theft.
+
+141
+06:20.040 --> 06:22.770
+And how does that happen for individuals
+
+142
+06:22.770 --> 06:24.180
+and also at the enterprise level.
+
+143
+06:24.180 --> 06:25.530
+So thanks so much.
+
+144
+06:25.530 --> 06:26.363
+<v ->Excellent.</v>
+
+145
+06:26.363 --> 06:27.660
+I told you we had quite a panel, didn't I?
+
+146
+06:27.660 --> 06:28.950
+Let's give them a hand.
+
+147
+06:28.950 --> 06:30.516
+Woo! It's gonna be a great session.
+
+148
+06:30.516 --> 06:32.010
+(audience applauding)
+
+149
+06:32.010 --> 06:32.843
+Excellent.
+
+150
+06:32.843 --> 06:35.340
+So we're ready to dive into the first topic,
+
+151
+06:35.340 --> 06:36.300
+data collection,
+
+152
+06:36.300 --> 06:38.400
+and we'll have Olaf and Shannon kick it off,
+
+153
+06:38.400 --> 06:39.360
+and then Kate will come in
+
+154
+06:39.360 --> 06:41.070
+as to why too much data is not good.
+
+155
+06:41.070 --> 06:43.200
+So what are legitimate uses,
+
+156
+06:43.200 --> 06:45.540
+what's being collected, and why?
+
+157
+06:45.540 --> 06:46.800
+<v ->Well, look, let's all be honest.</v>
+
+158
+06:46.800 --> 06:48.450
+We all enjoy the convenience
+
+159
+06:48.450 --> 06:51.417
+and the services that the digital platforms are offering us,
+
+160
+06:51.417 --> 06:53.910
+and in fact, offering us at cheaper price points
+
+161
+06:53.910 --> 06:56.250
+that we could otherwise obtain.
+
+162
+06:56.250 --> 07:00.120
+And so, using data on a website to make the website better,
+
+163
+07:00.120 --> 07:02.520
+to let's say serve up better articles,
+
+164
+07:02.520 --> 07:04.440
+or to contribute to public health,
+
+165
+07:04.440 --> 07:07.050
+just think about the pandemic we just lived through,
+
+166
+07:07.050 --> 07:09.360
+whatever your convictions are on vaccines,
+
+167
+07:09.360 --> 07:10.980
+it's always good to have information
+
+168
+07:10.980 --> 07:13.830
+on where the pandemic is flaring up,
+
+169
+07:13.830 --> 07:16.530
+so you can make a choice about how to expose yourself.
+
+170
+07:16.530 --> 07:19.110
+So certain amounts of data sharing,
+
+171
+07:19.110 --> 07:21.450
+whether it's on a digital service provider website,
+
+172
+07:21.450 --> 07:23.910
+on a news website, to make that website better,
+
+173
+07:23.910 --> 07:27.090
+make it more focused on you and what you want and need
+
+174
+07:27.090 --> 07:28.353
+are legitimate.
+
+175
+07:29.580 --> 07:31.380
+But you have to start asking yourself,
+
+176
+07:31.380 --> 07:34.530
+well, what kind of data is being collected?
+
+177
+07:34.530 --> 07:36.300
+I can tell you that I had a student once
+
+178
+07:36.300 --> 07:38.520
+who was being interviewed
+
+179
+07:38.520 --> 07:40.567
+to work at a streaming music company and he said,
+
+180
+07:40.567 --> 07:43.380
+"Professor, they did a data dump on me as a case study
+
+181
+07:43.380 --> 07:45.900
+and said, 'Here's everything we know about
+
+182
+07:45.900 --> 07:48.333
+one of our streaming music customers.
+
+183
+07:48.333 --> 07:49.860
+Go make money with that,
+
+184
+07:49.860 --> 07:51.060
+tell us how to make money with that.'"
+
+185
+07:51.060 --> 07:52.770
+He said, "Professor, 80% of that data
+
+186
+07:52.770 --> 07:54.570
+had nothing to do with music tastes."
+
+187
+07:54.570 --> 07:56.160
+And so, you have to ask yourself
+
+188
+07:56.160 --> 07:59.220
+what kind of data is actually being collected, why,
+
+189
+07:59.220 --> 08:01.020
+and what happens to that data?
+
+190
+08:01.020 --> 08:03.120
+Which gets us to the second point,
+
+191
+08:03.120 --> 08:05.550
+which is, a lot of that data gets sold,
+
+192
+08:05.550 --> 08:07.560
+and it gets sold to third parties
+
+193
+08:07.560 --> 08:09.480
+and you have no idea that that is happening,
+
+194
+08:09.480 --> 08:12.030
+and that is where the buck stops.
+
+195
+08:12.030 --> 08:14.670
+We definitely need to make sure that we understand
+
+196
+08:14.670 --> 08:15.780
+where's that data going,
+
+197
+08:15.780 --> 08:19.200
+why are we not getting any say in where that data is going,
+
+198
+08:19.200 --> 08:21.210
+and on what terms?
+
+199
+08:21.210 --> 08:24.090
+What part of that data is actually really confidential
+
+200
+08:24.090 --> 08:26.610
+and should be captured by privacy regulations,
+
+201
+08:26.610 --> 08:28.080
+or by privacy solutions
+
+202
+08:28.080 --> 08:32.280
+like our privacy-inclusive data access agent?
+
+203
+08:32.280 --> 08:34.740
+And so, there's a whole industry out there
+
+204
+08:34.740 --> 08:39.740
+that is collecting data on you, and that goes way beyond
+
+205
+08:40.350 --> 08:42.990
+paying for the services on a website.
+
+206
+08:42.990 --> 08:43.823
+<v ->For sure.</v>
+
+207
+08:43.823 --> 08:46.890
+And I think ultimately what we all need to understand is,
+
+208
+08:46.890 --> 08:51.750
+nobody's collecting data for free, for no reason.
+
+209
+08:51.750 --> 08:54.690
+And it's kind of such an old phrase,
+
+210
+08:54.690 --> 08:58.320
+but it's like, if you are getting something for free,
+
+211
+08:58.320 --> 09:00.063
+then you're the product, right?
+
+212
+09:00.960 --> 09:03.210
+And this is really something to think about
+
+213
+09:03.210 --> 09:05.970
+when you are looking at, well, what kinds of data
+
+214
+09:05.970 --> 09:07.830
+are being collected and why?
+
+215
+09:07.830 --> 09:09.900
+Sometimes there are super legitimate uses
+
+216
+09:09.900 --> 09:12.510
+and we can have better experiences
+
+217
+09:12.510 --> 09:14.940
+because that data's being collected.
+
+218
+09:14.940 --> 09:18.270
+If you do use something like an identity protection
+
+219
+09:18.270 --> 09:21.780
+app on your phone, this will help flag
+
+220
+09:21.780 --> 09:24.540
+what data is being collected by that website.
+
+221
+09:24.540 --> 09:27.180
+So for example, sometimes it makes a ton of sense.
+
+222
+09:27.180 --> 09:29.610
+If you're on Target or some kind of retail site,
+
+223
+09:29.610 --> 09:31.560
+it'll flag, this website is known
+
+224
+09:31.560 --> 09:33.990
+for collecting financial information,
+
+225
+09:33.990 --> 09:35.973
+and you're kind of like, duh.
+
+226
+09:36.870 --> 09:41.870
+But it would surprise you how often you go to a website,
+
+227
+09:42.090 --> 09:44.070
+and if you are using an application like this
+
+228
+09:44.070 --> 09:45.300
+where it will raise the flag
+
+229
+09:45.300 --> 09:49.290
+that this is known for collecting health information,
+
+230
+09:49.290 --> 09:52.500
+financial information, things that are unnecessary.
+
+231
+09:52.500 --> 09:57.500
+News sites are known for doing this in particular as well.
+
+232
+09:57.960 --> 09:59.610
+So these are the types of tools
+
+233
+09:59.610 --> 10:01.200
+that I think can actually help you
+
+234
+10:01.200 --> 10:03.210
+be a little bit more informed
+
+235
+10:03.210 --> 10:06.240
+when you aren't necessarily going to the effort
+
+236
+10:06.240 --> 10:09.030
+of reading through all of the policy,
+
+237
+10:09.030 --> 10:11.790
+or if you want access to that thing
+
+238
+10:11.790 --> 10:15.150
+so you're giving the data over for convenience.
+
+239
+10:15.150 --> 10:16.440
+These types of tools can help
+
+240
+10:16.440 --> 10:18.300
+be a little bit of a trip wire for you,
+
+241
+10:18.300 --> 10:20.880
+so that you're part of that decision making process
+
+242
+10:20.880 --> 10:23.670
+and it's not necessarily just happening.
+
+243
+10:23.670 --> 10:25.260
+<v ->Great points.</v>
+
+244
+10:25.260 --> 10:28.683
+And why is too much data not good, Kate?
+
+245
+10:30.180 --> 10:33.360
+<v ->I think there are a few answers to that question.</v>
+
+246
+10:33.360 --> 10:34.560
+But before we get there,
+
+247
+10:34.560 --> 10:37.410
+I'd like to pivot back to something Shannon said,
+
+248
+10:37.410 --> 10:39.840
+which is making a choice.
+
+249
+10:39.840 --> 10:42.900
+So all of us in this room are consumers,
+
+250
+10:42.900 --> 10:44.640
+but many of us in this room
+
+251
+10:44.640 --> 10:48.090
+may also be the deciders for our businesses
+
+252
+10:48.090 --> 10:52.290
+about what data our applications or websites are collecting.
+
+253
+10:52.290 --> 10:55.860
+And I think an often overlooked point
+
+254
+10:55.860 --> 11:00.860
+in the data conversation is how strong privacy practices
+
+255
+11:00.990 --> 11:04.920
+can be a really good reputation builder for your brand.
+
+256
+11:04.920 --> 11:07.380
+And I think it is important to distinguish
+
+257
+11:07.380 --> 11:09.450
+between privacy and security,
+
+258
+11:09.450 --> 11:11.640
+because sometimes those two concepts
+
+259
+11:11.640 --> 11:13.980
+get conflated with each other.
+
+260
+11:13.980 --> 11:16.920
+So a definition I heard many, many years ago
+
+261
+11:16.920 --> 11:21.920
+as a baby lawyer was that privacy is the concept of deciding
+
+262
+11:22.710 --> 11:25.950
+who are the appropriate people to have access to data.
+
+263
+11:25.950 --> 11:30.360
+So if I write Olaf an email, he and I should have access.
+
+264
+11:30.360 --> 11:32.460
+That's the privacy decision.
+
+265
+11:32.460 --> 11:35.430
+Security is preventing anyone
+
+266
+11:35.430 --> 11:38.490
+who has not been decided as the right audience
+
+267
+11:38.490 --> 11:40.200
+from having access to that email.
+
+268
+11:40.200 --> 11:42.100
+So, Shannon, stay out of our business.
+
+269
+11:44.070 --> 11:49.070
+But so, in the market there are always competing interests,
+
+270
+11:50.010 --> 11:52.710
+and I try to take a pragmatic approach
+
+271
+11:52.710 --> 11:56.733
+because the business needs data to do business.
+
+272
+11:57.840 --> 12:00.180
+But whenever a colleague,
+
+273
+12:00.180 --> 12:03.480
+and most commonly this comes up in the marketing context
+
+274
+12:03.480 --> 12:04.620
+more than anywhere else.
+
+275
+12:04.620 --> 12:05.557
+Whenever a colleague says,
+
+276
+12:05.557 --> 12:08.580
+"We wanna collect these five points of data," I say, okay,
+
+277
+12:08.580 --> 12:10.620
+well let's talk about, number one,
+
+278
+12:10.620 --> 12:12.060
+what's the business need for that?
+
+279
+12:12.060 --> 12:14.490
+What is your actual documented business need?
+
+280
+12:14.490 --> 12:17.040
+Because no one will ever get
+
+281
+12:17.040 --> 12:19.710
+global privacy compliance perfect,
+
+282
+12:19.710 --> 12:21.690
+but you want to build a defensible plan.
+
+283
+12:21.690 --> 12:22.830
+So what's your story?
+
+284
+12:22.830 --> 12:25.050
+Why did you collect this data?
+
+285
+12:25.050 --> 12:26.700
+So we document that.
+
+286
+12:26.700 --> 12:29.070
+And then the second big question I ask is,
+
+287
+12:29.070 --> 12:33.180
+okay, if a consumer or your prospect or customer
+
+288
+12:33.180 --> 12:35.310
+didn't realize you were collecting that
+
+289
+12:35.310 --> 12:37.110
+and they found out you collected it,
+
+290
+12:37.110 --> 12:39.720
+because it made the news or whatever,
+
+291
+12:39.720 --> 12:41.130
+how does that look for you?
+
+292
+12:41.130 --> 12:42.780
+Is that a good look for our brand?
+
+293
+12:42.780 --> 12:45.510
+Does it end up hurting our business in the end?
+
+294
+12:45.510 --> 12:49.050
+And if the answer is yes, let's have a conversation
+
+295
+12:49.050 --> 12:52.290
+about is there an alternative, less invasive piece of data
+
+296
+12:52.290 --> 12:55.230
+that we could use to meet the same business purpose?
+
+297
+12:55.230 --> 12:57.870
+Is that really a business model we want to pursue?
+
+298
+12:57.870 --> 12:59.790
+And if it is, let's just make sure everyone
+
+299
+12:59.790 --> 13:03.720
+understands the risks and we buy in and that's where we are,
+
+300
+13:03.720 --> 13:06.450
+and we're transparent with the consumers
+
+301
+13:06.450 --> 13:09.150
+or our customers who may not be consumers,
+
+302
+13:09.150 --> 13:13.383
+we may be in the middle, about what we're doing and why.
+
+303
+13:14.640 --> 13:16.410
+<v ->If I may, I wanna come back to</v>
+
+304
+13:16.410 --> 13:17.970
+two important things you just said.
+
+305
+13:17.970 --> 13:20.880
+Number one, it's a matter of choice.
+
+306
+13:20.880 --> 13:23.220
+I'll come back around to that, consumer choice,
+
+307
+13:23.220 --> 13:25.500
+but also the choice of a corporate
+
+308
+13:25.500 --> 13:27.000
+information security officer
+
+309
+13:27.000 --> 13:29.370
+or a corporate chief digital officer
+
+310
+13:29.370 --> 13:34.020
+in order to protect privacy and protect security as well.
+
+311
+13:34.020 --> 13:36.780
+Because the two, and this is the second thing you said,
+
+312
+13:36.780 --> 13:38.070
+are conflated, right?
+
+313
+13:38.070 --> 13:40.320
+When you're going beyond the firewall,
+
+314
+13:40.320 --> 13:43.110
+security is privacy, right?
+
+315
+13:43.110 --> 13:46.050
+So take the example of three employees
+
+316
+13:46.050 --> 13:47.640
+in any one of your companies.
+
+317
+13:47.640 --> 13:50.580
+Let's say somebody who is in the legal department
+
+318
+13:50.580 --> 13:52.410
+doing patent research, Maria.
+
+319
+13:52.410 --> 13:55.470
+She's researching patent on a new product release.
+
+320
+13:55.470 --> 13:56.880
+Then there is an engineer
+
+321
+13:56.880 --> 13:59.130
+who is researching on stackoverflow.com,
+
+322
+13:59.130 --> 14:00.080
+let's call him Joe,
+
+323
+14:00.960 --> 14:04.110
+who is looking at existing fragments of code
+
+324
+14:04.110 --> 14:05.940
+that could be used for the new product.
+
+325
+14:05.940 --> 14:07.530
+And then there is, let's say Jane,
+
+326
+14:07.530 --> 14:10.770
+who is helping the chief marketing officer
+
+327
+14:10.770 --> 14:13.020
+research for the product release
+
+328
+14:13.020 --> 14:14.730
+in about another week or two.
+
+329
+14:14.730 --> 14:18.060
+When you conflate the three and you triangulate the three,
+
+330
+14:18.060 --> 14:19.230
+you might actually find out
+
+331
+14:19.230 --> 14:21.130
+what kind of product is being released
+
+332
+14:22.050 --> 14:23.760
+next week or the week after
+
+333
+14:23.760 --> 14:26.100
+without ever hacking beyond the firewall.
+
+334
+14:26.100 --> 14:29.113
+Now, imagine you're doing that for 30 people, 300 people,
+
+335
+14:29.113 --> 14:32.100
+3,000 people and so on and so forth in a corporation.
+
+336
+14:32.100 --> 14:35.400
+Pretty soon, if competitive intelligence is your aim,
+
+337
+14:35.400 --> 14:37.920
+you don't actually have to hack behind the firewall
+
+338
+14:37.920 --> 14:40.050
+or deploy many manual analysts
+
+339
+14:40.050 --> 14:41.910
+to track what you're seeing out there.
+
+340
+14:41.910 --> 14:44.070
+You can actually do this within a split second.
+
+341
+14:44.070 --> 14:46.050
+That is why security and privacy
+
+342
+14:46.050 --> 14:50.250
+are actually conflated from a CISOs or a CDOs perspective.
+
+343
+14:50.250 --> 14:53.040
+Why is that not being a big deal right now,
+
+344
+14:53.040 --> 14:54.570
+or being made into a bigger deal?
+
+345
+14:54.570 --> 14:56.850
+Is because CISOs are having a hard time
+
+346
+14:56.850 --> 14:58.200
+justifying the expenditure,
+
+347
+14:58.200 --> 15:01.380
+given all of the attacks that are coming at us
+
+348
+15:01.380 --> 15:03.630
+and the perceived lack of protection.
+
+349
+15:03.630 --> 15:06.210
+And so, they're not focusing beyond the firewall,
+
+350
+15:06.210 --> 15:09.480
+even though that is the frontier of cybersecurity.
+
+351
+15:09.480 --> 15:11.673
+It's coming, and you have to look at it.
+
+352
+15:12.540 --> 15:15.240
+<v ->Great perspective, great perspective.</v>
+
+353
+15:15.240 --> 15:16.800
+Before we head into privacy,
+
+354
+15:16.800 --> 15:18.870
+I think we should ask y'all some questions.
+
+355
+15:18.870 --> 15:21.030
+So how many in here have read
+
+356
+15:21.030 --> 15:23.370
+the terms and conditions for a privacy notice?
+
+357
+15:23.370 --> 15:27.300
+I think Apple just updated their iCloud terms today.
+
+358
+15:27.300 --> 15:28.140
+Completely?
+
+359
+15:28.140 --> 15:29.160
+A few. Okay.
+
+360
+15:29.160 --> 15:31.320
+How many of you have had a private conversation
+
+361
+15:31.320 --> 15:33.300
+and had an ad for something show up
+
+362
+15:33.300 --> 15:34.920
+related to the private conversation?
+
+363
+15:34.920 --> 15:36.300
+Yeah, we know that.
+
+364
+15:36.300 --> 15:38.940
+And how many of you know somebody
+
+365
+15:38.940 --> 15:41.403
+that have experienced identity theft?
+
+366
+15:43.470 --> 15:45.150
+And how many of you have been notified
+
+367
+15:45.150 --> 15:48.840
+that your data has been compromised by a business?
+
+368
+15:48.840 --> 15:50.607
+Just bought every one of them.
+
+369
+15:50.607 --> 15:54.600
+One out of three Americans did with AT&amp;T's breach alone.
+
+370
+15:54.600 --> 15:57.870
+So yeah, we're in real bad shape, at least in this country.
+
+371
+15:57.870 --> 15:59.520
+And how many of you feel you know
+
+372
+15:59.520 --> 16:02.223
+how to manage your privacy settings?
+
+373
+16:05.550 --> 16:06.570
+A few.
+
+374
+16:06.570 --> 16:08.040
+<v ->I'll say no.</v>
+
+375
+16:08.040 --> 16:09.573
+It's my area of expertise.
+
+376
+16:10.950 --> 16:12.030
+<v ->Excellent.</v>
+
+377
+16:12.030 --> 16:13.593
+So let's head into privacy.
+
+378
+16:15.300 --> 16:18.210
+Kate, would you like to go into the different approaches
+
+379
+16:18.210 --> 16:20.130
+from a regulatory perspective?
+
+380
+16:20.130 --> 16:20.963
+<v ->Sure.</v>
+
+381
+16:20.963 --> 16:24.720
+So for my benefit, it looks like we have a pretty good
+
+382
+16:24.720 --> 16:26.970
+multinational audience here.
+
+383
+16:26.970 --> 16:31.830
+So I always joke, I am obviously an American
+
+384
+16:31.830 --> 16:33.729
+and I work in the US.
+
+385
+16:33.729 --> 16:36.720
+We have a French owned parent company.
+
+386
+16:36.720 --> 16:41.670
+But for many, many years I joked that I spent all my days
+
+387
+16:41.670 --> 16:43.593
+enforcing privacy rights I don't have.
+
+388
+16:44.550 --> 16:47.010
+I'm very fortunate to work at a place
+
+389
+16:47.010 --> 16:49.410
+where we believe privacy is a fundamental human right.
+
+390
+16:49.410 --> 16:53.160
+So at Imperva, we made the decision many years ago
+
+391
+16:53.160 --> 16:57.120
+that even though it might cost more, we would apply GDPR,
+
+392
+16:57.120 --> 17:00.060
+so Europe's General Data Protection Regulation,
+
+393
+17:00.060 --> 17:02.730
+as a single global privacy standard.
+
+394
+17:02.730 --> 17:05.940
+And in the end what that does
+
+395
+17:05.940 --> 17:10.050
+is it gives our employees an even playing field,
+
+396
+17:10.050 --> 17:11.460
+because they know every day
+
+397
+17:11.460 --> 17:12.630
+what they have to do with the data.
+
+398
+17:12.630 --> 17:15.030
+It doesn't matter if the person's data
+
+399
+17:15.030 --> 17:17.130
+is from Latin America, if it's from Europe,
+
+400
+17:17.130 --> 17:19.140
+if it's from Canada, it can be from anywhere.
+
+401
+17:19.140 --> 17:21.093
+One standard, one size fits all.
+
+402
+17:22.080 --> 17:25.740
+In Europe for a long time, even before GDPR,
+
+403
+17:25.740 --> 17:29.310
+individuals had the right to request access to their data,
+
+404
+17:29.310 --> 17:30.753
+correction, deletion.
+
+405
+17:31.890 --> 17:34.620
+In Europe, marketing is still largely governed
+
+406
+17:34.620 --> 17:35.700
+by national laws.
+
+407
+17:35.700 --> 17:38.280
+So there's no one size fits all.
+
+408
+17:38.280 --> 17:41.400
+But consent in most countries is required.
+
+409
+17:41.400 --> 17:43.395
+There's still a small minority of countries
+
+410
+17:43.395 --> 17:47.910
+where you can target based on job function for work.
+
+411
+17:47.910 --> 17:51.600
+But the biggest difference I see, and this sort of relates
+
+412
+17:51.600 --> 17:54.750
+to what Olaf was saying beyond the firewall,
+
+413
+17:54.750 --> 17:59.160
+is the required disclosures around the use of cookies
+
+414
+17:59.160 --> 18:02.400
+and other tracking technologies on websites.
+
+415
+18:02.400 --> 18:06.450
+So last week, I was in Dublin on a family vacation
+
+416
+18:06.450 --> 18:08.463
+and I was like, oh, this is great,
+
+417
+18:09.450 --> 18:11.040
+I get all these rights again,
+
+418
+18:11.040 --> 18:15.030
+and I'm mercilessly declining all the cookies.
+
+419
+18:15.030 --> 18:17.180
+Like spend time to notice? Why, yes I will.
+
+420
+18:18.990 --> 18:22.530
+But when I got back home, I lost all those rights again.
+
+421
+18:22.530 --> 18:24.780
+So I reside in Pennsylvania.
+
+422
+18:24.780 --> 18:28.710
+Many companies have really decided to narrowly tailor
+
+423
+18:28.710 --> 18:31.890
+their consent notices based on IP address.
+
+424
+18:31.890 --> 18:34.650
+There is a danger in that from pragmatic purposes
+
+425
+18:34.650 --> 18:36.120
+for users on VPNs.
+
+426
+18:36.120 --> 18:38.010
+You don't really know where I am.
+
+427
+18:38.010 --> 18:40.380
+So in fact, if you take the risk-based approach
+
+428
+18:40.380 --> 18:43.320
+of using an IP address, in the majority of time,
+
+429
+18:43.320 --> 18:46.260
+you may actually be wrongly assorting the risk.
+
+430
+18:46.260 --> 18:50.160
+So around the world, different governments
+
+431
+18:50.160 --> 18:52.320
+have applied different privacy standards,
+
+432
+18:52.320 --> 18:56.460
+and in fact, it's a little bit of a tool of trade war.
+
+433
+18:56.460 --> 18:59.880
+So what you'll see is countries
+
+434
+18:59.880 --> 19:02.520
+start tightening their privacy laws
+
+435
+19:02.520 --> 19:04.710
+when they're really angry about something else,
+
+436
+19:04.710 --> 19:08.160
+because privacy compliance is like a tax.
+
+437
+19:08.160 --> 19:10.140
+So if you think about it that way,
+
+438
+19:10.140 --> 19:12.930
+you wanna pay the right amount of tax, no more, no less.
+
+439
+19:12.930 --> 19:16.560
+My analysis is that if you apply GDPR,
+
+440
+19:16.560 --> 19:18.480
+you're paying the right amount of tax,
+
+441
+19:18.480 --> 19:21.060
+'cause it fits every country in the world,
+
+442
+19:21.060 --> 19:24.180
+but three with data localization requirements.
+
+443
+19:24.180 --> 19:27.660
+So it's a pretty efficient model to use.
+
+444
+19:27.660 --> 19:28.950
+In the United States,
+
+445
+19:28.950 --> 19:31.560
+I think it'll be a state by state analysis
+
+446
+19:31.560 --> 19:33.570
+for quite a while,
+
+447
+19:33.570 --> 19:36.480
+and it'll probably remain industry focused.
+
+448
+19:36.480 --> 19:40.680
+Canada is not, I don't anticipate them passing
+
+449
+19:40.680 --> 19:43.740
+a Canadian uniform privacy law in the near future.
+
+450
+19:43.740 --> 19:46.350
+It's been pending for a little while.
+
+451
+19:46.350 --> 19:50.223
+So we'll continue to see that in the market, I think.
+
+452
+19:51.540 --> 19:52.560
+<v ->Excellent.</v>
+
+453
+19:52.560 --> 19:54.990
+Yeah, I agree, the GDPR approach globally.
+
+454
+19:54.990 --> 19:56.490
+It's better to, once you find
+
+455
+19:56.490 --> 19:58.050
+whatever the toughest standard is,
+
+456
+19:58.050 --> 20:00.150
+you pick that standard enterprise wide.
+
+457
+20:00.150 --> 20:02.763
+It's the easiest for your data engineers as well.
+
+458
+20:05.400 --> 20:06.233
+Absolutely.
+
+459
+20:08.280 --> 20:10.565
+<v ->I have to object on that one,</v>
+
+460
+20:10.565 --> 20:14.100
+and we have to have a little fun tension here on the panel,
+
+461
+20:14.100 --> 20:16.830
+because I do think that as much as,
+
+462
+20:16.830 --> 20:18.810
+look, I was born and raised in Europe,
+
+463
+20:18.810 --> 20:20.460
+I do appreciate European Union
+
+464
+20:20.460 --> 20:22.360
+sort of putting a stake in the ground,
+
+465
+20:23.370 --> 20:25.230
+because the other side of the Atlantic
+
+466
+20:25.230 --> 20:27.690
+is obviously very laissez-faire about data,
+
+467
+20:27.690 --> 20:29.520
+and I think we have seen some fallout
+
+468
+20:29.520 --> 20:31.020
+and will see more fallout.
+
+469
+20:31.020 --> 20:33.060
+But there is a middle ground between
+
+470
+20:33.060 --> 20:38.060
+the extremely restrictive view that GPR promulgates,
+
+471
+20:38.220 --> 20:40.530
+which frankly has hurt Europe tremendously
+
+472
+20:40.530 --> 20:42.210
+in terms of data entrepreneurship
+
+473
+20:42.210 --> 20:45.390
+and digital entrepreneurship, and the very laissez-faire
+
+474
+20:45.390 --> 20:48.990
+individual-dignity-disrespecting US approach.
+
+475
+20:48.990 --> 20:52.560
+And frankly, I think we need to look at the middle ground.
+
+476
+20:52.560 --> 20:55.140
+If you just want to be a Che Guevara of data
+
+477
+20:55.140 --> 20:58.560
+and say no more, no more, that's one way to go.
+
+478
+20:58.560 --> 21:01.350
+That's the approach of the VPNs of this world,
+
+479
+21:01.350 --> 21:04.441
+the ad blockers, the privacy browsers, et cetera.
+
+480
+21:04.441 --> 21:05.274
+<v ->The Germans.</v>
+
+481
+21:05.274 --> 21:07.320
+<v ->The Germans, right? Very bad.</v>
+
+482
+21:07.320 --> 21:08.643
+And I will tell you,
+
+483
+21:09.540 --> 21:13.380
+as a German immigrant to the United States,
+
+484
+21:13.380 --> 21:15.390
+I have said this in public media in Germany,
+
+485
+21:15.390 --> 21:17.550
+I think Germany is gonna die an analog death
+
+486
+21:17.550 --> 21:21.390
+if it does not manage to have a more reasonable approach
+
+487
+21:21.390 --> 21:23.280
+on privacy assured data use.
+
+488
+21:23.280 --> 21:25.530
+And I do think that there's room for solutions,
+
+489
+21:25.530 --> 21:29.460
+because privacy is not a one-size-fits-all kind of problem.
+
+490
+21:29.460 --> 21:30.750
+I mean, if I were to ask you.
+
+491
+21:30.750 --> 21:31.860
+Here, let me just ask you.
+
+492
+21:31.860 --> 21:34.530
+Who here minds sharing their GPS footprint
+
+493
+21:34.530 --> 21:37.200
+with data service providers?
+
+494
+21:37.200 --> 21:38.970
+Who here has a problem with that?
+
+495
+21:38.970 --> 21:41.120
+Who here does not have a problem with that?
+
+496
+21:43.310 --> 21:44.337
+So the ones that have a problem with that
+
+497
+21:44.337 --> 21:45.630
+are maybe in the majority,
+
+498
+21:45.630 --> 21:47.940
+but there is a bunch of people in the room that don't mind.
+
+499
+21:47.940 --> 21:50.160
+I don't mind. I have nothing to hide.
+
+500
+21:50.160 --> 21:51.270
+But if I was a woman.
+
+501
+21:51.270 --> 21:53.070
+<v ->It's not about having nothing to hide though.</v>
+
+502
+21:53.070 --> 21:55.702
+<v ->Well, but see that's the thing.</v>
+
+503
+21:55.702 --> 21:59.250
+But we should have data agency where we determine,
+
+504
+21:59.250 --> 22:02.580
+we have a say in what kind of data we wanna give away.
+
+505
+22:02.580 --> 22:05.220
+Now, every government has the right on a community level
+
+506
+22:05.220 --> 22:08.460
+to determine, hey, what's a complete out of bound area?
+
+507
+22:08.460 --> 22:10.800
+So the regulation is important.
+
+508
+22:10.800 --> 22:12.510
+But for the government to say
+
+509
+22:12.510 --> 22:16.170
+you must not share anything and nothing should be used
+
+510
+22:16.170 --> 22:19.140
+shuts off the evolution of the digital economy.
+
+511
+22:19.140 --> 22:20.640
+We have developed a solution,
+
+512
+22:20.640 --> 22:22.560
+and other people have as well,
+
+513
+22:22.560 --> 22:25.830
+that allows you to have an individual privacy charter
+
+514
+22:25.830 --> 22:27.990
+that's nestled within the national law,
+
+515
+22:27.990 --> 22:30.690
+or a corporate confidentiality charter,
+
+516
+22:30.690 --> 22:33.860
+that will allow you to determine what types of data
+
+517
+22:33.860 --> 22:36.960
+do I want completely to be off record,
+
+518
+22:36.960 --> 22:39.750
+and then what types of data do I wanna give away
+
+519
+22:39.750 --> 22:42.150
+because I recognize it's good for me and my services,
+
+520
+22:42.150 --> 22:44.103
+and what kind of data do I wanna sell?
+
+521
+22:45.060 --> 22:48.330
+So that then opens up all kinds of opportunity
+
+522
+22:48.330 --> 22:51.300
+for data trading that is privacy assured
+
+523
+22:51.300 --> 22:53.130
+and dignity assured.
+
+524
+22:53.130 --> 22:54.420
+We want to give agency
+
+525
+22:54.420 --> 22:56.670
+and not a heavy hand shutting everything.
+
+526
+22:56.670 --> 22:59.490
+<v ->But from a system design, you need to have the system</v>
+
+527
+22:59.490 --> 23:01.410
+able and ready to execute
+
+528
+23:01.410 --> 23:03.960
+anything a government suddenly decides it's gonna do.
+
+529
+23:03.960 --> 23:04.800
+<v ->That's true.</v>
+<v ->And so,</v>
+
+530
+23:04.800 --> 23:06.180
+from a design perspective,
+
+531
+23:06.180 --> 23:07.980
+you design it with the capabilities,
+
+532
+23:07.980 --> 23:09.750
+and then it can always do something different.
+
+533
+23:09.750 --> 23:11.100
+But we found, for example,
+
+534
+23:11.100 --> 23:15.840
+I mean, try having a data boundary when you're Qatar,
+
+535
+23:15.840 --> 23:18.420
+or Qatar, however you want to enunciate it.
+
+536
+23:18.420 --> 23:20.460
+But it's a small location.
+
+537
+23:20.460 --> 23:22.230
+If there's a catastrophe,
+
+538
+23:22.230 --> 23:24.630
+the whole location could be at risk
+
+539
+23:24.630 --> 23:26.040
+for power and everything else.
+
+540
+23:26.040 --> 23:27.540
+So how do you get resiliency?
+
+541
+23:27.540 --> 23:28.373
+<v ->You also have to think of the fact--</v>
+
+542
+23:28.373 --> 23:30.750
+<v ->They needed to find another government they trusted</v>
+
+543
+23:30.750 --> 23:32.760
+and say, okay, not just my country,
+
+544
+23:32.760 --> 23:35.160
+but this country's okay as well.
+
+545
+23:35.160 --> 23:38.220
+So even with the data boundary, what we were seeing is,
+
+546
+23:38.220 --> 23:41.190
+they were saying, "Well, we understand the resiliency issue.
+
+547
+23:41.190 --> 23:42.960
+We'll say this country's okay."
+
+548
+23:42.960 --> 23:45.030
+So they were actually changing the regulations
+
+549
+23:45.030 --> 23:47.100
+to practicality as a point of information.
+
+550
+23:47.100 --> 23:49.980
+<v ->I think a major concern for this as well is,</v>
+
+551
+23:49.980 --> 23:53.640
+when you start opting into selling your data
+
+552
+23:53.640 --> 23:57.480
+and that data is used in a future breach
+
+553
+23:57.480 --> 24:00.210
+or to build a bigger story on your identity,
+
+554
+24:00.210 --> 24:04.620
+is it now your fault because you participated in that sale?
+
+555
+24:04.620 --> 24:05.940
+And I think that we start to get into
+
+556
+24:05.940 --> 24:07.560
+really dicey territory.
+
+557
+24:07.560 --> 24:08.970
+<v ->Absolutely, and I fully agree.</v>
+
+558
+24:08.970 --> 24:12.870
+That's why we need a privacy-assured data market design.
+
+559
+24:12.870 --> 24:14.730
+We don't have a transparent data market.
+
+560
+24:14.730 --> 24:18.180
+It's all backroom dealing between cloaked entities,
+
+561
+24:18.180 --> 24:20.790
+and that's primarily the big platforms,
+
+562
+24:20.790 --> 24:23.220
+data brokers, advertising networks,
+
+563
+24:23.220 --> 24:25.740
+all dealing with each other without any transparency.
+
+564
+24:25.740 --> 24:28.020
+I have no idea where my data footprint is going.
+
+565
+24:28.020 --> 24:29.370
+And you're absolutely right,
+
+566
+24:29.370 --> 24:31.590
+somebody could be combining data from over here
+
+567
+24:31.590 --> 24:34.560
+with something from over there and form an identity on me.
+
+568
+24:34.560 --> 24:35.393
+<v ->They absolutely are.</v>
+
+569
+24:35.393 --> 24:37.680
+<v ->Yeah, they absolutely already.</v>
+
+570
+24:37.680 --> 24:38.880
+<v ->Probably incorrectly.</v>
+
+571
+24:38.880 --> 24:41.610
+<v ->That's right, and that may be even worse.</v>
+
+572
+24:41.610 --> 24:42.490
+But you should have that regulated.
+
+573
+24:42.490 --> 24:44.730
+<v ->I'm a 65-year-old white, gay male,</v>
+
+574
+24:44.730 --> 24:47.880
+according to my profile, based on the ads presented to me.
+
+575
+24:47.880 --> 24:48.810
+<v ->That's right.</v>
+
+576
+24:48.810 --> 24:50.700
+But you should have transparency around that.
+
+577
+24:50.700 --> 24:52.770
+Why is that not a regulated market?
+
+578
+24:52.770 --> 24:54.390
+Why are there no agents?
+
+579
+24:54.390 --> 24:56.310
+Why is there no structure around that market?
+
+580
+24:56.310 --> 24:59.280
+Why do we leave it to the big digital service providers
+
+581
+24:59.280 --> 25:02.220
+to harness that data and just trade it at will?
+
+582
+25:02.220 --> 25:03.270
+That's what's wrong.
+
+583
+25:03.270 --> 25:05.010
+<v ->And we know legitimate uses.</v>
+
+584
+25:05.010 --> 25:07.860
+In my coverage at FinTech Meetup,
+
+585
+25:07.860 --> 25:10.740
+there was a case to where there's technology
+
+586
+25:10.740 --> 25:13.800
+where they know if you're subject to fear of missing out,
+
+587
+25:13.800 --> 25:16.380
+and if you are, they will always use it on you,
+
+588
+25:16.380 --> 25:19.170
+because they wanna get every dime from every customer.
+
+589
+25:19.170 --> 25:21.330
+The same with coupons or others.
+
+590
+25:21.330 --> 25:24.780
+So they know what fears to push your buttons
+
+591
+25:24.780 --> 25:26.250
+to get you to buy.
+
+592
+25:26.250 --> 25:29.460
+But that's a legitimate use case in our society.
+
+593
+25:29.460 --> 25:31.440
+I'd love Shannon to go into the roles
+
+594
+25:31.440 --> 25:32.640
+of people, process, and tech
+
+595
+25:32.640 --> 25:35.070
+for legitimate and illegitimate uses.
+
+596
+25:35.070 --> 25:39.330
+<v ->Shannon, on that point, as Olaf was talking about</v>
+
+597
+25:39.330 --> 25:41.940
+designing a platform for people,
+
+598
+25:41.940 --> 25:44.250
+in engineering we learn you have to design
+
+599
+25:44.250 --> 25:47.760
+for the worst user, not the best user.
+
+600
+25:47.760 --> 25:49.440
+I don't know what your view is on that
+
+601
+25:49.440 --> 25:51.630
+as we look at what gets stolen.
+
+602
+25:51.630 --> 25:52.680
+<v ->Well, for sure.</v>
+
+603
+25:52.680 --> 25:54.900
+And I mean, I'll talk about the types of data
+
+604
+25:54.900 --> 25:57.480
+that gets stolen in a moment.
+
+605
+25:57.480 --> 25:59.940
+When we're looking at what's the good news,
+
+606
+25:59.940 --> 26:03.810
+or how can you protect yourself in these scenarios.
+
+607
+26:03.810 --> 26:05.730
+I'm Canadian, but I know the Miranda rights,
+
+608
+26:05.730 --> 26:08.640
+anything that you say can and will be used against you,
+
+609
+26:08.640 --> 26:10.920
+and that's totally applicable to data as well.
+
+610
+26:10.920 --> 26:12.570
+Any data that you provide,
+
+611
+26:12.570 --> 26:15.120
+whether in a legitimate or illegitimate way,
+
+612
+26:15.120 --> 26:17.940
+can and will be used either for your benefit
+
+613
+26:17.940 --> 26:21.870
+for a better service, to sell to another entity,
+
+614
+26:21.870 --> 26:24.900
+or in the case of data theft
+
+615
+26:24.900 --> 26:27.570
+will be used against you for monetary gain,
+
+616
+26:27.570 --> 26:30.750
+data destruction, reputation damage and the like.
+
+617
+26:30.750 --> 26:33.840
+So I mean, what can people do today?
+
+618
+26:33.840 --> 26:36.750
+I think as individuals particularly,
+
+619
+26:36.750 --> 26:39.870
+and I'll talk about a concept called data actionability,
+
+620
+26:39.870 --> 26:40.800
+I hope, in a little bit.
+
+621
+26:40.800 --> 26:43.230
+But if you're using crypto, for example,
+
+622
+26:43.230 --> 26:44.640
+you have crypto wallets,
+
+623
+26:44.640 --> 26:47.160
+you wanna be looking at things like cold and hot storage,
+
+624
+26:47.160 --> 26:51.210
+you wanna be using hardware wallets as well.
+
+625
+26:51.210 --> 26:54.420
+If you're using services where you are paying for things,
+
+626
+26:54.420 --> 26:57.000
+you wanna be using like your Apple Pay or your G Pay,
+
+627
+26:57.000 --> 26:59.340
+so that you have a virtual card,
+
+628
+26:59.340 --> 27:01.860
+and that's not exposing your actual
+
+629
+27:01.860 --> 27:05.700
+credit card credentials or information.
+
+630
+27:05.700 --> 27:09.330
+You can also do things like using different email addresses
+
+631
+27:09.330 --> 27:12.180
+for different services as well.
+
+632
+27:12.180 --> 27:15.540
+And then of course, it's really not the sexy stuff,
+
+633
+27:15.540 --> 27:19.230
+but it is the same stuff you've been hearing forever.
+
+634
+27:19.230 --> 27:21.090
+Great passwords, password manager,
+
+635
+27:21.090 --> 27:23.700
+having multi-factor authentication
+
+636
+27:23.700 --> 27:25.140
+on all of your services
+
+637
+27:25.140 --> 27:27.430
+really is what will make the difference
+
+638
+27:28.340 --> 27:29.730
+when you get breached,
+
+639
+27:29.730 --> 27:31.290
+and of course, you probably already have.
+
+640
+27:31.290 --> 27:33.000
+<v ->Authenticator in '25 too.</v>
+
+641
+27:33.000 --> 27:34.590
+No text anymore.
+
+642
+27:34.590 --> 27:36.570
+Text is not an acceptable MFA anymore.
+
+643
+27:36.570 --> 27:38.280
+<v ->Well, oh yeah, no, for sure.</v>
+
+644
+27:38.280 --> 27:40.950
+And when we are looking at multifactor authentication,
+
+645
+27:40.950 --> 27:42.240
+you do wanna be looking at things
+
+646
+27:42.240 --> 27:44.910
+like the number matching tools,
+
+647
+27:44.910 --> 27:47.040
+because that's kind next generation.
+
+648
+27:47.040 --> 27:48.210
+<v ->But ideally not through text,</v>
+
+649
+27:48.210 --> 27:49.290
+according to the warnings from.
+
+650
+27:49.290 --> 27:51.060
+<v ->No, no. You wanna be using authenticator</v>
+
+651
+27:51.060 --> 27:52.530
+or different types of tools like that.
+
+652
+27:52.530 --> 27:54.960
+Of course, you can talk about things like Fido,
+
+653
+27:54.960 --> 27:59.490
+hardware tokens and pass keys for consumer technology,
+
+654
+27:59.490 --> 28:02.280
+SaaS technology are really powerful in fact.
+
+655
+28:02.280 --> 28:05.670
+But of course, these things are not always super practical.
+
+656
+28:05.670 --> 28:07.380
+<v ->I mean, I have a question on that.</v>
+
+657
+28:07.380 --> 28:10.110
+So sure, every technology has its weakness,
+
+658
+28:10.110 --> 28:14.970
+but if I were counseling a client, I would've said,
+
+659
+28:14.970 --> 28:17.940
+you definitely want MFA,
+
+660
+28:17.940 --> 28:19.830
+and I would've said that text MFA
+
+661
+28:19.830 --> 28:21.200
+was better than no MFA at all.
+
+662
+28:21.200 --> 28:22.277
+<v ->100%.</v>
+
+663
+28:22.277 --> 28:23.790
+<v ->Okay.</v>
+<v ->100% yes.</v>
+
+664
+28:23.790 --> 28:26.460
+<v ->'Cause for some of us, we may not have much choice.</v>
+
+665
+28:26.460 --> 28:29.190
+<v ->The low hanging fruit for the adversary today</v>
+
+666
+28:29.190 --> 28:33.450
+is people in enterprise that do not have MFA at all.
+
+667
+28:33.450 --> 28:34.950
+And in fact, we see this a lot
+
+668
+28:34.950 --> 28:37.080
+actually in a higher education.
+
+669
+28:37.080 --> 28:39.120
+So a lot of colleges and universities don't have it.
+
+670
+28:39.120 --> 28:42.060
+It's very expensive to deploy it at that scale,
+
+671
+28:42.060 --> 28:44.673
+though they absolutely should make the investment,
+
+672
+28:45.630 --> 28:47.220
+and for that reason,
+
+673
+28:47.220 --> 28:49.170
+the first layer is people who don't have it at all.
+
+674
+28:49.170 --> 28:52.050
+The next layer would be different levels of sophistication
+
+675
+28:52.050 --> 28:52.890
+on that technology.
+
+676
+28:52.890 --> 28:53.970
+<v ->But even in your personal life,</v>
+
+677
+28:53.970 --> 28:56.520
+like my doctor, I have my portal,
+
+678
+28:56.520 --> 28:58.110
+I can schedule an appointment,
+
+679
+28:58.110 --> 29:00.540
+they encourage you to put MFA on there,
+
+680
+29:00.540 --> 29:03.360
+but I assume many people don't make that choice.
+
+681
+29:03.360 --> 29:06.000
+I'd encourage all of you, just a piece of free advice.
+
+682
+29:06.000 --> 29:06.833
+<v ->Yeah, absolutely.</v>
+
+683
+29:06.833 --> 29:09.270
+<v ->Put your MFA on, even if it's text.</v>
+
+684
+29:09.270 --> 29:11.790
+<v ->I had some very serious conversations</v>
+
+685
+29:11.790 --> 29:16.790
+and moved MFA enforceability from three to 400 on the backup
+
+686
+29:16.890 --> 29:19.650
+to getting it done in a couple weeks when I was at Microsoft
+
+687
+29:19.650 --> 29:21.120
+for the secure development environment.
+
+688
+29:21.120 --> 29:22.890
+There's no way you could have that environment
+
+689
+29:22.890 --> 29:24.810
+without MFA enforceability.
+
+690
+29:24.810 --> 29:26.100
+So yeah, absolutely.
+
+691
+29:26.100 --> 29:27.780
+I think the warnings on text came
+
+692
+29:27.780 --> 29:30.453
+because there's a, it was in December.
+
+693
+29:31.864 --> 29:33.570
+<v ->But that's a separate deal.</v>
+
+694
+29:33.570 --> 29:34.543
+<v ->But something's always better than nothing.</v>
+
+695
+29:34.543 --> 29:36.810
+<v ->And again, if a government's coming for you,</v>
+
+696
+29:36.810 --> 29:39.120
+there's not much you are going to do as an individual
+
+697
+29:39.120 --> 29:40.530
+to beat the government.
+
+698
+29:40.530 --> 29:41.639
+They have an army.
+<v ->Absolutely.</v>
+
+699
+29:41.639 --> 29:42.900
+<v ->Legitimately.</v>
+
+700
+29:42.900 --> 29:44.820
+Just do your best, friends.
+
+701
+29:44.820 --> 29:47.580
+Long passwords, MFA, it's all you can do.
+
+702
+29:47.580 --> 29:50.400
+<v ->And Olaf, you covered over your zero sum, correct?</v>
+
+703
+29:50.400 --> 29:51.990
+<v ->Yeah, I think I did.</v>
+<v ->Excellent.</v>
+
+704
+29:51.990 --> 29:56.073
+So in that case, why should you care?
+
+705
+30:00.000 --> 30:02.460
+Shannon, what is sold on the black market,
+
+706
+30:02.460 --> 30:03.870
+and by who and how?
+
+707
+30:03.870 --> 30:07.950
+<v ->Yeah, I mean, what's not sold on the black market?</v>
+
+708
+30:07.950 --> 30:11.490
+So I mentioned this concept of data actionability.
+
+709
+30:11.490 --> 30:12.813
+What that means is,
+
+710
+30:14.520 --> 30:17.760
+can I derive immediate value from this piece of data?
+
+711
+30:17.760 --> 30:21.240
+And I like to compare it to like a literal cash wallet.
+
+712
+30:21.240 --> 30:23.400
+So if I stole your wallet from you,
+
+713
+30:23.400 --> 30:26.160
+what is immediately valuable to me would be cash.
+
+714
+30:26.160 --> 30:28.260
+I can spend that right away.
+
+715
+30:28.260 --> 30:30.540
+What would not be immediately valuable to me
+
+716
+30:30.540 --> 30:32.670
+would be like some niche gift card
+
+717
+30:32.670 --> 30:35.370
+that you got for Christmas from a store in your hometown.
+
+718
+30:35.370 --> 30:37.920
+That's not super valuable to me right away.
+
+719
+30:37.920 --> 30:39.570
+The same thing can be said
+
+720
+30:39.570 --> 30:41.130
+for what's sold on the black market.
+
+721
+30:41.130 --> 30:43.740
+So the first thing, of course, is crypto wallets.
+
+722
+30:43.740 --> 30:45.840
+I would drain that crypto right away.
+
+723
+30:45.840 --> 30:47.010
+That's really valuable for me,
+
+724
+30:47.010 --> 30:49.800
+especially if I'm a criminal
+
+725
+30:49.800 --> 30:53.100
+and I'm already using that type of currency today.
+
+726
+30:53.100 --> 30:56.340
+Other things like web credentials, browser data,
+
+727
+30:56.340 --> 30:59.160
+stored credit card information, email.
+
+728
+30:59.160 --> 31:02.280
+Chat credentials is getting even more interesting now
+
+729
+31:02.280 --> 31:04.830
+in this sort of AI era when people are
+
+730
+31:04.830 --> 31:08.220
+communicating with LLMs in such a personal way
+
+731
+31:08.220 --> 31:11.730
+and sharing either private details about their life,
+
+732
+31:11.730 --> 31:14.670
+about their relationships, or about their business.
+
+733
+31:14.670 --> 31:18.870
+So chat credentials are getting more popular as well.
+
+734
+31:18.870 --> 31:23.340
+But even things like fire transfer protocol credentials
+
+735
+31:23.340 --> 31:27.120
+or VPN credentials, not immediately valuable to me,
+
+736
+31:27.120 --> 31:29.280
+but in the hands of the right adversary
+
+737
+31:29.280 --> 31:30.690
+or the right criminal,
+
+738
+31:30.690 --> 31:33.750
+I could use that as an initial access point
+
+739
+31:33.750 --> 31:37.800
+in order to start to move into an enterprise environment.
+
+740
+31:37.800 --> 31:41.130
+So all of this is sold on the black market today.
+
+741
+31:41.130 --> 31:42.990
+And what does the black market look like?
+
+742
+31:42.990 --> 31:44.733
+It looks like Amazon.
+
+743
+31:45.690 --> 31:49.170
+These marketplaces have customer support,
+
+744
+31:49.170 --> 31:53.250
+they have HR teams, they have reviews of the product.
+
+745
+31:53.250 --> 31:54.150
+Is this good data?
+
+746
+31:54.150 --> 31:56.253
+Is this seller known to sell good data?
+
+747
+31:56.253 --> 31:58.410
+They even have escrow services
+
+748
+31:58.410 --> 31:59.850
+so that when you buy that data,
+
+749
+31:59.850 --> 32:04.850
+it's kind of held so that you can get the crypto transaction
+
+750
+32:05.670 --> 32:06.660
+and then you send it over.
+
+751
+32:06.660 --> 32:07.560
+So they even have escrow.
+
+752
+32:07.560 --> 32:10.740
+They're very sophisticated marketplaces
+
+753
+32:10.740 --> 32:14.130
+where your data is bought and sold today.
+
+754
+32:14.130 --> 32:16.560
+And yeah, it's very, very real.
+
+755
+32:16.560 --> 32:20.490
+The way that this happens is through info stealers.
+
+756
+32:20.490 --> 32:24.150
+Info stealers are responsible for the majority of the data
+
+757
+32:24.150 --> 32:27.390
+that ends up on the black market today.
+
+758
+32:27.390 --> 32:30.660
+However, when you look at any enterprise breach,
+
+759
+32:30.660 --> 32:33.810
+that can happen through any vulnerability,
+
+760
+32:33.810 --> 32:36.750
+zero-day vulnerability, misconfiguration, threat activity,
+
+761
+32:36.750 --> 32:38.650
+insider threat, all of that type of thing.
+
+762
+32:38.650 --> 32:41.490
+<v ->Well, it gets even more insidious actually, right?</v>
+
+763
+32:41.490 --> 32:42.660
+So you're being tracked
+
+764
+32:42.660 --> 32:44.910
+on pretty much every element of your life
+
+765
+32:44.910 --> 32:47.490
+as you're moving through the internet online.
+
+766
+32:47.490 --> 32:48.930
+I don't know if you all recall seeing
+
+767
+32:48.930 --> 32:50.370
+that New York Times article
+
+768
+32:50.370 --> 32:53.190
+where a journalist did a forensic analysis
+
+769
+32:53.190 --> 32:56.160
+on how her footprint was being tracked within websites,
+
+770
+32:56.160 --> 32:58.080
+but also between websites,
+
+771
+32:58.080 --> 32:59.970
+and that includes things that are
+
+772
+32:59.970 --> 33:01.530
+seemingly meaningless to us,
+
+773
+33:01.530 --> 33:05.940
+like my screen size, my operating system, my keyboard,
+
+774
+33:05.940 --> 33:08.940
+even whether or not I have a privacy setting activated.
+
+775
+33:08.940 --> 33:10.590
+So when I say please keep me private,
+
+776
+33:10.590 --> 33:13.110
+even that is being used for tracking.
+
+777
+33:13.110 --> 33:14.520
+And all of that gets put together
+
+778
+33:14.520 --> 33:16.380
+to where at the end of a research day,
+
+779
+33:16.380 --> 33:17.550
+the forensics team could tell her
+
+780
+33:17.550 --> 33:19.530
+what kind of article she was writing.
+
+781
+33:19.530 --> 33:20.910
+And so, that's why I'm saying
+
+782
+33:20.910 --> 33:22.590
+people are actually making sense of you
+
+783
+33:22.590 --> 33:25.200
+with very, very small, to your point earlier, Shannon,
+
+784
+33:25.200 --> 33:26.880
+very small data points
+
+785
+33:26.880 --> 33:28.819
+that are all being aggregated together
+
+786
+33:28.819 --> 33:30.810
+into a more holistic picture.
+
+787
+33:30.810 --> 33:32.850
+<v ->Well, and I can cross reference that too, right?</v>
+
+788
+33:32.850 --> 33:35.160
+If I see there's been a recent breach,
+
+789
+33:35.160 --> 33:36.480
+I can go back and see,
+
+790
+33:36.480 --> 33:38.820
+has that person been implicated before?
+
+791
+33:38.820 --> 33:41.700
+So even if it's just your email.
+
+792
+33:41.700 --> 33:44.400
+Say that a website is asking for just your email
+
+793
+33:44.400 --> 33:46.290
+to access the information.
+
+794
+33:46.290 --> 33:48.660
+Well, that doesn't seem that dangerous.
+
+795
+33:48.660 --> 33:51.510
+But then if we look at first name, last name,
+
+796
+33:51.510 --> 33:53.760
+and then we compare that to a previous data breach,
+
+797
+33:53.760 --> 33:57.870
+we can start to tell a pretty solid story of who you are.
+
+798
+33:57.870 --> 34:01.050
+<v ->And I wanna say, please don't be mistaken</v>
+
+799
+34:01.050 --> 34:03.540
+that this is all acceptable
+
+800
+34:03.540 --> 34:06.510
+in terms of you paying with your data.
+
+801
+34:06.510 --> 34:09.720
+Let's say the value is $25 a month for a subscription.
+
+802
+34:09.720 --> 34:12.600
+This is a large multiple of that amount
+
+803
+34:12.600 --> 34:14.790
+that third parties are making on your data
+
+804
+34:14.790 --> 34:16.980
+that you have absolutely no visibility into.
+
+805
+34:16.980 --> 34:19.110
+And if you're a corporate executive,
+
+806
+34:19.110 --> 34:20.340
+this should bother you as well,
+
+807
+34:20.340 --> 34:23.040
+because you should want
+
+808
+34:23.040 --> 34:25.110
+to repatriate some of those data points
+
+809
+34:25.110 --> 34:27.660
+and the value of that data back into your value chain
+
+810
+34:27.660 --> 34:30.000
+rather than going out there and buying new data sets
+
+811
+34:30.000 --> 34:32.700
+on somebody that may or may not be sanctioned.
+
+812
+34:32.700 --> 34:35.160
+So from both the consumer privacy angle
+
+813
+34:35.160 --> 34:38.640
+as well as a corporate economic angle, you should care.
+
+814
+34:38.640 --> 34:43.290
+<v ->In the panel yesterday on the AI track,</v>
+
+815
+34:43.290 --> 34:46.113
+which large language model will dominate,
+
+816
+34:46.980 --> 34:50.433
+the conclusion, the data sets will dominate.
+
+817
+34:52.920 --> 34:54.180
+<v ->Data is single handedly,</v>
+
+818
+34:54.180 --> 34:56.670
+everybody is looking at the shiny new thing.
+
+819
+34:56.670 --> 34:58.680
+Jenssen's keynote, fantastic.
+
+820
+34:58.680 --> 35:00.810
+Obviously the shiny new thing really matters.
+
+821
+35:00.810 --> 35:01.950
+That's the engine room.
+
+822
+35:01.950 --> 35:05.760
+But really, we're discarding a conversation about the fuel,
+
+823
+35:05.760 --> 35:07.233
+and the fuel is data.
+
+824
+35:08.280 --> 35:11.253
+<v ->Kate, would you like to go on the tax of privacy?</v>
+
+825
+35:14.010 --> 35:14.843
+<v ->Sure.</v>
+
+826
+35:14.843 --> 35:19.200
+So I think what we've been talking about is data
+
+827
+35:19.200 --> 35:22.470
+that maybe we've consented to have collected about us,
+
+828
+35:22.470 --> 35:26.490
+and maybe some data we didn't know was collected about us,
+
+829
+35:26.490 --> 35:28.830
+maybe some things we got for free,
+
+830
+35:28.830 --> 35:31.780
+maybe some things we bought, but they took the data anyway.
+
+831
+35:33.390 --> 35:37.650
+In the regulation scheme,
+
+832
+35:37.650 --> 35:41.880
+part of what governments are doing is twofold.
+
+833
+35:41.880 --> 35:46.230
+They're first trying to incentivize people
+
+834
+35:46.230 --> 35:48.270
+to behave in the way that drives
+
+835
+35:48.270 --> 35:50.100
+better business for their jurisdictions,
+
+836
+35:50.100 --> 35:53.460
+and what that looks like in one jurisdiction isn't the same
+
+837
+35:53.460 --> 35:56.580
+as what it looks like in another jurisdiction.
+
+838
+35:56.580 --> 36:01.580
+But they're also trying to create a level playing field
+
+839
+36:03.600 --> 36:07.350
+for both individuals and companies.
+
+840
+36:07.350 --> 36:12.350
+And so, in that sense, GDPR, CCPA and other privacy laws
+
+841
+36:13.710 --> 36:17.700
+do function as a tax or tariff.
+
+842
+36:17.700 --> 36:20.500
+There's a lot of discussion about tariffs generally now.
+
+843
+36:21.810 --> 36:25.320
+I mean, for what it's worth, I'm not a political expert,
+
+844
+36:25.320 --> 36:28.470
+but I don't necessarily see privacy laws
+
+845
+36:28.470 --> 36:32.070
+being a strong impact in the next year or two,
+
+846
+36:32.070 --> 36:34.860
+because the markets pretty much stabilized
+
+847
+36:34.860 --> 36:37.170
+right now on that tax.
+
+848
+36:37.170 --> 36:40.860
+But where I do see greater risk for companies
+
+849
+36:40.860 --> 36:44.010
+is if the data is lost,
+
+850
+36:44.010 --> 36:46.890
+and I see that in a regulatory context
+
+851
+36:46.890 --> 36:48.393
+because the fines are high,
+
+852
+36:49.230 --> 36:52.380
+but more actually in a reputational context.
+
+853
+36:52.380 --> 36:57.330
+Because if consumers find out that you have data about them
+
+854
+36:57.330 --> 36:59.610
+that not only they didn't know you had,
+
+855
+36:59.610 --> 37:01.620
+but they didn't want you to have,
+
+856
+37:01.620 --> 37:05.010
+and that leaks, that's pretty tough.
+
+857
+37:05.010 --> 37:07.230
+Like today in the CES app,
+
+858
+37:07.230 --> 37:10.080
+it asked me to have access to my health data,
+
+859
+37:10.080 --> 37:12.360
+and I was like, I'm sorry, what?
+
+860
+37:12.360 --> 37:14.700
+And being me, I did read.
+
+861
+37:14.700 --> 37:16.200
+They did have a legitimate reason.
+
+862
+37:16.200 --> 37:18.210
+They said they wanted to take my step pace
+
+863
+37:18.210 --> 37:19.740
+and see how long it would take me
+
+864
+37:19.740 --> 37:21.630
+to get from West Hall to North Hall
+
+865
+37:21.630 --> 37:23.490
+or wherever I wanted to go.
+
+866
+37:23.490 --> 37:26.250
+So I understood that, but did they need all my health data?
+
+867
+37:26.250 --> 37:28.500
+Is there a way they could've taken my step data
+
+868
+37:28.500 --> 37:30.573
+without taking everything else about me?
+
+869
+37:31.620 --> 37:33.630
+I am that parent that makes their kids
+
+870
+37:33.630 --> 37:35.220
+review the privacy notices,
+
+871
+37:35.220 --> 37:38.370
+and then before they want the app, they have to tell me.
+
+872
+37:38.370 --> 37:39.690
+I say, did you check it?
+
+873
+37:39.690 --> 37:40.523
+And they're like, yeah.
+
+874
+37:40.523 --> 37:41.356
+And I'm like, no, no, no.
+
+875
+37:41.356 --> 37:42.600
+This is taking your location data
+
+876
+37:42.600 --> 37:44.340
+even when you're not using the app.
+
+877
+37:44.340 --> 37:47.430
+<v ->Roll into your last minute closing thought too.</v>
+
+878
+37:47.430 --> 37:48.750
+We're almost outta time.
+
+879
+37:48.750 --> 37:51.990
+<v ->Or for my daughter, who's a teenager,</v>
+
+880
+37:51.990 --> 37:54.630
+she was downloading a free wallpaper app
+
+881
+37:54.630 --> 37:55.683
+and it wanted to take all her health data.
+
+882
+37:55.683 --> 37:57.330
+<v ->It's always the wallpaper apps.</v>
+
+883
+37:57.330 --> 37:59.280
+<v ->And I was like, what on earth is this?</v>
+
+884
+37:59.280 --> 38:01.410
+I was like, Lily, that's gross.
+
+885
+38:01.410 --> 38:04.080
+And then when she knew, she didn't want it.
+
+886
+38:04.080 --> 38:06.660
+But as much as I try to educate them,
+
+887
+38:06.660 --> 38:08.190
+and they're more sophisticated, I would say,
+
+888
+38:08.190 --> 38:10.290
+than the average American because of my job,
+
+889
+38:10.290 --> 38:11.493
+it's still a struggle.
+
+890
+38:12.810 --> 38:13.680
+<v ->Olaf, closing thought.</v>
+
+891
+38:13.680 --> 38:15.930
+<v ->Yeah, look, I mean obviously you wanna stay away</v>
+
+892
+38:15.930 --> 38:18.210
+from any billion four, billion two,
+
+893
+38:18.210 --> 38:21.480
+whatever it was, fines that Facebook incurred in Texas,
+
+894
+38:21.480 --> 38:22.950
+and the multi-billion dollar settlement
+
+895
+38:22.950 --> 38:25.533
+that Google incurred in California,
+
+896
+38:26.640 --> 38:28.380
+notwithstanding the fact that that's peanuts
+
+897
+38:28.380 --> 38:29.850
+for these large corporations,
+
+898
+38:29.850 --> 38:31.080
+but for you it may not be.
+
+899
+38:31.080 --> 38:33.780
+But I wanna actually drive home Kate's point even more,
+
+900
+38:33.780 --> 38:35.940
+which is that we're already being taxed,
+
+901
+38:35.940 --> 38:37.500
+you're just not being taxed by a government.
+
+902
+38:37.500 --> 38:39.840
+You're being taxed by a shadow economy.
+
+903
+38:39.840 --> 38:42.030
+The actors behind the scenes, it's a,
+
+904
+38:42.030 --> 38:45.450
+by 2030, an almost $500 billion data brokerage industry
+
+905
+38:45.450 --> 38:46.500
+that is taxing you.
+
+906
+38:46.500 --> 38:47.670
+That's your data.
+
+907
+38:47.670 --> 38:48.540
+That's your corporate data,
+
+908
+38:48.540 --> 38:51.060
+that's your individual data, that's your customer trust.
+
+909
+38:51.060 --> 38:52.710
+You're already being taxed.
+
+910
+38:52.710 --> 38:54.840
+Do you want that, or do you want to lobby
+
+911
+38:54.840 --> 38:58.080
+for a more transparent mechanism
+
+912
+38:58.080 --> 39:00.600
+where you can actually derive value, repatriate it,
+
+913
+39:00.600 --> 39:03.180
+give people agency, bring it out in the open?
+
+914
+39:03.180 --> 39:05.640
+Why does this have to be a shadow economy?
+
+915
+39:05.640 --> 39:07.650
+So I'm gonna roll over into my closing statement
+
+916
+39:07.650 --> 39:08.940
+as well, if that's all right with you.
+
+917
+39:08.940 --> 39:09.773
+<v ->Please.</v>
+
+918
+39:09.773 --> 39:12.540
+<v ->Which is that, look, the technologies exist.</v>
+
+919
+39:12.540 --> 39:13.860
+I mean, we're working on them,
+
+920
+39:13.860 --> 39:15.690
+other people are working on them.
+
+921
+39:15.690 --> 39:18.060
+Make sure that your CISO,
+
+922
+39:18.060 --> 39:20.640
+but also your customers, your employees,
+
+923
+39:20.640 --> 39:24.300
+have confidentiality and privacy charters that are nestled.
+
+924
+39:24.300 --> 39:26.010
+Watermark footprints.
+
+925
+39:26.010 --> 39:28.650
+Make sure that they're registered to the data creator
+
+926
+39:28.650 --> 39:30.840
+so the data creator can take ownership,
+
+927
+39:30.840 --> 39:33.630
+whether that is in service of the corporation
+
+928
+39:33.630 --> 39:35.190
+or in their own service.
+
+929
+39:35.190 --> 39:38.310
+And then make sure that we actually
+
+930
+39:38.310 --> 39:40.290
+rate market participants
+
+931
+39:40.290 --> 39:42.180
+so that you can decide where to put the data
+
+932
+39:42.180 --> 39:43.770
+and on what terms.
+
+933
+39:43.770 --> 39:45.390
+<v ->Shannon?</v>
+<v ->Awesome. Thanks.</v>
+
+934
+39:45.390 --> 39:46.890
+I think what the good news is,
+
+935
+39:46.890 --> 39:49.560
+is on the enterprise side where you are sharing your data
+
+936
+39:49.560 --> 39:51.330
+with different companies,
+
+937
+39:51.330 --> 39:53.400
+is that they have a way bigger tool set
+
+938
+39:53.400 --> 39:55.110
+available to them today
+
+939
+39:55.110 --> 39:58.020
+to do a better job of protecting your data
+
+940
+39:58.020 --> 40:01.860
+so you're not finding yourselves in these massive breaches,
+
+941
+40:01.860 --> 40:04.560
+going way beyond like legacy technology,
+
+942
+40:04.560 --> 40:07.560
+like data loss prevention or DLP to do things
+
+943
+40:07.560 --> 40:09.750
+like data security, posture management
+
+944
+40:09.750 --> 40:12.930
+where you're looking at the full life cycle of that data,
+
+945
+40:12.930 --> 40:15.810
+doing things like data detection and response,
+
+946
+40:15.810 --> 40:18.270
+dark web monitoring so that you have eyes
+
+947
+40:18.270 --> 40:21.930
+on these marketplaces at all times,
+
+948
+40:21.930 --> 40:24.270
+and things like zero-trust architectures as well
+
+949
+40:24.270 --> 40:26.910
+so people within the organization are not getting
+
+950
+40:26.910 --> 40:29.100
+unnecessary access to your information
+
+951
+40:29.100 --> 40:30.630
+on that enterprise side as well.
+
+952
+40:30.630 --> 40:34.950
+So more available to these enterprise players
+
+953
+40:34.950 --> 40:37.410
+to do right by you, because it's really critical
+
+954
+40:37.410 --> 40:41.580
+that we take that responsibility extremely seriously.
+
+955
+40:41.580 --> 40:43.200
+<v ->If I can have 10 seconds to just say,</v>
+
+956
+40:43.200 --> 40:45.630
+look, don't be fooled into saying
+
+957
+40:45.630 --> 40:48.480
+that by taking more control over the data economy
+
+958
+40:48.480 --> 40:49.620
+we'll shrink it.
+
+959
+40:49.620 --> 40:50.520
+We'll expand it.
+
+960
+40:50.520 --> 40:52.830
+When people feel like they're cut in
+
+961
+40:52.830 --> 40:54.780
+and there is transparency, there's trust,
+
+962
+40:54.780 --> 40:57.360
+there's agency, they'll give you more data,
+
+963
+40:57.360 --> 40:59.250
+and more participants in the market
+
+964
+40:59.250 --> 41:01.025
+are more incentivized to do that.
+
+965
+41:01.025 --> 41:01.858
+So this is the growth--
+
+966
+41:01.858 --> 41:04.050
+<v ->Them to be compromised, and then when that gets stolen,</v>
+
+967
+41:04.050 --> 41:06.103
+they can really easily manipulate you.
+
+968
+41:06.103 --> 41:07.770
+I wanna thank our panel.
+
+969
+41:07.770 --> 41:10.200
+You guys have been fantastic, and the audience.
+
+970
+41:10.200 --> 41:13.680
+Remember, go to YouTube, TBW Advisors.
+
+971
+41:13.680 --> 41:16.170
+I got videos loading tomorrow as well.
+
+972
+41:16.170 --> 41:17.670
+Please help me get to a thousand.
+
+973
+41:17.670 --> 41:19.560
+I definitely appreciate you,
+
+974
+41:19.560 --> 41:21.810
+and definitely appreciate you coming to our panel.
+
+975
+41:21.810 --> 41:23.010
+I think they've done fantastic.
+
+976
+41:23.010 --> 41:24.103
+Let's give them a big hand.
+
+977
+41:24.103 --> 41:24.936
+(audience applauding)
+
+978
+41:24.936 --> 41:27.603
+(rousing music)
+

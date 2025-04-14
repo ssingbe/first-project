@@ -1,0 +1,958 @@
+<v ->All right, the music stopped.</v>
+I think it's the time to get started.
+So welcome, everybody, to the second session.
+My name is Nathan de Ruiter.
+I'm a partner and managing director at Novaspace,
+a consulting firm specialized in the space sector.
+So this topic will be about "Driving into the Future:
+The Impact of Connected Cars."
+So not sure you already had a chance
+to visit some of the booths at the exhibition floor,
+but if you have some,
+so you probably have seen and witnessed firsthand
+the kind of impressive technology advancements
+of the car manufacturers into the software-defined vehicles.
+So when we talk about software-defined vehicles,
+you could argue that connectivity is really a key enabler,
+so kind of the critical backbone
+for providing these capabilities.
+So our session today, we'll discuss about the benefits
+of software-defined vehicles.
+Also, we'll look at what does it mean
+in terms of connectivity requirements
+to enable those software-defined vehicles.
+But we also very specifically talk about
+the role of satellite, right?
+That's kind of the angle we're taking here.
+What's the role of satellite?
+What are the different use cases
+and potentially as well
+the opportunities and challenges
+to make it kind of a wider adoption of satellite
+into that connected car.
+We have a great lineup of speakers. It's very interesting.
+Each one have a very different angle
+that they bring to the conversation.
+So we'll see if they can agree or disagree
+and how the discussion will evolve.
+So what I'll do first,
+I will ask each individual speaker
+to introduce themself,
+as well highlight the company they're representing
+and maybe as well kind of what is the angle
+they provide to the conversation
+of the connected/software-defined vehicle.
+So maybe we'll just go down the line.
+So Kieran, you go first.
+<v ->Yeah, thanks everyone.</v>
+So my name is Kieran McAleer.
+I'm a department manager at AVL,
+responsible for new innovation solutions
+to support the automotive development processes.
+So some solutions we're working on is around cybersecurity,
+ADAS and automatic robotic drivers.
+AVL as a company is a technology provider
+in the areas of development, simulation and testing
+specifically for the focus on the automotive market.
+And yeah, the main areas or the main focus points
+currently in our projects and opportunities with customers
+is around ADAS, SDV, electrification and safety,
+and yeah, also now cybersecurity,
+which is taking more prevalence in the automotive market.
+<v ->Okay, Sven Hellsten from Ericsson,</v>
+a Swedish based company, telecommunication,
+headquarter in Stockholm,
+working with the satellite technology
+and we have the vision that satellites with 5G
+and in the future, 6G,
+will provide what we call the ubiquitous coverage
+all around the world
+for various use cases.
+<v ->My name is Omar Qaise,</v>
+I'm the founder and CEO of OQ technology.
+We are a satellite operator based in Luxembourg
+that operates low earth orbit nano satellites
+to provide 5G non-terrestrial network connectivity
+for remote and rural areas,
+especially for verticals like energy, mobility, agriculture,
+and mining and mobility logistics.
+Fleet management is a core area for 5G
+and TN connectivity that we provide.
+<v ->So my name is Joerg Tischler,</v>
+I'm from T-Systems
+and heading the connect mobility unit.
+T-Systems is the business to business system integrator
+of the telecom T-Mobile US.
+So we are kind of using connectivity
+to operate large fleets for OEMs.
+So meaning all the fleets which have
+software defined vehicle features.
+That's what we are building and operating.
+<v ->My name is Maite Bezerra.</v>
+I am a senior principal analyst, Forward Intelligence,
+in software-defined vehicles.
+And my job is to research this transition
+that the automotive industry is facing now,
+moving away from hardware centric vehicles
+into software-defined vehicles
+and what that actually entails in terms of hardware,
+in terms of software platforms,
+in terms of relationship with their suppliers
+and even in terms of
+their internal organizational process as well.
+<v ->Perfect. That's a great introduction.</v>
+Maite, we'll just right away start with you.
+Software defined vehicles,
+as a consultant to consultant,
+market sizing always a key question to start with.
+So can you kinda give an indication
+what is the current market size of software defined vehicles
+and what is kind of the growth prospects?
+<v ->Sure.</v>
+I think before I address your question specifically,
+I think it's important to take a step back
+and understand the evolution of the vehicles.
+So then we have a good understanding
+of what software-defined vehicle actually is
+and the role of connectivity in the different stages, right?
+So we first have the stage zero,
+in which we have a purely mechanical vehicle,
+there's no connectivity in there.
+Then we have the stage one when we have a connected car.
+This is a car that has features installed in the car
+and these features can be enhanced with connectivity.
+So navigation, for example.
+You can suddenly have live traffic information
+if your car is connected.
+Then you have the level two, which I call a semi-SDV,
+it's not quite there yet, which is a car that is connected
+and is also capable of receiving updates
+to the features that are in the car.
+However, these updates are essentially bug fixes.
+You're not changing,
+fundamentally changing anything in the car.
+So in this stage one to two,
+connectivity is kind of an add-on
+to what you already have in the car, right?
+And then you have this stage three,
+which is a software defined vehicle.
+And in here, connectivity becomes a foundational layer.
+It's not just an add-on anymore.
+When you are designing a vehicle,
+when you're designing a function,
+connectivity is part of them
+and this is essentially digitalizing the car,
+which, quite frankly, has been the same
+for the past 100 years.
+So it was time, wasn't it?
+But when you digitalize the car,
+you have to digitalize the companies
+that manufacture the car.
+You have to digitalize the companies
+that supply the hardware and the software to the car
+and the whole supply chain.
+So I'm saying this just to point out
+how complex, how comprehensive
+the concept of software-defined vehicle is.
+It goes way beyond just the car itself.
+So Forward Intelligence,
+we estimate that 4% of all the vehicles sold in 2024
+were purely software-defined vehicle
+based on this estimation.
+Now, is the market going to grow?
+Definitely.
+All the automakers are going to migrate
+to software-defined vehicles.
+However, this transition is going to be gradual.
+It's not something that will happen overnight.
+We are not gonna see enormous growth
+taking place in the upcoming years.
+So in 2020, by the end of the decade,
+we expect it to be around 10% of all new vehicles sold
+purely software-defined vehicles.
+Now if you think about connected cars,
+which is level one and two as well,
+then we have a higher base.
+70% of all vehicles sold in 2023 had embedded connectivity.
+And by 2030, we are gonna see
+pretty much all new vehicles having them.
+<v ->All right, great.</v>
+Kieran, do you see some OEMs
+taking a particular lead
+in the kind of the software defined vehicle development
+or a difference between OEMs?
+<v ->Yeah, I think from our perspective,</v>
+there's certainly a difference between the OEMs,
+as I think also we agree that the SDV,
+it's got a wide scope,
+it means different things to different people.
+We see that what's evident is
+that the OEMs are going in this direction.
+So the investment is there and they have a focus.
+I think there's a general acceptance that
+within 10 years, there should be a wide adoption
+of SDV related features, functions in the vehicles.
+But I would say from our perspective,
+we see that there is different OEMs at different levels.
+So it's like comparing,
+let's say the established OEMs compared to the new startups,
+the established OEMs have the challenge with existing legacy
+that they have to accommodate with,
+they have their defined process, et cetera,
+and they become more software orientated.
+This also takes time in the mind,
+a mind shift as well.
+And if you look at the new startups,
+they don't really have this legacy,
+so they can be quicker to adopt the new technologies,
+the platforms that are required
+to bring this SDV capability.
+And from my perspective, regarding connectivity,
+maybe this is a personal kind of focus or key.
+I see the key aspect here
+around connectivity in the SDV terms
+should be around, let's say, safety.
+So not only passenger safety but also pedestrian safety.
+I think this is where the biggest impact
+could be for the future.
+<v ->All right, maybe moving on that.</v>
+Yeah, so it's Consumer Electronics Show.
+So consumer experience is important.
+So maybe talk a bit about
+the expectations.
+So safety here, as mentioned,
+is a primary use case,
+particularly for connectivity.
+What are other benefits?
+For example, Sven, maybe you can talk about it,
+that the connected or software-defined vehicle can bring
+from a personal user experience.
+<v ->Yep.</v>
+I think when you talk about safety and everything,
+the question is, what kind of service are you looking for?
+And basically we're seeing three different tracks now.
+One is IOT type of connectivity,
+with messaging, emergency messaging and stuff like that.
+Possible with LEO satellites,
+but also with yield satellites, actually,
+quite good from a coverage perspective.
+Moving on with more advanced services,
+you would go into Lee Orbits.
+Depending on the frequency band,
+you could go for voice and data everywhere.
+And actually, also with 5G
+on some higher bands,
+you can do quite advanced data services.
+<v ->And Omar, maybe that's important,</v>
+as maybe not everybody in the audience, you know,
+is fully familiar with satellites.
+So maybe first kind of question,
+if you can help us situate, you know,
+how the role of satellite fits
+with all the other terrestrial technologies out there.
+And then maybe talk a little bit about OQ Technology
+and the constellation developing,
+what kind of value proposition that brings,
+particularly in realm to the kind of,
+you talked about mobility,
+so if connected car is one of the use cases,
+how your kind of technology fits in there.
+<v ->So it's well known</v>
+that satellites are gonna play a very crucial role
+for software defined vehicles,
+especially because of the global reach, mainly.
+I mean, with satellites you can have global coverage,
+which allows especially to enable,
+with all the new services
+and features in these cars,
+whether it's autonomous driving,
+safety features, infotainment,
+you'll need connectivity everywhere.
+And satellites have the biggest footprint
+that they could provide in areas,
+especially where you don't have
+the terrestrial infrastructure.
+That's one benefit.
+The other thing is satellites could actually act as a backup
+for the existing other terrestrial communication means
+for vehicles,
+especially if you want to talk about
+level five of autonomous driving,
+you will need to ensure
+that there is always connectivity.
+Even if you have terrestrial level of connectivity
+with 4G, 5G, or wifi,
+you would still need to have the satellite link available
+in case there is interruption.
+And of course, for emergency and hazard,
+to avoid hazards and accidents.
+Having low latency communication is very crucial
+for cars to have enough information
+that they can also provide the necessary reaction
+that can be taken also by the cars
+in case of such incidents.
+And finally also from navigation point of view,
+well, you know, GNSS systems are available,
+provide good navigation method,
+but also there's improved navigation
+that could be provided by satellites,
+especially with augmented reality assisted navigation
+or real time HD mapping.
+And that requires also a lot of information exchange
+that satellites could provide.
+If you talk also about security,
+so satellites also are considered a secure platform
+compared to other terrestrial platforms
+and that also adds another benefit.
+Now regarding what we do today,
+so the idea here is really using the 3GPP standard
+over satellites for narrow band communication
+so that you could have seamless roaming
+and communication with terrestrial networks.
+And this is something that OEMs are looking for
+because you don't want to have different technologies
+and different standards for the car.
+For connectivity,
+integrating both terrestrial and satellite
+within the same chip, the same technology
+that can work with different telcos
+that follow the same standard
+plays a big role
+and that's the value add we could bring,
+not just us but any satellite constellation
+that is following the 3GPP
+and TN standard for 5G.
+The use case, of course, there is the geo coverage.
+It has its own limitation.
+There's the LEO, which has its own also challenges.
+But where we see today a lot of adoption, early adoption
+is for like, B2B and fleet management, telematics.
+This is where especially
+getting information about where the car is,
+whether it's where the fleet is,
+even the people who are for safety,
+like workers, where they are and what they did
+and tracking of the, for example, materials on these cars
+and also for predictive maintenance,
+getting reports so that fleet operators could plan
+maintenance efficiently.
+So this is the type of use cases that we see.
+And of course,
+with future applications, entertainment,
+you would need higher bandwidth
+and this is where broadband communications satellites
+come into the game.
+<v ->Very good.</v>
+Yeah, so definitely an evolution in satellite technology,
+IOT solutions to broadband.
+So maybe Joerg, maybe just talking still a little bit,
+positioning satellite versus the terrestrial
+kind of network technologies.
+How do you see that?
+And, I mean, there's a lot of this discussion
+about convergence, right?
+Between the two, NTN and terrestrial network.
+So how do you see that play out today
+and into the future?
+<v ->Well, I mean all the use cases you mentioned</v>
+are perfectly right
+and the connectivity in itself is no longer an enabler,
+it's a key requirement.
+What we see is that there's a coexistence,
+and you mentioned the important part of standardization.
+So without standardization,
+we will not manage to have cooperation
+or coexisting solutions.
+The key point is that the selection based on the use case.
+So not every use case should use a certain technology,
+but you select, the same way as we use our mobile phones.
+So we have wifi, we have a cellular connection
+and based on costs or availability or bandwidth,
+we use one or the other.
+The same will happen in car.
+It's not today, but it will happen,
+that priority setting, cost-effectiveness,
+this orchestration of data, of channels is important
+and it's not thinking about a car has a certain channel
+or multiple channels,
+but a service has a certain channel.
+So maybe your navigation goes to one channel
+but the updates are loaded once you're on the wifi.
+So that's different thinking
+and you have nothing available,
+then you go non-terrestrial.
+So that's basically the way we see
+this selection of channels
+and that's where the orchestration comes together.
+It's not just looking at the pure connectivity
+but the connectivity within a certain context,
+like an over the air update or navigation
+or things come together.
+We are converging services
+and that's what we are also working on.
+Bring the product, bring a product together,
+which includes the connectivity.
+It's not just having siloed connectivity, siloed security,
+siloed service, but one converged product.
+I think that's where the future sits
+and how connectivity is consumed in the future.
+<v ->Yeah, thank you. That's an important point.</v>
+So obviously, you know,
+you have multiple channels to organize that.
+I suppose there's software
+and other capabilities built around it.
+But from your perspective,
+who would then be the one
+who is kind of managing that?
+Would that be the responsibility of an OEM
+or where does that sit in your view?
+<v ->Well, we are part of Deutsche Telecom</v>
+and T-Mobile US.
+Obviously the telco providers.
+So no, that's not the true answer, the full answer.
+In the end, it can be a service which comes from an MNO
+or even a virtual MNO
+to orchestrate based on the fleet demand
+or the demand of a single car.
+It can also be the vehicle itself,
+if the logic is built into the vehicle
+and then it comes to the upgradable software,
+because these rules are changing based on what we are doing.
+You have to change this on a regular basis,
+maybe even as you use it.
+Therefore, there are certain, I would say levels
+or quality gates where you do this orchestration.
+But the telcos will play a role, the OEMs will play a role,
+any technology or connectivity provider will play a role
+based on standards.
+And that's the key point. No standards, no interaction.
+<v ->If I just can add to that</v>
+'cause I really like this point.
+It's not a responsibility of just one company
+and I think this is what happens
+with software defined vehicles.
+Before, we had this very isolated supply chain
+in which each company was doing a certain thing.
+But now, if you think about,
+"Which connectivity should I use?"
+and if you think about the use cases,
+this is down to the vehicle
+and this is down to the use case,
+down to the application.
+So you need to look at the application and see.
+Is this a mission critical application or is it not?
+If it is infotainment,
+then I can have higher latency.
+If it is an ADAS functionality,
+what level of criticality
+within the ADIS functionality it is?
+'Cause there are different levels in the ADAS as well.
+Is this something that,
+if I don't have a real time response,
+I will put someone's life in risk?
+'Cause this is also important
+when you are deciding
+which connectivity you're going to use.
+Because one thing that we need in vehicles,
+especially when we're talking about ADAS,
+is reliability, right?
+Vehicles are not smartphones on wheels.
+And honestly, I can't hear people saying that,
+because vehicles are mission critical devices.
+If you're using a smartphone
+and suddenly you have a problem
+and your screen was frozen,
+that's fine.
+You just reset it.
+If that happens in a car,
+you are putting the lives of the people inside the car
+and the people around you at risk.
+So I think this idea on,
+"What connectivity should I use?"
+and of course the optimal cost
+has to happen in conjunction
+of all the companies
+because you need the data from the vehicle as well.
+You need to understand what kind of functionality
+is being used and required as well.
+<v ->All right, maybe Sven in terms of the Ericsson view</v>
+on this orchestration of the different channels
+and who best can manage that
+and how to work around it?
+<v ->Well, orchestration is a pretty big word</v>
+and pretty high up in the telecommunication architecture.
+But I think it's a combination
+between the CSPs
+and the satellite network operators
+that, of course, need to agree
+what the business and business relation looks.
+Who sort of owns the customers? Who do you connect with?
+Is it your standard SIM
+or is it the dedicated satellite SIM,
+which is probably not preferred
+'cause you want to address
+the hundreds of millions of potential subscribers
+and cars out there.
+And then there's another question about
+the development of,
+let's call it the orchestration or the beam hoping
+or the beam forming and everything,
+which is something that is done depending on the technology,
+but especially when it goes into 5G, NRM 10
+and not for IOT, where you have more static beams.
+It's a very delicate process
+where you have to make decisions every millisecond
+and look at your scheduler information,
+where the actual users are.
+And there we believe Ericsson is playing a vital role
+in developing this.
+<v ->Perfect.</v>
+Well, let's get the opportunity to the audience
+to join our conversation.
+So if there's some questions, I can do two things.
+I can give you my mic or you speak out loud.
+So see your question here.
+So give you my...
+<v ->Thank you.</v>
+Yeah, my name is Henry Lubkin,
+I'm a venture capitalist
+but many years have been in the car industry,
+mainly VW and BMW.
+Now
+you didn't speak about
+what is necessary on the car side.
+On the car side,
+if you have active faced array connectivity with satellite,
+you have to bring a terminal somewhere on the roof.
+It has to be hardware,
+software wise integrated
+into the architecture of the vehicle.
+I don't see really in the car industry
+that this is pushed hard.
+They look at it,
+but they have so many other things on the top of their head
+that satellite connectivity is not on top of the list
+as long as G4 and G5
+kind of sufficiently supplies the connectivity.
+You know, I see a slowness there.
+What are you guys thinking about that?
+How can that be pushed?
+I think it would be a huge opportunity
+to connect the cars for sure.
+But you didn't talk about the car side,
+which is a big, big step still to go.
+It takes three, four years, five years
+to integrate it into a vehicle architecture.
+<v ->I can take a shot.</v>
+I mean, the beauty with 5G, for example, or 4G,
+is that every single device you buy,
+it is guaranteed to work
+and it's thoroughly tested for years, I would say,
+in the lab.
+So for example, Ericsson,
+what we call interoperability testing.
+That means that there is 100% probability
+that your smartphone will work
+when you take it out of the box.
+And the same would go with car devices,
+but of course,
+you would have to integrate it physically into the car
+and you would have to develop phased array technology
+that is connected to this pretested chip sets
+that you can get from, well, you know, the big companies.
+So I think functionality wise,
+it's a pretty short step to make it work.
+Then it's a probably bigger challenge, of course,
+to get the cost, the integration,
+the beauty factor and everything into the car.
+But the technology will work, guaranteed,
+once you have the right satellites up there
+and you have decided what spectrum to use.
+<v ->Maybe to add on this, you're talking about cars.</v>
+My view, also discussions we are having
+is more on the other type of vehicles, trucks, machinery,
+which are in regions and areas
+where there's no terrestrial network available
+or is a lower quality.
+And here we have definitely a higher cost/benefit ratio
+when you're building this into the vehicles.
+I fully agree with you,
+I don't see adoption in passenger cars, in vehicles,
+in the near future.
+Probably in the next or even the generation afterwards.
+But for other type of vehicles, that's much more useful
+and that's where technology will mature
+and will get them better priced,
+better, higher reliability, coming into larger fleets.
+<v ->Indeed, actually ,</v>
+this is something where for us,
+in the market especially for IOT,
+we had to come up with kind of temporary solution
+of devices that could be integrated at the vehicle,
+like using cameras or whatever,
+which also have the antenna inside
+in order to bridge the time
+until the car manufacturer will start standardizing
+or having that in.
+But it also creates, like,
+there are a lot of value added resellers today
+creating such tracking devices or whatever
+in the ecosystem to provide that service.
+And indeed, as you said,
+it depends also a lot on the use case of the spectrum
+because for example, we use the S-band,
+the two gigahertz,
+and even we know it's like,
+even inside the car, you would still get coverage
+and with LEO, since you're coming from different angles,
+you would capture the satellite
+compared like, with geo where you need to be pointing
+or you need to have very advanced beam forming.
+But of course that's more
+for narrow band IOT applications,
+not like continuous streaming or broadband applications.
+<v ->You can always roll down the window.</v>
+<v ->Yeah.</v>
+<v ->Just to add to this,</v>
+I think usually when we are having technical conversations,
+unfortunately, business models is often not addressed.
+So when we look at the commercial vehicle segment,
+the business model is often very clear
+because you can directly either monetize it
+or you can save costs.
+So the adoption is much easier,
+but if you look at the private vehicles,
+it's a bit more complicated.
+And quite frankly, it has been very difficult
+to monetize connectivity in private vehicles so far.
+I'm sorry, but you guys know. (laughs)
+It's not like it has a high adoption,
+and in my opinion,
+it's because the business model so far has been incorrect.
+I don't think you need to,
+you should ask the final customer
+to pay for connectivity.
+For me, that doesn't make any sense.
+Think about how many drivers don't have a phone
+and are not already paying for data in their phones.
+So then suddenly you were saying,
+"Oh, why don't you pay again?"
+And what are you gaining from that?
+So what what we have to do is actually,
+we have the tech.
+Look at this,
+we have several companies offering the tech,
+but actually what we have to think is,
+"What am I offering to my customer?"
+Consumer pays for value.
+I'm not gonna pay for connectivity
+because I don't see value in paying for connectivity.
+But if my car is offering a functionality
+that adds value for me.
+so if my car, if the company that,
+I dunno, if I'm driving a BMW
+and I have a feature that updates
+and upgrades my parking feature, for example,
+and suddenly I buy my vehicle,
+my vehicle is capable of semi-automated driving, right?
+So the wheel moves and I have to use the actuators,
+but then six months later I have an update,
+and my car is capable of fully automated driving.
+The car didn't change, the sensors didn't change,
+but now I don't have to do anything
+and the car parks and I just watch it.
+Six months later, I get an update
+and I can park my car a few meters away
+from the parking space.
+I leave my car, I use my phone, I press a button,
+the car goes and parks itself
+and I can summon the car.
+I would pay for that.
+Connectivity is embedded in this
+because the OEM will have to have some level of connectivity
+to change this functionality over the air.
+But I'm not paying for connectivity, I'm paying for value.
+And this is, I think,
+something that we should be discussing.
+What is the value
+the satellite is going to add to the customer?
+And if it is adding value,
+then increasing the bill of materials of the vehicle,
+it's okay, it's something that you have to deal with
+because you're going to monetize in another way.
+<v ->And maybe Kieran,</v>
+can you maybe talk about how you view
+or from your discussion with OEM side,
+kind of the benefits of the software defined car?
+Let's maybe start there
+and you know,
+because we still talk about relatively limited adoption,
+is then the benefits versus the cost
+not kind of adding up at this point?
+<v ->I think it's already been mentioned by yourself as well.</v>
+I think the OEMs are faced with
+a lot of transition and transformation.
+So there's, of course, the shift now towards BEV,
+which they've had to handle.
+Now there's the hype around SDV.
+It's delayed,
+the adoption is not there, it should be there.
+Then there's now the requirements for cybersecurity.
+And also infotainment as well.
+I think also in the future,
+it was also mentioned by some of the colleagues,
+it's no point looking at it individual technology
+by technology by technology
+because bringing the technology is not so difficult.
+There's always an interaction of the dependencies on this.
+So there will be a big dependency on the infotainment
+with the ADAS, et cetera.
+And we already see that the OEMs,
+with the transitions that they're faced with now,
+are already struggling on the system level.
+So when you design these features,
+you don't really think about how to test and validate them.
+And this is underestimated.
+Then it's not easy in a global market
+for automotive manufacturers.
+So you have to,
+you have one market
+and then you have to adopt this for other markets.
+It may be simple things like road signs,
+behaviors, whatever.
+And this is estimated
+it can also take about 40% additional efforts
+just for this adoption.
+So I agree that the technology is one thing,
+but we need to be looking at it
+more on the system complexity and the system integration.
+And if we already look at the market,
+we can see some OEMs already struggling with this, you know?
+There's already significant delays.
+They're canceling vehicles by 12 months
+and basically, it's the same message.
+It's around software integration issues.
+This is what they're currently struggling with.
+And so I think going forward,
+it's not so much the technology on its own,
+it's, we need to have a bigger, wider understanding
+on how this completely operates as a complete system
+and then, importantly, how to test this
+and validate it in the most efficient way
+that it can be brought into more stream
+and released to the market.
+<v ->May I add to this?</v>
+So you mentioned system integration.
+I would go even one step further into operations,
+fleet operations.
+Because once this is out in the market,
+it's there for 10 years, 10 plus years.
+You have to do the upgrades.
+Someone has to pay for it.
+The consumer typical will not pay for it.
+So there are continued costs on it and we see it.
+We operate fleets for OEMs
+and there's a a tremendous effort
+in managing the software, security updates,
+whatever needs to be done,
+roll it out and keep it operating for long period of time.
+And 10 years means two, three,
+even four technology generations.
+So where change is happening,
+that's where standardization is such important
+that you don't have to change every other day.
+But that's where the complexity is coming from.
+It's not the initial technology introduction,
+it's getting it out, get it integrated,
+get it rollout,
+get it into different regulatory,
+regional regulatory requirements
+and then operate over time.
+So that's where the big cost's coming from.
+<v ->Okay, good.</v>
+All right, let me see if there's other audience questions.
+If you have a question please raise your hand.
+I'll try to see.
+You are, okay.
+Well, it was a good question.
+I'll allow a second unless, oh no, sure.
+<v Woman>Thank you. I arrived a little late.</v>
+So I do apologize
+if this controversial topic has already been brought up.
+But if you can share with me what is your,
+for each of you that would like to respond to this,
+what is the worst case scenario
+and what is the best case scenario for you
+as it relates to Elon's vertically integrated possibility
+with Tesla and SpaceX and Starlink?
+<v ->Okay, let me start.</v>
+So we are,
+from the type of business we are doing,
+as Deutsche Telecom and T-Systems operations perspective,
+it's another partner in the market.
+So there's a partnership of T-Mobile US and SpaceX.
+So as an example.
+So it happens also for other market components
+or sub-markets.
+So I think of this market or this whole topic
+we are talking about, SDV, as a collaboration market.
+Obviously there are some companies, entities
+which are very innovative
+and bring things into the market, disrupt the market.
+I personally would say it's good
+because then something is happening,
+I don't see it as a threat.
+It's something which develops us
+and challenge us from time to time.
+<v ->I completely agree.</v>
+I think we should,
+technology has to evolve
+and you know, regardless of all the polemic,
+we are just talking about software defined vehicles today
+because of Tesla, right?
+Of course, if it wasn't them, it would be someone else.
+But what I'm trying to say is, we can't stop innovation
+and innovation only happens vertically
+when you don't have an ecosystem.
+'Cause it's the same thing
+with the software defined vehicle architecture.
+The reason why Tesla is completely vertically integrated
+in the whole vehicle architecture
+is because there wasn't an ecosystem,
+because quite frankly it's much cheaper
+to just buy technology
+that you were not an expert in
+than developing your own, right?
+So again, if they do this, we may grow a market
+that we're gonna have more suppliers
+and the market's going to grow.
+So it's good.
+<v ->All right, good question. Good question.</v>
+I'm not sure my mic is on.
+We have a few more minutes.
+Let me just see if there's any other questions here.
+Speak loud.
+Good.
+I think we can maybe leave it
+to the last question.
+Before that, I just want to go back to the Tesla.
+It's actually an interesting point
+if you just think about it,
+where they are today,
+SpaceX and Starlink,
+so they offer a lot of different markets.
+They're offering kind of the broadband connectivity,
+but connectivity to the car is not at a broadband level.
+So clearly from their perspective as well,
+it has not been a primary use case.
+When this new satellite constellation come into the market,
+will be interesting to see how they move forward.
+But you know, that was actually really well related
+to my last question,
+'cause we covered a lot of topics about business case,
+affordability, technical challenges,
+but is there anything that we didn't discuss
+so far in the topic of software defined vehicles,
+in the topic of connected cars
+that you know, we should be discussing
+and you want to do a quick pitch about it
+in the last two and a half minutes we have?
+So anyone that wants to go first to highlight something
+or just summarize a key takeaway,
+that's also allowed, but...
+<v ->Maybe I start.</v>
+So just, I think, if we want the adoption to speed up,
+I think it's already kinda been mentioned,
+there needs to be kind of a more open architecture.
+And more collaboration.
+I think without this,
+we can bring a certain level of standardization, et cetera,
+but to really speed it up
+and bring more mass adoption,
+we really should be looking
+for a kind of more open architecture
+and a more joint collaboration,
+which maybe hasn't been that prevalent
+in the automotive industry previously.
+So I think this would be for me.
+<v ->Yeah, I see automotive</v>
+as one of the really driving use segments
+and really the need of having one technology that is common
+between the normal way of operating,
+which is the terrestrial networks, good cost,
+good through-puts and everything,
+complemented with what you can call auto coverage services
+with the same kind of basic technology
+that doesn't drive additional cost,
+which is a disadvantage with Starlink and Tesla,
+of course, currently.
+<v ->I think one thing we could do</v>
+to accelerate also the timeline of adoption
+of connectivity over satellites for cars
+is harmonization on spectrum,
+because this is a very critical point.
+There will be a lot of regulatory aspects there.
+The access to spectrum is different
+from region to region,
+and now on I2 level on WRC,
+this is being harmonized,
+but until it's adopted in all countries,
+until the operators have the access
+to provide such global coverage in every country,
+it's gonna take time.
+But also, it requires also continuous discussion
+with the OEMs and the chip makers and the telcos also
+in order to have, in the end,
+global connectivity everywhere over satellite
+because you don't want to end up
+with very complex antennas that cover different bands
+in different regions,
+and you wanna have, like,
+only a few bands that are standardized
+for vehicle connectivity over satellite.
+<v ->Maybe one thought here.</v>
+Software defined vehicle and the whole industry
+should also look to other industries.
+So it's not the first industry
+where software defined is a common term.
+So software defined networks is at least 10 plus years old.
+And there are a lot of learnings, from my point of view,
+from software defined networks to software defined vehicles.
+Standardization's one, open source is one.
+So you don't have to reinvent the wheel
+again and again and again
+and build your own operating system.
+So there are a lot of stuff which can be shared
+and have a common ground.
+And this is probably also a thought
+which helps us
+for the next one or two generations in SDVs.
+<v ->Do I have time to end on a polemic note?</v>
+First thing, I think satellite connectivity
+should be positioned in what it does best.
+I don't think it will replace
+any other kind of connectivity.
+It's going to be used
+when you don't have other connectivity available.
+And some of the use cases that I heard in here,
+they require high bandwidth, they require low latency,
+they require reliability.
+Will satellite be able to deliver that
+to the automotive grade level?
+I dunno.
+Second point, the business case for connectivity
+has been incorrect for a long time in automotive.
+This has happened with satellite connectivity,
+this has happened with V2X
+and it could happen with satellites connectivity
+if we don't do things differently.
+If you keep doing the same things,
+you can't expect different results.
+And I think this is an opportunity to change things.
+<v ->All right, thank you very much.</v>
+That sums up very well.
+There's still a lot of things to do,
+a lot of work to do for all of us,
+but I think, you know,
+definitely, the value is recognized.
+Please join me in thanking the panelists.

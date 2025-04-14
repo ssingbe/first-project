@@ -1,0 +1,909 @@
+<v ->Good morning, and thank you so much</v>
+for joining us this morning.
+My name is Julie Kenar.
+I work with NIQ/GFK, and I'm the automotive lead.
+So, today we are going to talk about
+AI and AR in vehicle technology.
+We're gonna start very broad,
+and talk about the manufacturing
+and product development process,
+and then we're gonna narrow it down to consumers,
+and talk about how this technology is impacting consumers,
+how they're benefiting from it,
+and we're gonna discuss whether or not
+the technology is actually meeting consumer needs.
+And along the way,
+we'll talk about both opportunities and challenges
+with artificial intelligence and augmented reality.
+So with me today, I have four esteemed experts in the field.
+I have Wendy from 3M, Chris from Goodyear,
+Jeff from Xperi, and Fedra from Bosch.
+So I'd like to ask each of them
+to please take a moment,
+to introduce themselves,
+tell you more about their company,
+and give you a brief overview of
+the technology that they're using today.
+Fedra, would you like to start?
+<v ->Thank you. So my name is Fedra, Fedra Ribeiro,</v>
+and I work for Bosch.
+Thank you for the introduction.
+I work in the domain of compute and ADAS.
+Bosch is a lead technology player
+in the automotive industry,
+and I am in the board of our division
+of compute and ADAS.
+<v ->Hi everyone, I'm Jeff Jury,</v>
+I'm the general manager for the Connected Car for Xperi,
+and we develop immersive entertainment solutions
+for the automotive space,
+and work with all the different
+car companies on those implementations.
+We do have a booth here
+in the West Hall if you'd like to stop by.
+And really our focus is whether it's audio,
+video, gaming, whatever,
+is to bring that content
+into the home or into the vehicle.
+And in our case, my division,
+it's all about how to bring that
+all into the car on a global basis.
+<v ->Good morning, my name is Wendy Bauer.</v>
+I'm our group president for transportation
+and electronics at 3M.
+For those of you that may not be familiar,
+we're a material science company,
+and manufacturing company that
+really focuses on innovation for some
+of the biggest global problems in the world,
+spanning many industries from automotive,
+to aerospace, to consumers, to personal safety,
+climate technologies and beyond.
+So we like to think of ourselves as uncomplicated,
+if you've had an opportunity to see our booth,
+but really bringing material science
+and our ability to manufacture at scale to life,
+in innovative solutions that really solve
+a number of problems in those different industries.
+<v ->So good morning, Chris Helsel,</v>
+the Goodyear Tire and Rubber Company.
+We've been in business a little over 125 years.
+Some people say, "Why are you guys at CES?"
+And we're here because we're not only doing tires,
+but how do we do things like tire intelligence.
+And so, putting digital into tires,
+and then making those connections with that,
+to hopefully make driving safer, more efficient.
+So I'm our chief technology officer.
+I've been serving in that since 2017.
+<v ->Thank you for the great introductions.</v>
+So, we'll move along to our first question.
+So as we all know, the auto industry
+seems to always be in the stage of rapid transition.
+It's impacted by regulations, by competition,
+by consumers, and of course by technology.
+So, if each of you could please
+help the audience understand
+how is your company addressing
+one or more of these areas in the industry?
+<v ->So maybe I'll start,</v>
+if the rest if the colleagues agree.
+So at Bosch, we serve the industry end-to-end,
+and I will focus a little bit on the transition
+towards software defined vehicle,
+and software defined mobility.
+If we focus a little bit on
+the ADAS and the compute area
+with optimization of electrical,
+electronic architectures on one hand,
+an advancement of safety functions,
+artificial intelligence and softwarization
+of the industry are two core trends
+that we are addressing in our business.
+So we can explore afterwards a little bit how,
+but essentially increasing safety,
+personalization, and comfort to the
+OEM custom and customers.
+<v ->I'd say one of the biggest innovations</v>
+you'll see from a production perspective
+will be over the air updates,
+and the ability with software defined vehicles,
+and the ability to take that,
+and really innovate as fast in a car
+as maybe not as fast as a cell phone,
+but faster than a every five or six year cycle.
+I think that'll be a revolution
+in how cars will be updated and advanced in the future.
+<v ->Yeah, for us at 3M it's really, you know,</v>
+back to how do we think about bringing
+our material science capabilities to life,
+and however that manifests for our customers
+in the respective industries,
+particularly in the automotive industry.
+Some of the macro trends that we're really focused on
+is as we think about sustainable materials,
+as we think about the safety of the vehicles,
+as we think about repairability of the vehicles,
+materials, innovations and materials
+are constantly needed for each of those.
+And so for us, as we think about technology,
+part of it's understanding
+the chemistry and the formulations,
+and how to understand specific use cases,
+and to bring that speed faster for our customers
+as we think about how to make
+a vehicle more sustainable or how
+to (indistinct) vehicles so that I can repair them.
+Materials sit at the core of all that,
+but really understanding those formulations
+at the speed of innovation that the industry is moving
+is one of the best things that we can do
+as we work with our customers.
+<v ->I kind of mentioned in the start</v>
+is the really connectivity.
+And I'll use our specific example,
+which is you think about
+the only thing connecting a vehicle to the road,
+is four palm size patches of rubber,
+and they carry all the forces,
+and keep you connected to ground,
+which right now of course is earth.
+And that's a really important job.
+And we've done it for a long time
+with chemistry and materials,
+and make no mistake, that innovation continues,
+but what we found is with this connectivity is
+well why not also be able to monitor
+exactly what's happening there,
+the friction and those connecting forces objectively?
+And it's something that becomes all the more important
+when you get out of the loop of the activity of driving.
+And so you as a driver do an awful lot
+to inform that system you probably don't think about.
+And when you're not there,
+something has to provide that.
+And so connectivity is something
+that's allowing us to do that.
+And you know, as we all start working
+and keep working on this,
+partners like Bosch, and the these control systems,
+this is a really exciting trend that
+we look forward to keep participating in.
+<v ->Excellent, thank you.</v>
+So, delving more into the
+manufacturing and product development process,
+how do you think that artificial intelligence
+is influencing that process for each of your companies?
+<v ->I could start, if you want on that.</v>
+So, actually when I started at Goodyear,
+it was all on commuter simulation.
+Shockingly, I know I look really young,
+but in 1985 I started doing computer aided engineering.
+And the bottom line is that is,
+you know, heavy, high compute, okay.
+And it's awesome to run those kind of analyses,
+but if you really wanna start doing
+many of these things and more discovery,
+you've made a heck of a lot of data,
+whether through your testing or that kind of stuff.
+And we've built a lot of artificial intelligence,
+algorithms and almost expert design systems that help
+especially new engineers who come into your teams,
+be almost, have access to what
+a very experienced engineer would have.
+So it's a, think of it as almost like human augmentation
+to make them much more sophisticated
+than they really would've been warranted back in the day.
+So, so we see a lot of coming,
+and helping people get up to speed quicker.
+<v ->So I'm gonna build up on what Chris shared here on data.</v>
+For us at 3M, decades of data on formulations
+and use cases for different,
+different environments and requirements
+that our customers have across
+all these different industries.
+So how do we think about taking that data,
+as our engineers continue to push the boundaries
+and solve new challenges for customers,
+but learning from what we've done in the past.
+So we see data used along with machine learning and AI
+in the design cycles to speed it up,
+to make it more efficient for them,
+but to really push the boundaries of innovation
+in the design side,
+but then extending that even
+into our manufacturing environment.
+So the ability to run all of those simulations,
+and really fine tune designs for customers
+before I then go to the phase of
+running samples in the manufacturing,
+and spending spending not only the time and the resources,
+but then the materials that have to get utilized
+or even wasted if it doesn't pan out to be the right design.
+So we see that through our entire design cycle processes,
+our manufacturing processes,
+but then even kind of how do we take that further,
+to the benefit of our customer.
+You know, one of the demos,
+if you have an opportunity to go by our booth,
+where we see that kind of flow through
+into the manufacturing processes of our customers,
+it is automated paint repair.
+So taking 3M products,
+but it's not just the product,
+it's how do you use the product.
+So when you think of kind of patterns
+for repairing paint on a vehicle,
+which is, you know, it's a complicated process
+for our automotive OEM customers
+in vehicle manufacturing environments,
+but now how do you use the product
+in the right pattern depending on
+the surface you're trying to repair.
+You can leverage the data from all the,
+all the times that we've done this, you know,
+the specific location on the vehicle
+using AI and machine learning.
+So not, you know, to summarize,
+it's really how we do our design work,
+but then again,
+how our customers utilize the products
+that we also create.
+<v ->Great. So, with AI being so prevalent</v>
+in the manufacturing and product development process,
+I'd like to ask if there are any
+any sense of an idea of, you know,
+right now a new vehicle takes
+four to six years to bring to market depending on the OEM.
+If you hit a crystal ball,
+what would you say that product development process
+could potentially get down to?
+<v ->Well, if I think about our experience in China,</v>
+it's taking seven months.
+So there is a bigger and bigger gap between our more,
+let's say traditional established OEMs
+and their product development cycle,
+and tools and methods used, for example,
+in China where you can through reuse of data,
+like Wendy was saying,
+and the connection between field optimization
+and new product development, focusing on the core.
+So not reinventing components and systems,
+every time you develop a new vehicle.
+You can get it down.
+Well now, there are companies
+doing the same job in seven months.
+<v ->Wow, that's amazing.</v>
+<v ->Yeah, I would say from a software perspective,</v>
+we've seen some of our products launching,
+that used to take maybe two or three years
+into four or five weeks,
+because everything, again,
+going back to over the air updates
+and the ability to rapidly prototype,
+that didn't exist maybe five or six years ago
+in the automotive space is unbelievable.
+So you get a wide range now across,
+in some cases it's traditional five, six years,
+in other cases, they will have it out in months.
+Very different.
+<v ->Yeah, I think for us,</v>
+we do a tremendous amount of business
+with the electronics industry,
+consumer electronics, so PC, phones, tablets, et cetera.
+And what we've seen in that industry,
+is distinctly different than
+some of the others that we support,
+is the speed of innovation that our customers
+and the industry is demanding of us.
+So we've really had to think about
+if we're gonna best serve and collaborate
+with those customers and meet their
+speed of innovation expectations,
+we have to be able to keep that pace,
+and to be able to innovate with them and for them.
+So we're, you know, thinking about how to use
+virtual testing capabilities or whatnot,
+but really bringing the best of what we can do
+to serving one industry,
+and applying that to others as well.
+<v ->Fascinating, just amazing how quickly</v>
+things are changing,
+and how quickly new products can come to market.
+So outside of AI,
+are there other innovations
+that you feel are impacting the manufacturing process?
+And I don't know, Wendy, I saw you nodding your head,
+so maybe start with you.
+<v ->Yeah, I, you know, I mentioned an example</v>
+of how our customers are utilizing
+our knowledge and data kind of in their environment.
+I think similarly we're looking to leverage technology,
+whether it's, you know, basic data visibility,
+and real-time analytics and machine learning,
+on the factory floor.
+A lot of vision systems around quality detection,
+but really for us it's, we wanna be able
+to move and service our customers as best as possible.
+So leveraging every piece of
+capability that's out there from a
+tools or technology and data perspective,
+to really keep refining the operations of our environment,
+and getting closer connectivity tissue
+to our customers to respond to them more timely.
+So, excellent.
+<v ->Yeah, I would build on the quality.</v>
+And it is related with AI,
+but a lot of the image
+and automated inspection systems,
+you know, we make over 150 million tires a year,
+and each and every one of 'em
+has to be hand inspected at the end of a line.
+So you imagine that if, you know,
+your job is coming down a conveyor
+is to take a tire,
+it gets automatically set up, it's rotating,
+and you're under these kind of lights,
+and looking for anomalies.
+And a lot of really cool things coming,
+and that we're implementing in our plants
+to make sure that that job is now done,
+a combination of AI plus visual inspection.
+So some really neat applications there,
+and I've seen many of those around the show, actually.
+<v ->Fantastic. Okay, so let's kind of shift over to consumers.</v>
+So, Jeff, maybe we start with you.
+Can you share some examples of how AI
+and innovation are benefiting consumers?
+<v ->You see it all over the place nowadays</v>
+in vehicles, or even in the,
+in the process of how people acquire a vehicle,
+get it, or engage with information about the vehicle.
+The fact that there's chatbots,
+the fact that in a car now,
+you can ask questions of the car
+that relate to something you're trying to achieve.
+We were talking earlier,
+and there's a lot of evidence of this.
+Used to be you go in and you say
+you know, "Let's find a pizza place."
+Or, you know, use a search engine,
+or you use your phone to find this pizza place.
+Now you can say to the car,
+"Find me the best deep crust pizza place
+within five miles of my house
+that doesn't cost more than $20 a pie."
+And so you can get very more granular and specific
+with what information is being asked,
+let's say in the vehicle,
+and how it can help you to get to
+that customer satisfaction that's so important.
+So AI can really drive customer satisfaction
+in ways that didn't exist in the past.
+<v ->If you think about automated driving functions</v>
+that customize vehicle behavior
+to what your needs and safety, depending on weather,
+depending on the road you're driving in,
+depending on speed, et cetera, et cetera,
+it gives the end user the personalization
+of driving style to the safety,
+comfort, and speed that they need.
+So it's not directly related to consumer or consuming,
+but the usage of the vehicle is becoming
+much more relevant based on who you are.
+And also the development of functions becomes much faster,
+and the deployment of those functions in the field
+become possible through over the air updates on one hand,
+but also the fast development cycles in ADAS,
+and enabled by the right computing power in the vehicle.
+<v ->And to build on that a little bit,</v>
+this idea of the safety system, you know,
+I mentioned before, we focus on entertainment systems.
+But there's actually a linkage
+that can help improve customer satisfaction.
+We look at solutions that maybe
+with cameras in the car for safety,
+you can determine if someone's
+engaging with the content that's
+a video or audio that's playing whether they like it or not,
+or whether they're distracted.
+And you might turn down the music if you will,
+or switch the music based on
+the person may be agitated when they're driving.
+So the safety systems and the entertainment systems
+can play together in ways that didn't exist in the past,
+that are both creating a safer environment and a richer,
+immersive entertainment environment for the consumer.
+<v ->So, Nielsen IQ and GFK Automotive Research</v>
+shows that when people are choosing their next new vehicle,
+safety is one of the top reasons.
+And you know, we find that there are certain features,
+that, you know, when we ask people,
+"Hey, what type of features
+do you want in your next vehicle?"
+And we give the whole list of features across the vehicle,
+safety features always float to the top.
+So, you know, with that in mind,
+I'm wondering if maybe Fedra, we start with you,
+if you could share some innovations,
+some safety feature innovations,
+that you know consumers can really benefit from.
+<v ->Right. So if you come to the Bosch booth,</v>
+you'll be able to look at a couple of demos in this field.
+Like I was saying, advanced driver assistance
+is a core part of safety,
+from your lane departure functionality
+to your parking functionality,
+to in-vehicle sensing that determines
+if you are tired or not,
+or distracted looking at your phone.
+So you will be able to see a number of
+individual functions that advance safety.
+I remind you all that Bosch is
+an invented for life company,
+and in this spirit of invented for life,
+we use AI, safe AI, ethical AI
+to advance driver assistance functions
+and driving in general,
+making it safer for consumers.
+<v ->Maybe I could share a couple examples of</v>
+where we've done some of the work on this is,
+and in particular on just breaking.
+In 2029, NHTSA's coming out with a new
+automated emergency break requirements,
+and there's a lot of opinion out there on it.
+Can we meet it? Can we meet it?
+Two sides of the problem.
+There's a perception side, there's the action side.
+A lot of our work is on the action side,
+and knowing explicitly, you know,
+the capability real-time of,
+again, that connection to the ground, the tire,
+and is this vehicle really gonna be able to stop?
+And then two things dictate that.
+Number one is the condition of the tire,
+because based on what kind of tire you have,
+it has different properties in and of itself.
+The second thing is you integrate that
+with something around the road.
+And at dry conditions,
+maybe your friction is 0.8,
+but it drops significantly for snow.
+We are talking about,
+all of us are having snow when we go home.
+Too bad we can't stay,
+but the bottom line is then you know,
+well how much sooner do I have to start applying breaks?
+Now a consumer doesn't think about that,
+but there's a huge consumer benefit
+because people are putting together
+systems who will take care of that.
+A similar one we talked about,
+we introduced last year,
+and we're taking it around to many
+of the OEMs is on hydroplaning.
+And again, you don't think about it,
+you're going down the highway,
+and all of a sudden you come upon a puddle,
+deep puddle, and you completely lose contact,
+and at that point no control of your vehicle.
+And there was actually a connection into the infotainment,
+which is simply, "Hey, we're detecting you're
+starting to lose some of that contact area."
+And you could pass it at least through a warning
+through the infotainment saying,
+"You might wanna slow down."
+And the second way is through people like Bosch
+where they actually take control,
+and they'll slow you down.
+And so these are huge saviors
+and things for people,
+hopefully avoiding collisions, accidents.
+The consumer isn't maybe asking for that explicitly,
+but they're asking to be safer.
+They're asking to avoid collisions.
+And I think there's again, they're huge opportunities.
+And it's not for one of us to solve,
+it's how we work together to bring these,
+bring these to market.
+<v ->And for us at 3M, you know,</v>
+some of the ways that we add innovation to the vehicle
+around the notion of safety may not be,
+you know, quite as obvious,
+but you know, as Fedra and her teams,
+and other companies are focused on bringing
+bigger compute, or with compute centralization to vehicles,
+that suddenly creates new problems around
+thermal management and power management.
+As you're advancing and bringing more sensors,
+we have to think about the materials
+that go into the sensors and the sensor properties
+with like optical films.
+For example, or the conductives
+and all of the electronics components.
+So for us at 3M, you know,
+deeply understanding that those performance requirements
+as vehicle technology itself is shifting,
+we have to stay very much to your point,
+very, you know, very collaborative engineering
+to really bring that through,
+and make sure the material properties
+are supporting whatever requirements
+of the vehicle as well.
+<v ->Okay, so this is a little bit of a loaded question,</v>
+but it wouldn't be an automotive discussion topic
+if we didn't bring up Evs.
+So we know that demand for Evs is leveling off.
+I'm gonna ask the panel if you think
+that either AI or AR,
+or other innovations could possibly
+improve demand for EVs.
+And Jeff, I'll start with you.
+<v ->Sure. I think the biggest application</v>
+where AI can help is,
+the number one issue remains range anxiety, right?
+So there's certain parts of the country
+there's charging stations everywhere,
+and people have the cars,
+and they know where the stations are and everything.
+But then really if you look across
+the entire United States,
+there's vast stretches where no idea,
+there just aren't charging stations,
+or they're few and far between.
+And so the ability of AI to not just
+point out where the charging station is,
+but what the line is at the station,
+is it in a safe area?
+Is it, is it well secure?
+What else is around?
+Is there any shopping around?
+All that information would be
+really beneficial for that next level
+of consumer who worries about that.
+So at the end of the day,
+you're gonna have range anxiety
+that's gonna vary across the population
+to the point of some people never wanting to get an EV.
+But we're now past, let's say those initial adopters,
+and that next wave,
+they're gonna have to have a reason
+that makes them comfortable
+with not having to worry about
+where they charge their car,
+and it becomes more fabric of how they,
+you know, how they look at the vehicle and say,
+"That's not gonna be a problem."
+And AI can definitely help with that.
+<v ->I would build on what you're saying,</v>
+adding that, like another couple of use cases
+where AI can really help.
+One is on the range prediction,
+so upstream reduction of that anxiety that you discussed.
+And the other piece or end of the lifecycle
+is on the used car,
+which is a very big problem,
+is residual values of EVs.
+They are very low.
+Nobody wants to buy an EV
+because you can't resell it.
+So AI can help creating models
+that will give the used car customer
+a better view on what vehicle they are buying,
+and with that, fostering or motivating
+an increase in residual values that will
+hopefully motivate the market and increase sales.
+So those are a couple of use cases
+on prediction, range management,
+and then the certificate in the
+second end the car market.
+<v ->Great, thank you.</v>
+So, still focusing on consumers,
+I'd like to ask the panel,
+how do you see AI helping consumers
+with their vehicle experience,
+and their research process as well?
+So, maybe Jeff, we start with you.
+<v ->So from the research perspective,</v>
+I think it can help a lot.
+A lot of times when people go out,
+and they try to filter through all the information
+that's out there to make a choice on a vehicle,
+it's incredibly difficult.
+And so being able to synthesize all that information,
+and come up with different points of view online,
+or even at a a series of dealerships,
+I think would be essential to giving
+people confidence that they truly understand
+the difference between vehicles,
+and help them to clarify why
+they want one vehicle over the other.
+And I think that can actually benefit
+both the dealers, and the auto industry and the consumer.
+You have less people buying for the wrong reasons,
+for lack of better terms,
+and it's a much more educated consumer experience.
+And I think that particularly,
+if you get into an environment where you hear,
+like you think of a Tesla
+whether there's in a dealership network,
+it's one thing in the traditional sense
+when someone goes into a dealer,
+but if this is not gonna be done
+through a dealer network for some
+of the car companies going forward,
+then that would be essential,
+that'd be essential to help them
+to determine what and where, and when to buy.
+<v ->So we have a very large retail footprint,</v>
+and I will just tell you with a,
+how many of you go walk in, are thinking about,
+"Man, I'm excited to go buy my next set of tires."
+We don't, we don't find a lot of those.
+It tends to be a bit of a nuisance purchase
+except for if you're really
+into high performance or off-roading.
+And in fact people,
+and I think a good example,
+to the point made here is,
+how do you make people feel like
+they're not victims when they're walking in there?
+Because it's very hard to be equipped
+with the information you need
+and make the right selection.
+Your size of tire on your car,
+there may be 50 different options.
+And that's just from us.
+And so how do you know what to pick?
+And so I think,
+I think those are huge applications to,
+to give tools to users
+who don't engage in a purchase process often.
+Boy quickly that they feel like they have
+some good information and they're not just
+at the will of maybe who's across the counter,
+who might just be pushing,
+who they got a good incentive from this month,
+or they got a whole lot of 'em in the back, right?
+And so I think those types of applications that'll come,
+are gonna be really valuable.
+And if you could put 'em out there,
+it's not something you have to charge for.
+It just makes people wanna engage
+with your product in a more positive way.
+<v ->Yeah, I love your point on customer choice.</v>
+I think that's super, you know,
+giving customers choice is such a powerful
+benefit that we can offer to customers.
+When I think of AI in vehicles,
+I think one of the things that gets me most excited,
+is from the perspective of sometimes
+I don't even think about
+what I'm using in my vehicle,
+or of all the technology capabilities at my disposal.
+What am I using and what am I not.
+I may think I know.
+I may think this feature might be important,
+but maybe I'm actually not using it.
+So as vehicles get smarter,
+the ability to harness those insights,
+and tell me more about me that I may not even realize,
+and how should that feed into that next buying cycle?
+There may be a vehicle that's more tailored
+and better suited for me than I,
+than I would just even think about.
+So really bridging actual usage to
+me as a consumer and how I do what I do.
+You know, tell me what I don't know,
+just the power of what AI can do there.
+<v ->Excellent. Thank you. Great, great points.</v>
+If only we could apply that to mattress shopping.
+Okay, so you know, what we've learned today
+is that AI plays a key role in, you know,
+really streamlining the manufacturing
+and product development process.
+You know, we heard, you know, that there are,
+there's a great opportunity to really
+reduce the length of that process,
+and bringing that back to consumers,
+you know, potentially we could see
+new vehicles or new features
+come to market much quicker,
+reducing the overall product development time-frame.
+From a consumer perspective, obviously,
+you know, the automotive industry doesn't really,
+from an OEM perspective tout AI in their vehicles
+as much as some of the consumer brands do.
+Walking around the central hall yesterday,
+I saw some of the consumer brands positioning AI as
+affectionate intelligence,
+using the words empathy and care,
+and really trying to humanize it.
+I think the industry, you know,
+is really going into more of a
+technology advanced feature perspective,
+which there's a huge pull from consumers
+for the latest and greatest features in their vehicles.
+So, you know, different industries,
+different ways of positioning it.
+But we've heard how AI can also benefit consumers,
+and you know, even tying in the collaboration
+across all four of the companies
+in terms of how they need to work together
+to bring all this technology to life in a new vehicle.
+So, you know, with that,
+I'd like to ask each of the panelists to just
+kind of provide some final closing thoughts on AI for us,
+and then we'll move into questions and answers.
+So, I guess, Wendy, if I can start with you.
+<v ->Of course. Thought I had a minute to think about this one.</v>
+You know, I had a interesting conversation
+with someone earlier today, and they were kind of,
+"What was your thoughts of this show this year?"
+And I think this is the 15th year I've coming to CES.
+It's been a long time.
+But I think what really resonates with me constantly,
+is the speed of innovation.
+None of us can do it alone.
+We see over and over again how imperative, how just,
+you know, the sense of urgency around innovation,
+the importance of collaboration.
+We can't do this alone,
+but just unlimited possibilities.
+You go through all the different halls,
+all the end industries,
+what I can take and, I've done in this industry,
+we can apply over here.
+Just the possibilities are unlimited.
+And with that in mind,
+how do you really stay laser focused
+on the customer and what your mission is,
+and really triangulating them together.
+That's a lot to think through.
+That's a lot to really make sure
+you're focused on the right thing
+for your customers and your business.
+But innovation, speed, collaboration,
+no matter what you do, that sits at the core.
+And that's exciting.
+<v ->I think that ultimately the consumer</v>
+will benefit from all this AI.
+You know, we just gave examples of a buying process.
+I know in our world of entertainment,
+the idea is we can provide a great new experience
+that you didn't even know you could have out there
+because AI is working with all the content available
+to deliver it in a way,
+and introduce you to maybe sources, or content,
+or artists that you didn't even know existed,
+yet really delight you.
+And, so that idea of you're getting things
+you didn't even know were out there,
+the possibilities are endless so to speak.
+I think the consumers will really see that
+as a great benefit going forward.
+<v ->Chris?</v>
+<v ->Well I've been coming</v>
+now just only seven years,
+but what I'd say is, you know,
+some of the things that we saw then
+are still the same ones I see now.
+The only difference I think is the progress continues.
+And I think we all have to just
+keep thinking that in particular,
+you know, our big focus,
+and a lot of things I talked about
+are different levels of how
+autonomy is continuing to come,
+and how that'll provide safety.
+Every year, I'm encouraged by the progress.
+It hasn't been a linear progress.
+Maybe, but, and it hasn't been as soon
+as everybody thought it would might be,
+but it's definitely coming.
+And I think if you, if you're open to that,
+and as you walk around,
+you can also feel it, feel it coming.
+So, so really excited about
+how that'll pan out and keep coming.
+<v ->Well CES inspires me beyond technology.</v>
+I don't know how many years it has been,
+but the fact that I see people from
+all over the world sitting in this room
+inspires me beyond the technology,
+that whatever is happening outside,
+whatever decoupling of regions,
+of technology decoupling of who owns what and where,
+that this week is able to bring
+people from all over the world
+that share a glass of wine,
+a beer, or just a chat, and that like Wendy said,
+"Nobody can do it alone."
+So I would encourage all of you
+to at least get to know each other,
+and advance the cause of mobility
+because it is core to our advancement as a species.
+Finding ways to sustainably move and share knowledge.
+So that is what I always bring when I go back,
+is the faces and the passports of people
+that come from all over the world to speak.
+And hopefully what happens in Vegas
+in some cases doesn't stay in Vegas,
+and that we leverage globally
+the exchanges we have here.
+<v ->Thank you. Well said.</v>
+We do have time for a couple of questions.
+Are there any questions?
+The young lady right there in the middle.
+Yes. Yeah.
+So the question was, autonomous motor homes.
+There is a display out there from her company.
+So does anyone here kind of see the potential,
+the possibilities for driverless motor homes?
+<v ->I will comment at a higher level,</v>
+that if you walk around the West Hall,
+what's amazing change over the last couple years
+is all the autonomy applied to
+the industrial side of the industry.
+You see dump trucks, you see,
+you see combines and all that other equipment
+that traditionally you said,
+well there's some guy back there
+running that tractor or whatever,
+and you don't need that anymore.
+So at that level you would assume all mobility,
+or all vehicles will ultimately have a driverless option.
+<v ->Yeah, I agree a hundred percent.</v>
+Maybe I'll give a very personal endorsement for this is,
+my brother-in-law went out
+and bought a 45 foot motor home,
+and as much as they love it,
+they're scared to death take it outta the garage
+because driving it is intimidating.
+And so this could be an extremely
+interesting case for autonomy actually,
+when you think about making the driving experience
+so that you can then take advantage of everything else.
+I don't think the joy of it is driving it.
+The joy of it is when you get it where it wants to be.
+So boy that sounds like a pretty darn good use case.
+So, definitely go after that one.
+<v ->Okay, we have a little over a minute left.</v>
+Any other questions? Yes?
+<v Participant>You made a comment about how can we increase</v>
+the demand for electric vehicles,
+how, actually I did a, I did a quick search.
+And year-over-year,
+auto sales have gone up like 29%
+The Ford Mustang Marquee sold more than (indistinct).
+So, in spite of the data,
+I want to look a little bit further and deeper,
+because that's OEM sales went up .09%,
+dealer sales are actually having trouble.
+<v ->Right. Correct.</v>
+<v ->For Evs (indistinct).</v>
+<v ->Yes, definitely there's,</v>
+there's still, consumers are still hesitant,
+and so it's really how do we build demand for EVs?
+Right. Yes, I know.
+The Marquee outsold the Mustang,
+but overall we're seeing from our study that,
+and we survey a quarter million new vehicle
+and tenders a year that we're not seeing
+a long-term uptick in EV demand.
+Any other questions?
+Or Fedra, do you wanna add to that?
+<v ->No, I was just saying,</v>
+not contradicting what you're saying,
+we see a lot of delays in vehicle introductions from OEMs,
+and that is one of the manifestations
+of that flattening out.
+Of course new technology growth
+is still ongoing in double digit.
+Very far from the predictions though.
+<v ->Okay. And we are at our time.</v>
+Thank you very much for attending.
+I believe there is a survey that you can fill out
+to let us know if you enjoyed this session,
+and I hope you enjoy the rest of your stay here at CES.
+Thank you.

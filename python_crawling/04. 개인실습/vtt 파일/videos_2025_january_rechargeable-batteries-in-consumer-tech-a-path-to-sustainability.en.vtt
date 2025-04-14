@@ -1,0 +1,3052 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.221 --> 00:02.721
+(light music)
+
+00:10.710 --> 00:13.320
+<v ->Okay, let's go ahead and get started.</v>
+
+00:13.320 --> 00:15.090
+It's nine o'clock.
+
+00:15.090 --> 00:16.170
+Good morning, everybody.
+
+00:16.170 --> 00:17.400
+I know this is early.
+
+00:17.400 --> 00:20.493
+For many of us, this is the first session of the day.
+
+00:21.540 --> 00:23.010
+Welcome to this panel session.
+
+00:23.010 --> 00:25.260
+We're gonna have, I think, a good conversation.
+
+00:25.260 --> 00:27.000
+We have an excellent panel here.
+
+00:27.000 --> 00:28.380
+My name's Walter Alcorn.
+
+00:28.380 --> 00:32.550
+I am CTA's vice president of environmental affairs
+
+00:32.550 --> 00:33.900
+and industry sustainability.
+
+00:33.900 --> 00:36.660
+We're gonna be talking today about batteries,
+
+00:36.660 --> 00:38.790
+embedded batteries in particular,
+
+00:38.790 --> 00:40.530
+both current situations,
+
+00:40.530 --> 00:43.470
+some of the issues that we're seeing,
+
+00:43.470 --> 00:45.480
+and talking about some near-term solutions,
+
+00:45.480 --> 00:47.850
+and then some longer term solutions.
+
+00:47.850 --> 00:52.710
+So what I'd like to do is introduce the panelists,
+
+00:52.710 --> 00:54.813
+actually have them introduce themselves.
+
+00:55.680 --> 00:58.260
+If there's time, just so everybody's ready,
+
+00:58.260 --> 01:00.870
+at the end, we will take an audience question or two,
+
+01:00.870 --> 01:02.820
+so be thinking about that.
+
+01:02.820 --> 01:05.910
+But let's just dive right into it.
+
+01:05.910 --> 01:09.573
+So our first panelist, Judy Jeevarajan.
+
+01:10.410 --> 01:12.690
+Judy, please introduce yourself and welcome.
+
+01:12.690 --> 01:13.523
+<v ->Thank you, Walter.</v>
+
+01:13.523 --> 01:14.790
+I am Judy Jeevarajan.
+
+01:14.790 --> 01:17.460
+I lead the Electrochemical Safety Research Institute
+
+01:17.460 --> 01:22.460
+at UL Research Institutes as the VP and executive director.
+
+01:23.310 --> 01:27.240
+My experience with batteries goes back about 30 years,
+
+01:27.240 --> 01:29.610
+almost at the beginning of lithium ion,
+
+01:29.610 --> 01:32.370
+but I've also worked with many different chemistries
+
+01:32.370 --> 01:35.880
+or batteries with a big focus on safety.
+
+01:35.880 --> 01:37.830
+And in the past two years, we've also been looking
+
+01:37.830 --> 01:41.640
+at new materials and novel energy forms in our institute.
+
+01:41.640 --> 01:45.000
+<v ->Great, Giovanni Fili, please introduce yourself.</v>
+
+01:45.000 --> 01:46.140
+Thank you for being here.
+
+01:46.140 --> 01:47.280
+<v ->Thank you for inviting me.</v>
+
+01:47.280 --> 01:48.113
+It's a pleasure.
+
+01:48.113 --> 01:50.910
+CES is always fantastic experience.
+
+01:50.910 --> 01:51.743
+So I'm Giovanni.
+
+01:51.743 --> 01:54.930
+I'm the CEO and founder of a Swedish company called Exeger.
+
+01:54.930 --> 01:58.260
+We have developed a new solar cell,
+
+01:58.260 --> 02:01.890
+which work under indoor and outdoor conditions.
+
+02:01.890 --> 02:03.840
+I'll tell you more about that later.
+
+02:03.840 --> 02:07.860
+And we work very closely with the battery companies.
+
+02:07.860 --> 02:09.390
+As we see, there's a need in the future
+
+02:09.390 --> 02:13.110
+for a lot of good, safe, stable batteries,
+
+02:13.110 --> 02:15.330
+especially together with our flexible source,
+
+02:15.330 --> 02:16.920
+which I will talk about later.
+
+02:16.920 --> 02:18.240
+<v ->Great, I love it you have a prop.</v>
+
+02:18.240 --> 02:20.580
+That's makes the panel.
+
+02:20.580 --> 02:22.290
+Andrea Murphy from Panasonic, please.
+
+02:22.290 --> 02:24.510
+<v ->Yeah, thank you, Walter, and good morning everyone.</v>
+
+02:24.510 --> 02:26.850
+As Walter said, my name is Andrea Murphy,
+
+02:26.850 --> 02:28.020
+and I am the Director
+
+02:28.020 --> 02:30.780
+of Environmental Affairs for Panasonic.
+
+02:30.780 --> 02:33.870
+My team covers a wide range of topics
+
+02:33.870 --> 02:37.050
+with environmental compliance and sustainability.
+
+02:37.050 --> 02:38.970
+So for environmental compliance,
+
+02:38.970 --> 02:42.270
+we deal with things like end of life of our products,
+
+02:42.270 --> 02:43.980
+which we'll talk about here,
+
+02:43.980 --> 02:46.350
+removing hazardous chemicals from our products.
+
+02:46.350 --> 02:48.630
+So that fits into battery sustainability,
+
+02:48.630 --> 02:50.790
+'cause we want the batteries to have
+
+02:50.790 --> 02:53.853
+less hazardous chemicals and be easier to recycle.
+
+02:54.930 --> 02:57.000
+Topics such as packaging.
+
+02:57.000 --> 02:58.890
+And then on the sustainability front,
+
+02:58.890 --> 03:00.990
+in addition to anything that's regulated,
+
+03:00.990 --> 03:05.310
+we work on a variety of programs and projects
+
+03:05.310 --> 03:07.290
+to increase the sustainability
+
+03:07.290 --> 03:10.350
+of our products that we make in our factories.
+
+03:10.350 --> 03:11.490
+And I cover that.
+
+03:11.490 --> 03:14.100
+My team covers that for all of North America.
+
+03:14.100 --> 03:16.710
+So that includes the federal and state regulations
+
+03:16.710 --> 03:19.173
+and the provincial regulations in Canada.
+
+03:20.040 --> 03:21.270
+For those of you who don't know,
+
+03:21.270 --> 03:25.200
+Panasonic is over 100-year-old company.
+
+03:25.200 --> 03:27.510
+We are an electronics manufacturer.
+
+03:27.510 --> 03:30.930
+We have a rich history of making batteries.
+
+03:30.930 --> 03:33.510
+We manufacture all kinds of batteries,
+
+03:33.510 --> 03:37.710
+from primary batteries, rechargeable batteries,
+
+03:37.710 --> 03:40.020
+small batteries that would fit in your watch
+
+03:40.020 --> 03:44.730
+to the large solar batteries, the charging batteries.
+
+03:44.730 --> 03:46.440
+So when you have a solar power system
+
+03:46.440 --> 03:49.200
+attached to your house, you can collect the solar
+
+03:49.200 --> 03:51.330
+and use it after the sun goes down.
+
+03:51.330 --> 03:53.880
+And then we're also an electronics manufacturer.
+
+03:53.880 --> 03:57.330
+We manufacture a large range of products
+
+03:57.330 --> 03:59.430
+from the entertainment industry
+
+03:59.430 --> 04:01.740
+that have batteries like your earbuds,
+
+04:01.740 --> 04:04.530
+your headphones to personal care products.
+
+04:04.530 --> 04:05.850
+So when you think about everything
+
+04:05.850 --> 04:09.150
+that you use in your house, or even you have on you here,
+
+04:09.150 --> 04:10.923
+it probably has a battery in it.
+
+04:11.820 --> 04:13.860
+<v Walter>Awesome, and great keynote yesterday.</v>
+
+04:13.860 --> 04:15.510
+<v ->Thank you, yeah, so proud.</v>
+
+04:15.510 --> 04:17.040
+If you haven't seen it,
+
+04:17.040 --> 04:19.800
+we are the sustainability superheroes,
+
+04:19.800 --> 04:22.140
+so please take a look and watch it.
+
+04:22.140 --> 04:22.973
+<v ->Wonderful.</v>
+
+04:22.973 --> 04:24.570
+Leo, take it away.
+
+04:24.570 --> 04:25.403
+<v ->Thanks, Walter.</v>
+
+04:25.403 --> 04:26.400
+I'm Leo Raudys.
+
+04:26.400 --> 04:27.713
+I'm the CEO of Call2Recycle.
+
+04:27.713 --> 04:31.470
+We're a 30-year-old nonprofit that is the largest collector
+
+04:31.470 --> 04:33.900
+of batteries for recycling in the United States.
+
+04:33.900 --> 04:35.850
+We were actually founded
+
+04:35.850 --> 04:39.360
+because of a great idea that Panasonic had back in the day
+
+04:39.360 --> 04:41.310
+to actually create an organization like us.
+
+04:41.310 --> 04:43.020
+We've been around for quite some time.
+
+04:43.020 --> 04:45.060
+Panasonic continues to sit on our board.
+
+04:45.060 --> 04:47.970
+We collect batteries at about 11,000
+
+04:47.970 --> 04:49.680
+public-facing collection sites,
+
+04:49.680 --> 04:51.870
+places like municipalities, Home Depot,
+
+04:51.870 --> 04:54.090
+Lowe's, Staples, Best Buy, et cetera.
+
+04:54.090 --> 04:56.250
+And about 20,000 other smaller sites
+
+04:56.250 --> 04:57.810
+across the United States.
+
+04:57.810 --> 04:59.400
+The way I explain us to my mother
+
+04:59.400 --> 05:00.840
+is if you're recycling a battery
+
+05:00.840 --> 05:03.750
+somewhere in the United States, it's probably us.
+
+05:03.750 --> 05:05.670
+So we're intensely interested in this topic
+
+05:05.670 --> 05:07.740
+because it's very, very important for us
+
+05:07.740 --> 05:09.750
+to be able to move all these batteries safely
+
+05:09.750 --> 05:12.780
+to a recycler or a repurposer.
+
+05:12.780 --> 05:15.090
+And innovation's pretty key to that.
+
+05:15.090 --> 05:15.930
+So thanks, Walter.
+
+05:15.930 --> 05:16.860
+<v ->All right, wonderful.</v>
+
+05:16.860 --> 05:18.060
+Well, let's do this.
+
+05:18.060 --> 05:19.140
+Let's set the stage.
+
+05:19.140 --> 05:22.440
+What are the issues with rechargeable batteries,
+
+05:22.440 --> 05:25.110
+particularly rechargeable battery fires,
+
+05:25.110 --> 05:26.430
+which I know there's been some discussion.
+
+05:26.430 --> 05:27.810
+So Judy, you wanna start?
+
+05:27.810 --> 05:29.730
+<v ->Sure, so I mean, I've been working</v>
+
+05:29.730 --> 05:31.560
+with lithium ion since its inception,
+
+05:31.560 --> 05:34.590
+and we are really concerned about its safety.
+
+05:34.590 --> 05:37.290
+It's because it's very unpredictable, the safety,
+
+05:37.290 --> 05:39.570
+and it going into a thermal runaway,
+
+05:39.570 --> 05:40.740
+what we call a thermal runaway,
+
+05:40.740 --> 05:42.573
+which is a really high temperature,
+
+05:43.650 --> 05:46.950
+or accompanied by smoke and fire can be unpredictable.
+
+05:46.950 --> 05:50.520
+And that's because if you don't use it correctly,
+
+05:50.520 --> 05:53.460
+manufacture it correctly, charge it correctly,
+
+05:53.460 --> 05:56.010
+as well as if you don't recycle it correctly
+
+05:56.010 --> 05:57.270
+or dispose of it correctly,
+
+05:57.270 --> 06:00.303
+you are going to have a fire in the end.
+
+06:01.320 --> 06:03.930
+And what's associated with it is high temperatures.
+
+06:03.930 --> 06:06.060
+The fire can propagate very quickly.
+
+06:06.060 --> 06:08.790
+We can have toxic gases that come out of it.
+
+06:08.790 --> 06:11.130
+Particulate emissions are actually toxic.
+
+06:11.130 --> 06:13.770
+And so it is really concerning
+
+06:13.770 --> 06:16.920
+that if people are not doing things correctly,
+
+06:16.920 --> 06:21.330
+that you can have an unexpected fire
+
+06:21.330 --> 06:23.070
+and a lot of high temperatures.
+
+06:23.070 --> 06:25.530
+<v Walter>Yeah, the term thermal event</v>
+
+06:25.530 --> 06:27.870
+is such a interesting word
+
+06:27.870 --> 06:31.020
+that gets used in the public space.
+
+06:31.020 --> 06:32.820
+Anyone wanna add anything to that, Leo?
+
+06:32.820 --> 06:34.890
+<v ->Yeah, I mean, it's a huge issue,</v>
+
+06:34.890 --> 06:36.600
+and I don't think people really appreciate
+
+06:36.600 --> 06:38.190
+just how big of an issue it's become.
+
+06:38.190 --> 06:39.240
+So if you think about us,
+
+06:39.240 --> 06:42.630
+we collect last year about nine million pounds of batteries.
+
+06:42.630 --> 06:43.980
+Previous year was eight million pounds.
+
+06:43.980 --> 06:46.440
+So recycling has gone quite a bit.
+
+06:46.440 --> 06:47.940
+But we still only capture a fraction
+
+06:47.940 --> 06:50.010
+of what actually moves through the system.
+
+06:50.010 --> 06:52.410
+So anytime a battery ends up in a waste facility,
+
+06:52.410 --> 06:55.860
+it's at risk of actually being damaged and catching fire.
+
+06:55.860 --> 06:57.690
+There are a lot of fires of waste facilities
+
+06:57.690 --> 06:59.670
+and recycling facilities.
+
+06:59.670 --> 07:01.590
+You talk to the folks that run these facilities,
+
+07:01.590 --> 07:02.850
+they have a fire about a day.
+
+07:02.850 --> 07:04.080
+They're not sure if they're all batteries,
+
+07:04.080 --> 07:06.540
+but in terms of major fires, according to Fire Rover,
+
+07:06.540 --> 07:10.410
+which is an organization that does fire safety work,
+
+07:10.410 --> 07:14.850
+they've seen over 453, I think, major fires
+
+07:14.850 --> 07:16.980
+at waste and recycling facilities last year.
+
+07:16.980 --> 07:19.920
+So it's a very, very big issue.
+
+07:19.920 --> 07:22.890
+Our concern is that anytime
+
+07:22.890 --> 07:25.020
+you have the risk of fire going up,
+
+07:25.020 --> 07:27.690
+it puts the entire recycling ecosystem at risk.
+
+07:27.690 --> 07:29.400
+And when that happens,
+
+07:29.400 --> 07:31.980
+it's less likely people are going to recycle.
+
+07:31.980 --> 07:33.000
+It's less likely we're gonna be able
+
+07:33.000 --> 07:34.770
+to get these materials back into commerce.
+
+07:34.770 --> 07:37.050
+These are very critical materials.
+
+07:37.050 --> 07:39.510
+So anything we can do to get those fires down
+
+07:39.510 --> 07:42.510
+is vitally important, especially because recycling
+
+07:42.510 --> 07:45.390
+is just becoming a bigger, bigger thing.
+
+07:45.390 --> 07:46.290
+<v ->Okay, thank you.</v>
+
+07:46.290 --> 07:50.160
+So let's talk a little bit about near-term solutions.
+
+07:50.160 --> 07:52.200
+What can be done to reduce fires
+
+07:52.200 --> 07:54.750
+or maybe the severity of the fires?
+
+07:54.750 --> 07:56.940
+What are some of the things that,
+
+07:56.940 --> 07:57.773
+Judy, go ahead and start again.
+
+07:57.773 --> 07:59.850
+<v ->So one of the things that I would recommend</v>
+
+07:59.850 --> 08:01.980
+is making sure that consumers,
+
+08:01.980 --> 08:05.340
+and there are different factors for different sectors.
+
+08:05.340 --> 08:08.520
+So when you look at consumers, it's always better
+
+08:08.520 --> 08:11.010
+to buy batteries that are certified,
+
+08:11.010 --> 08:16.010
+certified by a good certifying organization,
+
+08:16.380 --> 08:17.670
+follow standards.
+
+08:17.670 --> 08:19.050
+So it should be done.
+
+08:19.050 --> 08:21.330
+And then also buy the relevant chargers.
+
+08:21.330 --> 08:23.220
+Don't buy universal chargers.
+
+08:23.220 --> 08:25.260
+Use the batteries with the relevant chargers.
+
+08:25.260 --> 08:28.350
+And also, don't try to replace your batteries on your own.
+
+08:28.350 --> 08:30.480
+You'll notice that several top tier
+
+08:30.480 --> 08:31.950
+device manufacturers today
+
+08:31.950 --> 08:34.320
+make it difficult for you to replace batteries.
+
+08:34.320 --> 08:35.700
+So just send it back to them
+
+08:35.700 --> 08:37.110
+and have them replace it for you
+
+08:37.110 --> 08:40.290
+if you want it done that way.
+
+08:40.290 --> 08:42.450
+When we go to manufacturer's side,
+
+08:42.450 --> 08:45.840
+we should always look for certified cells
+
+08:45.840 --> 08:48.120
+that go into certified batteries
+
+08:48.120 --> 08:52.050
+and then so the battery manufacturer should go
+
+08:52.050 --> 08:54.840
+and look for good manufacturers of cells
+
+08:54.840 --> 08:56.460
+that are actually certified.
+
+08:56.460 --> 08:58.530
+And again, the whole cycle of making sure
+
+08:58.530 --> 09:01.410
+everything is certified to the end product
+
+09:01.410 --> 09:02.730
+should be completed.
+
+09:02.730 --> 09:07.530
+And then lastly, also with respect to what Eric,
+
+09:07.530 --> 09:09.783
+Leo was talking about, sorry,
+
+09:10.890 --> 09:13.500
+we have to make sure that you recycle
+
+09:13.500 --> 09:15.060
+your batteries in the right manner,
+
+09:15.060 --> 09:18.030
+and there are call to recycle as an excellent site
+
+09:18.030 --> 09:22.830
+where you can look for sites or locations in your area
+
+09:22.830 --> 09:25.890
+where you can take back batteries and recycle them safely.
+
+09:25.890 --> 09:30.300
+So it's always good to follow what needs to be followed
+
+09:30.300 --> 09:32.970
+so you can reduce the risk that is associated
+
+09:32.970 --> 09:35.340
+with different battery chemistries.
+
+09:35.340 --> 09:37.950
+<v ->Great, Andrea?</v>
+<v ->Yeah, I really appreciate</v>
+
+09:37.950 --> 09:39.270
+that you brought up the consumer,
+
+09:39.270 --> 09:41.640
+'cause a couple of days ago, Walter,
+
+09:41.640 --> 09:44.550
+you mentioned to me how popular the sustainability track
+
+09:44.550 --> 09:46.590
+has become here at CES,
+
+09:46.590 --> 09:50.250
+and I thought that this conversation is the perfect start
+
+09:50.250 --> 09:53.070
+to the solutions we're gonna come up with.
+
+09:53.070 --> 09:56.640
+And you might think like sustainability, why are we at CES?
+
+09:56.640 --> 09:58.200
+But you mentioned consumers, right?
+
+09:58.200 --> 09:59.910
+What the consumer practice is
+
+09:59.910 --> 10:02.220
+and what's gonna be easy for a consumer to do,
+
+10:02.220 --> 10:06.750
+so what a better place than the consumer electronic show.
+
+10:06.750 --> 10:07.950
+But everything we do right,
+
+10:07.950 --> 10:10.680
+it's gonna have to be focused on, can the consumer do it?
+
+10:10.680 --> 10:12.720
+Can we get that knowledge and education out,
+
+10:12.720 --> 10:14.220
+which is something Call2Recycle.
+
+10:14.220 --> 10:15.600
+It does really well.
+
+10:15.600 --> 10:19.830
+And then with that, I think we need to work on
+
+10:19.830 --> 10:23.310
+the environmental justice and level the playing fields.
+
+10:23.310 --> 10:26.970
+I also really appreciate that you mentioned certifications,
+
+10:26.970 --> 10:28.410
+'cause I'm sure if you go out there
+
+10:28.410 --> 10:30.000
+and look at the batteries for purchase,
+
+10:30.000 --> 10:31.980
+you're gonna see a big price difference.
+
+10:31.980 --> 10:34.320
+And are you gonna spend 4.99 on a battery
+
+10:34.320 --> 10:36.180
+or are you gonna spend 9.99?
+
+10:36.180 --> 10:38.490
+Or if it's a bigger battery, much more.
+
+10:38.490 --> 10:40.590
+And you have to think about those certifications
+
+10:40.590 --> 10:42.270
+and what the manufacturers go through
+
+10:42.270 --> 10:44.130
+to get them certified.
+
+10:44.130 --> 10:46.590
+So if we can get that education out there
+
+10:46.590 --> 10:48.017
+and it starts in a panel like this,
+
+10:48.017 --> 10:50.760
+'cause we need to have the manufacturers,
+
+10:50.760 --> 10:54.330
+we need to have industry involved, the consumers.
+
+10:54.330 --> 10:55.680
+We also need to have government,
+
+10:55.680 --> 10:57.120
+'cause there should be more mandates.
+
+10:57.120 --> 11:00.570
+We're actually pro having a federal mandate on this
+
+11:00.570 --> 11:04.440
+because that's the only way to level out the playing field
+
+11:04.440 --> 11:06.750
+and also have the recyclers involved
+
+11:06.750 --> 11:08.280
+and make sure that we're seeing this
+
+11:08.280 --> 11:10.233
+from a multi-stakeholder point of view.
+
+11:11.070 --> 11:14.010
+<v ->Leo, could you address maybe collection or something else?</v>
+
+11:14.010 --> 11:15.990
+That's such an important piece to this.
+
+11:15.990 --> 11:18.150
+<v ->Yeah, yeah, thanks for asking.</v>
+
+11:18.150 --> 11:19.260
+I would say by and large,
+
+11:19.260 --> 11:21.330
+that we were able to move batteries safely
+
+11:21.330 --> 11:25.260
+to their end destination recyclers fairly safely.
+
+11:25.260 --> 11:26.730
+The thing that keeps me up at night
+
+11:26.730 --> 11:30.060
+is how defective batteries are handled in the United States.
+
+11:30.060 --> 11:32.130
+And this is an area where we can do a lot better,
+
+11:32.130 --> 11:34.410
+both on the policy side from the government,
+
+11:34.410 --> 11:36.210
+but also manufacturers stepping up
+
+11:36.210 --> 11:37.380
+and doing things responsibly.
+
+11:37.380 --> 11:40.320
+Panasonic's a great example of how you do it right.
+
+11:40.320 --> 11:42.060
+There are a lot of companies that don't do it right.
+
+11:42.060 --> 11:43.260
+And what I mean by that is,
+
+11:43.260 --> 11:46.110
+if you've got a defective battery that's in the market,
+
+11:46.110 --> 11:47.640
+there's always gonna be a chance that a battery
+
+11:47.640 --> 11:48.960
+is manufactured improperly.
+
+11:48.960 --> 11:50.163
+Just happens, right?
+
+11:51.900 --> 11:53.820
+The right way to do it is a manufacturer
+
+11:53.820 --> 11:55.770
+should take responsibility for the battery
+
+11:55.770 --> 11:58.447
+and get the packaging to the customer and say,
+
+11:58.447 --> 11:59.490
+"Hey, get it back to us.
+
+11:59.490 --> 12:00.930
+We'll take it out of the system.
+
+12:00.930 --> 12:02.310
+Let's manage it safely."
+
+12:02.310 --> 12:05.100
+Unfortunately, that doesn't happen a lot.
+
+12:05.100 --> 12:06.930
+A lot of times, you just basically
+
+12:06.930 --> 12:09.607
+have manufacturers kicking the can down the road and saying,
+
+12:09.607 --> 12:11.310
+"Dispose it to your local facility."
+
+12:11.310 --> 12:13.590
+They're not equipped to deal with this.
+
+12:13.590 --> 12:15.840
+It's a big and growing issue just because
+
+12:15.840 --> 12:17.550
+more and more batteries are going into commerce.
+
+12:17.550 --> 12:19.530
+To give you some numbers, last year,
+
+12:19.530 --> 12:23.970
+the CPSC issued about two dozen recalls.
+
+12:23.970 --> 12:25.830
+Three and a half million units
+
+12:25.830 --> 12:28.620
+of batteries were recalled last year.
+
+12:28.620 --> 12:29.910
+Only a small percentage of those
+
+12:29.910 --> 12:32.430
+were handled right way, quite frankly.
+
+12:32.430 --> 12:35.070
+In the last two months of the year,
+
+12:35.070 --> 12:38.520
+they issued recalls covering almost a million units.
+
+12:38.520 --> 12:40.230
+So if you think about it,
+
+12:40.230 --> 12:43.860
+you're a person in your home, you've got a power bank,
+
+12:43.860 --> 12:45.780
+you get the message, "Hey, I need to get rid of this.
+
+12:45.780 --> 12:47.100
+I should need to get out of my house."
+
+12:47.100 --> 12:49.260
+It's a risk, absolutely.
+
+12:49.260 --> 12:52.440
+But the last thing you wanna do is have 100 households
+
+12:52.440 --> 12:54.810
+take all those batteries, take them to the facility,
+
+12:54.810 --> 12:55.950
+you magnify the risk,
+
+12:55.950 --> 12:58.590
+you put workers at risk, things like that.
+
+12:58.590 --> 12:59.910
+So I think we can do a lot better
+
+12:59.910 --> 13:01.747
+in terms of messaging from the government saying,
+
+13:01.747 --> 13:03.240
+"Hey, this is the appropriate way to do it."
+
+13:03.240 --> 13:06.240
+But also, manufacturers need to do the right thing.
+
+13:06.240 --> 13:08.610
+Again, Panasonic's a fantastic example.
+
+13:08.610 --> 13:09.690
+A lot of other companies
+
+13:09.690 --> 13:10.523
+do it the right way.
+<v ->I didn't pay him</v>
+
+13:10.523 --> 13:13.050
+by the way. (laughs)
+<v ->Oh, yeah, no.</v>
+
+13:13.050 --> 13:14.970
+And because this is what we do every day all day long,
+
+13:14.970 --> 13:17.220
+and it's an issue for us.
+
+13:17.220 --> 13:19.020
+So I think it's an area we can do better.
+
+13:19.020 --> 13:21.900
+So we're hopeful that it will get better.
+
+13:21.900 --> 13:24.060
+I raised this issue last year on this stage
+
+13:24.060 --> 13:26.580
+and not as much progress has been made as I'd like,
+
+13:26.580 --> 13:28.560
+but I think we'll get there.
+
+13:28.560 --> 13:31.140
+<v ->Well, so this is CES,</v>
+
+13:31.140 --> 13:34.230
+and really, CES is about the future
+
+13:34.230 --> 13:36.990
+and about technology and innovation.
+
+13:36.990 --> 13:39.753
+So Giovanni, this one's for you.
+
+13:41.190 --> 13:42.376
+What are some of the solutions?
+
+13:42.376 --> 13:45.450
+What's the future look like in terms of batteries?
+
+13:45.450 --> 13:46.500
+What do you think?
+
+13:46.500 --> 13:47.450
+Where should we go?
+
+13:48.630 --> 13:53.630
+<v ->Well, I think the future in terms of batteries</v>
+
+13:53.640 --> 13:58.020
+is diminishing in some ways.
+
+13:58.020 --> 14:00.180
+And with that, I mean that,
+
+14:00.180 --> 14:01.323
+I mean, what we do,
+
+14:02.970 --> 14:06.930
+okay, every year, the consumer electronic business
+
+14:06.930 --> 14:10.323
+uses around 10 billion disposable batteries, give or take.
+
+14:11.730 --> 14:14.700
+And these are not recycled in the proper way.
+
+14:14.700 --> 14:16.590
+Fortunately enough, a lot of them end up in landfill
+
+14:16.590 --> 14:18.570
+et cetera, polluting land and water and so on.
+
+14:18.570 --> 14:19.473
+That's bad.
+
+14:20.580 --> 14:21.413
+I love batteries.
+
+14:21.413 --> 14:23.850
+We need batteries 'cause they enable the smartness,
+
+14:23.850 --> 14:26.670
+the functionality, freedom, all the stuff.
+
+14:26.670 --> 14:29.040
+But we need to find a good balance
+
+14:29.040 --> 14:32.610
+between disposable batteries, preferably not so many,
+
+14:32.610 --> 14:35.280
+and rechargeable batteries that we can use more.
+
+14:35.280 --> 14:37.620
+But how are you gonna power these rechargeable batteries?
+
+14:37.620 --> 14:38.453
+That's what we do.
+
+14:38.453 --> 14:40.590
+So we have developed this flexible film.
+
+14:40.590 --> 14:43.020
+This is a silicon-free solar cell.
+
+14:43.020 --> 14:45.210
+We've developed this over the last 15 years in Sweden
+
+14:45.210 --> 14:48.600
+in two factories, completely run on renewable energy,
+
+14:48.600 --> 14:50.160
+zero emissions to air and water,
+
+14:50.160 --> 14:53.400
+zero emissions at all actually from the factories.
+
+14:53.400 --> 14:57.090
+This is the lowest LCA in the world, solar cell.
+
+14:57.090 --> 14:59.490
+It's the highest power fishes in the world for indoor.
+
+14:59.490 --> 15:01.170
+So this works indoor and outdoor.
+
+15:01.170 --> 15:02.220
+So what we do with this
+
+15:02.220 --> 15:04.143
+is that we integrate it into products.
+
+15:04.980 --> 15:07.007
+This is a product we have developed together with 3M,
+
+15:07.007 --> 15:08.910
+one of the best companies in the U.S.
+
+15:08.910 --> 15:10.083
+We love them very much.
+
+15:11.130 --> 15:12.840
+We have a global exclusivity deal with them.
+
+15:12.840 --> 15:14.190
+They can only work with us.
+
+15:14.190 --> 15:16.470
+Here is our solar cell.
+
+15:16.470 --> 15:20.520
+This one previously was run on disposable batteries.
+
+15:20.520 --> 15:22.200
+So every second week, you would need to buy
+
+15:22.200 --> 15:24.480
+two new batteries and put inside to have it to work.
+
+15:24.480 --> 15:26.400
+This is a smart hearing protector
+
+15:26.400 --> 15:29.280
+that protects your ears and allows you to communicate
+
+15:29.280 --> 15:32.490
+in different situations such as airports, mines,
+
+15:32.490 --> 15:35.340
+construction sites, oiling platforms, et cetera.
+
+15:35.340 --> 15:39.120
+Very critical moments where you need to know
+
+15:39.120 --> 15:41.100
+you can communicate for yourself to safety.
+
+15:41.100 --> 15:43.833
+Also, this is used in military purposes, et cetera.
+
+15:44.880 --> 15:49.350
+Now, so over three years, you would buy 150 batteries.
+
+15:49.350 --> 15:53.610
+Now, this has a really small one rechargeable battery
+
+15:53.610 --> 15:55.500
+that we power by utilizing the light
+
+15:55.500 --> 15:57.750
+that surrounds you when you use it.
+
+15:57.750 --> 16:00.210
+That means we have eliminated 149
+
+16:00.210 --> 16:02.043
+batteries from the ecosystem.
+
+16:03.780 --> 16:06.480
+And this is the future where you will see
+
+16:06.480 --> 16:09.723
+more and more of these products become self-powered,
+
+16:11.499 --> 16:13.830
+self-powered, energy independent,
+
+16:13.830 --> 16:15.840
+energy autonomy, call it what you want.
+
+16:15.840 --> 16:18.540
+The freedom to utilize the products
+
+16:18.540 --> 16:20.220
+in the way that we're supposed to.
+
+16:20.220 --> 16:22.590
+You don't have to think, "Oh, I can't really put on
+
+16:22.590 --> 16:24.600
+noise cancellation now 'cause it'll drain the battery."
+
+16:24.600 --> 16:26.250
+No.
+
+16:26.250 --> 16:27.930
+Utilize all the great innovations
+
+16:27.930 --> 16:31.380
+that you companies come with all the time.
+
+16:31.380 --> 16:33.600
+Utilize the product as it was supposed to,
+
+16:33.600 --> 16:36.240
+without having the fear or battery anxiety
+
+16:36.240 --> 16:37.950
+or range anxiety, all this stuff.
+
+16:37.950 --> 16:39.210
+<v Walter>So let me just ask,</v>
+
+16:39.210 --> 16:41.370
+so it doesn't have to be sunny to work, right?
+
+16:41.370 --> 16:42.203
+<v ->No.</v>
+<v ->Okay.</v>
+
+16:42.203 --> 16:45.000
+So-
+<v ->Indoor, light,</v>
+
+16:45.000 --> 16:47.100
+shade, just light.
+
+16:47.100 --> 16:47.970
+This is a light cell.
+
+16:47.970 --> 16:49.560
+It's not a solar cell, to be honest.
+
+16:49.560 --> 16:52.290
+<v Walter>And I know you're from Sweden, and so sometimes,</v>
+
+16:52.290 --> 16:54.990
+not a lot of sunlight during winter solstice time, but-
+
+16:54.990 --> 16:55.823
+<v ->That's correct.</v>
+
+16:55.823 --> 16:57.300
+<v ->It's still fine.</v>
+<v ->It's still fine.</v>
+
+16:57.300 --> 17:00.210
+And people are using this in Sweden all the time.
+
+17:00.210 --> 17:03.180
+It's on the market since May last year.
+
+17:03.180 --> 17:06.090
+And they use it as seven, eight hours per day.
+
+17:06.090 --> 17:07.410
+They never need to charge them.
+
+17:07.410 --> 17:09.990
+Even in Sweden, November where we had this three hours
+
+17:09.990 --> 17:11.880
+of sunshine in one month.
+
+17:11.880 --> 17:13.530
+<v Walter>It's a wonderful country, by the way.</v>
+
+17:13.530 --> 17:16.350
+I was just vacationing, so knockout, Sweden.
+
+17:16.350 --> 17:17.640
+<v ->And with the factory,</v>
+
+17:17.640 --> 17:20.790
+we're building our second factory called Stockholm II.
+
+17:20.790 --> 17:22.620
+When that's fully ramped, we'll be able to replace
+
+17:22.620 --> 17:25.300
+one billion disposable batteries per year
+
+17:26.310 --> 17:27.603
+from that single factory.
+
+17:28.530 --> 17:31.650
+We do remote controls, the no battery inside,
+
+17:31.650 --> 17:33.150
+we do electronic shelf labels
+
+17:33.150 --> 17:35.280
+to power the connected stores and retail.
+
+17:35.280 --> 17:36.600
+We have the largest customer in the world
+
+17:36.600 --> 17:38.550
+signed up a big, yeah.
+
+17:38.550 --> 17:40.350
+So this is the future.
+
+17:40.350 --> 17:42.510
+We will need good batteries,
+
+17:42.510 --> 17:45.870
+safe, environmentally-friendly batteries that are reliable
+
+17:45.870 --> 17:49.953
+and predictable and stable, and we will charge them.
+
+17:51.509 --> 17:53.020
+That's the future.
+<v ->Yeah.</v>
+
+17:53.020 --> 17:54.030
+Yeah, excellent.
+
+17:54.030 --> 17:56.820
+Well, we're gonna come back I think to you, Judy.
+
+17:56.820 --> 17:57.840
+What do you think?
+<v ->Yeah, I just wanted</v>
+
+17:57.840 --> 17:59.023
+to add about batteries.
+<v ->What the future?</v>
+
+17:59.023 --> 18:00.300
+<v ->Yes.</v>
+<v ->There are different</v>
+
+18:00.300 --> 18:02.610
+chemistries that are being worked.
+
+18:02.610 --> 18:05.670
+As you mentioned, environmentally friendly sodium ion,
+
+18:05.670 --> 18:08.700
+magnesium ion, those battery chemistries
+
+18:08.700 --> 18:09.810
+that we're working on.
+
+18:09.810 --> 18:13.200
+But there are some sodium ion cells in the market today,
+
+18:13.200 --> 18:15.060
+but they're almost like lithium ion.
+
+18:15.060 --> 18:16.980
+They have the same fire
+
+18:16.980 --> 18:19.080
+because they're using similar electrolytes.
+
+18:19.080 --> 18:22.920
+But we are looking at newer starting materials
+
+18:22.920 --> 18:26.190
+and both the sodium ion and magnesium ion.
+
+18:26.190 --> 18:30.690
+So we might get to more environmentally friendly, cheaper,
+
+18:30.690 --> 18:32.730
+where you really don't have to,
+
+18:32.730 --> 18:34.560
+sodium is in plenty in the world.
+
+18:34.560 --> 18:38.610
+So I think those are areas that we can provide
+
+18:38.610 --> 18:42.840
+to make more sustainable and energy-efficient batteries.
+
+18:42.840 --> 18:43.673
+<v ->Yes.</v>
+
+18:43.673 --> 18:44.850
+<v ->I totally agree.</v>
+
+18:44.850 --> 18:46.360
+Can I say-
+<v ->Sure, please.</v>
+
+18:48.630 --> 18:50.070
+<v ->I completely agree.</v>
+
+18:50.070 --> 18:53.790
+And what we do, we work very closely to battery companies
+
+18:53.790 --> 18:56.100
+because there are new very, very cool things
+
+18:56.100 --> 18:57.330
+coming in the pipeline.
+
+18:57.330 --> 18:58.800
+And you have many,
+
+18:58.800 --> 19:00.600
+you have a four year,
+
+19:00.600 --> 19:03.000
+yeah, you have year-long programs, right?
+
+19:03.000 --> 19:07.650
+So what we can do, we can take our one millimeter thin
+
+19:07.650 --> 19:10.740
+plastic film and we can glue it together
+
+19:10.740 --> 19:14.820
+with a one millimeter thin flexible battery
+
+19:14.820 --> 19:18.330
+that does not suffer from, if you can cut that,
+
+19:18.330 --> 19:20.790
+you can strike a hammer on it, nothing happens.
+
+19:20.790 --> 19:24.360
+And when we glue those together, we have a self-recharging,
+
+19:24.360 --> 19:27.000
+completely safe, flexible battery
+
+19:27.000 --> 19:29.430
+that does not explode or turn into fire or anything.
+
+19:29.430 --> 19:32.250
+Alone, that battery is not good enough.
+
+19:32.250 --> 19:33.690
+This is a little bit on the expensive side
+
+19:33.690 --> 19:35.970
+and the energy (indistinct) is not that good.
+
+19:35.970 --> 19:39.243
+But when you combine it with, for example, our technology,
+
+19:40.170 --> 19:45.170
+why should that not be the backside of your laptop, right?
+
+19:46.500 --> 19:47.790
+This is what's gonna happen.
+
+19:47.790 --> 19:50.130
+You're gonna see the devices,
+
+19:50.130 --> 19:52.620
+the surfaces turn into something else.
+
+19:52.620 --> 19:54.390
+Like we used to have papers, we read papers,
+
+19:54.390 --> 19:55.500
+now we have digital papers,
+
+19:55.500 --> 19:58.080
+we have functional papers that do many things.
+
+19:58.080 --> 19:59.850
+And this is gonna happen as well in the battery
+
+19:59.850 --> 20:02.700
+and the energy harvesting area.
+
+20:02.700 --> 20:03.930
+<v Walter>Fantastic, Andrea?</v>
+
+20:03.930 --> 20:05.520
+<v ->Yeah, I would say just adding on to that,</v>
+
+20:05.520 --> 20:08.100
+we have to change the way we think about batteries, right?
+
+20:08.100 --> 20:10.350
+Just as you're saying, what chemistries they're made of,
+
+20:10.350 --> 20:11.730
+what we attach them to.
+
+20:11.730 --> 20:14.730
+And of course, match that with what the consumer wants.
+
+20:14.730 --> 20:17.190
+No consumer wants to be tied to an outlet.
+
+20:17.190 --> 20:19.440
+You go into a room or you get into the airport, right?
+
+20:19.440 --> 20:21.690
+And you're fighting for that charger.
+
+20:21.690 --> 20:24.000
+So we really have to rethink as an industry
+
+20:24.000 --> 20:26.130
+how we're gonna put batteries into our products,
+
+20:26.130 --> 20:28.050
+how we're gonna make them safe,
+
+20:28.050 --> 20:30.060
+how we're gonna make them durable as you say.
+
+20:30.060 --> 20:34.170
+And not only prevent fires but prevent from water damage.
+
+20:34.170 --> 20:36.060
+Right now, you want all your electronics
+
+20:36.060 --> 20:37.740
+to be able to be used out in the rain.
+
+20:37.740 --> 20:39.097
+You used to have to hide it, and now you're like,
+
+20:39.097 --> 20:41.250
+"Oh, my iPhone is waterproof.
+
+20:41.250 --> 20:42.450
+This is great."
+
+20:42.450 --> 20:44.580
+But you think about what that does to the battery
+
+20:44.580 --> 20:47.010
+and how you have to secure the battery for that
+
+20:47.010 --> 20:50.100
+and then that how it makes that harder to remove the battery
+
+20:50.100 --> 20:52.190
+and then how to recycle that battery.
+
+20:52.190 --> 20:54.300
+So that's really a complex issue.
+
+20:54.300 --> 20:55.133
+<v ->Fantastic.</v>
+
+20:55.133 --> 20:57.030
+Well, we're gonna open it up for questions
+
+20:57.030 --> 20:58.110
+here in just a couple minutes,
+
+20:58.110 --> 20:59.970
+but Giovanni, I wanted to go back to you,
+
+20:59.970 --> 21:02.970
+and many times with our innovations
+
+21:02.970 --> 21:04.950
+and the consumer technology industry,
+
+21:04.950 --> 21:08.400
+we have to think about what the new impacts are gonna be.
+
+21:08.400 --> 21:10.380
+What's the material profile look like
+
+21:10.380 --> 21:13.410
+for your technology that you're putting out?
+
+21:13.410 --> 21:14.760
+What's it made out of?
+
+21:14.760 --> 21:17.760
+<v ->Well, so we have over 300 granted patents.</v>
+
+21:17.760 --> 21:18.960
+Over 21 families.
+
+21:18.960 --> 21:22.020
+It's 15 years of research.
+
+21:22.020 --> 21:23.220
+I'm not gonna give you all of that.
+
+21:23.220 --> 21:24.210
+<v ->That's okay.</v>
+
+21:24.210 --> 21:27.750
+<v ->But I can say the main component is titanium dioxide,</v>
+
+21:27.750 --> 21:30.300
+which is the white pigment in wall paint,
+
+21:30.300 --> 21:32.430
+in toothpaste, in sunscreen.
+
+21:32.430 --> 21:35.670
+So it's a very environmentally friendly composition,
+
+21:35.670 --> 21:38.220
+no rare earth metal, no toxic materials, nothing,
+
+21:38.220 --> 21:40.740
+REACH, RoHS, and Prop 65, all of that.
+
+21:40.740 --> 21:42.210
+And we do that on purpose.
+
+21:42.210 --> 21:45.750
+We can do solar cells with much higher efficiency,
+
+21:45.750 --> 21:48.810
+but that would mean that we would need to mix in
+
+21:48.810 --> 21:52.230
+toxic stuff or things that are not compliant
+
+21:52.230 --> 21:53.087
+with how we see this,
+
+21:53.087 --> 21:55.050
+'cause this is something that we wear.
+
+21:55.050 --> 21:57.180
+I wear this on me, right?
+
+21:57.180 --> 21:58.290
+I carry this, my kids,
+
+21:58.290 --> 22:01.680
+we have a lot of consumer products as well.
+
+22:01.680 --> 22:03.870
+My kids, they wear the headphones,
+
+22:03.870 --> 22:06.412
+they wear the stuff, they carry it.
+
+22:06.412 --> 22:08.160
+It has to be completely safe.
+
+22:08.160 --> 22:09.600
+<v ->Yeah, fantastic.</v>
+
+22:09.600 --> 22:11.370
+Well, very good, thank you very much.
+
+22:11.370 --> 22:13.380
+So if folks have questions,
+
+22:13.380 --> 22:14.850
+we actually have two microphones.
+
+22:14.850 --> 22:17.820
+Anybody have a question at this point?
+
+22:17.820 --> 22:21.420
+Alright, come on up and ask a question.
+
+22:21.420 --> 22:24.213
+I think both of these microphones should be working.
+
+22:25.080 --> 22:26.550
+And if anybody else has a question,
+
+22:26.550 --> 22:29.220
+feel free to go ahead and stand up by one of the mics.
+
+22:29.220 --> 22:30.053
+Go ahead.
+
+22:31.080 --> 22:31.913
+<v Matt>My name is Matt,</v>
+
+22:31.913 --> 22:35.670
+and I work in innovative product design,
+
+22:35.670 --> 22:36.810
+but I actually had a question
+
+22:36.810 --> 22:40.263
+around the waterproofedness of batteries.
+
+22:41.220 --> 22:43.140
+Of course there's battery regulations
+
+22:43.140 --> 22:45.270
+that are coming out in the U.S. and in Europe
+
+22:45.270 --> 22:48.330
+around the need to have them be removable
+
+22:48.330 --> 22:50.790
+so that they can be readily recycled.
+
+22:50.790 --> 22:52.650
+Currently, I believe there's an exemption
+
+22:52.650 --> 22:55.920
+for things that are highly integrated or waterproofed.
+
+22:55.920 --> 22:58.290
+Is there an interest and passion
+
+22:58.290 --> 23:00.870
+from the industry to look at solutions
+
+23:00.870 --> 23:02.970
+to innovate around that,
+
+23:02.970 --> 23:06.603
+to make things that can be both waterproofed and removable?
+
+23:08.010 --> 23:10.050
+<v ->Yeah, Andrea?</v>
+<v ->Yeah, so I could take that.</v>
+
+23:10.050 --> 23:11.550
+That's really an excellent question,
+
+23:11.550 --> 23:13.980
+and it's something that our design engineers
+
+23:13.980 --> 23:16.950
+have been focused on for quite a long time.
+
+23:16.950 --> 23:18.540
+And actually, just before,
+
+23:18.540 --> 23:20.730
+I was sharing with the panel a story.
+
+23:20.730 --> 23:22.560
+So we launched a couple years ago
+
+23:22.560 --> 23:24.210
+a product called the MultiShape,
+
+23:24.210 --> 23:27.510
+and it's five different personal care devices in one
+
+23:27.510 --> 23:31.350
+and it's made to replace your razor, your toothbrush,
+
+23:31.350 --> 23:32.610
+your nose hair trimmer,
+
+23:32.610 --> 23:34.800
+and I'll get to the point but it's all in one.
+
+23:34.800 --> 23:37.830
+And the sales team actually came to me and said,
+
+23:37.830 --> 23:40.530
+if we have consumers disposing
+
+23:40.530 --> 23:42.600
+of five different products to buy this,
+
+23:42.600 --> 23:44.520
+that's gonna create a lot of waste.
+
+23:44.520 --> 23:47.070
+So we started calling our recycling partners
+
+23:47.070 --> 23:49.110
+and saying how are we going to,
+
+23:49.110 --> 23:50.070
+what are we gonna do?
+
+23:50.070 --> 23:52.380
+And we created a program
+
+23:52.380 --> 23:53.910
+where if you buy the MultiShape,
+
+23:53.910 --> 23:57.210
+you can return and we'll recycle for you for free
+
+23:57.210 --> 23:59.430
+for the consumer your old product.
+
+23:59.430 --> 24:01.950
+So we went to the electronics manufacturer
+
+24:01.950 --> 24:05.340
+and we bought a big box of personal care products,
+
+24:05.340 --> 24:07.323
+different brands, many Panasonic.
+
+24:08.220 --> 24:10.080
+And we saw, and if you've never been
+
+24:10.080 --> 24:12.480
+to recycling manufacturer electronics,
+
+24:12.480 --> 24:15.330
+it's a huge warehouse and it's all automated
+
+24:15.330 --> 24:17.250
+because that's how you're gonna do this at scale
+
+24:17.250 --> 24:19.200
+is you're gonna have automation.
+
+24:19.200 --> 24:23.010
+And we followed these as it went through the whole warehouse
+
+24:23.010 --> 24:25.680
+and they went to sorting and it went to an area
+
+24:25.680 --> 24:27.810
+and the ones with lithium ion batteries,
+
+24:27.810 --> 24:29.550
+because they catch on fire,
+
+24:29.550 --> 24:31.410
+went to a special section in the back
+
+24:31.410 --> 24:33.540
+where they had all the fire control, right?
+
+24:33.540 --> 24:36.750
+So it took us time to go through there,
+
+24:36.750 --> 24:41.133
+and it was a manual process to get rid of the battery,
+
+24:42.300 --> 24:45.600
+because it was an electric razor you can use in the shower.
+
+24:45.600 --> 24:49.320
+And it took one person about 12 minutes
+
+24:49.320 --> 24:50.910
+to get that battery out.
+
+24:50.910 --> 24:53.400
+And we are talking about different ways
+
+24:53.400 --> 24:55.890
+he had to go get like a special screwdriver
+
+24:55.890 --> 25:00.090
+and he had to like safely separate the battery area from it.
+
+25:00.090 --> 25:01.200
+And that was hard to do
+
+25:01.200 --> 25:04.020
+because like the battery wasn't at the end,
+
+25:04.020 --> 25:06.870
+where you think easily removable, it's gonna be at the end,
+
+25:06.870 --> 25:07.830
+but it was in the middle
+
+25:07.830 --> 25:10.560
+and it was encased in so much plastic.
+
+25:10.560 --> 25:13.050
+And they said, "This is gonna cost you a lot of money."
+
+25:13.050 --> 25:15.090
+And we said, we said, "Okay, well, we need to do it
+
+25:15.090 --> 25:18.090
+but we need to find a way to make it better."
+
+25:18.090 --> 25:19.770
+So I put together a proposal.
+
+25:19.770 --> 25:22.350
+I'm thinking this is an easy solution, right?
+
+25:22.350 --> 25:24.150
+And I put together a proposal,
+
+25:24.150 --> 25:27.510
+this is the standard screw that needs to be used.
+
+25:27.510 --> 25:30.540
+I got all the specs, and it needs to be
+
+25:30.540 --> 25:31.980
+closer to the end of the unit
+
+25:31.980 --> 25:35.430
+so it could be chopped off first and then manually removed.
+
+25:35.430 --> 25:38.490
+And I bring it back to the design team in Japan.
+
+25:38.490 --> 25:40.710
+They review it and they come back to me
+
+25:40.710 --> 25:42.450
+and say that that's impossible.
+
+25:42.450 --> 25:46.080
+I can't make you that waterproof product
+
+25:46.080 --> 25:48.360
+with the specifications you're giving me.
+
+25:48.360 --> 25:49.860
+So they are working on it.
+
+25:49.860 --> 25:52.710
+I would say with each model, we get a little better,
+
+25:52.710 --> 25:55.290
+but we haven't really perfected that solution
+
+25:55.290 --> 25:57.420
+where it's gonna be a pop out battery
+
+25:57.420 --> 25:59.130
+that can have all the functionality
+
+25:59.130 --> 26:00.663
+and the safety that we need.
+
+26:01.830 --> 26:03.600
+<v ->If I could add to that, I mean, this is a critically</v>
+
+26:03.600 --> 26:05.640
+important issue for the recycling system,
+
+26:05.640 --> 26:07.980
+because as Andrea pointed out,
+
+26:07.980 --> 26:09.390
+it's a lot of time, time is money.
+
+26:09.390 --> 26:12.180
+So we've done some time studies on what it takes
+
+26:12.180 --> 26:14.970
+to actually get a battery ready for processing
+
+26:14.970 --> 26:17.430
+if it's in a product versus loose.
+
+26:17.430 --> 26:19.265
+And as Andrea pointed out,
+
+26:19.265 --> 26:21.900
+when you're dealing with loose batteries,
+
+26:21.900 --> 26:23.400
+it's increasingly robotic.
+
+26:23.400 --> 26:25.410
+It's like it's Star Trek level, sort of.
+
+26:25.410 --> 26:26.640
+And then you've got these rooms
+
+26:26.640 --> 26:28.020
+where it's basically the stone age.
+
+26:28.020 --> 26:30.810
+You've got people with hammers, beating things to death.
+
+26:30.810 --> 26:32.640
+And it's very expensive.
+
+26:32.640 --> 26:34.080
+It's very time consuming.
+
+26:34.080 --> 26:38.340
+Costs us about $82 a pound to be able to process
+
+26:38.340 --> 26:39.930
+lithium ion batteries that are loose batteries.
+
+26:39.930 --> 26:42.270
+If they're in a product, you add $2 to that.
+
+26:42.270 --> 26:44.100
+So it's about $4 a pound.
+
+26:44.100 --> 26:45.540
+It's very expensive.
+
+26:45.540 --> 26:46.680
+And the more expensive it is,
+
+26:46.680 --> 26:49.020
+the less incentive it is to do.
+
+26:49.020 --> 26:50.340
+So it's definitely an issue.
+
+26:50.340 --> 26:52.380
+And they're introduced all sorts of safety issues.
+
+26:52.380 --> 26:54.150
+And since you're in design, you know this.
+
+26:54.150 --> 26:57.720
+I mean, there's just a a ton of compelling sort of reasons
+
+26:57.720 --> 27:00.030
+to do this, that, and the other on the design side.
+
+27:00.030 --> 27:01.830
+This is just one of them.
+
+27:01.830 --> 27:03.990
+From our perspective, the more that manufacturers
+
+27:03.990 --> 27:05.430
+are thinking with the end in mind,
+
+27:05.430 --> 27:07.530
+the better off it's going to be.
+
+27:07.530 --> 27:09.540
+So actually, when we were talking earlier off stage
+
+27:09.540 --> 27:11.700
+about the headset, my first question, Giovanni,
+
+27:11.700 --> 27:14.340
+was can you remove the battery without a tool?
+
+27:14.340 --> 27:18.300
+'Cause anytime you gotta use a tool, it's a step, right?
+
+27:18.300 --> 27:21.913
+We need to be thinking in that direction.
+
+27:21.913 --> 27:24.780
+<v ->I just wanted to add that we have a DOE project</v>
+
+27:24.780 --> 27:26.730
+where we are looking at safe recycling
+
+27:26.730 --> 27:28.920
+or process for safe recycling.
+
+27:28.920 --> 27:32.190
+So we are looking at not only batteries but also devices.
+
+27:32.190 --> 27:35.370
+Right now, it's consumer level devices up to power tools
+
+27:35.370 --> 27:38.490
+where we are trying to see if we can simultaneously remove
+
+27:38.490 --> 27:41.100
+the electrolyte while we are shredding.
+
+27:41.100 --> 27:43.530
+So that will make the process,
+
+27:43.530 --> 27:45.000
+it's not connected to your question,
+
+27:45.000 --> 27:47.760
+but just saying that we can make the process
+
+27:47.760 --> 27:50.910
+more safer if we try to do something like that.
+
+27:50.910 --> 27:52.380
+<v Speaker>Is that for lithium ion batteries?</v>
+
+27:52.380 --> 27:54.570
+<v ->Yes, lithium ion batteries.</v>
+
+27:54.570 --> 27:56.185
+<v ->Okay, alright, good.</v>
+<v ->Thank you very much.</v>
+
+27:56.185 --> 27:58.320
+<v Walter>All right, thank you for your question.</v>
+
+27:58.320 --> 27:59.670
+If there are no other questions right now,
+
+27:59.670 --> 28:01.260
+Giovanni, I wanted to ask,
+
+28:01.260 --> 28:03.183
+oh yes, please go on, go on up.
+
+28:04.110 --> 28:06.780
+And then if there's time, I'll ask you the follow up.
+
+28:06.780 --> 28:07.680
+<v Audience Member>Hi, everyone.</v>
+
+28:07.680 --> 28:09.380
+I'll just try to keep this simple.
+
+28:10.740 --> 28:13.020
+I worked 11 years in sustainability
+
+28:13.020 --> 28:16.170
+for electronic recyclers down in Southern California.
+
+28:16.170 --> 28:19.170
+And as we know, a lot of things are getting
+
+28:19.170 --> 28:24.170
+more and more expensive for a lot of the people in general.
+
+28:24.210 --> 28:27.870
+And yesterday, I was listening to the speaker,
+
+28:27.870 --> 28:30.450
+the CEO for Twitter and she was mentioning how
+
+28:30.450 --> 28:35.450
+generation Z is the up and coming.
+
+28:36.210 --> 28:38.070
+So what I'm just wondering is,
+
+28:38.070 --> 28:40.410
+I guess the question that I wanna ask is,
+
+28:40.410 --> 28:43.770
+throughout my years of working in Los Angeles and Seattle,
+
+28:43.770 --> 28:48.770
+total reclaim, EWA center, and corporate EWA solutions,
+
+28:50.430 --> 28:52.710
+and at one point, I was even trying to chase after
+
+28:52.710 --> 28:56.943
+some of the accounts here in Las Vegas like the Venetian.
+
+28:58.050 --> 29:00.690
+What I'm just wondering is for Panasonic
+
+29:00.690 --> 29:03.720
+or for some of you else on the panel,
+
+29:03.720 --> 29:05.940
+do you guys know if the manufacturers
+
+29:05.940 --> 29:09.240
+are offering like some type of incentive?
+
+29:09.240 --> 29:11.760
+Like for example, like for my shoes,
+
+29:11.760 --> 29:14.700
+they're from a company in Spain called Camper.
+
+29:14.700 --> 29:17.970
+So whenever my shoes are like older shoes,
+
+29:17.970 --> 29:22.530
+if I wanna buy a new pair of shoes, they kind of subsidize
+
+29:22.530 --> 29:25.560
+and you bring in the old one and then you can get
+
+29:25.560 --> 29:27.900
+like a little percentage off of a new one.
+
+29:27.900 --> 29:29.520
+So when I'm wondering is,
+
+29:29.520 --> 29:31.020
+in southern California, it's so hard
+
+29:31.020 --> 29:33.117
+'cause we're so spread out,
+
+29:33.117 --> 29:35.520
+and the only effective thing that I've seen
+
+29:35.520 --> 29:36.360
+throughout the years,
+
+29:36.360 --> 29:38.010
+you can do all these collection events
+
+29:38.010 --> 29:41.430
+with all these Ralphs and Albertsons and CVS,
+
+29:41.430 --> 29:43.680
+but what I'm wondering is like the most effective
+
+29:43.680 --> 29:45.720
+that I've seen in Orange County
+
+29:45.720 --> 29:49.590
+is where the city actually has Monday through Friday
+
+29:49.590 --> 29:52.260
+where people can drive their cars
+
+29:52.260 --> 29:55.470
+and just basically offload throughout the whole day.
+
+29:55.470 --> 29:58.320
+So maybe you guys can give some two cents
+
+29:58.320 --> 30:00.930
+on like some of the big major retailers
+
+30:00.930 --> 30:04.050
+like Ikea or Home Depot,
+
+30:04.050 --> 30:05.850
+'cause I know that they do try to collect
+
+30:05.850 --> 30:07.590
+some of the e-waste back,
+
+30:07.590 --> 30:11.520
+but I thought I'd just ask if you at Panasonic,
+
+30:11.520 --> 30:14.880
+like what do you guys do to cover all that?
+
+30:14.880 --> 30:17.010
+<v ->Yeah, I'm sure, and I know both Leo and I</v>
+
+30:17.010 --> 30:19.950
+can speak to this, but there's what's called
+
+30:19.950 --> 30:22.980
+extended producer responsibility, EPR.
+
+30:22.980 --> 30:24.090
+And when you think about it,
+
+30:24.090 --> 30:27.810
+there are many EPRs for all kinds of products.
+
+30:27.810 --> 30:29.370
+Your sneakers is an interesting one.
+
+30:29.370 --> 30:31.830
+I think that's a great new use case,
+
+30:31.830 --> 30:33.300
+'cause it's probably even more important
+
+30:33.300 --> 30:36.000
+how many sneakers does everyone go through
+
+30:36.000 --> 30:37.920
+in even a year or their lifetime.
+
+30:37.920 --> 30:39.780
+But that's very common.
+
+30:39.780 --> 30:44.160
+And there's EPR for many electronics, not all electronics,
+
+30:44.160 --> 30:48.810
+but primarily TVs, laptop computers, desktop computers,
+
+30:48.810 --> 30:51.780
+printers, batteries as well have their own
+
+30:51.780 --> 30:54.360
+extended producer responsibility laws.
+
+30:54.360 --> 30:56.310
+So as a producer of something,
+
+30:56.310 --> 30:58.020
+and actually those laws are extending now
+
+30:58.020 --> 31:01.350
+to packaging too as well for the products.
+
+31:01.350 --> 31:05.070
+We are responsible for that product at the end of its life.
+
+31:05.070 --> 31:08.610
+So we do partner with many recyclers across the country,
+
+31:08.610 --> 31:12.300
+and we have a recycling management company
+
+31:12.300 --> 31:14.280
+called MRM Recycling.
+
+31:14.280 --> 31:17.010
+So if you go onto their website,
+
+31:17.010 --> 31:19.560
+very similar to the Call2Recycle website.
+
+31:19.560 --> 31:21.570
+You just plug in your zip code
+
+31:21.570 --> 31:23.940
+and you can see where you can bring
+
+31:23.940 --> 31:26.940
+your electronics to recycle.
+
+31:26.940 --> 31:29.130
+And there are collection report points,
+
+31:29.130 --> 31:31.080
+I believe Best Buy, Staples
+
+31:31.080 --> 31:33.780
+will have collection and then local municipalities
+
+31:33.780 --> 31:37.800
+and those are funded by us, by the manufacturers.
+
+31:37.800 --> 31:40.410
+But you're right, we have to increase that.
+
+31:40.410 --> 31:43.950
+As much as we try, and specifically for batteries,
+
+31:43.950 --> 31:47.730
+we are not collecting as many batteries as we're making.
+
+31:47.730 --> 31:51.240
+And there are laws in, do you know how many states?
+
+31:51.240 --> 31:52.626
+And then in Canada?
+
+31:52.626 --> 31:54.030
+<v Leo>Oh, it's about a half a dozen right now</v>
+
+31:54.030 --> 31:56.820
+and it's gonna be double that soon.
+
+31:56.820 --> 31:57.660
+<v ->There are many laws,</v>
+
+31:57.660 --> 31:59.880
+and we are struggling to get those rates.
+
+31:59.880 --> 32:03.330
+So it's more about the education to the consumer,
+
+32:03.330 --> 32:05.190
+because it's pretty easy to get a battery.
+
+32:05.190 --> 32:08.760
+I bring my batteries some to the office when I'm lazy,
+
+32:08.760 --> 32:11.010
+because we have the call to recycle box.
+
+32:11.010 --> 32:14.430
+My husband usually takes batteries to Home Depot.
+
+32:14.430 --> 32:18.720
+And if you see the call to recycle symbol on the battery,
+
+32:18.720 --> 32:20.460
+you know you could bring it to Home Depot
+
+32:20.460 --> 32:22.140
+and we fund that program.
+
+32:22.140 --> 32:24.750
+But it's getting that, you know,
+
+32:24.750 --> 32:27.960
+just getting that mentality, I'd say, for consumers to know,
+
+32:27.960 --> 32:30.510
+hey, every time I go shopping,
+
+32:30.510 --> 32:31.343
+I don't know where you live,
+
+32:31.343 --> 32:36.000
+in New Jersey, we have a plastic bag ban.
+
+32:36.000 --> 32:38.400
+So every time we have plastic bags,
+
+32:38.400 --> 32:42.420
+we do our at Target, I bring my bags to Target
+
+32:42.420 --> 32:44.670
+to recycle through there.
+
+32:44.670 --> 32:46.560
+We have to get people to do that with batteries
+
+32:46.560 --> 32:48.450
+and people to do that electronics.
+
+32:48.450 --> 32:50.610
+You have to just get it into your daily routine
+
+32:50.610 --> 32:53.610
+that you're gonna be bringing back with you to recycling.
+
+32:53.610 --> 32:55.440
+But there are a lot of programs out there.
+
+32:55.440 --> 32:56.910
+And as long as we expand it,
+
+32:56.910 --> 32:58.470
+I think we're on the right track.
+
+32:58.470 --> 32:59.640
+<v Walter>Yeah, Leo, could you address,</v>
+
+32:59.640 --> 33:01.440
+who are your retail partners?
+
+33:01.440 --> 33:04.650
+<v ->Oh, well, the major ones are Home Depot, Lowe's,</v>
+
+33:04.650 --> 33:05.880
+Staples, Best Buy,
+
+33:05.880 --> 33:08.400
+and then True Value, ACE Hardware, et cetera.
+
+33:08.400 --> 33:10.110
+And on the incentive side,
+
+33:10.110 --> 33:12.990
+Staples is actually a really good example of how last year,
+
+33:12.990 --> 33:14.640
+we partnered with them and with the RI
+
+33:14.640 --> 33:17.700
+to basically do an all battery collection program,
+
+33:17.700 --> 33:19.260
+'cause most of what we do across the United States
+
+33:19.260 --> 33:20.790
+is rechargeable batteries.
+
+33:20.790 --> 33:24.990
+We do single use batteries depending on the situation.
+
+33:24.990 --> 33:28.080
+And they saw a dramatic increase in traffic.
+
+33:28.080 --> 33:30.600
+So it's a good sort of value proposition
+
+33:30.600 --> 33:31.770
+for their customers also.
+
+33:31.770 --> 33:33.030
+It's good for their business.
+
+33:33.030 --> 33:34.770
+That was an experience I had back at Best Buy
+
+33:34.770 --> 33:37.200
+where I cut my teeth in E-waste
+
+33:37.200 --> 33:39.690
+and standing up that e-waste recycling program,
+
+33:39.690 --> 33:42.240
+it was really all about the customer value proposition.
+
+33:42.240 --> 33:43.073
+But Andrea is right.
+
+33:43.073 --> 33:44.040
+EPR is what's driving this.
+
+33:44.040 --> 33:49.040
+So today, we service about a million residents
+
+33:49.170 --> 33:53.040
+in regulated EPR states for all batteries.
+
+33:53.040 --> 33:54.390
+Within about three to four years,
+
+33:54.390 --> 33:57.030
+that's gonna be about 65 million people.
+
+33:57.030 --> 34:01.140
+And when that happens is the regulations make us
+
+34:01.140 --> 34:02.970
+collect in a lot more places,
+
+34:02.970 --> 34:05.700
+have a much more muscular outreach and education approach.
+
+34:05.700 --> 34:08.370
+It's basically just making it more available and accessible.
+
+34:08.370 --> 34:09.575
+People are ready to do it.
+
+34:09.575 --> 34:12.990
+They just need access and some education.
+
+34:12.990 --> 34:13.950
+On the design side,
+
+34:13.950 --> 34:16.200
+since we had a question about design earlier,
+
+34:16.200 --> 34:18.150
+I think what's gonna drive that
+
+34:18.150 --> 34:21.000
+is the incentive there is gonna be more a little bit
+
+34:21.000 --> 34:23.460
+on the back end, which is it's just going
+
+34:23.460 --> 34:25.170
+to increasingly be more expensive
+
+34:25.170 --> 34:27.060
+to get recall batteries out of the market
+
+34:27.060 --> 34:29.130
+if you can't get them out of the product.
+
+34:29.130 --> 34:31.860
+We handle the recall for a manufacturer about a year ago,
+
+34:31.860 --> 34:34.170
+and it was an upgrade vacuum cleaner.
+
+34:34.170 --> 34:36.600
+It's about yay big, like the size of a small child.
+
+34:36.600 --> 34:38.790
+Battery was inside, could not get it out.
+
+34:38.790 --> 34:39.810
+The manufacturer needed
+
+34:39.810 --> 34:42.240
+to get the vacuum cleaner out of the market.
+
+34:42.240 --> 34:46.530
+It cost several hundred dollars per vacuum cleaner
+
+34:46.530 --> 34:50.010
+to safely legally transport that back to a recycler.
+
+34:50.010 --> 34:52.477
+So I'm a manufacturer, I'm thinking,
+
+34:52.477 --> 34:54.300
+"Okay, how do I avoid this next time?"
+
+34:54.300 --> 34:55.380
+Put a door.
+
+34:55.380 --> 34:58.950
+Get the battery out easily so you don't have to do that.
+
+34:58.950 --> 35:00.390
+I think those are the kinds of incentives
+
+35:00.390 --> 35:01.440
+that will maybe drive a little bit
+
+35:01.440 --> 35:03.600
+more change on the design side.
+
+35:03.600 --> 35:06.480
+<v ->Okay, any last questions from the audience?</v>
+
+35:06.480 --> 35:07.563
+Yeah, come on up.
+
+35:09.180 --> 35:11.580
+<v Audience Member>So we are at CES.</v>
+
+35:11.580 --> 35:13.560
+I'm wondering if you can say,
+
+35:13.560 --> 35:16.620
+if there is one thing you can get from technology side
+
+35:16.620 --> 35:20.040
+that can help recycling of lithium ion batteries better,
+
+35:20.040 --> 35:22.770
+what is that one thing going to be for you?
+
+35:22.770 --> 35:25.290
+How technology can help in improving recycling
+
+35:25.290 --> 35:26.553
+of lithium ion batteries?
+
+35:27.900 --> 35:28.830
+<v ->Good question.</v>
+
+35:28.830 --> 35:31.620
+Mostly, it's collection, but you might have some insights,
+
+35:31.620 --> 35:32.820
+one of you on the recycling.
+<v ->Yeah, real quick,</v>
+
+35:32.820 --> 35:35.040
+just more automation on the processing side, I think.
+
+35:35.040 --> 35:36.780
+That's just gotta go faster,
+
+35:36.780 --> 35:39.300
+because we see indications at a pilot scale,
+
+35:39.300 --> 35:42.480
+that it has a lot of promise, but it's gotta go faster.
+
+35:42.480 --> 35:45.480
+<v ->And safety included in that.</v>
+<v ->Yeah.</v>
+
+35:45.480 --> 35:47.490
+<v ->Great, before we-</v>
+<v ->I think if I just add-</v>
+
+35:47.490 --> 35:49.110
+<v ->Oh yeah, please.</v>
+<v ->And collaboration</v>
+
+35:49.110 --> 35:51.810
+and new ideas, I think we need to combine
+
+35:51.810 --> 35:55.620
+partnerships with large companies and small startups, right?
+
+35:55.620 --> 35:58.290
+And work together to bring new technologies.
+
+35:58.290 --> 36:00.930
+I think Redwood's a great example of that.
+
+36:00.930 --> 36:03.510
+They started because they saw a problem,
+
+36:03.510 --> 36:04.710
+and they just worked to find
+
+36:04.710 --> 36:06.720
+the technologies for a solution.
+
+36:06.720 --> 36:09.180
+And if you read about Redwood materials,
+
+36:09.180 --> 36:11.310
+they're materials recycling company
+
+36:11.310 --> 36:12.810
+and you could bring them,
+
+36:12.810 --> 36:13.987
+I bring them ideas all the time.
+
+36:13.987 --> 36:16.110
+"I need you to find a way to recycle this," right?
+
+36:16.110 --> 36:17.640
+And they're gonna find a way to do it
+
+36:17.640 --> 36:19.320
+or they're working towards that, right?
+
+36:19.320 --> 36:21.750
+So we just have to work harder and come up with new ideas.
+
+36:21.750 --> 36:22.583
+<v ->Yeah, they're great.</v>
+
+36:22.583 --> 36:23.640
+They get about half of our weight today,
+
+36:23.640 --> 36:25.500
+so we like them a lot.
+
+36:25.500 --> 36:26.333
+<v ->Wonderful.</v>
+
+36:26.333 --> 36:28.200
+Well, before we wrap up, Giovanni,
+
+36:28.200 --> 36:30.000
+I wanna give you the last word.
+
+36:30.000 --> 36:31.590
+So we're talking about the future.
+
+36:31.590 --> 36:32.970
+You mentioned a couple of products
+
+36:32.970 --> 36:35.040
+and actually brought a couple of products
+
+36:35.040 --> 36:36.330
+that use your technology.
+
+36:36.330 --> 36:39.420
+What other products are being used for your technology,
+
+36:39.420 --> 36:42.480
+and where are some maybe future products?
+
+36:42.480 --> 36:47.070
+What looks like a good future market area for you as well?
+
+36:47.070 --> 36:50.550
+<v ->I think that in the immediate term,</v>
+
+36:50.550 --> 36:53.583
+the connected store, retail is gonna be very, very big.
+
+36:55.290 --> 36:56.280
+I actually brought,
+
+36:56.280 --> 36:58.710
+this is a small electronic shelf label.
+
+36:58.710 --> 37:01.110
+This is a price tag, right?
+
+37:01.110 --> 37:02.340
+<v ->That's a price tag.</v>
+
+37:02.340 --> 37:05.070
+<v ->This is a small screen that you see in the stores,</v>
+
+37:05.070 --> 37:07.950
+which will then show the price of a specific product.
+
+37:07.950 --> 37:10.087
+It can also, like this one for example says,
+
+37:10.087 --> 37:13.743
+"indoor charging with powerfoyle" by the 3M headphone.
+
+37:14.580 --> 37:16.007
+But this can display information, right?
+
+37:16.007 --> 37:18.330
+It can also gather information.
+
+37:18.330 --> 37:21.210
+And this is now deployed all over the U.S.
+
+37:21.210 --> 37:22.830
+Walmart announced a couple of weeks ago
+
+37:22.830 --> 37:26.568
+a $2 billion deal with our partner,
+
+37:26.568 --> 37:27.570
+The Vusion Group.
+
+37:27.570 --> 37:29.700
+We have an exclusive with them.
+
+37:29.700 --> 37:32.070
+These used to be battery-powered.
+
+37:32.070 --> 37:34.410
+Now, they're not battery powered anymore.
+
+37:34.410 --> 37:37.140
+These are now powered by the light in stores
+
+37:37.140 --> 37:39.990
+and the one battery to power many.
+
+37:39.990 --> 37:42.150
+And then we charge that battery.
+
+37:42.150 --> 37:45.930
+So this is enabling, unlocking the smartness of retail
+
+37:45.930 --> 37:47.730
+to gather more data, get more insights,
+
+37:47.730 --> 37:50.790
+and increase efficiency, enhance the shopping experience
+
+37:50.790 --> 37:54.540
+for the users and ultimately drive P&amp;L.
+
+37:54.540 --> 37:56.730
+So I think this is gonna be very, very, very big.
+
+37:56.730 --> 37:57.900
+I'm pretty sure of it.
+
+37:57.900 --> 38:01.320
+We see it being rolled out across the whole world now.
+
+38:01.320 --> 38:04.533
+You can change all the prices by your computer.
+
+38:06.000 --> 38:07.920
+I also think that the smart workplace,
+
+38:07.920 --> 38:11.190
+a smart worker will be really big in the future
+
+38:11.190 --> 38:12.900
+where you will have, I mean,
+
+38:12.900 --> 38:16.230
+you have 300 million construction helmets
+
+38:16.230 --> 38:17.790
+are sold every year.
+
+38:17.790 --> 38:19.240
+There's no smart within them.
+
+38:20.100 --> 38:23.040
+Integrated smartness, batteries and sensors.
+
+38:23.040 --> 38:24.900
+You'll be able to know who is where.
+
+38:24.900 --> 38:27.903
+Does she already have the right proper training?
+
+38:29.070 --> 38:30.180
+It's about compliance.
+
+38:30.180 --> 38:33.660
+It's about having a more safe work environment,
+
+38:33.660 --> 38:35.880
+health, digital health monitoring.
+
+38:35.880 --> 38:37.470
+There's so many things.
+
+38:37.470 --> 38:39.210
+<v ->Wow.</v>
+<v ->It's gonna come.</v>
+
+38:39.210 --> 38:42.240
+But I think the key is that it has to be self-powered
+
+38:42.240 --> 38:46.830
+and just seamlessly integrated.
+
+38:46.830 --> 38:48.660
+And I think also what I wanted to comment
+
+38:48.660 --> 38:51.960
+on the battery things here is that another way
+
+38:51.960 --> 38:53.640
+to approach this is of course
+
+38:53.640 --> 38:57.090
+to prolong the lifetime of the batteries.
+
+38:57.090 --> 38:58.650
+And this can be done in many different ways.
+
+38:58.650 --> 39:00.090
+One way is, for example,
+
+39:00.090 --> 39:02.973
+that we electronically control the overcharge.
+
+39:03.930 --> 39:07.170
+So these ones, they never charge above 80%.
+
+39:07.170 --> 39:09.810
+So these are run for months
+
+39:09.810 --> 39:12.330
+without spending one charge cycle.
+
+39:12.330 --> 39:15.843
+They just go between 20 and 75% up and down,
+
+39:16.920 --> 39:19.590
+which greatly extend the lifetime of the products,
+
+39:19.590 --> 39:21.660
+which ultimately will lead to fewer batteries
+
+39:21.660 --> 39:24.240
+being used over time.
+
+39:24.240 --> 39:27.150
+So I think we need innovations,
+
+39:27.150 --> 39:29.400
+to your point there in the audience,
+
+39:29.400 --> 39:33.150
+and collaboration between big companies with global reach,
+
+39:33.150 --> 39:36.240
+smaller startup, scale ups.
+
+39:36.240 --> 39:39.076
+That's gonna be the key to the future.
+
+39:39.076 --> 39:42.120
+But in the end, the consumers or business to business,
+
+39:42.120 --> 39:44.433
+someone needs to want to buy the product.
+
+39:45.300 --> 39:47.250
+So the product features,
+
+39:47.250 --> 39:49.770
+I mean, technology will drive the change for sure.
+
+39:49.770 --> 39:50.603
+<v Walter>Yeah.</v>
+
+39:50.603 --> 39:52.140
+<v ->But it's our responsibility to make sure</v>
+
+39:52.140 --> 39:55.560
+that that change is environmentally sustainable
+
+39:55.560 --> 39:58.020
+and also business-wise sustainable.
+
+39:58.020 --> 39:59.250
+We can't come with solutions
+
+39:59.250 --> 40:02.010
+that are really great for the world, but it's too expensive
+
+40:02.010 --> 40:04.530
+or especially here in the U.S., sorry,
+
+40:04.530 --> 40:07.080
+but no one wants to pay for sustainability.
+
+40:07.080 --> 40:08.100
+In Europe, it's a little bit better.
+
+40:08.100 --> 40:10.080
+Sweden is quite good, actually.
+
+40:10.080 --> 40:13.380
+But here, you need to lead with lower cost of ownership.
+
+40:13.380 --> 40:16.410
+You need to lead with a higher increased P&amp;L,
+
+40:16.410 --> 40:18.210
+increased efficiency, lower OpEx,
+
+40:18.210 --> 40:20.340
+lower CapEx, whatever it is.
+
+40:20.340 --> 40:22.080
+And by the way, by implementing this,
+
+40:22.080 --> 40:26.400
+you're also contributing a little bit to a better world.
+
+40:26.400 --> 40:27.296
+<v ->Wow.</v>
+
+40:27.296 --> 40:28.830
+Well, thank you for wrapping up
+
+40:28.830 --> 40:31.200
+and just as a consumer, I look forward to the day
+
+40:31.200 --> 40:32.820
+when I don't have to put my fitness ring
+
+40:32.820 --> 40:34.555
+on the charger every few days.
+
+40:34.555 --> 40:35.520
+<v ->So there you go.</v>
+<v ->So yeah,</v>
+
+40:35.520 --> 40:37.440
+so I'm looking forward to that.
+
+40:37.440 --> 40:38.850
+Well, listen, thank you all very much.
+
+40:38.850 --> 40:41.533
+Let's give a round of applause for the panel today.
+
+40:41.533 --> 40:42.880
+(audience applauding)
+
+40:42.880 --> 40:45.463
+(light music)
+

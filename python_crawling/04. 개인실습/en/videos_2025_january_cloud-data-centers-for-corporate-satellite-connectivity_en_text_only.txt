@@ -1,0 +1,933 @@
+<v ->Well, good afternoon all.</v>
+Thank you for joining us for the third installment
+in the Novaspace panels here at CES.
+This panel is going to cover cloud and data centers
+for corporate satellite connectivity.
+My name is Dara Panahy. I'm a partner with Milbank, LLP.
+It's a law firm, it's not a military bank.
+I lead the firm's Space Business practice
+and the Transportation and Space Group
+out of the Washington, DC office.
+Just to frame the discussion
+before I quickly introduce the speakers,
+satellites currently are a small
+but essential part of the connectivity network ecosystem.
+Satellites are growing as part of that system forecasted
+to exceed about 50 terabits per second of capacity by 2026,
+which is roughly doubling in two years.
+Increasingly, cloud and data service providers,
+including AWS, Microsoft,
+BT, Orange, AT&amp;T, NTT, Lumen, TIM,
+and also others, some of them here,
+are relying on satellite networks for their services,
+current generation satellites,
+whether they operate in low Earth orbit
+or medium Earth orbit,
+we call it LEO and MEO in the satellite business,
+as well as GEO, less so there, geostationary orbit.
+They do provide connectivity with some trade-offs.
+In MEO and LEO, you have latency, or delay,
+of between 150 to 50 milliseconds
+for the space to Earth leg.
+And all of these different orbits involve trade-offs
+between coverage, speed, and system complexity.
+But there are today numerous live 5G networks
+that are connecting via satellites to the cloud,
+and we'll get a little bit into that as well
+and a few other topics.
+So with us, we're very lucky
+to have a very distinguished panel.
+Far to the end of the seats here is,
+Retired Major General Clint Crosier.
+He's director of Aerospace and Satellite
+at Amazon Web Services, has been leading
+the global aerospace and satellite businesses at AWS,
+and providing customers with cloud solutions
+and space missions.
+Prior to AWS, he spent 33 years
+with the Air Force / Space Force,
+and I'll embarrass him.
+He has been generally credited
+as the architect of the Space Force.
+Next to him, Rika Nakazawa,
+she's the Chief Commercial Innovation Officer at NTT.
+A senior technology leader, VC investor, bestselling author,
+with expertise in technology driven transformation.
+In her current role, she focuses
+on advanced commercial and sustainable initiatives
+for NTT Space satellite innovations,
+while also leading key global initiatives
+that integrate NTT's R &amp; D investments.
+Next to her, Dr. Sunghee Lee, he's the CEO of Contec.
+He spent more than 16 years before that
+at the Korea Aerospace Research Institute, KARI,
+which is a significant global aerospace organization.
+He contributed to major Korean space projects,
+and also serves as a visiting researcher
+at the Carleton College on CubeSat missions.
+He recently founded Contec to advance satellite technology
+and innovative solutions in the industry.
+So we're gonna dive right in
+to a few topical based discussions,
+and we'll have a couple
+of pauses along the way for audience questions
+or contributions if you'd like to jump in.
+So let's start at the high level,
+jumping into structural pros and cons
+of connecting cloud and data centers via satellite
+versus other modalities, whether it be fiber
+or other terrestrial solutions, as well
+as any emerging technologies you think will
+enhance the proposition and efficiency
+of using space as a connectivity node.
+Who wanted to jump in first on that?
+<v ->I'll go first?</v>
+<v ->Go ahead, please.</v>
+<v ->Okay, thank you for your questions.</v>
+Actually, I just would like to explain
+with one example in South Korea.
+In case of South Korea, we have a lot
+of the great optical network, 99%,
+in that case actually, we don't need
+to make the communication with the satellite,
+but, because, in case of SpaceX, they just try
+to provide their service in South Korea.
+But it's just Elon Musk. Sad, I guess.
+South Korea market is not good,
+but the other countries, like Southeast Asian area, in case
+of Indonesia or the other country, is a lot of island.
+In that case, not great, the optical network.
+In that case, we needed to have the satellite communication
+to provide the cloud access or the internet service.
+So in terms of this, satellite connectivity is quite useful
+to provide the internet service
+to the whole of the people, whole of the area.
+Also, actually we just use any kind of the video content
+or the education, hospital.
+So it is quite a great convenience
+for the whole of people.
+The other way take is,
+if we just have some problem, the fiber optical line,
+the satellite communication,
+quite great backup infrastructure.
+One of the example, maybe last year is,
+in China, the fishing boat,
+they just cut the ocean fiber optical line,
+nearby the Taiwan area.
+In the case, Taiwan government, okay,
+we just make the backup communication with the satellite.
+So for this reason, actually satellite communication,
+satellite connectivity is quite useful.
+But we also have some of the drawback.
+So limited bandwidth, also more delay.
+So for this reason, as I know, the AWS,
+you just co-work with the Unibap or the D-Orbit,
+to serve this kind of the issue,
+though maybe in the near future, maybe AWS,
+we just make this kind of the solution also.
+Yeah, that is my perspective.
+<v ->Thank you.</v>
+<v ->Yeah, I think, so it's important.</v>
+This is a very broad topic, right?
+If you go to the website for this session,
+there's a couple sentences describing,
+but really you could unpack it in so many ways.
+So I think it's important to parse it
+in a way that's gonna be relevant for your business
+or for your customer.
+Power of three, to simplify it,
+I think there's one segment which is,
+all right, so data center
+and computing in space for a space economy use.
+So in space, what are the challenges?
+What are the opportunities?
+The second one is terrestrial, non-terrestrial.
+So a very obvious one there
+for some of us is Earth observation.
+So what role do data centers either terrestrially
+or eventually data centers in space?
+And that's by the way, not going
+to be the big monolithic structures
+that you see in Arizona being lofted into orbit.
+Well, I don't think so anyway.
+So re-imagining data centers is part of the narrative,
+but that terrestrial, non-terrestrial is
+how do we take Earth observation images,
+which is a tremendous amount of data, not just optically,
+but other variety data formats that are now being able
+to be detected with remote sensing,
+and being able to use that here on Earth
+for a variety of use cases.
+And then the third segment,
+or the third dimension to think about data centers
+and computing in space is really the energy challenge
+that we have with AI.
+So NTT, we're a significant provider
+in the data center business.
+So this is something
+that we're thinking about very, very carefully is
+that the demands of AI and compute,
+and by the way, I'm former Nvidia,
+I worked on a team that was the mobile group,
+that was Tegra, which is now some of the foundation
+of what's in Nvidia today.
+And by the way, no, I did not hold onto my stock
+when I left in 2010, so please don't ask me.
+It's a very sore topic.
+Although of course I'm a big fan of Jensen,
+and I know he really was able
+to kick things off here at CES.
+But the idea is that how can we use space ecosystem
+to help solve for some of these challenges?
+Because as AI, agentic AI,
+and that just becomes a natural fabric of how we use compute
+and digital economies of the future.
+And by the way, 2 billion people around the world,
+still not even really online yet.
+And as they come online,
+how are we gonna manage all of that?
+And thinking about the space in orbit as something
+that can help us address that is going to be key.
+Of course, what is going to be a major barrier to that is
+if it gets too darn crowded up there, if it's true
+that we have a hundred thousand LEO
+or satellites in orbit by the year 2030,
+it's going to be very, very crowded.
+And I think that's gonna create some significant challenges.
+But I just wanted to kind
+of explain how I think about this topic.
+It's very wide,
+but if we simplify it to those three areas,
+I think becomes a little bit easier in terms
+of drilling down on specific, not rabbit holes,
+maybe more grooves of the record I'll say.
+<v ->Yeah, thank you.</v>
+It's a pleasure to be here at CES.
+It's my first time here at CES,
+and so thank you to Contec for inviting me,
+and Novaspace for inviting me.
+And then my friends, Dr. Lee at Contec
+and Rika Nakazawa at NTT,
+it's a privilege to be with you on the stage here too.
+I think this is a really, really interesting topic,
+which is one of the reasons I was excited to be here.
+I think the integration
+of these technologies is inevitable, right?
+Between space and satcom and cloud
+and data and data centers,
+the integration is already occurring, but it's inevitable.
+And it's inevitable for a couple of reasons.
+One, we will never use as a people on the planet Earth,
+we will never use space less tomorrow
+than we use it today, right?
+If we just go back and look over time, we have continued
+to use space in more and more ways.
+There are so many ways we use space today
+that we didn't even envision 10 years ago, 15 years ago,
+to figure out the best way to get from your hotel
+to the Las Vegas Convention Center here today, right?
+We never anticipated that.
+When space was born,
+it was born primarily as a means to collect intelligence
+and to provide communications.
+And then we've seen the explosion
+of the way we use space technology
+and space capability today that will only increase.
+It will never get less than.
+When I look at the cloud,
+and I'm privileged to work for Amazon Web Services,
+a leading cloud provider in the world,
+we will never consume less cloud
+in the world than we do today, I don't believe so.
+We have all understood the power
+of cloud-based technologies,
+whether it's artificial intelligence, machine learning,
+advanced data analytics, quantum computing, micro computing,
+whatever the case may be.
+There are so many extraordinary technologies today
+that really can only be harvested
+and leveraged at scale on the cloud.
+We will never, as a people,
+use less cloud tomorrow than we do today.
+So when we bring those together, we recognize
+that we've got these multi technologies
+that are all coming together in a unique fashion and fabric,
+and they go so well together,
+because they enable the growth of each other.
+Space and space data will enable the growth of the cloud,
+and the cloud will enable the growth
+of what we use for space and space data.
+So it's just an exciting time.
+I really appreciate Rika's point about the space economy.
+Some people call it space for space
+versus space for terrestrial or space for Earth,
+because those are two very unique markets
+that we see right now today.
+Today and in the near term, most of the processing,
+the vast majority of the processing
+of space data, goes on today on the earth.
+And that has been okay to this point,
+but as we're bringing more and more data down,
+and we require less and less latency,
+and more and more bandwidth, we're gonna have
+to make a choice about whether we wanna process in orbit.
+And I appreciate Dr. Lee's reference
+to the demonstration we did
+with our friends at D-Orbit two years ago
+where we put an on orbit edge computing capability
+on a D-Orbit satellite and demonstrated that that works.
+And we reduced downlink requirements by 42%
+by processing on orbit rather than pushing it to the ground.
+So we're gonna see more and more of that.
+And then, I'll turn over the microphone here,
+but as we look at the space economy,
+or space for space, as we think
+about in-orbit satellite servicing,
+in-orbit space manufacturing,
+asteroid mining, space tourism,
+moving through the Artemis program
+onto the moon and then onto Mars,
+the number of use cases for cloud
+and satellite technology in the space economy,
+I think will ultimately outpace what we're using space
+for here on the earth over time, decades from now.
+But those are just two really powerful ways
+to think about it.
+And Rika, I appreciate you teeing those two up.
+<v ->Actually since you brought up space tourism.</v>
+Do you mind Dara if I ask the audience a question?
+<v ->Go right ahead, please.</v>
+<v ->I'm just curious,</v>
+because I'm starting to ask this question,
+not just at dinner parties anymore,
+but forums like this, by show of hands, how many
+of you are interested in going to the moon
+if you could go to the moon?
+Okay.
+<v ->About half.</v>
+<v ->Yeah, about half.</v>
+<v ->About half, maybe about half.</v>
+<v ->Great. Thank you.</v>
+I was just curious. Thanks.
+<v ->Not at all.</v>
+<v ->Depends on price.</v>
+<v ->Depends on price point.</v>
+<v ->That's usually my next question is</v>
+what is the maximum disposable income amount you would
+pay today to go to space?
+And the number that I've gotten mostly is $10,000.
+<v ->$10,000. Hmm.</v>
+<v ->How much would you pay? Maximum.</v>
+<v ->Maximum is 1 million.</v>
+<v ->1 million?</v>
+<v ->Yeah.</v>
+<v ->Wow.</v>
+<v ->Yeah.</v>
+<v ->All right. Thank you.</v>
+<v ->Well, Rika, since you kindly went in uncharted territory,</v>
+let's ask you to talk a little bit about today,
+space to Earth, tangible applications.
+NTT's got a few solutions
+that's either in testing or deployed.
+There's NTT network in a box.
+I think it's probably got a more formal name than that,
+but that's the name I go with.
+And then NTT is part of a very interesting demonstration
+ongoing in conjunction with JSAT, a satellite operator,
+Aalto, a HAPS provider, and trying
+to look at traditional and non-traditional space
+and aerospace solutions to providing connectivity.
+Love to hear about some of the tangible applications
+in terms of how we connect corporate and other solutions.
+<v ->Yeah, and thanks for doing the homework. That's awesome.</v>
+So yes, network in a box. We affectionately call it the NIB.
+It is private 5G, private wireless network in a box.
+So it's about the size
+of maybe the refrigerator you have in your Vegas hotel,
+times two, depending on the size
+of the fridge, but roughly that.
+And the team at NTT Data, we're working
+with SES as a partner around that.
+So Mobile World Congress, we showcase that.
+For any of you going to MWC next year,
+you'll see the next iteration of that.
+But that's all about with MEO satellite
+to terrestrial and backhaul.
+But more specifically, a couple
+of the other advanced initiatives
+that we're working on, are really
+around terrestrial, non-terrestrial connectivity.
+The session before this was about connected vehicle,
+which is one of the use case areas,
+or business case areas, that is of great interest
+of terrestrial, non-terrestrial.
+So being able to use 3GPP standards
+to enable narrow band IoT connectivity in remote locations,
+which of course, SpaceX has already been working on.
+And there's already I think, Chinese entities
+that have been demonstrating 6G direct to satellite.
+So there's a lot of interesting developments
+that are happening around terrestrial, non-terrestrial.
+But the area that I've been spending most of my time on,
+because one of my other areas is sustainability,
+just in general of where sustainability hits the business
+and commercial road, is Earth observation.
+So about three months ago,
+World Economic Forum in Deloitte did a study.
+They said that Earth observation has the opportunity
+to unlock $700 billion worth of value.
+Earth observation has been predominantly
+in the domain of military and intelligence
+for reasons that are around geopolitical
+and just tracking movement of vehicles, people,
+and machinery around the world.
+But really Earth observation is
+around leveraging the advances that are happening
+in remote sensing satellites to be able
+to find commercial applications,
+private sector applications,
+which at NTT we've been looking at.
+We've launched a new group
+within NTT called Marble Visions, which is an ode
+to the blue marble image that was taken
+in 1972 by Apollo 17,
+where the astronauts looked at the earth
+and they said, that looks really fragile,
+and they called it the blue marble.
+And hence Marble Visions is our ode to that.
+And so we're working on a vertically integrated solution,
+which is all around putting satellites in orbit in 2026,
+Earth observation, with some partners,
+and being able to readily capture optical, SAR,
+hyperspectral, multispectral, variety of data images
+around geographic footprints,
+and being able to integrate, institute data,
+so from IoT devices or from machine vision cameras,
+and create a dynamic digital twin,
+which sounds very Star Trek holography.
+But we do believe that that is going to be something
+that will be coming in the very near future.
+And those are some of the areas that we're investing in.
+And for us, when we talk about the space ecosystem,
+it's not science fiction stuff, it's a natural extension
+of what NTT does today
+around connectivity, data, and intelligence.
+So it's a natural extension of that fabric.
+And last summer we announced C89.
+C stands for constellation, Constellation 89 being the name
+that we're giving for all the different initiatives
+that NTT is driving.
+And we spend three and a half billion dollars
+on R &amp; D every year.
+And a part of that is around space and satellite ecosystem.
+So if there's anybody that would like
+to learn more about what we're doing there,
+because it doesn't take the village anymore,
+it takes the whole cosmic, space system to make this happen,
+we'd love to talk to anybody afterwards, thank you.
+<v ->Thank you, Rika.</v>
+Clint, if we can pull on that thread a little bit,
+we'd love to hear some more sort
+of practical, tangible examples of the concept.
+I know AWS has spent a lot of time solving for on-premise,
+edge focused solutions, aggregation solutions,
+localized processing.
+If you could share some
+of these containerized, if you will, solutions
+with the audience, give them a lay person's sense
+of how this is working and connected by satellite,
+I think that'd be very helpful.
+<v ->Yeah, thank you. Happy to do that.</v>
+So I will tell you, four years ago, AWS sort
+of looked out across this industry
+and saw a lot of this growth
+that we're talking about right now today.
+And the first sort of foray
+into the dedicated space mission,
+now we've been supporting space organizations, like NASA,
+at AWS for over a decade, but four years ago we came up
+with a dedicated space focus mission,
+and we launched the AWS Ground Station.
+And the idea behind AWS Ground Station,
+with ground station as a service, was simply, one,
+there aren't enough ground stations out there
+or won't be over time.
+And we're seeing that right now, even today.
+When you look at the number of satellites
+that'll be on orbit in the next 5 years, 10 years,
+the ground system industry will tell you
+that we're concerned about the capacity that we can process
+through all the ground stations.
+So it was an additive value
+to the ground station total capacity.
+But more importantly, more importantly, the value
+behind the AWS Ground Station was
+we built the ground station
+such that they're directly connected into the AWS cloud.
+So we created even four years ago,
+the very first direct connectivity
+from satellite on orbit data into the AWS cloud.
+So Earth observation companies like Capella and BlackSky
+and others that are using the AWS Ground Station have been
+for some years porting their data directly from space
+into the AWS cloud to be able
+to process near instantaneously,
+and get reduced latency, increased security, et cetera.
+So that's one of the things, even going back four years ago,
+we started seeing the need
+for direct connect capability from space into the cloud
+or into data centers.
+Two years later, we partnered with one of our partners
+and friends, SES systems, SES satellites,
+where SES built the first direct connect capability
+from their satellites.
+So what I described previously
+with AWS Ground Station was an Earth observation satellite
+downloading its Earth observation data into the cloud.
+SES is a satcom provider, satellite communications.
+And so we built the first partnership with SES
+where we directly connected their satcom satellites
+into the AWS cloud to let you port any data you wanted,
+whether it was Earth observation or other.
+And so with those direct connect capabilities from SES
+into the AWS cloud, we and SES were able
+to support companies like shipping companies,
+and mining companies, and oil platforms,
+remote locations that typically
+don't have global connectivity are now connected
+into the AWS cloud via satellite.
+And so we've been doing that for a couple years.
+So as we've been exploring basic connectivity
+between space and cloud,
+and have been doing that for a couple years,
+my friend Dr. Lee mentioned, and Dara, you mentioned,
+moving into edge computing.
+So let me touch that briefly.
+AWS has really pioneered edge computing
+over the last 10 or 12 years.
+And basically when we think of edge computing,
+I know a lot of people use the term,
+but the way we think about edge computing,
+if you aren't computing in a data center,
+then you're doing edge computing, right?
+That's the basic definition.
+You're either computing
+inside a cloud computing data center,
+and if you're not computing
+inside a cloud computing data center,
+you're doing edge computing.
+Now, sometime that edge compute might be across the street
+at a business, it might be 20 miles away connected
+by fiber or optical or other,
+or it might be an oil platform
+or a remote agriculture facility
+or an IoT device out on a ship, commercial shipping.
+So for a decade, AWS is focused
+on developing edge computing capabilities.
+In other words, it's too costly and difficult
+for our customers to move their data to the cloud,
+so rather we will push the cloud to their data.
+So we built a whole set
+of edge computing infrastructure with Outposts and others
+that push the cloud infrastructure capability
+to where the data is to make it easier for our customers.
+Our customers that we're talking about today just so happen,
+to operate off the surface of the planet in many ways.
+So as we're thinking about edge computing,
+it's a natural progression to move edge computing
+from off the terrestrial planet Earth and into space.
+And so Dr. Lee mentioned, we did a demonstration,
+an experiment about two years ago
+with our friends at D-Orbit
+where we built a cloud computing package
+that we had to modify, by the way,
+because satellites have SWAP limitations,
+size, weight, and power.
+So we had to build a purpose-built capability
+that went on D-Orbit satellite and D-Orbit launched it.
+And then we ran the experiment for edge computing.
+One of the other thing,
+and as I said, it demonstrated 42% decrease
+in downlink requirements, which saves a lot of time, energy,
+and money in processing unnecessary bandwidth.
+The other tangible example
+that we did, was quite exciting, was we partnered
+with our friends at Axiom Space.
+And on the very first ever Axiom mission, Ax-1,
+last year, year and a half ago,
+Axiom launched what we call an AWS Snowcone.
+A snowcone is a commercial off the shelf capability
+that you can order, you can buy it,
+you can employ it, there's some modifications happening
+to it now, but it has been available
+for commercial off the shelf capabilities,
+and we built that such that it was rugged enough
+that you could put it in the mail
+and send it to remote locations.
+When we built it at AWS, we didn't realize it was so rugged
+we would actually be able to get it
+through NASA's space flight qualification program.
+But we did.
+We spent seven months doing shock, and vibration,
+and thermal, and acoustic testing, and everything else,
+and it passed NASA's requirements
+for in-flight space capability.
+So we launched that onto the International Space Station,
+and we've run a number of experiments with customers
+like SpiderOak and the banking industry,
+and other companies, including in Japan
+that are supporting, JAXA, on what edge computing
+and space means in an on orbit space station.
+So those are a couple of things
+that we've been working on over the last couple of years.
+<v ->Thank you. That's very helpful and a very nice transition.</v>
+Dr. Lee, you've been doing some very interesting work
+in terms of using, you know,
+relatively low cost pedestrian devices
+to connect into IoT solutions.
+Love to hear about what you're doing
+and where you see that going.
+<v ->Yeah, but actually for the space based connectivity,</v>
+just to provide the various application,
+not only the IoT service, also observation data, relay,
+also the 5GNTN or D2D service,
+actually I'm also the CEO of the APSI.
+The APSI, I just would like to do one examples,
+we just manufacturing the satellite mobile phone.
+We just co-work with the direct communication and Inmarsat.
+So nowadays, our partner just suggested,
+why don't you make the MBI IoT
+on the satellite mobile phone?
+We just try to make a certain standard.
+So in the near future, I think, now with the 5G,
+in the near future, we just have the service
+for the 6GNTN, stuff like that.
+In that case, actually space based connectivity just
+provide the 24 hours, 365 days, D2D service, over the world.
+So I think, for this reason that we just try
+to make the certain standard
+with our Korea Electric Telecommunication Institute
+maybe the three years later,
+maybe we be just make our standard
+with the other country.
+So yeah, in the case we just have the more,
+the useful space based connectivity with our mobile phone.
+We just provide the D2D service.
+Also in terms of IoT service,
+in case of the Singapore, also in South Korea, the ministry
+of the transportation, they just try to make some
+of the IoT sensor, whole smart city.
+Or when satellite passed by our country,
+we just scanning whole of the IoT data with the satellite.
+And the satellite just also dropped down,
+drop the whole data to the data center, the ground station,
+and then we just correct,
+then we just analysis those current data
+with the space connectivity service, yeah.
+<v ->Please, Rika, go ahead.</v>
+<v ->Since you mentioned our collaboration with JSAT,</v>
+there is also this, it's not a new technology.
+Optical data relay is not a new thing,
+but in the space sector it's going
+to create some breakthroughs,
+because optical data relay, so we have a partnership
+with JSAT, a venture called Space Compass.
+So it's a joint venture between NTT and JSAT.
+And the idea is to be able
+to do optical data relay in space,
+which will bring down the latency
+and increase the throughput,
+and also obviate some of the challenges we have with RF,
+and being able to bring things back down to Earth.
+So there's the optical data relay innovation.
+And then the other piece that we are also looking at is
+in the high altitude platform system orbit.
+So it's really about a multi orbit strategy and connectivity
+and being able to have sort
+of a high availability consideration across multi orbit.
+So for us, we're working on HAPS,
+high altitude platform system devices
+with, there's a couple of providers,
+you know who they are if you're in the ecosystem.
+And so we do believe that HAPS is also
+gonna bring some very important breakthroughs
+as it relates to the private sector applications
+around, again, remote sensing and Earth observation.
+So I just wanted to make sure I mentioned those things too.
+<v ->Thank you, Rika.</v>
+We're gonna jump into a couple more topics,
+but I was gonna do a pause now
+to see if there's any questions, anything audience wanted
+to add on what we've covered so far.
+If you do, please raise your hands.
+We have lights pointed at our eyes.
+It's a little hard to see up.
+Okay, we'll move on.
+Rika, you alluded to this, part
+of the current explosive growth in data centers
+and AI/ML applications is
+that it's placing some significant strain
+on terrestrial networks, computational resources, storage,
+power generation, and the like,
+how can space-based enabled data centers, compute,
+and other solutions,
+how can that have essentially a positive, innovative sort
+of impact on trying to solve that on the planet,
+and also enables space to space
+and space to beyond type solutions, which may sound esoteric
+and sort of Star Wars now, but may not be as much?
+You wanna start with that Rika?
+<v ->Yeah, the energy consumption that's needed.</v>
+So as I mentioned, when I was at Nvidia
+and we were working on the Tegra chip,
+first it was GoForce,
+which is a discreet GPU on a board in a phone.
+And then we moved to an application processor architecture.
+The problem was the heat
+and energy consumption envelope, which are related,
+because when you have this high compute,
+that creates a tremendous amount of heat.
+So you need energy as well to cool things down.
+So there's a lot of innovations happening in data centers
+to be able to address that challenge.
+But regardless, there is an expectation depending
+on who you talk to, which analysts you talked to
+around this, that the energy consumption is gonna far
+outweigh the ability to provide those energy resources.
+So there's some interesting things
+that are happening in the nuclear energy space.
+So that's coming back up again,
+thinking about how we can meet those demands.
+But in the meantime, some of the other ideas,
+and a couple of interesting startups
+that are working on this and VCs that are funding them, is
+around the idea of being able
+to bring the data center high compute capabilities
+into space, because it's kind
+of cold up there, most of space.
+So except when you get near the sun, but regardless,
+and the sun has a part to play in this,
+because sun can provide energy, right?
+So solar energy, being able to do that.
+So there's some interesting work happening
+on how do we put sort of these micro data center concepts
+that can also have solar panel arrays attached to them.
+And if you can angle these data centers in such a way
+to have 24 hour access or exposure to solar panel,
+now you're starting to be able
+to have the idea of heat sink using components
+and physics that's beyond me at the moment.
+I hope I'll get there soon,
+but it's to be able to use the natural situation
+in space along with the solar energy supply
+to be able to enable the compute that's needed.
+And then of course, it's a matter
+of thinking about the ground station ecosystem
+that also needs to start evolving and taking shape.
+And, you know, I just wanna give a plug to Clint
+and his team at AWS, you know,
+such an easy partner to work with,
+because they're so progressive
+thinking about what do we do together
+to co-innovate around this.
+And so I think it really is
+about bringing all these players together
+that are leaning in to the process.
+And with Blue Origin, by the way, of getting ready
+to have a milestone month, I'm sure
+that Amazon in general is very excited
+about what the future is going to hold.
+But data centers in space, by some people's estimates,
+is going to happen within the next, you know, five
+to 10 years potentially.
+And so, it starts to relieve some of the demands
+around energy and some of the heat issues.
+Also from a cost perspective,
+there are some calculations that are done.
+If you just look up cost of data centers in space,
+you'll find some calculations
+that have been done about the total cost of ownership
+of running data centers in space, is apparently much less
+than if you're trying to build it terrestrially.
+So we'll see how this all, how the dust settles on it,
+but it's a pretty sexy cool area to keep an eye on.
+<v ->Yeah, if I can piggyback on that, Rika,</v>
+and thanks for the kind words,
+and NTT is a wonderful organization to work with as well,
+but as we think about data centers in space,
+micro data centers, you made a good point earlier.
+You know, we shouldn't jump directly to, you know,
+we think about a very large scale data center here on Earth
+and what it looks like and suddenly we're trying
+to lift that into space, that has all sorts
+of issues associated with it.
+However, when you think about micro data centers,
+you could have a single satellite
+or a 10 ball constellation of satellites
+that could in fact serve the basic function
+of a micro data center in space depending
+on what the use case is, right?
+So you start small based on the use cases
+and you grow from there.
+And that's focusing on the space
+for Earth capabilities that you were talking about.
+Now if I turn my lens and I think about space for space,
+so the space economy, as an example,
+right now today NASA's perseverance Rover is operating
+on the surface of Mars and it's beaming data,
+And it's being processed on the AWS cloud
+so that the rover can be given instructions on where to go
+and where to drill and what analysis to do
+in its next set of passes.
+Think about that, a 300 million mile journey from Mars
+to the earth to process the data to send it down
+to Mars again, as we grow all these future missions,
+again, human encampments on the moon,
+human encampments on Mars,
+asteroid mining, in-space manufacturing,
+we simply cannot afford to port all the data back to Earth
+and process it and then push it back to space again.
+We're going to have to have cloud computing
+and advanced technology capabilities available on orbit.
+And so that's what starts to look like micro data centers
+on an international space station
+or on an Axiom space station, my friends at Axiom,
+or amongst the first set of infrastructure
+and habitat on the moon as we do human encampments,
+how do we store and process data on the surface
+of the moon rather than having to port it back?
+So these things have a number of areas
+where they all tie together
+and come back together again, which is really interesting.
+Rika also mentioned optical,
+which I think is just a really exciting technology,
+and we're gonna see the optical industry grow
+by leaps and bounds in the coming years.
+Not only optical inter satellite links,
+but optical space to ground links,
+because of the data requirements
+and improvements as you described a moment ago.
+So that's one that we're very excited about,
+but my friend, Dr. Lee, mentioned as well,
+direct to device capabilities.
+And then you start to think
+about the virtualization requirements for direct to device.
+And this is where optical and micro data centers
+and direct to device and virtualization all comes in,
+because we can't live in the same environment in the past
+where we hardwired radios to satellites
+to ground systems, right?
+We won't be able to interop from GEO to LEO to MEO
+from IR to SAR and every, from satcom.
+And so we're going to have to continue
+to develop more software-defined radios,
+software-defined networks,
+software-defined network management,
+software integration systems,
+and we're working a number of those at AWS.
+So those are some of the underlying technologies
+that are gonna be required.
+And then finally, my friend, Rika, mentioned digital twin.
+I just wanna make a quick note on digital twin.
+We believe digital twin is going to be critical
+to managing all of these networks for the future.
+You're talking about making a digital twin of the earth,
+which can be powerful in so many ways,
+but now think about the micro data centers,
+think about the satellite connectivity,
+think about the earth to space systems,
+the ground link systems,
+all the satellites that'll be interconnected.
+And how do you simulate that? How do you virtualize that?
+How do you visualize that? How do you orchestrate that?
+How do you optimize that for optical interface
+amongst all those device?
+And so we're doing a lot of work building out digital twins
+of network capacity that's modeling between constellations
+and ground stations, and ground systems,
+and multi-data paths,
+so that we can leverage digital twin capability
+to make the best decisions about how to build
+and operate those complex multi systems.
+And that's really exciting too.
+<v ->Collision avoidance.</v>
+<v ->Collision avoidance, I mean, again, when we talk</v>
+about there's some 9,000 satellites on orbit today,
+and we're gonna have 50 to 100 satellites on orbit
+by 2030 depending on the study, the sheer magnitude,
+and by the way, time, latency requirements, right?
+You can't afford, when you quadruple the number
+of satellites on orbit, you can't afford
+to do all your orbital deconfliction on the ground in two
+to four hours when you're talking about that number
+of satellites suddenly operating
+in essentially the same space.
+Now space is big, I get it.
+But we have to be really careful
+about space flight management,
+if we're gonna ensure space is sustainable
+for the future and ensure sustainability.
+<v ->Yeah, if anyone's flying United back or anytime soon,</v>
+there's a documentary called "Wild Wild Space."
+I highly recommend you watch it,
+and please don't start freaking out
+when you hear about the Kessler effect.
+I'll just leave that there. So.
+<v ->Yeah.</v>
+<v ->Thank you, Rika.</v>
+<v ->Space is still big, but it's gonna get smaller</v>
+and smaller as we proliferate more
+and more satellites on orbit,
+and digital twins, virtualization, network management,
+reduced latency and on orbit processing in many ways,
+automated threat detection,
+automated collision maneuver avoidance,
+are gonna be key to the future.
+<v ->Thank you.</v>
+For those of you interested in, you know,
+the reality or soon to be reality
+of in-space processing data centers,
+look up a company called Lumen Orbit.
+Look up the EU's program called ASCEND,
+which is a live study with Thales Alenia Space
+to see how quickly this can be deployed.
+We're out of time, but I would like to wrap up
+with one very short answer from each one of you.
+You're in Vegas. This is where people make wishes.
+Take some gambles, things happen, they don't.
+Your wishlist, a single technology
+or a single innovation that you think will be a game changer
+for the role of space and satellite
+in enabling compute data centers or the cloud.
+Let's start with you Dr. Lee. Short answer.
+<v ->Short answer is,</v>
+how can I say?
+How can we just try
+to design and manufacture in the new rocket
+to launch the in-space data center, yeah?
+<v ->All right, so better, cheaper,</v>
+more powerful access to space.
+<v ->Right.</v>
+<v ->All right, Rika?</v>
+<v ->I think it has to be an agentic AI touchstone that is able</v>
+to parse all the data that's gonna come from remote sensing,
+Earth observation, that will tell industries and companies
+and governments how to manage for climate resilience.
+<v ->I agree with both of those answers.</v>
+I think those are wonderful answers.
+My head initially went to what we're spending a lot
+of time on at AWS, and that's generative AI
+or generative artificial intelligence.
+We are in early days of AI, just basic AI, right?
+Traditional AI, we're in early days, and it blows me away.
+It's extraordinary the ways that NTT, and Contec,
+and other companies are starting
+to use capabilities like AI, ML,
+and now we think about generative AI,
+which is AI on steroids
+and the ability to develop wholly new concepts
+and thought processes with our artificial intelligence.
+That's super exciting for what it portends for the future.
+<v ->Thank you.</v>
+Well, audience, please join me in thanking Sunghee, Rika,
+and Clint for this wonderful panel.

@@ -1,0 +1,937 @@
+<v Chris>Thank you so much for stepping in</v>
+for our Next Level Innovation session.
+Mr. John Ellis, president of Codethink.
+And as I mentioned in the first session,
+for those of you who are here,
+this is our 25th anniversary for Connect2Car
+and pretty excited about a lot
+of the panels we have looking out to 2050.
+John gave us a pretty interesting, for those of you,
+how many of you were here
+for last year's sessions and saw John?
+Okay, so there were a couple of people in here
+that was a pretty interesting presentation.
+There were horses
+and there were battery powered cars in 19 what, John?
+<v ->Uh, wow, 1910.</v>
+<v ->Yeah, 1910.</v>
+So this isn't the first time we've tried it,
+but I met John when he was
+doing some really interesting things at Ford at the time,
+and he spoke at Connect2Car
+and we were having some issues trying to connect
+some of our aftermarket devices to the OEM
+and I mentioned we were having problems
+and John was like, "Well, what's the problem?
+"We can fix that."
+And we've been friends ever since.
+So John, I really appreciate you doing this.
+I'll let you introduce your panelists
+and we'll get this day rolling.
+Thank you so much.
+<v ->Thanks Chris.</v>
+Happy holidays. Happy New Year.
+Welcome to Las Vegas.
+So Chris said, my name is John Ellis and I'm really thrilled
+and delighted to be here again
+on the stage at Connect2Car with you,
+but I'm more thrilled to be joined
+by some esteemed colleagues and friends
+and I'll introduce 'em quickly.
+And then I'm gonna do some level setting
+of some rules about our conversation.
+So to my immediate right is Madison Beebe
+from Ford Motor Company,
+an American OEM and provider
+of the number one selling car in the US at this time.
+To her immediate right is Jonathan Moore from Exida,
+probably renowned for the leading cybersecurity
+and safety assessment company.
+Next to him is Sabina Schneider from Globant.
+Globant is a global digital IT services company.
+We're pleased to have that conversation.
+And then last but not least to her immediate far right
+is Joseph Perry from Sony Picture Entertainment,
+a global content provider.
+So we have a cast of characters with a lot
+of different context backgrounds.
+And as we begin talking about what we might want to do
+as we talk about next level innovation was we came up
+with a few different things that we're gonna do today.
+First, we're not gonna take any questions from the audience,
+we only have 39 minutes.
+Panelists will be available afterwards
+and they will also be available tonight at the Cavesa event.
+And they will be available
+throughout the course of the week.
+If you use the app,
+you can get ahold of them if you have questions.
+Number two is each one of them
+is gonna represent the context that they're coming from
+and this is gonna be sort of like a bar conversation.
+So while we might not be looking at you or the camera,
+we are aware of you,
+but we're we're just five folks here
+trying to talk about innovation through a lens
+of some future context, whether it's five years, 15 years,
+2050, 2070, whatnot, okay?
+So again, thank you so very much for joining us.
+Appreciate you being here.
+Look forward to following up with you all afterwards.
+And with that, let me start.
+Okay, friends, here we are.
+Got our drinks.
+Alright, so I asked a question earlier,
+I'm gonna ask it again.
+Next level innovation 2040, 2050.
+I, last year was talking about 2050
+and I talked about some things that had to happen.
+But let's start with you Madison.
+What do you foresee 2035?
+So 10 years from today, 2035,
+and maybe even up to 2045.
+<v ->Yeah, I think we need to start with the perspective</v>
+of the consumer and customer expectations
+because during that timeframe,
+you're gonna have a wide variety and growing awareness
+of technology in the purchases of the vehicles.
+More familiar with technology,
+higher demand for seamless connectivity
+and experiences from your apps to your, sorry,
+from your phone to your car,
+potentially to other methods of transportation,
+whether it's your e-bike,
+your Uber, or even your home, right?
+So you have a highly educated consumer first of all.
+And then depending on the region,
+it's addressing the range anxiety is still a thing, right?
+So I'm expecting evolutions
+in the performance of batteries.
+I'm expecting an evolution of the consumer expectation
+from seamless connectivity,
+seamless experiences
+that are continuously updated over time,
+but something that helps me transition from home to car,
+to work to play.
+And then through that, not just from a battery perspective,
+but there's a shift from consumers feeling comfortable
+with EVs to going full in and that being their only car.
+So it's connectivity, it's experience,
+it's long range EVs or EREVs right?
+But beyond that, you have this massive
+internal electrical architecture revolution.
+And that varies if it's a startup, if it's a new EV company
+or if it's a legacy OEM like Ford,
+where you not only have current vehicles in production
+that you have to maintain over time,
+but you have next generation
+electrical architecture development and the tuning of that.
+So I view the internal innovation as just as important
+as the experiences to develop new things at speed,
+at velocity, at high quality, you know, automation testing
+and all the DevOps infrastructure
+that enables that innovation.
+<v ->So building on that conversation, Joseph,</v>
+I want to come come over to you
+and ask you the following question.
+So experience has obviously played deeply
+in Madison's conversation and you know,
+Ford a hundred and almost 125 years now in the making,
+question that is Sony Pictures Entertainment,
+Sony, I mean, we've had movies,
+we've had content for a long period of time.
+We start with, you know, silent films.
+We've moved up into where we're at,
+where do you see the content evolution occurring
+such that consumption in 2035, is it immersive?
+Is it three?
+Where are we or where do you see coming from Sony
+where that might ultimately end up given the role
+that you're playing in trying to bring content to vehicles
+and feel free to make this a global,
+like if there's regional differences,
+by all means, feel free to point on that.
+<v ->Yeah, exactly.</v>
+So I think before I deep into your answer,
+dig deep into your answer,
+I'd like to kind of comment on something
+that she just mentioned, customer expectations.
+And I think that's real important.
+I think customer expectations right now
+is that they should be able to watch their content
+from their different various services in their vehicles.
+And that currently is not available
+in majority of the vehicles.
+So let's start off with that.
+That's the basic minimum of what consumers expect,
+but where we expect to go from there,
+Sony pictures as well as
+other particular entertainment services.
+We think about the future of
+what those immersive experiences looks like,
+and along with the technology
+and the capabilities of the technology
+such as the APIs that are being developed,
+available inside the vehicle to create experiences
+that are actually, you cannot duplicate inside the house.
+You can't sit inside your living room and drive down,
+let's say the 15 here in Las Vegas and move around the car
+and then maybe have a content experience that reacts to
+that particular momentum
+or to be playing a game inside of a vehicle.
+Sony has groups, has other gaming companies as well
+that would react to that.
+So I think taking the basic expectation of being able
+to access my content in my vehicle
+or wherever I am in a way that interacts
+with my environment is where we're gonna go in the future.
+And I think a leveraging the technology that enables
+that experience is where
+we're gonna see in the next 10 years.
+<v ->So I want to, I'm gonna get to Sabina in a second here,</v>
+but I want to jump back to you and ask you a question.
+So are we ever moving away
+from the single vehicle ownership model?
+Are we moving away?
+Because if we're gonna really enable the services
+and experiences that Joseph just talked about,
+I don't see drivers necessarily being able
+to take advantage of that equally.
+So where do we get to from,
+say an OEM's perspective broadly?
+You don't have to talk about Ford just broadly
+to enable passenger awareness,
+passenger content, not driver or owner content?
+<v ->Help me clarify real quick.</v>
+When you say passenger content, you?
+<v ->Well, not the driver.</v>
+So anybody who's not driving the vehicle.
+So you have, right, you're in the car.
+So some of the things that you were talking about
+just very cool, like, you know,
+and awesome except that it takes away
+from being able to drive in safety.
+So we now have to worry about
+what's the rest of the occupants of the vehicle?
+Yeah, sorry, non-driver.
+<v ->That makes sense.</v>
+I think you were spot on, right?
+You have, if you're a single person, one car,
+you're optimizing for safety
+and the driving experience, right?
+If you have a family, you have kids in the back,
+you wanna entertain them, even in different markets
+where many of the people use their vehicles
+for a form of relaxation, right?
+You park in the garage, relax,
+you wanna have that connected experience
+that you can actually evolve the vehicle
+into more of a habitat on wheels type of a vibe.
+And one of the things kind of aligned to what you're saying,
+but in addition to the connected experiences,
+it's more of the personalization of the vehicle.
+So it's not just used for driving,
+but it's like the physical aspects
+of if it's a connected accessory,
+a physical accessory for camping, for some adventure,
+I think maybe the demand right now, especially in the US,
+might not be so large for that type
+of habitat on wheels environment.
+Certainly in other regions
+it's very pervasive and high demand.
+And I think the vehicle will evolve to have to deliver
+those seamless experiences, not just for the driver,
+but for all the passengers in the vehicle.
+<v ->So Sabina, conversations that we've had</v>
+over the last couple of weeks
+as we've been sharing our love of Latin America
+and software and services,
+everything that Joseph and Madison are talking about,
+we can imagine, absolutely.
+But it is deeply, deeply seeded in software.
+<v ->Sure, yeah.</v>
+<v ->Is this industry broadly, automotive,</v>
+are we ready for it?
+Are we there yet?
+And I mean broadly, right?
+There are elements, there's the traditional,
+as we called it, OEMs.
+There's the startup OEMs.
+We have China, we have Asia, we have other,
+so OEM is not equal to everyone,
+but is the industry broadly ready for this?
+And does it understand what that
+challenge really looks like?
+<v ->I think it's a very important question.</v>
+And before answering the question,
+I was dreaming about the experience
+that we can have at the car.
+If you are thinking more about 35 years from now,
+even hundreds years from now, we were talking about,
+you were talking last time about horses a hundred years ago.
+So really thinking ahead
+and probably I'm cutting it short,
+but I think that the autonomous
+and the electric vehicles are going to be
+like a commodity at the time, a hundred years from now.
+And the experience inside the car,
+to your points, both of you,
+is going to be the differentiator between the brands,
+which is a brand that is offering smooth drive.
+The entertainment inside the car
+is going to be very important
+because as this is going to be more autonomous,
+I'm thinking more about the Disney movies,
+about capsules driving themselves throughout the country
+and getting you to one point to the other
+without even hesitating, that's the objective
+and is going to be fulfilled very easily.
+So having that in mind, it's a lot.
+And going back to your question,
+AI is going to be core in the technology inside the car.
+Cybersecurity of course is going
+to be very important in order to make sure
+that the car runs smoothly.
+But above all, I think that to achieve that,
+I don't see all the ecosystem being ready
+to jump into something like that.
+It's a very challenging envisioning
+that we are putting in place
+and that really requires the architecture to be
+flexible to enable this type of technology inside the car
+and also in the manufacturing of the car.
+So I think that it involves a massive,
+profound, to your point, Madison,
+inside transformation in order
+to make sure that we are ready for those technologies too,
+like you mentioned, DevOps,
+continuous deployment is something
+that is one of the key points in technology in order
+to achieve something like this type of envisioning.
+And we are still struggling with with that I think.
+<v ->So.</v>
+<v ->Sorry and legacies.</v>
+<v ->No, no. Yes.</v>
+<v ->Legacies</v>
+<v ->And what?</v>
+<v ->Legacies.</v>
+<v ->Legacy, okay. Yeah, yeah.</v>
+<v ->Sorry, it's about thinking technology</v>
+away from the traditional IT organizations.
+It's not the traditional IT that of course is needed
+for the manufacturing
+and everything to get like the standardization,
+don't get me wrong,
+but what we are talking about the experience inside the car,
+it involves a different technology,
+flexibility, scalability, and more consumer centric
+that is not the traditional IT for sure.
+<v ->So software's product now.</v>
+<v ->Right, yes.</v>
+<v ->It's actually a product deliver.</v>
+<v ->Yes.</v>
+<v ->Yeah.</v>
+So then that Jonathan brings me to you.
+And so as I build off everything
+you've just heard from Joseph, Madison, and Sabina,
+the first reaction that I have and question for you is,
+is the industry ready for software
+that is now a product in the car?
+Where are we at in terms of sort of state of the art today?
+Where might we need to go in terms of innovation
+inside of how do we know that we can trust or that we can,
+that we actually can use that,
+which they've just talked about this amazing thing,
+but coming from an industry that is not historically
+software focused, where are we and where do we need to go?
+<v ->Well I'm sure everyone's thinking</v>
+what is a safety engineer doing at the leading innovation?
+<v ->Because he's a friend of mine.</v>
+He's a friend. Yeah, that's why, yeah.
+<v ->And of course safety is regarded</v>
+as one of the business prevention units
+in most companies, right?
+You might as well have a sign on the door that says,
+"The answer to your next question is no," and-
+<v ->What about the question after that?</v>
+Also no?
+<v ->Yes.</v>
+Those silos are becoming ever more entrenched.
+The standards get bigger.
+The words that we have to read get more every year
+and ultimately safety comes down to who you trust.
+And software couldn't be a more abstract thing
+to put your trust in.
+Mechanical engineering,
+which has been the dominant force in automotive,
+is very easy to trust.
+You can look at it and you can see how thick the metal is
+and how strong the things are.
+Software you have no idea where on the planet
+that software was created.
+And being able to trust software is crucial.
+And which software do you trust?
+And I'd love to see a button on my phone that tells me
+whether I can trust my car for the next journey.
+And how does a blind person trust the car is safe?
+We're gonna be transporting
+a whole new section of society, children.
+There are gonna be parents
+who want to put their child in the vehicle
+and send them around the block a few times
+because it sends them to sleep.
+How do they trust that software?
+So trust is at the heart of it.
+And unfortunately the standards are mired in ancient dogma
+from the 1980s where the software was written
+by electrical engineers,
+not by competent computer engineers
+who understood how software works
+and maybe didn't spend all of their time thinking like I do,
+about how it can go wrong,
+but spend enough time putting tools
+in place to prevent that.
+And so we need a huge upgrade in how we trust software
+and what we do in order to achieve that trust.
+And for me it's an existential threat to my organization
+because we make a business out of periodically reviewing
+the work you do and maximally,
+we can do that about every six months.
+And yet with the rate of change
+and the number of recalls that are being suffered
+by automotive OEMs today,
+it's clear that we need to provide that assessment daily.
+And yet most software safety engineers
+want to hide away behind their sign that says no
+and don't want to get involved in solving the problem.
+So I'm here to encourage people to get involved
+and want to understand how things can go wrong
+in order that we can convey to our customers
+that they can better trust our product and your product
+and the claims that we make.
+<v ->Sorry, John one point.</v>
+<v ->No go. Yeah, go ahead.</v>
+<v ->Follow up.</v>
+I like how you stated to trust the software
+and even more so with AI coming inside the car,
+what do you think that trust can be fulfilled in a way?
+<v ->Well, I think it's fairly clear</v>
+that the uses AI are being put to today
+are just a bullshit generator.
+You take crap in and you regurgitate it.
+And from a safety point of view,
+something like an AI that's got at best an 85% success rate
+is just not even close to being something
+you'd want to trust your life in.
+It's okay to win a game of go,
+but would you trust the outcome
+of the next game of go to your life?
+And most people would have cause to think about that.
+And if you're basing your large language model
+on the information that's publicly available
+on the internet,
+of course we all know that the vast majority
+of that information is written
+for reasons other than accuracy
+and contains information other than unbiased fact.
+And of course that's a big influence
+in the results of the language models.
+Now, no doubt given 10 years,
+there will be solutions to that.
+But again, it's gonna come down to trust.
+Which language model are you going to trust?
+The one that's trained
+on marketing and advertising click generation?
+Is that really the right model to be using for safety?
+And a lot of people
+don't really know the answer to that yet.
+<v ->They don't know or they're not willing to accept it?</v>
+<v ->I know the answer to that.</v>
+<v ->Alright, so Joseph, you've heard this.</v>
+I could see what people don't know in the audience.
+You are with me, an alum of Ford Motor companies.
+So we have automotive in our,
+I don't have it in my blood,
+but I think you do have it in your blood as you claim.
+But now in content and hearing what we just talked about
+and where things are at,
+what does that bring when you have conversations like,
+I'm gonna bring content into a vehicle.
+I came from a vehicle group so I understand the dimensions
+of the problem safety and others,
+but yet at the same time I'm here to make experiences.
+Creative, consumptive artistic experiences happen
+whilst you're in the vehicle.
+How do you balance or where is Sony Pictures
+or maybe just you personally,
+where are you finding yourself in trying
+to balance both the ask from OEMs or the ask from Sony
+and the ability to deliver into that environment?
+<v ->Well, I think it's not necessarily</v>
+a challenge specific to Sony,
+but I think it's a challenge
+that we have multiple industries
+that are now in a relationship
+that didn't used to have a relationship
+and that has created a whole new set of challenges
+in terms of how we work together,
+what our processes are, what our workflows are,
+and integrating those two within those different industries.
+So I think that is something going, speaking about trust,
+I think that kind of feeds into that trust issue.
+It's not so much when I talk to a lot of manufacturers,
+when I talk to people in the industry
+or even just consumers,
+everybody wants content in the vehicles,
+everybody wants these emerging experiences.
+But a lot of the feedback is,
+hey, we're just trying to stabilize our platform right now
+just to be able to support the services
+that we have to have.
+And if we start introducing
+all these additional other services,
+our concern is being able to manage
+all these changes at the same time.
+So I think that is a really big concern with how we do that.
+So how to operationalize that.
+And then one of the other things that I think
+that came to my mind as we were just talking
+is that when you have all these changes,
+it takes so long right now
+for some of these things to get corrected.
+You mentioned the recalls.
+You know, I have had an issue just
+with my simple wireless CarPlay in one of my vehicles
+that has not worked right in a year.
+<v ->Yes.</v>
+<v ->I mean that we can't even get that fixed, right?</v>
+And Apple's a company that, you know, embodies trust,
+but I don't trust Apple when it comes to CarPlay
+because I know that the technology struggles
+and then you've got a challenge with the industry experts
+and the retailers, the dealerships,
+and they're struggling with it too.
+So being able to fix all these things
+where we can respond better, we can have workflows better,
+we can have processes better,
+I think all of that is gonna be necessary
+to get people more comfortable.
+<v ->Excellent, so I wanna tap on something</v>
+and feel free, I've not, this is gonna be,
+we're in the brand new space here, so feel free to say,
+let's pass on to the question,
+but what kind of innovation would we expect
+to see in dealerships or at the point of sale?
+Maybe just forget dealerships, at point of sale.
+If I'm a consumer 20 years down the road,
+am I still going to a physical location?
+Am I still interacting with someone?
+Like how might we imagine the car
+actually suddenly being actually purchased
+or being acquired?
+Do you have a thought on that?
+<v ->I mean, quite frankly,</v>
+this is a bit out of my realm at Ford.
+<v ->Okay.</v>
+<v ->I do think that you touched on a few great points around,</v>
+you know, it'll tie into this
+in terms of collaboration and how we work together.
+When you talk about operational models
+across the supply chain, they're, I wouldn't say broken,
+but they weren't established under the framework
+of a truly software defined vehicle
+or software as a product, right?
+So when you talk about collaborative models
+and even how we improve the point of sale,
+there is a large opportunity for improvement
+of how the OEMs collaborate with our supply chain,
+how we integrate together,
+how we integrate into our common build pipelines, right?
+To manage that continuous deployment of new content.
+But that also helps with the point of sale interaction
+'cause you're ensuring that the vehicle is
+as its intended state at the most fresh state
+with the best and most recent content.
+Things like that.
+I think I'd have to pass personally
+on the point of sale interaction.
+<v ->Okay. Yeah, no, that's fine.</v>
+So one of the things that Jonathan,
+also an automotive background before into safety.
+Madison just talked about the contracts
+and the collaboration model having to change
+as did Joseph, et cetera.
+You and I have had a long conversation
+over many, many months where the historic contracts
+for suppliers were very steeped on hundreds
+of pages about the physical building,
+the ability not to delay the plant
+very little into software.
+And now however, software is in fact
+some of the most increasing reasons
+why either the hardware product is delayed
+or the car is built out of the factory, but then can't ship.
+Given where we're at in terms of either the safety industry
+or our culture of trust for software, how do you see us,
+what innovations have to actually happen do you think,
+in order for us to actually
+not only solve the problem but get ahead of the problem?
+<v ->Well, the trust model I'm afraid,</v>
+starts when you walk into the dealership
+and not many people trust the dealership.
+And there's not very much transparency there.
+Not many people are sure they've got a fair price
+for the vehicle having paid for it.
+The information you're expected to read
+and sign in many cases is longer than the Magna Carta
+and the Magna Carta is sufficient
+for the whole of the UK to declare freedom.
+And if now I've got to go into the dealership
+and believe I don't need airbags
+and I don't need crash protection
+because the car's not going to crash
+'cause it's got crash protection software.
+So a very long way you've got
+to bring people in a short period of time
+to persuade them of that.
+And of course you think about cars
+over the last even 15 years,
+the widths have increased,
+the weights have increased,
+the current consumption has increased,
+and all of that is the exact opposite
+of what you need for an electric economy.
+So at some point we have to reconcile
+the safety improvements we get with safety,
+with all these potentially unneeded safety features
+that have evolved in the car that clearly
+and demonstrably do a good job of keeping us safe.
+And it's got to start with that initial experience
+that you have with the people
+that you hope are going to buy your product.
+<v ->So everything you just touched on,</v>
+so Sabina, again steeped in software,
+where do you see globally,
+so you're from Argentina, currently now in the States,
+but Globant is international,
+like, where do you see regionally,
+like, are we globally prepared for this?
+Not forget even just the automotive OEMs,
+we just talked about the OEMs, but we have supply chains,
+we have others that are part of a supply chain
+that's bigger than just automotive.
+Are we ready to actually do the kind of innovation
+that are being asked of?
+So powered by software in the context of this arena
+being a very safe or trustable vehicle experience on a road.
+Are we there?
+<v ->I think there's a long way to get there</v>
+from I think what you're referring
+on the contracts put in place for the providers,
+the IT providers.
+I see that many of them
+are mostly for the traditional providers, the IT areas,
+but not for the innovative,
+the customer centric type of thing,
+or building the experiences, as you say,
+from the dealership up to the OEMs.
+I think there is a lot of work to be done there.
+And even I think that we can think about
+a different operational model inside the companies
+where you can get that specific innovation,
+that type of consumer centric IT software development
+in a different way because it is,
+it's a different type of product centric thinking,
+more UX experience for the customers,
+for the dealers as well.
+So how to build that ecosystem of collaboration
+from the digital standpoint
+requires a different standpoint on the contract,
+the architecture, the organizational,
+and how you measure the success of those developments
+is different to the more traditional IT areas, I think.
+<v ->Okay, but I don't wanna let let you off the hook</v>
+with just sort of the framing.
+I want you to offer if you're willing to like,
+how ready are we?
+Are we?
+<v ->Oh, we are not. We are not.</v>
+<v ->Okay.</v>
+<v ->No, no.</v>
+We are far away from ready, I think.
+<v ->Far from ready?</v>
+<v ->Yes.</v>
+<v ->Okay. Are we like, ready in my lifetime?</v>
+<v ->Depends on how-</v>
+<v ->How long I live?</v>
+You're right, you're right. Yeah.
+<v ->No!</v>
+<v ->I'm at the, for those in the audience that know me,</v>
+I don't have a long expectation.
+<v ->No, no, I-</v>
+<v ->Too much drinking.</v>
+<v ->I wish you long life.</v>
+<v ->Yeah, yeah, I know.</v>
+Thank you. Yes, yes, yes.
+But for those in the audience that know me, it's not,
+they're surprised I'm still here.
+That's what they're really surprised I'm still here.
+<v ->No, it's the willingness to change.</v>
+I think the willingness to see a different mindset
+inside the organization,
+a willingness to get quicker cycles of development
+inside the companies.
+So that requires a different operational model,
+different architecture again.
+So, but it's the willingness to change that.
+And you don't need to change the whole organization.
+You can, as with any digital transformation,
+you can set aside our organizational group
+that is set up for success, for that development.
+And then from getting those results,
+you can start seeing what of those process
+you can ingest in the organization,
+but not really thinking about a massive organization
+that will take like forever to do,
+but thinking more about building different MVPs,
+testing like a more agile approach
+to the software development without thinking
+about the Pharaonic transformation overall,
+which, sorry, I've seen many of those
+Pharaonic transformations that is not going anywhere.
+The business gets super frustrated
+and they stop the investment
+and then you stop the transformation,
+which is what you need in order
+to continue having a good experience for the customer.
+<v ->So Joseph, and I will ask through the lens of Sony,</v>
+but it's really content creators broadly
+coming from a different mindset,
+strong software or strong content creation,
+which probably maybe a much longer storytelling
+and narrative of software and the creation of,
+are you finding to what Sabina talked about,
+the willingness in the collaborations to,
+can Sony offer insights to how to move faster,
+how to change faster?
+Or any of your co-creators?
+Again, I don't,
+you don't even have to talk about your competitors, but.
+<v ->Yeah, and I don't think it's just, it's with Sony,</v>
+I think it's with all the stakeholders
+that are gonna be partners in bringing these services
+and experiences in the vehicle together.
+And I think I like this idea of having an agile mindset,
+but not only in terms of the product development
+or the technology development,
+but really for the whole operating model
+in terms of the business model, how we partner together.
+We have to work differently
+within these different frameworks
+and we cannot wait until it's done or built
+because our grandchildren will be sitting here
+still trying to figure it out if we wait that long.
+So we have to start,
+we have to start now with the small pieces,
+with the small steps
+and then that's our roadmap to get to where we need to be.
+<v ->Excellent.</v>
+So Madison, given what Jonathan talked about in terms
+of the inverse relationship of size of vehicle,
+weight of vehicle going into electric,
+giving sort of technology roadmap being place
+that you sort of occupy, where do you see,
+what do you see an electric vehicle
+either looking like, touching like,
+feeling like in that 15 year timeframe?
+Is it lighter?
+Is it heavier batteries?
+Is it fully consumptive?
+Like where do you think,
+and again, just more broadly,
+where do you think that we as an automotive industry
+will try and head to?
+<v ->Well, I think coming from Ford,</v>
+we have a bit of a unique perspective
+because we have an electrified F-150,
+which is at the high end
+of the weight power, you know, scale.
+And then we have a Mach-E, which is a crossover essentially.
+So I think-
+<v ->They're both awesome vehicles.</v>
+I'm driven both. They're awesome.
+<v ->Yeah, I have a Lightning, absolutely love it.</v>
+So I think it's gonna be,
+well I think it will vary based on
+whether you're talking about
+a Tesla, a Rivian, an EV startup,
+or you're talking about an OEM with a very broad portfolio
+and if you look at the distribution
+and the applicability of an electrical architecture
+and you're managing ICE, EV, PHEV,
+potentially EREV, long term,
+like from an OEM with such a broad portfolio,
+you have to consider cost, weight, power,
+but also the scalability of your platform
+to the breadth of your portfolio, right?
+So that's one challenge there.
+From a long-term perspective,
+I think we're gonna see higher performance batteries.
+I think we'll see some mid-range
+of a combination of plugin, hybrid EV and EREV,
+especially depending on the region
+in terms of infrastructure, charging infrastructure.
+I personally took a drive out into the desert
+with my Lightning and my main concern was,
+is there going to be a charger available to me?
+Is it going to be open and is it not going to be broken?
+So I think there's gonna be an evolution in optimization
+of the architectures that we have today
+to span the breadth of your portfolio.
+I think we'll see more higher performant batteries,
+lighter weight, higher power,
+but the mix of EV and EREV together.
+And I think that has to be coupled with investment
+and evolution in the infrastructure,
+especially in areas in the US
+where it's either difficult to find,
+difficult to access or they're damaged.
+<v ->So Jonathan, how do you,</v>
+having heard what Madison just shared in the variants
+as a safety person thinking of software, how do you,
+how does that make you feel?
+<v ->Well, thankfully we're not trying</v>
+to dismantle nuclear bombs.
+That's a good starting point.
+There are far riskier, far more areas
+that result in far more harm
+than automotive will ever have to deal with.
+So the technology, the solutions already exist there,
+but scaling them to automotive
+is of course always the difficulty.
+And you know, I'm sure Madison would like
+to talk about 10 exciting products like the Lightning,
+but of course we're limited
+by how quickly we can scale our engineering
+and design process to deliver that.
+We've got a finite number of people
+that we can afford to do that work.
+I'm thrilled to have given Red Hat a certificate this week
+for a big component of their upcoming open operating system.
+Certainly openness is going to play a crucial part.
+What I really like about open software
+is that the politicians can't do anything about it.
+We can play around the world
+to the best of our human ability in the open.
+And of course there's the trustable framework at Codethink,
+which is the only,
+is the only initiative I'm aware of
+that's even aware of the need
+for trust in the entire software supply chain.
+So I'm quite excited about that.
+I'm an engineer,
+so I'm a little bit more excited
+about our ability to solve these problems,
+but openness and trust are gonna be crucial in that.
+<v ->Excellent.</v>
+<v ->Sorry, I have a reflection on what John was saying.</v>
+I think that's a very important point
+about the crowdsourcing of the development.
+If we are thinking about all these very good ideas
+of where is the vehicle going in,
+I don't know, a hundred years from now,
+I think it's almost impossible to think
+that only one team can solve these type of experiences
+and the creative power is better if we can boost
+and have the architecture safe, of course,
+and scalable to allow different developers
+to bring the applications on the car.
+But that requires a good infrastructure
+in place right there, good architecture.
+<v ->Excellent, so we have four minutes left.</v>
+I know the time has been so fast.
+I'm gonna give each of you, we hadn't talked about this,
+so audience, this is a surprise,
+each of you, one minute public service announcement message
+starting with you Joseph,
+what do you wanna leave the audience with
+about the topic of next level innovation
+or about Sony Picture Entertainment
+or about your thoughts
+on where we are of vis-a-vis innovation?
+I'll ask each of you then to go in one minute each.
+<v ->I think I would like to leave with the fact</v>
+that I think we are starting now.
+I think you've seen some
+and even announcements as recent as this week
+in terms of small steps that start us to get to that place
+of working collaboratively.
+And just the plug, we do have a vehicle in the Xperi booth
+that's partnered with our partner Mercedes vehicles
+that talks about some of those
+initial immersive experiences.
+Please stop by and take a look at it
+and I welcome to talk with any of you
+about future partnership opportunities.
+<v ->Fantastic, Sabina?</v>
+<v ->I think that we barely touched upon that,</v>
+but it is a huge topic about data.
+Data monetization for AMS is a good opportunity.
+Always focusing on the consumer
+and getting that innovation from the consumer to the rest.
+And I think that Globant
+can have a privileged opportunity there
+to help you step up in those transformationals,
+process that you already have in place.
+Or if you want to challenge yourself,
+we can be the perfect partner for you
+to get along the this journey and challenge.
+<v ->Thank you, Jonathan?</v>
+<v ->Well, become an automotive engineer.</v>
+It's the most fulfilling and rewarding career you can have.
+It's tremendously sensitive to small mistakes,
+but I can tell you every single component on the vehicle
+is one that the customer notices.
+And if it's not one they're directly interfacing with,
+and if it fails, they will notice.
+And if they don't notice it,
+it's going to be deleted as a cost save.
+And I can't think of anything more rewarding
+than working on something that your customers
+actively have an interface with and have to deal with.
+So come and become an automotive engineer,
+come and solve complex software and safety problems.
+<v ->Thank you, Madison?</v>
+<v ->I guess my parting thoughts,</v>
+first, it's great to be up here on stage with you guys
+and thank you for everybody who joined.
+I think a parting thought
+on the technology advancements
+is something that you mentioned is the complexity
+of the systems that we're talking about.
+And I think we're in a stage of tuning and then next gen,
+we as an industry have evolved
+to potentially a zonal based architecture.
+But I talked about the beginning
+about customer expectations.
+Our customer's expectations
+are about affordable vehicles as well.
+So I think we're gonna be seeing tuning and optimization
+and cost downs in addition to the management
+of these complex systems,
+the complexity of the software, so yeah.
+<v ->Excellent.</v>
+Ladies and gentlemen, please give a big round of applause
+to my colleagues, Joseph, Sabina, Jonathan and Madison.
+It's been great to put this show on for you.
+It really was for us to show we, like I said,
+we kind of ignored you and had our little conversation here.
+All will be available for a few minutes after today.
+They'll also be available
+at the session tonight if you're interested.
+And then as Joseph said,
+there's booths now, feel free to find them.
+Use the app.
+Thank you again for coming and supporting Connect2Car.
+Appreciate you.
+Enjoy the rest of your show.

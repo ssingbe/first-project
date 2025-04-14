@@ -1,0 +1,845 @@
+<v ->Good afternoon, everyone.</v>
+Welcome to the future.
+This is the much anticipated, drum roll, right?
+Investment panel on AI investments
+and what is actually happening,
+what we actually wanna invest in.
+And we have an incredible panelists,
+a group of panelists, that we're going to invite up.
+And I think what's really important to recognize
+in this coming panel is that
+there are so many different angles
+that we're approaching this technology and its use.
+Well, I wanna first invite Warren Packard up.
+He is part of the AI Fund.
+Please welcome him.
+We also have Tony Kim with BlackRock.
+We should have music in our intros, right?
+It makes it a lot more exciting.
+We have Tien Wong with Opus8.
+We have Alex Yeh with GMI.
+Moyi Dang with Coinfeeds.
+And myself, please join us.
+So I'd like to go around the panel
+and just have a quick intro
+so that everybody here understands
+what exactly is the interest of the panelists in this group
+and what they prefer and look for.
+Warren, could you start this off, please?
+<v ->Sure, so I'm a partner at AI Fund.</v>
+This is Andrew Ng's venture studio.
+Probably many of you are familiar with Andrew
+who's been teaching AI and ML for decades,
+was the founder of Coursera
+and now has taught about 8 million computer scientists
+their trade in AI.
+As a venture studio, we co-found companies,
+so our focus is on bringing in ideas and concepts
+and typically we work with corporations
+and other venture funds and entrepreneurs
+to bring as a co-founder their ideas to life.
+So we've got resources as business founders,
+technology prototypers, recruiters,
+and of course we have investment dollars as well.
+So we don't invest in going concerns,
+we work with you to create your company
+and write the business plan and precede finance the company.
+But yeah, we're at the earliest stages.
+<v ->Awesome, thank you.</v>
+<v ->I'm Tony Kim.</v>
+I head up the technology investment sector at BlackRock.
+We're at the complete opposite end of the spectrum
+to Warren.
+So when companies get late stage before the IPO,
+all the way to the IPO, and then after the IPO,
+and then the big companies we know in the public market,
+that whole spectrum is where I get involved.
+After he builds the companies,
+then we vet them and say,
+are you worthy of investment?
+And that's kind of what I do.
+<v Denise>Thank you, Tony.</v>
+<v ->Great, Tien Wong.</v>
+And as an investor, I'm wearing two hats.
+One is as a direct investor in mostly post-seed,
+pre-A and A round companies.
+And I'm also a venture partner at Iron Gate Capital,
+which is a dual-use venture capital fund,
+which invest in a fund-to-fund basis.
+So half of our assets are deployed into fund managers
+and half are direct investments.
+And then my third hat that I wear is I assist fund managers
+and companies in raising capital,
+finding LPs and equity money for early-stage companies.
+<v Denise>Awesome.</v>
+Go ahead, Alex.
+<v ->My name's Alex,</v>
+founder and CEO of GMI Cloud.
+GMI is a AI cloud company.
+So we enable and allow founders and enterprise
+to build AI instantly.
+So whether you have an idea
+and you wanna build a RAG or build a solution,
+we're here to help.
+Or enterprise, you want to enable your employees
+and you need to scale inferencing
+or you need to train internally,
+we're here to help to provide on-prem services
+or solutions for you.
+And so I guess,
+I'm on the opposite end of the investors here.
+You guys invest in money to the startups,
+and in turn startups gave their precious investment dollars
+to me,
+for me to enable them to build a really amazing product.
+<v ->Love that.</v>
+Go ahead, Moyi.
+<v ->Hi, so my name is Moyi.</v>
+I'm the founder of Coinfeeds AI.
+So we provide AI solutions to investment funds.
+So we help in investment funds, big and small,
+to build internal AI solutions,
+we connect with their own data,
+and we deploy securely to a virtual private cloud,
+we help manage permissions, et cetera.
+Now, the company was started in 2021
+where we applied AI to crypto.
+We were one of the first companies to do that
+and we sold social media analytics to investment funds.
+But in recent years,
+we focus more on providing AI solutions to investment funds.
+<v ->I love that.</v>
+So we obviously have so many different perspectives here
+and different angles when it comes to investing.
+I would love to start with you, Tony,
+given your background.
+And would love to ask more about
+what key factors do you consider
+when assessing the market potential of companies
+integrating AI technologies,
+whether in verticals like fintech, health,
+or broader applications.
+I think your perspective could be very valuable in there.
+<v ->So AI is a horizontal technology,</v>
+and yet we're an investor, right?
+So we're investing.
+And so it doesn't, per se, matter.
+There are principles,
+foundational principles for investment.
+I mean, it probably extends from the early stage
+all the way to the public market.
+And so there are certain, these principles of,
+is the market big enough?
+What is the competitive dynamic in the company?
+What is the business model,
+the financial profile of the company?
+Is there differentiation?
+Is there competitive edge?
+Is there uniqueness?
+What's your moat?
+You know, all of these,
+let's just call it business principles.
+And then you apply that prism to AI.
+And so it's no different to the prior cycles
+we've had of social media or e-commerce or SaaS,
+or fintech or crypto.
+It kind of doesn't matter.
+Now that said,
+so you take that framework,
+it's a universal framework of what I call,
+and I believe fervently,
+and what I believe in power laws.
+Every sector,
+every company, category
+follows power laws of winners and losers.
+And generally there are very few winners and lots of losers
+or mediocre companies.
+And so through that lens,
+I invest across whatever category.
+And so then AI is a horizontal technology
+and it touches many, many things,
+many, many industries,
+and then up and down what I call a stack technology.
+And then you apply these power law principles
+to every layer of the stack in AI.
+And that applies to then every industry vertical
+that AI will touch.
+So you follow those principles
+and then that gives you a lens
+of how we approach investing in companies in AI.
+<v ->That makes sense.</v>
+I think data is a big part of this, right?
+When you're going through the due diligence piece.
+And with that said, Moyi,
+you know, with Coinfeeds and the data part of you,
+I would love to know more about how can AI-powered analytics
+uncover hidden trends and patterns
+in financial and market data
+to identify promising investment opportunities,
+from your perspective?
+<v ->Yeah, so one way to think of this is</v>
+that AI lets us scalably do something
+that would take a human a very long time to do.
+So, for example,
+within our AI platforms,
+we have a tool that allows investors
+to ask the same question to a lot of different documents,
+such as earnings calls, for example.
+So you can imagine asking something like,
+what is this company's outlook on inflation
+or how does the next administration affect this company?
+And for the AI to summarize that
+across hundreds and thousands of companies
+and look for trends across different sectors.
+<v ->And is this something that you have seen</v>
+offers a lot of value
+and can summarize it pretty accurately?
+<v ->Yes, absolutely.</v>
+So you can ask the AI to condense its findings into say,
+something numerical so that then you can aggregate
+across industries for example.
+We're actually going to release
+a case study on this very soon.
+<v ->Love that.</v>
+So, Warren, since you take a different approach
+to investing,
+I'd like to hear more about, you know, just,
+I mean you have over 30 exits, that's pretty impressive.
+Don't mean to, you know, make a big deal outta that,
+but it is a big deal personally.
+I would love to hear at what stage
+are you investing in right now from your perspective?
+And I think this question also goes to Tien who's, you know,
+an investor as well separately.
+At what stage are you investing right now
+and what are you looking for in the investment opportunities
+that you ultimately close?
+<v ->So echoing Tony's point,</v>
+AI is a vertical technology.
+So AI in and of itself is gonna be pervasive.
+It's the new electricity.
+And so we're looking for applications
+that are fitting a real need
+in each of these different verticals.
+Again, what Tony was talking about.
+So we very deliberately look for subject matter experts
+in all of these different sectors,
+whether that's an expert in a specific domain in healthcare
+or in sales, automation,
+or marketing automation or whatever.
+I mean, every single vertical out there,
+and there's an abundance of opportunities.
+And we look at ourselves and say we do only two things well.
+Number one, we start companies,
+and number two, we understand the AI technology landscape
+and we have an opinion or a point of view
+on where it's going.
+So if you combine our expertise, if you will,
+in the horizontal layer
+with the vertical market expertise of the corporations
+or venture capital funds or entrepreneurs with whom we work,
+that's a really great recipe for creating
+typically B2B SaaS applications.
+And now SaaS is service as software
+where you can really implement services
+that can execute all the way end to end.
+And kind of expanding on Moyi's point there,
+just as an example,
+with the GenTech technology coming about
+and becoming much more pervasive,
+what you can do with agents
+when you're trying to analyze marketplaces,
+competition, landscapes, et cetera,
+you can have each of these agents
+debate with amongst themselves
+and come up with a much more optimal answer
+than you could have six months ago let's say.
+If you just, for instance,
+were just training on a single data set
+and having a single LLM generate a summary.
+Now you can have all these different perspectives
+from all these different agents.
+So it could be that somebody comes to us
+with an expertise in a certain area,
+we apply the latest in agentic technology
+or multimodal or local LLMs or whatever.
+And we're able to prototype that extremely quickly,
+hire the CEO, board member,
+the first five employees, finance the company,
+and get the company up and running extremely rapidly
+'cause speed and time into market is absolutely crucial.
+And hopefully we build something that has staying power,
+and Tony looks at it and says,
+yeah, this is something I want to get into.
+<v ->That's why I sat you guys together, just saying.</v>
+I'm kidding.
+Tien, I would love to hear your feedback on that as well.
+<v ->Yeah, I mean it's just like Tony had mentioned,</v>
+this is a horizontal technology,
+it's an enabling technology.
+I think the most recent example
+might be to follow what happened with cloud computing
+and application migration.
+And as far as our investment, you know,
+we're not investing in pure play horizontal technologies
+and AI,
+we're investing in companies that are, like Warren said,
+in specific verticals with specific management teams
+that have core expertise that can move very quickly
+and have the agility
+to sort of deal with the competitive dynamics
+in the marketplace.
+I think to your first question,
+I did want to bring up two points in looking at factors
+and they are regulatory and ethical,
+which we don't really hear too much about,
+but as an investor, you know, you wanna look at risk factors
+that can take down your whole company.
+And companies can be taken down by regulatory
+and ethical missteps for a variety of different reasons.
+So very, very hard diligence.
+I don't know if there's an AI tool
+that you can develop that might be able to diligence that,
+but certainly those are two very big sort of clouds.
+And as a dual-use investor works,
+very, very sensitive to regulatory risk
+and ethical considerations in the deployment of AI.
+<v ->I just wanna elaborate on some of the comments</v>
+just made here.
+So both generally venture-early investors,
+I'm later private and public investor,
+and focusing on vertical AI for industries, two things,
+these big horizontal layers at the bottom of the stack,
+the infrastructure, the silicon, the cloud,
+even the model,
+this is tens to hundreds of billions of dollars
+to play the game.
+So this, in many ways,
+there are few very big,
+very few companies and each one of these
+that can play that game.
+Warren is at the very top,
+and you could see,
+they're picking off at the application layer
+and, I think, in a very prescient comment about services.
+So in the last era it was all about SaaS,
+which is the application layer,
+which is software running on CPU and a small database.
+And now, you have AI that will basically take,
+and agents will take over SaaS, I think.
+And not only that, it will start eating into
+the human service layer.
+So now you're gonna have new kinds of companies
+that are vertically specifically focused.
+And they're not necessarily competing
+at this foundational horizontal layer.
+They're competing here
+and they're picking off very specific applications
+like call centers or, you know,
+medical services or whatever.
+And there's gonna be lots of new companies
+being built at that layer,
+and they're gonna eat into labor,
+and they're gonna eat into software
+and it's gonna be software and services
+combined into some kind of new kind of thing.
+And then you're gonna have,
+hopefully you're gonna have lots of new companies
+that are attacking the incumbent verticals
+at that layer of the stack.
+And so that's where the,
+I think the venture community are gonna create
+lots of new companies at that layer of the stack.
+At the bottom of the stack, you know,
+it's the giants that need a hundred billion dollars or more
+to play that game.
+And so you're not gonna have,
+it's gonna be very, very difficult to have new companies
+interject themselves at that layer of the stack.
+<v ->Absolutely.</v>
+So I think that's a perfect time to have Alex jump in
+with his expertise.
+Alex, you know, regarding risk mitigation
+when it comes to AI ventures,
+what unique risks do you encounter
+when investing or dealing with companies,
+with the AI-driven startups and infrastructure projects
+and how do you mitigate those risks
+to ensure sustainability and returns?
+<v ->What Tony said it was exactly right,</v>
+to play in the infrastructure game, in the LLM game,
+you need a hundred million to start,
+that's the minimum ticket size that you need.
+And I think the stages are already set.
+People who are on the poker table, it's already set.
+And I think in the next few years
+there will be a washout wave in M&amp;A
+across the infrastructure space, right?
+And then across that, right,
+there will be a lot of different called software stack
+sitting on top of infrastructure.
+'Cause we're kind of the natural,
+I would say vertical solution company, right?
+So we buy a lot of NVIDIA's silicon GPUs,
+and we also have to build a lot of software solutions
+on top, right?
+Memory optimization that allows LM to train faster,
+token cost to be lower on the inferencing side,
+providing different kinds of LMs,
+all the latest open-source LLMs like DeepSeek V3 whatnot,
+like we have to integrate that onto our platform, right?
+That allows, you know,
+our customers to use it more efficiently.
+So that's why I see that,
+there are some like inference-specific companies
+that I think will consolidate,
+and it'll be a natural buyer from the,
+I would say the hyperscalers,
+because they have a lot of, I would say customer group.
+In terms of risk, I think there will be two things.
+I would like to break that down into,
+one is enterprise and startup, right?
+So on the enterprise side, number one thing,
+number one risk I would say is security
+and security and security.
+Nothing else matter, right?
+Cost, I think is a relative term.
+You can choose a neo cloud that will,
+I think will be able to significantly lower that cost,
+compute costs relative to hyperscalers.
+Security is because for manufacturing or for chip design
+or data-sensitive companies,
+most of our data are on-prem still, right?
+And it's really,
+they're sitting on, I would say a gold mine.
+And AI is just, you know, a fancy word,
+but it's just data, right?
+Extracting valuable information from that.
+And so,
+the cool thing about this wave, I mean,
+to make this data insightful
+is you have to break down all the walls, right?
+Think about a large enterprise.
+A large enterprise, you have different data silo, right?
+HR have their own tool, solutions, right, data silo.
+Sales have their own figures.
+Finance obviously have theirs, right?
+So, it's probably stored different, elsewhere.
+One maybe in Oracle, one in AWS, one in GCP, right?
+But in order to extract insights,
+you have to break down all the walls, right?
+So I think that becomes an issue.
+And here it comes to the next point
+I wanna make on the enterprise side,
+which is IAM, user access management, right?
+So for example, if a sales person next to you
+ask the LM and say, hey, who's the sales figure?
+What's this bonus from last quarter
+asking for another sales, right?
+You can't have that, right?
+So there will be I would say vertical cut, right,
+and horizontal cuts based on kind of the levels.
+And each company is built different.
+All the data is different.
+So I think that's an issue for a large enterprise
+when they want to deploy AI.
+Because agentic AI is one of the easiest,
+I would say no-brainer,
+for any enterprise to adopt like right now, right?
+It just increased productivity for all their employees.
+Instead of asking for HR
+and they'll get back to you in a day, right,
+you can ask the AI instantly and get a feedback.
+But having a robust IAM system will be very important.
+And how you store that data cost-effectively
+also will be in our problem.
+And once you say, figure it out,
+fine train and fine tune,
+then will be starting to inference.
+And initially,
+company enterprise will probably start internally,
+so it will be hit, you know,
+a thousand or 10,000 times or QPS, right,
+queries per second.
+And if it's stored on-prem,
+then it will start a lot of issues
+because now the server can't handle, right?
+And you're too afraid to go to open that to public
+because you're dealing with sensitive data.
+So to scaling that is also infrastructure issues.
+And so we're helping enterprise
+to think through all that problem.
+So I would say we're almost like a consultation,
+consultant for them to solve that problem,
+so that's like, I see on the enterprise side.
+In terms of startup,
+it's speed,
+scale and ease of use, right?
+They don't wanna wait six months.
+They want it now, right?
+And also cost,
+because all other,
+I mean, not intend to kind of talk it OpenAI,
+but when Sora came out,
+it was so beautiful, six months ago, right?
+But now,
+six months later,
+it's okay compared to other video generative companies.
+So speed matters a lot to startups, right?
+So I think providing scaled GPU usage to startups
+will be very important.
+And also second point is ease of use, right?
+Ease of use is,
+it's hard to deploy bare-metal, right?
+It's much easier to use API keys,
+to deploy whatever model they want.
+And they don't wanna spend time
+on dealing with infrastructure either, right?
+Imagine like you're just spinning up a website
+and you have to think about whether your server
+will go up or down,
+and what's the variables that you have to tune,
+that's too much work.
+So you wanna rely that on to infrastructure.
+So I guess that would be opportunities and risks that I see
+in terms of enterprise and startups.
+<v ->Thank you for that.</v>
+I think another aspect to this
+is the cost savings piece, right?
+When you're using AI models
+to analyze potential investments.
+Tony, I would really like to hear your feedback
+on that as well as Warren and Tien,
+from an investor perspective,
+when you're looking through that,
+you know, from the cost savings.
+<v ->Let's just talk cost.</v>
+Well, AI, I see really two vectors,
+there's efficiency, which is cost,
+and then there are breakthroughs,
+beyond cost, okay?
+So yeah, of course,
+in enterprise, which is, you know, the big,
+there's a hundred trillion dollar GDP, right?
+It's a hundred trillion dollars.
+IT spending is, you know, small percentage of that GDP.
+You know the biggest single-dollar item
+in that hundred trillion dollars is labor.
+So labor is two-thirds,
+70, 60, 70% of an enterprise's spend.
+So agents, AI, productivity, co-pilots,
+on and on and on and on, they attack,
+at the end of the day,
+they're gonna attack the central biggest line item of cost,
+that is labor.
+And so Warren brought up, he's building vertical apps
+that have this kind of service element to it
+with AI software.
+So to me, that is the biggest single biggest opportunity.
+And you're seeing it,
+you're seeing it, people are even saying it's digital labor,
+digital workers,
+and if you can reduce cost efficiency, et cetera,
+that's number one.
+So this is going to be a narrative vein
+that will extend for the next, you know, five years
+as agents become more, more widespread.
+So that's efficiency cost in my opinion.
+That's what's gonna happen.
+Because IT budgets are not growing to the sky,
+they're growing GDP plus.
+So where are you gonna buy all this compute?
+You're gonna bring all this new stuff in?
+Where's the budget coming from?
+Well, you gotta take it out,
+you've gotta take the dollar out of something
+to fund all of this spend.
+To me, the single biggest thing is the labor.
+So that's, I think that's gonna be a big push.
+Then there's AI that has nothing to do with that.
+And you saw that at Jensen's keynote on Monday.
+It is AI for breakthroughs, scientific breakthroughs,
+that unlock things that potentially,
+that has nothing to do with cost savings and efficiencies.
+Can we achieve breakthroughs in biology and materials
+and chemistry and autonomy?
+And that brings a different kind of dynamic
+that is what I call a net additive to the market
+than just cost efficiency.
+So both of these things are gonna probably parallelize.
+So that's what I think on cost.
+<v ->Yeah, well, it's a great answer.</v>
+And, you know, our companies at the very earliest stages,
+you know, many of them are focused on doing the same job,
+just significantly lower cost,
+so, you know, scenario number one.
+A few of our companies
+are working on the absolute breakthrough technologies.
+And I mean, I'm gonna be very candid.
+Like I would love to spend 95% of my time on the innovations
+that are gonna completely disrupt industries and like,
+you know, healthcare,
+you know, we're gonna truly have personalized medicine,
+we're gonna know each of our personal genomes
+and we're gonna be able to prescribe molecules that,
+you know, cure our cold and we're over it,
+and, you know, it's like those old Star Trek episodes.
+You know, somebody has kidney failure
+and Bones gives them a shot and, you know,
+you're done with your kidney failure.
+That's what I wanna work on.
+But the reality, I believe,
+and it's gonna, it's gonna get closer and closer
+to where we can play in that.
+But that's still,
+at fundamentally larger capital expenditure,
+especially if you're talking about like healthcare.
+I know that Tony's involved with a quantum computer company,
+these are things that we can't get involved with.
+But all that being said,
+there's a lot of low-hanging fruit
+where there's a significant amount
+and percentage of cost savings that can accrue
+into these vertical markets.
+And because those can be funded with,
+our pre-seed check is a million dollars.
+And Tony doesn't wake up for, you know, 10 million bucks.
+I don't wanna speak for him but,
+lose change in his couch, you know.
+<v ->But, you know, just think about it,</v>
+1% savings on a hundred trillion dollars
+is a trillion dollars.
+Okay and then the market,
+S&amp;P's trading at, I don't know, 20 times?
+You could capitalize $20 trillion of market value
+with 1% savings.
+<v Denise>Exactly.</v>
+<v ->That's on cost.</v>
+But imagine if you create new creation.
+<v Denise>Yeah.</v>
+<v ->Of breakthroughs</v>
+and then that's on top of just, you know,
+AI is on one hand,
+yeah, we're gonna be hyper fixated
+in the tactical near term about cost, cost, cost,
+efficiency, efficiency, efficiency.
+But like Warren said,
+it's more fun to be betting on the breakthroughs.
+But to fund, you know,
+these multi-trillion dollar AI CapEx investments
+that's coming in the next decade,
+how are you gonna pay for that?
+You know, you gotta come out of something.
+<v ->Exactly.</v>
+So from a practical standpoint,
+what do you feel is right now the common trend, Moyi,
+when it comes to what typical startups
+from a data perspective
+tend to be the go-to startups to try to fund
+or, you know, that are getting a lot of traction right now
+from a data perspective?
+And I would love to hear your opinion too, Tien.
+<v ->Okay, well so,</v>
+well, I'm not an investor,
+so I don't really,
+I'm not sure this is what you're looking for.
+<v Denise>No, no, no.</v>
+What I meant is from like a data perspective.
+<v ->Okay.</v>
+<v Denise>When you see</v>
+what the companies that you are evaluating right now,
+what do they tend to be?
+What verticals do they tend to be in?
+<v ->Well, one trend that I see is,</v>
+I would argue that
+companies in almost every industry
+needs an internal AI platform,
+which is an evolution of a machine learning platform,
+which used to be found only in the big tech companies.
+And the reason for this is that
+AI is a truly transformational technology,
+as others have alluded to here.
+AI agents can increase productivity
+for many different teams across many verticals of a company.
+And at the same time,
+AI is a full stack problem.
+It isn't really just, you know,
+machine learning or data science.
+It goes back to the data,
+the quality of the data
+and how that data,
+where that data is stored,
+the model risks, the model deployment.
+So all of those best practices can be applied
+and used across different divisions in the company.
+<v ->That makes sense.</v>
+Tien, would you like to add a few comments?
+<v ->Yeah, I mean, we're looking at mostly digital health,</v>
+health technology as well as biotechnology
+and drug development for AI,
+specifically application-wise and also CRM.
+So I come from a CRM background.
+We are already seeing 80% reduction of labor costs
+for lower to middle.
+I'd like to know what the $70 trillion worth of labor.
+How much of that is lower or middle,
+because there's gonna be some major disruption.
+But the fun part about,
+let's say the CRM, let's take that for an example,
+you're gonna see personalized customer service,
+customer experience,
+and, you know, companies,
+the big brands are looking at trying to enhance LTV
+and purchase amounts and longevity of the relationship
+by doing that.
+So that's kind of the cool part of the AI.
+And on the CRM labor side,
+yeah, you're seeing at least in 80% reduction,
+in some cases more.
+But yeah,
+and we are looking at a lot of technology in that space.
+It's all agent-driven for the most part.
+And it's pretty low-hanging fruit, I think.
+<v ->Yeah, yeah.</v>
+So I'm gonna jump a little bit to a different topic
+that I think since we have limited time
+is very important to address is the diversity factor, right?
+As we're gathering data,
+other panels have talked about
+making sure that the data that's being fed into these models
+come from very diverse backgrounds that are practical
+and that apply to the use case within that vertical.
+So Warren, would you like to share a little bit
+about that too?
+And then Alex, I'd love for you to follow that.
+<v ->Yeah, I mean,</v>
+clearly if you're gonna be catering to a global economy,
+you need data that represents
+the global perspective, et cetera.
+I mean, you think about healthcare immediately
+where there's been,
+and hopefully this is getting at the answer to the question,
+but like in healthcare,
+there's been lots and lots of studies
+on white middle-aged males,
+and yet the diversity of our population in the US
+and of course globally,
+doesn't represent that whatsoever.
+You're not gonna be able to advance healthcare
+if you're not looking at a diverse data set
+that represents everybody across the board.
+If you're looking at consumers
+and you're trying to do market research
+and you're looking to sell to a diverse customer base,
+you need data that represents your diverse customer base.
+So ultimately, we have an obligation,
+it's not even,
+there's an economic motive
+there have diversity across our data sets,
+to have diversity in our workforces,
+and to be able to serve a truly global population.
+There is no company in our portfolio
+that is not going after ultimately the global marketplace.
+And that is as diverse as it gets.
+And that's what you need your data to be represented.
+<v ->Yeah, I think that is,</v>
+that is a very interesting insight.
+So I would like to talk about
+in terms of like sovereign AI side, right?
+So people have said, you know, AI is racist, whatnot, right?
+But it's actually just a data problem,
+because just on the dataset it's trained to train
+on all the publicly available data
+is skewed towards a certain groups, right?
+Just the way it is.
+That's why each nation state or company
+will develop their own AI, right?
+For example, if you ask OpenAI,
+say, hey, what is the best udon place in Kyoto?
+They probably won't know,
+because it does not have that data, right?
+It's the way it is.
+And so that's why it's very important
+to have a local language LLM in areas, right?
+And maybe create some sort of MOE,
+mixture of experts, right,
+so when you're asking a question,
+it would just automatically,
+so you go through a first layer of LLM that sorts
+which agent or which LLM to ask a question to
+and use that LLM specifically for that data.
+I think that's your answer towards kind of diversity,
+which is, you know, you create different domain-specific
+or area-specific or geolocation-specific LLM model
+that have different insights.
+And when you ask that question,
+then you'll be able to have a more much accurate answer.
+<v Denise>That's great, thanks.</v>
+<v ->I would just add on the data thing.</v>
+I think there's a lot of these questions are about
+this diversity question is around human data,
+human-created data,
+but it's already all been consumed.
+The vast majority of human-created data is already,
+is at least the publicly available data
+for the most part is already been pre-trained.
+It's already done in the pre-training.
+And so, you know,
+you hear that you're running out of pre-training data
+for human side.
+And then you have this other kinds of scaling laws,
+which is extending now to what they call it inference time
+or test time compute, which is a different kind of thing.
+And it is not about just pre-training on,
+oh, let's get this data set in the Middle East
+and the Asian people.
+For the most part, that's already been done, okay?
+So this test time or inference compute
+is gonna be this reasoning models.
+and then a lot of this is synthetic data.
+And this is like for maybe,
+it might be 90% synthetic data,
+five, 10% human data.
+And so especially as you enter these other domains
+like the physical world,
+robotics, autonomous driving,
+et cetera, et cetera,
+what they call world model,
+not a language model, but a world model,
+a lot of that's gonna be synthetic data generated.
+And so this idea of like we're fixated on,
+we gotta get the human data right,
+well, it's already been all consumed.
+<v ->And as far as like the founders though, Tony,</v>
+and also Warren and Tien,
+how do you feel, is it important,
+is that part of the ethos to have diversity in the founders?
+I mean, do you see a value add there
+or is that something that's a component that may or may not?
+<v ->I mean, I'm just, you know,</v>
+yeah, sure, yes.
+But you want great people,
+you want great leaders, great people,
+and they can come from everywhere in the world.
+<v ->Yeah, I would concur.</v>
+I think,
+the founders will find us.
+And so we select from the founders who do find us,
+and we're very proud of the diversity
+within our founder portfolio.
+But the thing we can control is the diversity of the team,
+the executive team, the management team,
+with the recruiting capabilities that we bring to bear
+and kind of get started.
+You start with a diverse group,
+you have a diversity of opinions.
+If you don't have a diversity of opinions,
+you automatically have group think
+that's not good for business.
+So you wanna start off on the right direction
+with respect to diversity.
+<v ->Absolutely.</v>
+So thank you, thank you to our amazing panelists
+for their perspective
+and for your energy in this room as well.
+Thank you.

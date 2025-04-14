@@ -1,0 +1,535 @@
+<v ->Hi, everyone.</v>
+I hope you're all enjoying your time at CES so far.
+I know I am.
+My name is Cassie McGrath.
+I'm a reporter with "Healthcare Brew",
+and I'll have our panelists
+introduce themselves in a moment.
+We're going to be talking about
+regenerative medicine this morning.
+<v ->Hi, everyone, my name's Jason Haider.</v>
+I'm the founder and CEO of Xenco Medical.
+We are a orthopedic and spinal technology company.
+We have a wide portfolio of technologies
+ranging from preoperative planning software
+to postoperative monitoring software
+to biomimetic implants.
+And I'm very excited to talk about
+regenerative medicine with you all today.
+<v Cassie>Thank you.</v>
+<v ->Yes, hi, everybody.</v>
+I'm Veerle Dhaenens.
+I'm the general manager for global therapy innovation
+at Terumo Blood and Cell Technologies.
+At our company,
+we believe in the power of blood and cells
+to bring better treatment
+and better outcomes for patients.
+In fact, we see blood and cells as having healing power,
+and this is going close together
+with the topic of today
+in speaking about regenerative medicine.
+Looking forward to it.
+<v ->Awesome, thank you both.</v>
+So, as an upcoming form of medicine,
+I thought the best place to get started would be
+if you can both provide an overview
+of the current state of regenerative medicine.
+What are the key trends in development shaping the field?
+<v ->Well, I think that we're in a 1965 moment,</v>
+and I'm very excited about that.
+And what I mean by that is,
+and I'm sure a lot of you
+are very familiar with Moore's Law.
+published Moore's Law, famously.
+And he correctly anticipated
+the exponential growth in computing power,
+the doubling of the number of transistors per microchip
+every two years.
+And what it did was,
+it not only spawned the microchip revolution,
+but it spawned all these other industries
+that have changed our world,
+from the internet industry
+to the personal computing industry to AI
+that we're seeing today.
+And I think that the thing that was important
+about that microchip revolution
+was that it was a convergence of multiple disparate fields
+that had to reach a certain level of sophistication
+in order to realize that kind of exponential growth.
+And regenerative medicine,
+I think, is at that point in 2025.
+So, 50 years from now, when we look back,
+we're gonna see that 3D printing from 1984 to today
+has grown by leaps and bounds.
+When you look at gene editing just starting in 1973
+with recombinant DNA, Herb Boyer, Stanley Cohen,
+and you see where we are today,
+that's another industry
+that's reached immense sophistication.
+You look at protein folding theory.
+Now, AlphaFold is doing Christian Anfinsen's work
+on its own.
+If you look at in silico trials,
+AI has enabled
+not only computational and modeling techniques,
+but it could transform regenerative medicine
+in the sense that it will dissolve BEAR's entry.
+So, I think that the state of regenerative medicine
+is at an inflection point.
+I think that it's a 1965 moment
+and we're going to see all these disparate fields
+coming together to create a new reality for all of us.
+<v ->Exciting, thank you.</v>
+<v ->Yeah, I agree to that.</v>
+In fact, it has an immense potential to redefine
+how we cure or how we treat and even cure diseases,
+and very complex diseases.
+And I see a lot of advancements happening
+in stem cell research,
+in cell and gene therapy in general.
+Just in December,
+the FDA approved the first mesenchymal stem cell therapy
+to treat
+steroid-refractory acute graft-versus-host disease
+in children.
+So, this is an immense path forward.
+We also see a lot of research ongoing,
+and we discussed about it in iPSCs.
+And iPSCs, the beauty is that those cells
+can be programmed in any type of cell,
+and that gives the potential to treat
+diabetes, Parkinson's, cardiac conditions.
+So, lots of good things happening.
+Also, more known, the CAR T space,
+so the engineered immune cells to treat cancers
+going into other disease areas,
+like immune diseases, gene therapies.
+So, in fact, personalized medicine becomes reality.
+It's not only an aspiration.
+AI will help.
+It can predict the behavior of the cell.
+But there is also challenges,
+and the challenges are the accessibility,
+the affordability of the treatment.
+And that's where there are a lot of efforts ongoing
+to make those productions and manufacturing processes
+more scalable, more cost effective.
+And this is going to have a tremendous impact
+on bringing those transformative therapies to the patients.
+<v ->Yeah, great!</v>
+Thank you both.
+So, with that update on the field,
+can you each share what your companies
+are focusing on in regenerative medicine
+and if possible, have any patient stories,
+real-life examples come to mind
+that illustrate the work that you're doing?
+<v ->Well, what we're focusing on is two things.</v>
+We're trying to cascade regeneration
+and we're trying to calibrate regeneration.
+In terms of cascading regeneration,
+what we've done is, last year,
+we commercialized a product called the TrabeculeX Continuum.
+And what that entails is two separate technologies.
+One is a biomaterial designed to promote bone growth,
+and that's delivered in the operating room.
+The second is an AI-enabled physical therapy platform
+that's designed to harness the principles
+of mechanotransduction,
+which, some of you may know,
+all of our cells are mechanosensitive.
+So, the forces and stresses that you apply
+will translate into biochemical signals
+releasing growth factors
+and amplifying the impact of the biomaterial.
+So, we definitely thought that there was a lack
+of longitudinal interventions,
+and that's why we wanted to cascade regeneration,
+starting with the intraoperative phase,
+continuing on to the postoperative phase.
+And we found tremendous success in that.
+We're measuring the Orebro musculoskeletal pain scores
+of the patients who've been treated so far.
+We found a 17% reduction in severe pain self-reporting.
+The next thing we're working on is something
+we'll submit to the FDA this year,
+and that's our attempt to calibrate regeneration.
+Veerle mentioned the holy grail of true patient specificity,
+but until we get to that ultimate gold standard,
+what we're trying to do is empower our surgeons
+to be able to tailor these interventions
+in a more appropriate way for each patient.
+One of the biggest challenges in our space
+is the variety of bone mineral density profiles of patients.
+And what happens is,
+surgeons will choose a certain implant,
+and then, in the operating theater,
+they'll choose some kind of mix of biomaterials
+to incorporate into the cavity that's in the implant.
+But it's not a precise science,
+and that's why you have this variability in fusion rates.
+So, what we're doing is a twofold process.
+One is 3D printing a titanium inner body.
+And so, we're matching the bone density profiles,
+changing the lattice structure
+so that patients who are osteoporotic
+have a different lattice structure, osteopenic,
+and patients with regular bone mineral density profiles
+have a more stiff implant
+so that you can prevent adjacent segment disease,
+so that the forces are applied properly.
+And then, what we're doing is we wanna harness bioprinting.
+We've had success using a hydrogel
+that will serve as a carrier,
+and that hydrogel is carrying demineralized bone matrix.
+And demineralized bone matrix includes growth factors,
+and that's usually incorporated in the operating theater.
+The problem with biomaterials is that if you use too many,
+the patient could result in ectopic bone formation,
+and that's bone growth
+where you don't necessarily want it.
+But by using the power of bioprinting
+and calibrating regeneration,
+we can offer surgeons a spectrum of implants
+that are not only different in their density,
+but they're different in the amount of growth factors
+that they each provide.
+And so, we're hoping that that kind of calibration
+empowers surgeons to have better outcomes,
+more predictable outcomes
+until we get to the true holy grail
+of patient-specific medicine.
+<v ->Wow, fascinating, thank you.</v>
+Right.
+<v ->Yeah, and Cassie, you asked for a patient story.</v>
+I want to talk about Julius,
+and he had 50% of his body burned.
+And then, there is not a lot you can do as a doctor.
+Now, with our automated cell expansion system
+and a small sample of skin of Julius,
+a biotech company was able
+to manufacture bioengineered skin.
+And now, Julius is having a normal life.
+And this is fantastic, if you hear that.
+And it's bringing that automation
+that brings a predictability to consistency,
+which is foundational to scale those therapies
+and bring them to patients.
+And it's also very critical to get regulatory approvals
+for these therapies going forward.
+And then you spoke about, yeah, personalized medicine.
+That's another focus area we have,
+and the example I'm going to give
+is the example of sickle cell disease.
+Patients with sickle cell disease
+have abnormal formation of their red blood cells.
+They're forming as a sickle.
+And so, the oxygen transport in the body
+is not as it should be,
+meaning they have organ failure, stroke,
+so very severe complications.
+So, we have technology that filters out
+specifically those defect red blood cells,
+and they are replaced by normal and healthy cells
+from healthy donors.
+So, imagine this.
+If you are going,
+and we are going to learn more about genomics,
+about the role specific cells are playing,
+the applications are endless.
+We can look more and more to filter out more selectively
+cells that play a role in diseases,
+and yeah, ultimately come to more personalized medicine
+adapted to that specific patient condition.
+<v ->Thank you, wow!</v>
+So many conversations at CES, of course,
+revolve around the future,
+so let's talk the future of regenerative medicine.
+Any technological advancements
+that you expect in the next five to 10 years,
+and do you have an idea of a rough timeline
+of when you expect to see this progress?
+<v ->Well, something I'm very excited about,</v>
+well, in our space,
+so much of what comes to market
+is controlled by the regulatory bodies,
+and for good reason.
+And I'm incredibly excited about
+the advancement of in silico trials
+and the acceptance of in silico trials
+by some of these regulatory bodies.
+In October of last year,
+there was a seminal moment, in my opinion.
+The FDA released a report
+from the New Alternative Methods Subcommittee.
+And in that report,
+they accepted that in silico trials
+would be an inevitability.
+And what that does is it lowers the barrier to entry
+for smaller teams that may be innovative,
+that have the technical skill.
+And this is five years out,
+it's not something that I see happening in the next year.
+But by using the power and sophistication
+of modeling and computational techniques
+and using virtual patient populations
+that are provided by the FDA,
+we're going to see an efflorescence
+of technological breakthroughs,
+because there isn't a barrier to entry relative to,
+anchored in clinical trials
+where legacy companies that are almost 200 years old
+are the sources of innovation.
+I think, if you go further out,
+we were talking about patient-specific medicine,
+these virtual populations may be more patient-specific.
+And so, you can run thousands of interventions,
+pharmacological interventions, surgical interventions
+on digital twins of a specific patient
+and see if that's going to,
+which one of those is going to guarantee
+the kind of outcome that you're looking for,
+instead of this approximation.
+I think a lot of this is controlled
+by the regulatory authorities,
+and I think that, like I said,
+the FDA's report in October,
+and also, the NIH put out a report in February,
+they call it novel alternative methods.
+I think that's also another very promising sign
+that we're going to,
+the pace of regulatory approvals will start to catch up
+with the pace of innovation.
+And I think that's going to transform
+the regenerative medicine landscape
+and it's going to bring a lot of things to market
+that we haven't seen.
+<v Cassie>Thank you.</v>
+<v ->Yeah, and I like you bring up the in silico clinical trial</v>
+and the digital twins.
+I want to bring it a bit back about what I believe
+is that a big difference that we'll give
+is that when we can make those processes
+more predictable and consistent,
+and it also brings digital in there.
+So, we are looking into digital modelings
+and creating digital twins
+to understand better the processes that are needed
+to get those therapies produced.
+And that will also help to accelerate
+those regulatory approvals.
+It will enhance the way we can scale the production,
+but will also make it more easy,
+and even looking to bring those manufacturing
+and development processes closer to the patient,
+meaning the patient has better access.
+And so, we are able to increase the accessibility,
+affordability,
+look in the future that we have less treatment disparities
+and inequalities of those regenerative medicines
+in the future as well.
+So, that's what I see happening
+in the five to 10 coming years.
+<v ->Thank you.</v>
+Yeah, it's hard to talk about healthcare right now
+without AI coming into the conversation,
+especially here at CES.
+So, how do you see AI transforming regenerative medicine?
+<v ->Well, I think just building off</v>
+of our last topic, in silico trials,
+I think a lot of this is accelerated by AI,
+the granularity that you're seeing,
+the ability to capture the physiology
+to create these hyperrealistic digital twins.
+Right now, there are four virtual patients
+that the FDA provides,
+and there are actually 600 applications
+using those digital twins.
+Right now, there's only four of them,
+but AI has really made that possible.
+I also think that AI is going to be,
+we've already seen the impact of AlphaFold,
+but if we look at off-target effects,
+if AI can help design better guide RNAs,
+what will that do for realizing the promise of gene editing
+and how is that going to expand across multiple fields?
+We were talking about MSCs before the panel.
+If AI can can help design better guide RNAs
+and we can someday get to a gold standard
+of off-the-shelf MSCs,
+if we can control HLA proteins
+so that they're downregulated
+and that patients won't reject some of these MSCs,
+we could actually create a much more scalable
+regenerative medicine portfolio for patients,
+and we won't be limited by bone marrow aspiration,
+spinning MSCs in the operating theater.
+I think that gene editing could hold that promise,
+but I think AI is the real enabler of that
+so that we can have better guide RNAs.
+But I think I'm most excited about in silico trials
+and I think AI makes that possible.
+<v Cassie>Thank you.</v>
+<v ->Yeah, and we spoke about MSCs,</v>
+and it's the iPSCs that will enable it as off the shelf
+and endless possibilities.
+AI is also going to accelerate the predictability.
+And I wanted to give an example
+from the cell and gene therapy space
+because we are playing there and collaborating in many ways.
+We are enabling the cell collections from blood
+as a starting material
+for the development of cell therapies.
+And also, there, we can use AI and data
+to increase the predictability.
+We have worked with a healthcare center in South Dakota,
+where we were analyzing and helping to analyze
+their cell collection data
+to create a prediction algorithm.
+And that prediction algorithm allows us
+to calculate more accurately
+the volume of blood that is needed
+to reach the target dose of cells
+and the yield needed of cells to create the right therapy.
+And they were able to increase their success rate
+from 47% to 92%.
+Can you imagine how many more critically ill patients
+we can help by doing that?
+So, AI is really an enabler to make that happen,
+analysis of the data at larger scale.
+Just like I already mentioned,
+also using it for digital twin development
+for process in development as well.
+So, yeah, I see a lot of potential there
+to accelerate access to treatments.
+<v ->Thank you.</v>
+We know that the COVID-19 pandemic
+accelerated the adoption of new medical technologies.
+And I know we've talked a bit about regulatory bodies,
+the FDA so far,
+but do you think that there's a possibility
+that the FDA may be more open-minded
+to accelerating technologies like regenerative medicine
+as a result of some of the shifts
+we've seen in recent years?
+And have any of the changes in recent years
+allowed your companies to accelerate innovation?
+<v ->Absolutely.</v>
+I think COVID-19 was an incredible accelerator.
+It was obviously deeply tragic in a lot of ways,
+but Project Warp Speed
+and how vaccine developers, by necessity,
+had to use simulation and modeling
+to go through thousands of different vaccine iterations
+and gauge through simulation
+how T cells and B cells would respond
+to the different vaccines,
+gave proof to the FDA and other regulatory bodies
+that simulation and computational methods
+had reached a very advanced level of sophistication.
+And I think you're seeing that now only five years away,
+the fact that they've even floated the idea
+of creating an office for novel alternative methods.
+And I think that's due in large part to COVID-19
+and the use of these computational methods
+by the vaccine developers.
+In terms of how we would use it,
+we are very excited about using FEA
+with some of these virtual patients
+and accelerating our timeline so that we can run
+multiple different regulatory approvals in parallel,
+and so that we don't have that bottleneck
+of putting a lot of our effort into one.
+I think that the fact that the FDA has accepted that
+and that they've actually laid out a methodology
+for what they would deem appropriate in terms of testing
+helps accelerate a lot of different innovations,
+and that's something that we wanna leverage.
+<v Cassie>Thank you.</v>
+<v ->Yeah, and the FDA has done a lot of effort</v>
+to be more flexible,
+so they have programs now
+to expedite the regulatory pathway.
+They have RMAT designation
+specifically for regenerative medicine,
+and also, they have more guidance documents published.
+Now, what we experienced
+was during COVID itself at firsthand.
+In fact, in March, 2020,
+we were the first medical device.
+We got first emergency use approval for a medical device
+to treat COVID patients with respiratory failure.
+It was a technology to specifically
+remove cytokines from the blood
+and give the filtered blood again to the patient.
+So, we really experienced it firsthand
+of what was possible and what the FDA is making possible.
+And then, more recently, based on guidance papers,
+we are able to provide better process development support
+to make sure that manufacturing is done
+according to GMP requirements,
+both in the clinical and in the commercial space.
+So, this is helping our customers,
+bringing their stem cell transplants faster to patients.
+And we have examples in neurogenerative medicine
+and many other applications.
+So, it's great to see how that can help.
+<v ->Thank you, yep.</v>
+We have time for one last question,
+so I thought I'd bring it full circle.
+At the top of our conversation,
+you mentioned 1965,
+and in talking about recent acceleration
+in technologies from telemedicine to AI,
+do you believe that we're at another major inflection point
+in technology adoption and healthcare?
+And how do you see regenerative medicine
+fitting into this larger picture?
+<v ->Absolutely.</v>
+I think that we are definitely at an inflection point,
+and I think that regenerative medicine
+is at the center of this.
+And I think that in order for something
+to be at the center of an inflection point,
+it needs to depend on a convergence of multiple technologies
+and offer something truly unique to all of those
+and make use of those.
+I mentioned that,
+like you said earlier on in our conversation,
+I think that we're going to spawn multiple industries,
+at least six, from regenerative medicine.
+And this inflection point is going to make use
+of disparate technologies
+that have more or less developed in silos from one another.
+And I'm very confident
+that we're all gonna benefit from this
+within the next five to 10 years.
+And I think, hopefully,
+if all of us are around in 50 years,
+well, we may make it for another 50.
+So, very, very optimistic about that.
+<v Cassie>Thank you.</v>
+<v ->Yeah, I'm aligned with that.</v>
+We also see that the technology adoption
+is happening earlier, early in the research.
+An example is we are partnering
+with the CiRA Foundation in Japan
+to be able to advance bringing iPSC-based therapies
+faster from the lab into the clinic.
+And it all comes together.
+We see that regenerative medicine is maturing.
+Access will become more easily.
+And I see that in the bigger picture,
+this is going hand in hand, what we see,
+like the impact of AI on the empowerment of patients
+to be part of their treatment decision.
+And if you take all of that together,
+I see we are going
+to a more democratized healthcare in the future.
+<v ->Thank you, panel,</v>
+and thank you to the audience for joining us.
+If you'd like to continue the conversation,
+please find us in the hall,
+and enjoy the rest of the conference.

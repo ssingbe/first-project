@@ -1,0 +1,980 @@
+<v ->All right, everybody.</v>
+I think we're gonna get started here now today.
+So, thank you so much for all being here.
+I know that it is the Thursday, the third day,
+and we're in the last session.
+So again, we can't thank you guys enough for being here.
+And so today, we're gonna be jumping
+into some of the cybersecurity conference panel session.
+We're gonna be taking a look
+at data breach prevention and protection
+within our industry right now.
+So, we're gonna kind of break it down into three main parts.
+What is the current kind of landscape we are seeing
+in the cybersecurity space right now?
+What should companies do when they're attacked,
+both from a preventative standpoint,
+also from an after they get our attack standpoint,
+cleaning up the mess, basically, is that one would say.
+And then finally,
+what are some of the emerging technologies
+or different things people are doing
+to preventing attacks in the future?
+So my name is Kyle Wandel.
+I'm a Manager of Business Intelligence
+on Consumer Technologies Market Research Team.
+I've been with CTA or in this space
+for around five, six years now,
+and I work on an industry forecast.
+So I have a good idea
+of what are the main kind of technology trends
+that are happening in the space.
+So, I'll turn it over to Meredith.
+Do you need help to introduce yourself?
+<v ->Sure. Hi, everyone.</v>
+Thank you so much for being here.
+I'm Meredith Griffanti,
+I'm the Global head of Cybersecurity
+and Data Privacy Communications at FTI Consulting.
+So what does that mean?
+I lead a team of crisis communications professionals
+that sort of swoop in in the middle of an incident
+and help companies that are experiencing an attack
+figure out what to say to their employees,
+to regulators, their customers, the media,
+how to say it, when, timing,
+and how to protect their reputations
+really coming out of the incident
+stronger than before it happened.
+And when we're not actively fighting cyber crime,
+we're helping companies
+to really take the best practices we see on the front lines
+and apply those into preparedness plans,
+crisis communications, resiliency plans,
+because it's not a matter of if, but when, these days.
+So that is the team I lead,
+and really excited to be here
+and talk about this exciting subject.
+<v Kyle>Thank you. Brendan?</v>
+<v ->I guess it's my turn.</v>
+My name is Brendan Rooney, I work with Booz Allen Hamilton.
+I lead our Incident Response Team globally.
+So we have personnel that are in the U.S., the UK,
+Netherlands, a number of other countries around the world.
+Our team, similar to Meredith at FTI, in terms of the,
+I would say, responding to crisis scenarios,
+our team assists with a variety
+of different digital forensic investigations
+and recovery capabilities
+with organizations that fall victim
+to a variety of different types of incidents,
+from ransomware compromise
+to more general network intrusions,
+insider threat activities.
+All of our work on our team is in the private sector,
+whereas some of my colleagues operate
+with a variety of different federal agencies
+or other organizations
+that are aligned to the U.S. government.
+<v ->Awesome, thank you.</v>
+And so let's just kind of dive right into it.
+And I mean this kind of a little bit open-ended
+to either one of you, you can please respond.
+But what are some of the main types of attacks
+or companies that are currently facing,
+and what type of industries or entities do you see
+to be the most vulnerable at the moment right now?
+<v ->Ooh, great question.</v>
+I'll start and you jump in.
+<v ->Yeah, yeah, sure.</v>
+<v ->Of course,</v>
+ransomware continues to be the sort of incident du jour.
+It causes the most operational disruption,
+it's highly public.
+So, we're seeing a lot of ransomware, data theft,
+data extortion type of incidents.
+Right now, if you're following the news,
+you might have read a little bit
+about some of the salt typhoon type of incidents,
+so more APT nation-state espionage.
+It affected a number of the wireless carriers.
+T-Mobile, AT&amp;T, Verizon we're hearing a lot about.
+So we are working on a number
+of those types of incidents as well.
+I think those are kind of top of mind hot topics
+for us right now.
+What about you guys? What you're seeing.
+<v ->Yeah, I mean I think ransomware is easy</v>
+'cause it draws headlines for...
+Been kind of in the, in some ways,
+the ransomware world for the last probably 10 to 12 years.
+Feels like an eternity.
+But there was a point in time
+where that wasn't really talked about.
+My wife generally didn't really know a whole lot
+about what ransomware was.
+And to kind of be in a position now
+where it's kind of grabbing global headlines
+on a frequent basis
+is a little bit of a changing topic of conversation
+at our dinner table.
+I would say, though, that independent of ransomware,
+and in some cases, depending on the situation,
+maybe even related,
+is the prevalence of insider threat activity.
+I would say even certainly so
+relative to the technology industry
+is the ability for an inside employee to very quickly,
+easily, and in many ways in an undetected fashion,
+be able to quickly siphon
+highly-sensitive intellectual property
+and potentially even really substantial trade secrets
+that could impact the future of an organization.
+<v ->And in terms of,</v>
+you asked about the most vulnerable industries and sectors,
+I think we skipped that part of your question.
+I would say healthcare, hospitals,
+they tend to have very interconnected systems,
+a lot of dependencies on third-party vendors,
+and generally speaking,
+are under-resourced and under-prepared
+when it comes to their cybersecurity defenses.
+So, quick way for threat actors to make a buck.
+You think about the types of medical information
+that hospitals, for example, hold,
+as well as the potential disruption to patient care.
+Those are easy targets for threat actors
+because they're most likely to pay.
+So, I would say that industry, in particular,
+tends to be a target.
+We're reading a lot right now about education systems,
+local governments, municipalities,
+being quite affected by these ransomware attacks
+or nation-state incidents.
+The financial services sector tends to be better prepared,
+just because of the level of investment,
+the sophistication that goes into their controls.
+So I would say that's one of the better,
+stronger ends of the spectrum.
+Whereas you look at healthcare and public entities,
+and those tend to be less well-resourced.
+<v ->Hmm, yeah, I'd add to that,</v>
+that the rapid adoption
+of a variety of different technologies
+also has a immediate propensity
+to increase the digital footprint
+or attack surface of many organizations.
+And I'd say the insertion
+of a substantial amount of updated or new tech
+into manufacturing as an example
+creates an expanded attack surface
+in a way that it gets increasingly more difficult
+for many of these organizations, very large and very small,
+to not only understand what that footprint looks like,
+but also to protect it
+and defend against this type of malicious activity.
+So, for us manufacturing
+and other similarly related industries,
+especially the supply chain
+up and down the manufacturing sector,
+has seen a pretty substantial amount of activity.
+And that's certainly a contributing factor.
+<v ->And this is actually perfect timing, Mike,</v>
+because they just kind of alluded
+to one of the biggest themes that I've seen
+in the past year or so,
+which is the idea of how we are now more connected devices,
+more and more wireless devices
+are in our industry more than ever before.
+So with your expertise in IoT,
+how are connected devices contributing
+to this vulnerability in cybersecurity?
+<v ->That's a great question.</v>
+By the way, I'm Mike Bergman,
+Vice President of Technology and Standards at CTA.
+Apologies for being late.
+So, one of the challenges we have
+is that there's a sea of connected devices out there.
+There's 18 billion connected right now, something like that.
+And those devices are all around the world.
+And a little more context,
+if you look at the huge attack on the United States in 2016,
+known as the Mirai botnet attack, that was...
+driven by connected devices.
+And if you look at where the traffic came from,
+91% of that traffic
+came from outside the United States' borders.
+And so we have a global issue
+with these connected devices getting hacked
+and then turned into one type of attack vector or another.
+And one of the things that they're doing
+is they're using these connected devices
+to help find openings, to find exploits,
+to look for common exploits or known exploits,
+and then start working their way into systems.
+So once they find a vulnerable system,
+drop malware, otherwise infiltrate the system,
+and then soon you've got a ransomware problem.
+So, we are looking for ways to improve the situation.
+In general, there's the new U.S. Cyber Trust Mark
+for consumer devices.
+The federal government is tightening requirements
+on connected devices.
+We have similar programs in the EU, UK,
+Germany, Finland, Singapore, Malaysia, all over the world.
+So, we recognize that there's a problem,
+but even if we flipped every manufacturer over right now
+to something perfectly secure,
+we still have 18 billion devices out there
+and a bunch in the pipeline.
+And so all of the challenges, and opportunities,
+and precautions on data breach are gonna be...
+Are still necessary from this perspective
+of the connected devices for a long time
+because of that legacy base.
+<v ->And that kind of brings me kind of in over the next point</v>
+because of how many incidents there are have been
+and how difficult it is to really protect
+every single connected device in our industry.
+Meredith, from your perspective, what from a...
+What do should companies do to navigate the aftermath
+after they do have an incident,
+whether it be data breach or any type of other incident
+that could occur at the company?
+<v ->Sure, I would say one of the biggest pain points</v>
+we tend to see with our clients
+is the communications work stream.
+We tend to, when we respond to incidents,
+have forensics, ransom negotiations, recovery, comms, legal,
+everyone's kind of divided up into work streams.
+And there's an onslaught of inquiries
+that come in not just from the media,
+not just from regulators, not just from employees,
+but really from customers.
+And what customers want to know in particular
+if the organization is B2B is:
+What is the risk to my own network from your incident
+if there's points of interconnectedness
+or reliance on different systems or platforms?
+So, they want assurances that the incident is contained,
+they want the CISO or the InfoSec team
+to share helpful indicators of compromise,
+so that the customer can load those
+into their own vulnerability scans
+and find points of weaknesses on their own systems.
+They want attestation letters from third parties,
+and they want a phone call, right,
+with the Head of InfoSec, or the CEO,
+or their customer sales rep.
+So, I would say the biggest pain point
+is really equipping the front lines with the right messaging
+so that no one's shooting from the hip,
+as well as sort of an escalation process.
+Everyone feels like their customer
+is the most important during an incident.
+And of course, all customers are equal.
+But, if a top 10 customer that makes up, for example,
+a big portion of the revenue
+wants a phone call with the CISO,
+how do we make that determination,
+and what's the process
+for getting that customer on the phone
+and kind of calming them down?
+So you amplify that type of incident
+for a Fortune 50 company
+that has customers all over the world,
+different levels of sophistication,
+different language needs, time zones.
+I think really thinking
+about setting up that command center, if you will,
+to triage those inbounds
+to have a process in place for tracking everything,
+understanding who's been told what when.
+I cannot tell you how many times
+after the fact we have to turn all of that over
+to regulators who wanna sift through it
+and make sure that you were being consistent
+in your messaging with employees,
+with the media, with customers, et cetera.
+Especially if you're a publicly traded company,
+you now have SEC disclosure obligations to worry about
+and Reg FD, of course.
+So thinking about all of that stuff in advance
+and war-gaming it out,
+I mean, we do these high-level tabletops
+with our customers or with our clients all the time,
+but a couple hours focusing on the whole incident response
+is valuable, of course.
+But really drilling down
+into that communications process, and protocol,
+and practicing what it's like to move a couple of inquiries
+from one stage gate to another,
+I think can be worth its weight all day every day
+because that's where we see companies tend to fall down.
+<v Kyle>No, perfect.</v>
+And this is kind of open to everybody,
+but in terms of a clientele, or a recent example,
+what did a thorough investigation
+that has helped an organization to recover,
+and like what was the outcome
+of that positive investigation?
+I guess Brendan,
+you probably might have the most expertise with this one
+in terms of your client base.
+<v Brendan>Yeah, fortunately,</v>
+or unfortunately, I guess.
+<v Kyle>Yep.</v>
+<v ->Depends on the situation.</v>
+I'll maybe spin your question a little bit differently
+of what can, in my opinion,
+from what we see on a frequent basis,
+what can make or break an organization's response
+to an incident?
+And as ridiculous as this may sound in some ways,
+it is very basic security concepts
+that ultimately do create the best outcome.
+I think very well-known,
+even if you have or have not been
+in the middle of one of these incidents before,
+that time is critical.
+And from Meredith's perspective,
+time to reach out to clients,
+time to reach out to customers,
+not only what you're contractually required to do,
+but also how do you continue to enable your business
+to be successful going forward?
+But time to recover.
+That's why RTO and RPO calculations
+are critical proactively.
+But, there is a foundational concept
+that if an organization does not have a full
+and in-depth understanding
+of what assets they're ultimately responsible for,
+and this probably dovetails nicely
+into Mike's prior comment,
+then it is very difficult to be able to go to a client,
+customer, partner, however they're defined,
+in a circumstance like Meredith described and say that,
+"Here's your attestation
+that you can reestablish a connection with our organization,
+and that that connection, or that channel,
+whatever that might be, is ultimately secured."
+You can't do that if you don't have a full
+and in-depth understanding
+of what the connection actually consists of
+and what devices are ultimately under your responsibility.
+So, asset inventory
+and being able to secure the organization at the edge
+is absolutely critical
+because that is the first question we ask is:
+Okay, you're telling us there was an incident,
+what was affected?
+If you can't answer the question,
+then we basically have to then answer the question for you.
+And that takes us a far longer period of time
+than if we can actually be provided with an answer quickly,
+or at least some semblance of an answer.
+It'll always change over time.
+So, that's what I would say, in my opinion,
+makes or breaks a successful response.
+And the ripple effect that is created,
+whether or not they can answer that question,
+is potentially catastrophic
+to the organization's long term (indistinct).
+<v Meredith>Well, just to tack on,</v>
+that also goes for data governance, too.
+<v ->Oh, yeah.</v>
+<v ->Like, it's asset inventory.</v>
+And then I can't tell you how many times we ask a client,
+"Okay, well, what's stored on that server?
+What's in this?
+What does this employee have access to?"
+And they're like, "Well, we have no idea."
+I'm like, "Well, great."
+Well, we don't know what to tell our customers then.
+So, same concept there applies.
+<v ->Yeah, can we say that to our largest client</v>
+or largest customer in the middle of an incident?
+Ideally not.
+<v ->And what about the smaller customers, too?</v>
+I mean, I can't tell you how many times I've heard the story
+of, "And then we test our...
+And then we tried our backups, but the backups didn't work."
+And I think the smaller entities have the data governance,
+data governance policies.
+Meredith was mentioning the preparation,
+being ready for that attack.
+It's just not invested in as much.
+Frequently, as further you go down the scale
+of size of business,
+so it becomes a real challenge in being able to recover
+when you haven't done the preparation.
+And that preparation, unfortunately,
+is a cost factor for the small companies
+that often they won't invest in.
+<v ->I mean, Mike, that kind of...</v>
+Sorry to, as you clear your throat there,
+but that kind of leads me into my...
+Perfect for my next question
+in terms of from an industry-wide collaboration,
+'cause obviously small businesses can't do it alone.
+How can we help organizations recover more effectively
+from large-scale incidents?
+<v ->So, large...</v>
+I mean, one of the more interesting large-scale incidents
+was the Microsoft SolarWinds.
+And there was not just the individual organizations
+working on their own,
+they were working with their vendors,
+they were bringing in their consultants, and partners,
+and companies that helped them with recovery.
+And the Department of Homeland Security was involved.
+There were phone calls,
+CISA hosting phone calls with 150, 200 people.
+On the call, most of them CISAs,
+most of them saying, "What do we do?"
+So,
+obviously, the recovery plan goes into effect,
+but it's all hands on deck, I would say.
+Brendan, Meredith maybe have perspective as well.
+It just...
+You gotta be firing on all eight cylinders
+<v ->That, and I mean,</v>
+there's no way around needing to test, develop...
+Well, develop, test incident response plans,
+disaster recovery, business continuity plans,
+even just having, if you're a smaller organization,
+a 24, 48, 72-hour checklist of,
+"What am I doing first?
+Who am I calling?
+Who are the vendors I'm gonna need to bring in?
+Have I met them?
+Am I shaking their hand on day one?
+Do I have cybersecurity insurance?"
+Those are things that I think smaller organizations
+can think about ahead of time
+to really ensure that if they do find themselves
+in a worst-case scenario,
+recovery is as planned out as possible
+because they know who they're gonna call.
+<v ->Mm-hmm, and you have to allocate the resources</v>
+to do that in the first place.
+<v ->Sure.</v>
+<v ->And I think it's the most challenging piece.</v>
+I know a 200-person organization
+where the IT manager says he's got 64 items
+on his to-do list that are all marked critical.
+And then after that,
+he can talk about a business continuity plan, response plan,
+any of this type of planning for the future.
+A lot of the smaller businesses
+are just hoping the worst does not happen.
+<v Kyle>And I mean, that kind of leads perfect segue</v>
+into the next point
+in terms of how we can prevent future attacks going forward.
+And I think Meredith, I'll start with you,
+and everybody please chime in,
+but what is the first step,
+and what are ways employees can train...
+or employers can train their employees and educate them
+to prevent future data breaches?
+<v ->Ooh, good question.</v>
+Look, I think we all probably have at our organizations
+the typical like click-through training,
+and this a phishing email, spot the insider threat.
+I think it's good
+that those are part of our regular compliance
+and annual trainings,
+but do they really move the needle?
+Who knows? I think where...
+And just to give you this background,
+I came from an organization into consulting
+that had a massive breach.
+How many people have heard of the company Equifax?
+Yeah, I was the Head of Crisis Communications
+during their 2017 breach.
+So, I have a little of experience,
+a little bit of experience with this.
+And what I would say is the company
+really went through a top-down, bottom up shift
+in the way that it prioritized cybersecurity.
+It became the first thing we talked about at every meeting,
+it was on the agenda for every town hall.
+The company post-incident tied annual incentive bonuses
+to individual security goals
+for every employee of the company.
+You regularly saw our CISO in your email inbox
+reminding you of things.
+We became very involved in certain groups
+that advocated for consumer privacy
+and better cyber awareness training.
+So, I think it's more than just doing the bare minimum.
+It's really a culture shift,
+and we have a program on my team now,
+but just because we do think this is so important
+where companies can hire us, essentially,
+to benchmark their culture of cybersecurity and figure out:
+Do I have a good culture?
+What are some of the things I need to be doing as a leader
+to move the needle,
+so that next year, when we do the same benchmarking,
+we can see the progress we've made?
+Or if we haven't made any progress,
+we know what levers to pull to make the score move,
+almost like a NIST framework or something like that,
+this is specific to culture.
+So, I do think training is important,
+I do think awareness is important,
+but I really think, to sum it up,
+it starts at the top
+and it has to be an organization-wide priority
+for it to really make a difference.
+<v ->Mm-hmm, can I just piggyback on that?</v>
+I think that is so smart
+because the shifting of corporate culture,
+regardless of what shift you want,
+shifting a corporate culture is an enormous task.
+And if you go back to like the '60s and '70s
+when the United States' manufacturing industry
+was getting hammered by quality...
+Sorry, automotive industry was getting hammered
+by quality concerns,
+as compared to imports.
+Companies like Ford
+put together massive campaigns internally,
+very similar to what you're describing at Equifax,
+where it suddenly became job one to do quality,
+and that became an actual marketing slogan.
+But if you were at Ford, you were part of a quality circle,
+you were part of ongoing requirements
+to find and remove errors, error cause removal.
+Kaizen was the word.
+So there's all of this stuff going on
+and incentives tied to your pay,
+the whole thing, exactly what you're describing,
+Ford had to go through that.
+And what happened? They did turn it around.
+It took them a decade to turn it around,
+even with this massive push.
+And it's just an enormous effort to shift a culture.
+So you can't do it, I believe, without C-suite push.
+And I mean CISO is a C-suite office,
+but I think a CEO is much-
+<v Meredith>And the board.</v>
+<v ->And the board, yeah,</v>
+it really has to be something
+that the corporation considers a priority
+because it is an expense, not a revenue opportunity,
+not a profit increase opportunity.
+It's a cost center element.
+It's hard to get that level of commitment and priority.
+It's unfortunately where we're at.
+<v ->Mike, as a Metro Detroiter,</v>
+I'm a big fan of Alan Mulally,
+so I appreciate that you made that reference.
+And I think some of that mind shift
+is to see security as a business enabler, right?
+I mean, everyone's here
+because of the rapid pace of technological innovation
+and adoption across a variety of industries
+to make all of our lives better.
+Pretty safe to say that.
+That can't entirely be accomplished
+in the way that it's intended,
+as far as making the impact to of the lives of a consumer,
+the continued operation of a business,
+and to keep pace with the level of innovation
+that's expected,
+and in many ways incumbent upon us
+to continue to operate a healthy economy
+and a global market.
+If what we are implementing
+and what we're creating and building
+doesn't have security built into its foundation
+to either protect the privacy of consumers
+or protect, in some cases,
+the physical security of those consumers as well.
+<v ->And Brendan, I kinda wanna stay with your comment,</v>
+going off that right there is:
+What type of technologies
+are you seeing in this space right now
+that are helping kind of make that transformation?
+Whether it be from a culture shift
+or from a how to basically prevent...
+Enhance incident response
+or prevent any type of incident from happening?
+So maybe a technology like automation or something.
+<v ->Yeah, and I think it almost dovetails quite nicely</v>
+into some of Mike's prior comments
+is relative to resourcing,
+that's a challenge that we have in our consulting business.
+It's a challenge that every organization around the world,
+large or small,
+there's a very common thread of resourcing
+and resourcing for highly-qualified cyber defense operators
+in a way that prevents either nation-state-level adversaries
+or criminal adversaries
+that are maybe targeting a little bit lower hanging fruit.
+It is the ability
+to sift through what is actually the most important thing
+that they need to respond to.
+So, you made the comment about the friend of yours
+was 64 critical items on his checklist.
+That is a lot of critical items.
+And if you were to look at many EDR tools,
+or you look at many seams,
+or other sort of log aggregators that are gonna tell you
+what is the highest level of importance
+of what thing you need to respond to,
+everything's gonna be red, yellow,
+maybe some green, a couple of orange in there,
+probably depends on how the product company
+presents that information.
+But there's a lot of things that you would have to do.
+And ultimately, the ability to create higher fidelity alerts
+for the analyst to be able to respond faster
+and respond in a way that creates a better impact
+to preventing malicious activity
+is ultimately that's what we look to
+and that's what we advise our clients on.
+Whether that's AI-enabled,
+whether it's machine-learning-operated,
+or a variety of other outcomes to achieve that.
+<v Kyle>And I mean, perfect segue to the next spot,</v>
+but Mike, I mean, you're the emerging technology expert
+in terms of at CTA.
+How are technologies like AI and quantum
+kind of being leveraged proactively
+to secure systems against future attacks?
+<v ->So, that's kind of a two-pronged question.</v>
+It's a great question.
+So, starting with quantum.
+I think it's not a secret
+that we're anticipating that sometime in...
+the next decade, the 2030s.
+There will be, cryptographically relevant quantum computers,
+CRQCs,
+and these are computers that are powerful enough
+to crack modern public key infrastructure,
+public key encryption.
+So, what happens then is anybody who is using public key,
+the way we use it now with RSA and lift to curve,
+anyone who's using that in 2035
+is at risk of their data being collected and decrypted,
+whether it's financial reports, intellectual property,
+sensitive email communications, all of that.
+So anything that's protected with TLS,
+for example right now, HTTPS.
+That's great.
+All right, we've got a decade to prepare, right?
+The problem is the harvest-now-decrypt-later problem,
+which is data that is collected today,
+whether it's by a competitor, a nation state,
+that data can be decrypted
+when that cryptographically relevant quantum computer
+becomes available.
+That means it's an immediate problem.
+I mean, what secrets do you have now
+that you really don't want revealed in 2035?
+A lot of things have a sort of like a lifetime,
+a half-life.
+But there are some things, probably,
+that you really don't want people to know about,
+even 10 years from now,
+and it may be trade secrets or something like that.
+The formula for Coke,
+the 11 herbs and spices in Kentucky Fried Chicken.
+So, that means that the problem
+of getting post-quantum safe is a real problem now.
+So NIST, the Department of Commerce's
+National Institute of Science and Technology,
+has been driving development of algorithms,
+standardization of those algorithms
+into how they can be incorporated
+into the tools that we use every day,
+and encouraging industry to migrate.
+How do you migrate?
+Inventory your use of encryption
+and public key infrastructure, know where you're using it,
+and this goes to the point Meredith had made,
+know what you're doing.
+And then work with your vendors
+on replacing what you're using now
+with something that's quantum-safe.
+The challenge is it would be nice
+if just dropped in one for one replacement.
+There's some things that are done a little bit differently.
+But this is actually happening now.
+And so get on that train a little bit.
+Go to the NIST website.
+All you have to do is hunt down NIST post-quantum roadmap,
+and you can find information
+on what you should be doing there.
+And talk to your vendors, do your inventorying.
+So, there's one.
+The second one,
+artificial intelligence is really interesting situation
+because it's weapons for both sides, right?
+It's red team and blue team weapons.
+So you've got tools that are coming along nicely for...
+endpoint detection of exploits and attacks
+for all kinds of...
+all kinds of compromises.
+So, artificial intelligence is a very powerful tool.
+That's great.
+On the other hand, the hackers have it, too.
+And so what we're seeing is we track a little of this
+in terms of some companies that we watch
+for the Nasdaq NQCYBR Index
+to see who's using AI for what purposes on the attack side.
+And we also hear about it from CISA
+and other government agencies on the threat side.
+And it's interesting because what I have seen,
+I would characterize it as a race
+where one side pulls ahead,
+then the other side pulls ahead.
+Right now, I'd give the hackers a slight edge.
+And that's just the chaos that they benefit from.
+<v Meredith>And the resources we give them, we pay them.</v>
+<v ->Yeah, I mean if you look at...</v>
+I don't know if you mentioned this, but the ransomware,
+the biggest ransomware organizations are...
+I mean, these are billion-dollar organizations now.
+It's ridiculous.
+I mean, something like $50 billion
+for the largest organization, their revenue up to date,
+and what they're doing with that is they're reinvesting it.
+I mean, it's like going to war with Microsoft at this point.
+<v ->So, going off that, like what are some of,</v>
+and this is probably
+more Brendan and Meredith kind of question,
+but what are the top priorities for organizations right now
+and looking to strengthen over the next five years?
+So he mentioned quantum that's starting now,
+but it won't be kind of industry-wide until 2035 or 2030s.
+What are some of the top priorities right now
+or organizations are doing to either, A, get ready for that,
+or B, just prevent future attacks in general?
+<v ->Do you wanna start?</v>
+<v ->Yeah, I mean, I'm gonna use a prior comment that I made</v>
+of...
+taking it back to basic and foundational security concepts,
+and that is the best place to start.
+Resources will always continue to be a challenge,
+and especially as there is, I think,
+more sophisticated adoption of AI,
+quantum threat becomes far more prevalent
+as time progresses.
+But that's the highest impact that can be made now.
+So, I'd rather see whether at the enterprise level
+or organizations that are much smaller
+and in the SMB mid-market category, if you will,
+I'd rather see monumental steps made
+towards foundational security concepts
+because they can make an immediate impact,
+rather than massive investments in different products, even.
+There are more policy-driven angles that can be taken
+that don't require necessarily...
+There's still some resource investment
+of someone's time and labor,
+but does not necessarily require
+very large licensing purchases.
+Doesn't necessarily require an organization
+to go and buy every single product under the sun
+in order to accomplish some of the foundational tasks
+that someone ultimately should be responsible for
+or held responsible for.
+<v ->I couldn't agree more.</v>
+I mean, I think it's the basic blocking and tackling
+sort of the fundamentals of security
+that we still see organizations fall down on
+and are the cause of most breaches, right?
+Like, they didn't apply a patch,
+so patch management needs to be prioritized.
+They're looking for some sort of new technology,
+shiny bullet that they can install to keep them safer,
+but yet they're behind on security and awareness training
+or whatever it may be.
+So, I do think you make such an important point
+with the basic blocking and tackling,
+asset inventory, all of those things.
+Culture, prioritizing, as we said before,
+the mindset of security is a priority for our company.
+And that basic preparedness.
+Having your incident response plan,
+ensuring that it's practiced, tested, constantly evolved.
+So many times, we're still seeing...
+We get really excited when the root cause of an incident
+is some like zero-day vulnerability or something like that,
+but I can't tell you how few and far between those are.
+It is still the basic,
+like employee fell for a phishing link,
+or creds, passwords were reused and scraped off the dark web
+because an employee used the same one,
+or passwords weren't rotated or complex enough.
+And it's always those basic human-driven errors
+that tend to be the cause
+of so many of the big incidents we work on,
+and really they're preventable.
+So again, it's like knowing your assets,
+legacy systems,
+password requirements and complexity requirements,
+training, awareness.
+Those are the things
+that companies still aren't getting right.
+That lead to, I would say,
+90% of the massive incidents we work on.
+<v ->Hmm, and these are some of the largest organizations</v>
+in the world
+that are falling victim to an incident
+that is ultimately stemming from the same challenge
+that some of the smallest companies in the world
+are dealing with as well.
+Whether it's five endpoints
+or 500,000 endpoints in an environment,
+it is consistently the same problem.
+<v ->Everything you guys are saying really resonates.</v>
+One of the things I noticed the other day,
+I was looking at CISA's
+And 2023, I think this was.
+And several of them were two or three years old.
+It's like most exploited,
+not something that just cropped up once or twice.
+The most commonly exploited ones were known
+and documented with CVEs three years before, so...
+<v ->And patch was never applied.</v>
+<v ->I mean, that's a perfect</v>
+kind of in my last question for the day,
+but because that is a governmental agency,
+how can partnerships
+between the private sector and the government
+accelerate the adoption of these preventative measures
+across the industry?
+And I'll probably start with Mike
+'cause you may have a better understanding,
+but please open it up to everybody else after that.
+<v ->Sure, sure. Well, one thing.</v>
+It's not so much preventative as it is preparation,
+but along with the other comments that Meredith had made,
+I want to add in.
+Get to know your local FBI office, right?
+The first person you should call when you have been hacked
+is that person.
+And it shouldn't be the first time.
+Again, this is something you were saying,
+it should not be the first time you talk to your vendors.
+It also shouldn't be the first time you talk to the FBI.
+They're not there to like judge, "Can I help them?
+And by the way, were any laws broken?"
+They're entirely there to help you.
+And yeah, they're gonna be talking to you
+about whether or not you pay for the ransomware,
+but ultimately, that'll be your call.
+Definitely get to know the FBI, the local.
+They would love to talk to you, trust me.
+<v ->Yeah, and I think building on that,</v>
+it depends on what industry you're in, too.
+I mean, CISA can be a great partner
+if you're deemed critical infrastructure.
+Some of the ISACs are great,
+the FS-ISAC for if you're in financial services
+are really good sources of meaningful threat intelligence.
+Totally agree with the FBI.
+I might argue your first case
+should be call to your lawyer, but...
+<v ->Well, that too.</v>
+<v ->But no, no, I'm joking.</v>
+<v ->Not first off, yeah.</v>
+<v ->But truly,</v>
+we do see the FBI now providing, again, meaningful IoCs,
+meaningful threat intelligence.
+maybe they had a case with the same bad guys a week ago
+where a payment was made
+and the company was re-extorted anyways,
+we see that a lot now.
+So, I do think the partnership
+between the government and private sector
+has gotten stronger and better,
+and there's not this fear anymore to pick up the phone
+and call your local law enforcement, there's no...
+We rarely see leaks to the public
+or to the press coming from law enforcement,
+and like, it's a great way to get some kudos, too,
+if you do have to go public with the incident.
+In particular, if you're dealing with a zero-day exploit
+or a zero-day vulnerability,
+you provide that to CISA,
+CISA gives you a pat on the back for it.
+You can go out and say we were proactive.
+Rising tide lifts all boats.
+We wanna be good partners to our peers
+and to others in the industry
+so that they can learn from this, too.
+So, totally agree with what you said and echo everything.
+<v ->Yeah, I'll definitely echo that again.</v>
+Information sharing is critical,
+and that's in many places,
+not obviously a variety of these agencies
+that you referenced have their own capabilities
+to go research and identify this type of activity,
+and certainly through the IC3
+or other reporting avenues as well.
+But, we help feed that information as well.
+So we report this type of information
+to various agencies in anonymized ways,
+and only when we're authorized to do so.
+But it helps to embolden the security posture
+of the entire world.
+So, that's the goal.
+<v ->I will add on your information-sharing perspective.</v>
+One of the kinds of information the FBI has,
+keys to the ransomware that has been reused.
+Sometimes, after the ransom is paid,
+they discover that the hackers
+are doing the same password sharing that...
+or password reuse that we all do, right?
+So they're like, "Well, we'll just use the same one.
+We're not gonna generate a new key for this one."
+And so the FBI sometimes
+can actually uncrack the ransomware for you.
+So definitely.
+<v ->It's a great point.</v>
+And sorry, last thing I'm gonna say,
+I know we're out of time.
+So our team actually worked on,
+it's very public, we worked on it,
+so it's a case I can actually talk about for once.
+But we worked on the colonial pipeline crisis response
+for that ransomware incident.
+For anyone that doesn't know it,
+that was the attack on the pipeline
+that moves gasoline up and down the East Coast of the U.S.
+So a couple years ago, if you ran out of gas,
+that was the situation,
+and the company notified the FBI so quickly
+and was in touch with DHS, the DOE, the White House.
+We were briefing the White House every day, the NSC,
+and they acted so quickly
+that the FBI was actually able to trace the payment
+that the company made
+to get the decryption key on blockchain to the bad guys
+and then see the money moving to these different affiliates
+of the ransomware gang.
+And ultimately,
+they were able to claw back to intercept that
+and get some of the money back for the company.
+Doesn't happen often,
+but it was a benefit of the call
+being one of the first they made to law enforcement.
+So, it truly can help in times of need.
+<v ->Thank you so much. I mean, thank you so much.</v>
+We are out of time.
+Getting a little cut off here,
+but kind of to wrap it all up.
+One thing, if you don't...
+If you leave here with anything, I'm just gonna say it.
+If you see it, say it,
+and communication is key for cybersecurity.
+So, thank you all so much.
+Thank you all for being here,
+and enjoy the rest of your show, please.

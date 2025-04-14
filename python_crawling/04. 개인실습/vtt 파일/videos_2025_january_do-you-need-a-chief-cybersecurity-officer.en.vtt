@@ -1,0 +1,4090 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.125 --> 00:02.708
+(upbeat music)
+
+2
+00:10.470 --> 00:13.800
+<v ->Hope everybody's having an amazing CES.</v>
+
+3
+00:13.800 --> 00:16.110
+This panel is about,
+
+4
+00:16.110 --> 00:20.220
+do you need a chief cybersecurity officer?
+
+5
+00:20.220 --> 00:22.110
+And we're ready to get started.
+
+6
+00:22.110 --> 00:24.090
+A little bit about me before.
+
+7
+00:24.090 --> 00:27.540
+I'm an editor at ZDNET on the news team.
+
+8
+00:27.540 --> 00:28.890
+I've covered cybersecurity
+
+9
+00:28.890 --> 00:32.520
+and enterprise coverage topics before.
+
+10
+00:32.520 --> 00:34.800
+Right now, I focus on AI,
+
+11
+00:34.800 --> 00:36.270
+particularly helping our audience
+
+12
+00:36.270 --> 00:40.230
+learn how to navigate the AI revolution we're currently in.
+
+13
+00:40.230 --> 00:43.020
+But enough about that. Now to our amazing panelists.
+
+14
+00:43.020 --> 00:44.460
+I would love to kick off the panel
+
+15
+00:44.460 --> 00:46.740
+by letting them each introduce themselves.
+
+16
+00:46.740 --> 00:49.170
+So just tell us a little bit about who you are,
+
+17
+00:49.170 --> 00:51.960
+what you do, and how you got into cybersecurity.
+
+18
+00:51.960 --> 00:54.330
+<v ->Got it. Well, thank you, Sabrina.</v>
+
+19
+00:54.330 --> 00:56.343
+And, you know, welcome, everybody here.
+
+20
+00:57.240 --> 01:00.123
+So my name is Nabil Bukhari. I work for Extreme Networks.
+
+21
+01:01.020 --> 01:02.220
+You might be familiar with it.
+
+22
+01:02.220 --> 01:05.790
+Extreme Networks is the largest pure play networking company
+
+23
+01:05.790 --> 01:07.413
+for enterprises on the planet.
+
+24
+01:08.640 --> 01:11.070
+Who's who in the world,
+
+25
+01:11.070 --> 01:13.110
+you know, that runs on our technology.
+
+26
+01:13.110 --> 01:15.780
+For example, if you ever go to a sports stadium
+
+27
+01:15.780 --> 01:17.670
+in US and half of Europe,
+
+28
+01:17.670 --> 01:19.410
+you're probably on our network.
+
+29
+01:19.410 --> 01:21.450
+You know, when you go fly anywhere,
+
+30
+01:21.450 --> 01:23.490
+you're probably on our network.
+
+31
+01:23.490 --> 01:26.070
+You get packages. Those come through our network.
+
+32
+01:26.070 --> 01:29.310
+So we're very, very widely deployed out there.
+
+33
+01:29.310 --> 01:31.170
+My role there, I play multiple roles there.
+
+34
+01:31.170 --> 01:32.760
+I'm the CTO, I'm the CPO,
+
+35
+01:32.760 --> 01:35.340
+I'm also the general manager of the subscription business,
+
+36
+01:35.340 --> 01:38.733
+so you can say that I'm half technology and half business.
+
+37
+01:39.840 --> 01:41.460
+How did we get into cybersecurity?
+
+38
+01:41.460 --> 01:44.190
+I think we moved into the security space
+
+39
+01:44.190 --> 01:46.080
+about three or four years ago,
+
+40
+01:46.080 --> 01:49.350
+and we moved in there because we felt that security
+
+41
+01:49.350 --> 01:52.800
+was kind of like a overlay niche market by itself,
+
+42
+01:52.800 --> 01:54.750
+and we felt that that was the most inefficient way
+
+43
+01:54.750 --> 01:56.610
+to secure our clients,
+
+44
+01:56.610 --> 01:59.490
+and that's why we ended up kind of moving into that space
+
+45
+01:59.490 --> 02:00.840
+and converging the networking
+
+46
+02:00.840 --> 02:02.400
+and security products together.
+
+47
+02:02.400 --> 02:05.310
+So that's kind of, you know, who I am, what we are doing,
+
+48
+02:05.310 --> 02:08.430
+and how we are related to cybersecurity, yeah.
+
+49
+02:08.430 --> 02:10.590
+<v ->Well, thank you so much. Karen?</v>
+
+50
+02:10.590 --> 02:11.940
+<v ->Hi, I am Karen Evans.</v>
+
+51
+02:11.940 --> 02:14.970
+I'm the managing director for the Cyber Readiness Institute.
+
+52
+02:14.970 --> 02:17.190
+And do you wanna know how
+
+53
+02:17.190 --> 02:19.740
+the Cyber Readiness Institute got started
+
+54
+02:19.740 --> 02:21.780
+or how I got started in cyber?
+
+55
+02:21.780 --> 02:24.240
+'Cause those are two different things
+
+56
+02:24.240 --> 02:28.230
+and the reason why I do the Cyber Readiness Institute.
+
+57
+02:28.230 --> 02:31.320
+So it's a nonprofit that's focused
+
+58
+02:31.320 --> 02:33.240
+on small and medium businesses,
+
+59
+02:33.240 --> 02:37.500
+and what we do is we're focused on four core issues,
+
+60
+02:37.500 --> 02:40.560
+which is considered cyber hygiene,
+
+61
+02:40.560 --> 02:42.450
+but it's really about human behavior
+
+62
+02:42.450 --> 02:47.010
+and the focus and culture of an organization
+
+63
+02:47.010 --> 02:50.040
+so that you're always focused on what is the risk
+
+64
+02:50.040 --> 02:52.770
+and that you ingrain this into all your employees,
+
+65
+02:52.770 --> 02:54.090
+and it's free.
+
+66
+02:54.090 --> 02:58.470
+And the reason why the Cyber Readiness Institute got started
+
+67
+02:58.470 --> 03:00.420
+is because several years ago,
+
+68
+03:00.420 --> 03:02.730
+President Obama had a commission
+
+69
+03:02.730 --> 03:05.010
+as it related to cybersecurity,
+
+70
+03:05.010 --> 03:08.010
+and the two co-chairs on that,
+
+71
+03:08.010 --> 03:11.610
+one of which is our leader, which is Sam Palmisano.
+
+72
+03:11.610 --> 03:14.820
+A few of you might know him. He used to run IBM.
+
+73
+03:14.820 --> 03:17.130
+He runs several nonprofits now.
+
+74
+03:17.130 --> 03:21.330
+He's also running a big venture capital fund.
+
+75
+03:21.330 --> 03:23.640
+They made all these recommendations,
+
+76
+03:23.640 --> 03:25.290
+but they knew that the funding
+
+77
+03:25.290 --> 03:27.570
+was gonna go to state and local governments
+
+78
+03:27.570 --> 03:30.780
+and then to critical infrastructure.
+
+79
+03:30.780 --> 03:34.110
+And their recognition was small and medium businesses
+
+80
+03:34.110 --> 03:36.840
+are the economic driver of every country
+
+81
+03:36.840 --> 03:39.543
+and that if they don't get it right,
+
+82
+03:40.500 --> 03:43.200
+it's gonna affect the supply chains of everything.
+
+83
+03:43.200 --> 03:46.230
+And I thought that that was pretty intuitive
+
+84
+03:46.230 --> 03:48.930
+and have a lot of foresight on their part.
+
+85
+03:48.930 --> 03:50.730
+The other person who was his partner,
+
+86
+03:50.730 --> 03:52.080
+and this is Ajay Banga,
+
+87
+03:52.080 --> 03:54.600
+who was the CEO of MasterCard at the time,
+
+88
+03:54.600 --> 03:57.390
+and he's now in charge of the World Bank.
+
+89
+03:57.390 --> 04:01.380
+But the companies that belong to CRI that started this
+
+90
+04:01.380 --> 04:03.063
+are MasterCard, Apple,
+
+91
+04:04.530 --> 04:09.530
+it was GM, ExxonMobil, and then Principal Financial,
+
+92
+04:09.630 --> 04:11.040
+and now T-Mobile is there.
+
+93
+04:11.040 --> 04:13.470
+So it's a small group of companies
+
+94
+04:13.470 --> 04:16.440
+that are very focused globally
+
+95
+04:16.440 --> 04:20.490
+on the economics supply chain
+
+96
+04:20.490 --> 04:23.910
+of a lot of different industries across the board.
+
+97
+04:23.910 --> 04:25.950
+So that's how that got started.
+
+98
+04:25.950 --> 04:27.540
+But I'll save my story
+
+99
+04:27.540 --> 04:30.240
+of how I got started in cybersecurity
+
+100
+04:30.240 --> 04:32.130
+'cause that one is always...
+
+101
+04:32.130 --> 04:33.330
+You don't wanna follow it,
+
+102
+04:33.330 --> 04:36.690
+so I'll hold it
+(panelists laugh)
+
+103
+04:36.690 --> 04:39.728
+until the right time to share it.
+
+104
+04:39.728 --> 04:41.040
+<v ->Okay, well thank you.</v>
+<v ->I appreciate that.</v>
+
+105
+04:41.040 --> 04:42.180
+<v ->Kevin?</v>
+
+106
+04:42.180 --> 04:44.280
+<v ->Yeah, I appreciate that, Karen.</v>
+
+107
+04:44.280 --> 04:47.700
+So my name's Kevin, co-founder and CEO of Doppel.
+
+108
+04:47.700 --> 04:49.650
+We're an AI cybersecurity startup
+
+109
+04:49.650 --> 04:51.660
+that started just a couple years ago,
+
+110
+04:51.660 --> 04:55.233
+and we're now the fastest growing company in our vertical.
+
+111
+04:56.100 --> 04:57.720
+We serve, you know, everyone
+
+112
+04:57.720 --> 05:00.000
+from small and medium-sized businesses
+
+113
+05:00.000 --> 05:03.390
+to high-growth startups to Fortune 500s,
+
+114
+05:03.390 --> 05:06.660
+and we focus in particular on all things social engineering.
+
+115
+05:06.660 --> 05:08.910
+So if you've ever gotten a text
+
+116
+05:08.910 --> 05:11.130
+from someone pretending to be your boss
+
+117
+05:11.130 --> 05:14.520
+or if you've seen, you know, maybe a fake LinkedIn profile
+
+118
+05:14.520 --> 05:17.220
+of, you know, someone pretending to be part of your company
+
+119
+05:17.220 --> 05:20.160
+or, you know, even just a traditional phishing email, right,
+
+120
+05:20.160 --> 05:22.440
+and spoof website,
+
+121
+05:22.440 --> 05:24.360
+our job is to go and detect
+
+122
+05:24.360 --> 05:26.280
+and, you know, analyze all those sorts of threats
+
+123
+05:26.280 --> 05:28.203
+and then take them down at the source.
+
+124
+05:29.430 --> 05:31.890
+You know, how I got into cybersecurity,
+
+125
+05:31.890 --> 05:34.410
+so before all this and before Doppel,
+
+126
+05:34.410 --> 05:36.990
+I was a software engineer at Uber and Lyft.
+
+127
+05:36.990 --> 05:39.780
+Worked on dispatch systems and flying cars,
+
+128
+05:39.780 --> 05:43.650
+so very different world than cybersecurity.
+
+129
+05:43.650 --> 05:47.130
+But, you know, kind of cliche Silicon Valley story,
+
+130
+05:47.130 --> 05:49.980
+my co-founder and I, Rahul, wanted to start something
+
+131
+05:49.980 --> 05:51.870
+and do it in the AI space,
+
+132
+05:51.870 --> 05:55.170
+where, you know, he was roommates
+
+133
+05:55.170 --> 05:56.400
+and is still very good friends
+
+134
+05:56.400 --> 06:00.240
+with one of the lead researchers at ChatGPT and OpenAI.
+
+135
+06:00.240 --> 06:03.360
+And, you know, seeing how that was changing the world
+
+136
+06:03.360 --> 06:05.477
+made it very clear that there needed to be new products
+
+137
+06:05.477 --> 06:09.540
+in the cybersecurity space, so that's how we ended up here.
+
+138
+06:09.540 --> 06:11.520
+<v ->Well, thank you so much for those introductions.</v>
+
+139
+06:11.520 --> 06:12.480
+I think we should jump
+
+140
+06:12.480 --> 06:16.110
+right into the title of our session today.
+
+141
+06:16.110 --> 06:20.400
+Do companies need a chief information security officer,
+
+142
+06:20.400 --> 06:23.493
+also known as a CISO in the industry?
+
+143
+06:24.420 --> 06:26.400
+Who's ready to take it on?
+
+144
+06:26.400 --> 06:27.848
+<v ->I'll-</v>
+<v ->You go first.</v>
+
+145
+06:27.848 --> 06:28.860
+<v ->I go first.</v>
+
+146
+06:28.860 --> 06:30.480
+We'll keep the sequence.
+<v ->We were prepping for this,</v>
+
+147
+06:30.480 --> 06:32.580
+and it was really...
+
+148
+06:32.580 --> 06:35.460
+They had to cut us off in the prep session, so you go first.
+
+149
+06:35.460 --> 06:37.920
+<v ->Yeah, all right. (laughs)</v>
+
+150
+06:37.920 --> 06:41.670
+So, Sabrina, I think the answer is it depends, right?
+
+151
+06:41.670 --> 06:45.060
+So I think the general thought that people think,
+
+152
+06:45.060 --> 06:46.680
+like, "Oh, my god, if I don't have a CISO
+
+153
+06:46.680 --> 06:49.980
+then I don't have a security policy or security strategy
+
+154
+06:49.980 --> 06:51.330
+or I'm, like, under a lot of risk."
+
+155
+06:51.330 --> 06:53.550
+I think that is all bullshit.
+
+156
+06:53.550 --> 06:57.600
+That's more, you know, kind of hype than anything else.
+
+157
+06:57.600 --> 07:00.270
+When we see out in the market
+
+158
+07:00.270 --> 07:02.610
+is that most of the companies,
+
+159
+07:02.610 --> 07:04.980
+actually even at the mid level and the high level,
+
+160
+07:04.980 --> 07:07.110
+actually don't really have dedicated CISOs
+
+161
+07:07.110 --> 07:08.910
+in the E-staff, right?
+
+162
+07:08.910 --> 07:09.750
+And most of the times,
+
+163
+07:09.750 --> 07:12.300
+they actually report in to the CIOs, right?
+
+164
+07:12.300 --> 07:13.770
+So we see that trend quite a bit.
+
+165
+07:13.770 --> 07:15.930
+I would say that since this panel
+
+166
+07:15.930 --> 07:18.123
+is about small to medium business,
+
+167
+07:19.080 --> 07:20.460
+I would say every business should decide
+
+168
+07:20.460 --> 07:21.360
+whether they need it or not,
+
+169
+07:21.360 --> 07:23.490
+but I would give you three things to consider.
+
+170
+07:23.490 --> 07:25.260
+Number one is cost, right?
+
+171
+07:25.260 --> 07:26.790
+If you're a 200-people company,
+
+172
+07:26.790 --> 07:29.130
+do you really have the business
+
+173
+07:29.130 --> 07:30.480
+and do you even have the money
+
+174
+07:30.480 --> 07:34.590
+to actually create a complete CISO organization?
+
+175
+07:34.590 --> 07:36.540
+Most, probably not, and at that point in time,
+
+176
+07:36.540 --> 07:39.390
+the risk and the benefit, they don't really match up.
+
+177
+07:39.390 --> 07:41.610
+So one is related to your size.
+
+178
+07:41.610 --> 07:43.170
+Second is related to your business.
+
+179
+07:43.170 --> 07:45.840
+Depending upon if you are in healthcare,
+
+180
+07:45.840 --> 07:47.430
+then that's a very different answer
+
+181
+07:47.430 --> 07:49.650
+compared to, you know, an industry
+
+182
+07:49.650 --> 07:51.330
+that is not that highly regulated.
+
+183
+07:51.330 --> 07:52.950
+So that will be the second part.
+
+184
+07:52.950 --> 07:56.460
+And the third part, I would say, is more organizational.
+
+185
+07:56.460 --> 07:58.350
+What we have seen in the market
+
+186
+07:58.350 --> 08:02.040
+is that the moment you take a thing out
+
+187
+08:02.040 --> 08:05.700
+and make it a separate role altogether,
+
+188
+08:05.700 --> 08:07.770
+like, for example, you say, like, "Hey, there's a CISO,
+
+189
+08:07.770 --> 08:10.560
+and now, CISO, you're responsible for the security."
+
+190
+08:10.560 --> 08:12.457
+Then every other exec says that,
+
+191
+08:12.457 --> 08:14.490
+"Okay, that's not my problem anymore."
+
+192
+08:14.490 --> 08:19.490
+And it ends up creating a very siloed approach to security.
+
+193
+08:19.770 --> 08:23.070
+So it depends upon the organizational structure and culture,
+
+194
+08:23.070 --> 08:26.520
+but I would say that for medium to small size,
+
+195
+08:26.520 --> 08:28.170
+if I were to take a wild guess,
+
+196
+08:28.170 --> 08:30.300
+I would say most of them are better off
+
+197
+08:30.300 --> 08:33.330
+not having a CISO than having a CISO,
+
+198
+08:33.330 --> 08:35.840
+based on these three aspects, right?
+
+199
+08:35.840 --> 08:39.151
+So that's at least how we view it in the market, yeah.
+
+200
+08:39.151 --> 08:39.984
+<v Sabrina>Okay.</v>
+
+201
+08:39.984 --> 08:43.350
+<v ->So my background is government.</v>
+
+202
+08:43.350 --> 08:45.420
+I have 30 years in the federal government,
+
+203
+08:45.420 --> 08:48.540
+and I was chief information officer
+
+204
+08:48.540 --> 08:53.540
+for Department of Energy, Department of Homeland Security,
+
+205
+08:54.570 --> 08:57.060
+for the United States government for six years,
+
+206
+08:57.060 --> 08:59.190
+so I managed a budget at that point
+
+207
+08:59.190 --> 09:04.190
+of $71 billion in IT investments across the board.
+
+208
+09:04.500 --> 09:07.590
+And I also was the first assistant secretary
+
+209
+09:07.590 --> 09:10.870
+for Cybersecurity, Energy Security, and Emergency Response
+
+210
+09:11.790 --> 09:12.990
+in the Department of Energy.
+
+211
+09:12.990 --> 09:17.220
+So I was responsible for the power grid,
+
+212
+09:17.220 --> 09:19.503
+and the government doesn't own it, okay?
+
+213
+09:21.223 --> 09:25.650
+So I can relate to CISOs who have responsibilities.
+
+214
+09:25.650 --> 09:28.140
+The title of this piece, though,
+
+215
+09:28.140 --> 09:29.940
+and I agree with everything that you said
+
+216
+09:29.940 --> 09:31.560
+about small and medium businesses
+
+217
+09:31.560 --> 09:34.173
+'cause it's always a trade-off on the resources,
+
+218
+09:35.010 --> 09:37.170
+and that's why, again, we're focused on the culture,
+
+219
+09:37.170 --> 09:39.450
+'cause you said culture multiple times.
+
+220
+09:39.450 --> 09:43.680
+But I think there's a lot in the title itself,
+
+221
+09:43.680 --> 09:46.950
+which is chief information security officer.
+
+222
+09:46.950 --> 09:49.170
+And if the chief information officer...
+
+223
+09:49.170 --> 09:54.060
+So this is my bias 'cause I'm from a CIO background.
+
+224
+09:54.060 --> 09:56.610
+If the CIO is really doing their job,
+
+225
+09:56.610 --> 09:59.580
+which is the strategic use of information,
+
+226
+09:59.580 --> 10:02.820
+which that's what you were talking about from your company,
+
+227
+10:02.820 --> 10:07.110
+then the CISO,
+
+228
+10:07.110 --> 10:09.810
+as long as they have the I in their title,
+
+229
+10:09.810 --> 10:13.650
+should always belong to the chief information officer
+
+230
+10:13.650 --> 10:17.100
+because it's talking about the security of the information.
+
+231
+10:17.100 --> 10:20.640
+It's talking about the risk associated with it,
+
+232
+10:20.640 --> 10:24.510
+the integrity, everything associated with information.
+
+233
+10:24.510 --> 10:27.120
+Now, in the government space,
+
+234
+10:27.120 --> 10:29.460
+every time the CIO doesn't do the job,
+
+235
+10:29.460 --> 10:33.240
+and this gets into your part about the bifurcation,
+
+236
+10:33.240 --> 10:34.620
+we get a new chief.
+
+237
+10:34.620 --> 10:35.910
+So, like, now there's a new
+
+238
+10:35.910 --> 10:39.954
+chief customer experience officer-
+
+239
+10:39.954 --> 10:40.787
+<v ->Or chief AI officer.</v>
+
+240
+10:40.787 --> 10:42.510
+<v ->So we have a chief AI officer,</v>
+
+241
+10:42.510 --> 10:44.190
+we have a chief data officer,
+
+242
+10:44.190 --> 10:46.560
+we have a chief information security officer,
+
+243
+10:46.560 --> 10:50.130
+we have a chief customer experience officer,
+
+244
+10:50.130 --> 10:52.350
+we have a chief innovation officer,
+
+245
+10:52.350 --> 10:55.410
+we have a chief technology officer.
+
+246
+10:55.410 --> 11:00.090
+All of those functions are what a CIO
+
+247
+11:00.090 --> 11:03.300
+is really supposed to be doing in an organization.
+
+248
+11:03.300 --> 11:06.300
+It's about the strategic use of information
+
+249
+11:06.300 --> 11:08.730
+to enhance that customer experience
+
+250
+11:08.730 --> 11:11.160
+while you're securing and managing the risk.
+
+251
+11:11.160 --> 11:15.270
+And if a CIO doesn't do their job,
+
+252
+11:15.270 --> 11:18.240
+that's why you see a lot of this happening.
+
+253
+11:18.240 --> 11:20.940
+And to your point, what happens is,
+
+254
+11:20.940 --> 11:23.340
+and I've seen this in private industry a lot,
+
+255
+11:23.340 --> 11:25.500
+is, "Oh, I have to have a CISO."
+
+256
+11:25.500 --> 11:30.480
+And then they become the scapegoat when a hack happens,
+
+257
+11:30.480 --> 11:31.830
+and it's like, "Man."
+
+258
+11:31.830 --> 11:35.700
+And so, like, they move around all over the place.
+
+259
+11:35.700 --> 11:37.500
+Like, they're worse than,
+
+260
+11:37.500 --> 11:40.470
+in DC, it's called political appointees.
+
+261
+11:40.470 --> 11:42.420
+They have, like, a useful shelf life
+
+262
+11:42.420 --> 11:44.670
+of about 18 to 24 months, right?
+
+263
+11:44.670 --> 11:48.180
+Because once an incident happens, they're gone
+
+264
+11:48.180 --> 11:49.740
+because they're the first ones to go
+
+265
+11:49.740 --> 11:52.560
+when, in fact, that really shouldn't be the case.
+
+266
+11:52.560 --> 11:56.160
+It should be the CEO of the organization,
+
+267
+11:56.160 --> 11:58.833
+and the board should be managing that risk.
+
+268
+11:59.880 --> 12:01.620
+<v Sabrina>Thank you.</v>
+
+269
+12:01.620 --> 12:03.600
+<v ->Yeah, no, I think it's a...</v>
+
+270
+12:03.600 --> 12:05.310
+I mean, it's an interesting question, right?
+
+271
+12:05.310 --> 12:08.700
+Because, you know, when we talk about SMBs,
+
+272
+12:08.700 --> 12:11.220
+you know, I think a lot of what we just discussed
+
+273
+12:11.220 --> 12:12.780
+in terms of the constraints,
+
+274
+12:12.780 --> 12:15.480
+the resources you have to think about trading off,
+
+275
+12:15.480 --> 12:16.313
+things like that,
+
+276
+12:16.313 --> 12:18.120
+it's, you know, obviously,
+
+277
+12:18.120 --> 12:19.530
+you know, in an ideal situation,
+
+278
+12:19.530 --> 12:20.910
+you have infinite resources,
+
+279
+12:20.910 --> 12:24.360
+and you could have, you know, everyone on your team, right?
+
+280
+12:24.360 --> 12:27.180
+I will disagree, though, with Nabil and Karen here, right?
+
+281
+12:27.180 --> 12:29.790
+Like, I do think, you know...
+
+282
+12:29.790 --> 12:31.260
+Well, I do think this.
+
+283
+12:31.260 --> 12:34.920
+You do need to find someone who can lead and drive security,
+
+284
+12:34.920 --> 12:37.500
+you know, whether you call it a CISO
+
+285
+12:37.500 --> 12:39.780
+or whether you call the role a CIO
+
+286
+12:39.780 --> 12:41.730
+or whether you call the role CSO, right?
+
+287
+12:41.730 --> 12:45.810
+Or, you know, even if it's not necessarily a C-level yet.
+
+288
+12:45.810 --> 12:50.040
+But I do think even in the SMB tier, right,
+
+289
+12:50.040 --> 12:52.920
+it's critical for organizations
+
+290
+12:52.920 --> 12:56.100
+to have someone who can really drive security
+
+291
+12:56.100 --> 13:00.210
+and cybersecurity in particular for an organization.
+
+292
+13:00.210 --> 13:01.650
+Granted, of course, you know,
+
+293
+13:01.650 --> 13:03.930
+the real answer is, like Nabil said, it depends,
+
+294
+13:03.930 --> 13:06.360
+and, you know, it depends on the exact risks
+
+295
+13:06.360 --> 13:07.800
+your organization has
+
+296
+13:07.800 --> 13:11.730
+and, you know, what sort of regulatory environment you're in
+
+297
+13:11.730 --> 13:13.053
+and things like that.
+
+298
+13:14.760 --> 13:17.520
+But something I will, you know, push against
+
+299
+13:17.520 --> 13:21.180
+is that I don't think just 'cause, you know, you have a CISO
+
+300
+13:21.180 --> 13:24.610
+or you have someone dedicated to, you know, running security
+
+301
+13:25.584 --> 13:26.940
+that it has to mean that
+
+302
+13:26.940 --> 13:29.700
+that function becomes siloed, right?
+
+303
+13:29.700 --> 13:31.447
+And, you know, I do think, though,
+
+304
+13:31.447 --> 13:34.230
+you know, and I recognize that that's not necessarily
+
+305
+13:34.230 --> 13:35.250
+what you're saying, right?
+
+306
+13:35.250 --> 13:38.945
+Like, it's not that it has to happen that way, you know?
+
+307
+13:38.945 --> 13:40.740
+You know, it's a legitimate argument
+
+308
+13:40.740 --> 13:44.013
+that it's just so that that's what happens in practice.
+
+309
+13:46.066 --> 13:47.280
+But I think, you know, at the end of the day,
+
+310
+13:47.280 --> 13:48.510
+we're actually all saying the same thing
+
+311
+13:48.510 --> 13:50.640
+in terms of, you know, you wanna develop that culture,
+
+312
+13:50.640 --> 13:53.223
+you wanna develop that mindset as an organization.
+
+313
+13:53.223 --> 13:55.020
+And, you know, coming from the Doppel side,
+
+314
+13:55.020 --> 13:57.510
+we certainly see it with both our customers
+
+315
+13:57.510 --> 13:59.400
+and of course ourselves as well, right?
+
+316
+13:59.400 --> 14:01.650
+And so in my view,
+
+317
+14:01.650 --> 14:04.530
+I do think having that security leader is important
+
+318
+14:04.530 --> 14:07.080
+because, you know, it's the same reason why
+
+319
+14:07.080 --> 14:09.570
+you've got leaders for, you know, maybe it's technology,
+
+320
+14:09.570 --> 14:11.430
+maybe it's for finance,
+
+321
+14:11.430 --> 14:13.470
+maybe it's for human resources, right?
+
+322
+14:13.470 --> 14:15.330
+A CEO can't do everything,
+
+323
+14:15.330 --> 14:17.670
+and so, you know, how do you work closely
+
+324
+14:17.670 --> 14:21.330
+with your leadership team to, you know, not silo them either
+
+325
+14:21.330 --> 14:23.550
+and leave them stranded on an island and scapegoat them,
+
+326
+14:23.550 --> 14:25.500
+but how do you work closely with them
+
+327
+14:25.500 --> 14:28.263
+to build the right culture within your organization?
+
+328
+14:29.370 --> 14:30.600
+<v Sabrina>Is there anything you wanna add</v>
+
+329
+14:30.600 --> 14:32.250
+before we move to the next question?
+
+330
+14:32.250 --> 14:34.260
+<v ->Yeah, no, I think I'll just add,</v>
+
+331
+14:34.260 --> 14:36.750
+what I think Kevin is saying is spot on,
+
+332
+14:36.750 --> 14:38.340
+that it doesn't have to be
+
+333
+14:38.340 --> 14:41.940
+that CISO's become, like, more bifurcated and siloed.
+
+334
+14:41.940 --> 14:44.010
+Unfortunately it ends up being that way.
+
+335
+14:44.010 --> 14:44.843
+<v ->Right.</v>
+<v ->And, you know,</v>
+
+336
+14:44.843 --> 14:48.270
+and it's not just the people and the organizational part.
+
+337
+14:48.270 --> 14:49.590
+Obviously we are from the tech industry.
+
+338
+14:49.590 --> 14:50.910
+You're from tech industry as well.
+
+339
+14:50.910 --> 14:53.040
+We are to be blamed for that as well
+
+340
+14:53.040 --> 14:55.350
+because what we like to do as a tech industry
+
+341
+14:55.350 --> 14:58.200
+is we like to create these niche product categories,
+
+342
+14:58.200 --> 14:59.940
+and we need to create a person
+
+343
+14:59.940 --> 15:02.040
+who's a buyer in the organization.
+
+344
+15:02.040 --> 15:05.880
+So there's an entire security industry whose sole purpose
+
+345
+15:05.880 --> 15:08.370
+is, like, we don't care what is running anywhere else,
+
+346
+15:08.370 --> 15:10.560
+we're gonna come in and secure it.
+
+347
+15:10.560 --> 15:12.599
+And I'm not talking about your company, (laughs)
+
+348
+15:12.599 --> 15:13.860
+(Karen laughs)
+but generally.
+
+349
+15:13.860 --> 15:14.940
+And if you look at it
+
+350
+15:14.940 --> 15:17.280
+just from a technologist's point of view,
+
+351
+15:17.280 --> 15:21.150
+that premise by itself is just absolutely absurd, right?
+
+352
+15:21.150 --> 15:24.270
+Because information is not an independent thing.
+
+353
+15:24.270 --> 15:25.590
+Information is in the network,
+
+354
+15:25.590 --> 15:27.420
+information is in your application,
+
+355
+15:27.420 --> 15:30.870
+information is in your processes, it's everywhere.
+
+356
+15:30.870 --> 15:32.340
+It is social engineering as well.
+
+357
+15:32.340 --> 15:33.780
+That's information as well.
+
+358
+15:33.780 --> 15:37.110
+So I think because you're protecting information
+
+359
+15:37.110 --> 15:39.720
+and, by that respect, data,
+
+360
+15:39.720 --> 15:41.490
+the whole nature of it is that this,
+
+361
+15:41.490 --> 15:42.990
+from a technology point of view,
+
+362
+15:42.990 --> 15:45.660
+from the application of technology point of view,
+
+363
+15:45.660 --> 15:47.040
+and from a, you know,
+
+364
+15:47.040 --> 15:48.630
+organizational structure point of view,
+
+365
+15:48.630 --> 15:50.520
+it has to be a shared responsibility.
+
+366
+15:50.520 --> 15:51.720
+I'll give you our example, right?
+
+367
+15:51.720 --> 15:54.570
+So obviously, from our customer point of view,
+
+368
+15:54.570 --> 15:58.350
+you know, we see all over the world all kind of companies,
+
+369
+15:58.350 --> 16:00.087
+but we are an enterprise as well, right?
+
+370
+16:00.087 --> 16:02.400
+And we are a pretty decent sized enterprise.
+
+371
+16:02.400 --> 16:05.730
+We have a CISO, but that CISO reports in to a CIO.
+
+372
+16:05.730 --> 16:09.030
+So we have that function,
+
+373
+16:09.030 --> 16:12.000
+but that function is so deeply integrated
+
+374
+16:12.000 --> 16:14.370
+into the broader CIO role.
+
+375
+16:14.370 --> 16:17.310
+So I think I wanna kind of caveat
+
+376
+16:17.310 --> 16:18.840
+and explain that the title,
+
+377
+16:18.840 --> 16:22.290
+because when it says CISO, I do not read it as,
+
+378
+16:22.290 --> 16:24.300
+do you need a security team?
+
+379
+16:24.300 --> 16:25.440
+I don't read it that way.
+
+380
+16:25.440 --> 16:26.273
+I don't read it,
+
+381
+16:26.273 --> 16:29.010
+do you need somebody that is dedicated to security?
+
+382
+16:29.010 --> 16:30.300
+I don't read it that way.
+
+383
+16:30.300 --> 16:33.720
+I read the O part and the C part,
+
+384
+16:33.720 --> 16:36.450
+that this is a chief information security officer.
+
+385
+16:36.450 --> 16:38.910
+Do you need an independent organization?
+
+386
+16:38.910 --> 16:41.790
+Do you need that person sitting in your C-suite and stuff?
+
+387
+16:41.790 --> 16:43.679
+So I just wanna make sure that my answers come-
+
+388
+16:43.679 --> 16:45.360
+<v ->And you're right.</v>
+<v ->from that point of view.</v>
+
+389
+16:45.360 --> 16:46.980
+I'm not against having a security team.
+
+390
+16:46.980 --> 16:48.210
+Everybody should have one.
+
+391
+16:48.210 --> 16:49.367
+<v ->Right, right, and you're right,</v>
+
+392
+16:49.367 --> 16:51.480
+'cause you need a security team, right?
+
+393
+16:51.480 --> 16:54.960
+You need risk management, you need to do all that,
+
+394
+16:54.960 --> 16:56.700
+you need the culture piece,
+
+395
+16:56.700 --> 16:59.220
+and it is a shared responsibility.
+
+396
+16:59.220 --> 17:01.797
+But I think the way that the panel is set up
+
+397
+17:01.797 --> 17:04.200
+and the way that they primed us on this is,
+
+398
+17:04.200 --> 17:07.380
+when does a small and medium business start looking at,
+
+399
+17:07.380 --> 17:11.220
+hey, I need to, like, shift my organization,
+
+400
+17:11.220 --> 17:13.080
+and now I'm starting to bring...
+
+401
+17:13.080 --> 17:14.910
+'Cause a lot of them use managed services.
+
+402
+17:14.910 --> 17:16.080
+I mean, I'm working with
+
+403
+17:16.080 --> 17:19.170
+a lot of small and medium businesses, utilities,
+
+404
+17:19.170 --> 17:21.240
+all kinds of stuff across the board,
+
+405
+17:21.240 --> 17:23.730
+and they use managed services.
+
+406
+17:23.730 --> 17:27.420
+So it's when does enough,
+
+407
+17:27.420 --> 17:29.460
+like, I've crossed over this threshold
+
+408
+17:29.460 --> 17:31.890
+that I have to start bringing things back in
+
+409
+17:31.890 --> 17:34.500
+and start managing things myself
+
+410
+17:34.500 --> 17:36.840
+and then look at the organization
+
+411
+17:36.840 --> 17:39.450
+versus, well, I'm buying it as a service?
+
+412
+17:39.450 --> 17:41.100
+I'm buying security as a service,
+
+413
+17:41.100 --> 17:44.970
+I'm buying, you know, my cloud provisions
+
+414
+17:44.970 --> 17:46.290
+and things like that.
+
+415
+17:46.290 --> 17:48.090
+But you do need a security team
+
+416
+17:48.090 --> 17:51.780
+regardless of whether you bring it back in the house
+
+417
+17:51.780 --> 17:54.420
+or that you're managing it through a service provider,
+
+418
+17:54.420 --> 17:56.970
+and that's really what we try to explain
+
+419
+17:56.970 --> 17:58.350
+to the leaders of the company.
+
+420
+17:58.350 --> 18:02.580
+It's like just because you're buying these services
+
+421
+18:02.580 --> 18:06.567
+doesn't mean you don't need to have security.
+
+422
+18:06.567 --> 18:07.410
+<v Nabil>Yeah, agreed.</v>
+
+423
+18:07.410 --> 18:08.430
+<v ->Well, thank you for that</v>
+
+424
+18:08.430 --> 18:10.050
+'cause that actually segues perfectly
+
+425
+18:10.050 --> 18:12.270
+into what I wanted to ask you next.
+
+426
+18:12.270 --> 18:15.330
+So how can a business and technology leaders
+
+427
+18:15.330 --> 18:20.130
+help a technologist frame cybersecurity issues,
+
+428
+18:20.130 --> 18:24.540
+such as funding, in a lens of risk management
+
+429
+18:24.540 --> 18:26.610
+as opposed to just telling them
+
+430
+18:26.610 --> 18:29.940
+or recommending what the best services
+
+431
+18:29.940 --> 18:31.950
+or the best gear is to buy
+
+432
+18:31.950 --> 18:33.750
+to keep their information protected?
+
+433
+18:35.010 --> 18:36.560
+<v ->I'll take a quick stab at it.</v>
+
+434
+18:37.530 --> 18:39.930
+What we recommend to our customers is that
+
+435
+18:39.930 --> 18:44.930
+do not coin it as a security budget or risk budget.
+
+436
+18:45.240 --> 18:47.160
+The point is that everything that you're doing,
+
+437
+18:47.160 --> 18:49.440
+there should be a risk mitigation budget
+
+438
+18:49.440 --> 18:51.300
+inside that project.
+
+439
+18:51.300 --> 18:53.370
+So a lot of times, it happens,
+
+440
+18:53.370 --> 18:56.220
+like, because we come from connectivity, networking side,
+
+441
+18:56.220 --> 18:57.660
+you know, application data centers,
+
+442
+18:57.660 --> 18:59.040
+you know, clouds and stuff,
+
+443
+18:59.040 --> 19:00.000
+it's like, "Oh, my god,
+
+444
+19:00.000 --> 19:03.000
+we have opened up like five data centers.
+
+445
+19:03.000 --> 19:05.310
+Oh, shit, we actually need some security products.
+
+446
+19:05.310 --> 19:06.270
+Let's go look for them."
+
+447
+19:06.270 --> 19:09.060
+I mean, that's just the absolute wrong way to do it.
+
+448
+19:09.060 --> 19:12.750
+When you are setting up a project to do X, right,
+
+449
+19:12.750 --> 19:16.110
+you wanna open up, let's just take a very simple example,
+
+450
+19:16.110 --> 19:17.970
+a customer support team.
+
+451
+19:17.970 --> 19:19.260
+Everybody needs one, right?
+
+452
+19:19.260 --> 19:20.460
+So when you are setting up
+
+453
+19:20.460 --> 19:23.280
+your customer support function and organization,
+
+454
+19:23.280 --> 19:26.340
+think about the risk and the security of that team
+
+455
+19:26.340 --> 19:28.080
+in that project.
+
+456
+19:28.080 --> 19:33.080
+I think a lot of teams struggle with this security
+
+457
+19:35.100 --> 19:38.640
+or risk-related budget after the fact.
+
+458
+19:38.640 --> 19:41.730
+And a lot of times, you end up not doing it (laughs)
+
+459
+19:41.730 --> 19:42.570
+because they're like, "Oh, shit.
+
+460
+19:42.570 --> 19:44.310
+We have a data center. We ran out of money.
+
+461
+19:44.310 --> 19:46.440
+So you know what? We'll secure it next year."
+
+462
+19:46.440 --> 19:47.820
+Well, yeah, good luck with that.
+
+463
+19:47.820 --> 19:49.650
+So I think it's a lot of,
+
+464
+19:49.650 --> 19:51.420
+because you asked about framing,
+
+465
+19:51.420 --> 19:53.070
+so the way it should be framed about
+
+466
+19:53.070 --> 19:54.630
+is that there's a use case,
+
+467
+19:54.630 --> 19:57.030
+here's the actual, for lack of any other better word,
+
+468
+19:57.030 --> 19:58.680
+the functionality of the use case.
+
+469
+19:58.680 --> 20:01.980
+Here's my risk mitigation of that use case,
+
+470
+20:01.980 --> 20:04.440
+here's my user experience portion of that,
+
+471
+20:04.440 --> 20:08.610
+and combined together, here's my ROI for that use case.
+
+472
+20:08.610 --> 20:12.210
+If you do it that way, people are a lot more successful.
+
+473
+20:12.210 --> 20:14.490
+But then that kind of leads it to,
+
+474
+20:14.490 --> 20:16.710
+it can't be, like, that's a CTO's budget
+
+475
+20:16.710 --> 20:19.620
+and that's an CIO's budget, and that's a CISO's budget.
+
+476
+20:19.620 --> 20:23.190
+It's one budget, and you have your components in it.
+
+477
+20:23.190 --> 20:25.470
+So easier said than done.
+
+478
+20:25.470 --> 20:27.840
+I mean, let me not, you know, give you the impression
+
+479
+20:27.840 --> 20:30.570
+that it is so easy to do it, you should go do it tomorrow.
+
+480
+20:30.570 --> 20:33.540
+It is complicated, requires a big cultural change,
+
+481
+20:33.540 --> 20:35.793
+especially in your C-suite.
+
+482
+20:37.500 --> 20:39.180
+It might be surprising to some of you
+
+483
+20:39.180 --> 20:41.230
+that culture change starts with your CFO.
+
+484
+20:42.300 --> 20:45.390
+And a lot of the CFOs actually don't understand any of this,
+
+485
+20:45.390 --> 20:46.770
+so they come in and say, like, "Oh, my god,
+
+486
+20:46.770 --> 20:48.420
+you are asking tech, you are asking tech,
+
+487
+20:48.420 --> 20:50.250
+you are asking tech, dollar, dollar, dollar, dollar.
+
+488
+20:50.250 --> 20:51.150
+I don't care."
+
+489
+20:51.150 --> 20:54.810
+So start by educating your CFO.
+
+490
+20:54.810 --> 20:57.480
+The more your CFO actually understands this,
+
+491
+20:57.480 --> 20:58.920
+the easier it would become.
+
+492
+20:58.920 --> 21:00.450
+I'll leave it there. (laughs)
+
+493
+21:00.450 --> 21:01.690
+<v ->Perfect.</v>
+<v ->You should go next.</v>
+
+494
+21:01.690 --> 21:05.430
+<v ->Yeah, no, I mean, it's really about thinking it</v>
+
+495
+21:05.430 --> 21:07.770
+through the business lens, right?
+
+496
+21:07.770 --> 21:09.660
+You know, and that's why my stance is, right,
+
+497
+21:09.660 --> 21:12.390
+it's, you know, whether we call it C-level or not,
+
+498
+21:12.390 --> 21:15.240
+like, it's important to have that security leader
+
+499
+21:15.240 --> 21:18.630
+even at an SMB, you know, stage of business
+
+500
+21:18.630 --> 21:21.870
+because, you know, that leader then can really drive
+
+501
+21:21.870 --> 21:25.500
+how do you contextualize these sorts of security decisions
+
+502
+21:25.500 --> 21:29.070
+or vendor decisions or, you know, internal decisions, right,
+
+503
+21:29.070 --> 21:31.020
+in the context of the business.
+
+504
+21:31.020 --> 21:32.850
+You know, like, what happens to the business
+
+505
+21:32.850 --> 21:34.890
+when, you know, we do have this breach?
+
+506
+21:34.890 --> 21:36.300
+Or what happens to this business
+
+507
+21:36.300 --> 21:38.910
+when, you know, we're out of compliance
+
+508
+21:38.910 --> 21:41.190
+in this particular area from a security perspective
+
+509
+21:41.190 --> 21:45.900
+or, you know, we leak some data here, right?
+
+510
+21:45.900 --> 21:49.440
+And so, you know, I think a lot of it
+
+511
+21:49.440 --> 21:51.660
+just comes down to how you tie it back to the business.
+
+512
+21:51.660 --> 21:54.660
+And, you know, it's a common phrase, right?
+
+513
+21:54.660 --> 21:56.640
+Like, once there is a breach, right,
+
+514
+21:56.640 --> 22:00.270
+and, you know, there is a crisis or a disaster, right,
+
+515
+22:00.270 --> 22:01.770
+like, that's when businesses
+
+516
+22:01.770 --> 22:03.420
+are always willing to spend more.
+
+517
+22:05.599 --> 22:06.870
+But, you know, having someone
+
+518
+22:06.870 --> 22:08.490
+who's been there before and done that
+
+519
+22:08.490 --> 22:11.820
+and can, you know, contextualize these sorts of decisions
+
+520
+22:11.820 --> 22:13.140
+in the context of...
+
+521
+22:13.140 --> 22:14.910
+It's not just a, you know...
+
+522
+22:14.910 --> 22:17.190
+Like, I wouldn't even frame it as like a risk thing, right?
+
+523
+22:17.190 --> 22:20.010
+But it's really about, like, this is what will happen,
+
+524
+22:20.010 --> 22:21.060
+you know, to our top line
+
+525
+22:21.060 --> 22:22.890
+or this will happen to our bottom line, right,
+
+526
+22:22.890 --> 22:24.590
+if we don't do this sort of thing.
+
+527
+22:25.710 --> 22:28.890
+That's really, I think, how you can really,
+
+528
+22:28.890 --> 22:31.260
+you know, expand beyond just think of it as a risk framework
+
+529
+22:31.260 --> 22:34.863
+but really, you know, dollars and cents for a CFO or a CEO.
+
+530
+22:36.120 --> 22:37.980
+<v ->So I'm gonna take a whole different stance on this.</v>
+
+531
+22:37.980 --> 22:40.030
+That's why I knew they would go this way.
+
+532
+22:41.610 --> 22:44.220
+So CRI, we have a program
+
+533
+22:44.220 --> 22:45.750
+called the Cyber Readiness Program.
+
+534
+22:45.750 --> 22:50.010
+And, you know, small and medium businesses are the same
+
+535
+22:50.010 --> 22:52.863
+regardless of sector and the way that they look at it.
+
+536
+22:53.700 --> 22:55.950
+And we're focused on four areas,
+
+537
+22:55.950 --> 22:57.637
+and when you look at it, you'll go,
+
+538
+22:57.637 --> 22:59.340
+"Oh, yeah, Karen, it's a no-brainer." Right?
+
+539
+22:59.340 --> 23:02.130
+So it's phishing, automatic updates,
+
+540
+23:02.130 --> 23:05.250
+multifactor authentication, and removable media.
+
+541
+23:05.250 --> 23:07.770
+But when you work through the program,
+
+542
+23:07.770 --> 23:09.690
+the program makes you think,
+
+543
+23:09.690 --> 23:12.640
+and it follows ISO standards and all this other good stuff,
+
+544
+23:14.160 --> 23:17.790
+but it doesn't use the words ISO standards
+
+545
+23:17.790 --> 23:21.510
+and cybersecurity risk framework and all this.
+
+546
+23:21.510 --> 23:24.570
+It doesn't use anything like that, okay?
+
+547
+23:24.570 --> 23:26.220
+Because the minute you start talking
+
+548
+23:26.220 --> 23:30.120
+to small and medium businesses about cybersecurity,
+
+549
+23:30.120 --> 23:33.750
+like, their eyes glaze over,
+
+550
+23:33.750 --> 23:35.347
+you know, they think, like,
+
+551
+23:35.347 --> 23:39.450
+"Hey, it's never gonna apply to me because I'm so small."
+
+552
+23:39.450 --> 23:41.580
+They have no...
+
+553
+23:41.580 --> 23:44.190
+Like, ransomware has, like, really been
+
+554
+23:44.190 --> 23:48.120
+an eye-opening experience for society.
+
+555
+23:48.120 --> 23:50.730
+You know, it's a great business
+
+556
+23:50.730 --> 23:52.710
+if you wanna be in it, you know?
+
+557
+23:52.710 --> 23:55.140
+'Cause it's like you can go out and use AI
+
+558
+23:55.140 --> 23:56.250
+and come up with something,
+
+559
+23:56.250 --> 23:58.470
+and it's, like, minimum investment, big return, right,
+
+560
+23:58.470 --> 24:00.000
+if people pay you.
+
+561
+24:00.000 --> 24:03.003
+Not that I'm advocating people become criminals here.
+
+562
+24:04.188 --> 24:05.970
+But, I mean, when you look at it
+
+563
+24:05.970 --> 24:07.380
+from a pure business sense,
+
+564
+24:07.380 --> 24:09.720
+it is a great return on the investment.
+
+565
+24:09.720 --> 24:12.030
+Small and medium businesses don't think that way.
+
+566
+24:12.030 --> 24:15.090
+And the industry, both of you guys have hit on it,
+
+567
+24:15.090 --> 24:16.920
+the cybersecurity industry
+
+568
+24:16.920 --> 24:20.370
+has become a victim of its own terminology, right?
+
+569
+24:20.370 --> 24:22.740
+We have made it sound so scary,
+
+570
+24:22.740 --> 24:24.480
+who wants to be involved in it?
+
+571
+24:24.480 --> 24:26.580
+It's like, you know, oh, my gosh.
+
+572
+24:26.580 --> 24:28.470
+And most of the time in small businesses,
+
+573
+24:28.470 --> 24:32.100
+it's like the HR person, it's another duty as assigned,
+
+574
+24:32.100 --> 24:33.450
+and they're like, "Okay.
+
+575
+24:33.450 --> 24:36.480
+CEO says I have to do cybersecurity. What is that?"
+
+576
+24:36.480 --> 24:39.540
+So it's really trying
+
+577
+24:39.540 --> 24:43.020
+to, like, change the discussion,
+
+578
+24:43.020 --> 24:47.160
+and we have to change the way that we talk about it
+
+579
+24:47.160 --> 24:49.380
+and the way that we frame it.
+
+580
+24:49.380 --> 24:53.040
+And so a lot of it has to do, when we talk with them,
+
+581
+24:53.040 --> 24:55.560
+we're like, "Hey, you know..."
+
+582
+24:55.560 --> 24:59.760
+They think it's only about Office 365 and the cloud
+
+583
+24:59.760 --> 25:01.023
+and things like that,
+
+584
+25:01.023 --> 25:03.420
+and they're like, "Yeah, okay, I can get a pencil and pen."
+
+585
+25:03.420 --> 25:05.970
+Then you ask them, "Hey, what happens
+
+586
+25:05.970 --> 25:09.000
+if, like, you know, your customer service thing goes down
+
+587
+25:09.000 --> 25:11.700
+or, you know, your billing system goes down?"
+
+588
+25:11.700 --> 25:12.810
+And they said, "Well, what do you mean?"
+
+589
+25:12.810 --> 25:15.720
+And I said, "You know, like, you can't generate any bills
+
+590
+25:15.720 --> 25:18.300
+or you can't, like, pay people,
+
+591
+25:18.300 --> 25:21.120
+or, you know, you're doing this or you're doing..."
+
+592
+25:21.120 --> 25:22.830
+And they go, "Oh, my gosh.
+
+593
+25:22.830 --> 25:26.520
+Like, we would have no revenue whatsoever coming in.
+
+594
+25:26.520 --> 25:29.940
+We would not be able to survive if that happened."
+
+595
+25:29.940 --> 25:32.107
+And that's when we say,
+
+596
+25:32.107 --> 25:37.107
+"Hey, that's what will happen if you don't do X."
+
+597
+25:37.290 --> 25:41.310
+And they're like, "Oh! That's what that person meant."
+
+598
+25:41.310 --> 25:44.400
+I mean, it just is, like, it's a big eye-opening thing,
+
+599
+25:44.400 --> 25:48.900
+so we're a victim of the way that we frame the problem
+
+600
+25:48.900 --> 25:50.610
+and the way that we talk about it.
+
+601
+25:50.610 --> 25:52.950
+I mean, if you look at the underlying infrastructure,
+
+602
+25:52.950 --> 25:54.720
+it's all based on military terms,
+
+603
+25:54.720 --> 25:57.630
+so, you know, like, how many people have memorized that?
+
+604
+25:57.630 --> 26:01.710
+So we really have to change the way that we talk about it
+
+605
+26:01.710 --> 26:03.937
+and what we're saying instead of saying,
+
+606
+26:03.937 --> 26:05.340
+"Well, if you follow this
+
+607
+26:05.340 --> 26:08.850
+141-dash, you know, 3 encryption standards
+
+608
+26:08.850 --> 26:12.330
+and 800, you know, 153 and all this,
+
+609
+26:12.330 --> 26:16.260
+and, oh, and then you have 151 security controls
+
+610
+26:16.260 --> 26:18.660
+that you have to meet for CMMC
+
+611
+26:18.660 --> 26:21.660
+and then do this ISO standard and meet this with HIPAA."
+
+612
+26:21.660 --> 26:23.640
+Like, I mean, you guys
+
+613
+26:23.640 --> 26:25.890
+have already tuned me out there, okay?
+
+614
+26:25.890 --> 26:29.940
+So, like, we just have to talk about it differently,
+
+615
+26:29.940 --> 26:33.030
+and a CEO and the board and the CFO
+
+616
+26:33.030 --> 26:36.690
+or the small business owner will make that investment
+
+617
+26:36.690 --> 26:39.423
+when they realize it's gonna affect their revenue.
+
+618
+26:40.590 --> 26:41.450
+<v ->Yeah, I think I'll add one</v>
+
+619
+26:41.450 --> 26:44.580
+because the way you describe it is absolutely perfect,
+
+620
+26:44.580 --> 26:47.400
+because especially for smaller and medium businesses,
+
+621
+26:47.400 --> 26:49.200
+they understand business continuity.
+
+622
+26:49.200 --> 26:50.033
+<v ->Yep.</v>
+
+623
+26:50.033 --> 26:52.590
+<v ->They don't necessarily understand cyber risks, right?</v>
+
+624
+26:52.590 --> 26:53.850
+And business continuity now,
+
+625
+26:53.850 --> 26:56.400
+because everything is digital and everything is connected,
+
+626
+26:56.400 --> 27:00.840
+a huge part of business continuity is your cyber security,
+
+627
+27:00.840 --> 27:02.730
+but it needs to be framed properly,
+
+628
+27:02.730 --> 27:05.250
+and that's why it has to be part of every project
+
+629
+27:05.250 --> 27:06.240
+and every budget, right?
+
+630
+27:06.240 --> 27:09.300
+So I love the way you described it, yeah.
+
+631
+27:09.300 --> 27:10.740
+<v ->A bit of a rapid-fire question</v>
+
+632
+27:10.740 --> 27:12.840
+before we open up questions to the audience,
+
+633
+27:12.840 --> 27:16.410
+but if a company should hire a CISO,
+
+634
+27:16.410 --> 27:18.000
+what are some characteristics
+
+635
+27:18.000 --> 27:20.493
+they should be looking for in that person?
+
+636
+27:21.480 --> 27:22.770
+<v ->I'll go real quick.</v>
+
+637
+27:22.770 --> 27:24.903
+Person who understands their business.
+
+638
+27:26.550 --> 27:27.383
+<v ->That's great.</v>
+
+639
+27:27.383 --> 27:29.040
+<v ->I mean, I was gonna say something similar, right?</v>
+
+640
+27:29.040 --> 27:31.470
+Like, you know, in SMB,
+
+641
+27:31.470 --> 27:33.960
+business environment's very different than enterprise,
+
+642
+27:33.960 --> 27:34.793
+and then of course
+
+643
+27:34.793 --> 27:36.120
+you've got your different vertical sectors,
+
+644
+27:36.120 --> 27:36.960
+things like that,
+
+645
+27:36.960 --> 27:40.110
+so, yeah, someone who, you know, really understands
+
+646
+27:40.110 --> 27:43.080
+what the job's gonna be for that particular business.
+
+647
+27:43.080 --> 27:44.400
+<v Nabil>I think I agree with both of them.</v>
+
+648
+27:44.400 --> 27:45.990
+I'll add one more characteristic.
+
+649
+27:45.990 --> 27:47.905
+Hire a nice person.
+
+650
+27:47.905 --> 27:50.040
+(panelists laugh)
+(attendees laugh)
+
+651
+27:50.040 --> 27:51.390
+Because how many times I'm like,
+
+652
+27:51.390 --> 27:52.950
+if you've ever done a project
+
+653
+27:52.950 --> 27:54.060
+and you've finished the whole project
+
+654
+27:54.060 --> 27:55.387
+and then everybody looks around and says,
+
+655
+27:55.387 --> 27:57.030
+"Who's gonna talk to the CISO?"
+
+656
+27:57.030 --> 27:58.767
+<v Karen>Yep.</v>
+<v ->Because you go to see them</v>
+
+657
+27:58.767 --> 28:01.317
+and the first thing the security person says, "No."
+
+658
+28:02.220 --> 28:04.830
+Don't even know what it is, why you're doing it,
+
+659
+28:04.830 --> 28:06.420
+what is the business need?
+
+660
+28:06.420 --> 28:08.130
+So hire somebody that is,
+
+661
+28:08.130 --> 28:10.290
+I mean, I'm saying that tongue in cheek,
+
+662
+28:10.290 --> 28:13.140
+but the idea is that hire somebody that is collaborative
+
+663
+28:13.140 --> 28:15.420
+and somebody that considers themselves
+
+664
+28:15.420 --> 28:18.120
+and their organization as part of the business
+
+665
+28:18.120 --> 28:21.030
+and not kind of like a side auditor, right?
+
+666
+28:21.030 --> 28:23.550
+So that's just absolutely critical
+
+667
+28:23.550 --> 28:25.560
+because I will tell you this.
+
+668
+28:25.560 --> 28:30.330
+If your CISO, he or she, is not, you know, a nice person,
+
+669
+28:30.330 --> 28:33.183
+other functions will find a way to go around him or her.
+
+670
+28:34.260 --> 28:36.030
+That's, like, the whole shadow IT,
+
+671
+28:36.030 --> 28:39.090
+and, like, especially with all of the SaaS applications
+
+672
+28:39.090 --> 28:40.920
+and the AI tools that are out there,
+
+673
+28:40.920 --> 28:44.730
+it is so easy to go around the security team,
+
+674
+28:44.730 --> 28:46.230
+and you don't want to do that, right?
+
+675
+28:46.230 --> 28:49.087
+So find a person who sits and says, like,
+
+676
+28:49.087 --> 28:51.120
+"Hey, Karen, this is your project.
+
+677
+28:51.120 --> 28:53.070
+Let me help you find a way to do this.
+
+678
+28:53.070 --> 28:54.270
+Let's do it together."
+
+679
+28:54.270 --> 28:56.310
+Rather than, like, "Karen, you figure this out,
+
+680
+28:56.310 --> 28:57.270
+then come and ask me,
+
+681
+28:57.270 --> 28:59.520
+and I might say yes or I might say no."
+
+682
+28:59.520 --> 29:01.350
+So hire a nice person.
+
+683
+29:01.350 --> 29:03.187
+I don't know how you put it on your resume though,
+
+684
+29:03.187 --> 29:04.614
+"I'm a nice person." (laughs)
+
+685
+29:04.614 --> 29:07.110
+(panelists laugh)
+
+686
+29:07.110 --> 29:08.310
+<v ->Well, thank you so much.</v>
+
+687
+29:08.310 --> 29:10.950
+I would love to open up the opportunity to all of you
+
+688
+29:10.950 --> 29:13.080
+to ask our amazing panelists some questions.
+
+689
+29:13.080 --> 29:14.130
+If you do have a question,
+
+690
+29:14.130 --> 29:16.683
+just go ahead, stand up, and please go to the mic.
+
+691
+29:18.360 --> 29:21.990
+<v Attendee>So it's not a question but just a comment.</v>
+
+692
+29:21.990 --> 29:23.430
+How many people, by a show of hands,
+
+693
+29:23.430 --> 29:26.343
+belong to InfraGard, the National Member Alliance?
+
+694
+29:27.420 --> 29:29.070
+None? Really?
+
+695
+29:29.070 --> 29:31.680
+<v ->That's amazing. That actually is a good question, yeah.</v>
+
+696
+29:31.680 --> 29:34.560
+<v Attendee>Oh, wow. Okay, so this is a free service.</v>
+
+697
+29:34.560 --> 29:38.790
+It's a partnership between the FBI and private industry.
+
+698
+29:38.790 --> 29:40.950
+And they have a national member alliance
+
+699
+29:40.950 --> 29:42.360
+but also have local chapters.
+
+700
+29:42.360 --> 29:47.360
+So you get newsletters about cybersecurity, email updates.
+
+701
+29:48.060 --> 29:48.960
+There's a conference.
+<v ->InfraGard.</v>
+
+702
+29:48.960 --> 29:53.960
+<v Attendee>InfraGard, I-N-F-R-A-G-A-R-D.</v>
+
+703
+29:54.150 --> 29:56.340
+If you Google it, you'll find it.
+
+704
+29:56.340 --> 29:58.350
+And so I belong to the New Jersey chapter.
+
+705
+29:58.350 --> 30:01.650
+We had an end-of-year review of cybersecurity issues
+
+706
+30:01.650 --> 30:03.420
+with our FBI team,
+
+707
+30:03.420 --> 30:08.420
+and the CISO for ADP, the payroll giant,
+
+708
+30:08.790 --> 30:10.050
+he came up and did a talk,
+
+709
+30:10.050 --> 30:11.580
+and he offered his services
+
+710
+30:11.580 --> 30:13.050
+to the entire New Jersey chapter.
+
+711
+30:13.050 --> 30:15.750
+So obviously, being a payroll giant,
+
+712
+30:15.750 --> 30:17.310
+they get hacked all the time,
+
+713
+30:17.310 --> 30:19.740
+and so they're sitting on a treasure trove
+
+714
+30:19.740 --> 30:21.300
+of cybersecurity information,
+
+715
+30:21.300 --> 30:23.190
+and they're letting us have that information
+
+716
+30:23.190 --> 30:24.900
+so long as, you know, obviously it doesn't conflict
+
+717
+30:24.900 --> 30:26.220
+with their business.
+
+718
+30:26.220 --> 30:29.040
+But it was a valuable connection to make,
+
+719
+30:29.040 --> 30:31.680
+and I highly recommend everybody join it.
+
+720
+30:31.680 --> 30:32.513
+<v ->Fantastic.</v>
+
+721
+30:32.513 --> 30:34.530
+Community is so important when it comes to security.
+
+722
+30:34.530 --> 30:36.150
+<v Attendee>Yeah, and I don't get any kickback</v>
+
+723
+30:36.150 --> 30:38.111
+for this, so...
+(panelists laugh)
+
+724
+30:38.111 --> 30:39.900
+But this is like strength in numbers, right?
+
+725
+30:39.900 --> 30:42.030
+So it's like if more people, we're all in this together,
+
+726
+30:42.030 --> 30:43.050
+if they attack my company,
+
+727
+30:43.050 --> 30:44.165
+they're gonna attack your company.
+
+728
+30:44.165 --> 30:47.017
+<v ->Yeah, 100%, 100%.</v>
+
+729
+30:54.360 --> 30:56.100
+<v Attendee>Hi. Okay, can you hear me?</v>
+
+730
+30:56.100 --> 30:57.000
+<v ->Mm-hmm.</v>
+<v ->Okay.</v>
+
+731
+30:57.000 --> 31:00.360
+You touched upon hire someone who's nice
+
+732
+31:00.360 --> 31:01.530
+or collaborative, right?
+
+733
+31:01.530 --> 31:04.320
+I 100% agree with that, but at the same time,
+
+734
+31:04.320 --> 31:07.140
+look at it from the CISO's perspective or security.
+
+735
+31:07.140 --> 31:08.220
+I've never been a CISO,
+
+736
+31:08.220 --> 31:12.570
+but I was a senior manager managing a team of SecOps,
+
+737
+31:12.570 --> 31:14.550
+you know, blue team, red team guys-
+
+738
+31:14.550 --> 31:16.080
+<v ->Right.</v>
+<v ->Guys and girls.</v>
+
+739
+31:16.080 --> 31:19.110
+And we were under tremendous pressure.
+
+740
+31:19.110 --> 31:22.920
+I mean, we managed airlines
+
+741
+31:22.920 --> 31:24.540
+and airports across the world,
+
+742
+31:24.540 --> 31:27.330
+so you can imagine how many incidents and events
+
+743
+31:27.330 --> 31:29.190
+we had on a daily basis.
+
+744
+31:29.190 --> 31:32.790
+But the truth is, from a security perspective,
+
+745
+31:32.790 --> 31:36.270
+it's frustrating when, you know, either C-level
+
+746
+31:36.270 --> 31:39.300
+or senior management, mid-level management
+
+747
+31:39.300 --> 31:42.360
+either disregard, like you said, they go around it,
+
+748
+31:42.360 --> 31:45.450
+or they ignore you or they don't pay importance to it.
+
+749
+31:45.450 --> 31:47.880
+So it's kind of, yes,
+
+750
+31:47.880 --> 31:49.890
+you should hire someone who's very collaborative,
+
+751
+31:49.890 --> 31:52.950
+and you can, you know, during the interview process,
+
+752
+31:52.950 --> 31:54.690
+you can figure that out and everything.
+
+753
+31:54.690 --> 31:55.650
+But at the same time,
+
+754
+31:55.650 --> 31:58.470
+from a security perspective, it's very frustrating.
+
+755
+31:58.470 --> 32:00.480
+I think there's a big lack of knowledge,
+
+756
+32:00.480 --> 32:04.560
+and a lot of C-suite people don't even wanna know about it.
+
+757
+32:04.560 --> 32:06.150
+They're completely disinterested
+
+758
+32:06.150 --> 32:08.430
+until a disaster happens, right?
+
+759
+32:08.430 --> 32:11.670
+And then, you know, like you said or all of you said,
+
+760
+32:11.670 --> 32:14.520
+you know, the security people are to blame,
+
+761
+32:14.520 --> 32:16.714
+and they have a shelf life of what, 24 months?
+
+762
+32:16.714 --> 32:17.547
+<v ->Yeah.</v>
+
+763
+32:17.547 --> 32:20.490
+<v Attendee>That's surprising to me actually, but okay.</v>
+
+764
+32:20.490 --> 32:24.030
+But, yeah, I don't know how we can bridge that gap.
+
+765
+32:24.030 --> 32:25.230
+You know, we talk about it a lot,
+
+766
+32:25.230 --> 32:26.790
+but nobody seems to address it.
+
+767
+32:26.790 --> 32:28.920
+<v ->So I think you raise a very interesting point,</v>
+
+768
+32:28.920 --> 32:31.260
+and that's, you know, why I differentiated
+
+769
+32:31.260 --> 32:33.240
+between a security team and a CISO.
+
+770
+32:33.240 --> 32:37.170
+So one part of the CISO is to represent the security team
+
+771
+32:37.170 --> 32:39.480
+to the other functions and in the C-suite,
+
+772
+32:39.480 --> 32:41.730
+and that's why it's all the more important.
+
+773
+32:41.730 --> 32:43.470
+I never said that hire all the nice people
+
+774
+32:43.470 --> 32:45.030
+in security team (laughs)
+
+775
+32:45.030 --> 32:48.840
+because they should be the most technically sound people.
+
+776
+32:48.840 --> 32:50.490
+And by the way, the more paranoid they are,
+
+777
+32:50.490 --> 32:53.040
+the better off, you know, that role is.
+
+778
+32:53.040 --> 32:55.350
+But a CISO is...
+
+779
+32:55.350 --> 32:57.060
+You know, here's the thing.
+
+780
+32:57.060 --> 32:57.900
+And, again, as I said,
+
+781
+32:57.900 --> 32:59.313
+it's the C and the O at the end, right?
+
+782
+32:59.313 --> 33:01.140
+It's the chief and the officer part.
+
+783
+33:01.140 --> 33:03.720
+They are really the face of that organization.
+
+784
+33:03.720 --> 33:05.250
+They are the one who are collaborative.
+
+785
+33:05.250 --> 33:08.460
+They are the one who explain to the other executives
+
+786
+33:08.460 --> 33:10.770
+why you need it, as Karen pointed out,
+
+787
+33:10.770 --> 33:12.960
+in terms of either business continuity
+
+788
+33:12.960 --> 33:15.180
+or, you know, revenue generation
+
+789
+33:15.180 --> 33:17.820
+or, in some of the cases, PR risk.
+
+790
+33:17.820 --> 33:19.485
+Who wants your company's, you know, name
+
+791
+33:19.485 --> 33:22.170
+to be all over the news that, oh, you got hacked and stuff?
+
+792
+33:22.170 --> 33:24.000
+Although that happens quite a bit these days.
+
+793
+33:24.000 --> 33:28.410
+So the CISO's role is to translate
+
+794
+33:28.410 --> 33:30.780
+the very difficult, complicated,
+
+795
+33:30.780 --> 33:34.440
+and rapidly changing space of security
+
+796
+33:34.440 --> 33:37.440
+into a language that other execs
+
+797
+33:37.440 --> 33:39.990
+and other decision makers and stakeholders can understand.
+
+798
+33:39.990 --> 33:42.210
+Remember, they don't live it on a day-to-day basis,
+
+799
+33:42.210 --> 33:44.190
+so if you go and you kind of talk about
+
+800
+33:44.190 --> 33:45.990
+the latest, you know, threat,
+
+801
+33:45.990 --> 33:49.110
+I mean, to Karen's point, like, the eyes glaze over,
+
+802
+33:49.110 --> 33:52.440
+but that's why it is so important.
+
+803
+33:52.440 --> 33:54.540
+The best CISOs that I know,
+
+804
+33:54.540 --> 33:56.313
+they were technical 10 years ago.
+
+805
+33:57.660 --> 34:01.440
+They are the best representatives
+
+806
+34:01.440 --> 34:04.080
+of a super technical organization.
+
+807
+34:04.080 --> 34:07.140
+So, you know, that's why I wanted to give the caveat
+
+808
+34:07.140 --> 34:10.080
+that my comments are about specifically about CISO
+
+809
+34:10.080 --> 34:11.580
+and not about the security team.
+
+810
+34:11.580 --> 34:14.250
+So CISO is the one who should be representing it,
+
+811
+34:14.250 --> 34:16.680
+translating it, and making sure that people
+
+812
+34:16.680 --> 34:18.120
+do not think of the security team
+
+813
+34:18.120 --> 34:20.400
+as a hurdle or as an audit,
+
+814
+34:20.400 --> 34:23.430
+but thinks of them as a resource.
+
+815
+34:23.430 --> 34:25.410
+Like, who wouldn't wanna create a product
+
+816
+34:25.410 --> 34:29.010
+or a project that is secure from day one, right?
+
+817
+34:29.010 --> 34:29.910
+That's the whole idea,
+
+818
+34:29.910 --> 34:32.193
+but it needs to be presented that way.
+
+819
+34:33.245 --> 34:34.170
+That CISO requires,
+
+820
+34:34.170 --> 34:35.970
+and I know I was laughing on the nice person,
+
+821
+34:35.970 --> 34:38.610
+but it's the soft skills that matter
+
+822
+34:38.610 --> 34:42.390
+because they are selling the value of their teams
+
+823
+34:42.390 --> 34:44.444
+to everybody else in the organization.
+
+824
+34:44.444 --> 34:45.870
+<v Attendee>Emotional intelligence.</v>
+
+825
+34:45.870 --> 34:48.360
+<v ->Emotional intelligence. And the translation, man.</v>
+
+826
+34:48.360 --> 34:50.280
+It's just like, and I think this is what Karen was saying,
+
+827
+34:50.280 --> 34:53.850
+is, like, don't bring in, like, your 18 acronyms
+
+828
+34:53.850 --> 34:56.310
+and the latest 12345.
+
+829
+34:56.310 --> 34:58.320
+Other people don't understand it.
+
+830
+34:58.320 --> 35:00.090
+And by the way, on the technology side, I would say,
+
+831
+35:00.090 --> 35:02.310
+is that we are the worst offenders
+
+832
+35:02.310 --> 35:07.020
+because we try to sell security products based on fear.
+
+833
+35:07.020 --> 35:08.160
+<v Karen>Yeah.</v>
+
+834
+35:08.160 --> 35:10.260
+<v ->And what do you fear the most?</v>
+
+835
+35:10.260 --> 35:12.180
+The thing that you don't understand.
+
+836
+35:12.180 --> 35:14.250
+So obviously, you know, the whole industry
+
+837
+35:14.250 --> 35:16.680
+is built around creating this fear
+
+838
+35:16.680 --> 35:18.450
+around you don't understand it,
+
+839
+35:18.450 --> 35:21.030
+I do, and I'm telling you you should buy this, right?
+
+840
+35:21.030 --> 35:22.500
+I'm not talking about the security team itself.
+
+841
+35:22.500 --> 35:24.600
+So it's the community thing, right?
+
+842
+35:24.600 --> 35:26.790
+So that's what I would say on this, yeah.
+
+843
+35:26.790 --> 35:27.803
+<v Attendee>Thank you.</v>
+
+844
+35:29.820 --> 35:30.840
+<v Attendee>Thank you, I'll make a comment,</v>
+
+845
+35:30.840 --> 35:32.700
+and then I have a question for the panel.
+
+846
+35:32.700 --> 35:34.050
+Matt Aiello, I'm with Heidrick &amp; Struggles.
+
+847
+35:34.050 --> 35:34.883
+We're an executive search firm.
+
+848
+35:34.883 --> 35:36.060
+Just a slightly different perspective.
+
+849
+35:36.060 --> 35:37.230
+So I lead the cyber practice,
+
+850
+35:37.230 --> 35:39.360
+so we do hundreds of CISO searches
+
+851
+35:39.360 --> 35:41.910
+for everything from late-stage private equity
+
+852
+35:41.910 --> 35:43.680
+all the way to Fortune 5.
+
+853
+35:43.680 --> 35:46.030
+And I agree with everything the panelists said.
+
+854
+35:47.160 --> 35:50.790
+There is an evolving model over the last couple of years
+
+855
+35:50.790 --> 35:54.420
+where, you know, 90% of corporate,
+
+856
+35:54.420 --> 35:56.760
+of Fortune 500 CISOs are already talking to the board.
+
+857
+35:56.760 --> 35:58.740
+So they're talking directly to the audit committee.
+
+858
+35:58.740 --> 36:00.150
+They're talking directly...
+
+859
+36:00.150 --> 36:02.430
+They've got, you know, quarterly presentations.
+
+860
+36:02.430 --> 36:03.840
+They know how to distill the information.
+
+861
+36:03.840 --> 36:07.140
+So there is a growing, it's not a big number,
+
+862
+36:07.140 --> 36:11.010
+but there is a growing number of serious executives
+
+863
+36:11.010 --> 36:13.770
+who are not rotating every 24 months.
+
+864
+36:13.770 --> 36:16.510
+They're rotating every 29 1/2 months,
+
+865
+36:16.510 --> 36:19.890
+(panelists laugh)
+so it's getting better.
+
+866
+36:19.890 --> 36:22.140
+We do a survey with like 500 CISOs.
+
+867
+36:22.140 --> 36:26.010
+It's, like, about 3.1, it's like three years.
+
+868
+36:26.010 --> 36:28.560
+But it's not getting lower, which is good.
+
+869
+36:28.560 --> 36:31.560
+And then the second trend is,
+
+870
+36:31.560 --> 36:33.060
+and, Karen, I totally agree with you,
+
+871
+36:33.060 --> 36:34.920
+that as long as you've got the information in there,
+
+872
+36:34.920 --> 36:38.670
+you need to be a serious information guardian.
+
+873
+36:38.670 --> 36:40.260
+We are seeing the rise of more technical CISOs
+
+874
+36:40.260 --> 36:42.030
+'cause everything's moving to AI,
+
+875
+36:42.030 --> 36:43.500
+everything's moving to data,
+
+876
+36:43.500 --> 36:46.620
+so you need to have somebody that has deep technical depth,
+
+877
+36:46.620 --> 36:48.690
+ideally with a CS degree or a EE.
+
+878
+36:48.690 --> 36:52.380
+But the flip side of that
+
+879
+36:52.380 --> 36:54.600
+is the ability
+
+880
+36:54.600 --> 36:59.600
+to translate very sophisticated topics
+
+881
+36:59.940 --> 37:04.290
+to a non-technical audience and do so successfully
+
+882
+37:04.290 --> 37:08.310
+and have a broader enterprise risk orientation.
+
+883
+37:08.310 --> 37:11.880
+This is the move away from the CIO.
+
+884
+37:11.880 --> 37:15.780
+48% of CISOs report to a technical leader,
+
+885
+37:15.780 --> 37:17.730
+either a CIO or a CTO,
+
+886
+37:17.730 --> 37:20.520
+which means that a slight majority don't.
+
+887
+37:20.520 --> 37:22.950
+They report in to, not to CEOs yet.
+
+888
+37:22.950 --> 37:24.180
+That's happening in Asia.
+
+889
+37:24.180 --> 37:25.440
+It's happening a little bit in the US
+
+890
+37:25.440 --> 37:28.140
+below a certain revenue line.
+
+891
+37:28.140 --> 37:31.860
+They're reporting in to general counsels,
+
+892
+37:31.860 --> 37:33.300
+so we're seeing the GC,
+
+893
+37:33.300 --> 37:36.930
+we're seeing CFOs, a little bit of a scary trend,
+
+894
+37:36.930 --> 37:39.420
+we're seeing chief administrative officers,
+
+895
+37:39.420 --> 37:40.860
+chief operating officers.
+
+896
+37:40.860 --> 37:43.170
+As long as it's C minus one,
+
+897
+37:43.170 --> 37:46.470
+so CEO and then anybody that's on the ELT,
+
+898
+37:46.470 --> 37:49.380
+we are supportive of that, agree with you 100%.
+
+899
+37:49.380 --> 37:50.467
+When a client comes to us and says,
+
+900
+37:50.467 --> 37:53.370
+"We wanna to hire a world-class CISO,
+
+901
+37:53.370 --> 37:55.560
+and it's reporting in to infrastructure."
+
+902
+37:55.560 --> 37:57.600
+We'll say, "We're not gonna do it."
+
+903
+37:57.600 --> 37:59.580
+Well, I mean, we try,
+
+904
+37:59.580 --> 38:00.540
+we'll strongly encourage them
+
+905
+38:00.540 --> 38:01.950
+to change the reporting relationship.
+
+906
+38:01.950 --> 38:04.860
+So the good news is there's a lot of really good momentum
+
+907
+38:04.860 --> 38:06.600
+happening in the role.
+
+908
+38:06.600 --> 38:08.190
+My question, thank you for listening,
+
+909
+38:08.190 --> 38:09.270
+my question for the panel is,
+
+910
+38:09.270 --> 38:10.800
+I wanna present a slightly different perspective.
+
+911
+38:10.800 --> 38:13.950
+It's the role, all those pressures are there,
+
+912
+38:13.950 --> 38:15.450
+but I think CISOs are kind of rising,
+
+913
+38:15.450 --> 38:17.940
+some of the best are rising to the challenge.
+
+914
+38:17.940 --> 38:19.500
+My question to the panel is about AI and cyber,
+
+915
+38:19.500 --> 38:21.600
+so I'd love just quick, you know, thoughts.
+
+916
+38:21.600 --> 38:23.520
+I mean, obviously this is a very complex topic.
+
+917
+38:23.520 --> 38:27.540
+Cyber is a piece of AI and safety and security.
+
+918
+38:27.540 --> 38:29.580
+I'd just love to hear thoughts, right?
+
+919
+38:29.580 --> 38:30.783
+Where's this going?
+
+920
+38:31.830 --> 38:33.210
+Just maybe some guidelines
+
+921
+38:33.210 --> 38:35.130
+on to where you think cyber and AI are going.
+
+922
+38:35.130 --> 38:35.970
+<v ->Well, you should start.</v>
+
+923
+38:35.970 --> 38:38.420
+<v ->Yeah, yeah, I mean, I'm happy to take that one.</v>
+
+924
+38:39.480 --> 38:42.030
+Like, obviously, you know, with AI, right,
+
+925
+38:42.030 --> 38:44.340
+there's a lot of hype, there's a lot of buzzwords for sure
+
+926
+38:44.340 --> 38:47.820
+in terms of, you know, how is it actually impacting,
+
+927
+38:47.820 --> 38:48.720
+you know, both,
+
+928
+38:48.720 --> 38:50.730
+you know, I think of it in two different angles, right?
+
+929
+38:50.730 --> 38:52.080
+One is how's it actually impacting,
+
+930
+38:52.080 --> 38:53.340
+like, your threat landscape
+
+931
+38:53.340 --> 38:55.170
+and what you have to look out for,
+
+932
+38:55.170 --> 38:56.370
+and then how is it impacting,
+
+933
+38:56.370 --> 38:58.920
+you know, what sort of technology and vendors
+
+934
+38:58.920 --> 39:01.620
+or, you know, in-house, whatever, right,
+
+935
+39:01.620 --> 39:04.353
+you know, platform that you have to defend yourself?
+
+936
+39:05.190 --> 39:07.950
+And from what we've seen at Doppel,
+
+937
+39:07.950 --> 39:10.320
+I mean, every time an AI model gets released,
+
+938
+39:10.320 --> 39:12.480
+like the next-generation ChatGPT
+
+939
+39:12.480 --> 39:14.970
+or, you know, next-generation cloud, right,
+
+940
+39:14.970 --> 39:18.150
+like, we actually measure a lot of, you know,
+
+941
+39:18.150 --> 39:20.160
+what can it do internally for us at Doppel?
+
+942
+39:20.160 --> 39:22.410
+What can it do, you know, externally in our products?
+
+943
+39:22.410 --> 39:24.750
+And then also, you know, basically
+
+944
+39:24.750 --> 39:27.300
+do a lot of just conversations with customers
+
+945
+39:27.300 --> 39:28.710
+in terms of, like, how's it impacting
+
+946
+39:28.710 --> 39:31.740
+what you're seeing out there as well, right?
+
+947
+39:31.740 --> 39:34.680
+And so, you know, our thoughts on it,
+
+948
+39:34.680 --> 39:36.543
+based on, you know, what we've seen,
+
+949
+39:37.650 --> 39:39.600
+you know, a lot of real change
+
+950
+39:39.600 --> 39:42.480
+in terms of what you can do from a defensive perspective.
+
+951
+39:42.480 --> 39:46.740
+So, for example, we've been able to automate,
+
+952
+39:46.740 --> 39:48.090
+you know, certain teams,
+
+953
+39:48.090 --> 39:52.230
+like, entire teams at Doppel on the security operations side
+
+954
+39:52.230 --> 39:55.080
+that we couldn't automate two years ago.
+
+955
+39:55.080 --> 39:57.967
+It's not the whole, you know, organization.
+
+956
+39:57.967 --> 39:58.980
+You know, it's basically,
+
+957
+39:58.980 --> 40:01.680
+you know, we've got a set of, you know, tier one tasks,
+
+958
+40:01.680 --> 40:02.880
+tier two, tier three, right?
+
+959
+40:02.880 --> 40:04.467
+And we still, you know, especially tier two
+
+960
+40:04.467 --> 40:06.084
+and tier three, right,
+
+961
+40:06.084 --> 40:08.820
+it's still very much human in the loop.
+
+962
+40:08.820 --> 40:10.800
+But specifically, you know,
+
+963
+40:10.800 --> 40:12.840
+the models like the 01 in particular
+
+964
+40:12.840 --> 40:14.520
+that focus a lot more on the reasoning
+
+965
+40:14.520 --> 40:16.830
+rather than just cheaper inference,
+
+966
+40:16.830 --> 40:19.350
+those are the ones that we've seen big breakthroughs.
+
+967
+40:19.350 --> 40:20.703
+In terms of attacks,
+
+968
+40:21.660 --> 40:24.570
+you know, chatting with customers, things like that,
+
+969
+40:24.570 --> 40:27.030
+I think it really comes down to both volume
+
+970
+40:27.030 --> 40:29.550
+and velocity of the attacks, right?
+
+971
+40:29.550 --> 40:32.820
+So not necessarily something totally entirely new,
+
+972
+40:32.820 --> 40:34.890
+but just fidelity of certain attacks
+
+973
+40:34.890 --> 40:37.233
+or the volume of it or the velocity of it,
+
+974
+40:38.250 --> 40:40.440
+we've seen big changes in that over time as well.
+
+975
+40:40.440 --> 40:41.430
+For example, smishing,
+
+976
+40:41.430 --> 40:44.310
+you know, if you talk to Anti-Phishing Working Group,
+
+977
+40:44.310 --> 40:47.310
+you know, five, six years ago, not as big of a deal,
+
+978
+40:47.310 --> 40:48.990
+but now it's the fastest growing,
+
+979
+40:48.990 --> 40:50.490
+you know, phishing attack vector
+
+980
+40:50.490 --> 40:53.373
+for, you know, all things social engineering.
+
+981
+40:54.270 --> 40:58.560
+<v ->So real quick, CRI is also research,</v>
+
+982
+40:58.560 --> 41:01.110
+so I'm glad you asked that.
+
+983
+41:01.110 --> 41:03.690
+So I'm gonna leave you with this one last thought is,
+
+984
+41:03.690 --> 41:07.500
+sometimes we get so caught up in the technology,
+
+985
+41:07.500 --> 41:10.020
+like everything that you just said, right,
+
+986
+41:10.020 --> 41:15.020
+that some of the old ways might actually be better
+
+987
+41:15.030 --> 41:17.100
+than trying to implement technology.
+
+988
+41:17.100 --> 41:19.620
+And I'm talking from a small and medium business,
+
+989
+41:19.620 --> 41:21.210
+like, you're very efficient,
+
+990
+41:21.210 --> 41:22.980
+everybody's running efficiently,
+
+991
+41:22.980 --> 41:24.810
+process the email, do all this stuff,
+
+992
+41:24.810 --> 41:26.040
+I get all these things.
+
+993
+41:26.040 --> 41:30.750
+You know, sometimes if you just stop and call your vendor
+
+994
+41:30.750 --> 41:33.870
+and say, "Did you really send this?
+
+995
+41:33.870 --> 41:38.220
+'Cause I have no record of this purchase."
+
+996
+41:38.220 --> 41:41.850
+That you could actually stop a ransomware attack.
+
+997
+41:41.850 --> 41:45.150
+So I know we're very efficient.
+
+998
+41:45.150 --> 41:48.030
+We wanna process things really fast.
+
+999
+41:48.030 --> 41:49.950
+AI is gonna make it more...
+
+1000
+41:49.950 --> 41:54.180
+So we're researching into how to stop some of these things,
+
+1001
+41:54.180 --> 41:58.350
+but sometimes just regular human interaction
+
+1002
+41:58.350 --> 42:01.560
+would actually be the best defense.
+
+1003
+42:01.560 --> 42:04.290
+<v ->I'll say one sentence, and I promise one.</v>
+
+1004
+42:04.290 --> 42:06.300
+I'm not known to give short answers,
+
+1005
+42:06.300 --> 42:08.340
+but I'm gonna try my level best.
+
+1006
+42:08.340 --> 42:11.460
+AI is going to force the breakage of those silos.
+
+1007
+42:11.460 --> 42:14.580
+Right now, for me, my SecOps and my CloudOps
+
+1008
+42:14.580 --> 42:17.010
+is bigger than my CISO's team, right?
+
+1009
+42:17.010 --> 42:20.250
+So AI will absolutely force
+
+1010
+42:20.250 --> 42:22.200
+this shared responsibility model,
+
+1011
+42:22.200 --> 42:24.000
+and I'm actually very happy about that, right?
+
+1012
+42:24.000 --> 42:26.490
+So that's my short answer,
+
+1013
+42:26.490 --> 42:29.430
+but I'll give you a longer answer afterwards. (laughs)
+
+1014
+42:29.430 --> 42:30.540
+<v ->Well, thank you, everyone, for coming.</v>
+
+1015
+42:30.540 --> 42:32.100
+Thank you, Kevin, Karen, Nabil.
+
+1016
+42:32.100 --> 42:33.480
+This was a lovely conversation.
+
+1017
+42:33.480 --> 42:35.180
+Have a wonderful rest of your CES.
+
+1018
+42:36.219 --> 42:38.802
+(upbeat music)
+

@@ -1,0 +1,3803 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.397 --> 00:03.480
+(upbeat music plays)
+
+2
+00:10.530 --> 00:12.060
+<v ->Okay, welcome everyone.</v>
+
+3
+00:12.060 --> 00:13.740
+My name is Tom Andriola.
+
+4
+00:13.740 --> 00:16.050
+I am the Chief Digital Officer at UC Irvine
+
+5
+00:16.050 --> 00:17.550
+in Southern California,
+
+6
+00:17.550 --> 00:20.223
+and I'll be your moderator for today.
+
+7
+00:21.270 --> 00:22.800
+First of all, I'd just like to recognize,
+
+8
+00:22.800 --> 00:25.080
+if any of you have families that are impacted
+
+9
+00:25.080 --> 00:26.040
+in Southern California,
+
+10
+00:26.040 --> 00:28.380
+we send our thoughts and prayers to you.
+
+11
+00:28.380 --> 00:30.570
+It's a really challenging time.
+
+12
+00:30.570 --> 00:32.040
+My family's not directly impacted,
+
+13
+00:32.040 --> 00:35.130
+but I've been talking to family members who are,
+
+14
+00:35.130 --> 00:38.610
+and you know, we just send our thoughts and prayers to them.
+
+15
+00:38.610 --> 00:41.280
+We've got a very interesting panel for you today.
+
+16
+00:41.280 --> 00:44.977
+And, you know, the name of this show should probably be
+
+17
+00:44.977 --> 00:48.450
+"AI Everywhere, Everything, All the Time"
+
+18
+00:48.450 --> 00:50.250
+'cause you couldn't walk through the hall
+
+19
+00:50.250 --> 00:54.480
+without seeing everyone talking about AI.
+
+20
+00:54.480 --> 00:56.610
+But if you get past the hype
+
+21
+00:56.610 --> 00:58.170
+and you really think about, you know,
+
+22
+00:58.170 --> 00:59.520
+what people are talking about
+
+23
+00:59.520 --> 01:04.290
+is we have been introduced to a exciting set of new tools
+
+24
+01:04.290 --> 01:07.890
+that are giving us the opportunity to rethink
+
+25
+01:07.890 --> 01:10.560
+how we do our work, which means we have
+
+26
+01:10.560 --> 01:12.240
+to think about the people who do that work
+
+27
+01:12.240 --> 01:15.390
+and what is their relationship to these tools.
+
+28
+01:15.390 --> 01:17.190
+And so, what we've put together today
+
+29
+01:17.190 --> 01:20.610
+is a really exciting panel for you to explore this,
+
+30
+01:20.610 --> 01:23.370
+where we're going to let them answer some questions
+
+31
+01:23.370 --> 01:25.050
+and then take some of your questions at the end
+
+32
+01:25.050 --> 01:28.320
+in terms of what does the future of work look like
+
+33
+01:28.320 --> 01:31.860
+in an era where we all have access to these tools
+
+34
+01:31.860 --> 01:35.520
+and an opportunity to rethink the work that we do
+
+35
+01:35.520 --> 01:37.260
+and the way that we interact with each other?
+
+36
+01:37.260 --> 01:39.360
+So that's what we're gonna explore today.
+
+37
+01:39.360 --> 01:42.000
+I would like to introduce our panelists real quick,
+
+38
+01:42.000 --> 01:44.310
+and in their answers they'll talk a little bit
+
+39
+01:44.310 --> 01:45.420
+about their backgrounds.
+
+40
+01:45.420 --> 01:48.060
+Claire Shapiro, Director of Innovation and Insights
+
+41
+01:48.060 --> 01:49.533
+and Strategy at Visa.
+
+42
+01:50.610 --> 01:53.550
+Loretta Li-Sevilla... Sevilla?
+
+43
+01:53.550 --> 01:55.260
+Sevilla, thank you.
+
+44
+01:55.260 --> 01:57.873
+Global Head of Future of Work at HP.
+
+45
+01:58.800 --> 02:03.420
+Julia Alexander, co-founder and Chief Product Officer
+
+46
+02:03.420 --> 02:05.070
+at Exec Online.
+
+47
+02:05.070 --> 02:07.290
+And Daniel Drellich, senior Vice President
+
+48
+02:07.290 --> 02:10.290
+of Business Partnering and head of HR at EMD Electronics.
+
+49
+02:10.290 --> 02:12.480
+Thank you all for being here with us today.
+
+50
+02:12.480 --> 02:14.760
+Okay, so we're gonna start you off with a little bit
+
+51
+02:14.760 --> 02:17.730
+of a softball question, and allow each of you to answer
+
+52
+02:17.730 --> 02:19.800
+from your own perspectives and industries,
+
+53
+02:19.800 --> 02:23.400
+which is, you know, what is AI's impact on the workforce
+
+54
+02:23.400 --> 02:25.650
+as you're seeing it today,
+
+55
+02:25.650 --> 02:27.620
+and how are you thinking about it in terms
+
+56
+02:27.620 --> 02:31.470
+of your role helping your organization navigate forward?
+
+57
+02:31.470 --> 02:32.970
+So, Claire, we'll start with you.
+
+58
+02:32.970 --> 02:34.800
+<v ->Sure, thanks, Tom.</v>
+
+59
+02:34.800 --> 02:38.100
+So, at Visa in our innovation space,
+
+60
+02:38.100 --> 02:40.740
+we're really looking at how to bring new technology
+
+61
+02:40.740 --> 02:43.320
+to create new value for our customers,
+
+62
+02:43.320 --> 02:46.110
+but also to improve processes
+
+63
+02:46.110 --> 02:50.160
+and just work better as a company, as a workforce.
+
+64
+02:50.160 --> 02:51.990
+So, in terms of the financial space,
+
+65
+02:51.990 --> 02:54.630
+there's a lot going on in AI.
+
+66
+02:54.630 --> 02:59.010
+We're seeing a lot in fraud, fraud mitigation.
+
+67
+02:59.010 --> 03:02.010
+It's estimated that there'll be $5 trillion
+
+68
+03:02.010 --> 03:04.500
+of financial fraud annually.
+
+69
+03:04.500 --> 03:07.470
+And anything we can do to continue
+
+70
+03:07.470 --> 03:11.640
+to be smarter about fraud, we are doing with AI.
+
+71
+03:11.640 --> 03:13.590
+We also are thinking about
+
+72
+03:13.590 --> 03:17.460
+how the commerce value chain is completely changing
+
+73
+03:17.460 --> 03:20.441
+with how people buy and purchase.
+
+74
+03:20.441 --> 03:23.040
+And that might mean us totally rethinking
+
+75
+03:23.040 --> 03:26.430
+how we support our customers, our issuers, our acquirers,
+
+76
+03:26.430 --> 03:29.730
+and our merchants, and internally how we work.
+
+77
+03:29.730 --> 03:33.480
+I mean, Visa, we have a lot of focus on our relationships
+
+78
+03:33.480 --> 03:35.040
+and a lot of clients,
+
+79
+03:35.040 --> 03:37.530
+and thinking about how we can better serve our clients
+
+80
+03:37.530 --> 03:39.780
+through sales channels with AI.
+
+81
+03:39.780 --> 03:43.050
+So, we're seeing a lot across the board, both internally
+
+82
+03:43.050 --> 03:46.233
+and how we work better, as well as externally.
+
+83
+03:47.700 --> 03:49.560
+<v ->Loretta, how about at HP?</v>
+
+84
+03:49.560 --> 03:53.760
+<v ->Yes, so, a significant transformation that's happening,</v>
+
+85
+03:53.760 --> 03:58.260
+both internal to HP of how do we take a look
+
+86
+03:58.260 --> 04:00.870
+at different types of roles and job functions.
+
+87
+04:00.870 --> 04:02.520
+There are certain types of roles
+
+88
+04:02.520 --> 04:05.460
+that might transform faster than others,
+
+89
+04:05.460 --> 04:07.920
+and then also what do we do externally
+
+90
+04:07.920 --> 04:11.040
+for our customers, to be prepared?
+
+91
+04:11.040 --> 04:14.670
+We think about use cases in three types of areas.
+
+92
+04:14.670 --> 04:18.240
+First is we see AI as being able
+
+93
+04:18.240 --> 04:21.690
+to eliminate non-productive work, right?
+
+94
+04:21.690 --> 04:24.720
+So if you think about those types of tasks
+
+95
+04:24.720 --> 04:29.493
+like writing meeting minutes, action items,
+
+96
+04:30.330 --> 04:34.650
+you know, being able to send transcripts out
+
+97
+04:34.650 --> 04:36.182
+and things like that.
+
+98
+04:36.182 --> 04:39.270
+Those are now things that can be done by AI,
+
+99
+04:39.270 --> 04:43.290
+so you can spend time to do things that have more value.
+
+100
+04:43.290 --> 04:47.460
+The second kind of category is around being able
+
+101
+04:47.460 --> 04:50.790
+to make those important tasks more efficient.
+
+102
+04:50.790 --> 04:55.380
+So, if you think about marketing and creative professionals,
+
+103
+04:55.380 --> 04:58.260
+that the amount of time... Time is money, right?
+
+104
+04:58.260 --> 05:01.710
+For them to create images, videos, music.
+
+105
+05:01.710 --> 05:05.280
+So that can be done much more effectively and efficiently.
+
+106
+05:05.280 --> 05:10.280
+And the third is around creating superpowers, right?
+
+107
+05:10.470 --> 05:13.140
+So things that never could've been done before.
+
+108
+05:13.140 --> 05:18.140
+So you think about live foreign language translation, right?
+
+109
+05:18.780 --> 05:21.300
+You know, I speak, sorry to say this,
+
+110
+05:21.300 --> 05:23.730
+but I only speak one language, English.
+
+111
+05:23.730 --> 05:26.310
+And so, for me to be able to communicate
+
+112
+05:26.310 --> 05:29.310
+with all the people around the world
+
+113
+05:29.310 --> 05:32.250
+is really significant, is a new superpower for me.
+
+114
+05:32.250 --> 05:35.130
+And something that is actually really exciting
+
+115
+05:35.130 --> 05:38.190
+is actually seeing how communication
+
+116
+05:38.190 --> 05:41.550
+and accessibility is coming to play too,
+
+117
+05:41.550 --> 05:46.020
+because there's some new software that actually translates
+
+118
+05:46.020 --> 05:49.740
+from American Sign Language to text, right?
+
+119
+05:49.740 --> 05:52.530
+And so, all of a sudden we see this kind of bridging
+
+120
+05:52.530 --> 05:54.660
+of the digital divide, which is super exciting.
+
+121
+05:54.660 --> 05:58.140
+<v ->Yeah, I saw an interesting, it was live transcription</v>
+
+122
+05:58.140 --> 06:01.530
+inside the glasses, in one of the booths that I saw today.
+
+123
+06:01.530 --> 06:03.570
+Julia, you've been involved in executive education
+
+124
+06:03.570 --> 06:04.770
+at Exec Online.
+
+125
+06:04.770 --> 06:07.860
+What are you seeing from the perspective that you have?
+
+126
+06:07.860 --> 06:09.870
+<v ->Great, thanks Tom, and hello everyone.</v>
+
+127
+06:09.870 --> 06:12.570
+It's really great to be back here at CES,
+
+128
+06:12.570 --> 06:16.170
+really one of my favorite ways to kick off a year.
+
+129
+06:16.170 --> 06:17.970
+I am the co-founder of Exec Online.
+
+130
+06:17.970 --> 06:20.130
+It's an online leadership development platform
+
+131
+06:20.130 --> 06:22.620
+that partners with the world's top business schools
+
+132
+06:22.620 --> 06:26.250
+and Fortune 500, Global 2000 organizations everywhere
+
+133
+06:26.250 --> 06:29.940
+to uplevel leadership, development and management.
+
+134
+06:29.940 --> 06:31.710
+And so, it's an exciting time.
+
+135
+06:31.710 --> 06:34.050
+On this stage last year, I had the privilege
+
+136
+06:34.050 --> 06:36.240
+of announcing a groundbreaking collaboration
+
+137
+06:36.240 --> 06:39.810
+between Exec online and Amazon Web Services,
+
+138
+06:39.810 --> 06:42.900
+AWS's generative AI innovation center.
+
+139
+06:42.900 --> 06:43.733
+And this year,
+
+140
+06:43.733 --> 06:45.270
+we're really thinking about how does this all work?
+
+141
+06:45.270 --> 06:46.920
+How does it all come together?
+
+142
+06:46.920 --> 06:49.380
+And we're really at this incredible liminal moment,
+
+143
+06:49.380 --> 06:52.050
+this sort of in-between space that I think makes
+
+144
+06:52.050 --> 06:54.930
+some of the juice of being alive really, really great.
+
+145
+06:54.930 --> 06:57.330
+And Exec Online data really shows that
+
+146
+06:57.330 --> 07:01.740
+on the more open opportunity perspective,
+
+147
+07:01.740 --> 07:04.710
+only 5% of organizations that we have surveyed
+
+148
+07:04.710 --> 07:06.930
+say that they have the skills and the workforce
+
+149
+07:06.930 --> 07:09.660
+that they will need for this next phase.
+
+150
+07:09.660 --> 07:12.450
+So there's a huge gap between where we are
+
+151
+07:12.450 --> 07:14.220
+and where we want to be,
+
+152
+07:14.220 --> 07:15.870
+even if it's not entirely clear
+
+153
+07:15.870 --> 07:17.700
+exactly where that's going to go.
+
+154
+07:17.700 --> 07:20.880
+On the other hand, when you survey the leaders
+
+155
+07:20.880 --> 07:22.770
+that go through the Exec Online platform,
+
+156
+07:22.770 --> 07:25.170
+the hundreds of thousands of leaders from these companies,
+
+157
+07:25.170 --> 07:27.930
+wonderful companies such as on this panel,
+
+158
+07:27.930 --> 07:29.460
+they will say that two thirds of them
+
+159
+07:29.460 --> 07:32.640
+are at least somewhat or totally burnt out.
+
+160
+07:32.640 --> 07:35.497
+And so, here we are with a gap where companies are saying
+
+161
+07:35.497 --> 07:36.930
+"We don't have the workforce we need,"
+
+162
+07:36.930 --> 07:39.180
+and yet a lot of employees are already
+
+163
+07:39.180 --> 07:40.560
+being pushed to the max.
+
+164
+07:40.560 --> 07:44.310
+And so, this is a really tremendous opportunity to use AI
+
+165
+07:44.310 --> 07:47.250
+to improve the employee experience, to reduce
+
+166
+07:47.250 --> 07:50.460
+some of that unnecessary work that's a burden on employees,
+
+167
+07:50.460 --> 07:52.530
+to personalize the employee experience
+
+168
+07:52.530 --> 07:55.860
+and to create more connectedness among people and teams,
+
+169
+07:55.860 --> 08:00.600
+while also preparing for the roles of the future
+
+170
+08:00.600 --> 08:03.570
+and the AI augmented workforce.
+
+171
+08:03.570 --> 08:05.850
+<v ->Daniel, how about at EMD Electronics?</v>
+
+172
+08:05.850 --> 08:06.990
+<v ->Sure.</v>
+
+173
+08:06.990 --> 08:08.640
+And to give kind of another field,
+
+174
+08:08.640 --> 08:11.040
+but I think it builds off a lot of what we're saying,
+
+175
+08:11.040 --> 08:14.010
+at EMD, what we do is we provide materials
+
+176
+08:14.010 --> 08:16.500
+and tools for the semiconductor industry.
+
+177
+08:16.500 --> 08:18.510
+So, when we talk about AI,
+
+178
+08:18.510 --> 08:20.490
+when we talk about advanced digital,
+
+179
+08:20.490 --> 08:24.060
+you need more and more complex semiconductor chips.
+
+180
+08:24.060 --> 08:27.270
+To do that, we need more of a technical workforce.
+
+181
+08:27.270 --> 08:30.330
+We need more people to be entering into the sciences
+
+182
+08:30.330 --> 08:31.350
+than we have today.
+
+183
+08:31.350 --> 08:34.380
+Currently today, we have a lot of issues with the challenge
+
+184
+08:34.380 --> 08:36.960
+of we don't have the people in the future to go there.
+
+185
+08:36.960 --> 08:38.880
+So what are we doing?
+
+186
+08:38.880 --> 08:40.890
+We're spending a lot of time on workforce development.
+
+187
+08:40.890 --> 08:43.740
+So, really focusing on that K to 12 group,
+
+188
+08:43.740 --> 08:45.570
+to say, "Hey, how do we get these people interested
+
+189
+08:45.570 --> 08:48.780
+and excited so they can be our future scientists?"
+
+190
+08:48.780 --> 08:51.630
+The other thing we're kind of understanding there is,
+
+191
+08:51.630 --> 08:53.370
+okay, maybe you're not gonna be a scientist,
+
+192
+08:53.370 --> 08:56.010
+but you need to understand how to use this technology
+
+193
+08:56.010 --> 08:57.150
+and how to work with it.
+
+194
+08:57.150 --> 09:00.210
+So, a bit of a tech or an AI literacy
+
+195
+09:00.210 --> 09:01.410
+that we're trying to promote there.
+
+196
+09:01.410 --> 09:03.480
+And I think that's a lot of what we're doing.
+
+197
+09:03.480 --> 09:06.540
+Inside, if you move now inside our company,
+
+198
+09:06.540 --> 09:07.470
+we're looking kind of, I would say,
+
+199
+09:07.470 --> 09:09.540
+on how we're augmenting our employees.
+
+200
+09:09.540 --> 09:12.810
+So in R&amp;D, how can some experiments be run
+
+201
+09:12.810 --> 09:14.250
+through digital tools?
+
+202
+09:14.250 --> 09:16.410
+If we look at manufacturing,
+
+203
+09:16.410 --> 09:18.330
+how are we using smart manufacturing
+
+204
+09:18.330 --> 09:21.390
+and digital twins to produce and improve processes
+
+205
+09:21.390 --> 09:23.070
+that before would've taken a lot longer?
+
+206
+09:23.070 --> 09:25.500
+So that's some of the ways we're using it at EMD.
+
+207
+09:25.500 --> 09:28.080
+<v ->Yeah, I want to get into this, you know...</v>
+
+208
+09:28.080 --> 09:29.706
+I want to get into this issue of, you know,
+
+209
+09:29.706 --> 09:34.470
+we all have workforces today and you know,
+
+210
+09:34.470 --> 09:36.810
+the stupid analogy I like to use,
+
+211
+09:36.810 --> 09:40.050
+it's like, you know, sometime well in the past,
+
+212
+09:40.050 --> 09:42.390
+the person who would dig the foundation for your house
+
+213
+09:42.390 --> 09:46.350
+showed up with people, shovels, and a wheelbarrow.
+
+214
+09:46.350 --> 09:48.690
+And then one day someone showed up with a backhoe
+
+215
+09:48.690 --> 09:51.867
+and said, "You know, I'm gonna do it in one tenth the time
+
+216
+09:51.867 --> 09:54.780
+and at one tenth the cost with this new tool."
+
+217
+09:54.780 --> 09:57.487
+And, you know, and then everyone else says, like,
+
+218
+09:57.487 --> 09:59.220
+"How do I get into this new economy?"
+
+219
+09:59.220 --> 10:00.510
+Right?
+
+220
+10:00.510 --> 10:02.880
+So, we all have this challenge,
+
+221
+10:02.880 --> 10:04.187
+and Daniel, you just alluded to it,
+
+222
+10:04.187 --> 10:06.450
+so I'm gonna ask you to expand on your answer.
+
+223
+10:06.450 --> 10:09.000
+You know, how are you thinking about the reskilling
+
+224
+10:09.972 --> 10:11.760
+and how are you thinking about the change management?
+
+225
+10:11.760 --> 10:12.750
+And again, you can blend the two
+
+226
+10:12.750 --> 10:13.890
+or you can separate the two.
+
+227
+10:13.890 --> 10:15.570
+How are you thinking about the change management
+
+228
+10:15.570 --> 10:18.240
+of getting people to jump into the new world
+
+229
+10:18.240 --> 10:20.160
+that's starting to define itself?
+
+230
+10:20.160 --> 10:23.250
+<v ->It's a great question and it's an important one.</v>
+
+231
+10:23.250 --> 10:24.900
+What I would start with is
+
+232
+10:24.900 --> 10:28.170
+you've gotta meet your employee base where they are.
+
+233
+10:28.170 --> 10:30.300
+Because if you don't meet with them where they are,
+
+234
+10:30.300 --> 10:31.155
+you're gonna lose them
+
+235
+10:31.155 --> 10:32.460
+and you're not gonna bring them along.
+
+236
+10:32.460 --> 10:35.160
+And, like, for a company like ours, it would be a lot harder
+
+237
+10:35.160 --> 10:38.370
+to hire 60,000 new people than it would be to reskill them.
+
+238
+10:38.370 --> 10:40.050
+So this is what we need to do.
+
+239
+10:40.050 --> 10:42.360
+So what you're looking at is you're tracking a bit,
+
+240
+10:42.360 --> 10:45.240
+and you've got one piece where you'd almost call it
+
+241
+10:45.240 --> 10:47.010
+like a cultural initiative, where you're getting people
+
+242
+10:47.010 --> 10:48.510
+to hear the success stories.
+
+243
+10:48.510 --> 10:51.540
+You're setting up networks through different technology
+
+244
+10:51.540 --> 10:54.300
+where people can connect depending on what level they're at.
+
+245
+10:54.300 --> 10:57.840
+Then you have, you know, I think as most people do nowadays,
+
+246
+10:57.840 --> 11:01.260
+some form of ChatGPT or GPT technology
+
+247
+11:01.260 --> 11:04.110
+that the general population can use for their daily work.
+
+248
+11:05.670 --> 11:08.190
+Now we have a group we call our translators.
+
+249
+11:08.190 --> 11:11.580
+So they're people who would be, like, say content experts
+
+250
+11:11.580 --> 11:14.730
+and they'll spend, like, say six weeks or a month
+
+251
+11:14.730 --> 11:16.950
+with the digital team, gain skills,
+
+252
+11:16.950 --> 11:19.597
+go back to their area and be ones who could help with,
+
+253
+11:19.597 --> 11:22.560
+"Okay, here's what we need to develop, here's how we do it."
+
+254
+11:22.560 --> 11:24.750
+So it's not everyone who has to have that depth,
+
+255
+11:24.750 --> 11:26.760
+but they have to have the understanding to use the tools.
+
+256
+11:26.760 --> 11:29.250
+And then obviously, of course we have the more traditional
+
+257
+11:29.250 --> 11:32.108
+digital and AI type experts.
+
+258
+11:32.108 --> 11:33.990
+<v ->Yeah, so, I think that's a great point</v>
+
+259
+11:33.990 --> 11:36.030
+about being able to meet people where they are,
+
+260
+11:36.030 --> 11:38.340
+because it's going to be important
+
+261
+11:38.340 --> 11:41.040
+to have your workforce with you.
+
+262
+11:41.040 --> 11:44.070
+So as you think about mapping your talent
+
+263
+11:44.070 --> 11:46.110
+and figuring out what their pain points are
+
+264
+11:46.110 --> 11:47.037
+every day, right?
+
+265
+11:47.037 --> 11:52.037
+And so, encourage kind of experimentation.
+
+266
+11:52.110 --> 11:53.370
+The other thing too, I'd say
+
+267
+11:53.370 --> 11:57.720
+is that it's not just about scaling on hard skills,
+
+268
+11:57.720 --> 12:00.960
+it's also the soft skills, the power skills,
+
+269
+12:00.960 --> 12:03.510
+because things are rapidly changing.
+
+270
+12:03.510 --> 12:06.870
+And so, being able to have the critical thinking,
+
+271
+12:06.870 --> 12:09.420
+being able to work in an adaptive environment,
+
+272
+12:09.420 --> 12:11.130
+being able to learn, right?
+
+273
+12:11.130 --> 12:14.130
+Because there's some, like, my kids are in college
+
+274
+12:14.130 --> 12:18.680
+and what they learned in freshman year is obsolete
+
+275
+12:20.070 --> 12:21.480
+by senior year.
+
+276
+12:21.480 --> 12:25.380
+And then now it's increasingly what they learn in,
+
+277
+12:25.380 --> 12:29.223
+you know, in fall quarter is obsolete by summer.
+
+278
+12:29.223 --> 12:33.000
+So, this whole area of how to encourage people
+
+279
+12:33.000 --> 12:35.040
+to adapt and learn,
+
+280
+12:35.040 --> 12:37.830
+I think is really important in the reskilling too.
+
+281
+12:37.830 --> 12:40.200
+<v ->Others, in terms of how they're seeing organizations,</v>
+
+282
+12:40.200 --> 12:41.670
+have success with this.
+
+283
+12:41.670 --> 12:43.350
+I see, Julia, I see you want to jump in.
+
+284
+12:43.350 --> 12:44.880
+<v ->I really agree with everything that you just said</v>
+
+285
+12:44.880 --> 12:48.810
+and that organizations and individuals who will reskill
+
+286
+12:48.810 --> 12:51.750
+and learn faster than the pace of change
+
+287
+12:51.750 --> 12:54.510
+are the individuals and teams and organizations
+
+288
+12:54.510 --> 12:55.650
+that will succeed.
+
+289
+12:55.650 --> 12:57.120
+We're all headed on this path together
+
+290
+12:57.120 --> 12:58.590
+and I think if we're being really honest,
+
+291
+12:58.590 --> 13:00.720
+no one is a hundred percent sure where we're gonna land,
+
+292
+13:00.720 --> 13:01.860
+but it's exciting.
+
+293
+13:01.860 --> 13:04.380
+That means really building in the competencies
+
+294
+13:04.380 --> 13:09.120
+to be agile, to intake information, to identify the types
+
+295
+13:09.120 --> 13:11.460
+of AI champions within your organization
+
+296
+13:11.460 --> 13:12.543
+that are already enthusiastic,
+
+297
+13:12.543 --> 13:14.610
+that you can continue to create a platform for
+
+298
+13:14.610 --> 13:16.500
+and empower through this journey
+
+299
+13:16.500 --> 13:18.090
+are gonna be really critical.
+
+300
+13:18.090 --> 13:20.310
+There is one area of the reskilling,
+
+301
+13:20.310 --> 13:22.680
+and that's certainly what I do in my work
+
+302
+13:22.680 --> 13:25.590
+as well as as an innovation advisor,
+
+303
+13:25.590 --> 13:27.540
+that I think we're not talking enough about,
+
+304
+13:27.540 --> 13:30.510
+and it's somewhat of a precursor to reskilling.
+
+305
+13:30.510 --> 13:32.760
+A lot of times organizations will just jump right in
+
+306
+13:32.760 --> 13:34.050
+and say, "Okay, we need to reskill,
+
+307
+13:34.050 --> 13:35.760
+we're gonna do a big reskill initiative
+
+308
+13:35.760 --> 13:37.140
+and we're gonna spend a lot of budget."
+
+309
+13:37.140 --> 13:39.990
+And you know, it's great for those of us
+
+310
+13:39.990 --> 13:40.950
+on the receiving end of that.
+
+311
+13:40.950 --> 13:43.500
+But the thing is is before this is a precursor,
+
+312
+13:43.500 --> 13:46.740
+which I would consider to be reclassification of a role
+
+313
+13:46.740 --> 13:50.220
+and really defining what a role will look like,
+
+314
+13:50.220 --> 13:53.550
+or a set of roles, before and after an AI
+
+315
+13:53.550 --> 13:54.960
+implementation and augmentation.
+
+316
+13:54.960 --> 13:58.890
+So as an example, a basic customer service example,
+
+317
+13:58.890 --> 14:02.370
+if you're an experienced customer service manager,
+
+318
+14:02.370 --> 14:03.960
+you might have a team about five to ten
+
+319
+14:03.960 --> 14:05.580
+customer service agents.
+
+320
+14:05.580 --> 14:08.730
+Your day to day is scheduling shifts for them,
+
+321
+14:08.730 --> 14:11.940
+providing performance feedback, doing quality control
+
+322
+14:11.940 --> 14:14.790
+and overall kind of administrative management
+
+323
+14:14.790 --> 14:15.630
+during the day.
+
+324
+14:15.630 --> 14:18.330
+And your team members are, you know, doing the inquiries
+
+325
+14:18.330 --> 14:20.910
+and you also receive probably some escalation calls
+
+326
+14:20.910 --> 14:21.743
+and that sort of thing.
+
+327
+14:21.743 --> 14:22.650
+That's kind of what you do.
+
+328
+14:22.650 --> 14:25.650
+And they're doing the front end work.
+
+329
+14:25.650 --> 14:28.560
+That's in the pre-AI, the current world.
+
+330
+14:28.560 --> 14:30.660
+After AI in a situation like this,
+
+331
+14:30.660 --> 14:33.240
+a customer experience leader
+
+332
+14:33.240 --> 14:35.490
+won't really be doing any of those things.
+
+333
+14:35.490 --> 14:39.000
+The performance management can be done by the AI,
+
+334
+14:39.000 --> 14:42.120
+the inquiries, the escalation management can definitely
+
+335
+14:42.120 --> 14:45.420
+be done by the AI, and the vast majority of tier one
+
+336
+14:45.420 --> 14:48.270
+and increasingly tier two and tier three support
+
+337
+14:48.270 --> 14:50.670
+probably will be done by the AI at the end of this year,
+
+338
+14:50.670 --> 14:52.680
+if not sooner.
+
+339
+14:52.680 --> 14:53.610
+So what does that mean?
+
+340
+14:53.610 --> 14:54.720
+What is your role now?
+
+341
+14:54.720 --> 14:57.780
+Your title is still Customer Experience Manager.
+
+342
+14:57.780 --> 14:59.310
+There needs to be a mapping
+
+343
+14:59.310 --> 15:01.140
+of what that will look like in the future.
+
+344
+15:01.140 --> 15:03.060
+Instead, you're gonna be spending more time
+
+345
+15:03.060 --> 15:04.620
+analyzing workflows.
+
+346
+15:04.620 --> 15:06.990
+You're gonna be redesigning the workflows of your team,
+
+347
+15:06.990 --> 15:08.970
+you're gonna be looking at data, you're gonna be working
+
+348
+15:08.970 --> 15:11.970
+and training and fine tuning the very model that is going
+
+349
+15:11.970 --> 15:13.950
+to be essentially a teammate for you.
+
+350
+15:13.950 --> 15:15.720
+The AI will not be a model
+
+351
+15:15.720 --> 15:17.850
+that is a one input and one output.
+
+352
+15:17.850 --> 15:19.980
+It's gonna be the collaborator so you can provide
+
+353
+15:19.980 --> 15:22.350
+better service to your team and to your people.
+
+354
+15:22.350 --> 15:24.300
+It's a fundamental rethinking of a role.
+
+355
+15:24.300 --> 15:27.090
+And so, it's interesting 'cause when we say something like,
+
+356
+15:27.090 --> 15:30.157
+have you ever heard the statement, you know,
+
+357
+15:30.157 --> 15:31.920
+"Your job won't be replaced by AI,
+
+358
+15:31.920 --> 15:34.860
+a human augmented version."
+
+359
+15:34.860 --> 15:36.570
+This is what we're really talking about
+
+360
+15:36.570 --> 15:38.250
+in the nuts and bolts kind of way.
+
+361
+15:38.250 --> 15:41.730
+And so, when reskilling comes into that moment,
+
+362
+15:41.730 --> 15:44.130
+if you don't have the sort of skills that allow you
+
+363
+15:44.130 --> 15:46.410
+to interact with an AI and fine tune a model
+
+364
+15:46.410 --> 15:50.280
+and do flows, you have a real gap to fill.
+
+365
+15:50.280 --> 15:53.010
+And that's an opportunity for organizations.
+
+366
+15:53.010 --> 15:54.960
+If you're an AI champion, maybe you were already ahead
+
+367
+15:54.960 --> 15:56.460
+of the curve and you've been studying for two years,
+
+368
+15:56.460 --> 15:58.950
+you can jump right into that role and be first in line,
+
+369
+15:58.950 --> 16:01.080
+but everyone else is gonna need a little bit of help.
+
+370
+16:01.080 --> 16:03.870
+And I think kind of getting to the nuts and bolts of it
+
+371
+16:03.870 --> 16:05.910
+as leaders here about how you plan to do that
+
+372
+16:05.910 --> 16:07.770
+in your organizations is something
+
+373
+16:07.770 --> 16:09.240
+that if you're not already doing it,
+
+374
+16:09.240 --> 16:10.530
+I really would encourage you to begin
+
+375
+16:10.530 --> 16:12.360
+to think pretty clearly about
+
+376
+16:12.360 --> 16:14.393
+how you want to make that transformation.
+
+377
+16:15.870 --> 16:17.070
+<v ->Yeah, I was gonna say,</v>
+
+378
+16:17.910 --> 16:21.210
+AI is gonna impact these roles so differently.
+
+379
+16:21.210 --> 16:24.180
+It's hard to know how exactly for each of these,
+
+380
+16:24.180 --> 16:26.970
+you know, whether you're very senior, very junior,
+
+381
+16:26.970 --> 16:27.840
+your role within a company,
+
+382
+16:27.840 --> 16:30.450
+it may augment and supercharge your workflow.
+
+383
+16:30.450 --> 16:33.580
+You may have to totally rethink what you're doing day to day
+
+384
+16:34.620 --> 16:36.180
+and maybe it will require more skills.
+
+385
+16:36.180 --> 16:39.300
+I think what's important is having a baseline
+
+386
+16:39.300 --> 16:43.110
+of AI literacy that you're working with your company
+
+387
+16:43.110 --> 16:45.120
+to kind of champion for.
+
+388
+16:45.120 --> 16:47.310
+And I completely agree with leaning in
+
+389
+16:47.310 --> 16:50.580
+to those early adopters and those folks that are
+
+390
+16:50.580 --> 16:53.580
+taking this new technology and running with it.
+
+391
+16:53.580 --> 16:56.280
+My background is in research and behavioral insights
+
+392
+16:56.280 --> 16:58.530
+and I always find that I learn the most from seeing
+
+393
+16:58.530 --> 17:01.650
+what people are doing when they're kind of learning
+
+394
+17:01.650 --> 17:03.000
+how to work the system themselves
+
+395
+17:03.000 --> 17:05.040
+and creating little workflows on their own
+
+396
+17:05.040 --> 17:08.400
+and kind of sharing about what the technology can do
+
+397
+17:08.400 --> 17:10.680
+for them rather than more of, like,
+
+398
+17:10.680 --> 17:12.540
+a top down type of approach.
+
+399
+17:12.540 --> 17:15.093
+Like, here's the AI, figure it out.
+
+400
+17:15.930 --> 17:18.330
+So, I always find that working with those kind
+
+401
+17:18.330 --> 17:21.270
+of early adopters and really sitting alongside them
+
+402
+17:21.270 --> 17:23.568
+and showing what that technology can do
+
+403
+17:23.568 --> 17:26.040
+with those exact use cases will be really helpful
+
+404
+17:26.040 --> 17:27.720
+on top of that baseline of literacy
+
+405
+17:27.720 --> 17:31.050
+that we'll have to kind of work with our companies.
+
+406
+17:31.050 --> 17:33.660
+<v ->Yeah, so, I mean, if you think about what a university is,</v>
+
+407
+17:33.660 --> 17:35.027
+it's a really interesting organization, right?
+
+408
+17:35.027 --> 17:37.926
+'Cause we're like any other organization, you know,
+
+409
+17:37.926 --> 17:41.760
+we have our people who will say "Over my dead body,
+
+410
+17:41.760 --> 17:45.000
+anything new, no matter what it is, I'm against it."
+
+411
+17:45.000 --> 17:47.010
+And then we have these things called students
+
+412
+17:47.010 --> 17:48.240
+who are on the front lines
+
+413
+17:48.240 --> 17:51.330
+and doing stuff that is way outside the box of anything
+
+414
+17:51.330 --> 17:52.800
+that I would ever think of.
+
+415
+17:52.800 --> 17:55.020
+And so, you know, we created an environment where we just,
+
+416
+17:55.020 --> 17:57.270
+we gave people a playground and we said "Experiment."
+
+417
+17:57.270 --> 17:59.550
+You know, we gave them the playground and said "Go."
+
+418
+17:59.550 --> 18:01.680
+That's what helped us identify our innovators, right?
+
+419
+18:01.680 --> 18:03.030
+Our top 10% who took us.
+
+420
+18:03.030 --> 18:06.750
+And then we tried to, you know, get people to move in
+
+421
+18:06.750 --> 18:08.550
+and see what the innovators were doing,
+
+422
+18:08.550 --> 18:11.197
+see that the water was safe before they would jump in.
+
+423
+18:11.197 --> 18:14.040
+You know, but I even have been looking back at my language
+
+424
+18:14.040 --> 18:14.873
+and how it's changed.
+
+425
+18:14.873 --> 18:16.680
+It's like, you gotta start to engage with these tools
+
+426
+18:16.680 --> 18:17.970
+to understand what they're capable of
+
+427
+18:17.970 --> 18:19.230
+is kind of how I started with people.
+
+428
+18:19.230 --> 18:21.000
+It's like, just play with it to understand
+
+429
+18:21.000 --> 18:23.400
+how you could hack some of your own personal productivity.
+
+430
+18:23.400 --> 18:25.380
+Now I tell people it's like you gotta build
+
+431
+18:25.380 --> 18:27.360
+a personal relationship with these tools.
+
+432
+18:27.360 --> 18:28.680
+Because that's what it's gonna be,
+
+433
+18:28.680 --> 18:30.300
+it's gonna be an augmentation
+
+434
+18:30.300 --> 18:31.680
+and someone you're gonna rely on.
+
+435
+18:31.680 --> 18:34.710
+And I have certain topics that I have been conversing
+
+436
+18:34.710 --> 18:37.410
+with my AI agent for more than four months on now.
+
+437
+18:37.410 --> 18:39.690
+And I see it as a colleague, and guess what,
+
+438
+18:39.690 --> 18:42.420
+it's got a heck of a better memory than I have
+
+439
+18:42.420 --> 18:44.610
+when we come back to a conversation,
+
+440
+18:44.610 --> 18:46.680
+which is a really interesting thing to think about.
+
+441
+18:46.680 --> 18:47.513
+Loretta?
+
+442
+18:47.513 --> 18:50.310
+<v ->Yeah, and one other comment too about this is that</v>
+
+443
+18:50.310 --> 18:54.750
+because we had done some research that showed that
+
+444
+18:54.750 --> 18:59.010
+those that use AI, these early adopters
+
+445
+18:59.010 --> 19:02.970
+have 11 points more healthy relationship
+
+446
+19:02.970 --> 19:04.650
+with work than those who do not.
+
+447
+19:04.650 --> 19:08.790
+So there is an opportunity to experiment
+
+448
+19:08.790 --> 19:11.520
+and then bring the rest of the workforce in.
+
+449
+19:11.520 --> 19:12.900
+But an important piece of it,
+
+450
+19:12.900 --> 19:16.020
+you had mentioned change management is
+
+451
+19:16.020 --> 19:17.640
+how do you manage change?
+
+452
+19:17.640 --> 19:22.290
+Because to make sure that you bring the broader workforce,
+
+453
+19:22.290 --> 19:24.630
+not just the early adopters through.
+
+454
+19:24.630 --> 19:27.443
+And this is where leadership comes into play
+
+455
+19:27.443 --> 19:30.600
+and the role of leadership has actually changed
+
+456
+19:30.600 --> 19:32.610
+the past number of years.
+
+457
+19:32.610 --> 19:37.020
+So, rather than being supervisors, there's a whole...
+
+458
+19:37.020 --> 19:39.030
+Those that are most successful in leadership
+
+459
+19:39.030 --> 19:41.610
+are those that are empathetic, right?
+
+460
+19:41.610 --> 19:44.700
+And so leading their teams through change,
+
+461
+19:44.700 --> 19:49.560
+really understanding kind of the emotions of everything
+
+462
+19:49.560 --> 19:53.130
+that's happening, being able to connect their people
+
+463
+19:53.130 --> 19:54.660
+to other people.
+
+464
+19:54.660 --> 19:58.830
+So, this area of leadership and change management
+
+465
+19:58.830 --> 20:01.650
+is going to be a critical area for us to be successful.
+
+466
+20:01.650 --> 20:03.210
+<v ->Yeah, I'm kind of curious,</v>
+
+467
+20:03.210 --> 20:06.720
+given we have one of the co-founders of Exec Online here,
+
+468
+20:06.720 --> 20:08.940
+you think about how leadership has changed
+
+469
+20:08.940 --> 20:12.390
+to Loretta's point, EQ being more valuable...
+
+470
+20:12.390 --> 20:15.270
+You know, are you seeing leadership...
+
+471
+20:15.270 --> 20:17.120
+Are you seeing leadership differently in this age of AI?
+
+472
+20:17.120 --> 20:20.010
+Is it gonna evolve, are we gonna expect different things
+
+473
+20:20.010 --> 20:22.960
+from leaders, and is that what your clients are asking for?
+
+474
+20:23.850 --> 20:24.900
+<v ->It's such a good question.</v>
+
+475
+20:24.900 --> 20:27.750
+I think in some ways leadership is evergreen
+
+476
+20:27.750 --> 20:32.750
+in that leaders are expected and should inspire,
+
+477
+20:33.060 --> 20:35.610
+guide, and generate results for their organizations.
+
+478
+20:35.610 --> 20:38.400
+And that'll be the case pre and post-AI.
+
+479
+20:38.400 --> 20:40.140
+I think how we're going to do that,
+
+480
+20:40.140 --> 20:41.550
+as well as really what the definition
+
+481
+20:41.550 --> 20:44.070
+of a great leader will be, is gonna change quite a bit.
+
+482
+20:44.070 --> 20:45.780
+And we have to think as well
+
+483
+20:45.780 --> 20:48.450
+that our organizations themselves are changing.
+
+484
+20:48.450 --> 20:50.730
+Even if we think about an organizational chart,
+
+485
+20:50.730 --> 20:54.630
+it's almost somewhat of an old and almost outdated,
+
+486
+20:54.630 --> 20:57.840
+because so many organizations are so much more matrixed,
+
+487
+20:57.840 --> 21:00.660
+they're more global, they're more cross-functional,
+
+488
+21:00.660 --> 21:04.050
+they require coordination across many different areas,
+
+489
+21:04.050 --> 21:06.270
+so that when you think about leadership coming from the top,
+
+490
+21:06.270 --> 21:09.060
+of course it has to in that management
+
+491
+21:09.060 --> 21:11.460
+and C-suites are ultimately accountable.
+
+492
+21:11.460 --> 21:13.950
+But leadership can come from anywhere in an organization,
+
+493
+21:13.950 --> 21:17.130
+and especially at this time, being on the lookout for folks
+
+494
+21:17.130 --> 21:18.780
+that are naturally leaders,
+
+495
+21:18.780 --> 21:20.910
+even if they do not have the title,
+
+496
+21:20.910 --> 21:23.670
+is going to really help you generate the trust
+
+497
+21:23.670 --> 21:25.800
+that'll be required to get to the other side.
+
+498
+21:25.800 --> 21:28.110
+In terms of the future-ready workforce, you know,
+
+499
+21:28.110 --> 21:31.050
+there are three pillars that you might consider.
+
+500
+21:31.050 --> 21:34.320
+One is the ability to drive business model transformation.
+
+501
+21:34.320 --> 21:38.820
+That is the driving of customer results, operational results
+
+502
+21:38.820 --> 21:42.000
+and transformation that is expected of any business leader.
+
+503
+21:42.000 --> 21:46.500
+The second is the ability
+
+504
+21:46.500 --> 21:49.560
+to prioritize inclusion and diversity.
+
+505
+21:49.560 --> 21:52.260
+We've gotta bring everyone along on this journey
+
+506
+21:52.260 --> 21:53.760
+or it won't work.
+
+507
+21:53.760 --> 21:55.650
+So this is something that has to be at the root
+
+508
+21:55.650 --> 21:58.950
+of every part of your transformation, however you define it,
+
+509
+21:58.950 --> 22:01.470
+however you want to work it through your organization,
+
+510
+22:01.470 --> 22:03.000
+it needs to be in the fabric.
+
+511
+22:03.000 --> 22:05.520
+And being an empathetic leader, completely agree,
+
+512
+22:05.520 --> 22:08.610
+a purpose-driven, impact-oriented leader,
+
+513
+22:08.610 --> 22:10.320
+much more than a command and control leader,
+
+514
+22:10.320 --> 22:11.940
+especially the generations,
+
+515
+22:11.940 --> 22:13.860
+are the three pillars of the future-ready workforce
+
+516
+22:13.860 --> 22:16.500
+that, you know, I think we're hearing.
+
+517
+22:16.500 --> 22:17.970
+<v ->Others wanna jump in on this and talk about</v>
+
+518
+22:17.970 --> 22:20.720
+the different expectations of leadership going forward?
+
+519
+22:21.660 --> 22:23.670
+<v ->So, actually I would like to jump in a bit</v>
+
+520
+22:23.670 --> 22:25.380
+on this diversity topic, right?
+
+521
+22:25.380 --> 22:29.040
+Because I think when we talk about how AI
+
+522
+22:29.040 --> 22:32.340
+or new technology can help us, it democratizes a lot, right?
+
+523
+22:32.340 --> 22:34.320
+So in one aspect we're like, "Okay,
+
+524
+22:34.320 --> 22:36.420
+people who are neurodiverse
+
+525
+22:36.420 --> 22:39.660
+now are able to interact more than they did before."
+
+526
+22:39.660 --> 22:41.730
+People who are introverted may be more comfortable
+
+527
+22:41.730 --> 22:42.720
+with an avatar.
+
+528
+22:42.720 --> 22:45.600
+It's easy to get access to things,
+
+529
+22:45.600 --> 22:47.820
+but in the same times, a lot of these models
+
+530
+22:47.820 --> 22:50.670
+are based off a certain data set.
+
+531
+22:50.670 --> 22:53.610
+And if you have a number of creators
+
+532
+22:53.610 --> 22:55.950
+who are not representative of your customer set,
+
+533
+22:55.950 --> 22:58.770
+who are not representative of our workforce,
+
+534
+22:58.770 --> 23:00.450
+you actually might get significant errors
+
+535
+23:00.450 --> 23:03.750
+in the data, and then that may make you do mistakes
+
+536
+23:03.750 --> 23:04.583
+and make mistakes,
+
+537
+23:04.583 --> 23:05.610
+not only in your products but your workforce.
+
+538
+23:05.610 --> 23:07.830
+So this to us is something that's critical
+
+539
+23:07.830 --> 23:11.010
+when we talk about it and it's important to recognize
+
+540
+23:11.010 --> 23:12.990
+that this helps the full workforce.
+
+541
+23:12.990 --> 23:14.970
+And so it's not about...
+
+542
+23:14.970 --> 23:17.010
+It's not about setting a quota or anything like that,
+
+543
+23:17.010 --> 23:19.060
+but it's really improving the technology.
+
+544
+23:20.640 --> 23:21.690
+So that was my point.
+
+545
+23:23.460 --> 23:27.960
+<v ->How are you tying AI,</v>
+
+546
+23:27.960 --> 23:30.870
+and again, I always like to mention
+
+547
+23:30.870 --> 23:33.510
+that AI is not just generative AI, ChatGPT,
+
+548
+23:33.510 --> 23:37.560
+but immersive experiences, which I know Daniel,
+
+549
+23:37.560 --> 23:41.130
+your organization has some representation here at.
+
+550
+23:41.130 --> 23:44.070
+I think about, you know, computer vision, ambient sound,
+
+551
+23:44.070 --> 23:47.220
+lots of different ways in which these new tools
+
+552
+23:47.220 --> 23:48.360
+are being introduced.
+
+553
+23:48.360 --> 23:51.240
+How are your organizations thinking about tying AI
+
+554
+23:51.240 --> 23:54.750
+to broader business transformation?
+
+555
+23:54.750 --> 23:57.203
+You mentioned business model transformation.
+
+556
+23:57.203 --> 23:59.040
+How are you tying the two together?
+
+557
+23:59.040 --> 24:01.500
+Or are you tying the two together yet?
+
+558
+24:01.500 --> 24:03.330
+Because I see that they're ultimately going
+
+559
+24:03.330 --> 24:04.890
+to become one and the same thing, right?
+
+560
+24:04.890 --> 24:06.690
+This is just the latest of tools.
+
+561
+24:06.690 --> 24:08.790
+But how are your organizations doing that?
+
+562
+24:09.720 --> 24:10.847
+Claire, how are you doing...
+
+563
+24:10.847 --> 24:11.680
+<v ->Yeah, I can share a little bit.</v>
+
+564
+24:11.680 --> 24:14.640
+So, we love to do hackathons,
+
+565
+24:14.640 --> 24:16.773
+we love to do lots of proofs of concepts.
+
+566
+24:17.640 --> 24:20.610
+One thing that, you know, I mentioned earlier that
+
+567
+24:20.610 --> 24:22.320
+I did quite a bit of work on is understanding
+
+568
+24:22.320 --> 24:25.170
+the commerce value chain and how that's shifting.
+
+569
+24:25.170 --> 24:28.890
+And when you think about how people are deciding
+
+570
+24:28.890 --> 24:30.300
+on even how to purchase, right?
+
+571
+24:30.300 --> 24:32.790
+Like, in the future, maybe an agent
+
+572
+24:32.790 --> 24:34.980
+is making that decision for you.
+
+573
+24:34.980 --> 24:38.040
+And so what does actually that decision making process
+
+574
+24:38.040 --> 24:40.050
+look like when it's not even you as a human
+
+575
+24:40.050 --> 24:41.820
+making that decision?
+
+576
+24:41.820 --> 24:43.830
+So, really thinking about, like,
+
+577
+24:43.830 --> 24:45.780
+what is the future going to look like
+
+578
+24:45.780 --> 24:48.690
+and how is the commerce value chain actually shifting?
+
+579
+24:48.690 --> 24:51.870
+We've had to do a lot of experimentation about, well,
+
+580
+24:51.870 --> 24:54.580
+in that kind of future, what is sort of
+
+581
+24:55.560 --> 24:57.750
+a commerce experience, a checkout experience,
+
+582
+24:57.750 --> 25:00.360
+what do our clients really need?
+
+583
+25:00.360 --> 25:02.880
+For us to make sure that we're ahead of the game
+
+584
+25:02.880 --> 25:05.250
+so that we can ensure that people are, you know,
+
+585
+25:05.250 --> 25:09.330
+paying and getting paid the best way that they can.
+
+586
+25:09.330 --> 25:11.430
+So we've done a lot of just experimenting
+
+587
+25:11.430 --> 25:14.910
+and doing a lot of kind of meeting with our clients
+
+588
+25:14.910 --> 25:17.820
+to see where they're going and what they're thinking about.
+
+589
+25:17.820 --> 25:20.910
+But I would say, like, experiment, test, learn, iterate.
+
+590
+25:20.910 --> 25:21.960
+That's what we've been doing.
+
+591
+25:21.960 --> 25:24.090
+<v ->Yeah, I think, you know, one of the things I've seen</v>
+
+592
+25:24.090 --> 25:26.430
+really change in the last six to nine months,
+
+593
+25:26.430 --> 25:28.770
+in terms of the conversations I've been having,
+
+594
+25:28.770 --> 25:31.766
+and I do a lot with industry partnerships,
+
+595
+25:31.766 --> 25:34.380
+I do a lot with workforce development because we're sending,
+
+596
+25:34.380 --> 25:38.340
+you know, 80,000-10,000 graduates a year into the workforce,
+
+597
+25:38.340 --> 25:42.570
+is let's say a year ago it was a lot about
+
+598
+25:42.570 --> 25:46.350
+what are the opportunities to take out the low-value work,
+
+599
+25:46.350 --> 25:49.830
+create efficiencies, maybe improve margins.
+
+600
+25:49.830 --> 25:51.540
+Now it's part of the growth agenda,
+
+601
+25:51.540 --> 25:54.420
+which is why every CEO is talking about this,
+
+602
+25:54.420 --> 25:57.690
+because it's not just an internal efficiencies place.
+
+603
+25:57.690 --> 26:02.010
+It's gotta be a part of maintaining our tight relationships
+
+604
+26:02.010 --> 26:05.700
+with customers, reshaping experiences, not letting people...
+
+605
+26:05.700 --> 26:08.100
+You know, or even expanding into new markets,
+
+606
+26:08.100 --> 26:10.620
+you know, by being different than
+
+607
+26:10.620 --> 26:12.030
+what the rest of the market is doing.
+
+608
+26:12.030 --> 26:12.863
+<v ->Absolutely.</v>
+
+609
+26:12.863 --> 26:14.130
+I mean, we're all trying to expand
+
+610
+26:14.130 --> 26:15.930
+and generate the most value that we can.
+
+611
+26:15.930 --> 26:18.810
+And so, if you're thinking just about the low stakes,
+
+612
+26:18.810 --> 26:21.180
+you know, high efficiency use cases, that's great,
+
+613
+26:21.180 --> 26:24.240
+but that's not going to differentiate you, right?
+
+614
+26:24.240 --> 26:26.790
+Just having AI and doing that in a way that just makes
+
+615
+26:26.790 --> 26:29.010
+things more efficient, everyone's doing that now.
+
+616
+26:29.010 --> 26:30.480
+So you really do have to think about the growth case.
+
+617
+26:30.480 --> 26:33.330
+<v ->I love the whole media mentions charts that you look at.</v>
+
+618
+26:33.330 --> 26:34.860
+You can see the big change when you look at
+
+619
+26:34.860 --> 26:36.900
+the media mentions of any public company
+
+620
+26:36.900 --> 26:39.900
+and what they've been saying at their investor meetings.
+
+621
+26:39.900 --> 26:40.733
+Loretta?
+
+622
+26:40.733 --> 26:45.690
+<v ->Yeah, so I was gonna mention, at HP it's massively changed</v>
+
+623
+26:45.690 --> 26:48.660
+the approach that we drive solutions, right?
+
+624
+26:48.660 --> 26:50.970
+So, in the past,
+
+625
+26:50.970 --> 26:54.510
+customers would buy the PC,
+
+626
+26:54.510 --> 26:56.520
+then they would buy this software
+
+627
+26:56.520 --> 27:00.540
+and applications to run on top of it, right?
+
+628
+27:00.540 --> 27:03.300
+And it was kind of, you know,
+
+629
+27:03.300 --> 27:07.320
+it was more of, okay, you kind of build the solution.
+
+630
+27:07.320 --> 27:11.160
+Now, we're tightly integrated from what's happening
+
+631
+27:11.160 --> 27:13.350
+on the chip level, right?
+
+632
+27:13.350 --> 27:16.920
+And in co-engineering, across the chip,
+
+633
+27:16.920 --> 27:19.803
+across us the system, across the OS,
+
+634
+27:21.360 --> 27:23.850
+and then across the software vendors, right?
+
+635
+27:23.850 --> 27:24.780
+In the application.
+
+636
+27:24.780 --> 27:29.780
+And so, it's much more kind of vertically tight
+
+637
+27:30.060 --> 27:34.290
+in terms of creating kind of brand new breakthrough types
+
+638
+27:34.290 --> 27:35.703
+of experiences together.
+
+639
+27:37.530 --> 27:39.210
+<v ->We're gonna come out to your questions</v>
+
+640
+27:39.210 --> 27:40.500
+in just a couple of minutes,
+
+641
+27:40.500 --> 27:44.430
+but my last formal question for the group is,
+
+642
+27:44.430 --> 27:47.130
+someone shared with me maybe about six months ago
+
+643
+27:47.130 --> 27:50.640
+that, you know, part of what we're gonna go through here,
+
+644
+27:50.640 --> 27:52.650
+right, because this is, you know,
+
+645
+27:52.650 --> 27:56.700
+this is a general purpose technology moment, right?
+
+646
+27:56.700 --> 27:59.313
+Think the internet, think electricity.
+
+647
+28:00.360 --> 28:02.610
+And one of the big things that we're going to
+
+648
+28:03.840 --> 28:05.610
+struggle with at an individual level,
+
+649
+28:05.610 --> 28:08.760
+as an organizational level, is our relationship
+
+650
+28:08.760 --> 28:11.790
+with technology and the human technology interface
+
+651
+28:11.790 --> 28:16.230
+is going to evolve to the next version of what it should be.
+
+652
+28:16.230 --> 28:19.020
+Have your organizations started thinking about that,
+
+653
+28:19.020 --> 28:21.120
+grappling with it, understanding what
+
+654
+28:21.120 --> 28:23.640
+the long-term implications of it are?
+
+655
+28:23.640 --> 28:25.050
+Anybody?
+
+656
+28:25.050 --> 28:26.400
+<v ->So, I can jump in.</v>
+
+657
+28:26.400 --> 28:28.830
+I think to your point earlier on our products.
+
+658
+28:28.830 --> 28:32.820
+So we're involved in the AR/VR development.
+
+659
+28:32.820 --> 28:35.460
+I can't mention any customers, but we're involved there.
+
+660
+28:35.460 --> 28:37.650
+And if you think about it now,
+
+661
+28:37.650 --> 28:39.390
+you're able to have a conversation.
+
+662
+28:39.390 --> 28:41.730
+Not now, but at some point in time,
+
+663
+28:41.730 --> 28:43.590
+in the not too far future, you're gonna be able
+
+664
+28:43.590 --> 28:45.810
+to have a conversation, interact with someone
+
+665
+28:45.810 --> 28:48.150
+and then say, "Okay, I forgot about that conversation.
+
+666
+28:48.150 --> 28:50.010
+Let me archive it and get it back."
+
+667
+28:50.010 --> 28:52.027
+Or you're gonna say, you know,
+
+668
+28:52.027 --> 28:54.180
+"Hey, let's reverify what happened here."
+
+669
+28:54.180 --> 28:56.160
+And this is all happening through the screen.
+
+670
+28:56.160 --> 28:58.500
+A lot of other things could happen through the screen.
+
+671
+28:58.500 --> 29:01.590
+We're working with other companies to look at,
+
+672
+29:01.590 --> 29:05.580
+okay, from a brainwave standpoint
+
+673
+29:05.580 --> 29:09.659
+and using, like, headphones to be able to move objects
+
+674
+29:09.659 --> 29:12.840
+when you're looking at an ARV screen or another screen,
+
+675
+29:12.840 --> 29:14.817
+so it's no longer your hands that are doing it,
+
+676
+29:14.817 --> 29:15.720
+and these kind of things.
+
+677
+29:15.720 --> 29:18.840
+So two different elements where you can interact
+
+678
+29:18.840 --> 29:20.940
+with the digital world that we're not using as much today.
+
+679
+29:20.940 --> 29:24.003
+So we're definitely doubling down in those areas at EMD.
+
+680
+29:25.080 --> 29:26.580
+<v ->Really exciting.</v>
+
+681
+29:26.580 --> 29:29.340
+And from the learning perspective,
+
+682
+29:29.340 --> 29:31.950
+we think about something I'm really excited about
+
+683
+29:31.950 --> 29:36.480
+is multi-sensory experiences and immersive experiences.
+
+684
+29:36.480 --> 29:39.750
+In a lot of ways, digital learning has come a long way
+
+685
+29:39.750 --> 29:42.690
+in the 10 years since I, you know, co-founded Exec Online,
+
+686
+29:42.690 --> 29:45.030
+but it's still very early.
+
+687
+29:45.030 --> 29:47.700
+You know, most of digital learning that you see
+
+688
+29:47.700 --> 29:51.750
+really relies on basically just two of your senses,
+
+689
+29:51.750 --> 29:55.680
+your sight and your hearing primarily,
+
+690
+29:55.680 --> 29:58.410
+a little bit of touch sort of, but usually not.
+
+691
+29:58.410 --> 30:01.230
+A sense that is almost entirely absent
+
+692
+30:01.230 --> 30:06.230
+is your olfactory system, being able to smell your scent.
+
+693
+30:06.330 --> 30:08.820
+And if you think about human evolution,
+
+694
+30:08.820 --> 30:13.170
+the ability to smell and tell if this plant is a good plant
+
+695
+30:13.170 --> 30:15.180
+or if this way is the right way,
+
+696
+30:15.180 --> 30:18.480
+is really built in at our DNA to the core.
+
+697
+30:18.480 --> 30:20.880
+And we're not using this at all virtually
+
+698
+30:20.880 --> 30:21.930
+in the learning space.
+
+699
+30:21.930 --> 30:24.390
+And so I really am excited about some of the solutions
+
+700
+30:24.390 --> 30:28.050
+that are coming out that are going to be more related
+
+701
+30:28.050 --> 30:31.260
+to scent and smell that will help us learn faster.
+
+702
+30:31.260 --> 30:33.930
+We've gotta find a way to hack our own systems
+
+703
+30:33.930 --> 30:37.770
+so that we learn faster in this world, right?
+
+704
+30:37.770 --> 30:39.180
+We got a lot of great neurotech,
+
+705
+30:39.180 --> 30:41.640
+but don't forget some of the old fashioned stuff here,
+
+706
+30:41.640 --> 30:44.040
+the scent and the olfactory system.
+
+707
+30:44.040 --> 30:46.440
+Really excited for some cool tech that's gonna be coming out
+
+708
+30:46.440 --> 30:47.850
+to help us in the learning space for that.
+
+709
+30:47.850 --> 30:49.140
+<v ->Yeah, just a quick example on that.</v>
+
+710
+30:49.140 --> 30:53.340
+So I work with a snack food company
+
+711
+30:53.340 --> 30:58.340
+who is using AI to design the smell and the taste parameters
+
+712
+30:58.800 --> 31:00.510
+of the foods that they're putting on shelves
+
+713
+31:00.510 --> 31:01.920
+that you're seeing in your supermarket.
+
+714
+31:01.920 --> 31:03.630
+And who would've thought that would be a place
+
+715
+31:03.630 --> 31:06.720
+that AI would have impacted the design of a product?
+
+716
+31:06.720 --> 31:09.930
+So, to your point, there are five senses
+
+717
+31:09.930 --> 31:12.090
+and then we're gonna tap into the sixth sense,
+
+718
+31:12.090 --> 31:15.240
+which gets back to Daniel and picking up on brainwaves.
+
+719
+31:15.240 --> 31:16.920
+Loretta, how about at at HP?
+
+720
+31:16.920 --> 31:19.860
+<v ->And so, when we think about, you know,</v>
+
+721
+31:19.860 --> 31:23.520
+you're working with your computer every day, right?
+
+722
+31:23.520 --> 31:26.650
+The traditional inputs of keyboard/mouse
+
+723
+31:27.600 --> 31:29.550
+are going to evolve, right?
+
+724
+31:29.550 --> 31:31.830
+And also is gonna be dependent on
+
+725
+31:31.830 --> 31:34.050
+what people are most comfortable with,
+
+726
+31:34.050 --> 31:39.050
+but more kind of conversational AI, voice, gestures.
+
+727
+31:41.460 --> 31:44.610
+But it might be different for different types of people.
+
+728
+31:44.610 --> 31:49.610
+Also, what we'll see is contextual awareness, right?
+
+729
+31:49.860 --> 31:51.360
+So being able to, you know,
+
+730
+31:51.360 --> 31:54.540
+your PC will become your personal companion.
+
+731
+31:54.540 --> 31:56.970
+We have sensors on the PC, right?
+
+732
+31:56.970 --> 32:00.060
+And so can we use that, be able to learn your habits,
+
+733
+32:00.060 --> 32:03.720
+be able to help you be more effective, be able to predict
+
+734
+32:03.720 --> 32:06.240
+what you need and then become an agent for you
+
+735
+32:06.240 --> 32:11.240
+to execute tasks quickly, more effectively.
+
+736
+32:11.340 --> 32:13.650
+And then also to build kind of personalization.
+
+737
+32:13.650 --> 32:17.280
+I think you made up a point about personalization as well.
+
+738
+32:17.280 --> 32:19.290
+So, exciting times.
+
+739
+32:19.290 --> 32:21.750
+<v ->Great, we're looking at a lot of very interesting</v>
+
+740
+32:21.750 --> 32:23.670
+shopping experiences of the future,
+
+741
+32:23.670 --> 32:26.160
+how people purchase both in brick and mortar
+
+742
+32:26.160 --> 32:28.050
+and in digital channels.
+
+743
+32:28.050 --> 32:29.340
+I think I mentioned before, you know,
+
+744
+32:29.340 --> 32:31.770
+AI agents interacting and purchasing on your behalf,
+
+745
+32:31.770 --> 32:34.980
+but also just thinking about how people are interacting
+
+746
+32:34.980 --> 32:36.997
+with, say, ChatGPT to say,
+
+747
+32:36.997 --> 32:38.790
+"I am looking for this, I'd like to buy it,"
+
+748
+32:38.790 --> 32:41.130
+and buying it right within that flow,
+
+749
+32:41.130 --> 32:42.840
+within that experience, right?
+
+750
+32:42.840 --> 32:45.570
+Embedding that and just embedded finance in general
+
+751
+32:45.570 --> 32:48.720
+is just a major trend in our space.
+
+752
+32:48.720 --> 32:51.300
+And one more that I'll mention is biometrics.
+
+753
+32:51.300 --> 32:53.460
+I mean, biometrics, just different interfaces there
+
+754
+32:53.460 --> 32:56.970
+and obviously AI kind of powers everything under the hood
+
+755
+32:56.970 --> 32:59.160
+when you think about biometric experiences.
+
+756
+32:59.160 --> 33:02.080
+But also that's something that you really have to
+
+757
+33:03.000 --> 33:04.650
+meet people where they're at and really make sure
+
+758
+33:04.650 --> 33:06.750
+that you're building things that, you know,
+
+759
+33:06.750 --> 33:09.663
+it's not gonna be too scary for your consumer.
+
+760
+33:10.950 --> 33:12.120
+<v ->We have about seven minutes left.</v>
+
+761
+33:12.120 --> 33:14.940
+We'd like to take questions from you, the audience.
+
+762
+33:14.940 --> 33:17.700
+I'm not exactly sure, maybe we're gonna run a mic
+
+763
+33:17.700 --> 33:19.680
+to people, but what questions do you have from our audience?
+
+764
+33:19.680 --> 33:21.150
+I see a hand over here.
+
+765
+33:21.150 --> 33:25.143
+Do we have a way to get a mic to them?
+
+766
+33:27.733 --> 33:29.190
+I could also do it.
+
+767
+33:29.190 --> 33:30.590
+I could play game show host.
+
+768
+33:38.430 --> 33:39.720
+Yes sir.
+
+769
+33:39.720 --> 33:41.100
+<v Audience Member>Thank you.</v>
+
+770
+33:41.100 --> 33:46.100
+So, you've tapped on AI agents and I want to see now,
+
+771
+33:46.835 --> 33:48.690
+we're gonna see the AI agents evolving
+
+772
+33:48.690 --> 33:50.700
+into a different multiple stages,
+
+773
+33:50.700 --> 33:54.330
+but we're also gonna see that how software
+
+774
+33:54.330 --> 33:58.950
+and solution providers will look at the user as a client.
+
+775
+33:58.950 --> 34:02.130
+So how loyal the agent will be for his client
+
+776
+34:02.130 --> 34:05.133
+from a shopping negotiation point of view.
+
+777
+34:07.950 --> 34:12.078
+<v ->Sorry, the question is around loyalty of the agent?</v>
+
+778
+34:12.078 --> 34:16.161
+(audience member speaks off mic)
+
+779
+34:24.480 --> 34:27.060
+Yeah, it's a great call out.
+
+780
+34:27.060 --> 34:29.250
+Loyalty will look very different.
+
+781
+34:29.250 --> 34:30.810
+Marketing will look very different.
+
+782
+34:30.810 --> 34:32.550
+And this is where, you know, you really,
+
+783
+34:32.550 --> 34:35.310
+it kinda racks your brain about what the entire kind of
+
+784
+34:35.310 --> 34:38.463
+ecosystem and experience will be for that and consumer.
+
+785
+34:40.230 --> 34:41.610
+Yeah, that's a great question.
+
+786
+34:41.610 --> 34:44.280
+I do not have the silver bullet answer to that,
+
+787
+34:44.280 --> 34:46.350
+but I don't know if any other folks have thoughts.
+
+788
+34:46.350 --> 34:49.260
+<v ->I just have a thought, which is,</v>
+
+789
+34:49.260 --> 34:51.810
+you're asking a really important question
+
+790
+34:51.810 --> 34:55.620
+that I think about a lot, which is really who decides
+
+791
+34:55.620 --> 34:59.283
+what the AI will decide, right?
+
+792
+35:00.210 --> 35:03.990
+And how much, not only governance, governance is sort of
+
+793
+35:03.990 --> 35:06.300
+the word, but really just the day-to-day,
+
+794
+35:06.300 --> 35:10.260
+where is this effectively influence and power going to sit?
+
+795
+35:10.260 --> 35:12.600
+So, right now, a lot of the decisions about
+
+796
+35:12.600 --> 35:15.570
+who decides things sit in some cases in HR,
+
+797
+35:15.570 --> 35:17.010
+when you're talking about roles,
+
+798
+35:17.010 --> 35:19.230
+they certainly sit with general managers.
+
+799
+35:19.230 --> 35:21.330
+You know, if these were human agents, they'd be sitting
+
+800
+35:21.330 --> 35:24.000
+with the GM of shopping or what have you, right?
+
+801
+35:24.000 --> 35:25.980
+But now a lot of this is definitely going
+
+802
+35:25.980 --> 35:30.690
+to come from our more technical teams, from the IT teams.
+
+803
+35:30.690 --> 35:31.980
+That has a lot of questions
+
+804
+35:31.980 --> 35:34.770
+about whether that's the right place.
+
+805
+35:34.770 --> 35:38.490
+Should it be now a cross-functional transformation team
+
+806
+35:38.490 --> 35:40.860
+that has cross-functional representation?
+
+807
+35:40.860 --> 35:42.900
+I think there's a lot of promise to that.
+
+808
+35:42.900 --> 35:44.797
+Some people think it's too slow, you know,
+
+809
+35:44.797 --> 35:46.740
+"We don't have time for cross-functional team,
+
+810
+35:46.740 --> 35:47.820
+we just want to get going."
+
+811
+35:47.820 --> 35:51.780
+So you know, exactly how these agents are gonna be empowered
+
+812
+35:51.780 --> 35:55.050
+to behave beyond the principles is a really, I think,
+
+813
+35:55.050 --> 35:58.440
+important question about how comfortable we are
+
+814
+35:58.440 --> 36:01.590
+as organization about the decision making authority
+
+815
+36:01.590 --> 36:04.680
+that we're going to be able to delegate.
+
+816
+36:04.680 --> 36:06.780
+The decision making authority is already there,
+
+817
+36:06.780 --> 36:10.560
+you know that, it's going to even accelerate exponentially,
+
+818
+36:10.560 --> 36:14.820
+and our own human personal comfort as well as the governance
+
+819
+36:14.820 --> 36:17.310
+and management structures that we will put in
+
+820
+36:17.310 --> 36:19.890
+are going to really determine how this rolls out.
+
+821
+36:19.890 --> 36:22.260
+<v ->I predict by the second half of 2025,</v>
+
+822
+36:22.260 --> 36:25.320
+we'll hear our first example of A/B testing within an agent.
+
+823
+36:25.320 --> 36:26.670
+Just a matter of time.
+
+824
+36:26.670 --> 36:28.110
+I see we have our next question here.
+
+825
+36:28.110 --> 36:29.100
+<v Audience Member>Yeah, hi.</v>
+
+826
+36:29.100 --> 36:30.720
+So I wanna make sure I understood.
+
+827
+36:30.720 --> 36:34.530
+I heard, I think the lady in the middle mentioned
+
+828
+36:34.530 --> 36:38.670
+that we're gonna have agents that, on your laptop
+
+829
+36:38.670 --> 36:41.370
+or what have you, that will learn your habits
+
+830
+36:41.370 --> 36:43.860
+and can help you optimize.
+
+831
+36:43.860 --> 36:45.690
+So, it sounds great.
+
+832
+36:45.690 --> 36:47.490
+And then I had this thought, so how do you do
+
+833
+36:47.490 --> 36:51.060
+performance reviews if we're all... (laughs)
+
+834
+36:51.060 --> 36:53.880
+At that point, if we're being fully optimized,
+
+835
+36:53.880 --> 36:57.480
+then just wanna have your thought about performance reviews.
+
+836
+36:57.480 --> 37:01.290
+<v ->Yeah, and so, one thing also that's important</v>
+
+837
+37:01.290 --> 37:03.900
+is privacy, right?
+
+838
+37:03.900 --> 37:08.640
+And so it's a... Whatever information has to be
+
+839
+37:08.640 --> 37:13.640
+kind of local and secure, and also as we think about
+
+840
+37:14.790 --> 37:18.180
+the balance of the person versus the agent
+
+841
+37:18.180 --> 37:19.920
+and the performance reviews, right?
+
+842
+37:19.920 --> 37:23.700
+It's going to be about how effective that you
+
+843
+37:23.700 --> 37:26.070
+as the human is performing, right?
+
+844
+37:26.070 --> 37:30.090
+The agent's not gonna get a performance review, but you are.
+
+845
+37:30.090 --> 37:32.520
+And so, if the agents are actually helping you
+
+846
+37:32.520 --> 37:35.130
+to be more effective and efficient,
+
+847
+37:35.130 --> 37:39.540
+and also it has to be private, which is why there's shifts
+
+848
+37:39.540 --> 37:44.130
+to, you know, there's cloud versus local AI.
+
+849
+37:44.130 --> 37:45.120
+And so, it's a balance.
+
+850
+37:45.120 --> 37:48.030
+So we see kind of a shift to hybrid that you wanna keep
+
+851
+37:48.030 --> 37:51.393
+things that are private and local on your PC,
+
+852
+37:52.290 --> 37:55.110
+and then there are some applications that make sense
+
+853
+37:55.110 --> 37:58.980
+that are going to be, you know, on the cloud.
+
+854
+37:58.980 --> 38:01.410
+But how that combination...
+
+855
+38:01.410 --> 38:06.410
+If it can make you be more effective in your role,
+
+856
+38:06.420 --> 38:08.400
+as you're working with HR and, you know,
+
+857
+38:08.400 --> 38:10.440
+going through these performance reviews,
+
+858
+38:10.440 --> 38:14.550
+it should actually show up as an improvement on you,
+
+859
+38:14.550 --> 38:17.970
+not... I mean, agents are not gonna be reviewed.
+
+860
+38:17.970 --> 38:20.070
+<v ->And just adding a different angle to that,</v>
+
+861
+38:20.070 --> 38:22.770
+I think the organization is gonna have
+
+862
+38:22.770 --> 38:24.510
+to rethink how it functions.
+
+863
+38:24.510 --> 38:27.450
+So what is performance, what is a performance review?
+
+864
+38:27.450 --> 38:29.160
+How do we even do performance management?
+
+865
+38:29.160 --> 38:30.600
+I mean, this is all gonna evolve
+
+866
+38:30.600 --> 38:33.150
+and be very, very different than it is today.
+
+867
+38:33.150 --> 38:34.890
+And we've already seen that in other areas,
+
+868
+38:34.890 --> 38:36.900
+but we're gonna see that exponentially more now
+
+869
+38:36.900 --> 38:37.733
+with these things.
+
+870
+38:37.733 --> 38:39.090
+So I think that's a really important point.
+
+871
+38:39.090 --> 38:40.260
+And for those of you in organization,
+
+872
+38:40.260 --> 38:41.460
+something to think about.
+
+873
+38:41.460 --> 38:46.410
+<v ->Performance reviews are one of the most disliked parts</v>
+
+874
+38:46.410 --> 38:48.030
+of employees' jobs, right?
+
+875
+38:48.030 --> 38:50.070
+No one really likes to give them,
+
+876
+38:50.070 --> 38:51.690
+they don't really like to receive them.
+
+877
+38:51.690 --> 38:53.340
+It's just a terrible part
+
+878
+38:53.340 --> 38:55.440
+of the employee experience right now.
+
+879
+38:55.440 --> 38:57.030
+We all can think of that time when you got
+
+880
+38:57.030 --> 38:59.520
+that performance review and your manager said that thing
+
+881
+38:59.520 --> 39:02.670
+and then you spent all day worrying "What did they mean?"
+
+882
+39:02.670 --> 39:03.540
+It's just a mess.
+
+883
+39:03.540 --> 39:04.920
+It's really not...
+
+884
+39:04.920 --> 39:07.620
+Most managers do not give good performance reviews.
+
+885
+39:07.620 --> 39:11.850
+So, I completely agree here and here that we need
+
+886
+39:11.850 --> 39:13.410
+to be really careful,
+
+887
+39:13.410 --> 39:16.800
+because if the agent reviews me, what does that mean?
+
+888
+39:16.800 --> 39:18.330
+Like, how do I take that?
+
+889
+39:18.330 --> 39:19.920
+Okay, there's so much going on here.
+
+890
+39:19.920 --> 39:21.810
+But I also want to say that in my opinion,
+
+891
+39:21.810 --> 39:25.290
+and this is my personal opinion, speaking as an individual,
+
+892
+39:25.290 --> 39:28.950
+I think that this could be an area where we can see a lot
+
+893
+39:28.950 --> 39:32.070
+of empowerment and actually help
+
+894
+39:32.070 --> 39:34.560
+the performance review process be something
+
+895
+39:34.560 --> 39:37.230
+that is a co-collaboration between you and your manager,
+
+896
+39:37.230 --> 39:40.650
+not the current more disempowering way we do it.
+
+897
+39:40.650 --> 39:42.570
+<v ->And also reducing bias.</v>
+
+898
+39:42.570 --> 39:43.980
+I mean, performance reviews,
+
+899
+39:43.980 --> 39:48.120
+there's so much bias in just qualitative reviews,
+
+900
+39:48.120 --> 39:50.400
+and that could be an excellent way
+
+901
+39:50.400 --> 39:52.380
+to just kind of level the playing field.
+
+902
+39:52.380 --> 39:55.140
+So I think about it as your AI is just your assistant,
+
+903
+39:55.140 --> 39:56.310
+everyone has an assistant now,
+
+904
+39:56.310 --> 39:57.870
+but you're still the human behind it,
+
+905
+39:57.870 --> 40:00.930
+and this is just making it more equitable across the board.
+
+906
+40:00.930 --> 40:03.180
+<v ->Real quick, one question, yep.</v>
+
+907
+40:03.180 --> 40:04.950
+<v Audience Member>Hi, thank you for all of this.</v>
+
+908
+40:04.950 --> 40:06.240
+It's been incredibly fascinating.
+
+909
+40:06.240 --> 40:09.090
+I'm a professor at University of Texas
+
+910
+40:09.090 --> 40:14.090
+and I'm currently working on how to incorporate AI
+
+911
+40:14.130 --> 40:16.440
+and emerging technology into curriculum
+
+912
+40:16.440 --> 40:18.630
+to prepare students for the job market.
+
+913
+40:18.630 --> 40:21.610
+I'm curious to know from your perspectives
+
+914
+40:22.500 --> 40:27.500
+how you see incoming new graduates perform in the workplace.
+
+915
+40:27.510 --> 40:30.720
+Are they already leveraging AI technology?
+
+916
+40:30.720 --> 40:34.440
+Do you find it to be something that is like, a massive
+
+917
+40:34.440 --> 40:38.490
+important thing that they walk in with skills in AI already?
+
+918
+40:38.490 --> 40:41.730
+Or are you planning on upskilling them as part
+
+919
+40:41.730 --> 40:45.060
+of their introduction to their particular job?
+
+920
+40:45.060 --> 40:47.100
+<v ->Yeah, I'll take it back from the university perspective.</v>
+
+921
+40:47.100 --> 40:50.970
+So, for the first time in this quarter, in our surveying
+
+922
+40:50.970 --> 40:54.060
+with industry, we are hearing that candidates who come
+
+923
+40:54.060 --> 40:58.080
+to a job interview or apply for a job that talk about
+
+924
+40:58.080 --> 41:01.860
+having exposure and and competency in these skills
+
+925
+41:01.860 --> 41:03.480
+become more attractive candidates.
+
+926
+41:03.480 --> 41:04.440
+First time we've heard that.
+
+927
+41:04.440 --> 41:06.300
+So I think this is a trend that's only gonna continue
+
+928
+41:06.300 --> 41:07.650
+that people are exposed.
+
+929
+41:07.650 --> 41:09.720
+So we've turned that back into that
+
+930
+41:09.720 --> 41:11.820
+we need to really build on literacy, you know,
+
+931
+41:11.820 --> 41:14.190
+for every student, you know, along the way
+
+932
+41:14.190 --> 41:15.690
+so that they have exposure to these tools,
+
+933
+41:15.690 --> 41:17.550
+they understand how to use them,
+
+934
+41:17.550 --> 41:21.930
+but also how understand how to use them properly, equitably,
+
+935
+41:21.930 --> 41:23.400
+ethically, right?
+
+936
+41:23.400 --> 41:27.270
+And in a way that enhances mankind or humankind, excuse me,
+
+937
+41:27.270 --> 41:30.450
+versus just willy-nilly, right?
+
+938
+41:30.450 --> 41:32.340
+We have that responsibility at a university.
+
+939
+41:32.340 --> 41:33.870
+So I think, you know, we have a lot of things
+
+940
+41:33.870 --> 41:35.700
+that we're doing to try to build in, you know,
+
+941
+41:35.700 --> 41:38.070
+how do we build first literacy, then competency,
+
+942
+41:38.070 --> 41:41.310
+and then for those that want to build true expertise in.
+
+943
+41:41.310 --> 41:43.290
+But we're, as you know, working at university,
+
+944
+41:43.290 --> 41:46.020
+it's a long way to get back to curricular reform,
+
+945
+41:46.020 --> 41:48.390
+but we gotta start the process somewhere.
+
+946
+41:48.390 --> 41:50.040
+Alright, with that, we're out of time for today.
+
+947
+41:50.040 --> 41:50.880
+Thank you so much.
+
+948
+41:50.880 --> 41:53.620
+Please join me in thanking our panelists.
+
+949
+41:53.620 --> 41:56.641
+(audience applauds)
+
+950
+41:56.641 --> 41:59.724
+(upbeat music plays)
+

@@ -1,0 +1,932 @@
+<v ->Hello, everyone, welcome to our panel</v>
+on sustainable semiconductors.
+I am Syed Alam.
+I'm a partner at McKinsey &amp; Company
+with focus on semiconductors.
+We should start with some introduction of our panel.
+Veronica, we can start with you.
+<v ->Absolutely, yeah, hi, everyone, I'm Veronica Lancaster.</v>
+I am the vice president of standards
+at the Consumer Technology Association.
+I'm also the president
+of the US National Committee of the IEC
+which is a global standards organization.
+Standards are near and dear to my heart,
+so I'll talk a little bit about standards today
+and how those can play a critical role
+when it comes to sustainability.
+In addition to that,
+I'm on the American National Standards
+Institute Board of Directors
+and the IAC Board of Directors,
+so it's a passion for me.
+I'm happy to be here, yeah, thank you.
+<v Syed>Welcome, thank you, Nancy?</v>
+<v ->Hi, I'm Nancy Greco at IBM</v>
+and I've been there for 40 years.
+So I came in as a chemist
+and started developing processes,
+and never thought I'd stay,
+but 40 years went by
+and I've developed every type of semiconductor process.
+and automation for the last 15 years,
+I went into research to do AI
+'cause semiconductor always had a big data problem
+and so working on AI that led into large language models.
+So I really do feel I've been growing up
+with the semiconductor and AI industry
+and with the CHIPS Act,
+I was so excited that semiconductor is cool again.
+So I do a lot of recruiting
+for students to come into semiconductor
+and just excited to be here today.
+<v ->Hi, I'm Sujata Neidig with NXP Semiconductors.</v>
+I've also grown up in the semiconductor world over 30 years
+and I'm a director of marketing
+on our wireless connectivity portfolio.
+I also am, standards are near and dear to my heart
+too on the wireless connectivity side.
+I serve for NXP on the board of directors
+for Connectivity Standards Alliance and Thread Group.
+And really excited, we've had some pre-discussion.
+I think this is gonna be a fascinating panel discussion.
+<v Syed>Thank you, Deok-kee?</v>
+<v ->Hi, my name is Deok-kee Kim.</v>
+I'm honored to be invited
+to this CES panel on sustainable semiconductors.
+I'm currently a professor
+at Sejong University in Seoul, Korea,
+and previously I also worked
+for IBM Micro Electronics Division
+and also Samsung Semiconductors for approximately 10 years,
+and my career in semiconductor field
+is about 25 years after my PhD.
+I also have some government jobs as a program director
+at National Research Foundation of Korea
+in the division of semiconductors.
+Currently I'm also involved
+with some of the standardization work.
+I'm involved with two committees.
+One is IEC-TC 47 semiconductors.
+The other one is IEC-TC 124 wearable Devices.
+Happy to meet you, thank you.
+<v ->Thank you. Deok-kee, this topic is very interesting</v>
+because semiconductor plays such a unique role
+in the overall technology ecosystem.
+Semiconductors are enabling all the greener technologies,
+smart and energy-efficient products.
+At the same time,
+it takes a lot of energy
+and water to actually produce the semiconductors also
+and in our panel discussion
+we'll cover both aspects of these topics.
+Maybe we can start with the topic
+around how semiconductors are enabling
+the greener technology and sustainable products?
+Sujata, maybe you can elaborate on that?
+<v ->Yeah, sure, first of all, about semiconductors,</v>
+I'll say when I started in semiconductors,
+nobody in my family
+or friends knew what a semiconductor was.
+And now after Covid,
+it's everybody in CHIPS Act,
+everybody knows what it is.
+So it is exciting to see that people understand
+the technologies that are driving the way they live, work,
+engage in the world,
+and semiconductors, I was a product engineer at one time
+and spent a lot of time in fabs.
+It does require a lot of resources.
+At NXP and I think all of the semiconductor companies,
+there's quite a bit of work investment
+in how do we maximize efficiencies?
+How do we reduce the energy use?
+I know water is a big aspect
+and Nancy will speak to this,
+but how to reuse water, recycle water.
+So those are all areas that companies
+like NXP are working on,
+but as I said, I'm on the product side
+and building chips is one thing,
+and how we're building chips to not just be faster,
+but lower power, enable more capabilities
+so that the end products they go into
+can be lower power footprint.
+And then the products that we are looking at
+and equipping with is the IoT market.
+So all these Internet of Things devices
+being connected all the time,
+I know that that puts a lot of weight
+on the servers and stuff,
+but we really are driving things
+to have intelligence at the edge
+and bringing more intelligence to the edge
+so that processing of the data
+and taking action on that can be done at the edge
+and give the immediate result
+without having to use the servers.
+And then to standards,
+that's an area that I've spent a lot of time
+over the last 10 years.
+These are tough challenges
+and if we don't address them together as an industry,
+it makes it nearly impossible.
+So at NXP, we have invested
+a lot more in standards and open standards
+and I think we see this shift
+from building proprietary ecosystems of devices
+to more open standards.
+So if you're not familiar on the connectivity side,
+Matter is a wireless protocol that enables devices
+to all be able to speak the same language to each other
+regardless of what brand the company is that makes it.
+In our booth, at the NXP booth here,
+we have a intelligent energy home demonstration
+to really show how being able to monitor the energy usage
+of the different devices in the home
+and what is going on on the grid,
+and being able to leverage that information
+and make intelligent automated decisions
+without having to put that burden on the user.
+And this is in the smart home environment,
+but it really scales into buildings.
+I remember a couple of years ago,
+somebody from Schneider I was talking to made this comment
+about I think 85% of the buildings
+that exist in 30 years are ones that exist today.
+So there's not a lot of new construction
+and the only way that we can make buildings
+more efficient is through IoT and wireless connectivity
+because you can't go
+and rewire things in buildings
+and tear down walls, right?
+So we really look at this from a holistic,
+a more system-level approach on how do we build chips
+that can enable these technologies?
+And then how do product manufacturers
+build products that help users,
+whether it's in your home
+or buildings where you work, be more efficient?
+And I think that is an important aspect
+because as much work as we do
+on the semiconductor manufacturing side,
+the demand is going to be there to drive these use cases
+and experiences for users.
+And the more that we can automate
+and bring intelligence without having to put
+that burden on the user,
+the more impact we can make.
+<v ->Thank you, I think you brought to life very good examples</v>
+of how semiconductors are enabling greener technologies
+and it's driving the demand.
+So building on that,
+there's a lot of demand for the semiconductor chips
+based on the requirements
+for greener, smart, energy-efficient products,
+plus AI and all the compute needs.
+Also some of the geopolitical factors,
+all of these things are driving
+a lot of fabs getting built around the globe.
+Maybe, Nancy, you can talk about how a lot of these fabs
+getting built impacts the environment.
+<v ->Sure, with the excitement of AI,</v>
+every country wants to make sure
+they have access to AI chips.
+So what we've been seeing over the past couple of years,
+heavy investments now going
+into not just a few countries like the US,
+but many, many countries.
+So in the US alone,
+we're gonna 3X the semiconductor capacity by next year
+or actually it's 2025, by this year, 3X.
+Worldwide, the prediction is because other countries
+are building their own semiconductor,
+that's gonna increase to 10X.
+So on one hand, as a semiconductor engineer,
+it's like yay, we're cool.
+But be honest, as an environmentalist,
+I'm very concerned, why?
+A typical semiconductor fab the size of TSMC
+will use 75 million gallons of water a day.
+Today, if you take all the semiconductor collectively,
+they're consuming 2%
+of the entire electricity available today.
+And then of course waste.
+Unfortunately semiconductor, and I've developed
+processes using fluorinated gases, heavily used PFAs.
+They're called the forever chemical.
+We can't get rid of it.
+There's just no way, in my opinion,
+in my lifetime that we're gonna remove it.
+So as an environmentalist,
+it's great that we're bringing on this capacity.
+AI is fascinating, it's gonna help humans
+do things they've never done before,
+but we're gonna need to use that AI
+to understand how to build them
+with no impact on the environment.
+<v ->And Nancy, AI can also be used in the factories</v>
+and processes to help create more efficiencies.
+<v ->Absolutely, let me just touch on that for a second.</v>
+So one of the challenges you had,
+there's regulations coming out
+and saying you got to reduce water, or energy, or PFAs.
+And rightly so, I'll be honest,
+the semiconductor clients are saying,
+"I don't know how much I'm using."
+All right, I use 75 million gallons of water a day.
+How would I reduce that by 10%?
+I don't know who's using it.
+So we've been developing AI analytics
+that can go right down to the tool level.
+How do we do that?
+It's not that hard actually.
+You pull the data
+right off a water flow controller through a PLC
+or up through the SCADA.
+It's not that hard.
+Just never thought to do it before.
+Now that we're quantifying that data,
+we're saying okay, reduce here, reduce there,
+and so tool vendors are coming together
+and I think the real solution as an environmentalist,
+we have to come together.
+And what I like about semiconductor,
+we actually have the scientific
+and engineering horsepower to create sustainable processes.
+And I'll be honest,
+it's more unique than any other industries.
+Think of what it takes to create an AI chip
+where the interconnect is 1,000 times smaller than a hair.
+That's the brilliance and capability semiconductor has.
+We need to turn that on to sustainability.
+<v ->Yeah, I think you brought up a very good point</v>
+in terms of the PFAs
+and the process improvement.
+What are the steps the industry is taking
+and what are the things that industry
+or the semiconductor companies are doing
+to help alleviate some of these concerns?
+<v ->So let me take the PFAs first.</v>
+So there was regulation in the US that said
+by January of this year,
+you have to report all your PFA use.
+Whole bunch of lawyers were hired
+and that got extended.
+Now but looking at that regulation,
+it wasn't doable, right?
+How do you know what you're using?
+Just the same example with water.
+At least you can see that.
+But now what we're doing is working to instrument the tools
+to understand what they're using
+and I know in IBM research and others,
+we're starting to say,
+"I can't not use the fluorinated gases."
+Just can't, it takes 10 years qualified process
+if you didn't use it,
+but we're looking at the byproduct
+and what happens with a lot of the stuff,
+it has come up through a scrubber.
+Start introducing new chemicals
+that break it down in these new scrubbers
+and so that again, is we can figure out
+how to build the process.
+I think we can figure out how to render it,
+we call it abatement,
+to the point it's inert to the environment.
+So PFAs is a high level of focus.
+The regulation didn't help,
+but now research is coming in
+and saying we can do this.
+Water conservation and recycling is huge.
+A lot of the semiconductors doing that
+because you have to.
+And then energy, interesting enough, like Sujata said,
+a lot of the processes we've developed in semiconductor
+actually are core into solar
+and other types of renewable energy.
+But I would have to say right now,
+until you quantify it, they're not listening.
+It's like I use 75 million gallons of water a day?
+It's like yeah, you do,
+and you're in an area
+that there's not a lot of water, and guess what?
+The humans are noticing the lake is going down.
+So I think giving them data, quantify it,
+and now unleash your engineering, and AI,
+and quantum to figure out how to do this
+to be kind to the environment.
+<v ->What about in terms of electricity, power consumption,</v>
+what can we do about it
+in terms of one, renewable energy usage
+and second, just to reduce less of it?
+<v ->Well, first of all, in a semiconductor factory,</v>
+these tools have to stay powered on 24-7.
+If you turn them off
+and accidentally, drop at it, they're shut off,
+they don't function correctly.
+All sorts of chaos occurs.
+It's like your freezer not having electricity
+for two days, it's a mess.
+But what we can do is start looking
+at semiconductor has huge redundancy of tools.
+You don't buy one litho tool.
+You'll buy five or you'll buy 10 tools.
+If we start looking at the efficiency
+that you're using these tools,
+do the maintenance, keep them up and running,
+do the WHIP analysis,
+one approach is can I reduce the number of tools?
+The other is again, looking at it,
+and I'll just be honest,
+reducing energy in semiconductors' gonna be tough
+because you can't turn the tool off.
+But there's ways we're looking at
+and vendors are coming in saying,
+"I can consume less power."
+But as Sujata said too,
+we're creating the chips that can help analyze that
+to reduce the data centers,
+to reduce the machines.
+And we'll get there.
+It's kind of like gas consumption on a car.
+It's tough in semiconductor to reduce our energy,
+but now we're getting the capability to do that,
+but it's not gonna be coming in the next one to three years.
+<v ->Yeah, you brought up a interesting point.</v>
+The chips that we are manufacturing in the fabs
+will actually enable to make it
+in an energy-efficient way, cool.
+I think given that standards can help have
+a consistent, unified approach to these challenges,
+what do you think, Veronica, with your background,
+how standards can help with all of this?
+<v ->Yeah, so actually I thought it was a great segue</v>
+when you just mentioned all of the different learnings
+that the individual companies
+and the scientists, the chemists are figuring out
+how to use AI tools,
+how to get down to the tool level
+and figure out where do we make it more efficient?
+Where do we get rid of some of these forever chemicals?
+How can we do this?
+The more we do that
+and the more that we share
+with each other in standards development,
+then that's industry driving change, right, together.
+So I think that there's a lot that we can do there.
+Definitely energy efficiency standards,
+we're already doing work in that.
+And what I think is interesting is that there's such a,
+I know we said we're not gonna get too political up here,
+but at least when we started in the speaker room,
+but I think what's interesting
+is that when it comes to energy efficiency,
+we do find that the government does send a lot of engineers
+to the standards development arena
+because I think what they can do is learn from the chemist.
+They can learn from the engineers and the scientists
+and figure out well, what is the best way to do this?
+Rather than just coming up with it on their own.
+So I like that it's a very inclusive environment for that,
+but there's certainly lots of other areas we can get into.
+<v ->Veronica, also to your point, having industry involved</v>
+'cause governments can make regulations,
+but they can't make them deployable.
+They can't be deployed easily unless industry is there
+providing the inputs on what is reality
+on how to actually implement this legislation.
+I know there's been the Cyber Resilience Act.
+There's been climate change,
+lowering the carbon footprint goals in Europe
+that are really driving the IoT efforts too in buildings,
+that's what I said earlier,
+that they cannot meet these standards
+that have been set by the governments
+without adopting new technologies
+and making more intelligent and automated infrastructures.
+<v ->Right, right, so what's the end goal for us</v>
+is if we're able to get all of our manufacturers together
+and create the benchmarks, right, together,
+and then the government can then reference
+those different standards that we've written.
+That's a win because then industries had the opportunity
+to set those benchmarks
+and the government refers to them
+seeing the sound science so.
+<v ->What's gonna motivate them to do that, the companies?</v>
+We get them together
+and say, "Help us create these standards."
+<v ->Well, from my point of view,</v>
+I think it's everything that you mentioned, right?
+It's the challenges that we need to address
+in getting rid of the forever chemicals
+and addressing how to manage the water, right?
+Because there are things
+that we need to use in creating chips
+and that's not gonna change,
+so how might we recycle, reuse?
+<v Nancy>Sharing knowledge standard.</v>
+<v ->Sharing knowledge, exactly.</v>
+<v Nancy>And it's all kind of,</v>
+hate to say it so bluntly,
+but it's all driven by the bottom line, right?
+These companies, not only can they not achieve the goals
+that have been set for them,
+but they have to have their business model support,
+they have to support
+their business model and generate profit.
+And they're learning that they can't do that on their own
+because the market isn't growing, it's too fragmented.
+So by joining together
+and investing their resources towards standards,
+yeah, it makes the market grow faster.
+<v ->Yeah, I totally agree.</v>
+The more that we can learn from each other, the better.
+<v ->What are the areas for benchmarking?</v>
+We talk about companies coming together.
+What are the areas for benchmarking
+and how it can help?
+<v ->Yeah, there's definitely a lot of different areas</v>
+and there are lots of different industry associations
+and consortia that are working on that.
+And I know my friend, Deok-kee Kim,
+will talk a little bit about what we're doing
+in the IEC and TC-47.
+But there's definitely things that we can do
+to start looking at the environment,
+the ethics, certainly social responsibility,
+and you can address all of those in standards
+and you can get down
+into just the different consortia.
+Semi's one that you mentioned earlier.
+There's the World Semiconductor Council,
+collaborative research and innovation
+that we can do working together at the educational level
+which I know as Deok-kee Kim mentioned, he's a professor.
+So you might have some insights into that
+and some of the current research that's happening.
+<v Syed>And maybe, Deok-kee, you can start with just,</v>
+Veronica mentioned IEC TC-437,
+so you can talk about what is IEC, what is IEC TC-47,
+and maybe we can start there.
+<v ->Before I talk about that one,</v>
+I wanna talk a little bit about what Nancy
+and the others talked about.
+I guess, Syed, it's going to be very difficult
+to completely remove the fluorinated gases actually.
+If I look at the semiconductor history
+for the last 50 and 60 years,
+semiconductor industry manufacturing has been
+developed in collaboration
+with the research and development.
+Without the research and development
+in this semiconductor industry, nothing can happen.
+So for this, I guess completely removing the fluorinated gas
+may be very difficult,
+but I guess the semiconductor industry
+has always been together with the research and development.
+So there are many research and development,
+always are trying to improve the power efficiency
+and then also some of the new technologies
+like quantum computing and the neuroFIT devices
+and also some of the biodegradable materials.
+Those things actually can help sustain the semiconductors.
+And also if I come back to Syed's question on IEC,
+IEC is International Electrotechnical Commission.
+This is one of the standards developing organization
+and IEC TC-47 is actually semiconductor devices.
+This IEC TC-47 is one of the biggest committee within IEC.
+It has foursome committees and six working groups.
+SC 47A, Subcommittees 47A covering integral circuit
+and SC 47D is covering packaging technology.
+SC 47E is discreet semiconductor devices
+such as sensors or IOs
+and 47F is about the MEMS devices.
+If I look at the 47,
+IEC TC-47 has been focusing
+on developing standards of the characterization
+and reliability of already developed product
+and mostly reliability aspects.
+But recently there is some activities
+try to do some pre-standardization
+on next generation technologies
+and also TC-47 has formed a new working group
+on wide bandgap technologies
+which is power conversion devices a couple of years ago
+to reflect the importance
+of the power conversion devices recently.
+<v ->Okay. and how, I mean, thank you for explaining this.</v>
+That was a very important background.
+How these standards, specifically TC-47,
+how is helping the industry
+and what are the effects?
+How much industry is involved in setting up these standards?
+<v ->Okay, actually TC-47 is actually covering</v>
+various aspects of the semiconductors.
+So if I look at it,
+there is some separation
+between the research community and industry.
+The countries like EU and US,
+actually mostly industry experts
+are developing the standards
+of the already developed products.
+And then the countries like Korea,
+we are actually more focused
+on the next generation technologies
+such as neuroFIT devices
+and then some of the manufacturing aspects as well.
+But I guess in order
+for the semiconductor industry to go forward,
+industry and academia or the research community
+needs to get together to develop
+reasonable standards in various areas
+including the next generation emerging
+and critical areas as well.
+I think which is what the CHIPS
+and Science Act in the USA is also trying to support
+the next generation technologies as well.
+<v ->Yeah, and maybe I can help to explain</v>
+a little bit on the IEC side.
+So the IEC is one of three
+major global standards development organizations, right?
+You've got ISO, IEC, in the ITU
+and within the IEC,
+we've got different technical committees that are addressing
+a lot of different areas.
+And what's very interesting is that we all come together
+and we bring our expertise from industry
+into our national committee, right, our national body.
+So as the president of,
+oops, sorry, I forgot about the microphone, sorry.
+As the president of the US National Committee,
+what we do is we get all of the expertise,
+all of the experts that participate
+in the different technical committees,
+they bring their votes in
+and they vote on the next levels of these projects
+or they submit the projects themselves.
+So it's a great way for industry to come together,
+but also to be represented in a global basis.
+So it brings that.
+<v ->I would also add that bringing industry in</v>
+brings in the perspective
+of what are the problems we're trying to solve?
+It's not engineering for engineering's sake.
+It's what are the priorities
+and the problems that we are trying to address?
+'Cause there's always trade offs in where we invest, right?
+So bringing industry in brings,
+'cause they're connected more to the the end user, right?
+And so that helps bring that focus.
+<v ->Exactly, and then so if you think about</v>
+how we're doing that here in the US,
+within the IEC, we're taking our knowledge in the US
+and then bringing it globally,
+and Professor Kim also brings knowledge from Korea
+and takes that globally
+so then we're able to work together
+and hopefully solve global challenges.
+<v ->And I think the global perspective is very important</v>
+because a lot of large semi companies are global
+so they want to have a consistent standard
+and a framework that they could deploy
+across their fabs around the globe.
+Companies would want to have
+oh, this standard in this country
+and some other standard in another country.
+<v Nancy>Exactly, it's not scalable.</v>
+<v ->It's not scalable and it's easy to deploy</v>
+and stuff like that.
+And then I think, Sujata, to your point earlier,
+industry participation also helps.
+Is it implementable, is it deployable, right?
+How practical it is to do something,
+so from that perspective it's also important.
+One of the things I wanted to ask the panel,
+we touched about PFA quite a bit
+and I think the role of research,
+R&amp;D you talked about, Deok-kee, also.
+Are alternate chemistry being researched?
+Is is there your path research?
+Maybe not in the very near-term,
+but is there a research
+or a path towards elevating some of the usage of PFAs
+and things like that?
+<v ->I'll start, absolutely, I know even IBM research,</v>
+that is one of our focus areas to look at that,
+and using AI and understanding the chemistries.
+A real benefit will be when we start using quantum.
+So quantum can actually get down
+to the molecular behavior of the molecule.
+So we can start to understand can we create new processes
+where if I have this byproduct,
+how can I break it down?
+So that is coming.
+It's an area of focus,
+even though the PFA regulations
+got pushed out by a bunch of lawyers
+because genuinely people are saying,
+"We have to do something."
+Now semiconductor of course uses PFAs
+and I'm telling you,
+for 40 years we've used fluorinated gases.
+I don't see a way of getting around it,
+but we're gonna look very hard how to render it inert.
+But on the other hand,
+everybody who does cooking,
+guess what's in your frying pan?
+PFAs, clothes, it's everywhere.
+And what I'm hoping semiconductor can do
+and I wanna help do this too,
+we have the know-how to go
+and figure out how to do this.
+Quantify it, use AI, use quantum,
+and figure out how to render,
+whatever we create, render it inert.
+We call it cradle to,
+or again, what do I say, grave to grave.
+You create it, you grow it,
+and then put it back,
+and so that's what we're really trying to do.
+So I give a lot of folks credit.
+It's not based on regulations
+which can sway with the politics,
+but people wanna do the right thing
+and we just got to help them.
+<v ->And semi industry has a tradition</v>
+or a history of very fact driven, science oriented,
+and I mean, the kind of work that we do,
+as you were talking about it,
+making the chips at three nanometer,
+two nanometer is like this
+because of all the science-driven kind of a mindset.
+We touched about, I think the panel touched about
+on regulation a couple of times.
+Let me ask a overarching questions.
+Do we need some regulation specific to semi manufacturing?
+<v ->Well, I could start then.</v>
+<v ->Yeah, yeah, go ahead.</v>
+<v ->It's almost a yes-no.</v>
+You need the regulation,
+but it's important to have the standards.
+So if you're gonna have a regulation,
+make sure it's discoverable and doable.
+The PFA one came out,
+how could anybody adhere to it?
+So I think put the regulation
+and bring in the community of scientists
+to really influence, all right, here's the problem,
+here's how you discover it, measure it,
+and here's how you can abate it or remove it.
+And that's gonna be really important.
+One concern I do have is how do you motivate people?
+So if you don't have regulations,
+will they have that motivation to do the right thing?
+<v Veronica>Exactly what I was thinking.</v>
+<v ->Tax credits can only go so far</v>
+and it may have to come down to it has to be mandated now.
+I was in Malaysia a few months ago
+and asking them, "You're gonna have regulations
+for a semiconductor, they're gonna boom."
+And they're like, "What?"
+They're like, "No, we don't have enough water.
+We're just gonna have to manage it out of the gate."
+So it's a perspective.
+I think regulations supported by standards.
+I hope humans do want to do the right thing.
+You are up against profit
+and that's going to be a problem,
+and maybe regulations helps open the door and squash profits
+and say environment first.
+<v ->In a sense, a bar too,</v>
+a common bar for everybody to shoot for and work together,
+and that's where the standards come in to help.
+<v ->I mean, it helps with the bottom line also.</v>
+You talked about it,
+if you're using less power,
+it helps reduce the power expenses also, right?
+So there is a,
+it's helpful from multiple angles also.
+I also wanna touch upon,
+I wanna get everyone's opinion on this,
+is are we doing enough?
+Are we acting with a sense of urgency?
+What do you all think?
+I think we can go around the panel to talk about it.
+<v ->I'll jump in, I think there's always more</v>
+that we can be doing, right?
+Especially when it comes to standardization.
+When you talk about
+some of the heavy challenges that we have,
+the more that we can get industry together
+to talk about how they might be solving different issues,
+whether it's chemical usage, or water usage, or power.
+We've talked about power a lot as well.
+And if we're able to learn from each other
+and then hopefully set some of those benchmarks
+for other companies to follow,
+as we were talking about earlier with regulation,
+hopefully at that point,
+regulation can then point to that standard
+and say, "Follow that standard,"
+and we're already getting to a better level.
+So we can always look at different areas
+and do better in each individual area.
+<v ->Okay, Nancy, what do you think?</v>
+<v ->I'm gonna say no, we're not doing enough.</v>
+Obviously the focus has been on capacity,
+get the capacity up and running.
+And during that build out,
+some companies were very responsible
+and they started to build in the environmental conditions,
+but was there a whole lot of motivation?
+No, you got this money, build this factory,
+get it up and running.
+And I think that at least in the US
+we have that firmly on its way,
+we need to focus on the environmental conditions.
+So I'm gonna say no.
+I understand why we focus on capacity,
+but we need a lot of funding to say get rid of PFAs,
+water usage, energy usage.
+There's more to do.
+<v ->Yeah, I think I would say yes and no.</v>
+I think I really see that we've accelerated
+the efforts in the last five, even just five years.
+Even working at NXP,
+the amount of awareness there is
+around how to build more sustainable semiconductors
+and the efforts that are going on in fabs.
+And even when I work with customers,
+they ask us for information about our products,
+and the carbon footprint,
+and energy consumption for building the products.
+So there's more awareness
+and now we have to continue
+to drive the semiconductor processes.
+But I will also say I think from the end product side,
+we're making huge advancements in AI,
+like you said, all these technologies
+to help us better understand the energy usage
+and be able to apply intelligence to reduce that.
+<v ->So if I add a little bit.</v>
+If I look at the semiconductor manufacturing,
+previously for the last 50 and 60 years,
+US actually started the semiconductor manufacturing
+and then they intentionally I think
+moved that to Japan and then Korea
+and then finally to China.
+And then those are,
+Korea, even if I look at the Korea, the initial days,
+they didn't really think about the environmental aspects.
+And then there was some diseases
+from the semiconductor processing as well.
+But now USC is actually considering
+that semiconductor technology is very, very important
+and they're bringing
+that semiconductor manufacturing back to US.
+And now I think US will be more interested
+in the research and development.
+US has a very good capability
+of the research and capability.
+I hope that we will find better solutions in the near future
+with all the capabilities.
+<v ->Thank you, I think at this time,</v>
+we have a few minutes
+left for any questions from the audience.
+If you have any questions,
+please come up to the mic over here
+and so that it could be recorded.
+Any questions from the audience?
+<v Questioner One>I had a, sorry, a question on the,</v>
+there has been a lot of reshoring
+of semiconductor into the US
+and one of my questions was what sustainability
+and government environmental obstacles
+have been most daunting,
+especially with our environmental regulations
+in the US versus other countries?
+<v ->Nancy, you wanna start?</v>
+<v ->Sure, I think in the US,</v>
+of course, the water was gonna be a concern.
+The PFAS came right up on the top.
+But until it was doable, energy is also a big one.
+So I think there's some federal regulations,
+but then the states have to look at it.
+Can they actually support it?
+And as we're indicating, water's a big one.
+I don't think we can put too many more factories
+in the South here, West to be able to do that.
+So I think in that case,
+we're trying to work with the government.
+We have to get this capacity online.
+We're rules bent, I don't know,
+but I do start looking at the data, kind of questioning it.
+EU I work with, they're real tough.
+They're not gonna bend, no, boom,
+and I'd like to see if we can get there, but collectively.
+You have to put something in place that's really doable
+and invest in more research.
+And I think Syed mentioned,
+it doesn't necessarily mean
+you're gonna decrease your profit
+because a lot of times the way they're calculating profit,
+they're not calculating the entire pipeline
+of what you've done.
+Are you taking into account the waste
+and what the impact of the waste is
+and if you get sued
+or if you're non-compliant?
+When you start looking at all that,
+doing the right thing will be profitable.
+<v ->Deok-kee, any observation from outside?</v>
+<v ->Yeah, when I was working for some government jobs,</v>
+I actually had a chance to meet
+with some of the officials from EU.
+Actually the first question they asked me
+is can you get rid of the PFA,
+especially the Samsung Electronics or (indistinct) actually.
+But I guess like Nancy said,
+I think currently it's impossible to get rid
+of the fluorinated gases completely
+and I guess they set the target about 2050.
+Currently they don't really look at seriously within Korea,
+but they started to look at it.
+So I think we have to see whether we can really,
+I guess a little bit we may be able to reduce
+and then we should reduce
+some of the fluorinated gas use in the manufacturing, yeah.
+<v Questioner Two>How do the semiconductor companies</v>
+plan to achieve carbon-neutral goals?
+Do you prefer or prioritize
+reducing the carbon emission yourself
+or purchasing carbon credits on the market?
+<v ->Yeah, yeah, yeah, actually these people may know better,</v>
+but I guess in order to prepare this panel,
+I also became interested
+in the semiconductor sustainability.
+And then semiconductor companies I think are doing
+various things to use the renewable energies
+and also trying to use many,
+using the AI, the optimization
+of the manufacturing process, et cetera,
+to reduce the carbon emission.
+And then a little bit,
+but currently I guess it's very difficult
+to do the net-zero carbon.
+<v ->Yeah, I agree with that.</v>
+I think NXP, we have sustainability reports
+that we started issuing to show
+where are the areas that we've invested
+and evaluated on the energy consumption
+and how we can improve that.
+It's gonna take time to get to a net-zero.
+I don't know if that's feasible or not,
+but just working towards that is definitely something
+I think all the semiconductor companies are doing.
+<v ->I think there's a broad set of things</v>
+going on in this space.
+First, usage of renewable sources.
+Second is this how can we use less energy?
+And then the OEE topic that we talked about.
+<v ->And the reuse.</v>
+<v ->And the reuse, so there is a broad set of things</v>
+that collectively could help us get there.
+<v ->Yeah, and I think companies</v>
+can also set these benchmarks themselves
+and then I know I've preached standards,
+but I think the more that we set the benchmarks
+on how we might get to a better sustainable world, right?
+Especially when we're talking
+about the manufacturing of semiconductors, right?
+Then what we can do is share that learning with each other
+and then hopefully create some standards,
+so that's what we hope for.
+<v ->I just wanted to add one key here</v>
+is typically an organization
+or a factory is measuring the total amount of energy used?
+Where was it used?
+And then they calculate the emissions.
+That's too macro level in my opinion.
+What tools are using it?
+Do you have a tool starting to go rogue
+that's just taking too much energy?
+And this is why OEE is so important.
+Monitor each tool and then aggregate it
+'cause otherwise it's so difficult to drill it down.
+So in my view, get this dashboard,
+build in the ability,
+and we're doing that to drill it down.
+What tools are using all this energy and why?
+And is there any opportunity
+to reduce the energy they're using?
+<v Syed>With that, I think we are-</v>
+<v ->Oh, one more comment.</v>
+<v Syed>Go ahead.</v>
+<v Nancy>We're out of time.</v>
+<v Syed>We are out of time.</v>
+Thank you, panel, for a very thought provoking
+and at the same time, very actionable kind of discussion.
+Thank you.

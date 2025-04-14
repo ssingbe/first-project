@@ -1,0 +1,2879 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.254 --> 00:02.837
+(bright music)
+
+00:10.620 --> 00:11.970
+<v Kristen>Good afternoon, everyone,</v>
+
+00:11.970 --> 00:13.380
+and welcome to our session
+
+00:13.380 --> 00:15.510
+on navigating the multifamily IoT markets.
+
+00:15.510 --> 00:18.210
+We're very excited to have you all here with us today.
+
+00:19.260 --> 00:21.030
+If you haven't met me before, I'm Kristen Hanich,
+
+00:21.030 --> 00:23.040
+research director here at Parks Associates.
+
+00:23.040 --> 00:25.680
+I lead our coverage of multifamily housing,
+
+00:25.680 --> 00:27.480
+really guiding our research efforts,
+
+00:27.480 --> 00:29.853
+both syndicated and custom throughout the year.
+
+00:31.890 --> 00:33.360
+Before we get started, I would like to give
+
+00:33.360 --> 00:35.220
+a special thank you to all of our sponsors
+
+00:35.220 --> 00:37.080
+for helping to make this event possible,
+
+00:37.080 --> 00:38.880
+as well as our other events as well.
+
+00:40.920 --> 00:43.170
+So this is our 2:00 PM session, as I mentioned,
+
+00:43.170 --> 00:44.880
+really taking a look at navigating
+
+00:44.880 --> 00:46.590
+the multifamily IoT markets.
+
+00:46.590 --> 00:47.790
+Special thank you to SmartRent
+
+00:47.790 --> 00:49.290
+for highlighting this session.
+
+00:50.190 --> 00:52.530
+So we are gonna be taking the next 40 minutes or so
+
+00:52.530 --> 00:54.660
+to really dive into this topic.
+
+00:54.660 --> 00:56.760
+So understanding what is going on on this markets,
+
+00:56.760 --> 00:58.650
+why it is appealing to folks,
+
+00:58.650 --> 01:01.380
+as well as diving into some additional details.
+
+01:01.380 --> 01:03.960
+The topics of note are really taking a look
+
+01:03.960 --> 01:06.240
+at how IoT is serving this role,
+
+01:06.240 --> 01:08.850
+both as an operational tool as an amenity,
+
+01:08.850 --> 01:11.640
+and also looking at connectivity as a key enabler
+
+01:11.640 --> 01:13.950
+for deploying all of these different solutions.
+
+01:13.950 --> 01:16.860
+We're also gonna be taking a look at what to expect in 2025.
+
+01:16.860 --> 01:19.160
+So there are some major developments underway.
+
+01:21.420 --> 01:24.240
+A little bit of context, again before I get started,
+
+01:24.240 --> 01:26.220
+so we've seen in multi-family housing,
+
+01:26.220 --> 01:28.080
+there is this pendulum that tends to swing
+
+01:28.080 --> 01:32.370
+from one way to the other every few years.
+
+01:32.370 --> 01:33.450
+The last couple of years,
+
+01:33.450 --> 01:35.970
+we have been in an operational efficiency mode.
+
+01:35.970 --> 01:38.280
+So really focusing on reducing costs,
+
+01:38.280 --> 01:40.500
+improving efficiencies,
+
+01:40.500 --> 01:44.070
+we do expect to see this historic amount
+
+01:44.070 --> 01:45.900
+of new inventory hits the markets
+
+01:45.900 --> 01:48.570
+and renewed focus on resident satisfaction,
+
+01:48.570 --> 01:51.540
+especially bringing in these new amenities.
+
+01:51.540 --> 01:54.480
+So a lot of times, IoT has served
+
+01:54.480 --> 01:58.650
+kinda this operational role, but also resident satisfaction.
+
+01:58.650 --> 02:00.480
+The most interesting solutions are of course
+
+02:00.480 --> 02:02.610
+those that really hit both of those needs.
+
+02:02.610 --> 02:04.590
+So serving the needs of both the owners
+
+02:04.590 --> 02:06.903
+and operators as well as the residents.
+
+02:08.280 --> 02:09.360
+I mentioned wifi.
+
+02:09.360 --> 02:12.360
+It is really this key enabling technology,
+
+02:12.360 --> 02:15.210
+making a lot of these IoT deployments possible.
+
+02:15.210 --> 02:18.750
+A lot of owners and operators are deploying managed wifi
+
+02:18.750 --> 02:20.220
+really throughout their properties,
+
+02:20.220 --> 02:22.020
+both inside of residential units
+
+02:22.020 --> 02:24.360
+and throughout the property as a whole.
+
+02:24.360 --> 02:27.600
+I will say that with a lot of retrofitting going on,
+
+02:27.600 --> 02:31.770
+we are seeing increased demand, not just for wifi networks
+
+02:31.770 --> 02:35.100
+but also solutions that will work without wifi.
+
+02:35.100 --> 02:37.710
+So sparing them the expense of having to retrofit
+
+02:37.710 --> 02:39.453
+in a lot of complex connectivity.
+
+02:41.310 --> 02:43.860
+To discuss all of this and more, I have an excellent lineup
+
+02:43.860 --> 02:46.500
+of panelists here today, so very excited
+
+02:46.500 --> 02:48.540
+to dig into this conversation.
+
+02:48.540 --> 02:50.850
+Let's go through and do a round of introductions.
+
+02:50.850 --> 02:53.013
+Maybe a couple of minutes for each of us.
+
+02:54.450 --> 02:55.440
+Let's see.
+
+02:55.440 --> 02:56.910
+John, you are first up in the lineup.
+
+02:56.910 --> 02:58.290
+Can you tell us a little bit about yourself,
+
+02:58.290 --> 03:00.210
+your work at ADT?
+
+03:00.210 --> 03:01.384
+<v John>Thanks.</v>
+
+03:01.384 --> 03:02.520
+The headshot's a little bit old.
+
+03:02.520 --> 03:05.370
+I guess I gotta add a few pounds and eight years to that.
+
+03:07.230 --> 03:08.670
+Thanks for everybody for joining.
+
+03:08.670 --> 03:11.070
+John Butrim, I oversee the Builder
+
+03:11.070 --> 03:16.070
+Multifamily and Community Association division at ADT.
+
+03:16.110 --> 03:19.560
+Basically, anything that is a commercial relationship
+
+03:19.560 --> 03:22.380
+but ends with a residential user
+
+03:22.380 --> 03:25.503
+in front of that panel or phone for the app.
+
+03:26.790 --> 03:28.680
+<v Kristen>Very excited to have you here with us today</v>
+
+03:28.680 --> 03:30.750
+and kinda looking again to dive a little bit more
+
+03:30.750 --> 03:32.340
+into the subject.
+
+03:32.340 --> 03:34.290
+Eric, so you and I were talking a little bit
+
+03:34.290 --> 03:36.120
+not too long ago about kind of Kwikset
+
+03:36.120 --> 03:37.920
+and some of it's movement there.
+
+03:37.920 --> 03:40.050
+So excited to hear a bit more.
+
+03:40.050 --> 03:41.910
+<v Eric>Yeah, great to be here.</v>
+
+03:41.910 --> 03:43.200
+My name's Eric Harnischfeger.
+
+03:43.200 --> 03:45.780
+I'm a senior product manager with Kwikset
+
+03:45.780 --> 03:49.500
+as part of the ASSA ABLOY Americas residential group.
+
+03:49.500 --> 03:51.780
+I'm particularly responsible for Kwikset's
+
+03:51.780 --> 03:54.450
+multifamily electronic organization
+
+03:54.450 --> 03:57.540
+for the access control market for multifamily.
+
+03:57.540 --> 03:59.010
+We're in a really interesting place right now,
+
+03:59.010 --> 04:00.930
+because Kwikset is relatively new
+
+04:00.930 --> 04:04.320
+to electronic multifamily access control,
+
+04:04.320 --> 04:05.670
+but we're now part of ASSA ABLOY,
+
+04:05.670 --> 04:07.860
+which is obviously a market leader here.
+
+04:07.860 --> 04:09.390
+So I'm excited to be here and have the opportunity
+
+04:09.390 --> 04:11.100
+to talk through how we're navigating that
+
+04:11.100 --> 04:13.950
+as both part of a kind of a new entrant into the field,
+
+04:13.950 --> 04:17.220
+but also with the backing of the ASSA ABLOY establishment.
+
+04:17.220 --> 04:19.290
+<v Kristen>Very happy to have you here with us today, Eric,</v>
+
+04:19.290 --> 04:20.910
+and of course Greg Mora,
+
+04:20.910 --> 04:23.700
+longtime mainstay here at our Parks events.
+
+04:23.700 --> 04:25.770
+So Greg, can you tell us maybe a little bit about yourself,
+
+04:25.770 --> 04:28.080
+your work at Johnson Controls?
+
+04:28.080 --> 04:29.070
+<v Greg>Alright, thank you everybody.</v>
+
+04:29.070 --> 04:30.180
+My name is Greg Mora,
+
+04:30.180 --> 04:33.720
+and I'm with the Global Product Security
+
+04:33.720 --> 04:35.580
+Division within Johnson Controls.
+
+04:35.580 --> 04:37.830
+We have about 10 different business units,
+
+04:37.830 --> 04:39.720
+and global product security is one of them
+
+04:39.720 --> 04:43.680
+where we focus on everything from access control,
+
+04:43.680 --> 04:47.520
+video services to a business that we call Intrusion,
+
+04:47.520 --> 04:51.693
+which ties closely to our relationship with parks.
+
+04:52.650 --> 04:55.170
+A large percentage of the smart homes
+
+04:55.170 --> 04:59.910
+or connected homes today feature monitored security.
+
+04:59.910 --> 05:03.480
+And so we support the multifamily businesses,
+
+05:03.480 --> 05:06.900
+like ADT and others through an extension
+
+05:06.900 --> 05:11.040
+of our products that are primarily based around security
+
+05:11.040 --> 05:12.570
+and now increasingly are expanding
+
+05:12.570 --> 05:14.403
+into the market for builder,
+
+05:15.360 --> 05:18.630
+build to rent and multifamily.
+
+05:18.630 --> 05:19.500
+<v Kristen>Thanks so much, Greg.</v>
+
+05:19.500 --> 05:22.350
+Very happy to have you here with us again also.
+
+05:22.350 --> 05:24.270
+And Braeden Scheer, joining us from SmartRent.
+
+05:24.270 --> 05:25.890
+Braeden, can tell us a little bit about yourself,
+
+05:25.890 --> 05:27.150
+your role at SmartRent?
+
+05:27.150 --> 05:29.010
+<v Braeden>Absolutely, well, great to be here.</v>
+
+05:29.010 --> 05:29.843
+Thank you, everybody.
+
+05:29.843 --> 05:31.650
+I'm Braeden, vice president of product.
+
+05:31.650 --> 05:35.700
+I oversee our hardware and software product strategy.
+
+05:35.700 --> 05:38.310
+SmartRent, we're a leading provider of smart community
+
+05:38.310 --> 05:41.490
+and smart operations software in multifamily.
+
+05:41.490 --> 05:44.100
+Our vision is to help everyone live and work smarter
+
+05:44.100 --> 05:46.380
+and we do that through a purpose-built ecosystem
+
+05:46.380 --> 05:48.390
+of our own hardware and software,
+
+05:48.390 --> 05:50.460
+but we also have a great network of partners
+
+05:50.460 --> 05:54.300
+to help us deliver that mission, provide asset protection,
+
+05:54.300 --> 05:57.570
+operational efficiency, and a premium residence experience.
+
+05:57.570 --> 05:58.890
+<v Speaker>You look like you're a headshot.</v>
+
+05:58.890 --> 06:00.180
+That's good.
+
+06:00.180 --> 06:01.013
+<v Braeden>Thank you.</v>
+
+06:01.013 --> 06:03.900
+Although I need to get a new one, probably. (laughs)
+
+06:03.900 --> 06:05.280
+<v Kristen>I think we all need to update</v>
+
+06:05.280 --> 06:06.680
+our headshots at some point.
+
+06:08.190 --> 06:10.440
+But yes, very happy to have you here with us.
+
+06:10.440 --> 06:11.910
+Also joining us, Hagan Kappler,
+
+06:11.910 --> 06:13.350
+co-founder and CEO of Daisy.
+
+06:13.350 --> 06:15.060
+Hagan, can I ask a little bit about yourself,
+
+06:15.060 --> 06:17.460
+your role at Daisy, kind of what you guys do?
+
+06:17.460 --> 06:19.620
+<v Hagan>Great, yeah, thanks so much for having me.</v>
+
+06:19.620 --> 06:23.520
+Hagan Kappler, I'm the co-founder and CEO of Daisy.
+
+06:23.520 --> 06:27.060
+Daisy is the first national installer
+
+06:27.060 --> 06:30.600
+and service provider of all the technology
+
+06:30.600 --> 06:32.160
+that you need in your home.
+
+06:32.160 --> 06:35.820
+Small business, apartment, everything from TV,
+
+06:35.820 --> 06:39.243
+speakers, lighting, home security cameras,
+
+06:40.260 --> 06:43.470
+also motorized shades, the control systems
+
+06:43.470 --> 06:45.090
+that tie them all together.
+
+06:45.090 --> 06:48.300
+One day, we'll be installing the robots in your home
+
+06:48.300 --> 06:51.810
+and then coming around to service them when they break,
+
+06:51.810 --> 06:55.533
+because at the end of the day, it is technology after all.
+
+06:56.400 --> 06:59.250
+So our points of differentiation are, one,
+
+06:59.250 --> 07:03.840
+being a national provider and having that brand awareness.
+
+07:03.840 --> 07:08.520
+We are the one and only national brand in that space.
+
+07:08.520 --> 07:11.520
+And then two, we have an ongoing service
+
+07:11.520 --> 07:14.610
+so we're not just installing the technology
+
+07:14.610 --> 07:16.710
+and then kind of leaving the resident
+
+07:16.710 --> 07:19.260
+or the homeowner to their own devices,
+
+07:19.260 --> 07:21.570
+because, again, technology breaks.
+
+07:21.570 --> 07:26.070
+Also, the consumer needs evolve and change over time.
+
+07:26.070 --> 07:29.520
+And technology evolves, pricing changes.
+
+07:29.520 --> 07:31.140
+I mean, we're all here at CES
+
+07:31.140 --> 07:35.190
+and it's amazing how technology changes over time
+
+07:35.190 --> 07:37.830
+or even in just a few months or in a year.
+
+07:37.830 --> 07:42.830
+And so we're there every quarter to help our consumers
+
+07:42.990 --> 07:46.350
+as we listen to them, help them with their needs,
+
+07:46.350 --> 07:48.420
+fix things when they break,
+
+07:48.420 --> 07:50.520
+but then install things over time.
+
+07:50.520 --> 07:53.010
+Anyway, so that's Daisy and that's who we are.
+
+07:53.010 --> 07:55.710
+And I think I look exactly like my Photoshopped-
+
+07:55.710 --> 07:57.543
+<v ->Absolutely.</v>
+<v ->Headshot.</v>
+
+07:59.040 --> 08:01.230
+<v ->But yeah, I'm very happy to have you here</v>
+
+08:01.230 --> 08:02.940
+with us today to discuss this topic.
+
+08:02.940 --> 08:05.160
+I think it's extremely timely.
+
+08:05.160 --> 08:07.080
+We're seeing a lot of exciting momentum
+
+08:07.080 --> 08:09.060
+in multifamily housing, especially kind of when it comes
+
+08:09.060 --> 08:11.070
+to retrofitting, what's going on there.
+
+08:11.070 --> 08:14.130
+But let's first take a little bit of a step backwards.
+
+08:14.130 --> 08:16.410
+So our audience here at CES is maybe a bit different
+
+08:16.410 --> 08:20.490
+than our usual, so I would like to, first,
+
+08:20.490 --> 08:22.650
+kind of dive into the topic of demand
+
+08:22.650 --> 08:25.380
+for smart living and multifamily.
+
+08:25.380 --> 08:29.130
+So what are you guys seeing that makes multifamily
+
+08:29.130 --> 08:32.160
+kind of a great market to get into when it comes to IoT?
+
+08:32.160 --> 08:33.840
+Like what kind of smart solutions
+
+08:33.840 --> 08:35.610
+are these owners and operators asking for?
+
+08:35.610 --> 08:36.990
+And Hagan, maybe you can kick us off
+
+08:36.990 --> 08:38.583
+and we can go kind of this way.
+
+08:39.420 --> 08:43.050
+<v ->Sure, I think there's two kind of customers, right?</v>
+
+08:43.050 --> 08:44.940
+There's the property manager
+
+08:44.940 --> 08:47.520
+and then there's the resident herself.
+
+08:47.520 --> 08:50.640
+And so from a property manager perspective,
+
+08:50.640 --> 08:52.530
+they're looking for kind of the basics.
+
+08:52.530 --> 08:54.780
+And probably, this panel is best suited
+
+08:54.780 --> 08:56.640
+to those kinds of questions.
+
+08:56.640 --> 09:00.360
+And from our perspective, we can help with those basics.
+
+09:00.360 --> 09:02.310
+Then when it comes down to the resident,
+
+09:02.310 --> 09:05.610
+that's no different from what the average
+
+09:05.610 --> 09:07.140
+homeowner and consumer now.
+
+09:07.140 --> 09:10.380
+Daisy today skews more towards the luxury
+
+09:10.380 --> 09:12.000
+higher end consumer,
+
+09:12.000 --> 09:17.000
+but you're seeing everything from television, speaker,
+
+09:17.250 --> 09:21.180
+human-centric lighting, the security cameras,
+
+09:21.180 --> 09:24.840
+again, which a number of folks on this panel can speak to.
+
+09:24.840 --> 09:27.720
+And then something that kind of ties it all together.
+
+09:27.720 --> 09:29.910
+The stuff is super complicated.
+
+09:29.910 --> 09:32.190
+What we're seeing on average is that,
+
+09:32.190 --> 09:34.350
+well, from the Parks research,
+
+09:34.350 --> 09:36.930
+and again, these guys can speak to it better than I could.
+
+09:36.930 --> 09:39.840
+Jason in the back could speak to it very well,
+
+09:39.840 --> 09:43.200
+but is that on average, 22 connected devices
+
+09:43.200 --> 09:46.170
+in a customer's home, but that people are more frustrated
+
+09:46.170 --> 09:48.210
+and overwhelmed than ever.
+
+09:48.210 --> 09:51.720
+So they're really looking not just for the device themself,
+
+09:51.720 --> 09:53.520
+but for an ongoing service.
+
+09:53.520 --> 09:57.630
+And so those are two of the drivers that we're seeing.
+
+09:57.630 --> 09:59.850
+And then from a multifamily perspective,
+
+09:59.850 --> 10:03.300
+if you think about who's really drawn to multifamily,
+
+10:03.300 --> 10:07.230
+it's going to be a consumer who skews a bit younger,
+
+10:07.230 --> 10:10.260
+and those younger consumers are gonna be looking
+
+10:10.260 --> 10:13.890
+for kind of the latest and greatest in technology,
+
+10:13.890 --> 10:18.890
+the cool television to watch sports on the weekend,
+
+10:19.200 --> 10:20.100
+they're gonna be looking
+
+10:20.100 --> 10:23.040
+for the latest and greatest in speakers,
+
+10:23.040 --> 10:25.410
+something simple on their app.
+
+10:25.410 --> 10:29.100
+They're typically gonna be a do-it-for-me type of consumer.
+
+10:29.100 --> 10:33.060
+No offense, I don't know if anybody's in this generation,
+
+10:33.060 --> 10:37.290
+but they're not really used to installing stuff themselves.
+
+10:37.290 --> 10:38.760
+They kind of came out of the womb
+
+10:38.760 --> 10:41.580
+with the technology working like for them.
+
+10:41.580 --> 10:45.060
+And so they're not going to be installing it for themselves.
+
+10:45.060 --> 10:49.140
+There's human-centric technology that's at play here.
+
+10:49.140 --> 10:54.030
+So lighting that is working and evolving
+
+10:54.030 --> 10:57.930
+with their kind of needs as a human.
+
+10:57.930 --> 11:01.226
+And then motorized shades that's in tune
+
+11:01.226 --> 11:03.450
+with what's happening outside.
+
+11:03.450 --> 11:07.230
+And then if you think about kind of the older consumer,
+
+11:07.230 --> 11:10.830
+there's technology that's helping with aging in place
+
+11:10.830 --> 11:12.000
+and that's actually working
+
+11:12.000 --> 11:13.620
+with kind of their family and friends.
+
+11:13.620 --> 11:16.050
+So those are the types of technologies
+
+11:16.050 --> 11:18.720
+and the needs of our clients that we're seeing.
+
+11:18.720 --> 11:19.740
+<v ->Yes, and certainly,</v>
+
+11:19.740 --> 11:22.050
+a lot of different potential use cases,
+
+11:22.050 --> 11:23.550
+a lot of different values,
+
+11:23.550 --> 11:26.340
+and especially as you're saying with the younger generation
+
+11:26.340 --> 11:30.630
+kind of looking for this as an amenity specifically.
+
+11:30.630 --> 11:31.833
+<v ->Yeah, so I'd like to,</v>
+
+11:33.090 --> 11:37.140
+I'd like to share Hagan's comments a bit
+
+11:37.140 --> 11:41.160
+in terms of the buyer types or the customer types.
+
+11:41.160 --> 11:44.100
+And certainly, you see that is twofold,
+
+11:44.100 --> 11:48.810
+but then behind the customer,
+
+11:48.810 --> 11:52.530
+that is the resident, the person that's going
+
+11:52.530 --> 11:55.650
+to be living with the technology
+
+11:55.650 --> 11:58.680
+and then the property manager
+
+11:58.680 --> 12:01.830
+that will be making decisions and installing
+
+12:01.830 --> 12:04.440
+and living with the result of that.
+
+12:04.440 --> 12:07.530
+I think we have to include the ecosystem
+
+12:07.530 --> 12:09.240
+of partnerships that it takes
+
+12:09.240 --> 12:12.930
+to be successful in this marketplace.
+
+12:12.930 --> 12:16.383
+And so there are challenges on all three sides.
+
+12:18.360 --> 12:19.623
+For the consumer,
+
+12:20.790 --> 12:23.730
+smart home tech is now becoming somewhat
+
+12:23.730 --> 12:26.520
+of an amenity for properties,
+
+12:26.520 --> 12:29.070
+they can differentiate with and compete with.
+
+12:29.070 --> 12:33.990
+Years ago, it was stainless steel type,
+
+12:33.990 --> 12:36.720
+appliances or the flooring
+
+12:36.720 --> 12:38.430
+or finishes and things like that.
+
+12:38.430 --> 12:40.560
+And now, I agree with you a hundred percent,
+
+12:40.560 --> 12:42.240
+the demographic is shifting a little bit more
+
+12:42.240 --> 12:45.600
+around the expectation around lifestyle and amenity
+
+12:45.600 --> 12:48.960
+and it becomes a show point, it becomes an expectation
+
+12:48.960 --> 12:52.680
+and the connectedness to the app and the phone
+
+12:52.680 --> 12:55.800
+and what they can do and how it makes their life easier,
+
+12:55.800 --> 12:57.390
+they identify with that a little bit more.
+
+12:57.390 --> 12:59.400
+Now, I don't know that we're at a tipping point yet,
+
+12:59.400 --> 13:01.533
+but certainly, we are,
+
+13:02.700 --> 13:04.260
+I heard it mentioned earlier,
+
+13:04.260 --> 13:07.950
+we're like on the threshold to the mass market,
+
+13:07.950 --> 13:09.630
+and I would agree with that comment.
+
+13:09.630 --> 13:14.040
+Now, the challenge for manufacturers like us that sets up
+
+13:14.040 --> 13:17.070
+is that for the property manager
+
+13:17.070 --> 13:21.090
+and for those customers that that Hagan's team is servicing
+
+13:21.090 --> 13:26.090
+and others, what value do we provide then?
+
+13:27.090 --> 13:30.903
+Well, again, we're coming at it from an established,
+
+13:32.850 --> 13:34.470
+established long-term businesses
+
+13:34.470 --> 13:39.470
+as portfolios of products that have been reliably installed
+
+13:39.660 --> 13:42.240
+and operating over generations.
+
+13:42.240 --> 13:44.070
+So there's higher confidence.
+
+13:44.070 --> 13:47.760
+We are a global brand, not just a national brand.
+
+13:47.760 --> 13:50.820
+So for these partners, a lot of these big property managers
+
+13:50.820 --> 13:54.150
+who are more than regional, they're national and beyond,
+
+13:54.150 --> 13:55.440
+they need a partner.
+
+13:55.440 --> 13:58.290
+They need a single throat to choke, so to speak,
+
+13:58.290 --> 14:00.090
+when it comes to that selection.
+
+14:00.090 --> 14:01.950
+And they know that they're gonna be serviced
+
+14:01.950 --> 14:04.680
+and there are gonna be minimal callbacks.
+
+14:04.680 --> 14:06.480
+In a traditional security market,
+
+14:06.480 --> 14:10.710
+we refer to a quality metric known as a truck roll.
+
+14:10.710 --> 14:13.593
+Once I do the installation, do I have to go back?
+
+14:14.520 --> 14:19.520
+And one of our KPIs is to basically allow that install
+
+14:20.250 --> 14:24.990
+to go very fast with high reliability and not have to churn,
+
+14:24.990 --> 14:26.160
+not have to get called back.
+
+14:26.160 --> 14:28.710
+And so I think one of the property management
+
+14:28.710 --> 14:32.010
+challenges today is they're short staffed,
+
+14:32.010 --> 14:35.100
+and they have to learn some smart tech.
+
+14:35.100 --> 14:36.810
+So how do we make their life easier?
+
+14:36.810 --> 14:38.490
+I think that's a second layer.
+
+14:38.490 --> 14:41.400
+And third, again, I said is backed up by this ecosystem.
+
+14:41.400 --> 14:44.310
+We all have to work together
+
+14:44.310 --> 14:46.710
+and partner in a more effective way
+
+14:46.710 --> 14:51.240
+to help keep that cost of operation in line
+
+14:51.240 --> 14:54.910
+and make it attractive to then
+
+14:55.770 --> 14:59.010
+deploy to more sites smart tech, okay?
+
+14:59.010 --> 15:02.214
+So it's not just about what the protocol is
+
+15:02.214 --> 15:04.980
+or what the device is itself.
+
+15:04.980 --> 15:07.500
+It's how it all plays together.
+
+15:07.500 --> 15:10.170
+<v ->Yes, and I think one throat to choke is underrated</v>
+
+15:10.170 --> 15:12.030
+as a measure of importance.
+
+15:12.030 --> 15:13.860
+So we've been hearing from a lot of companies
+
+15:13.860 --> 15:15.510
+that that helps them quite a bit.
+
+15:17.041 --> 15:18.420
+<v ->Yep, yeah, maybe I'll pivot a little bit</v>
+
+15:18.420 --> 15:21.420
+to the market itself, since we have this wider audience.
+
+15:21.420 --> 15:25.770
+You saw enterprise smart home in the multifamily industry
+
+15:25.770 --> 15:29.760
+really take off in 2019 and into 2020
+
+15:29.760 --> 15:32.880
+as COVID really forced adoption
+
+15:32.880 --> 15:35.160
+for self-guided tours, right?
+
+15:35.160 --> 15:38.010
+Apartment complexes wouldn't need a leasing agent
+
+15:38.010 --> 15:41.280
+to show a prospective resident a vacant unit.
+
+15:41.280 --> 15:43.680
+They could have technology help 'em out with that.
+
+15:43.680 --> 15:45.060
+So we saw it soar, right?
+
+15:45.060 --> 15:47.550
+Also during that time, as we all know, low interest rates,
+
+15:47.550 --> 15:50.340
+so more properties were bought and sold,
+
+15:50.340 --> 15:52.140
+and when properties are bought and sold,
+
+15:52.140 --> 15:55.020
+that's a time when investment happens in that property.
+
+15:55.020 --> 15:57.150
+As the new investors, the buyer
+
+15:57.150 --> 15:58.500
+wants to drive additional revenue,
+
+15:58.500 --> 16:01.260
+wants to decrease operational expenses.
+
+16:01.260 --> 16:03.360
+And so adoption was soaring.
+
+16:03.360 --> 16:05.640
+I would say it's tempered a bit more
+
+16:05.640 --> 16:10.640
+because of the size of the market today compared to 2020.
+
+16:11.490 --> 16:15.390
+The new construction is hitting records.
+
+16:15.390 --> 16:16.497
+However, what, is it half a million,
+
+16:16.497 --> 16:19.290
+600,000 new units being built like
+
+16:19.290 --> 16:21.360
+compared to the total multifamily market
+
+16:21.360 --> 16:23.280
+of 42 million units?
+
+16:23.280 --> 16:25.020
+Like you can't match that
+
+16:25.020 --> 16:26.640
+by getting adoption up high enough
+
+16:26.640 --> 16:27.473
+in new construction.
+
+16:27.473 --> 16:29.040
+A new construction, we'll adopt it
+
+16:29.040 --> 16:33.120
+at close to the high 80s, 90% range.
+
+16:33.120 --> 16:35.700
+But those retrofits, those existing properties
+
+16:35.700 --> 16:39.690
+are really the next area of expansion that we see.
+
+16:39.690 --> 16:41.820
+<v ->Yes, and I think we've heard rumblings</v>
+
+16:41.820 --> 16:43.440
+that with this historic amount
+
+16:43.440 --> 16:44.970
+of new inventory hitting the market,
+
+16:44.970 --> 16:48.360
+I think it was like a half million in 2024
+
+16:48.360 --> 16:50.940
+and then another million expected in 2025,
+
+16:50.940 --> 16:53.760
+that is gonna change some of the competitive landscape.
+
+16:53.760 --> 16:56.130
+So a lot of companies are looking to retrofits
+
+16:56.130 --> 16:57.150
+and kind of different ways
+
+16:57.150 --> 17:00.540
+of making this make financial sense for them.
+
+17:00.540 --> 17:02.220
+<v ->Yeah, and interest rates changing, right?</v>
+
+17:02.220 --> 17:03.540
+So interest rates changing,
+
+17:03.540 --> 17:06.690
+those that got low interest rates in 2020 are gonna be,
+
+17:06.690 --> 17:08.640
+some of those are variable that are being forced out here
+
+17:08.640 --> 17:09.960
+in the next couple years.
+
+17:09.960 --> 17:12.150
+You'll have more transactionings happening
+
+17:12.150 --> 17:14.450
+that'll drive that increased adoption as well.
+
+17:17.760 --> 17:18.810
+<v ->Eric, any thoughts?</v>
+
+17:18.810 --> 17:20.910
+<v ->Yeah, I mean, so to jump off of that as well,</v>
+
+17:20.910 --> 17:23.490
+I mean, it's interesting what you say about retrofit.
+
+17:23.490 --> 17:25.320
+Kwikset Unite, which is our new electronic
+
+17:25.320 --> 17:27.840
+access control platform, was designed primarily
+
+17:27.840 --> 17:30.180
+for new construction, because Kwikset first and foremost
+
+17:30.180 --> 17:33.420
+really is a company built on its relationships,
+
+17:33.420 --> 17:35.250
+from the largest builders in the country
+
+17:35.250 --> 17:38.190
+to a lot of the kind of successful local businessmen.
+
+17:38.190 --> 17:39.210
+But what we're seeing more and more
+
+17:39.210 --> 17:40.950
+is even with interest rates coming down,
+
+17:40.950 --> 17:43.170
+housing markets in the single family are still wild.
+
+17:43.170 --> 17:45.600
+So it's one of those things of how are they able
+
+17:45.600 --> 17:49.230
+to justify rents in these multifamily units,
+
+17:49.230 --> 17:51.000
+given that there are so many out there now?
+
+17:51.000 --> 17:53.070
+So renovations are definitely increasing,
+
+17:53.070 --> 17:54.810
+and to kind of pivot as well
+
+17:54.810 --> 17:57.570
+to the overarching market and demand,
+
+17:57.570 --> 17:59.370
+one of the biggest things I say about multifamily
+
+17:59.370 --> 18:03.030
+and multifamily access control as a solution,
+
+18:03.030 --> 18:04.560
+really the differentiation point
+
+18:04.560 --> 18:08.010
+between a commercial access control system and multifamily,
+
+18:08.010 --> 18:09.000
+it's just the level of training
+
+18:09.000 --> 18:10.830
+that the users are going to have coming into it.
+
+18:10.830 --> 18:13.800
+So for us, really, the focus is on ease of use
+
+18:13.800 --> 18:15.840
+and understanding how it kind of meets the market
+
+18:15.840 --> 18:17.100
+and meets our customers,
+
+18:17.100 --> 18:18.930
+both on the property management side
+
+18:18.930 --> 18:21.570
+and as Hagan was saying, on the resident side as well
+
+18:21.570 --> 18:23.190
+and how it kind of fits into their life.
+
+18:23.190 --> 18:24.810
+So that level of training
+
+18:24.810 --> 18:25.980
+and kind of understanding
+
+18:25.980 --> 18:28.230
+where multifamily access control sits
+
+18:28.230 --> 18:31.470
+within this wider realm of commercial enterprise
+
+18:31.470 --> 18:34.050
+all the way down to multifamily is really something
+
+18:34.050 --> 18:36.000
+that we've been focusing on as well.
+
+18:36.000 --> 18:37.590
+<v ->Yes, and then kind of like you were saying,</v>
+
+18:37.590 --> 18:41.220
+like Hagan was saying, there is a lot of learning, I think,
+
+18:41.220 --> 18:42.390
+on the part of property staff
+
+18:42.390 --> 18:43.980
+and how to actually manage these things
+
+18:43.980 --> 18:45.540
+and get them to work properly.
+
+18:45.540 --> 18:46.980
+So how do you navigate that
+
+18:46.980 --> 18:49.320
+and how do you make it like dead simple for somebody
+
+18:49.320 --> 18:51.600
+who might have only had a week of training to-
+
+18:51.600 --> 18:53.580
+<v ->Yeah, there's this continued trade off</v>
+
+18:53.580 --> 18:56.549
+between all the security in the world versus ease of use.
+
+18:56.549 --> 19:00.090
+The more customization, then the more options you have.
+
+19:00.090 --> 19:02.280
+And inherently, the more security you have,
+
+19:02.280 --> 19:03.420
+the harder it is to use.
+
+19:03.420 --> 19:06.300
+So opening it up and understanding at what level
+
+19:06.300 --> 19:09.180
+within that user hierarchy do you expose functionality
+
+19:09.180 --> 19:10.590
+has really been a big focus for us,
+
+19:10.590 --> 19:12.390
+and it's something that we've really seen
+
+19:12.390 --> 19:14.610
+people struggle with as a barrier of entry
+
+19:14.610 --> 19:16.230
+within multifamily as well.
+
+19:16.230 --> 19:17.580
+<v ->And you add to that, the turnover</v>
+
+19:17.580 --> 19:18.780
+is high on property, right?
+
+19:18.780 --> 19:20.130
+So leasing staff to agents,
+
+19:20.130 --> 19:21.660
+the maintenance team members are turning over,
+
+19:21.660 --> 19:23.610
+so training becomes even more paramount.
+
+19:23.610 --> 19:27.000
+<v ->Yeah, our bread and butter is suburbanized garden style,</v>
+
+19:27.000 --> 19:28.890
+and what we'll see is within the first 10 years,
+
+19:28.890 --> 19:31.090
+that site may trade hand four or five times.
+
+19:33.840 --> 19:35.970
+<v ->So there's a lot of headwinds in this dynamic market</v>
+
+19:35.970 --> 19:37.380
+for multifamily right now.
+
+19:37.380 --> 19:40.770
+Used to underwrite this smart home technology
+
+19:40.770 --> 19:42.270
+maybe as an amenity,
+
+19:42.270 --> 19:44.310
+maybe it's a technology fee, right?
+
+19:44.310 --> 19:45.960
+For the lease, for the residents.
+
+19:46.800 --> 19:48.960
+Retention is an issue in multifamily site.
+
+19:48.960 --> 19:50.970
+Teams are churning over at a higher rate
+
+19:50.970 --> 19:53.880
+than they've seen in the last 10, 15 years.
+
+19:53.880 --> 19:57.480
+Fed rates are high, more supply in the market.
+
+19:57.480 --> 20:00.750
+So if you're an owner in a multifamily environment
+
+20:00.750 --> 20:03.330
+trying to compete, trying to be successful,
+
+20:03.330 --> 20:06.027
+it's a new paradigm as we look into 2025,
+
+20:06.027 --> 20:08.430
+and the paradigm comes full circle
+
+20:08.430 --> 20:11.490
+into how well am I operating this community
+
+20:11.490 --> 20:13.200
+from an efficiency standpoint?
+
+20:13.200 --> 20:16.020
+Am I delivering a premium resident experience?
+
+20:16.020 --> 20:20.823
+Am I being efficient on the tackling and blocking on site?
+
+20:22.320 --> 20:24.120
+Sort of the natural conclusion
+
+20:24.120 --> 20:26.070
+of this thought process isn't,
+
+20:26.070 --> 20:27.630
+is it Matter or Z-Wave,
+
+20:27.630 --> 20:30.840
+or these standards that all of us talk about
+
+20:30.840 --> 20:31.960
+from a smart home perspective.
+
+20:31.960 --> 20:35.490
+It's more about the magic of what is this technology
+
+20:35.490 --> 20:38.190
+delivering to me from an enablement standpoint?
+
+20:38.190 --> 20:40.530
+Is it working well in my ecosystem
+
+20:40.530 --> 20:42.060
+of my business stack as an owner.
+
+20:42.060 --> 20:46.260
+I may be working with 15 different vendors at this property.
+
+20:46.260 --> 20:48.690
+How seamless does this access control?
+
+20:48.690 --> 20:52.560
+Does this security, does this in-home IoT
+
+20:52.560 --> 20:56.460
+allow me to sort of leverage as a differentiation point?
+
+20:56.460 --> 20:59.130
+It has become an expectation for residents, I think,
+
+20:59.130 --> 21:02.190
+to have these type of technologies onsite,
+
+21:02.190 --> 21:03.660
+but it's also becoming an expectation
+
+21:03.660 --> 21:06.420
+for the onsite staff as well.
+
+21:06.420 --> 21:08.970
+Why go to the key track when I can use my phone?
+
+21:08.970 --> 21:11.400
+If I can save one to two minutes,
+
+21:11.400 --> 21:12.660
+you know what this industry really needs
+
+21:12.660 --> 21:14.940
+is scalability in their solutions.
+
+21:14.940 --> 21:17.040
+If I save the one to two minutes, that one work order,
+
+21:17.040 --> 21:19.260
+I can do that across a hundred thousand units
+
+21:19.260 --> 21:21.000
+and a million work orders.
+
+21:21.000 --> 21:23.173
+That's where this technology's gonna be
+
+21:23.173 --> 21:24.330
+transformational in 2025.
+
+21:24.330 --> 21:27.060
+<v ->I think, Braeden, you've raised a very interesting point.</v>
+
+21:27.060 --> 21:30.630
+So how are these companies measuring the effectiveness
+
+21:30.630 --> 21:32.310
+of these solutions and kind of what is driving
+
+21:32.310 --> 21:33.143
+the interest there?
+
+21:33.143 --> 21:34.800
+So you mentioned kinda with access control,
+
+21:34.800 --> 21:36.960
+looking at kind of reducing the time it takes
+
+21:36.960 --> 21:39.027
+to get work orders, and of course there's benefits there
+
+21:39.027 --> 21:42.780
+and not have to have maintenance go pickup keys.
+
+21:42.780 --> 21:43.950
+<v ->Absolutely.</v>
+
+21:43.950 --> 21:46.830
+The level of detail this industry pays
+
+21:46.830 --> 21:50.070
+to the most minute operational things on site
+
+21:50.070 --> 21:52.140
+is honestly impressive.
+
+21:52.140 --> 21:53.790
+We have customers of ours
+
+21:53.790 --> 21:55.620
+that look at their entire field structure
+
+21:55.620 --> 21:58.410
+and they will be tracking the time it takes for you
+
+21:58.410 --> 22:00.783
+just to re-key a lock on move out.
+
+22:01.770 --> 22:04.620
+That one task, they're tracking that across
+
+22:04.620 --> 22:07.350
+potentially 120,000 apartment homes.
+
+22:07.350 --> 22:08.700
+Why do they track that?
+
+22:08.700 --> 22:11.580
+Well, again, it comes back to this position they're in
+
+22:11.580 --> 22:13.890
+trying to compete in a local market
+
+22:13.890 --> 22:16.350
+where maybe there's brand new supply,
+
+22:16.350 --> 22:17.820
+they can't raise their rents.
+
+22:17.820 --> 22:20.730
+And so the way they're looking at the underwriting
+
+22:20.730 --> 22:23.520
+and the performance of the smart technology
+
+22:23.520 --> 22:26.430
+boils down to NOI, it boils down to OPEX,
+
+22:26.430 --> 22:28.320
+and it's gonna come back to how much time
+
+22:28.320 --> 22:31.230
+and efficiency are we creating through these programs.
+
+22:31.230 --> 22:32.520
+And that's not just on the back
+
+22:32.520 --> 22:33.720
+of house maintenance side of things.
+
+22:33.720 --> 22:36.540
+You're gonna see that in leasing as well.
+
+22:36.540 --> 22:38.430
+How fast can we get from where we're at
+
+22:38.430 --> 22:41.760
+to that prospect and that prospect go around that community,
+
+22:41.760 --> 22:44.220
+engage with us, ask us questions efficiently?
+
+22:44.220 --> 22:47.190
+These are little metrics that they're gonna be exposing
+
+22:47.190 --> 22:49.860
+not just at a property level, but at a regional level.
+
+22:49.860 --> 22:51.060
+And they're gonna be looking back
+
+22:51.060 --> 22:53.827
+at the technology partners of theirs to say,
+
+22:53.827 --> 22:55.650
+"Okay, are you doing what you need to do
+
+22:55.650 --> 22:58.590
+to pass me the right data from one partner to another,
+
+22:58.590 --> 23:01.860
+so that way, we can look at this information and assess,
+
+23:01.860 --> 23:04.860
+do we have the right investment thesis with you
+
+23:04.860 --> 23:08.400
+from one property to potentially the entire portfolio?"
+
+23:08.400 --> 23:09.990
+<v ->Yes, and from what we've been hearing,</v>
+
+23:09.990 --> 23:12.870
+they do like to run these pilot projects,
+
+23:12.870 --> 23:15.217
+so really measuring as much data as they can and say,
+
+23:15.217 --> 23:16.980
+"Okay, does it make financial sense for me
+
+23:16.980 --> 23:18.810
+to take this solution and roll it out
+
+23:18.810 --> 23:20.880
+maybe across my whole portfolio?"
+
+23:20.880 --> 23:21.713
+<v ->Absolutely.</v>
+
+23:21.713 --> 23:25.560
+I think the barrier to entry for technologies
+
+23:25.560 --> 23:27.900
+to sort of get adoption in multifamily
+
+23:27.900 --> 23:29.700
+is gonna continue to increase.
+
+23:29.700 --> 23:32.520
+The scrutiny that you have in the first one
+
+23:32.520 --> 23:35.160
+to two to three properties is gonna be higher
+
+23:35.160 --> 23:37.560
+because they're trying to sort of
+
+23:37.560 --> 23:38.760
+put you in different environments.
+
+23:38.760 --> 23:41.310
+You're gonna be maybe at a mid-rise,
+
+23:41.310 --> 23:43.020
+looking at different problem statements there,
+
+23:43.020 --> 23:44.970
+and they're gonna expose you to that garden style
+
+23:44.970 --> 23:47.040
+in completely different part of the country.
+
+23:47.040 --> 23:48.270
+They're gonna expose you to the high rise.
+
+23:48.270 --> 23:49.410
+And the reason why they wanna do that
+
+23:49.410 --> 23:51.840
+is to see the versatility of your solution,
+
+23:51.840 --> 23:53.670
+how you work from an integration standpoint
+
+23:53.670 --> 23:56.880
+with your partners, how well you can go and meet the needs,
+
+23:56.880 --> 23:59.910
+the go-to market perspective of what's happening on site
+
+23:59.910 --> 24:01.920
+with their residents and their site teams.
+
+24:01.920 --> 24:05.130
+And if they can model that well in a small echo chamber
+
+24:05.130 --> 24:08.100
+and it takes them perhaps three, maybe four quarters,
+
+24:08.100 --> 24:10.740
+I mean, this is a little bit of a lengthy process.
+
+24:10.740 --> 24:12.360
+Once they can feel confident
+
+24:12.360 --> 24:15.090
+that this is a scalable solution,
+
+24:15.090 --> 24:16.470
+then the turnkey happens,
+
+24:16.470 --> 24:18.390
+and now there may be an underwriting decision
+
+24:18.390 --> 24:19.567
+at the corporate level to say,
+
+24:19.567 --> 24:22.260
+"Let's bring this at a broader adoption point."
+
+24:22.260 --> 24:24.300
+<v ->That's a great point because this is the first time</v>
+
+24:24.300 --> 24:25.620
+that most of these clients
+
+24:25.620 --> 24:27.510
+are adopting this kind of technology, right?
+
+24:27.510 --> 24:29.730
+And to your point, they measure everything
+
+24:29.730 --> 24:31.230
+to the minute detail.
+
+24:31.230 --> 24:33.210
+And so if it's something that they've done in the past,
+
+24:33.210 --> 24:35.160
+they've got processes at the wazoo
+
+24:35.160 --> 24:36.300
+that they're gonna follow.
+
+24:36.300 --> 24:38.010
+They know exactly what play to run
+
+24:38.010 --> 24:39.690
+and how to run it and who to run it with.
+
+24:39.690 --> 24:41.130
+With this, it's brand new.
+
+24:41.130 --> 24:42.480
+It's something that they haven't used before.
+
+24:42.480 --> 24:44.520
+So you see that through the sales process,
+
+24:44.520 --> 24:45.510
+through the install process,
+
+24:45.510 --> 24:47.610
+through the account management process,
+
+24:47.610 --> 24:50.160
+that there's so many different departments involved,
+
+24:50.160 --> 24:53.550
+whether it's HR, IT, operations, sales
+
+24:53.550 --> 24:55.620
+from your client that I think it's up to the integrators
+
+24:55.620 --> 24:57.870
+to help provide a lot of this as well, right?
+
+24:57.870 --> 24:59.250
+Help providing the data that they need
+
+24:59.250 --> 25:01.320
+to make decisions for future properties.
+
+25:01.320 --> 25:03.210
+<v ->Being able to get it right from the beginning</v>
+
+25:03.210 --> 25:04.410
+has been really essential for us.
+
+25:04.410 --> 25:05.310
+One of the things that we've seen
+
+25:05.310 --> 25:06.600
+is most of our customer base
+
+25:06.600 --> 25:08.340
+is coming from mechanical mindset.
+
+25:08.340 --> 25:10.500
+So once they make that switch,
+
+25:10.500 --> 25:12.240
+if they don't get it right in the first few months,
+
+25:12.240 --> 25:14.010
+they're just gonna go back to mechanical.
+
+25:14.010 --> 25:15.060
+They don't wanna roll trucks,
+
+25:15.060 --> 25:16.230
+they don't wanna pay for keying,
+
+25:16.230 --> 25:19.320
+but they also have to be comfortable right off the bat.
+
+25:19.320 --> 25:21.330
+And to your point, scalability is one of the biggest things
+
+25:21.330 --> 25:22.590
+that we've been seeing as well.
+
+25:22.590 --> 25:25.140
+I mean, relatively basic on the garden style,
+
+25:25.140 --> 25:27.150
+but as you scale up, the costs scale up,
+
+25:27.150 --> 25:28.230
+the complexity scales up,
+
+25:28.230 --> 25:30.480
+and that's something you need to meet for as well.
+
+25:30.480 --> 25:32.550
+<v ->And Greg, what are you seeing at Johnson Controls</v>
+
+25:32.550 --> 25:33.540
+in terms of kind of how
+
+25:33.540 --> 25:35.400
+people are evaluating these solutions
+
+25:35.400 --> 25:36.950
+and what they're interested in?
+
+25:37.890 --> 25:39.660
+<v ->You're saying automating solutions?</v>
+
+25:39.660 --> 25:41.370
+<v ->How are they evaluating?</v>
+
+25:41.370 --> 25:43.320
+<v ->Oh, the value add, for sure.</v>
+
+25:43.320 --> 25:46.500
+Well, certainly, I think the perceived value
+
+25:46.500 --> 25:49.590
+of having a secured home and then extending that out
+
+25:49.590 --> 25:51.900
+into automated services
+
+25:51.900 --> 25:54.750
+and being able to do that within a common ecosystem
+
+25:54.750 --> 25:56.430
+and having a great selection to do that
+
+25:56.430 --> 25:58.620
+from a partnering standpoint,
+
+25:58.620 --> 26:02.640
+that, to us, is a very obvious immediate adjacent market.
+
+26:02.640 --> 26:04.500
+They already have confidence in the brand,
+
+26:04.500 --> 26:09.500
+they have confidence in the viability of the solution
+
+26:10.410 --> 26:12.840
+and the market segments that we cover.
+
+26:12.840 --> 26:17.840
+So for us adding locks, adding some of the other features
+
+26:18.060 --> 26:20.550
+are an extension of that.
+
+26:20.550 --> 26:22.260
+We consider that more automation
+
+26:22.260 --> 26:27.260
+so that you can control more of the climate and other items.
+
+26:27.840 --> 26:31.410
+Beyond that, perimeter security's big.
+
+26:31.410 --> 26:33.330
+Access control out at the perimeter.
+
+26:33.330 --> 26:38.220
+So we have a specialized technology that can address that.
+
+26:38.220 --> 26:41.760
+And again, being a multinational brand
+
+26:41.760 --> 26:45.580
+that can provide that for us has been
+
+26:46.980 --> 26:50.550
+probably one of the more attractive elements
+
+26:50.550 --> 26:52.650
+that we have in these conversations
+
+26:52.650 --> 26:55.263
+in terms of delivering value as a manufacturer.
+
+26:56.100 --> 26:57.630
+<v ->Yes, and I think we've been hearing</v>
+
+26:57.630 --> 26:59.640
+a ton of demand for access control,
+
+26:59.640 --> 27:02.850
+and access control oftentimes is the tip of the sphere
+
+27:02.850 --> 27:05.943
+for kind of a more widespread deployment of technologies.
+
+27:07.080 --> 27:09.990
+So Hagan, so we've been talking a little bit about
+
+27:09.990 --> 27:12.660
+kind of what companies are looking for
+
+27:12.660 --> 27:14.010
+when it comes to deploying solutions,
+
+27:14.010 --> 27:15.960
+but when it comes to like actually deploying them,
+
+27:15.960 --> 27:17.790
+so rolling them out, what are some things
+
+27:17.790 --> 27:19.410
+that kind of companies should keep in mind
+
+27:19.410 --> 27:21.180
+and kinda product makers should think about
+
+27:21.180 --> 27:22.743
+when designing the solutions?
+
+27:24.810 --> 27:29.430
+<v ->Yeah, I think it's just about meeting the needs</v>
+
+27:29.430 --> 27:31.320
+of that end consumer.
+
+27:31.320 --> 27:34.260
+I don't think that we should necessarily
+
+27:34.260 --> 27:37.023
+dumb down the solutions necessarily.
+
+27:38.190 --> 27:40.530
+What we advise property managers,
+
+27:40.530 --> 27:43.950
+or if we're developing a new build,
+
+27:43.950 --> 27:47.130
+is just to think about simplifying
+
+27:47.130 --> 27:52.130
+or working on boiler plate, kind of standard templates,
+
+27:52.200 --> 27:54.720
+and then we can work with the resident.
+
+27:54.720 --> 27:56.610
+And for us, it's a gift.
+
+27:56.610 --> 28:00.690
+So we can have residents who we can partner with
+
+28:00.690 --> 28:03.450
+to develop customized solutions.
+
+28:03.450 --> 28:07.260
+And so that way, we can develop wire,
+
+28:07.260 --> 28:09.420
+partner with OEMs to make sure
+
+28:09.420 --> 28:13.200
+that there is a whole integrated solution
+
+28:13.200 --> 28:17.700
+that's going to work really well for the property manager.
+
+28:17.700 --> 28:21.120
+And then just because of we're a national brand
+
+28:21.120 --> 28:26.120
+and because we have the backing of our brand behind Daisy,
+
+28:26.700 --> 28:29.040
+they know that they can count on us
+
+28:29.040 --> 28:32.610
+to be there for not just the lifetime of the build project,
+
+28:32.610 --> 28:35.370
+but the lifetime of each resident
+
+28:35.370 --> 28:40.143
+and the residents that come after, as there's turnover.
+
+28:41.400 --> 28:44.820
+Our company actually loves truck rolls,
+
+28:44.820 --> 28:47.580
+so we're very different, I think,
+
+28:47.580 --> 28:52.580
+from how probably companies before us in home services
+
+28:54.900 --> 28:59.520
+and also in some of the supply chain side
+
+28:59.520 --> 29:00.660
+or manufacturer side
+
+29:00.660 --> 29:03.210
+has probably thought about this industry.
+
+29:03.210 --> 29:06.930
+And so if you think about multifamily, even better.
+
+29:06.930 --> 29:09.390
+So we're building out route density,
+
+29:09.390 --> 29:10.770
+we're building out density
+
+29:10.770 --> 29:12.660
+as we build out this brand nationally.
+
+29:12.660 --> 29:14.820
+So in the single family side,
+
+29:14.820 --> 29:16.530
+we can go from home to home to home
+
+29:16.530 --> 29:19.200
+and do kind of a 30-minute system checkup.
+
+29:19.200 --> 29:20.340
+We do this for free.
+
+29:20.340 --> 29:23.460
+It's 30 minutes just to checkup and see,
+
+29:23.460 --> 29:25.350
+how is your system performing?
+
+29:25.350 --> 29:28.260
+And from there, there may be a service call,
+
+29:28.260 --> 29:30.540
+there just may be a broken remote control,
+
+29:30.540 --> 29:32.460
+babies step on remote controls,
+
+29:32.460 --> 29:35.010
+and those need to be troubleshooted,
+
+29:35.010 --> 29:38.280
+but there also could be some speakers
+
+29:38.280 --> 29:41.493
+that you need to be installed by a putting green.
+
+29:42.510 --> 29:45.153
+Don't we all have those challenges in life?
+
+29:46.050 --> 29:47.850
+So that happens as well.
+
+29:47.850 --> 29:50.940
+Well, as we look at the multifamily space,
+
+29:50.940 --> 29:54.540
+talk about density, we park a truck,
+
+29:54.540 --> 29:58.710
+we can certainly work on servicing a whole building
+
+29:58.710 --> 30:03.710
+and help our OEMs and improve kind of the NPS scores
+
+30:05.370 --> 30:10.140
+and kind of the satisfaction and the brand awareness
+
+30:10.140 --> 30:13.650
+and make sure that there's good quality
+
+30:13.650 --> 30:16.740
+just from the fact that they're maintained over time.
+
+30:16.740 --> 30:20.310
+We can also ensure that customers
+
+30:20.310 --> 30:22.980
+have good knowledge and education
+
+30:22.980 --> 30:25.680
+over the time of the lifetime of those brands.
+
+30:25.680 --> 30:28.720
+So those are some of the trends that we're seeing
+
+30:30.551 --> 30:33.483
+from residents and also from property managers.
+
+30:36.660 --> 30:38.040
+<v ->Right, and then Eric,</v>
+
+30:38.040 --> 30:40.470
+I'm gonna pick on you a little bit more.
+
+30:40.470 --> 30:43.350
+So you were mentioning, I think the way Kwikset
+
+30:43.350 --> 30:44.850
+was looking at kind of retrofitting
+
+30:44.850 --> 30:48.210
+and deploying its smart locks into different properties,
+
+30:48.210 --> 30:51.450
+so making sure that they would work even without wifi.
+
+30:51.450 --> 30:53.040
+We've been hearing from a lot of properties
+
+30:53.040 --> 30:55.080
+that wifi has been a big challenge
+
+30:55.080 --> 30:56.010
+when it comes to retrofitting
+
+30:56.010 --> 30:58.350
+just because it can be very costly
+
+30:58.350 --> 30:59.580
+to build out those networks
+
+30:59.580 --> 31:02.460
+depending on how the property was constructed.
+
+31:02.460 --> 31:04.830
+<v ->Yeah, it's been interesting as we've gone out,</v>
+
+31:04.830 --> 31:08.370
+and with ASSA ABLOY, we have the advantage of having
+
+31:08.370 --> 31:10.890
+a pretty thorough spec writing team
+
+31:10.890 --> 31:13.710
+in addition to what we have with our sales team at Kwikset.
+
+31:13.710 --> 31:15.720
+As we've gone out and we've interacted with customers,
+
+31:15.720 --> 31:19.620
+kind of understanding what their needs are from the offset,
+
+31:19.620 --> 31:22.170
+if you're coming into a retrofit situation, it's challenging
+
+31:22.170 --> 31:25.200
+because the networks are there, the infrastructure's there,
+
+31:25.200 --> 31:26.580
+and convincing people to upgrade
+
+31:26.580 --> 31:28.470
+that can be quite challenging.
+
+31:28.470 --> 31:31.380
+Our solution is offline-based, so we are able to have
+
+31:31.380 --> 31:34.200
+a cloud based infrastructure that passes data through
+
+31:34.200 --> 31:35.430
+from the phone down to the lock,
+
+31:35.430 --> 31:37.680
+and the lock is independent of the network.
+
+31:37.680 --> 31:39.720
+But what we're seeing in a lot of new construction
+
+31:39.720 --> 31:42.810
+is this demand for these full service,
+
+31:42.810 --> 31:46.650
+the SmartRents, the ADTs, these recurring revenue services
+
+31:46.650 --> 31:49.020
+that offer this value that justifies that.
+
+31:49.020 --> 31:51.510
+And being able for us to integrate with them
+
+31:51.510 --> 31:53.130
+has been very helpful for us.
+
+31:53.130 --> 31:55.560
+But understanding and kind of communicating
+
+31:55.560 --> 31:58.500
+to the sites that, depending on the network
+
+31:58.500 --> 32:01.710
+connectivity you need, some of the expectations
+
+32:01.710 --> 32:03.330
+that you have for what you're gonna deliver
+
+32:03.330 --> 32:04.560
+may not be realistic.
+
+32:04.560 --> 32:07.230
+So understanding that for the suburbanized garden style
+
+32:07.230 --> 32:08.820
+that we really compete in,
+
+32:08.820 --> 32:10.440
+do you really want a router on every floor?
+
+32:10.440 --> 32:11.460
+Are you really gonna pay for this
+
+32:11.460 --> 32:13.170
+when your rents may not offset it,
+
+32:13.170 --> 32:14.340
+versus a mixed use
+
+32:14.340 --> 32:16.830
+or a mid-rise where you really can have that?
+
+32:16.830 --> 32:18.750
+It's all education and working with the customers
+
+32:18.750 --> 32:22.200
+and understanding really what their needs are as well.
+
+32:22.200 --> 32:23.460
+<v ->Yeah, so those needs, yeah,</v>
+
+32:23.460 --> 32:25.440
+as you're saying, can be different depending on
+
+32:25.440 --> 32:27.510
+certainly the building type, how old the building is,
+
+32:27.510 --> 32:30.543
+what it's made of, all those factor in.
+
+32:32.340 --> 32:35.514
+<v ->Also, what problems are they trying to solve?</v>
+
+32:35.514 --> 32:39.480
+What is their overall goal in the experience
+
+32:39.480 --> 32:40.590
+and the brand they're trying to have
+
+32:40.590 --> 32:41.670
+to their residents on site.
+
+32:41.670 --> 32:44.370
+And I think that's where you have to absolutely just meet
+
+32:44.370 --> 32:47.250
+that customer where they're at that community.
+
+32:47.250 --> 32:49.290
+It's community by community.
+
+32:49.290 --> 32:51.120
+And when you think about it in those terms,
+
+32:51.120 --> 32:53.370
+what you ultimately want to create is just optionality.
+
+32:53.370 --> 32:54.750
+You wanna be flexible.
+
+32:54.750 --> 32:57.480
+Perhaps at a certain community, you will be using wifi.
+
+32:57.480 --> 32:59.670
+If that's there, that's a goal they have,
+
+32:59.670 --> 33:01.860
+but perhaps you'll be using different technology
+
+33:01.860 --> 33:04.290
+that rolls back on cell or Bluetooth.
+
+33:04.290 --> 33:06.390
+The point is to have versatility.
+
+33:06.390 --> 33:07.890
+And when you're thinking about deployment
+
+33:07.890 --> 33:09.840
+into this multifamily environment,
+
+33:09.840 --> 33:11.520
+if you have that versatility,
+
+33:11.520 --> 33:13.440
+then it comes down to what's the experience
+
+33:13.440 --> 33:15.930
+ultimately to the end user.
+
+33:15.930 --> 33:17.670
+And that's where, at the end of the day,
+
+33:17.670 --> 33:20.700
+all of this technology is just an enabler
+
+33:20.700 --> 33:24.090
+to the software experiences you create for the resident,
+
+33:24.090 --> 33:25.440
+for the site team.
+
+33:25.440 --> 33:28.020
+You can have a white glove around how you train them,
+
+33:28.020 --> 33:30.270
+how you set certain expectations,
+
+33:30.270 --> 33:31.710
+but you never want to be in a position
+
+33:31.710 --> 33:33.540
+where to solve a problem,
+
+33:33.540 --> 33:36.180
+you have to now spear horn into this conversation
+
+33:36.180 --> 33:38.970
+a 'let's go and run' in a really expensive circuit
+
+33:38.970 --> 33:41.910
+to your community because it has to be wifi.
+
+33:41.910 --> 33:43.770
+Well, it doesn't have to be that.
+
+33:43.770 --> 33:46.980
+If their problem was I just wanna deliver
+
+33:46.980 --> 33:48.870
+a moving experience so my residents
+
+33:48.870 --> 33:52.140
+can have smart thermostats, have versatility
+
+33:52.140 --> 33:53.490
+and meet them where they're at.
+
+33:53.490 --> 33:54.810
+<v ->It's like you've talked about,</v>
+
+33:54.810 --> 33:56.970
+the customer base out there is not asking
+
+33:56.970 --> 33:58.890
+for specific technologies most of the time.
+
+33:58.890 --> 34:00.570
+It's what they're able to enable.
+
+34:00.570 --> 34:02.970
+And what you were talking about, Hagan, as well,
+
+34:02.970 --> 34:05.580
+that demand pole generation from the resident base,
+
+34:05.580 --> 34:07.050
+we get a lot of the inverse at Kwikset
+
+34:07.050 --> 34:09.360
+where our property management and our system integrators
+
+34:09.360 --> 34:11.430
+kind of tell us what they need for the residents.
+
+34:11.430 --> 34:13.080
+It's one of the unique things with multifamily
+
+34:13.080 --> 34:14.520
+that just has to be planned for.
+
+34:14.520 --> 34:17.130
+You have this dynamic customer client model
+
+34:17.130 --> 34:19.440
+where the people who are using it every day may
+
+34:19.440 --> 34:20.610
+not be the people who are buying it.
+
+34:20.610 --> 34:22.800
+I mean, the purchasing decision for multifamily
+
+34:22.800 --> 34:24.120
+is not on the residents.
+
+34:24.120 --> 34:26.310
+And even though the residents are using it every day,
+
+34:26.310 --> 34:28.020
+they're not the ones that are paying for it.
+
+34:28.020 --> 34:30.570
+So being able to meet both sides of that market
+
+34:30.570 --> 34:32.640
+with a single solution, it's inherently challenged,
+
+34:32.640 --> 34:35.130
+but it's the thing we're all kind of going around here.
+
+34:35.130 --> 34:35.963
+<v ->Yeah, and I think you notice</v>
+
+34:35.963 --> 34:38.370
+that we've all kind of talked about in some way
+
+34:38.370 --> 34:41.070
+a multi customer that we're approaching, right?
+
+34:41.070 --> 34:43.800
+Whether it's the resident, the property staff, the owner,
+
+34:43.800 --> 34:45.570
+there's one that we've kind of left off the list,
+
+34:45.570 --> 34:48.210
+I feel like, which is the technician.
+
+34:48.210 --> 34:49.980
+And so for those that are designing products,
+
+34:49.980 --> 34:52.050
+like this needs to be a fast install, right?
+
+34:52.050 --> 34:54.900
+This can't be something that you're on site in a unit
+
+34:54.900 --> 34:57.600
+for eight hours trying to learn in a device
+
+34:57.600 --> 35:00.870
+or program a hub, like the expense of doing this
+
+35:00.870 --> 35:03.000
+for both the property and the integrator,
+
+35:03.000 --> 35:06.390
+they need to be able to turn over units rather quickly.
+
+35:06.390 --> 35:09.030
+And so be able to create that experience for the technician
+
+35:09.030 --> 35:10.170
+to be able to install quickly,
+
+35:10.170 --> 35:12.270
+move on to the next unit is very important.
+
+35:12.270 --> 35:14.970
+<v ->Yeah, that's where that kind of boilerplate,</v>
+
+35:14.970 --> 35:17.010
+having kind of the basic template
+
+35:17.010 --> 35:19.950
+for every unit would really work well.
+
+35:19.950 --> 35:23.190
+And then I'm just thinking of one example
+
+35:23.190 --> 35:24.690
+just out of my hat.
+
+35:24.690 --> 35:26.880
+Like Daisy, for example, could come in
+
+35:26.880 --> 35:28.828
+and then customize.
+<v ->I've heard of Daisy.</v>
+
+35:28.828 --> 35:31.261
+<v ->Well. (laughs)</v>
+
+35:31.261 --> 35:33.510
+<v ->Yeah, so we have one question left</v>
+
+35:33.510 --> 35:34.680
+in just a couple of minutes.
+
+35:34.680 --> 35:37.320
+Maybe we could do kinda like Daniel did in our last session,
+
+35:37.320 --> 35:39.180
+just a lightning round.
+
+35:39.180 --> 35:43.050
+So what do you think is on the roadmap for 2025?
+
+35:43.050 --> 35:44.490
+What are you most excited about?
+
+35:44.490 --> 35:46.260
+And maybe two sentences each.
+
+35:46.260 --> 35:48.090
+Hagan, if you can kick us off again.
+
+35:48.090 --> 35:49.980
+<v ->Oh, I'm really excited.</v>
+
+35:49.980 --> 35:54.240
+I think I've already talked about services,
+
+35:54.240 --> 35:58.080
+and so kind of being there for the customer,
+
+35:58.080 --> 36:03.060
+helping kind of the OEMs out in terms of brand
+
+36:03.060 --> 36:05.640
+and ensuring that we're there for customers
+
+36:05.640 --> 36:10.290
+when they need us and having that ongoing services.
+
+36:10.290 --> 36:12.180
+And whether they're a multi-family resident,
+
+36:12.180 --> 36:14.430
+I think most of the innovation
+
+36:14.430 --> 36:16.260
+is actually probably coming from residents
+
+36:16.260 --> 36:17.880
+of these multifamily businesses.
+
+36:17.880 --> 36:22.110
+So listening them and going back to manufacturers
+
+36:22.110 --> 36:25.773
+and saying, "Hey, we've got some pretty cool ideas here."
+
+36:25.773 --> 36:27.723
+I'm really excited about that.
+
+36:28.860 --> 36:32.370
+<v ->Yeah, I think for us, it's gonna be a very exciting year,</v>
+
+36:32.370 --> 36:34.270
+and I'll try to keep this super brief.
+
+36:38.250 --> 36:39.570
+It's kind of our mainstream panel.
+
+36:39.570 --> 36:44.280
+We have restyled, if you will, for the multifamily market.
+
+36:44.280 --> 36:47.040
+We're coming out with a brand new line of automation
+
+36:47.040 --> 36:49.500
+to allow additional lighting control
+
+36:49.500 --> 36:51.300
+and several other things.
+
+36:51.300 --> 36:54.420
+So we've got a portfolio that's been under development
+
+36:54.420 --> 36:55.890
+that's begun deploying,
+
+36:55.890 --> 36:58.800
+and we're super excited about that.
+
+36:58.800 --> 37:02.730
+And we're talking about protocols and everything else.
+
+37:02.730 --> 37:04.590
+This thing is a rock concert of radios.
+
+37:04.590 --> 37:06.420
+It is dual path connected to the cloud.
+
+37:06.420 --> 37:10.140
+I could go on and on and on, but that's it.
+
+37:10.140 --> 37:13.200
+Now, the other thing and kind of the compliment to it
+
+37:13.200 --> 37:15.810
+is the customer experience.
+
+37:15.810 --> 37:18.960
+And I was gonna piggyback onto John's comment a moment ago,
+
+37:18.960 --> 37:20.970
+but the technician, the person that's installing
+
+37:20.970 --> 37:23.760
+and servicing the CX
+
+37:23.760 --> 37:27.720
+that they experienced for a fast install,
+
+37:27.720 --> 37:29.940
+and there were some very unique challenges
+
+37:29.940 --> 37:31.890
+in the multifamily space,
+
+37:31.890 --> 37:34.080
+with mesh devices and everything else.
+
+37:34.080 --> 37:37.770
+We've poured a lot of effort into that to make it
+
+37:37.770 --> 37:41.430
+very, very cool and very fast
+
+37:41.430 --> 37:42.840
+to keep that operating cost low.
+
+37:42.840 --> 37:45.003
+So just plenty.
+
+37:45.990 --> 37:49.620
+Hopefully, we'll be able to connect with folks at the,
+
+37:49.620 --> 37:52.530
+everybody's gonna be coming to the happy hour later,
+
+37:52.530 --> 37:53.730
+but we could go on.
+
+37:53.730 --> 37:55.230
+I'll leave it at that, yeah.
+
+37:55.230 --> 37:56.063
+It's good to hear.
+
+37:56.063 --> 37:57.090
+<v ->So is the happy hour the thing</v>
+
+37:57.090 --> 37:59.520
+you're looking forward to most in 2025?
+
+37:59.520 --> 38:00.993
+<v ->Certainly, yeah.</v>
+
+38:02.160 --> 38:03.780
+Every journey begins with one step,
+
+38:03.780 --> 38:06.693
+and that step begins at about, what, 6:00 PM tonight.
+
+38:09.540 --> 38:13.230
+<v ->Look, macroeconomically, I'm just excited for the market,</v>
+
+38:13.230 --> 38:15.240
+going back to kind of the way it was in the past
+
+38:15.240 --> 38:18.660
+with interest from just transactions overall increasing.
+
+38:18.660 --> 38:20.313
+From an ADT standpoint,
+
+38:21.570 --> 38:25.140
+we're relaunching our own multifamily platform.
+
+38:25.140 --> 38:28.530
+It's dedicated directly to multifamily users.
+
+38:28.530 --> 38:31.230
+And so it's not just the traditional ADT product
+
+38:31.230 --> 38:34.080
+with a paint of multifamily slab on it.
+
+38:34.080 --> 38:36.000
+It's built for this client base
+
+38:36.000 --> 38:37.590
+that we've been discussing today.
+
+38:37.590 --> 38:39.870
+And it includes a level of mobile security.
+
+38:39.870 --> 38:41.820
+So it's a security that can go with you
+
+38:41.820 --> 38:44.490
+if you're a leasing agent or if you're a resident,
+
+38:44.490 --> 38:46.500
+and you have an SOS button that'll connect you
+
+38:46.500 --> 38:48.930
+to an ADT monitoring agent.
+
+38:48.930 --> 38:51.660
+So it's a stability for us to connect
+
+38:51.660 --> 38:54.720
+and protect folks wherever they are, not just on site,
+
+38:54.720 --> 38:57.120
+and build that sense of community for that resident
+
+38:57.120 --> 38:58.530
+through that service that we provide.
+
+38:58.530 --> 39:01.200
+So shout out to Ashley Etwine who runs our product
+
+39:01.200 --> 39:03.450
+and engineering team for all that good stuff.
+
+39:04.290 --> 39:06.690
+<v ->Yeah, and selfishly from our side,</v>
+
+39:06.690 --> 39:08.880
+I mean, Kwikset's a lock company, right?
+
+39:08.880 --> 39:12.090
+But our Kwikset Unite portfolio, we developed this
+
+39:12.090 --> 39:15.120
+with a very thorough software and cloud ecosystem
+
+39:15.120 --> 39:17.520
+that we only expose a little bit of it.
+
+39:17.520 --> 39:21.450
+So as we come into '25, understanding from the market
+
+39:21.450 --> 39:23.340
+what they're actually looking for with regards
+
+39:23.340 --> 39:24.900
+to that trade off between
+
+39:24.900 --> 39:27.330
+that customization versus that ease of use,
+
+39:27.330 --> 39:28.650
+we think we have it right right now,
+
+39:28.650 --> 39:33.650
+but opening that up, particularly from a more macro sense,
+
+39:33.690 --> 39:35.640
+we are seeing many, many more renovations
+
+39:35.640 --> 39:36.660
+than we thought we would.
+
+39:36.660 --> 39:38.700
+And I think that's really gonna influence
+
+39:38.700 --> 39:41.970
+where the feature set goes and kind of what track we follow.
+
+39:41.970 --> 39:43.380
+So understanding where that goes,
+
+39:43.380 --> 39:46.080
+and as you're saying, kind of some leveling out
+
+39:46.080 --> 39:47.400
+of some of the interest rates as well too,
+
+39:47.400 --> 39:49.200
+that construction is gonna be picking up again
+
+39:49.200 --> 39:50.040
+in the next couple years.
+
+39:50.040 --> 39:51.810
+So just excited to see where that goes
+
+39:51.810 --> 39:54.693
+and kind of continue to build upon that for Kwikset.
+
+39:56.070 --> 39:58.890
+<v ->Well, as we turn the corner in 2025,</v>
+
+39:58.890 --> 40:01.980
+from a SmartRent perspective, for many of our customers,
+
+40:01.980 --> 40:04.350
+this is no longer a novelty and amenity.
+
+40:04.350 --> 40:07.290
+This is becoming infrastructure at the community.
+
+40:07.290 --> 40:08.670
+What I'm really looking forward to seeing,
+
+40:08.670 --> 40:11.280
+I mean, among many other things, is just the stories
+
+40:11.280 --> 40:13.530
+that we can tell and the insights that we can share,
+
+40:13.530 --> 40:16.830
+namely around energy and sustainability.
+
+40:16.830 --> 40:18.690
+There's so many of these customers of ours
+
+40:18.690 --> 40:21.240
+that have their reports around this topic be,
+
+40:21.240 --> 40:23.280
+how many trees do we plant this year?
+
+40:23.280 --> 40:24.840
+But the underlying value,
+
+40:24.840 --> 40:27.480
+what the SmartRent technology can deliver is insight
+
+40:27.480 --> 40:29.730
+into that perspective of what is happening around
+
+40:29.730 --> 40:32.580
+energy behavior and usage in this community
+
+40:32.580 --> 40:34.650
+across the units and how can we make sure
+
+40:34.650 --> 40:37.713
+that we find ways to influence that in a positive manner.
+
+40:38.940 --> 40:40.740
+<v ->Well, thank you so very much everyone</v>
+
+40:40.740 --> 40:43.950
+for joining us today and for that wonderful discussion.
+
+40:43.950 --> 40:46.320
+Please join me, audience, in a round of applause
+
+40:46.320 --> 40:47.505
+in thanking our panelists.
+
+40:47.505 --> 40:49.074
+(audience applauding)
+
+40:49.074 --> 40:51.574
+(light music)
+

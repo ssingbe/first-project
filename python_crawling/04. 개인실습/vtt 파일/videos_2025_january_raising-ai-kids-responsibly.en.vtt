@@ -1,0 +1,3639 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.373 --> 00:02.956
+(upbeat music)
+
+2
+00:10.380 --> 00:12.120
+<v Melissa>Good morning, everybody.</v>
+
+3
+00:12.120 --> 00:14.490
+I'm Melissa Hunter from Family Video Network,
+
+4
+00:14.490 --> 00:18.030
+and today, we're going to be talking about, like Robin said,
+
+5
+00:18.030 --> 00:21.570
+AI and kids and responsibility,
+
+6
+00:21.570 --> 00:25.620
+and AI is not something that's coming in the future.
+
+7
+00:25.620 --> 00:27.390
+It's already here.
+
+8
+00:27.390 --> 00:30.330
+Our children are already interacting with it,
+
+9
+00:30.330 --> 00:33.720
+whether they know it or not, whether we know it or not.
+
+10
+00:33.720 --> 00:36.960
+So, we're going to be talking today to a great panel.
+
+11
+00:36.960 --> 00:38.790
+I'm going to introduce them first.
+
+12
+00:38.790 --> 00:41.160
+We'll let them introduce themselves briefly.
+
+13
+00:41.160 --> 00:44.400
+Then we've got some great data and insights,
+
+14
+00:44.400 --> 00:46.350
+a couple of products to share,
+
+15
+00:46.350 --> 00:47.880
+and then we're going to talk about
+
+16
+00:47.880 --> 00:52.710
+what goes into creating responsible AI for children.
+
+17
+00:52.710 --> 00:56.220
+So, I'm going to start off with you, Karen.
+
+18
+00:56.220 --> 00:58.260
+<v ->Hi everybody, Karen Wong from IDEO.</v>
+
+19
+00:58.260 --> 00:59.670
+I'm based in San Francisco.
+
+20
+00:59.670 --> 01:00.660
+Thank you for being here.
+
+21
+01:00.660 --> 01:02.937
+Thank you for participating in what Robin described as,
+
+22
+01:02.937 --> 01:05.670
+and I agree, a very important conversation.
+
+23
+01:05.670 --> 01:08.370
+Within IDEO, which is a design agency,
+
+24
+01:08.370 --> 01:11.610
+I'm in the portfolio called the Play Lab. Super fun.
+
+25
+01:11.610 --> 01:13.980
+Our secret sauce is understanding
+
+26
+01:13.980 --> 01:17.190
+how play can unlock joy and engagement,
+
+27
+01:17.190 --> 01:18.480
+and obviously, thinking about
+
+28
+01:18.480 --> 01:21.390
+how youth and kids are moving the needle
+
+29
+01:21.390 --> 01:24.000
+on how we interact with emerging technology.
+
+30
+01:24.000 --> 01:27.600
+Ages ago, we made the first digital apps for Sesame Workshop
+
+31
+01:27.600 --> 01:29.280
+and so, of course, it makes sense for us
+
+32
+01:29.280 --> 01:30.750
+to be thinking about the interactions
+
+33
+01:30.750 --> 01:32.550
+that kids are having with technology,
+
+34
+01:32.550 --> 01:35.670
+whether it's chatbots, smart devices, all those things.
+
+35
+01:35.670 --> 01:38.670
+So, very happy to be here and looking forward to share more.
+
+36
+01:40.320 --> 01:42.180
+<v ->Hi, everyone. Thanks so much for coming.</v>
+
+37
+01:42.180 --> 01:44.400
+My name is Joshua Garrett.
+
+38
+01:44.400 --> 01:45.780
+For the last 25 years,
+
+39
+01:45.780 --> 01:47.700
+I've worked with a company called Creativity
+
+40
+01:47.700 --> 01:50.850
+to help toy companies around the world make toys,
+
+41
+01:50.850 --> 01:53.580
+thousands of products and some of the biggest,
+
+42
+01:53.580 --> 01:56.130
+most successful toys over the last 25 years.
+
+43
+01:56.130 --> 01:58.470
+And in the last couple years I've been focused
+
+44
+01:58.470 --> 02:00.450
+as well as being chief creative officer
+
+45
+02:00.450 --> 02:02.220
+for a company called Readyland.
+
+46
+02:02.220 --> 02:04.653
+And you'll see more about that later.
+
+47
+02:05.850 --> 02:09.600
+<v ->I'm Nelo Lucich, the CEO of Skyrocket Toys.</v>
+
+48
+02:09.600 --> 02:11.970
+So, we're a tech toy maker.
+
+49
+02:11.970 --> 02:13.620
+I've been in the toy industry
+
+50
+02:13.620 --> 02:16.650
+my entire career for way too long.
+
+51
+02:16.650 --> 02:19.560
+We've always sort of had a focus on tech,
+
+52
+02:19.560 --> 02:22.170
+tech-inspired inspiration or innovation.
+
+53
+02:22.170 --> 02:26.070
+So, you know, AI is just one of the new technologies
+
+54
+02:26.070 --> 02:27.330
+that we're trying to figure out
+
+55
+02:27.330 --> 02:29.973
+what new play experiences we can bring so.
+
+56
+02:31.620 --> 02:32.910
+<v Melissa>Awesome, thank you.</v>
+
+57
+02:32.910 --> 02:35.700
+So, we are going to start off with you, Karen.
+
+58
+02:35.700 --> 02:37.320
+I'm going to give you the clicker.
+
+59
+02:37.320 --> 02:39.870
+We're all going to ask the clicker gods
+
+60
+02:39.870 --> 02:41.940
+to make sure that it works,
+
+61
+02:41.940 --> 02:46.680
+and you have some really interesting data and insights
+
+62
+02:46.680 --> 02:51.300
+on what's already going on with Gen Z and kids.
+
+63
+02:51.300 --> 02:54.450
+And I find this to be very, very hopeful.
+
+64
+02:54.450 --> 02:57.090
+So, I hope you all really pay attention
+
+65
+02:57.090 --> 02:59.550
+and find this as interesting as I did.
+
+66
+02:59.550 --> 03:00.383
+<v ->Thank you.</v>
+
+67
+03:00.383 --> 03:03.210
+So, Gen Z, we're usually, talking about
+
+68
+03:03.210 --> 03:06.570
+ages 13, teenagers who are coming of age,
+
+69
+03:06.570 --> 03:08.820
+up to people who are just finishing college.
+
+70
+03:08.820 --> 03:10.500
+And as mentioned with the Play Lab,
+
+71
+03:10.500 --> 03:12.660
+thinking about youth, kids, and family.
+
+72
+03:12.660 --> 03:15.810
+It's not just people who are gonna one day be using it,
+
+73
+03:15.810 --> 03:17.310
+but they're using it now.
+
+74
+03:17.310 --> 03:19.230
+They're the ones that are forming their opinions
+
+75
+03:19.230 --> 03:21.450
+about your future products and services.
+
+76
+03:21.450 --> 03:22.620
+And if anything, they've actually,
+
+77
+03:22.620 --> 03:24.990
+gotten some really interesting opinions.
+
+78
+03:24.990 --> 03:26.880
+I say that, because they were the ones that grew up
+
+79
+03:26.880 --> 03:30.090
+with the unintended consequences of social media.
+
+80
+03:30.090 --> 03:33.210
+They started feeling all the angst and shame
+
+81
+03:33.210 --> 03:35.490
+that we didn't realize would happen when you put
+
+82
+03:35.490 --> 03:38.970
+these kind of tools into hands of kids and families
+
+83
+03:38.970 --> 03:40.710
+when these products weren't designed for them.
+
+84
+03:40.710 --> 03:44.940
+So, we at IDEO started two years ago, January, 2023
+
+85
+03:44.940 --> 03:46.410
+before most schools had created
+
+86
+03:46.410 --> 03:49.140
+their ChatGPT rules and regulations.
+
+87
+03:49.140 --> 03:51.750
+Just doing some scanning, asking some questions,
+
+88
+03:51.750 --> 03:54.180
+and eventually, a few co-design projects.
+
+89
+03:54.180 --> 03:55.470
+So, I'll be sharing this morning
+
+90
+03:55.470 --> 03:57.570
+a little bit about what we're learning.
+
+91
+03:57.570 --> 04:00.210
+That question is what if the tech-savvy generation
+
+92
+04:00.210 --> 04:01.590
+isn't buying it anymore?
+
+93
+04:01.590 --> 04:03.060
+We have a lot of really interesting
+
+94
+04:03.060 --> 04:04.980
+opinions and assumptions in our heads
+
+95
+04:04.980 --> 04:06.120
+that these are the ones that are gonna be
+
+96
+04:06.120 --> 04:07.860
+the first users and the first movers.
+
+97
+04:07.860 --> 04:09.330
+And in many ways they are,
+
+98
+04:09.330 --> 04:10.350
+but they're the ones that also
+
+99
+04:10.350 --> 04:13.230
+come with the most informed opinions.
+
+100
+04:13.230 --> 04:15.630
+Not just about how badly the tech feels,
+
+101
+04:15.630 --> 04:18.120
+how cringey some of it might be landing,
+
+102
+04:18.120 --> 04:21.450
+but also how it's affecting their sense of humanity.
+
+103
+04:21.450 --> 04:23.760
+Every person in this room who's creating a product,
+
+104
+04:23.760 --> 04:25.350
+especially with emerging tech,
+
+105
+04:25.350 --> 04:27.900
+you're kind of torn between how do we move fast to win
+
+106
+04:27.900 --> 04:29.550
+and how do we slow down to de-risk?
+
+107
+04:29.550 --> 04:31.260
+That's something at IDEO with any product,
+
+108
+04:31.260 --> 04:34.290
+whether it's with Gen Z or any other customer
+
+109
+04:34.290 --> 04:35.127
+we'd be thinking about.
+
+110
+04:35.127 --> 04:37.050
+And so, kind of to share a little bit about
+
+111
+04:37.050 --> 04:38.520
+what we've been doing for the past two years
+
+112
+04:38.520 --> 04:39.990
+and are still doing now,
+
+113
+04:39.990 --> 04:42.150
+we started doing some data scanning.
+
+114
+04:42.150 --> 04:45.660
+We dug ourselves into TikTok, into YouTube, into Reddit,
+
+115
+04:45.660 --> 04:47.970
+what were kids already posting about
+
+116
+04:47.970 --> 04:50.100
+when it came to asking these questions.
+
+117
+04:50.100 --> 04:53.430
+Then we started building out these real prototypes,
+
+118
+04:53.430 --> 04:56.580
+super scrappy, just in real-life use cases.
+
+119
+04:56.580 --> 04:59.550
+And we moved toward understanding the personalities
+
+120
+04:59.550 --> 05:01.800
+that kids wanted to interact with,
+
+121
+05:01.800 --> 05:04.530
+including things like using role play to really get
+
+122
+05:04.530 --> 05:06.810
+what are the emotions, what are the whys,
+
+123
+05:06.810 --> 05:08.070
+why would you be using this?
+
+124
+05:08.070 --> 05:09.393
+Not just how, but why.
+
+125
+05:10.410 --> 05:13.500
+And two areas of tension.
+
+126
+05:13.500 --> 05:15.540
+The first one is creative expression,
+
+127
+05:15.540 --> 05:18.120
+and I'm sure we will have a lot of conversation later
+
+128
+05:18.120 --> 05:20.880
+about how these tools are affecting our creative process.
+
+129
+05:20.880 --> 05:23.280
+And the second one about human relationships.
+
+130
+05:23.280 --> 05:25.140
+The interesting thing is, of course,
+
+131
+05:25.140 --> 05:27.390
+this matters for all of us as adults in the room,
+
+132
+05:27.390 --> 05:29.910
+but we think especially coming of age,
+
+133
+05:29.910 --> 05:33.090
+what does it mean to unlock and express ourselves?
+
+134
+05:33.090 --> 05:34.740
+What does it mean to form friendships
+
+135
+05:34.740 --> 05:36.390
+on the playground online?
+
+136
+05:36.390 --> 05:40.560
+These are things that really affect that formative process.
+
+137
+05:40.560 --> 05:42.870
+And so, just a few snapshots of all the fun ways
+
+138
+05:42.870 --> 05:44.400
+we've been able to dig ourselves
+
+139
+05:44.400 --> 05:46.080
+into spending time with youth and teens.
+
+140
+05:46.080 --> 05:49.620
+Everything from having them edit our Figma prototypes
+
+141
+05:49.620 --> 05:51.900
+to acting like robots themselves,
+
+142
+05:51.900 --> 05:55.740
+if they had to give the voice of the robot or the chatbots.
+
+143
+05:55.740 --> 05:57.480
+Here's a few provocative ones.
+
+144
+05:57.480 --> 06:00.840
+We really put tangible expressions of what it would be like
+
+145
+06:00.840 --> 06:03.960
+to interact with a potential AI tool.
+
+146
+06:03.960 --> 06:05.467
+And so, we ask questions like,
+
+147
+06:05.467 --> 06:08.010
+"Okay, you've recently had a friend breakup.
+
+148
+06:08.010 --> 06:09.360
+What kind of intervention do you want?
+
+149
+06:09.360 --> 06:12.360
+Do you want someone to counsel you through that process
+
+150
+06:12.360 --> 06:14.430
+or do you want someone to kind of replace that friend
+
+151
+06:14.430 --> 06:16.830
+for the time being just so you can, you know,
+
+152
+06:16.830 --> 06:18.780
+back yourself out from that relationship?"
+
+153
+06:18.780 --> 06:20.970
+So, by asking really tangible questions,
+
+154
+06:20.970 --> 06:22.950
+by putting prototypes in front of youth,
+
+155
+06:22.950 --> 06:26.280
+we were able to co-design to few insights.
+
+156
+06:26.280 --> 06:28.860
+This one always gets all audience members.
+
+157
+06:28.860 --> 06:32.100
+We put out a provocation expression of
+
+158
+06:32.100 --> 06:36.540
+imagine you could have an AI-trained on your preferences,
+
+159
+06:36.540 --> 06:38.970
+on your personalities, live your life for you.
+
+160
+06:38.970 --> 06:41.730
+Imagine they could swipe your Tinder for you.
+
+161
+06:41.730 --> 06:44.100
+They would have the achy conversations
+
+162
+06:44.100 --> 06:46.470
+or they would go through the awkward introductions,
+
+163
+06:46.470 --> 06:48.360
+you know, new person in school.
+
+164
+06:48.360 --> 06:50.700
+And we heard some really interesting things.
+
+165
+06:50.700 --> 06:52.500
+I wanna go on a bad date for myself
+
+166
+06:52.500 --> 06:54.690
+and I wanna have that bad vacation.
+
+167
+06:54.690 --> 06:57.750
+There was a really interesting sign
+
+168
+06:57.750 --> 07:00.030
+that being able to live life for yourself
+
+169
+07:00.030 --> 07:01.980
+is that badge of honor.
+
+170
+07:01.980 --> 07:04.740
+The next one here, I would prefer to give opportunities
+
+171
+07:04.740 --> 07:06.630
+to people over technology.
+
+172
+07:06.630 --> 07:08.190
+I think these are the ones,
+
+173
+07:08.190 --> 07:11.160
+and again, they have seen what it's like
+
+174
+07:11.160 --> 07:12.723
+when people feel replaced.
+
+175
+07:13.853 --> 07:15.450
+I'll definitely share a lot more.
+
+176
+07:15.450 --> 07:18.450
+But starting off with a few key learnings.
+
+177
+07:18.450 --> 07:21.570
+Gen Z's value advice and perspective from lived experience.
+
+178
+07:21.570 --> 07:23.760
+There's something about designing for friction.
+
+179
+07:23.760 --> 07:26.100
+I'm gonna say that again, designing for friction.
+
+180
+07:26.100 --> 07:29.640
+In our age of optimization, in our age of assuming
+
+181
+07:29.640 --> 07:31.350
+that everything should move as fast as possible
+
+182
+07:31.350 --> 07:33.480
+to make life as smooth as possible,
+
+183
+07:33.480 --> 07:35.340
+there's something about the challenge
+
+184
+07:35.340 --> 07:37.110
+and that comes back to play, right?
+
+185
+07:37.110 --> 07:39.180
+Why would we spend so much time
+
+186
+07:39.180 --> 07:42.540
+to hit a ball several hundred yards away?
+
+187
+07:42.540 --> 07:44.670
+There's something about the joy of achieving,
+
+188
+07:44.670 --> 07:46.170
+the joy of overcoming challenge,
+
+189
+07:46.170 --> 07:48.990
+the joy of moving through your first friend breakup
+
+190
+07:48.990 --> 07:51.000
+or your boyfriend or girlfriend breakup
+
+191
+07:51.000 --> 07:52.740
+that makes you into a person.
+
+192
+07:52.740 --> 07:56.040
+And as many times as helicopter parents or as people
+
+193
+07:56.040 --> 07:57.120
+who are designing technology,
+
+194
+07:57.120 --> 07:59.520
+assume that the smoothest possible path
+
+195
+07:59.520 --> 08:00.900
+is the best possible path.
+
+196
+08:00.900 --> 08:02.300
+There's some pushback there.
+
+197
+08:03.180 --> 08:04.800
+And Gen Z's don't yet trust AI
+
+198
+08:04.800 --> 08:07.080
+to understand the nuance of their lives.
+
+199
+08:07.080 --> 08:08.250
+You're coming out of an age
+
+200
+08:08.250 --> 08:11.340
+where you have a lot of conflicting opinions.
+
+201
+08:11.340 --> 08:14.190
+There's tensions in what you like and what you say you want.
+
+202
+08:14.190 --> 08:16.110
+And these may change four times a day.
+
+203
+08:16.110 --> 08:17.940
+For anyone who has teenagers in the room,
+
+204
+08:17.940 --> 08:19.530
+you're familiar with that,
+
+205
+08:19.530 --> 08:20.730
+but even adults in the room.
+
+206
+08:20.730 --> 08:23.370
+You know, what we say isn't always what we really mean.
+
+207
+08:23.370 --> 08:25.140
+And so, how would we expect something
+
+208
+08:25.140 --> 08:28.290
+to be just trained on this data that we're giving it?
+
+209
+08:28.290 --> 08:29.820
+That's an opinion I'm hearing a lot.
+
+210
+08:29.820 --> 08:32.370
+And the last one, gen Z is greatly valued experiences
+
+211
+08:32.370 --> 08:36.000
+to help them reflect, imagine, and express themselves.
+
+212
+08:36.000 --> 08:37.620
+I was thinking and talking to a lot
+
+213
+08:37.620 --> 08:40.170
+of really wonderful creator tool makers
+
+214
+08:40.170 --> 08:41.640
+and there was something beautiful about
+
+215
+08:41.640 --> 08:46.170
+the unleashing of potential and power that we're seeing,
+
+216
+08:46.170 --> 08:49.890
+but there's also a desire to grow in your craft,
+
+217
+08:49.890 --> 08:52.620
+to become better as you work through.
+
+218
+08:52.620 --> 08:55.110
+What might some of the onboarding journeys look like
+
+219
+08:55.110 --> 08:57.420
+when a young child has access to these tools
+
+220
+08:57.420 --> 08:58.650
+and you're now asking them
+
+221
+08:58.650 --> 09:00.090
+to define themselves as a creative.
+
+222
+09:00.090 --> 09:01.620
+What are ways that we can lean into
+
+223
+09:01.620 --> 09:04.020
+other aspects of what it means to be a person
+
+224
+09:04.020 --> 09:06.330
+and what it means to tap into your creative expression
+
+225
+09:06.330 --> 09:08.340
+and what the stories you really wanna tell.
+
+226
+09:08.340 --> 09:11.140
+How can we be surrounding them with these opportunities?
+
+227
+09:12.000 --> 09:14.880
+A few opportunities and side by side here,
+
+228
+09:14.880 --> 09:16.799
+I can go into them more later,
+
+229
+09:16.799 --> 09:21.243
+but yeah, I'm also just gonna throw this up here.
+
+230
+09:22.140 --> 09:23.490
+We love co-designing with youth.
+
+231
+09:23.490 --> 09:24.900
+We think it's important.
+
+232
+09:24.900 --> 09:27.870
+Everything from talking to them to creating hypothesis
+
+233
+09:27.870 --> 09:30.607
+less concepts based on what they're telling us.
+
+234
+09:30.607 --> 09:32.520
+Getting, again, as I mentioned
+
+235
+09:32.520 --> 09:34.830
+into the emotions of the interaction.
+
+236
+09:34.830 --> 09:36.570
+Again, not just the technology and what it can do,
+
+237
+09:36.570 --> 09:38.430
+but why and how does it make you feel?
+
+238
+09:38.430 --> 09:41.220
+And from there being able to identify new ideas.
+
+239
+09:41.220 --> 09:44.970
+I'm just gonna say we love working on these tools
+
+240
+09:44.970 --> 09:47.640
+and here's some more information about what we are writing.
+
+241
+09:47.640 --> 09:49.410
+Everything I've just described,
+
+242
+09:49.410 --> 09:51.480
+we are happy to share with all of you,
+
+243
+09:51.480 --> 09:54.450
+because we believe it's important that other people,
+
+244
+09:54.450 --> 09:56.220
+adults in the room, decision makers,
+
+245
+09:56.220 --> 09:58.680
+should be able to access these principles.
+
+246
+09:58.680 --> 10:00.643
+Let's talk a bit more later.
+
+247
+10:00.643 --> 10:02.640
+<v ->Thank you so much.</v>
+
+248
+10:02.640 --> 10:05.670
+So, we're gonna pass it off to Josh
+
+249
+10:05.670 --> 10:09.360
+and you're gonna share what you're doing at Readyland
+
+250
+10:09.360 --> 10:12.750
+and how AI is involved in this process.
+
+251
+10:12.750 --> 10:14.790
+<v ->So, that's Readyland, which currently</v>
+
+252
+10:14.790 --> 10:18.270
+is a set of five physical, old-fashioned books
+
+253
+10:18.270 --> 10:21.510
+that kids can read with currently an Alexa.
+
+254
+10:21.510 --> 10:23.460
+And it brings the books to life
+
+255
+10:23.460 --> 10:25.380
+in a way that has never happened before.
+
+256
+10:25.380 --> 10:27.330
+They talk to the characters, they play games,
+
+257
+10:27.330 --> 10:29.400
+they make choices on adventures,
+
+258
+10:29.400 --> 10:31.350
+and every time they go through the book it can change.
+
+259
+10:31.350 --> 10:36.350
+And it's had a remarkably positive feedback from users.
+
+260
+10:37.470 --> 10:40.080
+We're like 4.8 stars on Amazon
+
+261
+10:40.080 --> 10:43.320
+and everyone loves this new experience.
+
+262
+10:43.320 --> 10:45.270
+And as you look at it,
+
+263
+10:45.270 --> 10:48.120
+I think you can imagine like we could use AI
+
+264
+10:48.120 --> 10:51.030
+in a whole lot of different ways in Readyland.
+
+265
+10:51.030 --> 10:54.450
+And one thing I just wanna mention is that
+
+266
+10:54.450 --> 10:55.770
+a lot of people when they think of
+
+267
+10:55.770 --> 10:59.340
+AI for kids or in general, they think of chatbots,
+
+268
+10:59.340 --> 11:01.680
+like that's the expression of AI.
+
+269
+11:01.680 --> 11:04.860
+But AI is a tool, it's a powerful tool
+
+270
+11:04.860 --> 11:07.830
+that you can use in many, many different ways.
+
+271
+11:07.830 --> 11:09.210
+And what we always wanna do is
+
+272
+11:09.210 --> 11:12.780
+focus on the product, not the technology, right?
+
+273
+11:12.780 --> 11:15.840
+So, for Readyland where AI currently is for us,
+
+274
+11:15.840 --> 11:17.880
+we are not gonna use it to generate content
+
+275
+11:17.880 --> 11:21.150
+that goes to kids without us knowing what kids get.
+
+276
+11:21.150 --> 11:26.010
+We are not gonna use it to have synthesized speech,
+
+277
+11:26.010 --> 11:29.370
+say things that we're not aware what it's saying.
+
+278
+11:29.370 --> 11:31.890
+But what we have found is incredibly powerful
+
+279
+11:31.890 --> 11:33.540
+in the tool set of AI
+
+280
+11:33.540 --> 11:35.880
+is we can use it to much better understand
+
+281
+11:35.880 --> 11:38.250
+what children are saying to us, right?
+
+282
+11:38.250 --> 11:41.040
+So, in the examples that you see on a page,
+
+283
+11:41.040 --> 11:42.537
+there might be 20, 30 things
+
+284
+11:42.537 --> 11:45.690
+and a kid can describe what they're seeing.
+
+285
+11:45.690 --> 11:48.870
+And before AI, we have to think of all the different ways
+
+286
+11:48.870 --> 11:50.580
+a kid might say what they're looking at
+
+287
+11:50.580 --> 11:52.710
+and try to understand so that
+
+288
+11:52.710 --> 11:54.180
+we can give them back the content
+
+289
+11:54.180 --> 11:58.350
+that we as human experts have created for them.
+
+290
+11:58.350 --> 12:01.620
+In some models we've been testing with AI
+
+291
+12:01.620 --> 12:04.410
+where before, for example, in a book you have, you know,
+
+292
+12:04.410 --> 12:06.660
+two bats in the distance in the sky.
+
+293
+12:06.660 --> 12:10.440
+A kid might have to say, "Bats, I see bats."
+
+294
+12:10.440 --> 12:14.280
+Now a kid can say, "Those little things in the sky,
+
+295
+12:14.280 --> 12:15.210
+those little birds."
+
+296
+12:15.210 --> 12:17.400
+They can say it in all sorts of different ways.
+
+297
+12:17.400 --> 12:20.730
+And with AI we can then funnel them to the content
+
+298
+12:20.730 --> 12:24.450
+that we much better understand they're trying to get to
+
+299
+12:24.450 --> 12:25.920
+and then give that to them.
+
+300
+12:25.920 --> 12:29.730
+So, that's our focus on AI right now,
+
+301
+12:29.730 --> 12:31.650
+but there's so many different ways to use AI.
+
+302
+12:31.650 --> 12:34.590
+But the big thing for me and for us
+
+303
+12:34.590 --> 12:38.010
+is that AI is a new technology
+
+304
+12:38.010 --> 12:39.900
+and there's a certain magic in that,
+
+305
+12:39.900 --> 12:42.300
+that magic is fading fast
+
+306
+12:42.300 --> 12:44.550
+and you can't focus just on the technology
+
+307
+12:44.550 --> 12:45.540
+to provide magic to kids.
+
+308
+12:45.540 --> 12:49.110
+You have to focus on the product and the experience,
+
+309
+12:49.110 --> 12:51.513
+which the technology can help improve.
+
+310
+12:53.430 --> 12:56.040
+<v Melissa>Absolutely, and now we have Nelo.</v>
+
+311
+12:56.040 --> 12:58.680
+And Nelo, you brought a friend too, didn't you?
+
+312
+12:58.680 --> 13:02.010
+<v ->Yes, I've brought my friend Poe here.</v>
+
+313
+13:02.010 --> 13:04.773
+So, this is Poe, the AI bear.
+
+314
+13:05.700 --> 13:09.570
+So, this is a product that we've been working on
+
+315
+13:09.570 --> 13:10.770
+before there was AI.
+
+316
+13:10.770 --> 13:12.960
+So, we've had this concept around our company
+
+317
+13:12.960 --> 13:15.580
+for, you know, more than five years
+
+318
+13:16.800 --> 13:18.180
+trying to come up with a way
+
+319
+13:18.180 --> 13:20.730
+to allow kids to make stories themselves
+
+320
+13:20.730 --> 13:22.320
+and choose what they put into their story.
+
+321
+13:22.320 --> 13:24.060
+So, before there was AI,
+
+322
+13:24.060 --> 13:26.070
+we looked at a lot of different ways to do it
+
+323
+13:26.070 --> 13:27.690
+and it was just not really practical
+
+324
+13:27.690 --> 13:29.520
+or it wasn't cost effective.
+
+325
+13:29.520 --> 13:32.820
+And so, when AI really became,
+
+326
+13:32.820 --> 13:34.950
+generative AI really became in the forefront.
+
+327
+13:34.950 --> 13:37.050
+It just gave us an opportunity to do something
+
+328
+13:37.050 --> 13:38.520
+that we had really been wanting to do.
+
+329
+13:38.520 --> 13:42.090
+So, this product has been an incredible amount of work.
+
+330
+13:42.090 --> 13:45.630
+Like working with AI is a daunting task
+
+331
+13:45.630 --> 13:48.780
+for a product that's purely generative.
+
+332
+13:48.780 --> 13:53.260
+So, our product is generating live content for kids
+
+333
+13:54.810 --> 13:56.970
+and we have guardrails around that
+
+334
+13:56.970 --> 13:59.670
+to sort of reign in what gets in
+
+335
+13:59.670 --> 14:02.970
+both through within the AI itself
+
+336
+14:02.970 --> 14:05.280
+and then on top of that in our system,
+
+337
+14:05.280 --> 14:09.510
+but we control it from the input side and the outgoing side.
+
+338
+14:09.510 --> 14:11.250
+So, if we control what the child
+
+339
+14:11.250 --> 14:14.520
+is able to put into the story,
+
+340
+14:14.520 --> 14:17.610
+that greatly improves what comes out.
+
+341
+14:17.610 --> 14:20.040
+So, since there's no wifi here,
+
+342
+14:20.040 --> 14:22.080
+we'll off to pretend like this is a live demo
+
+343
+14:22.080 --> 14:22.950
+and I'll kind of walk you through
+
+344
+14:22.950 --> 14:25.053
+what the app would do if we had wifi.
+
+345
+14:26.490 --> 14:31.170
+So first, obviously, because it's generated on the fly,
+
+346
+14:31.170 --> 14:34.920
+we can do voice and the app localized in over 30 languages.
+
+347
+14:34.920 --> 14:39.920
+So, people in every country can pretty much use Poe.
+
+348
+14:41.640 --> 14:42.690
+First thing, we take some
+
+349
+14:42.690 --> 14:45.600
+very basic information from the child,
+
+350
+14:45.600 --> 14:48.540
+their first name, their age, and their birthday
+
+351
+14:48.540 --> 14:51.540
+only to be used for recognizing their birthday
+
+352
+14:51.540 --> 14:52.373
+and things like that.
+
+353
+14:52.373 --> 14:53.550
+We don't use the information
+
+354
+14:53.550 --> 14:56.790
+or pass it to the AI for any other thing, but that.
+
+355
+14:56.790 --> 14:58.953
+On obviously, pronouns.
+
+356
+15:00.690 --> 15:03.420
+Then when you come to the main menu,
+
+357
+15:03.420 --> 15:04.920
+we try to keep it really simple,
+
+358
+15:04.920 --> 15:07.800
+because we know that there's some circumstances
+
+359
+15:07.800 --> 15:11.010
+where parents will be doing this for their kids
+
+360
+15:11.010 --> 15:11.940
+and then making stories
+
+361
+15:11.940 --> 15:13.890
+and using it as bedtime stories for their kids.
+
+362
+15:13.890 --> 15:15.780
+And there'll be other older kids
+
+363
+15:15.780 --> 15:16.920
+that'll be using it theirselves.
+
+364
+15:16.920 --> 15:19.653
+So, we wanted to keep the interface very simple.
+
+365
+15:23.700 --> 15:25.470
+So, the bear's obviously dynamic,
+
+366
+15:25.470 --> 15:26.850
+his firmware can be updated,
+
+367
+15:26.850 --> 15:29.580
+he can be, you know, on the fly, be adjusted.
+
+368
+15:29.580 --> 15:31.140
+This is kind of showing your story library.
+
+369
+15:31.140 --> 15:33.480
+So, after you create stories, they're yours
+
+370
+15:33.480 --> 15:36.003
+and you'll have them in your library forever.
+
+371
+15:36.003 --> 15:39.810
+The bear himself can hold, Poe can hold about 20 stories.
+
+372
+15:39.810 --> 15:40.830
+So, you can choose what you wanna
+
+373
+15:40.830 --> 15:42.330
+load into your bear's library.
+
+374
+15:45.720 --> 15:48.000
+And now the process of actually creating a story.
+
+375
+15:48.000 --> 15:51.540
+So first, you choose a genre, which I clicked too soon,
+
+376
+15:51.540 --> 15:56.540
+but I could go back actually, maybe not.
+
+377
+15:57.300 --> 15:58.830
+So, you choose a genre of a story.
+
+378
+15:58.830 --> 16:01.650
+So, if you want a mystery, or an adventure story,
+
+379
+16:01.650 --> 16:03.300
+or whatever kind of story you want,
+
+380
+16:03.300 --> 16:07.080
+then you get to choose from over 500 different characters,
+
+381
+16:07.080 --> 16:11.010
+icons, cities, places, plot ideas,
+
+382
+16:11.010 --> 16:12.360
+kind of anything you can think of.
+
+383
+16:12.360 --> 16:15.360
+So, you can imagine what the story is you wanna make.
+
+384
+16:15.360 --> 16:16.710
+And pretty much the stuff you need
+
+385
+16:16.710 --> 16:19.143
+to make that story is in our system.
+
+386
+16:20.400 --> 16:22.050
+And then you'll choose all your icons,
+
+387
+16:22.050 --> 16:22.883
+dah, dah, dah, dah, dah.
+
+388
+16:22.883 --> 16:24.930
+So, I'm gonna choose a bear, Poe,
+
+389
+16:24.930 --> 16:26.880
+I'm gonna put Poe himself in the story.
+
+390
+16:27.930 --> 16:30.390
+We'll choose a helpful robot to be his sidekick,
+
+391
+16:30.390 --> 16:31.770
+also the protagonist in the story.
+
+392
+16:31.770 --> 16:34.200
+So, you can choose who the protagonist is
+
+393
+16:34.200 --> 16:35.910
+and who the antagonist is in the story
+
+394
+16:35.910 --> 16:38.160
+by selecting him either green or red.
+
+395
+16:38.160 --> 16:39.690
+As you can see, that's the hacker,
+
+396
+16:39.690 --> 16:41.733
+he's one of the bad guys in our story.
+
+397
+16:42.570 --> 16:44.970
+The story's obviously, a little bit older.
+
+398
+16:44.970 --> 16:46.890
+Seeing that, you know, I'm a 10-year-old at heart,
+
+399
+16:46.890 --> 16:48.720
+I'm gonna make a story that appeals to me.
+
+400
+16:48.720 --> 16:50.790
+So, you're kind of getting
+
+401
+16:50.790 --> 16:52.380
+the type of story that I would make.
+
+402
+16:52.380 --> 16:54.600
+We have an evil magician.
+
+403
+16:54.600 --> 16:59.190
+So, after you do all that, got one more guy,
+
+404
+16:59.190 --> 17:01.500
+mind control and then you're gonna get a location.
+
+405
+17:01.500 --> 17:04.710
+I added CES Las Vegas just for this event.
+
+406
+17:04.710 --> 17:06.930
+Just so you could see what he would do.
+
+407
+17:06.930 --> 17:09.480
+So, the actual content that I'm gonna play,
+
+408
+17:09.480 --> 17:12.060
+then you hit Next, he's gonna generate the story.
+
+409
+17:12.060 --> 17:13.590
+This might be sped up two times,
+
+410
+17:13.590 --> 17:15.600
+but it probably takes about 15 seconds
+
+411
+17:15.600 --> 17:18.090
+to generate the text and audio.
+
+412
+17:18.090 --> 17:20.670
+So, we're gonna simulate a streaming experience here.
+
+413
+17:20.670 --> 17:22.800
+So, let's figure out how to go.
+
+414
+17:22.800 --> 17:24.150
+This is an actual story that I made
+
+415
+17:24.150 --> 17:26.973
+with that exact prompt not modified.
+
+416
+17:29.610 --> 17:30.840
+Hold on.
+
+417
+17:30.840 --> 17:33.040
+He's been on the sitting for a long time so.
+
+418
+17:41.347 --> 17:43.347
+<v Poe>"Mysterious Mind Control Caper".</v>
+
+419
+17:44.581 --> 17:46.273
+<v Nelo>Okay, that's this title.</v>
+
+420
+17:46.273 --> 17:47.280
+<v ->Hey there, Nelo.</v>
+
+421
+17:47.280 --> 17:50.280
+It's a bright and shiny January morning.
+
+422
+17:50.280 --> 17:53.010
+The perfect time for another story.
+
+423
+17:53.010 --> 17:56.520
+Did you know that in Las Vegas where our story takes place,
+
+424
+17:56.520 --> 18:00.090
+they have a gigantic Ferris wheel called The High Roller?
+
+425
+18:00.090 --> 18:02.583
+It's taller than the Statue of Liberty.
+
+426
+18:02.583 --> 18:05.280
+<v ->So, he'll pull in real-world events in places</v>
+
+427
+18:05.280 --> 18:07.140
+based on the setting that you choose.
+
+428
+18:07.140 --> 18:09.360
+<v ->What if I told you there's a mystery</v>
+
+429
+18:09.360 --> 18:13.530
+waiting to be unraveled at the Consumer Electronics Show?
+
+430
+18:13.530 --> 18:17.160
+There's excitement in the air and Poe is on the case.
+
+431
+18:17.160 --> 18:19.830
+We'll need to keep our eyes peeled for clues
+
+432
+18:19.830 --> 18:22.800
+and outwit some sneaky characters.
+
+433
+18:22.800 --> 18:25.170
+What do you say we jump into it?
+
+434
+18:25.170 --> 18:30.170
+The story is called "The Mysterious Mind Control Caper".
+
+435
+18:30.480 --> 18:34.230
+At the bustling Consumer Electronics Show in Las Vegas,
+
+436
+18:34.230 --> 18:36.000
+inventors, tech enthusiasts.
+
+437
+18:36.000 --> 18:39.720
+<v ->So, I'm not gonna play the whole story,</v>
+
+438
+18:39.720 --> 18:42.030
+but I'll play a couple parts just so you can see
+
+439
+18:42.030 --> 18:44.370
+how it's gonna weave these things in.
+
+440
+18:44.370 --> 18:46.890
+<v ->The ever curious AI story bear</v>
+
+441
+18:46.890 --> 18:49.020
+accompanied by his quirky sidekick,
+
+442
+18:49.020 --> 18:51.630
+a helpful robot named Bebop.
+
+443
+18:51.630 --> 18:53.730
+As they wandered through the exhibits,
+
+444
+18:53.730 --> 18:56.220
+Poe noticed something peculiar.
+
+445
+18:56.220 --> 18:59.583
+Attendees seemed to be moving in a trance-like state.
+
+446
+19:00.571 --> 19:02.400
+Their expressions blank as if their minds
+
+447
+19:02.400 --> 19:04.800
+were somewhere entirely.
+
+448
+19:04.800 --> 19:09.090
+Bebop with his digital sensors detected an unusual frequency
+
+449
+19:09.090 --> 19:10.999
+emanating from a nearby booth.
+
+450
+19:10.999 --> 19:13.170
+<v ->So, I'll stop it there I think.</v>
+
+451
+19:13.170 --> 19:15.720
+So, as you can see, whatever you put into the story,
+
+452
+19:15.720 --> 19:18.270
+it'll do a really good job
+
+453
+19:18.270 --> 19:20.070
+of weaving all those things together.
+
+454
+19:20.070 --> 19:24.390
+So, we're controlling the input by limiting the icons
+
+455
+19:24.390 --> 19:26.550
+you can choose and the types of characters.
+
+456
+19:26.550 --> 19:28.140
+We also give it age parameters.
+
+457
+19:28.140 --> 19:30.510
+And so, if you put in that you're a 5-year-old,
+
+458
+19:30.510 --> 19:32.250
+you're gonna get simpler text,
+
+459
+19:32.250 --> 19:33.720
+you're gonna get simpler words,
+
+460
+19:33.720 --> 19:36.690
+lower vocabulary, less word count.
+
+461
+19:36.690 --> 19:38.010
+We limit even the icons.
+
+462
+19:38.010 --> 19:40.680
+So, if you're a younger child, you'll get less icons
+
+463
+19:40.680 --> 19:43.080
+that are more appropriate for younger children.
+
+464
+19:43.080 --> 19:45.750
+And just, it's pretty amazing.
+
+465
+19:45.750 --> 19:48.120
+Like we got into this product with an expectation
+
+466
+19:48.120 --> 19:49.170
+of what the product would be
+
+467
+19:49.170 --> 19:52.530
+and like how it actually, came out is like kind of like wow.
+
+468
+19:52.530 --> 19:54.780
+Like it's a really good use.
+
+469
+19:54.780 --> 19:58.290
+Like he was talking about that, you know,
+
+470
+19:58.290 --> 20:01.140
+there's good uses for AI where it can do a good job
+
+471
+20:01.140 --> 20:02.700
+and things that are creative
+
+472
+20:02.700 --> 20:05.400
+and where it's an extension of me.
+
+473
+20:05.400 --> 20:07.350
+I could choose what I wanna put into my story
+
+474
+20:07.350 --> 20:09.120
+and it's gonna weave those into a story.
+
+475
+20:09.120 --> 20:12.510
+So, it empowers children and it's actually,
+
+476
+20:12.510 --> 20:13.620
+a really cool play experience.
+
+477
+20:13.620 --> 20:15.930
+Like we had some panels test it
+
+478
+20:15.930 --> 20:17.610
+with like large groups of children
+
+479
+20:17.610 --> 20:21.450
+and they picked it, like a couple awards picked it,
+
+480
+20:21.450 --> 20:23.490
+because they said like the five-year-olds liked it,
+
+481
+20:23.490 --> 20:25.140
+because they would make like a simple story
+
+482
+20:25.140 --> 20:26.177
+and the 12-year-olds like it,
+
+483
+20:26.177 --> 20:28.110
+'cause they could put every crazy thing
+
+484
+20:28.110 --> 20:30.000
+they could think about in their story
+
+485
+20:30.000 --> 20:31.301
+and get a really weird story.
+
+486
+20:31.301 --> 20:32.263
+<v ->That's how I played with it.</v>
+
+487
+20:32.263 --> 20:35.520
+I just hit as many buttons as I could at random
+
+488
+20:35.520 --> 20:37.680
+and it made a story out of that.
+
+489
+20:37.680 --> 20:40.560
+It was really cool, really cool.
+
+490
+20:40.560 --> 20:43.200
+<v ->Yeah, and obviously, if you choose things that make sense,</v>
+
+491
+20:43.200 --> 20:45.090
+you'll get a more sensical story,
+
+492
+20:45.090 --> 20:46.680
+whereas if you put weird stuff in there,
+
+493
+20:46.680 --> 20:47.513
+you get weird stuff.
+
+494
+20:47.513 --> 20:49.020
+But both are fun, you know?
+
+495
+20:49.020 --> 20:51.810
+So, that's Poe.
+<v ->That's Poe.</v>
+
+496
+20:51.810 --> 20:55.470
+And so, now we'd like to shift a little bit,
+
+497
+20:55.470 --> 20:57.930
+because there's so much experience
+
+498
+20:57.930 --> 21:00.270
+and knowledge here on this stage
+
+499
+21:00.270 --> 21:02.580
+that I think will be really helpful to all of you
+
+500
+21:02.580 --> 21:05.520
+to talk about how you guys
+
+501
+21:05.520 --> 21:08.970
+and how you're seeing, Karen, people use AI
+
+502
+21:08.970 --> 21:13.970
+as a tool for design of products intended for children.
+
+503
+21:14.070 --> 21:16.173
+Anybody who wants to jump in on that?
+
+504
+21:17.340 --> 21:18.180
+<v ->I'll jump in.</v>
+
+505
+21:18.180 --> 21:23.010
+So, we use AI in development
+
+506
+21:23.010 --> 21:26.970
+and I think the best way to think about how we use AI
+
+507
+21:26.970 --> 21:30.450
+is as a really great brainstorming partner, right?
+
+508
+21:30.450 --> 21:33.150
+So, if you have experience with brainstorms,
+
+509
+21:33.150 --> 21:34.800
+one classic way to brainstorm
+
+510
+21:34.800 --> 21:37.200
+is just throw out a lot of ideas no matter how crazy.
+
+511
+21:37.200 --> 21:38.970
+Just throw out a ton of ideas.
+
+512
+21:38.970 --> 21:41.800
+And a great thing about, you know, I use ChatGPT
+
+513
+21:42.870 --> 21:44.760
+and you can do this with Claude or Gemini or whatever,
+
+514
+21:44.760 --> 21:49.740
+but is just to say, "Give me 20 ideas about this."
+
+515
+21:49.740 --> 21:50.820
+It's important to note that
+
+516
+21:50.820 --> 21:53.310
+never yet has it given me an idea
+
+517
+21:53.310 --> 21:55.380
+that I'm like, "That's the answer."
+
+518
+21:55.380 --> 21:57.660
+But it gives me ideas that sometimes
+
+519
+21:57.660 --> 22:01.383
+spark further thinking in the development group.
+
+520
+22:02.310 --> 22:05.550
+And it actually, has been very beneficial that way.
+
+521
+22:05.550 --> 22:08.220
+And another area is in terms of creating stories,
+
+522
+22:08.220 --> 22:10.590
+or rhymes, or lyrics, or jokes, you know,
+
+523
+22:10.590 --> 22:12.870
+I need give me 10 jokes about an owl.
+
+524
+22:12.870 --> 22:14.490
+They're usually really bad jokes,
+
+525
+22:14.490 --> 22:15.870
+but they will spark.
+
+526
+22:15.870 --> 22:17.730
+<v ->You get one that's good.</v>
+<v ->Maybe get one that's okay,</v>
+
+527
+22:17.730 --> 22:19.350
+but then it'll spark, oh, you know,
+
+528
+22:19.350 --> 22:21.930
+something about an owl to make a joke about
+
+529
+22:21.930 --> 22:22.980
+that I hadn't thought of.
+
+530
+22:22.980 --> 22:24.930
+It's, you know, the fact that its head
+
+531
+22:24.930 --> 22:26.970
+moves around in 360 degrees or something like that.
+
+532
+22:26.970 --> 22:29.250
+So, that's kind of how we use it.
+
+533
+22:29.250 --> 22:31.530
+<v ->Yeah, we use it in a lot of similar ways.</v>
+
+534
+22:31.530 --> 22:35.490
+I mean, it's not gonna give you reliably good answers,
+
+535
+22:35.490 --> 22:39.930
+but it'll give you a list of reasonable options.
+
+536
+22:39.930 --> 22:42.450
+And so, it's really good for brainstorming,
+
+537
+22:42.450 --> 22:46.110
+for trying to name things, I mean there's all sorts of,
+
+538
+22:46.110 --> 22:47.493
+we use it for coding.
+
+539
+22:48.810 --> 22:52.080
+Like, I don't know, AI is a really, really powerful tool.
+
+540
+22:52.080 --> 22:55.560
+It just is some things and isn't other things.
+
+541
+22:55.560 --> 22:57.810
+And I think in the kind of environment we're in,
+
+542
+22:57.810 --> 23:00.240
+there's a lot of anti-AI backlash
+
+543
+23:00.240 --> 23:04.473
+and it's kind of thought to be maybe more than what it is.
+
+544
+23:05.550 --> 23:07.560
+<v ->I would build on what my panelists</v>
+
+545
+23:07.560 --> 23:09.930
+have just described about lo-fi prototyping.
+
+546
+23:09.930 --> 23:12.060
+And so, at IDEO, every time we try
+
+547
+23:12.060 --> 23:14.610
+to do a design research interview or observation,
+
+548
+23:14.610 --> 23:16.530
+we wanna put something tangible
+
+549
+23:16.530 --> 23:18.930
+in front of who the participants are
+
+550
+23:18.930 --> 23:20.550
+to really get them to react
+
+551
+23:20.550 --> 23:23.520
+to the heart or the core of whatever that concept is.
+
+552
+23:23.520 --> 23:26.220
+So, similarly, after ideation,
+
+553
+23:26.220 --> 23:28.110
+you sometimes wanna bring in a sketch
+
+554
+23:28.110 --> 23:29.850
+or a little more fleshed idea
+
+555
+23:29.850 --> 23:33.690
+and it's not the idea that makes it to the end stage,
+
+556
+23:33.690 --> 23:35.850
+however it's something that's just tangible enough.
+
+557
+23:35.850 --> 23:39.480
+So, whether it's generating image for us, you saw,
+
+558
+23:39.480 --> 23:42.420
+we actually, just generated a bunch of scripts
+
+559
+23:42.420 --> 23:46.140
+asking again, for instance, if you to interact with AI,
+
+560
+23:46.140 --> 23:47.160
+what would it be like?
+
+561
+23:47.160 --> 23:49.520
+And AI did a really good job impersonating itself
+
+562
+23:49.520 --> 23:51.870
+in some cringey and weird ways.
+
+563
+23:51.870 --> 23:53.190
+It also tried to do a pretty,
+
+564
+23:53.190 --> 23:57.150
+actually did a pretty good job of sounding very natural.
+
+565
+23:57.150 --> 23:59.640
+So, we put all those scripts in front of kids and youth
+
+566
+23:59.640 --> 24:02.550
+and had them read them aloud and try to respond to be like,
+
+567
+24:02.550 --> 24:05.010
+oh, I don't really quite like how that landed
+
+568
+24:05.010 --> 24:06.720
+or that sentiment felt weird.
+
+569
+24:06.720 --> 24:09.510
+Again, but as everything my panelists have described,
+
+570
+24:09.510 --> 24:11.370
+it's for the sense of provoking,
+
+571
+24:11.370 --> 24:13.560
+for the sense of getting a bit more tangible
+
+572
+24:13.560 --> 24:16.200
+and helping people spark those ideas and responses.
+
+573
+24:16.200 --> 24:18.076
+<v ->And I just want to add one thing</v>
+
+574
+24:18.076 --> 24:19.526
+that you made me think of is,
+
+575
+24:20.760 --> 24:23.340
+I do a lot of art direction of artists,
+
+576
+24:23.340 --> 24:24.840
+but I am not an artist,
+
+577
+24:24.840 --> 24:27.570
+and I found it incredibly helpful, the image generation,
+
+578
+24:27.570 --> 24:29.820
+to make storyboards and I can sit there
+
+579
+24:29.820 --> 24:31.530
+and generate images and I'm like,
+
+580
+24:31.530 --> 24:32.940
+yeah, that's kind of what I'm thinking.
+
+581
+24:32.940 --> 24:34.710
+Then pass it on to the real artists
+
+582
+24:34.710 --> 24:37.020
+who then can much better understand.
+
+583
+24:37.020 --> 24:41.280
+So, as a kind of translation tool from thoughts to images,
+
+584
+24:41.280 --> 24:43.290
+it's been very, very helpful.
+
+585
+24:43.290 --> 24:46.740
+<v ->Yeah, I love that you all speak of it as a tool,</v>
+
+586
+24:46.740 --> 24:48.750
+because that's what it really is.
+
+587
+24:48.750 --> 24:51.540
+It's, you know, like years ago people were worried
+
+588
+24:51.540 --> 24:53.370
+about kids in the internet, you know,
+
+589
+24:53.370 --> 24:54.570
+and how they were gonna use that.
+
+590
+24:54.570 --> 24:56.880
+And some of those things have come true,
+
+591
+24:56.880 --> 25:01.140
+but in reality to them it's just a tool to access the world.
+
+592
+25:01.140 --> 25:04.800
+You know, it has not become embedded in their brain.
+
+593
+25:04.800 --> 25:07.830
+So, I'd like to shift a little bit to talk about,
+
+594
+25:07.830 --> 25:11.310
+so we talked about how people are using it for design.
+
+595
+25:11.310 --> 25:12.900
+Can you tell me a little bit about
+
+596
+25:12.900 --> 25:15.850
+what guardrails exist in AI
+
+597
+25:17.040 --> 25:21.180
+when you are talking about designing for children?
+
+598
+25:21.180 --> 25:24.270
+<v ->So, I think that at least ChatGPT</v>
+
+599
+25:24.270 --> 25:27.240
+has some internal guardrails.
+
+600
+25:27.240 --> 25:29.760
+If you say the content is for children,
+
+601
+25:29.760 --> 25:34.670
+the reliability of those guardrails is a little bit suspect,
+
+602
+25:34.670 --> 25:37.590
+but you'll definitely get a tighter control
+
+603
+25:37.590 --> 25:40.650
+over any sort of inappropriate content,
+
+604
+25:40.650 --> 25:44.606
+any sort of sexual content, offensive content.
+
+605
+25:44.606 --> 25:47.310
+And even in general though, I think,
+
+606
+25:47.310 --> 25:50.310
+all of the AI companies realize that,
+
+607
+25:50.310 --> 25:52.650
+that sort of moderation is a big part of their challenge,
+
+608
+25:52.650 --> 25:54.120
+because they're trying to keep an image
+
+609
+25:54.120 --> 25:56.850
+that it can be relied on to do customer service
+
+610
+25:56.850 --> 25:58.320
+or to be, you know,
+
+611
+25:58.320 --> 26:00.780
+to be a corporate-facing front for your company.
+
+612
+26:00.780 --> 26:03.420
+So, it's a lot of the same challenges
+
+613
+26:03.420 --> 26:04.710
+as being safe for kids.
+
+614
+26:04.710 --> 26:07.230
+They wanna have control over what it does,
+
+615
+26:07.230 --> 26:10.800
+but being that it's not always the way it works
+
+616
+26:10.800 --> 26:13.320
+is just not controllable.
+
+617
+26:13.320 --> 26:16.530
+There's definitely a degree of randomness to it,
+
+618
+26:16.530 --> 26:19.263
+but they have two layers of checking.
+
+619
+26:20.220 --> 26:22.380
+They have second AI that's reading the content
+
+620
+26:22.380 --> 26:24.030
+of the AI that generates the content
+
+621
+26:24.030 --> 26:25.530
+to just check it for content,
+
+622
+26:25.530 --> 26:28.203
+which actually, helps with the moderation piece.
+
+623
+26:29.733 --> 26:31.560
+<v ->I'd like to mention, I think</v>
+
+624
+26:31.560 --> 26:33.870
+that when we think about safety for kids with AI,
+
+625
+26:33.870 --> 26:36.240
+there's multiple levels of what that means, right?
+
+626
+26:36.240 --> 26:37.350
+On the one hand it's, you know,
+
+627
+26:37.350 --> 26:39.210
+does it drop F-bombs all the time, right?
+
+628
+26:39.210 --> 26:42.330
+I think that's pretty well covered at this point.
+
+629
+26:42.330 --> 26:44.100
+But there's a whole other aspect of
+
+630
+26:44.100 --> 26:45.660
+is the content it's generating,
+
+631
+26:45.660 --> 26:48.180
+and I'm talking about generating content for kids,
+
+632
+26:48.180 --> 26:50.340
+and at Readyland we don't do that at this point,
+
+633
+26:50.340 --> 26:53.970
+but when you do generate for content for kids,
+
+634
+26:53.970 --> 26:56.400
+is your product such that it's critical that,
+
+635
+26:56.400 --> 26:59.250
+that content is accurate, you know?
+
+636
+26:59.250 --> 27:02.340
+Or is it more like Nelo's solution, which is fantastic
+
+637
+27:02.340 --> 27:03.900
+that it's about creativity and exploration?
+
+638
+27:03.900 --> 27:06.360
+If things are a little wonky, that's fine, right?
+
+639
+27:06.360 --> 27:08.133
+But I think just even a month ago,
+
+640
+27:09.240 --> 27:11.820
+in all the major chat services,
+
+641
+27:11.820 --> 27:14.430
+you asked how many Rs are in the word strawberry,
+
+642
+27:14.430 --> 27:15.900
+they'd all say two, right?
+
+643
+27:15.900 --> 27:18.030
+So, if you're building a product
+
+644
+27:18.030 --> 27:21.060
+that's really focused on accuracy and information,
+
+645
+27:21.060 --> 27:22.470
+it's a huge hill.
+
+646
+27:22.470 --> 27:24.810
+If you're building a product that's focused on
+
+647
+27:24.810 --> 27:27.390
+fun and exploration and creativity,
+
+648
+27:27.390 --> 27:28.770
+you don't have to worry about that so much.
+
+649
+27:28.770 --> 27:32.250
+So again, it's really about the product and the tool set
+
+650
+27:32.250 --> 27:35.790
+and then what you have to do to make sure it's appropriate.
+
+651
+27:35.790 --> 27:36.840
+<v ->Something that Josh said,</v>
+
+652
+27:36.840 --> 27:39.420
+which totally resonates with how we function at IDEO
+
+653
+27:39.420 --> 27:41.610
+is about bringing the human first
+
+654
+27:41.610 --> 27:44.910
+and not letting technology dictate the types of use cases.
+
+655
+27:44.910 --> 27:47.850
+And so, something that comes to mind is,
+
+656
+27:47.850 --> 27:50.310
+as I was researching previously,
+
+657
+27:50.310 --> 27:53.340
+just general online safety for children, kids,
+
+658
+27:53.340 --> 27:56.250
+and youth these days, the word stranger danger,
+
+659
+27:56.250 --> 27:57.480
+I'm sure many of us grew up with that.
+
+660
+27:57.480 --> 27:59.880
+That phrase doesn't apply.
+
+661
+27:59.880 --> 28:03.570
+We're used to talking to strangers online on forums.
+
+662
+28:03.570 --> 28:06.690
+It's very normal to ask the public
+
+663
+28:06.690 --> 28:08.610
+for opinions and questions.
+
+664
+28:08.610 --> 28:11.100
+So, I think something I would throw back as an opportunity
+
+665
+28:11.100 --> 28:13.710
+is how do we think about what it's like
+
+666
+28:13.710 --> 28:15.330
+to talk to a potential stranger,
+
+667
+28:15.330 --> 28:17.490
+which might be a chatbot, which might be a product,
+
+668
+28:17.490 --> 28:20.040
+which might be any sort of service.
+
+669
+28:20.040 --> 28:22.350
+I think there's a need and a hill
+
+670
+28:22.350 --> 28:26.490
+about reframing what it's like to interact with an unknown.
+
+671
+28:26.490 --> 28:28.770
+And that's, I think on us as parents,
+
+672
+28:28.770 --> 28:30.750
+designers, educators, caretakers,
+
+673
+28:30.750 --> 28:33.813
+to really think about our relationship with the technology.
+
+674
+28:34.920 --> 28:35.753
+Do you have something?
+
+675
+28:35.753 --> 28:37.320
+<v ->Yeah, I was just gonna say like</v>
+
+676
+28:37.320 --> 28:39.963
+to the design side like,
+
+677
+28:40.890 --> 28:43.680
+there has to be a human element at some level
+
+678
+28:43.680 --> 28:47.430
+and there has to be a concept that's the AI is driving
+
+679
+28:47.430 --> 28:49.200
+that is more than just the AI.
+
+680
+28:49.200 --> 28:51.480
+And I think that's a mistake that people make
+
+681
+28:51.480 --> 28:52.800
+is there's a new technology
+
+682
+28:52.800 --> 28:54.960
+and people will put it in every single product,
+
+683
+28:54.960 --> 28:56.940
+whether it makes sense or not.
+
+684
+28:56.940 --> 28:59.010
+Your refrigerator and your toaster and your air fryer
+
+685
+28:59.010 --> 29:01.380
+and you know, like every product has it.
+
+686
+29:01.380 --> 29:03.600
+So, I think it's the use case first.
+
+687
+29:03.600 --> 29:04.950
+Figure out the product you wanna make
+
+688
+29:04.950 --> 29:06.390
+and then find the technology
+
+689
+29:06.390 --> 29:08.250
+that is gonna help you facilitate that feature
+
+690
+29:08.250 --> 29:09.723
+or that sort of play pattern.
+
+691
+29:10.560 --> 29:12.450
+<v ->Right, and I think it goes, you know,</v>
+
+692
+29:12.450 --> 29:17.370
+as parents we are looking for ways
+
+693
+29:17.370 --> 29:20.400
+to grab a few minutes here and there
+
+694
+29:20.400 --> 29:23.697
+and things like Poe and Readyland
+
+695
+29:23.697 --> 29:26.550
+and they can give you those few minutes,
+
+696
+29:26.550 --> 29:29.790
+but at the same time you need to stay aware.
+
+697
+29:29.790 --> 29:31.590
+You need to know what's going on,
+
+698
+29:31.590 --> 29:34.933
+you need to still be in the area.
+
+699
+29:34.933 --> 29:36.990
+You know, you should never really be leaving our children
+
+700
+29:36.990 --> 29:40.800
+alone with technology, if we can avoid it.
+
+701
+29:40.800 --> 29:42.510
+So, taking it from there,
+
+702
+29:42.510 --> 29:44.850
+there was something on one of our calls
+
+703
+29:44.850 --> 29:47.100
+that I thought that you said, Karen,
+
+704
+29:47.100 --> 29:48.930
+and you correct me, if I'm wrong,
+
+705
+29:48.930 --> 29:53.670
+but talking about the things that Gen Z are enjoying doing
+
+706
+29:53.670 --> 29:56.820
+and probably younger generations are too with AI
+
+707
+29:56.820 --> 29:58.770
+and it was really about creativity.
+
+708
+29:58.770 --> 30:00.990
+It wasn't so much about talking to a chatbot.
+
+709
+30:00.990 --> 30:03.210
+Can you sort of elaborate a little bit?
+
+710
+30:03.210 --> 30:06.420
+<v ->Sure. So, stepping back a few paces,</v>
+
+711
+30:06.420 --> 30:08.940
+in general, I think there's a lot of
+
+712
+30:08.940 --> 30:11.070
+alignment around productivity.
+
+713
+30:11.070 --> 30:12.690
+Something can help me organize my calendar,
+
+714
+30:12.690 --> 30:14.667
+if something can help me with my essay a bit, right?
+
+715
+30:14.667 --> 30:17.550
+There's a lot of things about saving time,
+
+716
+30:17.550 --> 30:18.690
+but then I guess the question is,
+
+717
+30:18.690 --> 30:20.970
+where do you wanna save time on?
+
+718
+30:20.970 --> 30:23.040
+Do I need to speed up this part of my life
+
+719
+30:23.040 --> 30:25.590
+and process for the sake, because I can.
+
+720
+30:25.590 --> 30:27.960
+And so, when it comes to things like creativity,
+
+721
+30:27.960 --> 30:30.540
+it was cool as I think my panelists have described
+
+722
+30:30.540 --> 30:32.220
+about having a thought partner,
+
+723
+30:32.220 --> 30:34.560
+but there's something very different when,
+
+724
+30:34.560 --> 30:36.000
+you know, your kid hands you something
+
+725
+30:36.000 --> 30:36.840
+and they're so proud of it,
+
+726
+30:36.840 --> 30:38.580
+'cause you put it on the refrigerator, they own it,
+
+727
+30:38.580 --> 30:40.470
+they know they made it.
+
+728
+30:40.470 --> 30:41.430
+There's something different
+
+729
+30:41.430 --> 30:44.070
+and I think we still need to explore when it comes to
+
+730
+30:44.070 --> 30:47.040
+who gets to feel like they've been accomplished,
+
+731
+30:47.040 --> 30:48.690
+who gets to feel that sense of reward,
+
+732
+30:48.690 --> 30:50.460
+because they work through the challenge
+
+733
+30:50.460 --> 30:52.620
+in that problem space.
+
+734
+30:52.620 --> 30:55.140
+And so, a lot of teenagers are, again,
+
+735
+30:55.140 --> 30:57.990
+creating incredible content with these video editing tools,
+
+736
+30:57.990 --> 31:00.390
+video generator tools, script generator tools, everything.
+
+737
+31:00.390 --> 31:02.370
+It's so fun to watch where their ideas
+
+738
+31:02.370 --> 31:04.560
+get to come out into reality.
+
+739
+31:04.560 --> 31:06.960
+So, at the same time there's a bit more nuance to ask,
+
+740
+31:06.960 --> 31:10.033
+which parts though they're trying to shortcut through.
+
+741
+31:10.033 --> 31:12.830
+I was just talking to some colleagues
+
+742
+31:12.830 --> 31:14.400
+in the entertainment industry
+
+743
+31:14.400 --> 31:15.510
+and it was really cool to be like,
+
+744
+31:15.510 --> 31:18.000
+yeah, the things that make movie editing
+
+745
+31:18.000 --> 31:20.820
+at a large studio much faster
+
+746
+31:20.820 --> 31:23.430
+we now have access to, that is incredible.
+
+747
+31:23.430 --> 31:25.860
+And feels much more democratized in that way.
+
+748
+31:25.860 --> 31:28.740
+But when it comes to owning the final product,
+
+749
+31:28.740 --> 31:31.140
+when it comes to refining an idea,
+
+750
+31:31.140 --> 31:33.960
+there's still, as Nelo described,
+
+751
+31:33.960 --> 31:36.360
+that final human touch that makes it yours.
+
+752
+31:36.360 --> 31:38.100
+And so, I'm seeing a lot
+
+753
+31:38.100 --> 31:40.200
+and I'd love to hear other people's opinions
+
+754
+31:40.200 --> 31:41.910
+on where that nuance comes in
+
+755
+31:41.910 --> 31:44.433
+when you get to feel like this art is mine.
+
+756
+31:45.360 --> 31:46.410
+<v ->That is a good question.</v>
+
+757
+31:46.410 --> 31:48.660
+And I know that, that is, my son is 21
+
+758
+31:48.660 --> 31:51.900
+and he could care less for chatbots,
+
+759
+31:51.900 --> 31:56.900
+but creating videos and it is an interesting space,
+
+760
+31:57.030 --> 31:58.290
+because as we just heard,
+
+761
+31:58.290 --> 31:59.910
+when Nelo and Josh were talking about
+
+762
+31:59.910 --> 32:04.860
+how they use AI in their development, it was a tool,
+
+763
+32:04.860 --> 32:08.610
+but the end product, the AI didn't create
+
+764
+32:08.610 --> 32:09.780
+that end product, right?
+
+765
+32:09.780 --> 32:12.570
+It was all of the people that work at your companies
+
+766
+32:12.570 --> 32:15.270
+who came together and came up with the ideas
+
+767
+32:15.270 --> 32:17.130
+and refined the ideas.
+
+768
+32:17.130 --> 32:20.010
+So, I think that's just really interesting
+
+769
+32:20.010 --> 32:21.870
+that technology can only take us
+
+770
+32:21.870 --> 32:24.150
+so far in the creative process
+
+771
+32:24.150 --> 32:26.850
+and then they still need us,
+
+772
+32:26.850 --> 32:28.380
+they still need the human beings.
+
+773
+32:28.380 --> 32:29.790
+We're still valid.
+
+774
+32:29.790 --> 32:34.410
+<v ->Yeah. You know, I think one of the errors</v>
+
+775
+32:34.410 --> 32:37.380
+that people make in making products for kids is they,
+
+776
+32:37.380 --> 32:39.960
+first of all, a lot of people who are technically minded
+
+777
+32:39.960 --> 32:42.420
+see a new technology and they say, "Hey, this is magical."
+
+778
+32:42.420 --> 32:43.253
+<v ->Shiny.</v>
+
+779
+32:43.253 --> 32:44.640
+<v ->Oh it's gonna be magical for kids.</v>
+
+780
+32:44.640 --> 32:47.220
+Now, first of all, kids don't see magic in the same way
+
+781
+32:47.220 --> 32:49.620
+that grown up engineers see magic, right?
+
+782
+32:49.620 --> 32:51.470
+And secondly, what's really important
+
+783
+32:52.971 --> 32:54.780
+is the magic of technology fades really fast.
+
+784
+32:54.780 --> 32:56.940
+I think kids are already getting used to AI.
+
+785
+32:56.940 --> 32:58.410
+You know, there was a time when
+
+786
+32:58.410 --> 33:00.720
+having an iPhone and touching a picture
+
+787
+33:00.720 --> 33:02.040
+and watching it move under your finger
+
+788
+33:02.040 --> 33:03.693
+was mind blowingly magical.
+
+789
+33:04.800 --> 33:06.510
+It's not magical anymore, right?
+
+790
+33:06.510 --> 33:08.880
+So, I think the critical thing is
+
+791
+33:08.880 --> 33:09.930
+in designing these products,
+
+792
+33:09.930 --> 33:12.270
+you need human beings who have the experience
+
+793
+33:12.270 --> 33:13.590
+of developing for kids
+
+794
+33:13.590 --> 33:16.380
+what is a fun, compelling, magical thing
+
+795
+33:16.380 --> 33:17.910
+that has nothing to do,
+
+796
+33:17.910 --> 33:20.760
+when the technology is gone is it still fun and magical?
+
+797
+33:20.760 --> 33:23.130
+I think that's critical.
+<v ->I love that.</v>
+
+798
+33:23.130 --> 33:24.480
+<v ->Yeah, and I think the tools</v>
+
+799
+33:24.480 --> 33:27.570
+extend your capabilities for kids.
+
+800
+33:27.570 --> 33:29.100
+Depending on your level of skill,
+
+801
+33:29.100 --> 33:32.430
+you can use AI to greatly expand
+
+802
+33:32.430 --> 33:34.650
+what you're able to do yourself creatively.
+
+803
+33:34.650 --> 33:35.760
+Like if you're an artist,
+
+804
+33:35.760 --> 33:39.150
+but you want to program your toy somehow,
+
+805
+33:39.150 --> 33:41.280
+or your thing, or your art exhibit you're making,
+
+806
+33:41.280 --> 33:43.650
+you can use the AI to generate the code.
+
+807
+33:43.650 --> 33:45.570
+So, I think it gives you capabilities
+
+808
+33:45.570 --> 33:48.330
+that are a little bit beyond that are your core skills
+
+809
+33:48.330 --> 33:50.970
+to sort of enhance the overall.
+
+810
+33:50.970 --> 33:52.800
+<v ->Totally, one of the principles we had up there was</v>
+
+811
+33:52.800 --> 33:55.110
+enhance my abilities don't replace them.
+
+812
+33:55.110 --> 33:58.230
+They're coming to age and forming their identity.
+
+813
+33:58.230 --> 34:00.510
+They're coming to understand their passions.
+
+814
+34:00.510 --> 34:02.100
+Let's give them space to do that
+
+815
+34:02.100 --> 34:03.720
+without just eliminating all those
+
+816
+34:03.720 --> 34:07.050
+fun, meaningful, life-formative aspects.
+
+817
+34:07.050 --> 34:09.180
+<v ->And I think Gen Z is to some extent,</v>
+
+818
+34:09.180 --> 34:11.426
+just from my own observations,
+
+819
+34:11.426 --> 34:15.390
+they're not technophobes by any stretch of the imagination,
+
+820
+34:15.390 --> 34:18.390
+but they do have really good boundaries
+
+821
+34:18.390 --> 34:20.970
+around where they want the technology
+
+822
+34:20.970 --> 34:22.890
+to intersect with living their lives.
+
+823
+34:22.890 --> 34:25.830
+And sometimes I think it's better than mine, honestly.
+
+824
+34:25.830 --> 34:27.480
+I really do.
+
+825
+34:27.480 --> 34:29.100
+In the few minutes we have left,
+
+826
+34:29.100 --> 34:31.800
+I'd just like to open it up to you to ask you all,
+
+827
+34:31.800 --> 34:36.210
+where do you think AI can take parents and children
+
+828
+34:36.210 --> 34:38.700
+going into the future in terms of
+
+829
+34:38.700 --> 34:42.873
+expanding creativity, imagination, where are we going?
+
+830
+34:45.240 --> 34:46.790
+Don't everybody answer at once.
+
+831
+34:47.880 --> 34:50.010
+<v ->That's a tough question.</v>
+
+832
+34:50.010 --> 34:50.940
+I have a crystal ball.
+
+833
+34:50.940 --> 34:52.410
+Hold on, et me look.
+
+834
+34:52.410 --> 34:55.740
+<v ->No, getting back to my theme of making great products.</v>
+
+835
+34:55.740 --> 34:57.480
+I do think it enhances the ability
+
+836
+34:57.480 --> 35:00.990
+to make better or different great products for kids.
+
+837
+35:00.990 --> 35:02.610
+You know, our books, for example,
+
+838
+35:02.610 --> 35:05.070
+a kid can read it 20 times and it's different every time.
+
+839
+35:05.070 --> 35:06.990
+That has never been available before.
+
+840
+35:06.990 --> 35:08.640
+A kid can talk to the character in a book,
+
+841
+35:08.640 --> 35:10.110
+that has never been available before.
+
+842
+35:10.110 --> 35:13.560
+And that's not, you know, we're not using AI so much,
+
+843
+35:13.560 --> 35:18.560
+but voice recognition and computer, everything.
+
+844
+35:18.900 --> 35:21.900
+All these technologies expand the possibility
+
+845
+35:21.900 --> 35:23.430
+for a new type of experience.
+
+846
+35:23.430 --> 35:25.740
+And I think when designed well
+
+847
+35:25.740 --> 35:27.570
+by people who know how to design for kids,
+
+848
+35:27.570 --> 35:31.020
+that can actually, make the world a better place for kids.
+
+849
+35:31.020 --> 35:33.660
+<v ->Yeah, and I think it can also for toys, you know,</v>
+
+850
+35:33.660 --> 35:36.990
+the dream is always to have your toy feel alive.
+
+851
+35:36.990 --> 35:40.110
+It's a challenge to do and I don't know if we're there yet,
+
+852
+35:40.110 --> 35:42.210
+but I think there's a world
+
+853
+35:42.210 --> 35:45.240
+where you can start to weave in interactivity
+
+854
+35:45.240 --> 35:47.430
+to toys in a way they feel much more alive
+
+855
+35:47.430 --> 35:48.810
+and the content feels fresh.
+
+856
+35:48.810 --> 35:51.480
+So, you're not hearing the same sounds 100 times in a row.
+
+857
+35:51.480 --> 35:54.060
+You know, you're actually getting interesting content
+
+858
+35:54.060 --> 35:56.220
+every time you play with it.
+
+859
+35:56.220 --> 35:57.690
+<v ->I think something I think a lot about</v>
+
+860
+35:57.690 --> 35:59.010
+is deepening the relationships
+
+861
+35:59.010 --> 36:01.680
+within existing communities and families.
+
+862
+36:01.680 --> 36:03.660
+And I was thinking about, you know,
+
+863
+36:03.660 --> 36:05.340
+a really great parent, a great teacher
+
+864
+36:05.340 --> 36:08.100
+knows their child and knows what they're interested in.
+
+865
+36:08.100 --> 36:10.830
+I think the big bucket, we call it personalized learning,
+
+866
+36:10.830 --> 36:13.350
+but imagine if that personalized learning journey
+
+867
+36:13.350 --> 36:15.570
+was something that the family could go on together, right?
+
+868
+36:15.570 --> 36:17.760
+This week you like manatees and you wanna go to
+
+869
+36:17.760 --> 36:20.130
+the very end of that rabbit hole about manatees.
+
+870
+36:20.130 --> 36:21.180
+And maybe it's just,
+
+871
+36:21.180 --> 36:22.980
+because they like the shape of their bodies.
+
+872
+36:22.980 --> 36:24.984
+We don't know the color of their skin,
+
+873
+36:24.984 --> 36:28.410
+but like being able to access that endless library
+
+874
+36:28.410 --> 36:30.150
+of possibilities and prompts
+
+875
+36:30.150 --> 36:32.520
+and being able take that journey together,
+
+876
+36:32.520 --> 36:35.370
+'cause a lot of times I hear from a lot of parents,
+
+877
+36:35.370 --> 36:37.290
+or especially as they reach an older age,
+
+878
+36:37.290 --> 36:40.020
+you know, I just don't know what my kid is thinking anymore.
+
+879
+36:40.020 --> 36:41.850
+And imagine this opportunity
+
+880
+36:41.850 --> 36:44.430
+to go on that journey of discovery together.
+
+881
+36:44.430 --> 36:46.770
+I do think there's a lot that can be enabled
+
+882
+36:46.770 --> 36:50.760
+by this very generative and explorative technology.
+
+883
+36:50.760 --> 36:52.350
+<v ->I love that. I absolutely love that.</v>
+
+884
+36:52.350 --> 36:54.360
+And I think that's a really great note for us
+
+885
+36:54.360 --> 36:55.470
+to finish up on.
+
+886
+36:55.470 --> 36:58.650
+And you know, the message that we've tried to communicate is
+
+887
+36:58.650 --> 37:02.940
+AI is a great tool for creativity and imagination.
+
+888
+37:02.940 --> 37:05.010
+AI can be safe for children.
+
+889
+37:05.010 --> 37:07.320
+And the people that are creating products
+
+890
+37:07.320 --> 37:09.630
+that in some way use AI,
+
+891
+37:09.630 --> 37:11.430
+whether it's in the design process
+
+892
+37:11.430 --> 37:13.140
+or the actual output process,
+
+893
+37:13.140 --> 37:15.600
+there's a lot of deep thought
+
+894
+37:15.600 --> 37:18.090
+that goes into the creation of these products.
+
+895
+37:18.090 --> 37:19.740
+And I'd like to thank all three of you
+
+896
+37:19.740 --> 37:22.320
+for sharing your expertise.
+
+897
+37:22.320 --> 37:24.240
+We'll be available side stage,
+
+898
+37:24.240 --> 37:25.347
+if you have any questions for them.
+
+899
+37:25.347 --> 37:27.630
+And I think there's a link somewhere
+
+900
+37:27.630 --> 37:29.880
+to everyone's information.
+
+901
+37:29.880 --> 37:31.710
+There it is. There's the link.
+
+902
+37:31.710 --> 37:33.030
+Thank you all so much.
+
+903
+37:33.030 --> 37:33.930
+Thank you, guys.
+
+904
+37:33.930 --> 37:36.300
+I really appreciate you sharing all your thoughts today.
+
+905
+37:36.300 --> 37:37.133
+<v Karen>Thank you, Melissa.</v>
+
+906
+37:37.133 --> 37:38.819
+<v ->Thank you.</v>
+<v ->Thank you.</v>
+
+907
+37:38.819 --> 37:40.729
+(audience applauding)
+
+908
+37:40.729 --> 37:43.312
+(upbeat music)
+

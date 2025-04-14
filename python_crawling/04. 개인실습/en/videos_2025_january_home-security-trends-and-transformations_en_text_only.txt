@@ -1,0 +1,961 @@
+<v Elizabeth>Thank you all for joining us</v>
+for the sessions this afternoon,
+and one of our favorite topics at Parks Associates,
+really talking about the home security space.
+And we have a great session focused on
+the trends and transformation.
+But I don't think my clicker is working.
+Maybe, oh, there we go.
+Okay, so just a quick reminder.
+We are hosting a networking reception this evening
+at Treasure Island.
+If you'd like to join us
+in the Treasure Island Ballroom at 5:30.
+And again, a huge shout out to our sponsors of the event.
+Without their support,
+we wouldn't be hosting Connections Summit.
+This is our 19th year to partner with CTA
+for this conference.
+I'm Elizabeth Parks,
+I'm the president and CMO of Parks Associates,
+and I really welcome you to these sessions today
+to understand more about what's happening
+in the home security space.
+Just a few things that we're gonna be talking about,
+the reality of devices versus systems,
+how the installation is being simplified
+for security solutions
+and the impact of artificial intelligence on the experience,
+as well as where is the next stream of revenue.
+So big topics that we're gonna focus on.
+I'm gonna start here and just show a couple of slides,
+so you all can see a little bit more
+about the different players in the market
+and the solutions that they're offering.
+The market has expanded beyond just security systems,
+and now we are looking at devices in play
+with attached services.
+We also have self-monitoring as a possibility,
+there's paid security services without pro-monitoring,
+and there's also the installation side of the business
+with DIY and self-install.
+Currently 32% of all households in the United States,
+or about 40 million households are paying
+for some kind of security service.
+And if you were to break that up,
+you'd see that's 25% are attached to a security system.
+7% of these services attached to a security device.
+And this is a pretty important point
+that we'll be talking about.
+As we move into 2025,
+companies in the security solutions market
+are really gonna be looking at different technologies
+to enhance the offering across the board.
+Interoperability becomes much more important
+as consumers are looking to attach devices
+to existing systems
+and connect those different devices together
+through a centralized controller.
+We also see automation and routines
+being in demand from consumers,
+and obviously the big topic of AI and machine learning,
+all of the data that is being captured
+and ultimately looking for more and more RMR,
+or recurring monthly revenue.
+So today, we're gonna be talking about this.
+We've got an amazing group here of speakers representing
+really transformative companies in the industry
+who some have been around for 150 years
+and some of who are newer to the scene.
+And so we're gonna start off with quick introductions
+from each speaker and then get into our discussion.
+So Tim, we'll start with you,
+if you would please introduce yourself and Allegion.
+<v Tim>Hi, everybody.</v>
+Tim Eskew, I'm director of our residential
+electronic product portfolio.
+So I have responsibility for all of our smart lock products,
+as well as all the systems that back them up,
+our cloud platform, as well as our mobile app,
+based in Indianapolis and have been with Allegion
+just about three years now.
+<v Elizabeth>Okay, thank you.</v>
+Abe, welcome.
+<v Abe>Sure. Abe Kenney,</v>
+senior director of product management,
+and I'm involved with all of our hardware
+partner integrations as well as, you know,
+little bits of security
+and product strategy across the board.
+So Alarm.com's a professional security software platform,
+so we integrate, you know, devices from our partners.
+I see many of you in the audience as well.
+And then put it all together
+for the professional security path.
+You saw kind of Elizabeth lay out there.
+So really excited to talk about
+where we're headed in the future today.
+<v Elizabeth>Great, thanks for being here, Abe.</v>
+Leah, go ahead.
+Oops, I think we're a little outta order here.
+<v Leah>Hi everyone, I'm Leah Page.</v>
+I'm senior vice president of product strategy
+and innovation for ADT.
+ADT, the security company.
+You probably have seen the yard signs
+in either your yard or your neighbors.
+We've been around for about 150 years
+offering residential security.
+So nice to see everyone here.
+<v Elizabeth>Great. Welcome, Leah.</v>
+And Keith Puckett, thank you for joining us.
+<v Keith>Thank you for having me.</v>
+I am Keith Puckett, co-founder and CEO
+of Ubiety Technologies, about five years, not 150.
+But Ubiety, the brain behind what we've built
+is an artificial intelligence engine that can sense,
+categorize, and identify people
+based on the devices they're carrying.
+Really the emphasis there in security
+is situational awareness and how to provide really
+information to all stakeholders, right?
+The homeowners, the monitoring partners, law enforcement,
+and really give folks a true understanding
+of what's happening in the home.
+Folks that should be there and folks shouldn't be there.
+Our aim is to identify them based on the RF signaling
+off of their devices.
+<v Elizabeth>Okay, great.</v>
+So I wanna start the conversation
+just talking about the changed landscape
+and what we've seen over the past few years.
+And so Tim, I'm gonna start here with you.
+Can you characterize some of what you all were all seeing
+in the industry as more and more devices
+are coming into market for consumers in at home
+versus the systems play?
+<v ->Sure.</v>
+Kind of when I was thinking about this question,
+we were talking about it this last week in our pre-meeting.
+I started out with my first smart home device
+back about 15 years ago.
+I had a really simple desire
+to control my Christmas tree lights
+during the holidays with a schedule,
+so I didn't have to worry about turning it on
+and turning it off.
+That really put me on this journey
+of different smart home devices.
+And you know, with us now at Allegion or at Schlage
+with our smart lock products,
+one of the things that I think about with people
+using our products is they're really solving
+a need that they have with their home.
+You know, for us, with, you know, the products that we make
+that have Wi-Fi connectivity or other technologies,
+like Z-Wave, we bring in the ability for people
+to do very simple things like set up an access code
+for their children to use when they come home from school
+and not have to keep up with keys and things like that.
+So making life easier for people
+is really what I've seen help transform and grow the,
+you know, smart device industry.
+So people can use devices like our smart locks,
+or security systems, doorbells, things like that,
+all standalone get tremendous benefit from them.
+But then, you know, as we talk about later in this session,
+how we can then go a step beyond that
+and integrate devices with other things
+to create these even broader experiences.
+But starting out really with a base experience
+with just solving a particular need is where, you know,
+most people start their smart home journey.
+<v ->And so a lot of that really is focused</v>
+on a point solution, right?
+There's one thing it's doing versus an entire system
+that may be doing a number of different things.
+We do know that consumers, one of the top reasons
+why they're buying a home security system
+is to attach different devices to them
+and then have a central controller along with the app.
+So Keith, I wanna see if you can share a little bit
+from your perspective of how the market has shifted here
+over the past few years as we see more and more consumers
+looking to individual devices for security,
+but then also what's happening for the systems play.
+<v ->Yeah, you know, when I think about security to us,</v>
+we really wanted to provide software
+that could be deployed on existing systems.
+Originally that was the thinking,
+how could we make an existing system smarter
+with our software and then use
+our artificial intelligence engine to create real-time,
+high caliber inferences like what's happening in the home.
+That still to me feels like
+a really interesting opportunity.
+I think the market has shifted from heavy hardware plays
+to things that can give homeowners.
+At the end of the day, the value is voice of the customer.
+What does the customer want?
+Like I think they think less about,
+does this need to be a big system?
+Does this need to be a device?
+It's more like, is this solving a problem I have, you know?
+And so from a hardware standpoint, we like being able
+to empower and unlock value from existing hardware plays.
+I would also argue that or posit that home security
+and like the smart home are on this,
+if they haven't collided, they are going to collide soon.
+You know, we've been working in adjacent markets
+that are opening up the market for us
+in such an extraordinary way.
+We've been working with a strategic partner
+called Evolution Digital that provides hardware equipment
+to mix signal operators and ISPs.
+And I think that we'll start to see awareness, security,
+and value creation for the homeowner
+come together in a really nice, seamless way.
+<v ->Yeah, really interesting comments,</v>
+especially about layers of value as a result of software
+enabling hardware to do different things.
+Leah and Abe, let's get some of your perspective
+as a traditional professional monitored security providers.
+And Leah, we'll start with you.
+How is ADT keeping up with all of the change,
+and now potentially competing against a single device?
+<v ->Yeah, I think that, you know,</v>
+there's always still very much room for demand inside
+of the security industry for professionally installed
+and professionally monitored solutions.
+At ADT, we have a portfolio of solutions that are available
+for professional install as well as for self-install,
+which has, you know, been a major trend
+in the last couple of years.
+You know, we are seeing not only the systems
+and all of the devices that hook onto it,
+I think you said it best, Keith when you said, you know,
+this collision that's really happened
+between smart home and security.
+And so we continue to think about the types of devices
+that we wanna bring onto the system, the value,
+the experiences that these devices are bringing,
+as well as, you know, how they can help to enhance like,
+security in the home.
+So, you know, we're seeing a big collision
+obviously in the last few years between video.
+So we, you know, have video cameras,
+as well as video doorbells,
+and in the home and outside of the home,
+and the different types of streams
+and experiences that can bring
+lighting's another factor, right?
+So they're more of a smart home,
+traditionally a smart home solution that, you know,
+can have a lot of effect on security.
+So if someone comes up to your front door or your back door,
+and a light illuminates, you know,
+does that have a different effect on, you know,
+an intruder or somebody who shouldn't be in the home?
+And so, you know, certain use cases and things like that
+are certainly valuable.
+How we keep up though, you know, with the devices
+as far as being a system verse device,
+I think is just making sure
+that you're meeting the need of the marketplace.
+There'll still always be, you know,
+that the demand that we've seen, I think it was at 55%,
+Elizabeth, in the latest Parks's research
+where there's a huge demand and continues to be demand.
+But they'll, you know, as new devices come on board
+and new experiences, people will be, you know, invited into,
+so we'll actually be able to reach more consumers
+by having these devices as part of our ecosystems
+and part of the broader systems.
+So, you know, that's essentially what we're doing
+in thinking about this broader marketplace
+and how to bring people into it
+as we create new devices and experiences.
+<v Elizabeth>And so do, would you characterize</v>
+that we have a broader market,
+because of the introduction of standalone devices
+that also could be professional monitored services?
+<v ->Yeah, I certainly think that, you know,</v>
+it's reaching out to folks that maybe traditionally were,
+you know, didn't have as much interest
+in like a broader system, right?
+So it brings them in and says,
+"Hey, there's this piece of security,
+it's just one video camera I'm interested in.
+I really like the doorbell."
+Oh, a smart lock has a different appeal to me,
+but now it brings in that security use case
+and becomes more interesting, and that can be a little bit
+of a feeder into a broader system
+or it can be something that, you know,
+it's just a point solution that has, you know,
+a monitoring plan around it that can be really interesting
+for consumers.
+<v Elizabeth>Okay, and so then marketing</v>
+to the modern day consumer means perhaps
+highlighting different types of value that
+these systems can provide.
+<v ->Yep.</v>
+<v ->So Abe, I wanna see if you can touch</v>
+on the Alarm.com perspective perhaps
+as a lifestyle service company
+versus just a professional monitored services.
+<v ->Sure. And the security story's still very strong</v>
+and at the center of our offering still,
+and it's been exciting to have the opportunity
+for things like video.
+I think I agree, it's grown the story
+where people have an awareness,
+and they get a bit of information,
+and they realize that may or may not
+answer all the questions they thought it would
+and they then go looking for other solutions.
+Yeah, they want a lock, they want a sensor,
+they want a siren, they want a light,
+something that really compliments that security story.
+So I think we continue to invest a lot
+and think about how we can scale our messaging
+in a number of dimensions.
+You know, whether you care about your front door,
+your children, a growing family, whatever it might be.
+We definitely have to think about
+how we approach our messaging to meet those different needs.
+And I think from the lifestyle side,
+it is, you know, Tim and I were just talking before,
+it's really great how the driver
+might initially be security, but you get the stickiness,
+the engagement really through the automation devices, right?
+You're not having to break into your house every day,
+but, you know, my kids couldn't even tell you
+where the keys to the house are, they have no idea.
+And I think if they, you know, when they grow up in 10,
+if there's not a smart lock on the front door,
+they're gonna think this is not a smart house,
+this is a dumb house, right?
+So they're, I think it's getting easier and easier
+as the younger generations are becoming more embracing
+of technology to lean into those message of lifestyle
+and the value added points we get with our platform.
+<v ->Okay, and can you touch a little bit more</v>
+on this remote video monitoring?
+What does that mean?
+And where do you see that coming into play
+as far as the consumer perspective goes?
+<v ->Yeah, so remote video monitoring</v>
+is really just taking that security story
+and adding the professional monitoring component onto it.
+So I think we have, I think we're missing
+a little check mark in one of your things
+that we've started to add on just recently.
+So I think it's exactly that.
+It's one thing to have the awareness,
+but when you want help,
+you want someone to actually be addressing that problem,
+all the same things where we sold
+a professionally monitored traditional intrusion system.
+You know, if you're on a plane,
+and you get an alert who's solving that problem.
+Now you can start with that with video,
+and then again, grow from that video perspective
+to other things or be happy with video alone.
+And really I think that's growing the addressable market,
+not really so much stealing from the people
+that want a more robust intrusion system in their house.
+<v ->Sure, okay.</v>
+And I think 2025 might be the year of locks.
+There is a lot that is happening around locks
+and making them smart and this transition.
+And so Tim, tell us a little bit more about the marketing
+that goes along with this product,
+and how you're appealing to customers to get them
+to take something out of their door that's always worked
+to a certain way and convincing them
+that to go with something smart and connected.
+<v ->Sure, yeah.</v>
+We do think this year in particular
+is the year of the smart lock.
+We announced a couple of new products yesterday
+as an example, one that's bringing,
+or we'll bring later this year, a really fabulous experience
+where you don't have to have a smartphone or a watch,
+you just walk up to the door and it knows you,
+and it unlocks the door automatically,
+and seamlessly for you.
+And that's part of our real mantra at Schlage
+is to create these seamless access experiences.
+So part of our drive with smart lock products
+is to make the experience with consumers
+really connect with them and make access seamless for them,
+but also secure.
+That's one of the reasons why we think this year
+is gonna be the year of the smart lock.
+The second thing is,
+as we have continued to build some of our partnerships
+with different platforms like an Airbnb,
+bringing that smart lock experience to a whole new audience
+is one of the other things that we see is driving people
+to be interested in smart locks who may never have been
+exposed to a smart lock.
+So if you go to a property
+that has one of our smart locks on it,
+when you're staying at a vacation home somewhere
+and really have this fabulous experience
+of getting in seamlessly and easily,
+that's really helped bring awareness of smart locks
+to a broader audience.
+You know, you think about, you know,
+an average person that's,
+or an average vacation rental property
+has two to three guests a month, you multiply that
+by how many vacation rental homes there are
+that really exposes products like ours
+to a whole new audience,
+which we're really excited about as well.
+So those are a couple things
+that we see really driving this year of smart locks.
+And kind of the third element of that is bringing
+more integrated experiences with our products,
+so that we create more value for the customers
+that's integrating with partners like Alarm.com
+to bring new experiences to the homeowner.
+You know, integrations of access with alarm systems
+to arm and disarm as an example.
+Integrations with, you know, partners like Ring to,
+you know, look at a video feed from a doorbell,
+and unlock the door if you want to to, you know,
+simple integrations like turning on your lights
+when the door unlocks when you come home.
+That's one of my wife's favorites.
+Those are a few things.
+<v ->Okay, great.</v>
+And yeah, you know, we just published some research
+on single family rental homes,
+and we see this as a new segment of built homes
+where technology is really being incorporated everywhere,
+because there's so much value to be able to access
+and get into the home, or without a key to be able
+to send people and the convenience factor.
+Does anybody else wanna make any comments about locks, Leah?
+<v ->Yeah, I'll take a little bit.</v>
+So we, at ADT, we just launched a feature in the marketplace
+in Q4 called Trusted Neighbor,
+and essentially is a lot of the same,
+you know, principles that we're talking about.
+So it's, you know, this keyless entry
+where someone can walk up to the door,
+be recognized by the video doorbell, door unlock,
+system disarms, and you're allowed to go into the home.
+The homeowner in that case can do it,
+let's just say at an instant, like if something,
+an event was triggered and it happens then,
+or on a cadence, right?
+So I have a dog walker or somebody that needs to enter
+my home on a frequent basis.
+And so it's been interesting to sort of portray it
+as a use case in the marketing and things that we did in Q4.
+So, you know, big part of what we did
+was pushing that out there, things like, you know,
+huge billboard displays in Times Square and you know,
+all the way through what you're seeing on TV.
+But rather than talking about it as elements,
+like as point solutions, as a video doorbell,
+as a smart lock, tying it together and saying to consumers,
+"Hey, there's this use case for you to have
+that enables this abracadabra moment when someone walks up
+to your door is recognized, door opens,
+you know, the alarm is disarmed,
+they can enter for a period of time.
+And then of course after the exit, you know, is re-armed,
+and the home is back to its state."
+So that was exciting.
+And we took that as far as even going
+into non-security events.
+So things like water, which is, you know,
+something that's a huge use case for the home,
+but isn't necessarily,
+is I say peripheral maybe to security,
+but allows your neighbor to go in and say,
+turn off the water or do something, you know,
+in the case that there was actually a leak.
+So that was a big part
+of what we ran through Q4 and into this year,
+and it's been a really exciting promotion.
+We've seen a lot of consumers really take to the fact
+that it's use case based
+versus maybe just like point solution or, you know,
+talking about it as some device that's out there.
+It's a little less scary maybe to some to say,
+"Hey, I'm gonna replace my locks, you know,
+replace my doorbell, and do this, because now there's this
+ubiquitous use case that works for me."
+<v Elizabeth>And so all of these</v>
+what we're talking about has AI and artificial intelligence
+baked in pretty much everywhere.
+And so Keith, I wanna see if you can share a little bit more
+about what Ubiety is doing with the AI side
+of the experience for the consumer and why this matters
+so much when we're talking about security at home.
+<v ->Yeah, so Ubiety's taken a very purpose-built</v>
+novel approach to artificial intelligence.
+We're not relying on any LLMs or third-party models.
+We developed this entirely in-house.
+And the thesis is, our AI engines called Eckleburg.
+If you've read "Great Gatsby," that's fun.
+But the thesis is that we spent several years
+building a ground truth catalog, fingerprinting catalog
+of how all device types communicate
+unrelated to them being on the network, right?
+So why is that interesting?
+Our thesis is presence verification, right?
+So if someone, and I, by the way, am a big fan of cameras,
+so what I'm about to say is not something disparaging,
+but like if I have one camera on my front door,
+and I walk in through the front door,
+and the home says I'm home,
+but I walk out through my garage and I leave,
+am I still there?
+Like our job is to persistently provide
+presence verification.
+And so we did that through radio frequency signaling.
+We had this form of Faraday cages, which is a,
+these boxes that prevent signals from outside coming in.
+And we understood the ground truth
+of how every device type communicates
+in Bluetooth, Wi-Fi, and cellular,
+and then we created inference engines
+when we see those signaling types in the wild.
+So the use cases are in a conventional monitoring solution,
+if an alarm is going off, we can tell the monitoring center
+within a second exactly who's there,
+so they dynamically change how they action the alarm event.
+They don't go through some rote process,
+they don't send a generic text out.
+They send exactly messages and communications
+to the people they know are there
+just left or just got there.
+Then in the anomalous version,
+it's like someone enters a home, like we have five children,
+and there's seven iPhones in our house.
+Anytime any device walks into my house
+that's not known to the home, I get an alert.
+So my 13-year-old daughter brings a friend at home
+who has a Google Pixel, I get an alert.
+And I can say, "Olivia.
+Oh, hey. Did you bring a friend home, right?"
+So it's like we're trying to provide context
+and situational awareness, and that also manifests in,
+I like what you said, Leah, about use cases.
+It's like we drive those in use cases or product features,
+party detection.
+We can tell you if there's more people in your home
+than should be.
+We can tell you if people are there
+that have never been seen before.
+And all that's driven around AI of the home,
+which is we know exactly the telemetry
+or behavioral analytics of a home.
+And so anytime something anomalous happens,
+we're able to serve that to the homeowner.
+<v ->Okay, you said a lot of really great things there,</v>
+but I think summing it up, you know,
+verification seems to be the key word,
+and we know that is critical of critical importance
+for the responders, right?
+When a monitored alarm goes off, there is somebody,
+there's a dispatch, there's emergency is being called.
+And so Abe, I wanna see maybe if you can talk
+a little bit more about AI and verification,
+and maybe you could touch on AVS-01,
+explain why some of these things are so important
+not just to us as individuals, but for local communities
+and for our first responders,
+who are the ones gonna be showing up at the door
+when alarms are going off.
+<v ->Sure, so I mean maybe AI should be actionable insights.</v>
+That's what we're trying to get.
+We're just trying to get trusted real information
+out of the home at a critical time sensitive moment, right?
+So whether that's AI, whether that's putting together
+information from three discreet sensors,
+you know, the customer's phone,
+and there are application and information,
+and inputs from other users.
+We're all trying to just give the best possible story,
+because there's kind of been,
+while we have a proliferation of systems, right?
+The most alarms are false, right?
+So I think we have a responsibility
+to keep raising the bar on the information
+that we're sharing upstream,
+so that better decisions can be made for the responsible use
+of resources to respond to those issues.
+So AI is a big part of that, right? Yeah.
+Discreet sensors used to go off, you could often look at it,
+and look at time, history, historical actions.
+There's a lot of insights around likelihood of events
+that we bring into our interface along with video.
+You know, is there an actual person that's been detected
+where we can bring other elements
+of sensing from other systems,
+we're always happy to add that in to create
+that stronger picture of activity.
+<v ->Okay, great, thank you for that.</v>
+And AVS-01 is a important initiative
+where there is a verification
+and then scoring of different alarms,
+and this is connecting to the ECCs
+who are the ones who are getting the calls in,
+and then making decisions about what to do
+based on the information at hand.
+And so all of this technology
+that's getting put into the home
+is built to give that group, you know,
+the important context they need to decide,
+do we dispatch the police, do we not?
+Is there fire, you know, people that are needed out there.
+It becomes critical, it's also our money, right?
+Our tax paying dollars are the ones funding the police
+and the people that are responding.
+And so the more that the technology companies can provide,
+the better off everybody is in the end
+as far as verified alarms go.
+I wanna switch gears and touch a little bit
+on interoperability and standards,
+because we now have these different systems
+and/or devices with other devices coming into play.
+And so Tim, maybe give us a little bit of a view
+on what matters for security in the world of locks
+as it relates to Z-Wave, Matter, Thread.
+Really whatever standards you wanna reference here.
+<v ->Thanks.</v>
+So first off, you know, from our perspective,
+we do like standards.
+We've been providing smart locks
+with different standards in them
+as those standards have evolved.
+We started out with Zigbee many years ago.
+We have also launched Z-Wave locks.
+That's gotten a lot of attraction with security systems,
+which has done really well.
+It really helps create a couple of things
+I think for the consumer.
+The setup experience is very much known
+and quantified for consumer when they're setting up
+a device or a system provider,
+or an installer is installing the lock,
+it's standards help create a homogeneous setup experience.
+So there's one thing, whether that's Zigbee, Matter, Z-Wave,
+the consistent experience in the setup process
+has been very helpful.
+The second thing that we like about standards
+is that it helps organize the information from devices
+like our locks into systems,
+so that it's easy to be leveraged and used by other systems,
+be that alarm system, or something else that's talking
+to a device like our locks.
+You know, as standards evolve,
+they tend to try and solve different things.
+You know, they learn from each other.
+So the Matter standard is really, you know,
+focused on the broad device types that are in the home,
+and we'll continue to come out with more device types
+as that standard evolves,
+but also creating that again,
+even better consumer experience that's secure.
+So I think those are the things that we see with standards
+at a device communications level.
+The other thing too is from a manufacturer standpoint,
+when we're building a product that's gonna work
+with a standard be that Z-Wave or Matter,
+or another is that, you know, we're not having
+to do integrations with this system and then this system,
+and then this system, which, you know,
+adds time to the development cycle and adds cost too.
+And so for us, standards are beneficial,
+but we still have the flexibilities of manufacturer
+to build our own value into our products.
+You know, we tend to be known for high reliability products,
+products that last years and years, and years.
+We also have a little bit of a flare for style
+and design with our products.
+So those are some of the things that we can still do
+with our products to differentiate themselves
+over other standard products.
+And the other things, standards aren't built
+to do everything.
+And so when we build our products,
+we also build in other communications flexibility,
+so that we can work with other systems
+that may not be covered by the standard.
+<v ->Okay, great.</v>
+So standards definitely matter, they're important.
+And Matter does matter,
+as one of those jokes of the year probably.
+Let's talk a little bit more about Wi-Fi sensing.
+This is another one of these hot topics
+driven by all the technology
+that's getting built into the hardware.
+Abe, is that something you wanna touch on?
+<v ->Sure, so it's just, you know, another exciting opportunity</v>
+to bring more information into our ecosystem,
+into the story of activity and presence in the home
+and you know, to leverage perhaps
+the customer's existing devices or to bring in affordable,
+you know, sensing devices where instead of having
+to go on a room by room basis with the PIR,
+you could put in one or two devices,
+and cover a floor or a house.
+So we see it as absolutely complimentary
+to the existing infrastructure that we deploy.
+And so I think the more we can start to bring that in,
+layer it into maybe even some existing devices
+already go in the home, it just gives us a richer picture
+of activity that again supports the story of better action,
+better insights, and better results from the system.
+<v Elizabeth>Can you share a little bit more about</v>
+what the customer gets back as far as information goes
+when Wi-Fi sensing is are there notifications
+that are popping up?
+<v ->I mean we treat it in our system a lot</v>
+like a PIR, a motion sensor.
+That's what we are getting.
+We are getting motion.
+It just might be over a broader scope,
+like I said, multiple rooms or a floor,
+and then it flows into our system,
+just like you can do anything to connect events together.
+So you could keep your lights on, turn your lights off,
+if there's inactivity, trigger alerts if you
+all of a sudden get a motion at an unexpected time.
+We don't yet typically pull that into the,
+you know, the alarm infrastructure.
+So it's notification awareness,
+but something we are happy to explore,
+kind of thinking about it as complimentary
+to video only, for example.
+There's an interesting sort of broader set of awareness
+with your perimeter being video,
+and then getting understanding about what's going on
+in your home at a general level without needing to,
+you know, deploy something from a privacy perspective
+that people are typically resistant to.
+<v ->Okay, yeah, if I can add a tail onto that one too.</v>
+I think, you know, just thinking about future use cases
+and how you would use it too, just the anomaly detection.
+So it's not only like the aggregation of that data,
+what it's telling you, if there's a combination of things
+that are happening, is that more powerful,
+or tell you more about the event that's happening.
+But then if the same event happens every day
+and it doesn't happen this day, what does that mean?
+And so I think there's sort of the reverse
+that anomaly detection,
+which actually adds in a flavor of AI
+like we were talking about before to understand,
+you know, if something is supposed to happen and didn't,
+you know, what does that mean as well for consumers.
+<v ->Okay, great.</v>
+Any other comments on Wi-Fi sensing, anything? No.
+Okay, let's talk about where's the next set
+of revenue coming from?
+There is the recurring fees that can be charged
+for the professional monitor alarm,
+but what else are traditional companies
+able to charge for now beyond what they have in the past?
+Leah, would you like to answer that question?
+<v ->The money question.</v>
+<v ->Money question.</v>
+<v ->So you know, I think that we have a very traditional model</v>
+at ADT that revolves around residential security,
+and it's one that, you know,
+we're understanding that consumers want choice.
+They want choice in the types of devices
+that they have in the home.
+They want choices on the type of monitoring,
+whether it's pro-monitor, self-monitor.
+And by the way, there's flavors in between that, right?
+So I might want just fire or I might want just supervisory
+like water and other things,
+or I might also just want security.
+And so as we explore sort of the variety
+of what can be offered,
+there are many different types of business models,
+or recurring monthly revenues
+that can be associated to those.
+You can package it, you certainly can have different types
+of hardware that are associated to packages to create,
+you know, new recurring models there.
+So that's been exciting.
+One other thing that we have also looked into is, you know,
+how we can work and protect customers outside of the home.
+And so we work with companies on the,
+like in the gig economy, like Uber and Lyft, and DoorDash,
+and others, and there's revenue streams involved
+with embedding our monitoring services
+and our monitoring agent services inside
+of their experiences as well.
+And so I think that there are a lot of potential ways
+when we think about sort of the core of the business
+and, you know, monitoring as a service
+and what we might do there to, you know,
+create now new revenue models for our business.
+<v Elizabeth>Okay.</v>
+Keith, have any ideas where the next set
+of revenue's coming from?
+<v ->Yeah, I think, I mean candidly we use Parks's research</v>
+as to understand the motivators for what is actioning,
+someone to make a decision to buy security.
+The research is phenomenal.
+And the majority of it is around use cases
+that serve a homeowner, something they find valuable, right?
+You know, I would argue that the fundamental value promise
+of a security company to a homeowner is that
+in the event of an alarm, you will intervene
+with some sort of action, law enforcement or otherwise.
+So that's value promise one.
+But if that value promise one isn't met,
+it's really hard to stack things on top of it.
+And so our view is from work with partners,
+large security dealers is engagement
+is what will drive folks to use a system more.
+So how do you get a homeowner to find value
+in between the alarms, or to borrow Abe's thing,
+in between the false alarms, right?
+Like it is you really want to create something
+that they say, "I wanna log into this app,
+use it multiple times a day,
+because it's serving me something valuable
+to me and my family."
+That's it.
+And so when you can achieve that, you've done a thing.
+And I think, you know, I will just be candid,
+our work has been so technical for a long time.
+The best decision we've made in the company
+is hiring an obsessed product leader who cares,
+she's intense about the voice of the customer.
+She's like, "I don't wanna hear about technology,
+that's cool.
+I wanna see how we're gonna deliver
+for the pain point to the customer."
+And so I think the customer's gonna answer that question,
+did I get value outta this thing?
+And if so, I will pay for that.
+<v ->Yeah, I think that's really good points.</v>
+And we also, in our research work, see security moving
+not just for the home environment,
+but actually to the person.
+So this idea of personal safety
+and extending services beyond the home.
+It could be the car, the vehicle,
+lots going on with vehicle safety,
+but it could just be somebody who's walking down
+in urban area and wants to ensure that they feel safe
+and are safe with the ability to have a response there.
+So the hardware is shifting
+to be able to really go anywhere, right?
+And that is a big difference in change
+that I think we're seeing over the past many years
+is the capabilities of technology,
+and how much more that they can do.
+Abe, I wanna go over to you here,
+and just ask another question on the revenue side,
+and understanding how you're moving customers
+from one tier of service to another,
+and being able to show that value to them
+to capture that next stream of revenue.
+<v ->Yeah, I think the most of the credit of that goes</v>
+to our service providers for, you know,
+moving their partners up the value chain.
+So it's our responsibility and we are often just thinking
+about how can we make a flexible, scalable security platform
+that then can meet whatever that new need might be.
+So make sure that we have consistent user experiences,
+consistent installer experiences.
+So it's easy for some new combination
+or permutation of security, whatever that might be.
+Personal security, video security, fire and water security.
+You know, just have all those options and then create,
+you know, appropriate solutions
+that are matched on the value,
+and easy for service providers to deploy to new customers.
+<v Elizabeth>Yeah.</v>
+I think it's so true that people do pay for what they value.
+And I know many people probably have an iPhone, right?
+And spent $1,500 on their phone,
+and might've thought five or 10 years ago,
+I never would spend $1,500 on a mobile device.
+And now everybody's doing that all the time.
+So it's not necessarily about money, right?
+It's about what's important to people,
+and safety and security really being at the heart of it.
+So I wanna end our discussion here with a final question,
+and if you could keep your comments brief,
+what is the adjacent area that you think
+is gonna grow the most in 2025?
+And it isn't professional monitored security
+as something besides that?
+And so Leah, we'll start with you, and go down the line.
+<v ->Yeah, I think I'd like to wrap it</v>
+with what we talked about in a little bit earlier,
+you know, devices and smart locks being a big part of that.
+You know, I think that as we continue
+to bring experiences into the marketplace,
+that that's what's going to really incent people
+to have new devices, more devices,
+and that stickiness factor.
+I think Abe, it was you who mentioned, you know,
+earlier that when you have more devices that are on a system
+for a consumer at home, that's more likely
+that they are to sort of stay with you.
+And so that's a big principle that we think about.
+And so when we think about enabling experiences,
+creating more devices that go with it and the stickiness,
+I think that's an important part.
+And that starts with things like video cameras,
+video doorbells, and locks.
+<v ->I might take a contrarian view here.</v>
+I believe the router is gonna emerge
+as the most powerful piece of equipment in the home
+that's gonna enable a lot of things including security
+or security light.
+I'm just seeing that market take actions
+in a way that suggests delivering value to homeowners.
+And I'm excited to be a contributor to that.
+I see that as a really interesting platform.
+<v ->Yeah, great comment there.</v>
+The network and the router are of critical importance.
+Very good point.
+<v ->And I think I can kind of agree with everybody,</v>
+and think about maybe scaled security solutions
+that fit between maybe pro-install and DIY today
+as we define them.
+So something in the middle or a little orthogonal,
+and likely centered around I think video,
+certainly it's an easy sell
+and an easy thing to initially understand,
+but hopefully some more creative solutions
+that are in between the spaces we serve today.
+<v ->So a hybrid?</v>
+<v ->Yeah.</v>
+<v ->Some kind of hybrid.</v>
+<v ->Yeah, I'm gonna take this in a little different direction.</v>
+When I think about adjacencies
+and as it relates to our business in terms of home access,
+one of the areas that we think is interesting
+in the new construction space
+is how do you make property touring interesting,
+or easier and more seamless?
+And so, you know, as we bring smart products into that,
+you know, new construction market,
+how can we make accessing those
+and touring those properties easier
+is one of those adjacencies that I think is interesting
+that we'll explore as a business.
+<v ->Okay, great.</v>
+That will be the last word.
+If you would please give a round of applause
+for our panelists.

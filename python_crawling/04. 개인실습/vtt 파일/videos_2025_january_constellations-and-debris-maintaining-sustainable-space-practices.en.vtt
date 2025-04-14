@@ -1,0 +1,3575 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.475 --> 00:03.142
+(upbeat music)
+
+2
+00:11.160 --> 00:12.600
+<v ->So thank you very much, everyone,</v>
+
+3
+00:12.600 --> 00:14.010
+for coming just after lunch.
+
+4
+00:14.010 --> 00:17.248
+This is the first session of the space track,
+
+5
+00:17.248 --> 00:19.500
+presented by Novaspace,
+
+6
+00:19.500 --> 00:21.960
+premier space and satellite industry consulting firm.
+
+7
+00:21.960 --> 00:24.570
+It's our second year doing this, so thank you to the folks
+
+8
+00:24.570 --> 00:28.440
+at CES for liking us enough last year to invite us back.
+
+9
+00:28.440 --> 00:32.550
+So, the first session today, of four sessions,
+
+10
+00:32.550 --> 00:35.760
+so the first one is constellations and debris,
+
+11
+00:35.760 --> 00:38.640
+maintaining sustainable space practices,
+
+12
+00:38.640 --> 00:40.650
+and we have three excellent practitioners up here
+
+13
+00:40.650 --> 00:41.483
+that are going to talk
+
+14
+00:41.483 --> 00:44.493
+all about their sustainable space practices.
+
+15
+00:45.420 --> 00:46.530
+In the interest of time,
+
+16
+00:46.530 --> 00:48.240
+I won't even really do introductions.
+
+17
+00:48.240 --> 00:49.680
+I'll just ask a first question
+
+18
+00:49.680 --> 00:53.160
+of how do you define sustainable space practices,
+
+19
+00:53.160 --> 00:56.610
+and what is your company doing to help, you know,
+
+20
+00:56.610 --> 00:58.380
+make those practices more sustainable?
+
+21
+00:58.380 --> 00:59.760
+What are you doing to help, you know,
+
+22
+00:59.760 --> 01:01.020
+keep space sustainable?
+
+23
+01:01.020 --> 01:02.160
+And if you wanna give a short intro
+
+24
+01:02.160 --> 01:04.233
+of your name and company, also welcome.
+
+25
+01:05.700 --> 01:06.960
+<v ->Hi, thank you for having me.</v>
+
+26
+01:06.960 --> 01:08.190
+I'm Melissa Quinn.
+
+27
+01:08.190 --> 01:09.720
+I'm from Slingshot Aerospace.
+
+28
+01:09.720 --> 01:13.500
+We're a data and analytics company based out of Colorado,
+
+29
+01:13.500 --> 01:15.300
+but also offices over in the UK
+
+30
+01:15.300 --> 01:17.370
+and further afield later this year.
+
+31
+01:17.370 --> 01:19.500
+So, sustainability, look,
+
+32
+01:19.500 --> 01:21.450
+I just walked around some of the halls out there,
+
+33
+01:21.450 --> 01:25.080
+and I asked everyone from the agritech companies
+
+34
+01:25.080 --> 01:28.560
+to the healthcare companies to the autonomous vehicle,
+
+35
+01:28.560 --> 01:31.470
+and I said, you know, "Does space enable what you do?"
+
+36
+01:31.470 --> 01:34.080
+And pretty much every single one of 'em said, "Absolutely."
+
+37
+01:34.080 --> 01:36.570
+Their satellites or space enable what they do.
+
+38
+01:36.570 --> 01:39.510
+So this whole show, I would say, is powered by space.
+
+39
+01:39.510 --> 01:42.900
+Now what if, one day, something happened,
+
+40
+01:42.900 --> 01:46.080
+like similar to something like CrowdStrike but worse,
+
+41
+01:46.080 --> 01:48.720
+in space, a collision, for instance,
+
+42
+01:48.720 --> 01:52.770
+or an anti-satellite testing activity.
+
+43
+01:52.770 --> 01:55.170
+You know, a lot of what's downstairs and in the halls
+
+44
+01:55.170 --> 01:58.260
+across the city right now would cease to be able to function
+
+45
+01:58.260 --> 02:00.180
+and our daily lives, emergency services,
+
+46
+02:00.180 --> 02:02.610
+would cease to function, and that is really scary,
+
+47
+02:02.610 --> 02:05.280
+but yet so many people don't even realize
+
+48
+02:05.280 --> 02:07.200
+that that is a threat.
+
+49
+02:07.200 --> 02:11.070
+So for us at Slingshot, it's about maintaining safety
+
+50
+02:11.070 --> 02:14.850
+and security in space that then provides the sustainability
+
+51
+02:14.850 --> 02:17.880
+for future generations to use it, and for me,
+
+52
+02:17.880 --> 02:19.920
+it's something I'm personally very passionate about
+
+53
+02:19.920 --> 02:21.870
+because I love space, I love what it does for us
+
+54
+02:21.870 --> 02:25.770
+back down here on Earth, what enables us to do to provide,
+
+55
+02:25.770 --> 02:28.110
+you know, better lifestyles for people here on Earth,
+
+56
+02:28.110 --> 02:30.030
+and at any point, that could come to an end
+
+57
+02:30.030 --> 02:31.710
+if we're not careful about it, and, unfortunately,
+
+58
+02:31.710 --> 02:34.560
+humans don't have a great track record with, (chuckles)
+
+59
+02:34.560 --> 02:37.080
+you know, things like sustainable practices
+
+60
+02:37.080 --> 02:38.100
+in the seas, for instance.
+
+61
+02:38.100 --> 02:40.740
+So, for us at Slingshot, providing the capabilities
+
+62
+02:40.740 --> 02:44.520
+and technologies to keep space more sustainable
+
+63
+02:44.520 --> 02:46.590
+for everybody to benefit from in the future,
+
+64
+02:46.590 --> 02:48.270
+including all these wonderful companies
+
+65
+02:48.270 --> 02:49.473
+that are here at CES.
+
+66
+02:51.810 --> 02:52.880
+<v ->Yeah, thank you.</v>
+
+67
+02:52.880 --> 02:54.030
+How to follow on from that?
+
+68
+02:54.030 --> 02:56.370
+So, my name's Clare Martin.
+
+69
+02:56.370 --> 02:58.593
+I work for a company called Astroscale,
+
+70
+02:59.460 --> 03:00.660
+out of their US office.
+
+71
+03:00.660 --> 03:03.691
+You can just ignore the accent, that's fine.
+
+72
+03:03.691 --> 03:08.580
+(chuckles) The Astroscale was a company founded,
+
+73
+03:08.580 --> 03:11.040
+it's a global company, and it was founded in 2013
+
+74
+03:11.040 --> 03:15.570
+with a very clear vision, and that is to develop space
+
+75
+03:15.570 --> 03:17.850
+in a safe and sustainable manner for the benefit
+
+76
+03:17.850 --> 03:21.780
+of future generations, and it's for exactly the reasons
+
+77
+03:21.780 --> 03:23.275
+that Melissa said.
+
+78
+03:23.275 --> 03:25.904
+Our global economy actually depends on it.
+
+79
+03:25.904 --> 03:30.630
+A lot of my career has been spent trying to educate
+
+80
+03:30.630 --> 03:33.720
+and make people more aware of actually how dependent we are
+
+81
+03:33.720 --> 03:37.620
+on space services in order to live our daily lives.
+
+82
+03:37.620 --> 03:40.500
+And as we move forward into this new era,
+
+83
+03:40.500 --> 03:42.450
+as space is used more and more and more,
+
+84
+03:42.450 --> 03:43.890
+the subject of sustainability
+
+85
+03:43.890 --> 03:45.810
+is becoming more and more important.
+
+86
+03:45.810 --> 03:49.110
+And at Astroscale, we are dedicated,
+
+87
+03:49.110 --> 03:51.120
+through what we call on-orbit servicing,
+
+88
+03:51.120 --> 03:54.120
+so essentially putting the logistics into orbit,
+
+89
+03:54.120 --> 03:58.470
+to aid that sustainable practice through on-orbit services
+
+90
+03:58.470 --> 04:01.620
+to be able to remove or replace or repair objects
+
+91
+04:01.620 --> 04:03.413
+as they come to the end of their life.
+
+92
+04:04.793 --> 04:05.670
+What would you answer?
+
+93
+04:05.670 --> 04:07.743
+<v ->Thanks, hard act to follow.</v>
+
+94
+04:10.530 --> 04:13.923
+It's not about space, it's about the economy.
+
+95
+04:14.760 --> 04:17.490
+It's not about tracking debris,
+
+96
+04:17.490 --> 04:20.580
+it's about developing applications.
+
+97
+04:20.580 --> 04:23.010
+It's not about generating data,
+
+98
+04:23.010 --> 04:25.530
+it's about creating opportunity.
+
+99
+04:25.530 --> 04:29.880
+And in space right now, we're facing a big threat.
+
+100
+04:29.880 --> 04:33.150
+And my mantra throughout my business career
+
+101
+04:33.150 --> 04:36.210
+has been, "In every threat, there is opportunity."
+
+102
+04:36.210 --> 04:39.650
+So there's about 8,000-plus operating satellites in space.
+
+103
+04:39.650 --> 04:42.660
+There's 130-plus million pieces of objects,
+
+104
+04:42.660 --> 04:44.580
+anywhere from the size of a piece of dust
+
+105
+04:44.580 --> 04:46.080
+up to the size of a city bus,
+
+106
+04:46.080 --> 04:49.560
+moving between eight and 16 kilometers a second,
+
+107
+04:49.560 --> 04:52.530
+uncontrollably through space, and we have no idea, really,
+
+108
+04:52.530 --> 04:54.630
+with a lot of accuracy, where they are.
+
+109
+04:54.630 --> 04:56.760
+So, that's a big threat.
+
+110
+04:56.760 --> 04:59.190
+So, there's an even bigger opportunity,
+
+111
+04:59.190 --> 05:02.100
+and I'm very conscious of the fact that we're here at CES,
+
+112
+05:02.100 --> 05:03.810
+it's consumer electronics,
+
+113
+05:03.810 --> 05:06.270
+and you don't wanna hear about probabilities of collision.
+
+114
+05:06.270 --> 05:07.980
+You wanna hear about where's the opportunity,
+
+115
+05:07.980 --> 05:11.583
+and the opportunity is in generating large amounts of data,
+
+116
+05:12.540 --> 05:16.710
+whether ground-based or space-based, or anywhere in between.
+
+117
+05:16.710 --> 05:20.520
+And then using AI and leveraging artificial intelligence
+
+118
+05:20.520 --> 05:24.060
+to generate either applications or solutions
+
+119
+05:24.060 --> 05:25.860
+or visualization techniques
+
+120
+05:25.860 --> 05:28.710
+so that we have a sustainable economy.
+
+121
+05:28.710 --> 05:30.660
+You don't want just sustainability in space,
+
+122
+05:30.660 --> 05:32.220
+you want sustainability everywhere.
+
+123
+05:32.220 --> 05:34.830
+So it's the idea of a circular economy
+
+124
+05:34.830 --> 05:37.470
+is what this is all about and how we participate in that.
+
+125
+05:37.470 --> 05:39.870
+For NorthStar's part, we participate
+
+126
+05:39.870 --> 05:42.840
+with space-based, space situational awareness.
+
+127
+05:42.840 --> 05:44.940
+We're the first company to commercialize that,
+
+128
+05:44.940 --> 05:46.500
+and hopefully not the last.
+
+129
+05:46.500 --> 05:49.380
+So, the idea is creating a community,
+
+130
+05:49.380 --> 05:52.023
+and the folks that are on stage with me here,
+
+131
+05:52.023 --> 05:56.400
+we've been working with all of them, in one form or another,
+
+132
+05:56.400 --> 05:58.500
+to generate a community.
+
+133
+05:58.500 --> 06:00.840
+And I think the most important thing I would like
+
+134
+06:00.840 --> 06:05.430
+out of this show is to open up the opportunity
+
+135
+06:05.430 --> 06:09.600
+beyond the space community to the general community
+
+136
+06:09.600 --> 06:13.140
+because we are, as my colleagues have very clearly stated,
+
+137
+06:13.140 --> 06:15.540
+we're all dependent on satellites.
+
+138
+06:15.540 --> 06:17.760
+And so it's a fundamental part of our interest.
+
+139
+06:17.760 --> 06:20.100
+And I think, for those of you that are interested
+
+140
+06:20.100 --> 06:23.040
+in artificial intelligence, using artificial intelligence
+
+141
+06:23.040 --> 06:26.760
+and using that to create a sustainable
+
+142
+06:26.760 --> 06:29.550
+or a lot of opportunity in space,
+
+143
+06:29.550 --> 06:31.140
+then this is the place to do it.
+
+144
+06:31.140 --> 06:34.650
+So thanks for the invitation, it's a pleasure to be here.
+
+145
+06:34.650 --> 06:36.480
+<v ->Sure thing, so we're gonna try to keep this</v>
+
+146
+06:36.480 --> 06:37.830
+a little bit more interactive,
+
+147
+06:37.830 --> 06:39.870
+so if any of the audience members
+
+148
+06:39.870 --> 06:42.120
+have some burning questions, start thinking about them now.
+
+149
+06:42.120 --> 06:44.670
+We'll come back to you in just a couple of minutes.
+
+150
+06:45.810 --> 06:50.100
+So, on the topic of opportunity and on the topic of,
+
+151
+06:50.100 --> 06:51.810
+you know, not just having data
+
+152
+06:51.810 --> 06:53.400
+but really creating opportunities
+
+153
+06:53.400 --> 06:54.600
+and, you know, about the economy,
+
+154
+06:54.600 --> 06:58.560
+this kind of commercialization
+
+155
+06:58.560 --> 07:00.690
+of sustainable space practices,
+
+156
+07:00.690 --> 07:02.700
+like how does that process really work
+
+157
+07:02.700 --> 07:05.880
+because you could imagine having some regulations
+
+158
+07:05.880 --> 07:08.910
+that say a satellite operator needs to, you know,
+
+159
+07:08.910 --> 07:10.590
+have their satellite BD orbited
+
+160
+07:10.590 --> 07:12.360
+or be sent to graveyard orbit or, you know,
+
+161
+07:12.360 --> 07:17.100
+you could regulate it, but is there, are you seeing,
+
+162
+07:17.100 --> 07:20.160
+on the kind of, on the more consumer push side,
+
+163
+07:20.160 --> 07:21.780
+are there companies or are there entities
+
+164
+07:21.780 --> 07:25.890
+that are proactively trying to be sustainable in space,
+
+165
+07:25.890 --> 07:27.330
+and is that creating a business for you?
+
+166
+07:27.330 --> 07:29.820
+Is that, how does the...
+
+167
+07:29.820 --> 07:31.710
+<v ->Yeah, sure, I'll take start of that.</v>
+
+168
+07:31.710 --> 07:33.963
+So, the short answer is yes.
+
+169
+07:35.430 --> 07:38.610
+So, I'll take a little bit of a step back
+
+170
+07:38.610 --> 07:40.443
+to the start of your question there.
+
+171
+07:41.460 --> 07:44.550
+In order to truly achieve a sustainable space,
+
+172
+07:44.550 --> 07:47.610
+and by that, I mean environmentally and economically,
+
+173
+07:47.610 --> 07:50.137
+and bring in much more of a circular economy in space,
+
+174
+07:50.137 --> 07:53.073
+there are really three challenges that need to be solved.
+
+175
+07:54.060 --> 07:57.780
+The policy and regulatory is one, the technology is another,
+
+176
+07:57.780 --> 07:59.820
+and the economics is the third
+
+177
+07:59.820 --> 08:02.880
+of actually how to make this business sustainable
+
+178
+08:02.880 --> 08:03.873
+in and of itself.
+
+179
+08:04.800 --> 08:08.160
+So, what we are seeing, and I think it's important
+
+180
+08:08.160 --> 08:12.120
+to keep seeing, are advances in all three areas, okay?
+
+181
+08:12.120 --> 08:14.610
+Policy cannot get ahead of the technology
+
+182
+08:14.610 --> 08:16.590
+'cause that will suppress the industry.
+
+183
+08:16.590 --> 08:18.930
+If technology gets too far ahead of the policy,
+
+184
+08:18.930 --> 08:21.480
+it gets frustrating for those of us that do design
+
+185
+08:21.480 --> 08:23.250
+and develop the technology.
+
+186
+08:23.250 --> 08:25.800
+And in terms of the economics, we are,
+
+187
+08:25.800 --> 08:28.080
+in all of our conversations with both government
+
+188
+08:28.080 --> 08:31.980
+and commercial operators, seeing an increasing awareness
+
+189
+08:31.980 --> 08:33.930
+of the challenge and an increasing interest
+
+190
+08:33.930 --> 08:35.850
+in wanting to lean forward, to step forward,
+
+191
+08:35.850 --> 08:39.390
+to do something in the various stages of their missions,
+
+192
+08:39.390 --> 08:40.680
+whether that's through design,
+
+193
+08:40.680 --> 08:43.920
+whether it's through engaging the services of like Slingshot
+
+194
+08:43.920 --> 08:46.230
+and NorthStar to understand the environment
+
+195
+08:46.230 --> 08:47.280
+in which they're operating
+
+196
+08:47.280 --> 08:49.260
+and help them plan their operations.
+
+197
+08:49.260 --> 08:52.380
+So it's all ends of this mission lifecycle
+
+198
+08:52.380 --> 08:54.513
+that we're starting to see some changes.
+
+199
+08:55.770 --> 08:59.190
+<v ->Yeah, I think, to add, from a commercial perspective,</v>
+
+200
+08:59.190 --> 09:02.550
+is opportunity around more efficient operations.
+
+201
+09:02.550 --> 09:05.283
+So, working with commercial providers,
+
+202
+09:06.600 --> 09:10.080
+operators of spacecraft, to ensure that their missions
+
+203
+09:10.080 --> 09:11.490
+are as efficient as possible.
+
+204
+09:11.490 --> 09:13.740
+It costs money to move (chuckles) their spacecraft
+
+205
+09:13.740 --> 09:15.570
+to avoid collisions.
+
+206
+09:15.570 --> 09:19.653
+So, one of our platforms that we have, one of our products,
+
+207
+09:20.490 --> 09:24.390
+has commercial operators using it to just communicate
+
+208
+09:24.390 --> 09:27.780
+to one another, which sounds, you know, a bit silly,
+
+209
+09:27.780 --> 09:29.640
+but that's the real thing.
+
+210
+09:29.640 --> 09:32.100
+Are you moving, or should we move,
+
+211
+09:32.100 --> 09:33.630
+and what is the cost of that,
+
+212
+09:33.630 --> 09:35.490
+and what's the most efficient way to do this?
+
+213
+09:35.490 --> 09:38.730
+So, you know, providing those efficiencies in space
+
+214
+09:38.730 --> 09:41.040
+to some of these operators is so important.
+
+215
+09:41.040 --> 09:44.340
+And I think, going back to what Clare was just saying,
+
+216
+09:44.340 --> 09:46.080
+I struggle with the regulation piece.
+
+217
+09:46.080 --> 09:48.835
+I sit on a lot of regulatory boards
+
+218
+09:48.835 --> 09:50.790
+who are talking about this endlessly,
+
+219
+09:50.790 --> 09:51.930
+and they are talking about it,
+
+220
+09:51.930 --> 09:54.300
+and they are talking about it, and it's been talked about,
+
+221
+09:54.300 --> 09:57.570
+and even King Charles, you know, back home in the UK,
+
+222
+09:57.570 --> 09:59.550
+has started something called the Astra Carta,
+
+223
+09:59.550 --> 10:01.560
+which is about, you know, more sustainable practices
+
+224
+10:01.560 --> 10:03.960
+in space, but what tends to be missing
+
+225
+10:03.960 --> 10:07.140
+from these conversations is those owner operators.
+
+226
+10:07.140 --> 10:09.390
+And I think bringing in them into that conversation
+
+227
+10:09.390 --> 10:12.390
+is gonna be really important because we can sit here
+
+228
+10:12.390 --> 10:15.360
+and talk about regulation until the cows come home,
+
+229
+10:15.360 --> 10:17.730
+but if the operator's not in the room,
+
+230
+10:17.730 --> 10:19.350
+signing up for these things,
+
+231
+10:19.350 --> 10:21.180
+which they probably won't, so, (chuckles)
+
+232
+10:21.180 --> 10:24.780
+thinking about how we have more creative solutions
+
+233
+10:24.780 --> 10:26.850
+around regulations and legislation
+
+234
+10:26.850 --> 10:28.890
+is gonna be really important for us going forward,
+
+235
+10:28.890 --> 10:32.070
+and it might be more of a carrot versus a stick.
+
+236
+10:32.070 --> 10:34.260
+We are talking about not just nation states here
+
+237
+10:34.260 --> 10:36.270
+that are launching these spacecraft
+
+238
+10:36.270 --> 10:37.410
+and operating these spacecraft,
+
+239
+10:37.410 --> 10:39.600
+we're talking about individuals and private companies,
+
+240
+10:39.600 --> 10:41.250
+and that's a lot trickier to regulate,
+
+241
+10:41.250 --> 10:43.380
+so bringing them in on the conversation,
+
+242
+10:43.380 --> 10:46.290
+as well as supporting their operations, to be more efficient
+
+243
+10:46.290 --> 10:47.810
+and more sustainable and safe as well
+
+244
+10:47.810 --> 10:50.673
+is something that we're really proud of at Slingshot.
+
+245
+10:51.540 --> 10:53.880
+<v ->So, space is already commercialized.</v>
+
+246
+10:53.880 --> 10:58.880
+I mean, Starlink, the number of satellites
+
+247
+10:59.013 --> 11:02.283
+that are operating in space are more commercial
+
+248
+11:02.283 --> 11:05.566
+than government-owned, and the challenges,
+
+249
+11:05.566 --> 11:09.150
+Clare pointed it out, the three legs of the stool,
+
+250
+11:09.150 --> 11:11.580
+business, technology, and a legal framework,
+
+251
+11:11.580 --> 11:14.400
+or a regulatory framework, all part of a framework
+
+252
+11:14.400 --> 11:18.900
+in any industry, in any industry at all,
+
+253
+11:18.900 --> 11:23.700
+the entertainment industry, the meat packing industry.
+
+254
+11:23.700 --> 11:27.150
+If you don't have business technology and legal aspects,
+
+255
+11:27.150 --> 11:29.670
+you don't know what your reference points are.
+
+256
+11:29.670 --> 11:32.760
+And there's, as Melissa was pointing out,
+
+257
+11:32.760 --> 11:37.323
+there's a bit of an atrophy on the legal side to catch up,
+
+258
+11:38.730 --> 11:42.233
+and there needs to be a cooperation between those three.
+
+259
+11:42.233 --> 11:46.590
+And it's a great opportunity for commercial enterprise
+
+260
+11:46.590 --> 11:51.300
+to work within this framework because commercial enterprise
+
+261
+11:51.300 --> 11:53.730
+is the only thing that can move as fast
+
+262
+11:53.730 --> 11:55.257
+as the industry is moving.
+
+263
+11:55.257 --> 11:57.753
+The satellites are moving quickly in space,
+
+264
+11:58.620 --> 12:01.320
+between eight and 16 kilometers a second,
+
+265
+12:01.320 --> 12:06.320
+and the changing environment in space is changing rapidly,
+
+266
+12:07.260 --> 12:10.620
+and governments don't keep up with that, period.
+
+267
+12:10.620 --> 12:12.900
+Only commercial enterprise can keep up with that,
+
+268
+12:12.900 --> 12:15.600
+which, back to my opening statement,
+
+269
+12:15.600 --> 12:20.259
+creates a great opportunity for entrepreneurs, innovators,
+
+270
+12:20.259 --> 12:22.680
+artificial intelligence, machine learning
+
+271
+12:22.680 --> 12:26.490
+to combine with algorithm software and large amounts of data
+
+272
+12:26.490 --> 12:29.520
+to create a whole lot of applications
+
+273
+12:29.520 --> 12:32.430
+that create economic benefit.
+
+274
+12:32.430 --> 12:35.643
+And that economic benefit is the promise of space.
+
+275
+12:37.524 --> 12:40.980
+<v ->We'll pause for audience questions or comments,</v>
+
+276
+12:40.980 --> 12:43.413
+if anybody wants to take a stab at it.
+
+277
+12:44.280 --> 12:49.170
+Going once, going twice, all right-
+
+278
+12:49.170 --> 12:50.610
+<v Audience Member>I have a question.</v>
+
+279
+12:50.610 --> 12:52.110
+<v ->Okay, please.</v>
+
+280
+12:52.110 --> 12:53.710
+You can either talk loudly or...
+
+281
+12:57.390 --> 12:58.223
+<v Audience Member>Thank you.</v>
+
+282
+12:58.223 --> 12:59.083
+<v Blaine>Sure.</v>
+
+283
+12:59.083 --> 12:59.916
+<v Audience Member>I was wondering</v>
+
+284
+12:59.916 --> 13:04.916
+how we could potentially set up a, let's say,
+
+285
+13:05.430 --> 13:08.220
+board or consortium, whatever phrase you wanna use,
+
+286
+13:08.220 --> 13:11.400
+where private industry can debate and deliberate
+
+287
+13:11.400 --> 13:13.320
+against each other for ways
+
+288
+13:13.320 --> 13:16.650
+that regulation could potentially be passed,
+
+289
+13:16.650 --> 13:20.520
+as I believe in having multiple companies
+
+290
+13:20.520 --> 13:22.230
+that would debate each other,
+
+291
+13:22.230 --> 13:25.410
+acting as sort of a weighing balance upon each other,
+
+292
+13:25.410 --> 13:28.020
+where, obviously, they wouldn't want the other person going
+
+293
+13:28.020 --> 13:30.450
+and blowing up their satellite, causing problems
+
+294
+13:30.450 --> 13:33.690
+for everyone else, while also suggesting ways
+
+295
+13:33.690 --> 13:36.453
+that it could be done economically for, sorry,
+
+296
+13:38.340 --> 13:42.060
+ways that satellites could be managed economically,
+
+297
+13:42.060 --> 13:43.440
+so that way we don't have people
+
+298
+13:43.440 --> 13:45.300
+having to burn all of their fuel
+
+299
+13:45.300 --> 13:47.730
+in order to comply with some government regulation
+
+300
+13:47.730 --> 13:48.690
+that's written somewhere,
+
+301
+13:48.690 --> 13:51.840
+as I believe it would maximize all the possible faucets
+
+302
+13:51.840 --> 13:56.133
+of satellite management in orbit.
+
+303
+13:59.280 --> 14:03.240
+<v ->Yep, so I'll, there are a couple of different types</v>
+
+304
+14:03.240 --> 14:05.290
+of consortium that exist within the US
+
+305
+14:06.150 --> 14:08.430
+that are specifically looking
+
+306
+14:08.430 --> 14:12.393
+at the on-orbit servicing aspects of the logistics in space.
+
+307
+14:13.380 --> 14:17.520
+One of those is COSMIC, and that actually brings industry
+
+308
+14:17.520 --> 14:20.280
+and the government and academia into the room
+
+309
+14:20.280 --> 14:22.200
+to do exactly what you're talking about, right,
+
+310
+14:22.200 --> 14:23.130
+to debate the points,
+
+311
+14:23.130 --> 14:25.440
+bring the different perspectives forward,
+
+312
+14:25.440 --> 14:28.680
+look at everything from education
+
+313
+14:28.680 --> 14:30.030
+and the workforce coming in
+
+314
+14:30.030 --> 14:32.370
+through to how we do test and demonstration platforms
+
+315
+14:32.370 --> 14:35.940
+on orbit, and the policy and regulation aspects.
+
+316
+14:35.940 --> 14:38.910
+Internationally, there's one called CONFERS,
+
+317
+14:38.910 --> 14:41.609
+and I always forget the acronym, so I'm not going to try.
+
+318
+14:41.609 --> 14:43.590
+(chuckles) If one of my colleagues here remembers,
+
+319
+14:43.590 --> 14:47.880
+they can jump in, but that does a very similar thing.
+
+320
+14:47.880 --> 14:50.580
+It was started by DARPA,
+
+321
+14:50.580 --> 14:53.820
+and it's since gone independently on its own,
+
+322
+14:53.820 --> 14:57.090
+and CONFERS also tries to bring the different voices
+
+323
+14:57.090 --> 14:58.290
+to the table.
+
+324
+14:58.290 --> 14:59.370
+The difference with CONFERS
+
+325
+14:59.370 --> 15:03.750
+is it actually has created a couple of draft standards,
+
+326
+15:03.750 --> 15:06.390
+and then they get passed off to another organization,
+
+327
+15:06.390 --> 15:10.470
+so, there are many different little forum.
+
+328
+15:10.470 --> 15:11.760
+I think probably what we're missing
+
+329
+15:11.760 --> 15:14.730
+is a bit of an overarching ownership
+
+330
+15:14.730 --> 15:17.013
+of who owns the problem to try to solve it.
+
+331
+15:18.000 --> 15:21.180
+It is, I believe, clearer in the UK, under that framework,
+
+332
+15:21.180 --> 15:22.500
+than it is in the US.
+
+333
+15:22.500 --> 15:26.100
+In the US, because of the length and duration
+
+334
+15:26.100 --> 15:27.660
+of the space industry today,
+
+335
+15:27.660 --> 15:31.560
+there are many different organizations that are responsible
+
+336
+15:31.560 --> 15:33.480
+for different elements of the industry.
+
+337
+15:33.480 --> 15:36.693
+And that is causing some more challenges on the US side.
+
+338
+15:39.240 --> 15:41.280
+<v ->There are, to complement that,</v>
+
+339
+15:41.280 --> 15:42.870
+I think you've already answered the question,
+
+340
+15:42.870 --> 15:47.870
+so, to complement that, there are many organizations
+
+341
+15:48.780 --> 15:50.493
+that are finding their way,
+
+342
+15:51.330 --> 15:53.730
+because this is all very new and moving very quickly,
+
+343
+15:53.730 --> 15:56.550
+including the United Nations Office for Outer Space Affairs,
+
+344
+15:56.550 --> 16:00.420
+including COPUS, which is a committee
+
+345
+16:00.420 --> 16:03.780
+with inside the United Nations, including the ITU,
+
+346
+16:03.780 --> 16:05.880
+International Telecommunications Union,
+
+347
+16:05.880 --> 16:10.860
+and including SpaceOps, which has a major working group
+
+348
+16:10.860 --> 16:13.350
+that does, again, in parallel with other things,
+
+349
+16:13.350 --> 16:14.823
+exactly what you talk about.
+
+350
+16:15.690 --> 16:18.270
+The big challenge that we're facing,
+
+351
+16:18.270 --> 16:19.860
+and so we don't have all the answers,
+
+352
+16:19.860 --> 16:21.780
+we just know what the problems are right now
+
+353
+16:21.780 --> 16:23.070
+and working through them,
+
+354
+16:23.070 --> 16:27.150
+is who is going to curate the data,
+
+355
+16:27.150 --> 16:29.100
+'cause it's gonna be a global system.
+
+356
+16:29.100 --> 16:32.850
+Who would curate that data and say it's been validated
+
+357
+16:32.850 --> 16:34.080
+and verified?
+
+358
+16:34.080 --> 16:38.937
+And so, earlier, well, I'm sorry, late last year,
+
+359
+16:38.937 --> 16:41.880
+in New York at the United Nations,
+
+360
+16:41.880 --> 16:43.410
+there was a meeting I attended,
+
+361
+16:43.410 --> 16:47.520
+and the big question was who would be in charge of all that?
+
+362
+16:47.520 --> 16:50.880
+My vote would be that it's something like the United Nations
+
+363
+16:50.880 --> 16:53.400
+that would want to be a neutral body.
+
+364
+16:53.400 --> 16:56.730
+Whether or not they can fill that role is another question.
+
+365
+16:56.730 --> 16:58.860
+So the part that I wanna bring clear to you
+
+366
+16:58.860 --> 17:00.390
+is where's the challenges?
+
+367
+17:00.390 --> 17:03.870
+It's in validating and verifying the data source,
+
+368
+17:03.870 --> 17:07.020
+and that gets even more complicated
+
+369
+17:07.020 --> 17:09.240
+when you add in artificial intelligence
+
+370
+17:09.240 --> 17:12.540
+because then, who's actually responsible for the information
+
+371
+17:12.540 --> 17:14.490
+that's being delivered when you've added AI
+
+372
+17:14.490 --> 17:17.550
+into the process, but you need to do all that.
+
+373
+17:17.550 --> 17:18.870
+And so if you're starting to think,
+
+374
+17:18.870 --> 17:20.400
+like I'm painting a picture,
+
+375
+17:20.400 --> 17:22.740
+it brings you back to we better get moving quickly
+
+376
+17:22.740 --> 17:24.360
+on the points that Melissa and Clare brought up
+
+377
+17:24.360 --> 17:27.660
+about we better get moving on legal and regulatory framework
+
+378
+17:27.660 --> 17:30.240
+so that we can move as quickly on the technology part,
+
+379
+17:30.240 --> 17:32.310
+so it doesn't get too far left behind.
+
+380
+17:32.310 --> 17:36.210
+So you've tapped into this circular exercise
+
+381
+17:36.210 --> 17:38.550
+that we're trying to bring together as a community,
+
+382
+17:38.550 --> 17:40.290
+and it's very challenging
+
+383
+17:40.290 --> 17:43.230
+because it needs to be done very quickly.
+
+384
+17:43.230 --> 17:45.960
+It's not something we can wait for
+
+385
+17:45.960 --> 17:48.657
+because what we wanna do is facilitate more use of space
+
+386
+17:48.657 --> 17:50.730
+and more effective use of space.
+
+387
+17:50.730 --> 17:52.200
+And one of the biggest things that's preventing that
+
+388
+17:52.200 --> 17:55.143
+is our ability to close that loop.
+
+389
+17:57.150 --> 17:58.050
+<v ->Anything to add?</v>
+
+390
+17:59.790 --> 18:02.010
+<v ->Yeah, I was just gonna say it's,</v>
+
+391
+18:02.010 --> 18:04.713
+that closing of the value chain of the data
+
+392
+18:04.713 --> 18:07.413
+is really challenging because, you know,
+
+393
+18:08.580 --> 18:10.007
+this time almost last year,
+
+394
+18:10.007 --> 18:12.960
+there was a lot of conversation around interoperability
+
+395
+18:12.960 --> 18:15.240
+and bringing these communities together,
+
+396
+18:15.240 --> 18:19.620
+between legal and academia and industry and government.
+
+397
+18:19.620 --> 18:22.650
+And then, suddenly, I would say in the last few months,
+
+398
+18:22.650 --> 18:25.920
+the shift globally has been,
+
+399
+18:25.920 --> 18:28.230
+we want our own sovereign capability.
+
+400
+18:28.230 --> 18:30.990
+We want to be able to see, use our own sovereign data
+
+401
+18:30.990 --> 18:34.290
+from our own sovereign hardware to see what we need to see
+
+402
+18:34.290 --> 18:35.730
+at the exact time we need to see it.
+
+403
+18:35.730 --> 18:39.750
+So, I've noticed quite a shift internationally,
+
+404
+18:39.750 --> 18:42.060
+almost away from where I hope we were heading,
+
+405
+18:42.060 --> 18:45.570
+which was almost an interoperability and that data sharing
+
+406
+18:45.570 --> 18:50.100
+and almost a single truth of, a source of truth for space,
+
+407
+18:50.100 --> 18:52.860
+you know, where are spacecraft, who's doing what?
+
+408
+18:52.860 --> 18:54.630
+And you're starting to now see this shift,
+
+409
+18:54.630 --> 18:57.960
+and that is concerning if we're not careful,
+
+410
+18:57.960 --> 19:00.120
+where we all stand up our own, you know,
+
+411
+19:00.120 --> 19:04.080
+separate types of data sources.
+
+412
+19:04.080 --> 19:07.080
+So it is a challenge, it's a massive challenge.
+
+413
+19:07.080 --> 19:09.600
+And I go to these great round tables and workshops
+
+414
+19:09.600 --> 19:12.330
+with the United Nations, and we had one recently,
+
+415
+19:12.330 --> 19:14.730
+it was like, write all the challenges there are,
+
+416
+19:14.730 --> 19:16.619
+and there's like hundreds of them, and then it's like,
+
+417
+19:16.619 --> 19:17.452
+okay, where are all the solutions?
+
+418
+19:17.452 --> 19:20.310
+And there was like five notes up on the wall.
+
+419
+19:20.310 --> 19:21.598
+It is really tricky,
+
+420
+19:21.598 --> 19:23.637
+but you have some really powerful minds on it.
+
+421
+19:23.637 --> 19:26.220
+And I think the best thing about what we're doing
+
+422
+19:26.220 --> 19:28.710
+is that we all need it to work.
+
+423
+19:28.710 --> 19:31.530
+So there's a motivation there for all countries
+
+424
+19:31.530 --> 19:35.970
+to keep space sustainable because if we mess it up,
+
+425
+19:35.970 --> 19:37.080
+nobody can use it.
+
+426
+19:37.080 --> 19:40.260
+So there is that motivation there, but yeah, I think,
+
+427
+19:40.260 --> 19:42.240
+you know, you're onto a good thing.
+
+428
+19:42.240 --> 19:44.793
+There's just some more challenges stuck in there.
+
+429
+19:47.070 --> 19:48.870
+<v ->Yeah, well, we're all set up here.</v>
+
+430
+19:48.870 --> 19:50.583
+We got a full house of mics.
+
+431
+19:51.750 --> 19:52.583
+Any-
+
+432
+19:52.583 --> 19:53.416
+<v Stewart>I was hiding the other mic, (indistinct).</v>
+
+433
+19:53.416 --> 19:54.249
+<v ->Thank you very much.</v>
+
+434
+19:54.249 --> 19:56.520
+Any other questions from the audience for now?
+
+435
+19:56.520 --> 19:59.940
+Otherwise, we can come back in a few minutes.
+
+436
+19:59.940 --> 20:00.773
+Okay.
+
+437
+20:03.990 --> 20:06.090
+So challenges, you've talked about the challenges
+
+438
+20:06.090 --> 20:08.010
+on the more kind of like regulatory side
+
+439
+20:08.010 --> 20:09.990
+and the more just trying to get everyone's ducks in a row
+
+440
+20:09.990 --> 20:11.140
+and that kind of thing.
+
+441
+20:12.240 --> 20:14.310
+What about on the technology side challenges,
+
+442
+20:14.310 --> 20:17.040
+what are some of the, if you could snap your fingers
+
+443
+20:17.040 --> 20:20.070
+and have one big tech challenge disappear tomorrow,
+
+444
+20:20.070 --> 20:23.400
+what would that challenge be, or just maybe more broadly,
+
+445
+20:23.400 --> 20:26.640
+what are some of the, you know, the big tech challenges
+
+446
+20:26.640 --> 20:29.433
+that you're facing in trying to do what you're doing?
+
+447
+20:32.160 --> 20:36.750
+<v ->I think a lot of the technology challenges have been</v>
+
+448
+20:36.750 --> 20:38.430
+or are being addressed right now
+
+449
+20:38.430 --> 20:43.430
+from a on-orbit servicing perspective, from what, you know,
+
+450
+20:46.200 --> 20:49.503
+we're doing there and what we're doing with SSA,
+
+451
+20:50.760 --> 20:55.760
+but we need to make it more accessible.
+
+452
+20:57.450 --> 21:01.980
+That's a tech challenge, and that's what's, again,
+
+453
+21:01.980 --> 21:06.980
+interesting about having a opportunity to speak at this show
+
+454
+21:07.380 --> 21:09.780
+in that we want artificial intelligence,
+
+455
+21:09.780 --> 21:10.830
+we want machine learning,
+
+456
+21:10.830 --> 21:14.760
+we wanna leverage a more general approach
+
+457
+21:14.760 --> 21:19.760
+so that this becomes much more normalized,
+
+458
+21:19.860 --> 21:22.560
+from a technical perspective, not a science project.
+
+459
+21:22.560 --> 21:23.940
+The biggest challenge technically
+
+460
+21:23.940 --> 21:27.390
+is to get it out of the lab and get it into production.
+
+461
+21:27.390 --> 21:30.573
+And I think, if I could snap my fingers and have that,
+
+462
+21:31.500 --> 21:34.350
+for me, that would be a very good position
+
+463
+21:34.350 --> 21:37.230
+for us all to be in, so we really want to turn the corner
+
+464
+21:37.230 --> 21:42.230
+on adopting general practices and getting more participation
+
+465
+21:43.986 --> 21:48.060
+from non-space entities into a community
+
+466
+21:48.060 --> 21:52.350
+that makes it more robust, and in that sense,
+
+467
+21:52.350 --> 21:53.200
+more sustainable.
+
+468
+21:56.790 --> 21:57.623
+<v ->Okay.</v>
+
+469
+21:59.920 --> 22:01.410
+From Astroscale's perspective,
+
+470
+22:01.410 --> 22:03.090
+our focus is in on-orbit assets,
+
+471
+22:03.090 --> 22:05.370
+so we actually build satellites
+
+472
+22:05.370 --> 22:07.353
+that become on-orbit service vehicles.
+
+473
+22:08.850 --> 22:13.850
+The technology to start this process is there.
+
+474
+22:14.070 --> 22:17.190
+We have launched two missions into orbit.
+
+475
+22:17.190 --> 22:21.180
+We can do the rendezvous and the proximity operations.
+
+476
+22:21.180 --> 22:23.370
+We can dock with another object.
+
+477
+22:23.370 --> 22:27.060
+There are elements that I would love to see in the future.
+
+478
+22:27.060 --> 22:29.710
+So I would love to bring in more autonomy
+
+479
+22:31.140 --> 22:33.600
+into the way that we do our rendezvous
+
+480
+22:33.600 --> 22:35.310
+and proximity operations.
+
+481
+22:35.310 --> 22:37.680
+And it's actually driven exactly to what you were saying,
+
+482
+22:37.680 --> 22:40.890
+it's the accessibility of it, it's the safety,
+
+483
+22:40.890 --> 22:45.240
+it's the repeatability, and the assurance to the customer
+
+484
+22:45.240 --> 22:48.900
+that when they ask for a service, the service will be there.
+
+485
+22:48.900 --> 22:52.893
+Space, traditionally, is a very conservative industry.
+
+486
+22:54.000 --> 22:57.900
+It is one that likes to always be second.
+
+487
+22:57.900 --> 22:59.610
+So, someone else has done it first,
+
+488
+22:59.610 --> 23:02.730
+and then they'll move down the chain afterwards.
+
+489
+23:02.730 --> 23:05.280
+If I could snap my fingers and change one thing
+
+490
+23:05.280 --> 23:08.973
+about the technology challenge, it will be to not be second.
+
+491
+23:10.560 --> 23:12.090
+<v ->Yeah, and I think, just building on that,</v>
+
+492
+23:12.090 --> 23:16.680
+the technology is, the challenge is getting the investment,
+
+493
+23:16.680 --> 23:21.150
+really, is getting it out of R&amp;D and into productization
+
+494
+23:21.150 --> 23:26.150
+and out to the customer, so, you know,
+
+495
+23:26.220 --> 23:29.760
+I think awareness that Stewart was talking about
+
+496
+23:29.760 --> 23:33.480
+with outside of the space community is so important.
+
+497
+23:33.480 --> 23:36.960
+Understanding the need for these technologies to exist
+
+498
+23:36.960 --> 23:40.710
+to protect all these other amazing ones is something else.
+
+499
+23:40.710 --> 23:43.230
+I think, from a Slingshot perspective,
+
+500
+23:43.230 --> 23:46.920
+we have 180 optical sensors around the world.
+
+501
+23:46.920 --> 23:49.740
+We are pulling in, just as of last week now,
+
+502
+23:49.740 --> 23:52.860
+two billion observations a day.
+
+503
+23:52.860 --> 23:55.230
+We see all the way from low Earth orbit
+
+504
+23:55.230 --> 23:57.660
+all the way out to cislunar, day and night,
+
+505
+23:57.660 --> 24:00.990
+that has a ton of data.
+
+506
+24:00.990 --> 24:04.080
+So, for us, the challenge of, you know, fusing that data
+
+507
+24:04.080 --> 24:06.720
+with other sources like, you know, like NorthStar's,
+
+508
+24:06.720 --> 24:11.720
+for instance, who are on-orbit, to radar data,
+
+509
+24:11.730 --> 24:14.280
+fusing, you know, that's incredible amount of data.
+
+510
+24:14.280 --> 24:16.590
+So I think for us, the technology challenge
+
+511
+24:16.590 --> 24:20.190
+is, obviously, pulling the right insights out of that data,
+
+512
+24:20.190 --> 24:23.190
+which we are doing now is with our new AI product,
+
+513
+24:23.190 --> 24:24.720
+but also, you know, I think,
+
+514
+24:24.720 --> 24:26.250
+from a sustainability perspective,
+
+515
+24:26.250 --> 24:27.930
+it's the storage of that data.
+
+516
+24:27.930 --> 24:32.760
+It's, you know, how that, always see that balance
+
+517
+24:32.760 --> 24:36.270
+between getting something that's more sustainable
+
+518
+24:36.270 --> 24:38.430
+but causing another problem down the line as well.
+
+519
+24:38.430 --> 24:40.410
+So I think, looking at the whole value chain
+
+520
+24:40.410 --> 24:43.800
+of sustainability and the technologies that we're creating
+
+521
+24:43.800 --> 24:47.400
+with AI, but also that has a cost to that.
+
+522
+24:47.400 --> 24:50.610
+So I think there's a great challenge there, again, for space
+
+523
+24:50.610 --> 24:54.430
+is how we take that data, maybe do more of it in orbit
+
+524
+24:55.380 --> 24:56.997
+rather than down here on Earth
+
+525
+24:56.997 --> 24:59.403
+and add to some of the problems we already have.
+
+526
+25:00.360 --> 25:02.730
+<v ->Two billion observations per day.</v>
+
+527
+25:02.730 --> 25:07.730
+Two billion, man, and how does that whole process work?
+
+528
+25:07.980 --> 25:09.540
+I mean, you're collecting all this data,
+
+529
+25:09.540 --> 25:11.850
+and it's gotta get stored somewhere, and it's gotta be,
+
+530
+25:11.850 --> 25:13.170
+it's being sent through, I guess,
+
+531
+25:13.170 --> 25:16.230
+all these various cloud servers, but I mean, is that,
+
+532
+25:16.230 --> 25:18.390
+do you have any secret sauce or any info
+
+533
+25:18.390 --> 25:21.810
+on how you guys collect two billion data points per day?
+
+534
+25:21.810 --> 25:25.140
+<v ->Yeah, so we have our own patented sensors.</v>
+
+535
+25:25.140 --> 25:29.640
+We have our own TCPED, so that obviously takes the data
+
+536
+25:29.640 --> 25:32.430
+and puts it into more of usable, then we fuse all that.
+
+537
+25:32.430 --> 25:34.740
+We have multiple software products that we do,
+
+538
+25:34.740 --> 25:36.480
+depending on the customer's needs at the end,
+
+539
+25:36.480 --> 25:41.220
+but the product I just talked about, RAI, machine learning,
+
+540
+25:41.220 --> 25:44.220
+it's called Agatha, we just did with DARPA actually.
+
+541
+25:44.220 --> 25:47.520
+And that is taking a lot of this data from constellations
+
+542
+25:47.520 --> 25:50.250
+and looking at very minute differences
+
+543
+25:50.250 --> 25:53.520
+for nefarious activities hidden among constellations.
+
+544
+25:53.520 --> 25:55.770
+So, one of the things that we're doing
+
+545
+25:55.770 --> 26:00.770
+is taking those tens of thousands, millions of pieces
+
+546
+26:00.810 --> 26:03.960
+of data and identifying where the nefarious activity
+
+547
+26:03.960 --> 26:06.720
+is happening, which the human eye will just never be able
+
+548
+26:06.720 --> 26:07.553
+to pick up.
+
+549
+26:07.553 --> 26:10.740
+So one spacecraft hidden amongst a constellation
+
+550
+26:10.740 --> 26:13.440
+that might just slightly be turned a different way,
+
+551
+26:13.440 --> 26:14.430
+for instance.
+
+552
+26:14.430 --> 26:17.550
+So AI, 100%, is the way that we need to move forward.
+
+553
+26:17.550 --> 26:22.170
+We have all the data that we need at the moment,
+
+554
+26:22.170 --> 26:24.870
+but now it's just making that usable for the customer.
+
+555
+26:26.520 --> 26:28.470
+<v ->So if I can summarize, I mean,</v>
+
+556
+26:28.470 --> 26:30.330
+it sounds like it's a little bit more
+
+557
+26:30.330 --> 26:34.110
+of a software/user interface kind of,
+
+558
+26:34.110 --> 26:36.660
+it's not a hardware problem per se as much.
+
+559
+26:36.660 --> 26:40.080
+It's more of a getting the data, analyzing it,
+
+560
+26:40.080 --> 26:43.050
+making it usable for the customers, et cetera.
+
+561
+26:43.050 --> 26:46.410
+Is that a fair characterization that...
+
+562
+26:46.410 --> 26:48.300
+<v ->I think, to be simple with it,</v>
+
+563
+26:48.300 --> 26:50.430
+it's improving the user experience.
+
+564
+26:50.430 --> 26:52.290
+So what you wanna do is make it easier for the user
+
+565
+26:52.290 --> 26:53.640
+to understand what's happening.
+
+566
+26:53.640 --> 26:57.240
+Even if you have a background in engineering or astrophysics
+
+567
+26:57.240 --> 26:59.760
+or orbital dynamics, you still want to be able to look at it
+
+568
+26:59.760 --> 27:01.530
+and go, "Okay, I get what's happening."
+
+569
+27:01.530 --> 27:05.760
+And that can be very much facilitated by non-space,
+
+570
+27:05.760 --> 27:09.510
+traditionally non-space technologies, AI, machine learning,
+
+571
+27:09.510 --> 27:12.240
+other types of graphic developments
+
+572
+27:12.240 --> 27:13.260
+that are already out there,
+
+573
+27:13.260 --> 27:15.543
+so that's where you have to go with it next.
+
+574
+27:16.740 --> 27:19.590
+<v ->Yeah, that user interface is so important.</v>
+
+575
+27:19.590 --> 27:21.696
+The visualization of the data,
+
+576
+27:21.696 --> 27:22.950
+it all comes down to it, doesn't it?
+
+577
+27:22.950 --> 27:24.330
+<v ->Oh, I can't imagine, 'cause otherwise,</v>
+
+578
+27:24.330 --> 27:27.210
+you just have all these, you know, little specs in space
+
+579
+27:27.210 --> 27:28.770
+that are moving at some velocity
+
+580
+27:28.770 --> 27:30.000
+and that are moving in some direction,
+
+581
+27:30.000 --> 27:33.690
+and it doesn't immediately become apparent
+
+582
+27:33.690 --> 27:36.330
+what you're trying to say, unless you have it visualized.
+
+583
+27:36.330 --> 27:37.470
+<v ->Yeah, check out our website.</v>
+
+584
+27:37.470 --> 27:41.703
+You can see an example of how we do it, anyways.
+
+585
+27:43.200 --> 27:46.260
+<v ->Yeah, 'cause it's not a 2D problem.</v>
+
+586
+27:46.260 --> 27:49.860
+The ocean is a good example as an analogy to space.
+
+587
+27:49.860 --> 27:51.720
+It's a 3D problem, there's depth.
+
+588
+27:51.720 --> 27:53.160
+So what you wanna do is figure out,
+
+589
+27:53.160 --> 27:55.320
+in a three-dimensional way, where everything is,
+
+590
+27:55.320 --> 27:57.390
+and if things start to collide with each other,
+
+591
+27:57.390 --> 27:58.680
+they change each other's trajectory
+
+592
+27:58.680 --> 28:00.540
+like balls on a pool table.
+
+593
+28:00.540 --> 28:03.180
+So you're really wanting to know what you can expect
+
+594
+28:03.180 --> 28:07.380
+and what's that gonna look like, 96 hours, 192 hours,
+
+595
+28:07.380 --> 28:09.480
+20 days from now.
+
+596
+28:09.480 --> 28:12.510
+You wanna know what is the possible,
+
+597
+28:12.510 --> 28:15.690
+how does that affect my day in a month from now,
+
+598
+28:15.690 --> 28:17.370
+'cause if I'm planning a space mission,
+
+599
+28:17.370 --> 28:22.200
+or if I'm planning to launch a new capability in space,
+
+600
+28:22.200 --> 28:25.890
+I wanna know if I'm launching myself into a debris mess,
+
+601
+28:25.890 --> 28:28.590
+or a debris mess that hasn't been developed yet,
+
+602
+28:28.590 --> 28:30.390
+and how do we avoid that?
+
+603
+28:30.390 --> 28:31.920
+So that's really what it comes down to.
+
+604
+28:31.920 --> 28:35.310
+It's predictability and prediction of situations
+
+605
+28:35.310 --> 28:36.660
+so that we can accommodate.
+
+606
+28:37.965 --> 28:40.650
+<v ->Very good, any audience questions?</v>
+
+607
+28:40.650 --> 28:43.140
+We're down to about 10 minutes.
+
+608
+28:43.140 --> 28:48.140
+Going once, twice, yes, I see a hand in the back.
+
+609
+28:48.660 --> 28:51.510
+You can either yell from there, or...
+
+610
+28:51.510 --> 28:52.620
+<v Audience Member>I'll just try to yell.</v>
+
+611
+28:52.620 --> 28:53.453
+<v ->We hear ya.</v>
+
+612
+28:55.710 --> 28:57.058
+<v Audience Member>Two questions</v>
+
+613
+28:57.058 --> 29:00.423
+that I think are kind of related.
+
+614
+29:00.423 --> 29:04.560
+One is just this broad question that, in general,
+
+615
+29:04.560 --> 29:05.910
+it seems like (indistinct).
+
+616
+29:08.160 --> 29:10.950
+It seems like oftentimes, there's,
+
+617
+29:10.950 --> 29:13.500
+like, in the current day and age,
+
+618
+29:13.500 --> 29:15.750
+kind of to the points that were discussed,
+
+619
+29:15.750 --> 29:18.570
+it's kind of overlooked or perhaps underappreciated,
+
+620
+29:18.570 --> 29:21.090
+the important role that space plays
+
+621
+29:21.090 --> 29:24.660
+in all these different other realms of the economy,
+
+622
+29:24.660 --> 29:29.160
+kind of very much so underpinning a lot of it,
+
+623
+29:29.160 --> 29:31.533
+but what I'm wondering is, if you think,
+
+624
+29:32.814 --> 29:36.159
+perhaps, to the conversation (indistinct)
+
+625
+29:36.159 --> 29:39.480
+the regulatory piece, in many ways, kind of lagging behind,
+
+626
+29:39.480 --> 29:44.130
+there needs to be maybe some like, unfortunate event
+
+627
+29:44.130 --> 29:46.530
+that happens that will then create
+
+628
+29:46.530 --> 29:48.990
+this kind of reactionary posture
+
+629
+29:48.990 --> 29:53.430
+to then be more of a catalyst for policymaking
+
+630
+29:53.430 --> 29:56.199
+that actually addresses some of the issues,
+
+631
+29:56.199 --> 29:59.670
+or if perhaps there could be some other kind of like,
+
+632
+29:59.670 --> 30:01.710
+inspiring cultural moment,
+
+633
+30:01.710 --> 30:05.820
+almost similar to how like the Apollo moon landing
+
+634
+30:05.820 --> 30:09.150
+captured the imagination of so many people
+
+635
+30:09.150 --> 30:12.060
+around the country, policymakers included,
+
+636
+30:12.060 --> 30:14.910
+that could hopefully kind of take the place
+
+637
+30:14.910 --> 30:18.243
+of whatever that potential kind of negative reactionary.
+
+638
+30:19.620 --> 30:22.263
+<v ->You've just, this is my passion.</v>
+
+639
+30:23.160 --> 30:26.610
+So space has a PR problem, I would say.
+
+640
+30:26.610 --> 30:30.240
+Space, we go to, you know, we see each other on the circuit,
+
+641
+30:30.240 --> 30:32.010
+we're all at the same space conferences.
+
+642
+30:32.010 --> 30:34.860
+That's why it's brilliant to be at a non-space conference.
+
+643
+30:34.860 --> 30:38.160
+And we're so good at telling each other how amazing we are
+
+644
+30:38.160 --> 30:40.560
+and how space is like gonna save everybody,
+
+645
+30:40.560 --> 30:41.970
+and isn't that awesome?
+
+646
+30:41.970 --> 30:45.060
+And we're absolutely shockingly bad at communicating that
+
+647
+30:45.060 --> 30:47.553
+to a wider audience, like really bad.
+
+648
+30:49.380 --> 30:52.410
+We need better storytellers for space, 100%.
+
+649
+30:52.410 --> 30:53.580
+We need people to connect.
+
+650
+30:53.580 --> 30:56.550
+I think most people just have such a disconnect
+
+651
+30:56.550 --> 30:58.920
+from what we look at every night
+
+652
+30:58.920 --> 31:01.530
+and how it enables our everyday lives.
+
+653
+31:01.530 --> 31:04.980
+I spent 10 years doing launch, and that's an easy thing.
+
+654
+31:04.980 --> 31:08.340
+Launch is quite easy to, people can see it, they get excited
+
+655
+31:08.340 --> 31:10.770
+by it, they can feel it, they can smell it,
+
+656
+31:10.770 --> 31:12.900
+but with a lot of the technologies that we're doing,
+
+657
+31:12.900 --> 31:15.000
+people can't, they don't get it.
+
+658
+31:15.000 --> 31:19.320
+So, yeah, I agree, and I'm trying to, you know, been trying
+
+659
+31:19.320 --> 31:23.760
+to do a much better job of getting out into wider audiences.
+
+660
+31:23.760 --> 31:24.930
+I think the main thing
+
+661
+31:24.930 --> 31:27.690
+is space thinks it's its own industry.
+
+662
+31:27.690 --> 31:30.330
+We're not, we cross every other industry,
+
+663
+31:30.330 --> 31:32.910
+and I think, coming to conferences like this,
+
+664
+31:32.910 --> 31:36.570
+speaking outside of our normal kind of space,
+
+665
+31:36.570 --> 31:38.550
+I go and speak at sustainability conferences,
+
+666
+31:38.550 --> 31:40.860
+I go and put myself in front of Extinction Rebellion,
+
+667
+31:40.860 --> 31:43.530
+I go and try and get the message out into different areas
+
+668
+31:43.530 --> 31:46.230
+because that awareness piece is so critical,
+
+669
+31:46.230 --> 31:48.720
+because like CrowdStrike, if something were to happen
+
+670
+31:48.720 --> 31:51.750
+to space, and I unfortunately do think
+
+671
+31:51.750 --> 31:55.920
+it will take something to happen to wake everybody up to it.
+
+672
+31:55.920 --> 31:59.343
+I hope it doesn't, but it probably, knowing, again, humans,
+
+673
+32:00.240 --> 32:03.900
+it might, and so, you know, you're speaking,
+
+674
+32:03.900 --> 32:05.760
+you know, my language on this,
+
+675
+32:05.760 --> 32:08.520
+so we definitely need some better communicators
+
+676
+32:08.520 --> 32:12.270
+and storytellers, and we need to bring more artists,
+
+677
+32:12.270 --> 32:14.850
+I would say, into space to help.
+
+678
+32:14.850 --> 32:16.440
+You know, when William Shatner came back down
+
+679
+32:16.440 --> 32:18.720
+off of Blue Origin, you know, say what you will about him,
+
+680
+32:18.720 --> 32:21.390
+but he communicated the power of space,
+
+681
+32:21.390 --> 32:24.780
+like I've never met a space industry person be,
+
+682
+32:24.780 --> 32:27.450
+or an astronaut do it in a way that he was able to just say
+
+683
+32:27.450 --> 32:30.330
+like, communicate as an actor, as an artist,
+
+684
+32:30.330 --> 32:31.980
+and I think we need more of that.
+
+685
+32:32.850 --> 32:34.000
+<v ->Can I just say ditto?</v>
+
+686
+32:35.070 --> 32:36.798
+Your premise is not wrong,
+
+687
+32:36.798 --> 32:39.003
+from the way you phrased it just then.
+
+688
+32:41.850 --> 32:46.320
+It's very important to raise awareness
+
+689
+32:46.320 --> 32:48.093
+and educate more broadly.
+
+690
+32:49.950 --> 32:53.580
+I think one of the challenges we've had is space,
+
+691
+32:53.580 --> 32:55.800
+we do consider ourselves a little bit of our own industry.
+
+692
+32:55.800 --> 32:57.300
+We are very insular.
+
+693
+32:57.300 --> 33:00.420
+It is very important for us to come out of our comfort zone
+
+694
+33:00.420 --> 33:03.120
+and come to shows like CES, which is, by far,
+
+695
+33:03.120 --> 33:05.700
+the largest show I have ever been to,
+
+696
+33:05.700 --> 33:09.510
+and talk and share what it is that we do
+
+697
+33:09.510 --> 33:12.060
+and what some of the challenges are that we have.
+
+698
+33:12.060 --> 33:16.560
+At the moment, space is a piece of many other industries.
+
+699
+33:16.560 --> 33:17.393
+And so, therefore,
+
+700
+33:17.393 --> 33:19.050
+I think that's where you've got a little bit of a dichotomy.
+
+701
+33:19.050 --> 33:21.510
+We see ourselves as an industry, but actually,
+
+702
+33:21.510 --> 33:24.930
+we are part of everybody else's solutions,
+
+703
+33:24.930 --> 33:27.910
+and we need to, as you say, tell that story better
+
+704
+33:27.910 --> 33:32.130
+and be bold about it, be very, you know, very confident
+
+705
+33:32.130 --> 33:34.443
+in what it is that space can do for people.
+
+706
+33:35.550 --> 33:38.700
+As to whether it will take a catastrophic event,
+
+707
+33:38.700 --> 33:42.720
+I first started studying the challenge of space debris
+
+708
+33:42.720 --> 33:45.090
+when I completed my doctorate,
+
+709
+33:45.090 --> 33:46.650
+so, I'm not gonna tell you how many years
+
+710
+33:46.650 --> 33:50.850
+'cause it's just depressing, but, at the time,
+
+711
+33:50.850 --> 33:52.140
+we too were talking then.
+
+712
+33:52.140 --> 33:54.540
+It's like, "Well, if we had an on-orbit collision,
+
+713
+33:54.540 --> 33:56.970
+would that help us create the policy
+
+714
+33:56.970 --> 33:58.920
+and regulatory environment we need
+
+715
+33:58.920 --> 34:02.340
+in order to help create a sustainable environment?"
+
+716
+34:02.340 --> 34:05.430
+We have had events on-orbit.
+
+717
+34:05.430 --> 34:06.690
+They have occurred.
+
+718
+34:06.690 --> 34:08.463
+Satellites have been destroyed.
+
+719
+34:09.360 --> 34:13.230
+They have not, as yet, been of a magnitude
+
+720
+34:13.230 --> 34:15.930
+to cause more than a slight ripple within the industry
+
+721
+34:15.930 --> 34:18.580
+or company that was directly affected, unfortunately.
+
+722
+34:20.520 --> 34:22.263
+<v ->Fear is a good motivator.</v>
+
+723
+34:24.210 --> 34:26.253
+So you've touched on the fear factor.
+
+724
+34:28.890 --> 34:31.380
+If it happens, it may be too late.
+
+725
+34:31.380 --> 34:34.620
+So do you want to be an evangelist
+
+726
+34:34.620 --> 34:37.230
+telling people, "The end is nigh,"
+
+727
+34:37.230 --> 34:39.960
+or do you wanna say, "What's past is prologue,"
+
+728
+34:39.960 --> 34:43.290
+as Shakespeare might say, or do you wanna say,
+
+729
+34:43.290 --> 34:46.410
+from Marcus Aurelius, "What we do in this life echoes
+
+730
+34:46.410 --> 34:49.770
+in eternity," and where does it echo more than in space
+
+731
+34:49.770 --> 34:52.530
+because a piece of debris in space is gonna stay in space
+
+732
+34:52.530 --> 34:57.530
+for maybe decades, if not longer, because it won't deorbit.
+
+733
+34:58.110 --> 35:02.340
+And so, you can get very depressed very quickly,
+
+734
+35:02.340 --> 35:04.410
+thinking about how bad it is.
+
+735
+35:04.410 --> 35:08.100
+You can get very motivated by remembering,
+
+736
+35:08.100 --> 35:11.550
+if you're a responsible individual, how much,
+
+737
+35:11.550 --> 35:14.103
+as you pointed out, we rely on space every day.
+
+738
+35:15.300 --> 35:19.350
+There is no backward compatibility for space.
+
+739
+35:19.350 --> 35:24.350
+There is no GPS backup in ground-based systems.
+
+740
+35:25.920 --> 35:29.340
+So you'll lose Uber Eats, you'll lose your ride,
+
+741
+35:29.340 --> 35:31.920
+you'll lose the ability to meet with your friends
+
+742
+35:31.920 --> 35:36.920
+and track your girlfriend on the internet because it's gone.
+
+743
+35:37.110 --> 35:39.450
+And then there's no more telecommunications,
+
+744
+35:39.450 --> 35:42.480
+there's no more interconnectivity, there's nothing.
+
+745
+35:42.480 --> 35:44.130
+You're going back to the Dark Ages,
+
+746
+35:44.130 --> 35:46.980
+and we're not gonna hook up the WAN network
+
+747
+35:46.980 --> 35:49.590
+and the LAN network and say we can replace it all with that
+
+748
+35:49.590 --> 35:52.650
+because we haven't kept it up for the last 25 years.
+
+749
+35:52.650 --> 35:54.963
+So, as we say in Scotland, you're screwed.
+
+750
+35:55.860 --> 35:58.980
+And so, that's the problem.
+
+751
+35:58.980 --> 36:03.210
+So, redefining and reiterating the problem
+
+752
+36:03.210 --> 36:06.180
+over and over again is not gonna solve the problem.
+
+753
+36:06.180 --> 36:08.520
+We all talk about will it take one event?
+
+754
+36:08.520 --> 36:10.650
+Well, we had an event, you know, Iridium collided
+
+755
+36:10.650 --> 36:14.400
+with a Russian Cosmos satellite, so what?
+
+756
+36:14.400 --> 36:17.400
+We've had ASAT tests where satellites
+
+757
+36:17.400 --> 36:18.840
+have been deliberately shot out of space
+
+758
+36:18.840 --> 36:21.780
+and created thousands of pieces of debris, so what?
+
+759
+36:21.780 --> 36:23.940
+So, it's not the motivator.
+
+760
+36:23.940 --> 36:26.340
+The motivator is the opportunity.
+
+761
+36:26.340 --> 36:30.310
+The motivator is the fact that you can make a lot of money
+
+762
+36:31.230 --> 36:34.140
+generating products, generating capability
+
+763
+36:34.140 --> 36:37.470
+that will help keep space clean and keep space safe
+
+764
+36:37.470 --> 36:39.270
+and create more opportunity.
+
+765
+36:39.270 --> 36:41.490
+So, the commercial component of this
+
+766
+36:41.490 --> 36:43.680
+is the most important component.
+
+767
+36:43.680 --> 36:48.680
+Space used to be a government-run club for decades,
+
+768
+36:49.050 --> 36:50.310
+and who cared?
+
+769
+36:50.310 --> 36:51.840
+Only the people in the club.
+
+770
+36:51.840 --> 36:54.660
+Getting this many people, which isn't a ton,
+
+771
+36:54.660 --> 36:58.230
+out to a conference about space back in the day would,
+
+772
+36:58.230 --> 36:59.550
+other than the folks in the community,
+
+773
+36:59.550 --> 37:01.050
+would've been impossible.
+
+774
+37:01.050 --> 37:02.220
+Nobody cares.
+
+775
+37:02.220 --> 37:04.770
+The fact that people are, that we're at this conference
+
+776
+37:04.770 --> 37:06.570
+and people are listening to this talk
+
+777
+37:06.570 --> 37:08.430
+means that we're making progress.
+
+778
+37:08.430 --> 37:10.980
+The only way to get over this wave
+
+779
+37:10.980 --> 37:12.870
+is to get a bigger surfboard
+
+780
+37:12.870 --> 37:15.900
+and start riding the wave of capability and technology
+
+781
+37:15.900 --> 37:18.720
+and innovation, and bring the answer to the table
+
+782
+37:18.720 --> 37:20.160
+before the event
+
+783
+37:20.160 --> 37:22.440
+because nobody wants to be disciplined here,
+
+784
+37:22.440 --> 37:25.230
+and we don't wanna point at somebody and say, "I told ya,"
+
+785
+37:25.230 --> 37:27.000
+'cause by then, it's too late.
+
+786
+37:27.000 --> 37:29.490
+So let's just put that in the back of our mind
+
+787
+37:29.490 --> 37:30.660
+and be motivated by the fact
+
+788
+37:30.660 --> 37:33.810
+that there's a big economic opportunity in space.
+
+789
+37:33.810 --> 37:36.030
+Focus on the promise of space,
+
+790
+37:36.030 --> 37:39.510
+focus on how much new innovation, artificial intelligence,
+
+791
+37:39.510 --> 37:42.270
+machine learning, combination with billions of pieces
+
+792
+37:42.270 --> 37:44.730
+of data points or trillions of pieces of data points
+
+793
+37:44.730 --> 37:47.973
+every day can transform your wallet,
+
+794
+37:48.960 --> 37:51.488
+'cause that's what people care about.
+
+795
+37:51.488 --> 37:53.490
+They care about what they can do with this economically.
+
+796
+37:53.490 --> 37:56.430
+It's an economic problem, so solve it.
+
+797
+37:56.430 --> 37:59.340
+I have no problem living in a tent in the Everglades.
+
+798
+37:59.340 --> 38:01.110
+I really don't, I don't give a crap.
+
+799
+38:01.110 --> 38:03.750
+I can go back and make my tomatoes grow in my garden,
+
+800
+38:03.750 --> 38:06.690
+but everybody who relies on space,
+
+801
+38:06.690 --> 38:09.360
+be aware that there's an opportunity here.
+
+802
+38:09.360 --> 38:13.297
+So I think we must get around this corner by saying,
+
+803
+38:13.297 --> 38:15.750
+"Get a bigger surfboard, ride the wave,
+
+804
+38:15.750 --> 38:17.730
+make something important, and make it happen."
+
+805
+38:17.730 --> 38:19.230
+Get out in front of the problem.
+
+806
+38:19.230 --> 38:21.330
+Use this wave of disaster
+
+807
+38:21.330 --> 38:24.150
+as something that you can put your surfboard on and ride.
+
+808
+38:24.150 --> 38:26.600
+So that's really the way to get out of this mess.
+
+809
+38:27.840 --> 38:29.820
+<v ->Well, they say there's a first time for everything,</v>
+
+810
+38:29.820 --> 38:31.650
+and I've moderated quite a few panels,
+
+811
+38:31.650 --> 38:34.110
+but Marcus Aurelius, I had never heard him quoted
+
+812
+38:34.110 --> 38:37.560
+on a panel before, so that was pretty good, I'll take that.
+
+813
+38:37.560 --> 38:39.360
+Just a couple minutes left.
+
+814
+38:39.360 --> 38:41.157
+Last question from me.
+
+815
+38:41.157 --> 38:43.110
+So, it's the CES, they like to say
+
+816
+38:43.110 --> 38:46.200
+it's the most powerful tech event in the world,
+
+817
+38:46.200 --> 38:47.733
+and they're probably right.
+
+818
+38:49.530 --> 38:54.530
+What's the one technology that is most exciting to you
+
+819
+38:55.260 --> 38:58.170
+that you see here at this event this week,
+
+820
+38:58.170 --> 39:01.140
+or last year if you came to the event last year?
+
+821
+39:01.140 --> 39:04.803
+What's the general technology that's most exciting for you?
+
+822
+39:06.720 --> 39:09.520
+<v ->I've said it a hundred times, artificial intelligence.</v>
+
+823
+39:11.250 --> 39:16.250
+It was created by Virginia Apgar in the 1950s,
+
+824
+39:17.130 --> 39:18.750
+and you're all the beneficiaries of it.
+
+825
+39:18.750 --> 39:21.360
+Some of you are walking this planet because of it.
+
+826
+39:21.360 --> 39:23.400
+It was the Apgar test that was done
+
+827
+39:23.400 --> 39:25.560
+when a child was brought into this world,
+
+828
+39:25.560 --> 39:28.440
+and there was five tests that they did on the child
+
+829
+39:28.440 --> 39:30.330
+to see what the child's health was,
+
+830
+39:30.330 --> 39:33.600
+whether it was reflexes, color, temperature,
+
+831
+39:33.600 --> 39:34.860
+heart rate, et cetera.
+
+832
+39:34.860 --> 39:36.750
+And they took those five pieces of data,
+
+833
+39:36.750 --> 39:39.757
+and the guy walks in with his pipe and says,
+
+834
+39:39.757 --> 39:41.580
+"Mm, score looks good."
+
+835
+39:41.580 --> 39:43.050
+Two weeks later, the child's dead.
+
+836
+39:43.050 --> 39:45.150
+So Virginia Apgar decided to take all of the data
+
+837
+39:45.150 --> 39:46.920
+from all around the world and from all of her colleagues,
+
+838
+39:46.920 --> 39:49.500
+put it into a program and generate
+
+839
+39:49.500 --> 39:52.267
+the first artificial intelligence decision-maker that said,
+
+840
+39:52.267 --> 39:54.450
+"This child's in difficulty,"
+
+841
+39:54.450 --> 39:58.890
+and you all have had an Apgar test, artificial intelligence.
+
+842
+39:58.890 --> 40:02.340
+So that's the wave of artificial intelligence.
+
+843
+40:02.340 --> 40:06.000
+Artificial intelligence used for that type of purpose
+
+844
+40:06.000 --> 40:08.730
+is immensely powerful and infinitely capable,
+
+845
+40:08.730 --> 40:11.680
+and that's what we need to get out in front of the problem.
+
+846
+40:13.830 --> 40:17.040
+<v ->I was just watching another panel downstairs,</v>
+
+847
+40:17.040 --> 40:20.040
+and it was some of the top kind of tech media
+
+848
+40:20.040 --> 40:23.643
+and journalists, and they asked them the same question,
+
+849
+40:24.720 --> 40:27.810
+and one of them said, you know, "What I'm seeing this year
+
+850
+40:27.810 --> 40:30.150
+is really kind of this movement for tech for good,
+
+851
+40:30.150 --> 40:35.150
+so using technology for healthcare, emergency services
+
+852
+40:35.730 --> 40:37.380
+and highlighted some amazing things
+
+853
+40:37.380 --> 40:40.050
+that I just couldn't believe existed."
+
+854
+40:40.050 --> 40:44.190
+And then, she went on to mention satellite applications,
+
+855
+40:44.190 --> 40:47.700
+enabling them, and one of the ones she was talking about
+
+856
+40:47.700 --> 40:50.430
+was for emergency services for,
+
+857
+40:50.430 --> 40:53.070
+there's a firetruck down there that's using it really
+
+858
+40:53.070 --> 40:54.810
+in an amazing way, but also wildfire,
+
+859
+40:54.810 --> 40:58.590
+it's my family's background, in being Canadian,
+
+860
+40:58.590 --> 41:00.780
+but wildfire and the, you know, obviously,
+
+861
+41:00.780 --> 41:04.470
+the outcome of our climate at the moment
+
+862
+41:04.470 --> 41:06.720
+and managing the impact of that
+
+863
+41:06.720 --> 41:09.600
+until we come up with the riding of the wave,
+
+864
+41:09.600 --> 41:12.900
+solution and opportunity, we're gonna need to manage that.
+
+865
+41:12.900 --> 41:15.870
+So using space to help enable technology on the ground
+
+866
+41:15.870 --> 41:17.520
+for emergency services, you know,
+
+867
+41:17.520 --> 41:19.500
+some of the stuff downstairs is absolutely incredible,
+
+868
+41:19.500 --> 41:22.263
+and it does give me a lot of hope for us here on Earth.
+
+869
+41:23.400 --> 41:24.800
+<v ->Very cool.</v>
+
+870
+41:24.800 --> 41:26.193
+Clare, any last remarks?
+
+871
+41:28.029 --> 41:29.700
+<v ->I would echo that in some way.</v>
+
+872
+41:29.700 --> 41:34.700
+So, one of my main motivators for joining Astroscale
+
+873
+41:35.310 --> 41:38.790
+as a company was that it wasn't a technology company.
+
+874
+41:38.790 --> 41:42.270
+It's a technology, it does great tech,
+
+875
+41:42.270 --> 41:44.850
+but it's also determined to work to help solve policy
+
+876
+41:44.850 --> 41:47.700
+and regulatory and to make the economics case work.
+
+877
+41:47.700 --> 41:51.953
+So, taking all of the great ideas in technology,
+
+878
+41:51.953 --> 41:53.880
+whether it's artificial intelligence
+
+879
+41:53.880 --> 41:56.490
+or the actual processing capability that we need in orbit
+
+880
+41:56.490 --> 41:59.850
+to be able to use said intelligence,
+
+881
+41:59.850 --> 42:01.350
+and bringing those together
+
+882
+42:01.350 --> 42:05.370
+to actually solve the space sustainability challenge,
+
+883
+42:05.370 --> 42:08.340
+from our perspective and many other environmental challenges
+
+884
+42:08.340 --> 42:09.510
+as you just referred to,
+
+885
+42:09.510 --> 42:11.190
+that to me is the most exciting thing,
+
+886
+42:11.190 --> 42:13.353
+to make technology a part of the solution.
+
+887
+42:14.790 --> 42:15.623
+<v ->Very good.</v>
+
+888
+42:15.623 --> 42:17.250
+Well, with that, we have reached time,
+
+889
+42:17.250 --> 42:18.840
+so if we could have a round of applause
+
+890
+42:18.840 --> 42:20.610
+for our outstanding panelists,
+
+891
+42:20.610 --> 42:23.007
+and thank you all for your kind attention.
+
+892
+42:23.007 --> 42:23.840
+(audience applauding)
+
+893
+42:23.840 --> 42:26.507
+(upbeat music)
+

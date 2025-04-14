@@ -1,0 +1,2953 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.000 --> 00:03.500
+(upbeat electronic music)
+
+00:10.740 --> 00:11.573
+<v ->All right, everybody.</v>
+
+00:11.573 --> 00:13.080
+I think we're gonna get started here now today.
+
+00:13.080 --> 00:15.390
+So, thank you so much for all being here.
+
+00:15.390 --> 00:17.730
+I know that it is the Thursday, the third day,
+
+00:17.730 --> 00:18.810
+and we're in the last session.
+
+00:18.810 --> 00:21.420
+So again, we can't thank you guys enough for being here.
+
+00:21.420 --> 00:23.250
+And so today, we're gonna be jumping
+
+00:23.250 --> 00:26.190
+into some of the cybersecurity conference panel session.
+
+00:26.190 --> 00:27.600
+We're gonna be taking a look
+
+00:27.600 --> 00:30.240
+at data breach prevention and protection
+
+00:30.240 --> 00:31.650
+within our industry right now.
+
+00:31.650 --> 00:35.280
+So, we're gonna kind of break it down into three main parts.
+
+00:35.280 --> 00:38.280
+What is the current kind of landscape we are seeing
+
+00:38.280 --> 00:40.470
+in the cybersecurity space right now?
+
+00:40.470 --> 00:42.360
+What should companies do when they're attacked,
+
+00:42.360 --> 00:43.830
+both from a preventative standpoint,
+
+00:43.830 --> 00:46.740
+also from an after they get our attack standpoint,
+
+00:46.740 --> 00:49.530
+cleaning up the mess, basically, is that one would say.
+
+00:49.530 --> 00:50.363
+And then finally,
+
+00:50.363 --> 00:51.900
+what are some of the emerging technologies
+
+00:51.900 --> 00:53.160
+or different things people are doing
+
+00:53.160 --> 00:56.310
+to preventing attacks in the future?
+
+00:56.310 --> 00:58.470
+So my name is Kyle Wandel.
+
+00:58.470 --> 01:00.540
+I'm a Manager of Business Intelligence
+
+01:00.540 --> 01:03.780
+on Consumer Technologies Market Research Team.
+
+01:03.780 --> 01:05.880
+I've been with CTA or in this space
+
+01:05.880 --> 01:08.070
+for around five, six years now,
+
+01:08.070 --> 01:09.750
+and I work on an industry forecast.
+
+01:09.750 --> 01:10.583
+So I have a good idea
+
+01:10.583 --> 01:12.930
+of what are the main kind of technology trends
+
+01:12.930 --> 01:14.880
+that are happening in the space.
+
+01:14.880 --> 01:16.352
+So, I'll turn it over to Meredith.
+
+01:16.352 --> 01:17.748
+Do you need help to introduce yourself?
+
+01:17.748 --> 01:18.581
+<v ->Sure. Hi, everyone.</v>
+
+01:18.581 --> 01:21.720
+Thank you so much for being here.
+
+01:21.720 --> 01:22.860
+I'm Meredith Griffanti,
+
+01:22.860 --> 01:26.010
+I'm the Global head of Cybersecurity
+
+01:26.010 --> 01:30.360
+and Data Privacy Communications at FTI Consulting.
+
+01:30.360 --> 01:31.620
+So what does that mean?
+
+01:31.620 --> 01:35.580
+I lead a team of crisis communications professionals
+
+01:35.580 --> 01:38.070
+that sort of swoop in in the middle of an incident
+
+01:38.070 --> 01:41.520
+and help companies that are experiencing an attack
+
+01:41.520 --> 01:44.490
+figure out what to say to their employees,
+
+01:44.490 --> 01:48.660
+to regulators, their customers, the media,
+
+01:48.660 --> 01:51.330
+how to say it, when, timing,
+
+01:51.330 --> 01:53.190
+and how to protect their reputations
+
+01:53.190 --> 01:55.830
+really coming out of the incident
+
+01:55.830 --> 01:58.380
+stronger than before it happened.
+
+01:58.380 --> 02:01.890
+And when we're not actively fighting cyber crime,
+
+02:01.890 --> 02:02.910
+we're helping companies
+
+02:02.910 --> 02:06.420
+to really take the best practices we see on the front lines
+
+02:06.420 --> 02:09.300
+and apply those into preparedness plans,
+
+02:09.300 --> 02:12.870
+crisis communications, resiliency plans,
+
+02:12.870 --> 02:16.710
+because it's not a matter of if, but when, these days.
+
+02:16.710 --> 02:18.630
+So that is the team I lead,
+
+02:18.630 --> 02:20.100
+and really excited to be here
+
+02:20.100 --> 02:22.710
+and talk about this exciting subject.
+
+02:22.710 --> 02:25.830
+<v Kyle>Thank you. Brendan?</v>
+<v ->I guess it's my turn.</v>
+
+02:25.830 --> 02:29.280
+My name is Brendan Rooney, I work with Booz Allen Hamilton.
+
+02:29.280 --> 02:31.860
+I lead our Incident Response Team globally.
+
+02:31.860 --> 02:34.500
+So we have personnel that are in the U.S., the UK,
+
+02:34.500 --> 02:37.590
+Netherlands, a number of other countries around the world.
+
+02:37.590 --> 02:42.590
+Our team, similar to Meredith at FTI, in terms of the,
+
+02:43.500 --> 02:45.600
+I would say, responding to crisis scenarios,
+
+02:45.600 --> 02:47.250
+our team assists with a variety
+
+02:47.250 --> 02:49.410
+of different digital forensic investigations
+
+02:49.410 --> 02:50.980
+and recovery capabilities
+
+02:51.870 --> 02:53.850
+with organizations that fall victim
+
+02:53.850 --> 02:55.770
+to a variety of different types of incidents,
+
+02:55.770 --> 02:57.450
+from ransomware compromise
+
+02:57.450 --> 02:59.520
+to more general network intrusions,
+
+02:59.520 --> 03:01.170
+insider threat activities.
+
+03:01.170 --> 03:03.990
+All of our work on our team is in the private sector,
+
+03:03.990 --> 03:06.300
+whereas some of my colleagues operate
+
+03:06.300 --> 03:08.370
+with a variety of different federal agencies
+
+03:08.370 --> 03:09.360
+or other organizations
+
+03:09.360 --> 03:11.213
+that are aligned to the U.S. government.
+
+03:12.570 --> 03:13.437
+<v ->Awesome, thank you.</v>
+
+03:13.437 --> 03:15.300
+And so let's just kind of dive right into it.
+
+03:15.300 --> 03:17.040
+And I mean this kind of a little bit open-ended
+
+03:17.040 --> 03:19.050
+to either one of you, you can please respond.
+
+03:19.050 --> 03:21.090
+But what are some of the main types of attacks
+
+03:21.090 --> 03:23.280
+or companies that are currently facing,
+
+03:23.280 --> 03:25.950
+and what type of industries or entities do you see
+
+03:25.950 --> 03:28.500
+to be the most vulnerable at the moment right now?
+
+03:28.500 --> 03:29.910
+<v ->Ooh, great question.</v>
+
+03:29.910 --> 03:32.580
+I'll start and you jump in.
+<v ->Yeah, yeah, sure.</v>
+
+03:32.580 --> 03:33.413
+<v ->Of course,</v>
+
+03:33.413 --> 03:37.980
+ransomware continues to be the sort of incident du jour.
+
+03:37.980 --> 03:40.200
+It causes the most operational disruption,
+
+03:40.200 --> 03:41.700
+it's highly public.
+
+03:41.700 --> 03:45.120
+So, we're seeing a lot of ransomware, data theft,
+
+03:45.120 --> 03:47.730
+data extortion type of incidents.
+
+03:47.730 --> 03:49.980
+Right now, if you're following the news,
+
+03:49.980 --> 03:51.300
+you might have read a little bit
+
+03:51.300 --> 03:55.740
+about some of the salt typhoon type of incidents,
+
+03:55.740 --> 03:59.550
+so more APT nation-state espionage.
+
+03:59.550 --> 04:02.880
+It affected a number of the wireless carriers.
+
+04:02.880 --> 04:06.693
+T-Mobile, AT&amp;T, Verizon we're hearing a lot about.
+
+04:07.590 --> 04:09.000
+So we are working on a number
+
+04:09.000 --> 04:11.733
+of those types of incidents as well.
+
+04:13.609 --> 04:16.350
+I think those are kind of top of mind hot topics
+
+04:16.350 --> 04:17.183
+for us right now.
+
+04:17.183 --> 04:19.200
+What about you guys? What you're seeing.
+
+04:19.200 --> 04:21.060
+<v ->Yeah, I mean I think ransomware is easy</v>
+
+04:21.060 --> 04:25.710
+'cause it draws headlines for...
+
+04:25.710 --> 04:28.590
+Been kind of in the, in some ways,
+
+04:28.590 --> 04:32.610
+the ransomware world for the last probably 10 to 12 years.
+
+04:32.610 --> 04:34.620
+Feels like an eternity.
+
+04:34.620 --> 04:36.660
+But there was a point in time
+
+04:36.660 --> 04:38.250
+where that wasn't really talked about.
+
+04:38.250 --> 04:40.620
+My wife generally didn't really know a whole lot
+
+04:40.620 --> 04:42.120
+about what ransomware was.
+
+04:42.120 --> 04:44.370
+And to kind of be in a position now
+
+04:44.370 --> 04:46.050
+where it's kind of grabbing global headlines
+
+04:46.050 --> 04:47.350
+on a frequent basis
+
+04:48.360 --> 04:52.110
+is a little bit of a changing topic of conversation
+
+04:52.110 --> 04:53.820
+at our dinner table.
+
+04:53.820 --> 04:56.790
+I would say, though, that independent of ransomware,
+
+04:56.790 --> 04:59.220
+and in some cases, depending on the situation,
+
+04:59.220 --> 05:00.720
+maybe even related,
+
+05:00.720 --> 05:03.300
+is the prevalence of insider threat activity.
+
+05:03.300 --> 05:05.460
+I would say even certainly so
+
+05:05.460 --> 05:07.810
+relative to the technology industry
+
+05:09.180 --> 05:13.410
+is the ability for an inside employee to very quickly,
+
+05:13.410 --> 05:17.220
+easily, and in many ways in an undetected fashion,
+
+05:17.220 --> 05:19.710
+be able to quickly siphon
+
+05:19.710 --> 05:22.170
+highly-sensitive intellectual property
+
+05:22.170 --> 05:26.490
+and potentially even really substantial trade secrets
+
+05:26.490 --> 05:29.010
+that could impact the future of an organization.
+
+05:29.010 --> 05:29.843
+<v ->And in terms of,</v>
+
+05:29.843 --> 05:33.360
+you asked about the most vulnerable industries and sectors,
+
+05:33.360 --> 05:35.700
+I think we skipped that part of your question.
+
+05:35.700 --> 05:40.700
+I would say healthcare, hospitals,
+
+05:40.710 --> 05:45.570
+they tend to have very interconnected systems,
+
+05:45.570 --> 05:49.020
+a lot of dependencies on third-party vendors,
+
+05:49.020 --> 05:50.460
+and generally speaking,
+
+05:50.460 --> 05:53.550
+are under-resourced and under-prepared
+
+05:53.550 --> 05:57.810
+when it comes to their cybersecurity defenses.
+
+05:57.810 --> 06:01.380
+So, quick way for threat actors to make a buck.
+
+06:01.380 --> 06:03.960
+You think about the types of medical information
+
+06:03.960 --> 06:06.750
+that hospitals, for example, hold,
+
+06:06.750 --> 06:11.750
+as well as the potential disruption to patient care.
+
+06:13.020 --> 06:15.510
+Those are easy targets for threat actors
+
+06:15.510 --> 06:17.460
+because they're most likely to pay.
+
+06:17.460 --> 06:20.850
+So, I would say that industry, in particular,
+
+06:20.850 --> 06:22.383
+tends to be a target.
+
+06:23.490 --> 06:28.290
+We're reading a lot right now about education systems,
+
+06:28.290 --> 06:31.080
+local governments, municipalities,
+
+06:31.080 --> 06:34.470
+being quite affected by these ransomware attacks
+
+06:34.470 --> 06:36.990
+or nation-state incidents.
+
+06:36.990 --> 06:40.080
+The financial services sector tends to be better prepared,
+
+06:40.080 --> 06:42.630
+just because of the level of investment,
+
+06:42.630 --> 06:46.380
+the sophistication that goes into their controls.
+
+06:46.380 --> 06:49.350
+So I would say that's one of the better,
+
+06:49.350 --> 06:51.570
+stronger ends of the spectrum.
+
+06:51.570 --> 06:55.500
+Whereas you look at healthcare and public entities,
+
+06:55.500 --> 06:58.770
+and those tend to be less well-resourced.
+
+06:58.770 --> 07:00.810
+<v ->Hmm, yeah, I'd add to that,</v>
+
+07:00.810 --> 07:02.880
+that the rapid adoption
+
+07:02.880 --> 07:04.530
+of a variety of different technologies
+
+07:04.530 --> 07:06.780
+also has a immediate propensity
+
+07:06.780 --> 07:08.340
+to increase the digital footprint
+
+07:08.340 --> 07:10.920
+or attack surface of many organizations.
+
+07:10.920 --> 07:13.320
+And I'd say the insertion
+
+07:13.320 --> 07:16.800
+of a substantial amount of updated or new tech
+
+07:16.800 --> 07:19.440
+into manufacturing as an example
+
+07:19.440 --> 07:21.450
+creates an expanded attack surface
+
+07:21.450 --> 07:23.640
+in a way that it gets increasingly more difficult
+
+07:23.640 --> 07:27.090
+for many of these organizations, very large and very small,
+
+07:27.090 --> 07:30.420
+to not only understand what that footprint looks like,
+
+07:30.420 --> 07:31.830
+but also to protect it
+
+07:31.830 --> 07:34.440
+and defend against this type of malicious activity.
+
+07:34.440 --> 07:37.320
+So, for us manufacturing
+
+07:37.320 --> 07:40.080
+and other similarly related industries,
+
+07:40.080 --> 07:41.280
+especially the supply chain
+
+07:41.280 --> 07:43.710
+up and down the manufacturing sector,
+
+07:43.710 --> 07:46.140
+has seen a pretty substantial amount of activity.
+
+07:46.140 --> 07:48.290
+And that's certainly a contributing factor.
+
+07:49.616 --> 07:50.790
+<v ->And this is actually perfect timing, Mike,</v>
+
+07:50.790 --> 07:52.230
+because they just kind of alluded
+
+07:52.230 --> 07:54.240
+to one of the biggest themes that I've seen
+
+07:54.240 --> 07:55.710
+in the past year or so,
+
+07:55.710 --> 07:58.590
+which is the idea of how we are now more connected devices,
+
+07:58.590 --> 07:59.940
+more and more wireless devices
+
+07:59.940 --> 08:02.220
+are in our industry more than ever before.
+
+08:02.220 --> 08:04.710
+So with your expertise in IoT,
+
+08:04.710 --> 08:06.360
+how are connected devices contributing
+
+08:06.360 --> 08:08.160
+to this vulnerability in cybersecurity?
+
+08:08.160 --> 08:09.000
+<v ->That's a great question.</v>
+
+08:09.000 --> 08:10.470
+By the way, I'm Mike Bergman,
+
+08:10.470 --> 08:13.020
+Vice President of Technology and Standards at CTA.
+
+08:13.020 --> 08:14.270
+Apologies for being late.
+
+08:16.110 --> 08:17.550
+So, one of the challenges we have
+
+08:17.550 --> 08:20.490
+is that there's a sea of connected devices out there.
+
+08:20.490 --> 08:23.820
+There's 18 billion connected right now, something like that.
+
+08:23.820 --> 08:27.390
+And those devices are all around the world.
+
+08:27.390 --> 08:29.340
+And a little more context,
+
+08:29.340 --> 08:34.340
+if you look at the huge attack on the United States in 2016,
+
+08:35.220 --> 08:39.050
+known as the Mirai botnet attack, that was...
+
+08:40.860 --> 08:42.630
+driven by connected devices.
+
+08:42.630 --> 08:46.020
+And if you look at where the traffic came from,
+
+08:46.020 --> 08:47.580
+91% of that traffic
+
+08:47.580 --> 08:50.490
+came from outside the United States' borders.
+
+08:50.490 --> 08:52.020
+And so we have a global issue
+
+08:52.020 --> 08:54.210
+with these connected devices getting hacked
+
+08:54.210 --> 08:57.843
+and then turned into one type of attack vector or another.
+
+08:58.770 --> 09:00.990
+And one of the things that they're doing
+
+09:00.990 --> 09:03.240
+is they're using these connected devices
+
+09:03.240 --> 09:08.240
+to help find openings, to find exploits,
+
+09:08.820 --> 09:12.180
+to look for common exploits or known exploits,
+
+09:12.180 --> 09:14.550
+and then start working their way into systems.
+
+09:14.550 --> 09:16.620
+So once they find a vulnerable system,
+
+09:16.620 --> 09:20.310
+drop malware, otherwise infiltrate the system,
+
+09:20.310 --> 09:22.440
+and then soon you've got a ransomware problem.
+
+09:22.440 --> 09:26.580
+So, we are looking for ways to improve the situation.
+
+09:26.580 --> 09:29.250
+In general, there's the new U.S. Cyber Trust Mark
+
+09:29.250 --> 09:30.360
+for consumer devices.
+
+09:30.360 --> 09:33.360
+The federal government is tightening requirements
+
+09:33.360 --> 09:35.133
+on connected devices.
+
+09:36.030 --> 09:41.030
+We have similar programs in the EU, UK,
+
+09:41.250 --> 09:45.600
+Germany, Finland, Singapore, Malaysia, all over the world.
+
+09:45.600 --> 09:48.240
+So, we recognize that there's a problem,
+
+09:48.240 --> 09:52.630
+but even if we flipped every manufacturer over right now
+
+09:54.342 --> 09:58.170
+to something perfectly secure,
+
+09:58.170 --> 10:00.900
+we still have 18 billion devices out there
+
+10:00.900 --> 10:02.490
+and a bunch in the pipeline.
+
+10:02.490 --> 10:07.490
+And so all of the challenges, and opportunities,
+
+10:08.700 --> 10:13.700
+and precautions on data breach are gonna be...
+
+10:15.480 --> 10:18.540
+Are still necessary from this perspective
+
+10:18.540 --> 10:20.850
+of the connected devices for a long time
+
+10:20.850 --> 10:22.530
+because of that legacy base.
+
+10:22.530 --> 10:24.390
+<v ->And that kind of brings me kind of in over the next point</v>
+
+10:24.390 --> 10:27.240
+because of how many incidents there are have been
+
+10:27.240 --> 10:29.370
+and how difficult it is to really protect
+
+10:29.370 --> 10:32.400
+every single connected device in our industry.
+
+10:32.400 --> 10:34.860
+Meredith, from your perspective, what from a...
+
+10:34.860 --> 10:36.930
+What do should companies do to navigate the aftermath
+
+10:36.930 --> 10:39.000
+after they do have an incident,
+
+10:39.000 --> 10:41.250
+whether it be data breach or any type of other incident
+
+10:41.250 --> 10:43.770
+that could occur at the company?
+
+10:43.770 --> 10:47.820
+<v ->Sure, I would say one of the biggest pain points</v>
+
+10:47.820 --> 10:50.700
+we tend to see with our clients
+
+10:50.700 --> 10:53.043
+is the communications work stream.
+
+10:54.270 --> 10:57.090
+We tend to, when we respond to incidents,
+
+10:57.090 --> 11:02.090
+have forensics, ransom negotiations, recovery, comms, legal,
+
+11:04.410 --> 11:07.170
+everyone's kind of divided up into work streams.
+
+11:07.170 --> 11:10.530
+And there's an onslaught of inquiries
+
+11:10.530 --> 11:12.300
+that come in not just from the media,
+
+11:12.300 --> 11:15.990
+not just from regulators, not just from employees,
+
+11:15.990 --> 11:17.910
+but really from customers.
+
+11:17.910 --> 11:20.700
+And what customers want to know in particular
+
+11:20.700 --> 11:23.220
+if the organization is B2B is:
+
+11:23.220 --> 11:26.490
+What is the risk to my own network from your incident
+
+11:26.490 --> 11:29.160
+if there's points of interconnectedness
+
+11:29.160 --> 11:33.750
+or reliance on different systems or platforms?
+
+11:33.750 --> 11:38.010
+So, they want assurances that the incident is contained,
+
+11:38.010 --> 11:41.250
+they want the CISO or the InfoSec team
+
+11:41.250 --> 11:44.730
+to share helpful indicators of compromise,
+
+11:44.730 --> 11:47.070
+so that the customer can load those
+
+11:47.070 --> 11:50.490
+into their own vulnerability scans
+
+11:50.490 --> 11:54.060
+and find points of weaknesses on their own systems.
+
+11:54.060 --> 11:57.720
+They want attestation letters from third parties,
+
+11:57.720 --> 11:59.280
+and they want a phone call, right,
+
+11:59.280 --> 12:01.020
+with the Head of InfoSec, or the CEO,
+
+12:01.020 --> 12:02.940
+or their customer sales rep.
+
+12:02.940 --> 12:05.070
+So, I would say the biggest pain point
+
+12:05.070 --> 12:10.070
+is really equipping the front lines with the right messaging
+
+12:10.350 --> 12:12.570
+so that no one's shooting from the hip,
+
+12:12.570 --> 12:15.990
+as well as sort of an escalation process.
+
+12:15.990 --> 12:17.480
+Everyone feels like their customer
+
+12:17.480 --> 12:19.830
+is the most important during an incident.
+
+12:19.830 --> 12:22.560
+And of course, all customers are equal.
+
+12:22.560 --> 12:27.560
+But, if a top 10 customer that makes up, for example,
+
+12:28.590 --> 12:31.140
+a big portion of the revenue
+
+12:31.140 --> 12:33.750
+wants a phone call with the CISO,
+
+12:33.750 --> 12:35.640
+how do we make that determination,
+
+12:35.640 --> 12:36.690
+and what's the process
+
+12:36.690 --> 12:39.330
+for getting that customer on the phone
+
+12:39.330 --> 12:41.940
+and kind of calming them down?
+
+12:41.940 --> 12:44.460
+So you amplify that type of incident
+
+12:44.460 --> 12:46.320
+for a Fortune 50 company
+
+12:46.320 --> 12:49.770
+that has customers all over the world,
+
+12:49.770 --> 12:51.990
+different levels of sophistication,
+
+12:51.990 --> 12:54.780
+different language needs, time zones.
+
+12:54.780 --> 12:56.400
+I think really thinking
+
+12:56.400 --> 13:00.390
+about setting up that command center, if you will,
+
+13:00.390 --> 13:02.340
+to triage those inbounds
+
+13:02.340 --> 13:06.360
+to have a process in place for tracking everything,
+
+13:06.360 --> 13:09.210
+understanding who's been told what when.
+
+13:09.210 --> 13:10.620
+I cannot tell you how many times
+
+13:10.620 --> 13:12.990
+after the fact we have to turn all of that over
+
+13:12.990 --> 13:15.540
+to regulators who wanna sift through it
+
+13:15.540 --> 13:17.970
+and make sure that you were being consistent
+
+13:17.970 --> 13:19.890
+in your messaging with employees,
+
+13:19.890 --> 13:22.320
+with the media, with customers, et cetera.
+
+13:22.320 --> 13:24.780
+Especially if you're a publicly traded company,
+
+13:24.780 --> 13:29.780
+you now have SEC disclosure obligations to worry about
+
+13:30.120 --> 13:32.370
+and Reg FD, of course.
+
+13:32.370 --> 13:35.430
+So thinking about all of that stuff in advance
+
+13:35.430 --> 13:37.110
+and war-gaming it out,
+
+13:37.110 --> 13:39.300
+I mean, we do these high-level tabletops
+
+13:39.300 --> 13:42.690
+with our customers or with our clients all the time,
+
+13:42.690 --> 13:47.430
+but a couple hours focusing on the whole incident response
+
+13:47.430 --> 13:48.810
+is valuable, of course.
+
+13:48.810 --> 13:50.400
+But really drilling down
+
+13:50.400 --> 13:53.940
+into that communications process, and protocol,
+
+13:53.940 --> 13:58.140
+and practicing what it's like to move a couple of inquiries
+
+13:58.140 --> 14:01.530
+from one stage gate to another,
+
+14:01.530 --> 14:05.760
+I think can be worth its weight all day every day
+
+14:05.760 --> 14:08.820
+because that's where we see companies tend to fall down.
+
+14:08.820 --> 14:09.653
+<v Kyle>No, perfect.</v>
+
+14:09.653 --> 14:10.980
+And this is kind of open to everybody,
+
+14:10.980 --> 14:14.070
+but in terms of a clientele, or a recent example,
+
+14:14.070 --> 14:15.630
+what did a thorough investigation
+
+14:15.630 --> 14:17.820
+that has helped an organization to recover,
+
+14:17.820 --> 14:19.140
+and like what was the outcome
+
+14:19.140 --> 14:21.300
+of that positive investigation?
+
+14:21.300 --> 14:22.133
+I guess Brendan,
+
+14:22.133 --> 14:24.090
+you probably might have the most expertise with this one
+
+14:24.090 --> 14:25.980
+in terms of your client base.
+<v Brendan>Yeah, fortunately,</v>
+
+14:25.980 --> 14:27.270
+or unfortunately, I guess.
+<v Kyle>Yep.</v>
+
+14:27.270 --> 14:29.430
+<v ->Depends on the situation.</v>
+
+14:29.430 --> 14:32.040
+I'll maybe spin your question a little bit differently
+
+14:32.040 --> 14:34.620
+of what can, in my opinion,
+
+14:34.620 --> 14:36.390
+from what we see on a frequent basis,
+
+14:36.390 --> 14:39.180
+what can make or break an organization's response
+
+14:39.180 --> 14:40.770
+to an incident?
+
+14:40.770 --> 14:45.770
+And as ridiculous as this may sound in some ways,
+
+14:45.960 --> 14:48.120
+it is very basic security concepts
+
+14:48.120 --> 14:50.730
+that ultimately do create the best outcome.
+
+14:50.730 --> 14:52.170
+I think very well-known,
+
+14:52.170 --> 14:54.120
+even if you have or have not been
+
+14:54.120 --> 14:56.070
+in the middle of one of these incidents before,
+
+14:56.070 --> 14:57.840
+that time is critical.
+
+14:57.840 --> 14:59.370
+And from Meredith's perspective,
+
+14:59.370 --> 15:00.720
+time to reach out to clients,
+
+15:00.720 --> 15:02.640
+time to reach out to customers,
+
+15:02.640 --> 15:05.010
+not only what you're contractually required to do,
+
+15:05.010 --> 15:07.650
+but also how do you continue to enable your business
+
+15:07.650 --> 15:09.600
+to be successful going forward?
+
+15:09.600 --> 15:11.580
+But time to recover.
+
+15:11.580 --> 15:13.800
+That's why RTO and RPO calculations
+
+15:13.800 --> 15:15.630
+are critical proactively.
+
+15:15.630 --> 15:19.020
+But, there is a foundational concept
+
+15:19.020 --> 15:21.030
+that if an organization does not have a full
+
+15:21.030 --> 15:22.050
+and in-depth understanding
+
+15:22.050 --> 15:24.510
+of what assets they're ultimately responsible for,
+
+15:24.510 --> 15:26.550
+and this probably dovetails nicely
+
+15:26.550 --> 15:28.200
+into Mike's prior comment,
+
+15:28.200 --> 15:32.850
+then it is very difficult to be able to go to a client,
+
+15:32.850 --> 15:35.250
+customer, partner, however they're defined,
+
+15:35.250 --> 15:38.707
+in a circumstance like Meredith described and say that,
+
+15:38.707 --> 15:39.990
+"Here's your attestation
+
+15:39.990 --> 15:43.260
+that you can reestablish a connection with our organization,
+
+15:43.260 --> 15:45.000
+and that that connection, or that channel,
+
+15:45.000 --> 15:47.700
+whatever that might be, is ultimately secured."
+
+15:47.700 --> 15:49.350
+You can't do that if you don't have a full
+
+15:49.350 --> 15:50.460
+and in-depth understanding
+
+15:50.460 --> 15:52.320
+of what the connection actually consists of
+
+15:52.320 --> 15:55.680
+and what devices are ultimately under your responsibility.
+
+15:55.680 --> 15:57.720
+So, asset inventory
+
+15:57.720 --> 16:01.080
+and being able to secure the organization at the edge
+
+16:01.080 --> 16:02.820
+is absolutely critical
+
+16:02.820 --> 16:05.820
+because that is the first question we ask is:
+
+16:05.820 --> 16:07.830
+Okay, you're telling us there was an incident,
+
+16:07.830 --> 16:09.210
+what was affected?
+
+16:09.210 --> 16:11.658
+If you can't answer the question,
+
+16:11.658 --> 16:14.580
+then we basically have to then answer the question for you.
+
+16:14.580 --> 16:17.340
+And that takes us a far longer period of time
+
+16:17.340 --> 16:20.910
+than if we can actually be provided with an answer quickly,
+
+16:20.910 --> 16:22.560
+or at least some semblance of an answer.
+
+16:22.560 --> 16:24.060
+It'll always change over time.
+
+16:25.110 --> 16:27.810
+So, that's what I would say, in my opinion,
+
+16:27.810 --> 16:30.150
+makes or breaks a successful response.
+
+16:30.150 --> 16:32.430
+And the ripple effect that is created,
+
+16:32.430 --> 16:34.800
+whether or not they can answer that question,
+
+16:34.800 --> 16:38.040
+is potentially catastrophic
+
+16:38.040 --> 16:39.270
+to the organization's long term (indistinct).
+
+16:39.270 --> 16:40.500
+<v Meredith>Well, just to tack on,</v>
+
+16:40.500 --> 16:42.900
+that also goes for data governance, too.
+
+16:42.900 --> 16:45.000
+<v ->Oh, yeah.</v>
+<v ->Like, it's asset inventory.</v>
+
+16:45.000 --> 16:48.367
+And then I can't tell you how many times we ask a client,
+
+16:48.367 --> 16:50.520
+"Okay, well, what's stored on that server?
+
+16:50.520 --> 16:52.110
+What's in this?
+
+16:52.110 --> 16:53.820
+What does this employee have access to?"
+
+16:53.820 --> 16:55.650
+And they're like, "Well, we have no idea."
+
+16:55.650 --> 16:56.483
+I'm like, "Well, great."
+
+16:56.483 --> 16:58.710
+Well, we don't know what to tell our customers then.
+
+16:58.710 --> 17:01.530
+So, same concept there applies.
+
+17:01.530 --> 17:03.390
+<v ->Yeah, can we say that to our largest client</v>
+
+17:03.390 --> 17:06.000
+or largest customer in the middle of an incident?
+
+17:06.000 --> 17:07.170
+Ideally not.
+
+17:07.170 --> 17:09.120
+<v ->And what about the smaller customers, too?</v>
+
+17:09.120 --> 17:11.250
+I mean, I can't tell you how many times I've heard the story
+
+17:11.250 --> 17:12.840
+of, "And then we test our...
+
+17:12.840 --> 17:16.470
+And then we tried our backups, but the backups didn't work."
+
+17:16.470 --> 17:21.470
+And I think the smaller entities have the data governance,
+
+17:22.290 --> 17:23.700
+data governance policies.
+
+17:23.700 --> 17:26.130
+Meredith was mentioning the preparation,
+
+17:26.130 --> 17:27.840
+being ready for that attack.
+
+17:27.840 --> 17:30.930
+It's just not invested in as much.
+
+17:30.930 --> 17:33.270
+Frequently, as further you go down the scale
+
+17:33.270 --> 17:34.980
+of size of business,
+
+17:34.980 --> 17:39.980
+so it becomes a real challenge in being able to recover
+
+17:40.140 --> 17:42.040
+when you haven't done the preparation.
+
+17:43.050 --> 17:45.180
+And that preparation, unfortunately,
+
+17:45.180 --> 17:47.220
+is a cost factor for the small companies
+
+17:47.220 --> 17:49.803
+that often they won't invest in.
+
+17:50.760 --> 17:51.870
+<v ->I mean, Mike, that kind of...</v>
+
+17:51.870 --> 17:53.520
+Sorry to, as you clear your throat there,
+
+17:53.520 --> 17:55.440
+but that kind of leads me into my...
+
+17:55.440 --> 17:56.280
+Perfect for my next question
+
+17:56.280 --> 17:58.500
+in terms of from an industry-wide collaboration,
+
+17:58.500 --> 18:01.170
+'cause obviously small businesses can't do it alone.
+
+18:01.170 --> 18:03.720
+How can we help organizations recover more effectively
+
+18:03.720 --> 18:05.253
+from large-scale incidents?
+
+18:07.230 --> 18:10.170
+<v ->So, large...</v>
+
+18:10.170 --> 18:13.140
+I mean, one of the more interesting large-scale incidents
+
+18:13.140 --> 18:15.003
+was the Microsoft SolarWinds.
+
+18:15.840 --> 18:20.840
+And there was not just the individual organizations
+
+18:22.680 --> 18:23.550
+working on their own,
+
+18:23.550 --> 18:25.110
+they were working with their vendors,
+
+18:25.110 --> 18:28.620
+they were bringing in their consultants, and partners,
+
+18:28.620 --> 18:31.713
+and companies that helped them with recovery.
+
+18:33.240 --> 18:35.730
+And the Department of Homeland Security was involved.
+
+18:35.730 --> 18:37.470
+There were phone calls,
+
+18:37.470 --> 18:40.950
+CISA hosting phone calls with 150, 200 people.
+
+18:40.950 --> 18:42.690
+On the call, most of them CISAs,
+
+18:42.690 --> 18:44.940
+most of them saying, "What do we do?"
+
+18:44.940 --> 18:45.773
+So,
+
+18:49.110 --> 18:51.783
+obviously, the recovery plan goes into effect,
+
+18:53.130 --> 18:55.293
+but it's all hands on deck, I would say.
+
+18:56.880 --> 18:59.940
+Brendan, Meredith maybe have perspective as well.
+
+18:59.940 --> 19:00.837
+It just...
+
+19:00.837 --> 19:03.210
+You gotta be firing on all eight cylinders
+
+19:03.210 --> 19:04.200
+<v ->That, and I mean,</v>
+
+19:04.200 --> 19:08.790
+there's no way around needing to test, develop...
+
+19:08.790 --> 19:12.630
+Well, develop, test incident response plans,
+
+19:12.630 --> 19:15.843
+disaster recovery, business continuity plans,
+
+19:16.740 --> 19:20.490
+even just having, if you're a smaller organization,
+
+19:20.490 --> 19:24.337
+a 24, 48, 72-hour checklist of,
+
+19:24.337 --> 19:25.860
+"What am I doing first?
+
+19:25.860 --> 19:27.210
+Who am I calling?
+
+19:27.210 --> 19:29.370
+Who are the vendors I'm gonna need to bring in?
+
+19:29.370 --> 19:30.780
+Have I met them?
+
+19:30.780 --> 19:33.090
+Am I shaking their hand on day one?
+
+19:33.090 --> 19:35.520
+Do I have cybersecurity insurance?"
+
+19:35.520 --> 19:38.640
+Those are things that I think smaller organizations
+
+19:38.640 --> 19:40.620
+can think about ahead of time
+
+19:40.620 --> 19:44.070
+to really ensure that if they do find themselves
+
+19:44.070 --> 19:45.840
+in a worst-case scenario,
+
+19:45.840 --> 19:50.070
+recovery is as planned out as possible
+
+19:50.070 --> 19:52.415
+because they know who they're gonna call.
+
+19:52.415 --> 19:55.230
+<v ->Mm-hmm, and you have to allocate the resources</v>
+
+19:55.230 --> 19:56.790
+to do that in the first place.
+<v ->Sure.</v>
+
+19:56.790 --> 19:58.950
+<v ->And I think it's the most challenging piece.</v>
+
+19:58.950 --> 20:01.050
+I know a 200-person organization
+
+20:01.050 --> 20:04.710
+where the IT manager says he's got 64 items
+
+20:04.710 --> 20:07.710
+on his to-do list that are all marked critical.
+
+20:07.710 --> 20:08.670
+And then after that,
+
+20:08.670 --> 20:13.670
+he can talk about a business continuity plan, response plan,
+
+20:13.680 --> 20:16.143
+any of this type of planning for the future.
+
+20:17.191 --> 20:18.210
+A lot of the smaller businesses
+
+20:18.210 --> 20:21.390
+are just hoping the worst does not happen.
+
+20:21.390 --> 20:22.980
+<v Kyle>And I mean, that kind of leads perfect segue</v>
+
+20:22.980 --> 20:24.150
+into the next point
+
+20:24.150 --> 20:26.520
+in terms of how we can prevent future attacks going forward.
+
+20:26.520 --> 20:28.500
+And I think Meredith, I'll start with you,
+
+20:28.500 --> 20:29.490
+and everybody please chime in,
+
+20:29.490 --> 20:32.220
+but what is the first step,
+
+20:32.220 --> 20:34.140
+and what are ways employees can train...
+
+20:34.140 --> 20:37.140
+or employers can train their employees and educate them
+
+20:37.140 --> 20:39.540
+to prevent future data breaches?
+
+20:39.540 --> 20:40.683
+<v ->Ooh, good question.</v>
+
+20:41.880 --> 20:44.700
+Look, I think we all probably have at our organizations
+
+20:44.700 --> 20:46.800
+the typical like click-through training,
+
+20:46.800 --> 20:50.730
+and this a phishing email, spot the insider threat.
+
+20:50.730 --> 20:51.960
+I think it's good
+
+20:51.960 --> 20:56.730
+that those are part of our regular compliance
+
+20:56.730 --> 20:57.810
+and annual trainings,
+
+20:57.810 --> 20:59.910
+but do they really move the needle?
+
+20:59.910 --> 21:01.320
+Who knows? I think where...
+
+21:01.320 --> 21:03.810
+And just to give you this background,
+
+21:03.810 --> 21:06.840
+I came from an organization into consulting
+
+21:06.840 --> 21:08.760
+that had a massive breach.
+
+21:08.760 --> 21:11.913
+How many people have heard of the company Equifax?
+
+21:12.870 --> 21:15.060
+Yeah, I was the Head of Crisis Communications
+
+21:15.060 --> 21:17.340
+during their 2017 breach.
+
+21:17.340 --> 21:19.230
+So, I have a little of experience,
+
+21:19.230 --> 21:21.450
+a little bit of experience with this.
+
+21:21.450 --> 21:23.490
+And what I would say is the company
+
+21:23.490 --> 21:28.490
+really went through a top-down, bottom up shift
+
+21:30.450 --> 21:34.080
+in the way that it prioritized cybersecurity.
+
+21:34.080 --> 21:38.310
+It became the first thing we talked about at every meeting,
+
+21:38.310 --> 21:41.283
+it was on the agenda for every town hall.
+
+21:42.330 --> 21:47.330
+The company post-incident tied annual incentive bonuses
+
+21:47.640 --> 21:50.670
+to individual security goals
+
+21:50.670 --> 21:53.283
+for every employee of the company.
+
+21:54.240 --> 21:59.240
+You regularly saw our CISO in your email inbox
+
+21:59.730 --> 22:01.380
+reminding you of things.
+
+22:01.380 --> 22:05.460
+We became very involved in certain groups
+
+22:05.460 --> 22:07.860
+that advocated for consumer privacy
+
+22:07.860 --> 22:11.130
+and better cyber awareness training.
+
+22:11.130 --> 22:15.993
+So, I think it's more than just doing the bare minimum.
+
+22:17.160 --> 22:18.630
+It's really a culture shift,
+
+22:18.630 --> 22:20.970
+and we have a program on my team now,
+
+22:20.970 --> 22:24.180
+but just because we do think this is so important
+
+22:24.180 --> 22:28.590
+where companies can hire us, essentially,
+
+22:28.590 --> 22:33.590
+to benchmark their culture of cybersecurity and figure out:
+
+22:33.660 --> 22:34.770
+Do I have a good culture?
+
+22:34.770 --> 22:38.460
+What are some of the things I need to be doing as a leader
+
+22:38.460 --> 22:39.930
+to move the needle,
+
+22:39.930 --> 22:43.140
+so that next year, when we do the same benchmarking,
+
+22:43.140 --> 22:45.210
+we can see the progress we've made?
+
+22:45.210 --> 22:46.800
+Or if we haven't made any progress,
+
+22:46.800 --> 22:51.210
+we know what levers to pull to make the score move,
+
+22:51.210 --> 22:53.460
+almost like a NIST framework or something like that,
+
+22:53.460 --> 22:55.530
+this is specific to culture.
+
+22:55.530 --> 22:57.660
+So, I do think training is important,
+
+22:57.660 --> 22:59.760
+I do think awareness is important,
+
+22:59.760 --> 23:01.770
+but I really think, to sum it up,
+
+23:01.770 --> 23:02.850
+it starts at the top
+
+23:02.850 --> 23:06.930
+and it has to be an organization-wide priority
+
+23:06.930 --> 23:09.510
+for it to really make a difference.
+
+23:09.510 --> 23:11.610
+<v ->Mm-hmm, can I just piggyback on that?</v>
+
+23:11.610 --> 23:12.630
+I think that is so smart
+
+23:12.630 --> 23:15.660
+because the shifting of corporate culture,
+
+23:15.660 --> 23:18.090
+regardless of what shift you want,
+
+23:18.090 --> 23:20.790
+shifting a corporate culture is an enormous task.
+
+23:20.790 --> 23:23.430
+And if you go back to like the '60s and '70s
+
+23:23.430 --> 23:25.530
+when the United States' manufacturing industry
+
+23:25.530 --> 23:30.450
+was getting hammered by quality...
+
+23:30.450 --> 23:32.070
+Sorry, automotive industry was getting hammered
+
+23:32.070 --> 23:33.720
+by quality concerns,
+
+23:33.720 --> 23:37.293
+as compared to imports.
+
+23:38.250 --> 23:40.110
+Companies like Ford
+
+23:40.110 --> 23:43.320
+put together massive campaigns internally,
+
+23:43.320 --> 23:45.210
+very similar to what you're describing at Equifax,
+
+23:45.210 --> 23:48.090
+where it suddenly became job one to do quality,
+
+23:48.090 --> 23:50.370
+and that became an actual marketing slogan.
+
+23:50.370 --> 23:54.870
+But if you were at Ford, you were part of a quality circle,
+
+23:54.870 --> 23:59.870
+you were part of ongoing requirements
+
+24:01.020 --> 24:05.310
+to find and remove errors, error cause removal.
+
+24:05.310 --> 24:06.990
+Kaizen was the word.
+
+24:06.990 --> 24:08.700
+So there's all of this stuff going on
+
+24:08.700 --> 24:11.250
+and incentives tied to your pay,
+
+24:11.250 --> 24:12.900
+the whole thing, exactly what you're describing,
+
+24:12.900 --> 24:14.250
+Ford had to go through that.
+
+24:14.250 --> 24:16.080
+And what happened? They did turn it around.
+
+24:16.080 --> 24:18.300
+It took them a decade to turn it around,
+
+24:18.300 --> 24:20.130
+even with this massive push.
+
+24:20.130 --> 24:24.840
+And it's just an enormous effort to shift a culture.
+
+24:24.840 --> 24:29.840
+So you can't do it, I believe, without C-suite push.
+
+24:29.940 --> 24:32.550
+And I mean CISO is a C-suite office,
+
+24:32.550 --> 24:36.030
+but I think a CEO is much-
+<v Meredith>And the board.</v>
+
+24:36.030 --> 24:37.260
+<v ->And the board, yeah,</v>
+
+24:37.260 --> 24:38.970
+it really has to be something
+
+24:38.970 --> 24:41.010
+that the corporation considers a priority
+
+24:41.010 --> 24:43.290
+because it is an expense, not a revenue opportunity,
+
+24:43.290 --> 24:46.020
+not a profit increase opportunity.
+
+24:46.020 --> 24:47.790
+It's a cost center element.
+
+24:47.790 --> 24:51.180
+It's hard to get that level of commitment and priority.
+
+24:51.180 --> 24:53.100
+It's unfortunately where we're at.
+
+24:53.100 --> 24:54.540
+<v ->Mike, as a Metro Detroiter,</v>
+
+24:54.540 --> 24:56.340
+I'm a big fan of Alan Mulally,
+
+24:56.340 --> 24:58.279
+so I appreciate that you made that reference.
+
+24:58.279 --> 24:59.370
+(Meredith and Mike laughing)
+
+24:59.370 --> 25:01.590
+And I think some of that mind shift
+
+25:01.590 --> 25:06.590
+is to see security as a business enabler, right?
+
+25:06.780 --> 25:07.710
+I mean, everyone's here
+
+25:07.710 --> 25:10.530
+because of the rapid pace of technological innovation
+
+25:10.530 --> 25:12.930
+and adoption across a variety of industries
+
+25:12.930 --> 25:14.530
+to make all of our lives better.
+
+25:15.750 --> 25:16.950
+Pretty safe to say that.
+
+25:18.210 --> 25:20.610
+That can't entirely be accomplished
+
+25:20.610 --> 25:22.170
+in the way that it's intended,
+
+25:22.170 --> 25:26.250
+as far as making the impact to of the lives of a consumer,
+
+25:26.250 --> 25:28.470
+the continued operation of a business,
+
+25:28.470 --> 25:30.510
+and to keep pace with the level of innovation
+
+25:30.510 --> 25:31.590
+that's expected,
+
+25:31.590 --> 25:33.180
+and in many ways incumbent upon us
+
+25:33.180 --> 25:36.600
+to continue to operate a healthy economy
+
+25:36.600 --> 25:38.403
+and a global market.
+
+25:39.930 --> 25:42.330
+If what we are implementing
+
+25:42.330 --> 25:44.070
+and what we're creating and building
+
+25:44.070 --> 25:47.220
+doesn't have security built into its foundation
+
+25:47.220 --> 25:50.910
+to either protect the privacy of consumers
+
+25:50.910 --> 25:52.140
+or protect, in some cases,
+
+25:52.140 --> 25:55.050
+the physical security of those consumers as well.
+
+25:55.050 --> 25:56.610
+<v ->And Brendan, I kinda wanna stay with your comment,</v>
+
+25:56.610 --> 25:58.980
+going off that right there is:
+
+25:58.980 --> 26:00.210
+What type of technologies
+
+26:00.210 --> 26:01.710
+are you seeing in this space right now
+
+26:01.710 --> 26:04.260
+that are helping kind of make that transformation?
+
+26:04.260 --> 26:05.610
+Whether it be from a culture shift
+
+26:05.610 --> 26:09.510
+or from a how to basically prevent...
+
+26:09.510 --> 26:10.770
+Enhance incident response
+
+26:10.770 --> 26:12.900
+or prevent any type of incident from happening?
+
+26:12.900 --> 26:15.570
+So maybe a technology like automation or something.
+
+26:15.570 --> 26:18.600
+<v ->Yeah, and I think it almost dovetails quite nicely</v>
+
+26:18.600 --> 26:20.070
+into some of Mike's prior comments
+
+26:20.070 --> 26:23.610
+is relative to resourcing,
+
+26:23.610 --> 26:27.720
+that's a challenge that we have in our consulting business.
+
+26:27.720 --> 26:30.060
+It's a challenge that every organization around the world,
+
+26:30.060 --> 26:31.380
+large or small,
+
+26:31.380 --> 26:33.390
+there's a very common thread of resourcing
+
+26:33.390 --> 26:37.200
+and resourcing for highly-qualified cyber defense operators
+
+26:37.200 --> 26:41.130
+in a way that prevents either nation-state-level adversaries
+
+26:41.130 --> 26:42.375
+or criminal adversaries
+
+26:42.375 --> 26:45.900
+that are maybe targeting a little bit lower hanging fruit.
+
+26:45.900 --> 26:46.770
+It is the ability
+
+26:46.770 --> 26:49.500
+to sift through what is actually the most important thing
+
+26:49.500 --> 26:51.060
+that they need to respond to.
+
+26:51.060 --> 26:52.920
+So, you made the comment about the friend of yours
+
+26:52.920 --> 26:55.590
+was 64 critical items on his checklist.
+
+26:55.590 --> 26:57.060
+That is a lot of critical items.
+
+26:57.060 --> 26:58.830
+And if you were to look at many EDR tools,
+
+26:58.830 --> 27:02.160
+or you look at many seams,
+
+27:02.160 --> 27:04.800
+or other sort of log aggregators that are gonna tell you
+
+27:04.800 --> 27:06.690
+what is the highest level of importance
+
+27:06.690 --> 27:09.210
+of what thing you need to respond to,
+
+27:09.210 --> 27:11.160
+everything's gonna be red, yellow,
+
+27:11.160 --> 27:13.590
+maybe some green, a couple of orange in there,
+
+27:13.590 --> 27:15.090
+probably depends on how the product company
+
+27:15.090 --> 27:16.503
+presents that information.
+
+27:17.790 --> 27:20.280
+But there's a lot of things that you would have to do.
+
+27:20.280 --> 27:24.900
+And ultimately, the ability to create higher fidelity alerts
+
+27:24.900 --> 27:27.720
+for the analyst to be able to respond faster
+
+27:27.720 --> 27:30.780
+and respond in a way that creates a better impact
+
+27:30.780 --> 27:32.730
+to preventing malicious activity
+
+27:32.730 --> 27:34.800
+is ultimately that's what we look to
+
+27:34.800 --> 27:37.020
+and that's what we advise our clients on.
+
+27:37.020 --> 27:38.700
+Whether that's AI-enabled,
+
+27:38.700 --> 27:40.860
+whether it's machine-learning-operated,
+
+27:40.860 --> 27:43.353
+or a variety of other outcomes to achieve that.
+
+27:44.648 --> 27:46.140
+<v Kyle>And I mean, perfect segue to the next spot,</v>
+
+27:46.140 --> 27:49.080
+but Mike, I mean, you're the emerging technology expert
+
+27:49.080 --> 27:50.940
+in terms of at CTA.
+
+27:50.940 --> 27:52.950
+How are technologies like AI and quantum
+
+27:52.950 --> 27:54.690
+kind of being leveraged proactively
+
+27:54.690 --> 27:57.303
+to secure systems against future attacks?
+
+27:58.680 --> 28:00.900
+<v ->So, that's kind of a two-pronged question.</v>
+
+28:00.900 --> 28:02.000
+It's a great question.
+
+28:02.910 --> 28:04.770
+So, starting with quantum.
+
+28:04.770 --> 28:06.420
+I think it's not a secret
+
+28:06.420 --> 28:09.535
+that we're anticipating that sometime in...
+
+28:09.535 --> 28:12.150
+the next decade, the 2030s.
+
+28:12.150 --> 28:17.150
+There will be, cryptographically relevant quantum computers,
+
+28:17.951 --> 28:20.310
+CRQCs,
+
+28:20.310 --> 28:23.910
+and these are computers that are powerful enough
+
+28:23.910 --> 28:26.853
+to crack modern public key infrastructure,
+
+28:27.750 --> 28:30.300
+public key encryption.
+
+28:30.300 --> 28:35.300
+So, what happens then is anybody who is using public key,
+
+28:35.580 --> 28:38.520
+the way we use it now with RSA and lift to curve,
+
+28:38.520 --> 28:41.700
+anyone who's using that in 2035
+
+28:41.700 --> 28:46.700
+is at risk of their data being collected and decrypted,
+
+28:48.300 --> 28:52.080
+whether it's financial reports, intellectual property,
+
+28:52.080 --> 28:54.810
+sensitive email communications, all of that.
+
+28:54.810 --> 28:57.000
+So anything that's protected with TLS,
+
+28:57.000 --> 28:59.670
+for example right now, HTTPS.
+
+28:59.670 --> 29:00.510
+That's great.
+
+29:00.510 --> 29:03.330
+All right, we've got a decade to prepare, right?
+
+29:03.330 --> 29:06.510
+The problem is the harvest-now-decrypt-later problem,
+
+29:06.510 --> 29:10.890
+which is data that is collected today,
+
+29:10.890 --> 29:14.130
+whether it's by a competitor, a nation state,
+
+29:14.130 --> 29:16.890
+that data can be decrypted
+
+29:16.890 --> 29:21.890
+when that cryptographically relevant quantum computer
+
+29:21.960 --> 29:23.910
+becomes available.
+
+29:23.910 --> 29:26.070
+That means it's an immediate problem.
+
+29:26.070 --> 29:28.080
+I mean, what secrets do you have now
+
+29:28.080 --> 29:32.070
+that you really don't want revealed in 2035?
+
+29:32.070 --> 29:35.190
+A lot of things have a sort of like a lifetime,
+
+29:35.190 --> 29:36.930
+a half-life.
+
+29:36.930 --> 29:38.310
+But there are some things, probably,
+
+29:38.310 --> 29:40.170
+that you really don't want people to know about,
+
+29:40.170 --> 29:42.300
+even 10 years from now,
+
+29:42.300 --> 29:45.630
+and it may be trade secrets or something like that.
+
+29:45.630 --> 29:46.923
+The formula for Coke,
+
+29:48.356 --> 29:51.750
+the 11 herbs and spices in Kentucky Fried Chicken.
+
+29:51.750 --> 29:56.460
+So, that means that the problem
+
+29:56.460 --> 30:01.460
+of getting post-quantum safe is a real problem now.
+
+30:01.950 --> 30:04.350
+So NIST, the Department of Commerce's
+
+30:04.350 --> 30:07.230
+National Institute of Science and Technology,
+
+30:07.230 --> 30:10.710
+has been driving development of algorithms,
+
+30:10.710 --> 30:12.360
+standardization of those algorithms
+
+30:12.360 --> 30:15.360
+into how they can be incorporated
+
+30:15.360 --> 30:18.210
+into the tools that we use every day,
+
+30:18.210 --> 30:20.940
+and encouraging industry to migrate.
+
+30:20.940 --> 30:22.020
+How do you migrate?
+
+30:22.020 --> 30:23.610
+Inventory your use of encryption
+
+30:23.610 --> 30:27.810
+and public key infrastructure, know where you're using it,
+
+30:27.810 --> 30:29.490
+and this goes to the point Meredith had made,
+
+30:29.490 --> 30:30.640
+know what you're doing.
+
+30:32.100 --> 30:36.180
+And then work with your vendors
+
+30:36.180 --> 30:40.560
+on replacing what you're using now
+
+30:40.560 --> 30:42.660
+with something that's quantum-safe.
+
+30:42.660 --> 30:44.550
+The challenge is it would be nice
+
+30:44.550 --> 30:46.560
+if just dropped in one for one replacement.
+
+30:46.560 --> 30:49.200
+There's some things that are done a little bit differently.
+
+30:49.200 --> 30:51.030
+But this is actually happening now.
+
+30:51.030 --> 30:52.930
+And so get on that train a little bit.
+
+30:54.185 --> 30:56.310
+Go to the NIST website.
+
+30:56.310 --> 31:01.270
+All you have to do is hunt down NIST post-quantum roadmap,
+
+31:02.160 --> 31:03.270
+and you can find information
+
+31:03.270 --> 31:05.193
+on what you should be doing there.
+
+31:06.570 --> 31:08.850
+And talk to your vendors, do your inventorying.
+
+31:08.850 --> 31:10.233
+So, there's one.
+
+31:12.060 --> 31:12.893
+The second one,
+
+31:12.893 --> 31:17.400
+artificial intelligence is really interesting situation
+
+31:17.400 --> 31:22.140
+because it's weapons for both sides, right?
+
+31:22.140 --> 31:24.240
+It's red team and blue team weapons.
+
+31:24.240 --> 31:28.643
+So you've got tools that are coming along nicely for...
+
+31:32.490 --> 31:37.490
+endpoint detection of exploits and attacks
+
+31:37.650 --> 31:39.260
+for all kinds of...
+
+31:41.790 --> 31:46.140
+all kinds of compromises.
+
+31:46.140 --> 31:48.450
+So, artificial intelligence is a very powerful tool.
+
+31:48.450 --> 31:50.010
+That's great.
+
+31:50.010 --> 31:51.721
+On the other hand, the hackers have it, too.
+
+31:51.721 --> 31:52.800
+(Mike laughing)
+
+31:52.800 --> 31:57.800
+And so what we're seeing is we track a little of this
+
+31:57.900 --> 31:59.580
+in terms of some companies that we watch
+
+31:59.580 --> 32:03.240
+for the Nasdaq NQCYBR Index
+
+32:03.240 --> 32:08.240
+to see who's using AI for what purposes on the attack side.
+
+32:08.550 --> 32:11.130
+And we also hear about it from CISA
+
+32:11.130 --> 32:15.600
+and other government agencies on the threat side.
+
+32:15.600 --> 32:18.330
+And it's interesting because what I have seen,
+
+32:18.330 --> 32:20.340
+I would characterize it as a race
+
+32:20.340 --> 32:22.320
+where one side pulls ahead,
+
+32:22.320 --> 32:23.880
+then the other side pulls ahead.
+
+32:23.880 --> 32:26.490
+Right now, I'd give the hackers a slight edge.
+
+32:26.490 --> 32:29.313
+And that's just the chaos that they benefit from.
+
+32:30.960 --> 32:34.394
+<v Meredith>And the resources we give them, we pay them.</v>
+
+32:34.394 --> 32:35.610
+(Meredith laughing)
+
+32:35.610 --> 32:37.153
+<v ->Yeah, I mean if you look at...</v>
+
+32:37.153 --> 32:40.063
+I don't know if you mentioned this, but the ransomware,
+
+32:40.063 --> 32:43.260
+the biggest ransomware organizations are...
+
+32:43.260 --> 32:46.500
+I mean, these are billion-dollar organizations now.
+
+32:46.500 --> 32:47.430
+It's ridiculous.
+
+32:47.430 --> 32:49.230
+I mean, something like $50 billion
+
+32:49.230 --> 32:51.990
+for the largest organization, their revenue up to date,
+
+32:51.990 --> 32:54.930
+and what they're doing with that is they're reinvesting it.
+
+32:54.930 --> 32:58.530
+I mean, it's like going to war with Microsoft at this point.
+
+32:58.530 --> 33:00.177
+<v ->So, going off that, like what are some of,</v>
+
+33:00.177 --> 33:01.500
+and this is probably
+
+33:01.500 --> 33:02.760
+more Brendan and Meredith kind of question,
+
+33:02.760 --> 33:05.670
+but what are the top priorities for organizations right now
+
+33:05.670 --> 33:07.770
+and looking to strengthen over the next five years?
+
+33:07.770 --> 33:09.930
+So he mentioned quantum that's starting now,
+
+33:09.930 --> 33:14.400
+but it won't be kind of industry-wide until 2035 or 2030s.
+
+33:14.400 --> 33:15.840
+What are some of the top priorities right now
+
+33:15.840 --> 33:18.090
+or organizations are doing to either, A, get ready for that,
+
+33:18.090 --> 33:21.240
+or B, just prevent future attacks in general?
+
+33:21.240 --> 33:22.680
+<v ->Do you wanna start?</v>
+
+33:22.680 --> 33:25.630
+<v ->Yeah, I mean, I'm gonna use a prior comment that I made</v>
+
+33:26.850 --> 33:27.800
+of...
+
+33:29.220 --> 33:32.487
+taking it back to basic and foundational security concepts,
+
+33:32.487 --> 33:34.533
+and that is the best place to start.
+
+33:36.120 --> 33:38.610
+Resources will always continue to be a challenge,
+
+33:38.610 --> 33:40.740
+and especially as there is, I think,
+
+33:40.740 --> 33:43.830
+more sophisticated adoption of AI,
+
+33:43.830 --> 33:47.280
+quantum threat becomes far more prevalent
+
+33:47.280 --> 33:49.020
+as time progresses.
+
+33:49.020 --> 33:53.550
+But that's the highest impact that can be made now.
+
+33:53.550 --> 33:57.060
+So, I'd rather see whether at the enterprise level
+
+33:57.060 --> 33:58.770
+or organizations that are much smaller
+
+33:58.770 --> 34:01.530
+and in the SMB mid-market category, if you will,
+
+34:01.530 --> 34:04.320
+I'd rather see monumental steps made
+
+34:04.320 --> 34:07.410
+towards foundational security concepts
+
+34:07.410 --> 34:09.720
+because they can make an immediate impact,
+
+34:09.720 --> 34:13.773
+rather than massive investments in different products, even.
+
+34:14.730 --> 34:18.600
+There are more policy-driven angles that can be taken
+
+34:18.600 --> 34:20.160
+that don't require necessarily...
+
+34:20.160 --> 34:21.630
+There's still some resource investment
+
+34:21.630 --> 34:23.550
+of someone's time and labor,
+
+34:23.550 --> 34:26.070
+but does not necessarily require
+
+34:26.070 --> 34:27.900
+very large licensing purchases.
+
+34:27.900 --> 34:30.000
+Doesn't necessarily require an organization
+
+34:30.000 --> 34:32.370
+to go and buy every single product under the sun
+
+34:32.370 --> 34:34.590
+in order to accomplish some of the foundational tasks
+
+34:34.590 --> 34:37.320
+that someone ultimately should be responsible for
+
+34:37.320 --> 34:39.559
+or held responsible for.
+
+34:39.559 --> 34:40.392
+<v ->I couldn't agree more.</v>
+
+34:40.392 --> 34:43.470
+I mean, I think it's the basic blocking and tackling
+
+34:43.470 --> 34:45.660
+sort of the fundamentals of security
+
+34:45.660 --> 34:50.460
+that we still see organizations fall down on
+
+34:50.460 --> 34:54.570
+and are the cause of most breaches, right?
+
+34:54.570 --> 34:56.280
+Like, they didn't apply a patch,
+
+34:56.280 --> 34:59.010
+so patch management needs to be prioritized.
+
+34:59.010 --> 35:02.400
+They're looking for some sort of new technology,
+
+35:02.400 --> 35:06.090
+shiny bullet that they can install to keep them safer,
+
+35:06.090 --> 35:11.090
+but yet they're behind on security and awareness training
+
+35:11.130 --> 35:13.323
+or whatever it may be.
+
+35:14.490 --> 35:17.190
+So, I do think you make such an important point
+
+35:17.190 --> 35:19.710
+with the basic blocking and tackling,
+
+35:19.710 --> 35:21.933
+asset inventory, all of those things.
+
+35:23.010 --> 35:26.640
+Culture, prioritizing, as we said before,
+
+35:26.640 --> 35:31.640
+the mindset of security is a priority for our company.
+
+35:32.160 --> 35:35.280
+And that basic preparedness.
+
+35:35.280 --> 35:37.140
+Having your incident response plan,
+
+35:37.140 --> 35:42.140
+ensuring that it's practiced, tested, constantly evolved.
+
+35:42.870 --> 35:45.030
+So many times, we're still seeing...
+
+35:45.030 --> 35:48.180
+We get really excited when the root cause of an incident
+
+35:48.180 --> 35:51.720
+is some like zero-day vulnerability or something like that,
+
+35:51.720 --> 35:55.290
+but I can't tell you how few and far between those are.
+
+35:55.290 --> 35:56.880
+It is still the basic,
+
+35:56.880 --> 35:59.970
+like employee fell for a phishing link,
+
+35:59.970 --> 36:04.970
+or creds, passwords were reused and scraped off the dark web
+
+36:06.270 --> 36:09.600
+because an employee used the same one,
+
+36:09.600 --> 36:12.630
+or passwords weren't rotated or complex enough.
+
+36:12.630 --> 36:16.830
+And it's always those basic human-driven errors
+
+36:16.830 --> 36:19.800
+that tend to be the cause
+
+36:19.800 --> 36:21.810
+of so many of the big incidents we work on,
+
+36:21.810 --> 36:23.970
+and really they're preventable.
+
+36:23.970 --> 36:27.450
+So again, it's like knowing your assets,
+
+36:27.450 --> 36:29.490
+legacy systems,
+
+36:29.490 --> 36:32.340
+password requirements and complexity requirements,
+
+36:32.340 --> 36:34.290
+training, awareness.
+
+36:34.290 --> 36:35.123
+Those are the things
+
+36:35.123 --> 36:37.410
+that companies still aren't getting right.
+
+36:37.410 --> 36:39.557
+That lead to, I would say,
+
+36:39.557 --> 36:42.783
+90% of the massive incidents we work on.
+
+36:42.783 --> 36:45.090
+<v ->Hmm, and these are some of the largest organizations</v>
+
+36:45.090 --> 36:46.200
+in the world
+
+36:46.200 --> 36:49.440
+that are falling victim to an incident
+
+36:49.440 --> 36:51.690
+that is ultimately stemming from the same challenge
+
+36:51.690 --> 36:53.670
+that some of the smallest companies in the world
+
+36:53.670 --> 36:54.900
+are dealing with as well.
+
+36:54.900 --> 36:56.430
+Whether it's five endpoints
+
+36:56.430 --> 36:58.740
+or 500,000 endpoints in an environment,
+
+36:58.740 --> 37:00.873
+it is consistently the same problem.
+
+37:04.290 --> 37:06.630
+<v ->Everything you guys are saying really resonates.</v>
+
+37:06.630 --> 37:08.940
+One of the things I noticed the other day,
+
+37:08.940 --> 37:10.200
+I was looking at CISA's
+
+37:10.200 --> 37:15.200
+15 Most Exploited Vulnerabilities of 2024, right?
+
+37:16.440 --> 37:19.050
+And 2023, I think this was.
+
+37:19.050 --> 37:22.641
+And several of them were two or three years old.
+
+37:22.641 --> 37:23.474
+(Meredith chuckling)
+
+37:23.474 --> 37:25.350
+It's like most exploited,
+
+37:25.350 --> 37:28.110
+not something that just cropped up once or twice.
+
+37:28.110 --> 37:31.800
+The most commonly exploited ones were known
+
+37:31.800 --> 37:36.597
+and documented with CVEs three years before, so...
+
+37:36.597 --> 37:38.301
+<v ->And patch was never applied.</v>
+
+37:38.301 --> 37:39.134
+(Meredith laughing)
+
+37:39.134 --> 37:39.967
+<v ->I mean, that's a perfect</v>
+
+37:39.967 --> 37:41.220
+kind of in my last question for the day,
+
+37:41.220 --> 37:45.240
+but because that is a governmental agency,
+
+37:45.240 --> 37:46.170
+how can partnerships
+
+37:46.170 --> 37:48.210
+between the private sector and the government
+
+37:48.210 --> 37:50.700
+accelerate the adoption of these preventative measures
+
+37:50.700 --> 37:51.533
+across the industry?
+
+37:51.533 --> 37:52.366
+And I'll probably start with Mike
+
+37:52.366 --> 37:54.180
+'cause you may have a better understanding,
+
+37:54.180 --> 37:56.820
+but please open it up to everybody else after that.
+
+37:56.820 --> 37:58.443
+<v ->Sure, sure. Well, one thing.</v>
+
+37:59.670 --> 38:03.990
+It's not so much preventative as it is preparation,
+
+38:03.990 --> 38:07.110
+but along with the other comments that Meredith had made,
+
+38:07.110 --> 38:08.790
+I want to add in.
+
+38:08.790 --> 38:11.940
+Get to know your local FBI office, right?
+
+38:11.940 --> 38:16.710
+The first person you should call when you have been hacked
+
+38:16.710 --> 38:18.360
+is that person.
+
+38:18.360 --> 38:19.380
+And it shouldn't be the first time.
+
+38:19.380 --> 38:20.580
+Again, this is something you were saying,
+
+38:20.580 --> 38:23.160
+it should not be the first time you talk to your vendors.
+
+38:23.160 --> 38:25.980
+It also shouldn't be the first time you talk to the FBI.
+
+38:25.980 --> 38:30.600
+They're not there to like judge, "Can I help them?
+
+38:30.600 --> 38:32.280
+And by the way, were any laws broken?"
+
+38:32.280 --> 38:35.430
+They're entirely there to help you.
+
+38:35.430 --> 38:38.700
+And yeah, they're gonna be talking to you
+
+38:38.700 --> 38:40.560
+about whether or not you pay for the ransomware,
+
+38:40.560 --> 38:44.760
+but ultimately, that'll be your call.
+
+38:44.760 --> 38:47.790
+Definitely get to know the FBI, the local.
+
+38:47.790 --> 38:50.280
+They would love to talk to you, trust me.
+
+38:50.280 --> 38:51.810
+<v ->Yeah, and I think building on that,</v>
+
+38:51.810 --> 38:54.300
+it depends on what industry you're in, too.
+
+38:54.300 --> 38:56.880
+I mean, CISA can be a great partner
+
+38:56.880 --> 38:59.880
+if you're deemed critical infrastructure.
+
+38:59.880 --> 39:02.010
+Some of the ISACs are great,
+
+39:02.010 --> 39:05.020
+the FS-ISAC for if you're in financial services
+
+39:06.240 --> 39:10.440
+are really good sources of meaningful threat intelligence.
+
+39:10.440 --> 39:12.600
+Totally agree with the FBI.
+
+39:12.600 --> 39:14.070
+I might argue your first case
+
+39:14.070 --> 39:15.740
+should be call to your lawyer, but...
+
+39:15.740 --> 39:16.573
+(Meredith laughing)
+
+39:16.573 --> 39:17.580
+<v ->Well, that too.</v>
+<v ->But no, no, I'm joking.</v>
+
+39:17.580 --> 39:19.470
+<v ->Not first off, yeah.</v>
+<v ->But truly,</v>
+
+39:19.470 --> 39:23.610
+we do see the FBI now providing, again, meaningful IoCs,
+
+39:23.610 --> 39:25.593
+meaningful threat intelligence.
+
+39:26.430 --> 39:29.100
+maybe they had a case with the same bad guys a week ago
+
+39:29.100 --> 39:30.240
+where a payment was made
+
+39:30.240 --> 39:32.100
+and the company was re-extorted anyways,
+
+39:32.100 --> 39:33.663
+we see that a lot now.
+
+39:34.860 --> 39:37.380
+So, I do think the partnership
+
+39:37.380 --> 39:41.280
+between the government and private sector
+
+39:41.280 --> 39:43.050
+has gotten stronger and better,
+
+39:43.050 --> 39:46.350
+and there's not this fear anymore to pick up the phone
+
+39:46.350 --> 39:48.990
+and call your local law enforcement, there's no...
+
+39:48.990 --> 39:52.410
+We rarely see leaks to the public
+
+39:52.410 --> 39:55.413
+or to the press coming from law enforcement,
+
+39:56.430 --> 39:59.640
+and like, it's a great way to get some kudos, too,
+
+39:59.640 --> 40:02.220
+if you do have to go public with the incident.
+
+40:02.220 --> 40:04.950
+In particular, if you're dealing with a zero-day exploit
+
+40:04.950 --> 40:06.780
+or a zero-day vulnerability,
+
+40:06.780 --> 40:08.220
+you provide that to CISA,
+
+40:08.220 --> 40:10.920
+CISA gives you a pat on the back for it.
+
+40:10.920 --> 40:13.410
+You can go out and say we were proactive.
+
+40:13.410 --> 40:15.000
+Rising tide lifts all boats.
+
+40:15.000 --> 40:17.460
+We wanna be good partners to our peers
+
+40:17.460 --> 40:19.050
+and to others in the industry
+
+40:19.050 --> 40:21.240
+so that they can learn from this, too.
+
+40:21.240 --> 40:25.473
+So, totally agree with what you said and echo everything.
+
+40:26.310 --> 40:29.190
+<v ->Yeah, I'll definitely echo that again.</v>
+
+40:29.190 --> 40:30.630
+Information sharing is critical,
+
+40:30.630 --> 40:32.670
+and that's in many places,
+
+40:32.670 --> 40:34.860
+not obviously a variety of these agencies
+
+40:34.860 --> 40:37.650
+that you referenced have their own capabilities
+
+40:37.650 --> 40:40.020
+to go research and identify this type of activity,
+
+40:40.020 --> 40:41.850
+and certainly through the IC3
+
+40:41.850 --> 40:43.470
+or other reporting avenues as well.
+
+40:43.470 --> 40:47.070
+But, we help feed that information as well.
+
+40:47.070 --> 40:49.500
+So we report this type of information
+
+40:49.500 --> 40:51.660
+to various agencies in anonymized ways,
+
+40:51.660 --> 40:54.180
+and only when we're authorized to do so.
+
+40:54.180 --> 40:57.990
+But it helps to embolden the security posture
+
+40:57.990 --> 40:59.310
+of the entire world.
+
+40:59.310 --> 41:00.420
+So, that's the goal.
+
+41:00.420 --> 41:04.020
+<v ->I will add on your information-sharing perspective.</v>
+
+41:04.020 --> 41:06.540
+One of the kinds of information the FBI has,
+
+41:06.540 --> 41:10.530
+keys to the ransomware that has been reused.
+
+41:10.530 --> 41:13.020
+Sometimes, after the ransom is paid,
+
+41:13.020 --> 41:15.510
+they discover that the hackers
+
+41:15.510 --> 41:17.640
+are doing the same password sharing that...
+
+41:17.640 --> 41:20.250
+or password reuse that we all do, right?
+
+41:20.250 --> 41:22.320
+So they're like, "Well, we'll just use the same one.
+
+41:22.320 --> 41:23.970
+We're not gonna generate a new key for this one."
+
+41:23.970 --> 41:25.590
+And so the FBI sometimes
+
+41:25.590 --> 41:27.270
+can actually uncrack the ransomware for you.
+
+41:27.270 --> 41:28.917
+So definitely.
+<v ->It's a great point.</v>
+
+41:28.917 --> 41:30.630
+And sorry, last thing I'm gonna say,
+
+41:30.630 --> 41:31.860
+I know we're out of time.
+
+41:31.860 --> 41:33.630
+So our team actually worked on,
+
+41:33.630 --> 41:35.010
+it's very public, we worked on it,
+
+41:35.010 --> 41:37.590
+so it's a case I can actually talk about for once.
+
+41:37.590 --> 41:40.620
+But we worked on the colonial pipeline crisis response
+
+41:40.620 --> 41:41.910
+for that ransomware incident.
+
+41:41.910 --> 41:43.200
+For anyone that doesn't know it,
+
+41:43.200 --> 41:45.510
+that was the attack on the pipeline
+
+41:45.510 --> 41:49.020
+that moves gasoline up and down the East Coast of the U.S.
+
+41:49.020 --> 41:51.300
+So a couple years ago, if you ran out of gas,
+
+41:51.300 --> 41:53.010
+that was the situation,
+
+41:53.010 --> 41:56.940
+and the company notified the FBI so quickly
+
+41:56.940 --> 42:00.990
+and was in touch with DHS, the DOE, the White House.
+
+42:00.990 --> 42:03.450
+We were briefing the White House every day, the NSC,
+
+42:03.450 --> 42:05.430
+and they acted so quickly
+
+42:05.430 --> 42:08.520
+that the FBI was actually able to trace the payment
+
+42:08.520 --> 42:09.420
+that the company made
+
+42:09.420 --> 42:13.950
+to get the decryption key on blockchain to the bad guys
+
+42:13.950 --> 42:17.970
+and then see the money moving to these different affiliates
+
+42:17.970 --> 42:19.560
+of the ransomware gang.
+
+42:19.560 --> 42:20.700
+And ultimately,
+
+42:20.700 --> 42:23.400
+they were able to claw back to intercept that
+
+42:23.400 --> 42:25.680
+and get some of the money back for the company.
+
+42:25.680 --> 42:26.940
+Doesn't happen often,
+
+42:26.940 --> 42:29.640
+but it was a benefit of the call
+
+42:29.640 --> 42:32.550
+being one of the first they made to law enforcement.
+
+42:32.550 --> 42:35.703
+So, it truly can help in times of need.
+
+42:36.690 --> 42:37.830
+<v ->Thank you so much. I mean, thank you so much.</v>
+
+42:37.830 --> 42:39.420
+We are out of time.
+
+42:39.420 --> 42:40.620
+Getting a little cut off here,
+
+42:40.620 --> 42:42.900
+but kind of to wrap it all up.
+
+42:42.900 --> 42:44.190
+One thing, if you don't...
+
+42:44.190 --> 42:46.580
+If you leave here with anything, I'm just gonna say it.
+
+42:46.580 --> 42:48.330
+If you see it, say it,
+
+42:48.330 --> 42:51.060
+and communication is key for cybersecurity.
+
+42:51.060 --> 42:52.320
+So, thank you all so much.
+
+42:52.320 --> 42:53.220
+Thank you all for being here,
+
+42:53.220 --> 42:55.725
+and enjoy the rest of your show, please.
+
+42:55.725 --> 42:56.618
+(audience applauding)
+
+42:56.618 --> 42:59.285
+(upbeat music)
+

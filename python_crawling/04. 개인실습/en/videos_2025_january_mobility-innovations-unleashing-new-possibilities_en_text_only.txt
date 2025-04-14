@@ -1,0 +1,806 @@
+<v ->All right, so we made it.</v>
+Session six, now capping off the 25th year of Connect2Car.
+I appreciate everybody sticking with us.
+Who was in the first session?
+All right, excellent, excellent.
+Well, this is gonna be a treat for all of you that are here.
+Coming back to the beginning,
+again, this was about getting the aftermarket
+and the OEM talking to each other
+about integration and integrating products into the vehicle.
+And while that's still an issue
+for a lot of the aftermarket providers,
+a lot of it's been solved by going to data buses
+and other things.
+The very first session at Connect2Car
+was actually a discussion between IDB-1394,
+IDB can and most,
+and having a conversation about those networks
+going into a vehicle, 'cause at the point that point,
+most of those networks weren't in.
+So we've gone from that to where we are today,
+which is pretty amazing.
+Pretty amazing panelists today,
+and again, I appreciate everybody hanging out with us.
+So right now I'd like to introduce my new friend Logan,
+who invited me to a party last night,
+so it's why I am letting him do the panel.
+We met out in the parking lot earlier.
+Logan is the director of Mobility and Smart Cities
+for Plug and Play Tech center,
+which I'm very interested in coming to see.
+And you're gonna have a little conversation
+with Chris Coulter at CampX for Volvo
+to talk about fostering innovation, right?
+Fantastic.
+<v Logan>Awesome, thank you so much, Chris.</v>
+Really looking forward to it.
+Hello everybody, fantastic to be here
+as we end the Connect2Car, one of the longest tracks.
+I mean, this is just fantastic, so really happy to be here.
+As you mentioned, my name is Logan Azelton
+and I am the Director of US Mobility in Smart Cities
+for Plug and Play Tech Center.
+We're the world's largest venture capital company
+and we run over 60 different accelerator programs
+across the world, connecting startups to new corporations.
+And like he had mentioned,
+I would love to introduce my new buddy, Chris Coulter,
+to come up here.
+He's with Volvo CampX, so if you guys wouldn't mind,
+just give him a nice round of applause as he comes on up.
+Awesome, so Chris is gonna help us out.
+He's gonna talk about kind of the importance of innovation
+with different startups
+and kind of the collaboration within the industry
+and how that can move the ball forward.
+So Chris, the stage is all yours.
+<v ->Thank you, thank you Logan.</v>
+Logan's birthday today.
+Did anybody?
+Yeah.
+Be careful what you tell me,
+I don't let it go so quick, right?
+So yeah, okay, thank you Logan.
+So I'm Chris Coulter.
+I'm the CampX North America Hub Lead, CampX by Volvo Group.
+The Volvo Group is not Volvo car.
+We're Volvo, we make trucks, construction equipment,
+power solutions for (indistinct), buses, service solutions,
+finance solutions, so a lot.
+102, 104,000 people globally,
+so for those of you not totally familiar with us.
+So CampX was started in 2019 in Sweden.
+The purpose is to find new technologies
+and innovation for the Volvo group
+through startups actually.
+So we run proof of values.
+There are four hubs globally.
+There's a hub in Sweden, India, and France
+and in the US representing North America, so, yeah.
+We have three programs.
+We have the incubator, which is very early phase startups,
+where we're strategically looking down the road,
+we're demand driven innovation.
+So somebody said, this is what we're looking for,
+or we're looking at our strategies
+and how startups can complement those strategies.
+So we'll bring them in a program to be with us two years
+or up to two years to develop the startups further.
+Also, we have a venture client program,
+which is startups that are more mature, closer to scaling.
+So we run proof of value projects in that case.
+We've ran over 200 of those since the beginning
+around the four hubs there.
+So, and then we also have the venture client,
+which is where employees internally can have an idea
+that we create spinoff companies around.
+Also, if there's IP at universities
+that we can capture and scale,
+we'll also use the venture client program for that.
+So a little bit about it.
+We have tools that allow us to go fast.
+If you guys have read "The Innovator's Dilemma,"
+I like to to say that was a lot of inspiration
+for how I like to think about this.
+So we have the tools, we have contracts, processes,
+and we can go pretty fast.
+I was telling somebody last night, I think the fastest case
+that we've had from inception to approval
+was in two under two weeks.
+So to give you an idea of what we're talking about
+when we need speed.
+So yeah, and then you talked about the value Logan
+of working with startups, right?
+So it is speed.
+When you're in a a large corporate,
+the challenge sometimes becomes speed.
+So startups can be a shot in the arm
+to remind us we need to be fast,
+but also to innovate more quickly.
+They can change the way we're thinking about something
+if we approach this correctly, right?
+So we may think we're going down one path,
+but a startup could come in
+with a completely different idea,
+and even in some cases, we co-collaborate and we can come up
+with an entirely new direction between the two of us,
+so that's one of the values of speed, agility, right?
+And it goes both ways, so yeah.
+Logan, I think that we're on the clock here,
+so I'll hand it back over to you to tell us.
+You're gonna introduce us
+to some of the super exciting startups here,
+maybe a few that have even been through our program here,
+so I'll hand it back over to you.
+<v ->Yeah, absolutely, thank you so much, Chris.</v>
+Everybody give Chris one more round of applause.
+Awesome, so like Chris mentioned,
+now we're coming into the next portion of this
+where we're gonna demonstrate a few of these different
+very successful world-class companies
+that have been able to break through
+into the automotive industry and beyond
+in order to kind of improve upon a lot of different things.
+So this is where innovation starts at the heart.
+So to start us off, we have Jeremy Agulnek.
+He is the SVP of HAAS Alert.
+So HAAS Alert notifies drivers
+of incoming emergency vehicles
+and then connects vehicles for better visibility,
+faster response times.
+So everybody give him a round of applause.
+<v ->Thank you Logan and just a quick little plug.</v>
+So Plug and Play was instrumental in getting HAAS Alert
+introduced to our first automotive OEM partner, Stellantis,
+and helping get commercialized with them
+and also being part of the CampX program,
+so it's been great working with you guys all.
+So a little bit about HAAS Alert.
+When HAAS Alert's CEO was working formerly
+at HERE Technologies,
+he was almost struck and killed by an ambulance
+when he was driving through downtown Chicago.
+Thankfully, everything was okay, but that experience of his
+really transformed him into trying to solve for initially,
+how can we help cars and emergency vehicles
+communicate with each other?
+But as he dug into this roadway safety problem,
+he realized that it's a much broader problem,
+and so he expanded HAAS Alert's mission
+to now really think about,
+how do we make safety available to everyone?
+And our approach from the beginning towards roadway safety
+has been very different, and unlike anyone else's.
+We didn't wanna just go out there
+and build new to market technology that required,
+you know, 10 plus years to get fully adopted by OEMs, right?
+The people you see here on the screen,
+they needed help immediately,
+and they couldn't wait 10 years
+for safety solutions to become available to them.
+We also just didn't build a software platform
+and expect everyone to come to us and start connecting.
+Frankly, that's kind of lazy, right?
+You gotta put in the hard work, and that's what we did.
+We literally went door to door talking to fire departments,
+talking to tow truck operators, talking to DOTs,
+and developing a community of users
+and a community of safety advocates
+who really wanted to make a difference in the world.
+And we are the voice of these people
+that you see here into the automotive industry.
+They don't have a chance to go to events like this
+and to meet with OEMs, so we are representing them
+when we're sitting at the table.
+So a couple weeks ago,
+the Illinois State Police had a press conference
+where they were announcing their safety partnership
+with HAAS Alert.
+The director that you see here stood at the podium
+and he talked about the safety risks
+that the men and women of his department
+faced every single day when they're out on the roadway.
+He also took the opportunity to thank Chrysler, Dodge,
+Jeep, Ram, Mercedes-Benz, and Volkswagen
+for investing in safety
+because those are the only OEMs today
+that are actually warning their drivers
+about emergency vehicles that are up in the road.
+Sadly, less than one week later,
+trooper Clay Carns was clearing debris from the highway
+when he was struck and killed by a pickup truck.
+At the funeral,
+that same director stood at the podium once again,
+but this time he had a very different message.
+And here's what he said,
+"People have got to slow down, move over, pay attention,
+just give a damn about these human beings.
+Have some respect for officers
+who do this job on a daily basis."
+You could sense the level of frustration in his voice.
+Now, it's no secret that OEMs care about safety, right?
+For example, this is on the wall at GM's headquarters,
+right, zero crashes.
+You see companies like Honda issuing press releases
+talking about how they're gonna be investing more
+in their focus on safety.
+Now the good news is that all these OEMs today,
+not just the ones here, but every single OEM,
+they have vehicles that are capable of communicating
+with their cloud platforms.
+And as such, they have vehicles that are V2X capable,
+and they can start making a safety difference today
+through that existing capability that they have.
+So what HAAS Alert has built is our Safety Cloud platform.
+It's the first V2X as-a-service solution.
+And what's unique about it is that we can easily help OEMs
+achieve their safety goals faster,
+cost effectively, and more easily.
+And it's really a gateway for the OEM
+into the broader connected transportation ecosystem.
+Safety Cloud enables vehicles
+to receive information and messages
+from other vehicles and infrastructure in the roadway,
+so that their drivers and their driving systems
+can make safer and smarter decisions.
+Safety Cloud also helps OEMs
+communicate with other OEM vehicles on the road,
+especially when their drivers are most vulnerable.
+For example, when they're stopped in the roadway,
+or let's say they're a wrong way driver
+entering the highway in the wrong direction,
+by simply integrating the cloud platform
+into Safety Cloud through a single API,
+all the sudden you have immediate access
+to the world's largest V2X network.
+Now, to achieve this goal
+and to really provide global solution for the OEMs,
+we realize that we can't do it all ourselves.
+In fact, core to HAAS Alert's strategy
+is enabling an ecosystem for other companies
+to participate and get connected
+into the transportation network broadly.
+And we're humbled and proud
+that all these organizations that you see here
+are trusting Safety Cloud today.
+And even just yesterday,
+we announced a partnership with AiDEN,
+who you'll hear from in a minute.
+And that big red firetruck that you see on the show floor,
+that's also connected to Safety Cloud
+through our partnership with Oshkosh and Pierce.
+So, you know, when you think about
+HAAS Alert's user community,
+we've got over 4,000 partners
+that are working with us today
+combined with the ecosystem that I just showed you.
+You get to a scale now
+where we can really start to make a difference
+with roadway safety.
+And even though we're processing a lot of data
+every single day, you know, our job is still not done
+until everyone can make it home safely.
+And that's what we're on a mission to continue doing.
+So thank you for the few minutes here.
+You know, we'll be
+at the COVESA networking reception tonight.
+We've got some demo vehicles there.
+We'd love to connect with you more throughout the week,
+so feel free to reach out.
+If you scan that QR code,
+it sends me an email immediately
+and we'll look forward to talking.
+Thank you.
+<v Logan>Thank you so much, Jeremy, all right.</v>
+And now we're just gonna keep it going.
+As he mentioned, we're gonna bring up AiDEN.
+So AiDEN is a software only solutions
+providing in-car services with their white label
+bi-directional hub.
+Niclas Gyllenram, I am super excited to hear from you.
+The stage is yours.
+Everybody, round of applause.
+<v Niclas>Oh, thank you.</v>
+Great to be here, thanks for the introduction,
+and yeah, I'm from AiDEN,
+and going straight to what we do, we basically connect cars.
+That's the core of the whole idea really.
+It's a no-code app framework.
+We put data privacy first, simply because if you do,
+then you're able to do more, not less, actually.
+Where do I control the slides?
+Is this one?
+The green button?
+Okay, so my name is Niclas.
+I've been working for AiDEN Automotive
+for the last four years.
+Before that, I've done about 20 years
+in the automotive industry,
+working mainly in infotainment and connected vehicles.
+So I think that, basically the aspects of vehicles
+that have failed most over the last two decades.
+I feel very frustrated about that.
+For a long time, we had built-in navigation systems
+and music players and voice control systems
+that frankly people didn't want to use.
+They would probably use their phones instead.
+Over the last four or five years,
+that has changed a little bit.
+Now, we've got pretty much the whole industry
+building infotainment systems based on Android automotive,
+and suddenly you can get
+more different mature navigation systems
+from HERE Technologies from Waze from Google Maps and so on,
+but there's still something missing,
+and that is really what we're addressing with AiDEN.
+It's been 20 years, for me at least, of talk in the industry
+where we've been talking about all these different things
+about how you should service your vehicle.
+We had the last session on connecting with 911 responders,
+connected insurance, paying for services, and so on,
+and frankly, there's no shortage of amazing companies
+building awesome services, but still,
+there's just no connected services at scale.
+Any one of you who have a new car,
+most of you actually, if you have a really new car,
+probably already have a vehicle
+with an Android-based system.
+You have all the necessary hardware and software,
+but still, there's no services.
+This is the current state.
+Hardware is there, there's a common software platform,
+there's millions of vehicles on the roads as we speak,
+but still no connected services at scale.
+This is what we're addressing.
+So the question of course becomes why?
+Why is it like that?
+Well, it turns out that I,
+frankly, when I started working on Android eight years ago
+for the automotive industry, I actually initially thought,
+great, our work here is done.
+Now it's all gonna be like the phone industry,
+everything's gonna be connected and smart
+and we'll have all the apps in the world.
+But that hasn't happened,
+and there's a multitude of different reasons for that.
+And I think these are at least the main reasons
+why we don't have connected services currently.
+First of all, contrary to the phone industry,
+the automotive industry is much, much more fragmented.
+Like the largest automotive OEMs
+still have less than 10% of the complete global market.
+That's unlikely to change significantly any time soon.
+The service side of it, the parking companies,
+the charging, fueling, insurance, 911 responder,
+that's even more fragmented.
+On a global scale,
+you'd probably need to have tens of thousands
+or even hundreds of thousands of different services
+to cover, to have global coverage.
+Now you might wonder, why don't you just build apps?
+I used to work for Volvo cars before I was at AiDEN,
+and we actually tried to do just that on Android.
+So that's how we started with the realization
+that something needs to be done.
+We worked with
+one of the largest charging infrastructure providers
+here in the US.
+They built an app, we deployed it into production vehicles,
+and that whole project took roughly 12 months.
+And to me, that was the proof point that this will not work.
+There's no way for any car company really to do that
+with 10 or 100,000 different service providers,
+and there's no way that that charging company can do it
+with 40, 50 different OEMs.
+It also turns out that technically the services,
+the types of services you want in a vehicle
+are different to what you have in phones.
+Most of the things you do on your phone
+is something where you pick up the phone and you engage
+and you initiate something to get something done.
+Whereas with cars, like with insurance or with service
+and maintenance and tire services, whatever you want,
+those are mainly things
+that you just run in the background all the time.
+You will never start your trip
+by launching the insurance app in your vehicle, right?
+You'll never start your trip
+by launching the Let's Serve My Vehicle app.
+If you don't launch it, it's not running.
+This is a main difference actually.
+With our solution now,
+well, frankly, and that's part of the main problem here,
+they mainly need to run in the background,
+and they need to communicate different sets of data,
+and they need to be able to support
+any kind of user interface,
+and lastly and most importantly,
+as I touched upon in the beginning,
+they need to also be serving data privacy regulations.
+And especially in the EU, you have something called GDPR,
+which I think on a global scale
+is probably the strictest privacy regulation.
+So these are all the problems that you need to have solved.
+So conclusion, what we need,
+we need something in the industry
+because nothing has happened over the last 20 years
+when it comes to actually scaling services.
+And I think it needs to be something that is scalable,
+something that actually works across markets,
+across car brands, across models.
+It has to be flexible.
+It can't be limited to what anyone,
+let's say automaker is saying that these are the limits,
+this is the amount of data or the type of data
+or the type of user interface you can build
+because that's all gonna be different
+for any one particular service provider.
+And it also has to be sustainable.
+That charging app I told you about in the beginning
+that we spent 12 months on,
+I actually don't think you can get it anymore
+because as the cars update to newer versions of Android
+every one or two years, nobody has the time or energy
+to keep updating and maintaining old apps,
+so now it's no longer there.
+And finally, now, I come to what I think is a solution
+to this problem.
+So what we do with AiDEN, it's a software solution
+that's compatible with any Android automotive vehicle.
+That means that it's immediately possible to run it on
+pretty much all the major OEMs,
+newest car models that are launched now.
+It has a data privacy first approach
+so that people are able to see exactly what is requested
+in terms of data from them
+and exactly what they get in return,
+what service is requesting to know my position
+and for what purpose.
+And people are in control of their data
+and control of their services.
+It's sustainable because it's a no code solution.
+So as a third party service provider,
+you can connect with vehicles
+and have an in-vehicle app-like experience
+without having to write any code, none, no code whatsoever.
+And that actually is what makes it
+both flexible and scalable.
+And the UX we allow in the vehicles
+are basically anything you can do in a web browser,
+you can now do with an app-like approach in the vehicle.
+And our current status
+is that we're working with multiple different partners,
+not only HAAS Alert and Mavi
+that you will hear from later here.
+We're also deploying later this spring
+with one of the largest global OEMs.
+We are going to deploy one pay for fuel service.
+There's gonna be safety services,
+contextual automatic road and traffic information,
+connected insurance, and automatic tolling services.
+And if you are either working for a car company
+and you're interested in getting more flexible services
+onto your vehicles, please reach out.
+If you're any service provider
+that actually think it would be,
+you would be able to build a great automotive service,
+also, please reach out.
+We will also be at the COVESA event at the Bellagio tonight
+with HAAS Alert and Mavi, and yeah, that's it.
+Thank you very much,
+and I also would like to thank Connect2Car and COVESA
+for letting us come here and pitch.
+Thank you.
+<v ->All right, thank you so much Niclas and AiDEN,</v>
+making the roads better and making the roads safer.
+Speaking of making the roads better,
+now we're gonna call up Mavi.io and the CEO Cynthia Hollen.
+She is about to tell you about OnMyWay Commerce
+and the trailblazing in car commerce marketplace,
+transforming the world's automotive, retail, and payments.
+Give a nice another round of a hand for Cynthia, everybody.
+<v ->Thank you, thank you, Logan.</v>
+Green is for clicking?
+Oh, the big green button.
+Hi everybody, thank you, my name is Cynthia,
+and I think that what we're about to talk about
+is a summary of a lot of what we've heard about
+all throughout this day, because to me,
+shopping and having your car do stuff for you
+and get stuff done is the ultimate expression
+of what we're all trying to get to with Connect2Car.
+We are building in-car commerce to solve the problem
+that you are now all saying to yourself
+because you're used to being able
+to get stuff done with your phone.
+You're starting to see these awesome new applications
+and great interfaces show up in your car
+and every single one of you is now saying,
+"Well, wait a minute,
+how come my car can't do this thing for me?"
+And the expectations that we have as consumers
+from the rest of our world is quickly getting focused
+on this unbelievably biggest interactive screen
+in my household.
+And we have understood
+because we've been building e-commerce for 20 years
+in different channels
+that the right modality for the right use case
+is the thing that makes consumers
+be able to get more things done.
+This great big giant electronic shopping cart on wheels,
+as I said earlier, is the modality
+that's allowing us to bring in-car commerce to you.
+We know that consumers, when surveyed,
+open-ended questions, when we ask them,
+"What is it that you want to have your car do for you?"
+Off the top of their head, they absolutely say,
+"I wanna be able to pay for,
+have my car figure out for me parking,
+fuel, car washing, tolls."
+More than 50% of them also say,
+"I also want it to be able to get all of my erranding
+and food and groceries
+and other sorts of purchasing for me."
+That's what we are focused on.
+We're focused on the moms and the Uber drivers,
+the professional drivers who all say,
+"Please just make my life easier.
+Make me not have to do math when I'm walking around.
+Make me not have to get the kids out of the seatbelt
+in the back.
+Make this great big giant computer I have
+do all of my work for me."
+So we have invented OnMyWay Commerce
+to take all of the math and take all of the thinking
+and take all of that stuff that you're doing on the phone
+in your lap at 90 miles an hour away and get back to safety
+and let your car do the simple things.
+Find something quickly that you need,
+help you get it purchased,
+help you do it while you stay focused
+on being safe and driving your car.
+OnMyWay Commerce is about on route curation.
+"Hey Audi, I'm hungry."
+"Okay, Cynthia, your favorite cheeseburger
+can be ready for you in 10 minutes.
+Nine minutes down the road,
+should I order it for you with your in-car wallet
+and have it ready for you when you get there?
+I'll tell them when you're three minutes away
+so they can start the french fries,
+and I'll tell them when you've pulled into the parking lot
+so they can bring it out to you."
+So again, you can focus on what you're doing,
+the screaming kids and focus on the car in the road.
+Curating all of those transactions together
+and putting it together with the wallet
+that's already in the car,
+doing what we call Persistent Order Status.
+Nobody wants to get off the highway to go pick up an order
+that might not be there, that you're not sure
+that's the reason you're getting off the highway.
+So pulling that entire experience together
+is what makes OnMyWay Commerce meaningful to consumers.
+We're working with some of the largest car brands
+in the world and you can see some installations here.
+This was the Lamborghini that we're,
+should be launching any day now with Volkswagen.
+We're launching with Jeep Dodge Chrysler, Ram Volkswagen,
+BMW Mercedes, working with a lot of other OEMs as well,
+and we need to be able to bring all of our retailers
+to all car companies,
+so please come up and talk to us
+about how we can get our restaurants into your cars as well.
+We're starting with the order and pickup payments.
+We have had a lot of people come to us and say,
+"But I can't charge my car
+or pick a place that I'm gonna charge my car
+if I don't know what I'm going to do
+when I am charging my car,
+so help me pick charging and a food and dining occasion
+at the same time."
+So we're pulling through
+a lot of those other experiences as well.
+Of course, the reason that this makes sense now, in 2025,
+when it didn't four years ago,
+the last time people tried this
+is that stores were 2% capable of pre-order before pandemic.
+They're now 98%.
+Consumers who were early adopters
+placing orders and deliveries in 2019,
+now you're a barbarian, if you think of going in the store
+and standing in line and waiting to pay
+and then waiting for your food.
+No one wants to do that.
+And all the CPG companies, advertisers are all
+looking for ways to reach their customers differently.
+I told you we're working
+with some of the best car brands in the world already.
+We're launching with about 100,000 restaurant locations
+and expect to do
+about a million location transactions this year.
+Of course, since we're at CES, gonna tell you,
+we have AI throughout our application menu,
+understanding, voice enabling of menus,
+how we process the orders through personalization,
+et cetera, and we'd love to work with you.
+Thank you.
+<v ->Thank you so much, Cynthia, absolutely amazing.</v>
+I know as a chubby kid, getting food on the way home
+is definitely something I looked forward to every day.
+Now we're gonna keep it rolling at the last,
+but definitely not the least.
+We now have Aditi Desai with Voltpost.
+Voltpost is democratizing charging access.
+Volpost retrofits lampposts
+into modular electric vehicle charging platforms.
+Please give her a round of applause everybody.
+<v ->Hi everyone, how's it going?</v>
+Thanks Logan for the warm introduction.
+As Logan mentioned, I am our Director of Partnerships
+and a founding team member at Voltpost.
+We founded Voltpost with the mission to decarbonize mobility
+by democratizing electric vehicle charging access,
+and we plan on doing that
+by making charging as ubiquitous as lampposts.
+So the problem statement here,
+I'm sure you're all very well aware of,
+which is that the top EV adoption barrier for drivers
+is a lack of convenient and accessible charging.
+There are just 2% of cars on the road today in the US
+that are electric,
+but that number's increasing year over year
+with new car sale, new EV sales being 9% just last year.
+And with different climate targets,
+it's very clear that we need to decarbonize quickly.
+But there's a particular challenge,
+especially in urban environments
+where city drivers don't have a dedicated charging at home.
+They're not able to charge in their garage.
+And as you can see here in the picture of the left
+of somebody charging from the second floor
+of their Brooklyn brownstone in New York,
+which I will say is a site
+that you see more often than you would expect,
+it's clear that charging
+is currently scarce and inconvenient,
+and so we're building the best solution
+to meet those drivers' needs.
+At Voltpost, we're retrofitting lampposts
+into a modular electric vehicle charging platform.
+By retrofitting the existing infrastructure,
+we're able to cut down on the cost, timing,
+and footprint of charger installation because we get rid
+of that timely and costly construction and trenching.
+Our modular design maximizes the chargers uptime
+while keeping the O and M expenses as low as possible.
+Our charging hardware has LED feedback, uses a smart meter,
+and has an integrated cable management system.
+So typically a lot of charging stations
+will have the cable out and exposed,
+which makes it vulnerable to vandalism, inclement weather.
+It's also a trip hazard for drivers, bikers,
+and pedestrians, and so inside of our charging module,
+we have about 20 feet of cable,
+where at the press of a button,
+you can pull out as much cable as you need,
+plug, put it into your car,
+unplug, stick it back into the module,
+and it sucks it in like a vacuum.
+On the software side of things,
+we have a custom mobile application
+where you can surface Voltpost on a map,
+manage the end-to-end charging session.
+We're also pursuing an open charging distribution strategy
+so that you can surface Voltpost on partner apps and maps,
+and we have a dashboard on the backend
+that can be used to track charging utilization data
+and other insights
+to benchmark and forecast future charging need.
+One of the benefits of our modularity
+is being able to future proof
+and upgrade the product over time.
+We see charging as an entry point to what is ultimately
+an intelligent infrastructure platform
+that goes beyond just our current offering,
+which is the charging hardware, the software, the data,
+and the O and M,
+but we're exploring different sorts of verticals,
+so think connectivity, right,
+integrating things like 5G and Wi-Fi into the modules.
+Just last year we announced a partnership with AT&amp;T
+to do just that.
+We're also looking at integrating things like sensors
+related to air quality, curb management,
+thinking about how can a network of chargers
+be used as a distributed energy resource
+in the case of, you know, grid outages,
+and also looking at more traditional media
+and advertisement verticals as well.
+In terms of the traction of the company,
+so we've done a couple of pilot projects in New York City
+with the Department of Transportation there,
+as well as Detroit through the state of Michigan.
+And starting in just a few weeks,
+we're gearing up to deploy the commercial product.
+We have projects in New York, Michigan, California,
+Illinois, Massachusetts, and Connecticut
+with the public and private sector.
+Voltpost was founded in 2021.
+We're headquartered in New York, but our team is split up
+between New York and San Francisco.
+The founding team is former Samsung and Barclays
+and has extensive experience
+of bringing products from concept to commercialization
+with over 50 patents under the team's belt collectively.
+Some of our investors include RWE,
+which is the largest German utility, as well as Exelon,
+which is the largest utility here in the US,
+alongside other mission aligned climate tech VCs.
+We have a scalable hardware as a service business model
+where we own and operate our charging network
+and lease a turnkey offering,
+which includes a charging hardware, the software,
+the data, and the O and M.
+Under our model, we're able to apply
+different types of grants and non-diluted funding
+to offset the project cost for the customer,
+and we view electricity as a pass through to the utility.
+Ultimately, we're building this out
+as a mission driven company
+with the goal of increasing public charging access
+so that we can reduce carbon and air pollution.
+We wanna put these chargers up
+in communities that need them most,
+and are especially excited
+about the Green Workforce opportunity.
+Our company was born in America and built coast to coast,
+and we welcome you
+to transform lampposts into Voltposts with us.
+I will be at the COVESA networking reception later today
+and would love to connect
+if you're interested about learning more about Voltpost.
+Thank you.
+<v ->All right, thank you so much Aditi</v>
+for closing us out here.
+I do just want to take one moment to let everybody know
+that we don't want the conversations to stop here.
+We want to continue to grow with everybody in this room,
+and we would love to open up these different conversations.
+As each one of them mentioned,
+we will all be at COVESA later tonight at the Bellagio.
+We invite you all to come and join us.
+It's gonna be all the way back in the convention center.
+If you guys haven't already signed up,
+please come and find us after.
+We will gladly get you guys registered.
+I want to give one more round of applause everybody
+for the presenters,
+as well as Chris Cook and the Connect2Car team.
+Thank you all so much for being here
+and I will turn it over to Chris to close you guys out.
+Thank you.
+I don't know where Chris is.
+There he is, he's on his way up.
+But one more time, thank you all so much.
+<v ->Yeah, and I don't need to step up there to say goodbye.</v>
+I think everybody can hear me
+from pretty much anywhere I am.
+I appreciate everybody hanging out with us
+for the day for Connect2Car.
+Logan, thank you so much for everything that you do
+and I look forward to you being back next year.
+All right, good.
+And like the format too,
+so I appreciate all of you taking the time.
+The videos for these will be up on connect2car.tech,
+usually in a week or two when we get 'em from CES.
+The first presentation of the day,
+Steve, when he did the, I say keynote lightly,
+he will, that presentation's already up on the website,
+so if you wanna download that, that's there for you.
+Have a great safe CES and enjoy your trip back home
+when you get a chance to, spend some time with your family,
+and thank them for letting you stay out for a little while.

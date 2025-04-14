@@ -1,0 +1,2860 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.000 --> 00:02.583
+(upbeat music)
+
+00:10.770 --> 00:13.743
+<v ->Well, welcome to our panel here.</v>
+
+00:14.970 --> 00:17.880
+Very honored to be here with this prestigious panel.
+
+00:17.880 --> 00:18.990
+My name is Chris Andrews.
+
+00:18.990 --> 00:20.223
+I'll be the moderator.
+
+00:21.360 --> 00:24.600
+I'm the director of mobility at Pratt Miller.
+
+00:24.600 --> 00:27.990
+We're a wholly owned subsidiary of Oshkosh Corporation.
+
+00:27.990 --> 00:31.200
+We do product development and technology integration
+
+00:31.200 --> 00:34.110
+on mobility and vehicles, so.
+
+00:34.110 --> 00:36.420
+But I'd like to have each one of our panelists here
+
+00:36.420 --> 00:38.310
+kinda say a little about them and what they do
+
+00:38.310 --> 00:40.020
+and then we'll kinda get into some questions.
+
+00:40.020 --> 00:42.180
+I think you're really gonna enjoy this.
+
+00:42.180 --> 00:45.720
+I already have in our pre-talks with these folks, so.
+
+00:45.720 --> 00:47.850
+<v ->Yeah, thank you. I'm excited to be here.</v>
+
+00:47.850 --> 00:49.080
+My name is Ossa Fisher.
+
+00:49.080 --> 00:51.720
+I am the president of Aurora Innovation,
+
+00:51.720 --> 00:55.350
+and we are deploying cars and trucks to drive themselves
+
+00:55.350 --> 00:57.990
+using the latest in AI breakthroughs.
+
+00:57.990 --> 00:58.980
+So excited to be here,
+
+00:58.980 --> 01:02.490
+and we've got some partnerships even on stage with NVIDIA,
+
+01:02.490 --> 01:04.440
+Volvo, Continental, and many more.
+
+01:04.440 --> 01:05.640
+So thanks for having me.
+
+01:06.810 --> 01:08.400
+<v ->Yeah, my name is Burkhard Huhnke,</v>
+
+01:08.400 --> 01:10.770
+a very German name, but German American.
+
+01:10.770 --> 01:12.900
+In the meantime, I live in San Francisco.
+
+01:12.900 --> 01:15.960
+I'm the CTO of Scout Motors.
+
+01:15.960 --> 01:20.960
+That is a new company built on the original brand Scout.
+
+01:21.900 --> 01:25.050
+Super exciting, fully funded by the Volkswagen Group.
+
+01:25.050 --> 01:28.380
+So that is very exciting to be here today
+
+01:28.380 --> 01:30.930
+to talk about some of the aspects
+
+01:30.930 --> 01:31.860
+we are using currently
+
+01:31.860 --> 01:34.470
+in the development phase concerning AI.
+
+01:34.470 --> 01:35.550
+So pleasure to be here.
+
+01:35.550 --> 01:36.550
+Thank you very much.
+
+01:39.060 --> 01:40.907
+<v ->So my name is Raquel Urtasun.</v>
+
+01:40.907 --> 01:43.206
+I'm the founder and CEO of Waabi.
+
+01:43.206 --> 01:45.690
+And what we do at Waabi is transforming the physical world
+
+01:45.690 --> 01:47.100
+with innovative AI,
+
+01:47.100 --> 01:49.230
+starting with self-driving trucks,
+
+01:49.230 --> 01:51.660
+and really a pleasure to be here today
+
+01:51.660 --> 01:53.880
+and very excited about, you know, the conversation
+
+01:53.880 --> 01:54.980
+that we're gonna have.
+
+01:56.524 --> 01:58.110
+<v ->Yeah, and Norm Marks from NVIDIA.</v>
+
+01:58.110 --> 02:00.360
+So I lead our automotive enterprise business,
+
+02:00.360 --> 02:02.160
+and since Ossa said it,
+
+02:02.160 --> 02:04.230
+of course, we also have a strong partnership
+
+02:04.230 --> 02:06.360
+not only with Aurora, but also with Waabi,
+
+02:06.360 --> 02:08.820
+and doing a lot of work together with everyone on the panel.
+
+02:08.820 --> 02:12.300
+So it'll be an exciting conversation for sure.
+
+02:12.300 --> 02:14.370
+<v ->Yeah, I feel this is a pretty pivotal year,</v>
+
+02:14.370 --> 02:16.200
+so let's jump right in.
+
+02:16.200 --> 02:18.575
+So Ossa, if we could start with you.
+
+02:18.575 --> 02:20.347
+<v ->Absolutely.</v>
+
+02:20.347 --> 02:22.830
+<v ->You operate in a very safety critical industry</v>
+
+02:22.830 --> 02:23.883
+to say the least.
+
+02:25.020 --> 02:26.670
+Performance is paramount in AI.
+
+02:26.670 --> 02:28.350
+How does Aurora ensure your systems
+
+02:28.350 --> 02:30.450
+are reliable, verifiable,
+
+02:30.450 --> 02:32.160
+and what practices do you use
+
+02:32.160 --> 02:35.310
+in your AI-driven autonomous technology?
+
+02:35.310 --> 02:36.270
+<v ->Yeah, thanks for bringing up</v>
+
+02:36.270 --> 02:39.840
+the safety critical nature of what we do.
+
+02:39.840 --> 02:42.540
+You know, a lot of the talk about AI
+
+02:42.540 --> 02:45.030
+over the last couple of years has been with the LLM,
+
+02:45.030 --> 02:47.280
+large language models, and ChatGPT,
+
+02:47.280 --> 02:48.450
+and that's extraordinary.
+
+02:48.450 --> 02:50.520
+I don't wanna diminish that at all.
+
+02:50.520 --> 02:52.560
+I think Jensen called that cloud AI.
+
+02:52.560 --> 02:56.010
+And while ChatGPT does incredible things,
+
+02:56.010 --> 02:57.960
+it generates the recipe.
+
+02:57.960 --> 02:59.430
+It doesn't cook the meal.
+
+02:59.430 --> 03:01.320
+And I think with physical AI,
+
+03:01.320 --> 03:03.270
+which is a new era that's coming in,
+
+03:03.270 --> 03:05.910
+we are, Aurora, with our trucks on the ground,
+
+03:05.910 --> 03:07.230
+on public roads,
+
+03:07.230 --> 03:11.130
+we are interacting with the real world in real time.
+
+03:11.130 --> 03:14.490
+And that just demands a different level of care
+
+03:14.490 --> 03:18.090
+than what you get from a ChatGPT output.
+
+03:18.090 --> 03:21.900
+And so we are using what we call verifiable AI
+
+03:21.900 --> 03:25.688
+and this has the benefits of what the LLMs are doing,
+
+03:25.688 --> 03:27.690
+these are the massive data models,
+
+03:27.690 --> 03:32.160
+and we use human-driven data to augment our models,
+
+03:32.160 --> 03:34.290
+but then we deploy guardrails.
+
+03:34.290 --> 03:36.570
+And so let me explain a little bit what that means
+
+03:36.570 --> 03:37.800
+to contextualize it.
+
+03:37.800 --> 03:38.880
+Let's take stop signs,
+
+03:38.880 --> 03:40.950
+four-way stop signs, two-way stop signs.
+
+03:40.950 --> 03:42.840
+We've got millions and millions of miles
+
+03:42.840 --> 03:44.850
+of driver data on that.
+
+03:44.850 --> 03:47.940
+But if any of you know the drivers on the road,
+
+03:47.940 --> 03:50.250
+I have a 16-year-old who just got her license,
+
+03:50.250 --> 03:51.690
+so I know this very well,
+
+03:51.690 --> 03:54.480
+humans don't always abide by those stop signs.
+
+03:54.480 --> 03:56.670
+In fact, we often roll them.
+
+03:56.670 --> 03:59.850
+And so if we're using an AI human-like model
+
+03:59.850 --> 04:02.310
+to determine how we navigate the roads,
+
+04:02.310 --> 04:04.920
+the Aurora Driver might occasionally roll a stop sign too.
+
+04:04.920 --> 04:07.290
+And for us, that would be very much out of alignment
+
+04:07.290 --> 04:09.390
+and, frankly, it's against the law.
+
+04:09.390 --> 04:13.230
+And so we supplement that model
+
+04:13.230 --> 04:16.260
+with guardrails that adhere to the rules of the road.
+
+04:16.260 --> 04:18.750
+This ensures that we won't break the law
+
+04:18.750 --> 04:20.610
+and is also really, really helpful
+
+04:20.610 --> 04:22.170
+when we're working with regulators
+
+04:22.170 --> 04:26.359
+to explain to them how we know that we'll behave safely
+
+04:26.359 --> 04:28.500
+regarding, you know, the code of conduct
+
+04:28.500 --> 04:30.270
+that we all expect from vehicles
+
+04:30.270 --> 04:32.340
+that are driving next to us.
+
+04:32.340 --> 04:33.600
+<v ->Yeah, no, thanks very much.</v>
+
+04:33.600 --> 04:35.670
+So Norm, after that,
+
+04:35.670 --> 04:38.280
+why don't we talk about AV 1 to AV 2 models
+
+04:38.280 --> 04:40.080
+and end-to-end world models.
+
+04:40.080 --> 04:43.650
+I think it's a good way to go into it next, so.
+
+04:43.650 --> 04:45.660
+<v ->Yeah, on the heels of the keynote,</v>
+
+04:45.660 --> 04:47.190
+and hopefully many of you were there,
+
+04:47.190 --> 04:50.040
+it's certainly a hot topic for us right now.
+
+04:50.040 --> 04:51.960
+Now, if you were to ask 10 people
+
+04:51.960 --> 04:53.460
+to describe AV 1.0 and AV 2.0,
+
+04:54.400 --> 04:56.790
+you'd probably get seven or eight different answers.
+
+04:56.790 --> 04:59.400
+And I'm not gonna suggest my explanation
+
+04:59.400 --> 05:01.530
+will be 100% perfect,
+
+05:01.530 --> 05:03.120
+but just to level set,
+
+05:03.120 --> 05:06.510
+when we think about AV 1.0 as we describe it,
+
+05:06.510 --> 05:08.340
+you know, think about 50 or more
+
+05:08.340 --> 05:10.290
+individual deep neural networks
+
+05:10.290 --> 05:13.650
+that are detecting certain things,
+
+05:13.650 --> 05:15.180
+like detecting a vehicle,
+
+05:15.180 --> 05:18.180
+detecting the distance between us and the next vehicle,
+
+05:18.180 --> 05:20.670
+detecting a pedestrian on the curb,
+
+05:20.670 --> 05:23.730
+detecting eye gaze, whether you're looking forward,
+
+05:23.730 --> 05:26.250
+I won't name all 50,
+
+05:26.250 --> 05:30.360
+but also trained on labeled image data.
+
+05:30.360 --> 05:33.210
+So certainly very effective in the early days,
+
+05:33.210 --> 05:36.090
+and as an industry, we're all learning what it's gonna take
+
+05:36.090 --> 05:38.793
+to actually get to safe self-driving,
+
+05:40.530 --> 05:41.910
+but what we've been learning
+
+05:41.910 --> 05:45.390
+is that certainly these models we think are super effective
+
+05:45.390 --> 05:47.640
+for Level 2 plus and Level 3.
+
+05:47.640 --> 05:50.640
+But in order to get to full Level 4 and beyond,
+
+05:50.640 --> 05:52.200
+we see the opportunity really
+
+05:52.200 --> 05:54.660
+is to move to this AV 2.0 model,
+
+05:54.660 --> 05:57.030
+which really I would describe simply
+
+05:57.030 --> 06:00.360
+as moving from individual DNNs
+
+06:00.360 --> 06:03.360
+and going beyond just having an ensemble of them,
+
+06:03.360 --> 06:07.170
+but actually having one very large, it turns out,
+
+06:07.170 --> 06:09.900
+end-to-end world foundation model.
+
+06:09.900 --> 06:13.230
+And some call it a VLM, some call it a multimodal LLM,
+
+06:13.230 --> 06:16.050
+but one end-to-end world foundation model.
+
+06:16.050 --> 06:17.880
+Of course, we're proud to have announce
+
+06:17.880 --> 06:19.530
+what we're releasing to the world now
+
+06:19.530 --> 06:21.183
+with Cosmos at our keynote.
+
+06:22.350 --> 06:24.000
+But, you know, the difference here
+
+06:24.000 --> 06:26.430
+is, of course, trained on video data.
+
+06:26.430 --> 06:28.050
+You know, our initial models trained
+
+06:28.050 --> 06:30.390
+on 20 million plus hours of data
+
+06:30.390 --> 06:31.560
+and all of our customers
+
+06:31.560 --> 06:34.020
+who will be leveraging the platform,
+
+06:34.020 --> 06:36.060
+some of which are up here,
+
+06:36.060 --> 06:38.280
+will be able to then use their own data
+
+06:38.280 --> 06:40.440
+to then further fine-tune it.
+
+06:40.440 --> 06:43.080
+But if I, you know, to a layperson,
+
+06:43.080 --> 06:46.020
+a simple way to think about the big distinction
+
+06:46.020 --> 06:50.730
+is that in AV 1.0, you're detecting a pedestrian
+
+06:50.730 --> 06:54.390
+and then acting based on what you see
+
+06:54.390 --> 06:57.660
+versus in an AV 2.0 world foundation model,
+
+06:57.660 --> 07:02.040
+that foundation model is actively predicting the next frame.
+
+07:02.040 --> 07:05.820
+So it's predicting will that pedestrian step off the curb
+
+07:05.820 --> 07:09.390
+or do we expect that pedestrian will stay on the curb?
+
+07:09.390 --> 07:12.360
+Will that vehicle cut over in front of us
+
+07:12.360 --> 07:14.340
+or will it stay in its lane?
+
+07:14.340 --> 07:18.450
+So the power of going from detecting to predicting
+
+07:18.450 --> 07:20.340
+we believe will go a very long way.
+
+07:20.340 --> 07:23.340
+So huge transformation underway.
+
+07:23.340 --> 07:25.170
+From a scale standpoint,
+
+07:25.170 --> 07:28.770
+AV 1.0 is a massive computational challenge.
+
+07:28.770 --> 07:32.040
+You know, a 50-car fleet collecting data
+
+07:32.040 --> 07:33.960
+is about two petabytes a day.
+
+07:33.960 --> 07:36.330
+But the data for AV 2.0,
+
+07:36.330 --> 07:38.400
+we're talking order of magnitudes
+
+07:38.400 --> 07:40.890
+of 50 to even 30 times larger.
+
+07:40.890 --> 07:43.440
+So significant challenge
+
+07:43.440 --> 07:45.810
+and happy to be a part of helping the industry forward
+
+07:45.810 --> 07:47.400
+along the way.
+
+07:47.400 --> 07:49.980
+<v ->Yeah, I mean, this is exciting stuff, so.</v>
+
+07:49.980 --> 07:51.090
+Raquel, can you tell us,
+
+07:51.090 --> 07:54.120
+now that we've gone into end-to-end world models,
+
+07:54.120 --> 07:56.190
+how your team is pioneering safety
+
+07:56.190 --> 07:57.690
+and how you're using them?
+
+07:57.690 --> 08:00.710
+<v ->Yeah, so now that we went from 1.0 I guess to 2.0,</v>
+
+08:00.710 --> 08:03.030
+as we continue on the discussion,
+
+08:03.030 --> 08:06.960
+yeah, so Waabi, you know, inspiring foundational models
+
+08:06.960 --> 08:08.670
+that can use multiple sensors,
+
+08:08.670 --> 08:11.820
+including LiDAR, cameras, radar, et cetera.
+
+08:11.820 --> 08:13.440
+And the way to think about our models
+
+08:13.440 --> 08:17.280
+is that you cannot just take, you know, an LLM or a BLM
+
+08:17.280 --> 08:21.180
+and say, you know, "Go and drive vehicles," right?
+
+08:21.180 --> 08:22.110
+That's not gonna be safe.
+
+08:22.110 --> 08:24.030
+So there is a few things that you need to do
+
+08:24.030 --> 08:25.605
+and very different architectures
+
+08:25.605 --> 08:28.950
+that you need to develop
+
+08:28.950 --> 08:31.973
+in order to have something that has three characteristics.
+
+08:31.973 --> 08:34.200
+It's able to be super efficient
+
+08:34.200 --> 08:36.300
+so that you can actually run it on the vehicles,
+
+08:36.300 --> 08:37.133
+as Norm was saying,
+
+08:37.133 --> 08:39.330
+and with very little compute.
+
+08:39.330 --> 08:41.520
+It's able to generalize to the unknown.
+
+08:41.520 --> 08:45.150
+This is something that, you know, LLMS are amazing
+
+08:45.150 --> 08:47.550
+at, you know, doing natural language,
+
+08:47.550 --> 08:51.030
+are amazing at answering questions, interfacing with humans,
+
+08:51.030 --> 08:52.650
+but oftentimes memorize.
+
+08:52.650 --> 08:54.750
+If you go a little bit out of distribution,
+
+08:54.750 --> 08:55.620
+they don't work very well.
+
+08:55.620 --> 08:56.940
+So we need to build technology
+
+08:56.940 --> 09:01.080
+that has the generalization property, you know, in nature.
+
+09:01.080 --> 09:04.260
+And the third bit is that for a safety-critical application
+
+09:04.260 --> 09:05.880
+like self-driving,
+
+09:05.880 --> 09:08.370
+you need it to be provably safe.
+
+09:08.370 --> 09:09.420
+Being safe is not enough.
+
+09:09.420 --> 09:12.780
+You should be able to verify and validate the system
+
+09:12.780 --> 09:15.390
+and that's what you get with Waabi's technology,
+
+09:15.390 --> 09:18.372
+which is very differentiated with other 2.0
+
+09:18.372 --> 09:19.620
+where you get the best of both worlds.
+
+09:19.620 --> 09:21.390
+You get the ability to verify,
+
+09:21.390 --> 09:23.040
+but you get the end-to-end power
+
+09:23.040 --> 09:25.860
+of next generation generative AI.
+
+09:25.860 --> 09:27.240
+And last bit I will say
+
+09:27.240 --> 09:29.400
+is that in order to beat the scaling loss,
+
+09:29.400 --> 09:33.090
+the thing that these systems have to do is reasoning, right?
+
+09:33.090 --> 09:34.920
+And we saw that on Jensen's keynote, right?
+
+09:34.920 --> 09:37.140
+Is that you start with, you know, pre-training,
+
+09:37.140 --> 09:39.120
+which is what you were talking about,
+
+09:39.120 --> 09:40.410
+then you fine-tune.
+
+09:40.410 --> 09:42.000
+Well, next generation is reasoning
+
+09:42.000 --> 09:43.590
+and that's what we really have been doing
+
+09:43.590 --> 09:45.330
+over the last three and a half years at Waabi
+
+09:45.330 --> 09:47.850
+is build AI systems that are end to end
+
+09:47.850 --> 09:50.100
+but are able to reason in a very, very effective manner
+
+09:50.100 --> 09:52.260
+so that the system can understand
+
+09:52.260 --> 09:54.210
+the consequences of these actions,
+
+09:54.210 --> 09:57.720
+can really decide, you know, all the possibilities
+
+09:57.720 --> 09:58.680
+that are possible, right?
+
+09:58.680 --> 10:00.000
+And decide what is the safest manner
+
+10:00.000 --> 10:02.543
+where at every point in time in a fraction of a second.
+
+10:03.960 --> 10:06.870
+<v ->Wow, that's incredible. Thank you.</v>
+
+10:06.870 --> 10:08.250
+<v ->So eloquent, right?</v>
+
+10:08.250 --> 10:11.138
+<v ->Yeah, (laughs) it really is.</v>
+
+10:11.138 --> 10:12.450
+You know, I think you guys were talking
+
+10:12.450 --> 10:15.990
+about how there is a, it's not a natural transition,
+
+10:15.990 --> 10:19.020
+but it's a break and a whole new way of doing things
+
+10:19.020 --> 10:20.880
+and I think that's what a lot of people
+
+10:20.880 --> 10:21.960
+need to get their arms around.
+
+10:21.960 --> 10:23.220
+It certainly took me a little while,
+
+10:23.220 --> 10:25.500
+but it's eye-opening.
+
+10:25.500 --> 10:27.090
+So Dr. Burkhard, you want to tell us,
+
+10:27.090 --> 10:28.710
+we've talked about AV,
+
+10:28.710 --> 10:30.630
+but are there other product development things?
+
+10:30.630 --> 10:32.760
+Tell us a little more about that.
+
+10:32.760 --> 10:35.700
+<v ->Yeah, let me take you away for a minute</v>
+
+10:35.700 --> 10:38.040
+from the exciting topic AV
+
+10:38.040 --> 10:40.590
+and explain to you how we are using AI
+
+10:40.590 --> 10:42.630
+in the development process.
+
+10:42.630 --> 10:45.510
+We talk about the digital twins, as everyone knows.
+
+10:45.510 --> 10:49.020
+It's a very interesting fashion word, but what does it mean?
+
+10:49.020 --> 10:54.020
+It's actually a replica of the physical surrounding
+
+10:54.330 --> 10:59.130
+by creating a digital twin of your existing physics systems.
+
+10:59.130 --> 11:02.010
+If you do that, and that's what we've done at Scout Motors
+
+11:02.010 --> 11:02.880
+from the beginning on
+
+11:02.880 --> 11:04.710
+because that has huge opportunities
+
+11:04.710 --> 11:06.450
+and it's actually a digital revolution
+
+11:06.450 --> 11:09.540
+which is ongoing there from my perspective.
+
+11:09.540 --> 11:11.340
+If you think about the physics
+
+11:11.340 --> 11:13.590
+and the science behind the car,
+
+11:13.590 --> 11:16.680
+it's all about a differential equation solution.
+
+11:16.680 --> 11:19.170
+So if you think about traditional CFD,
+
+11:19.170 --> 11:23.490
+which is computational fluid dynamics simulation,
+
+11:23.490 --> 11:26.160
+how you would do aerodynamics in the past,
+
+11:26.160 --> 11:27.780
+now you have the AI,
+
+11:27.780 --> 11:29.970
+you can run machine learning,
+
+11:29.970 --> 11:33.360
+and you optimize your system with GPU power
+
+11:33.360 --> 11:35.940
+and optimize methods very quickly.
+
+11:35.940 --> 11:37.440
+So that allows you, actually,
+
+11:37.440 --> 11:40.560
+to use physical prototypes very early in the phase.
+
+11:40.560 --> 11:43.860
+Now, you can go through every physics of the car,
+
+11:43.860 --> 11:46.650
+besides fluid dynamics,
+
+11:46.650 --> 11:47.700
+besides aerodynamics,
+
+11:47.700 --> 11:50.220
+you can go into the structure of the car itself.
+
+11:50.220 --> 11:51.540
+That's a safety structure.
+
+11:51.540 --> 11:54.600
+You can optimize the materials
+
+11:54.600 --> 11:56.070
+and you can optimize the structure,
+
+11:56.070 --> 11:59.970
+actually can learn from previous tests, crash tests,
+
+11:59.970 --> 12:01.470
+and build that into your modeling.
+
+12:01.470 --> 12:04.980
+So you have instantly a feedback loop closed
+
+12:04.980 --> 12:07.950
+with a real-life data which you have to feed in.
+
+12:07.950 --> 12:10.800
+In example, for the wind tunnel testing,
+
+12:10.800 --> 12:13.770
+you need sensors to feed in the data
+
+12:13.770 --> 12:18.547
+and feed the model with AI and ML data
+
+12:19.440 --> 12:21.390
+to make it better and more precise.
+
+12:21.390 --> 12:25.320
+So you're receiving in the meantime an accuracy of 99%,
+
+12:25.320 --> 12:27.630
+which is ridiculous high.
+
+12:27.630 --> 12:30.480
+Now, you can imagine we are not replacing the designer.
+
+12:30.480 --> 12:33.240
+So Chris Benjamin, if you are here,
+
+12:33.240 --> 12:36.450
+our beautiful Scout Motors design hasn't been designed by AI
+
+12:36.450 --> 12:37.500
+and will never.
+
+12:37.500 --> 12:40.800
+So, but it's something in between science and arts,
+
+12:40.800 --> 12:42.810
+and how can we expedite the process
+
+12:42.810 --> 12:45.000
+behind the development and engineering
+
+12:45.000 --> 12:48.510
+of these beautiful, a surface,
+
+12:48.510 --> 12:51.360
+is an optimized underlying structure
+
+12:51.360 --> 12:54.240
+to be weight optimized, structural optimized,
+
+12:54.240 --> 12:56.970
+safety optimized, thermal optimized, and so on.
+
+12:56.970 --> 13:00.510
+So I think we are leading these kind of efforts
+
+13:00.510 --> 13:02.220
+within the Scout Motors organization.
+
+13:02.220 --> 13:05.020
+We have done very successfully
+
+13:06.210 --> 13:08.190
+reduction from iteration loops
+
+13:08.190 --> 13:11.190
+from 24 hours down to five seconds
+
+13:11.190 --> 13:13.920
+in the underbody airflow optimization.
+
+13:13.920 --> 13:17.520
+Now we are tackling the safety relevant components
+
+13:17.520 --> 13:19.890
+on the crash test dynamic.
+
+13:19.890 --> 13:23.040
+And, of course, that's ongoing in every physics of the car,
+
+13:23.040 --> 13:25.200
+durability testing, fatigue analysis.
+
+13:25.200 --> 13:29.310
+Everything is now coming into this world
+
+13:29.310 --> 13:31.290
+by adding AI and machine learning
+
+13:31.290 --> 13:32.700
+and that is just great.
+
+13:32.700 --> 13:34.320
+So back to you, Chris.
+
+13:34.320 --> 13:38.133
+<v ->Yeah, and I mean, from 24 hours to five seconds,</v>
+
+13:39.480 --> 13:41.820
+this is what CES is about, right?
+
+13:41.820 --> 13:45.030
+So I think this is a pivotal year.
+
+13:45.030 --> 13:46.353
+So, anyway.
+
+13:47.703 --> 13:48.870
+Ossa, can you tell us
+
+13:48.870 --> 13:52.530
+how you're using all of this technology
+
+13:52.530 --> 13:55.710
+to help in the safety of your real-world scenarios,
+
+13:55.710 --> 13:56.607
+testing?
+<v ->Yeah.</v>
+
+13:56.607 --> 13:58.110
+And I wanna build on what Burkhard said.
+
+13:58.110 --> 14:00.360
+Simulation is critical to what we do.
+
+14:00.360 --> 14:02.910
+And echoing Jensen from his keynote,
+
+14:02.910 --> 14:04.110
+you know, there's the learning model
+
+14:04.110 --> 14:06.300
+that's continually ingesting data
+
+14:06.300 --> 14:08.190
+and refining what it's doing.
+
+14:08.190 --> 14:10.080
+And then for us in the physical world,
+
+14:10.080 --> 14:12.330
+there's obviously the compute that exists on the truck
+
+14:12.330 --> 14:14.940
+and is navigating real-world situations.
+
+14:14.940 --> 14:17.550
+And in that middle is the digital twin,
+
+14:17.550 --> 14:19.290
+which Burkhard referenced as well.
+
+14:19.290 --> 14:22.230
+And so simulation is core
+
+14:22.230 --> 14:24.600
+to how we're developing the Aurora Driver.
+
+14:24.600 --> 14:27.270
+But we've been on this journey for a number of years
+
+14:27.270 --> 14:28.530
+and we've learned a few things.
+
+14:28.530 --> 14:31.080
+So simulation in and of itself
+
+14:31.080 --> 14:32.820
+is not actually a test, right?
+
+14:32.820 --> 14:35.160
+You actually have to be able to grade the simulation,
+
+14:35.160 --> 14:35.993
+and when you're talking
+
+14:35.993 --> 14:38.430
+about billions upon billions of simulations,
+
+14:38.430 --> 14:39.960
+how do you know which ones are passing
+
+14:39.960 --> 14:40.830
+and which ones aren't?
+
+14:40.830 --> 14:43.380
+And so one of the latest developments at Aurora
+
+14:43.380 --> 14:46.590
+is we're using AI to grade the test
+
+14:46.590 --> 14:47.850
+because no human,
+
+14:47.850 --> 14:51.090
+and go back 15 years, humans were grading the simulations.
+
+14:51.090 --> 14:55.020
+Now we can use AI to grade the simulations.
+
+14:55.020 --> 14:58.350
+But we see simulation as an and, not an or.
+
+14:58.350 --> 15:01.890
+We couple simulation with real-world experience on the road,
+
+15:01.890 --> 15:04.200
+we're on the road in Texas every day,
+
+15:04.200 --> 15:07.380
+to navigate the more mundane lane changes, stop signs,
+
+15:07.380 --> 15:08.850
+that I referenced earlier.
+
+15:08.850 --> 15:10.320
+But we also do track testing.
+
+15:10.320 --> 15:12.720
+And just to put this into perspective,
+
+15:12.720 --> 15:13.980
+why would you need track testing
+
+15:13.980 --> 15:16.740
+in addition to simulation and real-world driving?
+
+15:16.740 --> 15:19.290
+Well, take a blown tire for example, right?
+
+15:19.290 --> 15:20.550
+We can simulate that,
+
+15:20.550 --> 15:21.570
+but what we really need
+
+15:21.570 --> 15:23.430
+is that the hardware components are integrated
+
+15:23.430 --> 15:24.810
+with the software components,
+
+15:24.810 --> 15:27.060
+seeing and responding correctly.
+
+15:27.060 --> 15:30.540
+So on a test track, we can blow out the tire
+
+15:30.540 --> 15:33.300
+and verify that the simulation
+
+15:33.300 --> 15:36.690
+actually did respond to it as appropriate
+
+15:36.690 --> 15:37.830
+and that the truck itself
+
+15:37.830 --> 15:40.230
+also sees and responds appropriately.
+
+15:40.230 --> 15:41.700
+One other way we use a test track
+
+15:41.700 --> 15:43.410
+is we are running simulations,
+
+15:43.410 --> 15:46.770
+and odd, but you see this more than you would think,
+
+15:46.770 --> 15:49.830
+motorcycles going at 80 to a hundred miles per hour
+
+15:49.830 --> 15:52.020
+in between lanes on freeways.
+
+15:52.020 --> 15:54.360
+The simulation seemed to be catching it,
+
+15:54.360 --> 15:55.500
+but when we were in the real world,
+
+15:55.500 --> 15:57.967
+our safety drivers were saying,
+
+15:57.967 --> 16:00.990
+"We're not sure we're seeing that far enough in advance."
+
+16:00.990 --> 16:02.370
+And so we went to the test track
+
+16:02.370 --> 16:05.340
+and actually hired a stunt driver, pretty incredible,
+
+16:05.340 --> 16:06.840
+who started at 10 miles an hour
+
+16:06.840 --> 16:09.030
+and then built up to a hundred miles an hour
+
+16:09.030 --> 16:11.700
+to confirm that the perception system
+
+16:11.700 --> 16:13.740
+was in fact working accurately
+
+16:13.740 --> 16:15.120
+and that our motion planning system,
+
+16:15.120 --> 16:16.980
+which is responding to that actor,
+
+16:16.980 --> 16:18.210
+was also doing it correctly.
+
+16:18.210 --> 16:21.270
+So we see these all working in synergy
+
+16:21.270 --> 16:24.300
+and that simulation is a fundamental piece of that.
+
+16:24.300 --> 16:25.590
+<v ->Yeah, that's amazing.</v>
+
+16:25.590 --> 16:28.080
+And the simulation and the models are only good
+
+16:28.080 --> 16:28.950
+when they're validated, right?
+
+16:28.950 --> 16:30.090
+<v ->Correct, yeah.</v>
+
+16:30.090 --> 16:31.980
+<v ->And then the system gets a lot more information</v>
+
+16:31.980 --> 16:33.180
+and it gets better overall.
+
+16:33.180 --> 16:35.010
+Yeah, that's amazing.
+
+16:35.010 --> 16:37.530
+Raquel, we know we've talked about safety
+
+16:37.530 --> 16:38.460
+and how critical it is.
+
+16:38.460 --> 16:41.460
+Tell us how you're using simulation
+
+16:41.460 --> 16:44.040
+in similar or dissimilar ways.
+
+16:44.040 --> 16:46.442
+<v ->Yeah, great segue I guess,</v>
+
+16:46.442 --> 16:50.160
+you know, to what Ossa was saying.
+
+16:50.160 --> 16:52.890
+So we are a simulation-first company.
+
+16:52.890 --> 16:55.500
+So what does it mean is that in the era of AI,
+
+16:55.500 --> 16:58.890
+in the era of innovative AI,
+
+16:58.890 --> 17:01.620
+data is extremely important, as Norm was saying.
+
+17:01.620 --> 17:04.380
+And what we can do with neural simulators
+
+17:04.380 --> 17:06.360
+is really get to a level of fidelity
+
+17:06.360 --> 17:08.760
+that has never been seen before.
+
+17:08.760 --> 17:10.470
+And what is great with simulation
+
+17:10.470 --> 17:13.740
+is that you don't need to wait for nature
+
+17:13.740 --> 17:14.820
+to show you things.
+
+17:14.820 --> 17:17.460
+You can actually create all those simulations.
+
+17:17.460 --> 17:18.840
+And more importantly,
+
+17:18.840 --> 17:21.630
+since our neural simulator is an AI system
+
+17:21.630 --> 17:24.000
+and the software stack is another AI system,
+
+17:24.000 --> 17:26.100
+they can actually play games.
+
+17:26.100 --> 17:27.900
+And the particular game that is very interesting
+
+17:27.900 --> 17:29.970
+is the one where they play adversary.
+
+17:29.970 --> 17:33.210
+What does that mean is that the simulator is trying
+
+17:33.210 --> 17:35.940
+to create things that are very difficult to handle
+
+17:35.940 --> 17:38.340
+for the software stack,
+
+17:38.340 --> 17:39.300
+for the virtual driver,
+
+17:39.300 --> 17:42.690
+so that every data point is extremely informative.
+
+17:42.690 --> 17:43.740
+Why is this important?
+
+17:43.740 --> 17:46.290
+Because suddenly you can actually train the systems
+
+17:46.290 --> 17:49.500
+at a tiny fraction of the cost that otherwise you will.
+
+17:49.500 --> 17:52.350
+So it's not anymore about billions of simulations.
+
+17:52.350 --> 17:56.250
+It's really about which simulation is more informative.
+
+17:56.250 --> 17:57.300
+The other thing that is,
+
+17:57.300 --> 17:59.340
+you know, when you talk about simulation that is important
+
+17:59.340 --> 18:02.880
+is that, well, simulation by itself sounds cool,
+
+18:02.880 --> 18:07.170
+but it's not sufficient, as was I saying,
+
+18:07.170 --> 18:10.680
+unless there is one key thing that you need to do,
+
+18:10.680 --> 18:13.980
+which is if you can prove that your simulator,
+
+18:13.980 --> 18:15.450
+like, driving with the same software,
+
+18:15.450 --> 18:18.240
+the entire software stack, on simulation
+
+18:18.240 --> 18:20.790
+is the same as driving in the real world.
+
+18:20.790 --> 18:24.540
+Then suddenly you actually have that ultimate driving test
+
+18:24.540 --> 18:26.370
+because on the cloud, at the scale,
+
+18:26.370 --> 18:27.660
+you can expose the system
+
+18:27.660 --> 18:30.540
+to all the different scenario, situations, et cetera.
+
+18:30.540 --> 18:33.720
+And that's what we build at Waabi with Waabi World,
+
+18:33.720 --> 18:36.420
+really pushing that neural simulator to the next level.
+
+18:36.420 --> 18:38.700
+And it's been an incredible accelerator
+
+18:38.700 --> 18:41.130
+to make us super capital efficient
+
+18:41.130 --> 18:44.940
+and requiring, you know, driving in the physical world
+
+18:44.940 --> 18:47.040
+only for validation of the system
+
+18:47.040 --> 18:50.160
+versus just general development.
+
+18:50.160 --> 18:51.930
+Yeah, so it's been an incredible thing
+
+18:51.930 --> 18:56.040
+and I think as we go into the physical AI era
+
+18:56.040 --> 18:58.860
+of 2025 and beyond,
+
+18:58.860 --> 19:01.950
+we are gonna see more and more neural simulators
+
+19:01.950 --> 19:03.513
+really take over the world.
+
+19:04.650 --> 19:05.483
+<v ->Oh, that's exciting.</v>
+
+19:05.483 --> 19:08.760
+And it's kind of like,
+
+19:08.760 --> 19:10.950
+the tools you're having in your toolbox
+
+19:10.950 --> 19:12.480
+are much more powerful now, right?
+
+19:12.480 --> 19:15.420
+And I think we're just gonna find out a lot more things
+
+19:15.420 --> 19:18.120
+that we're able to do moving forward, right?
+
+19:18.120 --> 19:19.923
+So Norm, to you.
+
+19:20.790 --> 19:24.300
+We've talked about AI in autonomy
+
+19:24.300 --> 19:26.550
+and development and digital twins.
+
+19:26.550 --> 19:29.310
+Does it have any bearing in other robotics or AMRs
+
+19:29.310 --> 19:32.520
+or manufacturing inspections or other places?
+
+19:32.520 --> 19:34.200
+<v ->Sure, I'll come on to that,</v>
+
+19:34.200 --> 19:36.870
+but if you don't mind, before I do, just a couple comments
+
+19:36.870 --> 19:39.690
+about what Ossa and Raquel were talking about.
+
+19:39.690 --> 19:40.523
+<v ->Please.</v>
+
+19:41.370 --> 19:44.130
+<v ->One of the beauties of these foundation models too,</v>
+
+19:44.130 --> 19:45.600
+and you were alluding to this,
+
+19:45.600 --> 19:47.430
+but just to put a finer point on it,
+
+19:47.430 --> 19:49.680
+is that they can be useful
+
+19:49.680 --> 19:53.340
+not just for training the actual self-driving software,
+
+19:53.340 --> 19:58.320
+but actually being used to create the controllable scenarios
+
+19:58.320 --> 20:00.630
+against which you would then run a simulation.
+
+20:00.630 --> 20:03.180
+So just to build on that
+
+20:03.180 --> 20:05.490
+to try and make sure the point is clear,
+
+20:05.490 --> 20:07.620
+these foundation models can literally take
+
+20:07.620 --> 20:09.360
+just nine frames of data
+
+20:09.360 --> 20:11.660
+and then build out the rest of a driving scene
+
+20:12.630 --> 20:15.930
+and complete the rest of what you would expect would happen.
+
+20:15.930 --> 20:18.000
+But then, and you were referring to this
+
+20:18.000 --> 20:19.770
+when you said a neural simulator,
+
+20:19.770 --> 20:22.170
+when you apply what's called neural reconstruction,
+
+20:22.170 --> 20:23.280
+the field of AI,
+
+20:23.280 --> 20:26.430
+we take this now snippet that we have
+
+20:26.430 --> 20:28.380
+and now we recreate it
+
+20:28.380 --> 20:31.410
+in potentially thousands of different scenarios.
+
+20:31.410 --> 20:34.440
+So a drive that might have been in the day
+
+20:34.440 --> 20:36.450
+in the neighborhood
+
+20:36.450 --> 20:39.090
+could start out the different times of day
+
+20:39.090 --> 20:40.680
+to sunrise to sunset
+
+20:40.680 --> 20:42.450
+to the different environmental conditions,
+
+20:42.450 --> 20:43.830
+rain, snow, wind,
+
+20:43.830 --> 20:45.840
+to even taking that drive
+
+20:45.840 --> 20:48.870
+and actually having it turn into a drive on the highway.
+
+20:48.870 --> 20:51.240
+And this gives us so much promise
+
+20:51.240 --> 20:55.230
+to create the millions of scenarios that we need to test for
+
+20:55.230 --> 20:56.550
+to ensure that we also test
+
+20:56.550 --> 20:58.620
+for all these rare and dangerous corner cases.
+
+20:58.620 --> 21:00.810
+So there's just so much promise here
+
+21:00.810 --> 21:02.310
+and we've got some real leaders
+
+21:02.310 --> 21:04.443
+who are doing great work in the space.
+
+21:05.610 --> 21:07.617
+So I think the question was AI
+
+21:07.617 --> 21:08.736
+in manufacturing-
+<v ->No, I mean, actually-</v>
+
+21:08.736 --> 21:09.940
+<v ->And robotics.</v>
+<v ->It's extremely,</v>
+
+21:09.940 --> 21:11.550
+yeah, that's extremely important.
+
+21:11.550 --> 21:13.350
+I think that this is the key
+
+21:13.350 --> 21:14.640
+to what we're talking about here today.
+
+21:14.640 --> 21:17.070
+So thanks for adding to that and clarifying it.
+
+21:17.070 --> 21:20.820
+But yeah, in other forms of AMRs
+
+21:20.820 --> 21:22.860
+or other robotic areas,
+
+21:22.860 --> 21:24.870
+you know, we've talked about on-road things here,
+
+21:24.870 --> 21:28.200
+but this technology can be used in many places
+
+21:28.200 --> 21:29.790
+and is used in many places.
+
+21:29.790 --> 21:32.190
+So manufacturing inspection,
+
+21:32.190 --> 21:35.040
+manufacturing in general, other robotics.
+
+21:35.040 --> 21:36.690
+<v ->Yeah, let me speak to that.</v>
+
+21:36.690 --> 21:38.520
+Probably the easiest place to start
+
+21:38.520 --> 21:43.520
+is an AGR/AMV is effectively very, very similar
+
+21:43.920 --> 21:45.900
+to training an autonomous vehicle.
+
+21:45.900 --> 21:49.260
+You know, a robot that's going to transport parts around
+
+21:49.260 --> 21:50.093
+in a factory
+
+21:50.093 --> 21:52.980
+needs to be able to see what machines are in the factory,
+
+21:52.980 --> 21:54.810
+the proper path to take.
+
+21:54.810 --> 21:57.180
+And so this is actually quite similar
+
+21:57.180 --> 21:59.250
+to autonomous vehicles,
+
+21:59.250 --> 22:03.810
+but humanoids are a whole nother level of complexity.
+
+22:03.810 --> 22:05.910
+Being able to train a humanoid robot
+
+22:05.910 --> 22:10.290
+to complete tasks that we do that are extremely precise.
+
+22:10.290 --> 22:14.760
+Obviously autonomous vehicles have to be extremely precise,
+
+22:14.760 --> 22:18.090
+but a humanoid robot has to be able to pick and place things
+
+22:18.090 --> 22:21.180
+at such a level of precision and accuracy
+
+22:21.180 --> 22:24.120
+that the complexity of this is extremely difficult.
+
+22:24.120 --> 22:26.970
+And again, another place where these foundation models
+
+22:26.970 --> 22:28.140
+can be used to run through
+
+22:28.140 --> 22:31.140
+all the various different conditions.
+
+22:31.140 --> 22:35.970
+And so now imagine I have a humanoid robot,
+
+22:35.970 --> 22:38.160
+it's actually picking a part off,
+
+22:38.160 --> 22:41.580
+it's putting it into a bin for a good part
+
+22:41.580 --> 22:43.710
+or a bin for a bad part,
+
+22:43.710 --> 22:45.390
+and then you alluded to this,
+
+22:45.390 --> 22:48.120
+now I have AI-driven inspection
+
+22:48.120 --> 22:49.770
+that's actually viewing the part
+
+22:49.770 --> 22:52.200
+to determine did the robot actually do
+
+22:52.200 --> 22:54.120
+that task properly or not?
+
+22:54.120 --> 22:56.400
+Did it potentially place a part
+
+22:56.400 --> 22:59.670
+that was defective into the green box, not the red box,
+
+22:59.670 --> 23:01.080
+to oversimplify it?
+
+23:01.080 --> 23:03.030
+And so that's the power of the AI.
+
+23:03.030 --> 23:07.800
+So camera-based inspection, not just human-based inspection,
+
+23:07.800 --> 23:10.830
+which has improvements in the efficiency,
+
+23:10.830 --> 23:13.200
+the accuracy of the quality,
+
+23:13.200 --> 23:15.270
+but also, it'll speed up throughput too.
+
+23:15.270 --> 23:18.660
+So AI can be used for this as well.
+
+23:18.660 --> 23:20.760
+Probably sounding like a broken record.
+
+23:20.760 --> 23:23.970
+As you might imagine, a foundation model can help train
+
+23:23.970 --> 23:27.630
+all the various different combinations that you might see.
+
+23:27.630 --> 23:30.063
+So terrific opportunities there.
+
+23:30.960 --> 23:32.220
+And then a final comment,
+
+23:32.220 --> 23:35.700
+just building on some of the earlier comments that he made,
+
+23:35.700 --> 23:39.930
+you know, GPU accelerating a CAE or a CFD workload
+
+23:39.930 --> 23:41.700
+is super important.
+
+23:41.700 --> 23:44.520
+And in the space that we're going to with electric vehicles,
+
+23:44.520 --> 23:45.840
+the coefficient of drag
+
+23:45.840 --> 23:47.940
+to be able to get the most out of a battery
+
+23:47.940 --> 23:49.560
+is hugely important.
+
+23:49.560 --> 23:52.650
+And so what we're seeing many of our customers move to,
+
+23:52.650 --> 23:54.810
+and it was a small part of the keynote,
+
+23:54.810 --> 23:57.630
+but one part of the announcement we also made
+
+23:57.630 --> 23:59.850
+is a blueprint that we're doing in this space
+
+23:59.850 --> 24:03.450
+where you can actually take physics-based AI
+
+24:03.450 --> 24:06.090
+and run it in a digital twin
+
+24:06.090 --> 24:10.560
+with, you know, nines, if you will, levels of accuracy
+
+24:10.560 --> 24:13.440
+that approximate the same level of accuracy
+
+24:13.440 --> 24:15.060
+you get with CAE and CFD,
+
+24:15.060 --> 24:19.200
+but in real time, imagine seeing the coefficient of drag
+
+24:19.200 --> 24:21.030
+and moving it around on a part
+
+24:21.030 --> 24:23.460
+and seeing the various different combinations
+
+24:23.460 --> 24:25.980
+and iterating on the design
+
+24:25.980 --> 24:30.980
+and literally, you think, was it 24 hours to five seconds?
+
+24:31.109 --> 24:33.300
+<v Burkhard>Five seconds.</v>
+
+24:33.300 --> 24:35.220
+<v ->Okay, but now we're potentially taking months</v>
+
+24:35.220 --> 24:36.480
+out of the design cycle
+
+24:36.480 --> 24:39.060
+because we're iterating at high levels of accuracy.
+
+24:39.060 --> 24:43.350
+You still will put it through the final CAE and CFD
+
+24:43.350 --> 24:45.360
+to have 100% accuracy,
+
+24:45.360 --> 24:47.820
+but you can make many, many changes along the way
+
+24:47.820 --> 24:50.550
+that normally, it literally takes months out of the process.
+
+24:50.550 --> 24:51.540
+<v ->I'd love to build on that</v>
+
+24:51.540 --> 24:53.820
+because I think this world of physical AI
+
+24:53.820 --> 24:55.350
+requires physics AI,
+
+24:55.350 --> 24:57.240
+and if you think about self-driving,
+
+24:57.240 --> 24:59.190
+everything from inertia to gravity
+
+24:59.190 --> 25:01.140
+to wind speed are critical.
+
+25:01.140 --> 25:03.153
+And so for the AI to be able to generate that,
+
+25:03.153 --> 25:07.110
+that opens up a whole new era of speed for the industry.
+
+25:07.110 --> 25:08.550
+And I think we're just at the beginning
+
+25:08.550 --> 25:10.773
+of seeing the potential of physics AI.
+
+25:11.850 --> 25:12.840
+<v ->Now this is exciting.</v>
+
+25:12.840 --> 25:15.210
+And the more data you feed these models,
+
+25:15.210 --> 25:16.320
+the better they get, right?
+
+25:16.320 --> 25:20.820
+So having critical information is gonna be great to,
+
+25:20.820 --> 25:22.680
+these are gonna get stronger and stronger
+
+25:22.680 --> 25:24.690
+and the tool's gonna get stronger.
+
+25:24.690 --> 25:25.770
+So Burkhard, on that,
+
+25:25.770 --> 25:26.850
+why don't you tell us a little bit
+
+25:26.850 --> 25:29.580
+about how you're doing exactly what was just talked about.
+
+25:29.580 --> 25:31.129
+<v ->Oh, actually, we're doing it.</v>
+
+25:31.129 --> 25:32.767
+<v ->Yeah, yeah, that's what I mean.</v>
+
+25:32.767 --> 25:33.690
+<v ->Yeah, let's hear it.</v>
+
+25:33.690 --> 25:36.240
+<v ->Actually, Norman, we should talk.</v>
+
+25:36.240 --> 25:39.063
+You wouldn't believe, but it's actually working.
+
+25:39.990 --> 25:44.310
+So a digital wind tunnel to do a digital release
+
+25:44.310 --> 25:46.113
+is, of course, division, right?
+
+25:47.280 --> 25:50.850
+That instant information from iteration loop
+
+25:50.850 --> 25:52.890
+of the spoiler optimization
+
+25:52.890 --> 25:57.210
+allows you an instant iteration loop to optimize, yeah?
+
+25:57.210 --> 25:59.670
+That is just aerodynamics,
+
+25:59.670 --> 26:01.533
+but the structural optimization.
+
+26:02.460 --> 26:05.220
+Going into the virtual prototyping phase,
+
+26:05.220 --> 26:07.410
+replacing physical prototypes,
+
+26:07.410 --> 26:10.710
+which cost you a million per prototype,
+
+26:10.710 --> 26:14.250
+not just talking about compressing the timeline
+
+26:14.250 --> 26:15.360
+of the development process,
+
+26:15.360 --> 26:17.040
+probably not every time necessary,
+
+26:17.040 --> 26:19.380
+but the release of every car.
+
+26:19.380 --> 26:22.170
+And if it's just software and functionality,
+
+26:22.170 --> 26:26.580
+this has to be tested with these new modern AI models
+
+26:26.580 --> 26:28.140
+'cause with the lessons learned,
+
+26:28.140 --> 26:30.750
+as everyone knows from the personal life,
+
+26:30.750 --> 26:33.510
+with your experience, you do different decisions.
+
+26:33.510 --> 26:36.000
+So how do you train also this process
+
+26:36.000 --> 26:39.720
+of, let's say, software leads with lessons learned
+
+26:39.720 --> 26:43.440
+and information that you're not launching cars
+
+26:43.440 --> 26:45.180
+with software bugs anymore?
+
+26:45.180 --> 26:47.190
+So it's a lot of potential.
+
+26:47.190 --> 26:49.620
+We use it, back to the Scout Motors world,
+
+26:49.620 --> 26:53.010
+in regards to aerodynamics and structural analysis
+
+26:53.010 --> 26:55.140
+in the fatigue analysis.
+
+26:55.140 --> 27:00.140
+So we are expecting a digital release
+
+27:00.270 --> 27:02.430
+before we have the physical release.
+
+27:02.430 --> 27:07.050
+And that's replacing a lot of very expensive iteration loops
+
+27:07.050 --> 27:08.490
+through physical testing.
+
+27:08.490 --> 27:10.020
+We'll always have to proof
+
+27:10.020 --> 27:13.530
+because the customer is not driving models, digital models.
+
+27:13.530 --> 27:16.080
+The customer is going to drive beautiful cars.
+
+27:16.080 --> 27:18.960
+But to get to the point to release that
+
+27:18.960 --> 27:21.180
+in a very reliable and robust way,
+
+27:21.180 --> 27:23.550
+that is the toolbox we are using
+
+27:23.550 --> 27:25.560
+very successfully already, yeah?
+
+27:25.560 --> 27:28.200
+And again, back to the timing, I think at 24 hours,
+
+27:28.200 --> 27:31.440
+that was when we started with that simulation,
+
+27:31.440 --> 27:33.960
+now we had five seconds after 12 months.
+
+27:33.960 --> 27:37.800
+Now, talking with you about the right GPU power,
+
+27:37.800 --> 27:40.503
+this is instant information you can get.
+
+27:41.490 --> 27:42.690
+<v ->Yeah, it's exciting.</v>
+
+27:42.690 --> 27:43.890
+I know we've talked about,
+
+27:43.890 --> 27:46.200
+I've talked with many others including yourselves
+
+27:46.200 --> 27:50.160
+that these tools now, sometimes, not always,
+
+27:50.160 --> 27:52.140
+that first digital twin model
+
+27:52.140 --> 27:56.070
+can actually be extremely close to the first drivable model.
+
+27:56.070 --> 27:59.400
+I've heard people that are, you know, within
+
+27:59.400 --> 28:00.720
+a few percentiles
+
+28:00.720 --> 28:04.440
+of driver dynamics, feel, aerodynamics,
+
+28:04.440 --> 28:05.670
+even in the virtual world.
+
+28:05.670 --> 28:06.510
+Doesn't always happen,
+
+28:06.510 --> 28:08.610
+but the stronger these tools get,
+
+28:08.610 --> 28:09.810
+the more that will happen.
+
+28:09.810 --> 28:10.643
+Was there something you wanna add there?
+
+28:10.643 --> 28:11.910
+Go ahead.
+<v ->I just had to say,</v>
+
+28:11.910 --> 28:14.730
+as an enthusiast who's been in automotive my whole life,
+
+28:14.730 --> 28:17.160
+and by the way, if anyone is in the audience
+
+28:17.160 --> 28:17.993
+that knows me well,
+
+28:17.993 --> 28:19.950
+likes to drive quite fast,
+
+28:19.950 --> 28:21.750
+probably shouldn't say that out loud,
+
+28:21.750 --> 28:24.870
+but the other thing that's super exciting to me
+
+28:24.870 --> 28:26.900
+on a personal and professional level
+
+28:26.900 --> 28:28.230
+is the virtual wind tunnel,
+
+28:28.230 --> 28:31.260
+which is exactly the right way to describe it.
+
+28:31.260 --> 28:34.740
+Imagine the future of Formula One and Formula E
+
+28:34.740 --> 28:37.050
+where, you know, they have so many regulations
+
+28:37.050 --> 28:39.720
+on what they're able to test and not test,
+
+28:39.720 --> 28:42.840
+but to be able to apply this physics-based AI
+
+28:42.840 --> 28:45.300
+and be able to iterate, not in race mind you,
+
+28:45.300 --> 28:46.710
+but, you know, post-race,
+
+28:46.710 --> 28:47.790
+to be able to learn from it
+
+28:47.790 --> 28:50.143
+and test out the various different combinations
+
+28:50.143 --> 28:52.110
+of the angle of the vehicle,
+
+28:52.110 --> 28:53.790
+this is gonna be really fun to watch.
+
+28:53.790 --> 28:57.000
+<v ->So I can say from a Pratt Miller perspective,</v>
+
+28:57.000 --> 28:58.590
+being in motorsports,
+
+28:58.590 --> 29:00.960
+that is already very exciting.
+
+29:00.960 --> 29:02.520
+In driver-in-the-loop simulators,
+
+29:02.520 --> 29:03.990
+being able to drive these things,
+
+29:03.990 --> 29:05.760
+development of a new car.
+
+29:05.760 --> 29:08.940
+One of the people I mentioned was one of our teams
+
+29:08.940 --> 29:10.710
+and they got to the track
+
+29:10.710 --> 29:12.120
+and drove the car for the first time
+
+29:12.120 --> 29:15.090
+and it was within 2, 3% of what it was supposed to be.
+
+29:15.090 --> 29:16.800
+So it really is amazing tools
+
+29:16.800 --> 29:18.840
+and they're only gonna get stronger, so, yeah.
+
+29:18.840 --> 29:22.530
+<v ->Yeah, so if I can add something to this,</v>
+
+29:22.530 --> 29:24.357
+you know, a great conversation
+
+29:24.357 --> 29:27.150
+and definitely all in on what you guys are saying,
+
+29:27.150 --> 29:29.400
+but I think one thing that we haven't talked about
+
+29:29.400 --> 29:30.450
+that is very exciting
+
+29:30.450 --> 29:33.660
+is that it's obvious digital twins are extremely important
+
+29:33.660 --> 29:36.210
+and have enabled, as you were saying,
+
+29:36.210 --> 29:39.780
+you know, massive unlocks for folks like yourself.
+
+29:39.780 --> 29:42.840
+But what is very, you know, even kind of the next level now
+
+29:42.840 --> 29:43.673
+that we are seeing
+
+29:43.673 --> 29:47.130
+is that these digital twins were built by humans before
+
+29:47.130 --> 29:49.590
+where you have, you know, humans, artists,
+
+29:49.590 --> 29:53.310
+creating, you know, super detailed car models, et cetera,
+
+29:53.310 --> 29:57.660
+that then you use to, you know, learn,
+
+29:57.660 --> 29:59.010
+you know, to run the simulations
+
+29:59.010 --> 30:02.130
+and use that training data to then do simulations.
+
+30:02.130 --> 30:05.550
+So still, the bottleneck was on the creation of the content.
+
+30:05.550 --> 30:06.870
+What is really exciting now
+
+30:06.870 --> 30:10.020
+is that we can create that content also automatically,
+
+30:10.020 --> 30:11.700
+and then suddenly you have,
+
+30:11.700 --> 30:13.140
+you know, the next generation of analog,
+
+30:13.140 --> 30:16.113
+which is all the simulations are grounded in reality.
+
+30:16.950 --> 30:18.780
+And, you know, we see so many things.
+
+30:18.780 --> 30:19.980
+You know, when we drive,
+
+30:20.844 --> 30:24.690
+we do commercial runs in Texas, you know, on a daily basis,
+
+30:24.690 --> 30:25.890
+every time that you are on the road,
+
+30:25.890 --> 30:27.600
+you see thousands and thousands of vehicles.
+
+30:27.600 --> 30:29.460
+So we can clone everything automatically
+
+30:29.460 --> 30:32.940
+and then that's automatically part of the simulator.
+
+30:32.940 --> 30:34.140
+So this really enables you
+
+30:34.140 --> 30:36.090
+to go to the next level of scale
+
+30:36.090 --> 30:38.520
+and with a level of realism that's unprecedented.
+
+30:38.520 --> 30:41.220
+And I think that is really, really exciting
+
+30:41.220 --> 30:43.442
+and, you know, not only for automotive,
+
+30:43.442 --> 30:45.533
+but all the applications beyond that,
+
+30:45.533 --> 30:47.793
+that is really gonna revolutionize the world.
+
+30:50.161 --> 30:50.994
+<v ->Well said.</v>
+
+30:50.994 --> 30:51.827
+<v ->No, that's great.</v>
+
+30:51.827 --> 30:53.850
+And I think we've got a little time left,
+
+30:53.850 --> 30:56.310
+but I'd like you all to give us kind of your summary
+
+30:56.310 --> 30:59.400
+of past, present, future in artificial intelligence
+
+30:59.400 --> 31:02.430
+and just general technology advancements.
+
+31:02.430 --> 31:05.910
+And, you know, the interesting part about this
+
+31:05.910 --> 31:08.280
+is it's not technology for technology's sake,
+
+31:08.280 --> 31:10.320
+this is really making a difference
+
+31:10.320 --> 31:13.050
+in people's lives and safety and a lot of other things.
+
+31:13.050 --> 31:16.110
+So if each one of you could give us a little bit
+
+31:16.110 --> 31:16.943
+of your perspective,
+
+31:16.943 --> 31:18.150
+where we've been, where we're going,
+
+31:18.150 --> 31:19.950
+and what to expect.
+
+31:19.950 --> 31:22.290
+<v ->Sure, I'll start and we'll go down the line.</v>
+
+31:22.290 --> 31:24.690
+I think hopefully if there's one thing that's clear
+
+31:24.690 --> 31:26.940
+either from this panel or from this week
+
+31:26.940 --> 31:29.520
+is that all the big boulders
+
+31:29.520 --> 31:32.430
+that previously prevented physical AI
+
+31:32.430 --> 31:34.200
+from manifesting in the real world,
+
+31:34.200 --> 31:36.240
+they've all been knocked down.
+
+31:36.240 --> 31:38.070
+This is real, this is now,
+
+31:38.070 --> 31:41.157
+we're launching this year and ready to do so,
+
+31:41.157 --> 31:45.030
+and it's on the backbone of decades of AI work,
+
+31:45.030 --> 31:46.380
+but it goes all the way back
+
+31:46.380 --> 31:48.840
+to the very first microchip from the 1950s.
+
+31:48.840 --> 31:51.090
+And so the history that got us here,
+
+31:51.090 --> 31:53.400
+and we're standing on the shoulders of giants,
+
+31:53.400 --> 31:56.220
+it's an overused phrase, but it's so true.
+
+31:56.220 --> 31:58.050
+And this era looking forward
+
+31:58.050 --> 32:01.050
+is, you know, one of the most exciting in our lifetime.
+
+32:01.050 --> 32:03.390
+And so I'm honored to be on the stage with this community
+
+32:03.390 --> 32:05.040
+and I just know the next several years
+
+32:05.040 --> 32:08.310
+are gonna blow all of our minds. (laughs)
+
+32:08.310 --> 32:09.210
+<v ->Yeah, thank you.</v>
+
+32:10.050 --> 32:11.490
+Yeah, different approach probably
+
+32:11.490 --> 32:15.660
+from the customer's perspective, product perspective,
+
+32:15.660 --> 32:19.830
+this is an opportunity which provides us a toolbox
+
+32:19.830 --> 32:24.830
+to deliver exactly what we envisioned at the beginning
+
+32:24.960 --> 32:28.680
+in regards to functionality and features
+
+32:28.680 --> 32:31.920
+and the capability of the product we are delivering.
+
+32:31.920 --> 32:33.810
+And this toolbox is helping us
+
+32:33.810 --> 32:36.810
+to understand better the precision
+
+32:36.810 --> 32:39.600
+and also the robustness of the product we are going deliver.
+
+32:39.600 --> 32:41.940
+So what the customer wants
+
+32:41.940 --> 32:43.890
+can be understood very early in the phase,
+
+32:43.890 --> 32:47.100
+for me it's a shift left in the development process
+
+32:47.100 --> 32:49.470
+which is going to be a revolution.
+
+32:49.470 --> 32:51.000
+You understand very well
+
+32:51.000 --> 32:53.130
+how to make the right decisions at the beginning,
+
+32:53.130 --> 32:55.170
+correct promptly decisions
+
+32:55.170 --> 32:57.900
+basically on an instant feedback loop
+
+32:57.900 --> 33:01.290
+from these ML-driven models,
+
+33:01.290 --> 33:04.323
+and that is a game changer and I love to be part of that.
+
+33:06.420 --> 33:08.643
+<v ->So as an AI scientist</v>
+
+33:08.643 --> 33:10.920
+that has been doing this for 25 years,
+
+33:10.920 --> 33:12.600
+you know, I fell in love with this idea
+
+33:12.600 --> 33:15.930
+of an artificial brain, you know, 25 years ago.
+
+33:15.930 --> 33:18.106
+So yes, I'm pretty old and-
+
+33:18.106 --> 33:20.287
+(Raquel laughs)
+<v ->You look great.</v>
+
+33:20.287 --> 33:21.570
+(Ossa and Raquel laugh)
+
+33:21.570 --> 33:24.874
+<v ->Anyways, I try to, you know, yeah, whatever.</v>
+
+33:24.874 --> 33:26.160
+(Ossa and Raquel laugh)
+
+33:26.160 --> 33:29.520
+Anyways, yeah, so it was this idea, right?
+
+33:29.520 --> 33:30.390
+I was fascinated.
+
+33:30.390 --> 33:31.530
+Like, an artificial brain
+
+33:31.530 --> 33:33.540
+that can do tasks that humans can do.
+
+33:33.540 --> 33:35.190
+And there was a lot of research that was needed
+
+33:35.190 --> 33:37.320
+because the algorithms at the time
+
+33:37.320 --> 33:39.660
+were cool kind of prototypes,
+
+33:39.660 --> 33:40.493
+but there was nothing
+
+33:40.493 --> 33:42.450
+that you can really bring to the real world
+
+33:42.450 --> 33:45.360
+and see, you know, what we are seeing today.
+
+33:45.360 --> 33:48.420
+So the, you know, kind of the acceleration,
+
+33:48.420 --> 33:50.610
+massive acceleration and what we are seeing today,
+
+33:50.610 --> 33:51.750
+you know, as an AI scientist
+
+33:51.750 --> 33:53.520
+has been amazing to see.
+
+33:53.520 --> 33:57.540
+You cannot imagine what this has been personally.
+
+33:57.540 --> 34:00.810
+Now, as it relates to what we are doing at Waabi,
+
+34:00.810 --> 34:03.330
+so we are launching driverless this year,
+
+34:03.330 --> 34:05.667
+so where you will see our trucks with no human.
+
+34:05.667 --> 34:06.840
+I'm not talking about the demo.
+
+34:06.840 --> 34:08.010
+I'm talking about really something
+
+34:08.010 --> 34:10.080
+that you can commercialize.
+
+34:10.080 --> 34:13.083
+So, you know, it's great what we see ahead of us
+
+34:13.083 --> 34:15.990
+and, you know, trucks is really the first use case
+
+34:15.990 --> 34:17.580
+and we are not gonna stop there,
+
+34:17.580 --> 34:18.660
+whether it's robotaxis,
+
+34:18.660 --> 34:20.970
+humanoids, as, Norm, you mentioned before.
+
+34:20.970 --> 34:22.860
+Some very exciting use case.
+
+34:22.860 --> 34:24.603
+Warehouse robotics, you name it.
+
+34:25.560 --> 34:27.450
+The moment for physical AI is here
+
+34:27.450 --> 34:29.730
+and stay tuned because the physical world
+
+34:29.730 --> 34:31.680
+is about to change massively
+
+34:31.680 --> 34:34.743
+and unlock so many good things for humanity.
+
+34:37.680 --> 34:39.000
+<v ->Well, first of all,</v>
+
+34:39.000 --> 34:40.800
+happy to hear that all of us actually
+
+34:40.800 --> 34:42.660
+are saying it's about physical AI
+
+34:42.660 --> 34:44.973
+and that really is the path that we're on.
+
+34:45.810 --> 34:47.310
+I can't help myself,
+
+34:47.310 --> 34:49.080
+I'm not as smart as Raquel,
+
+34:49.080 --> 34:52.440
+so I didn't imagine artificial intelligence 25 years ago,
+
+34:52.440 --> 34:55.200
+but I will tell you, I was smart enough seven years ago
+
+34:55.200 --> 34:56.100
+to come to NVIDIA
+
+34:56.100 --> 34:58.560
+where I knew the future of artificial intelligence
+
+34:58.560 --> 34:59.700
+was going to be.
+
+34:59.700 --> 35:03.480
+<v ->You're smarter than me on that, you know? (laughs)</v>
+
+35:03.480 --> 35:06.190
+<v ->I'll leave maybe just one example</v>
+
+35:06.190 --> 35:09.630
+pairing artificial intelligence to digital twins
+
+35:09.630 --> 35:11.970
+and in this automotive context that I believe,
+
+35:11.970 --> 35:14.790
+by the way, there is some early work being done,
+
+35:14.790 --> 35:16.500
+can't name who's doing it yet,
+
+35:16.500 --> 35:20.790
+but imagine, we've talked about the power of AI,
+
+35:20.790 --> 35:22.680
+but imagine having a digital twin
+
+35:22.680 --> 35:26.410
+of literally every single vehicle that's on the road
+
+35:27.330 --> 35:30.390
+and monitoring the digital twin of that
+
+35:30.390 --> 35:33.870
+and identifying that maybe we have a fault in the vehicle,
+
+35:33.870 --> 35:38.040
+maybe we have something as simple as Apple updated today
+
+35:38.040 --> 35:41.190
+and now it's not working effectively in the vehicle
+
+35:41.190 --> 35:42.985
+or any number of even,
+
+35:42.985 --> 35:44.880
+(clears throat) excuse me, even quality faults
+
+35:44.880 --> 35:46.320
+in the vehicle.
+
+35:46.320 --> 35:50.070
+The power of AI is you can test the various combinations
+
+35:50.070 --> 35:51.510
+of how to solve for that problem
+
+35:51.510 --> 35:53.220
+and if software, for example,
+
+35:53.220 --> 35:56.100
+and oftentimes it can, solve it,
+
+35:56.100 --> 35:59.280
+you can actually test whether the software has solved it
+
+35:59.280 --> 36:01.830
+in the digital twin of the vehicle first.
+
+36:01.830 --> 36:03.090
+And when you know
+
+36:03.090 --> 36:06.600
+that you've actually solved the problem in the digital twin,
+
+36:06.600 --> 36:09.570
+now you actually pass that on to every one of the vehicles
+
+36:09.570 --> 36:12.000
+that are experiencing that same problem
+
+36:12.000 --> 36:13.860
+or as simple as that triggers
+
+36:13.860 --> 36:16.290
+now we know the software update will be effective
+
+36:16.290 --> 36:18.030
+and it will work.
+
+36:18.030 --> 36:19.860
+So just one simple example,
+
+36:19.860 --> 36:23.190
+but one that I think's gonna be very powerful for us
+
+36:23.190 --> 36:26.430
+in the future of autonomous vehicles on the road.
+
+36:26.430 --> 36:30.450
+So that power of AI interacting with digital twins
+
+36:30.450 --> 36:32.880
+and real-time digital twins
+
+36:32.880 --> 36:34.890
+and whether it's a vehicle on the road,
+
+36:34.890 --> 36:36.990
+a warehouse that's operating,
+
+36:36.990 --> 36:39.060
+and being able to identify a robot
+
+36:39.060 --> 36:42.480
+actually has to traverse boxes that fell off
+
+36:42.480 --> 36:44.040
+and it's gotta move around.
+
+36:44.040 --> 36:46.380
+So many examples here.
+
+36:46.380 --> 36:48.150
+<v ->Yeah, I mean, this is exciting</v>
+
+36:48.150 --> 36:50.470
+and this is why we all come to CES
+
+36:51.720 --> 36:54.390
+to hear what we just heard from this panel.
+
+36:54.390 --> 36:55.683
+It's inspiring to me.
+
+36:56.790 --> 36:59.220
+And as I'm sitting here hearing you talking,
+
+36:59.220 --> 37:00.420
+we've only got a few minutes left,
+
+37:00.420 --> 37:02.820
+but I'll throw one last piece out here
+
+37:02.820 --> 37:06.030
+that I think takes us to a whole nother level, right?
+
+37:06.030 --> 37:09.660
+We talk about simulation, foundation models, world models.
+
+37:09.660 --> 37:12.540
+We're now able to take the physical world
+
+37:12.540 --> 37:15.480
+and utilize it in a way we haven't been able to before.
+
+37:15.480 --> 37:18.690
+What I heard just now, too, that got me thinking
+
+37:18.690 --> 37:20.940
+is where else will this lead?
+
+37:20.940 --> 37:24.730
+The fact that we can come out with predictive models
+
+37:25.740 --> 37:27.660
+that have a high degree of confidence,
+
+37:27.660 --> 37:29.160
+more than probably ever before,
+
+37:29.160 --> 37:30.750
+especially in the physical world.
+
+37:30.750 --> 37:32.250
+And to maybe find a way
+
+37:32.250 --> 37:37.250
+to work in that physical world model, like you said,
+
+37:37.620 --> 37:38.453
+with wind tunnels
+
+37:38.453 --> 37:41.190
+and be able to change or see what the wind is gonna do
+
+37:41.190 --> 37:45.150
+or what the motorcycle coming around you may or may not do,
+
+37:45.150 --> 37:46.410
+that's a whole nother level.
+
+37:46.410 --> 37:50.640
+And will that also lead to how we develop our new designs
+
+37:50.640 --> 37:52.200
+for transportation systems
+
+37:52.200 --> 37:54.420
+and roads and cities and all that?
+
+37:54.420 --> 37:56.880
+So I think it really has a lot more power
+
+37:56.880 --> 38:00.420
+to change lives and improve lives for the average person,
+
+38:00.420 --> 38:01.920
+for persons with disabilities.
+
+38:02.790 --> 38:06.243
+There's a lot here that I think is very exciting.
+
+38:07.830 --> 38:08.663
+We have a couple more minutes
+
+38:08.663 --> 38:10.323
+if anybody wants to comment on that, but.
+
+38:11.340 --> 38:12.540
+<v ->I couldn't agree more.</v>
+
+38:12.540 --> 38:15.180
+We're in a new era where almost anything
+
+38:15.180 --> 38:16.530
+that's capital intensive
+
+38:16.530 --> 38:18.780
+will undergo fundamental change,
+
+38:18.780 --> 38:22.230
+from an investment cycle, from time to market.
+
+38:22.230 --> 38:27.230
+The speed of innovation is exponential at this point.
+
+38:27.570 --> 38:30.810
+So it's hard to predict what's five years from now,
+
+38:30.810 --> 38:34.050
+but I can imagine even this room would get built
+
+38:34.050 --> 38:36.300
+very differently five years from now, yeah.
+
+38:36.300 --> 38:39.298
+<v ->I think Raquel may know what's going on 20 years from now.</v>
+
+38:39.298 --> 38:40.620
+<v ->(laughs) And I'll bet on it too.</v>
+
+38:40.620 --> 38:44.087
+Whatever you say, Raquel, I'm in. (laughs)
+
+38:44.087 --> 38:45.330
+<v ->With that, I'd like to thank everybody here.</v>
+
+38:45.330 --> 38:46.230
+Thank you so much.
+
+38:46.230 --> 38:48.600
+This has been life-changing for me
+
+38:48.600 --> 38:50.580
+getting to meet you and hearing about all this.
+
+38:50.580 --> 38:52.230
+And thanks, everybody here,
+
+38:52.230 --> 38:53.760
+and we appreciate you coming here
+
+38:53.760 --> 38:56.410
+and sitting and listening to us and have a great CES.
+
+38:57.605 --> 38:58.438
+<v ->Thank you.</v>
+<v ->Thanks.</v>
+
+38:58.438 --> 38:59.364
+<v ->Thanks.
+(audience applauds)</v>
+
+38:59.364 --> 39:01.947
+(upbeat music)
+

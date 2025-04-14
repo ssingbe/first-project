@@ -1,0 +1,5811 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.417
+(calm music)
+
+2
+00:11.331 --> 00:12.448
+<v ->My name's Mike Embrescia,</v>
+
+3
+00:12.448 --> 00:14.263
+I am the Chief Development Officer
+
+4
+00:14.263 --> 00:15.540
+for "Carnegie Robotics"
+
+5
+00:15.540 --> 00:18.021
+based in Pittsburgh PA.
+
+6
+00:18.021 --> 00:20.456
+We have a really cool name "Carnegie" before it,
+
+7
+00:20.456 --> 00:22.695
+but it is not the university, okay?
+
+8
+00:22.695 --> 00:23.700
+So, you know,
+
+9
+00:23.700 --> 00:24.700
+half the room's gonna walk out,
+
+10
+00:24.700 --> 00:27.629
+"Oh, I thought I was seeing someone CMU."
+
+11
+00:27.629 --> 00:28.785
+We were actually spun out
+
+12
+00:28.785 --> 00:30.015
+of Carnegie Mellon University,
+
+13
+00:30.015 --> 00:31.185
+and we have a very close relationship,
+
+14
+00:31.185 --> 00:34.185
+as does everybody on this panel here.
+
+15
+00:34.185 --> 00:37.932
+But, with us up here are four colleagues
+
+16
+00:37.932 --> 00:39.794
+from the Pittsburgh area,
+
+17
+00:39.794 --> 00:42.105
+that are all focused in drones,
+
+18
+00:42.105 --> 00:44.545
+marine, and military,
+
+19
+00:44.545 --> 00:48.743
+and we're gonna get to them in just a second.
+
+20
+00:48.743 --> 00:49.583
+Should I get to them in a second,
+
+21
+00:49.583 --> 00:51.284
+or can I tell my story?
+
+22
+00:51.284 --> 00:53.014
+I'm gonna tell my story first.
+
+23
+00:53.014 --> 00:54.246
+So, you all are here,
+
+24
+00:54.246 --> 00:55.803
+and you wanna you know,
+
+25
+00:55.803 --> 00:57.555
+talk about autonomy et cetera,
+
+26
+00:57.555 --> 00:58.465
+and I'm sure a lot of you
+
+27
+00:58.465 --> 00:59.643
+have also heard about Pittsburgh,
+
+28
+00:59.643 --> 01:00.843
+why Pittsburgh?
+
+29
+01:00.843 --> 01:03.538
+You know, why is Pittsburgh a buzz globally
+
+30
+01:03.538 --> 01:04.810
+with all things robotics?
+
+31
+01:04.810 --> 01:05.680
+Well yeah, Carnegie Mellon
+
+32
+01:05.680 --> 01:06.550
+has a lot to do with it,
+
+33
+01:06.550 --> 01:08.167
+but I figured I'd give ya a quick story,
+
+34
+01:08.167 --> 01:11.426
+I'll give you the quick 90-second,
+
+35
+01:11.426 --> 01:14.003
+whenever people come into our building,
+
+36
+01:14.003 --> 01:15.240
+what we like to share with them,
+
+37
+01:15.240 --> 01:17.317
+and here's how it goes.
+
+38
+01:17.317 --> 01:18.204
+Pittsburgh is the robotics
+
+39
+01:18.204 --> 01:19.041
+capital of the world,
+
+40
+01:19.041 --> 01:20.081
+we believe that very firmly
+
+41
+01:20.081 --> 01:21.159
+and here's why.
+
+42
+01:21.159 --> 01:22.010
+In the early '90s,
+
+43
+01:22.010 --> 01:23.800
+CMU, Carnegie Mellon University
+
+44
+01:23.800 --> 01:25.822
+and NASA put a bunch of money into a pot,
+
+45
+01:25.822 --> 01:27.446
+now some people may correct me on this story,
+
+46
+01:27.446 --> 01:29.365
+but this is just how we look at it.
+
+47
+01:29.365 --> 01:31.121
+CMU and NASA put a bunch of money into a pot,
+
+48
+01:31.121 --> 01:32.755
+they stirred that pot,
+
+49
+01:32.755 --> 01:34.537
+and out, spit out the child,
+
+50
+01:34.537 --> 01:35.742
+the "NREC",
+
+51
+01:35.742 --> 01:38.073
+the "National Robotics Engineering Center",
+
+52
+01:38.073 --> 01:39.184
+the "NREC",
+
+53
+01:39.184 --> 01:40.535
+that is the...
+
+54
+01:40.535 --> 01:42.526
+The large facility that houses
+
+55
+01:42.526 --> 01:45.306
+the Carnegie Mellon Robotics effort.
+
+56
+01:45.306 --> 01:47.167
+And so, the powers that be at the time,
+
+57
+01:47.167 --> 01:48.000
+they said,
+
+58
+01:48.000 --> 01:48.921
+"Where we wanna put this new facility?
+
+59
+01:48.921 --> 01:49.806
+We wanna put it on campus?
+
+60
+01:49.806 --> 01:51.476
+Nah, let's put it in the Lawrence Field
+
+61
+01:51.476 --> 01:53.726
+District of Pittsburgh."
+
+62
+01:53.726 --> 01:55.457
+"You mean that blighted,
+
+63
+01:55.457 --> 01:58.224
+rundown former steel town
+
+64
+01:58.224 --> 01:59.145
+that's about a mile
+
+65
+01:59.145 --> 02:01.084
+and a half outside of Downtown Pittsburgh?
+
+66
+02:01.084 --> 02:02.662
+You know all the steel companies left in the '70s
+
+67
+02:02.662 --> 02:03.609
+and '80s?"
+
+68
+02:03.609 --> 02:04.806
+"Yeah, that place."
+
+69
+02:04.806 --> 02:06.111
+"You mean where the police cars,
+
+70
+02:06.111 --> 02:07.016
+and the sirens,
+
+71
+02:07.016 --> 02:08.583
+and people getting shot every other day,
+
+72
+02:08.583 --> 02:10.177
+you mean that part of town?"
+
+73
+02:10.177 --> 02:11.651
+"Yeah, that part of town?"
+
+74
+02:11.651 --> 02:12.769
+"Well, why?"
+
+75
+02:12.769 --> 02:13.612
+"Because they have
+
+76
+02:13.612 --> 02:15.222
+all this amazing building stock.
+
+77
+02:15.222 --> 02:18.626
+They had these massive warehouses
+
+78
+02:18.626 --> 02:19.736
+left over from when steel
+
+79
+02:19.736 --> 02:22.466
+and manufacturing was the mecca in Pittsburgh."
+
+80
+02:22.466 --> 02:23.299
+"Great."
+
+81
+02:23.299 --> 02:24.563
+So, NREC was established.
+
+82
+02:24.563 --> 02:25.725
+In the early '90s,
+
+83
+02:25.725 --> 02:27.146
+they had a director,
+
+84
+02:27.146 --> 02:29.121
+coincidentally happened to be my CEO,
+
+85
+02:29.121 --> 02:30.531
+and my current boss,
+
+86
+02:30.531 --> 02:32.856
+who helped build the NREC
+
+87
+02:32.856 --> 02:35.238
+to a few hundred people.
+
+88
+02:35.238 --> 02:37.472
+And then, subsequently,
+
+89
+02:37.472 --> 02:39.613
+Carnegie Mellon did something really neat,
+
+90
+02:39.613 --> 02:42.284
+they established the world's first PhD
+
+91
+02:42.284 --> 02:44.371
+and Masters Program in Robotics,
+
+92
+02:44.371 --> 02:46.038
+"Ah, so that's why."
+
+93
+02:47.306 --> 02:48.901
+Lot of folks from across the globe
+
+94
+02:48.901 --> 02:50.671
+started to matriculate to Pittsburgh
+
+95
+02:50.671 --> 02:53.191
+to get this new cutting-edge degree,
+
+96
+02:53.191 --> 02:55.649
+so there's where you started to see this...
+
+97
+02:55.649 --> 02:58.317
+This rumbling of activity in tech,
+
+98
+02:58.317 --> 03:00.681
+and AI that really started to blossom
+
+99
+03:00.681 --> 03:02.837
+in our backyard, right?
+
+100
+03:02.837 --> 03:03.920
+And so today,
+
+101
+03:04.863 --> 03:07.873
+we boast about 120 robotics companies up
+
+102
+03:07.873 --> 03:09.985
+and down what the media likes to call
+
+103
+03:09.985 --> 03:12.023
+"Robotics Row", right?
+
+104
+03:12.023 --> 03:13.244
+Lot of the companies were there
+
+105
+03:13.244 --> 03:14.401
+before there was a "row",
+
+106
+03:14.401 --> 03:15.791
+the gentleman to my left here
+
+107
+03:15.791 --> 03:17.176
+is one of those people,
+
+108
+03:17.176 --> 03:18.901
+our company was certainly there
+
+109
+03:18.901 --> 03:19.966
+before there was a "row",
+
+110
+03:19.966 --> 03:22.246
+and there's a lot of upstarts here as well.
+
+111
+03:22.246 --> 03:24.481
+But the reason I share that story with you,
+
+112
+03:24.481 --> 03:27.341
+is because the four-people seated to my left,
+
+113
+03:27.341 --> 03:29.191
+are four of the...
+
+114
+03:29.191 --> 03:31.546
+Four of some of the premiere companies
+
+115
+03:31.546 --> 03:32.845
+that we have in our backyard,
+
+116
+03:32.845 --> 03:34.051
+so we're very happy to have them
+
+117
+03:34.051 --> 03:35.686
+here in Vegas with us.
+
+118
+03:35.686 --> 03:36.641
+So, without further adieu,
+
+119
+03:36.641 --> 03:38.218
+I'm gonna introduce Sanjiv Singh
+
+120
+03:38.218 --> 03:42.931
+who's the Founder CEO of "Near Earth Autonomy".
+
+121
+03:42.931 --> 03:46.182
+I recently found out that Sanjiv was the first
+
+122
+03:46.182 --> 03:50.086
+Masters in Robotics out of Carnegie Mellon,
+
+123
+03:50.086 --> 03:52.419
+possibly the world, so um...
+
+124
+03:55.062 --> 03:56.563
+We have Phil Hahn here,
+
+125
+03:56.563 --> 03:59.176
+Phil was until recently,
+
+126
+03:59.176 --> 04:01.875
+the Chief Strategy Officer for "AFWERX"
+
+127
+04:01.875 --> 04:03.555
+based in Pittsburgh,
+
+128
+04:03.555 --> 04:05.881
+who has, I believe as of this week,
+
+129
+04:05.881 --> 04:07.485
+started a new role with Divergent,
+
+130
+04:07.485 --> 04:08.862
+he can share all that about...
+
+131
+04:08.862 --> 04:10.605
+All of that with you,
+
+132
+04:10.605 --> 04:13.346
+also Lieutenant Colonel in the service.
+
+133
+04:13.346 --> 04:15.571
+we have Xiaoyu Kaess,
+
+134
+04:15.571 --> 04:17.933
+Co-founder and COO of "Aquatonomy".
+
+135
+04:17.933 --> 04:21.433
+And we have Olga Pogoda from KEF Robotics,
+
+136
+04:22.691 --> 04:24.386
+K-E-F Robotics here,
+
+137
+04:24.386 --> 04:25.645
+wonderful drone company.
+
+138
+04:25.645 --> 04:28.019
+So, here's our panel, guys.
+
+139
+04:28.019 --> 04:31.102
+Hey, you done hearing me talk? Right.
+
+140
+04:32.773 --> 04:33.606
+<v ->Keep it going.</v>
+
+141
+04:33.606 --> 04:34.863
+<v ->Oh okay, you got it.</v>
+
+142
+04:34.863 --> 04:36.457
+Xiaoyu, I'll start with you,
+
+143
+04:36.457 --> 04:39.140
+because you're the nicest one to me today.
+
+144
+04:39.140 --> 04:39.981
+(Xiaoyu laughing)
+
+145
+04:39.981 --> 04:40.814
+Why don't you tell us
+
+146
+04:40.814 --> 04:41.822
+a little bit about Aquatonomy?
+
+147
+04:41.822 --> 04:43.914
+Now, full-transparency?
+
+148
+04:43.914 --> 04:44.950
+I actually learned about your company
+
+149
+04:44.950 --> 04:46.300
+watching a Sunday news program
+
+150
+04:46.300 --> 04:47.133
+and said,
+
+151
+04:47.133 --> 04:48.905
+"I really like what you guys are doing."
+
+152
+04:48.905 --> 04:50.208
+And then, two days later,
+
+153
+04:50.208 --> 04:51.743
+I got asked to do a panel with you.
+
+154
+04:51.743 --> 04:53.095
+<v Xiaoyu>Oh, what an honor,</v>
+
+155
+04:53.095 --> 04:54.753
+thank you, thank you.
+
+156
+04:54.753 --> 04:56.570
+I'm Xiaoyu Kaess,
+
+157
+04:56.570 --> 04:59.276
+co-founder and COO of Aquatonomy,
+
+158
+04:59.276 --> 05:02.337
+at Aquatonomy, we're creating underwater drones
+
+159
+05:02.337 --> 05:06.329
+to address the inspection of underwater assets,
+
+160
+05:06.329 --> 05:07.230
+they're including,
+
+161
+05:07.230 --> 05:08.812
+but not limited to dams,
+
+162
+05:08.812 --> 05:10.555
+bridges, and ports,
+
+163
+05:10.555 --> 05:13.833
+and we provide action-driven insights
+
+164
+05:13.833 --> 05:14.947
+to help the owners
+
+165
+05:14.947 --> 05:17.762
+make better maintenance decisions
+
+166
+05:17.762 --> 05:19.929
+and strategize their cost,
+
+167
+05:21.718 --> 05:24.051
+and get confident decisions,
+
+168
+05:26.207 --> 05:28.874
+and get better financial-return.
+
+169
+05:31.622 --> 05:32.455
+<v Mike>Great, thank you.</v>
+
+170
+05:32.455 --> 05:35.176
+Olga, how 'bout you guys?
+
+171
+05:35.176 --> 05:36.264
+<v ->Hi, my name is Olga,</v>
+
+172
+05:36.264 --> 05:39.706
+I'm the Chief Operating Officer at KEF Robotics.
+
+173
+05:39.706 --> 05:43.123
+At KEF, we work on GPS-denied navigation,
+
+174
+05:44.092 --> 05:47.259
+so what we try to do is build software
+
+175
+05:48.632 --> 05:50.790
+that leverages cameras,
+
+176
+05:50.790 --> 05:52.787
+and other very low-cost,
+
+177
+05:52.787 --> 05:54.667
+off-the-shelf censors,
+
+178
+05:54.667 --> 05:58.117
+to get an aircraft from point "A" to point "B",
+
+179
+05:58.117 --> 05:58.967
+and back,
+
+180
+05:58.967 --> 06:03.107
+and then, maybe do something smart along the way.
+
+181
+06:03.107 --> 06:06.937
+And we wanna do that in highly-contested
+
+182
+06:06.937 --> 06:10.520
+GPS-denied communication jams environments.
+
+183
+06:11.586 --> 06:13.565
+(Mike speaking softly)
+
+184
+06:13.565 --> 06:14.709
+<v ->Well, it's great to be back in Vegas,</v>
+
+185
+06:14.709 --> 06:16.189
+I spent a lot of my former years
+
+186
+06:16.189 --> 06:20.142
+as a flight-test engineer out this way.
+
+187
+06:20.142 --> 06:21.200
+To your point earlier,
+
+188
+06:21.200 --> 06:24.069
+I need to add "former" in front of my role
+
+189
+06:24.069 --> 06:25.673
+at AFWERX, I just...
+
+190
+06:25.673 --> 06:27.292
+As of this week,
+
+191
+06:27.292 --> 06:31.639
+transitioned out back to the private sector.
+
+192
+06:31.639 --> 06:33.853
+AFWERX as a whole?
+
+193
+06:33.853 --> 06:35.473
+It's the innovation,
+
+194
+06:35.473 --> 06:37.548
+and investment arm of the air force
+
+195
+06:37.548 --> 06:39.415
+and space force,
+
+196
+06:39.415 --> 06:40.248
+so I spent the last four
+
+197
+06:40.248 --> 06:41.619
+and a half years building that out
+
+198
+06:41.619 --> 06:45.759
+in really the way that we work in the DoD
+
+199
+06:45.759 --> 06:48.722
+to bridge the technology gap
+
+200
+06:48.722 --> 06:51.464
+and work with commercial entities,
+
+201
+06:51.464 --> 06:52.932
+to partner with the government
+
+202
+06:52.932 --> 06:54.776
+and find pathways through,
+
+203
+06:54.776 --> 06:58.988
+and I think a lot of the panelists here with me
+
+204
+06:58.988 --> 07:01.498
+have experienced that process that we've built
+
+205
+07:01.498 --> 07:02.618
+over the last four
+
+206
+07:02.618 --> 07:03.451
+and a half years,
+
+207
+07:03.451 --> 07:06.114
+and we've executed well over $5-billion
+
+208
+07:06.114 --> 07:08.518
+in my time at AFWERX.
+
+209
+07:08.518 --> 07:09.548
+I'm transitioning over
+
+210
+07:09.548 --> 07:12.668
+to "Divergent Technologies",
+
+211
+07:12.668 --> 07:15.835
+it's a advanced manufacturing company,
+
+212
+07:17.487 --> 07:20.001
+started out in the automobile sector
+
+213
+07:20.001 --> 07:21.751
+to 3D print vehicles,
+
+214
+07:23.697 --> 07:25.495
+so Singer Vehicles is underneath that
+
+215
+07:25.495 --> 07:27.178
+with super cars,
+
+216
+07:27.178 --> 07:28.663
+so I do everything from Bugatti parts,
+
+217
+07:28.663 --> 07:31.736
+and now I'm working with our former director
+
+218
+07:31.736 --> 07:33.569
+at AFWERX Nate Diller,
+
+219
+07:34.438 --> 07:35.488
+working through
+
+220
+07:35.488 --> 07:39.778
+and developing the Aerospace &amp; Defense section
+
+221
+07:39.778 --> 07:41.945
+of Divergent Technologies.
+
+222
+07:43.423 --> 07:45.581
+<v ->Great, thanks Mike.</v>
+
+223
+07:45.581 --> 07:46.648
+So, I'm Sanjiv Singh,
+
+224
+07:46.648 --> 07:48.523
+I'm the CEO of "Near Earth Autonomy",
+
+225
+07:48.523 --> 07:49.356
+what we do,
+
+226
+07:49.356 --> 07:50.668
+is we build an autonomy stack
+
+227
+07:50.668 --> 07:52.097
+for all kinds of aircraft,
+
+228
+07:52.097 --> 07:53.813
+but we are focused on rotorcraft,
+
+229
+07:53.813 --> 07:56.983
+and we're focused on logistic missions,
+
+230
+07:56.983 --> 08:01.029
+so we have a big engagement with the DoD,
+
+231
+08:01.029 --> 08:02.650
+especially the marine corp
+
+232
+08:02.650 --> 08:04.108
+and the army,
+
+233
+08:04.108 --> 08:06.688
+to work on various scales of aircraft.
+
+234
+08:06.688 --> 08:08.424
+And our value proposition,
+
+235
+08:08.424 --> 08:10.584
+I like to say is that we enable aircraft
+
+236
+08:10.584 --> 08:11.559
+to fly safe,
+
+237
+08:11.559 --> 08:12.879
+land safe,
+
+238
+08:12.879 --> 08:14.679
+do it without GPS,
+
+239
+08:14.679 --> 08:16.499
+even when things go wrong.
+
+240
+08:16.499 --> 08:17.669
+And the idea is that,
+
+241
+08:17.669 --> 08:18.994
+if the world were perfect,
+
+242
+08:18.994 --> 08:20.433
+and the aircraft were perfect,
+
+243
+08:20.433 --> 08:21.266
+then you know,
+
+244
+08:21.266 --> 08:22.249
+you don't need any sensors,
+
+245
+08:22.249 --> 08:23.374
+and you just take off,
+
+246
+08:23.374 --> 08:25.388
+and fly some...
+
+247
+08:25.388 --> 08:26.221
+Fly some...
+
+248
+08:26.221 --> 08:27.300
+Going through some breadcrumbs,
+
+249
+08:27.300 --> 08:28.518
+but in fact,
+
+250
+08:28.518 --> 08:30.064
+the world is not perfect,
+
+251
+08:30.064 --> 08:32.564
+all sorts of things in maps are not correct,
+
+252
+08:32.564 --> 08:33.675
+you have weather,
+
+253
+08:33.675 --> 08:35.710
+you have things break down on an aircraft,
+
+254
+08:35.710 --> 08:38.143
+so what we want is autonomy,
+
+255
+08:38.143 --> 08:41.563
+to be able to do what a pilot would do,
+
+256
+08:41.563 --> 08:43.566
+which is to deal with the varying conditions
+
+257
+08:43.566 --> 08:44.600
+on the aircraft.
+
+258
+08:44.600 --> 08:46.588
+So, for different scales of aircraft,
+
+259
+08:46.588 --> 08:48.058
+this matters differently,
+
+260
+08:48.058 --> 08:50.125
+but especially if they're flying low,
+
+261
+08:50.125 --> 08:51.388
+if they're gonna be...
+
+262
+08:51.388 --> 08:52.768
+The root that's been given to them
+
+263
+08:52.768 --> 08:53.963
+is gonna go through a tower,
+
+264
+08:53.963 --> 08:54.823
+they should see the tower
+
+265
+08:54.823 --> 08:56.488
+and fly around it, okay?
+
+266
+08:56.488 --> 08:58.108
+So, the autonomy part we've been doing
+
+267
+08:58.108 --> 08:58.941
+for a long time,
+
+268
+08:58.941 --> 09:01.678
+and the big focus of our company right now
+
+269
+09:01.678 --> 09:04.123
+is to make sure that the autonomy is there
+
+270
+09:04.123 --> 09:04.956
+when you need it.
+
+271
+09:04.956 --> 09:07.408
+So, autonomy is gonna keep you out of trouble,
+
+272
+09:07.408 --> 09:10.033
+but how do you know that it's gonna be there?
+
+273
+09:10.033 --> 09:11.276
+And that's what you need
+
+274
+09:11.276 --> 09:12.853
+when you get to a larger aircraft,
+
+275
+09:12.853 --> 09:14.023
+for example, if you're flying
+
+276
+09:14.023 --> 09:15.748
+a Black Hawk autonomously,
+
+277
+09:15.748 --> 09:17.638
+then you better be able to say
+
+278
+09:17.638 --> 09:18.935
+to all the stakeholders like,
+
+279
+09:18.935 --> 09:21.804
+"Look, here's why even if some
+
+280
+09:21.804 --> 09:23.759
+of the main systems on the aircraft
+
+281
+09:23.759 --> 09:25.191
+fail during flight,
+
+282
+09:25.191 --> 09:26.788
+the aircraft is gonna be okay."
+
+283
+09:26.788 --> 09:28.801
+So, that's the emphasis on our program,
+
+284
+09:28.801 --> 09:30.004
+of our company,
+
+285
+09:30.004 --> 09:31.652
+we develop this...
+
+286
+09:31.652 --> 09:32.541
+This kind of software
+
+287
+09:32.541 --> 09:35.084
+and hardware combination that,
+
+288
+09:35.084 --> 09:37.299
+that aircraft use to do their mission.
+
+289
+09:37.299 --> 09:38.737
+<v ->Thank you, that's wonderful.</v>
+
+290
+09:38.737 --> 09:40.721
+So, a couple of ground rules
+
+291
+09:40.721 --> 09:43.083
+that I did not mention at the top.
+
+292
+09:43.083 --> 09:43.916
+First of all,
+
+293
+09:43.916 --> 09:45.274
+I didn't share anything about Carnegie Robotics,
+
+294
+09:45.274 --> 09:46.107
+if ya ask later,
+
+295
+09:46.107 --> 09:47.122
+I'll tell ya.
+
+296
+09:47.122 --> 09:49.507
+But, this is really about you guys.
+
+297
+09:49.507 --> 09:50.340
+And trust me,
+
+298
+09:50.340 --> 09:51.173
+I will tell you,
+
+299
+09:51.173 --> 09:53.457
+'cause I'll talk a lot about what we do.
+
+300
+09:53.457 --> 09:54.977
+Also, if you wanna go on social media,
+
+301
+09:54.977 --> 09:56.226
+and you wanna start you know,
+
+302
+09:56.226 --> 09:58.282
+saying amazing things about this panel,
+
+303
+09:58.282 --> 09:59.598
+please tag everybody here,
+
+304
+09:59.598 --> 10:00.431
+their names,
+
+305
+10:00.431 --> 10:01.264
+and their companies,
+
+306
+10:01.264 --> 10:04.083
+'cause we're selfish like that.
+
+307
+10:04.083 --> 10:06.286
+So, the theme up here,
+
+308
+10:06.286 --> 10:07.274
+and it just kinda hit...
+
+309
+10:07.274 --> 10:08.438
+It kinda struck me this morning
+
+310
+10:08.438 --> 10:10.137
+when we were having our pre-brief,
+
+311
+10:10.137 --> 10:13.166
+that, with respect to autonomy,
+
+312
+10:13.166 --> 10:13.999
+and drones,
+
+313
+10:13.999 --> 10:16.687
+and heck, even AI these days,
+
+314
+10:16.687 --> 10:18.124
+lot of the folks probably thought
+
+315
+10:18.124 --> 10:18.957
+they were gonna come in here
+
+316
+10:18.957 --> 10:20.226
+talking exclusively about
+
+317
+10:20.226 --> 10:22.211
+commercial-type opportunities.
+
+318
+10:22.211 --> 10:26.200
+However, there is a huge tilt towards defense,
+
+319
+10:26.200 --> 10:28.431
+pretty much in everything that we do
+
+320
+10:28.431 --> 10:30.014
+on this stage here,
+
+321
+10:31.460 --> 10:32.627
+how does that,
+
+322
+10:33.696 --> 10:35.256
+focusing on defense-work,
+
+323
+10:35.256 --> 10:38.196
+how does that help get your product to market
+
+324
+10:38.196 --> 10:39.317
+and help grow your business?
+
+325
+10:39.317 --> 10:40.150
+Because after all,
+
+326
+10:40.150 --> 10:41.469
+we are not non-profits.
+
+327
+10:41.469 --> 10:43.764
+So Olga, help us understand that,
+
+328
+10:43.764 --> 10:46.451
+I think we just had a conversation about that.
+
+329
+10:46.451 --> 10:47.332
+<v ->Yeah, I mean,</v>
+
+330
+10:47.332 --> 10:49.270
+I think we've seen over the years
+
+331
+10:49.270 --> 10:53.122
+that the military is a great first customer.
+
+332
+10:53.122 --> 10:54.904
+First of all,
+
+333
+10:54.904 --> 10:57.321
+they have funding to help you
+
+334
+11:00.050 --> 11:02.365
+take a very early prototype,
+
+335
+11:02.365 --> 11:05.631
+to something that can be tested,
+
+336
+11:05.631 --> 11:07.395
+even on the front lines,
+
+337
+11:07.395 --> 11:08.414
+and there's very...
+
+338
+11:08.414 --> 11:09.969
+Various programs that you can go through,
+
+339
+11:09.969 --> 11:12.956
+and maybe we'll touch on them later.
+
+340
+11:12.956 --> 11:16.166
+But, as we've seen throughout the years,
+
+341
+11:16.166 --> 11:17.724
+you know GPS, right?
+
+342
+11:17.724 --> 11:19.841
+Like, we're trying to replace GPS,
+
+343
+11:19.841 --> 11:21.544
+but GPS itself,
+
+344
+11:21.544 --> 11:22.752
+when it was first invented,
+
+345
+11:22.752 --> 11:25.308
+it was first invented for the military,
+
+346
+11:25.308 --> 11:26.648
+they were the first adopters,
+
+347
+11:26.648 --> 11:28.107
+they were the first users
+
+348
+11:28.107 --> 11:29.857
+before it hit the market.
+
+349
+11:29.857 --> 11:31.256
+So, I think what we're seeing
+
+350
+11:31.256 --> 11:33.072
+with a lot of different technologies
+
+351
+11:33.072 --> 11:37.072
+is that the DoD is really good at testing things
+
+352
+11:38.836 --> 11:41.409
+and being that first customer,
+
+353
+11:41.409 --> 11:44.107
+when the commercial market
+
+354
+11:44.107 --> 11:46.645
+is just not ready for your product yet,
+
+355
+11:46.645 --> 11:48.744
+it may be in the future,
+
+356
+11:48.744 --> 11:50.889
+and there's applications that exist,
+
+357
+11:50.889 --> 11:54.219
+but it just needs time to get there,
+
+358
+11:54.219 --> 11:58.059
+and that's kind of the space that I live in.
+
+359
+11:58.059 --> 12:00.507
+So, I think that in the future,
+
+360
+12:00.507 --> 12:02.217
+there'll be plenty of opportunity
+
+361
+12:02.217 --> 12:05.422
+for our company to work with commercial airlines,
+
+362
+12:05.422 --> 12:06.505
+with rotorcraft,
+
+363
+12:06.505 --> 12:11.320
+with all different kinds of commercial customers,
+
+364
+12:11.320 --> 12:12.562
+but right now,
+
+365
+12:12.562 --> 12:13.807
+it's really defense.
+
+366
+12:13.807 --> 12:15.337
+<v ->Right. And years ago I...</v>
+
+367
+12:15.337 --> 12:16.170
+Thank you.
+
+368
+12:16.170 --> 12:18.963
+Years ago, I learned about "Near Earth Autonomy",
+
+369
+12:18.963 --> 12:20.407
+we had not yet know each other,
+
+370
+12:20.407 --> 12:22.177
+and you had...
+
+371
+12:22.177 --> 12:23.935
+It was published that you were doing
+
+372
+12:23.935 --> 12:25.811
+some work with Boeing,
+
+373
+12:25.811 --> 12:28.347
+and that put my antennae up
+
+374
+12:28.347 --> 12:30.580
+because I always wanted to be a pilot,
+
+375
+12:30.580 --> 12:31.894
+and Boeing makes airplanes,
+
+376
+12:31.894 --> 12:32.727
+"So maybe I should go work
+
+377
+12:32.727 --> 12:34.620
+for Near Earth Autonomy."
+
+378
+12:34.620 --> 12:36.780
+But again, your business...
+
+379
+12:36.780 --> 12:39.105
+You know, maybe we will, buddy.
+
+380
+12:39.105 --> 12:40.412
+But your business is...
+
+381
+12:40.412 --> 12:41.280
+(Mike laughing)
+
+382
+12:41.280 --> 12:42.789
+Your business is really evolved
+
+383
+12:42.789 --> 12:44.956
+to focus on military work,
+
+384
+12:45.827 --> 12:47.562
+can you help explore that with everybody?
+
+385
+12:47.562 --> 12:50.981
+<v ->Yeah, so like Olga said you know,</v>
+
+386
+12:50.981 --> 12:53.874
+almost every aviation innovation
+
+387
+12:53.874 --> 12:54.987
+has started with the military,
+
+388
+12:54.987 --> 12:56.441
+and the idea is that if you look
+
+389
+12:56.441 --> 12:58.812
+at the commercial world,
+
+390
+12:58.812 --> 13:02.127
+commercial end-users don't want something
+
+391
+13:02.127 --> 13:03.762
+that is sort of there,
+
+392
+13:03.762 --> 13:05.107
+and comes with an engineer,
+
+393
+13:05.107 --> 13:06.637
+but the military is willing to do that,
+
+394
+13:06.637 --> 13:07.947
+so they...
+
+395
+13:07.947 --> 13:09.747
+Big emphasis on robustness,
+
+396
+13:09.747 --> 13:11.937
+big emphasis on performance,
+
+397
+13:11.937 --> 13:13.868
+but not so much on the economics.
+
+398
+13:13.868 --> 13:15.207
+So, the problem with the...
+
+399
+13:15.207 --> 13:17.667
+With staking new technology is,
+
+400
+13:17.667 --> 13:18.852
+straight to the commercial world
+
+401
+13:18.852 --> 13:21.687
+is that it needs very deep pockets
+
+402
+13:21.687 --> 13:23.892
+if you're going to make everything work,
+
+403
+13:23.892 --> 13:25.142
+it has to be...
+
+404
+13:26.228 --> 13:27.206
+It has to be feasible,
+
+405
+13:27.206 --> 13:28.497
+it has to be easy to use,
+
+406
+13:28.497 --> 13:31.421
+and it has to be economically viable,
+
+407
+13:31.421 --> 13:33.168
+so all of those things are hard to make work
+
+408
+13:33.168 --> 13:34.332
+at the beginning,
+
+409
+13:34.332 --> 13:37.182
+to get this technology in a military setting
+
+410
+13:37.182 --> 13:39.142
+where there is funding,
+
+411
+13:39.142 --> 13:41.046
+there's a lower bar for success,
+
+412
+13:41.046 --> 13:42.759
+and a higher tolerance for risk,
+
+413
+13:42.759 --> 13:45.564
+this is what makes it much more easy to work,
+
+414
+13:45.564 --> 13:46.705
+start with the military.
+
+415
+13:46.705 --> 13:48.567
+And then of course these things migrate,
+
+416
+13:48.567 --> 13:50.947
+like from the internet to GPS,
+
+417
+13:50.947 --> 13:53.472
+to all sorts of other...
+
+418
+13:53.472 --> 13:55.377
+Every aircraft that has been,
+
+419
+13:55.377 --> 13:57.146
+except for one rotorcraft,
+
+420
+13:57.146 --> 13:59.438
+has started with a military application.
+
+421
+13:59.438 --> 14:01.452
+Right, and Xiaoyu when you
+
+422
+14:01.452 --> 14:03.372
+and team got Aquatonomy off the ground,
+
+423
+14:03.372 --> 14:06.938
+was there an emphasis on filling a gap?
+
+424
+14:06.938 --> 14:10.583
+Filling a need for the military services
+
+425
+14:10.583 --> 14:12.703
+with your product?
+
+426
+14:12.703 --> 14:15.367
+<v ->Actually, our two technical co-founders</v>
+
+427
+14:15.367 --> 14:19.117
+started their early career by solving complex
+
+428
+14:20.228 --> 14:23.291
+national security challenges,
+
+429
+14:23.291 --> 14:24.819
+one is Dr. Michael Cass,
+
+430
+14:24.819 --> 14:28.002
+he dedicated 15-years of academic research
+
+431
+14:28.002 --> 14:29.832
+on autonomous navigation,
+
+432
+14:29.832 --> 14:32.740
+and mapping in GPS in night environments,
+
+433
+14:32.740 --> 14:35.439
+and his work was used by the navy,
+
+434
+14:35.439 --> 14:36.272
+the army,
+
+435
+14:36.272 --> 14:38.847
+and founded by the Office of Naval Research,
+
+436
+14:38.847 --> 14:41.007
+and army research labs at first,
+
+437
+14:41.007 --> 14:42.376
+and his work is used
+
+438
+14:42.376 --> 14:44.561
+in the International Space Station
+
+439
+14:44.561 --> 14:46.992
+before we incorporated our company.
+
+440
+14:46.992 --> 14:49.340
+Our second technical co-founder
+
+441
+14:49.340 --> 14:51.217
+also dedicated his work
+
+442
+14:51.217 --> 14:53.500
+in marine robotics collaboration,
+
+443
+14:53.500 --> 14:57.933
+he was a award winner of Young Investigator Award
+
+444
+14:57.933 --> 14:59.374
+by the navy...
+
+445
+14:59.374 --> 15:00.755
+Office of Naval Research.
+
+446
+15:00.755 --> 15:02.574
+And so, we're kind of testament
+
+447
+15:02.574 --> 15:06.574
+of how national security needs drove innovation,
+
+448
+15:08.673 --> 15:10.098
+that later we could use
+
+449
+15:10.098 --> 15:12.039
+as a solid tactical foundation
+
+450
+15:12.039 --> 15:13.737
+in commercial applications
+
+451
+15:13.737 --> 15:17.320
+and we continue to observe this as a trend.
+
+452
+15:18.318 --> 15:21.401
+National security applications drive,
+
+453
+15:22.978 --> 15:25.228
+especially in defining old,
+
+454
+15:27.099 --> 15:29.504
+pioneering use-cases
+
+455
+15:29.504 --> 15:30.562
+and goals,
+
+456
+15:30.562 --> 15:31.895
+and be a stable,
+
+457
+15:33.748 --> 15:35.704
+predictable founding source
+
+458
+15:35.704 --> 15:37.766
+for innovations to happen.
+
+459
+15:37.766 --> 15:40.766
+<v ->Right. And, so with military work,</v>
+
+460
+15:41.999 --> 15:43.057
+the requirements,
+
+461
+15:43.057 --> 15:44.706
+there's a high-bar,
+
+462
+15:44.706 --> 15:46.929
+middle-spec, middle-grade et cetera,
+
+463
+15:46.929 --> 15:49.176
+so that translates well
+
+464
+15:49.176 --> 15:50.993
+if ever the commercial markets
+
+465
+15:50.993 --> 15:52.003
+ever were to take over,
+
+466
+15:52.003 --> 15:54.215
+or integrate set product
+
+467
+15:54.215 --> 15:56.239
+across their portfolio.
+
+468
+15:56.239 --> 15:57.768
+So, I can't see a show of hands here
+
+469
+15:57.768 --> 16:00.872
+of folks who have worked with military,
+
+470
+16:00.872 --> 16:03.680
+or any defense conduit in any way,
+
+471
+16:03.680 --> 16:06.430
+or form, but Phil Hahn at AFWERX,
+
+472
+16:07.427 --> 16:09.020
+is accustomed to people like us
+
+473
+16:09.020 --> 16:10.740
+beating down his door,
+
+474
+16:10.740 --> 16:12.379
+asking for help
+
+475
+16:12.379 --> 16:15.049
+and guidance, really we just want money,
+
+476
+16:15.049 --> 16:16.882
+but he helps guide us,
+
+477
+16:18.076 --> 16:20.132
+he and his folks would help guide us
+
+478
+16:20.132 --> 16:21.675
+towards the right path
+
+479
+16:21.675 --> 16:23.821
+of this particular program,
+
+480
+16:23.821 --> 16:25.219
+this funding conduit,
+
+481
+16:25.219 --> 16:27.755
+"Here's where the necessary players are,
+
+482
+16:27.755 --> 16:30.214
+and here's where you have to go to achieve
+
+483
+16:30.214 --> 16:31.056
+said project."
+
+484
+16:31.056 --> 16:32.526
+So, can you help understand...
+
+485
+16:32.526 --> 16:33.519
+Help everybody understand
+
+486
+16:33.519 --> 16:35.019
+your side of the fence
+
+487
+16:35.019 --> 16:36.699
+when you're dealing with people like us?
+
+488
+16:36.699 --> 16:37.532
+<v ->Sure, yeah.</v>
+
+489
+16:37.532 --> 16:38.365
+So, I mean,
+
+490
+16:38.365 --> 16:41.377
+a lot of why AFWERX was founded,
+
+491
+16:41.377 --> 16:43.216
+was to kind of bridge that gap
+
+492
+16:43.216 --> 16:47.051
+of the commercial innovation to the...
+
+493
+16:47.051 --> 16:48.802
+To the department,
+
+494
+16:48.802 --> 16:49.917
+in our case,
+
+495
+16:49.917 --> 16:50.750
+air force
+
+496
+16:50.750 --> 16:52.372
+and space force.
+
+497
+16:52.372 --> 16:55.014
+But, if you look back the...
+
+498
+16:55.014 --> 16:55.929
+You know, the research labs,
+
+499
+16:55.929 --> 16:56.949
+the DARPA's of the world,
+
+500
+16:56.949 --> 16:57.782
+they still...
+
+501
+16:57.782 --> 16:59.169
+They still have all all their projects
+
+502
+16:59.169 --> 17:00.684
+and programs that they're working,
+
+503
+17:00.684 --> 17:02.103
+but we really needed to tap into
+
+504
+17:02.103 --> 17:04.874
+all of the amazing technology that was out there,
+
+505
+17:04.874 --> 17:07.144
+we talked through the requirements process,
+
+506
+17:07.144 --> 17:09.725
+the acquisition process in the...
+
+507
+17:09.725 --> 17:11.779
+In the DoD is very slow,
+
+508
+17:11.779 --> 17:13.060
+and a lot of times we have to have
+
+509
+17:13.060 --> 17:16.612
+that very solid requirement at the forefront.
+
+510
+17:16.612 --> 17:19.185
+And so, what we did at AFWERX,
+
+511
+17:19.185 --> 17:20.551
+was we developed something called
+
+512
+17:20.551 --> 17:21.416
+"The Open Topic"
+
+513
+17:21.416 --> 17:23.200
+and this was more of a,
+
+514
+17:23.200 --> 17:25.185
+"Come pitch the government,
+
+515
+17:25.185 --> 17:28.080
+come show us what your technology is,
+
+516
+17:28.080 --> 17:29.381
+we wanna be a partner,
+
+517
+17:29.381 --> 17:31.245
+we don't need to be the only partner."
+
+518
+17:31.245 --> 17:32.654
+I think in that aspect of it.
+
+519
+17:32.654 --> 17:33.690
+And so, that has lead
+
+520
+17:33.690 --> 17:36.359
+to different funding streams,
+
+521
+17:36.359 --> 17:37.575
+different ways that you
+
+522
+17:37.575 --> 17:39.865
+could get your foot in the door,
+
+523
+17:39.865 --> 17:40.698
+get some...
+
+524
+17:40.698 --> 17:41.865
+Get some of that you know,
+
+525
+17:41.865 --> 17:42.810
+startup capital,
+
+526
+17:42.810 --> 17:45.570
+get some funding early on,
+
+527
+17:45.570 --> 17:47.278
+and then provide those opportunities,
+
+528
+17:47.278 --> 17:49.611
+provide that foresight to...
+
+529
+17:51.148 --> 17:53.895
+To showcase your technology
+
+530
+17:53.895 --> 17:56.037
+to different parts of the DoD,
+
+531
+17:56.037 --> 17:57.464
+that we could then pass that along.
+
+532
+17:57.464 --> 17:59.040
+And so, that development life cycle
+
+533
+17:59.040 --> 18:01.680
+was something that we built out at AFWERX
+
+534
+18:01.680 --> 18:03.525
+and at the other innovation
+
+535
+18:03.525 --> 18:05.985
+organizations in the DoD to really help
+
+536
+18:05.985 --> 18:07.110
+with more of a...
+
+537
+18:07.110 --> 18:08.400
+Think of it more as a partnership,
+
+538
+18:08.400 --> 18:10.515
+instead of just an ownership aspect
+
+539
+18:10.515 --> 18:12.540
+that the government is starting to play.
+
+540
+18:12.540 --> 18:14.005
+<v ->Great. I'm gonna pick on you a little bit more,</v>
+
+541
+18:14.005 --> 18:16.081
+so keep that mic.
+
+542
+18:16.081 --> 18:17.581
+<v ->What we've seen,</v>
+
+543
+18:19.555 --> 18:22.630
+the companies have seen the military evolve,
+
+544
+18:22.630 --> 18:23.880
+and I'm gonna get off the military talk
+
+545
+18:23.880 --> 18:24.713
+in a second.
+
+546
+18:24.713 --> 18:27.135
+But, we've seen the necessary groups evolve
+
+547
+18:27.135 --> 18:31.540
+from just a traditional RFI/RFP process,
+
+548
+18:31.540 --> 18:34.257
+with evolutions of having an AFWERX,
+
+549
+18:34.257 --> 18:35.637
+having a SOFWERX,
+
+550
+18:35.637 --> 18:38.997
+DIU has been especially refreshing,
+
+551
+18:38.997 --> 18:40.394
+the "Defensive Innovative Unit",
+
+552
+18:40.394 --> 18:42.540
+which in translation,
+
+553
+18:42.540 --> 18:44.725
+instead of going to the robust,
+
+554
+18:44.725 --> 18:46.768
+$700-billion army website
+
+555
+18:46.768 --> 18:47.625
+and looking at it,
+
+556
+18:47.625 --> 18:48.478
+and you know it's...
+
+557
+18:48.478 --> 18:49.514
+It's a massive,
+
+558
+18:49.514 --> 18:52.169
+massive entity, the army.
+
+559
+18:52.169 --> 18:54.205
+But, the DIU has unleashed
+
+560
+18:54.205 --> 18:55.575
+a really interesting conduit
+
+561
+18:55.575 --> 18:59.100
+where you go to a website with great gooey,
+
+562
+18:59.100 --> 19:00.523
+great user interface,
+
+563
+19:00.523 --> 19:01.665
+it's easy to navigate,
+
+564
+19:01.665 --> 19:04.480
+it's modern, they put out a project,
+
+565
+19:04.480 --> 19:07.079
+this is all new within the last couple of years,
+
+566
+19:07.079 --> 19:10.095
+and instead of closing down your business
+
+567
+19:10.095 --> 19:10.968
+for a couple of weeks to write
+
+568
+19:10.968 --> 19:13.038
+this robusto proposal,
+
+569
+19:13.038 --> 19:15.021
+they simply ask you for a five-page
+
+570
+19:15.021 --> 19:16.576
+written proposal,
+
+571
+19:16.576 --> 19:18.326
+or 15-slides, not 16,
+
+572
+19:19.569 --> 19:21.069
+not 13, 15-slides.
+
+573
+19:22.521 --> 19:23.581
+Ya hit "submit",
+
+574
+19:23.581 --> 19:25.203
+they let you know within two or three-weeks
+
+575
+19:25.203 --> 19:26.400
+whether or not you move on,
+
+576
+19:26.400 --> 19:30.178
+and they have simply streamlined the process.
+
+577
+19:30.178 --> 19:32.902
+So, how have you seen that evolve
+
+578
+19:32.902 --> 19:34.180
+in your career,
+
+579
+19:34.180 --> 19:35.998
+I mean, now your former career at AFWERX?
+
+580
+19:35.998 --> 19:37.608
+You had a hand in helping
+
+581
+19:37.608 --> 19:39.756
+generate that evolution.
+
+582
+19:39.756 --> 19:41.971
+<v ->Yeah, the whole point coming into this</v>
+
+583
+19:41.971 --> 19:44.036
+was understanding it through the eyes
+
+584
+19:44.036 --> 19:45.108
+of the small business,
+
+585
+19:45.108 --> 19:46.352
+through the eyes of the startup,
+
+586
+19:46.352 --> 19:49.501
+through the eyes of the technologist.
+
+587
+19:49.501 --> 19:50.626
+You know, before...
+
+588
+19:50.626 --> 19:51.886
+Before really the DIU's
+
+589
+19:51.886 --> 19:54.689
+and the AFWERX's of the world,
+
+590
+19:54.689 --> 19:55.562
+playing in...
+
+591
+19:55.562 --> 19:56.395
+Playing in the defense space
+
+592
+19:56.395 --> 19:58.790
+was kinda taboo from that standpoint,
+
+593
+19:58.790 --> 20:00.729
+like they didn't wanna invest...
+
+594
+20:00.729 --> 20:01.747
+You know, venture capital
+
+595
+20:01.747 --> 20:04.179
+actually told investors to not go
+
+596
+20:04.179 --> 20:05.286
+work with the military,
+
+597
+20:05.286 --> 20:06.489
+or work with the...
+
+598
+20:06.489 --> 20:08.721
+Work with the Department,
+
+599
+20:08.721 --> 20:09.774
+for the sole factor of,
+
+600
+20:09.774 --> 20:11.394
+"It's just gonna take a long time,
+
+601
+20:11.394 --> 20:12.863
+it's gonna suck resources."
+
+602
+20:12.863 --> 20:14.446
+So, a big key point
+
+603
+20:15.879 --> 20:17.914
+that we were trying to get to was,
+
+604
+20:17.914 --> 20:19.134
+"How do we make this process quicker?
+
+605
+20:19.134 --> 20:20.514
+How do we let them know
+
+606
+20:20.514 --> 20:21.935
+whether we wanna play or not?
+
+607
+20:21.935 --> 20:23.533
+And do we have the capital,
+
+608
+20:23.533 --> 20:26.843
+and the funding that we can put in place,
+
+609
+20:26.843 --> 20:28.944
+you know, for the technology companies,
+
+610
+20:28.944 --> 20:30.368
+to run them through the life-cycle
+
+611
+20:30.368 --> 20:31.486
+that is the...
+
+612
+20:31.486 --> 20:33.468
+You know, the larger acquisition process
+
+613
+20:33.468 --> 20:35.051
+in the department?"
+
+614
+20:36.121 --> 20:38.605
+And it's not just military application,
+
+615
+20:38.605 --> 20:40.338
+like we talked about dual use,
+
+616
+20:40.338 --> 20:43.843
+you know, the title this is "dual use",
+
+617
+20:43.843 --> 20:46.903
+and so, that was a real key factor
+
+618
+20:46.903 --> 20:48.640
+into what we were looking at,
+
+619
+20:48.640 --> 20:50.203
+'cause we don't want to necessarily
+
+620
+20:50.203 --> 20:51.687
+be that end customer,
+
+621
+20:51.687 --> 20:53.306
+because when you look through again,
+
+622
+20:53.306 --> 20:55.873
+the acquisition life cycle
+
+623
+20:55.873 --> 20:57.480
+in the department,
+
+624
+20:57.480 --> 20:59.038
+there are valleys,
+
+625
+20:59.038 --> 21:00.389
+there are cliffs,
+
+626
+21:00.389 --> 21:01.400
+there are you know,
+
+627
+21:01.400 --> 21:03.145
+we're in a CR right now,
+
+628
+21:03.145 --> 21:05.357
+a Continue Resolution where the funding
+
+629
+21:05.357 --> 21:06.239
+may not come,
+
+630
+21:06.239 --> 21:08.687
+so we definitely look for those
+
+631
+21:08.687 --> 21:10.520
+dual use technologies,
+
+632
+21:11.478 --> 21:14.805
+to be able to have your private sector client,
+
+633
+21:14.805 --> 21:15.972
+your commercial client,
+
+634
+21:15.972 --> 21:17.788
+as well as working with...
+
+635
+21:17.788 --> 21:20.153
+Working with the department to better develop
+
+636
+21:20.153 --> 21:21.493
+your technology.
+
+637
+21:21.493 --> 21:22.433
+<v ->And just super quick,</v>
+
+638
+21:22.433 --> 21:23.266
+and then we'll...
+
+639
+21:23.266 --> 21:26.203
+We'll evolve the discussion.
+
+640
+21:26.203 --> 21:27.297
+More commercial?
+
+641
+21:27.297 --> 21:28.468
+Xiaoyu, can you give us an example
+
+642
+21:28.468 --> 21:32.239
+of if you have leverage any of these
+
+643
+21:32.239 --> 21:34.906
+new form submittals for funding?
+
+644
+21:35.757 --> 21:37.756
+Because after all,
+
+645
+21:37.756 --> 21:39.268
+our businesses need to eat,
+
+646
+21:39.268 --> 21:40.727
+and in order to get off of the ground,
+
+647
+21:40.727 --> 21:41.560
+you need...
+
+648
+21:41.560 --> 21:43.229
+Some of us need to find capital to go out there,
+
+649
+21:43.229 --> 21:45.957
+to help fuel said projects.
+
+650
+21:45.957 --> 21:46.858
+<v ->Yeah, definitely.</v>
+
+651
+21:46.858 --> 21:49.705
+We actually recently won a contract
+
+652
+21:49.705 --> 21:53.094
+from the US Army Corp of Engineers,
+
+653
+21:53.094 --> 21:55.438
+to provide a technology that can be used
+
+654
+21:55.438 --> 21:57.271
+to invest, to monitor,
+
+655
+22:01.109 --> 22:02.526
+and inspect dams,
+
+656
+22:04.292 --> 22:07.224
+and lochs in the Pittsburgh area.
+
+657
+22:07.224 --> 22:10.015
+And the process was smooth as you said,
+
+658
+22:10.015 --> 22:12.550
+you know, because it's improved
+
+659
+22:12.550 --> 22:13.383
+based on the needs
+
+660
+22:13.383 --> 22:14.423
+of the small businesses,
+
+661
+22:14.423 --> 22:18.096
+and the contract is very easy to execute,
+
+662
+22:18.096 --> 22:21.276
+and it really provides a stabilizing cash flow
+
+663
+22:21.276 --> 22:23.677
+for us to further devolve our technology,
+
+664
+22:23.677 --> 22:28.251
+and really focus on getting the technology out,
+
+665
+22:28.251 --> 22:32.723
+rather than satisfying investors' requirements.
+
+666
+22:32.723 --> 22:33.556
+So, this is a...
+
+667
+22:33.556 --> 22:36.187
+This kind of a innovation in a governing space
+
+668
+22:36.187 --> 22:37.780
+is really helpful,
+
+669
+22:37.780 --> 22:39.505
+critical for innovation.
+
+670
+22:39.505 --> 22:40.338
+<v ->Yeah.</v>
+
+671
+22:40.338 --> 22:41.185
+<v ->And if I can add to that?</v>
+
+672
+22:41.185 --> 22:42.411
+So, I mean that's a perfect example
+
+673
+22:42.411 --> 22:43.660
+where it's...
+
+674
+22:43.660 --> 22:44.635
+It's you know...
+
+675
+22:44.635 --> 22:46.675
+You think you're working with the military,
+
+676
+22:46.675 --> 22:47.855
+you're working with the army,
+
+677
+22:47.855 --> 22:49.523
+it's not just you know,
+
+678
+22:49.523 --> 22:50.407
+bombs and drones,
+
+679
+22:50.407 --> 22:52.120
+and stuff that gonna you know,
+
+680
+22:52.120 --> 22:53.287
+attack things,
+
+681
+22:54.188 --> 22:55.698
+we have critical infrastructure,
+
+682
+22:55.698 --> 22:57.251
+we have you know,
+
+683
+22:57.251 --> 22:58.084
+the lochs,
+
+684
+22:58.084 --> 22:58.917
+and the dams,
+
+685
+22:58.917 --> 22:59.750
+and everything else.
+
+686
+22:59.750 --> 23:01.180
+And so, finding the technologies,
+
+687
+23:01.180 --> 23:02.705
+so we don't have to send a diver down
+
+688
+23:02.705 --> 23:03.538
+to look at things,
+
+689
+23:03.538 --> 23:04.371
+or you know...
+
+690
+23:04.371 --> 23:07.585
+Those are the real reason of dual-use
+
+691
+23:07.585 --> 23:09.055
+that we're looking at.
+
+692
+23:09.055 --> 23:10.360
+You know, I don't wanna...
+
+693
+23:10.360 --> 23:11.915
+I wanna make sure that everyone understands
+
+694
+23:11.915 --> 23:14.035
+it's not just the weaponization
+
+695
+23:14.035 --> 23:16.209
+of your technology, it is...
+
+696
+23:16.209 --> 23:19.475
+It is how we can further build
+
+697
+23:19.475 --> 23:22.570
+the national security industrial base.
+
+698
+23:22.570 --> 23:23.770
+<v ->Yeah, absolutely.</v>
+
+699
+23:23.770 --> 23:25.150
+The same with you Olga,
+
+700
+23:25.150 --> 23:26.733
+you guys saw early,
+
+701
+23:28.192 --> 23:29.025
+really quick bids
+
+702
+23:29.025 --> 23:30.355
+that were able to help keep your...
+
+703
+23:30.355 --> 23:32.064
+Get your company off of the ground,
+
+704
+23:32.064 --> 23:35.005
+and you were leveraging simpler platforms
+
+705
+23:35.005 --> 23:36.727
+as opposed to these large robust,
+
+706
+23:36.727 --> 23:39.697
+government, scary proposals.
+
+707
+23:39.697 --> 23:41.405
+<v Olga>Yeah, absolutely.</v>
+
+708
+23:41.405 --> 23:43.687
+Congrats on your win by the way.
+
+709
+23:43.687 --> 23:46.100
+But yeah, our business,
+
+710
+23:46.100 --> 23:48.115
+we've been in business for six-years,
+
+711
+23:48.115 --> 23:50.365
+and that is how we have won
+
+712
+23:51.666 --> 23:53.000
+the majority of our contract,
+
+713
+23:53.000 --> 23:54.879
+is through flexible,
+
+714
+23:54.879 --> 23:56.315
+and these like new,
+
+715
+23:56.315 --> 23:57.535
+smart operations,
+
+716
+23:57.535 --> 23:58.618
+like SOFWERX,
+
+717
+23:59.574 --> 24:02.275
+Army Applications Lab, AFFWERX.
+
+718
+24:02.275 --> 24:05.108
+And we were able to apply quickly,
+
+719
+24:06.250 --> 24:07.506
+get an answer quickly.
+
+720
+24:07.506 --> 24:10.435
+And I think one of the biggest benefits
+
+721
+24:10.435 --> 24:14.464
+is the reporting on it is so much easier
+
+722
+24:14.464 --> 24:16.189
+than anything you've ever encountered,
+
+723
+24:16.189 --> 24:18.634
+if you've ever applied for like an NSF grant,
+
+724
+24:18.634 --> 24:20.942
+or anything like that,
+
+725
+24:20.942 --> 24:23.553
+you know, the reporting on it is so easy,
+
+726
+24:23.553 --> 24:26.470
+and the payout on it is very quick,
+
+727
+24:27.500 --> 24:29.903
+and flexible as well.
+
+728
+24:29.903 --> 24:32.455
+For example, for folks that have not
+
+729
+24:32.455 --> 24:33.584
+worked with SOFWERX,
+
+730
+24:33.584 --> 24:35.696
+I don't know that there's been a time
+
+731
+24:35.696 --> 24:37.372
+in six-years that I've billed them,
+
+732
+24:37.372 --> 24:38.764
+and they haven't turned around a payment
+
+733
+24:38.764 --> 24:39.801
+in like three days.
+
+734
+24:39.801 --> 24:42.384
+So yeah, lots of really amazing
+
+735
+24:43.704 --> 24:45.119
+opportunities out there.
+
+736
+24:45.119 --> 24:46.534
+<v ->Yeah, that's...</v>
+
+737
+24:46.534 --> 24:47.431
+This is vital in order
+
+738
+24:47.431 --> 24:48.829
+to get our businesses off the ground
+
+739
+24:48.829 --> 24:51.006
+and keep them fed until they hit
+
+740
+24:51.006 --> 24:53.186
+that magic button where they don't need
+
+741
+24:53.186 --> 24:54.364
+the runway over here,
+
+742
+24:54.364 --> 24:57.138
+where they have found the path to productivity
+
+743
+24:57.138 --> 24:58.549
+into revenue generation,
+
+744
+24:58.549 --> 25:00.301
+and then subsequently profit.
+
+745
+25:00.301 --> 25:03.078
+So, I have something I wanna pitch to you
+
+746
+25:03.078 --> 25:04.564
+about commercial...
+
+747
+25:04.564 --> 25:05.899
+About transitioning to commercial,
+
+748
+25:05.899 --> 25:06.964
+but I'll...
+
+749
+25:06.964 --> 25:09.199
+I'll share a little of how
+
+750
+25:09.199 --> 25:10.474
+we view it at Carnegie Robotics,
+
+751
+25:10.474 --> 25:11.391
+so we've...
+
+752
+25:12.725 --> 25:15.004
+The group up here views it as commercial
+
+753
+25:15.004 --> 25:15.837
+and defense,
+
+754
+25:15.837 --> 25:17.342
+and I'm sure you do the same, right?
+
+755
+25:17.342 --> 25:18.319
+So, the revenue that we bring in,
+
+756
+25:18.319 --> 25:19.152
+and the projects,
+
+757
+25:19.152 --> 25:20.160
+and the programs that we work on,
+
+758
+25:20.160 --> 25:21.094
+be it software,
+
+759
+25:21.094 --> 25:22.444
+hardware, or just...
+
+760
+25:22.444 --> 25:23.277
+Just a thing,
+
+761
+25:23.277 --> 25:25.264
+just a product or an engineering service,
+
+762
+25:25.264 --> 25:27.059
+we like to segment our revenues
+
+763
+25:27.059 --> 25:27.960
+between commercial
+
+764
+25:27.960 --> 25:28.793
+and defense.
+
+765
+25:28.793 --> 25:30.940
+Now, how you break that down revenue-wise,
+
+766
+25:30.940 --> 25:32.682
+or just hypothetically,
+
+767
+25:32.682 --> 25:35.222
+commercial's the fun stuff, right?
+
+768
+25:35.222 --> 25:36.364
+Those are the programs
+
+769
+25:36.364 --> 25:38.701
+that you're working with a privately held...
+
+770
+25:38.701 --> 25:39.960
+A private company,
+
+771
+25:39.960 --> 25:41.559
+a publicly traded company or whatever,
+
+772
+25:41.559 --> 25:43.480
+non-military, right?
+
+773
+25:43.480 --> 25:45.499
+And you build a relationship,
+
+774
+25:45.499 --> 25:47.134
+and you get that contract,
+
+775
+25:47.134 --> 25:47.996
+you get that work,
+
+776
+25:47.996 --> 25:48.834
+you get that collaboration,
+
+777
+25:48.834 --> 25:50.088
+that partnership,
+
+778
+25:50.088 --> 25:51.614
+and you know,
+
+779
+25:51.614 --> 25:52.596
+ya gotta go through this
+
+780
+25:52.596 --> 25:53.689
+master of services process
+
+781
+25:53.689 --> 25:56.194
+where you're gonna arm wrestle over the IP,
+
+782
+25:56.194 --> 25:57.349
+and the exclusivity,
+
+783
+25:57.349 --> 25:59.121
+and the termination clauses,
+
+784
+25:59.121 --> 26:00.802
+and basically who gets the kids
+
+785
+26:00.802 --> 26:02.736
+in the divorce, right?
+
+786
+26:02.736 --> 26:05.298
+Margins are higher in work like that,
+
+787
+26:05.298 --> 26:08.559
+north of 10/15/20% margin 'cause it's cool,
+
+788
+26:08.559 --> 26:10.354
+exciting work with a private,
+
+789
+26:10.354 --> 26:11.933
+or a publicly traded company.
+
+790
+26:11.933 --> 26:14.507
+Then you have defense work, right?
+
+791
+26:14.507 --> 26:15.784
+I'm not saying that it's boring,
+
+792
+26:15.784 --> 26:16.662
+because it's not,
+
+793
+26:16.662 --> 26:17.689
+it's actually quite exhilarating
+
+794
+26:17.689 --> 26:19.275
+and exciting, 'cause it leads to commercial
+
+795
+26:19.275 --> 26:21.344
+in the future, right?
+
+796
+26:21.344 --> 26:25.427
+You have to go through a difficult time sometimes
+
+797
+26:26.278 --> 26:28.945
+to get said government contract,
+
+798
+26:29.805 --> 26:32.850
+the margins on government work are much smaller,
+
+799
+26:32.850 --> 26:35.775
+5%/6%/7%,
+
+800
+26:35.775 --> 26:38.895
+but it's non-dilutive capital, right?
+
+801
+26:38.895 --> 26:40.227
+It's non-dilutive capital.
+
+802
+26:40.227 --> 26:42.690
+I know with our work we get pretty special
+
+803
+26:42.690 --> 26:44.306
+intellectual property rights
+
+804
+26:44.306 --> 26:46.646
+to help us build subsequent platforms.
+
+805
+26:46.646 --> 26:48.495
+So, the reason that I share that with you,
+
+806
+26:48.495 --> 26:50.518
+is because we have been successful
+
+807
+26:50.518 --> 26:52.200
+as a company now at 15-years-old
+
+808
+26:52.200 --> 26:53.040
+and growing,
+
+809
+26:53.040 --> 26:54.718
+to create a diverse model,
+
+810
+26:54.718 --> 26:56.475
+whereas years ago,
+
+811
+26:56.475 --> 26:57.420
+our government
+
+812
+26:57.420 --> 27:00.326
+and defense work was probably around 15/20%
+
+813
+27:00.326 --> 27:01.197
+of our revenues,
+
+814
+27:01.197 --> 27:02.278
+where now at the close
+
+815
+27:02.278 --> 27:03.812
+of last year's about 50/50,
+
+816
+27:03.812 --> 27:05.986
+so that is a diverse model, right?
+
+817
+27:05.986 --> 27:08.445
+So, I share that with you because we believe that
+
+818
+27:08.445 --> 27:10.454
+that's what we have to do as a company
+
+819
+27:10.454 --> 27:11.920
+in order to...
+
+820
+27:11.920 --> 27:13.837
+Listen, there could be,
+
+821
+27:15.105 --> 27:17.576
+sadly, a global conflict,
+
+822
+27:17.576 --> 27:18.780
+that could impact our business
+
+823
+27:18.780 --> 27:20.505
+with private companies, right?
+
+824
+27:20.505 --> 27:23.070
+There could be a presidential election
+
+825
+27:23.070 --> 27:23.903
+just occurred,
+
+826
+27:23.903 --> 27:26.069
+or there could be shifts in congress,
+
+827
+27:26.069 --> 27:27.945
+Taylor and Travis may break up,
+
+828
+27:27.945 --> 27:28.950
+I don't know,
+
+829
+27:28.950 --> 27:30.660
+there's a lot of things that could occur
+
+830
+27:30.660 --> 27:32.564
+that could impact the trajectory of our business,
+
+831
+27:32.564 --> 27:35.280
+that's why we must be diverse at all times.
+
+832
+27:35.280 --> 27:36.850
+So, I turn over to commercial,
+
+833
+27:36.850 --> 27:38.578
+and I'm looking at you Sanjiv,
+
+834
+27:38.578 --> 27:40.110
+you guys started on commercial,
+
+835
+27:40.110 --> 27:42.810
+you were really working heavily in military,
+
+836
+27:42.810 --> 27:45.027
+are there plans longterm
+
+837
+27:45.027 --> 27:47.655
+to take your technologies,
+
+838
+27:47.655 --> 27:48.596
+and to adapt them,
+
+839
+27:48.596 --> 27:50.548
+and integrate them into the commercial world?
+
+840
+27:50.548 --> 27:51.685
+<v ->That's great,</v>
+
+841
+27:51.685 --> 27:53.308
+and since the topic of this panel
+
+842
+27:53.308 --> 27:54.418
+is about dual-use,
+
+843
+27:54.418 --> 27:55.858
+we think about this all the time,
+
+844
+27:55.858 --> 27:58.040
+and it's a good thing to bring up.
+
+845
+27:58.040 --> 27:59.458
+I'll tell you about
+
+846
+27:59.458 --> 28:02.541
+a conference I went to in Huntsville,
+
+847
+28:03.385 --> 28:04.757
+where the Army Aviation is,
+
+848
+28:04.757 --> 28:06.452
+and what they talked about is that,
+
+849
+28:06.452 --> 28:09.062
+we have three uses of drones,
+
+850
+28:09.062 --> 28:11.372
+or unmanned aircraft,
+
+851
+28:11.372 --> 28:12.898
+they called it,
+
+852
+28:12.898 --> 28:15.332
+"Find it. Move it. Kill it." Okay?
+
+853
+28:15.332 --> 28:16.632
+It's a little hard to take sometimes,
+
+854
+28:16.632 --> 28:18.692
+is I love the brevity of it.
+
+855
+28:18.692 --> 28:20.759
+The "it" is not the same thing, right?
+
+856
+28:20.759 --> 28:23.040
+You don't move the thing that you find
+
+857
+28:23.040 --> 28:25.232
+and then kill the thing that you moved,
+
+858
+28:25.232 --> 28:26.535
+it's three missions, right?
+
+859
+28:26.535 --> 28:27.785
+So now, that...
+
+860
+28:28.782 --> 28:29.627
+Having said that,
+
+861
+28:29.627 --> 28:30.706
+so the question is,
+
+862
+28:30.706 --> 28:33.333
+"Where, if we're going to do
+
+863
+28:33.333 --> 28:36.102
+a military kind of start,
+
+864
+28:36.102 --> 28:37.992
+will we find a commercial use-case?"
+
+865
+28:37.992 --> 28:39.912
+So, I'll tell you that the two cases,
+
+866
+28:39.912 --> 28:41.012
+the "Find it"
+
+867
+28:41.012 --> 28:42.512
+and the "Move it" part
+
+868
+28:42.512 --> 28:44.672
+have commercial applications.
+
+869
+28:44.672 --> 28:48.404
+The "Find it" may be a little bit more nuanced,
+
+870
+28:48.404 --> 28:49.887
+because "Find it" might not be
+
+871
+28:49.887 --> 28:50.922
+just find a target,
+
+872
+28:50.922 --> 28:52.067
+but it's like finding something,
+
+873
+28:52.067 --> 28:53.162
+a fault in there.
+
+874
+28:53.162 --> 28:56.237
+So inspection is a big deal with drones,
+
+875
+28:56.237 --> 28:57.070
+we can...
+
+876
+28:57.070 --> 29:00.539
+We actually have a enterprise much like yours,
+
+877
+29:00.539 --> 29:01.372
+like Thorough,
+
+878
+29:01.372 --> 29:03.151
+we have a division called Proxim
+
+879
+29:03.151 --> 29:05.593
+that is looking to inspect large aircraft
+
+880
+29:05.593 --> 29:07.412
+with small drones, okay?
+
+881
+29:07.412 --> 29:10.216
+And the idea is just like,
+
+882
+29:10.216 --> 29:12.407
+you want to do all sorts of predictive analysis,
+
+883
+29:12.407 --> 29:15.272
+you wanna be able to capture some data,
+
+884
+29:15.272 --> 29:17.011
+we use these small drones that can fly around
+
+885
+29:17.011 --> 29:18.332
+without any infrastructure,
+
+886
+29:18.332 --> 29:22.037
+map a larger aircraft like the C-17,
+
+887
+29:22.037 --> 29:24.182
+but also could be a A380,
+
+888
+29:24.182 --> 29:25.517
+or a 777,
+
+889
+29:25.517 --> 29:28.934
+787, and then be able to find the defects
+
+890
+29:29.912 --> 29:32.805
+and deal with all of the sort of logist...
+
+891
+29:32.805 --> 29:34.920
+The data analytics that's associated
+
+892
+29:34.920 --> 29:36.302
+with containing aircraft,
+
+893
+29:36.302 --> 29:37.397
+which is a very big deal,
+
+894
+29:37.397 --> 29:38.762
+hard to do in the military
+
+895
+29:38.762 --> 29:40.437
+for reasons of footprint,
+
+896
+29:40.437 --> 29:43.032
+you know, the number of people involved,
+
+897
+29:43.032 --> 29:44.222
+but also, very,
+
+898
+29:44.222 --> 29:46.273
+very useful for the commercial side, okay?
+
+899
+29:46.273 --> 29:48.328
+So, we have deployments in Doha,
+
+900
+29:48.328 --> 29:50.489
+working with Emirates,
+
+901
+29:50.489 --> 29:51.557
+and other places.
+
+902
+29:51.557 --> 29:52.890
+Also at the same time,
+
+903
+29:52.890 --> 29:54.362
+we're working with the US Air Force
+
+904
+29:54.362 --> 29:56.352
+to inspect large aircraft.
+
+905
+29:56.352 --> 29:57.185
+The other side,
+
+906
+29:57.185 --> 30:00.298
+the "Move it" side is like an obvious thing,
+
+907
+30:00.298 --> 30:01.131
+you know?
+
+908
+30:01.131 --> 30:01.964
+We need DHL,
+
+909
+30:01.964 --> 30:04.007
+UPS, you name it,
+
+910
+30:04.007 --> 30:06.012
+FedEx want to move things,
+
+911
+30:06.012 --> 30:07.048
+and the idea is that
+
+912
+30:07.048 --> 30:09.479
+if you could move these things autonomously
+
+913
+30:09.479 --> 30:10.425
+without somebody,
+
+914
+30:10.425 --> 30:12.797
+and safely from "A" to "B",
+
+915
+30:12.797 --> 30:15.120
+not the last mile,
+
+916
+30:15.120 --> 30:17.162
+but the mid-mile,
+
+917
+30:17.162 --> 30:18.917
+you could actually be able
+
+918
+30:18.917 --> 30:22.000
+to meet the cost per kilo of a truck,
+
+919
+30:24.089 --> 30:24.922
+and that's a very,
+
+920
+30:24.922 --> 30:26.792
+very attractive kind of a proposition
+
+921
+30:26.792 --> 30:27.872
+to be able to do that.
+
+922
+30:27.872 --> 30:28.742
+So, all of these things
+
+923
+30:28.742 --> 30:30.239
+are a little futuristic,
+
+924
+30:30.239 --> 30:32.192
+they will take some time,
+
+925
+30:32.192 --> 30:35.859
+The FA is not eager to be super progressive,
+
+926
+30:36.752 --> 30:38.263
+or, progressive is the wrong word,
+
+927
+30:38.263 --> 30:39.096
+"cutting edge"?
+
+928
+30:39.096 --> 30:41.747
+Because they care deeply about safety,
+
+929
+30:41.747 --> 30:42.580
+and you know,
+
+930
+30:42.580 --> 30:45.302
+don't get a lot of benefit from making these...
+
+931
+30:45.302 --> 30:46.662
+Accelerating these technologies,
+
+932
+30:46.662 --> 30:48.707
+get their hand slapped when something bad happens.
+
+933
+30:48.707 --> 30:50.267
+So, I think the...
+
+934
+30:50.267 --> 30:52.337
+You know, we have to prove these technologies out
+
+935
+30:52.337 --> 30:54.242
+before they enter commercial service,
+
+936
+30:54.242 --> 30:55.164
+how we're gonna do that?
+
+937
+30:55.164 --> 30:55.997
+Well you know,
+
+938
+30:55.997 --> 30:58.695
+if you've had some technology flying
+
+939
+30:58.695 --> 31:00.569
+for tens or hundreds of thousands
+
+940
+31:00.569 --> 31:02.483
+of hours on a military setting,
+
+941
+31:02.483 --> 31:03.316
+then you know,
+
+942
+31:03.316 --> 31:04.474
+we might be able to make the case
+
+943
+31:04.474 --> 31:07.832
+that it's okay to fly between Allan Town
+
+944
+31:07.832 --> 31:10.197
+and Zelienople, think about that.
+
+945
+31:10.197 --> 31:11.647
+<v ->Yeah, that's far away.</v>
+
+946
+31:11.647 --> 31:13.152
+Thank you.
+
+947
+31:13.152 --> 31:15.367
+Olga, the same with you guys,
+
+948
+31:15.367 --> 31:16.432
+there's gonna be an evolution
+
+949
+31:16.432 --> 31:17.622
+into the commercial space,
+
+950
+31:17.622 --> 31:18.457
+so what kind...
+
+951
+31:18.457 --> 31:19.797
+I mean, without giving away too much,
+
+952
+31:19.797 --> 31:22.194
+and people tweeting it out,
+
+953
+31:22.194 --> 31:23.109
+what can you share
+
+954
+31:23.109 --> 31:24.147
+of what you're looking at
+
+955
+31:24.147 --> 31:26.183
+in the commercial space?
+
+956
+31:26.183 --> 31:27.852
+<v ->Yeah, I mean,</v>
+
+957
+31:27.852 --> 31:29.519
+I think that for us,
+
+958
+31:30.372 --> 31:33.417
+I agree with everything you said Sanjiv,
+
+959
+31:33.417 --> 31:34.377
+you know, safety is very,
+
+960
+31:34.377 --> 31:35.627
+very important.
+
+961
+31:36.519 --> 31:39.102
+So, I see in the future, KEF...
+
+962
+31:39.942 --> 31:42.942
+KEF's products being a backup system
+
+963
+31:43.870 --> 31:44.953
+for you know,
+
+964
+31:45.938 --> 31:47.767
+large aircraft, right?
+
+965
+31:47.767 --> 31:49.261
+So, GPS fails,
+
+966
+31:49.261 --> 31:51.453
+comms fail, pilot can't figure out
+
+967
+31:51.453 --> 31:53.453
+how to land an aircraft,
+
+968
+31:54.458 --> 31:58.226
+might not know where they are in air space,
+
+969
+31:58.226 --> 32:00.392
+a system like ours could be able
+
+970
+32:00.392 --> 32:02.603
+to lead that pilot home safely.
+
+971
+32:02.603 --> 32:04.710
+So, this is in the future,
+
+972
+32:04.710 --> 32:07.109
+right now, you know,
+
+973
+32:07.109 --> 32:08.326
+we're having...
+
+974
+32:08.326 --> 32:09.753
+We can see this all over the world,
+
+975
+32:09.753 --> 32:12.571
+right now we can't even get a small drone
+
+976
+32:12.571 --> 32:15.382
+from point "A" to point "B" without conflict,
+
+977
+32:15.382 --> 32:17.503
+right now, there's been a ton of news
+
+978
+32:17.503 --> 32:19.586
+about airplane accidents,
+
+979
+32:21.777 --> 32:25.391
+and also just confusion in you know,
+
+980
+32:25.391 --> 32:27.428
+GPS, so we need to solve
+
+981
+32:27.428 --> 32:31.011
+these smaller problems first in my opinion.
+
+982
+32:32.128 --> 32:33.711
+<v ->So, 10-years ago,</v>
+
+983
+32:35.546 --> 32:37.825
+I remember, I think a lot of people can relate
+
+984
+32:37.825 --> 32:39.297
+to this in the room.
+
+985
+32:39.297 --> 32:40.419
+I remember going home,
+
+986
+32:40.419 --> 32:41.602
+I saw a drone,
+
+987
+32:41.602 --> 32:42.435
+then I went
+
+988
+32:42.435 --> 32:43.268
+and told my wife,
+
+989
+32:43.268 --> 32:44.640
+go, "Babe, I saw a drone."
+
+990
+32:44.640 --> 32:45.473
+"Really?"
+
+991
+32:45.473 --> 32:46.581
+"Yeah, I saw a drone."
+
+992
+32:46.581 --> 32:49.550
+The dude had a little joystick,
+
+993
+32:49.550 --> 32:51.090
+and he had a little camera on it,
+
+994
+32:51.090 --> 32:52.443
+it was a GoPro,
+
+995
+32:52.443 --> 32:53.904
+like the guys that jump off the mountain,
+
+996
+32:53.904 --> 32:55.483
+like really, could see like perfectly
+
+997
+32:55.483 --> 32:56.318
+crystal clear,
+
+998
+32:56.318 --> 32:58.071
+"Oh, how about that."
+
+999
+32:58.071 --> 32:58.988
+Fast-forward 10-years now,
+
+1000
+32:58.988 --> 33:01.229
+everybody and their step sister has a drone,
+
+1001
+33:01.229 --> 33:03.355
+and there's a drone company sprouting up,
+
+1002
+33:03.355 --> 33:04.854
+probably 10 today,
+
+1003
+33:04.854 --> 33:06.385
+in this room, right?
+
+1004
+33:06.385 --> 33:07.412
+So, it's...
+
+1005
+33:07.412 --> 33:08.496
+And I love that,
+
+1006
+33:08.496 --> 33:09.377
+I love that innovation,
+
+1007
+33:09.377 --> 33:10.479
+I love that entrepreneur spirit.
+
+1008
+33:10.479 --> 33:11.409
+So, those are the challenges
+
+1009
+33:11.409 --> 33:13.591
+that you dealt with in you know,
+
+1010
+33:13.591 --> 33:17.022
+to try to find that unique value prop.
+
+1011
+33:17.022 --> 33:19.238
+You know, we also saw it in autonomy
+
+1012
+33:19.238 --> 33:20.241
+with military,
+
+1013
+33:20.241 --> 33:22.177
+if you went 10-years-ago to an AUSA,
+
+1014
+33:22.177 --> 33:23.755
+Association for US Army,
+
+1015
+33:23.755 --> 33:24.588
+you walked in
+
+1016
+33:24.588 --> 33:26.268
+and you were autotomizing a thing,
+
+1017
+33:26.268 --> 33:27.661
+you were the belle at the ball,
+
+1018
+33:27.661 --> 33:29.441
+today everybody's doing it.
+
+1019
+33:29.441 --> 33:31.419
+So, our businesses are tasked
+
+1020
+33:31.419 --> 33:33.072
+with constantly evolving
+
+1021
+33:33.072 --> 33:35.278
+and finding that unique valued prop,
+
+1022
+33:35.278 --> 33:38.742
+so in the Aquatonomy space, how...
+
+1023
+33:38.742 --> 33:40.613
+How are you looking at the future?
+
+1024
+33:40.613 --> 33:41.470
+Because right now you guys
+
+1025
+33:41.470 --> 33:45.553
+are building software for cutting-edge processes,
+
+1026
+33:46.675 --> 33:48.034
+but you're gonna see where you're gonna go
+
+1027
+33:48.034 --> 33:49.240
+in the commercial space,
+
+1028
+33:49.240 --> 33:50.990
+or is it the unknown?
+
+1029
+33:52.868 --> 33:55.317
+<v ->It is actually not unknown,</v>
+
+1030
+33:55.317 --> 33:56.275
+the reason I can say this
+
+1031
+33:56.275 --> 33:58.178
+is because we're fortunate enough
+
+1032
+33:58.178 --> 33:59.589
+to have very...
+
+1033
+33:59.589 --> 34:02.287
+To fuel very early customer engagement,
+
+1034
+34:02.287 --> 34:03.850
+even before our products are ready
+
+1035
+34:03.850 --> 34:06.255
+to deeply understand
+
+1036
+34:06.255 --> 34:08.507
+what the customer's paying points are,
+
+1037
+34:08.507 --> 34:09.722
+what their needs are,
+
+1038
+34:09.722 --> 34:11.169
+and how they will like solution
+
+1039
+34:11.169 --> 34:13.410
+to work for them, both in...
+
+1040
+34:13.410 --> 34:16.783
+Because we're in duel technology space,
+
+1041
+34:16.783 --> 34:17.999
+we engage customer both
+
+1042
+34:17.999 --> 34:20.601
+in the government sector,
+
+1043
+34:20.601 --> 34:22.906
+and also in commercial sector.
+
+1044
+34:22.906 --> 34:23.743
+Under water environments
+
+1045
+34:23.743 --> 34:26.305
+are very difficult to reach,
+
+1046
+34:26.305 --> 34:28.015
+navigate, there's no GPS,
+
+1047
+34:28.015 --> 34:31.151
+and it presents a very different
+
+1048
+34:31.151 --> 34:32.559
+set of challenges,
+
+1049
+34:32.559 --> 34:33.530
+compared to land
+
+1050
+34:33.530 --> 34:34.929
+and sky.
+
+1051
+34:34.929 --> 34:36.959
+Amazingly, currently,
+
+1052
+34:36.959 --> 34:38.603
+most of the underwater inspections
+
+1053
+34:38.603 --> 34:40.575
+are still done by divers,
+
+1054
+34:40.575 --> 34:41.771
+it is very dangerous,
+
+1055
+34:41.771 --> 34:42.618
+and a hard...
+
+1056
+34:42.618 --> 34:44.868
+Difficult work environment,
+
+1057
+34:47.289 --> 34:48.584
+and it's also very expensive
+
+1058
+34:48.584 --> 34:50.291
+because of the challenges.
+
+1059
+34:50.291 --> 34:52.543
+By introducing autonomy,
+
+1060
+34:52.543 --> 34:53.803
+as I said that we're specialized
+
+1061
+34:53.803 --> 34:55.980
+in autonomous underwater navigation,
+
+1062
+34:55.980 --> 34:56.980
+and mapping.
+
+1063
+34:59.036 --> 35:01.599
+Especially in complex areas,
+
+1064
+35:01.599 --> 35:03.404
+and even in turbulent water,
+
+1065
+35:03.404 --> 35:05.321
+so by introducing autonomy,
+
+1066
+35:05.321 --> 35:07.488
+we drastically accelerate,
+
+1067
+35:09.375 --> 35:12.937
+and simplify underwater data collection.
+
+1068
+35:12.937 --> 35:15.705
+And because of the localization technology
+
+1069
+35:15.705 --> 35:16.783
+that we develop,
+
+1070
+35:16.783 --> 35:21.037
+we're able to build 3D models that are accurate,
+
+1071
+35:21.037 --> 35:23.833
+allowing the users to identify problems
+
+1072
+35:23.833 --> 35:25.228
+and keep track of changes.
+
+1073
+35:25.228 --> 35:29.018
+So, by introducing the cutting edge technology
+
+1074
+35:29.018 --> 35:30.012
+in the industry,
+
+1075
+35:30.012 --> 35:32.908
+we transform how things are done,
+
+1076
+35:32.908 --> 35:35.386
+so that is the future that we're seeing.
+
+1077
+35:35.386 --> 35:36.219
+<v ->I love it.</v>
+
+1078
+35:36.219 --> 35:37.883
+I wanna jump really quick,
+
+1079
+35:37.883 --> 35:40.203
+because we have five-minutes left,
+
+1080
+35:40.203 --> 35:41.391
+to see if there's any questions,
+
+1081
+35:41.391 --> 35:42.639
+if everybody's okay with that?
+
+1082
+35:42.639 --> 35:45.231
+And we already got one,
+
+1083
+35:45.231 --> 35:46.223
+go for it.
+
+1084
+35:46.223 --> 35:47.631
+Do it buddy, shout it!
+
+1085
+35:47.631 --> 35:49.519
+<v Aaron>Okay. Hi, my name's Aaron,</v>
+
+1086
+35:49.519 --> 35:52.431
+so, I wonder how you all think about
+
+1087
+35:52.431 --> 35:55.439
+the evolution of the ground control station?
+
+1088
+35:55.439 --> 35:57.422
+I mean, some drones are big,
+
+1089
+35:57.422 --> 35:59.215
+and maybe they're not gonna ever you know,
+
+1090
+35:59.215 --> 36:00.606
+like send their...
+
+1091
+36:00.606 --> 36:02.623
+Send what they're looking at or sensing
+
+1092
+36:02.623 --> 36:04.869
+into a human at the ground,
+
+1093
+36:04.869 --> 36:07.889
+but a lot of the smaller form drones you know,
+
+1094
+36:07.889 --> 36:10.591
+the legacy is the come with some custom GCS,
+
+1095
+36:10.591 --> 36:11.509
+and if that thing breaks,
+
+1096
+36:11.509 --> 36:13.317
+then whatever the drone was doing,
+
+1097
+36:13.317 --> 36:14.580
+it's you know kinda worthless.
+
+1098
+36:14.580 --> 36:15.954
+So, how do you guys think about that?
+
+1099
+36:15.954 --> 36:17.157
+How do you think about,
+
+1100
+36:17.157 --> 36:19.445
+as a drone company,
+
+1101
+36:19.445 --> 36:20.641
+what's your responsibility
+
+1102
+36:20.641 --> 36:22.576
+to think about the network?
+
+1103
+36:22.576 --> 36:23.978
+Or do you leave that to others?
+
+1104
+36:23.978 --> 36:25.848
+Just looking for your thoughts.
+
+1105
+36:25.848 --> 36:27.600
+<v ->Yeah, thank you.</v>
+
+1106
+36:27.600 --> 36:30.084
+We decided that not only did we want
+
+1107
+36:30.084 --> 36:32.335
+to actually work on the autonomy in the air,
+
+1108
+36:32.335 --> 36:36.082
+but we wanted to create a whole ecosystem
+
+1109
+36:36.082 --> 36:38.415
+for how drones could be used
+
+1110
+36:39.436 --> 36:40.881
+to request for supplies,
+
+1111
+36:40.881 --> 36:43.045
+to then monitor the aircraft
+
+1112
+36:43.045 --> 36:44.032
+that actually deliver it,
+
+1113
+36:44.032 --> 36:45.317
+to re-task them,
+
+1114
+36:45.317 --> 36:47.684
+or doing anything that exceptional.
+
+1115
+36:47.684 --> 36:48.715
+So, we created a thing
+
+1116
+36:48.715 --> 36:50.028
+called "Push Button Delivery",
+
+1117
+36:50.028 --> 36:53.346
+which sits on top of some standards
+
+1118
+36:53.346 --> 36:54.769
+like 8TACK, okay?
+
+1119
+36:54.769 --> 36:55.696
+So, "Push Button Delivery"
+
+1120
+36:55.696 --> 36:58.734
+has exactly the amount of information
+
+1121
+36:58.734 --> 37:01.029
+that a person in the field needs
+
+1122
+37:01.029 --> 37:03.167
+for just the logistics task,
+
+1123
+37:03.167 --> 37:04.822
+and you can imagine I think the way to do this
+
+1124
+37:04.822 --> 37:07.300
+is not a confusing kind of a panel
+
+1125
+37:07.300 --> 37:09.656
+with all sorts of status,
+
+1126
+37:09.656 --> 37:12.847
+like somewhere in here with lots of tabs,
+
+1127
+37:12.847 --> 37:15.087
+et cetera, to be able to look
+
+1128
+37:15.087 --> 37:16.345
+at the different status,
+
+1129
+37:16.345 --> 37:18.482
+you wanna know as the requester,
+
+1130
+37:18.482 --> 37:20.348
+"Hey, I asked for something,
+
+1131
+37:20.348 --> 37:22.162
+I asked for this in the field,
+
+1132
+37:22.162 --> 37:25.218
+and now, how far away is it?"
+
+1133
+37:25.218 --> 37:26.976
+And it's close by,
+
+1134
+37:26.976 --> 37:28.944
+is it okay to land...
+
+1135
+37:28.944 --> 37:30.194
+Loiter or land,
+
+1136
+37:30.194 --> 37:31.361
+okay to land,
+
+1137
+37:31.361 --> 37:32.194
+and if it's not,
+
+1138
+37:32.194 --> 37:33.280
+if the person doesn't respond,
+
+1139
+37:33.280 --> 37:34.813
+it has to make it's own mind up
+
+1140
+37:34.813 --> 37:35.869
+whether she's okay to land,
+
+1141
+37:35.869 --> 37:36.945
+or go back.
+
+1142
+37:36.945 --> 37:40.018
+So, this is the idea of what we call
+
+1143
+37:40.018 --> 37:40.860
+"Push Button Delivery",
+
+1144
+37:40.860 --> 37:42.530
+and I think the idea of comms channels,
+
+1145
+37:42.530 --> 37:44.945
+I think you wanna be completely transparent
+
+1146
+37:44.945 --> 37:46.818
+to whatever is out there.
+
+1147
+37:46.818 --> 37:48.050
+So, in our case,
+
+1148
+37:48.050 --> 37:49.407
+we use mesh radios,
+
+1149
+37:49.407 --> 37:50.764
+the ones that the marine corp uses,
+
+1150
+37:50.764 --> 37:53.794
+we use some sort of a Satcom kind of thing
+
+1151
+37:53.794 --> 37:56.591
+and any other kind of like cell service,
+
+1152
+37:56.591 --> 38:00.082
+that's all built into a comms panel,
+
+1153
+38:00.082 --> 38:02.402
+which is completely transparent to the user.
+
+1154
+38:02.402 --> 38:03.662
+So, if you're...
+
+1155
+38:03.662 --> 38:05.630
+If you're nowhere where there's infrastructure,
+
+1156
+38:05.630 --> 38:07.198
+then you have a slower link, okay?
+
+1157
+38:07.198 --> 38:09.474
+And the idea is that the person
+
+1158
+38:09.474 --> 38:12.391
+on either end of the delivery thing
+
+1159
+38:13.458 --> 38:15.260
+is gonna only look at very,
+
+1160
+38:15.260 --> 38:18.028
+very low bandwidth kind of information
+
+1161
+38:18.028 --> 38:19.454
+using all the information
+
+1162
+38:19.454 --> 38:20.834
+that's already out there.
+
+1163
+38:20.834 --> 38:23.132
+And so, you can get it faster,
+
+1164
+38:23.132 --> 38:24.642
+or you can get it,
+
+1165
+38:24.642 --> 38:26.348
+you know, whatever is the...
+
+1166
+38:26.348 --> 38:29.565
+Is the mode that works the best at that time,
+
+1167
+38:29.565 --> 38:31.201
+so that's just completely transparent,
+
+1168
+38:31.201 --> 38:32.432
+we don't wanna take any kinda stake
+
+1169
+38:32.432 --> 38:34.290
+into what kind of...
+
+1170
+38:34.290 --> 38:36.524
+What kind of challenge should be used.
+
+1171
+38:36.524 --> 38:37.357
+<v ->Thank you. Any...</v>
+
+1172
+38:37.357 --> 38:38.626
+Anybody else, another question?
+
+1173
+38:38.626 --> 38:41.626
+Oh. Enthusiastic in the front. Here.
+
+1174
+38:44.384 --> 38:45.794
+<v Shonya>Hi, my name is Shonya,</v>
+
+1175
+38:45.794 --> 38:48.092
+and my question was around a point
+
+1176
+38:48.092 --> 38:48.978
+that you mentioned,
+
+1177
+38:48.978 --> 38:50.594
+that the FA's being super cautious
+
+1178
+38:50.594 --> 38:51.667
+with you know,
+
+1179
+38:51.667 --> 38:52.828
+allowing commercialization
+
+1180
+38:52.828 --> 38:55.123
+of technology like drones,
+
+1181
+38:55.123 --> 38:56.995
+but then we see companies like Zipline,
+
+1182
+38:56.995 --> 38:59.256
+Prime Air already building infrastructure
+
+1183
+38:59.256 --> 39:00.339
+for you know,
+
+1184
+39:01.289 --> 39:03.718
+delivery, last time delivery.
+
+1185
+39:03.718 --> 39:05.898
+Do you have a metric
+
+1186
+39:05.898 --> 39:08.920
+or a number of years where you can say,
+
+1187
+39:08.920 --> 39:10.056
+"Okay, in these many years,
+
+1188
+39:10.056 --> 39:12.438
+commercial drones are going to be
+
+1189
+39:12.438 --> 39:14.632
+a normal thing in society."?
+
+1190
+39:14.632 --> 39:16.597
+Or at least in the US.
+
+1191
+39:16.597 --> 39:17.430
+<v ->We have to go,</v>
+
+1192
+39:17.430 --> 39:18.905
+15-seconds or less,
+
+1193
+39:18.905 --> 39:20.383
+answer it, 'cause I wanna get to work.
+
+1194
+39:20.383 --> 39:22.634
+<v ->I don't think that there is any such thing,</v>
+
+1195
+39:22.634 --> 39:24.109
+any prediction that works here,
+
+1196
+39:24.109 --> 39:25.882
+I think it has to do with politics,
+
+1197
+39:25.882 --> 39:27.305
+it has to do with a level of safety
+
+1198
+39:27.305 --> 39:30.243
+our society decides it wants to, okay?
+
+1199
+39:30.243 --> 39:32.993
+I can say more later if you like.
+
+1200
+39:34.670 --> 39:36.050
+<v ->Who else?</v>
+
+1201
+39:36.050 --> 39:38.133
+This person. That person.
+
+1202
+39:40.041 --> 39:41.414
+<v Bob>Bob Kurt, Wilkins &amp; Barker.</v>
+
+1203
+39:41.414 --> 39:44.440
+I had a quick question on the public panic,
+
+1204
+39:44.440 --> 39:46.716
+the fever pitch over drone sightings
+
+1205
+39:46.716 --> 39:47.699
+in the North East,
+
+1206
+39:47.699 --> 39:48.702
+do you think that's going to be
+
+1207
+39:48.702 --> 39:50.894
+good for business or bad for business,
+
+1208
+39:50.894 --> 39:52.008
+and why?
+
+1209
+39:52.008 --> 39:53.021
+<v ->Those were Olga's drones.</v>
+
+1210
+39:53.021 --> 39:55.153
+(audience laughing)
+
+1211
+39:55.153 --> 39:59.460
+<v ->Mike, you said you weren't gonna tell anybody.</v>
+
+1212
+39:59.460 --> 40:01.873
+<v ->Olga, do you have a response to that, or?</v>
+
+1213
+40:01.873 --> 40:03.177
+(Mike laughing)
+
+1214
+40:03.177 --> 40:04.532
+<v ->I could just tell you at Thanksgiving,</v>
+
+1215
+40:04.532 --> 40:05.415
+it was the sat with this.
+
+1216
+40:05.415 --> 40:06.583
+"Those are your drones?"
+
+1217
+40:06.583 --> 40:07.524
+"Those are your drones?"
+
+1218
+40:07.524 --> 40:08.720
+Sorry, can't say.
+
+1219
+40:08.720 --> 40:09.601
+If I ever told ya,
+
+1220
+40:09.601 --> 40:11.220
+I'd have to shoot you.
+
+1221
+40:11.220 --> 40:14.772
+I think that there's some hysteria here
+
+1222
+40:14.772 --> 40:16.692
+about the kinds of drones,
+
+1223
+40:16.692 --> 40:18.000
+and we just haven't gotten used to it,
+
+1224
+40:18.000 --> 40:19.268
+just like self-driving cars,
+
+1225
+40:19.268 --> 40:22.606
+this is a technology that has...
+
+1226
+40:22.606 --> 40:23.812
+I mean, the technology works,
+
+1227
+40:23.812 --> 40:25.408
+but there's a question of public acceptance,
+
+1228
+40:25.408 --> 40:27.044
+it's just gonna take some time
+
+1229
+40:27.044 --> 40:29.461
+for us to be able to do this.
+
+1230
+40:32.496 --> 40:34.110
+<v Terran>Hey folks, my name is Terran.</v>
+
+1231
+40:34.110 --> 40:34.943
+Very nice discussion,
+
+1232
+40:34.943 --> 40:36.976
+I kind of have a very,
+
+1233
+40:36.976 --> 40:38.869
+maybe like a general question for folks,
+
+1234
+40:38.869 --> 40:39.814
+as someone who's worked on
+
+1235
+40:39.814 --> 40:41.139
+autonomy systems in the past.
+
+1236
+40:41.139 --> 40:43.974
+With the advent of where AI is going,
+
+1237
+40:43.974 --> 40:47.557
+and all the innovations in AI specifically,
+
+1238
+40:48.790 --> 40:51.410
+how fast are your guys' development cycles
+
+1239
+40:51.410 --> 40:53.314
+for your stacks?
+
+1240
+40:53.314 --> 40:56.064
+And, is there an AI tool,
+
+1241
+40:56.064 --> 40:58.262
+or an AI system that you think
+
+1242
+40:58.262 --> 41:00.595
+would make your work faster?
+
+1243
+41:03.278 --> 41:04.715
+<v ->Let me give it to you again.</v>
+
+1244
+41:04.715 --> 41:05.548
+Go for it.
+
+1245
+41:05.548 --> 41:06.966
+<v ->Okay, so look,</v>
+
+1246
+41:06.966 --> 41:08.400
+AI and machine learning
+
+1247
+41:08.400 --> 41:12.042
+are sort of being conflated, right?
+
+1248
+41:12.042 --> 41:13.513
+I don't know what you call AI,
+
+1249
+41:13.513 --> 41:14.825
+but I'm betting that,
+
+1250
+41:14.825 --> 41:16.202
+that is the case,
+
+1251
+41:16.202 --> 41:17.179
+that it's machine learning.
+
+1252
+41:17.179 --> 41:18.504
+We try as a company,
+
+1253
+41:18.504 --> 41:19.904
+not to put any of that
+
+1254
+41:19.904 --> 41:22.266
+into safety critical systems, okay?
+
+1255
+41:22.266 --> 41:24.182
+Safety critical systems need a process,
+
+1256
+41:24.182 --> 41:26.180
+it's that part I talked about,
+
+1257
+41:26.180 --> 41:27.733
+about the assurance that you need
+
+1258
+41:27.733 --> 41:29.269
+to prove to people that...
+
+1259
+41:29.269 --> 41:30.501
+All the stakeholders, right?
+
+1260
+41:30.501 --> 41:31.916
+That the user,
+
+1261
+41:31.916 --> 41:32.916
+the sponsor,
+
+1262
+41:34.067 --> 41:35.270
+and even the insurers
+
+1263
+41:35.270 --> 41:36.368
+that this thing is gonna work.
+
+1264
+41:36.368 --> 41:39.026
+And aviation has very establish standards,
+
+1265
+41:39.026 --> 41:43.573
+170A/DO254, you can't skip those kinds of things,
+
+1266
+41:43.573 --> 41:44.512
+if these things is gonna have
+
+1267
+41:44.512 --> 41:46.158
+some sort of a lasting impact.
+
+1268
+41:46.158 --> 41:47.349
+So you know,
+
+1269
+41:47.349 --> 41:49.037
+hey you wanna use machine learning
+
+1270
+41:49.037 --> 41:51.939
+to possible detect lung cancer early?
+
+1271
+41:51.939 --> 41:53.335
+Go for it.
+
+1272
+41:53.335 --> 41:55.004
+You know, you want it to detect
+
+1273
+41:55.004 --> 41:58.337
+that your carburetor is potentially misfiring
+
+1274
+41:58.337 --> 41:59.894
+ahead of time,
+
+1275
+41:59.894 --> 42:01.783
+early warning,
+
+1276
+42:01.783 --> 42:03.632
+or your tires are getting worn out?
+
+1277
+42:03.632 --> 42:04.465
+Go for it,
+
+1278
+42:04.465 --> 42:05.354
+you know, ahead of time.
+
+1279
+42:05.354 --> 42:07.510
+But, to put it inside a decision loop,
+
+1280
+42:07.510 --> 42:09.366
+I think is a mistake
+
+1281
+42:09.366 --> 42:10.620
+and you know,
+
+1282
+42:10.620 --> 42:12.038
+all of these people trying to think
+
+1283
+42:12.038 --> 42:14.598
+that more data is gonna solve the problem,
+
+1284
+42:14.598 --> 42:16.822
+just see how many years it is
+
+1285
+42:16.822 --> 42:18.260
+before we have a million
+
+1286
+42:18.260 --> 42:20.886
+Robotaxis running around.
+
+1287
+42:20.886 --> 42:22.518
+That was promised many years ago,
+
+1288
+42:22.518 --> 42:23.590
+I'm still waiting,
+
+1289
+42:23.590 --> 42:24.822
+so I think, you know...
+
+1290
+42:24.822 --> 42:26.102
+<v ->We take a similar approach.</v>
+
+1291
+42:26.102 --> 42:28.006
+I know we're over time,
+
+1292
+42:28.006 --> 42:29.440
+but if you wanna get up
+
+1293
+42:29.440 --> 42:30.273
+and leave, you can leave,
+
+1294
+42:30.273 --> 42:31.749
+but I know there's probably two more questions,
+
+1295
+42:31.749 --> 42:32.582
+if you'd like?
+
+1296
+42:32.582 --> 42:33.457
+Go ahead, sir.
+
+1297
+42:33.457 --> 42:34.454
+Go ahead.
+
+1298
+42:34.454 --> 42:36.886
+<v Audience Member>So, as a member</v>
+
+1299
+42:36.886 --> 42:40.300
+of the RC model aircraft community,
+
+1300
+42:40.300 --> 42:42.408
+once the Walmart drones came out,
+
+1301
+42:42.408 --> 42:45.288
+basically the FA nearly killed the hobby.
+
+1302
+42:45.288 --> 42:46.820
+So, seeing...
+
+1303
+42:46.820 --> 42:49.606
+And it has a massive track record,
+
+1304
+42:49.606 --> 42:52.856
+very long track record of no incidents.
+
+1305
+42:55.347 --> 42:57.302
+So, keeping that in mind,
+
+1306
+42:57.302 --> 43:00.307
+when I see this commercial drone...
+
+1307
+43:00.307 --> 43:02.629
+(audio cutting out)
+
+1308
+43:02.629 --> 43:03.629
+over cities,
+
+1309
+43:04.499 --> 43:07.446
+I always think about this technology,
+
+1310
+43:07.446 --> 43:08.769
+and then actually trying to get
+
+1311
+43:08.769 --> 43:12.610
+the technology into the public sphere.
+
+1312
+43:12.610 --> 43:14.527
+Something as simple as,
+
+1313
+43:17.558 --> 43:19.142
+you don't have a camera,
+
+1314
+43:19.142 --> 43:20.370
+it won't have video feeds,
+
+1315
+43:20.370 --> 43:21.939
+you're gonna record those video feeds,
+
+1316
+43:21.939 --> 43:23.622
+now what about,
+
+1317
+43:23.622 --> 43:25.078
+you flew over someone's backyard
+
+1318
+43:25.078 --> 43:29.510
+and they were sunbathing without any clothes,
+
+1319
+43:29.510 --> 43:30.343
+you know?
+
+1320
+43:31.238 --> 43:33.277
+Just simple stuff like that you know,
+
+1321
+43:33.277 --> 43:35.947
+that's an extreme example, but...
+
+1322
+43:35.947 --> 43:36.880
+And like for example,
+
+1323
+43:36.880 --> 43:38.320
+wind turbines,
+
+1324
+43:38.320 --> 43:41.136
+they fail not because of the technologies,
+
+1325
+43:41.136 --> 43:42.000
+because of local...
+
+1326
+43:42.000 --> 43:45.237
+(audience member speaking softly)
+
+1327
+43:45.237 --> 43:47.210
+<v ->Yeah, thank you.</v>
+
+1328
+43:47.210 --> 43:50.528
+<v Audience Member>So, the question was,</v>
+
+1329
+43:50.528 --> 43:51.445
+is there...
+
+1330
+43:53.306 --> 43:54.189
+What are...
+
+1331
+43:54.189 --> 43:56.987
+What's in place to start addressing
+
+1332
+43:56.987 --> 43:59.168
+those kind of concerns?
+
+1333
+43:59.168 --> 44:01.386
+Whether it's amongst you,
+
+1334
+44:01.386 --> 44:04.672
+or is there like a lobby group
+
+1335
+44:04.672 --> 44:07.245
+that is starting to think about this,
+
+1336
+44:07.245 --> 44:10.160
+and has to come up with education
+
+1337
+44:10.160 --> 44:11.072
+for the politicians...
+
+1338
+44:11.072 --> 44:12.736
+(audience member speaking softly)
+
+1339
+44:12.736 --> 44:13.968
+<v ->Get him, Sanjiv!</v>
+
+1340
+44:13.968 --> 44:15.421
+<v ->Oh jeez.</v>
+
+1341
+44:15.421 --> 44:16.480
+<v ->Sorry rest of panel,</v>
+
+1342
+44:16.480 --> 44:18.288
+I'm just gonna have Sanjiv just take 'em.
+
+1343
+44:18.288 --> 44:20.311
+<v ->Okay, so there's a simple thing</v>
+
+1344
+44:20.311 --> 44:23.355
+that I think the mayor of Pittsburgh,
+
+1345
+44:23.355 --> 44:24.703
+the ex mayor of Pittsburgh said,
+
+1346
+44:24.703 --> 44:26.112
+we we were talking about this,
+
+1347
+44:26.112 --> 44:26.945
+and he said,
+
+1348
+44:26.945 --> 44:28.349
+"Well, what is the rule
+
+1349
+44:28.349 --> 44:30.058
+that you'd have to have,
+
+1350
+44:30.058 --> 44:31.926
+what is the common sense idea
+
+1351
+44:31.926 --> 44:36.022
+that if somebody put up a camera on your house,
+
+1352
+44:36.022 --> 44:37.648
+looking into the neighbor's yard?"
+
+1353
+44:37.648 --> 44:38.481
+You know?
+
+1354
+44:38.481 --> 44:41.552
+The same thing should apply to drones, you know?
+
+1355
+44:41.552 --> 44:42.935
+So, there's some common sense things
+
+1356
+44:42.935 --> 44:44.096
+I think...
+
+1357
+44:44.096 --> 44:46.608
+I'm not as worried about privacy
+
+1358
+44:46.608 --> 44:48.336
+as I am with safety.
+
+1359
+44:48.336 --> 44:49.721
+And here's the thing that I wanna say,
+
+1360
+44:49.721 --> 44:50.859
+a little controversial,
+
+1361
+44:50.859 --> 44:53.947
+the same things that we are working on
+
+1362
+44:53.947 --> 44:56.080
+to keep these...
+
+1363
+44:56.080 --> 44:58.721
+Make these aircraft fly safely,
+
+1364
+44:58.721 --> 45:00.283
+even when things go wrong,
+
+1365
+45:00.283 --> 45:03.022
+could be used in not so great uses.
+
+1366
+45:03.022 --> 45:05.961
+If you have a low-flying aircraft
+
+1367
+45:05.961 --> 45:07.084
+that can fly by itself,
+
+1368
+45:07.084 --> 45:08.404
+that doesn't need any comms,
+
+1369
+45:08.404 --> 45:09.610
+and doesn't need any GPS,
+
+1370
+45:09.610 --> 45:11.542
+where could it not go, right?
+
+1371
+45:11.542 --> 45:13.700
+So, I think that the safety issue
+
+1372
+45:13.700 --> 45:15.447
+is a bigger issue right now,
+
+1373
+45:15.447 --> 45:16.688
+both from the idea,
+
+1374
+45:16.688 --> 45:18.608
+"What happens if it doesn't work,
+
+1375
+45:18.608 --> 45:19.775
+and it falls?"
+
+1376
+45:20.997 --> 45:22.538
+You know, somebody walking their dog,
+
+1377
+45:22.538 --> 45:24.368
+and then a drone falls on them?
+
+1378
+45:24.368 --> 45:25.615
+Okay, that's no good.
+
+1379
+45:25.615 --> 45:27.316
+But, what if it also works?
+
+1380
+45:27.316 --> 45:28.879
+What if it works really well?
+
+1381
+45:28.879 --> 45:31.471
+That's also not that great in the hands...
+
+1382
+45:31.471 --> 45:33.255
+In every set of hands.
+
+1383
+45:33.255 --> 45:35.669
+So, I think there's safety issues on both sides
+
+1384
+45:35.669 --> 45:37.803
+that are much bigger than the privacy issues,
+
+1385
+45:37.803 --> 45:41.743
+which I think some common sense will sort out.
+
+1386
+45:41.743 --> 45:43.282
+<v ->I'd like to end it there</v>
+
+1387
+45:43.282 --> 45:46.064
+because we're over time,
+
+1388
+45:46.064 --> 45:47.981
+and Sanjiv needs water.
+
+1389
+45:48.961 --> 45:50.063
+But, we're gonna be sticking around,
+
+1390
+45:50.063 --> 45:51.008
+if anybody has any questions,
+
+1391
+45:51.008 --> 45:51.841
+wanna come up
+
+1392
+45:51.841 --> 45:52.737
+and see us?
+
+1393
+45:52.737 --> 45:54.245
+Please look up all of our companies,
+
+1394
+45:54.245 --> 45:55.300
+"carnegierobotics.com',
+
+1395
+45:55.300 --> 45:56.194
+"Near Earth Autonomy",
+
+1396
+45:56.194 --> 45:57.967
+"Aquatonomy", "Divergent",
+
+1397
+45:57.967 --> 45:59.202
+"KEF Robotics".
+
+1398
+45:59.202 --> 46:02.223
+I'd be remise in not closing remark saying,
+
+1399
+46:02.223 --> 46:03.585
+thank you, special thanks
+
+1400
+46:03.585 --> 46:06.820
+to the Pittsburgh Technology Council,
+
+1401
+46:06.820 --> 46:08.257
+and the Allegheny Conference
+
+1402
+46:08.257 --> 46:11.152
+who are our two flagship entities,
+
+1403
+46:11.152 --> 46:13.183
+and Pittsburgh who helped put this together,
+
+1404
+46:13.183 --> 46:15.125
+we rely upon them for everything.
+
+1405
+46:15.125 --> 46:16.351
+So, Pittsburgh Technology,
+
+1406
+46:16.351 --> 46:17.301
+"pittsburghtech.org"
+
+1407
+46:17.301 --> 46:18.789
+and Allegheny Conference
+
+1408
+46:18.789 --> 46:21.269
+on community development.
+
+1409
+46:21.269 --> 46:22.255
+Also, two things.
+
+1410
+46:22.255 --> 46:24.261
+One, I gotta mention the
+
+1411
+46:24.261 --> 46:26.933
+Brunswick Corporation booth,
+
+1412
+46:26.933 --> 46:28.405
+because that's who are our partner is,
+
+1413
+46:28.405 --> 46:29.719
+we developed the autonomy
+
+1414
+46:29.719 --> 46:32.159
+for the large Boston Whaler that you'll see
+
+1415
+46:32.159 --> 46:32.992
+right downstairs,
+
+1416
+46:32.992 --> 46:34.613
+West Hall 6116.
+
+1417
+46:34.613 --> 46:36.907
+And finally-finally,
+
+1418
+46:36.907 --> 46:39.643
+all of this works because of collaboration
+
+1419
+46:39.643 --> 46:41.071
+and partnership,
+
+1420
+46:41.071 --> 46:43.088
+Pittsburgh is known as the robotics capital,
+
+1421
+46:43.088 --> 46:43.982
+if you haven't been there,
+
+1422
+46:43.982 --> 46:46.163
+please come, because it is a special place,
+
+1423
+46:46.163 --> 46:47.618
+it's magnetic, it's electric,
+
+1424
+46:47.618 --> 46:50.385
+everybody wants to be a part of it, right?
+
+1425
+46:50.385 --> 46:51.218
+We have a friend
+
+1426
+46:51.218 --> 46:52.245
+and a colleague who's sitting out here,
+
+1427
+46:52.245 --> 46:55.656
+Dr. Amanda Scrowe from NAYA Systems,
+
+1428
+46:55.656 --> 46:57.382
+NAYA's a competitor of ours, right?
+
+1429
+46:57.382 --> 46:58.946
+It's probably the only two competitors in town,
+
+1430
+46:58.946 --> 47:00.125
+but guess what?
+
+1431
+47:00.125 --> 47:01.211
+We're friends,
+
+1432
+47:01.211 --> 47:03.375
+and we are invested in each other's success,
+
+1433
+47:03.375 --> 47:04.693
+so next year we'll have Amanda
+
+1434
+47:04.693 --> 47:05.797
+sitting up here with us,
+
+1435
+47:05.797 --> 47:07.808
+wherever you are Amanda.
+
+1436
+47:07.808 --> 47:09.285
+And, all of these companies here
+
+1437
+47:09.285 --> 47:10.118
+work together,
+
+1438
+47:10.118 --> 47:11.568
+you've heard of Aurora,
+
+1439
+47:11.568 --> 47:13.434
+the self-driving truck?
+
+1440
+47:13.434 --> 47:14.546
+They are a partner of ours,
+
+1441
+47:14.546 --> 47:16.224
+they were in our high bay you know,
+
+1442
+47:16.224 --> 47:17.600
+using our water jet last week,
+
+1443
+47:17.600 --> 47:18.605
+10-people, 12-people,
+
+1444
+47:18.605 --> 47:21.275
+my facilities people brought them lunch, right?
+
+1445
+47:21.275 --> 47:23.120
+This is who Pittsburgh is,
+
+1446
+47:23.120 --> 47:24.363
+this is who we are,
+
+1447
+47:24.363 --> 47:25.856
+we are not siloed,
+
+1448
+47:25.856 --> 47:27.898
+and that's what makes us different,
+
+1449
+47:27.898 --> 47:28.731
+and special.
+
+1450
+47:28.731 --> 47:30.302
+Thank you, enjoy the rest of your conference.
+
+1451
+47:30.302 --> 47:31.689
+(audience applauding)
+
+1452
+47:31.689 --> 47:34.106
+(calm music)
+

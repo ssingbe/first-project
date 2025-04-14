@@ -1,0 +1,2827 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.173 --> 00:02.756
+(upbeat music)
+
+00:10.350 --> 00:12.060
+<v ->Good afternoon, everybody.</v>
+
+00:12.060 --> 00:15.030
+My name is Felicity March, or Flick March.
+
+00:15.030 --> 00:16.680
+Great to be here this afternoon.
+
+00:16.680 --> 00:19.500
+What a wonderful conference we've all had.
+
+00:19.500 --> 00:22.290
+Now, we are here today to talk about misinformation,
+
+00:22.290 --> 00:24.090
+disinformation, and deepfake,
+
+00:24.090 --> 00:28.110
+something that we are all extremely passionate about.
+
+00:28.110 --> 00:28.943
+So first of all,
+
+00:28.943 --> 00:30.900
+I'd like to introduce the rest of my panelists.
+
+00:30.900 --> 00:32.853
+And then we'll get into the subject.
+
+00:34.080 --> 00:35.550
+<v ->Hello, my name is German.</v>
+
+00:35.550 --> 00:38.250
+I'm the chief AI scientist for McAfee
+
+00:38.250 --> 00:40.920
+where we focus on AI solutions.
+
+00:40.920 --> 00:43.890
+And we specialize on deepfakes and misinformation.
+
+00:43.890 --> 00:44.973
+So happy to be here.
+
+00:45.930 --> 00:49.560
+<v ->Daniela Braga, founder and CEO of Defined.ai.</v>
+
+00:49.560 --> 00:53.580
+We are the largest marketplace of training data for AI.
+
+00:53.580 --> 00:58.580
+And we take care of all the provenance, copyrights,
+
+00:59.160 --> 01:00.753
+IP of the data.
+
+01:02.310 --> 01:04.560
+<v ->I'm Andy Parsons from Adobe.</v>
+
+01:04.560 --> 01:08.190
+At Adobe, I oversee our content authenticity initiative,
+
+01:08.190 --> 01:09.630
+which does three things.
+
+01:09.630 --> 01:12.930
+Number one, it safeguards provenance
+
+01:12.930 --> 01:16.740
+around media of all kinds, from video to photos to audio.
+
+01:16.740 --> 01:18.600
+I also represent Adobe on the steering committee
+
+01:18.600 --> 01:21.420
+of the Coalition for Content Provenance and Authenticity,
+
+01:21.420 --> 01:24.570
+which is a global standard to help ensure
+
+01:24.570 --> 01:26.580
+that misinformation is well understood
+
+01:26.580 --> 01:28.320
+and that providence is made useful.
+
+01:28.320 --> 01:29.940
+Thank you.
+
+01:29.940 --> 01:31.470
+<v ->And I am Amy Henninger</v>
+
+01:31.470 --> 01:33.510
+from Department of Homeland Security Science
+
+01:33.510 --> 01:35.340
+and Technology Directorate
+
+01:35.340 --> 01:38.580
+where I'm the senior advisor for advanced computing.
+
+01:38.580 --> 01:42.540
+And that includes AI modeling and simulation, cybersecurity,
+
+01:42.540 --> 01:44.970
+data analytics, and quantum.
+
+01:44.970 --> 01:46.650
+<v ->Perfect. And I'm from Accenture.</v>
+
+01:46.650 --> 01:48.690
+I look after cyber strategy.
+
+01:48.690 --> 01:50.670
+I also have the honor of working with C-suites
+
+01:50.670 --> 01:52.620
+and boards on advisory.
+
+01:52.620 --> 01:54.540
+And I'm very passionate around deepfake
+
+01:54.540 --> 01:56.760
+and what it does around the cybersecurity forum
+
+01:56.760 --> 01:58.590
+because of course we are seeing
+
+01:58.590 --> 02:00.450
+that traditional cybersecurity is looking
+
+02:00.450 --> 02:02.010
+after the infrastructure,
+
+02:02.010 --> 02:05.310
+but what we're seeing around deepfakes and disinformation is
+
+02:05.310 --> 02:06.780
+that attacks are happening
+
+02:06.780 --> 02:08.520
+where you don't have to hack the system,
+
+02:08.520 --> 02:09.990
+you're hacking the human.
+
+02:09.990 --> 02:12.030
+And you're also faking information
+
+02:12.030 --> 02:14.700
+to go and get the things that you need to get done.
+
+02:14.700 --> 02:17.700
+So we are very passionate around eliminating
+
+02:17.700 --> 02:20.010
+or being able to protect and detect around deepfakes,
+
+02:20.010 --> 02:23.070
+but also the human firewall that is needed
+
+02:23.070 --> 02:25.530
+to make sure that we can look after our people,
+
+02:25.530 --> 02:28.710
+our communities, and companies.
+
+02:28.710 --> 02:30.870
+So from a deepfake and a disinformation
+
+02:30.870 --> 02:32.250
+and a misinformation point of view,
+
+02:32.250 --> 02:34.920
+German, can I go to you first?
+
+02:34.920 --> 02:38.340
+Why should we be concerned about deepfakes?
+
+02:38.340 --> 02:39.173
+<v ->Good question.</v>
+
+02:39.173 --> 02:42.690
+So deepfakes can be used for good and for bad.
+
+02:42.690 --> 02:45.480
+We intrinsically assign some negative connotation
+
+02:45.480 --> 02:47.580
+to the term because most of the time,
+
+02:47.580 --> 02:50.820
+we see deepfakes being used for malicious purposes.
+
+02:50.820 --> 02:52.110
+But there are some exceptions
+
+02:52.110 --> 02:54.300
+where they're also being used for good.
+
+02:54.300 --> 02:55.770
+And I think I will start there
+
+02:55.770 --> 02:59.190
+by mentioning that maybe content creators are using
+
+02:59.190 --> 03:02.640
+deepfakes to scale up their video outing efforts
+
+03:02.640 --> 03:05.250
+in social media or just creating deepfakes
+
+03:05.250 --> 03:07.260
+for entertainment purposes, right?
+
+03:07.260 --> 03:10.530
+But the most other instances are malicious.
+
+03:10.530 --> 03:12.660
+And it is within this category
+
+03:12.660 --> 03:16.560
+that we find scams as the number one threat, right?
+
+03:16.560 --> 03:20.040
+So you create a deepfake based on a celebrity,
+
+03:20.040 --> 03:22.110
+or a thought leader, or an influencer,
+
+03:22.110 --> 03:24.570
+and then you use that to scam people,
+
+03:24.570 --> 03:28.020
+let's say with investment or cryptocurrency scams
+
+03:28.020 --> 03:30.690
+where they promise you like 100 extra returns
+
+03:30.690 --> 03:34.020
+on your money or the fake CEO calling you scam,
+
+03:34.020 --> 03:35.880
+or they, "Hey mom," scam,
+
+03:35.880 --> 03:38.520
+where they clone the voice of your son
+
+03:38.520 --> 03:40.710
+and then they call you, you know,
+
+03:40.710 --> 03:42.330
+because he has been on an accident
+
+03:42.330 --> 03:44.340
+or something like that, and they need money.
+
+03:44.340 --> 03:46.800
+So plenty of ways in which deepfakes are being used
+
+03:46.800 --> 03:48.120
+to scam people.
+
+03:48.120 --> 03:53.120
+Then number two threat is around harming others' reputation.
+
+03:55.020 --> 03:58.470
+And one specific trend that is quite concerning right now is
+
+03:58.470 --> 04:00.450
+teenagers using these apps
+
+04:00.450 --> 04:05.250
+to create new deepfakes of their peers, right,
+
+04:05.250 --> 04:06.750
+which is quite troubling.
+
+04:06.750 --> 04:07.890
+And the last, but not least,
+
+04:07.890 --> 04:09.840
+what you mentioned before, misinformation.
+
+04:09.840 --> 04:12.930
+You can use deepfakes to influence people
+
+04:12.930 --> 04:14.580
+through the misinformation campaigns.
+
+04:14.580 --> 04:17.070
+And we have seen that throughout the world,
+
+04:17.070 --> 04:19.950
+South Africa elections, in the US,
+
+04:19.950 --> 04:22.170
+and some European countries as well.
+
+04:22.170 --> 04:23.430
+So it really doesn't matter,
+
+04:23.430 --> 04:25.770
+if you're in the private or public sector,
+
+04:25.770 --> 04:28.650
+we are all quite exposed to the deepfakes
+
+04:28.650 --> 04:31.920
+as they can impact our daily life, essentially.
+
+04:31.920 --> 04:33.000
+<v ->And it's a new angle.</v>
+
+04:33.000 --> 04:34.593
+So, Daniela, what's your view?
+
+04:35.550 --> 04:39.060
+<v ->Well, agreeing with everything that German said,</v>
+
+04:39.060 --> 04:44.060
+I was just gonna add that because all AI starts in data
+
+04:44.400 --> 04:48.543
+and a lot of what we're talking about here is AI generated.
+
+04:51.480 --> 04:54.960
+I would add on top of the misinformation and disinformation
+
+04:54.960 --> 04:57.600
+and the deepfakes, the hallucinations,
+
+04:57.600 --> 05:00.840
+which are not intentionally malicious,
+
+05:00.840 --> 05:02.823
+but can cause the same effect.
+
+05:04.470 --> 05:07.743
+So as all AI starts in data,
+
+05:08.640 --> 05:10.230
+it's our mission.
+
+05:10.230 --> 05:13.470
+And what we're very passionate about is to ensure
+
+05:13.470 --> 05:17.727
+that our customers know the provenance
+
+05:17.727 --> 05:22.600
+and can trace the output of their models
+
+05:23.883 --> 05:25.183
+to the origin of the data.
+
+05:27.180 --> 05:30.690
+What cannot be done is when you are,
+
+05:30.690 --> 05:32.340
+for example, scraping the web
+
+05:32.340 --> 05:36.513
+and/or are not using a standard like C2PA.
+
+05:38.204 --> 05:43.204
+So the add-on here is that everything starts in data.
+
+05:43.620 --> 05:48.620
+And if the data starts already being non-factual, biased,
+
+05:52.465 --> 05:55.627
+or low quality, or not,
+
+05:57.030 --> 06:00.090
+or copyright with copyright infringement,
+
+06:00.090 --> 06:05.090
+that alone starts wrong from there for an AI model.
+
+06:06.330 --> 06:09.810
+<v ->And it does, there's so many use cases, excuse me,</v>
+
+06:09.810 --> 06:11.880
+so many use cases, we're seeing different use cases
+
+06:11.880 --> 06:14.850
+coming out pretty much every single day on this use.
+
+06:14.850 --> 06:17.310
+So, Andy, could I have your opinion please?
+
+06:17.310 --> 06:19.620
+<v ->I mean, I agree with what the others have said, for sure.</v>
+
+06:19.620 --> 06:22.410
+I think it's worth augmenting those points
+
+06:22.410 --> 06:24.990
+by pointing out what's probably obvious to this audience
+
+06:24.990 --> 06:28.200
+or anybody who's paying attention that, even a year ago,
+
+06:28.200 --> 06:30.450
+it wasn't necessarily possible to make a, you know,
+
+06:30.450 --> 06:32.760
+deeply photo-realistic video, realistic audio,
+
+06:32.760 --> 06:35.430
+realistic fake with, you know, 20 seconds of training data
+
+06:35.430 --> 06:36.480
+or any training data.
+
+06:36.480 --> 06:37.740
+And now you can do that for free.
+
+06:37.740 --> 06:40.290
+So we used to, even a couple years ago,
+
+06:40.290 --> 06:43.110
+in my field talked about the democratization
+
+06:43.110 --> 06:44.784
+of deepfake tools and AI.
+
+06:44.784 --> 06:46.230
+And now I think we're beyond democratization.
+
+06:46.230 --> 06:47.340
+These things are free.
+
+06:47.340 --> 06:49.470
+They're open source models that are trivial to use
+
+06:49.470 --> 06:51.510
+on Hugging Face or just downloading your machine.
+
+06:51.510 --> 06:52.920
+And right here at CES,
+
+06:52.920 --> 06:57.240
+you see commodity devices that are tiny, inexpensive,
+
+06:57.240 --> 06:59.280
+low power that are capable of running,
+
+06:59.280 --> 07:01.930
+you know, massive models with billions of parameters.
+
+07:02.850 --> 07:05.490
+And I think that's another reason we should be concerned
+
+07:05.490 --> 07:06.840
+and have increasing concern.
+
+07:06.840 --> 07:09.150
+So, you know, one thing we'll hopefully get into
+
+07:09.150 --> 07:10.770
+as part of the panel is,
+
+07:10.770 --> 07:14.100
+can we empower good actors to declare what things are
+
+07:14.100 --> 07:16.830
+and begin enabling a basic fundamental human right,
+
+07:16.830 --> 07:17.820
+I would call it,
+
+07:17.820 --> 07:19.050
+to understand what you're looking at,
+
+07:19.050 --> 07:21.210
+what you're hearing, where it came from?
+
+07:21.210 --> 07:22.620
+<v ->And we are so used as humans,</v>
+
+07:22.620 --> 07:25.230
+if we see someone on video or hear their voice,
+
+07:25.230 --> 07:26.490
+we assume it is them.
+
+07:26.490 --> 07:30.450
+So psychologically it's a complete paradigm shift on,
+
+07:30.450 --> 07:32.070
+do we trust?
+
+07:32.070 --> 07:35.160
+<v ->And I would also add that's a great point, if I may.</v>
+
+07:35.160 --> 07:37.560
+Multimedia, video in particular,
+
+07:37.560 --> 07:39.600
+causes an emotional response in humans, right?
+
+07:39.600 --> 07:40.433
+<v ->It does.</v>
+<v ->It's very different</v>
+
+07:40.433 --> 07:41.460
+than reading text.
+
+07:41.460 --> 07:43.530
+And therefore video and images and social media are
+
+07:43.530 --> 07:47.331
+so powerful and potentially perilous, for that reason.
+
+07:47.331 --> 07:48.930
+<v ->And universities are now doing degrees</v>
+
+07:48.930 --> 07:51.420
+on cyber psychology, which is very interesting.
+
+07:51.420 --> 07:53.250
+And Amy from Homeland Security,
+
+07:53.250 --> 07:54.720
+so give me your opinion please.
+
+07:54.720 --> 07:55.651
+<v ->Yes, thank you.</v>
+
+07:55.651 --> 07:57.660
+So like Andy, I agree
+
+07:57.660 --> 07:59.820
+with everything people have said before me,
+
+07:59.820 --> 08:04.650
+and certainly we have those broad concerns at DHS
+
+08:04.650 --> 08:08.070
+where we're looking at mystic malformation
+
+08:08.070 --> 08:11.850
+on a societal level or reputation damage,
+
+08:11.850 --> 08:14.520
+public trust, social unrest, those kinds of things.
+
+08:14.520 --> 08:17.100
+Or individual, you know, again,
+
+08:17.100 --> 08:20.400
+reputation damage or social engineering.
+
+08:20.400 --> 08:23.790
+At DHS S&amp;T, we have a more narrow concern,
+
+08:23.790 --> 08:24.810
+I guess I'll call it.
+
+08:24.810 --> 08:28.860
+And that is the impact of deepfakes on our missions, right?
+
+08:28.860 --> 08:31.500
+So our everyday missions that we do,
+
+08:31.500 --> 08:34.083
+whether that is, you know,
+
+08:35.160 --> 08:38.790
+going through transportation security at the airport
+
+08:38.790 --> 08:40.680
+when you go home tomorrow, right,
+
+08:40.680 --> 08:45.270
+whether that is showing your ID to border patrol
+
+08:45.270 --> 08:50.270
+or immigration services to move into a different country,
+
+08:50.550 --> 08:54.090
+whether that is swatting for our law enforcement
+
+08:54.090 --> 08:56.973
+and how can deepfakes be used to,
+
+08:59.250 --> 09:02.550
+can we use AI-generated voices, right, to do swatting?
+
+09:02.550 --> 09:06.720
+Can we do that at scale, talk about democratization?
+
+09:06.720 --> 09:10.500
+Can we frame people with AI-generated voices
+
+09:10.500 --> 09:11.970
+who really didn't do the swatting,
+
+09:11.970 --> 09:14.520
+but where people are framing them to do that?
+
+09:14.520 --> 09:19.520
+And then things like deepfakes and social media
+
+09:19.530 --> 09:23.400
+or in campaigns for tragedies,
+
+09:23.400 --> 09:26.280
+like what's going on in Los Angeles right now, right,
+
+09:26.280 --> 09:30.993
+can people cause harm through deepfakes,
+
+09:33.720 --> 09:37.470
+steering people towards nefarious places in LA
+
+09:37.470 --> 09:39.060
+instead of safe places?
+
+09:39.060 --> 09:43.680
+So we're very diligent about scrubbing our missions
+
+09:43.680 --> 09:45.780
+and understanding where they're vulnerable
+
+09:45.780 --> 09:50.430
+to deepfakes' voice, text, or photo, or video,
+
+09:50.430 --> 09:53.253
+and making sure we button up those vulnerabilities.
+
+09:54.330 --> 09:55.920
+<v ->Perfect. Thank you, Amy.</v>
+
+09:55.920 --> 09:59.010
+So, Andy, I'm gonna go to you next if I may.
+
+09:59.010 --> 10:00.780
+Talk to us all about the difference
+
+10:00.780 --> 10:03.900
+between deepfake detection and protection
+
+10:03.900 --> 10:05.940
+and then data provenance,
+
+10:05.940 --> 10:09.150
+something with C2PA under your belts.
+
+10:09.150 --> 10:11.040
+I know it's very close to your heart.
+
+10:11.040 --> 10:13.650
+<v ->Yeah, thank you for the question.</v>
+
+10:13.650 --> 10:17.520
+So there's been, you know, kind of argument,
+
+10:17.520 --> 10:19.080
+counter argument between folks
+
+10:19.080 --> 10:21.750
+who are pundits around detection
+
+10:21.750 --> 10:23.160
+and those who think about provenance.
+
+10:23.160 --> 10:26.550
+And I'll define those in the terms that I prefer.
+
+10:26.550 --> 10:27.810
+Detection is sort of post-hoc.
+
+10:27.810 --> 10:30.030
+You know, can we, say, take a video
+
+10:30.030 --> 10:32.910
+and with some confidence interval,
+
+10:32.910 --> 10:35.760
+determine whether it is a deepfake or not,
+
+10:35.760 --> 10:37.560
+with very little knowledge of how it was made in fact?
+
+10:37.560 --> 10:39.630
+In most cases, no knowledge of how it was made.
+
+10:39.630 --> 10:41.850
+Provenance, on the other hand, is the polar opposite.
+
+10:41.850 --> 10:44.490
+It says, you know, there's something proactive
+
+10:44.490 --> 10:46.860
+to be done at the inception of the creation
+
+10:46.860 --> 10:48.660
+of a piece of media that imbues it
+
+10:48.660 --> 10:50.220
+with some information about where it came from
+
+10:50.220 --> 10:51.053
+and what it is,
+
+10:51.053 --> 10:52.773
+and that can be cryptographically proven.
+
+10:53.700 --> 10:55.500
+But these are not mutually exclusive
+
+10:55.500 --> 10:56.730
+and they shouldn't be cast
+
+10:56.730 --> 10:58.170
+in stark opposition to one another.
+
+10:58.170 --> 11:00.660
+They are in fact complementary.
+
+11:00.660 --> 11:01.890
+However, I do also think
+
+11:01.890 --> 11:04.980
+that detection is clearly an arms race.
+
+11:04.980 --> 11:06.990
+And I think it's an arms race
+
+11:06.990 --> 11:10.680
+that the bad guys are likely to win or have one
+
+11:10.680 --> 11:12.450
+because the bad guys don't have to open source
+
+11:12.450 --> 11:15.060
+their data sets or speak at CVPR
+
+11:15.060 --> 11:17.250
+or come to CES and talk about what they're doing.
+
+11:17.250 --> 11:20.130
+And in some cases, they're funded by, you know,
+
+11:20.130 --> 11:22.920
+states and oppressive regimes.
+
+11:22.920 --> 11:25.290
+So I think detection is certainly worth pursuit.
+
+11:25.290 --> 11:27.450
+It's expensive. It's harder to scale.
+
+11:27.450 --> 11:30.270
+But truly the combination of provenance
+
+11:30.270 --> 11:32.250
+around an understanding of where things came from
+
+11:32.250 --> 11:34.890
+that bad actors will not make use of bad actors,
+
+11:34.890 --> 11:37.260
+will not use the C2PA standard.
+
+11:37.260 --> 11:39.090
+And then, you know, forensic detection,
+
+11:39.090 --> 11:42.540
+these things will need to exist well into the future.
+
+11:42.540 --> 11:45.150
+But I think the likelihood that detectors will tell you
+
+11:45.150 --> 11:46.770
+this is 100% a deepfake
+
+11:46.770 --> 11:50.490
+or this is absolutely Andy at CES, is unlikely.
+
+11:50.490 --> 11:52.770
+And that will continue to require human experts
+
+11:52.770 --> 11:55.650
+in digital forensics who number very few in the world
+
+11:55.650 --> 11:57.120
+compared to the number of bad actors
+
+11:57.120 --> 12:01.440
+producing potentially deceptive content will continue
+
+12:01.440 --> 12:02.310
+to have to lean on them.
+
+12:02.310 --> 12:04.200
+But provenance can scale.
+
+12:04.200 --> 12:05.610
+Detection is much harder to scale
+
+12:05.610 --> 12:07.860
+and requires forensics expertise.
+
+12:07.860 --> 12:10.710
+<v ->Yes, it does. And, (clears throat) excuse me.</v>
+
+12:10.710 --> 12:11.940
+I'm dying with the cold here.
+
+12:11.940 --> 12:13.920
+So forgive me for croaking at you all.
+
+12:13.920 --> 12:15.750
+Amy, can I ask your opinion on that?
+
+12:15.750 --> 12:19.443
+<v ->Yeah, so I agree with Andy's characterization.</v>
+
+12:20.880 --> 12:23.220
+We rely very heavily on NIST,
+
+12:23.220 --> 12:26.160
+the National Institute for Standards and Technology,
+
+12:26.160 --> 12:29.190
+for their guidance in this space and the government.
+
+12:29.190 --> 12:30.720
+And they have, in my view,
+
+12:30.720 --> 12:32.220
+done it really a superb job
+
+12:32.220 --> 12:35.670
+laying out a taxonomy of all the mitigations
+
+12:35.670 --> 12:39.150
+and countermeasures for misinformation/disinformation
+
+12:39.150 --> 12:43.263
+because of synthetic media or AI-generated synthetic media.
+
+12:44.970 --> 12:46.680
+We adopt that for ours.
+
+12:46.680 --> 12:50.550
+You know, the number one thing to remember in my view is
+
+12:50.550 --> 12:55.500
+that deepfakes ultimately are manifested in software.
+
+12:55.500 --> 12:58.740
+So all the good policies and procedures we learn
+
+12:58.740 --> 13:02.400
+from cyber security and cyber hygiene apply,
+
+13:02.400 --> 13:05.550
+number one, have to be there.
+
+13:05.550 --> 13:08.160
+And then there's other things that we can do,
+
+13:08.160 --> 13:10.410
+some of them what Andy mentioned.
+
+13:10.410 --> 13:13.530
+I think of the taxonomy as a two by two,
+
+13:13.530 --> 13:15.630
+and they're sort of tech-based mitigations
+
+13:15.630 --> 13:17.760
+and non-tech based mitigations.
+
+13:17.760 --> 13:21.990
+And then across the top, as Andy expressed, you know,
+
+13:21.990 --> 13:25.410
+you have sort of this things you do upfront
+
+13:25.410 --> 13:27.120
+to deter the creation,
+
+13:27.120 --> 13:29.310
+and then you have things you do post-hoc
+
+13:29.310 --> 13:33.600
+to help the detection and other things,
+
+13:33.600 --> 13:35.040
+you know, beyond provenance.
+
+13:35.040 --> 13:39.030
+And detection include, you know, education
+
+13:39.030 --> 13:42.660
+and regulatory mechanisms,
+
+13:42.660 --> 13:46.410
+and market-based mechanisms, and normative mechanisms.
+
+13:46.410 --> 13:49.650
+So there's an array of different mitigations,
+
+13:49.650 --> 13:54.650
+and our sense is that you need a broad strategy
+
+13:57.030 --> 14:00.150
+in applying these in a holistic way,
+
+14:00.150 --> 14:01.410
+developing a best of breed
+
+14:01.410 --> 14:04.050
+for whatever use case you're concerned about.
+
+14:04.050 --> 14:05.100
+<v ->Perfect. Thank you, Amy.</v>
+
+14:05.100 --> 14:07.230
+Now, German, what's your view?
+
+14:07.230 --> 14:10.470
+<v ->I really agree with others' perspectives.</v>
+
+14:10.470 --> 14:11.790
+I think it's worth rehashing
+
+14:11.790 --> 14:15.570
+that provenance and detection are working together.
+
+14:15.570 --> 14:16.680
+At the end of the day,
+
+14:16.680 --> 14:18.450
+provenance is all about traceability
+
+14:18.450 --> 14:21.510
+and tracking the history of modifications on media types.
+
+14:21.510 --> 14:25.470
+And that benefits good actors who are trying to define
+
+14:25.470 --> 14:29.040
+and declare, "Hey, I'm using gen AI for good purposes."
+
+14:29.040 --> 14:32.400
+And that automatically removes a big chunk of the universe
+
+14:32.400 --> 14:33.630
+from the question.
+
+14:33.630 --> 14:35.310
+But then, again, bad actors
+
+14:35.310 --> 14:37.830
+and cyber criminals are not going to behave
+
+14:37.830 --> 14:40.230
+or not going to play by the same game rules,
+
+14:40.230 --> 14:42.180
+and they will find ways of removing
+
+14:42.180 --> 14:44.790
+or stripping out debt embedded information,
+
+14:44.790 --> 14:47.460
+and therefore you no longer can tell
+
+14:47.460 --> 14:50.490
+if that was created by AI or it's real.
+
+14:50.490 --> 14:53.310
+And that's where detection comes into the picture
+
+14:53.310 --> 14:56.820
+by providing the means to detect those artifacts
+
+14:56.820 --> 14:58.740
+that are kind of hidden and, you know,
+
+14:58.740 --> 15:01.530
+impossible to tell from the human eye.
+
+15:01.530 --> 15:05.610
+And at the end, the benefit is for the consumer
+
+15:05.610 --> 15:07.087
+who will be able to tell,
+
+15:07.087 --> 15:09.900
+"Okay, I'm dealing with gen AI content
+
+15:09.900 --> 15:11.910
+because I have provenance information
+
+15:11.910 --> 15:14.640
+or because at least I have detection technology
+
+15:14.640 --> 15:16.470
+as a fallback mechanism," right?
+
+15:16.470 --> 15:17.673
+<v ->Perfect. And, Daniela?</v>
+
+15:18.870 --> 15:21.960
+<v ->There's responsibility on two sides right now.</v>
+
+15:21.960 --> 15:26.960
+The one, the builders of AI who care about brand reputation
+
+15:29.070 --> 15:32.100
+are already doing all,
+
+15:32.100 --> 15:37.100
+are enforcing buying data that is licensable,
+
+15:38.280 --> 15:41.400
+showing traceability of the models,
+
+15:41.400 --> 15:46.400
+having content moderation to fine-tune the model's output.
+
+15:48.000 --> 15:51.840
+We see all of the big companies doing
+
+15:51.840 --> 15:53.763
+that care about brand reputation.
+
+15:54.960 --> 15:58.290
+Enforcing contracts down the line to consumers
+
+15:58.290 --> 16:01.380
+when you are supposed to build your own avatar,
+
+16:01.380 --> 16:04.740
+your image avatar or your voice clone,
+
+16:04.740 --> 16:08.010
+to have a voice print approving this,
+
+16:08.010 --> 16:12.750
+a voice signature basically approving that clone,
+
+16:12.750 --> 16:15.990
+that cloning process of your voice likeness
+
+16:15.990 --> 16:17.850
+and a contract on top of that.
+
+16:17.850 --> 16:21.753
+So all of these things are happening with the good actors.
+
+16:23.340 --> 16:26.580
+There's a bunch of other companies, smaller,
+
+16:26.580 --> 16:31.080
+a lot of times in jurisdictions outside definitely Europe
+
+16:31.080 --> 16:35.760
+and United States that perform with technology like that,
+
+16:35.760 --> 16:37.473
+that don't follow any of these.
+
+16:38.580 --> 16:42.720
+The consumer side needs to have their side of responsibility
+
+16:42.720 --> 16:46.380
+of keeping awareness of, do I trust this company,
+
+16:46.380 --> 16:49.260
+or do I trust that company?
+
+16:49.260 --> 16:51.570
+It's literacy
+
+16:51.570 --> 16:54.790
+that is demanded from the consumer side as well.
+
+16:54.790 --> 16:58.710
+We as consumers need to be always wary
+
+16:58.710 --> 17:01.230
+that of the provenance of our content
+
+17:01.230 --> 17:02.730
+just like we are with food,
+
+17:02.730 --> 17:06.420
+just like we are with all the resources
+
+17:06.420 --> 17:09.540
+that we supply our livelihood with.
+
+17:09.540 --> 17:12.270
+<v ->And, Daniela and I were talking just before this</v>
+
+17:12.270 --> 17:13.620
+about our children.
+
+17:13.620 --> 17:17.250
+And I've got a 25-year-old son who comes out
+
+17:17.250 --> 17:19.680
+with his most amazing amount of information,
+
+17:19.680 --> 17:21.510
+which is completely incorrect.
+
+17:21.510 --> 17:23.850
+And the next generation don't look
+
+17:23.850 --> 17:26.340
+at fact-checking what they're actually hearing.
+
+17:26.340 --> 17:28.800
+And I actually had to call him obtuse last week,
+
+17:28.800 --> 17:30.027
+which he didn't like at all.
+
+17:30.027 --> 17:31.230
+And I said, "You've gotta stop
+
+17:31.230 --> 17:32.400
+coming out with stuff like this.
+
+17:32.400 --> 17:35.400
+You've gotta go and fact check it. You've gotta trust this."
+
+17:36.661 --> 17:39.810
+We were saying we don't educate our children in school.
+
+17:39.810 --> 17:42.630
+And my (clears throat), sorry about this.
+
+17:42.630 --> 17:44.820
+My perspective is from a corporate point of view,
+
+17:44.820 --> 17:48.150
+we are seeing that actually this is being used to extort
+
+17:48.150 --> 17:50.310
+and actually being used as part
+
+17:50.310 --> 17:52.530
+of a very sophisticated kill chain.
+
+17:52.530 --> 17:54.600
+So I am being asked to press a button
+
+17:54.600 --> 17:56.040
+that I am allowed to press,
+
+17:56.040 --> 17:58.050
+and I'm authorized to press that button
+
+17:58.050 --> 18:01.200
+because my boss has asked me to not change the process,
+
+18:01.200 --> 18:04.830
+just to expedite the process because it's rather urgent.
+
+18:04.830 --> 18:06.480
+And I think if we all look is,
+
+18:06.480 --> 18:10.440
+has our boss asked us ever to speed up a process
+
+18:10.440 --> 18:11.580
+because something is urgent,
+
+18:11.580 --> 18:13.620
+I think we'd all have to put our hands up.
+
+18:13.620 --> 18:16.380
+So actually we are also seeing that people are being put
+
+18:16.380 --> 18:18.030
+underneath cognitive overload
+
+18:18.030 --> 18:20.940
+so that you don't have the ability to go and crosscheck
+
+18:20.940 --> 18:23.580
+because your boss has said something needs to come out today
+
+18:23.580 --> 18:24.900
+or come out very, very quickly,
+
+18:24.900 --> 18:26.550
+or needs to be closed this month.
+
+18:26.550 --> 18:28.470
+And so when you're actually going to be,
+
+18:28.470 --> 18:30.300
+you're being asked to do something,
+
+18:30.300 --> 18:34.170
+with this we are seeing a different level of attack.
+
+18:34.170 --> 18:38.280
+So very complicated and so much,
+
+18:38.280 --> 18:40.320
+so many things to be rather scared of
+
+18:40.320 --> 18:42.030
+and where put proper ownership
+
+18:42.030 --> 18:44.400
+around who looks after stuff like that
+
+18:44.400 --> 18:46.920
+because that's not typically sitting in cybersecurity,
+
+18:46.920 --> 18:48.930
+it's not typically sitting in fraud.
+
+18:48.930 --> 18:51.900
+So how do we actually look at the new strategic model
+
+18:51.900 --> 18:55.950
+that we need to actually defend that is overall threat.
+
+18:55.950 --> 18:57.810
+Now, Andy, I'm gonna come back to you.
+
+18:57.810 --> 18:59.910
+Okay, this is a very meaty question,
+
+18:59.910 --> 19:01.590
+but I'm gonna chuck it all out there,
+
+19:01.590 --> 19:02.940
+and then we'll all sort of wade in
+
+19:02.940 --> 19:05.070
+with our answers if we may.
+
+19:05.070 --> 19:08.820
+Now, it's, how can we trust what we see in here?
+
+19:08.820 --> 19:10.320
+I think we've talked about that already.
+
+19:10.320 --> 19:11.280
+The answer is we can't.
+
+19:11.280 --> 19:13.260
+But how can we trust what we see in here?
+
+19:13.260 --> 19:15.090
+What tools and resources are available
+
+19:15.090 --> 19:16.800
+to help people be more discerning?
+
+19:16.800 --> 19:18.750
+So what is out there to help people?
+
+19:18.750 --> 19:22.050
+And then how do we mitigate against this
+
+19:22.050 --> 19:23.760
+in terms of cyber attacks
+
+19:23.760 --> 19:26.370
+and then misinformation and disinformation
+
+19:26.370 --> 19:27.810
+from a consumer point of view,
+
+19:27.810 --> 19:30.570
+but also from a corporate point of view?
+
+19:30.570 --> 19:32.770
+<v ->That is a meaty question, I'll attempt it.</v>
+
+19:34.590 --> 19:35.640
+So first of all, I think, you know,
+
+19:35.640 --> 19:37.200
+we should set the ground rules
+
+19:37.200 --> 19:38.910
+around what probably doesn't work.
+
+19:38.910 --> 19:40.230
+And one thing that no longer works
+
+19:40.230 --> 19:42.330
+that you could argue worked a year ago is just, you know,
+
+19:42.330 --> 19:44.760
+inspect the location of people's ear lobes
+
+19:44.760 --> 19:46.440
+or the alignment of their eyeglasses
+
+19:46.440 --> 19:47.850
+or the mismatched pupils.
+
+19:47.850 --> 19:50.040
+Like every time we point out,
+
+19:50.040 --> 19:52.080
+and again this is the bad guys, good guys argument,
+
+19:52.080 --> 19:55.110
+point out a problem with certain generative models.
+
+19:55.110 --> 19:56.430
+Bad actors move to another model
+
+19:56.430 --> 19:58.080
+or the model makers themselves,
+
+19:58.080 --> 19:59.790
+especially in open source, just fix those issues.
+
+19:59.790 --> 20:01.530
+So that's gonna continue to move faster
+
+20:01.530 --> 20:02.580
+than we can come up with.
+
+20:02.580 --> 20:03.630
+And I'm often asked,
+
+20:03.630 --> 20:06.360
+well, you know, until we have provenance
+
+20:06.360 --> 20:07.473
+on all of our media,
+
+20:08.730 --> 20:11.160
+which is not gonna happen overnight,
+
+20:11.160 --> 20:14.250
+what can we do to look at an image or a video?
+
+20:14.250 --> 20:16.380
+And, you know, in video there are still things you can do,
+
+20:16.380 --> 20:18.090
+but in images, in videos,
+
+20:18.090 --> 20:20.400
+while you're not seeing six-fingered people
+
+20:20.400 --> 20:23.820
+or, you know, extra heads spouting from people's necks.
+
+20:23.820 --> 20:26.490
+So I think the answer increasingly unfortunately is
+
+20:26.490 --> 20:27.450
+there's not much you can do,
+
+20:27.450 --> 20:30.210
+especially when it comes to photography.
+
+20:30.210 --> 20:32.820
+However, there is an optimistic point of view
+
+20:32.820 --> 20:33.653
+about all that.
+
+20:33.653 --> 20:35.970
+So, you know, what tools can we bring to bear?
+
+20:35.970 --> 20:38.070
+I think it's important also to realize
+
+20:38.070 --> 20:40.620
+that in the spirit of provenance
+
+20:40.620 --> 20:42.000
+and understanding where things came from,
+
+20:42.000 --> 20:44.430
+we should think about simple solutions
+
+20:44.430 --> 20:45.780
+that aren't necessarily silver bullets
+
+20:45.780 --> 20:47.523
+but can be put to work now.
+
+20:48.360 --> 20:49.193
+There was a time
+
+20:49.193 --> 20:51.090
+when food didn't have nutrition labels, for example.
+
+20:51.090 --> 20:53.280
+And Danielle brought this up.
+
+20:53.280 --> 20:54.900
+Now, with or without regulation,
+
+20:54.900 --> 20:57.030
+and granted, you know, in the US,
+
+20:57.030 --> 20:59.280
+we needed the FDA to bring about nutrition labels,
+
+20:59.280 --> 21:01.833
+but you can walk in any grocery store,
+
+21:02.850 --> 21:04.290
+and even on restaurant menus now,
+
+21:04.290 --> 21:05.430
+you can see what's in your food.
+
+21:05.430 --> 21:07.260
+It doesn't mean you shouldn't eat it.
+
+21:07.260 --> 21:09.390
+The restaurant or the maker of that food
+
+21:09.390 --> 21:11.310
+or the supermarket is not passing judgment on you
+
+21:11.310 --> 21:14.880
+when you buy a sugary cereal to feed your children.
+
+21:14.880 --> 21:15.713
+And you can do that,
+
+21:15.713 --> 21:16.920
+but you have a right to know what it is
+
+21:16.920 --> 21:18.570
+and you can make an informed decision.
+
+21:18.570 --> 21:19.440
+And that's very different
+
+21:19.440 --> 21:22.440
+than large platforms making decision for you.
+
+21:22.440 --> 21:23.550
+And I think that's one thing
+
+21:23.550 --> 21:24.750
+that we can put in place right now.
+
+21:24.750 --> 21:26.220
+Imagine you had a nutrition label
+
+21:26.220 --> 21:29.370
+or a more sophisticated UI on your social media accounts
+
+21:29.370 --> 21:31.440
+that would enable you to do things like filter
+
+21:31.440 --> 21:33.150
+for things that have additional context
+
+21:33.150 --> 21:34.080
+so you can know what they are,
+
+21:34.080 --> 21:35.970
+especially in news consumption mode,
+
+21:35.970 --> 21:37.740
+which your son has fallen victim to,
+
+21:37.740 --> 21:39.690
+as has my daughter around the same age.
+
+21:41.070 --> 21:42.540
+So there are things that are available now.
+
+21:42.540 --> 21:44.610
+I think we do need to think,
+
+21:44.610 --> 21:45.443
+I think it was German
+
+21:45.443 --> 21:48.390
+who said this is a very complicated problem.
+
+21:48.390 --> 21:49.770
+It's an ecosystem of problems,
+
+21:49.770 --> 21:51.180
+and we're not gonna solve them all overnight.
+
+21:51.180 --> 21:52.770
+So while we think about, you know,
+
+21:52.770 --> 21:56.550
+what role, regulation, legislators, governments,
+
+21:56.550 --> 21:59.040
+tech companies, startups can have,
+
+21:59.040 --> 22:00.840
+we should really set about putting in place
+
+22:00.840 --> 22:04.620
+some simple measures and beginning to educate consumers.
+
+22:04.620 --> 22:06.870
+I'm not a fan of the term media literacy necessarily,
+
+22:06.870 --> 22:08.280
+but there's a lot of work to be done
+
+22:08.280 --> 22:10.020
+around teaching our children.
+
+22:10.020 --> 22:12.810
+It's not too late for your son, I'm here to tell you,
+
+22:12.810 --> 22:15.330
+how to be savvy media consumers.
+
+22:15.330 --> 22:17.520
+And, you know, the critique on that is often that,
+
+22:17.520 --> 22:20.790
+while that puts too much onus on media consumers,
+
+22:20.790 --> 22:23.670
+isn't it the responsibility of platforms and creators?
+
+22:23.670 --> 22:25.890
+And I think the truth is it's a shared responsibility.
+
+22:25.890 --> 22:27.270
+And we will need to become,
+
+22:27.270 --> 22:29.430
+as will our children and grandchildren,
+
+22:29.430 --> 22:30.990
+more savvy media consumers.
+
+22:30.990 --> 22:33.390
+And there will continue to be a role for platforms
+
+22:33.390 --> 22:35.760
+to show you things that have extra context,
+
+22:35.760 --> 22:38.280
+not to cease the ability for you to see things
+
+22:38.280 --> 22:41.190
+that those platforms may or may not agree with.
+
+22:41.190 --> 22:42.360
+So there's a long road ahead,
+
+22:42.360 --> 22:44.040
+but, you know, if there's one point I'd like to make
+
+22:44.040 --> 22:44.873
+on this question,
+
+22:44.873 --> 22:46.350
+it's that there are simple measures
+
+22:46.350 --> 22:50.460
+and we can talk in detail about C2PA nutritional labeling.
+
+22:50.460 --> 22:51.750
+There are things that we can do now
+
+22:51.750 --> 22:54.150
+that are open, don't require licensing,
+
+22:54.150 --> 22:55.680
+and we should do those things.
+
+22:55.680 --> 22:58.063
+<v ->Yeah, absolutely. German, your view?</v>
+
+22:58.063 --> 23:00.450
+<v ->I really agree with your point.</v>
+
+23:00.450 --> 23:04.830
+I think the question has been asked a few times
+
+23:04.830 --> 23:08.250
+throughout the years, and the answer keeps changing.
+
+23:08.250 --> 23:12.450
+And that's because AI is progressing so fast that, you know,
+
+23:12.450 --> 23:16.380
+the seven fingers or the lips not in sync with the audio,
+
+23:16.380 --> 23:19.350
+it's no longer useful, right?
+
+23:19.350 --> 23:20.640
+But I think at this point,
+
+23:20.640 --> 23:23.160
+we are ready to give a new recommendation maybe,
+
+23:23.160 --> 23:26.220
+which is, "Hey, we need to rely more on tools,"
+
+23:26.220 --> 23:28.470
+whatever is available to be honest.
+
+23:28.470 --> 23:30.930
+And at the end of the day, it's a little bit high ironic,
+
+23:30.930 --> 23:34.740
+but you need AI to fight AI, right?
+
+23:34.740 --> 23:36.870
+So to give you an example,
+
+23:36.870 --> 23:39.960
+McAfee has partnered with Yahoo News
+
+23:39.960 --> 23:42.510
+to scan images on the news
+
+23:42.510 --> 23:45.180
+using deepfake image detection technology.
+
+23:45.180 --> 23:48.090
+And that help us flag, you know,
+
+23:48.090 --> 23:51.930
+when somebody's manipulating an image with AI.
+
+23:51.930 --> 23:54.420
+And, you know, the benefit is for the consumer
+
+23:54.420 --> 23:56.640
+because if you're consuming such news
+
+23:56.640 --> 23:59.130
+which have been somehow curated,
+
+23:59.130 --> 24:00.300
+then you're less exposed
+
+24:00.300 --> 24:03.960
+to the elements of deepfakes or misinformation, right?
+
+24:03.960 --> 24:04.980
+By the same token,
+
+24:04.980 --> 24:07.950
+audio clone technology has evolved so much
+
+24:07.950 --> 24:10.740
+that nowadays you only need a five seconds clip
+
+24:10.740 --> 24:13.500
+to create a clone of somebody's voice,
+
+24:13.500 --> 24:16.080
+which is 99% similar to the original.
+
+24:16.080 --> 24:18.030
+And so you can no longer tell
+
+24:18.030 --> 24:20.520
+if you're talking with your son or not.
+
+24:20.520 --> 24:21.377
+And that's where tools
+
+24:21.377 --> 24:26.377
+like the McAfee Deepfake Detector can flag when somebody's,
+
+24:27.390 --> 24:28.740
+when you're watching to a video
+
+24:28.740 --> 24:31.290
+and it has AI-generated audio.
+
+24:31.290 --> 24:34.140
+Now, is that passing judgment? Really not.
+
+24:34.140 --> 24:37.980
+It's just giving you an extra weapon
+
+24:37.980 --> 24:41.130
+to decide if you can trust or not what you're watching
+
+24:41.130 --> 24:42.300
+or listening to, right?
+
+24:42.300 --> 24:45.210
+<v ->Yeah, I totally agree. And, Daniela?</v>
+
+24:45.210 --> 24:48.120
+<v ->Well, I've been talking about AI models,</v>
+
+24:48.120 --> 24:51.360
+nutrition labels for years by now.
+
+24:51.360 --> 24:55.080
+Of course, that's probably overwhelming
+
+24:55.080 --> 24:58.470
+for a consumer perspective because having,
+
+24:58.470 --> 25:01.590
+the nutrition label on an AI model is not as simple
+
+25:01.590 --> 25:02.760
+as in a food product.
+
+25:02.760 --> 25:03.663
+I can tell you.
+
+25:05.370 --> 25:07.320
+And a consumer will not be able to discern.
+
+25:07.320 --> 25:10.890
+It will come ultimately to the brand reputation,
+
+25:10.890 --> 25:13.530
+to trusting the brand that is creating,
+
+25:13.530 --> 25:15.120
+to the social media platform
+
+25:15.120 --> 25:18.540
+that is allowing content to go through,
+
+25:18.540 --> 25:23.540
+and to the source of the content when it comes to content,
+
+25:24.630 --> 25:26.673
+whether it's AI generated or not.
+
+25:27.660 --> 25:32.310
+But I do believe that governments are evolving
+
+25:32.310 --> 25:36.010
+and have been evolving very fast in the last couple of years
+
+25:38.010 --> 25:43.010
+towards enforcing these nutrition labels in models,
+
+25:44.160 --> 25:45.660
+in AI models.
+
+25:45.660 --> 25:50.490
+And this come down from application type,
+
+25:51.390 --> 25:53.610
+meaning, is this an application
+
+25:53.610 --> 25:57.487
+that's gonna impact social scoring on someone
+
+25:57.487 --> 26:00.450
+or decide life or death,
+
+26:00.450 --> 26:04.050
+which is one type of of problem to solve,
+
+26:04.050 --> 26:08.580
+or to allow or not to the provenance of the data,
+
+26:08.580 --> 26:11.220
+to copyright infringement,
+
+26:11.220 --> 26:13.203
+to bias in the data,
+
+26:14.190 --> 26:18.633
+to content moderation, and right feedback loop involvement.
+
+26:20.160 --> 26:23.400
+So governments have to create those rules
+
+26:23.400 --> 26:27.210
+and then of course the people,
+
+26:27.210 --> 26:29.580
+the consumer will have to discern what to buy
+
+26:29.580 --> 26:30.870
+or what to consume from.
+
+26:30.870 --> 26:33.450
+<v ->Perfect. And, Amy, anything to add?</v>
+
+26:33.450 --> 26:36.030
+<v ->Sure. I think Andy, German,</v>
+
+26:36.030 --> 26:40.050
+and Dr. Braga gave a very comprehensive response to that.
+
+26:40.050 --> 26:42.450
+I'll just add a couple other things.
+
+26:42.450 --> 26:44.970
+So in DHS S&amp;T,
+
+26:44.970 --> 26:48.210
+we're just now finishing a congressionally mandated report
+
+26:48.210 --> 26:51.690
+in digital content forgeries, which will be made public.
+
+26:51.690 --> 26:52.860
+And in that document,
+
+26:52.860 --> 26:56.460
+we have dozens and dozens of heuristic rules of thumb,
+
+26:56.460 --> 26:59.730
+many similar to what Andy discussed.
+
+26:59.730 --> 27:02.880
+And I agree that someday those will not be as useful
+
+27:02.880 --> 27:04.830
+as they are today.
+
+27:04.830 --> 27:07.770
+But there are a lot of different kinds of indicators
+
+27:07.770 --> 27:08.790
+that you can use.
+
+27:08.790 --> 27:11.220
+And I will give you one great tip.
+
+27:11.220 --> 27:13.620
+If your staff ever gives you a document
+
+27:13.620 --> 27:15.210
+with the word, delve, in it,
+
+27:15.210 --> 27:17.523
+the odds are that was written by ChatGPT.
+
+27:18.930 --> 27:21.240
+And then I guess I just, I'll close to that.
+
+27:21.240 --> 27:22.800
+You know, I think education,
+
+27:22.800 --> 27:26.880
+and we're gonna learn as we go to some extent in this space.
+
+27:26.880 --> 27:29.310
+You know, I remember being a young girl
+
+27:29.310 --> 27:32.550
+my dad telling me about when he was a young boy
+
+27:32.550 --> 27:35.190
+hearing a Orson Welles' radio broadcast
+
+27:35.190 --> 27:36.750
+called "War of the World,"
+
+27:36.750 --> 27:39.030
+and some people have heard of this, right,
+
+27:39.030 --> 27:41.880
+and being afraid that the world was being invaded by aliens.
+
+27:41.880 --> 27:43.080
+Well, he learned, you know,
+
+27:43.080 --> 27:46.590
+not to always trust the Orson Welles' radio broadcasts.
+
+27:46.590 --> 27:47.580
+And 20 years ago,
+
+27:47.580 --> 27:49.830
+I used to get emails from Nigerian princes
+
+27:49.830 --> 27:52.290
+asking me to send 9.95
+
+27:52.290 --> 27:56.340
+so I would get $1 million from the deceased Nigerian king.
+
+27:56.340 --> 27:58.230
+And I learned not to trust those.
+
+27:58.230 --> 28:01.020
+So I think there'll be sort of that kind of growing
+
+28:01.020 --> 28:02.490
+in this space,
+
+28:02.490 --> 28:05.970
+and people will make mistakes perhaps sometimes
+
+28:05.970 --> 28:07.740
+and learn from those
+
+28:07.740 --> 28:11.970
+and along with all the other mitigations though
+
+28:11.970 --> 28:15.363
+that we should put in place to help minimize those mistakes.
+
+28:16.830 --> 28:18.715
+<v ->Perfect. And from my point of view,</v>
+
+28:18.715 --> 28:21.450
+we are seeing that we are seeing use cases
+
+28:21.450 --> 28:23.137
+where people are hiring deepfakes.
+
+28:23.137 --> 28:25.140
+Then there before was of course somebody who joined,
+
+28:25.140 --> 28:28.920
+who was a pure deepfake from North Korea.
+
+28:28.920 --> 28:30.270
+We are seeing use cases
+
+28:30.270 --> 28:34.930
+where people are deepfaking MRI scans from hospitals
+
+28:36.347 --> 28:38.730
+to prove that their tumor hasn't been detected
+
+28:38.730 --> 28:40.020
+so they can actually sue.
+
+28:40.020 --> 28:42.960
+We are seeing that people are going on live calls.
+
+28:42.960 --> 28:44.910
+So I got myself deepfake.
+
+28:44.910 --> 28:47.850
+And I joined a call with my team.
+
+28:47.850 --> 28:51.660
+It was somebody else having a face swap and a lip up.
+
+28:51.660 --> 28:54.390
+And it took my team 22 minutes before they realized,
+
+28:54.390 --> 28:57.150
+someone said, "I don't think this is Flick."
+
+28:57.150 --> 29:00.270
+So we are seeing it from a live point of view
+
+29:00.270 --> 29:03.420
+and a potential cyber attack point of view as well.
+
+29:03.420 --> 29:05.310
+So from an Accenture point of view,
+
+29:05.310 --> 29:08.970
+we are very much looking at the detection side of deepfake
+
+29:08.970 --> 29:12.450
+as well as the human firewall or human in the loop.
+
+29:12.450 --> 29:15.180
+And that detection capability on call centers,
+
+29:15.180 --> 29:17.460
+know your customer processes,
+
+29:17.460 --> 29:18.960
+on your HR processes,
+
+29:18.960 --> 29:20.710
+how on earth did someone get hired,
+
+29:22.080 --> 29:25.200
+properly hired, properly onboarded, given a laptop,
+
+29:25.200 --> 29:28.260
+and they never existed at all, ever.
+
+29:28.260 --> 29:30.240
+And it was only when malware started squirting
+
+29:30.240 --> 29:31.800
+from their laptop that they realized
+
+29:31.800 --> 29:36.120
+that maybe something was just slightly haphazard on that.
+
+29:36.120 --> 29:37.800
+But I like the idea of delve
+
+29:37.800 --> 29:41.493
+because my son did most of his dissertation using ChatGPT.
+
+29:42.780 --> 29:44.610
+And he got a distinction.
+
+29:44.610 --> 29:46.200
+So it obviously works very well,
+
+29:46.200 --> 29:47.033
+but I'll go back
+
+29:47.033 --> 29:48.930
+and see if the word, delve, is in there as well.
+
+29:48.930 --> 29:51.720
+But it probably is. So maybe-
+
+29:51.720 --> 29:52.807
+<v ->Flick, can I add a-</v>
+
+29:52.807 --> 29:54.570
+<v ->Please do.</v>
+<v ->A quick comment on that.</v>
+
+29:54.570 --> 29:56.130
+So one thing that's coming up, I'm just,
+
+29:56.130 --> 29:58.650
+it's just like burning in my brain right now,
+
+29:58.650 --> 30:01.050
+and "War of the World" actually cement this idea.
+
+30:01.050 --> 30:04.230
+You know, that was perhaps the original deepfake,
+
+30:04.230 --> 30:05.430
+now that you mention it.
+
+30:05.430 --> 30:06.300
+For those who aren't familiar with it,
+
+30:06.300 --> 30:07.710
+it was extremely convincing.
+
+30:07.710 --> 30:09.870
+I don't know why they did this.
+
+30:09.870 --> 30:12.480
+Perhaps in the spirit of entertainment, but Orson Welles,
+
+30:12.480 --> 30:14.790
+more importantly like there's,
+
+30:14.790 --> 30:16.560
+does provenance or understanding
+
+30:16.560 --> 30:18.780
+what something is circumvent the need
+
+30:18.780 --> 30:20.940
+to trust the institution or the person that's providing?
+
+30:20.940 --> 30:22.200
+The answer is no. Right?
+
+30:22.200 --> 30:25.500
+Trust is not between people and models or models and robots.
+
+30:25.500 --> 30:26.760
+It's between people,
+
+30:26.760 --> 30:28.530
+other people and people in their institutions.
+
+30:28.530 --> 30:31.170
+And that's where trust and distrust actually exists.
+
+30:31.170 --> 30:32.400
+So you need two things.
+
+30:32.400 --> 30:34.200
+You need to understand, you know,
+
+30:34.200 --> 30:37.260
+provenance of media can tell you
+
+30:37.260 --> 30:38.730
+whether something is a photograph,
+
+30:38.730 --> 30:40.500
+originated life as a photograph or not.
+
+30:40.500 --> 30:44.490
+There are very few or no popular, you know,
+
+30:44.490 --> 30:45.960
+news media photos or videos
+
+30:45.960 --> 30:47.673
+that aren't retouched in some way.
+
+30:48.570 --> 30:50.820
+And that's something that news organizations know
+
+30:50.820 --> 30:52.410
+and many of you know.
+
+30:52.410 --> 30:54.120
+But understanding that it started life as a photo
+
+30:54.120 --> 30:57.600
+and was modified in a slight way is important.
+
+30:57.600 --> 30:59.700
+But equally or more important is, where did it come from?
+
+30:59.700 --> 31:02.190
+You know, provably knowing that something purporting
+
+31:02.190 --> 31:04.410
+or appearing to come from the BBC or Fox News
+
+31:04.410 --> 31:06.570
+or your favorite news source actually came
+
+31:06.570 --> 31:08.970
+from that news source is probably more important.
+
+31:08.970 --> 31:11.160
+And the most important trust signal you have,
+
+31:11.160 --> 31:14.970
+whether it's "War of the Worlds" or depictions of LA fires,
+
+31:14.970 --> 31:18.330
+is whose reputation is standing behind it.
+
+31:18.330 --> 31:19.950
+And that's another place where, you know,
+
+31:19.950 --> 31:21.570
+cryptographic signing of media can help.
+
+31:21.570 --> 31:24.150
+But trust is a very fraught combination
+
+31:24.150 --> 31:25.620
+of who trained the model,
+
+31:25.620 --> 31:27.720
+what data did they use to train the model,
+
+31:28.830 --> 31:30.390
+what Adobe or other tools used
+
+31:30.390 --> 31:33.210
+to manipulate a photograph and change it,
+
+31:33.210 --> 31:36.060
+and then ultimately who used all those tools
+
+31:36.060 --> 31:38.670
+and stands behind the publication of that media.
+
+31:38.670 --> 31:40.260
+<v ->Yeah, perfect.</v>
+<v ->Just one more thing</v>
+
+31:40.260 --> 31:43.140
+very quickly, that there's a lot of innovation
+
+31:43.140 --> 31:45.060
+starting to appear to,
+
+31:45.060 --> 31:48.183
+in order to solve detection problems,
+
+31:49.110 --> 31:51.630
+startups starting to come up with.
+
+31:51.630 --> 31:54.903
+So there's one company called ProRata.ai.
+
+31:56.250 --> 32:00.840
+The whole gist of it is basically analyzing
+
+32:00.840 --> 32:02.160
+the output of an AI model
+
+32:02.160 --> 32:07.160
+and classifying the percentage of input from what source.
+
+32:07.200 --> 32:11.100
+Now, the point is to compensate content creators,
+
+32:11.100 --> 32:14.550
+have them having a ProRata of the model value.
+
+32:14.550 --> 32:17.850
+But you see, this can also help trace
+
+32:17.850 --> 32:19.350
+the origin of the content
+
+32:19.350 --> 32:23.160
+and have more reliability from the consumer side.
+
+32:23.160 --> 32:26.250
+So just examples that innovation is going,
+
+32:26.250 --> 32:27.600
+there's opportunity for innovation
+
+32:27.600 --> 32:29.460
+whenever there's a problem all the time.
+
+32:29.460 --> 32:30.900
+<v ->Yeah, always an opportunity.</v>
+
+32:30.900 --> 32:32.460
+And I'm a big fan of "War of the Worlds."
+
+32:32.460 --> 32:34.290
+And I remember that story very well
+
+32:34.290 --> 32:36.300
+and how much it freaked out so many people
+
+32:36.300 --> 32:38.280
+because of the radio play.
+
+32:38.280 --> 32:39.870
+So, yes, in Accenture,
+
+32:39.870 --> 32:41.550
+what we are doing is also investing
+
+32:41.550 --> 32:43.770
+in a company called a Reality Defender
+
+32:43.770 --> 32:45.900
+that allows you to then put it on a call,
+
+32:45.900 --> 32:48.360
+and it will tell you, take six second snippets,
+
+32:48.360 --> 32:51.750
+and tell you whether that's a real voice or a real face,
+
+32:51.750 --> 32:54.030
+or whether they believe that that has been manipulated
+
+32:54.030 --> 32:55.710
+or whether it's actually a true deepfake.
+
+32:55.710 --> 32:58.110
+So very, very interesting
+
+32:58.110 --> 33:00.630
+what innovations are coming out daily.
+
+33:00.630 --> 33:03.150
+But what I'm also hearing from the dark web,
+
+33:03.150 --> 33:05.160
+two-and-a-half thousand euros will buy me something
+
+33:05.160 --> 33:08.280
+that allow me to deepfake myself on any Teams call
+
+33:08.280 --> 33:09.870
+or any Zoom call.
+
+33:09.870 --> 33:13.500
+And it's so cheap now that my threat intel
+
+33:13.500 --> 33:15.360
+who goes and plays in the dark web every day,
+
+33:15.360 --> 33:17.430
+seriously cool guy,
+
+33:17.430 --> 33:19.380
+he said, "Actually for once, Flick,"
+
+33:19.380 --> 33:20.610
+he said, "The technology's there,
+
+33:20.610 --> 33:22.590
+the threat actors are speeding up,
+
+33:22.590 --> 33:25.290
+and they are now looking from a threat actor point of view.
+
+33:25.290 --> 33:28.320
+They are not looking at deepfaking someone
+
+33:28.320 --> 33:30.600
+to get access to the system to put ransomware in,
+
+33:30.600 --> 33:31.860
+to get to pay the money.
+
+33:31.860 --> 33:33.510
+They're just deepfaking you to send the money
+
+33:33.510 --> 33:34.560
+or the IP out."
+
+33:34.560 --> 33:37.740
+So it's how the hell do you actually work out,
+
+33:37.740 --> 33:40.050
+how you manage that side of things
+
+33:40.050 --> 33:41.940
+because, again, psychologically we're all used
+
+33:41.940 --> 33:42.840
+to seeing someone's face
+
+33:42.840 --> 33:45.420
+and believing that is someone's face.
+
+33:45.420 --> 33:47.550
+So, German, let me turn to you.
+
+33:47.550 --> 33:48.383
+We've covered it,
+
+33:48.383 --> 33:50.970
+but give me your summary of sort of the best ways
+
+33:50.970 --> 33:54.180
+to combat misinformation, disinformation, and deepfake.
+
+33:54.180 --> 33:56.820
+And I'm gonna add one more thing to this question
+
+33:56.820 --> 33:57.690
+because I want to make sure
+
+33:57.690 --> 33:59.280
+we all have a point of view on this.
+
+33:59.280 --> 34:01.080
+Tell me where we go from here
+
+34:01.080 --> 34:03.420
+and what you think the future looks like.
+
+34:03.420 --> 34:04.860
+<v ->Got it.</v>
+
+34:04.860 --> 34:08.370
+I think that beyond the advice of trying to look for tools
+
+34:08.370 --> 34:11.970
+to help you assess what you're watching or listening to,
+
+34:11.970 --> 34:16.440
+I feel like we can all use some healthy questioning system
+
+34:16.440 --> 34:18.750
+that's going to help us personally.
+
+34:18.750 --> 34:22.770
+So if you suspect that you're dealing with a deepfake,
+
+34:22.770 --> 34:27.450
+start by questioning the content, is as basic as that.
+
+34:27.450 --> 34:29.430
+Deepfakes will aim for impact.
+
+34:29.430 --> 34:31.740
+They want to provoke an emotional response.
+
+34:31.740 --> 34:32.730
+They want to shock you.
+
+34:32.730 --> 34:35.550
+They want to surprise you or deliver unexpected news.
+
+34:35.550 --> 34:38.190
+So if you feel yourself in that situation,
+
+34:38.190 --> 34:41.610
+just pause for a moment and go check other sources.
+
+34:41.610 --> 34:43.890
+Deepfakes typically do not propagate
+
+34:43.890 --> 34:45.780
+through many sources at the same time.
+
+34:45.780 --> 34:50.100
+It's just a random social media post or something like that.
+
+34:50.100 --> 34:53.790
+So that's going to help you even in the absence of tools.
+
+34:53.790 --> 34:56.110
+And then the other piece of advice is
+
+34:57.030 --> 34:59.520
+around analyzing the context.
+
+34:59.520 --> 35:03.060
+So typically it's a celebrity, or an influencer,
+
+35:03.060 --> 35:06.480
+or a politician that is being used for the deepfake.
+
+35:06.480 --> 35:08.400
+So you should ask the question,
+
+35:08.400 --> 35:10.920
+is this person typically saying this kind of stuff
+
+35:10.920 --> 35:12.090
+or doing that?
+
+35:12.090 --> 35:13.320
+Because if the answer is no,
+
+35:13.320 --> 35:15.630
+then it's likely a deepfake, right?
+
+35:15.630 --> 35:18.990
+So that healthy questioning system that we can all exercise,
+
+35:18.990 --> 35:22.020
+and it's free, is going to help us a lot.
+
+35:22.020 --> 35:23.880
+And I feel like from now on,
+
+35:23.880 --> 35:27.390
+we are going to see a lot more scams using deepfakes,
+
+35:27.390 --> 35:30.420
+specifically targeting celebrities
+
+35:30.420 --> 35:33.240
+or thought leaders with huge fund bases
+
+35:33.240 --> 35:35.430
+because that's where scammers see
+
+35:35.430 --> 35:37.620
+a lot of return on investment, right?
+
+35:37.620 --> 35:42.540
+Fund bases are following these persons almost blindly.
+
+35:42.540 --> 35:46.020
+So it's a good opportunity for them to scam people.
+
+35:46.020 --> 35:48.570
+And with the current market where we have a lot of,
+
+35:49.615 --> 35:52.350
+more than 10,000 cryptocurrencies, let's say,
+
+35:52.350 --> 35:55.200
+and everybody wants to be a millionaire overnight,
+
+35:55.200 --> 35:57.090
+really creates the perfect storm
+
+35:57.090 --> 35:59.130
+for bad actors to create deepfakes,
+
+35:59.130 --> 36:01.470
+scam people, get a lot of money out of it.
+
+36:01.470 --> 36:04.770
+So with the, you know, tools that we discussed today
+
+36:04.770 --> 36:06.900
+and with this healthy questioning system
+
+36:06.900 --> 36:08.550
+that we can all exercise,
+
+36:08.550 --> 36:10.560
+I feel like we're going to be prepared to mitigate
+
+36:10.560 --> 36:12.240
+this threat in 2025.
+<v ->Perfect. Thank you, German.</v>
+
+36:12.240 --> 36:14.850
+Amy, can I go to you, please?
+
+36:14.850 --> 36:16.380
+<v ->Yeah, sure, of course.</v>
+
+36:16.380 --> 36:19.590
+So look, we've talked about provenance-based methods,
+
+36:19.590 --> 36:23.010
+content detection methods, education, regulation,
+
+36:23.010 --> 36:25.610
+market-based approaches, normative-based approaches.
+
+36:26.940 --> 36:28.530
+That's been a broad conversation.
+
+36:28.530 --> 36:30.630
+I think, you know, we need a broad array
+
+36:30.630 --> 36:35.100
+of those kinds of approaches and sort of best of breeds.
+
+36:35.100 --> 36:37.250
+The one thing I haven't heard it discussed,
+
+36:38.310 --> 36:42.030
+there are tools that, for individual users,
+
+36:42.030 --> 36:45.210
+so I wanna post something to Facebook, for example.
+
+36:45.210 --> 36:47.040
+There are tools I can apply
+
+36:47.040 --> 36:50.010
+that will perturb my image in the same way
+
+36:50.010 --> 36:52.740
+you would have a adversarial perturbation attack
+
+36:52.740 --> 36:54.540
+or adversarial attack.
+
+36:54.540 --> 36:58.140
+It will perturb my image before I put it on Facebook,
+
+36:58.140 --> 37:03.140
+which makes it more difficult for gen AI tools to be applied
+
+37:03.150 --> 37:07.650
+or that turned into a deepfake against my wishes.
+
+37:07.650 --> 37:11.010
+So I think that's another thing to pay attention to.
+
+37:11.010 --> 37:14.520
+And then there's, you know, processes specific to use cases.
+
+37:14.520 --> 37:18.720
+So, Germany, for example, about seven-ish years ago,
+
+37:18.720 --> 37:20.940
+they realized that they had vulnerabilities
+
+37:20.940 --> 37:24.390
+in their passport processes, right?
+
+37:24.390 --> 37:29.390
+So there was not good chain of custody on digital photos
+
+37:30.540 --> 37:32.490
+or photos that could have been digital
+
+37:32.490 --> 37:36.660
+that were being submitted to the passport office in Germany.
+
+37:36.660 --> 37:40.980
+And they changed their laws and their processes.
+
+37:40.980 --> 37:45.960
+So now German immigration only accepts
+
+37:45.960 --> 37:50.960
+passports that were taken by, you know,
+
+37:52.080 --> 37:53.430
+people who have the credentials
+
+37:53.430 --> 37:56.130
+to take passport photos in Germany, right?
+
+37:56.130 --> 37:59.382
+So there are all sorts of use case specific mitigations
+
+37:59.382 --> 38:00.215
+that we need to be aware of.
+
+38:00.215 --> 38:04.440
+You know, where I think it's going, moving on here,
+
+38:04.440 --> 38:06.900
+we're very concerned about interactive bots.
+
+38:06.900 --> 38:09.720
+So you see a lot of deepfakes nowadays
+
+38:09.720 --> 38:12.150
+where you have synthetic text
+
+38:12.150 --> 38:14.820
+and the deepfake can mimic the text.
+
+38:14.820 --> 38:18.570
+But we see more deliberate integrations
+
+38:18.570 --> 38:22.500
+between deepfakes and LLM chatbots
+
+38:22.500 --> 38:24.750
+providing for richer interactive,
+
+38:24.750 --> 38:28.353
+more interactive experience with these deepfakes.
+
+38:29.430 --> 38:33.240
+You're starting to see a lot more APIs across apps
+
+38:33.240 --> 38:35.850
+that allows you to build a best of breed
+
+38:35.850 --> 38:38.220
+in different digital content forgeries,
+
+38:38.220 --> 38:40.050
+whatever you're trying to achieve.
+
+38:40.050 --> 38:41.730
+I think there's gonna be better integration
+
+38:41.730 --> 38:42.810
+of audio and video.
+
+38:42.810 --> 38:47.250
+So we lose the sort of Godzilla-ish, you know,
+
+38:47.250 --> 38:50.463
+the words come out and the lips aren't quite matching.
+
+38:51.360 --> 38:54.153
+And then just longer term,
+
+38:55.020 --> 39:00.020
+we see just amazingly increased representation power
+
+39:01.440 --> 39:03.210
+going back to the interactive bots,
+
+39:03.210 --> 39:06.240
+you know, think of those interactive bots with access
+
+39:06.240 --> 39:10.140
+to all the data out there on all of us, right?
+
+39:10.140 --> 39:14.280
+Our social media accounts, our personal electronic devices,
+
+39:14.280 --> 39:16.500
+fitness tracker smartwatch or smartphones,
+
+39:16.500 --> 39:19.140
+third-party volunteer websites, DNA sites,
+
+39:19.140 --> 39:22.320
+health improvement sites, dating services, public records,
+
+39:22.320 --> 39:24.570
+tax records, property titles, donor lists,
+
+39:24.570 --> 39:27.930
+legal data brokers, Whitepages, Experian, Equifax,
+
+39:27.930 --> 39:30.450
+illegal data brokers, right, dark web.
+
+39:30.450 --> 39:35.310
+So you can imagine, to Daniela's point earlier,
+
+39:35.310 --> 39:37.680
+you know, all that data being used
+
+39:37.680 --> 39:42.680
+to fine tune a model interactive bot,
+
+39:42.990 --> 39:44.430
+and all of a sudden, you know,
+
+39:44.430 --> 39:47.040
+you have a deepfake that not only looks like you
+
+39:47.040 --> 39:50.400
+and has your hair, and has your voice, has your eyes,
+
+39:50.400 --> 39:52.200
+but all of a sudden, you know,
+
+39:52.200 --> 39:54.690
+it knows that your mom's birthday was last week
+
+39:54.690 --> 39:56.100
+and what you got her for her birthday
+
+39:56.100 --> 39:58.830
+because you posted it to your Facebook page, right?
+
+39:58.830 --> 40:02.370
+So that's what we see in the future.
+
+40:02.370 --> 40:04.443
+And interestingly in that future,
+
+40:06.570 --> 40:07.403
+I don't even think
+
+40:07.403 --> 40:09.570
+people are gonna have to create deepfakes.
+
+40:09.570 --> 40:11.070
+You know, the bad guys aren't gonna have
+
+40:11.070 --> 40:11.903
+to create deepfakes
+
+40:11.903 --> 40:15.840
+'cause we're all gonna be creating avatars,
+
+40:15.840 --> 40:18.630
+or digital clones, or digital humans,
+
+40:18.630 --> 40:20.880
+whatever you wanna call it of ourselves.
+
+40:20.880 --> 40:23.070
+And once you get to that point,
+
+40:23.070 --> 40:24.870
+all the bad guys have to do is steal
+
+40:26.773 --> 40:29.070
+what you've already created of yourself.
+
+40:29.070 --> 40:31.290
+<v ->Perfect, Amy. We've run out of time.</v>
+
+40:31.290 --> 40:33.720
+So I think what we're saying is don't trust anything.
+
+40:33.720 --> 40:36.240
+Have-
+(all laughing)
+
+40:36.240 --> 40:37.980
+<v ->An optimistic note and a CTA.</v>
+
+40:37.980 --> 40:39.720
+I know we're out of time.
+
+40:39.720 --> 40:41.400
+A 40-minute conversation is not sufficient.
+
+40:41.400 --> 40:42.233
+<v ->It's not sufficient.</v>
+<v ->I would urge you</v>
+
+40:42.233 --> 40:44.250
+to find communities,
+
+40:44.250 --> 40:46.170
+join the content authenticity initiative,
+
+40:46.170 --> 40:47.340
+not showing for that,
+
+40:47.340 --> 40:49.260
+and standards organizations that are open
+
+40:49.260 --> 40:50.910
+where these conversations can continue.
+
+40:50.910 --> 40:52.500
+You're all in industry.
+
+40:52.500 --> 40:53.730
+I think we all have a role to play
+
+40:53.730 --> 40:54.960
+in contributing and continuing
+
+40:54.960 --> 40:56.550
+this conversation.
+<v ->Absolutely. Thank you.</v>
+
+40:56.550 --> 40:57.420
+Thank you, everyone.
+
+40:57.420 --> 40:58.949
+Thank you for your time this afternoon.
+
+40:58.949 --> 41:00.035
+(audience applauding)
+
+41:00.035 --> 41:02.618
+(upbeat music)
+

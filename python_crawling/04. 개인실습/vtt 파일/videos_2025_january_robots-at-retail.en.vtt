@@ -1,0 +1,2867 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.003 --> 00:02.836
+(energetic music)
+
+00:10.403 --> 00:12.536
+- Okay, the mics are on.
+
+00:12.536 --> 00:14.070
+Good morning.
+
+00:14.070 --> 00:15.270
+9:00 AM Vegas.
+
+00:15.270 --> 00:18.470
+You guys are really
+impressive, I gotta tell you.
+
+00:18.470 --> 00:22.370
+So we get the honor to kick off
+
+00:22.370 --> 00:25.470
+the robotics discussion here at CES,
+
+00:25.470 --> 00:27.703
+here at 9:00 AM in the West Hall,
+
+00:27.703 --> 00:31.703
+about retail robotics, robots at retail.
+
+00:31.703 --> 00:35.536
+My name's Oliver Mitchell
+and I'm your moderator.
+
+00:35.536 --> 00:38.870
+And I'm gonna tell you a
+little bit about myself,
+
+00:38.870 --> 00:41.370
+a little bit about how I see the landscape
+
+00:41.370 --> 00:42.503
+of retail robotics.
+
+00:42.503 --> 00:44.770
+And then I'm gonna let
+each of our panelists
+
+00:44.770 --> 00:48.070
+introduce themselves and share with you
+
+00:48.070 --> 00:49.770
+their videos of their products
+
+00:49.770 --> 00:51.503
+that you might have never seen.
+
+00:51.503 --> 00:54.403
+This is really, you know,
+news-breaking stuff here.
+
+00:55.303 --> 00:57.936
+So there I am again.
+
+00:57.936 --> 00:59.103
+All right.
+
+00:59.103 --> 01:00.870
+So does everyone know who that robot
+
+01:00.870 --> 01:03.036
+is there serving the drinks?
+
+01:03.036 --> 01:07.403
+That's Elon Musk dressed
+up as a robot, Optimist.
+
+01:07.403 --> 01:11.470
+So as I mentioned
+before, my name's Oliver.
+
+01:11.470 --> 01:12.936
+I'm a venture capitalist.
+
+01:12.936 --> 01:14.703
+And so why should you listen to me?
+
+01:14.703 --> 01:16.170
+Because I deploy capital?
+
+01:16.170 --> 01:20.203
+No, I've been a founder
+and operator of startups.
+
+01:20.203 --> 01:22.770
+I've sold them to big multinationals.
+
+01:22.770 --> 01:26.070
+And my last one was called
+Robot Galaxy at retail.
+
+01:26.070 --> 01:28.370
+It was a STEM robotics company.
+
+01:28.370 --> 01:31.336
+We had stores, we had wholesale accounts,
+
+01:31.336 --> 01:33.603
+we had a multiplayer virtual world,
+
+01:33.603 --> 01:35.803
+and we also had entertainment products.
+
+01:35.803 --> 01:38.136
+We were transmedia brands.
+
+01:38.136 --> 01:41.303
+And near the end of that,
+
+01:42.236 --> 01:44.870
+the blogging sphere started,
+
+01:44.870 --> 01:47.936
+and my marketing department
+created a blog for me.
+
+01:47.936 --> 01:50.436
+They know, you know,
+that I was always called
+
+01:50.436 --> 01:51.536
+the robot guy in New York.
+
+01:51.536 --> 01:53.803
+"Hey, there's Oliver, he's the robot guy."
+
+01:53.803 --> 01:56.870
+And my marketing department
+thought it'd be cute,
+
+01:56.870 --> 02:01.803
+knowing that I'm Jewish, to
+name the blog Robot Rabbi.
+
+02:01.803 --> 02:04.503
+So I got a promotion, I became a rabbi.
+
+02:04.503 --> 02:06.136
+But I became a rabbi of robotics,
+
+02:06.136 --> 02:09.436
+and I started to write trade
+periodicals about robots.
+
+02:09.436 --> 02:11.370
+And I got to meet some
+really great founders,
+
+02:11.370 --> 02:13.403
+some of them on stage like Jeff
+
+02:16.403 --> 02:21.403
+and Erik and I started to invest
+in automation technologies,
+
+02:21.503 --> 02:24.103
+and I had my own investment
+vehicle called Atomic Ventures,
+
+02:24.103 --> 02:26.403
+where I had eight exits,
+two that went public,
+
+02:26.403 --> 02:29.770
+and one that got bought by
+private equity for 1.4 billion.
+
+02:29.770 --> 02:32.103
+And then I ended up joining another fund
+
+02:32.103 --> 02:34.803
+called ff Venture Capital,
+where I'm at today.
+
+02:34.803 --> 02:37.536
+And these are some of our holdings.
+
+02:37.536 --> 02:38.770
+I also teach.
+
+02:38.770 --> 02:43.770
+And a shameless plug, but
+if you scan that QR code,
+
+02:43.970 --> 02:46.603
+you can pre-order your book
+
+02:46.603 --> 02:49.936
+of "A Startup Field Guide in
+the Age of Robots and AI."
+
+02:49.936 --> 02:51.803
+Oh, I love it. Look at all those cameras.
+
+02:51.803 --> 02:52.636
+Okay.
+
+02:52.636 --> 02:57.270
+And I interviewed about
+30 luminaries in the space
+
+02:57.270 --> 03:00.136
+of taking their idea from ideation
+
+03:00.136 --> 03:01.603
+all the way to going public.
+
+03:02.803 --> 03:06.136
+One of the people that I
+interviewed was Mick Mountz.
+
+03:06.136 --> 03:09.903
+Now I would say that Mick
+Mountz is the progenitor
+
+03:09.903 --> 03:12.136
+of robots at retail.
+
+03:12.136 --> 03:16.370
+And this all starts in the
+first, you know, web 1.0,
+
+03:17.670 --> 03:22.170
+the dot-com era when a
+company called Webvan
+
+03:22.170 --> 03:25.303
+raised a ton of money, $800 million.
+
+03:25.303 --> 03:28.603
+They build huge distribution centers,
+
+03:28.603 --> 03:32.336
+and they were the first
+online grocery company.
+
+03:32.336 --> 03:33.170
+Makes sense, right?
+
+03:33.170 --> 03:34.803
+We all use Instacart, right?
+
+03:36.203 --> 03:37.770
+But they didn't do much market research,
+
+03:37.770 --> 03:42.370
+and they didn't really, you
+know, get that many orders,
+
+03:42.370 --> 03:44.136
+but they had these huge
+distribution centers
+
+03:44.136 --> 03:47.503
+and Mick Mountz was the
+director of logistics for them.
+
+03:47.503 --> 03:50.570
+And he saw that there
+was a real problem there.
+
+03:50.570 --> 03:55.270
+They were basically, as his
+partner, Raphael Andrea says,
+
+03:55.270 --> 03:58.936
+they were taping $50 to every
+package going out the door
+
+03:58.936 --> 04:01.103
+because it was costing them so much money.
+
+04:01.103 --> 04:04.336
+And Mick saw that, like,
+they were using these slides,
+
+04:04.336 --> 04:06.970
+and this was the first
+time you opened up a carton
+
+04:08.670 --> 04:11.670
+and repack it to ship it to a consumer.
+
+04:11.670 --> 04:13.836
+And so he would go to
+the company, he's like,
+
+04:13.836 --> 04:16.970
+"Listen, can I put a a glass jar of Prego
+
+04:16.970 --> 04:18.370
+tomato sauce on the slide?"
+
+04:18.370 --> 04:19.470
+They're like, "No, you can't do that.
+
+04:19.470 --> 04:21.470
+It's gonna break all over the place."
+
+04:21.470 --> 04:24.436
+"Well, can I take, on the
+chute can I take something soft
+
+04:24.436 --> 04:25.270
+and put it there?"
+
+04:25.270 --> 04:26.503
+"No, it's gonna get stuck."
+
+04:26.503 --> 04:29.269
+And he saw that there
+was nothing really there
+
+04:29.269 --> 04:31.903
+that was solving the problem
+of online fulfillment.
+
+04:31.903 --> 04:35.436
+And sure enough, Webvan went bust,
+
+04:35.436 --> 04:40.069
+after a huge IPO, $800
+million they raised,
+
+04:40.069 --> 04:42.736
+and they went bust within three years.
+
+04:42.736 --> 04:45.036
+And so around this time
+
+04:46.603 --> 04:49.636
+there was a small online book retailer.
+
+04:49.636 --> 04:51.836
+You might have heard of them, amazon.com.
+
+04:51.836 --> 04:54.203
+They dropped the dot com shortly after.
+
+04:54.203 --> 04:56.769
+And you could see in 1997,
+
+04:57.869 --> 05:00.836
+you could see that their
+original fulfillment center
+
+05:00.836 --> 05:05.836
+in Seattle there using what
+Jeff Bezos coined door desks.
+
+05:06.203 --> 05:08.969
+They went to Home Depot and put some 2x4s
+
+05:08.969 --> 05:10.403
+and created a desk.
+
+05:10.403 --> 05:12.136
+And that was the original
+fulfillment center.
+
+05:12.136 --> 05:16.436
+And as they grew with more
+orders, more products,
+
+05:16.436 --> 05:20.303
+you would have people
+walking miles pushing carts.
+
+05:20.303 --> 05:22.336
+And it was really inefficient.
+
+05:22.336 --> 05:25.836
+And Mick saw this not just with Amazon,
+
+05:25.836 --> 05:28.303
+but with Walmart, with Target.
+
+05:28.303 --> 05:30.136
+And he created Kiva.
+
+05:30.136 --> 05:31.936
+And what Kiva does...
+
+05:34.769 --> 05:36.836
+This would be really
+great if this would load.
+
+05:36.836 --> 05:38.003
+There we go.
+
+05:38.003 --> 05:42.269
+Okay, what Kiva does, it brings
+this shelving to the picker
+
+05:42.269 --> 05:44.503
+and actually reorganizes the warehouse
+
+05:44.503 --> 05:46.136
+based upon best sellers.
+
+05:46.136 --> 05:50.069
+And he ended up building
+this very quickly,
+
+05:50.069 --> 05:52.169
+and he serviced the top 10%
+
+05:52.169 --> 05:54.803
+of all online e-commerce companies,
+
+05:54.803 --> 05:57.336
+including Walmart and others.
+
+05:57.336 --> 05:59.603
+Two of them being diapers.com
+
+05:59.603 --> 06:01.569
+and right here in Vegas, Zappos.
+
+06:01.569 --> 06:04.236
+And who acquired diapers.com and Zappos?
+
+06:04.236 --> 06:05.069
+Amazon.
+
+06:05.069 --> 06:06.769
+And when Amazon saw what
+Kiva was doing for them,
+
+06:06.769 --> 06:09.403
+they're like, "Listen, we need Kiva."
+
+06:09.403 --> 06:11.703
+And they bought them for $775 million.
+
+06:12.569 --> 06:15.769
+That's still one of the
+largest acquisitions to date.
+
+06:15.769 --> 06:19.803
+And that was in 2012,
+in the robotic space.
+
+06:20.669 --> 06:24.303
+That payback came within months.
+
+06:24.303 --> 06:26.003
+I mean they were shipping
+billions of packages
+
+06:26.003 --> 06:26.836
+as you could see,
+
+06:28.369 --> 06:31.503
+close to a billion dollars
+was within five months.
+
+06:31.503 --> 06:34.536
+You know, in five years
+it was like three months.
+
+06:34.536 --> 06:38.836
+And so this really started
+
+06:38.836 --> 06:41.036
+what I would say robots at retail,
+
+06:41.036 --> 06:43.903
+because today, if I walk you through
+
+06:43.903 --> 06:45.769
+how a retail store lays out,
+
+06:45.769 --> 06:47.469
+you have the front of the store,
+
+06:47.469 --> 06:48.903
+and this is in brick and mortar,
+
+06:48.903 --> 06:50.569
+where you have people greeting you.
+
+06:50.569 --> 06:51.403
+And there's been...
+
+06:51.403 --> 06:55.603
+Some of these robots here have died,
+
+06:55.603 --> 06:57.536
+you know, an unfortunate death,
+
+06:57.536 --> 06:59.869
+like Pepper there in the left hand corner.
+
+06:59.869 --> 07:01.703
+But the concept is true.
+
+07:01.703 --> 07:04.469
+And it's more in Asia,
+these greeting robots.
+
+07:04.469 --> 07:07.469
+And then you have robots doing functions
+
+07:07.469 --> 07:11.569
+that humans don't do so
+great, like rack jobbing,
+
+07:11.569 --> 07:13.036
+and point of sale scanning.
+
+07:13.036 --> 07:15.769
+And Jeff's gonna get into that with Tally,
+
+07:15.769 --> 07:18.303
+that can get better
+analytics, better data.
+
+07:18.303 --> 07:20.503
+Because what happens
+when you go to Walgreens
+
+07:20.503 --> 07:22.536
+and they're out of your
+favorite toothpaste?
+
+07:22.536 --> 07:24.236
+You just go to your mobile device
+
+07:24.236 --> 07:27.369
+and you just order it on Amazon,
+it's gonna come tomorrow.
+
+07:27.369 --> 07:29.103
+Maybe you got bad breath for a day.
+
+07:29.103 --> 07:32.869
+And so, and then, you know, we
+have robots cleaning floors,
+
+07:32.869 --> 07:34.636
+like Wiz and Brain Corp.
+
+07:34.636 --> 07:37.569
+You have robots moving people in airports.
+
+07:37.569 --> 07:39.969
+And then going to one of the biggest areas
+
+07:39.969 --> 07:44.269
+is online fulfillment that
+Erik's gonna talk to you about.
+
+07:44.269 --> 07:49.269
+You even have robot
+drones scanning UPC codes
+
+07:49.403 --> 07:53.369
+going up two stories to see
+the fulfillment centers.
+
+07:53.369 --> 07:55.103
+You have robots unloading trucks,
+
+07:55.103 --> 07:56.236
+and then you have robot delivery.
+
+07:56.236 --> 07:58.469
+And you know, besides Plus One,
+
+07:58.469 --> 07:59.436
+which is a portfolio company,
+
+07:59.436 --> 08:01.469
+you could see Manna, which
+is a drone delivery company,
+
+08:01.469 --> 08:04.636
+that ff's an investor in.
+
+08:04.636 --> 08:08.036
+And you have autonomous trucks
+
+08:08.036 --> 08:10.769
+and (indistinct) delivery there.
+
+08:10.769 --> 08:13.803
+And so I bring this up is,
+where does this all lead?
+
+08:13.803 --> 08:16.103
+Well, I'm sure you've
+all seen some videos,
+
+08:16.103 --> 08:18.269
+and this is Optimus
+who I started off with,
+
+08:18.269 --> 08:19.936
+and there's a lot of other humanoids.
+
+08:19.936 --> 08:22.536
+But there's a lot of
+human functions out there,
+
+08:22.536 --> 08:24.169
+like folding shirts.
+
+08:24.169 --> 08:28.303
+And as we get large language
+models, really the big frontier
+
+08:28.303 --> 08:32.036
+as I see it, is dexterity,
+human-like dexterity.
+
+08:32.036 --> 08:34.836
+And that opens up lots of opportunities.
+
+08:34.836 --> 08:38.469
+And that if you look at
+the humanoid landscape,
+
+08:38.469 --> 08:39.869
+it is growing.
+
+08:39.869 --> 08:41.969
+And this is only a handful.
+
+08:41.969 --> 08:46.969
+We saw Jensen give a
+presentation a couple nights ago
+
+08:47.203 --> 08:49.903
+and with even more humanoids
+
+08:49.903 --> 08:53.069
+than he did at at his
+original Nvidia conference.
+
+08:53.069 --> 08:58.069
+And we see that every human
+function in the workplace,
+
+08:59.036 --> 09:00.269
+and even the home,
+
+09:00.269 --> 09:02.603
+potentially could be augmated with robots.
+
+09:02.603 --> 09:04.903
+And that's a really
+trillion dollar business.
+
+09:04.903 --> 09:07.336
+And that's their trillion dollar business.
+
+09:07.336 --> 09:10.769
+So I'm gonna let Ujjwala,
+and then let Jeff and Erik
+
+09:10.769 --> 09:13.636
+tell you a little bit
+about what they're doing.
+
+09:13.636 --> 09:14.636
+- All right.
+
+09:14.636 --> 09:16.203
+Well, good morning everyone.
+
+09:17.369 --> 09:20.436
+I hope you all are well
+caffeinated like I am.
+
+09:22.536 --> 09:23.669
+My name is Ujjwala.
+
+09:23.669 --> 09:27.703
+I'm the co-founder and chief
+strategy officer at Artiligent.
+
+09:27.703 --> 09:30.569
+So we are a research and development lab
+
+09:30.569 --> 09:34.403
+that helps businesses
+conceptualize, design,
+
+09:34.403 --> 09:37.403
+and build custom and semicustom robots.
+
+09:37.403 --> 09:38.436
+So how do we do this?
+
+09:38.436 --> 09:41.403
+We leverage off the shelf platforms.
+
+09:41.403 --> 09:44.169
+So that takes care of your
+core robotic technology,
+
+09:44.169 --> 09:47.369
+like navigation, obstacle avoidance.
+
+09:47.369 --> 09:51.269
+And we build a layer of software,
+
+09:51.269 --> 09:55.069
+and based on the customer's
+use case, we build the body
+
+09:55.069 --> 09:59.836
+of the robot using cost effective
+methods like 3D printing.
+
+09:59.836 --> 10:03.369
+So I have a little video here,
+and hopefully this plays.
+
+10:06.269 --> 10:07.102
+- [Oliver] You need to just press
+
+10:07.102 --> 10:08.736
+the blue button really hard.
+
+10:08.736 --> 10:11.302
+(bright music)
+
+10:37.836 --> 10:41.336
+(bright music continues)
+
+10:50.936 --> 10:52.236
+- All right.
+
+10:52.236 --> 10:57.236
+So a few notable examples
+of robots that we've built.
+
+10:57.336 --> 11:01.036
+And you probably saw the
+Coke Bot robot there.
+
+11:01.036 --> 11:03.402
+I'd love to kind of give you a small story
+
+11:03.402 --> 11:06.269
+of how that journey came about.
+
+11:06.269 --> 11:10.169
+So this is about three years back.
+
+11:10.169 --> 11:12.469
+We built a mobile information kiosk
+
+11:12.469 --> 11:14.836
+for Bangalore International Airport,
+
+11:14.836 --> 11:16.469
+which is the size of JFK.
+
+11:16.469 --> 11:20.169
+So sees about 18 million
+passengers every year.
+
+11:20.169 --> 11:23.569
+And you can imagine the complexity
+of questions that come up
+
+11:23.569 --> 11:25.802
+with so many passengers.
+
+11:25.802 --> 11:29.002
+And we built a conversational AI tool.
+
+11:29.002 --> 11:33.702
+This is pre-ChatGPT, so it
+was a very successful pilot.
+
+11:33.702 --> 11:35.736
+People of course today are very accustomed
+
+11:35.736 --> 11:38.636
+to hearing human-like responses from AI,
+
+11:38.636 --> 11:41.802
+but back then it was quite innovative.
+
+11:41.802 --> 11:46.802
+And the sort of result of
+being at an airport space was,
+
+11:48.669 --> 11:53.402
+it was also very, like,
+highly visible pilot for us.
+
+11:53.402 --> 11:55.469
+And we soon started getting observed
+
+11:55.469 --> 11:59.336
+by marketers like Ogilvy and WPP
+
+11:59.336 --> 12:03.236
+that were interested in having retailers
+
+12:03.236 --> 12:06.402
+market their offerings on this robot.
+
+12:06.402 --> 12:10.036
+So through those introductions
+we started having
+
+12:10.036 --> 12:12.302
+more conversations with
+WPP, which is of course
+
+12:12.302 --> 12:16.202
+the global marketing agency for Coca-Cola.
+
+12:16.202 --> 12:20.069
+And they came to us with a very
+interesting problem in mind.
+
+12:20.069 --> 12:23.969
+So they wanted to increase
+the foot traffic in beverage
+
+12:23.969 --> 12:28.569
+aisles in supermarkets and grocery stores.
+
+12:28.569 --> 12:30.302
+So if you've purchased a Coke
+
+12:30.302 --> 12:32.402
+or any other beverage recently,
+
+12:32.402 --> 12:33.936
+it's probably an impulse buy.
+
+12:33.936 --> 12:37.102
+I think candy kind of falls
+in that same category.
+
+12:37.102 --> 12:40.669
+So through brainstorming
+sessions, we made recommendations
+
+12:40.669 --> 12:42.836
+to create a robot that would bring
+
+12:42.836 --> 12:44.702
+the beverage to the customer.
+
+12:44.702 --> 12:46.269
+That was very well received,
+
+12:46.269 --> 12:50.069
+and we launched our first iteration
+
+12:50.069 --> 12:54.436
+of the Coke Bot in front of the President
+
+12:54.436 --> 12:57.002
+and CFO of Coca-Cola, John Murphy.
+
+12:57.002 --> 12:59.702
+He was on a big business trip to India.
+
+12:59.702 --> 13:03.069
+And we also saw a 22% uptick in sales
+
+13:03.069 --> 13:04.536
+within the first month.
+
+13:04.536 --> 13:08.202
+So that led to subsequent
+projects with Coke.
+
+13:09.836 --> 13:12.469
+We launched Sprite Zero,
+Jack Daniels and Coke,
+
+13:12.469 --> 13:15.569
+which is their new alcoholic offering.
+
+13:15.569 --> 13:18.669
+And we've since built robots for Nestle,
+
+13:18.669 --> 13:20.969
+a robot that looks like Kit Kat.
+
+13:20.969 --> 13:23.736
+On the other side, so
+sort of on the e-commerce
+
+13:23.736 --> 13:26.402
+fulfillment side, we've
+been working with DHL
+
+13:26.402 --> 13:31.102
+to build a robot in
+their fulfillment center.
+
+13:31.102 --> 13:33.836
+And let's see, what else?
+
+13:33.836 --> 13:37.202
+We also partner with OEMs
+to help them commercialize
+
+13:37.202 --> 13:39.636
+the robots in new markets.
+
+13:39.636 --> 13:43.102
+So a lot of exciting things
+lined up for us in 2025.
+
+13:43.102 --> 13:47.269
+We're very much an early
+states startup right now
+
+13:47.269 --> 13:51.136
+and very excited, really
+looking forward to 2025.
+
+13:51.136 --> 13:55.402
+And what a better way to kick
+it off than being here at CES.
+
+13:55.402 --> 13:56.436
+- [Oliver] Excellent.
+
+13:59.669 --> 14:02.436
+- Maybe I'll do introductions
+and play a video.
+
+14:02.436 --> 14:03.602
+- [Oliver] Yeah, that
+sounds like a good idea.
+
+14:03.602 --> 14:04.436
+- Cool.
+
+14:04.436 --> 14:06.202
+Hey everybody and thanks for having me.
+
+14:06.202 --> 14:07.536
+My name's Jeff.
+
+14:07.536 --> 14:08.536
+I'm one of the co-founders
+
+14:08.536 --> 14:11.069
+and chief design officer
+of Simbe Robotics.
+
+14:11.069 --> 14:15.302
+And what we've built to date
+is a data analytics platform
+
+14:15.302 --> 14:17.436
+that we call Store Intelligence,
+
+14:17.436 --> 14:20.669
+which is essentially a
+single source of truth
+
+14:20.669 --> 14:23.802
+for accurate and reliable
+data for our retailers
+
+14:23.802 --> 14:26.302
+so that they can change the
+operations in their space.
+
+14:26.302 --> 14:29.969
+Our goal is to really
+redefine retail operations
+
+14:29.969 --> 14:32.969
+so that they can curb
+the loss that happens
+
+14:32.969 --> 14:34.936
+in these markets.
+
+14:34.936 --> 14:37.202
+And how are we doing this?
+
+14:37.202 --> 14:38.969
+For the past 10 years we've built
+
+14:38.969 --> 14:41.502
+an autonomous mobile robot named Tally
+
+14:41.502 --> 14:45.536
+that I'll show you in a
+video post this review.
+
+14:45.536 --> 14:50.069
+And we've built this robot to
+be unobtrusive and friendly,
+
+14:50.069 --> 14:53.602
+to share the space with
+people in the store,
+
+14:53.602 --> 14:55.769
+including staff and shoppers.
+
+14:55.769 --> 14:57.569
+It moves up and down the aisles
+
+14:57.569 --> 14:59.202
+and throughout the entire store,
+
+14:59.202 --> 15:03.002
+capturing high fidelity
+information that we convert
+
+15:03.002 --> 15:08.002
+to actionable insights for them
+to curb this loss in sales.
+
+15:08.069 --> 15:09.302
+When the problem, for most of you,
+
+15:09.302 --> 15:12.069
+you probably understand
+it, the point of sale knows
+
+15:12.069 --> 15:13.769
+what comes in, it knows what comes out,
+
+15:13.769 --> 15:15.169
+but the everything in between,
+
+15:15.169 --> 15:17.969
+what happens in real time, is a gray area.
+
+15:17.969 --> 15:21.736
+If the product's not on the
+shelf, people can't buy it.
+
+15:21.736 --> 15:24.636
+Wrong price, they may get an empty basket,
+
+15:24.636 --> 15:26.102
+they're not gonna do anything with it.
+
+15:26.102 --> 15:28.069
+So we're trying to curb that.
+
+15:28.069 --> 15:29.736
+In the past it's been 6%.
+
+15:29.736 --> 15:34.235
+In the pandemic, it went
+up 15% out of stocks rates,
+
+15:34.235 --> 15:38.235
+and it is backed down again,
+but the problem still exists.
+
+15:38.235 --> 15:41.302
+So when we built this platform,
+
+15:41.302 --> 15:46.302
+we're applying it to grocery
+club format supplier.
+
+15:47.069 --> 15:48.902
+One of our newest ones
+we'll show in the video,
+
+15:48.902 --> 15:51.769
+C-A-L Ranch, and a series of others
+
+15:51.769 --> 15:54.569
+that are coming of retail formats.
+
+15:55.469 --> 15:58.535
+I'm also happy to announce as of yesterday
+
+15:58.535 --> 16:02.435
+that we will be the first
+retail technology company
+
+16:02.435 --> 16:05.969
+in the world to do
+multimodal data capture,
+
+16:05.969 --> 16:10.002
+which is essentially taking
+computer vision, RFID,
+
+16:10.002 --> 16:12.869
+and fixed sensing as an extension of Tally
+
+16:12.869 --> 16:14.969
+and working on top of Tally's data
+
+16:14.969 --> 16:18.869
+to bring something much
+richer, much more holistic
+
+16:18.869 --> 16:20.469
+throughout any type of environment
+
+16:20.469 --> 16:23.302
+and possibly extending into other aspects
+
+16:23.302 --> 16:26.502
+of the supply chain and operations.
+
+16:26.502 --> 16:29.369
+We're really looking to
+become a turnkey partner here
+
+16:29.369 --> 16:31.935
+for our retailers to curb the loss,
+
+16:31.935 --> 16:36.935
+and really improve customer
+experience overall.
+
+16:37.369 --> 16:39.202
+Let's play the video
+
+16:39.202 --> 16:42.569
+and you'll get a sense of
+what I'm talking about.
+
+16:42.569 --> 16:43.402
+Just the blue?
+
+16:44.302 --> 16:45.135
+What's that?
+
+16:45.135 --> 16:46.435
+- [Oliver] Press the button hard.
+
+16:49.435 --> 16:51.535
+One more time.
+
+16:51.535 --> 16:53.269
+- [Jeff] Here we go.
+
+16:53.269 --> 16:55.069
+- [Ujjwala] And one more time, sorry.
+
+16:55.069 --> 16:57.669
+- [Jeff] In the world of
+robotics, I still struggle.
+
+16:59.835 --> 17:00.835
+- [Madison] Came in the C-A-L Ranch today,
+
+17:00.835 --> 17:02.069
+I noticed something a little different.
+
+17:02.069 --> 17:03.502
+There was a little robot going around.
+
+17:03.502 --> 17:04.569
+- And it has a little eyes on it.
+
+17:04.569 --> 17:07.002
+- It's a robot, it's
+actually taking inventory.
+
+17:07.002 --> 17:09.569
+- Super cute. Found out her name's Tally.
+
+17:09.569 --> 17:12.335
+- She traverses the aisle,
+she whistles at people.
+
+17:12.335 --> 17:13.935
+(Katie whistling and laughing)
+
+17:13.935 --> 17:15.535
+- Woot-woo.
+
+17:15.535 --> 17:16.602
+(Corey whistling)
+
+17:16.602 --> 17:17.969
+(Robot whistling)
+
+17:17.969 --> 17:21.535
+We're ranch and home stores,
+C-A-L Ranch and Coastal.
+
+17:21.535 --> 17:23.702
+We have just about everything you need.
+
+17:23.702 --> 17:26.835
+Feed, sporting goods, apparel.
+
+17:26.835 --> 17:30.135
+We have 55 locations
+spread over six states.
+
+17:30.135 --> 17:32.202
+We have stores from 20,000 square feet
+
+17:32.202 --> 17:34.235
+up to over 100,000 square feet.
+
+17:34.235 --> 17:36.102
+- What made us decide
+to partner with Simbe
+
+17:36.102 --> 17:39.602
+was we saw huge potential
+to use technology
+
+17:39.602 --> 17:43.102
+to free-up our associates to
+meet the customer's needs.
+
+17:43.102 --> 17:45.835
+Before Tally, it'd take
+us probably a good month
+
+17:45.835 --> 17:47.302
+to get the whole store.
+
+17:47.302 --> 17:49.769
+Now we can do it within a matter a day.
+
+17:49.769 --> 17:53.369
+Tally can go through our hard
+line side three times a day,
+
+17:53.369 --> 17:56.069
+condense the reporting and
+send it to us each morning,
+
+17:56.069 --> 17:58.002
+that then we can go work the exceptions.
+
+17:58.002 --> 18:00.869
+- [Katie] With Tally, now
+I'm able to scan the code
+
+18:00.869 --> 18:02.369
+with the app and it'll show me
+
+18:02.369 --> 18:03.835
+the exact location where it is.
+
+18:03.835 --> 18:05.902
+So that cuts the time in half.
+
+18:05.902 --> 18:07.569
+- We're able to be down every aisle
+
+18:07.569 --> 18:09.469
+in every location every day.
+
+18:09.469 --> 18:11.702
+And that's super powerful
+for us to be able
+
+18:11.702 --> 18:13.869
+to be in our stores even when we're not
+
+18:13.869 --> 18:15.335
+in our stores physically.
+
+18:15.335 --> 18:18.102
+- I actually go into work
+excited to, like, work with Tally
+
+18:18.102 --> 18:19.302
+because we're like a team.
+
+18:19.302 --> 18:20.602
+We help each other.
+
+18:20.602 --> 18:21.869
+- It is the first time that I've ever seen
+
+18:21.869 --> 18:23.969
+a robot in a store before, and I think
+
+18:23.969 --> 18:25.669
+it could go, like, everywhere.
+
+18:25.669 --> 18:28.202
+- It allows me to know that
+there's gonna be things
+
+18:28.202 --> 18:29.635
+on the floor when I come in.
+
+18:29.635 --> 18:31.569
+- It's pretty neat that
+they're investing in the future
+
+18:31.569 --> 18:33.702
+and they wanna make my
+experience that much better.
+
+18:33.702 --> 18:36.469
+- We're just beginning to
+understand the abilities
+
+18:36.469 --> 18:38.802
+that Tally offers and the
+impact that it'll have
+
+18:38.802 --> 18:40.269
+on the company going forward.
+
+18:49.635 --> 18:53.402
+- And I am gonna pass it to my
+esteemed colleague Erik here.
+
+18:53.402 --> 18:54.402
+Thank you everybody.
+
+18:55.435 --> 18:57.002
+- Good morning, I'm Erik Nieves.
+
+18:57.002 --> 18:59.235
+I'm the founder of Plus One.
+
+18:59.235 --> 19:01.102
+We're a robotics company in Texas.
+
+19:01.102 --> 19:02.669
+We've been around seven years.
+
+19:03.502 --> 19:07.969
+And unlike Artiligent and Simbe,
+
+19:07.969 --> 19:10.869
+you will never see our robots, right?
+
+19:10.869 --> 19:13.935
+If things go well, our robots
+will be invisible to you
+
+19:13.935 --> 19:18.102
+because we work behind the scenes.
+
+19:18.102 --> 19:20.435
+Because whether it's
+brick and mortar retail
+
+19:20.435 --> 19:24.069
+or it's e-com, the goods need to move
+
+19:24.069 --> 19:26.035
+through the distribution channel.
+
+19:26.035 --> 19:31.035
+And Plus One builds AI
+robots for that purpose.
+
+19:32.135 --> 19:34.869
+And just to give you a
+sense of how that works,
+
+19:34.869 --> 19:36.535
+(energetic music)
+
+19:36.535 --> 19:40.102
+these are computer vision-enabled,
+
+19:40.102 --> 19:43.169
+AI-driven machines,
+
+19:43.169 --> 19:47.202
+and they will load the sorting conveyors
+
+19:47.202 --> 19:50.569
+and such that bring packages to you.
+
+19:50.569 --> 19:55.569
+So if they show up at
+your porch this week,
+
+19:55.835 --> 19:58.702
+they are probably a user
+of Plus One's technology.
+
+19:59.969 --> 20:04.469
+Parcel shippers, big e-com, et cetera,
+
+20:04.469 --> 20:09.369
+use robots like this driven by AI tools
+
+20:09.369 --> 20:13.802
+and computer vision to
+load and move the parcels
+
+20:13.802 --> 20:15.635
+through the facility,
+
+20:15.635 --> 20:20.302
+or take parcels off of pallets
+
+20:20.302 --> 20:22.535
+and send them into inventory.
+
+20:26.135 --> 20:27.835
+I think we've seen enough of that.
+
+20:29.402 --> 20:34.369
+The notion is robots, when we
+talk about robots and retail,
+
+20:34.369 --> 20:36.902
+we really mean the entire ecosystem
+
+20:36.902 --> 20:40.769
+because robots and automation
+have a role to play
+
+20:40.769 --> 20:45.769
+in each piece of the sort
+of shopping experience,
+
+20:46.069 --> 20:48.702
+whether it's front of
+store, back of store,
+
+20:48.702 --> 20:51.835
+all of them suffer from the same issues
+
+20:51.835 --> 20:54.535
+on labor availability and such.
+
+20:55.969 --> 20:56.869
+- Awesome.
+
+20:56.869 --> 20:59.369
+Well let's hear it for our panelists here.
+
+20:59.369 --> 21:00.502
+That was amazing.
+
+21:00.502 --> 21:04.002
+(audience clapping)
+
+21:04.002 --> 21:07.768
+So, you know, we have about 20 minutes
+
+21:07.768 --> 21:09.635
+for a little open discussion
+amongst ourselves.
+
+21:09.635 --> 21:12.568
+If there's time allows, we'll
+pass the mic to you guys.
+
+21:12.568 --> 21:17.102
+But, you know, in seeing the videos,
+
+21:17.102 --> 21:19.335
+it brought back so many
+memories as a retailer.
+
+21:19.335 --> 21:21.368
+I remember doing inventory
+with Post-it notes
+
+21:21.368 --> 21:25.235
+and closing the store
+on a Sunday to Monday.
+
+21:25.235 --> 21:28.468
+And it was like a 24-48 hour...
+
+21:28.468 --> 21:32.268
+You had to stop inventory
+both in the warehouse
+
+21:32.268 --> 21:35.368
+and in the stores and do full counts.
+
+21:35.368 --> 21:37.935
+And it was the biggest pain
+in the **** as a retailer.
+
+21:37.935 --> 21:42.802
+And you know, I know
+that everything starts
+
+21:42.802 --> 21:45.035
+at the warehouse, right?
+
+21:45.035 --> 21:48.335
+If you get inventory
+and your planning's off,
+
+21:48.335 --> 21:50.835
+and fulfillment, whether
+that's online fulfillment
+
+21:50.835 --> 21:52.668
+or it's brick and mortar
+to distribution centers,
+
+21:52.668 --> 21:55.968
+I mean, I remember being a wholesale,
+
+21:55.968 --> 22:00.968
+and if you were labeled
+incorrectly, they sent it back.
+
+22:01.268 --> 22:05.835
+And guess who paid for
+that, the shipping back?
+
+22:05.835 --> 22:10.468
+And then, in store design
+the gondolas are so important
+
+22:10.468 --> 22:13.502
+when you go into a store,
+those are the displays,
+
+22:13.502 --> 22:14.368
+for calling people.
+
+22:14.368 --> 22:16.468
+You know, there's a real
+balance in store design
+
+22:16.468 --> 22:18.768
+between something feeling precious
+
+22:18.768 --> 22:20.968
+and something being approachable.
+
+22:20.968 --> 22:23.035
+I think Warby Parker
+does that really well,
+
+22:23.035 --> 22:25.435
+that you can touch and feel the glasses,
+
+22:25.435 --> 22:26.935
+they're not too precious,
+
+22:26.935 --> 22:29.202
+but they're really kind of sexy up there
+
+22:29.202 --> 22:31.402
+because it's like designed
+nicely and everything like that.
+
+22:31.402 --> 22:32.502
+You feel it's really high end.
+
+22:32.502 --> 22:37.035
+And your robots that
+interface with the users.
+
+22:37.035 --> 22:39.768
+And so I'm gonna combine, I
+know we did a a little review
+
+22:39.768 --> 22:42.568
+of the questions, but time is compressed
+
+22:42.568 --> 22:44.668
+so I'm gonna combine a
+couple of thoughts here,
+
+22:44.668 --> 22:46.968
+and I'd really love your thoughts,
+
+22:46.968 --> 22:50.302
+is that one of the big stories, you know,
+
+22:50.302 --> 22:55.302
+and you were mentioning
+about GPT, is AI, right?
+
+22:55.368 --> 22:59.535
+And so much that you rely on
+
+22:59.535 --> 23:02.435
+and all three of you is computer vision.
+
+23:02.435 --> 23:06.868
+And so much of your
+investment into training data.
+
+23:08.968 --> 23:10.035
+We gotta take a step back.
+
+23:10.035 --> 23:13.402
+What Erik showed, it looks
+really simple, right?
+
+23:13.402 --> 23:18.202
+Suction, end effectors picking
+up robots on a conveyor belt.
+
+23:18.202 --> 23:22.368
+But if you notice there
+were cardboard boxes there,
+
+23:22.368 --> 23:27.335
+there was, you know, different
+types of envelopes there,
+
+23:27.335 --> 23:30.902
+there was that really
+annoying Amazon white
+
+23:32.702 --> 23:34.568
+that folds in a different way.
+
+23:34.568 --> 23:38.068
+And like, robots go awry, right?
+
+23:38.068 --> 23:40.202
+And you need a lot of training data
+
+23:40.202 --> 23:41.102
+to protect against that.
+
+23:41.102 --> 23:43.535
+If you're gonna make
+investments in your stores,
+
+23:43.535 --> 23:47.702
+in your brand for robots,
+well the roboticists here
+
+23:47.702 --> 23:49.235
+need to know what they're dealing with.
+
+23:49.235 --> 23:51.302
+And I've never been to
+a ranch supply store,
+
+23:51.302 --> 23:54.468
+being a New Yorker, but
+it looks really cool.
+
+23:54.468 --> 23:59.002
+So my question is to all of you
+guys is how are you planning
+
+23:59.002 --> 24:01.802
+for the future in your investments
+
+24:01.802 --> 24:04.735
+of taking the next
+iterations of your products,
+
+24:04.735 --> 24:07.202
+in utilizing large language models,
+
+24:08.135 --> 24:11.702
+and combine that with computer
+vision and different sensors,
+
+24:11.702 --> 24:15.002
+to provide more opportunities
+for your customers?
+
+24:17.502 --> 24:19.168
+You spoke last, Erik.
+
+24:19.168 --> 24:21.202
+I'm gonna start with you because
+you're looking right at me,
+
+24:21.202 --> 24:23.068
+and we'll just go down
+the line, but feel free-
+
+24:23.068 --> 24:24.502
+- I'm not averting my gaze.
+
+24:25.635 --> 24:27.335
+You know, sure.
+
+24:27.335 --> 24:30.002
+In seven years Plus One's
+already on our second
+
+24:30.002 --> 24:32.468
+sort of iteration of the core technology.
+
+24:32.468 --> 24:36.668
+And initially everything is
+based on computer vision, right?
+
+24:36.668 --> 24:41.402
+That's the difference between
+robots in this line of work
+
+24:41.402 --> 24:42.802
+and robots in manufacturing.
+
+24:42.802 --> 24:44.535
+In manufacturing everything is repeatable.
+
+24:44.535 --> 24:47.402
+You do the same thing 800,000 times
+
+24:47.402 --> 24:49.468
+so the robots can be blind.
+
+24:49.468 --> 24:51.868
+But in any of the work that we care about,
+
+24:51.868 --> 24:55.568
+you have to discover
+every item, every cycle.
+
+24:55.568 --> 24:59.135
+And so computer vision is really
+the fundamental technology.
+
+24:59.135 --> 25:02.335
+Computer vision itself
+has been revolutionized
+
+25:02.335 --> 25:05.035
+just in the last five years through AI.
+
+25:05.035 --> 25:08.235
+Initially, you know, our computer vision
+
+25:08.235 --> 25:11.602
+was what we'll call
+classical computer vision.
+
+25:11.602 --> 25:16.002
+And since then we've all adopted AI tools
+
+25:16.002 --> 25:20.502
+to sort of make the systems more flexible
+
+25:20.502 --> 25:23.368
+and more tolerant of change.
+
+25:23.368 --> 25:26.435
+And that's ultimately what
+we need is flexibility.
+
+25:26.435 --> 25:30.902
+Because what I'm confident
+in is, whatever you order
+
+25:30.902 --> 25:33.502
+this week, when you order it next week,
+
+25:33.502 --> 25:36.435
+it's not gonna be the same thing, right?
+
+25:36.435 --> 25:38.402
+We're always changing packaging types,
+
+25:38.402 --> 25:42.102
+materials, shipping, et cetera.
+
+25:42.102 --> 25:45.668
+Even if it's the same SKU,
+as far as the operation
+
+25:45.668 --> 25:49.035
+is concerned, it is different in some way.
+
+25:49.035 --> 25:53.135
+And so you need to be
+able to have AI tools
+
+25:53.135 --> 25:57.435
+give you the sort of elbow room necessary
+
+25:57.435 --> 26:02.435
+to maintain the systems
+operational at a cadence.
+
+26:02.435 --> 26:06.968
+That said, I am a human exceptionalist.
+
+26:06.968 --> 26:10.935
+And what I mean by that is I love AI.
+
+26:10.935 --> 26:15.135
+We use AI in every single
+robot we've deployed.
+
+26:15.135 --> 26:20.135
+And yet I'm a big believer
+that AI has limitations
+
+26:20.435 --> 26:24.368
+and people are better
+than robots at vision.
+
+26:24.368 --> 26:27.302
+And so there will absolutely be occasions
+
+26:27.302 --> 26:32.302
+when robots get confused and
+the AI is simply not enough
+
+26:33.968 --> 26:35.202
+to resolve the issue.
+
+26:36.068 --> 26:39.668
+But people are really good
+at exception handling.
+
+26:39.668 --> 26:41.268
+And so frankly, that's the reason
+
+26:41.268 --> 26:43.268
+I called the company Plus
+One is because you add
+
+26:43.268 --> 26:45.335
+a human being to the control loop
+
+26:45.335 --> 26:48.568
+and watch just how much more
+reliable the systems become.
+
+26:48.568 --> 26:53.035
+And so when the classical
+computer vision fails,
+
+26:53.035 --> 26:56.435
+and the AI layer fails,
+and the robot says,
+
+26:56.435 --> 27:00.101
+"I got nothing, I don't
+know what I'm looking at,"
+
+27:00.101 --> 27:03.468
+a person can see exactly what
+that robot is experiencing
+
+27:03.468 --> 27:06.101
+and go, "Yep, I understand
+why you're having a problem.
+
+27:06.101 --> 27:08.268
+I would pick up that one."
+
+27:08.268 --> 27:12.368
+And that, of course, gets
+the robot going again,
+
+27:12.368 --> 27:15.701
+but more importantly feeds
+the AI model over time,
+
+27:15.701 --> 27:17.835
+and then you don't have
+that same situation.
+
+27:17.835 --> 27:22.835
+So probably gonna be a theme
+that AI plus human supervision
+
+27:23.801 --> 27:26.668
+of some kind, some human involvement,
+
+27:26.668 --> 27:30.001
+it's that collaboration
+where the real value lies.
+
+27:31.301 --> 27:32.368
+- We see this as well.
+
+27:32.368 --> 27:34.868
+You pointed out these unique products
+
+27:34.868 --> 27:36.468
+that really mess stuff up.
+
+27:36.468 --> 27:37.801
+And we see this on the store shelf
+
+27:37.801 --> 27:39.235
+'cause there's such a variety
+
+27:39.235 --> 27:40.768
+of different kinds of products.
+
+27:40.768 --> 27:44.268
+And we use the algorithms,
+our own especially,
+
+27:44.268 --> 27:46.035
+to detect some of these things.
+
+27:46.035 --> 27:48.501
+But being able to
+differentiate between them,
+
+27:49.801 --> 27:52.835
+this is a big piece where
+if the algorithm's working
+
+27:52.835 --> 27:55.468
+really well and then there's
+a piece where we're not sure,
+
+27:55.468 --> 27:57.868
+or the can's sideways
+or something like that,
+
+27:58.735 --> 28:01.935
+it lets us know and then
+we can make clarifications
+
+28:01.935 --> 28:05.268
+or call it out and it'll
+help make an action
+
+28:05.268 --> 28:07.801
+that isn't, like, bad data.
+
+28:07.801 --> 28:10.068
+So there's this whole
+piece where the information
+
+28:10.068 --> 28:12.635
+has to be accurate, even
+if it's not perfect,
+
+28:12.635 --> 28:15.135
+you can at least say this is an anomaly.
+
+28:15.135 --> 28:17.068
+'Cause what's happening
+in these kinds of spaces,
+
+28:17.068 --> 28:19.468
+even with ChatGPT, they can only access
+
+28:19.468 --> 28:22.135
+what they know off like
+internet and things like that.
+
+28:22.135 --> 28:25.001
+But in like our space, we're creating it.
+
+28:25.001 --> 28:28.368
+It's this unknown and you're
+using your own algorithm
+
+28:28.368 --> 28:31.535
+to detect the differences
+and figure out like,
+
+28:31.535 --> 28:33.868
+what can you work with that's a sure thing
+
+28:33.868 --> 28:37.468
+and what can you not, but
+include that in the data
+
+28:37.468 --> 28:39.468
+so that people can make an action
+
+28:39.468 --> 28:42.301
+and then transform, piece by piece,
+
+28:42.301 --> 28:44.501
+even if it needs a
+little bit of human help.
+
+28:46.135 --> 28:49.768
+- So as far as we are
+concerned with the concierge
+
+28:49.768 --> 28:52.335
+or the mobile information kiosk use case,
+
+28:52.335 --> 28:55.201
+a large language model
+has been a game changer.
+
+28:55.201 --> 28:59.001
+So earlier you would need
+to create an entire flow,
+
+28:59.001 --> 29:02.301
+pre-program responses,
+and then train the model.
+
+29:02.301 --> 29:05.268
+Today something that would
+take us, like, weeks to do
+
+29:05.268 --> 29:08.701
+can be done within a
+few minutes using LLM.
+
+29:08.701 --> 29:12.568
+And all you need to do
+is feed the data set
+
+29:12.568 --> 29:16.768
+and set some rules or
+a playbook around it.
+
+29:16.768 --> 29:20.968
+So we tested a sort of pilot
+recently at DC Startup Week,
+
+29:20.968 --> 29:24.935
+which is a local event in Washington DC
+
+29:24.935 --> 29:29.101
+where we set up a ChatGPT
+for conferences and events,
+
+29:29.101 --> 29:33.935
+and people could simply come
+up and ask a query like,
+
+29:33.935 --> 29:36.435
+"What session is Oliver moderating?"
+
+29:36.435 --> 29:38.235
+and it would give you a response.
+
+29:38.235 --> 29:41.968
+So incorporating that
+is definitely a plan.
+
+29:41.968 --> 29:44.368
+And I'm very excited about
+the shared intelligence.
+
+29:44.368 --> 29:46.735
+I think now, of course, if you've seen,
+
+29:47.868 --> 29:52.868
+Jensen Wong's keynote, this
+idea around taking real world
+
+29:53.301 --> 29:57.268
+simulations, this
+omniverse, and having robots
+
+29:57.268 --> 30:00.135
+learn from each other and
+from human beings as well.
+
+30:00.135 --> 30:03.701
+So in the future, let's say
+there's a early stage startup
+
+30:03.701 --> 30:08.701
+that's looking to maybe build
+a company that packages food,
+
+30:09.935 --> 30:13.301
+and Plus One has already
+figured out a lot of things,
+
+30:13.301 --> 30:15.901
+maybe that could just be a solution
+
+30:15.901 --> 30:18.268
+that can be shared across robots.
+
+30:18.268 --> 30:20.368
+So again, as an early stage startup
+
+30:20.368 --> 30:23.635
+and you know, working
+with businesses to develop
+
+30:23.635 --> 30:26.868
+proof of concepts, that's
+extremely valuable to us
+
+30:26.868 --> 30:29.901
+because it really cuts
+through the time development.
+
+30:29.901 --> 30:34.235
+- Excellent, you know,
+when you all were speaking,
+
+30:34.235 --> 30:36.368
+remind me of some
+interviews I did in my book,
+
+30:36.368 --> 30:39.335
+which I'm sure all of you
+have bought by now on Amazon,
+
+30:39.335 --> 30:42.068
+and one of them was with Rodney Brooks,
+
+30:42.068 --> 30:44.901
+and one of his design
+principles was human agency.
+
+30:44.901 --> 30:48.235
+That robots will go awry,
+and that you need a way to,
+
+30:48.235 --> 30:50.201
+that if you have a robot in a hospital,
+
+30:50.201 --> 30:51.468
+and someone's having a cardiac arrest,
+
+30:51.468 --> 30:54.268
+and the robot's blocking a
+gurney from getting to an OR,
+
+30:54.268 --> 30:55.501
+everyone's gonna hate the robot.
+
+30:55.501 --> 30:57.235
+Or if you have a robot in a store
+
+30:57.235 --> 31:00.135
+and it goes into a toddler,
+
+31:00.135 --> 31:01.668
+everyone's gonna hate the robot, right?
+
+31:01.668 --> 31:05.068
+So you need a way for human
+beings to have agency.
+
+31:05.068 --> 31:08.968
+And these are like, when you
+think about robots working
+
+31:08.968 --> 31:11.468
+at retail, you think about
+a lot of human beings
+
+31:11.468 --> 31:15.768
+around robots, and you think
+about those edge cases.
+
+31:15.768 --> 31:18.768
+But you also think about
+there's a lot of macro factors
+
+31:18.768 --> 31:20.168
+for deploying robots, right?
+
+31:20.168 --> 31:21.901
+Macroeconomic factors.
+
+31:25.035 --> 31:28.101
+You mentioned pandemic and
+that during the pandemic
+
+31:29.268 --> 31:30.935
+it shifted things.
+
+31:30.935 --> 31:35.935
+We're now post-pandemic, and
+interest rates have been high,
+
+31:37.835 --> 31:39.401
+and so when people are
+making new investments
+
+31:39.401 --> 31:41.968
+into automation, that
+definitely affects things.
+
+31:41.968 --> 31:45.101
+Building new fulfillment
+centers, that affects things.
+
+31:45.101 --> 31:47.801
+And when you think about
+macro labor trends,
+
+31:47.801 --> 31:49.868
+where that you're talking about Plus One,
+
+31:49.868 --> 31:54.068
+and you're talking about,
+that there's a shortage
+
+31:54.068 --> 31:55.235
+of skilled labor out there
+
+31:55.235 --> 31:56.801
+where people are investing in robots.
+
+31:56.801 --> 32:01.801
+So tell me, like, as, you know,
+
+32:02.068 --> 32:04.401
+people that are deploying
+robots within this commercial
+
+32:04.401 --> 32:07.701
+world around humans, around
+these macro labor trends,
+
+32:07.701 --> 32:10.668
+what do you see as sort
+of the best cocktail
+
+32:10.668 --> 32:12.701
+to being successful if we're starting
+
+32:12.701 --> 32:14.001
+a company in this space?
+
+32:14.001 --> 32:15.368
+Why don't we start with Jeff?
+
+32:15.368 --> 32:16.901
+- Sure. Yeah.
+
+32:16.901 --> 32:19.701
+Our customers reveal to
+us that they're struggling
+
+32:19.701 --> 32:21.668
+to hire for these positions.
+
+32:21.668 --> 32:24.801
+They're very mundane, and laborious,
+
+32:24.801 --> 32:27.268
+and physically intensive.
+
+32:27.268 --> 32:28.801
+So they struggle with this gap.
+
+32:28.801 --> 32:33.201
+And we found, and they
+tell us, that if you can
+
+32:33.201 --> 32:35.168
+replicate this mundane process,
+
+32:35.168 --> 32:38.301
+kind of like your calculator,
+and have that team
+
+32:38.301 --> 32:40.601
+do other things like
+customer service and filling,
+
+32:40.601 --> 32:43.634
+which they need, desperately,
+filling the shelf,
+
+32:44.468 --> 32:47.201
+that is a model that seems
+to have been working for us,
+
+32:47.201 --> 32:50.668
+and is growing, I think
+more now than ever.
+
+32:50.668 --> 32:53.668
+You know, with the loss we
+discussed, it's a lot easier
+
+32:53.668 --> 32:56.134
+for shoppers with the
+information at their fingertips
+
+32:56.134 --> 32:58.934
+to say "no" when they're
+not getting what they want,
+
+32:58.934 --> 33:03.801
+which will maintain and accelerate
+this, "I'm not buying it"
+
+33:03.801 --> 33:05.234
+when you're getting lost sales.
+
+33:05.234 --> 33:08.501
+This is the the whole point
+we're trying to curb, right?
+
+33:08.501 --> 33:11.268
+It's in the trillions
+globally in lost sales.
+
+33:11.268 --> 33:13.501
+So there's a huge opportunity here.
+
+33:13.501 --> 33:17.401
+For decades retail never
+really had the technology
+
+33:17.401 --> 33:20.901
+available, I think, to curb this problem.
+
+33:24.968 --> 33:28.601
+- So I think the perfect cocktail
+
+33:28.601 --> 33:31.068
+is a complex concoction, right?
+
+33:31.068 --> 33:32.301
+Like for any business to succeed-
+
+33:32.301 --> 33:33.801
+- We're making success cocktails
+
+33:33.801 --> 33:36.334
+(Ujjwala laughing)
+
+33:36.334 --> 33:38.634
+- You know, you need a product market fit,
+
+33:38.634 --> 33:42.234
+you need the right team,
+access to capital, cash flow.
+
+33:42.234 --> 33:46.368
+Adaptability, I would say,
+especially for any robots
+
+33:46.368 --> 33:48.101
+that are in the retail space.
+
+33:48.101 --> 33:50.768
+I mean, of course retail
+has been through so much
+
+33:50.768 --> 33:54.168
+over the last five or or six years.
+
+33:54.168 --> 33:57.134
+I would say since the
+pandemic, a lot of, like,
+
+33:57.134 --> 33:59.168
+brick and mortar stores
+have shown resilience.
+
+33:59.168 --> 34:02.101
+You're also seeing e-commerce stores
+
+34:02.101 --> 34:03.934
+sort of open brick and mortar stores.
+
+34:03.934 --> 34:08.934
+So a lot of opportunities
+for us as a company.
+
+34:09.634 --> 34:12.634
+What's interesting is we're also seeing
+
+34:12.634 --> 34:15.568
+sort of omni-channel strategies in play.
+
+34:15.568 --> 34:18.968
+So buy online, pickup in
+store is one example of that.
+
+34:18.968 --> 34:22.301
+And there are a lot of robots
+that are beneficiaries of it.
+
+34:22.301 --> 34:24.368
+I think Cleveron Robotics
+is sort of a click
+
+34:24.368 --> 34:25.501
+and collect model.
+
+34:27.601 --> 34:32.601
+I would say the opportunity
+here is to look at fulfillment,
+
+34:35.034 --> 34:36.868
+sorry, brick and mortar stores is also
+
+34:36.868 --> 34:39.668
+like fulfillment stores in some ways.
+
+34:39.668 --> 34:42.634
+So yeah, I mean again, sort of looking
+
+34:42.634 --> 34:46.034
+at both the e-commerce and
+the the fulfillment side.
+
+34:46.034 --> 34:46.868
+- Yeah, we've seen that.
+
+34:46.868 --> 34:50.368
+Like even like Instacarts
+have approached us before,
+
+34:50.368 --> 34:52.734
+and said hey, you know,
+like out of a shopping list
+
+34:52.734 --> 34:54.868
+of 13 things, one or
+two items ain't there,
+
+34:55.734 --> 34:58.001
+and that's like their biggest pain point.
+
+34:58.001 --> 34:59.868
+- Yeah, you know, you talk about
+
+34:59.868 --> 35:03.568
+just sort of the macros
+here, I would argue
+
+35:03.568 --> 35:07.768
+that no robot ever deployed
+in a warehouse context
+
+35:07.768 --> 35:09.168
+has resulted in a pink slip.
+
+35:10.268 --> 35:14.334
+There's just not enough labor
+available, period, right?
+
+35:14.334 --> 35:18.268
+And so the first thing you do is you try
+
+35:18.268 --> 35:20.068
+to make the labor more efficient.
+
+35:20.068 --> 35:23.168
+And that's why you see so many of the AMR
+
+35:24.934 --> 35:27.068
+sort of applications
+where you're just trying
+
+35:27.068 --> 35:31.468
+to make the picker more
+productive, reduce their walk time,
+
+35:31.468 --> 35:34.034
+give them more picks per hour.
+
+35:34.034 --> 35:37.034
+It's all in the sake of
+
+35:37.034 --> 35:40.468
+we don't have sufficient labor available.
+
+35:40.468 --> 35:45.468
+That said, I do caution my
+users, or potential clients,
+
+35:45.968 --> 35:49.234
+make sure you're evaluating,
+do you have a labor problem
+
+35:49.234 --> 35:50.734
+or do you have a labor hassle?
+
+35:51.601 --> 35:53.668
+'Cause those are two different things.
+
+35:53.668 --> 35:56.868
+A labor hassle is, "I have a lot of churn,
+
+35:56.868 --> 35:58.468
+I'm always onboarding people,
+
+35:58.468 --> 36:00.134
+I'm always having to train folks.
+
+36:00.134 --> 36:02.234
+I hate doing it."
+
+36:02.234 --> 36:04.468
+A labor problem is beyond that.
+
+36:04.468 --> 36:07.068
+Nobody is showing up at
+the door to take the job.
+
+36:08.068 --> 36:10.001
+If you have a labor hassle,
+
+36:11.368 --> 36:14.301
+you're gonna have a different ROI struggle
+
+36:14.301 --> 36:16.434
+than you are with a labor problem.
+
+36:16.434 --> 36:19.134
+The finance officer is interested
+
+36:19.134 --> 36:21.068
+in solving a labor problem.
+
+36:21.068 --> 36:22.701
+He may not fund your project
+
+36:22.701 --> 36:25.101
+if you have a labor hassle, right?
+
+36:25.968 --> 36:26.868
+- Yeah, well said.
+
+36:28.868 --> 36:31.168
+- Erik is always so articulate.
+
+36:31.168 --> 36:34.134
+And he's also featured my book,
+so another shameless plug.
+
+36:34.134 --> 36:38.234
+But so, you know, in my presentation
+
+36:39.601 --> 36:41.301
+I ended with humanoids,
+
+36:41.301 --> 36:43.901
+and I think it's on everyone's minds.
+
+36:43.901 --> 36:45.901
+There's lots of cool videos out there,
+
+36:46.968 --> 36:50.968
+and I focused on Optimist
+because I didn't want to pick any
+
+36:50.968 --> 36:54.868
+one private robot company out there.
+
+36:54.868 --> 36:55.701
+But there's a lot out there,
+
+36:55.701 --> 36:58.101
+there's a lot of capital being raised.
+
+36:58.101 --> 37:02.268
+And that the investor
+sort of value proposition
+
+37:02.268 --> 37:05.334
+is that everywhere there's
+human hands, you know,
+
+37:05.334 --> 37:07.568
+that can't be on a conveyor belt,
+
+37:07.568 --> 37:12.568
+that can't be serviced by a
+co-bot, a humanoid could do.
+
+37:12.801 --> 37:15.801
+And I wanna know, you know...
+
+37:15.801 --> 37:17.368
+And walking around the show floor,
+
+37:17.368 --> 37:20.001
+I don't know if you've
+had the opportunity,
+
+37:20.001 --> 37:22.268
+I think Agility is just downstairs.
+
+37:24.201 --> 37:28.434
+And so what's your thoughts regarding,
+
+37:28.434 --> 37:31.468
+with your solutions, you're
+talking about augmenting
+
+37:31.468 --> 37:36.468
+human labor, is there a Plus
+1.5 with humanoid out there?
+
+37:37.601 --> 37:38.868
+Is there, you know...
+
+37:38.868 --> 37:43.334
+Do you see humanoids going
+and serving Coke bottles
+
+37:43.334 --> 37:44.968
+to people and so forth like that?
+
+37:49.067 --> 37:54.067
+- I'm a big believer in anytime
+you have this much capital
+
+37:55.367 --> 37:59.534
+flowing to this many smart
+people, good things will happen.
+
+37:59.534 --> 38:02.967
+Now, are we in a humanoid hype cycle?
+
+38:02.967 --> 38:03.867
+- There's never been a trough
+
+38:03.867 --> 38:05.067
+and disillusionment after that.
+
+38:05.067 --> 38:05.901
+- Right? No.
+
+38:07.467 --> 38:09.167
+But you are going to...
+
+38:09.167 --> 38:12.601
+The definition of a hype
+cycle is the expectations
+
+38:12.601 --> 38:16.167
+have outpaced the realities.
+
+38:16.167 --> 38:19.034
+And so, you know, are we in
+a hype cycle for humanoids?
+
+38:19.034 --> 38:19.901
+Of course we are.
+
+38:19.901 --> 38:22.601
+There's that much money,
+you're not going to be able
+
+38:22.601 --> 38:24.967
+to meet all of that demand.
+
+38:24.967 --> 38:28.567
+That said, good things are going to come
+
+38:28.567 --> 38:31.567
+from the humanoid exercise.
+
+38:31.567 --> 38:34.267
+And you know, one of the
+things that I'm excited about
+
+38:34.267 --> 38:38.067
+is you saw in that video,
+those were two robots.
+
+38:38.067 --> 38:40.567
+But those two robots were
+acting independently.
+
+38:40.567 --> 38:44.101
+They could not collaborate and
+work on something together.
+
+38:44.101 --> 38:47.601
+Maybe a big package showed up
+that was too heavy for one,
+
+38:47.601 --> 38:48.434
+but what would you do?
+
+38:48.434 --> 38:50.701
+You'd use two hands and pick it up.
+
+38:50.701 --> 38:52.934
+Robots don't do that today.
+
+38:52.934 --> 38:55.534
+But humanoids, and some
+of the developments
+
+38:55.534 --> 38:57.967
+and the techniques that
+come from that effort,
+
+38:57.967 --> 39:01.234
+are absolutely going
+to have sway in the way
+
+39:01.234 --> 39:04.767
+that we perform work in
+the warehouse, for sure.
+
+39:04.767 --> 39:08.067
+- We get asked, "When is
+Tally gonna grow arms?"
+
+39:08.067 --> 39:10.767
+And I don't think the answer
+
+39:10.767 --> 39:12.601
+is not for a very long time, or wherever.
+
+39:12.601 --> 39:15.434
+We don't know, but there's
+a place for every type
+
+39:15.434 --> 39:18.067
+of hardware platform, and
+you really have to design
+
+39:18.067 --> 39:20.167
+for that job or that task.
+
+39:20.167 --> 39:24.834
+And for us, like, ground
+mobile you can do a lot with.
+
+39:24.834 --> 39:28.167
+It doesn't necessarily have to
+have that level of dexterity.
+
+39:28.167 --> 39:29.034
+Depends on what it is.
+
+39:29.034 --> 39:31.234
+There are things that can
+be considered, you know,
+
+39:31.234 --> 39:35.334
+when you automate, can you
+change the automation path
+
+39:35.334 --> 39:38.901
+that would require less manipulation?
+
+39:38.901 --> 39:40.601
+I think those are pieces of a puzzle
+
+39:40.601 --> 39:43.567
+that may not happen, like, overnight.
+
+39:43.567 --> 39:44.967
+Some of it's transitional.
+
+39:44.967 --> 39:48.867
+Maybe humanoids will
+start to fill this gap
+
+39:48.867 --> 39:52.034
+and then evolve into, instead
+of two arms, the one arm.
+
+39:52.034 --> 39:53.867
+And then maybe it doesn't have any arms,
+
+39:53.867 --> 39:56.601
+and just has like, a
+conveyor that comes out of it
+
+39:56.601 --> 39:57.934
+or something like that.
+
+39:57.934 --> 40:00.034
+So I would even challenge the industry
+
+40:00.034 --> 40:03.534
+to think more openly about
+how could you best solve
+
+40:03.534 --> 40:06.067
+the problem and it doesn't have,
+
+40:06.067 --> 40:09.201
+not to fix your mind to
+humanoid necessarily.
+
+40:09.201 --> 40:10.034
+- Yeah.
+
+40:10.034 --> 40:11.367
+I would say it's really exciting.
+
+40:11.367 --> 40:13.401
+And you mentioned Agility Robotics.
+
+40:13.401 --> 40:18.401
+The CEO, Peggy Johnson, said
+the world was built for humans.
+
+40:18.434 --> 40:20.501
+So I think there's definitely room
+
+40:20.501 --> 40:22.067
+for humanoids to thrive here.
+
+40:23.801 --> 40:28.167
+- You know, we're at 0, 0, 0 here,
+
+40:28.167 --> 40:32.501
+so I predicted we would only
+get through three questions.
+
+40:32.501 --> 40:34.601
+But you know, everybody in the room,
+
+40:34.601 --> 40:37.067
+you have a chance
+afterwards to really speak
+
+40:37.067 --> 40:41.001
+to the leading minds here of robotics.
+
+40:41.001 --> 40:42.534
+And if you don't get an
+opportunity to speak to them,
+
+40:42.534 --> 40:43.767
+you can always buy my book.
+
+40:43.767 --> 40:45.567
+And so...
+
+40:45.567 --> 40:49.767
+But I really wanna thank you
+guys for coming out early.
+
+40:49.767 --> 40:52.367
+It's Vegas, and early is
+really tough in Vegas.
+
+40:52.367 --> 40:54.734
+And I wanna thank the
+audience, and thank Robin,
+
+40:54.734 --> 40:55.567
+our producer here.
+
+40:55.567 --> 40:58.367
+So I hope everyone has a good show.
+
+40:58.367 --> 40:59.534
+- Thank you.
+- Thank you so much.
+
+40:59.534 --> 41:01.634
+(audience clapping)
+
+41:01.634 --> 41:04.467
+(energetic music)
+

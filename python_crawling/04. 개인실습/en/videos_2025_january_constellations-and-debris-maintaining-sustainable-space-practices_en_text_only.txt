@@ -1,0 +1,887 @@
+<v ->So thank you very much, everyone,</v>
+for coming just after lunch.
+This is the first session of the space track,
+presented by Novaspace,
+premier space and satellite industry consulting firm.
+It's our second year doing this, so thank you to the folks
+at CES for liking us enough last year to invite us back.
+So, the first session today, of four sessions,
+so the first one is constellations and debris,
+maintaining sustainable space practices,
+and we have three excellent practitioners up here
+that are going to talk
+all about their sustainable space practices.
+In the interest of time,
+I won't even really do introductions.
+I'll just ask a first question
+of how do you define sustainable space practices,
+and what is your company doing to help, you know,
+make those practices more sustainable?
+What are you doing to help, you know,
+keep space sustainable?
+And if you wanna give a short intro
+of your name and company, also welcome.
+<v ->Hi, thank you for having me.</v>
+I'm Melissa Quinn.
+I'm from Slingshot Aerospace.
+We're a data and analytics company based out of Colorado,
+but also offices over in the UK
+and further afield later this year.
+So, sustainability, look,
+I just walked around some of the halls out there,
+and I asked everyone from the agritech companies
+to the healthcare companies to the autonomous vehicle,
+and I said, you know, "Does space enable what you do?"
+And pretty much every single one of 'em said, "Absolutely."
+Their satellites or space enable what they do.
+So this whole show, I would say, is powered by space.
+Now what if, one day, something happened,
+like similar to something like CrowdStrike but worse,
+in space, a collision, for instance,
+or an anti-satellite testing activity.
+You know, a lot of what's downstairs and in the halls
+across the city right now would cease to be able to function
+and our daily lives, emergency services,
+would cease to function, and that is really scary,
+but yet so many people don't even realize
+that that is a threat.
+So for us at Slingshot, it's about maintaining safety
+and security in space that then provides the sustainability
+for future generations to use it, and for me,
+it's something I'm personally very passionate about
+because I love space, I love what it does for us
+back down here on Earth, what enables us to do to provide,
+you know, better lifestyles for people here on Earth,
+and at any point, that could come to an end
+if we're not careful about it, and, unfortunately,
+humans don't have a great track record with, (chuckles)
+you know, things like sustainable practices
+in the seas, for instance.
+So, for us at Slingshot, providing the capabilities
+and technologies to keep space more sustainable
+for everybody to benefit from in the future,
+including all these wonderful companies
+that are here at CES.
+<v ->Yeah, thank you.</v>
+How to follow on from that?
+So, my name's Clare Martin.
+I work for a company called Astroscale,
+out of their US office.
+You can just ignore the accent, that's fine.
+it's a global company, and it was founded in 2013
+with a very clear vision, and that is to develop space
+in a safe and sustainable manner for the benefit
+of future generations, and it's for exactly the reasons
+that Melissa said.
+Our global economy actually depends on it.
+A lot of my career has been spent trying to educate
+and make people more aware of actually how dependent we are
+on space services in order to live our daily lives.
+And as we move forward into this new era,
+as space is used more and more and more,
+the subject of sustainability
+is becoming more and more important.
+And at Astroscale, we are dedicated,
+through what we call on-orbit servicing,
+so essentially putting the logistics into orbit,
+to aid that sustainable practice through on-orbit services
+to be able to remove or replace or repair objects
+as they come to the end of their life.
+What would you answer?
+<v ->Thanks, hard act to follow.</v>
+It's not about space, it's about the economy.
+It's not about tracking debris,
+it's about developing applications.
+It's not about generating data,
+it's about creating opportunity.
+And in space right now, we're facing a big threat.
+And my mantra throughout my business career
+has been, "In every threat, there is opportunity."
+So there's about 8,000-plus operating satellites in space.
+There's 130-plus million pieces of objects,
+anywhere from the size of a piece of dust
+up to the size of a city bus,
+moving between eight and 16 kilometers a second,
+uncontrollably through space, and we have no idea, really,
+with a lot of accuracy, where they are.
+So, that's a big threat.
+So, there's an even bigger opportunity,
+and I'm very conscious of the fact that we're here at CES,
+it's consumer electronics,
+and you don't wanna hear about probabilities of collision.
+You wanna hear about where's the opportunity,
+and the opportunity is in generating large amounts of data,
+whether ground-based or space-based, or anywhere in between.
+And then using AI and leveraging artificial intelligence
+to generate either applications or solutions
+or visualization techniques
+so that we have a sustainable economy.
+You don't want just sustainability in space,
+you want sustainability everywhere.
+So it's the idea of a circular economy
+is what this is all about and how we participate in that.
+For NorthStar's part, we participate
+with space-based, space situational awareness.
+We're the first company to commercialize that,
+and hopefully not the last.
+So, the idea is creating a community,
+and the folks that are on stage with me here,
+we've been working with all of them, in one form or another,
+to generate a community.
+And I think the most important thing I would like
+out of this show is to open up the opportunity
+beyond the space community to the general community
+because we are, as my colleagues have very clearly stated,
+we're all dependent on satellites.
+And so it's a fundamental part of our interest.
+And I think, for those of you that are interested
+in artificial intelligence, using artificial intelligence
+and using that to create a sustainable
+or a lot of opportunity in space,
+then this is the place to do it.
+So thanks for the invitation, it's a pleasure to be here.
+<v ->Sure thing, so we're gonna try to keep this</v>
+a little bit more interactive,
+so if any of the audience members
+have some burning questions, start thinking about them now.
+We'll come back to you in just a couple of minutes.
+So, on the topic of opportunity and on the topic of,
+you know, not just having data
+but really creating opportunities
+and, you know, about the economy,
+this kind of commercialization
+of sustainable space practices,
+like how does that process really work
+because you could imagine having some regulations
+that say a satellite operator needs to, you know,
+have their satellite BD orbited
+or be sent to graveyard orbit or, you know,
+you could regulate it, but is there, are you seeing,
+on the kind of, on the more consumer push side,
+are there companies or are there entities
+that are proactively trying to be sustainable in space,
+and is that creating a business for you?
+Is that, how does the...
+<v ->Yeah, sure, I'll take start of that.</v>
+So, the short answer is yes.
+So, I'll take a little bit of a step back
+to the start of your question there.
+In order to truly achieve a sustainable space,
+and by that, I mean environmentally and economically,
+and bring in much more of a circular economy in space,
+there are really three challenges that need to be solved.
+The policy and regulatory is one, the technology is another,
+and the economics is the third
+of actually how to make this business sustainable
+in and of itself.
+So, what we are seeing, and I think it's important
+to keep seeing, are advances in all three areas, okay?
+Policy cannot get ahead of the technology
+'cause that will suppress the industry.
+If technology gets too far ahead of the policy,
+it gets frustrating for those of us that do design
+and develop the technology.
+And in terms of the economics, we are,
+in all of our conversations with both government
+and commercial operators, seeing an increasing awareness
+of the challenge and an increasing interest
+in wanting to lean forward, to step forward,
+to do something in the various stages of their missions,
+whether that's through design,
+whether it's through engaging the services of like Slingshot
+and NorthStar to understand the environment
+in which they're operating
+and help them plan their operations.
+So it's all ends of this mission lifecycle
+that we're starting to see some changes.
+<v ->Yeah, I think, to add, from a commercial perspective,</v>
+is opportunity around more efficient operations.
+So, working with commercial providers,
+operators of spacecraft, to ensure that their missions
+are as efficient as possible.
+It costs money to move (chuckles) their spacecraft
+to avoid collisions.
+So, one of our platforms that we have, one of our products,
+has commercial operators using it to just communicate
+to one another, which sounds, you know, a bit silly,
+but that's the real thing.
+Are you moving, or should we move,
+and what is the cost of that,
+and what's the most efficient way to do this?
+So, you know, providing those efficiencies in space
+to some of these operators is so important.
+And I think, going back to what Clare was just saying,
+I struggle with the regulation piece.
+I sit on a lot of regulatory boards
+who are talking about this endlessly,
+and they are talking about it,
+and they are talking about it, and it's been talked about,
+and even King Charles, you know, back home in the UK,
+has started something called the Astra Carta,
+which is about, you know, more sustainable practices
+in space, but what tends to be missing
+from these conversations is those owner operators.
+And I think bringing in them into that conversation
+is gonna be really important because we can sit here
+and talk about regulation until the cows come home,
+but if the operator's not in the room,
+signing up for these things,
+which they probably won't, so, (chuckles)
+thinking about how we have more creative solutions
+around regulations and legislation
+is gonna be really important for us going forward,
+and it might be more of a carrot versus a stick.
+We are talking about not just nation states here
+that are launching these spacecraft
+and operating these spacecraft,
+we're talking about individuals and private companies,
+and that's a lot trickier to regulate,
+so bringing them in on the conversation,
+as well as supporting their operations, to be more efficient
+and more sustainable and safe as well
+is something that we're really proud of at Slingshot.
+<v ->So, space is already commercialized.</v>
+I mean, Starlink, the number of satellites
+that are operating in space are more commercial
+than government-owned, and the challenges,
+Clare pointed it out, the three legs of the stool,
+business, technology, and a legal framework,
+or a regulatory framework, all part of a framework
+in any industry, in any industry at all,
+the entertainment industry, the meat packing industry.
+If you don't have business technology and legal aspects,
+you don't know what your reference points are.
+And there's, as Melissa was pointing out,
+there's a bit of an atrophy on the legal side to catch up,
+and there needs to be a cooperation between those three.
+And it's a great opportunity for commercial enterprise
+to work within this framework because commercial enterprise
+is the only thing that can move as fast
+as the industry is moving.
+The satellites are moving quickly in space,
+between eight and 16 kilometers a second,
+and the changing environment in space is changing rapidly,
+and governments don't keep up with that, period.
+Only commercial enterprise can keep up with that,
+which, back to my opening statement,
+creates a great opportunity for entrepreneurs, innovators,
+artificial intelligence, machine learning
+to combine with algorithm software and large amounts of data
+to create a whole lot of applications
+that create economic benefit.
+And that economic benefit is the promise of space.
+<v ->We'll pause for audience questions or comments,</v>
+if anybody wants to take a stab at it.
+Going once, going twice, all right-
+<v Audience Member>I have a question.</v>
+<v ->Okay, please.</v>
+You can either talk loudly or...
+<v Audience Member>Thank you.</v>
+<v Blaine>Sure.</v>
+<v Audience Member>I was wondering</v>
+how we could potentially set up a, let's say,
+board or consortium, whatever phrase you wanna use,
+where private industry can debate and deliberate
+against each other for ways
+that regulation could potentially be passed,
+as I believe in having multiple companies
+that would debate each other,
+acting as sort of a weighing balance upon each other,
+where, obviously, they wouldn't want the other person going
+and blowing up their satellite, causing problems
+for everyone else, while also suggesting ways
+that it could be done economically for, sorry,
+ways that satellites could be managed economically,
+so that way we don't have people
+having to burn all of their fuel
+in order to comply with some government regulation
+that's written somewhere,
+as I believe it would maximize all the possible faucets
+of satellite management in orbit.
+<v ->Yep, so I'll, there are a couple of different types</v>
+of consortium that exist within the US
+that are specifically looking
+at the on-orbit servicing aspects of the logistics in space.
+One of those is COSMIC, and that actually brings industry
+and the government and academia into the room
+to do exactly what you're talking about, right,
+to debate the points,
+bring the different perspectives forward,
+look at everything from education
+and the workforce coming in
+through to how we do test and demonstration platforms
+on orbit, and the policy and regulation aspects.
+Internationally, there's one called CONFERS,
+and I always forget the acronym, so I'm not going to try.
+they can jump in, but that does a very similar thing.
+It was started by DARPA,
+and it's since gone independently on its own,
+and CONFERS also tries to bring the different voices
+to the table.
+The difference with CONFERS
+is it actually has created a couple of draft standards,
+and then they get passed off to another organization,
+so, there are many different little forum.
+I think probably what we're missing
+is a bit of an overarching ownership
+of who owns the problem to try to solve it.
+It is, I believe, clearer in the UK, under that framework,
+than it is in the US.
+In the US, because of the length and duration
+of the space industry today,
+there are many different organizations that are responsible
+for different elements of the industry.
+And that is causing some more challenges on the US side.
+<v ->There are, to complement that,</v>
+I think you've already answered the question,
+so, to complement that, there are many organizations
+that are finding their way,
+because this is all very new and moving very quickly,
+including the United Nations Office for Outer Space Affairs,
+including COPUS, which is a committee
+with inside the United Nations, including the ITU,
+International Telecommunications Union,
+and including SpaceOps, which has a major working group
+that does, again, in parallel with other things,
+exactly what you talk about.
+The big challenge that we're facing,
+and so we don't have all the answers,
+we just know what the problems are right now
+and working through them,
+is who is going to curate the data,
+'cause it's gonna be a global system.
+Who would curate that data and say it's been validated
+and verified?
+And so, earlier, well, I'm sorry, late last year,
+in New York at the United Nations,
+there was a meeting I attended,
+and the big question was who would be in charge of all that?
+My vote would be that it's something like the United Nations
+that would want to be a neutral body.
+Whether or not they can fill that role is another question.
+So the part that I wanna bring clear to you
+is where's the challenges?
+It's in validating and verifying the data source,
+and that gets even more complicated
+when you add in artificial intelligence
+because then, who's actually responsible for the information
+that's being delivered when you've added AI
+into the process, but you need to do all that.
+And so if you're starting to think,
+like I'm painting a picture,
+it brings you back to we better get moving quickly
+on the points that Melissa and Clare brought up
+about we better get moving on legal and regulatory framework
+so that we can move as quickly on the technology part,
+so it doesn't get too far left behind.
+So you've tapped into this circular exercise
+that we're trying to bring together as a community,
+and it's very challenging
+because it needs to be done very quickly.
+It's not something we can wait for
+because what we wanna do is facilitate more use of space
+and more effective use of space.
+And one of the biggest things that's preventing that
+is our ability to close that loop.
+<v ->Anything to add?</v>
+<v ->Yeah, I was just gonna say it's,</v>
+that closing of the value chain of the data
+is really challenging because, you know,
+this time almost last year,
+there was a lot of conversation around interoperability
+and bringing these communities together,
+between legal and academia and industry and government.
+And then, suddenly, I would say in the last few months,
+the shift globally has been,
+we want our own sovereign capability.
+We want to be able to see, use our own sovereign data
+from our own sovereign hardware to see what we need to see
+at the exact time we need to see it.
+So, I've noticed quite a shift internationally,
+almost away from where I hope we were heading,
+which was almost an interoperability and that data sharing
+and almost a single truth of, a source of truth for space,
+you know, where are spacecraft, who's doing what?
+And you're starting to now see this shift,
+and that is concerning if we're not careful,
+where we all stand up our own, you know,
+separate types of data sources.
+So it is a challenge, it's a massive challenge.
+And I go to these great round tables and workshops
+with the United Nations, and we had one recently,
+it was like, write all the challenges there are,
+and there's like hundreds of them, and then it's like,
+okay, where are all the solutions?
+And there was like five notes up on the wall.
+It is really tricky,
+but you have some really powerful minds on it.
+And I think the best thing about what we're doing
+is that we all need it to work.
+So there's a motivation there for all countries
+to keep space sustainable because if we mess it up,
+nobody can use it.
+So there is that motivation there, but yeah, I think,
+you know, you're onto a good thing.
+There's just some more challenges stuck in there.
+<v ->Yeah, well, we're all set up here.</v>
+We got a full house of mics.
+Any-
+<v Stewart>I was hiding the other mic, (indistinct).</v>
+<v ->Thank you very much.</v>
+Any other questions from the audience for now?
+Otherwise, we can come back in a few minutes.
+Okay.
+So challenges, you've talked about the challenges
+on the more kind of like regulatory side
+and the more just trying to get everyone's ducks in a row
+and that kind of thing.
+What about on the technology side challenges,
+what are some of the, if you could snap your fingers
+and have one big tech challenge disappear tomorrow,
+what would that challenge be, or just maybe more broadly,
+what are some of the, you know, the big tech challenges
+that you're facing in trying to do what you're doing?
+<v ->I think a lot of the technology challenges have been</v>
+or are being addressed right now
+from a on-orbit servicing perspective, from what, you know,
+we're doing there and what we're doing with SSA,
+but we need to make it more accessible.
+That's a tech challenge, and that's what's, again,
+interesting about having a opportunity to speak at this show
+in that we want artificial intelligence,
+we want machine learning,
+we wanna leverage a more general approach
+so that this becomes much more normalized,
+from a technical perspective, not a science project.
+The biggest challenge technically
+is to get it out of the lab and get it into production.
+And I think, if I could snap my fingers and have that,
+for me, that would be a very good position
+for us all to be in, so we really want to turn the corner
+on adopting general practices and getting more participation
+from non-space entities into a community
+that makes it more robust, and in that sense,
+more sustainable.
+<v ->Okay.</v>
+From Astroscale's perspective,
+our focus is in on-orbit assets,
+so we actually build satellites
+that become on-orbit service vehicles.
+The technology to start this process is there.
+We have launched two missions into orbit.
+We can do the rendezvous and the proximity operations.
+We can dock with another object.
+There are elements that I would love to see in the future.
+So I would love to bring in more autonomy
+into the way that we do our rendezvous
+and proximity operations.
+And it's actually driven exactly to what you were saying,
+it's the accessibility of it, it's the safety,
+it's the repeatability, and the assurance to the customer
+that when they ask for a service, the service will be there.
+Space, traditionally, is a very conservative industry.
+It is one that likes to always be second.
+So, someone else has done it first,
+and then they'll move down the chain afterwards.
+If I could snap my fingers and change one thing
+about the technology challenge, it will be to not be second.
+<v ->Yeah, and I think, just building on that,</v>
+the technology is, the challenge is getting the investment,
+really, is getting it out of R&amp;D and into productization
+and out to the customer, so, you know,
+I think awareness that Stewart was talking about
+with outside of the space community is so important.
+Understanding the need for these technologies to exist
+to protect all these other amazing ones is something else.
+I think, from a Slingshot perspective,
+we have 180 optical sensors around the world.
+We are pulling in, just as of last week now,
+two billion observations a day.
+We see all the way from low Earth orbit
+all the way out to cislunar, day and night,
+that has a ton of data.
+So, for us, the challenge of, you know, fusing that data
+with other sources like, you know, like NorthStar's,
+for instance, who are on-orbit, to radar data,
+fusing, you know, that's incredible amount of data.
+So I think for us, the technology challenge
+is, obviously, pulling the right insights out of that data,
+which we are doing now is with our new AI product,
+but also, you know, I think,
+from a sustainability perspective,
+it's the storage of that data.
+It's, you know, how that, always see that balance
+between getting something that's more sustainable
+but causing another problem down the line as well.
+So I think, looking at the whole value chain
+of sustainability and the technologies that we're creating
+with AI, but also that has a cost to that.
+So I think there's a great challenge there, again, for space
+is how we take that data, maybe do more of it in orbit
+rather than down here on Earth
+and add to some of the problems we already have.
+<v ->Two billion observations per day.</v>
+Two billion, man, and how does that whole process work?
+I mean, you're collecting all this data,
+and it's gotta get stored somewhere, and it's gotta be,
+it's being sent through, I guess,
+all these various cloud servers, but I mean, is that,
+do you have any secret sauce or any info
+on how you guys collect two billion data points per day?
+<v ->Yeah, so we have our own patented sensors.</v>
+We have our own TCPED, so that obviously takes the data
+and puts it into more of usable, then we fuse all that.
+We have multiple software products that we do,
+depending on the customer's needs at the end,
+but the product I just talked about, RAI, machine learning,
+it's called Agatha, we just did with DARPA actually.
+And that is taking a lot of this data from constellations
+and looking at very minute differences
+for nefarious activities hidden among constellations.
+So, one of the things that we're doing
+is taking those tens of thousands, millions of pieces
+of data and identifying where the nefarious activity
+is happening, which the human eye will just never be able
+to pick up.
+So one spacecraft hidden amongst a constellation
+that might just slightly be turned a different way,
+for instance.
+So AI, 100%, is the way that we need to move forward.
+We have all the data that we need at the moment,
+but now it's just making that usable for the customer.
+<v ->So if I can summarize, I mean,</v>
+it sounds like it's a little bit more
+of a software/user interface kind of,
+it's not a hardware problem per se as much.
+It's more of a getting the data, analyzing it,
+making it usable for the customers, et cetera.
+Is that a fair characterization that...
+<v ->I think, to be simple with it,</v>
+it's improving the user experience.
+So what you wanna do is make it easier for the user
+to understand what's happening.
+Even if you have a background in engineering or astrophysics
+or orbital dynamics, you still want to be able to look at it
+and go, "Okay, I get what's happening."
+And that can be very much facilitated by non-space,
+traditionally non-space technologies, AI, machine learning,
+other types of graphic developments
+that are already out there,
+so that's where you have to go with it next.
+<v ->Yeah, that user interface is so important.</v>
+The visualization of the data,
+it all comes down to it, doesn't it?
+<v ->Oh, I can't imagine, 'cause otherwise,</v>
+you just have all these, you know, little specs in space
+that are moving at some velocity
+and that are moving in some direction,
+and it doesn't immediately become apparent
+what you're trying to say, unless you have it visualized.
+<v ->Yeah, check out our website.</v>
+You can see an example of how we do it, anyways.
+<v ->Yeah, 'cause it's not a 2D problem.</v>
+The ocean is a good example as an analogy to space.
+It's a 3D problem, there's depth.
+So what you wanna do is figure out,
+in a three-dimensional way, where everything is,
+and if things start to collide with each other,
+they change each other's trajectory
+like balls on a pool table.
+So you're really wanting to know what you can expect
+and what's that gonna look like, 96 hours, 192 hours,
+You wanna know what is the possible,
+how does that affect my day in a month from now,
+'cause if I'm planning a space mission,
+or if I'm planning to launch a new capability in space,
+I wanna know if I'm launching myself into a debris mess,
+or a debris mess that hasn't been developed yet,
+and how do we avoid that?
+So that's really what it comes down to.
+It's predictability and prediction of situations
+so that we can accommodate.
+<v ->Very good, any audience questions?</v>
+We're down to about 10 minutes.
+Going once, twice, yes, I see a hand in the back.
+You can either yell from there, or...
+<v Audience Member>I'll just try to yell.</v>
+<v ->We hear ya.</v>
+<v Audience Member>Two questions</v>
+that I think are kind of related.
+One is just this broad question that, in general,
+it seems like (indistinct).
+It seems like oftentimes, there's,
+like, in the current day and age,
+kind of to the points that were discussed,
+it's kind of overlooked or perhaps underappreciated,
+the important role that space plays
+in all these different other realms of the economy,
+kind of very much so underpinning a lot of it,
+but what I'm wondering is, if you think,
+perhaps, to the conversation (indistinct)
+the regulatory piece, in many ways, kind of lagging behind,
+there needs to be maybe some like, unfortunate event
+that happens that will then create
+this kind of reactionary posture
+to then be more of a catalyst for policymaking
+that actually addresses some of the issues,
+or if perhaps there could be some other kind of like,
+inspiring cultural moment,
+almost similar to how like the Apollo moon landing
+captured the imagination of so many people
+around the country, policymakers included,
+that could hopefully kind of take the place
+of whatever that potential kind of negative reactionary.
+<v ->You've just, this is my passion.</v>
+So space has a PR problem, I would say.
+Space, we go to, you know, we see each other on the circuit,
+we're all at the same space conferences.
+That's why it's brilliant to be at a non-space conference.
+And we're so good at telling each other how amazing we are
+and how space is like gonna save everybody,
+and isn't that awesome?
+And we're absolutely shockingly bad at communicating that
+to a wider audience, like really bad.
+We need better storytellers for space, 100%.
+We need people to connect.
+I think most people just have such a disconnect
+from what we look at every night
+and how it enables our everyday lives.
+I spent 10 years doing launch, and that's an easy thing.
+Launch is quite easy to, people can see it, they get excited
+by it, they can feel it, they can smell it,
+but with a lot of the technologies that we're doing,
+people can't, they don't get it.
+So, yeah, I agree, and I'm trying to, you know, been trying
+to do a much better job of getting out into wider audiences.
+I think the main thing
+is space thinks it's its own industry.
+We're not, we cross every other industry,
+and I think, coming to conferences like this,
+speaking outside of our normal kind of space,
+I go and speak at sustainability conferences,
+I go and put myself in front of Extinction Rebellion,
+I go and try and get the message out into different areas
+because that awareness piece is so critical,
+because like CrowdStrike, if something were to happen
+to space, and I unfortunately do think
+it will take something to happen to wake everybody up to it.
+I hope it doesn't, but it probably, knowing, again, humans,
+it might, and so, you know, you're speaking,
+you know, my language on this,
+so we definitely need some better communicators
+and storytellers, and we need to bring more artists,
+I would say, into space to help.
+You know, when William Shatner came back down
+off of Blue Origin, you know, say what you will about him,
+but he communicated the power of space,
+like I've never met a space industry person be,
+or an astronaut do it in a way that he was able to just say
+like, communicate as an actor, as an artist,
+and I think we need more of that.
+<v ->Can I just say ditto?</v>
+Your premise is not wrong,
+from the way you phrased it just then.
+It's very important to raise awareness
+and educate more broadly.
+I think one of the challenges we've had is space,
+we do consider ourselves a little bit of our own industry.
+We are very insular.
+It is very important for us to come out of our comfort zone
+and come to shows like CES, which is, by far,
+the largest show I have ever been to,
+and talk and share what it is that we do
+and what some of the challenges are that we have.
+At the moment, space is a piece of many other industries.
+And so, therefore,
+I think that's where you've got a little bit of a dichotomy.
+We see ourselves as an industry, but actually,
+we are part of everybody else's solutions,
+and we need to, as you say, tell that story better
+and be bold about it, be very, you know, very confident
+in what it is that space can do for people.
+As to whether it will take a catastrophic event,
+I first started studying the challenge of space debris
+when I completed my doctorate,
+so, I'm not gonna tell you how many years
+'cause it's just depressing, but, at the time,
+we too were talking then.
+It's like, "Well, if we had an on-orbit collision,
+would that help us create the policy
+and regulatory environment we need
+in order to help create a sustainable environment?"
+We have had events on-orbit.
+They have occurred.
+Satellites have been destroyed.
+They have not, as yet, been of a magnitude
+to cause more than a slight ripple within the industry
+or company that was directly affected, unfortunately.
+<v ->Fear is a good motivator.</v>
+So you've touched on the fear factor.
+If it happens, it may be too late.
+So do you want to be an evangelist
+telling people, "The end is nigh,"
+or do you wanna say, "What's past is prologue,"
+as Shakespeare might say, or do you wanna say,
+from Marcus Aurelius, "What we do in this life echoes
+in eternity," and where does it echo more than in space
+because a piece of debris in space is gonna stay in space
+for maybe decades, if not longer, because it won't deorbit.
+And so, you can get very depressed very quickly,
+thinking about how bad it is.
+You can get very motivated by remembering,
+if you're a responsible individual, how much,
+as you pointed out, we rely on space every day.
+There is no backward compatibility for space.
+There is no GPS backup in ground-based systems.
+So you'll lose Uber Eats, you'll lose your ride,
+you'll lose the ability to meet with your friends
+and track your girlfriend on the internet because it's gone.
+And then there's no more telecommunications,
+there's no more interconnectivity, there's nothing.
+You're going back to the Dark Ages,
+and we're not gonna hook up the WAN network
+and the LAN network and say we can replace it all with that
+because we haven't kept it up for the last 25 years.
+So, as we say in Scotland, you're screwed.
+And so, that's the problem.
+So, redefining and reiterating the problem
+over and over again is not gonna solve the problem.
+We all talk about will it take one event?
+Well, we had an event, you know, Iridium collided
+with a Russian Cosmos satellite, so what?
+We've had ASAT tests where satellites
+have been deliberately shot out of space
+and created thousands of pieces of debris, so what?
+So, it's not the motivator.
+The motivator is the opportunity.
+The motivator is the fact that you can make a lot of money
+generating products, generating capability
+that will help keep space clean and keep space safe
+and create more opportunity.
+So, the commercial component of this
+is the most important component.
+Space used to be a government-run club for decades,
+and who cared?
+Only the people in the club.
+Getting this many people, which isn't a ton,
+out to a conference about space back in the day would,
+other than the folks in the community,
+would've been impossible.
+Nobody cares.
+The fact that people are, that we're at this conference
+and people are listening to this talk
+means that we're making progress.
+The only way to get over this wave
+is to get a bigger surfboard
+and start riding the wave of capability and technology
+and innovation, and bring the answer to the table
+before the event
+because nobody wants to be disciplined here,
+and we don't wanna point at somebody and say, "I told ya,"
+'cause by then, it's too late.
+So let's just put that in the back of our mind
+and be motivated by the fact
+that there's a big economic opportunity in space.
+Focus on the promise of space,
+focus on how much new innovation, artificial intelligence,
+machine learning, combination with billions of pieces
+of data points or trillions of pieces of data points
+every day can transform your wallet,
+'cause that's what people care about.
+They care about what they can do with this economically.
+It's an economic problem, so solve it.
+I have no problem living in a tent in the Everglades.
+I really don't, I don't give a crap.
+I can go back and make my tomatoes grow in my garden,
+but everybody who relies on space,
+be aware that there's an opportunity here.
+So I think we must get around this corner by saying,
+"Get a bigger surfboard, ride the wave,
+make something important, and make it happen."
+Get out in front of the problem.
+Use this wave of disaster
+as something that you can put your surfboard on and ride.
+So that's really the way to get out of this mess.
+<v ->Well, they say there's a first time for everything,</v>
+and I've moderated quite a few panels,
+but Marcus Aurelius, I had never heard him quoted
+on a panel before, so that was pretty good, I'll take that.
+Just a couple minutes left.
+Last question from me.
+So, it's the CES, they like to say
+it's the most powerful tech event in the world,
+and they're probably right.
+What's the one technology that is most exciting to you
+that you see here at this event this week,
+or last year if you came to the event last year?
+What's the general technology that's most exciting for you?
+<v ->I've said it a hundred times, artificial intelligence.</v>
+It was created by Virginia Apgar in the 1950s,
+and you're all the beneficiaries of it.
+Some of you are walking this planet because of it.
+It was the Apgar test that was done
+when a child was brought into this world,
+and there was five tests that they did on the child
+to see what the child's health was,
+whether it was reflexes, color, temperature,
+heart rate, et cetera.
+And they took those five pieces of data,
+and the guy walks in with his pipe and says,
+"Mm, score looks good."
+Two weeks later, the child's dead.
+So Virginia Apgar decided to take all of the data
+from all around the world and from all of her colleagues,
+put it into a program and generate
+the first artificial intelligence decision-maker that said,
+"This child's in difficulty,"
+and you all have had an Apgar test, artificial intelligence.
+So that's the wave of artificial intelligence.
+Artificial intelligence used for that type of purpose
+is immensely powerful and infinitely capable,
+and that's what we need to get out in front of the problem.
+<v ->I was just watching another panel downstairs,</v>
+and it was some of the top kind of tech media
+and journalists, and they asked them the same question,
+and one of them said, you know, "What I'm seeing this year
+is really kind of this movement for tech for good,
+so using technology for healthcare, emergency services
+and highlighted some amazing things
+that I just couldn't believe existed."
+And then, she went on to mention satellite applications,
+enabling them, and one of the ones she was talking about
+was for emergency services for,
+there's a firetruck down there that's using it really
+in an amazing way, but also wildfire,
+it's my family's background, in being Canadian,
+but wildfire and the, you know, obviously,
+the outcome of our climate at the moment
+and managing the impact of that
+until we come up with the riding of the wave,
+solution and opportunity, we're gonna need to manage that.
+So using space to help enable technology on the ground
+for emergency services, you know,
+some of the stuff downstairs is absolutely incredible,
+and it does give me a lot of hope for us here on Earth.
+<v ->Very cool.</v>
+Clare, any last remarks?
+<v ->I would echo that in some way.</v>
+So, one of my main motivators for joining Astroscale
+as a company was that it wasn't a technology company.
+It's a technology, it does great tech,
+but it's also determined to work to help solve policy
+and regulatory and to make the economics case work.
+So, taking all of the great ideas in technology,
+whether it's artificial intelligence
+or the actual processing capability that we need in orbit
+to be able to use said intelligence,
+and bringing those together
+to actually solve the space sustainability challenge,
+from our perspective and many other environmental challenges
+as you just referred to,
+that to me is the most exciting thing,
+to make technology a part of the solution.
+<v ->Very good.</v>
+Well, with that, we have reached time,
+so if we could have a round of applause
+for our outstanding panelists,
+and thank you all for your kind attention.

@@ -1,0 +1,931 @@
+All right.
+Welcome, everybody.
+My name is Logan Plaster.
+I'm the Chief Content Officer at Startup Health,
+excited to be moderating this panel today.
+Panel's called Views from the Top.
+And we've got a really nice diverse set of perspectives
+in healthcare leadership across health systems,
+big tech, big pharma.
+And we're gonna talk about big challenges
+and big opportunities.
+We've got David Holmberg, CEO of Highmark Health.
+We've got Dr. Janice Nevin, the CEO of ChristianaCare.
+We've got Dr. Michael Howell,
+the chief clinical officer at Google.
+And we've got Diogo Rau,
+the chief information officer at Eli Lilly.
+So two big objectives for today's conversation.
+Obviously, these folks are, or you all,
+I'm gonna try to talk to you and keep this conversational.
+You are helping to helm health transformation today
+in many ways.
+And so part of the goal here is to pull back the curtain
+on how you're thinking, where you're steering,
+maybe some of the icebergs that you're seeing
+and how to avoid them.
+But we also want this to be a conversation,
+a convergence of your own ideas,
+'cause my guess is you don't have many opportunities
+to be on a Zoom call with the four of you
+and to bounce ideas between health system thinking,
+pharmaceutical innovation thinking,
+what Google is working on.
+And so as we go through some of these sort
+of high level issues, I also want to hear some crosstalk
+and some conversations.
+So let's start with some basic introductions.
+We're gonna go down the line starting with David.
+Tell us about your role
+and tell us one of your biggest objectives
+in the business for 2025.
+<v ->Well, I'm David Holmberg.</v>
+I'm CEO of Highmark Health.
+Highmark Health is a integrated health system
+and health plan based in Pittsburgh.
+So, you know, we're the blue plan for four states.
+We also have a hospital system
+with 14 hospitals in Western Pennsylvania.
+And we have a technology company
+that, you know, is pretty advanced in terms of capabilities
+and the work that we're trying to do.
+You know, from our perspective, the biggest challenge,
+I mean, obviously, the environment we're in
+is very difficult right now.
+And, you know, we believe very strongly that in 2025,
+we've gotta start to move some things forward
+and be different and innovate and maybe show progress
+on, you know, some of the consumer things.
+And just to give you a perspective,
+I'm a very unconventional healthcare CEO.
+I started my career in the jewelry business.
+Ultimately got into the optical business,
+and that's how I ended up in healthcare.
+<v Logan>What's one thing you've carried</v>
+from being a jeweler to being a head of a health system?
+<v ->Well, when you're selling jewel.</v>
+Well, first of all, I am very popular at Christmas time
+'cause I can get you out of trouble.
+Whatever trouble you've gotten yourself into, you know.
+For me, you know, when you're selling jewelry,
+you're selling something that people want but don't need.
+And in healthcare, they need us but sometimes don't want us.
+And so we have to figure out a way to meet people
+where they're at, treat 'em like consumers,
+maybe break the paradigm of a health, you know, insurer
+or health system or pharma company, whatever it might be,
+and take a different approach that's been done.
+<v Logan>Nice.</v>
+Dr. Nevin.
+<v ->Thanks.</v>
+Good afternoon.
+Dr. Janice Nevin.
+I'm the president and CEO of ChristianaCare.
+I am a primary care physician by training,
+grew up with the biopsychosocial model of care
+and so firmly believe in how care needs to be integrated
+in order to achieve health.
+And I think, again, when we think about technology,
+there's a great opportunity with technology
+to help us do that.
+We are large regional,
+community-based academic health system.
+We take care of people throughout the state of Delaware
+as well as in the contiguous counties in Maryland,
+Southeastern Pennsylvania, and New Jersey.
+We are very committed to population health,
+to value-based care.
+You know, we believe that there is a better way
+to care for people to really drive health
+that the hospital should be the place of last resort.
+And again, as I think about the future,
+I think about 2025.
+Again, I just think there's an incredible opportunity
+given the time in which we find ourselves,
+the technology that's available to us
+to really help solve for some of the very troubling issues
+that we have in healthcare.
+Whether it be our ability to care
+for a significantly growing elderly population
+where an ability to support our workforce,
+which is dwindling and has significant issues with burnout.
+And also to solve for the financial issues
+so that we can make care more affordable.
+And that's really where we're focused.
+<v ->Thanks.</v>
+Dr. Howell.
+<v ->I'm Michael Howell.</v>
+I work at Google.
+I'm the company's chief clinical officer,
+which if it sounds like a made up job title
+for the best job in the world possible that that's true.
+And my teams work across the things that Google does
+that have an important impact in health.
+And so those are things
+like, you know, a few hundred million people a day come
+to search, ask questions about their health.
+They're around 200 billion health related YouTube videos
+that are viewed a year.
+There are 8 billion people on the planet.
+But also our work with enterprises through Google Cloud
+through inventing new kinds of math.
+You know, two of my coworkers last month received
+their Nobel Prize for protein folding.
+And then I come from a background of I took care
+of sick people for a long time.
+I'm a pulmonary critical care doc in between 1995-1995.
+And 2017, I was either training or practicing as an ICU doc
+and then ran parts of health systems.
+And so I would say that, you know, the things
+to know about us are we have six products
+that more than 2 billion people use every month.
+By definition, that tells you that we have to think
+on a global scale.
+And that the other is that is we invent new kinds of math
+and new kinds of AI.
+We work really hard to make those available for other folks
+to build on top of.
+<v ->Quick follow up, where do you see Google Health</v>
+on YouTube sort of shifting
+vis-a-vis the Google TV sort of announcement
+and kinda where that's heading?
+<v ->Yeah, there are a few things.</v>
+So one is in the health information quality space there,
+we worked with the National Academy of Medicine
+and the World Health Organization who defined principles
+for what high quality health information is.
+And so, you know, if you search for the most common queries,
+you'll see this thing at the top
+that says from health sources.
+And then we'll tell you like that this video
+is from, you know, ChristianaCare,
+which has licensed hospitals in the United States,
+or for doctors, nurses,
+and licensed mental health professionals.
+It will tell you it's a licensed physician
+or a licensed nurse.
+We do actually give verified licenses and things like that.
+And then I think the other thing
+that we've worked on really hard for accessibility
+is related to language.
+And so we have AI tools that help people move
+from their native language
+to more than a hundred other languages.
+You know, we have really expanding availability
+of high quality information.
+<v Logan>Okay.</v>
+Diogo Rau, What are you working on?
+<v ->Great.</v>
+Hey everyone, my name is Diogo Rau
+and I am at Eli Lilly and Company.
+We are a company that makes medicines
+and my job is to run technology,
+run everything from the technology that we use in discovery
+to the technology we use in the consumer experience.
+Speaking of the consumer experience,
+it's awesome to be here at CES.
+I've had a grin on my face all day
+as I've seen all kinds of really cool technology.
+Actually, I see a few people out there smiling right now.
+Now, let me ask you about the last time you got medicine.
+Did that make you smile,
+especially when you had to pay the copay?
+I bet not.
+That is something we need to change.
+Like this industry is stuck in the wrong century.
+Like we need to modernize this consumer experience,
+at least bring it into the late 20th century.
+Actually, I'd really like to bring it into the 21st century,
+but it's time to change that consumer experience.
+That's really the problem that I wanna go after this year.
+<v ->Awesome.</v>
+Okay, I wanna start our conversation,
+although it's already begun.
+Talking about the greatest challenges you're seeing
+in health and in health innovation within your sphere.
+At Startup Health, we coach hundreds of founders
+and often come back to the traditional SWAT chart,
+the understanding that if you understand your weaknesses
+and threats, it opens up opportunities for innovation
+and expansion.
+And so I really want to go down the line
+and talk about the greatest challenge
+that you're seeing in 2025, and then we'll come back around
+towards kinda how that opens up opportunities
+for innovation.
+So David.
+<v ->Well, the greatest challenge we're seeing in 2025</v>
+is, you know, we have a big portion of the country
+that's not satisfied with the healthcare system,
+and that includes all of us.
+And, you know, and I think you have this in this panel,
+we all represent different components
+of the healthcare system.
+You know, we have the financing of care,
+we have the delivery of care, we have technology,
+we've got pharmaceuticals.
+Pharmaceuticals are running 30%
+of claims, you know, expense today.
+And that reflects the success and the work
+that they're doing to create super drugs
+and things that are gonna make a difference.
+And the biggest challenge we see
+is we're all working in silos.
+You know, if we wanna change healthcare in 2025 and beyond,
+we've gotta get at the table together
+and work on some of these things in a collaborative front.
+And that's what we were talking about
+before we started today is, you know, we're working
+with Christiana and Delaware on some unique things.
+You know, we're working with Lily on some unique things,
+but I do believe that's the biggest challenge
+is we're all in silos, we all have more data
+than we know what to do with, and we're lacking insights
+because we're not on the same team on any given issue.
+<v ->Okay.</v>
+And a reminder that if anyone wants to jump in
+on a response, you're welcome to.
+So, Dr. Nevin?
+<v ->Yeah, I would just really underscore</v>
+that I was gonna say it at some point.
+I think not only do we function in silos,
+we tend to point fingers at each other.
+And I think, you know, if we've learned nothing
+over the last couple of months,
+we really need to come together
+and start bringing our collective capabilities
+to the table to solve for what our very real challenges.
+You know, I spend an awful lot of time thinking
+about people being a health system provider.
+We are either taking care of people, families, communities,
+or we have people that we have to take care of
+who are fulfilling that role.
+And, you know, as I mentioned in the opening,
+it's becoming increasingly challenging
+for people who need care to be able to access care.
+And so we really have to think creatively, innovatively,
+think about how we use technology to support our people
+so that they can do what they came to healthcare to do,
+which is provide that human touch.
+Technology is an absolutely essential critical tool.
+We need to figure out how to use it
+in ways that are gonna have impact.
+But when someone is suffering, they want that human touch
+and we need to ensure that we will be able to do that.
+We've done a couple of things at ChristianaCare
+and an effort to meet that challenge.
+I think, you know, the, the promise of ambient voice
+in helping solve for some of the administrative issues
+that result in burnout.
+I'm very excited about that.
+We also have deployed Moxie.
+Moxie is a collaborative robot.
+Moxie essentially takes non-value added tasks off the hands
+of bedside nurses.
+And to date, I think Moxie has saved something
+like 8 million hours of work
+for nurses and patient care technicians.
+So, again, we've gotta think ultimately in healthcare,
+we take care of people and we need people,
+we'll never have enough.
+So I spent a lot of time, you know,
+thinking about worrying about how the people that we serve
+are gonna be able to get the care that they need
+and how I and we can do a better job
+of supporting those that provide that care.
+<v ->Michael, maybe you can lean in</v>
+on some of the AI challenges that you're seeing
+and how that even feeds into.
+I think, what we heard were people challenges
+and silo challenges, community challenges.
+But then on the tech side,
+I think you and Diogo can feed into that.
+<v ->You mean technology is a tool, right,</v>
+to solve a problem.
+And so what is the problem?
+I think I would probably say the same thing
+that patient-centered care, by definition,
+doesn't care where the patient is.
+We should take care of them whenever they need it
+with as little effort and as little expense as possible
+to create the most health on the planet.
+The WHO says that 4.5 billion people don't have access
+to essential health services.
+That's not only outside the United States.
+You know, if you talk to medical schools
+who are recruiting faculty,
+they can't find primary care with a reasonable wait time
+for the faculty that they're recruiting.
+And it's not because the doctors aren't working hard
+or the nurses aren't working hard
+or the physical therapists aren't working hard
+or the pharmacists aren't working hard.
+It's because of the system that we, to quote Don Berwick,
+the system that we have is perfectly designed
+to achieve the outcomes that it achieves.
+And so we need to think about that.
+And technology is an important tool for that.
+AI is a foundational general purpose technology
+like electricity or connectivity.
+And so it may have impacts across all of those.
+And certainly, we see the early targets being eliminated.
+I can tell a fellow lean practitioner over here,
+eliminating the non-value added work that is huge part
+of being successful in healthcare.
+<v ->So just to follow up quickly,</v>
+that's sort of like the macro challenge.
+I'm curious, as you look at 2025 in your specific work,
+what's a specific challenge that might keep you up at night?
+<v ->Yeah, 2023 was the year of people experimenting</v>
+with large language models.
+getting real value out of generative AI.
+to do things in the real world around them
+to use of tools and other systems.
+That's a whole new set of challenges that will require a lot
+of change management for use in healthcare
+and in every industry.
+<v Logan>Diogo.</v>
+<v ->Well, a lot going on in 2025,</v>
+but if I had to put one thing out there on the radar,
+it's around the safety of our medicines.
+Now, that's not a hot, sexy topic,
+but it actually is really important right now
+because something big is happening in our world
+that is the rise of the medicines to treat obesity.
+There are a couple on the market,
+there are many more coming.
+These are expensive medicines
+that many plans choose not to cover,
+so that means the cash price is really expensive.
+What happens when you have a hot product
+that's really expensive?
+You start getting a lot of fakes out there.
+Now, it's one thing if you get a fake movie
+or get a copy of something or a fake handbag.
+How much harm is that really going to do?
+When you're talking about a fake medicine,
+something that you inject in your body.
+At best, a fake medicine is going to do no harm.
+At worst, the consequences could be absolutely catastrophic.
+This is something we are just at the beginning of.
+And I think we need to start turning our focus to it in 2025
+because this industry really needs to change.
+This industry, the medicines industry
+and the healthcare industry has a terrible history.
+If you go all the way back 150 years, like around the time
+that Lilly was started.
+Lilly in fact was started to counteract snake oil
+and all the fake medicines that were out there.
+We are about to hit that again,
+thanks to the rise in medicines to treat obesity,
+the economic potential for counterfeiters out there.
+So we're working on that really hard.
+We've got some really cool consumer kinds of technology
+we'd be happy to talk about,
+bringing in NFC and other things like that.
+But this is something that we're going to have to address
+before people get hurt in a big way.
+<v ->I wanna talk about tech convergence.</v>
+We're here at CES and one of the really exciting things
+about being on the floor is that the health tech zone
+is next to the vacuums, the home tech,
+and you can go see the auto tech personal wellness tech
+and the world's collide.
+The world's collide.
+And so when you're in health,
+you start to connect these dots,
+you start to see how this should play with that,
+should play with this,
+or how it should and it never does,
+so you start to see the gaps as well.
+So I'd like to go down the line
+and hear what convergence you would like to see happen.
+Maybe it's something that you'd like to have somebody pitch
+to you and maybe you're seeing elements of it,
+maybe it hasn't happened yet,
+but how would you like to see the dots connected
+based off of some of the tech you're seeing here.
+David?
+<v ->Well, I mean, it's been a fascinating few days.</v>
+I mean, I had a chance to walk the floor.
+I mean, there was a lot of tech that's looking for a market.
+I was looking at the tech and saying, okay,
+how do we solve an existing problem
+that's in the healthcare system
+that, you know, we're trying to deal with?
+And being both a payer and a provider of care,
+we get to see both sides of the equation.
+And when it's out of balance, I mean, it can be devastating.
+So what I'm excited about was, you know, I truly believe
+that if we're going to get this right as a country,
+we're gonna have to innovate our way out.
+And the way that'll happen
+is by, you know, getting the smart people in the room
+and saying, these are the five problems
+that are most relevant that could make a difference,
+that could deal with, you know, the fakes
+and all the other stuff that we agree upon.
+And then what do you have in your tool chest that'll work?
+So I jokingly, for those of you who are a little bit older,
+if you remember "The Gong Show", you know,
+it was on television a few years ago.
+You know, we have run that several times
+where we invite anyone in who's got an innovative idea
+that improves care, improves outcomes,
+and that addresses affordability.
+And we'll listen to 'em and we'll try to find a way,
+you know, to pilot it.
+We're doing that with ambient listening for our clinicians.
+That's been a big space.
+So we had a bunch of things
+that we saw the last couple of days.
+Everything from sensors that they were using
+with the military to determine if a uniform was wet,
+was it blood or was it water?
+<v ->Remind me how many patients generally</v>
+your health system deals with.
+<v ->So we'll see about two and a half million patients a year.</v>
+<v ->Yeah.</v>
+I ask that because, you know, all the startups
+that I work with would love nothing better than to get in
+with a health system that would plug them
+into a big patient population.
+It's the, you know, million dollars sort of ticket.
+What are you looking for in an innovative startup
+that would show you that they're ready
+to take on a health system?
+<v ->Yeah, so typically, what we look for obviously</v>
+is we wanna make sure that, you know, the service,
+the product, the solution, you know, is sound and solid
+and stands up.
+We wanna be able to pilot it, you know,
+'cause we have 7 million lives that we insure,
+two and a half million patients that we see.
+And if we can take a device or whatever it might be,
+and, you know, one of our strengths is our ability
+to put it into the marketplace fairly quickly.
+But our objective is they all have to be scalable.
+So we don't wanna do it for 10 people.
+You know, we need to know that if this works,
+that we will approve it for payment and we will roll it out
+and make sure it's part of the formulary.
+<v ->Dr. Nevin, same question for you.</v>
+I'm particularly interested in your view on the home
+and care being extended into the home as well.
+<v ->Yeah, absolutely.</v>
+And I would just, again, I think David and I,
+we do have a partnership
+and we tend to agree on a lot of things.
+I agree with everything that you said.
+Yeah, I mean, I think my worry about all of this
+is you may know that traditional healthcare
+is not generally very adventurous.
+We tend to be very traditional.
+And I worry that we are going to sort of lose this moment
+in time because the technology opportunity,
+particularly I think with AI and generative AI
+to really solve for some of these big issues
+that we've struggled with for decades, the time is now.
+And so I think it is absolutely imperative
+that we work together and we work with these new companies,
+so that as they're creating their product,
+they can deeply understand the problems
+that we're trying to solve.
+I am a firm believer that the home
+can be a really important place for care.
+We have long had a primary care at home program
+for the frail list of the frail elderly.
+It gets excellent outcomes
+and it is significantly less expensive.
+It costs Medicare much less
+when we take care of patients that way.
+We more recently launched a hospital at home program
+using the CMS waiver.
+So patients who qualify for admission,
+an inpatient admission to the hospital
+can now be taken care of at home.
+And the technology that supports that, again,
+it's just has been tremendous.
+Patients absolutely love it.
+Families love it.
+It solves for some of the issues around equity, frankly,
+because it helps solve for culture and language
+and food and so forth.
+The quality outcomes exceed those
+in bricks and mortar setting.
+And again, we're still trying to better understand cost,
+but there is extremely promising.
+Again, it is a way that helps us get to more affordability.
+We recently launched essentially skilled nursing care
+in the home.
+And our vision is to be able to provide the continuum
+of care in the home.
+And again, to me, you know,
+pilots and dabbling are really important.
+I would love to see this happen at scale
+and not just at, you know, ChristianaCare
+and the I think 130 health systems that are doing this,
+but this becomes a different way of providing care.
+It's better, it's safer and it costs less.
+<v ->Michael, what tech convergence are you most excited about?</v>
+<v ->I'm excited about the timing.</v>
+So there's a tendency to think
+that everything we see is the first time in history.
+And there's this thing called the productivity paradox.
+That if you look at introductions
+of general purpose technologies, like if you go back
+to electricity, when factories got electricity,
+they didn't redesign the work, they replaced the water wheel
+with a big central motor.
+And it took 10, 15, 20 years to figure out
+that you could redesign the work around the new technology.
+Same thing happened in banking
+with the introduction of computers.
+It wasn't that ATMs appeared when computers first came in.
+Well, when did we first digitize US healthcare?
+And so from a historical standpoint, we're at the right time
+where you might expect to see care actually get redesigned.
+We certainly see that with partners like Highmark
+of doing these really leading edge things for it.
+And so I'm especially excited about the fact
+that the things that two years ago no lab in the world
+could do them.
+You know, nine months ago, we got it working, you know,
+nearly melting the research computers
+and now our partners can actually build on top of it
+in a way that changes who can design the final mile
+of technology.
+I'm excited about that.
+<v Logan>Diogo, over to you.</v>
+<v ->I'm excited just about bringing it all together</v>
+and what you can do.
+One of the reasons why I'm excited about that
+is because I'd like to get rid to the extent possible
+of patient reported outcomes.
+That's the endpoint of many clinical trials.
+It's how the patient feels versus some objective measure.
+And many of you that are healthcare providers
+will know some of these standards,
+like the six minute walk test,
+which measures how far can you walk in six minutes
+when you're in a doctor's office.
+Maybe you're having a good day,
+maybe you're having a bad day,
+but you're getting one point in time.
+Or if you wanna measure
+whether your medicine affects sleepiness
+or prevents daytime sleepiness,
+there's a thing called the Epworth Sleepiness score.
+You ask the patient once every few months,
+how often do you feel sleepy,
+or doing the following eight activities.
+And you get a single point in time.
+Why do we need to be doing that when we are in 2025 now?
+We're all wearing these on our wrists.
+Why do you need to have somebody do a six minute walk
+in the doctor's office instead of taking in all of that data
+over the past six months?
+We've actually done that in some of our studies.
+We've added on actigraphy in the middle of a study
+that still had a patient reported outcome
+'cause that's what the regulators like to see.
+And we've seen that, wow, you can get so much richer data,
+you can find out that not only is the person walking
+and awake during the day, but they're actually active
+and they're doing better on the medicine.
+You can get much, much, much richer data
+if you bring it all together
+and you look at it holistically.
+So I would just like to bring all of this data together,
+converge everything, take a look at it,
+let the machines do the work,
+let the machines do the interpretation
+and get ourselves out of the business
+of looking at single data points spaced weeks
+or months apart.
+<v ->I've got a follow up that I wanna ask</v>
+to the whole group and whoever wants to jump in,
+it's really about taking action.
+Dr. Nevin, you'd said you don't wanna miss this opportunity
+and that we're at a specific moment in time.
+I couldn't agree with you more.
+And we've got a room full of people
+who can be change makers
+who can really take action in their sphere of influence.
+And so I want someone from this group
+or multiple people to make a recommendation
+about how we can make sure we don't miss this moment.
+<v ->I mean, I think it goes to what we've discussed</v>
+is we really have to work together.
+You know, healthcare is extremely complex
+and I know we've probably all had the experience
+of, you know, a great piece of technology has been created,
+but no one has really thought about how it's going
+to function inside the health system.
+And we have got to work together.
+You know, I think one of David mentioned
+that we have a partnership,
+we have a very unique joint venture
+between our two organizations.
+We do not have an insurance arm.
+And we both organizations believe we need
+to change care delivery.
+We need at the same time the opportunities
+to change how it gets paid for.
+And because we are having those conversations,
+we're also talking about how can we then use technology
+to solve for some of those vexing issues
+that get in the way of being able to do that.
+Having technology partners in that conversation
+and early in that conversation
+is ultimately gonna be the most helpful.
+<v ->David, your thoughts on encouraging collaboration</v>
+in this environment that is naturally build silos?
+<v ->Well, I think at least my experience</v>
+has been that when you have your incentives aligned,
+you have your metrics aligned.
+I mean it really is a three-legged stool.
+What you measure, you know, what you evaluate,
+and what you compensate for ultimately changes.
+And I mean, you know, Lily and Highmark and a HN
+in Western Pennsylvania, you know, prove
+that during the pandemic where we were able, you know,
+to put shots in arms for 650,000 people
+and stem the tide during the pandemic.
+And what that took
+was everybody taking themselves back one step, you know,
+all the A personalities and instead say,
+what are we solving for?
+How do we get this done and let's go?
+And, you know, I think Janice, just the work
+that we're doing in Delaware together,
+the thing that we've eliminated, it's full risk,
+up and downside risk.
+And so when her docs are saying, no, this isn't what works,
+you know, we're changing medical policy
+and we're trying to address that
+or we're showing things that are working in other markets
+that they might wanna consider.
+<v Logan>Yeah.</v>
+<v ->Can I take a dissenting view to part of it?</v>
+Or maybe a caution.
+I think there are a lot of great examples of collaboration
+like between Highmark and Lily that you mentioned,
+but there are also some really bad examples of collaboration
+where it's had tragic consequences.
+Anybody here want to see greater collaboration
+between insurers and pharmacy benefit managers?
+I hope not because guess who gets screwed if that happens?
+We all do, right?
+There has been a lot of collaboration in this industry
+that has worked against consumers, not for consumers.
+In fact, one of the things I only recently discovered
+is that 80% of the cost of your medicine
+when you buy medicines,
+the total cost is actually not going to the manufacturers.
+You know, maybe if it were 8%,
+you could kind of understand it,
+an 8% commission on any other product you buy.
+But 80, 80 is crazy.
+So there has been all of this collusion,
+this excessive collaboration I would say
+that happens downstream at the expense of the consumer.
+So I think we need excellent collaboration in certain parts.
+We want great collaboration on the discovery side
+and clinical trials and things like that.
+But on the consumer side,
+I'm not so sure I wanna see more collaboration.
+I wanna see more competition there
+to help bring down the cost of medicines
+and the cost of healthcare.
+<v ->I think an interesting topic for this panel as well</v>
+is just as we look at the incredible increase
+in the amount of data that we have available,
+these streams of data coming in, we have both opportunity
+and risk when we think about drug discovery on one end
+and on the other, provider burnout
+and click fatigue, alarm fatigue.
+And so I'd love to hear kind of where you feel like we're at
+in terms of the opportunities and threats
+of managing the amount of data
+that's coming into the system.
+Maybe, Michael, you could start and we'll go from there.
+<v ->I have mixed feelings about this.</v>
+So number one is it's...
+And you asked sort of for people in the room
+and I don't know everyone in the room, that's for sure.
+You know, what are the things to think about?
+One is to respect the complexity of care delivery.
+And so I'll give an example
+of if you have a 500 bed hospital,
+you might have 2,000 nurses to staff of 500 bed hospital,
+maybe 1,500.
+Before you start applying rules,
+how many options are there
+for your staffing choices tomorrow?
+Well, the number is larger than the number of atoms
+in the observed universe.
+Okay.
+Like that's a problem we've had since the inception
+of hospitals and that we've had those data for a long time.
+We now have techniques that may be able to help with them.
+And so one of the things that we think about
+is what can we learn from other industries
+that may be useful for healthcare.
+So supply chain optimization is something
+that many organizations outside of healthcare
+are really good at
+and we have lots of technology to support.
+So we're things like scheduling and optimization
+of the most important resources that you have,
+which is your burned out clinicians, right?
+So one are things like that.
+The second thing that I would say is that, again,
+you know, patient-centered care doesn't care
+where the patient is, would be...
+You know, your question before
+posited that there has been no convergence,
+but if I asked this room, you know, who's been to the doctor
+and then who when you went home googled up
+what the doctor told you to double check it,
+like a lot of people would raise their hand for that, right?
+Or like, you know, haven't helped you
+if you had to switch primary care doctors
+and you try to find a new primary care doctor
+who's used the internet to try to help you do that.
+Everybody would raise their hand, right?
+The data would say 70% of people.
+And if I asked the same question
+of who's used, you know, Gemini or Claude or ChatGPT,
+a lot of people would raise their hints now
+who a year ago would not have.
+So I think we are seeing that convergence
+without the traditional healthcare system.
+And what we're hopeful for
+is that by making the tooling available
+for healthcare delivery groups, healthcare payers,
+medicine and device manufacturers
+that will be able to accelerate by us doing 85% of the work
+that you have to do and the 15% being done
+by the people who are expert in it.
+<v ->David, to you, how are you balancing</v>
+just all of this data coming in, the power of it,
+making the most of it,
+while still thinking about just the mental health
+and wellbeing of your providers
+as they manage that at the bedside?
+<v ->Yeah, I mean, I would say a couple of things.</v>
+First of all, there's a gentleman named Richard Clark
+in the audience, who heads up our data analytics,
+came out of Carnegie Mellon.
+You know, we went out and we found a bunch
+of smart people at Carnegie Mellon
+who knew nothing about healthcare.
+And then we said, how can you help us take this information,
+all this knowledge, both on terms of clinical data,
+claims data and unstructured data, you know, the devices,
+et cetera, and do something with it.
+So we partnered with Google
+and said, you know, we need your help
+on how do we, you know, build the big engine.
+And, you know, we're challenging our people
+to then take all that complex information and simplify it.
+So going back to my, you know, retail roots.
+In retail, when you talk to somebody,
+a salesperson in a store, you know,
+if you ask them to do something,
+you need to understand that you have to write
+in a language that allows them to start working
+on the project or read it, put it down, go help a customer,
+then come back to it in five minutes and pick it back up.
+So if you write in paragraphs, people don't pay attention.
+If you write, you know, in bullet points,
+you can get things done.
+We're doing the same thing with everything that we're doing.
+You know, we're using the data
+and then we're using journey maps, consumer journey maps
+for different disease states, cancer, you know,
+heart disease, whatever it might be.
+And we're trying to make it so that the average person
+can understand it, and we're making it so
+that it's in a format that the average clinician, you know,
+who's, you know, got alert fatigue can deal with it.
+And we're also using ambient listening
+and, you know, all those kinds of things, you know,
+so that we end the days of our docs doing pajama notes.
+<v ->A little different spin on this question for you,</v>
+Dr. Nevin.
+I felt like when I walked the floor,
+there was a lack of innovation in provider care,
+just thinking about the provider workflow
+and there's a number of reasons for that.
+How do you think about the kind of programs
+that you want to roll out
+that help providers manage technology and data
+as it comes in?
+<v ->Yes, I think there was a strong focus on the consumer,</v>
+which is great, you know.
+Yeah, so I'll maybe just talk a little bit
+about how we're thinking about AI.
+You know, I think, again, sort of how...
+We've been using AI for a long time.
+We have, I think since 2012, have had a platform
+that's now called CareVio that ingests data,
+applies machine learning, generates risk scores,
+and allows a care team essentially to manage a population
+of patients in an asynchronous fashion
+and also reach out to them if they see rising risk.
+So we've been in this space for a while,
+but obviously the new tools bring with them
+some additional risks.
+So it was very important
+that we created a governance structure
+inside the health system so it didn't become the wild west,
+because, again, we're dealing with people's lives.
+And the data question is a great question.
+You know, we generate tons and tons of data.
+The challenge is how do we use it effectively
+for the purposes of AI and using data for AI,
+we are keeping our data, our data,
+we have not sort of pulled in data
+from the internet again,
+because we have to be certain that the data
+that we are using is evidence-based data.
+So when we're applying analytics and using it,
+we have confidence
+that we're gonna get the right outcomes.
+And, of course, we always have to be concerned
+about privacy.
+<v ->Awesome.</v>
+One closing question.
+I wanna give each of you a chance to respond
+as a sort of just a last thought.
+If we were to come back 10 years from now
+and have a reunion panel
+and talk about all the things that we have worked on,
+what's one advancement that you hope
+that we would be celebrating on that panel?
+We'll start with Diogo.
+And as a little bit of a wild card question there.
+So what do you think.
+<v ->It is.</v>
+I would like to see some breakthrough medicines out there.
+I think we need to focus a lot more on prevention
+rather than treatment.
+If I walk into an emergency room right now,
+I'm gonna pay about 3% out of pocket.
+If I go to buy a medicine right now,
+I'm gonna pay 20% out of pocket.
+These perverted economics drive people
+to avoid preventing treatment
+and going and getting it when they need it later.
+And we need to stop that.
+And I would like to see more medicines that are cheaper,
+more available for everyone
+so that people don't have to go to the hospital
+unless they really, really need to.
+<v Logan>Dr. Howell.</v>
+<v ->10 years is a long time.</v>
+I think we'll see medicines that have been discovered
+that cure things that we think are incurable today
+or require mechanical support today.
+I am hopeful that we'll see the democratization
+of expertise in a way that makes that number
+of 4.5 billion people who don't have access
+to essential health services much smaller.
+And I think technology is the only way to get there.
+And so I'm hopeful for the first time in my career
+that technology may play out in a way that leads to billions
+of healthier people on a planetary scale.
+<v ->10 years from now, I will have closed hospital beds.</v>
+The hospital will be purely for intensive care,
+high tech procedures,
+a place where women will deliver babies.
+And I'm able to do that
+because so much of the care is moved into the community,
+the home into ambulatory settings.
+You know, a lot of primary care can be done with AI.
+And so 10 years from now,
+we've got healthier communities, healthier people,
+we're managing chronic disease so much more effectively
+that I can shrink those acute care services.
+<v Logan>Last word, David.</v>
+<v ->You know, 10 years from now,</v>
+I think we will have, you know, made a big impact
+on chronic disease.
+I truly believe that.
+I think the innovation that's available to us,
+but more importantly, using artificial intelligence
+and the computing power that is in front of us
+over the next decade,
+I think can really knock down some serious issues.
+And I think we gotta get away from sick care
+and start focusing on, you know, being upstream
+and really helping people stay healthy
+and give them the information
+that will allow them to do that.
+<v ->Well, 2035, it's both a long time and a short time,</v>
+so maybe we'll be back here to talk about it.
+So thank you, everybody.
+Thank you, panelists, for taking the time
+and thank you everybody for taking part in panel.

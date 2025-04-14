@@ -1,0 +1,4124 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.120 --> 00:02.703
+(upbeat music)
+
+2
+00:11.760 --> 00:12.780
+<v ->Good morning, everybody,</v>
+
+3
+00:12.780 --> 00:14.460
+or I should say good afternoon.
+
+4
+00:14.460 --> 00:15.780
+It's already one o'clock.
+
+5
+00:15.780 --> 00:18.540
+The time is going by so quickly.
+
+6
+00:18.540 --> 00:21.180
+I wanna welcome you all here today.
+
+7
+00:21.180 --> 00:25.230
+We're gonna talk about the cyber security talent gap
+
+8
+00:25.230 --> 00:27.750
+that we're experiencing globally,
+
+9
+00:27.750 --> 00:31.920
+but we have two U.S. or individuals here,
+
+10
+00:31.920 --> 00:33.990
+so we'll probably talk a lot also
+
+11
+00:33.990 --> 00:36.870
+about the situation in the United States.
+
+12
+00:36.870 --> 00:38.490
+First, I'd like to introduce myself.
+
+13
+00:38.490 --> 00:39.660
+My name's Jennifer Taylor.
+
+14
+00:39.660 --> 00:41.520
+I'm the president and CEO
+
+15
+00:41.520 --> 00:44.070
+of the Northern Virginia Technology Council.
+
+16
+00:44.070 --> 00:48.120
+We're one of the largest tech councils in the country,
+
+17
+00:48.120 --> 00:50.400
+and we've been around for 35 years.
+
+18
+00:50.400 --> 00:53.400
+And what we do is we really drive
+
+19
+00:53.400 --> 00:55.470
+innovation and economic growth
+
+20
+00:55.470 --> 00:57.060
+in the Northern Virginia region,
+
+21
+00:57.060 --> 00:59.970
+which sits right across the river
+
+22
+00:59.970 --> 01:02.910
+from the capital of the United States, Washington, D.C.,
+
+23
+01:02.910 --> 01:06.390
+so we really unite and bring together
+
+24
+01:06.390 --> 01:10.320
+our full tech ecosystem in the national capital region,
+
+25
+01:10.320 --> 01:11.880
+our nation's capital.
+
+26
+01:11.880 --> 01:13.560
+Prior to this role, I actually worked
+
+27
+01:13.560 --> 01:15.810
+at the Consumer Technology Association,
+
+28
+01:15.810 --> 01:18.240
+where I was VP of Industry Affairs,
+
+29
+01:18.240 --> 01:21.330
+and one of my roles was to lead
+
+30
+01:21.330 --> 01:24.120
+all of our workforce development programming
+
+31
+01:24.120 --> 01:27.330
+and policy work, so that's why I'm here today.
+
+32
+01:27.330 --> 01:31.530
+Today's panel topic is titled The Cybersecurity Talent Gap.
+
+33
+01:31.530 --> 01:35.160
+And this topic is really relevant and timely today,
+
+34
+01:35.160 --> 01:38.400
+considering that cybersecurity talent shortages.
+
+35
+01:38.400 --> 01:40.860
+This shortage has never been more pressing.
+
+36
+01:40.860 --> 01:44.340
+I'm sure you're all aware of recent cyber attacks,
+
+37
+01:44.340 --> 01:46.140
+such as the Salt Typhoon
+
+38
+01:46.140 --> 01:48.300
+targeting the U.S. telecom industry,
+
+39
+01:48.300 --> 01:50.190
+and the Volt Typhoon,
+
+40
+01:50.190 --> 01:52.650
+the Chinese State-sponsored hacker group
+
+41
+01:52.650 --> 01:55.080
+that has threatened critical infrastructure,
+
+42
+01:55.080 --> 01:56.310
+including power, water,
+
+43
+01:56.310 --> 01:58.770
+military facilities, and supply chains.
+
+44
+01:58.770 --> 02:02.250
+So all of this underscores escalating risk.
+
+45
+02:02.250 --> 02:05.430
+And these are just two of the more well known.
+
+46
+02:05.430 --> 02:08.913
+We know companies are dealing with cyber attacks every day.
+
+47
+02:10.080 --> 02:12.570
+So what I'd like to do now
+
+48
+02:12.570 --> 02:14.760
+is just set the table for our discussion
+
+49
+02:14.760 --> 02:16.740
+and share some general statistics with you
+
+50
+02:16.740 --> 02:19.050
+about the cyber workforce.
+
+51
+02:19.050 --> 02:21.480
+In the U.S., we are currently experiencing
+
+52
+02:21.480 --> 02:24.360
+a significant shortage of cyber professionals
+
+53
+02:24.360 --> 02:26.640
+with thousands of positions unfilled.
+
+54
+02:26.640 --> 02:29.970
+And this gap poses, I find this really interesting,
+
+55
+02:29.970 --> 02:32.370
+substantial risks to our organizations,
+
+56
+02:32.370 --> 02:34.710
+our industries and governments
+
+57
+02:34.710 --> 02:37.260
+because the lack of skilled personnel
+
+58
+02:37.260 --> 02:40.410
+is predicted to account for more than half
+
+59
+02:40.410 --> 02:43.515
+of significant cybersecurity incidents worldwide,
+
+60
+02:43.515 --> 02:45.003
+so we need more people.
+
+61
+02:47.970 --> 02:50.880
+To address the talent gap,
+
+62
+02:50.880 --> 02:54.420
+there are various initiatives underway, which is great.
+
+63
+02:54.420 --> 02:57.900
+We're seeing organizations map skills training
+
+64
+02:57.900 --> 02:59.850
+to emerging threats.
+
+65
+02:59.850 --> 03:02.460
+We're offering more continuous learning opportunities
+
+66
+03:02.460 --> 03:05.460
+for staff or employees.
+
+67
+03:05.460 --> 03:09.000
+Their organizations are providing more clear pathways,
+
+68
+03:09.000 --> 03:10.710
+career pathways.
+
+69
+03:10.710 --> 03:14.460
+We're attracting talent from more diverse populations
+
+70
+03:14.460 --> 03:18.900
+and through non-traditional educational pathways,
+
+71
+03:18.900 --> 03:21.330
+like apprenticeship, at least in our country.
+
+72
+03:21.330 --> 03:24.630
+And we're collaborating more with public agencies
+
+73
+03:24.630 --> 03:26.970
+and through national campaigns.
+
+74
+03:26.970 --> 03:30.630
+So in today's discussion, we're going to do three things.
+
+75
+03:30.630 --> 03:32.340
+We're gonna understand what are the factors
+
+76
+03:32.340 --> 03:36.570
+that are driving the demand for cybersecurity talent.
+
+77
+03:36.570 --> 03:39.420
+We're going to discuss how the increased demand for cyber
+
+78
+03:39.420 --> 03:40.923
+is impacting companies,
+
+79
+03:42.030 --> 03:44.730
+specifically how they're filling their talent pipelines.
+
+80
+03:44.730 --> 03:45.960
+And then we're gonna showcase
+
+81
+03:45.960 --> 03:48.630
+how tech companies are addressing these challenges
+
+82
+03:48.630 --> 03:51.660
+through innovative and unconventional ways.
+
+83
+03:51.660 --> 03:54.390
+So what I'm gonna do now is introduce
+
+84
+03:54.390 --> 03:56.880
+our two subject matter experts.
+
+85
+03:56.880 --> 03:58.530
+First, we have Torrell Funderburk.
+
+86
+03:58.530 --> 04:01.440
+He's the CISO at Sealed Air.
+
+87
+04:01.440 --> 04:06.180
+And he focuses on cyber resilience and innovation
+
+88
+04:06.180 --> 04:08.370
+in the face of evolving security threats.
+
+89
+04:08.370 --> 04:10.950
+He has a background in software development
+
+90
+04:10.950 --> 04:12.960
+and a passion for digital transformation
+
+91
+04:12.960 --> 04:14.670
+and emerging technology.
+
+92
+04:14.670 --> 04:16.770
+Today, he's dedicated to bridging the gap
+
+93
+04:16.770 --> 04:21.090
+between business objectives and cybersecurity strategies.
+
+94
+04:21.090 --> 04:22.680
+So we're gonna talk about that.
+
+95
+04:22.680 --> 04:24.840
+For those of you who are unaware of Sealed Air,
+
+96
+04:24.840 --> 04:27.330
+they're now branded as C.
+
+97
+04:27.330 --> 04:28.393
+Do you say C or S-E-E?
+
+98
+04:28.393 --> 04:30.000
+<v ->C.</v>
+<v ->C, yeah.</v>
+
+99
+04:30.000 --> 04:31.800
+And they're a packaging company.
+
+100
+04:31.800 --> 04:33.840
+They're known for their innovative solutions
+
+101
+04:33.840 --> 04:36.390
+in product protection, food safety, and security.
+
+102
+04:36.390 --> 04:38.970
+They're headquartered in Charlotte, North Carolina,
+
+103
+04:38.970 --> 04:41.880
+and you'll know some of their popular brands,
+
+104
+04:41.880 --> 04:45.280
+well-known brands such as Bubble Wrap and Cryovac
+
+105
+04:46.170 --> 04:47.733
+for food Packaging.
+
+106
+04:49.020 --> 04:51.140
+Now, we also have Vishal Chawla.
+
+107
+04:51.140 --> 04:52.500
+Am I saying that correctly?
+
+108
+04:52.500 --> 04:54.360
+<v ->Yes.</v>
+<v ->Okay. (laughs)</v>
+
+109
+04:54.360 --> 04:57.600
+And he's the founder and CEO of BluOcean.
+
+110
+04:57.600 --> 05:00.720
+He brings over 30 years of cybersecurity expertise,
+
+111
+05:00.720 --> 05:05.400
+combining his big four experience as a global cyber leader
+
+112
+05:05.400 --> 05:09.180
+and a senior partner serving global Fortune 100 clients
+
+113
+05:09.180 --> 05:11.820
+in the financial services and healthcare industry.
+
+114
+05:11.820 --> 05:14.880
+He's now the founder and CEO of BluOcean Cyber.
+
+115
+05:14.880 --> 05:16.680
+They're located in Northern Virginia,
+
+116
+05:16.680 --> 05:20.380
+where he's created a product called RiskGPS.
+
+117
+05:21.390 --> 05:23.490
+It's a cyber risk governance platform
+
+118
+05:23.490 --> 05:26.340
+and it helps companies dominate their competition
+
+119
+05:26.340 --> 05:27.990
+by redefining cybersecurity
+
+120
+05:27.990 --> 05:31.350
+as a critical strategic business asset.
+
+121
+05:31.350 --> 05:32.880
+And he'll tell us more about that as well.
+
+122
+05:32.880 --> 05:35.257
+And he's been published in "The Wall Street Journal,"
+
+123
+05:35.257 --> 05:38.310
+"The MIT Review" and many other publications.
+
+124
+05:38.310 --> 05:40.706
+So thank you both for being here today.
+
+125
+05:40.706 --> 05:41.650
+<v ->Thank you for having us.</v>
+
+126
+05:41.650 --> 05:44.730
+<v ->Okay, so we will take time for a few questions at the end,</v>
+
+127
+05:44.730 --> 05:47.130
+so if you have any, you know,
+
+128
+05:47.130 --> 05:48.330
+we look forward to hearing from you.
+
+129
+05:48.330 --> 05:51.120
+So we're gonna start with Torrell and then Vishal.
+
+130
+05:51.120 --> 05:54.870
+So based on your respective experiences,
+
+131
+05:54.870 --> 05:57.750
+at Sealed Air and Deloitte, when you were working with them,
+
+132
+05:57.750 --> 06:00.660
+Vishal, what do you believe are the main factors
+
+133
+06:00.660 --> 06:04.263
+driving the increased demand for cybersecurity strategies?
+
+134
+06:07.110 --> 06:08.160
+what's driving the demand?
+
+135
+06:08.160 --> 06:10.560
+<v ->This is like an incredible question,</v>
+
+136
+06:10.560 --> 06:12.170
+and I like this question
+
+137
+06:12.170 --> 06:14.883
+because I think it's a combination of many factors.
+
+138
+06:15.750 --> 06:19.530
+I think one, obvious for large publicly traded companies,
+
+139
+06:19.530 --> 06:21.780
+is the new SEC regulations
+
+140
+06:21.780 --> 06:23.940
+and trying to aim for regulatory compliance
+
+141
+06:23.940 --> 06:25.470
+and shared accountability and ownership
+
+142
+06:25.470 --> 06:26.670
+at the leadership level.
+
+143
+06:27.780 --> 06:31.320
+But on top of that, I think the general awareness
+
+144
+06:31.320 --> 06:34.770
+for the cyber securities is being raised across industry.
+
+145
+06:34.770 --> 06:35.820
+So more people are aware of it,
+
+146
+06:35.820 --> 06:38.040
+more people kind of understand
+
+147
+06:38.040 --> 06:40.893
+that they need their collective strategies towards cyber.
+
+148
+06:41.850 --> 06:45.390
+And I think as a side effect of that,
+
+149
+06:45.390 --> 06:49.353
+it almost feels as if through that focus,
+
+150
+06:50.580 --> 06:52.710
+there's a realization that cyber can also de-risk
+
+151
+06:52.710 --> 06:54.600
+and enable the business as well,
+
+152
+06:54.600 --> 06:58.623
+because of the unique nature that cyber has to play.
+
+153
+06:59.520 --> 07:02.550
+So, if a business has a strategy
+
+154
+07:02.550 --> 07:04.290
+that they're driving towards,
+
+155
+07:04.290 --> 07:06.720
+how can cyber be leveraged to de-risk that
+
+156
+07:06.720 --> 07:09.180
+while maintain kind of operational resilience
+
+157
+07:09.180 --> 07:13.380
+for their current operations effectively?
+
+158
+07:13.380 --> 07:15.210
+So I think a combination of all those three things
+
+159
+07:15.210 --> 07:18.660
+is really what's driving the need and demand
+
+160
+07:18.660 --> 07:21.270
+for effective cyber strategies
+
+161
+07:21.270 --> 07:23.820
+and also demand for cyber strategy
+
+162
+07:23.820 --> 07:25.080
+to be communicated effectively,
+
+163
+07:25.080 --> 07:27.540
+which is also a challenge in our industry.
+
+164
+07:27.540 --> 07:28.590
+<v Jennifer>Yeah.</v>
+
+165
+07:28.590 --> 07:31.080
+What are your thoughts, Vishal?
+
+166
+07:31.080 --> 07:32.910
+<v ->No, those are great points, Torrell.</v>
+
+167
+07:32.910 --> 07:35.553
+I'll add few aspects to it.
+
+168
+07:36.510 --> 07:38.220
+I would pick about four things.
+
+169
+07:38.220 --> 07:40.660
+One, I think what we have seen is
+
+170
+07:42.030 --> 07:44.850
+the cyber criminals are not anymore...
+
+171
+07:44.850 --> 07:46.830
+I joke like two men in a truck,
+
+172
+07:46.830 --> 07:49.200
+door wrangler, just try to come in.
+
+173
+07:49.200 --> 07:51.045
+They have become organized.
+
+174
+07:51.045 --> 07:51.878
+<v Jennifer>Yeah.</v>
+
+175
+07:51.878 --> 07:53.730
+<v ->Ransomware as a service, like LockBit.</v>
+
+176
+07:53.730 --> 07:56.160
+These companies have HR department,
+
+177
+07:56.160 --> 07:58.740
+you get paid, you come in nine to six,
+
+178
+07:58.740 --> 07:59.730
+you hack all day-
+<v ->Unbelievable.</v>
+
+179
+07:59.730 --> 08:00.750
+<v ->You go home.</v>
+
+180
+08:00.750 --> 08:02.730
+So they are businesses.
+
+181
+08:02.730 --> 08:04.890
+They are not just two people
+
+182
+08:04.890 --> 08:07.710
+just trying to see sitting in a basement or a dorm room
+
+183
+08:07.710 --> 08:08.820
+trying to break in.
+
+184
+08:08.820 --> 08:13.200
+So that shifts like bringing the professionalism,
+
+185
+08:13.200 --> 08:15.720
+if you think about it, to attacking,
+
+186
+08:15.720 --> 08:18.600
+to hacking companies and holding them hostage.
+
+187
+08:18.600 --> 08:21.090
+So that is a big shift we are seeing.
+
+188
+08:21.090 --> 08:25.770
+The number two is definitely when you look at
+
+189
+08:25.770 --> 08:30.030
+in terms of automation and everything, what's going on.
+
+190
+08:30.030 --> 08:35.030
+We are seeing a lot more stuff like cloud and SaaS.
+
+191
+08:35.610 --> 08:38.730
+Especially after COVID, we saw this huge shift,
+
+192
+08:38.730 --> 08:39.563
+we gotta move.
+
+193
+08:40.470 --> 08:41.970
+But cloud and SaaS means
+
+194
+08:41.970 --> 08:44.460
+now you gotta go out of your perimeter.
+
+195
+08:44.460 --> 08:46.860
+You don't have that control, right?
+
+196
+08:46.860 --> 08:49.860
+<v ->Right.</v>
+<v ->So, that creates now</v>
+
+197
+08:49.860 --> 08:52.050
+a very open-ended environment,
+
+198
+08:52.050 --> 08:55.950
+like I call it why you need to come into a house
+
+199
+08:55.950 --> 08:58.060
+when your house is actually outside or-
+
+200
+08:58.060 --> 08:59.130
+<v Jennifer>Yeah, yeah, yeah.</v>
+
+201
+08:59.130 --> 09:01.410
+<v ->Or the other way I look at it is,</v>
+
+202
+09:01.410 --> 09:03.870
+we used to always call it what happens in Vegas,
+
+203
+09:03.870 --> 09:04.829
+stays in Vegas.
+
+204
+09:04.829 --> 09:06.840
+(Jennifer laughs)
+Not anymore.
+
+205
+09:06.840 --> 09:09.390
+It's on a SaaS cloud sitting somewhere,
+
+206
+09:09.390 --> 09:11.040
+which we have no clue.
+
+207
+09:11.040 --> 09:12.570
+And they don't need to come in,
+
+208
+09:12.570 --> 09:14.190
+they just hack in and those things,
+
+209
+09:14.190 --> 09:15.960
+so it's changing that whole thing.
+
+210
+09:15.960 --> 09:17.220
+<v ->I love these analogies.</v>
+
+211
+09:17.220 --> 09:19.400
+Like I like that house is outside of the house.
+
+212
+09:19.400 --> 09:20.880
+<v ->It is, everything is out, right?</v>
+
+213
+09:20.880 --> 09:24.360
+You can go ahead Salesforce for any of these tech company
+
+214
+09:24.360 --> 09:26.670
+outside, you don't need to come into the parameter.
+
+215
+09:26.670 --> 09:29.280
+And I think the third biggest thing we are seeing,
+
+216
+09:29.280 --> 09:32.820
+which is third biggest thing we are seeing is
+
+217
+09:32.820 --> 09:35.160
+the attack pattern has shifted
+
+218
+09:35.160 --> 09:40.160
+because earlier, the people wanted to go attack for data.
+
+219
+09:40.530 --> 09:44.250
+Every one of our information had some value,
+
+220
+09:44.250 --> 09:46.560
+but that value has gone down considerably.
+
+221
+09:46.560 --> 09:49.110
+So when Ticketmaster got hacked,
+
+222
+09:49.110 --> 09:52.020
+I think they got half a billion record, I think,
+
+223
+09:52.020 --> 09:54.570
+and they asked for 400,000.
+
+224
+09:54.570 --> 09:55.620
+That's less than-
+<v ->Dollars.</v>
+
+225
+09:55.620 --> 09:59.430
+<v ->That's less than a penny for each of our record.</v>
+
+226
+09:59.430 --> 10:00.330
+That's it.
+
+227
+10:00.330 --> 10:01.890
+But what they are shifted is
+
+228
+10:01.890 --> 10:04.410
+they are going after business disruption.
+
+229
+10:04.410 --> 10:06.930
+How I disrupt business, like change healthcare,
+
+230
+10:06.930 --> 10:09.690
+how I go, like, don't want to name the companies,
+
+231
+10:09.690 --> 10:13.650
+but companies we are disrupt the business, shut it down,
+
+232
+10:13.650 --> 10:17.223
+so I hold them hostage and they gotta pay me now.
+
+233
+10:18.781 --> 10:20.940
+And the last part I would say which has changed
+
+234
+10:20.940 --> 10:24.930
+the attack pattern is everything we look in CTM is
+
+235
+10:24.930 --> 10:27.060
+I'm sure we are enjoying CES, right?
+
+236
+10:27.060 --> 10:28.413
+Every technology we see.
+
+237
+10:29.550 --> 10:31.890
+As fast the technology is moving,
+
+238
+10:31.890 --> 10:33.210
+like we were talking about Abbott,
+
+239
+10:33.210 --> 10:36.480
+when I was looking at the device, the hacker is moving too.
+
+240
+10:36.480 --> 10:40.620
+And the more technology-enabled company we become,
+
+241
+10:40.620 --> 10:44.340
+the more opening is for hackers to go after us.
+
+242
+10:44.340 --> 10:46.456
+So I think these four factors-
+
+243
+10:46.456 --> 10:48.870
+<v ->It's very well said.</v>
+<v ->are creating an ecosystem,</v>
+
+244
+10:48.870 --> 10:52.710
+which is creating this talent gap also
+
+245
+10:52.710 --> 10:54.990
+because it's not where we were,
+
+246
+10:54.990 --> 10:58.320
+it's like, your hockey, where the puck is going,
+
+247
+10:58.320 --> 11:00.660
+that's moving too fast, it's going somewhere else
+
+248
+11:00.660 --> 11:02.575
+and we are still kind of moving slowly towards it
+
+249
+11:02.575 --> 11:06.450
+<v Jennifer>So the skills, the talent pipeline</v>
+
+250
+11:06.450 --> 11:09.600
+has to keep up with the pace of technology.
+
+251
+11:09.600 --> 11:10.830
+<v Torrell>Yeah, I love the analogy</v>
+
+252
+11:10.830 --> 11:12.660
+because I use it internally.
+
+253
+11:12.660 --> 11:14.100
+<v Jennifer>I'm seeing the technology,</v>
+
+254
+11:14.100 --> 11:15.810
+you know, have the hockey stick.
+
+255
+11:15.810 --> 11:17.310
+<v ->Yeah.</v>
+<v ->And then the hackers.</v>
+
+256
+11:17.310 --> 11:19.200
+But the talent has to-
+<v ->Correct.</v>
+
+257
+11:19.200 --> 11:21.326
+<v ->Go along with it.</v>
+<v ->Skate to the puck.</v>
+
+258
+11:21.326 --> 11:22.290
+<v ->Yeah.</v>
+
+259
+11:22.290 --> 11:23.310
+<v Jennifer>Absolutely.</v>
+
+260
+11:23.310 --> 11:25.560
+So I'm gonna go to my next question.
+
+261
+11:25.560 --> 11:30.560
+So how has increased demand for cyber security impacted C?
+
+262
+11:30.810 --> 11:33.600
+Like what are the conversations you're having as the CISO
+
+263
+11:33.600 --> 11:36.274
+with your CEO and your leadership team?
+
+264
+11:36.274 --> 11:38.100
+<v ->I think kind of what I touched on earlier,</v>
+
+265
+11:38.100 --> 11:41.040
+and that's leveraging kind of the capabilities
+
+266
+11:41.040 --> 11:43.080
+that we've established at our company
+
+267
+11:43.080 --> 11:45.240
+to actually de-risk the business strategy, right?
+
+268
+11:45.240 --> 11:48.660
+So we're elevating our integration into the organization.
+
+269
+11:48.660 --> 11:51.090
+So it's not just this back office project function.
+
+270
+11:51.090 --> 11:53.070
+It is how we align with the business
+
+271
+11:53.070 --> 11:54.240
+to de-risk that strategy
+
+272
+11:54.240 --> 11:56.530
+and the expectations and outcomes that come with that.
+
+273
+11:56.530 --> 11:58.000
+So it is raising the bar
+
+274
+11:59.150 --> 12:00.930
+for the expectations of security
+
+275
+12:00.930 --> 12:03.630
+in terms of helping driving outcomes,
+
+276
+12:03.630 --> 12:06.960
+but also more visibility
+
+277
+12:06.960 --> 12:10.440
+in terms of our readiness for operational disruption,
+
+278
+12:10.440 --> 12:11.400
+as Vishal mentioned.
+
+279
+12:11.400 --> 12:14.370
+<v Jennifer>So are you able to give us a specific example?</v>
+
+280
+12:14.370 --> 12:16.350
+I don't know if it's proprietary,
+
+281
+12:16.350 --> 12:19.710
+but of de-risking a specific strategy.
+
+282
+12:19.710 --> 12:21.583
+So, like what might be-
+
+283
+12:25.620 --> 12:27.240
+<v ->I'll give you an example.</v>
+
+284
+12:27.240 --> 12:30.150
+So Vishal gave a great example.
+
+285
+12:30.150 --> 12:34.500
+So, there's an increase in attack posture,
+
+286
+12:34.500 --> 12:36.930
+attack surface with the boom of the devices
+
+287
+12:36.930 --> 12:38.130
+and emerging technology.
+
+288
+12:38.130 --> 12:42.090
+So you have AI, you have IoT and manufacturing.
+
+289
+12:42.090 --> 12:43.890
+There's this I4.0 revolution, right?
+
+290
+12:43.890 --> 12:44.723
+<v Jennifer>That's right.</v>
+
+291
+12:44.723 --> 12:45.556
+<v ->So a lot of connected devices,</v>
+
+292
+12:45.556 --> 12:47.347
+smart manufacturing, digital twins, all this.
+
+293
+12:47.347 --> 12:51.570
+<v ->Right, so I'm visualizing C's manufacturing operations</v>
+
+294
+12:51.570 --> 12:53.634
+as you're describing that, and this is massive.
+
+295
+12:53.634 --> 12:56.103
+<v ->Yeah, yeah, so-</v>
+<v ->And I'm sure it's global,</v>
+
+296
+12:56.103 --> 12:58.710
+<v ->It's a global footprint.</v>
+<v ->Yep, yep.</v>
+
+297
+12:58.710 --> 13:00.930
+<v ->So from a security standpoint,</v>
+
+298
+13:00.930 --> 13:04.530
+how do we align with the major stakeholders in the business
+
+299
+13:04.530 --> 13:07.080
+that are driving this strategy
+
+300
+13:07.080 --> 13:11.760
+for more digital operation to de-risk it
+
+301
+13:11.760 --> 13:15.450
+in terms of like building secure by design models?
+
+302
+13:15.450 --> 13:18.030
+So we have a clearly understood model
+
+303
+13:18.030 --> 13:21.300
+to onboard this emerging technology onto our operation
+
+304
+13:21.300 --> 13:23.640
+that not only protects
+
+305
+13:23.640 --> 13:26.010
+against like existing or emerging risks,
+
+306
+13:26.010 --> 13:27.030
+but it also improves
+
+307
+13:27.030 --> 13:28.013
+the performance of our current operation as well.
+
+308
+13:28.013 --> 13:29.445
+<v Jennifer>Mm-hmm. Okay. Okay.</v>
+
+309
+13:29.445 --> 13:32.460
+<v ->So, I think the days of just expecting it</v>
+
+310
+13:32.460 --> 13:34.050
+to be secure is gone.
+
+311
+13:34.050 --> 13:35.670
+It's like, okay, secure and what?
+
+312
+13:35.670 --> 13:38.760
+Secure and more efficient, more cost efficient,
+
+313
+13:38.760 --> 13:40.800
+more operational resilient.
+
+314
+13:40.800 --> 13:45.600
+So I think the more integration to business outcomes
+
+315
+13:45.600 --> 13:48.600
+is kind of what I'm seeing.
+<v ->Gotcha. Wow.</v>
+
+316
+13:48.600 --> 13:50.160
+<v ->Yeah.</v>
+
+317
+13:50.160 --> 13:54.570
+<v ->And so, how, how is it impacting-</v>
+
+318
+13:54.570 --> 13:55.410
+<v ->Talent side?</v>
+<v ->What?</v>
+
+319
+13:55.410 --> 13:56.553
+<v Vishal>The talent?</v>
+
+320
+13:57.420 --> 13:59.640
+<v Jennifer>Well, so this increased demand</v>
+
+321
+13:59.640 --> 14:01.380
+for cybersecurity.
+
+322
+14:01.380 --> 14:02.730
+<v ->Yeah.</v>
+<v ->How is it impacting?</v>
+
+323
+14:02.730 --> 14:06.570
+How are you seeing companies respond from your perspective,
+
+324
+14:06.570 --> 14:07.537
+either while you were working,
+
+325
+14:07.537 --> 14:10.410
+you know, with the big four or with BluOcean?
+
+326
+14:10.410 --> 14:11.243
+<v ->I think-</v>
+
+327
+14:12.450 --> 14:13.775
+<v ->How are companies responding to any these four-</v>
+
+328
+14:13.775 --> 14:15.480
+<v ->Absolutely.</v>
+<v ->trends you just outlined?</v>
+
+329
+14:15.480 --> 14:17.700
+<v ->So, when I take those trends</v>
+
+330
+14:17.700 --> 14:20.460
+and I think back to Torrell's great point
+
+331
+14:20.460 --> 14:22.710
+about the business-centric kind of thinking,
+
+332
+14:22.710 --> 14:26.430
+I think what it's creating is I step back
+
+333
+14:26.430 --> 14:28.680
+and been I've consultant for so long.
+
+334
+14:28.680 --> 14:31.110
+When I look at the problem from outside in,
+
+335
+14:31.110 --> 14:33.570
+I see we have a talent issue
+
+336
+14:33.570 --> 14:36.300
+at about four different dimensions to it.
+
+337
+14:36.300 --> 14:39.000
+I'll start with the first one is,
+
+338
+14:39.000 --> 14:41.250
+what Torrell and I were talking a few minutes ago
+
+339
+14:41.250 --> 14:45.090
+is just the security leadership.
+
+340
+14:45.090 --> 14:47.460
+Is the security leadership trained enough
+
+341
+14:47.460 --> 14:49.770
+to understand the mission and the business-
+
+342
+14:49.770 --> 14:51.933
+<v ->Okay.</v>
+<v ->and very business-centric?</v>
+
+343
+14:53.190 --> 14:55.140
+Back to the SEC regulation.
+
+344
+14:55.140 --> 14:57.640
+They want you to focus on the business centricity.
+
+345
+14:58.890 --> 15:02.040
+Because the criminal looks at your business to attack you.
+
+346
+15:02.040 --> 15:05.310
+So there's a huge demand on security leadership,
+
+347
+15:05.310 --> 15:07.170
+how to train themselves
+
+348
+15:07.170 --> 15:09.480
+to move more toward the business side of the gap.
+
+349
+15:09.480 --> 15:11.340
+So that's some of the companies are pushing
+
+350
+15:11.340 --> 15:14.580
+their security leaders to be more strategic.
+
+351
+15:14.580 --> 15:17.520
+And what I call it, we were great
+
+352
+15:17.520 --> 15:20.520
+as a professional cybersecurity leader
+
+353
+15:20.520 --> 15:24.750
+used to be a good defender and a technologist.
+
+354
+15:24.750 --> 15:27.690
+As I remember a bank in Virginia,
+
+355
+15:27.690 --> 15:30.840
+they hired someone and he was phenomenal in technology,
+
+356
+15:30.840 --> 15:34.050
+how to transition to cloud, but then they get hacked.
+
+357
+15:34.050 --> 15:37.650
+Not his fault, but again, that's how they used to hire.
+
+358
+15:37.650 --> 15:40.410
+And now, they have to move to hiring people
+
+359
+15:40.410 --> 15:43.500
+who are more strategists and collaborator.
+
+360
+15:43.500 --> 15:44.970
+<v ->Okay.</v>
+<v ->So you gotta shift</v>
+
+361
+15:44.970 --> 15:47.190
+from technologist and defender
+
+362
+15:47.190 --> 15:49.230
+to building new additional muscles
+
+363
+15:49.230 --> 15:54.210
+of a strategist and collaborator.
+
+364
+15:54.210 --> 15:55.260
+So that's number one.
+
+365
+15:55.260 --> 15:57.850
+The number two I would pick, Jen, is
+
+366
+15:59.310 --> 16:01.590
+it's really the skill side
+
+367
+16:01.590 --> 16:04.680
+where companies are investing into
+
+368
+16:04.680 --> 16:08.040
+back to, yes, we need certain skills,
+
+369
+16:08.040 --> 16:11.700
+but what exactly the skills are gonna be needed
+
+370
+16:11.700 --> 16:13.830
+for the future where things are going.
+
+371
+16:13.830 --> 16:17.100
+So, we can be great with the skills we have,
+
+372
+16:17.100 --> 16:21.210
+but we gotta shift that skill pattern to, oh, you got AI.
+
+373
+16:21.210 --> 16:23.070
+Now, you got SaaS application,
+
+374
+16:23.070 --> 16:26.700
+which security never had to really deal with application
+
+375
+16:26.700 --> 16:29.640
+too much because it was inside the...
+
+376
+16:29.640 --> 16:31.500
+But there's no more wall,
+
+377
+16:31.500 --> 16:33.330
+there's no more around the company anymore,
+
+378
+16:33.330 --> 16:36.690
+so everything is outside, so you gotta change the skillset.
+
+379
+16:36.690 --> 16:39.630
+I think the third big thing which we are seeing,
+
+380
+16:39.630 --> 16:43.470
+and you will see, like if you guys align with NACD
+
+381
+16:43.470 --> 16:44.310
+and the board,
+
+382
+16:44.310 --> 16:47.160
+there's a huge pressure on the board of directors
+
+383
+16:47.160 --> 16:47.998
+<v Jennifer>Yes.</v>
+
+384
+16:47.998 --> 16:50.460
+<v ->to bring some cyber security skills at the leadership.</v>
+
+385
+16:50.460 --> 16:52.117
+<v Jennifer>Okay. Even into the board.</v>
+
+386
+16:52.117 --> 16:53.010
+<v ->Even into the board.</v>
+<v ->Yeah.</v>
+
+387
+16:53.010 --> 16:54.900
+<v ->And actually, interestingly,</v>
+
+388
+16:54.900 --> 16:59.900
+there's a senator out of state of Washington, I think.
+
+389
+17:00.360 --> 17:03.750
+He has proposed, actually put something on the table,
+
+390
+17:03.750 --> 17:05.310
+which I don't think this is gonna get passed,
+
+391
+17:05.310 --> 17:09.171
+but we're holding criminally.
+
+392
+17:09.171 --> 17:10.004
+<v Jennifer>Yes, I remember reading that.</v>
+
+393
+17:10.004 --> 17:11.040
+<v ->The board and the CISOs</v>
+
+394
+17:11.040 --> 17:12.990
+start getting accountable for it.
+
+395
+17:12.990 --> 17:14.730
+So there is a huge pressure on the board
+
+396
+17:14.730 --> 17:16.860
+that if you're gonna do the governance,
+
+397
+17:16.860 --> 17:18.360
+this is a risk you need to manage.
+
+398
+17:18.360 --> 17:20.130
+So that's the third skill gap
+
+399
+17:20.130 --> 17:22.080
+which companies are trying to address.
+
+400
+17:22.080 --> 17:25.620
+And the fourth one I feel is awareness.
+
+401
+17:25.620 --> 17:27.300
+As we know, what?
+
+402
+17:27.300 --> 17:31.950
+80% or so cyber attacks happens because of human errors?
+
+403
+17:31.950 --> 17:32.783
+80?
+
+404
+17:32.783 --> 17:35.220
+So how are we gonna become savvy?
+
+405
+17:35.220 --> 17:37.200
+It's just like when you purchase a car,
+
+406
+17:37.200 --> 17:39.360
+you learn how to manage the car, right?
+
+407
+17:39.360 --> 17:41.820
+Now you got all these devices,
+
+408
+17:41.820 --> 17:43.800
+like, I don't wanna put anyone like
+
+409
+17:43.800 --> 17:45.750
+I go and ask this question sometime.
+
+410
+17:45.750 --> 17:49.350
+Like, go and open your Venmo and see
+
+411
+17:49.350 --> 17:50.790
+who all is paying to whom.
+
+412
+17:50.790 --> 17:52.050
+Can you see that?
+
+413
+17:52.050 --> 17:53.100
+And if you can't see that,
+
+414
+17:53.100 --> 17:55.560
+that means you have that personal information,
+
+415
+17:55.560 --> 17:57.480
+which you don't need to know because it's all there.
+
+416
+17:57.480 --> 17:59.550
+So you gotta understand technology.
+
+417
+17:59.550 --> 18:02.010
+<v ->Okay, so wait, let's talk about this example.</v>
+
+418
+18:02.010 --> 18:04.500
+So when I go into my Venmo, what did you say?
+
+419
+18:04.500 --> 18:07.140
+I can see everybody that I paid, right?
+
+420
+18:07.140 --> 18:10.050
+<v ->And all your friends who you're paying, anyone.</v>
+
+421
+18:10.050 --> 18:11.550
+<v ->Oh, absolutely.</v>
+
+422
+18:11.550 --> 18:13.170
+<v ->It's like why I need to know.</v>
+
+423
+18:13.170 --> 18:14.820
+<v ->I put my thing on private.</v>
+
+424
+18:14.820 --> 18:16.620
+<v ->Yeah.</v>
+<v ->Because I remember seeing</v>
+
+425
+18:16.620 --> 18:18.480
+a friend from high school-
+<v ->Yeah.</v>
+
+426
+18:18.480 --> 18:21.870
+<v ->That said that she paid a tutor for her daughter.</v>
+
+427
+18:21.870 --> 18:24.750
+And I went, "Hmm, her daughter must need help with math."
+
+428
+18:24.750 --> 18:26.820
+Why do I need to know that eight states away?
+
+429
+18:26.820 --> 18:28.290
+That's weird, you know? But yeah,
+
+430
+18:28.290 --> 18:30.090
+<v ->If you go back to,</v>
+
+431
+18:30.090 --> 18:32.280
+I'm sure everyone has watched "Home Alone," right?
+
+432
+18:32.280 --> 18:33.213
+<v ->Yes. Love it.</v>
+
+433
+18:34.290 --> 18:38.100
+<v ->People had to go and go to the house</v>
+
+434
+18:38.100 --> 18:40.740
+to figure out is someone gonna leave the house,
+
+435
+18:40.740 --> 18:42.382
+so I can come and commit the crime.
+
+436
+18:42.382 --> 18:43.215
+<v ->Now you don't need to do that.</v>
+
+437
+18:43.215 --> 18:44.550
+<v ->Now, you don't need to do anything.</v>
+
+438
+18:44.550 --> 18:45.390
+You can check on the phone.
+
+439
+18:45.390 --> 18:47.460
+Okay, they just bought their tickets.
+
+440
+18:47.460 --> 18:49.410
+Okay, what I need to do next?
+<v ->That's right.</v>
+
+441
+18:49.410 --> 18:50.273
+<v ->So we need to become,</v>
+
+442
+18:50.273 --> 18:53.070
+I think that's where my fourth aspect is becoming
+
+443
+18:53.070 --> 18:54.720
+at a human level, we need to become
+
+444
+18:54.720 --> 18:56.940
+more aware of the technology.
+
+445
+18:56.940 --> 18:59.970
+We need to become aware of how our information can be used.
+
+446
+18:59.970 --> 19:02.040
+<v ->Our digital footprint.</v>
+<v ->And how to digital footprint</v>
+
+447
+19:02.040 --> 19:03.690
+and bring it down.
+
+448
+19:03.690 --> 19:06.330
+So that's what I see companies are becoming more,
+
+449
+19:06.330 --> 19:07.590
+they're investing a lot more
+
+450
+19:07.590 --> 19:09.780
+in security awareness and training.
+
+451
+19:09.780 --> 19:12.060
+They are pushing the boards to transition.
+
+452
+19:12.060 --> 19:16.080
+They are asking cyber leadership to becoming more strategic,
+
+453
+19:16.080 --> 19:18.570
+and then really investing in talent from AI.
+
+454
+19:18.570 --> 19:20.580
+So those are the four aspects I will touch on.
+
+455
+19:20.580 --> 19:22.320
+<v ->And I would like to add to that too,</v>
+
+456
+19:22.320 --> 19:24.450
+about the kind of people you're looking for
+
+457
+19:24.450 --> 19:25.320
+to solve these problems.
+
+458
+19:25.320 --> 19:26.940
+If we know we have the risk with the,
+
+459
+19:26.940 --> 19:28.740
+the human risk, the human element
+
+460
+19:28.740 --> 19:32.550
+and the scenario we just played out,
+
+461
+19:32.550 --> 19:35.460
+why is that public and not private by default?
+
+462
+19:35.460 --> 19:38.010
+And it goes back to the secure by design discussion
+
+463
+19:38.010 --> 19:39.450
+and the technology adoption.
+
+464
+19:39.450 --> 19:42.120
+Like, are we securing that before we adopt it?
+
+465
+19:42.120 --> 19:44.190
+Or do we adopt it and then scramble
+
+466
+19:44.190 --> 19:45.390
+to try to figure it out afterwards?
+
+467
+19:45.390 --> 19:48.450
+So the talent that you need to do that needs to be aligned
+
+468
+19:48.450 --> 19:50.550
+with the outcome of that secure by design thinking
+
+469
+19:50.550 --> 19:53.130
+and not defending.
+
+470
+19:53.130 --> 19:54.870
+<v ->And it's a great point actually,</v>
+
+471
+19:54.870 --> 19:56.310
+just to add one thing to it,
+
+472
+19:56.310 --> 19:58.980
+if you look at most of the people,
+
+473
+19:58.980 --> 20:02.130
+how many people are like in technology company
+
+474
+20:02.130 --> 20:06.873
+or technology, or how many are financial services and stuff?
+
+475
+20:07.740 --> 20:08.573
+Not much.
+
+476
+20:08.573 --> 20:11.310
+Or retail or manufacturing?
+
+477
+20:11.310 --> 20:12.143
+Yeah.
+
+478
+20:14.040 --> 20:16.350
+Probably you guys are already seeing a big shift
+
+479
+20:16.350 --> 20:19.020
+where a lot more technology decision,
+
+480
+20:19.020 --> 20:20.400
+back to Torrell's point,
+
+481
+20:20.400 --> 20:22.470
+is getting done at the business level
+
+482
+20:22.470 --> 20:25.260
+with CIOs are not even involved
+
+483
+20:25.260 --> 20:29.010
+and they're purchasing these SaaS products like this.
+
+484
+20:29.010 --> 20:30.330
+I mean, we are working with a company,
+
+485
+20:30.330 --> 20:32.430
+they have 1,200 of these.
+
+486
+20:32.430 --> 20:34.290
+And then we go into their Slack,
+
+487
+20:34.290 --> 20:37.740
+and the Slack is talking to another 500 applications.
+
+488
+20:37.740 --> 20:39.720
+It's like, do you know where your data is?
+
+489
+20:39.720 --> 20:41.040
+What you're gonna do?
+
+490
+20:41.040 --> 20:42.840
+And when you don't know anything,
+
+491
+20:42.840 --> 20:44.160
+so that's what is happening,
+
+492
+20:44.160 --> 20:46.200
+the technology is coming so fast.
+
+493
+20:46.200 --> 20:47.033
+<v Jennifer>Right.</v>
+
+494
+20:47.033 --> 20:51.120
+<v ->So we need products to become more secure,</v>
+
+495
+20:51.120 --> 20:52.350
+like security by design,
+
+496
+20:52.350 --> 20:55.920
+because the business is saying, "I need this tech.
+
+497
+20:55.920 --> 20:59.907
+I saw CES Conference, I'm gonna bring it in
+
+498
+20:59.907 --> 21:01.172
+and I'm gonna use it tomorrow morning.
+
+499
+21:01.172 --> 21:02.130
+(Jennifer laughs)
+
+500
+21:02.130 --> 21:04.410
+And the CIO was like, "No, no, no, I don't know."
+
+501
+21:04.410 --> 21:06.120
+I was like, "What do you mean by you don't know?
+
+502
+21:06.120 --> 21:07.920
+Just sit back." Right?
+
+503
+21:07.920 --> 21:10.770
+Because you wanna move forward and you want to move fast
+
+504
+21:10.770 --> 21:12.390
+and there's a competition, the growth.
+
+505
+21:12.390 --> 21:15.390
+So I think that's where the security by design
+
+506
+21:15.390 --> 21:18.240
+is gonna become more, I think the seesaw,
+
+507
+21:18.240 --> 21:21.180
+which is the big, it's not a regulatory body,
+
+508
+21:21.180 --> 21:23.250
+but Center for Information Security.
+
+509
+21:23.250 --> 21:28.140
+And they have been pushing for this SBOM,
+
+510
+21:28.140 --> 21:29.820
+Software Bill of Material,
+
+511
+21:29.820 --> 21:33.180
+which is you should be able to just like you buy...
+
+512
+21:33.180 --> 21:36.900
+Actually, my boys also look at the water where it came from,
+
+513
+21:36.900 --> 21:38.430
+but no.
+
+514
+21:38.430 --> 21:40.920
+But it's the bill of material on everything software.
+
+515
+21:40.920 --> 21:44.520
+So you know, how it was tested, how it was coded,
+
+516
+21:44.520 --> 21:46.860
+how it was set up, how it was done.
+
+517
+21:46.860 --> 21:50.100
+And if you have that SBOM, that changes the game too.
+
+518
+21:50.100 --> 21:52.950
+So I think we are gonna see those pressure pretty hard,
+
+519
+21:52.950 --> 21:55.410
+moving SBOM, security by design,
+
+520
+21:55.410 --> 21:58.172
+so these products are inherently secured.
+
+521
+21:58.172 --> 21:59.850
+<v Torrell>Mm-hmm.</v>
+
+522
+21:59.850 --> 22:00.840
+<v Jennifer>This is fascinating.</v>
+
+523
+22:00.840 --> 22:05.190
+So at C, how many employees do you need?
+
+524
+22:05.190 --> 22:09.570
+Or you know, how many do you need?
+
+525
+22:09.570 --> 22:11.290
+What type of skills do they need?
+
+526
+22:11.290 --> 22:12.123
+<v Torrell>This is also interesting.</v>
+
+527
+22:12.123 --> 22:12.956
+<v Jennifer>Do you have lots of open jobs?</v>
+
+528
+22:12.956 --> 22:14.080
+<v ->Cheryl is gonna take resume on the-</v>
+
+529
+22:14.080 --> 22:14.973
+<v ->Yeah, yeah.</v>
+
+530
+22:15.930 --> 22:20.790
+Like, how does it look from your perspective?
+
+531
+22:20.790 --> 22:22.050
+<v ->This is also a great question</v>
+
+532
+22:22.050 --> 22:24.450
+because I think it also can be a trap
+
+533
+22:24.450 --> 22:26.040
+for a lot of security programs
+
+534
+22:26.040 --> 22:28.650
+because they would make this decree
+
+535
+22:28.650 --> 22:33.573
+for infinite number of people, resources,
+
+536
+22:34.830 --> 22:37.680
+but are those resources deployed at the right problem
+
+537
+22:37.680 --> 22:38.880
+that align to the business?
+
+538
+22:38.880 --> 22:43.680
+So the first question is kind of what is our mission
+
+539
+22:43.680 --> 22:46.140
+and why are we doing what we're doing?
+
+540
+22:46.140 --> 22:48.450
+If we're here to manage and mitigate
+
+541
+22:48.450 --> 22:50.460
+and kind of de-risk the business strategy
+
+542
+22:50.460 --> 22:52.920
+and maintain our current operations, and how do we do that?
+
+543
+22:52.920 --> 22:56.250
+What are those critical processes like solutions to do that?
+
+544
+22:56.250 --> 22:57.270
+And then this back
+
+545
+22:57.270 --> 23:00.210
+into kinda who do we need to get that done
+
+546
+23:00.210 --> 23:02.160
+per that demand?
+
+547
+23:02.160 --> 23:07.160
+So, for us, I think we are doing a really good job at that.
+
+548
+23:08.640 --> 23:10.860
+And then you can leverage these emerging technologies
+
+549
+23:10.860 --> 23:13.560
+with kind of AI and automation to handle
+
+550
+23:13.560 --> 23:18.360
+kind of the, we call it L1, L1 procedural task.
+
+551
+23:18.360 --> 23:21.960
+And then raise expectations for the people you do have,
+
+552
+23:21.960 --> 23:24.810
+if it's more constrained resources
+
+553
+23:24.810 --> 23:27.060
+to focus on like a much higher-level outcomes
+
+554
+23:27.060 --> 23:29.940
+versus just tactical day-to-day things, right?
+
+555
+23:29.940 --> 23:34.080
+So, with the emerging technology kind of coming to fruition,
+
+556
+23:34.080 --> 23:39.030
+we are able to push some of the tactical day-to-day stuff
+
+557
+23:39.030 --> 23:42.450
+to the technology, but elevating the people
+
+558
+23:42.450 --> 23:43.890
+to oversee that technology
+
+559
+23:43.890 --> 23:44.907
+and then focus on the high-level outcomes.
+
+560
+23:44.907 --> 23:47.400
+<v Jennifer>And so are you doing,</v>
+
+561
+23:47.400 --> 23:50.113
+like, are you upskilling and training your people?
+
+562
+23:50.113 --> 23:51.330
+<v ->Yeah, yeah.</v>
+
+563
+23:51.330 --> 23:52.980
+<v ->Yeah.</v>
+<v ->Yeah.</v>
+
+564
+23:52.980 --> 23:53.850
+<v Jennifer>And how are you doing that?</v>
+
+565
+23:53.850 --> 23:56.800
+<v ->So Vishal made a credible point earlier</v>
+
+566
+23:57.660 --> 24:02.640
+about if you're skating to where the puck is going
+
+567
+24:02.640 --> 24:05.910
+and the puck is going to, say, cloud computing
+
+568
+24:05.910 --> 24:08.460
+or quantum computing or whatever, application,
+
+569
+24:08.460 --> 24:09.710
+whatever you're going to,
+
+570
+24:11.220 --> 24:15.000
+largely, you're not gonna find analysts
+
+571
+24:15.000 --> 24:19.803
+right outta undergrad to solve that larger problem.
+
+572
+24:21.240 --> 24:22.920
+What I do, what I prefer to do
+
+573
+24:22.920 --> 24:26.490
+is understand people who are already in cloud computing.
+
+574
+24:26.490 --> 24:27.720
+They may be cloud architects.
+
+575
+24:27.720 --> 24:30.450
+They may be software reliability engineers.
+
+576
+24:30.450 --> 24:31.283
+<v Jennifer>Interesting.</v>
+
+577
+24:31.283 --> 24:33.300
+So the ones who have built it.
+
+578
+24:33.300 --> 24:34.867
+<v ->Correct.</v>
+<v ->Okay.</v>
+
+579
+24:34.867 --> 24:36.810
+Designed or craft, okay.
+
+580
+24:36.810 --> 24:39.660
+<v ->If there's an upcoming demand for SBOM, Bill of Materials,</v>
+
+581
+24:39.660 --> 24:40.500
+how do we get that?
+
+582
+24:40.500 --> 24:43.020
+Well, that's just technology integration
+
+583
+24:43.020 --> 24:46.110
+into things that they've already been doing to collect that.
+
+584
+24:46.110 --> 24:47.850
+So it's more of taking them and re-skilling them
+
+585
+24:47.850 --> 24:52.320
+and placing their focus and capabilities
+
+586
+24:52.320 --> 24:54.600
+on security focus like topics.
+
+587
+24:54.600 --> 24:59.600
+But to do that, I think is you have to build that pathway
+
+588
+24:59.940 --> 25:02.220
+to make them kind of want to do that
+
+589
+25:02.220 --> 25:04.260
+and then have some sort of career development.
+
+590
+25:04.260 --> 25:05.640
+<v Jennifer>So, that's like an investment</v>
+
+591
+25:05.640 --> 25:07.050
+inside your company.
+<v ->Yes.</v>
+
+592
+25:07.050 --> 25:10.650
+<v ->Like, you know, so making those career pathways</v>
+
+593
+25:10.650 --> 25:14.130
+and, you know, continuous learning within your company.
+
+594
+25:14.130 --> 25:14.974
+<v ->Yeah, but it also-</v>
+
+595
+25:14.974 --> 25:16.080
+<v ->Which takes time and resources.</v>
+
+596
+25:16.080 --> 25:17.880
+<v ->But also strategically,</v>
+
+597
+25:17.880 --> 25:20.610
+if your security program is aligned to your company,
+
+598
+25:20.610 --> 25:22.470
+your company's business, these are the perfect people
+
+599
+25:22.470 --> 25:23.597
+to pull into your security program
+
+600
+25:23.597 --> 25:27.060
+'cause they intimately understand the company itself.
+
+601
+25:27.060 --> 25:29.280
+<v ->And you guys were talking about that</v>
+
+602
+25:29.280 --> 25:31.170
+before we came here,
+
+603
+25:31.170 --> 25:33.660
+you know, the importance of the employees
+
+604
+25:33.660 --> 25:35.033
+understanding the mission.
+<v ->Mission correct.</v>
+
+605
+25:35.033 --> 25:36.030
+<v Jennifer>And the vision.</v>
+
+606
+25:36.030 --> 25:38.460
+Well, let's talk about that a little bit more.
+
+607
+25:38.460 --> 25:42.270
+Why does that matter so much?
+
+608
+25:42.270 --> 25:44.460
+<v ->I think the big part-</v>
+<v ->Does it help them</v>
+
+609
+25:44.460 --> 25:48.093
+identify things more easily, like threats or-
+
+610
+25:49.230 --> 25:52.200
+<v ->It's definitely, I think it's a multifold</v>
+
+611
+25:52.200 --> 25:57.000
+because the security is sitting at this silo,
+
+612
+25:57.000 --> 25:58.410
+to some extent.
+
+613
+25:58.410 --> 26:02.040
+And I call it we gotta get security
+
+614
+26:02.040 --> 26:05.340
+to be on the grownup table a lot of time
+
+615
+26:05.340 --> 26:09.330
+because it's sitting on the side table, the kids' table.
+
+616
+26:09.330 --> 26:13.920
+And, if they understand the strategy and the mission,
+
+617
+26:13.920 --> 26:16.050
+then it starts changing the game.
+
+618
+26:16.050 --> 26:17.450
+I've got a very good friend,
+
+619
+26:18.420 --> 26:20.220
+she's been CISO for all her life
+
+620
+26:20.220 --> 26:22.710
+and she's very business-centric.
+
+621
+26:22.710 --> 26:24.720
+And I asked her, "Why did you became business-centric?"
+
+622
+26:24.720 --> 26:28.050
+She's like, "I like expensive stuff
+
+623
+26:28.050 --> 26:30.378
+and I that's why I wanted to get paid more."
+
+624
+26:30.378 --> 26:31.211
+<v Jennifer>Okay.</v>
+
+625
+26:31.211 --> 26:33.270
+<v ->"So I started speaking the executive language</v>
+
+626
+26:33.270 --> 26:35.460
+and that got me to the strategy table."
+
+627
+26:35.460 --> 26:37.860
+But then her team started becoming,
+
+628
+26:37.860 --> 26:39.330
+the side effect was
+
+629
+26:39.330 --> 26:41.910
+the team feels like we are protecting a mission.
+
+630
+26:41.910 --> 26:42.743
+<v Jennifer>Yes.</v>
+
+631
+26:42.743 --> 26:45.570
+<v ->So if you are, like we were turn</v>
+
+632
+26:45.570 --> 26:46.890
+and I were talking a few minutes ago,
+
+633
+26:46.890 --> 26:50.610
+we were doing some work with the hospital and I'm like,
+
+634
+26:50.610 --> 26:52.770
+okay, so what exactly are you doing?
+
+635
+26:52.770 --> 26:54.510
+And what is exactly the...
+
+636
+26:54.510 --> 26:56.400
+Oh, we are doing this security, this, this, this.
+
+637
+26:56.400 --> 26:58.770
+I said, "But your CEO wants patient safety."
+
+638
+26:58.770 --> 27:00.007
+<v Jennifer>That's right.</v>
+
+639
+27:00.007 --> 27:01.627
+<v ->"So what you're doing for patient safety?"</v>
+
+640
+27:01.627 --> 27:03.660
+"Oh, we got multifactor authentication."
+
+641
+27:03.660 --> 27:05.700
+We don't do, no, no, no.
+
+642
+27:05.700 --> 27:07.470
+Let's go back again.
+
+643
+27:07.470 --> 27:09.000
+Start from patient safety.
+
+644
+27:09.000 --> 27:10.320
+So, the challenge was
+
+645
+27:10.320 --> 27:12.000
+because if you're not mission-oriented,
+
+646
+27:12.000 --> 27:14.760
+then you're not gonna get the support of the leadership,
+
+647
+27:14.760 --> 27:15.727
+then they're gonna say,
+
+648
+27:15.727 --> 27:18.107
+"I gotta just keep moving and I'll deal with it." Right?
+
+649
+27:18.107 --> 27:19.860
+<v Jennifer>Right, so what it's like moving</v>
+
+650
+27:19.860 --> 27:22.620
+from just doing a transactional job
+
+651
+27:22.620 --> 27:24.120
+to serving a higher purpose.
+
+652
+27:24.120 --> 27:24.953
+<v ->The higher purpose.</v>
+<v ->Yes.</v>
+
+653
+27:24.953 --> 27:27.273
+<v ->And I think to build those skills,</v>
+
+654
+27:28.440 --> 27:30.840
+back to Torrell, your point, I think
+
+655
+27:30.840 --> 27:33.570
+it's thinking from that mission.
+
+656
+27:33.570 --> 27:36.810
+And I think if we do mission-based model
+
+657
+27:36.810 --> 27:39.030
+and we have seen it, there are models,
+
+658
+27:39.030 --> 27:42.060
+what I call it skill to risk.
+
+659
+27:42.060 --> 27:43.980
+So what I call it skill to risk
+
+660
+27:43.980 --> 27:46.110
+or skill to value kind of model.
+
+661
+27:46.110 --> 27:47.910
+It's a model which has been used,
+
+662
+27:47.910 --> 27:50.130
+which some of the companies have started doing
+
+663
+27:50.130 --> 27:53.763
+because no one is gonna be able to hire talent,
+
+664
+27:55.500 --> 27:56.333
+what you need.
+
+665
+27:56.333 --> 28:00.300
+But on the other side, after COVID and working remote,
+
+666
+28:00.300 --> 28:01.860
+we have ability to hire people,
+
+667
+28:01.860 --> 28:03.053
+the best people wherever we want.
+
+668
+28:03.053 --> 28:05.460
+I mean, you can be company in Charlotte
+
+669
+28:05.460 --> 28:07.650
+and you can have someone working from California
+
+670
+28:07.650 --> 28:09.690
+and they don't have to be there, right?
+
+671
+28:09.690 --> 28:12.600
+So skill to risk model, that's what I call it.
+
+672
+28:12.600 --> 28:15.873
+So if you understand where your biggest risks are,
+
+673
+28:16.800 --> 28:19.500
+whether it is, hey, I'm a health tech company,
+
+674
+28:19.500 --> 28:24.500
+and we tell everyone, "Give us your data and trust us."
+
+675
+28:26.640 --> 28:29.370
+Because people are giving you their data
+
+676
+28:29.370 --> 28:31.830
+to know all thing about your health
+
+677
+28:31.830 --> 28:33.870
+and what they care most about.
+
+678
+28:33.870 --> 28:35.740
+If that data goes out in public and knows everyone-
+
+679
+28:35.740 --> 28:38.430
+<v Jennifer>Right, so like for example, like an EMR,</v>
+
+680
+28:38.430 --> 28:40.110
+like an electronic medical record.
+
+681
+28:40.110 --> 28:41.940
+<v ->Think about like your health tech devices</v>
+
+682
+28:41.940 --> 28:42.967
+we were talking about, right?
+<v ->Yes, we were.</v>
+
+683
+28:42.967 --> 28:44.850
+<v ->They know your blood pressure,</v>
+
+684
+28:44.850 --> 28:48.120
+what happens to your blood pressure, what makes you this.
+
+685
+28:48.120 --> 28:49.470
+You can do anything you want.
+
+686
+28:49.470 --> 28:51.480
+So people are giving that information
+
+687
+28:51.480 --> 28:54.750
+because they expect secrecy and trust.
+
+688
+28:54.750 --> 28:57.510
+That trust is based on keeping its secrecy.
+
+689
+28:57.510 --> 29:00.480
+So when you drive the skill to risk model is
+
+690
+29:00.480 --> 29:01.650
+you understand your mission,
+
+691
+29:01.650 --> 29:03.060
+you understand what your risks are,
+
+692
+29:03.060 --> 29:06.030
+and you hire to the skills, hire skills
+
+693
+29:06.030 --> 29:08.370
+which require to manage that risk.
+
+694
+29:08.370 --> 29:11.100
+And then the lower risk things,
+
+695
+29:11.100 --> 29:15.120
+you can start looking at talent globally like offshoring,
+
+696
+29:15.120 --> 29:16.770
+outsourcing, whatever you want to do,
+
+697
+29:16.770 --> 29:18.930
+and then you can outsource certain things.
+
+698
+29:18.930 --> 29:20.700
+And what we have seen is the companies
+
+699
+29:20.700 --> 29:23.133
+who start moving skill to risk model,
+
+700
+29:24.240 --> 29:26.310
+they train talent better
+
+701
+29:26.310 --> 29:28.410
+because they are training for a mission,
+
+702
+29:28.410 --> 29:31.590
+and those people can go into other career fields also,
+
+703
+29:31.590 --> 29:34.410
+like becoming a CTO and other career path.
+
+704
+29:34.410 --> 29:36.390
+They are not just-
+<v ->Stuck in, yeah.</v>
+
+705
+29:36.390 --> 29:38.430
+<v ->Just look at protector, protector.</v>
+
+706
+29:38.430 --> 29:40.500
+I get it. But why?
+
+707
+29:40.500 --> 29:42.840
+And the second thing we start seeing is actually
+
+708
+29:42.840 --> 29:44.700
+the talent demand.
+
+709
+29:44.700 --> 29:48.390
+The talent needed is going down generally
+
+710
+29:48.390 --> 29:50.970
+goes down by 20 to 30%.
+
+711
+29:50.970 --> 29:54.720
+So we have seen companies go reduce their talent need by 30%
+
+712
+29:54.720 --> 29:57.550
+because they are hiring for skill to risk.
+
+713
+29:57.550 --> 29:59.820
+<v ->Okay.</v>
+<v ->And the medium risk one,</v>
+
+714
+29:59.820 --> 30:01.200
+okay, what I need to do.
+
+715
+30:01.200 --> 30:03.150
+Okay, I can outsource or something.
+
+716
+30:03.150 --> 30:05.790
+And this one, that's okay.
+
+717
+30:05.790 --> 30:07.110
+I understand it's there.
+
+718
+30:07.110 --> 30:09.900
+I don't need to go manage everything
+
+719
+30:09.900 --> 30:11.913
+because that risk is so low, who cares?
+
+720
+30:11.913 --> 30:13.320
+<v Jennifer>Okay.</v>
+
+721
+30:13.320 --> 30:16.920
+<v ->Versus trying to be like we were working with one client,</v>
+
+722
+30:16.920 --> 30:19.677
+it's like back to this RiskGPS we were doing.
+
+723
+30:19.677 --> 30:22.170
+And like, but can you find out if anyone,
+
+724
+30:22.170 --> 30:23.910
+one of my servers is patched?
+
+725
+30:23.910 --> 30:26.760
+I'm like, what is on that server is more important
+
+726
+30:26.760 --> 30:29.040
+before you worry about whether that server,
+
+727
+30:29.040 --> 30:30.540
+that machine is patched or not.
+
+728
+30:30.540 --> 30:32.610
+<v Jennifer>Okay. Was there vital information on it?</v>
+
+729
+30:32.610 --> 30:34.050
+<v ->Yeah, if you don't.</v>
+
+730
+30:34.050 --> 30:36.240
+So firstly, understanding the skill to risk
+
+731
+30:36.240 --> 30:38.280
+is firstly understand where my risk is,
+
+732
+30:38.280 --> 30:40.170
+what the ecosystem I need to protect,
+
+733
+30:40.170 --> 30:41.970
+what mission I need to protect,
+
+734
+30:41.970 --> 30:45.150
+and then creating job description based on that,
+
+735
+30:45.150 --> 30:47.070
+and then hiring the talent,
+
+736
+30:47.070 --> 30:49.290
+that starts the strategy from top down.
+
+737
+30:49.290 --> 30:51.660
+<v ->I love that kind of motto.</v>
+
+738
+30:51.660 --> 30:53.310
+And as you were talking, I was kind of categorizing,
+
+739
+30:53.310 --> 30:54.233
+it's like three different sectors, right?
+
+740
+30:54.233 --> 30:55.066
+<v ->Yeah.</v>
+
+741
+30:55.066 --> 30:59.820
+<v ->The skill to risk and to summarize the first group</v>
+
+742
+30:59.820 --> 31:01.800
+of like highly skilled people.
+
+743
+31:01.800 --> 31:03.540
+The thing that highly skilled people love the most
+
+744
+31:03.540 --> 31:05.667
+is purpose, right?
+<v ->Yeah.</v>
+
+745
+31:05.667 --> 31:07.920
+<v ->And if your strategy is aligned to the business,</v>
+
+746
+31:07.920 --> 31:09.570
+it gives them a vision and a purpose
+
+747
+31:09.570 --> 31:11.187
+for why they're doing what they're doing.
+
+748
+31:11.187 --> 31:13.830
+And that medium tier is your partner collaboration.
+
+749
+31:13.830 --> 31:14.700
+Like who are your partners
+
+750
+31:14.700 --> 31:17.026
+that help you solve those medium risk?
+
+751
+31:17.026 --> 31:19.860
+And then below that, your AI and automation, right?
+
+752
+31:19.860 --> 31:21.630
+So I love that.
+
+753
+31:21.630 --> 31:23.583
+<v ->I like that phrase too.</v>
+<v ->Yeah.</v>
+
+754
+31:23.583 --> 31:24.750
+<v Jennifer>Like I'm always amazed</v>
+
+755
+31:24.750 --> 31:26.033
+how the time goes by so quickly.
+
+756
+31:26.033 --> 31:27.660
+<v ->Wow.</v>
+<v ->So we have nine minutes.</v>
+
+757
+31:27.660 --> 31:29.537
+And I do wanna take a few questions, if there are.
+
+758
+31:29.537 --> 31:30.810
+<v ->Sure.</v>
+
+759
+31:30.810 --> 31:34.770
+<v ->Let's talk about the entry level and like talent</v>
+
+760
+31:34.770 --> 31:36.150
+that's coming in.
+
+761
+31:36.150 --> 31:39.450
+In Northern Virginia, just by way of background,
+
+762
+31:39.450 --> 31:41.640
+George Mason University is the largest university
+
+763
+31:41.640 --> 31:43.920
+in our state, and they were the first in our state
+
+764
+31:43.920 --> 31:46.740
+to have a cybersecurity degree.
+
+765
+31:46.740 --> 31:48.210
+Am I right on that?
+<v ->Absolutely.</v>
+
+766
+31:48.210 --> 31:49.043
+<v ->Yeah.</v>
+
+767
+31:49.043 --> 31:50.850
+And so in our region,
+
+768
+31:50.850 --> 31:51.960
+because of the collaboration
+
+769
+31:51.960 --> 31:54.810
+with a lot of our government agencies,
+
+770
+31:54.810 --> 31:58.980
+there's been a need to have this curriculum.
+
+771
+31:58.980 --> 32:00.810
+And I think the school graduates
+
+772
+32:00.810 --> 32:02.360
+a few thousand students a year.
+
+773
+32:05.010 --> 32:09.120
+How can we get more students to,
+
+774
+32:09.120 --> 32:14.120
+you know, pursue a degree in cyber
+
+775
+32:14.130 --> 32:19.130
+or, you know, pursue an apprenticeship in cyber?
+
+776
+32:19.620 --> 32:22.290
+Do you think that we should have increased awareness
+
+777
+32:22.290 --> 32:25.020
+about this career path?
+<v ->Absolutely.</v>
+
+778
+32:25.020 --> 32:27.753
+<v ->We have a need for more people to study it, right?</v>
+
+779
+32:27.753 --> 32:30.180
+<v ->Yeah, I think it's absolutely needed.</v>
+
+780
+32:30.180 --> 32:33.030
+And I agree with what you're saying.
+
+781
+32:33.030 --> 32:36.750
+I would say not because we are associated with you
+
+782
+32:36.750 --> 32:38.220
+in Northern Virginia Techno,
+
+783
+32:38.220 --> 32:40.020
+but I think what we are in Northern Virginia,
+
+784
+32:40.020 --> 32:41.700
+we need to do more in other states.
+
+785
+32:41.700 --> 32:42.533
+<v ->Yes.</v>
+
+786
+32:42.533 --> 32:44.040
+<v ->Because you have created a collaboration</v>
+
+787
+32:44.040 --> 32:47.640
+between industry and the academia.
+
+788
+32:47.640 --> 32:48.473
+<v ->Yes.</v>
+<v ->Right?</v>
+
+789
+32:48.473 --> 32:51.000
+So that's the number one important aspect.
+
+790
+32:51.000 --> 32:53.040
+The third big collaboration is you gotta bring
+
+791
+32:53.040 --> 32:54.420
+the government into it
+
+792
+32:54.420 --> 32:58.470
+because there have a lot of demand,
+
+793
+32:58.470 --> 33:01.440
+but there are also a lot of things which are happening,
+
+794
+33:01.440 --> 33:03.780
+which they can motivate in terms of how government
+
+795
+33:03.780 --> 33:06.810
+is trying to dive into the school education system.
+
+796
+33:06.810 --> 33:08.251
+So we are still doing George Mason,
+
+797
+33:08.251 --> 33:10.380
+and I wanna go back to schools actually.
+
+798
+33:10.380 --> 33:14.370
+So, when I was building, this is for Deloitte,
+
+799
+33:14.370 --> 33:16.560
+I was building their offshore,
+
+800
+33:16.560 --> 33:20.250
+their delivery capability centers around the world.
+
+801
+33:20.250 --> 33:22.687
+We used to hire people and someone will come,
+
+802
+33:22.687 --> 33:26.190
+"Oh, I just do IBM, XYZ product."
+
+803
+33:26.190 --> 33:28.170
+And you, so, "No, no.
+
+804
+33:28.170 --> 33:30.480
+Tomorrow we are gonna work with this product
+
+805
+33:30.480 --> 33:33.720
+and I will put them in the team and four weeks later,
+
+806
+33:33.720 --> 33:35.630
+they are back to IBM XYZ.
+
+807
+33:35.630 --> 33:36.937
+So I started saying like,
+
+808
+33:36.937 --> 33:39.960
+"Okay, I got a lot of people who are like a,
+
+809
+33:39.960 --> 33:42.120
+they adjust their hammer for a nail.
+
+810
+33:42.120 --> 33:43.830
+And if it's a three-inch nail,
+
+811
+33:43.830 --> 33:45.810
+then they don't know what to do with it.
+
+812
+33:45.810 --> 33:47.490
+<v ->Okay.</v>
+<v ->How we shifted</v>
+
+813
+33:47.490 --> 33:49.770
+and what we did was exactly what you talked about.
+
+814
+33:49.770 --> 33:54.120
+We shifted everything to bring people from campus,
+
+815
+33:54.120 --> 33:57.660
+and then have a very structured hands-on training program
+
+816
+33:57.660 --> 33:59.283
+for six weeks, like a bootcamp.
+
+817
+34:00.480 --> 34:02.100
+You put them through the process
+
+818
+34:02.100 --> 34:05.370
+and work through their model, put them into the training,
+
+819
+34:05.370 --> 34:07.320
+and when they come out,
+
+820
+34:07.320 --> 34:09.660
+they understand a lot more about cyber.
+
+821
+34:09.660 --> 34:11.040
+And then what I call it,
+
+822
+34:11.040 --> 34:15.270
+it's more like a hourglass kind of a career model.
+
+823
+34:15.270 --> 34:18.870
+Don't start with getting into the swim lane quickly,
+
+824
+34:18.870 --> 34:22.740
+but start broad and then slowly you learn everything
+
+825
+34:22.740 --> 34:24.780
+and then you become more mission-oriented,
+
+826
+34:24.780 --> 34:27.750
+you understand the risk, you understand criminal behavior,
+
+827
+34:27.750 --> 34:30.367
+criminal thinking versus saying,
+
+828
+34:30.367 --> 34:32.520
+"I understand how to find hacker."
+
+829
+34:32.520 --> 34:34.777
+Okay, what are you gonna do after that?
+
+830
+34:34.777 --> 34:37.418
+"I don't know. That team.
+
+831
+34:37.418 --> 34:38.607
+<v ->Okay.</v>
+
+832
+34:38.607 --> 34:39.780
+<v ->No, you gotta understand.</v>
+
+833
+34:39.780 --> 34:42.480
+So I think we are seeing that model
+
+834
+34:42.480 --> 34:43.830
+played out in Northern Virginia.
+
+835
+34:43.830 --> 34:46.410
+And actually there are about two countries
+
+836
+34:46.410 --> 34:48.780
+and I'm connected with one.
+
+837
+34:48.780 --> 34:53.010
+Israel, I do work with a lot of their cyber product too.
+
+838
+34:53.010 --> 34:54.630
+Israel and Estonia.
+
+839
+34:54.630 --> 34:56.040
+Those are two countries actually
+
+840
+34:56.040 --> 35:00.900
+who are famous for building cyber talent from ground up.
+
+841
+35:00.900 --> 35:01.770
+<v ->Really?</v>
+<v ->Yeah.</v>
+
+842
+35:01.770 --> 35:04.260
+They have built that model very unique.
+
+843
+35:04.260 --> 35:06.180
+And it's basically exactly on those.
+
+844
+35:06.180 --> 35:08.330
+They have a...
+
+845
+35:09.450 --> 35:11.460
+Educate all the way from school time,
+
+846
+35:11.460 --> 35:13.050
+all the way to the college,
+
+847
+35:13.050 --> 35:15.630
+cyber is part of the curriculum, basic education
+
+848
+35:15.630 --> 35:17.040
+and then you go deep.
+
+849
+35:17.040 --> 35:19.110
+Very strong cross collaboration
+
+850
+35:19.110 --> 35:21.030
+between the government, academia
+
+851
+35:21.030 --> 35:24.600
+and industry councils like NVTC,
+
+852
+35:24.600 --> 35:28.620
+and then lot more investment on hands-on training.
+
+853
+35:28.620 --> 35:31.680
+You look at most of the cyber product companies
+
+854
+35:31.680 --> 35:34.500
+from Israel, a lot of those people actually work
+
+855
+35:34.500 --> 35:35.862
+in Israel Army.
+
+856
+35:35.862 --> 35:36.703
+<v ->Okay, okay.</v>
+
+857
+35:36.703 --> 35:39.420
+<v ->Most of these CISOs work from there.</v>
+
+858
+35:39.420 --> 35:40.410
+And even on our side,
+
+859
+35:40.410 --> 35:42.577
+if you look at some of the phenomenal companies,
+
+860
+35:42.577 --> 35:44.100
+I think you and I were talking about,
+
+861
+35:44.100 --> 35:47.670
+like CrowdStrike and MiniAn,
+
+862
+35:47.670 --> 35:49.260
+these companies were started by people
+
+863
+35:49.260 --> 35:51.990
+who came from that mission thinking of how to deal with it,
+
+864
+35:51.990 --> 35:54.780
+so that's why they, they moved so fast
+
+865
+35:54.780 --> 35:55.770
+because they're trying to deal.
+
+866
+35:55.770 --> 35:58.200
+So I think that's the collaborate hands-on training.
+
+867
+35:58.200 --> 35:59.490
+So I think those three aspect
+
+868
+35:59.490 --> 36:03.160
+of cross collaboration, education
+
+869
+36:04.439 --> 36:07.230
+and then last one I would say is constantly upskilling
+
+870
+36:07.230 --> 36:11.190
+because if we depend too much on AI, that is the challenge,
+
+871
+36:11.190 --> 36:12.030
+we are gonna get it.
+
+872
+36:12.030 --> 36:13.650
+Oh, AI will figure it out.
+
+873
+36:13.650 --> 36:14.760
+I can do this.
+
+874
+36:14.760 --> 36:17.940
+Pretty soon, we're gonna be like, okay.
+
+875
+36:17.940 --> 36:22.940
+But the AI is what I call, it's a very deterministic model.
+
+876
+36:22.980 --> 36:25.260
+You do A plus B equal to C.
+
+877
+36:25.260 --> 36:27.720
+The criminal operate on a probabilistic model.
+
+878
+36:27.720 --> 36:29.430
+Okay, what is the probability this person
+
+879
+36:29.430 --> 36:31.320
+is not gonna watch this so I go attack them?
+
+880
+36:31.320 --> 36:32.153
+<v Jennifer>Right.</v>
+
+881
+36:32.153 --> 36:33.720
+<v ->So we need that critical thinking</v>
+
+882
+36:33.720 --> 36:35.850
+and stuff into the model.
+<v ->Yeah, yeah.</v>
+
+883
+36:35.850 --> 36:36.683
+Good, good.
+
+884
+36:37.650 --> 36:40.470
+All right, are there any questions from the audience?
+
+885
+36:40.470 --> 36:42.070
+Feel free to come up to the mic.
+
+886
+36:43.980 --> 36:45.570
+<v Participant>So a more basic question,</v>
+
+887
+36:45.570 --> 36:48.120
+just is there enough technology people
+
+888
+36:48.120 --> 36:49.920
+to fill all the roles?
+
+889
+36:49.920 --> 36:53.280
+Or is it a question of people
+
+890
+36:53.280 --> 36:55.740
+just don't wanna do cybersecurity work?
+
+891
+36:55.740 --> 36:57.720
+So I'm an IP and IT council.
+
+892
+36:57.720 --> 37:02.340
+So from the IP side, I've noticed I've lost a lot of people.
+
+893
+37:02.340 --> 37:03.540
+Well, I don't say I personally,
+
+894
+37:03.540 --> 37:05.790
+but the industry has lost a lot of people
+
+895
+37:05.790 --> 37:09.120
+where traditionally if you didn't wanna work in research
+
+896
+37:09.120 --> 37:13.140
+or industry, patents were like a side branch.
+
+897
+37:13.140 --> 37:14.520
+But now we're losing a lot of people
+
+898
+37:14.520 --> 37:17.340
+to private equity and venture capitalists
+
+899
+37:17.340 --> 37:18.990
+because they're using those skills.
+
+900
+37:18.990 --> 37:21.000
+It's very valuable for those guys.
+
+901
+37:21.000 --> 37:23.940
+And so, we're seeing a shift from,
+
+902
+37:23.940 --> 37:25.830
+instead of just being a patent attorney,
+
+903
+37:25.830 --> 37:27.990
+it's like, okay, I could be working venture capital
+
+904
+37:27.990 --> 37:29.100
+or I could be a patent attorney,
+
+905
+37:29.100 --> 37:31.671
+and so you've cut down the pool of people by 50%.
+
+906
+37:31.671 --> 37:32.504
+<v ->Wow.</v>
+
+907
+37:32.504 --> 37:34.530
+<v Participant>So I'm just throwing numbers out there,</v>
+
+908
+37:34.530 --> 37:37.770
+but are you seeing something similar in your profession
+
+909
+37:37.770 --> 37:40.290
+that either people are being shunted off
+
+910
+37:40.290 --> 37:41.130
+to different professions
+
+911
+37:41.130 --> 37:43.770
+or they don't wanna do cybersecurity work?
+
+912
+37:43.770 --> 37:45.840
+<v ->I have an opinion, but I'll let Torrell start with that.</v>
+
+913
+37:45.840 --> 37:49.890
+<v ->Honestly, because I think that's like a, I don't know,</v>
+
+914
+37:49.890 --> 37:51.723
+a complex question.
+
+915
+37:52.740 --> 37:55.800
+So I think the people that are very successful
+
+916
+37:55.800 --> 37:56.790
+in cybersecurity
+
+917
+37:56.790 --> 37:59.610
+are normally those high agency IT professionals.
+
+918
+37:59.610 --> 38:03.690
+But what comes with that is like a seven-post accountability
+
+919
+38:03.690 --> 38:06.600
+that makes them susceptible to burnout, right?
+
+920
+38:06.600 --> 38:09.120
+So you have really good people that come into cybersecurity
+
+921
+38:09.120 --> 38:10.623
+that kind of burn out.
+
+922
+38:11.790 --> 38:15.543
+But to directly answer your question,
+
+923
+38:19.982 --> 38:22.370
+I think that if we changed the problem
+
+924
+38:24.120 --> 38:26.310
+from a cybersecurity technology problem
+
+925
+38:26.310 --> 38:28.560
+to like an innovation problem,
+
+926
+38:28.560 --> 38:31.530
+I think we have better candidates of selling the innovation
+
+927
+38:31.530 --> 38:33.270
+and opportunity to innovate and solve
+
+928
+38:33.270 --> 38:35.460
+and within a very dynamic space.
+
+929
+38:35.460 --> 38:37.350
+I think it solves that problem.
+
+930
+38:37.350 --> 38:39.630
+I think if we try to scope it to cybersecurity,
+
+931
+38:39.630 --> 38:41.820
+you run into that problem, but-
+
+932
+38:41.820 --> 38:44.040
+<v ->So position the career-</v>
+<v ->As innovative.</v>
+
+933
+38:44.040 --> 38:46.680
+<v ->As one that's innovative and solving problems</v>
+
+934
+38:46.680 --> 38:50.040
+and evolving, and it has a creative aspect to it.
+
+935
+38:50.040 --> 38:51.150
+<v ->Correct, yeah, correct.</v>
+
+936
+38:51.150 --> 38:53.430
+<v ->Yeah, but I mean, from what I'm reading, what I see,</v>
+
+937
+38:53.430 --> 38:55.590
+we don't have enough workers.
+
+938
+38:55.590 --> 38:59.283
+So there's so many strategies to attack that.
+
+939
+39:00.270 --> 39:04.530
+And in our region, there's many approaches,
+
+940
+39:04.530 --> 39:08.760
+but is getting industry and government
+
+941
+39:08.760 --> 39:11.070
+involved with the academic aspect?
+
+942
+39:11.070 --> 39:14.370
+But then also, we have to start in high school.
+
+943
+39:14.370 --> 39:17.310
+And like what we do as a tech council,
+
+944
+39:17.310 --> 39:20.520
+we work with our regional school districts
+
+945
+39:20.520 --> 39:23.490
+and we have career exploration days.
+
+946
+39:23.490 --> 39:25.950
+We bring the students to the offices,
+
+947
+39:25.950 --> 39:30.950
+we bring some of the staff to the classrooms,
+
+948
+39:31.320 --> 39:34.684
+so that they understand that these careers are available.
+
+949
+39:34.684 --> 39:35.670
+<v ->Yeah.</v>
+
+950
+39:35.670 --> 39:39.540
+<v ->So, it's a challenge,</v>
+
+951
+39:39.540 --> 39:43.020
+but we have to encourage more kids to pursue,
+
+952
+39:43.020 --> 39:44.460
+you know, jobs in tech.
+
+953
+39:44.460 --> 39:46.410
+So anyway, go ahead.
+
+954
+39:46.410 --> 39:47.700
+<v Participant>I have a question.</v>
+
+955
+39:47.700 --> 39:50.040
+At Internet 2.0, Michael Kove had mentioned
+
+956
+39:50.040 --> 39:54.300
+in a conversation with Microsoft that due generative AI,
+
+957
+39:54.300 --> 39:57.480
+85% of the software engineers were no longer required.
+
+958
+39:57.480 --> 40:00.000
+So my suggestion or question is,
+
+959
+40:00.000 --> 40:02.820
+are you looking to leverage all of those engineers
+
+960
+40:02.820 --> 40:05.130
+losing their jobs to copilot,
+
+961
+40:05.130 --> 40:07.740
+to turn them into security professionals.
+
+962
+40:07.740 --> 40:09.900
+Because that would be phenomenal.
+
+963
+40:09.900 --> 40:11.220
+<v ->I don't know if they will lose the job.</v>
+
+964
+40:11.220 --> 40:15.483
+I still don't believe it because I think we are,
+
+965
+40:16.588 --> 40:18.870
+with a bunch of people, I'm sure in this room,
+
+966
+40:18.870 --> 40:21.063
+where we have seen the dot-com days, right?
+
+967
+40:22.050 --> 40:26.130
+It took 7, 8, 10 years before we realized the power of it
+
+968
+40:26.130 --> 40:27.780
+and then we needed all those skills.
+
+969
+40:27.780 --> 40:31.290
+I think we are with AI like version 0.1 or 0.5,
+
+970
+40:31.290 --> 40:32.640
+whatever you wanna call it.
+
+971
+40:32.640 --> 40:33.990
+We don't even know where it is gonna go.
+
+972
+40:33.990 --> 40:36.270
+So it's gonna take more people
+
+973
+40:36.270 --> 40:38.670
+with a lot of critical thinking skills.
+
+974
+40:38.670 --> 40:41.640
+And I think that's where, back to when Torrell was saying
+
+975
+40:41.640 --> 40:45.750
+that the security by design.
+
+976
+40:45.750 --> 40:48.240
+So we're gonna see, I completely agree with you.
+
+977
+40:48.240 --> 40:51.870
+In my view, even one of the reason
+
+978
+40:51.870 --> 40:55.650
+when I moved out of my big four and building my company,
+
+979
+40:55.650 --> 41:00.480
+I bring, I've got software developers, engineer, consultant,
+
+980
+41:00.480 --> 41:01.950
+and someone who has been in industry,
+
+981
+41:01.950 --> 41:04.560
+all four just attacking one single problem.
+
+982
+41:04.560 --> 41:07.500
+And you will always find much better solution
+
+983
+41:07.500 --> 41:09.740
+when you have the diversity of skillset.
+
+984
+41:09.740 --> 41:10.890
+So I completely agree with you.
+
+985
+41:10.890 --> 41:13.770
+The more diverse skillset we bring,
+
+986
+41:13.770 --> 41:15.120
+we are gonna be much better
+
+987
+41:15.120 --> 41:18.000
+because the hackers do the same thing, right?
+
+988
+41:18.000 --> 41:22.290
+I call it, I do a talk "Thinking Like a Criminal,"
+
+989
+41:22.290 --> 41:24.660
+but I use actually how many,
+
+990
+41:24.660 --> 41:26.850
+I'm sure "Ocean's Eleven" movie.
+
+991
+41:26.850 --> 41:28.860
+I use that as a framework.
+
+992
+41:28.860 --> 41:30.960
+And we have analyzed that framework.
+
+993
+41:30.960 --> 41:34.162
+It did not require one person, it required 11,
+
+994
+41:34.162 --> 41:39.162
+and those 11 had 11 unique skills to make that crime happen.
+
+995
+41:39.960 --> 41:43.860
+And so same way, we need to be thinking on the other side is
+
+996
+41:43.860 --> 41:45.780
+where I need to bring developer engineer.
+
+997
+41:45.780 --> 41:47.940
+And back to your point and what you were saying,
+
+998
+41:47.940 --> 41:51.360
+that will also create very interesting career models
+
+999
+41:51.360 --> 41:53.190
+because then you don't have to remain
+
+1000
+41:53.190 --> 41:54.900
+just in a cyber field over time.
+
+1001
+41:54.900 --> 41:56.760
+You may go become a CTO.
+
+1002
+41:56.760 --> 41:58.380
+You may go become a product lead
+
+1003
+41:58.380 --> 42:01.680
+because you understand how things are built from bottom up.
+
+1004
+42:01.680 --> 42:02.513
+So I agree with you.
+
+1005
+42:02.513 --> 42:04.260
+I think more engineers we can bring in,
+
+1006
+42:04.260 --> 42:06.780
+but statistically the numbers are anywhere from like,
+
+1007
+42:06.780 --> 42:09.720
+I think what Jen mentioned earlier, like half a million
+
+1008
+42:09.720 --> 42:12.780
+to a couple of million people shortage.
+
+1009
+42:12.780 --> 42:13.650
+<v ->Yeah.</v>
+<v ->Great point.</v>
+
+1010
+42:13.650 --> 42:14.730
+<v Torrell>Yeah, if this does happen,</v>
+
+1011
+42:14.730 --> 42:17.310
+I would definitely welcome it.
+(all laugh)
+
+1012
+42:17.310 --> 42:18.387
+<v Jennifer>Yeah.</v>
+
+1013
+42:18.387 --> 42:19.620
+<v Crew>No, actually.</v>
+
+1014
+42:19.620 --> 42:20.907
+<v Jennifer>Can we take one more question?</v>
+
+1015
+42:20.907 --> 42:21.740
+<v ->No.</v>
+<v ->No?</v>
+
+1016
+42:21.740 --> 42:24.900
+Okay. Well, thank you all for being here with us
+
+1017
+42:24.900 --> 42:27.870
+and I hope you enjoyed the last two days of CES,
+
+1018
+42:27.870 --> 42:28.703
+day and a half.
+
+1019
+42:28.703 --> 42:31.246
+(upbeat music)
+

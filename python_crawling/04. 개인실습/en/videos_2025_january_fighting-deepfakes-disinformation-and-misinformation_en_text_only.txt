@@ -1,0 +1,942 @@
+<v ->Good afternoon, everybody.</v>
+My name is Felicity March, or Flick March.
+Great to be here this afternoon.
+What a wonderful conference we've all had.
+Now, we are here today to talk about misinformation,
+disinformation, and deepfake,
+something that we are all extremely passionate about.
+So first of all,
+I'd like to introduce the rest of my panelists.
+And then we'll get into the subject.
+<v ->Hello, my name is German.</v>
+I'm the chief AI scientist for McAfee
+where we focus on AI solutions.
+And we specialize on deepfakes and misinformation.
+So happy to be here.
+<v ->Daniela Braga, founder and CEO of Defined.ai.</v>
+We are the largest marketplace of training data for AI.
+And we take care of all the provenance, copyrights,
+IP of the data.
+<v ->I'm Andy Parsons from Adobe.</v>
+At Adobe, I oversee our content authenticity initiative,
+which does three things.
+Number one, it safeguards provenance
+around media of all kinds, from video to photos to audio.
+I also represent Adobe on the steering committee
+of the Coalition for Content Provenance and Authenticity,
+which is a global standard to help ensure
+that misinformation is well understood
+and that providence is made useful.
+Thank you.
+<v ->And I am Amy Henninger</v>
+from Department of Homeland Security Science
+and Technology Directorate
+where I'm the senior advisor for advanced computing.
+And that includes AI modeling and simulation, cybersecurity,
+data analytics, and quantum.
+<v ->Perfect. And I'm from Accenture.</v>
+I look after cyber strategy.
+I also have the honor of working with C-suites
+and boards on advisory.
+And I'm very passionate around deepfake
+and what it does around the cybersecurity forum
+because of course we are seeing
+that traditional cybersecurity is looking
+after the infrastructure,
+but what we're seeing around deepfakes and disinformation is
+that attacks are happening
+where you don't have to hack the system,
+you're hacking the human.
+And you're also faking information
+to go and get the things that you need to get done.
+So we are very passionate around eliminating
+or being able to protect and detect around deepfakes,
+but also the human firewall that is needed
+to make sure that we can look after our people,
+our communities, and companies.
+So from a deepfake and a disinformation
+and a misinformation point of view,
+German, can I go to you first?
+Why should we be concerned about deepfakes?
+<v ->Good question.</v>
+So deepfakes can be used for good and for bad.
+We intrinsically assign some negative connotation
+to the term because most of the time,
+we see deepfakes being used for malicious purposes.
+But there are some exceptions
+where they're also being used for good.
+And I think I will start there
+by mentioning that maybe content creators are using
+deepfakes to scale up their video outing efforts
+in social media or just creating deepfakes
+for entertainment purposes, right?
+But the most other instances are malicious.
+And it is within this category
+that we find scams as the number one threat, right?
+So you create a deepfake based on a celebrity,
+or a thought leader, or an influencer,
+and then you use that to scam people,
+let's say with investment or cryptocurrency scams
+where they promise you like 100 extra returns
+on your money or the fake CEO calling you scam,
+or they, "Hey mom," scam,
+where they clone the voice of your son
+and then they call you, you know,
+because he has been on an accident
+or something like that, and they need money.
+So plenty of ways in which deepfakes are being used
+to scam people.
+Then number two threat is around harming others' reputation.
+And one specific trend that is quite concerning right now is
+teenagers using these apps
+to create new deepfakes of their peers, right,
+which is quite troubling.
+And the last, but not least,
+what you mentioned before, misinformation.
+You can use deepfakes to influence people
+through the misinformation campaigns.
+And we have seen that throughout the world,
+South Africa elections, in the US,
+and some European countries as well.
+So it really doesn't matter,
+if you're in the private or public sector,
+we are all quite exposed to the deepfakes
+as they can impact our daily life, essentially.
+<v ->And it's a new angle.</v>
+So, Daniela, what's your view?
+<v ->Well, agreeing with everything that German said,</v>
+I was just gonna add that because all AI starts in data
+and a lot of what we're talking about here is AI generated.
+I would add on top of the misinformation and disinformation
+and the deepfakes, the hallucinations,
+which are not intentionally malicious,
+but can cause the same effect.
+So as all AI starts in data,
+it's our mission.
+And what we're very passionate about is to ensure
+that our customers know the provenance
+and can trace the output of their models
+to the origin of the data.
+What cannot be done is when you are,
+for example, scraping the web
+and/or are not using a standard like C2PA.
+So the add-on here is that everything starts in data.
+And if the data starts already being non-factual, biased,
+or low quality, or not,
+or copyright with copyright infringement,
+that alone starts wrong from there for an AI model.
+<v ->And it does, there's so many use cases, excuse me,</v>
+so many use cases, we're seeing different use cases
+coming out pretty much every single day on this use.
+So, Andy, could I have your opinion please?
+<v ->I mean, I agree with what the others have said, for sure.</v>
+I think it's worth augmenting those points
+by pointing out what's probably obvious to this audience
+or anybody who's paying attention that, even a year ago,
+it wasn't necessarily possible to make a, you know,
+deeply photo-realistic video, realistic audio,
+realistic fake with, you know, 20 seconds of training data
+or any training data.
+And now you can do that for free.
+So we used to, even a couple years ago,
+in my field talked about the democratization
+of deepfake tools and AI.
+And now I think we're beyond democratization.
+These things are free.
+They're open source models that are trivial to use
+on Hugging Face or just downloading your machine.
+And right here at CES,
+you see commodity devices that are tiny, inexpensive,
+low power that are capable of running,
+you know, massive models with billions of parameters.
+And I think that's another reason we should be concerned
+and have increasing concern.
+So, you know, one thing we'll hopefully get into
+as part of the panel is,
+can we empower good actors to declare what things are
+and begin enabling a basic fundamental human right,
+I would call it,
+to understand what you're looking at,
+what you're hearing, where it came from?
+<v ->And we are so used as humans,</v>
+if we see someone on video or hear their voice,
+we assume it is them.
+So psychologically it's a complete paradigm shift on,
+do we trust?
+<v ->And I would also add that's a great point, if I may.</v>
+Multimedia, video in particular,
+causes an emotional response in humans, right?
+<v ->It does.</v>
+<v ->It's very different</v>
+than reading text.
+And therefore video and images and social media are
+so powerful and potentially perilous, for that reason.
+<v ->And universities are now doing degrees</v>
+on cyber psychology, which is very interesting.
+And Amy from Homeland Security,
+so give me your opinion please.
+<v ->Yes, thank you.</v>
+So like Andy, I agree
+with everything people have said before me,
+and certainly we have those broad concerns at DHS
+where we're looking at mystic malformation
+on a societal level or reputation damage,
+public trust, social unrest, those kinds of things.
+Or individual, you know, again,
+reputation damage or social engineering.
+At DHS S&amp;T, we have a more narrow concern,
+I guess I'll call it.
+And that is the impact of deepfakes on our missions, right?
+So our everyday missions that we do,
+whether that is, you know,
+going through transportation security at the airport
+when you go home tomorrow, right,
+whether that is showing your ID to border patrol
+or immigration services to move into a different country,
+whether that is swatting for our law enforcement
+and how can deepfakes be used to,
+can we use AI-generated voices, right, to do swatting?
+Can we do that at scale, talk about democratization?
+Can we frame people with AI-generated voices
+who really didn't do the swatting,
+but where people are framing them to do that?
+And then things like deepfakes and social media
+or in campaigns for tragedies,
+like what's going on in Los Angeles right now, right,
+can people cause harm through deepfakes,
+steering people towards nefarious places in LA
+instead of safe places?
+So we're very diligent about scrubbing our missions
+and understanding where they're vulnerable
+to deepfakes' voice, text, or photo, or video,
+and making sure we button up those vulnerabilities.
+<v ->Perfect. Thank you, Amy.</v>
+So, Andy, I'm gonna go to you next if I may.
+Talk to us all about the difference
+between deepfake detection and protection
+and then data provenance,
+something with C2PA under your belts.
+I know it's very close to your heart.
+<v ->Yeah, thank you for the question.</v>
+So there's been, you know, kind of argument,
+counter argument between folks
+who are pundits around detection
+and those who think about provenance.
+And I'll define those in the terms that I prefer.
+Detection is sort of post-hoc.
+You know, can we, say, take a video
+and with some confidence interval,
+determine whether it is a deepfake or not,
+with very little knowledge of how it was made in fact?
+In most cases, no knowledge of how it was made.
+Provenance, on the other hand, is the polar opposite.
+It says, you know, there's something proactive
+to be done at the inception of the creation
+of a piece of media that imbues it
+with some information about where it came from
+and what it is,
+and that can be cryptographically proven.
+But these are not mutually exclusive
+and they shouldn't be cast
+in stark opposition to one another.
+They are in fact complementary.
+However, I do also think
+that detection is clearly an arms race.
+And I think it's an arms race
+that the bad guys are likely to win or have one
+because the bad guys don't have to open source
+their data sets or speak at CVPR
+or come to CES and talk about what they're doing.
+And in some cases, they're funded by, you know,
+states and oppressive regimes.
+So I think detection is certainly worth pursuit.
+It's expensive. It's harder to scale.
+But truly the combination of provenance
+around an understanding of where things came from
+that bad actors will not make use of bad actors,
+will not use the C2PA standard.
+And then, you know, forensic detection,
+these things will need to exist well into the future.
+But I think the likelihood that detectors will tell you
+this is 100% a deepfake
+or this is absolutely Andy at CES, is unlikely.
+And that will continue to require human experts
+in digital forensics who number very few in the world
+compared to the number of bad actors
+producing potentially deceptive content will continue
+to have to lean on them.
+But provenance can scale.
+Detection is much harder to scale
+and requires forensics expertise.
+<v ->Yes, it does. And, (clears throat) excuse me.</v>
+I'm dying with the cold here.
+So forgive me for croaking at you all.
+Amy, can I ask your opinion on that?
+<v ->Yeah, so I agree with Andy's characterization.</v>
+We rely very heavily on NIST,
+the National Institute for Standards and Technology,
+for their guidance in this space and the government.
+And they have, in my view,
+done it really a superb job
+laying out a taxonomy of all the mitigations
+and countermeasures for misinformation/disinformation
+because of synthetic media or AI-generated synthetic media.
+We adopt that for ours.
+You know, the number one thing to remember in my view is
+that deepfakes ultimately are manifested in software.
+So all the good policies and procedures we learn
+from cyber security and cyber hygiene apply,
+number one, have to be there.
+And then there's other things that we can do,
+some of them what Andy mentioned.
+I think of the taxonomy as a two by two,
+and they're sort of tech-based mitigations
+and non-tech based mitigations.
+And then across the top, as Andy expressed, you know,
+you have sort of this things you do upfront
+to deter the creation,
+and then you have things you do post-hoc
+to help the detection and other things,
+you know, beyond provenance.
+And detection include, you know, education
+and regulatory mechanisms,
+and market-based mechanisms, and normative mechanisms.
+So there's an array of different mitigations,
+and our sense is that you need a broad strategy
+in applying these in a holistic way,
+developing a best of breed
+for whatever use case you're concerned about.
+<v ->Perfect. Thank you, Amy.</v>
+Now, German, what's your view?
+<v ->I really agree with others' perspectives.</v>
+I think it's worth rehashing
+that provenance and detection are working together.
+At the end of the day,
+provenance is all about traceability
+and tracking the history of modifications on media types.
+And that benefits good actors who are trying to define
+and declare, "Hey, I'm using gen AI for good purposes."
+And that automatically removes a big chunk of the universe
+from the question.
+But then, again, bad actors
+and cyber criminals are not going to behave
+or not going to play by the same game rules,
+and they will find ways of removing
+or stripping out debt embedded information,
+and therefore you no longer can tell
+if that was created by AI or it's real.
+And that's where detection comes into the picture
+by providing the means to detect those artifacts
+that are kind of hidden and, you know,
+impossible to tell from the human eye.
+And at the end, the benefit is for the consumer
+who will be able to tell,
+"Okay, I'm dealing with gen AI content
+because I have provenance information
+or because at least I have detection technology
+as a fallback mechanism," right?
+<v ->Perfect. And, Daniela?</v>
+<v ->There's responsibility on two sides right now.</v>
+The one, the builders of AI who care about brand reputation
+are already doing all,
+are enforcing buying data that is licensable,
+showing traceability of the models,
+having content moderation to fine-tune the model's output.
+We see all of the big companies doing
+that care about brand reputation.
+Enforcing contracts down the line to consumers
+when you are supposed to build your own avatar,
+your image avatar or your voice clone,
+to have a voice print approving this,
+a voice signature basically approving that clone,
+that cloning process of your voice likeness
+and a contract on top of that.
+So all of these things are happening with the good actors.
+There's a bunch of other companies, smaller,
+a lot of times in jurisdictions outside definitely Europe
+and United States that perform with technology like that,
+that don't follow any of these.
+The consumer side needs to have their side of responsibility
+of keeping awareness of, do I trust this company,
+or do I trust that company?
+It's literacy
+that is demanded from the consumer side as well.
+We as consumers need to be always wary
+that of the provenance of our content
+just like we are with food,
+just like we are with all the resources
+that we supply our livelihood with.
+<v ->And, Daniela and I were talking just before this</v>
+about our children.
+And I've got a 25-year-old son who comes out
+with his most amazing amount of information,
+which is completely incorrect.
+And the next generation don't look
+at fact-checking what they're actually hearing.
+And I actually had to call him obtuse last week,
+which he didn't like at all.
+And I said, "You've gotta stop
+coming out with stuff like this.
+You've gotta go and fact check it. You've gotta trust this."
+We were saying we don't educate our children in school.
+And my (clears throat), sorry about this.
+My perspective is from a corporate point of view,
+we are seeing that actually this is being used to extort
+and actually being used as part
+of a very sophisticated kill chain.
+So I am being asked to press a button
+that I am allowed to press,
+and I'm authorized to press that button
+because my boss has asked me to not change the process,
+just to expedite the process because it's rather urgent.
+And I think if we all look is,
+has our boss asked us ever to speed up a process
+because something is urgent,
+I think we'd all have to put our hands up.
+So actually we are also seeing that people are being put
+underneath cognitive overload
+so that you don't have the ability to go and crosscheck
+because your boss has said something needs to come out today
+or come out very, very quickly,
+or needs to be closed this month.
+And so when you're actually going to be,
+you're being asked to do something,
+with this we are seeing a different level of attack.
+So very complicated and so much,
+so many things to be rather scared of
+and where put proper ownership
+around who looks after stuff like that
+because that's not typically sitting in cybersecurity,
+it's not typically sitting in fraud.
+So how do we actually look at the new strategic model
+that we need to actually defend that is overall threat.
+Now, Andy, I'm gonna come back to you.
+Okay, this is a very meaty question,
+but I'm gonna chuck it all out there,
+and then we'll all sort of wade in
+with our answers if we may.
+Now, it's, how can we trust what we see in here?
+I think we've talked about that already.
+The answer is we can't.
+But how can we trust what we see in here?
+What tools and resources are available
+to help people be more discerning?
+So what is out there to help people?
+And then how do we mitigate against this
+in terms of cyber attacks
+and then misinformation and disinformation
+from a consumer point of view,
+but also from a corporate point of view?
+<v ->That is a meaty question, I'll attempt it.</v>
+So first of all, I think, you know,
+we should set the ground rules
+around what probably doesn't work.
+And one thing that no longer works
+that you could argue worked a year ago is just, you know,
+inspect the location of people's ear lobes
+or the alignment of their eyeglasses
+or the mismatched pupils.
+Like every time we point out,
+and again this is the bad guys, good guys argument,
+point out a problem with certain generative models.
+Bad actors move to another model
+or the model makers themselves,
+especially in open source, just fix those issues.
+So that's gonna continue to move faster
+than we can come up with.
+And I'm often asked,
+well, you know, until we have provenance
+on all of our media,
+which is not gonna happen overnight,
+what can we do to look at an image or a video?
+And, you know, in video there are still things you can do,
+but in images, in videos,
+while you're not seeing six-fingered people
+or, you know, extra heads spouting from people's necks.
+So I think the answer increasingly unfortunately is
+there's not much you can do,
+especially when it comes to photography.
+However, there is an optimistic point of view
+about all that.
+So, you know, what tools can we bring to bear?
+I think it's important also to realize
+that in the spirit of provenance
+and understanding where things came from,
+we should think about simple solutions
+that aren't necessarily silver bullets
+but can be put to work now.
+There was a time
+when food didn't have nutrition labels, for example.
+And Danielle brought this up.
+Now, with or without regulation,
+and granted, you know, in the US,
+we needed the FDA to bring about nutrition labels,
+but you can walk in any grocery store,
+and even on restaurant menus now,
+you can see what's in your food.
+It doesn't mean you shouldn't eat it.
+The restaurant or the maker of that food
+or the supermarket is not passing judgment on you
+when you buy a sugary cereal to feed your children.
+And you can do that,
+but you have a right to know what it is
+and you can make an informed decision.
+And that's very different
+than large platforms making decision for you.
+And I think that's one thing
+that we can put in place right now.
+Imagine you had a nutrition label
+or a more sophisticated UI on your social media accounts
+that would enable you to do things like filter
+for things that have additional context
+so you can know what they are,
+especially in news consumption mode,
+which your son has fallen victim to,
+as has my daughter around the same age.
+So there are things that are available now.
+I think we do need to think,
+I think it was German
+who said this is a very complicated problem.
+It's an ecosystem of problems,
+and we're not gonna solve them all overnight.
+So while we think about, you know,
+what role, regulation, legislators, governments,
+tech companies, startups can have,
+we should really set about putting in place
+some simple measures and beginning to educate consumers.
+I'm not a fan of the term media literacy necessarily,
+but there's a lot of work to be done
+around teaching our children.
+It's not too late for your son, I'm here to tell you,
+how to be savvy media consumers.
+And, you know, the critique on that is often that,
+while that puts too much onus on media consumers,
+isn't it the responsibility of platforms and creators?
+And I think the truth is it's a shared responsibility.
+And we will need to become,
+as will our children and grandchildren,
+more savvy media consumers.
+And there will continue to be a role for platforms
+to show you things that have extra context,
+not to cease the ability for you to see things
+that those platforms may or may not agree with.
+So there's a long road ahead,
+but, you know, if there's one point I'd like to make
+on this question,
+it's that there are simple measures
+and we can talk in detail about C2PA nutritional labeling.
+There are things that we can do now
+that are open, don't require licensing,
+and we should do those things.
+<v ->Yeah, absolutely. German, your view?</v>
+<v ->I really agree with your point.</v>
+I think the question has been asked a few times
+throughout the years, and the answer keeps changing.
+And that's because AI is progressing so fast that, you know,
+the seven fingers or the lips not in sync with the audio,
+it's no longer useful, right?
+But I think at this point,
+we are ready to give a new recommendation maybe,
+which is, "Hey, we need to rely more on tools,"
+whatever is available to be honest.
+And at the end of the day, it's a little bit high ironic,
+but you need AI to fight AI, right?
+So to give you an example,
+McAfee has partnered with Yahoo News
+to scan images on the news
+using deepfake image detection technology.
+And that help us flag, you know,
+when somebody's manipulating an image with AI.
+And, you know, the benefit is for the consumer
+because if you're consuming such news
+which have been somehow curated,
+then you're less exposed
+to the elements of deepfakes or misinformation, right?
+By the same token,
+audio clone technology has evolved so much
+that nowadays you only need a five seconds clip
+to create a clone of somebody's voice,
+which is 99% similar to the original.
+And so you can no longer tell
+if you're talking with your son or not.
+And that's where tools
+like the McAfee Deepfake Detector can flag when somebody's,
+when you're watching to a video
+and it has AI-generated audio.
+Now, is that passing judgment? Really not.
+It's just giving you an extra weapon
+to decide if you can trust or not what you're watching
+or listening to, right?
+<v ->Yeah, I totally agree. And, Daniela?</v>
+<v ->Well, I've been talking about AI models,</v>
+nutrition labels for years by now.
+Of course, that's probably overwhelming
+for a consumer perspective because having,
+the nutrition label on an AI model is not as simple
+as in a food product.
+I can tell you.
+And a consumer will not be able to discern.
+It will come ultimately to the brand reputation,
+to trusting the brand that is creating,
+to the social media platform
+that is allowing content to go through,
+and to the source of the content when it comes to content,
+whether it's AI generated or not.
+But I do believe that governments are evolving
+and have been evolving very fast in the last couple of years
+towards enforcing these nutrition labels in models,
+in AI models.
+And this come down from application type,
+meaning, is this an application
+that's gonna impact social scoring on someone
+or decide life or death,
+which is one type of of problem to solve,
+or to allow or not to the provenance of the data,
+to copyright infringement,
+to bias in the data,
+to content moderation, and right feedback loop involvement.
+So governments have to create those rules
+and then of course the people,
+the consumer will have to discern what to buy
+or what to consume from.
+<v ->Perfect. And, Amy, anything to add?</v>
+<v ->Sure. I think Andy, German,</v>
+and Dr. Braga gave a very comprehensive response to that.
+I'll just add a couple other things.
+So in DHS S&amp;T,
+we're just now finishing a congressionally mandated report
+in digital content forgeries, which will be made public.
+And in that document,
+we have dozens and dozens of heuristic rules of thumb,
+many similar to what Andy discussed.
+And I agree that someday those will not be as useful
+as they are today.
+But there are a lot of different kinds of indicators
+that you can use.
+And I will give you one great tip.
+If your staff ever gives you a document
+with the word, delve, in it,
+the odds are that was written by ChatGPT.
+And then I guess I just, I'll close to that.
+You know, I think education,
+and we're gonna learn as we go to some extent in this space.
+You know, I remember being a young girl
+my dad telling me about when he was a young boy
+hearing a Orson Welles' radio broadcast
+called "War of the World,"
+and some people have heard of this, right,
+and being afraid that the world was being invaded by aliens.
+Well, he learned, you know,
+not to always trust the Orson Welles' radio broadcasts.
+And 20 years ago,
+I used to get emails from Nigerian princes
+asking me to send 9.95
+so I would get $1 million from the deceased Nigerian king.
+And I learned not to trust those.
+So I think there'll be sort of that kind of growing
+in this space,
+and people will make mistakes perhaps sometimes
+and learn from those
+and along with all the other mitigations though
+that we should put in place to help minimize those mistakes.
+<v ->Perfect. And from my point of view,</v>
+we are seeing that we are seeing use cases
+where people are hiring deepfakes.
+Then there before was of course somebody who joined,
+who was a pure deepfake from North Korea.
+We are seeing use cases
+where people are deepfaking MRI scans from hospitals
+to prove that their tumor hasn't been detected
+so they can actually sue.
+We are seeing that people are going on live calls.
+So I got myself deepfake.
+And I joined a call with my team.
+It was somebody else having a face swap and a lip up.
+And it took my team 22 minutes before they realized,
+someone said, "I don't think this is Flick."
+So we are seeing it from a live point of view
+and a potential cyber attack point of view as well.
+So from an Accenture point of view,
+we are very much looking at the detection side of deepfake
+as well as the human firewall or human in the loop.
+And that detection capability on call centers,
+know your customer processes,
+on your HR processes,
+how on earth did someone get hired,
+properly hired, properly onboarded, given a laptop,
+and they never existed at all, ever.
+And it was only when malware started squirting
+from their laptop that they realized
+that maybe something was just slightly haphazard on that.
+But I like the idea of delve
+because my son did most of his dissertation using ChatGPT.
+And he got a distinction.
+So it obviously works very well,
+but I'll go back
+and see if the word, delve, is in there as well.
+But it probably is. So maybe-
+<v ->Flick, can I add a-</v>
+<v ->Please do.</v>
+<v ->A quick comment on that.</v>
+So one thing that's coming up, I'm just,
+it's just like burning in my brain right now,
+and "War of the World" actually cement this idea.
+You know, that was perhaps the original deepfake,
+now that you mention it.
+For those who aren't familiar with it,
+it was extremely convincing.
+I don't know why they did this.
+Perhaps in the spirit of entertainment, but Orson Welles,
+more importantly like there's,
+does provenance or understanding
+what something is circumvent the need
+to trust the institution or the person that's providing?
+The answer is no. Right?
+Trust is not between people and models or models and robots.
+It's between people,
+other people and people in their institutions.
+And that's where trust and distrust actually exists.
+So you need two things.
+You need to understand, you know,
+provenance of media can tell you
+whether something is a photograph,
+originated life as a photograph or not.
+There are very few or no popular, you know,
+news media photos or videos
+that aren't retouched in some way.
+And that's something that news organizations know
+and many of you know.
+But understanding that it started life as a photo
+and was modified in a slight way is important.
+But equally or more important is, where did it come from?
+You know, provably knowing that something purporting
+or appearing to come from the BBC or Fox News
+or your favorite news source actually came
+from that news source is probably more important.
+And the most important trust signal you have,
+whether it's "War of the Worlds" or depictions of LA fires,
+is whose reputation is standing behind it.
+And that's another place where, you know,
+cryptographic signing of media can help.
+But trust is a very fraught combination
+of who trained the model,
+what data did they use to train the model,
+what Adobe or other tools used
+to manipulate a photograph and change it,
+and then ultimately who used all those tools
+and stands behind the publication of that media.
+<v ->Yeah, perfect.</v>
+<v ->Just one more thing</v>
+very quickly, that there's a lot of innovation
+starting to appear to,
+in order to solve detection problems,
+startups starting to come up with.
+So there's one company called ProRata.ai.
+The whole gist of it is basically analyzing
+the output of an AI model
+and classifying the percentage of input from what source.
+Now, the point is to compensate content creators,
+have them having a ProRata of the model value.
+But you see, this can also help trace
+the origin of the content
+and have more reliability from the consumer side.
+So just examples that innovation is going,
+there's opportunity for innovation
+whenever there's a problem all the time.
+<v ->Yeah, always an opportunity.</v>
+And I'm a big fan of "War of the Worlds."
+And I remember that story very well
+and how much it freaked out so many people
+because of the radio play.
+So, yes, in Accenture,
+what we are doing is also investing
+in a company called a Reality Defender
+that allows you to then put it on a call,
+and it will tell you, take six second snippets,
+and tell you whether that's a real voice or a real face,
+or whether they believe that that has been manipulated
+or whether it's actually a true deepfake.
+So very, very interesting
+what innovations are coming out daily.
+But what I'm also hearing from the dark web,
+two-and-a-half thousand euros will buy me something
+that allow me to deepfake myself on any Teams call
+or any Zoom call.
+And it's so cheap now that my threat intel
+who goes and plays in the dark web every day,
+seriously cool guy,
+he said, "Actually for once, Flick,"
+he said, "The technology's there,
+the threat actors are speeding up,
+and they are now looking from a threat actor point of view.
+They are not looking at deepfaking someone
+to get access to the system to put ransomware in,
+to get to pay the money.
+They're just deepfaking you to send the money
+or the IP out."
+So it's how the hell do you actually work out,
+how you manage that side of things
+because, again, psychologically we're all used
+to seeing someone's face
+and believing that is someone's face.
+So, German, let me turn to you.
+We've covered it,
+but give me your summary of sort of the best ways
+to combat misinformation, disinformation, and deepfake.
+And I'm gonna add one more thing to this question
+because I want to make sure
+we all have a point of view on this.
+Tell me where we go from here
+and what you think the future looks like.
+<v ->Got it.</v>
+I think that beyond the advice of trying to look for tools
+to help you assess what you're watching or listening to,
+I feel like we can all use some healthy questioning system
+that's going to help us personally.
+So if you suspect that you're dealing with a deepfake,
+start by questioning the content, is as basic as that.
+Deepfakes will aim for impact.
+They want to provoke an emotional response.
+They want to shock you.
+They want to surprise you or deliver unexpected news.
+So if you feel yourself in that situation,
+just pause for a moment and go check other sources.
+Deepfakes typically do not propagate
+through many sources at the same time.
+It's just a random social media post or something like that.
+So that's going to help you even in the absence of tools.
+And then the other piece of advice is
+around analyzing the context.
+So typically it's a celebrity, or an influencer,
+or a politician that is being used for the deepfake.
+So you should ask the question,
+is this person typically saying this kind of stuff
+or doing that?
+Because if the answer is no,
+then it's likely a deepfake, right?
+So that healthy questioning system that we can all exercise,
+and it's free, is going to help us a lot.
+And I feel like from now on,
+we are going to see a lot more scams using deepfakes,
+specifically targeting celebrities
+or thought leaders with huge fund bases
+because that's where scammers see
+a lot of return on investment, right?
+Fund bases are following these persons almost blindly.
+So it's a good opportunity for them to scam people.
+And with the current market where we have a lot of,
+more than 10,000 cryptocurrencies, let's say,
+and everybody wants to be a millionaire overnight,
+really creates the perfect storm
+for bad actors to create deepfakes,
+scam people, get a lot of money out of it.
+So with the, you know, tools that we discussed today
+and with this healthy questioning system
+that we can all exercise,
+I feel like we're going to be prepared to mitigate
+this threat in 2025.
+<v ->Perfect. Thank you, German.</v>
+Amy, can I go to you, please?
+<v ->Yeah, sure, of course.</v>
+So look, we've talked about provenance-based methods,
+content detection methods, education, regulation,
+market-based approaches, normative-based approaches.
+That's been a broad conversation.
+I think, you know, we need a broad array
+of those kinds of approaches and sort of best of breeds.
+The one thing I haven't heard it discussed,
+there are tools that, for individual users,
+so I wanna post something to Facebook, for example.
+There are tools I can apply
+that will perturb my image in the same way
+you would have a adversarial perturbation attack
+or adversarial attack.
+It will perturb my image before I put it on Facebook,
+which makes it more difficult for gen AI tools to be applied
+or that turned into a deepfake against my wishes.
+So I think that's another thing to pay attention to.
+And then there's, you know, processes specific to use cases.
+So, Germany, for example, about seven-ish years ago,
+they realized that they had vulnerabilities
+in their passport processes, right?
+So there was not good chain of custody on digital photos
+or photos that could have been digital
+that were being submitted to the passport office in Germany.
+And they changed their laws and their processes.
+So now German immigration only accepts
+passports that were taken by, you know,
+people who have the credentials
+to take passport photos in Germany, right?
+So there are all sorts of use case specific mitigations
+that we need to be aware of.
+You know, where I think it's going, moving on here,
+we're very concerned about interactive bots.
+So you see a lot of deepfakes nowadays
+where you have synthetic text
+and the deepfake can mimic the text.
+But we see more deliberate integrations
+between deepfakes and LLM chatbots
+providing for richer interactive,
+more interactive experience with these deepfakes.
+You're starting to see a lot more APIs across apps
+that allows you to build a best of breed
+in different digital content forgeries,
+whatever you're trying to achieve.
+I think there's gonna be better integration
+of audio and video.
+So we lose the sort of Godzilla-ish, you know,
+the words come out and the lips aren't quite matching.
+And then just longer term,
+we see just amazingly increased representation power
+going back to the interactive bots,
+you know, think of those interactive bots with access
+to all the data out there on all of us, right?
+Our social media accounts, our personal electronic devices,
+fitness tracker smartwatch or smartphones,
+third-party volunteer websites, DNA sites,
+health improvement sites, dating services, public records,
+tax records, property titles, donor lists,
+legal data brokers, Whitepages, Experian, Equifax,
+illegal data brokers, right, dark web.
+So you can imagine, to Daniela's point earlier,
+you know, all that data being used
+to fine tune a model interactive bot,
+and all of a sudden, you know,
+you have a deepfake that not only looks like you
+and has your hair, and has your voice, has your eyes,
+but all of a sudden, you know,
+it knows that your mom's birthday was last week
+and what you got her for her birthday
+because you posted it to your Facebook page, right?
+So that's what we see in the future.
+And interestingly in that future,
+I don't even think
+people are gonna have to create deepfakes.
+You know, the bad guys aren't gonna have
+to create deepfakes
+'cause we're all gonna be creating avatars,
+or digital clones, or digital humans,
+whatever you wanna call it of ourselves.
+And once you get to that point,
+all the bad guys have to do is steal
+what you've already created of yourself.
+<v ->Perfect, Amy. We've run out of time.</v>
+So I think what we're saying is don't trust anything.
+Have-
+<v ->An optimistic note and a CTA.</v>
+I know we're out of time.
+A 40-minute conversation is not sufficient.
+<v ->It's not sufficient.</v>
+<v ->I would urge you</v>
+to find communities,
+join the content authenticity initiative,
+not showing for that,
+and standards organizations that are open
+where these conversations can continue.
+You're all in industry.
+I think we all have a role to play
+in contributing and continuing
+this conversation.
+<v ->Absolutely. Thank you.</v>
+Thank you, everyone.
+Thank you for your time this afternoon.

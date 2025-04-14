@@ -1,0 +1,4201 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.152 --> 00:02.735
+(upbeat music)
+
+2
+00:10.530 --> 00:11.363
+<v ->All right.</v>
+
+3
+00:11.363 --> 00:12.483
+Good morning everyone.
+
+4
+00:13.440 --> 00:15.573
+Welcome to this next session.
+
+5
+00:16.654 --> 00:17.610
+So my name is Ellen Boehm,
+
+6
+00:17.610 --> 00:19.920
+and I'm the SVP of IoT strategy
+
+7
+00:19.920 --> 00:21.570
+at a company called Keyfactor.
+
+8
+00:21.570 --> 00:23.460
+We're a cybersecurity software company.
+
+9
+00:23.460 --> 00:26.433
+We specialize in certificates and certificate management.
+
+10
+00:27.390 --> 00:29.580
+But I'm really excited to be here
+
+11
+00:29.580 --> 00:33.540
+with these fellow panelists who are experts in their fields
+
+12
+00:33.540 --> 00:35.130
+and the focus of our talk today,
+
+13
+00:35.130 --> 00:37.623
+which is cybersecurity and IoT.
+
+14
+00:38.940 --> 00:40.740
+So we have, again, 40 minutes
+
+15
+00:40.740 --> 00:43.591
+and a lot of things to talk about.
+
+16
+00:43.591 --> 00:45.900
+So not sure if we'll have time for Q &amp; A,
+
+17
+00:45.900 --> 00:49.110
+but if we do, we can entertain that.
+
+18
+00:49.110 --> 00:50.790
+Otherwise, find us afterwards.
+
+19
+00:50.790 --> 00:52.143
+We're happy to talk.
+
+20
+00:54.085 --> 00:54.918
+So with that,
+
+21
+00:54.918 --> 00:55.950
+actually I would like everyone just say your name
+
+22
+00:55.950 --> 00:57.180
+and say your company very quickly.
+
+23
+00:57.180 --> 00:59.200
+We'll just go down the line for intros
+
+24
+01:00.186 --> 01:01.019
+and then we're just gonna get right
+
+25
+01:01.019 --> 01:02.007
+into the questions, so.
+
+26
+01:02.007 --> 01:04.860
+<v ->Hi, Eric Greenwald, general counsel of Finite State.</v>
+
+27
+01:04.860 --> 01:05.910
+<v ->Hi, Erik Brenneis.</v>
+
+28
+01:05.910 --> 01:08.463
+I'm the CEO of Vodafone's, IoT business.
+
+29
+01:09.390 --> 01:10.470
+<v ->Hi, Gregory Laloy.</v>
+
+30
+01:10.470 --> 01:13.070
+I'm responsible for the product and IoT with Thales.
+
+31
+01:13.980 --> 01:17.013
+<v ->Sri Ramachandran CTO of Somos.</v>
+
+32
+01:17.880 --> 01:19.230
+<v ->Trish Reilly, Senior director</v>
+
+33
+01:19.230 --> 01:22.290
+of Product Marketing at Aeris Communications.
+
+34
+01:22.290 --> 01:23.123
+<v ->Awesome.</v>
+
+35
+01:23.123 --> 01:24.090
+Thank you all for joining me.
+
+36
+01:24.090 --> 01:26.010
+And then lastly, just wanna say thank you
+
+37
+01:26.010 --> 01:29.640
+to the IMC for sponsoring, this panel.
+
+38
+01:29.640 --> 01:31.710
+So we are members of the IMC,
+
+39
+01:31.710 --> 01:33.060
+which is an organization
+
+40
+01:33.060 --> 01:36.040
+that brings together several different companies
+
+41
+01:37.101 --> 01:38.910
+and people from around the space
+
+42
+01:38.910 --> 01:41.670
+to talk about best practices around IoT.
+
+43
+01:41.670 --> 01:42.960
+Specifically, the initiative
+
+44
+01:42.960 --> 01:44.730
+that we've been taking on this year
+
+45
+01:44.730 --> 01:46.740
+in partnership with the GCF,
+
+46
+01:46.740 --> 01:49.290
+is taking a look at the cybersecurity standards
+
+47
+01:49.290 --> 01:52.290
+and guidelines that are emerging
+
+48
+01:52.290 --> 01:55.580
+and trying to have some practical advice
+
+49
+01:55.580 --> 01:57.360
+for companies to be able to adopt
+
+50
+01:57.360 --> 02:00.390
+and implement those across the multiple
+
+51
+02:00.390 --> 02:01.590
+layers of the IoT stack.
+
+52
+02:01.590 --> 02:03.150
+So not just a device perspective,
+
+53
+02:03.150 --> 02:04.980
+but from the network and the connectivity
+
+54
+02:04.980 --> 02:06.330
+and then the cloud and the apps.
+
+55
+02:06.330 --> 02:07.380
+So that's a little side note
+
+56
+02:07.380 --> 02:08.340
+about some of the things that we're doing.
+
+57
+02:08.340 --> 02:10.260
+We'll talk a little bit more about that today.
+
+58
+02:10.260 --> 02:12.510
+But without further ado, let's jump into the questions,
+
+59
+02:12.510 --> 02:15.060
+'cause I really wanna hear from the experts.
+
+60
+02:15.060 --> 02:17.130
+So we're going to start with Sri
+
+61
+02:17.130 --> 02:18.810
+and setting the stage about just
+
+62
+02:18.810 --> 02:20.670
+generally the IoT landscape.
+
+63
+02:20.670 --> 02:21.503
+What are you seeing?
+
+64
+02:21.503 --> 02:22.500
+Obviously a lot of IoT
+
+65
+02:22.500 --> 02:24.150
+that we've seen here at at CES,
+
+66
+02:24.150 --> 02:26.130
+but from your perspective,
+
+67
+02:26.130 --> 02:27.150
+what do you think are the hot trends?
+
+68
+02:27.150 --> 02:30.100
+<v ->Yeah, so that's a great question to get started off with.</v>
+
+69
+02:31.281 --> 02:32.114
+So we talk of IoT
+
+70
+02:32.114 --> 02:34.740
+and then in general people think IoT needs
+
+71
+02:34.740 --> 02:37.593
+to be like small devices, small sensors and so on.
+
+72
+02:39.037 --> 02:40.770
+But when you look at it realistically,
+
+73
+02:40.770 --> 02:42.488
+any connected device is essentially part
+
+74
+02:42.488 --> 02:44.460
+of that ecosystem, right?
+
+75
+02:44.460 --> 02:48.270
+So it can be an airliner, a Boeing or Airbus airliner,
+
+76
+02:48.270 --> 02:50.100
+that's a connected device, really,
+
+77
+02:50.100 --> 02:51.650
+you know, multiple connections.
+
+78
+02:52.729 --> 02:55.293
+And it could be like a coffee,
+
+79
+02:56.520 --> 02:59.940
+coffee maker with an alarm clock
+
+80
+02:59.940 --> 03:01.770
+that you can actually program remotely, right?
+
+81
+03:01.770 --> 03:04.570
+So that essentially is, again, another connected device.
+
+82
+03:06.072 --> 03:08.220
+So connected devices have a pretty broad range
+
+83
+03:08.220 --> 03:10.920
+of applications and typically there is a device
+
+84
+03:10.920 --> 03:15.030
+that has some way of connecting through a network
+
+85
+03:15.030 --> 03:17.250
+to a backend app or application and so on.
+
+86
+03:17.250 --> 03:19.980
+So this is in general what the IoT is.
+
+87
+03:19.980 --> 03:22.030
+And what we are actually seeing
+
+88
+03:23.484 --> 03:25.800
+is that based on analyst research and so on,
+
+89
+03:25.800 --> 03:28.213
+the consensus estimate is that there
+
+90
+03:28.213 --> 03:31.290
+are 18 billion devices already deployed.
+
+91
+03:31.290 --> 03:32.943
+So that's a significant number.
+
+92
+03:34.731 --> 03:36.300
+And when we look at the growth rate of this,
+
+93
+03:36.300 --> 03:37.320
+the consensus system,
+
+94
+03:37.320 --> 03:40.800
+it is also 18.8% compound annual growth rate.
+
+95
+03:40.800 --> 03:45.180
+So it's a very significantly growing market.
+
+96
+03:45.180 --> 03:47.040
+And pretty much when you look at
+
+97
+03:47.040 --> 03:49.740
+what is actually driving this growth,
+
+98
+03:49.740 --> 03:51.360
+obviously the different types
+
+99
+03:51.360 --> 03:53.580
+of network modalities are actually increasing.
+
+100
+03:53.580 --> 03:56.220
+So originally it was just Wi-Fi and cellular
+
+101
+03:56.220 --> 03:57.390
+and then there was LoRa.
+
+102
+03:57.390 --> 03:59.010
+And then there are so many new ways
+
+103
+03:59.010 --> 04:01.143
+to actually connect devices to a network.
+
+104
+04:02.775 --> 04:04.140
+And there are two key areas
+
+105
+04:04.140 --> 04:05.940
+that are actually driving a lot of this expansion.
+
+106
+04:05.940 --> 04:08.040
+Obviously there's industrial automation
+
+107
+04:08.040 --> 04:11.343
+that is a huge part of the growth of IoT.
+
+108
+04:13.212 --> 04:14.590
+And I think the thing
+
+109
+04:14.590 --> 04:18.420
+that we all probably experience on a daily basis is that any
+
+110
+04:18.420 --> 04:22.143
+device that we buy for the home now comes connected.
+
+111
+04:24.176 --> 04:27.120
+So we just had a refrigerator that went bad.
+
+112
+04:27.120 --> 04:29.520
+It was a 25-year-old refrigerator
+
+113
+04:29.520 --> 04:31.743
+and had to buy a new one over the,
+
+114
+04:32.911 --> 04:33.744
+on the 24th of December.
+
+115
+04:33.744 --> 04:35.940
+Fortunately there was a great sale at Lowe's,
+
+116
+04:35.940 --> 04:37.590
+so I said, yes, let me go get it.
+
+117
+04:39.033 --> 04:41.403
+And every refrigerator had a Wi-Fi connection.
+
+118
+04:42.555 --> 04:44.310
+So you cannot find
+
+119
+04:44.310 --> 04:46.830
+an appliance without a connection these days, right?
+
+120
+04:46.830 --> 04:47.910
+So connected devices,
+
+121
+04:47.910 --> 04:50.970
+especially smart home based connected devices,
+
+122
+04:50.970 --> 04:55.110
+is another area that's actually driving this growth.
+
+123
+04:55.110 --> 04:57.930
+So it's really an expanding market.
+
+124
+04:57.930 --> 04:59.910
+It's very relevant to all of us
+
+125
+04:59.910 --> 05:01.890
+and it's going to be something that we need
+
+126
+05:01.890 --> 05:04.800
+to be all be much more in tune with.
+
+127
+05:04.800 --> 05:05.790
+<v ->Yes, awesome.</v>
+
+128
+05:05.790 --> 05:06.960
+Thanks. Sri.
+
+129
+05:06.960 --> 05:09.060
+So Erik, I wanna go to you now to talk a little bit
+
+130
+05:09.060 --> 05:10.380
+about the connectivity
+
+131
+05:10.380 --> 05:11.640
+and the networking part of it.
+
+132
+05:11.640 --> 05:13.320
+So obviously Vodafone,
+
+133
+05:13.320 --> 05:14.940
+I'm sure you have some expertise here,
+
+134
+05:14.940 --> 05:17.610
+but how do we support then connecting all of these millions
+
+135
+05:17.610 --> 05:19.920
+of things globally wherever they are,
+
+136
+05:19.920 --> 05:21.810
+as Sri was mentioning, the volumes.
+
+137
+05:21.810 --> 05:24.080
+<v ->I think there are three points to this.</v>
+
+138
+05:24.080 --> 05:27.390
+On one hand it's the network technology itself.
+
+139
+05:27.390 --> 05:32.010
+10 years ago everything was on 2G and 2G, of course,
+
+140
+05:32.010 --> 05:34.375
+was and is a good technology.
+
+141
+05:34.375 --> 05:36.390
+But for a smart meter, the new technology,
+
+142
+05:36.390 --> 05:39.900
+narrowband IoT is better for a super fast device.
+
+143
+05:39.900 --> 05:42.570
+Or if you want to download big amounts of data,
+
+144
+05:42.570 --> 05:43.470
+5G is better.
+
+145
+05:43.470 --> 05:47.100
+So we've gone to a point where we have lots
+
+146
+05:47.100 --> 05:49.493
+of network technologies,
+
+147
+05:49.493 --> 05:52.410
+LTEM, 2G, 3G 4G, 5G,
+
+148
+05:52.410 --> 05:53.880
+red cap and so on.
+
+149
+05:53.880 --> 05:57.150
+So you can now select the right network technology
+
+150
+05:57.150 --> 05:58.800
+for your connection.
+
+151
+05:58.800 --> 06:03.240
+Number two, 10 years ago, IoT was more a technology,
+
+152
+06:03.240 --> 06:04.650
+you know, which was used.
+
+153
+06:04.650 --> 06:07.560
+And now in our opinion it's an operational asset.
+
+154
+06:07.560 --> 06:09.900
+There are so many customers now already
+
+155
+06:09.900 --> 06:12.630
+who depend completely on the IoT connections
+
+156
+06:12.630 --> 06:14.550
+for their business model,
+
+157
+06:14.550 --> 06:16.380
+that it's an operational asset which needs
+
+158
+06:16.380 --> 06:18.870
+to be available a hundred percent of the time,
+
+159
+06:18.870 --> 06:21.360
+99% is not good enough.
+
+160
+06:21.360 --> 06:23.620
+And number three, there have also been
+
+161
+06:24.480 --> 06:26.460
+technological developments with regards
+
+162
+06:26.460 --> 06:28.050
+to how you access the networks.
+
+163
+06:28.050 --> 06:29.700
+It used to be a physical SIM,
+
+164
+06:29.700 --> 06:31.050
+which you need to put in there.
+
+165
+06:31.050 --> 06:33.390
+Now you have eSIM
+
+166
+06:33.390 --> 06:35.640
+where you can switch the SIM over the air.
+
+167
+06:35.640 --> 06:38.726
+You have iSIM where it's embedded in the silicon
+
+168
+06:38.726 --> 06:41.580
+of a communication module.
+
+169
+06:41.580 --> 06:43.920
+And of course, these new technologies
+
+170
+06:43.920 --> 06:45.630
+make everything more flexible,
+
+171
+06:45.630 --> 06:48.570
+but also post new security risks,
+
+172
+06:48.570 --> 06:51.720
+because obviously if you can switch a network over the air,
+
+173
+06:51.720 --> 06:56.070
+there's more room for fraud than if it's hard coded
+
+174
+06:56.070 --> 06:58.080
+and you can never change it.
+
+175
+06:58.080 --> 06:59.163
+<v ->Awesome, thank you.</v>
+
+176
+07:00.624 --> 07:03.450
+So Greg, let's dive a little bit into security.
+
+177
+07:03.450 --> 07:06.510
+So what are you seeing from the general cybersecurity
+
+178
+07:06.510 --> 07:09.330
+landscape that we should be aware of today?
+
+179
+07:09.330 --> 07:12.690
+<v ->So there is a lot when we talk about IoT security.</v>
+
+180
+07:12.690 --> 07:16.020
+Most of the time, as Sri was mentioning, IoT is growing.
+
+181
+07:16.020 --> 07:18.630
+There is more and more connected devices independently
+
+182
+07:18.630 --> 07:22.140
+of the type of connectivity, serial connectivity, Wi-Fi,
+
+183
+07:22.140 --> 07:23.550
+BLE and all this.
+
+184
+07:23.550 --> 07:27.000
+We need to find a way to protect those IoT devices.
+
+185
+07:27.000 --> 07:28.620
+When we talk about IoT security,
+
+186
+07:28.620 --> 07:30.120
+as we were mentioning also in the beginning,
+
+187
+07:30.120 --> 07:31.950
+it's not only on the hardware side,
+
+188
+07:31.950 --> 07:34.740
+but we need to see the full value chain
+
+189
+07:34.740 --> 07:36.450
+from the production of the device,
+
+190
+07:36.450 --> 07:38.070
+when the device will be manufactured
+
+191
+07:38.070 --> 07:40.950
+and when the device will be running during the lifetime.
+
+192
+07:40.950 --> 07:43.500
+And we need to take care of that since the beginning
+
+193
+07:43.500 --> 07:45.630
+of the design of the devices.
+
+194
+07:45.630 --> 07:46.710
+Then the device is one thing.
+
+195
+07:46.710 --> 07:48.270
+You need to have a secure device.
+
+196
+07:48.270 --> 07:49.797
+That's something that is important.
+
+197
+07:49.797 --> 07:52.151
+I think Eric was mentioning the eSIM and iSIM
+
+198
+07:52.151 --> 07:54.120
+and that in the end is a kind of root of trust,
+
+199
+07:54.120 --> 07:56.550
+an hardware root of trust where we can put,
+
+200
+07:56.550 --> 07:59.490
+let's say the foundations of the security inside.
+
+201
+07:59.490 --> 08:02.430
+But then we have also all, let's say the technology
+
+202
+08:02.430 --> 08:04.680
+to exchange the data that needs to be secure.
+
+203
+08:04.680 --> 08:07.080
+All the data that will transit from the device
+
+204
+08:07.080 --> 08:09.750
+to the application server needs to be secure as well.
+
+205
+08:09.750 --> 08:12.480
+And you need also to have the capability
+
+206
+08:12.480 --> 08:15.150
+to manage the secure lifecycle of your device
+
+207
+08:15.150 --> 08:17.580
+through framework signing service
+
+208
+08:17.580 --> 08:19.943
+and different things like that.
+
+209
+08:19.943 --> 08:22.710
+So IoT security is big
+
+210
+08:22.710 --> 08:24.720
+and it depends also on the type of applications.
+
+211
+08:24.720 --> 08:26.160
+What you do with the smart metering
+
+212
+08:26.160 --> 08:28.350
+or grid is not the same as a pet tracker.
+
+213
+08:28.350 --> 08:29.610
+It's not the same when we are talking about
+
+214
+08:29.610 --> 08:31.380
+healthcare or automotive.
+
+215
+08:31.380 --> 08:33.000
+That can be linked also to safety.
+
+216
+08:33.000 --> 08:34.170
+So there is a lot of things that needs
+
+217
+08:34.170 --> 08:35.720
+to be taken into consideration.
+
+218
+08:36.793 --> 08:37.626
+<v ->Yeah, yeah.</v>
+
+219
+08:37.626 --> 08:39.480
+And I think hopefully we can get a little bit
+
+220
+08:39.480 --> 08:43.050
+more into that in the future questions.
+
+221
+08:43.050 --> 08:44.550
+'Cause I do think that there's things
+
+222
+08:44.550 --> 08:46.980
+that we can learn cross industry, right?
+
+223
+08:46.980 --> 08:49.200
+Especially if we're looking at the framework
+
+224
+08:49.200 --> 08:52.800
+of end-to-end cybersecurity and looking at an endpoint
+
+225
+08:52.800 --> 08:55.140
+or an operating system or how do you encrypt
+
+226
+08:55.140 --> 08:56.310
+and secure the channels.
+
+227
+08:56.310 --> 08:59.325
+So I think finding similarities
+
+228
+08:59.325 --> 09:02.430
+and helping to share that across verticals is important.
+
+229
+09:02.430 --> 09:03.510
+But yeah, let's get a little bit
+
+230
+09:03.510 --> 09:04.830
+more into that in a bit.
+
+231
+09:04.830 --> 09:08.070
+So Trish, last thing in terms of setting the stage
+
+232
+09:08.070 --> 09:10.920
+from a perspective, from you.
+
+233
+09:10.920 --> 09:14.400
+You have experience across FinTech, across healthcare.
+
+234
+09:14.400 --> 09:16.020
+So what are you seeing in terms
+
+235
+09:16.020 --> 09:19.200
+of cybersecurity in these areas that we should be aware of?
+
+236
+09:19.200 --> 09:22.260
+<v ->Yeah, sorry, no, that's a really great question.</v>
+
+237
+09:22.260 --> 09:24.420
+You know, even based on things that Sri was saying,
+
+238
+09:24.420 --> 09:26.010
+and Greg was saying, a lot of this,
+
+239
+09:26.010 --> 09:28.320
+if you think of it from a security perspective,
+
+240
+09:28.320 --> 09:29.640
+the industry itself,
+
+241
+09:29.640 --> 09:32.130
+security we have to think of it as being more horizontal.
+
+242
+09:32.130 --> 09:33.690
+It is not a vertical play.
+
+243
+09:33.690 --> 09:36.660
+Yes, there are differences within the vertical arenas
+
+244
+09:36.660 --> 09:37.980
+as to how things are used,
+
+245
+09:37.980 --> 09:39.030
+what you need to protect,
+
+246
+09:39.030 --> 09:40.680
+what type of data and stuff is critical
+
+247
+09:40.680 --> 09:44.700
+to your organization from both an operational and a revenue
+
+248
+09:44.700 --> 09:46.500
+and a business perspective.
+
+249
+09:46.500 --> 09:47.460
+But at the same point,
+
+250
+09:47.460 --> 09:48.870
+you need to think about the fact
+
+251
+09:48.870 --> 09:50.730
+that different industries
+
+252
+09:50.730 --> 09:54.060
+or different verticals are gonna latch onto security
+
+253
+09:54.060 --> 09:55.290
+faster than others will.
+
+254
+09:55.290 --> 09:57.360
+I mean, financial services is always
+
+255
+09:57.360 --> 09:59.760
+an early adapter from a security perspective.
+
+256
+09:59.760 --> 10:00.870
+However, the issues
+
+257
+10:00.870 --> 10:03.150
+and the challenges that you see within healthcare
+
+258
+10:03.150 --> 10:04.590
+that you see in manufacturing,
+
+259
+10:04.590 --> 10:07.200
+that you see in in consumer business,
+
+260
+10:07.200 --> 10:09.240
+it's very, very similar.
+
+261
+10:09.240 --> 10:10.500
+So you need to think about
+
+262
+10:10.500 --> 10:13.593
+how you wanna protect this from a holistic perspective.
+
+263
+10:14.909 --> 10:17.940
+And even though you may have a business that has, you know,
+
+264
+10:17.940 --> 10:21.150
+multiple different types of security parameters,
+
+265
+10:21.150 --> 10:22.500
+you know, you could be a holding company
+
+266
+10:22.500 --> 10:23.760
+and you have things in consumer,
+
+267
+10:23.760 --> 10:26.760
+you have things in maybe in travel and logistics,
+
+268
+10:26.760 --> 10:28.590
+or you know, the different areas,
+
+269
+10:28.590 --> 10:29.640
+the threats you need
+
+270
+10:29.640 --> 10:32.220
+to also think about are, you know,
+
+271
+10:32.220 --> 10:34.320
+how can anybody or what can be used
+
+272
+10:34.320 --> 10:36.660
+to potentially get into my infrastructure.
+
+273
+10:36.660 --> 10:40.380
+We see a lot of changes right now with zero day attacks.
+
+274
+10:40.380 --> 10:42.930
+You know, people don't know how do I, what do I do?
+
+275
+10:42.930 --> 10:44.160
+How do I start to do this?
+
+276
+10:44.160 --> 10:47.220
+And you feel a lot of people that get this instant,
+
+277
+10:47.220 --> 10:50.010
+oh my gosh, how am I gonna handle this scenario
+
+278
+10:50.010 --> 10:52.020
+in which you just need to think about it, okay,
+
+279
+10:52.020 --> 10:54.210
+you're zero day, things are gonna happen.
+
+280
+10:54.210 --> 10:57.360
+Everybody to some extent is going to be attacked
+
+281
+10:57.360 --> 11:00.300
+or probably has been and may or may not know it.
+
+282
+11:00.300 --> 11:02.220
+You need to think about the fact that, you know what,
+
+283
+11:02.220 --> 11:05.190
+we need to put something in place that can start to traverse
+
+284
+11:05.190 --> 11:07.290
+and start to understand what's going on
+
+285
+11:07.290 --> 11:10.590
+within the infrastructure from the security perspective,
+
+286
+11:10.590 --> 11:12.960
+regardless of the type of device.
+
+287
+11:12.960 --> 11:15.270
+IoT is a huge threat right now.
+
+288
+11:15.270 --> 11:17.490
+It is a big security gap.
+
+289
+11:17.490 --> 11:19.560
+Everybody's been talking about the fact
+
+290
+11:19.560 --> 11:22.770
+that these devices have kind of grown, you know,
+
+291
+11:22.770 --> 11:24.750
+as Sri and everybody said, exponentially.
+
+292
+11:24.750 --> 11:26.370
+It's kind of become the wild west
+
+293
+11:26.370 --> 11:29.070
+and then everybody's kind of thinking about now going,
+
+294
+11:29.940 --> 11:32.070
+I need to build security into this,
+
+295
+11:32.070 --> 11:33.660
+but what do I do about those devices
+
+296
+11:33.660 --> 11:36.000
+that have sat out there for years?
+
+297
+11:36.000 --> 11:38.610
+You know, 'cause IoT devices were put, were, you know,
+
+298
+11:38.610 --> 11:41.460
+originally designed to be in areas where you didn't have
+
+299
+11:41.460 --> 11:43.020
+to have a person go out to them
+
+300
+11:43.020 --> 11:45.150
+or you didn't have to have accessibility.
+
+301
+11:45.150 --> 11:49.440
+And it really, you know, was kind of a lone wolf out there.
+
+302
+11:49.440 --> 11:51.870
+But now you need to start to think, it's got old hardware,
+
+303
+11:51.870 --> 11:53.340
+it may have old firmware,
+
+304
+11:53.340 --> 11:55.440
+there may be things hard coded in this.
+
+305
+11:55.440 --> 11:58.380
+These are potential threats into your infrastructure.
+
+306
+11:58.380 --> 12:01.350
+So regardless of the vertical, you know,
+
+307
+12:01.350 --> 12:04.590
+a lot of the challenges are still the same.
+
+308
+12:04.590 --> 12:05.670
+It's how you handle those
+
+309
+12:05.670 --> 12:08.850
+and think of really what your business priorities are.
+
+310
+12:08.850 --> 12:10.410
+<v ->Yeah, thank you Trish.</v>
+
+311
+12:10.410 --> 12:12.360
+That was a great lead into this next section,
+
+312
+12:12.360 --> 12:14.610
+which I really do wanna have focused on
+
+313
+12:14.610 --> 12:15.870
+threats and challenges.
+
+314
+12:15.870 --> 12:18.660
+And actually as I was walking over here this morning,
+
+315
+12:18.660 --> 12:20.280
+you know, I was thinking about this story
+
+316
+12:20.280 --> 12:21.810
+and now it's seven years old,
+
+317
+12:21.810 --> 12:23.940
+but when the casino was hacked
+
+318
+12:23.940 --> 12:26.700
+because there was a fish tank with a smart thermostat,
+
+319
+12:26.700 --> 12:27.840
+had no security on it.
+
+320
+12:27.840 --> 12:30.330
+So as we go into this next section,
+
+321
+12:30.330 --> 12:33.120
+if anyone else has other stories that they'd like to share,
+
+322
+12:33.120 --> 12:34.770
+let's come up with some more relevant ones.
+
+323
+12:34.770 --> 12:37.350
+I know there's recently, I think, what is this,
+
+324
+12:37.350 --> 12:39.900
+the salt typhoon talking about telecom attacks.
+
+325
+12:39.900 --> 12:40.733
+So maybe,
+
+326
+12:41.850 --> 12:43.110
+I think there's,
+
+327
+12:43.110 --> 12:44.670
+people are,
+
+328
+12:44.670 --> 12:45.810
+we're getting a lot better.
+
+329
+12:45.810 --> 12:48.570
+We've gotten a lot better at securing enterprise networks,
+
+330
+12:48.570 --> 12:50.730
+enterprise devices, servers, laptops,
+
+331
+12:50.730 --> 12:52.530
+even within companies.
+
+332
+12:52.530 --> 12:55.080
+But then what's the next front that attackers
+
+333
+12:55.080 --> 12:56.760
+and bad actors are going after?
+
+334
+12:56.760 --> 12:59.377
+It's these, again, maybe smaller devices
+
+335
+12:59.377 --> 13:03.210
+that can be turned into to like bot attacks
+
+336
+13:03.210 --> 13:06.150
+or just entry ways to get into a corporate network
+
+337
+13:06.150 --> 13:08.400
+or into this casino network for example.
+
+338
+13:08.400 --> 13:12.150
+Or get into, you know, into a retail facility
+
+339
+13:12.150 --> 13:15.000
+because you hacked into the HVAC system.
+
+340
+13:15.000 --> 13:16.830
+So let's talk a little bit about some
+
+341
+13:16.830 --> 13:17.970
+of those threats and challenges.
+
+342
+13:17.970 --> 13:20.610
+And Eric, I would like to go over to you.
+
+343
+13:20.610 --> 13:22.320
+So what are come some of the top challenges
+
+344
+13:22.320 --> 13:25.290
+that you've heard companies are facing today?
+
+345
+13:25.290 --> 13:27.300
+<v ->Well, I'll start by echoing what Trish was saying</v>
+
+346
+13:27.300 --> 13:29.010
+is that, you know, depending upon your vertical,
+
+347
+13:29.010 --> 13:31.440
+depending upon the services you provide,
+
+348
+13:31.440 --> 13:33.450
+depending upon the kind of data you traffic in,
+
+349
+13:33.450 --> 13:34.950
+depending upon your geography,
+
+350
+13:36.330 --> 13:38.460
+the challenges are going to vary considerably
+
+351
+13:38.460 --> 13:41.070
+from company to company, from vertical to vertical.
+
+352
+13:41.070 --> 13:44.130
+But there are some practical considerations
+
+353
+13:44.130 --> 13:46.590
+that are, if not universal, near universal.
+
+354
+13:46.590 --> 13:50.760
+And the way I would shorthand it is resource constraints.
+
+355
+13:50.760 --> 13:52.620
+That there is so much that needs
+
+356
+13:52.620 --> 13:54.540
+to be done that can be done.
+
+357
+13:54.540 --> 13:56.730
+That where there are customer pressures, market pressures,
+
+358
+13:56.730 --> 13:59.730
+regulatory pressures that you are under
+
+359
+13:59.730 --> 14:03.870
+as a company, especially in the IoT space, to do.
+
+360
+14:03.870 --> 14:06.360
+But you have limited resources with which to do it.
+
+361
+14:06.360 --> 14:08.160
+And Gregory and I were talking about this
+
+362
+14:08.160 --> 14:11.400
+before the panel that a good way to describe that
+
+363
+14:11.400 --> 14:14.190
+or to to think about that is as a cost constraint
+
+364
+14:14.190 --> 14:17.310
+or the economic pressures in the IoT space.
+
+365
+14:17.310 --> 14:19.110
+It's not true for all IoT companies,
+
+366
+14:19.110 --> 14:22.080
+but for many they are,
+
+367
+14:22.080 --> 14:24.180
+the marketplace competition is fierce
+
+368
+14:24.180 --> 14:25.440
+and they are under a lot of pressure
+
+369
+14:25.440 --> 14:27.510
+to keep their prices very low.
+
+370
+14:27.510 --> 14:28.770
+When your prices are very low,
+
+371
+14:28.770 --> 14:30.060
+you have limited resources
+
+372
+14:30.060 --> 14:32.580
+with which to address various needs.
+
+373
+14:32.580 --> 14:34.440
+Cybersecurity is gonna be chief among those.
+
+374
+14:34.440 --> 14:37.260
+And there are lots of companies that, you know,
+
+375
+14:37.260 --> 14:39.120
+as Trish said, you said you bolted on afterwards
+
+376
+14:39.120 --> 14:40.680
+because when you're first starting out,
+
+377
+14:40.680 --> 14:41.550
+you're worried about building it,
+
+378
+14:41.550 --> 14:42.690
+you're worried about getting it to market
+
+379
+14:42.690 --> 14:43.770
+and you're worried about actually
+
+380
+14:43.770 --> 14:46.020
+selling it at a competitive price.
+
+381
+14:46.020 --> 14:51.020
+And so a lot of companies are coming late to cybersecurity
+
+382
+14:51.240 --> 14:53.820
+in their products, in their space in their services,
+
+383
+14:53.820 --> 14:56.370
+not necessarily out of either ignorance
+
+384
+14:56.370 --> 14:59.130
+or, you know, disdain for security practices,
+
+385
+14:59.130 --> 15:01.680
+but just because they have other priorities there.
+
+386
+15:01.680 --> 15:03.930
+The incentive structure
+
+387
+15:03.930 --> 15:07.920
+and the risks in the marketplace are structured around
+
+388
+15:07.920 --> 15:10.170
+a narrow focus on delivering
+
+389
+15:10.170 --> 15:12.300
+and delivering at low price points.
+
+390
+15:12.300 --> 15:13.920
+And you know, while this is certainly true
+
+391
+15:13.920 --> 15:16.650
+for inexpensive consumer electronics,
+
+392
+15:16.650 --> 15:18.450
+it also applies to areas
+
+393
+15:18.450 --> 15:21.030
+where there are components going into automobiles
+
+394
+15:21.030 --> 15:23.400
+and airplanes where there's still a lot of pressure
+
+395
+15:23.400 --> 15:26.010
+to keep prices low and there's a lot of competition
+
+396
+15:26.010 --> 15:27.630
+and it's a dynamic marketplace.
+
+397
+15:27.630 --> 15:31.650
+So it is, again, sort of this lack of resources,
+
+398
+15:31.650 --> 15:34.980
+economic resources to be able to devote to a complex problem
+
+399
+15:34.980 --> 15:38.160
+where there isn't one single, you know, biggest challenge.
+
+400
+15:38.160 --> 15:40.680
+It really just depends upon what you're doing,
+
+401
+15:40.680 --> 15:44.040
+where you are and what sort of threats you face.
+
+402
+15:44.040 --> 15:45.150
+<v ->Yeah, yeah, great points.</v>
+
+403
+15:45.150 --> 15:46.500
+I think a lot of it is about,
+
+404
+15:46.500 --> 15:48.720
+it's an ROI decision too,
+
+405
+15:48.720 --> 15:50.340
+designing and security
+
+406
+15:50.340 --> 15:53.310
+and also sometimes taking a risk of a breach.
+
+407
+15:53.310 --> 15:55.913
+So I know at a key factor we've done a study
+
+408
+15:55.913 --> 15:56.746
+where it's, you know,
+
+409
+15:56.746 --> 15:58.980
+the cost of a breach could be $2 million.
+
+410
+15:58.980 --> 16:01.260
+So do you wanna just pay that
+
+411
+16:01.260 --> 16:02.880
+or do you wanna be more prescriptive
+
+412
+16:02.880 --> 16:04.050
+upfront for preventative?
+
+413
+16:04.050 --> 16:05.100
+<v ->Well, and it's worth noting that,</v>
+
+414
+16:05.100 --> 16:05.933
+and we're gonna talk, I'm sure,
+
+415
+16:05.933 --> 16:07.830
+a little bit later about
+
+416
+16:07.830 --> 16:09.930
+the regulatory schemes that are now entering
+
+417
+16:09.930 --> 16:12.300
+into the marketplace globally.
+
+418
+16:12.300 --> 16:14.580
+But you know, leading up to this point,
+
+419
+16:14.580 --> 16:17.310
+it was really that cost risk calculus,
+
+420
+16:17.310 --> 16:19.110
+cost benefit analysis of,
+
+421
+16:19.110 --> 16:21.600
+okay, if I don't really go do everything
+
+422
+16:21.600 --> 16:23.670
+that I should be doing with respect to cybersecurity,
+
+423
+16:23.670 --> 16:24.990
+what's the impact?
+
+424
+16:24.990 --> 16:26.700
+And part of it depends on how likely
+
+425
+16:26.700 --> 16:28.860
+am I to suffer a breach.
+
+426
+16:28.860 --> 16:31.260
+And a lot of companies are willing to roll the dice
+
+427
+16:31.260 --> 16:33.240
+and just say, you know,
+
+428
+16:33.240 --> 16:36.120
+it's hard to internalize a cost
+
+429
+16:36.120 --> 16:39.210
+that hasn't happened and that might not.
+
+430
+16:39.210 --> 16:40.680
+<v ->Right. Yeah. Yes.</v>
+
+431
+16:40.680 --> 16:41.513
+Yeah, but yeah,
+
+432
+16:41.513 --> 16:43.380
+let's talk about the certifications in a bit.
+
+433
+16:43.380 --> 16:44.520
+So next question.
+
+434
+16:44.520 --> 16:46.170
+So Trish and maybe also Erik,
+
+435
+16:46.170 --> 16:48.330
+about connectivity and risks
+
+436
+16:48.330 --> 16:50.700
+around connectivity and infrastructure.
+
+437
+16:50.700 --> 16:53.100
+So what challenges, I think if we go specifically
+
+438
+16:53.100 --> 16:56.160
+into that sort of network layer, are you guys seeing?
+
+439
+16:56.160 --> 16:57.690
+<v ->Yeah, so I mean if you think about it</v>
+
+440
+16:57.690 --> 16:59.400
+from the connectivity perspective,
+
+441
+16:59.400 --> 17:00.780
+from the cellular side of the house,
+
+442
+17:00.780 --> 17:02.190
+I mean your cellular traffic runs
+
+443
+17:02.190 --> 17:03.750
+through your existing, you know,
+
+444
+17:03.750 --> 17:05.490
+infrastructure and everything.
+
+445
+17:05.490 --> 17:07.440
+But the challenge that you have is you start
+
+446
+17:07.440 --> 17:09.450
+to think about it not just from connectivity.
+
+447
+17:09.450 --> 17:12.090
+And of course I'm gonna bend more toward the security
+
+448
+17:12.090 --> 17:14.040
+side because that is my background.
+
+449
+17:14.040 --> 17:16.920
+You have to think about the fact that a lot of that data
+
+450
+17:16.920 --> 17:19.200
+that's brought in from the connectivity
+
+451
+17:19.200 --> 17:20.790
+is very much aggregated.
+
+452
+17:20.790 --> 17:21.720
+So you don't know.
+
+453
+17:21.720 --> 17:24.240
+And what happens if you have one device that's going awry
+
+454
+17:24.240 --> 17:27.030
+or if you have one device that has been,
+
+455
+17:27.030 --> 17:29.610
+has really opened an attack surface for you,
+
+456
+17:29.610 --> 17:32.610
+how do you figure out which device it is versus selling
+
+457
+17:32.610 --> 17:34.950
+or setting off everything, okay, this business unit,
+
+458
+17:34.950 --> 17:36.540
+'cause that's part of that's gotta be shut down
+
+459
+17:36.540 --> 17:37.920
+or you know, no connectivity
+
+460
+17:37.920 --> 17:39.720
+till we figure out what's going on.
+
+461
+17:39.720 --> 17:41.969
+What's really important to think about from the connectivity
+
+462
+17:41.969 --> 17:44.580
+side of the house is how do you start
+
+463
+17:44.580 --> 17:45.780
+to bring all this together
+
+464
+17:45.780 --> 17:48.480
+and really understand it from a device perspective?
+
+465
+17:48.480 --> 17:52.680
+You know, 'cause you wanna be able to frame that one device,
+
+466
+17:52.680 --> 17:54.690
+look at what it's interacting with,
+
+467
+17:54.690 --> 17:56.280
+what it's potentially dialing out,
+
+468
+17:56.280 --> 17:58.680
+is it going out to a command and control center?
+
+469
+17:58.680 --> 18:01.350
+Is there malware threats associated with it?
+
+470
+18:01.350 --> 18:02.580
+All of these, you know,
+
+471
+18:02.580 --> 18:04.098
+and I'm, like I said, gonna bring in this back
+
+472
+18:04.098 --> 18:06.120
+to the security side.
+
+473
+18:06.120 --> 18:07.830
+It's very similar to what you've done
+
+474
+18:07.830 --> 18:09.270
+from a network side of the house,
+
+475
+18:09.270 --> 18:10.103
+but you also need
+
+476
+18:10.103 --> 18:13.560
+to think about it from the connectivity side of the house.
+
+477
+18:13.560 --> 18:15.990
+Do you have things to add to that, Erik, or?
+
+478
+18:15.990 --> 18:18.033
+<v ->Look, yeah, I totally agree</v>
+
+479
+18:18.033 --> 18:20.280
+with everything you've been saying.
+
+480
+18:20.280 --> 18:21.300
+Regarding your question,
+
+481
+18:21.300 --> 18:23.340
+how important is it on connectivity?
+
+482
+18:23.340 --> 18:24.173
+Think about it.
+
+483
+18:24.173 --> 18:26.830
+Connectivity, something that is not connected
+
+484
+18:27.930 --> 18:31.290
+can only be attacked if you go physically there, right?
+
+485
+18:31.290 --> 18:34.080
+A computer which doesn't have an internet connection.
+
+486
+18:34.080 --> 18:34.913
+<v Ellen>Yeah.</v>
+
+487
+18:34.913 --> 18:36.330
+<v ->You need to physically go there to manipulate.</v>
+
+488
+18:36.330 --> 18:40.980
+So therefore connectivity is actually the entry point
+
+489
+18:40.980 --> 18:43.170
+for any remote attacker
+
+490
+18:43.170 --> 18:46.470
+and therefore you need to secure it appropriately.
+
+491
+18:46.470 --> 18:48.780
+And I think we'll talk,
+
+492
+18:48.780 --> 18:50.910
+the next questions about how we do that, right?
+
+493
+18:50.910 --> 18:51.840
+<v ->Okay, great.</v>
+
+494
+18:51.840 --> 18:52.673
+Thank you.
+
+495
+18:53.584 --> 18:56.260
+Okay, so Greg, let's talk a little bit about
+
+496
+18:57.876 --> 19:01.170
+how do you see companies managing IoT security
+
+497
+19:01.170 --> 19:03.480
+when it's massive deployments?
+
+498
+19:03.480 --> 19:04.710
+<v ->That's a very good question</v>
+
+499
+19:04.710 --> 19:06.810
+because I think as Sri was mentioning,
+
+500
+19:06.810 --> 19:09.570
+we see there are more and more IoT devices
+
+501
+19:09.570 --> 19:12.357
+and when you manage those type of devices
+
+502
+19:12.357 --> 19:15.120
+and a million of devices that will be connected,
+
+503
+19:15.120 --> 19:16.920
+you need to start from the beginning.
+
+504
+19:16.920 --> 19:19.980
+If in terms of company you don't have a mindset
+
+505
+19:19.980 --> 19:23.700
+of security by design, then it's a little bit too late.
+
+506
+19:23.700 --> 19:25.740
+There are things that can be done, you can patch,
+
+507
+19:25.740 --> 19:26.820
+there are things that can be done.
+
+508
+19:26.820 --> 19:28.260
+But once the device is in the field,
+
+509
+19:28.260 --> 19:29.370
+if you don't have remotely,
+
+510
+19:29.370 --> 19:32.580
+the capacity to do something is gonna be very complex.
+
+511
+19:32.580 --> 19:33.413
+So the way to do it,
+
+512
+19:33.413 --> 19:36.030
+there are different steps that you need to do.
+
+513
+19:36.030 --> 19:38.400
+And it's the same as some organization has done in the past.
+
+514
+19:38.400 --> 19:40.800
+We're talking about the IT, IT has done it.
+
+515
+19:40.800 --> 19:43.170
+The OT monitoring, we managed security services,
+
+516
+19:43.170 --> 19:44.100
+they're doing it.
+
+517
+19:44.100 --> 19:46.110
+But it takes time, it's a process.
+
+518
+19:46.110 --> 19:50.910
+And every actors on the IoT must be part of this journey.
+
+519
+19:50.910 --> 19:53.130
+It's coming from the silicon vendor
+
+520
+19:53.130 --> 19:56.130
+who are bridging a little bit more and more security inside.
+
+521
+19:56.130 --> 19:59.580
+It's the device maker who need also to pro,
+
+522
+19:59.580 --> 20:02.280
+let's say to program and to help the end user
+
+523
+20:02.280 --> 20:03.870
+to have some secret mechanism on it.
+
+524
+20:03.870 --> 20:05.190
+It's also the service provider,
+
+525
+20:05.190 --> 20:06.990
+the one who will deploy the device
+
+526
+20:06.990 --> 20:08.880
+to also have the capability to do things.
+
+527
+20:08.880 --> 20:11.529
+So we really need to think as a kind
+
+528
+20:11.529 --> 20:14.040
+of a 360 offering from the design
+
+529
+20:14.040 --> 20:15.270
+up to the devices in the field
+
+530
+20:15.270 --> 20:16.620
+and then the refurbish as well,
+
+531
+20:16.620 --> 20:18.180
+because this is where it is gonna be key.
+
+532
+20:18.180 --> 20:20.550
+You need to think globally to that.
+
+533
+20:20.550 --> 20:22.470
+<v ->Yeah, that's a great answer, thank you.</v>
+
+534
+20:22.470 --> 20:24.540
+Okay, so we're gonna start
+
+535
+20:24.540 --> 20:26.640
+to shift into the solutions.
+
+536
+20:26.640 --> 20:29.220
+So, but before we do that, so Sri maybe one last question
+
+537
+20:29.220 --> 20:30.820
+to kinda help lead us into that.
+
+538
+20:31.822 --> 20:35.280
+So how is the cybersecurity community developing
+
+539
+20:35.280 --> 20:37.680
+best practices and guidelines
+
+540
+20:37.680 --> 20:39.690
+to help companies navigate these challenges
+
+541
+20:39.690 --> 20:41.665
+that we've just been talking about?
+
+542
+20:41.665 --> 20:44.820
+So what are you seeing in from that space?
+
+543
+20:44.820 --> 20:48.480
+<v ->Well, so it's been kind of interesting</v>
+
+544
+20:48.480 --> 20:51.420
+because people look at it, mean if you took,
+
+545
+20:51.420 --> 20:53.040
+if you take a typical IoT system,
+
+546
+20:53.040 --> 20:56.700
+there's a device, there's a network, there's an application.
+
+547
+20:56.700 --> 20:59.310
+And so when they come up with standards
+
+548
+20:59.310 --> 21:00.330
+and regulations around,
+
+549
+21:00.330 --> 21:02.670
+or come up with standards to say how to secure this,
+
+550
+21:02.670 --> 21:04.680
+they're looking at it from network and application,
+
+551
+21:04.680 --> 21:07.110
+which are easy.
+
+552
+21:07.110 --> 21:08.100
+I shouldn't say easy.
+
+553
+21:08.100 --> 21:11.550
+There are existing best practices that they can bring to it
+
+554
+21:11.550 --> 21:15.270
+to make it all happen like from the IT side, right?
+
+555
+21:15.270 --> 21:16.710
+But devices are very unique.
+
+556
+21:16.710 --> 21:19.890
+It's not a laptop, it's not something like router
+
+557
+21:19.890 --> 21:20.970
+or something that's known.
+
+558
+21:20.970 --> 21:24.870
+So now device ecosystems are very fragmented,
+
+559
+21:24.870 --> 21:26.820
+because it's where you create a device
+
+560
+21:26.820 --> 21:28.560
+for a particular use case.
+
+561
+21:28.560 --> 21:31.560
+So which means it may have its own operating system
+
+562
+21:31.560 --> 21:34.020
+or maybe even a proprietary operating system.
+
+563
+21:34.020 --> 21:36.780
+And the skillset to manage those devices
+
+564
+21:36.780 --> 21:39.450
+to make sure that those devices are secure,
+
+565
+21:39.450 --> 21:40.283
+are really hard.
+
+566
+21:40.283 --> 21:42.153
+That's a big challenge, right?
+
+567
+21:43.885 --> 21:45.360
+So companies cannot hire enough people
+
+568
+21:45.360 --> 21:47.220
+that understand all of that.
+
+569
+21:47.220 --> 21:50.790
+So just as you were talking about the whole life cycle,
+
+570
+21:50.790 --> 21:53.250
+it's almost like the device manufacturers to make sure
+
+571
+21:53.250 --> 21:55.290
+that the skill sets translate,
+
+572
+21:55.290 --> 21:57.600
+get sold along with those devices to make sure
+
+573
+21:57.600 --> 22:00.630
+that enterprises understand those challenges
+
+574
+22:00.630 --> 22:02.400
+of managing those devices.
+
+575
+22:02.400 --> 22:03.720
+<v ->Yeah, good, okay.</v>
+
+576
+22:03.720 --> 22:05.130
+So let's get into some of the specifics
+
+577
+22:05.130 --> 22:06.060
+and thank you Sri.
+
+578
+22:06.060 --> 22:07.452
+So Eric, we'll go to you first.
+
+579
+22:07.452 --> 22:08.285
+<v ->Sure.</v>
+
+580
+22:08.285 --> 22:12.120
+<v ->What key standards are IoT companies needing</v>
+
+581
+22:12.120 --> 22:13.650
+to be aware of these days?
+
+582
+22:13.650 --> 22:15.480
+'Cause I know there's a lot of 'em.
+
+583
+22:15.480 --> 22:18.510
+There's regional ones, there's vertical based ones.
+
+584
+22:18.510 --> 22:20.460
+So, but let's just talk about a couple here
+
+585
+22:20.460 --> 22:22.299
+that might be very relevant for the group.
+
+586
+22:22.299 --> 22:23.970
+<v ->Well, yeah, and I'll,</v>
+
+587
+22:23.970 --> 22:25.410
+there's obviously there's a lot to say here,
+
+588
+22:25.410 --> 22:27.803
+so feel free to cut me off if we need to move on.
+
+589
+22:29.385 --> 22:31.050
+But as we were discussing earlier, you know,
+
+590
+22:31.050 --> 22:33.630
+it has historically principally been just a question
+
+591
+22:33.630 --> 22:37.140
+of what's the risk, what's the risk of breach,
+
+592
+22:37.140 --> 22:39.840
+or you know, some sort of catastrophic loss
+
+593
+22:39.840 --> 22:41.460
+and the, you know, potential lawsuits
+
+594
+22:41.460 --> 22:42.870
+that might result from that.
+
+595
+22:42.870 --> 22:46.410
+Now things have shifted a bit more to the question
+
+596
+22:46.410 --> 22:49.260
+of what sort of penalties might I face
+
+597
+22:49.260 --> 22:50.850
+if I do end up having a breach
+
+598
+22:50.850 --> 22:52.950
+or some operating problem with my system
+
+599
+22:52.950 --> 22:54.870
+as a result of cybersecurity.
+
+600
+22:54.870 --> 22:57.340
+And I would say that the dominant
+
+601
+22:58.200 --> 23:02.640
+force in this arena is the EU Cybersecurity Resilience Act,
+
+602
+23:02.640 --> 23:06.720
+which just got finalized at the end of 2024.
+
+603
+23:06.720 --> 23:09.843
+You know, it'll begin coming into force in 2026,
+
+604
+23:10.852 --> 23:13.620
+but even, and fully enforced in 2027.
+
+605
+23:13.620 --> 23:16.743
+But now, you know, well before then, now,
+
+606
+23:17.700 --> 23:19.380
+you are seeing companies
+
+607
+23:19.380 --> 23:21.690
+that are requiring their vendors
+
+608
+23:21.690 --> 23:24.390
+to demonstrate their compliance with the CRA,
+
+609
+23:24.390 --> 23:27.060
+because design cycles are long enough that, you know,
+
+610
+23:27.060 --> 23:29.610
+you can't say, oh, I'll wait until 2026
+
+611
+23:29.610 --> 23:34.080
+and then see whether I or my vendors are in compliance.
+
+612
+23:34.080 --> 23:36.330
+You have to be much more proactive than that.
+
+613
+23:37.300 --> 23:38.640
+And you know, with the CRA,
+
+614
+23:38.640 --> 23:41.370
+the potential penalties are significant,
+
+615
+23:41.370 --> 23:46.143
+from massive fines to denial of market access to the EU.
+
+616
+23:47.382 --> 23:48.360
+And you know, this is something,
+
+617
+23:48.360 --> 23:49.980
+in the same way that California
+
+618
+23:49.980 --> 23:53.490
+vehicle emission standards end up, you know,
+
+619
+23:53.490 --> 23:55.050
+driving vehicle emission standards
+
+620
+23:55.050 --> 23:56.820
+for the entirety of the United States,
+
+621
+23:56.820 --> 24:00.840
+the standards that that the EU is setting will
+
+622
+24:00.840 --> 24:03.300
+end up driving global cybersecurity standards.
+
+623
+24:03.300 --> 24:05.760
+Because as long as you are selling into the EU
+
+624
+24:05.760 --> 24:08.460
+or you sell to a company that sells into the EU,
+
+625
+24:08.460 --> 24:10.080
+you're going to be subject in one way
+
+626
+24:10.080 --> 24:13.620
+or another to the Cyber Resilience Act.
+
+627
+24:13.620 --> 24:15.600
+And so this is the conversation
+
+628
+24:15.600 --> 24:17.100
+that we are having over and over again.
+
+629
+24:17.100 --> 24:19.200
+And it's interesting to note that we've sort
+
+630
+24:19.200 --> 24:23.190
+of seen this ratcheting up slowly the awareness
+
+631
+24:23.190 --> 24:24.510
+in the United States, I should say,
+
+632
+24:24.510 --> 24:27.510
+because, you know, in Europe I think there's been,
+
+633
+24:27.510 --> 24:28.710
+whether because of the GDPR
+
+634
+24:28.710 --> 24:30.510
+or because, you know, it's obvious
+
+635
+24:30.510 --> 24:33.959
+that there's been this strong move in the direction
+
+636
+24:33.959 --> 24:34.950
+of cybersecurity regulations
+
+637
+24:34.950 --> 24:37.500
+that will carry significant penalties.
+
+638
+24:37.500 --> 24:40.080
+There's been, I think higher level of awareness
+
+639
+24:40.080 --> 24:42.048
+among European companies
+
+640
+24:42.048 --> 24:44.190
+of what is out there now and what is coming.
+
+641
+24:44.190 --> 24:47.010
+That awareness is just starting to shift
+
+642
+24:47.010 --> 24:48.180
+dramatically in the United States.
+
+643
+24:48.180 --> 24:49.920
+We've seen it go gradually shifting,
+
+644
+24:49.920 --> 24:52.320
+but it is becoming more pronounced.
+
+645
+24:52.320 --> 24:55.620
+Now, and as you mentioned, there are all sorts of standards,
+
+646
+24:55.620 --> 24:59.490
+international, regional, vertical specific,
+
+647
+24:59.490 --> 25:01.800
+and it's a complicated environment.
+
+648
+25:01.800 --> 25:04.053
+But one thing that is,
+
+649
+25:05.353 --> 25:06.186
+and the idea of the,
+
+650
+25:06.186 --> 25:07.019
+I'm sure that the idea of trying
+
+651
+25:07.019 --> 25:08.400
+to figure out how do I comply with all this,
+
+652
+25:08.400 --> 25:10.200
+is daunting for most companies,
+
+653
+25:10.200 --> 25:12.510
+but the one significant piece
+
+654
+25:12.510 --> 25:15.720
+of good news is that these standards, these certifications,
+
+655
+25:15.720 --> 25:18.150
+the requirements, they're all borrowing from one another
+
+656
+25:18.150 --> 25:20.070
+and they're based on, you know,
+
+657
+25:20.070 --> 25:23.490
+a fairly robust set of common criteria.
+
+658
+25:23.490 --> 25:25.290
+And it is possible, you know,
+
+659
+25:25.290 --> 25:27.540
+to focus on those common criteria.
+
+660
+25:27.540 --> 25:30.840
+Once you make sure that your company is aligned with those,
+
+661
+25:30.840 --> 25:33.360
+then it's the effort to obtain, you know,
+
+662
+25:33.360 --> 25:34.440
+the Singapore certification
+
+663
+25:34.440 --> 25:36.190
+or ensure that you're in compliance
+
+664
+25:37.028 --> 25:39.030
+with the CRA is not as big of a step.
+
+665
+25:39.030 --> 25:40.890
+I don't want to trivialize it,
+
+666
+25:40.890 --> 25:41.910
+because it's still,
+
+667
+25:41.910 --> 25:43.620
+there are a lot of specifics
+
+668
+25:43.620 --> 25:46.270
+in the different regional standards and requirements.
+
+669
+25:48.510 --> 25:51.450
+But once you look at those core common requirements,
+
+670
+25:51.450 --> 25:53.400
+that are a lot of the very basic blocking
+
+671
+25:53.400 --> 25:55.320
+and tackling of cybersecurity.
+
+672
+25:55.320 --> 25:57.150
+If you can cross that bar,
+
+673
+25:57.150 --> 25:59.730
+you've come a long way towards meeting
+
+674
+25:59.730 --> 26:02.820
+the broader and multifaceted requirements
+
+675
+26:02.820 --> 26:04.770
+that you see internationally.
+
+676
+26:04.770 --> 26:05.970
+<v ->That was great advice.</v>
+
+677
+26:05.970 --> 26:07.890
+And I do agree, I feel like the,
+
+678
+26:07.890 --> 26:12.540
+I've heard the CRA talked about in the light of GDPR,
+
+679
+26:12.540 --> 26:14.280
+but bigger and more impactful.
+
+680
+26:14.280 --> 26:17.610
+So it is something that I think is a big deal
+
+681
+26:17.610 --> 26:19.530
+and a good point about being a vendor
+
+682
+26:19.530 --> 26:22.390
+or a supplier to a larger maybe operator
+
+683
+26:23.410 --> 26:25.020
+or OEM machine builder, right?
+
+684
+26:25.020 --> 26:27.060
+That you're gonna need to be responsible, so.
+
+685
+26:27.060 --> 26:28.292
+<v ->Right.</v>
+
+686
+26:28.292 --> 26:29.940
+And this, you know, that construct is one
+
+687
+26:29.940 --> 26:31.440
+that you saw play out in the United States
+
+688
+26:31.440 --> 26:35.160
+when the US government dating from my time
+
+689
+26:35.160 --> 26:36.750
+at the White House in the Obama administration,
+
+690
+26:36.750 --> 26:38.040
+there was still high level
+
+691
+26:38.040 --> 26:40.710
+of fear about imposing mandatory
+
+692
+26:40.710 --> 26:43.770
+cybersecurity regulations on industry, you know,
+
+693
+26:43.770 --> 26:44.880
+except with some exceptions.
+
+694
+26:44.880 --> 26:47.790
+One being Department of Defense procurement
+
+695
+26:47.790 --> 26:48.810
+where Department of Defense
+
+696
+26:48.810 --> 26:50.310
+was willing to impose certain requirements
+
+697
+26:50.310 --> 26:52.920
+on DOD contractors selling directly into the government.
+
+698
+26:52.920 --> 26:54.000
+But those trickle down
+
+699
+26:54.000 --> 26:58.560
+and out to all the companies that supply DOD contractors.
+
+700
+26:58.560 --> 27:01.170
+And you see the same thing happening with CRA,
+
+701
+27:01.170 --> 27:03.180
+with other other cybersecurity regulations.
+
+702
+27:03.180 --> 27:04.013
+<v Ellen>Yeah.</v>
+
+703
+27:04.013 --> 27:04.846
+Awesome, thank you.
+
+704
+27:04.846 --> 27:06.060
+<v ->I think, can I add a little bit to that?</v>
+
+705
+27:06.060 --> 27:07.980
+'Cause I think something that's also really important
+
+706
+27:07.980 --> 27:09.420
+to think about is,
+
+707
+27:09.420 --> 27:11.700
+if you think about it from an organizational perspective,
+
+708
+27:11.700 --> 27:13.710
+you've got all of these different regulations
+
+709
+27:13.710 --> 27:15.630
+that are coming at you, you're like, what do I do?
+
+710
+27:15.630 --> 27:18.150
+And you talked a great deal about the commonalities
+
+711
+27:18.150 --> 27:20.130
+between all of 'em, which is important,
+
+712
+27:20.130 --> 27:21.420
+but in order to think back
+
+713
+27:21.420 --> 27:22.890
+as to how you wanna really protect that,
+
+714
+27:22.890 --> 27:24.180
+you've gotta think about the data
+
+715
+27:24.180 --> 27:26.280
+and how the data is going to be used
+
+716
+27:26.280 --> 27:30.570
+and where the data is of utmost importance.
+
+717
+27:30.570 --> 27:33.060
+You know, so you wanna figure out something,
+
+718
+27:33.060 --> 27:35.130
+you wanna figure out a way to really,
+
+719
+27:35.130 --> 27:37.080
+if you're a global organization,
+
+720
+27:37.080 --> 27:40.050
+you have to be able to unify the user experience.
+
+721
+27:40.050 --> 27:42.212
+You have to be able to make this work
+
+722
+27:42.212 --> 27:47.212
+throughout all of your, you know, organizations globally.
+
+723
+27:47.310 --> 27:48.810
+And that's also another part
+
+724
+27:48.810 --> 27:50.040
+that I think the regulations
+
+725
+27:50.040 --> 27:52.290
+are kind of trying to get there,
+
+726
+27:52.290 --> 27:53.700
+but I don't think they quite know how,
+
+727
+27:53.700 --> 27:55.020
+because it's really difficult.
+
+728
+27:55.020 --> 27:56.970
+I mean, you've got the different verticals,
+
+729
+27:56.970 --> 27:58.770
+you've got everything else that's going on.
+
+730
+27:58.770 --> 28:01.740
+So, you know, don't panic I guess
+
+731
+28:01.740 --> 28:04.350
+is the best thing that I'm trying to lay out here.
+
+732
+28:04.350 --> 28:06.570
+You know, just think about what's the core
+
+733
+28:06.570 --> 28:08.340
+and what's most important
+
+734
+28:08.340 --> 28:10.020
+and gradually get there, you know.
+
+735
+28:10.020 --> 28:10.950
+It's like everything else,
+
+736
+28:10.950 --> 28:12.570
+it's like putting on one shoe at a time,
+
+737
+28:12.570 --> 28:14.100
+dressing in the morning, putting on, you know,
+
+738
+28:14.100 --> 28:15.720
+one pant leg at a time.
+
+739
+28:15.720 --> 28:16.860
+<v ->Yeah, and I think that's also</v>
+
+740
+28:16.860 --> 28:19.740
+why we are here as partners
+
+741
+28:19.740 --> 28:22.923
+and cybersecurity experts to sort of help there as well.
+
+742
+28:23.820 --> 28:24.653
+So thank you.
+
+743
+28:24.653 --> 28:28.590
+So Greg, let's go to your perspective.
+
+744
+28:28.590 --> 28:30.900
+How are these regulations driving behavior?
+
+745
+28:30.900 --> 28:33.060
+Are you seeing different customers coming to you?
+
+746
+28:33.060 --> 28:34.950
+Obviously, Thales has a lot of expertise
+
+747
+28:34.950 --> 28:36.270
+around this area,
+
+748
+28:36.270 --> 28:38.310
+but what are you seeing from behavior
+
+749
+28:38.310 --> 28:39.810
+changes as a result of this?
+
+750
+28:39.810 --> 28:42.510
+<v ->So the first is, I think one thing that was said</v>
+
+751
+28:42.510 --> 28:44.700
+is that when you are looking at IoT devices,
+
+752
+28:44.700 --> 28:45.570
+it's always,
+
+753
+28:45.570 --> 28:47.520
+there are IoT devices that are expensive,
+
+754
+28:47.520 --> 28:50.850
+but most of them it's, they're very cost sensitive.
+
+755
+28:50.850 --> 28:53.430
+So when you are talking about security,
+
+756
+28:53.430 --> 28:54.963
+always there is a price.
+
+757
+28:55.808 --> 28:57.177
+And in the past it was difficult for people to say,
+
+758
+28:57.177 --> 28:59.250
+ah, should I put that on top?
+
+759
+28:59.250 --> 29:00.401
+How can I manage it?
+
+760
+29:00.401 --> 29:01.234
+And so on.
+
+761
+29:01.234 --> 29:02.067
+It's complex.
+
+762
+29:02.067 --> 29:03.360
+I already have my IT, so they say, okay,
+
+763
+29:03.360 --> 29:05.460
+from the IT infrastructure, maybe I can do something.
+
+764
+29:05.460 --> 29:07.293
+But it was limited and that
+
+765
+29:07.293 --> 29:08.823
+that was the real difficulty.
+
+766
+29:09.743 --> 29:12.750
+Now, when the CRA will impose fines,
+
+767
+29:12.750 --> 29:14.684
+the red was already there.
+
+768
+29:14.684 --> 29:16.650
+The US trustmark also in the US will come.
+
+769
+29:16.650 --> 29:18.627
+I think it's changing completely the mindset
+
+770
+29:18.627 --> 29:20.640
+of the overall ecosystem
+
+771
+29:20.640 --> 29:22.860
+or the overall value chain on the IoT.
+
+772
+29:22.860 --> 29:24.990
+People know, say I have to do something,
+
+773
+29:24.990 --> 29:28.230
+I have to protect my device and they will be proactive.
+
+774
+29:28.230 --> 29:29.700
+The main difficulty that they have
+
+775
+29:29.700 --> 29:32.010
+is that it's not the same when you're talking about security
+
+776
+29:32.010 --> 29:33.840
+for the IT or the IT monitoring.,
+
+777
+29:33.840 --> 29:36.150
+IoT is completely different and it's new.
+
+778
+29:36.150 --> 29:37.860
+And I think with the way we see it,
+
+779
+29:37.860 --> 29:38.850
+we see a lot of companies
+
+780
+29:38.850 --> 29:41.903
+that are a little bit lost on the regulation,
+
+781
+29:41.903 --> 29:45.385
+exactly what it means for them, what they have to do.
+
+782
+29:45.385 --> 29:46.260
+If they have to go inside, it means,
+
+783
+29:46.260 --> 29:47.250
+I think that was the point of Sri,
+
+784
+29:47.250 --> 29:48.660
+they need to have experts
+
+785
+29:48.660 --> 29:50.370
+to understand exactly the way to do it.
+
+786
+29:50.370 --> 29:51.780
+So they should turn to companies
+
+787
+29:51.780 --> 29:55.170
+who can help them on understanding what it means for them.
+
+788
+29:55.170 --> 29:58.260
+Making kind of threat assessment, consultancy services,
+
+789
+29:58.260 --> 29:59.670
+review all the architecture
+
+790
+29:59.670 --> 30:01.230
+just to help them to understand
+
+791
+30:01.230 --> 30:02.580
+what are the different things
+
+792
+30:02.580 --> 30:05.910
+that they will have to put in place to be compliant
+
+793
+30:05.910 --> 30:07.980
+to those regulations and new standards.
+
+794
+30:07.980 --> 30:10.620
+So for us and for everyone I think here,
+
+795
+30:10.620 --> 30:12.690
+it's a benefit because at least all the things
+
+796
+30:12.690 --> 30:13.523
+that we have done,
+
+797
+30:13.523 --> 30:14.520
+all the investment that we have done
+
+798
+30:14.520 --> 30:16.770
+on cybersecurity will lead
+
+799
+30:16.770 --> 30:20.520
+and will path the way to help customer on those engagements.
+
+800
+30:20.520 --> 30:22.800
+And we need to support them on making the right
+
+801
+30:22.800 --> 30:24.480
+implementation on what they have to do
+
+802
+30:24.480 --> 30:26.010
+to be compliant to that.
+
+803
+30:26.010 --> 30:28.860
+And I think today we're only talking about compliancy.
+
+804
+30:28.860 --> 30:31.290
+If in the future there will be a need also
+
+805
+30:31.290 --> 30:33.870
+to certify those products that will come
+
+806
+30:33.870 --> 30:35.580
+and that's another step that will come
+
+807
+30:35.580 --> 30:37.230
+and when you go for certification,
+
+808
+30:37.230 --> 30:39.990
+that's another level of what needs to be done.
+
+809
+30:39.990 --> 30:40.920
+<v Eric>Can I just add one thing?</v>
+
+810
+30:40.920 --> 30:42.540
+<v Ellen>Yes, please.</v>
+<v ->Quickly on,</v>
+
+811
+30:42.540 --> 30:44.372
+because you were asking about behavior changes.
+
+812
+30:44.372 --> 30:45.205
+<v Ellen>Yep.</v>
+
+813
+30:45.205 --> 30:46.038
+<v ->And one of the questions</v>
+
+814
+30:46.038 --> 30:46.871
+we're getting a lot and questions,
+
+815
+30:46.871 --> 30:48.750
+internal questions that companies are asking
+
+816
+30:48.750 --> 30:50.370
+is about supply chain.
+
+817
+30:50.370 --> 30:53.190
+And if you look at, you know, the focus of some
+
+818
+30:53.190 --> 30:56.100
+of the bigger movements in the United States regulation
+
+819
+30:56.100 --> 30:59.250
+of cybersecurity focus around China and supply chain.
+
+820
+30:59.250 --> 31:01.170
+And so we get a lot of questions about do I need
+
+821
+31:01.170 --> 31:03.240
+to stop using Chinese components?
+
+822
+31:03.240 --> 31:06.390
+Do I need to stop having R &amp; D done in China?
+
+823
+31:06.390 --> 31:09.240
+And to echo what Gregory was saying,
+
+824
+31:09.240 --> 31:11.460
+there's a lot of ambiguity.
+
+825
+31:11.460 --> 31:12.720
+It's hard to know exactly
+
+826
+31:12.720 --> 31:14.340
+how some of the regulations
+
+827
+31:14.340 --> 31:16.350
+and some of the work that Department of Commerce is doing,
+
+828
+31:16.350 --> 31:17.970
+whether the connected vehicle rule,
+
+829
+31:17.970 --> 31:19.980
+whether they're proposed drone rule,
+
+830
+31:19.980 --> 31:21.540
+data centers are next,
+
+831
+31:21.540 --> 31:23.730
+there's investigations of wireless routers.
+
+832
+31:23.730 --> 31:25.860
+Like, it's hard to know exactly
+
+833
+31:25.860 --> 31:27.090
+how this is gonna be enforced
+
+834
+31:27.090 --> 31:29.310
+and what limits the US government is going
+
+835
+31:29.310 --> 31:32.610
+to impose on supply chain going through China.
+
+836
+31:32.610 --> 31:35.460
+Which is an incredibly challenging question,
+
+837
+31:35.460 --> 31:38.520
+because the supply chain is inherently global
+
+838
+31:38.520 --> 31:41.430
+and most roads go through China on the way
+
+839
+31:41.430 --> 31:43.290
+to delivering an IoT product.
+
+840
+31:43.290 --> 31:45.300
+And that is a behavioral question that a lot
+
+841
+31:45.300 --> 31:47.913
+of companies have been coming to us to ask about.
+
+842
+31:49.080 --> 31:50.130
+What do we need to do
+
+843
+31:50.130 --> 31:53.250
+with respect to supply chain in order to address
+
+844
+31:53.250 --> 31:56.325
+this question about restrictions on supply chain?
+
+845
+31:56.325 --> 31:58.020
+<v ->Yeah, that's a great point.</v>
+
+846
+31:58.020 --> 32:00.780
+Yeah, I know from my perspective, we, at my company,
+
+847
+32:00.780 --> 32:03.060
+we're all about authentication, encryption,
+
+848
+32:03.060 --> 32:04.650
+secure connections
+
+849
+32:04.650 --> 32:07.743
+and identity based, you know,
+
+850
+32:07.743 --> 32:10.470
+with certificates in order to connect to a device
+
+851
+32:10.470 --> 32:14.010
+and then be able to push firmware that you have signed
+
+852
+32:14.010 --> 32:15.540
+and that you know the origin of that.
+
+853
+32:15.540 --> 32:17.040
+So a lot of it is about trust
+
+854
+32:17.040 --> 32:18.280
+and establishing trust
+
+855
+32:19.530 --> 32:20.610
+at all the layers.
+
+856
+32:20.610 --> 32:22.740
+So trusting the hardware and the components
+
+857
+32:22.740 --> 32:24.600
+and the chip sets that you're using
+
+858
+32:24.600 --> 32:25.620
+and then being able to trust
+
+859
+32:25.620 --> 32:27.210
+all the software that runs on it.
+
+860
+32:27.210 --> 32:28.650
+So doing the full risk assessments
+
+861
+32:28.650 --> 32:30.300
+and understanding are there any open source.
+
+862
+32:30.300 --> 32:32.160
+And we've been doing this for years now,
+
+863
+32:32.160 --> 32:34.830
+but I think it's becoming more and more important to be able
+
+864
+32:34.830 --> 32:38.070
+to know that, you know, what sort of code is running inside
+
+865
+32:38.070 --> 32:39.750
+of your devices and inside of the system.
+
+866
+32:39.750 --> 32:42.150
+So there's some basic things around, again,
+
+867
+32:42.150 --> 32:44.940
+secure firmware updates and update ability
+
+868
+32:44.940 --> 32:46.860
+and all of that that I think we're seeing coming out
+
+869
+32:46.860 --> 32:48.540
+in these standards that's important
+
+870
+32:48.540 --> 32:49.770
+to have processes around.
+
+871
+32:49.770 --> 32:51.870
+And it's not just, to Trisha's point earlier,
+
+872
+32:51.870 --> 32:55.980
+it's not just once and done, it's an evolution.
+
+873
+32:55.980 --> 32:58.350
+And because we've deployed these devices,
+
+874
+32:58.350 --> 32:59.790
+whether in a connected vehicle,
+
+875
+32:59.790 --> 33:02.010
+whether they're connected smart meters
+
+876
+33:02.010 --> 33:03.270
+and they're deployed everywhere
+
+877
+33:03.270 --> 33:06.090
+and they're, it's you physically,
+
+878
+33:06.090 --> 33:08.160
+it's a big pain to go out to them.
+
+879
+33:08.160 --> 33:10.680
+We have to be able to connect them remotely, securely,
+
+880
+33:10.680 --> 33:12.540
+to be able to maintain this over time.
+
+881
+33:12.540 --> 33:15.420
+So anyway, just a little bit of my side there.
+
+882
+33:15.420 --> 33:19.743
+So let's go Erik, from a Vodafone perspective,
+
+883
+33:20.667 --> 33:21.870
+what do you guys do
+
+884
+33:21.870 --> 33:24.840
+to help your customers navigate this?
+
+885
+33:24.840 --> 33:26.190
+<v ->Yep.</v>
+<v ->Specifically solution wise?</v>
+
+886
+33:26.190 --> 33:27.960
+<v ->Yep, and I think that fits in very well</v>
+
+887
+33:27.960 --> 33:30.720
+with what the colleagues here have been saying
+
+888
+33:30.720 --> 33:32.340
+also including standards.
+
+889
+33:32.340 --> 33:35.850
+So first of all, what we do is for any customer,
+
+890
+33:35.850 --> 33:38.940
+we do not just make our own system,
+
+891
+33:38.940 --> 33:40.440
+which is the connectivity secure.
+
+892
+33:40.440 --> 33:42.600
+We really look from the customer's device
+
+893
+33:42.600 --> 33:45.030
+all the way into the customer system,
+
+894
+33:45.030 --> 33:47.820
+the transport of data, that needs to be secure.
+
+895
+33:47.820 --> 33:48.930
+And we are the specialists
+
+896
+33:48.930 --> 33:50.970
+for the connectivity part of this.
+
+897
+33:50.970 --> 33:54.390
+And at the same time we also consult the customer
+
+898
+33:54.390 --> 33:56.700
+on how to secure their hardware
+
+899
+33:56.700 --> 33:58.950
+and how to secure the interfaces we have.
+
+900
+33:58.950 --> 34:00.420
+You mentioned it yourself,
+
+901
+34:00.420 --> 34:03.990
+our connectivity service is secure by design.
+
+902
+34:03.990 --> 34:06.450
+From the beginning we've always watched out
+
+903
+34:06.450 --> 34:08.970
+that all the potential entry points
+
+904
+34:08.970 --> 34:12.210
+such as entering the data tunnel
+
+905
+34:12.210 --> 34:15.660
+or addressing a device is impossible
+
+906
+34:15.660 --> 34:17.790
+with our IoT connectivity service.
+
+907
+34:17.790 --> 34:19.920
+In previous times, 10 years ago,
+
+908
+34:19.920 --> 34:23.100
+lots of IoT companies still put a consumer SIM
+
+909
+34:23.100 --> 34:24.420
+into their device.
+
+910
+34:24.420 --> 34:26.640
+If you knew the phone number of that consumer SIM,
+
+911
+34:26.640 --> 34:27.963
+you could just call it,
+
+912
+34:28.989 --> 34:30.090
+reverse engineer some commands
+
+913
+34:30.090 --> 34:32.430
+and you're inside the system, that's impossible.
+
+914
+34:32.430 --> 34:35.580
+We have authentication mechanisms, we have encryption,
+
+915
+34:35.580 --> 34:37.590
+we monitor the data tunnel
+
+916
+34:37.590 --> 34:40.950
+and recently we've also started to use AI
+
+917
+34:40.950 --> 34:43.530
+in order to understand the specific behavior
+
+918
+34:43.530 --> 34:45.750
+of each device, which is out there.
+
+919
+34:45.750 --> 34:48.180
+And if a device behaves differently
+
+920
+34:48.180 --> 34:49.650
+from the expectation.
+
+921
+34:49.650 --> 34:52.350
+If for example, a meter starts sending loads
+
+922
+34:52.350 --> 34:53.370
+and loads of data,
+
+923
+34:53.370 --> 34:55.860
+even though you only expect the register value,
+
+924
+34:55.860 --> 34:58.350
+then we look deeper into that
+
+925
+34:58.350 --> 35:00.240
+and see is that a problem?
+
+926
+35:00.240 --> 35:04.080
+Finally, we also build on all the investments
+
+927
+35:04.080 --> 35:08.250
+into the security systems that Vodafone has done
+
+928
+35:08.250 --> 35:10.440
+and we also consult our customers
+
+929
+35:10.440 --> 35:14.670
+and we stick to all the standards that you mentioned before
+
+930
+35:14.670 --> 35:16.620
+and you also mentioned.
+
+931
+35:16.620 --> 35:17.703
+<v ->Okay, thank you.</v>
+
+932
+35:18.990 --> 35:20.490
+So Trish, maybe one more for you,
+
+933
+35:20.490 --> 35:24.120
+anything else to add about what Aeris does specifically
+
+934
+35:24.120 --> 35:26.190
+to help your customers with this?
+
+935
+35:26.190 --> 35:29.160
+<v ->Yes, I mean very, very similar.</v>
+
+936
+35:29.160 --> 35:32.370
+We, because of the way that Aeris was originally, you know,
+
+937
+35:32.370 --> 35:34.380
+brought up and and developed in the industry,
+
+938
+35:34.380 --> 35:36.510
+we've been around for more than 30 years,
+
+939
+35:36.510 --> 35:38.190
+and the fact that we were originally built
+
+940
+35:38.190 --> 35:40.950
+on a connectivity, we have our own core network.
+
+941
+35:40.950 --> 35:43.923
+We partner with all of the big MNOs, MVNOs,
+
+942
+35:45.030 --> 35:47.550
+or I shouldn't say all, almost all of them,
+
+943
+35:47.550 --> 35:49.290
+in which we help them, you know,
+
+944
+35:49.290 --> 35:51.330
+as they're protecting the infrastructure
+
+945
+35:51.330 --> 35:52.380
+and those types of things,
+
+946
+35:52.380 --> 35:55.950
+we look at it from a perspective of our,
+
+947
+35:55.950 --> 35:57.150
+it's a new product we're getting ready
+
+948
+35:57.150 --> 35:59.940
+to launch out called our watchtower solution,
+
+949
+35:59.940 --> 36:01.380
+in which we can sit there
+
+950
+36:01.380 --> 36:05.520
+and look at suspicious, malicious,
+
+951
+36:05.520 --> 36:09.420
+abnormal activity that is occurring within the devices.
+
+952
+36:09.420 --> 36:10.770
+We allow you to turn around
+
+953
+36:10.770 --> 36:13.950
+and think about it from a per device perspective.
+
+954
+36:13.950 --> 36:15.270
+Like I'd mentioned earlier,
+
+955
+36:15.270 --> 36:16.350
+if I'm seeing some type
+
+956
+36:16.350 --> 36:19.230
+of anomaly or if I'm seeing the device all
+
+957
+36:19.230 --> 36:21.480
+of a sudden calling out, I might wanna say, you know what?
+
+958
+36:21.480 --> 36:23.580
+I need to sequester this one device
+
+959
+36:23.580 --> 36:25.500
+without taking the whole infrastructure down
+
+960
+36:25.500 --> 36:27.313
+or without taking the whole group down,
+
+961
+36:27.313 --> 36:28.920
+because you need to maintain
+
+962
+36:28.920 --> 36:33.240
+some of this interaction that's going on.
+
+963
+36:33.240 --> 36:37.168
+But our solution itself allows you to really look at it
+
+964
+36:37.168 --> 36:40.020
+and start to put together policies and programs.
+
+965
+36:40.020 --> 36:42.540
+And because of the fact that we have done this
+
+966
+36:42.540 --> 36:44.850
+from what we classified as as the core network
+
+967
+36:44.850 --> 36:48.884
+and working with all the big partners out there,
+
+968
+36:48.884 --> 36:49.980
+the carrier partners,
+
+969
+36:49.980 --> 36:54.980
+it allows us to really create a unified user experience.
+
+970
+36:55.892 --> 36:58.276
+So what you can create from policies,
+
+971
+36:58.276 --> 37:01.380
+regardless of which carrier you're using under the covers,
+
+972
+37:01.380 --> 37:03.510
+really allows us to, you know,
+
+973
+37:03.510 --> 37:04.620
+or you as the vendor,
+
+974
+37:04.620 --> 37:06.870
+the company to turn around and say, hey,
+
+975
+37:06.870 --> 37:08.910
+I'm gonna have this type of user experience
+
+976
+37:08.910 --> 37:11.550
+regardless if I'm, you know,
+
+977
+37:11.550 --> 37:14.880
+working throughout from a global perspective.
+
+978
+37:14.880 --> 37:17.160
+You also need to think about, you know, there's a lot
+
+979
+37:17.160 --> 37:19.890
+of great technology that has been put into play.
+
+980
+37:19.890 --> 37:21.540
+We just depend to an add on.
+
+981
+37:21.540 --> 37:23.636
+We're not telling you to get rid
+
+982
+37:23.636 --> 37:24.660
+of your existing infrastructures.
+
+983
+37:24.660 --> 37:27.570
+It's not something that you want to,
+
+984
+37:27.570 --> 37:30.150
+because you're always gonna harden your infrastructure.
+
+985
+37:30.150 --> 37:32.010
+You're gonna harden what's what's happening,
+
+986
+37:32.010 --> 37:33.480
+you know, and what's going on.
+
+987
+37:33.480 --> 37:35.100
+But you wanna be able to add to it
+
+988
+37:35.100 --> 37:38.160
+and really think more from the device perspective.
+
+989
+37:38.160 --> 37:39.960
+And that's one of the key areas
+
+990
+37:39.960 --> 37:44.280
+that Aeris has been able to really focus on lately.
+
+991
+37:44.280 --> 37:45.243
+<v ->Okay, thank you.</v>
+
+992
+37:46.410 --> 37:47.610
+Okay, so just looking at time,
+
+993
+37:47.610 --> 37:49.530
+I think this will probably be our last question.
+
+994
+37:49.530 --> 37:53.130
+So Sri like to get your thoughts on this.
+
+995
+37:53.130 --> 37:54.330
+I mentioned it in the beginning
+
+996
+37:54.330 --> 37:57.180
+and obviously we've had a lot of conversation here,
+
+997
+37:57.180 --> 38:00.930
+good advice from some very experts in this space,
+
+998
+38:00.930 --> 38:01.880
+thought leadership,
+
+999
+38:02.762 --> 38:04.830
+what is IMC as an organization doing
+
+1000
+38:04.830 --> 38:07.410
+to help make and drive awareness?
+
+1001
+38:07.410 --> 38:10.380
+And then also maybe more practical advice
+
+1002
+38:10.380 --> 38:13.470
+about what to do, really, like where do you put your money
+
+1003
+38:13.470 --> 38:16.140
+and your budgets in 2025 to help start
+
+1004
+38:16.140 --> 38:18.270
+to tackle some of these things?
+
+1005
+38:18.270 --> 38:19.950
+<v ->Yeah, I think that's a great question.</v>
+
+1006
+38:19.950 --> 38:22.860
+So till now, all of the good chunk
+
+1007
+38:22.860 --> 38:25.050
+of the standards have been very vertical oriented.
+
+1008
+38:25.050 --> 38:27.120
+They've been per industry and so on.
+
+1009
+38:27.120 --> 38:29.430
+But what we've seen from the regulatory side
+
+1010
+38:29.430 --> 38:32.790
+is that with the CRA and so on, it's very horizontal.
+
+1011
+38:32.790 --> 38:34.641
+And so now,
+
+1012
+38:34.641 --> 38:36.150
+and just as you were mentioning, right?
+
+1013
+38:36.150 --> 38:38.700
+There are some core standards like NIST2
+
+1014
+38:38.700 --> 38:40.680
+and the NIST that have been added into that.
+
+1015
+38:40.680 --> 38:43.140
+So there's a lot of commonality
+
+1016
+38:43.140 --> 38:47.220
+that we can actually take and we can make it practical.
+
+1017
+38:47.220 --> 38:49.560
+So IMC is partnering with GCF,
+
+1018
+38:49.560 --> 38:51.610
+which is a global certification forum
+
+1019
+38:52.950 --> 38:56.430
+and we've created a joint task force to actually explore
+
+1020
+38:56.430 --> 38:59.490
+how we can create practical guidelines to make sure
+
+1021
+38:59.490 --> 39:02.116
+that we can have the IoT ecosystem
+
+1022
+39:02.116 --> 39:04.050
+adopt those practical guidelines
+
+1023
+39:04.050 --> 39:07.257
+to be secure and also be compliant with CRA
+
+1024
+39:07.257 --> 39:10.383
+and all the other emerging regulations on it.
+
+1025
+39:11.250 --> 39:13.009
+<v Ellen>Awesome, thank you.</v>
+
+1026
+39:13.009 --> 39:15.330
+<v ->And this joint task force is open</v>
+
+1027
+39:15.330 --> 39:18.120
+to the membership and so we would welcome more members
+
+1028
+39:18.120 --> 39:20.400
+to actually come in and participate in that,
+
+1029
+39:20.400 --> 39:24.030
+so you can contribute your ideas
+
+1030
+39:24.030 --> 39:27.810
+and see how we can take existing standards
+
+1031
+39:27.810 --> 39:30.513
+and make it more tailored to what we want to do.
+
+1032
+39:31.410 --> 39:33.150
+<v ->Great, thank you.</v>
+
+1033
+39:33.150 --> 39:36.390
+Well, as I mentioned, this was a very quick session
+
+1034
+39:36.390 --> 39:38.880
+with a lot of topics to cover.
+
+1035
+39:38.880 --> 39:40.950
+So first of all I'd like to say thank you
+
+1036
+39:40.950 --> 39:43.260
+to all the panelists for coming here,
+
+1037
+39:43.260 --> 39:44.770
+for sharing your expertise
+
+1038
+39:45.810 --> 39:47.970
+and bringing the conversation to light a bit more.
+
+1039
+39:47.970 --> 39:49.770
+So we'll be here staying after.
+
+1040
+39:49.770 --> 39:52.650
+I think the next session starts in about 20 minutes.
+
+1041
+39:52.650 --> 39:54.270
+So feel free to come up to us
+
+1042
+39:54.270 --> 39:56.730
+and ask any more questions or feedback.
+
+1043
+39:56.730 --> 39:58.113
+Always welcome to that.
+
+1044
+39:58.980 --> 40:00.690
+And again, here's a list of some
+
+1045
+40:00.690 --> 40:02.400
+of the member companies of the IMC.
+
+1046
+40:02.400 --> 40:05.070
+If you have questions about IMC, happy to answer that too.
+
+1047
+40:05.070 --> 40:06.570
+Love to have more people in the conversation.
+
+1048
+40:06.570 --> 40:09.203
+So thank you everyone and enjoy the rest of the show.
+
+1049
+40:10.448 --> 40:13.031
+(upbeat music)
+

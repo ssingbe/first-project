@@ -1,0 +1,1025 @@
+<v ->All right, AI at work.</v>
+So this is really exciting.
+So the whole point of this
+is we're not gonna talk about the doom and gloom.
+We're not gonna talk about what works and what doesn't work.
+We are sitting here in January of 2030,
+and we're gonna look back from 2025, okay?
+So, you know, just to frame this, you know,
+this morning you were in your kitchen
+and you were getting
+your complete health checkup with your...
+You don't have four Oura rings and an Apple Watch.
+Your t-shirt is continuously monitoring you,
+and it's basically telling you
+what you need to do for the day.
+It also told you you shouldn't have eaten
+that third piece of pizza and had two scotches last night.
+But the fact of the matter is
+that literally it will be much more consumer-oriented.
+This is something I've been really excited about.
+I'm a high-risk obstetrician who,
+through a series of events,
+have led two academic medical centers,
+most recently, Thomas Jefferson University
+and Jefferson Health in Philadelphia,
+which is a $10-billion system
+with 18 hospitals and a health science university.
+We actually merged
+with a technology and design university
+for exactly this reason.
+In 2020, I met Hemant Taneja,
+the CEO of General Catalyst,
+and we wrote a book together
+called "UnHealthcare: A Manifesto for Health Assurance,"
+which basically started with,
+what if a Silicon Valley entrepreneur
+and a CEO of an academic medical center had a baby?
+What would that baby look like?
+So a lot of what we're gonna talk about
+today in the next 40 minutes
+is what that baby looks like
+when humans and AI get together.
+And I couldn't have a more exciting panel to do this with.
+We'll start with Laura Adams from NAM,
+championing the creation of AI codes of conduct
+for patient safety.
+She's been known to say,
+"If AI is the new doctor,
+"we need to make sure it took
+"the Hippocratic Oath seriously."
+We have Jake Leach from Dexcom
+who's leading the charge
+in over-the-counter digital health monitoring.
+Jake once said, "Our devices are so smart now,
+"they can predict your health issues
+"before you even think about getting sick."
+Which is both amazing and terrifying.
+We have Brice Challamel from Moderna
+who's really pushing the boundaries
+of what's possible in personalized medicine.
+Yes, personalized medicine, not RNA vaccines.
+Brice loves to remind us, in 2025,
+we thought personalized medicine
+meant remembering your patient's name.
+Now our AI knows your genome
+better than you know your own phone number.
+And Dr. Anthony Chang,
+Chief Intelligence and Innovation Officer,
+Children's Hospital of Orange County,
+who has not just transformed pediatric care,
+he's redefined it.
+He's the founder of AI-Med
+and a pioneer of what he calls intelligence-based medicine.
+Dr. Chang has been teaching AI to speak pediatrician
+since before most of us thought AI
+could do more than play chess.
+So what you've heard a lot of is like
+why healthcare hasn't changed more rapidly.
+At a previous panel,
+I gave this quote from Jason Kidd, who was an NBA player.
+And he went to the Dallas Mavericks.
+They were 24-52.
+He said, "I'm gonna turn this team around 360 degrees."
+I've been giving talks like this for 40 years,
+and it has been like turning things around 360 degrees.
+But it's all changing now.
+So let's start with you, Laura.
+A lot of people talk about
+kicking that field goal of AI and safety,
+and that's literally what you've done your whole career.
+So how are you gonna make sure
+that some of the unintended consequences
+that happened with things like social media
+don't happen with AI and health?
+<v ->Yeah, I think that when we think about the fact</v>
+that in 2030 it'll be 30 years
+since the seminal Institute of Medicine report,
+"To Err Is Human," came out.
+I think we have made
+not nearly the progress that we had hoped.
+We haven't come anywhere close
+to the vision of improving safety for patients.
+And when I think about the AI-enabled patient safety era
+that we are entering into
+and have since 2025, in the past five years,
+I think about the biggest advances
+are where patients have become
+more and more strong as partners.
+That they come in with more knowledge
+about their own health, their situations.
+They come in with more
+digitized self information and advantages.
+And we also understand
+that we're going to introduce consequences here.
+But what I'm excited about in 2030
+is to see how many applications we have where AI watches AI.
+Because when I hear about clinicians
+having to be vigilant about watching for drift
+or watching so that it doesn't cause harm,
+I think back to how ineffective and impotent
+that was for patient safety
+when we talked about human vigilance.
+All you have to do is understand human factors
+to know that we slip, we get distracted, we do other things.
+So the idea that we're going to have clinicians
+constantly watching the AI to make sure
+it doesn't make a mistake, to me,
+was sort of a horror story.
+And I think if we depend on that,
+we're gonna have the next festival of waste.
+So I'd really like to see us think
+in this next upcoming years
+about the idea of how AI can be enabled to be the watcher
+and become a true partner in and of itself for AI.
+And, believe me, patients are coming in
+much more informed about their diagnoses,
+which I think will be a major, major advantage.
+<v ->So, you know, it hits me that, you know,</v>
+we've gone from doctors being captain of the ship.
+It took us about 50 years
+to get doctors and nurses to work together.
+Now we're gonna have to get doctors and robots together.
+We'll have centers for inner sentient education.
+Brice...
+It's 2030.
+I'm gonna make the assumption
+that one of the biggest changes is,
+right now a doctor goes to me and says,
+"Steve, I think, given a lot of people like you,
+"this is probably the amount of statin you should be on
+"or what you should take for your cancer."
+I'm gonna assume that things have changed incredibly
+thanks to some of the work
+that Moderna and others are doing.
+<v ->Well, thank you.</v>
+And, yeah, it's interesting
+that we are known for now as Moderna,
+you know, well, we were known back in 2025
+for a product that achieved billions of units,
+which was the COVID vaccine.
+And that one of our greatest achievements five years later
+is personalized treatments for cancer
+or other type of pathogens.
+And what we're trying to achieve
+is to target, through mRNA production,
+the immune system towards things
+that are very specific to you.
+And we want to either improve or subtract.
+So improve if you're not producing the right enzyme
+or subtract if you have a cancer tumor
+and it has a specific signature that we can track
+and get all over your body in case it metastasized
+and it started spreading in your body.
+Which today is, you know, very bad news for you.
+Back in 2025 was a very bad news for you.
+And that can be treated.
+And I want to double down on what was just said
+because I think that,
+in these personalized medicine journeys,
+you're gonna have also to be a voice.
+You are going to be empowered by knowing yourself,
+knowing your condition, your past, your vitals.
+I noticed you have an Oura ring around your finger.
+I have a Whoop band.
+I think almost everyone here
+is somehow tracking their vitals.
+And we are more and more becoming our own nurses.
+And then our nurses have become our doctors.
+Have you noticed, like I have a doctor,
+I know his face
+'cause it's on the website of the hospital,
+but I've never really met him.
+And I think he's doing research.
+Which is interesting
+because our researchers are on fire, right?
+Like they're doing, you know,
+discovery of brand new ways of doing physics.
+And the way that AI is empowering every one of us
+to go a little bit further than we used to
+and also to understand the diversity of the other people
+around us in the ecosystem
+is going to help us complement
+the individualized therapy
+that are of course themselves
+out of a lot of machine learning,
+adapted to understand,
+"How can I code the exact mRNA
+"for the exact protein for your immune system?"
+So a lot of machine learning there.
+But GenAI on the side to support
+the patient, the doctor, the nurses,
+to make sense of that therapy,
+to bring it home to you in a way that is more humane,
+I think, is of the essence.
+And my last word on that one
+will be that paradoxically, in 2030,
+we have a more humane medicine thanks to AI, right?
+Because now we have bots to speak to,
+data to rely on, time to think about it.
+And it has become a fairer
+and more pleasant system to work with
+for personalized therapies.
+<v ->Yeah, and I think that's great.</v>
+And I think, you know, one of the things,
+you know, some critics have said,
+"AI's just gonna make the wealthy healthier."
+But I think given what you're saying
+with personalized medicine,
+I know one of the companies I'm working with called Paradigm
+is using AI to democratize clinical trials,
+which is really, frankly,
+stuck in the '90's as to how we do it.
+But if I'm wealthy,
+I might be able to fly out to Houston or New York.
+And that's not because my doctor in Florida isn't good,
+but he or she doesn't have the infrastructure.
+The ability to use AI and match people
+is gonna revolutionize that.
+Jake, what hits me sometimes
+is that, when we talk about AI
+and we talk about robots, drones, and all the SaaS stuff,
+sensors sometimes get, you know,
+not as talked about as much.
+But that's to me gonna be the thing
+that really makes the difference.
+My car gets better care than I do.
+I have a car that, when I get back to Miami,
+it's gonna say, "Hey, Steve,
+"while you were playing around in Las Vegas,
+"my right front passenger tire got a little low.
+"Could you please fill it up?"
+'Cause it sends 24/7 signals.
+I'm gonna go and have my physical
+two weeks from now in Philadelphia,
+and somebody's gonna tell me,
+"Based on today, your blood pressure,
+"your calcium score, your X, Y,
+"this is what you should do for the next 18 months."
+So how's Dexcom in 2030?
+Can I get rid of my Oura ring and my Apple Watch
+and my 25 other things?
+How's that gonna change?
+<v ->No, I think it's a great question.</v>
+I think having a physical after being in Vegas for a week
+is probably not a great idea.
+But, no, I think as you said, Stephen,
+sensors are such an important part
+of this concept of personalizing medicine
+because they are the devices
+that provide the information that AI is gonna use
+to be able to provide you personalized insights.
+You know, Dexcom, we specialize in a glucose biosensor.
+One of the big developments lately
+is now CGM biosensors are available over the counter.
+So no longer prescription required.
+You can go to a website and buy it now.
+Our product's called Stelo.
+And what we've seen
+is just an amazing uptake in the diabetes space
+where people, you know,
+are interested in managing their glucose
+because they have diabetes, pre-diabetes.
+We've seen a lot of people
+in the health and wellness space
+who are generally interested in their metabolic health.
+And a big part of making the most out of these sensors
+is ensuring that the feedback
+and the information that you're providing
+to the user who's wearing the sensor
+is actionable and personalized.
+And what we've seen
+as we've started to introduce GenAI into our system
+is that it creates a more engaging experience.
+You don't have these static reports.
+You have these reports that change over time.
+Even the words look different.
+So you're not getting the same report every week.
+And I think we're just at the beginning stages,
+but there's an incredible opportunity
+to personalize this medicine
+and allow it to be, you know, better outcomes,
+and you start to move towards preventative
+versus treating a chronic disease
+like diabetes or obesity once it happens.
+I mean, getting that curve,
+bending that curve, it's good for all of us.
+It's good for the healthcare system and the costs.
+<v ->You know, I love that you brought up</v>
+the continuous glucose monitoring
+'cause there's probably been more talk about GLP-1s here
+and who's covering and who's not covering.
+And, you know, you look at something like CGM,
+and you could look at a future with AI where, you know,
+if you have a creeping up hemoglobin A1C
+and you're pre-diabetic
+and you've got the kind of Dexcom 6s and 7s
+that you guys have,
+literally the AI can be telling you what to do
+not necessarily for $1,500 a month.
+<v ->Exactly.</v>
+We're there now, it's starting.
+I think the key is bringing awareness
+that the technology exists.
+One of the most frustrating things is there's, you know,
+hundreds of millions of people around the world
+that have diabetes,
+and they're still pricking their finger
+'cause they don't know what a CGM is,
+this little device you wear on the back of your arm.
+The outcomes are so much better
+when you have all the right information.
+So I think awareness is a big part,
+bringing awareness that the technology exists,
+and that there's this significant benefit
+that can be provided.
+<v ->So, Dr. Chang, you've been called a lot of things.</v>
+But one is the AI whisperer in pediatrics.
+<v ->They used to call me Dr. AI</v>
+until I Googled Dr. AI,
+realized that it's a Persian surname.
+So there are hundreds of thousands of Dr. AIs out there.
+<v ->There you go, okay.
+But, you know, look,
+I mean, the fact that you've taken that on,
+like most people would say,
+"Hey, kids are way, way, way too unpredictable
+"for AI to handle.
+"Too unpredictable for humans to handle."
+So I'm interested in 2030.
+How has AI really revolutionized pediatric care
+beyond what we might think today?
+<v ->Well, I was very inspired</v>
+by some of the keynotes here at CES.
+And I'm thinking, you know,
+drawing on your analogy earlier,
+you know, we have this technology
+that's on an exponential rise,
+but we're dealing with healthcare
+which has trouble with technology
+that's on an exponential rise.
+So I think realistically in 2030,
+I'm not going to expect a whole lot
+to be impacted by AI other than a few sectors.
+And I think, you know,
+it's gonna take healthcare quite some time
+to adjust to the adoption of AI.
+And I think one of the main issues...
+I gave this talk a few weeks ago
+about 10 reasons why AI will not impact healthcare.
+And it was actually relatively easy
+to put that talk together,
+as some of you can imagine.
+But I think there's some potential obstacles
+that if we can overcome.
+And it's gonna take everyone in this room,
+and the population around the world
+to be able to really neutralize these obstacles.
+One is, you know,
+get healthcare data and databases much better organized.
+I deal with that every single day in the hospital.
+And I'm at a hospital that's considered one of the best ones
+for database management.
+We have to change our behavior,
+and we have to change our expectations.
+$4.4 trillion, probably will reach 5 trillion
+by the end of this year, of healthcare expenditure.
+And we have one of the worst outcomes
+of all the developing countries.
+And I know what happened in New York was tragic,
+but I think that's only the beginning of a clarion call
+for a much better health system with much better dividends.
+And it's gonna take everybody to get that done.
+So I think on the AI side,
+it's very exciting that we are now going
+from the computational intelligence era, as I call it,
+in terms of deep learning,
+and we're very quickly going into
+what I call the cognitive intelligence era,
+which is using elements like reinforcement learning,
+which Jensen Huang talked about
+as part of this AI portfolio.
+And yet I feel like we have a Formula 1 car
+that's being built,
+and we have a track that is full of chicanes,
+which are these 180-degree turns
+that intentionally slow cars down.
+So until we get rid of those chicanes,
+that being how healthcare is organized,
+how data is organized and kept,
+how we potentially need to change our behavior...
+Behavior is something that AI will not change,
+or we'll find very difficult to change.
+So let's get those obstacles out of the way,
+then I think we'll have a straightaway period
+in which we'll really reap the benefit
+of a lot of what AI's capable of doing.
+But I'm cautiously hopeful
+that AI will actually be the final sort of paradigm shift
+that we need in healthcare
+to really steer the ship correctly.
+<v ->Yeah, and I think you bring up such a good point.</v>
+In the book by Narayanan, "AI Snake Oil,"
+he talks about two things.
+One is that, where AI has failed in predictive analytics
+is predicting future human behavior
+'cause humans can't predict what they're gonna do tomorrow,
+let alone, you know, the AI.
+But the second thing is also,
+it also assumes a rational model
+and basically the right incentives,
+which we don't have,
+at least in the American healthcare system, right?
+You know, I want to get into that a little bit.
+So if we knew back when, you know,
+Mark Zuckerberg and the team
+were doing things like Facebook and that kind of thing,
+that it wasn't only so I could see
+my unbelievably cute grandkids in Providence
+but could affect elections
+and you know, potentially hate,
+we might have put some guardrails in at the beginning.
+So I wanna talk about, you know,
+and this goes to what you've all said,
+how do we kick the field goal between allowing AI to thrive
+and do all the amazing things that you've said
+and not get caught up where we're having Senate hearings
+with, you know, frankly 80-year-olds
+that can't even get on the technology trying to say,
+"Boy, this is what we should have done 10 years ago"?
+<v ->Well, you had asked me earlier</v>
+about what I do in clinic day to day now
+with all the large language models.
+And I use a combination of...
+I'm just curious,
+how many are clinicians here in this audience?
+Okay, too few in my opinion for this talk and this panel.
+But between Open Evidence, which is available,
+and even o1, GPT-o1,
+I think I'm a better clinician,
+even though I've been doing
+pediatric cardiology for 40 years.
+And it's not just being, you know,
+even more certain about things,
+but it's also taking on problems
+that may not be directly cardiac in origin
+so that I can help with the overall healthcare
+of that particular family.
+So I think, and I predicted this five years ago,
+that by the end of this decade
+you will be sued for malpractice.
+And I know that shouldn't be the driver,
+but unfortunately in this case it's the stick.
+You will be sued for malpractice
+for not using a portfolio of AI tools
+that are available and people are using.
+<v ->Yeah, and Laura, Brice, and Jake,</v>
+I'd love to hear from you.
+<v ->You know, I think we're in the middle of integrating AI</v>
+and generative AI technology into our products,
+and we're taking kind of a stepwise approach.
+I think one of the things we've recognized is,
+to really get it right,
+you gotta learn and iterate.
+You gotta use the technology,
+you gotta get it out there.
+So you just get it out there with appropriate guardrails.
+We're a regulated medical device,
+so we work with the FDA.
+Worked really well on a framework of how to control,
+or how to ensure that the product's safe and effective.
+It's very similar to back about 10 years ago
+when we first integrated medical devices with smartphones.
+There was a lot of concern
+about the control of software on smartphones.
+And so we developed frameworks to ensure
+that there was safe and effective implementations.
+And so we did something very similar
+with our AI technologies.
+And I think the key with medicine and healthcare
+is so much of it is information,
+getting the right information to people
+that is personalized and timely.
+And so it is important that, you know,
+we're not allowing the system
+to provide inaccurate or misinformation.
+But I do believe based on our experience so far
+is that if we put the right guardrails on it
+and we start slow and continue to evolve and learn,
+we really are gonna be able to see the power
+and, you know, get the optimum potential for this.
+<v ->I think the guardrails that we are looking at now,</v>
+looked at in 2025 have to do with pre-market.
+It feels to me like we need to do something
+that we've never done very well
+in healthcare and in medicine
+and that's understand whether what we do works.
+And what we do in the clinical setting,
+we have so much of our performance
+and work that we do in the clinical setting
+that doesn't have a basis in science.
+So the only way we learn about it
+is to understand its impact in the real world.
+So it feels to me this is an all teach, all learn moment
+where we need really strong emphasis on understanding
+and sharing the results of how these things perform,
+under what conditions, under what contexts.
+And begin to share that learning openly,
+not with the idea of a punitive effect
+but the idea of improvement.
+There's a whole big difference
+between observing and measuring for improvement
+and measuring for sort of sorting, you know,
+the bluebirds from the crows or whatever
+and making sure
+that we've got the good and the bad sorted out.
+So I think that all teach, all learn guardrail
+should be one that we should emphasize strongly
+in the future.
+<v ->I want to go back to your question and pause for a second.</v>
+Because what are we guarding against?
+The problems that were met by social networks,
+they are not the ones that are gonna be met
+by artificial intelligence.
+This is a whole new era
+with new sets of technologies and challenges.
+And I think one of the biggest threats that we have
+is misunderstanding of the technology.
+And I want to put it in simple terms.
+There's this and that type of software.
+And this type of software is the one we're used to.
+You give it instructions,
+it gives you an outcome,
+and if you do this a million times over,
+you get a million times over the same outcome.
+And then there's that type of software.
+You give it instructions, gives you an outcome,
+give it another instruction, gives you another outcome.
+And you can give it a million times the instructions,
+it can give you a million different outcomes.
+And that's AI
+in the way that we're experiencing it right now
+through generation AI.
+And so it baffles people that AI cannot do mid-level math.
+Why? Because they're so used to this kind of software
+that knows how to do math
+that they can't understand that that kind of software
+doesn't do math.
+But actually that kind of software guesses the answer.
+So you can guess 2 and 2.
+Everyone guesses this is 4.
+But you can't guess 1,255 multiplied by 2,376, right?
+Like you can't guess it,
+you have to actually do the math.
+And so there's a lot of solutions for it.
+You can generate a Python script
+that's going to do the math.
+You can run models like o1 or o3
+that are going to deconstruct the reasoning
+and get you the right answer
+through a series of steps in reasoning patterns.
+We're not out of answers.
+But I don't know that we have the culture today
+to understand the way that that software works.
+And it's a double threat for us.
+First, because it might give you
+the wrong impression that it's bad,
+that it can't even do mid-level math.
+So that's how bad it is.
+And you might stay with that impression,
+just cast a dark shadow on it,
+forget it in the back of your drawer
+and never trust it again and you're wrong.
+But you could also over-rely on it,
+have some actual calculation to do,
+think that's gonna guess the math,
+and be surprised that it didn't, but too late.
+And not understand what you're working with.
+So I think the number one guardrail
+is to create mass effect and mass culture around it.
+We've taken too long to do this
+with mobile phones and social networks.
+And I think that's the problem.
+It took us a decade to understand the consequences
+of putting smartphones in hands of teenagers
+and propelling them into social networks,
+and now we're adapting to it.
+But there's a whole decade of teenagers
+who didn't benefit from our wisdom,
+and I wish we wouldn't do the same mistake twice
+and this time accelerate the pace at which we distribute it,
+accelerate the scale at which we enable it.
+Stop thinking about ROI,
+this is utility like electricity
+or computing or internet.
+Just give it to everyone,
+create safety for their data,
+create conditions for usage, user policies,
+you know, make sure that you have incident management,
+and then let them learn the tool
+and the culture that goes with the tool
+and how they feel safe and empowered with it.
+That would be the guardrail.
+<v ->I think that's such an important point,</v>
+of starting to use these things
+for the things that we wanna project.
+One of the smartest cabinet choices I made
+for my 18 hospital system was a CMSMIO,
+a chief medical social media information officer.
+His name was Austin Chiang.
+He was a TikTok darling.
+About two million hits.
+He was probably our number one driver
+for people getting vaccines.
+You know, we were doing all these 30-second commercials
+with Independence Blue Cross.
+You know, no 25-year-old was watching that.
+But he was doing jumping jacks
+like literally the day after he got his vaccine
+where people were saying,
+"Oh, this is gonna have you be, you know,
+"really sick for a week."
+So I think we didn't do a good enough job of,
+instead of saying, "Don't listen to TikTok,"
+saying, "Hey, how can we use those things?"
+<v ->I think one of the points</v>
+that Jensen mentioned on Monday in terms of things,
+I know he mentioned lots of toys that would be available,
+was the concept of having a digital twin for every factory.
+You may remember hearing that.
+I think we all have a digital twin
+for every individual for their health.
+And I think we're not far from that.
+I'm just afraid that if we don't invest enough
+and be over-regulated
+to the point where we're gonna stifle innovation,
+that's what I'm afraid of.
+When Jesse Ehrenfeld, who's a good friend of mine,
+who was the outgoing AMA president said,
+"You know, you're into AI for a long time,
+"for a few decades.
+"What keeps you up at night?"
+What keeps me up at night is not worrying about
+what AI's gonna do on the harm side,
+but not using AI enough
+to help all the people out there with conditions,
+especially rare conditions.
+And I think, you know, look around the room,
+two to three of us
+will end up getting cancer and/or heart disease,
+and yet we don't have a really good precision care map
+to take care of all of us.
+So if we have a digital twin,
+then you will actually know how to best treat yourself
+because your doctor will be able
+to, not rely on published randomized controlled trials,
+which I'm not saying we should obviate those,
+but we should absolutely change our paradigm
+in terms of figuring out what to do best for our health.
+<v ->I think, you know, part of the problem is,</v>
+and this is what I want to get into next
+'cause we're at the Consumer Electronics Show
+I wanna talk about the consumers
+and the humans in the middle and online meets offline,
+how we have to change.
+You know, 'cause it hits me.
+Even with things like integrative health.
+We had done a survey,
+and I think the same will be true with AI.
+We asked obstetricians,
+"How many of your patients
+"do you think have seen an integrative health provider,
+"you know, an alternative health provider?"
+They said, "Oh, my patients wouldn't do that.
+"I'd say 5, 6%."
+We had the ability to talk to the patients,
+and it was something like 62%.
+And when we went back and said,
+"How could there be that difference?"
+The patients said,
+"'Cause the last person I'd talk to
+"about going to an integrative health provider
+"would be my doctor
+"'cause he or she's gonna knee jerk that all these are bad."
+And I think we're gonna see some of that in AI,
+you know, if we haven't been trained in it, by definition.
+So I wanna talk about the consumer.
+I wanna talk about the consumer
+'cause doctors are consumers, consumers are consumers,
+patients are consumers, companies are consumers.
+But there's two or three areas
+that I'd love to have you folks explore.
+One is, it used to be...
+Consumers are gonna be armed with this stuff now, right?
+So it used to be,
+as we were talking about before,
+if a patient would come to me
+and I told them they had lupus in pregnancy
+and 10 years ago they came with 10 pages from Google,
+I could just reflexly say, "That's ridiculous."
+Now they're gonna come with a ChatGPT thing.
+And if I say it's ridiculous, they're gonna say,
+"So I guess you disagree with the Chair of OB
+"at University of California, San Francisco
+"that yesterday wrote this article
+"for New England Journal of Medicine and said I was right?"
+So, you know, how do we deal with that?
+How do we get patients the right information?
+And the second piece just real quickly is,
+how do we change the people that are running the system
+so that we know that they're up to speed on these things?
+<v ->Yeah, I would like to posit something for the first part.</v>
+At Moderna now we have 100% adoption
+on all knowledge workers of AI,
+and it's been going on for almost a year,
+year and a half now at that level.
+So we see things out of day-to-day habits.
+And what I see first is that everyone is a team of five.
+And I would think it's gonna be the same
+with patients, themselves.
+An expert.
+And that's the one you just mentioned, right?
+Like the access to expertise.
+A coach who can look back
+at conversations, at interactions, at behaviors,
+and then give you feedback and say,
+"Oh, I would've taken that drug as the doctor prescribed,
+"you know, which you haven't," right?
+A coach.
+A creative partner, right?
+That helps you think differently
+about things that you haven't solved so far.
+Maybe an idea about like,
+"All right, I didn't behave the right way
+"because I went to sleep too late.
+"I didn't take my pills.
+"How could I change this?
+"And let's have a conversation."
+And an assistant write all this for me
+in a five-page document
+and draft out the next steps
+and ship it to my doctor and to my wife, right?
+So everyone is about to turn into a team of five,
+themselves, the expert, the coach,
+the creative partner, the assistant.
+And that new team of patients
+has to be taken into account now and accepted by the system.
+And I think that's the challenge ahead of us.
+<v ->I think the system doesn't have a choice</v>
+but to understand that AI
+is a revolution in cheap expertise.
+It is an unbelievable democratization of information
+in the hands of patients that they have never had before.
+You Google something in the past,
+you had to go through x number of websites,
+try to knit all these things together.
+Watch a mother with a child who was in intractable pain
+and almost paralysis of his lower extremities
+and had been so for about three years
+while she took him to 17 different doctors
+trying to get a diagnosis.
+She finally out of exasperation
+loaded up his record into ChatGPT
+and it came out,
+not with a recommendation that said it's this,
+it said, "You might consider these things."
+At the top of that list was tethered cord
+where that child's spinal cord was abnormally fused
+to a component in the body
+where, when that child started to grow,
+it stretched the cord
+and almost ended up with that child with paralysis.
+And once she got that reading,
+then she went back to the organized delivery system,
+went to a doctor that would listen to her
+because several wouldn't.
+And she went to that physician,
+that physician within two weeks
+had that child in the surgery suite,
+and that child was running up and down on the stage
+where we were presenting that day,
+disrupting and crawling all over chairs,
+much to our delight.
+And I think that we ignore this at our peril.
+We want to, I think in the organized delivery system,
+compare the use of AI to perfection.
+They're comparing it to the idea of what they get now.
+And I think we should all take a deep breath
+because what they get now is far from perfection.
+<v ->And I think there's several injustices in healthcare,</v>
+and you and I talked about this earlier.
+One is not distributing expertise to everyone.
+And I think hopefully AI
+will be the equalizer we finally need.
+I'm tired of looking at rankings of hospitals,
+whatever that means,
+and not make that level of expertise available for everyone.
+How would you feel if you're a parent
+and you're somewhere in the country
+where the local children's hospital's ranked 82nd?
+How would you feel taking your child to get care there,
+even though, hopefully with AI in the future,
+everyone will be getting the same level of care
+as the number one children's hospital?
+And, again, whatever that means.
+So AI can absolutely be the equalizer.
+Not to mention,
+I think physicians don't always make a correct diagnosis,
+probably more often than you think,
+and AI hopefully will also be the equalizer
+in the individual patient to the physician interaction
+so that you maximize the good.
+And you talked about our manpower needs.
+We're gonna be 100,000 physicians short
+by the end of the decade.
+So where's that gonna come from?
+That's gonna come from
+your physician assistant and associates,
+which they prefer to be called now,
+your nurse practitioners, and everyone else, I think,
+armed with AI to make the correct diagnosis
+at the right time.
+<v ->I think part of that too is, you know,</v>
+if we empower the consumers and the patients
+to engage in their health.
+I've been working in
+continuous glucose monitoring technology for decades,
+and I can't tell you how many times
+when we first started out, the physicians would say,
+"What are these patients gonna do with all this data?
+"They're not gonna know how to manage their diabetes."
+And the outcomes were very, very clear
+when we started putting the technology on people.
+They figured it out pretty quick.
+It was pretty intuitive.
+And so I think the more we can do that.
+You think about all the chronic diseases,
+diabetes, obesity, liver, kidney disease,
+there's so much of that can be changed
+by different lifestyle habits.
+And if we can use technology
+to empower people to, you know, make healthier choices
+and then reinforce that healthy habit,
+it'll be incredible what we can do.
+But it's on us to make sure we get the technology,
+we make it accessible,
+and we make it easy to use.
+<v ->So, you know, I wanna put it out there</v>
+that I don't think any of the five of us
+are gonna be what causes that change.
+I think it's 200 people out there.
+So the question for you, you don't have to answer it,
+but is, when are you gonna have your
+I'm mad as hell and I'm not gonna take it anymore moment
+as a consumer in healthcare
+now that these technologies are available?
+And I'll just give you one example.
+We started, when I was at University of South Florida,
+which, by the way, is in northwest Florida,
+which tells you everything you need to know
+about the logic of academics in Florida.
+We started the largest simulation center
+with a simple thing that I recognized.
+I'm a pilot, and every two years
+I have to get my technical competence assessed.
+As a surgeon, for 35 years,
+nobody's ever checked my technical competence.
+The issue is not the technology.
+I mean, back when we started, the technology,
+but now we could tell.
+I'm 71 years old.
+If a 71-year-old surgeon has had a couple of bad cases,
+we can bring them to a simulation center,
+just like pilots do.
+If I'm Steve the pilot
+and I have one bumpy landing and I'm at United,
+you're spending the weekend in Denver.
+And if I'm within a mean and a standard deviation,
+I'm flying on Monday.
+If I'm not, I'm getting neurologic testing,
+toxicology testing, et cetera.
+So part of the question I wanna put out there is,
+why has it taken so long for these folks,
+who are all to blame,
+to really start to force us into doing some of the things
+that we know the technology can do?
+<v ->You know, we mentioned earlier</v>
+that you had a question about,
+when do we understand that AI does more than chess?
+And I think we are very blessed
+to have 25 years now of experience with AI doing chess
+and seeing what happened.
+Because the end is the beginning.
+When Garry Kasparov was beat by Deep Blue,
+everyone said it's the end of chess.
+But since then,
+there are I think 15 times more
+licensed chess players in America.
+Chess has become a society phenomenon.
+The grandmasters are 2000.
+There were 180 grandmasters in 1990.
+Now there are 2000 grandmasters.
+When Magnus Carlsen was a grandmaster in 2004,
+he was 13 years old, the second youngest ever.
+Now there are 10 younger grandmasters than him,
+you know, who became grandmasters younger.
+And the whole world of chess is on fire.
+Chess has made more progress in 20 years
+than in thousands of years before.
+And it is because expertise has become irrelevant.
+The model knows.
+No one who plays chess
+is going to challenge Stockfish on a move.
+If Stockfish says the move is wrong,
+the move is wrong, period.
+Even Magnus Carlsen knows this.
+And I think that, on the other end of the spectrum,
+doctors dealing with complex systems with human patients,
+they're not behaving like chess players, right?
+And neither are the patients.
+They think expertise still matters.
+And as we go into the dilution of expertise
+into a more chess-like world for healthcare,
+the end is the beginning.
+The end of the constraints of expertise
+is the beginning of us being 15 times more powerful
+and more numerous,
+having better ELO ratings,
+and making progress in medicine,
+the likes of which in 20 years
+hasn't been seen in thousands.
+So I wanna leave on that note of hope.
+Trust the models increasingly,
+watch them, trust them, learn them,
+and let's make sure that doctors and patients
+become good chess players, rely on the model, and grow.
+<v ->I think there's a duality here.</v>
+One is, as you know,
+you and I've been in medicine for almost 40 years or more.
+It's been asymmetric for a very long time
+because of asymmetry of information.
+Hopefully that's being neutralized.
+On the other hand, the other end of the spectrum
+is that the healthcare system is much more complex
+than most people probably realize.
+You know, I look at clinicians as sherpas
+helping you climb Mount Everest.
+Because sometimes it does feel like it's that difficult
+to navigate the health system.
+So what I think we really need also
+in the middle of all of this
+is training of clinician cohorts
+that can be bilingual,
+understanding enough AI to help use AI as a resource
+to navigate the healthcare system.
+Because talking to a lot of startups
+and a lot of medical students who graduated,
+particularly in Silicon Valley
+and now are being recruited in startups,
+and it pains me how much resources are being wasted
+'cause they're solving the wrong problems
+or solving problems with a solution
+that's not good enough.
+<v ->They have a technology that doesn't really have a problem.</v>
+Quickly.
+<v ->My take is that you've already started.</v>
+You haven't reached sort of that mad as hell moment,
+but it's been a gradual onset,
+and we're about to reach the tipping point.
+Because we are frustrated to the max with the system.
+And we're also now being enabled with tools
+the likes of which we've never had before,
+that cheap expertise that we've never had access to before.
+That ability to have it consolidated
+and speak to us in a language, literally any language,
+any reading level, any context that you want.
+That ability to communicate with it in such a way
+that it returns usable
+and actionable information back to us.
+I feel like this revolution is already well underway,
+and I do think it's very shortly to the tipping point
+where we'll start to see that massive change.
+<v Stephen>10 seconds.</v>
+<v ->I'm just gonna say I'm optimistic.</v>
+I agree with Laura.
+I think we're right on the cusp.
+I haven't seen as much, you know,
+disruption in consumer health as in the last couple years.
+There's significant disruption occurring.
+And as you start to bring in technologies like AI,
+I'm optimistic that things are gonna start moving faster.
+Never fast enough, but move faster.
+<v ->I think the best 25 years in healthcare</v>
+is about to happen.
+<v ->I'll leave you with an optimistic piece.</v>
+I did a video
+where I came back from 2035 as a hologram
+'cause I'm now the Chief Digital Health Officer
+for President Taylor Swift.
+'Cause the Swifties have become a party.
+We could do worse.
+And their healthcare motto is,
+make it tailored to the individual and make it swift.
+And I'm pretty convinced that we will be there.
+Thank you all very much.
+Really appreciate it.

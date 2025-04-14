@@ -1,0 +1,1023 @@
+<v ->Welcome to the 19th annual Connections Summit at CES.</v>
+I'm Jennifer Kent,
+vice president of Research with Parks Associates.
+We are so pleased to be hosting this event today.
+Conversations all day long from the industry leaders
+making it happen all across the connected home
+on some of the most critical conversations
+that are happening in this market.
+I happen to find a picture of the conversations
+that were happening 10 years ago back in 2015.
+We love to hear what you're working on,
+what the big questions are,
+and really to see how this market has expanded and evolved.
+And that a lot has happened over the past 10 years.
+Parks Associates' research shows that
+the average American internet household
+has over 17 connected devices today,
+more than two times the amount of connected devices
+they had back in 2015.
+And the percentage of households
+that have at least one smart home device,
+not including smart speakers and smart displays,
+so think locks, lights, thermostats, door locks,
+garage openers, you know,
+plugs, power strips, smart appliances,
+45% of 5X from back in 2014.
+So a lot has happened.
+There are a lot of big questions
+for the industry leaders today,
+such as how do you serve an increasingly mainstream end user
+when you have 45% of households now
+having a smart home product?
+You're really actually looking
+at a different type of customer.
+How can consumer IoT business units operate profitably,
+perhaps within a larger, more traditional manufacturer?
+We see that a lot.
+What is my competitive edge in the AI arms race?
+We're talking today, this morning, right,
+jumping right into AI in the smart home.
+What does that mean for your strategic plans
+for the competitive landscape?
+We're gonna talk a lot about standards today.
+How do standards efforts unlock new opportunity
+and also new competition?
+What market segments are right for expansion?
+How do I leverage my assets
+to better serve other ecosystem players
+and not just that end user?
+We're gonna be talking about a lot of that today
+across our different panels.
+We're also kicking off in about a month,
+our big B2B industry research effort
+where we are very interested in what you're struggling with
+and what you're seeing
+as you're working on consumer IoT products.
+And we're gonna release the results of that research
+at our Connections event in May.
+So if you wanna participate in that research,
+it comes with a free pass to Connections.
+You can scan this QR code.
+And when we have that survey ready,
+we'll reach out to you to participate.
+So you can see today we are starting off at
+with AI in the Smart Home,
+talking about applications and ethics.
+We're talking about profitability next at 10 o'clock.
+At the top of every hour
+where we're running into a new topic.
+Smart Home Standards and Platforms at 11 o'clock.
+We'll have lunch first come, first serve
+in the room to the left.
+If you go out to the hallway to the left.
+A big thank you to ADT for sponsoring that lunch.
+We're back in the afternoon talking about energy,
+talking about multifamily markets,
+and also what's happening in home security.
+And we invite all of you to attend
+our VIP networking reception
+over at Treasure Island this evening.
+It is complimentary.
+You're all welcome to attend.
+We do ask that you RSVP so that we have a headcount
+and you can do that with this form at this QR code.
+So with that, I'd love to invite my panelists up
+to jump right into our first topic of the day,
+AI in the Smart Home: Applications and Ethics.
+Come on up and join me.
+Okay, yeah.
+And as they do that, I just wanna set the scene.
+We have a lot to talk about today,
+so I'm just gonna jump in and get running.
+You know, there's a lot of possibility
+of what AI can really add to the connected home landscape.
+A lot of what we see in the smart home specifically
+is adding to better understanding of the context
+of an action or an event or a call for assistance.
+What is happening?
+Who is in the home that gets to identity?
+Who is in the home?
+Is it a known person?
+Is it an unknown person?
+How do I authenticate myself for access into the home?
+I lost my slides, but that's okay.
+Also, things like communication
+and communicating both between people,
+between people and devices,
+and between the devices themselves.
+But our data also shows that 71% of consumers
+are concerned about society's ability to control
+and ethically control and develop AI.
+And so what does that mean for everybody in the room?
+What does that mean for the smart home market?
+So I'm very excited to have
+all sorts of leaders in this space
+to really talk about the challenges, the opportunities,
+and how you're using AI today.
+I'd love to bring the slides up
+so that we can show everybody in the audience.
+Here we go.
+There we go.
+So we can see your beautiful pictures
+and everybody can see your names and your titles.
+So we have Arsham,
+who's the SVP of Product and Technology
+with Universal Electronics.
+Amalia, who's the head of Strategic Marketing
+with Intuition Robotics.
+Casey, the director of Business Development with Josh.ai.
+Paulus, who's the president of the Open Home Foundation.
+And Paul Williams,
+the global managing director
+for the Home Management Business unit with the Nice Group.
+So I'd love to really start by diving in
+and asking each of you
+as you sort of introduce yourselves and your organizations
+to tell us how are you using AI today?
+Arsham, you could start.
+<v ->Good morning.</v>
+Ooh, first day of the show.
+Hopefully everybody is ready and pumped.
+UEI designs, develops, and manufactures
+entertainment and smart home products with strong focus
+on climate control and energy management
+in more recent years.
+Now, AI fits throughout the full lifecycle
+of a product company like ours.
+So from design and development,
+if you think about it,
+you can have any software engineer
+that's not using AI on a daily basis,
+you should probably reconsider that engineer
+and probably move on to somebody
+who can use the tools today better
+to double faster, more efficiently, and better quality.
+When you go into manufacturing,
+you certainly can apply AI to have much better yields,
+much better quality,
+and even fine tune and calibrate things
+that previously were not even possible.
+So design and development is quite obvious,
+From DevOps perspective,
+our cloud servers today,
+so a part of our products is a software only product
+that resides on hundreds of millions of
+connected entertainment devices in the homes today.
+We serve about 100 million households every single week.
+About 30% of these actually use the cloud services
+on a daily basis.
+And about 55% of them use AI-powered APIs from our servers
+to achieve certain functionality for personalization
+and optimizing the experiences.
+So we've taken everything
+from software side and hardware side,
+and we're putting it together
+in the next generation of our product development
+to deliver an on-device AI framework
+that can both protect the privacy and personalization,
+the privacy and security required in a home,
+but provide that personalization framework
+that a lot of the applications that we're focused on
+can actually benefit from.
+Everything from energy management
+around occupancy in a fully private fashion,
+and personalization based on
+proximity and movement throughout the home,
+guests and guests coming and going.
+And rather than hoarding all this data on a central server,
+we actually allow your devices
+to get to know you through time,
+adapt to you and adapt to your changes through your time.
+So we'll talk more about
+how we look at privacy and security in this fashion.
+<v ->Yeah, fantastic context.</v>
+Personalization, presence, fantastic.
+Amalia, tell us a little bit more about Intuition
+and how you're using AI today.
+<v ->Hi, good morning everyone.</v>
+Thank you for having me.
+I'm thrilled.
+So, as Jennifer said,
+I lead marketing for Intuition Robotics.
+Intuition Robotics is the creator of ElliQ.
+ElliQ is an AI companion built to live with older adults,
+help them on their health and wellness journey,
+help them live at home independently longer,
+help them live happier and healthier lives.
+ElliQ is a non humanoid robot.
+She's a tabletop device.
+And she's basically built
+on both AI and scripted conversations.
+But AI has really been a game changer for us
+in making ElliQ a smarter, more connected companion.
+She's able to have much more in-depth conversations.
+We have an orchestrator
+that basically decides on each interaction
+whether she'll go to our own LLM, open-source LLM,
+or a scripted conversation.
+And this allows her to personalize herself to each user,
+contextualize her interactions,
+and also build a memory for each user.
+So the longer she lives with someone,
+the smarter she becomes, the more in tune with their needs.
+She knows which interactions to initiate.
+I did not mention that as far as we know,
+ElliQ is the only proactive,
+fully functional AI agent today.
+So she's not just prompt-based,
+she doesn't wait to be spoken to,
+she really initiates interactions.
+And we leverage AI hugely to be able to do that
+and to be able to do that in a fashion
+that is non-obtrusive, that drives to action,
+that helps us realize our goals
+that are obviously aligned with goals
+to help users live happier, healthier lives.
+So for example,
+if we know that a user didn't sleep very well
+and ElliQ asks in the morning,
+hi, how are you Jennifer?
+How did you sleep today?
+And if you say, oh, I didn't have a great night.
+So she'll remember that.
+And maybe around 5:00 or 6:00 she'll ask you,
+maybe you wanna have some breathing exercises
+before you go to sleep or maybe a short meditation session.
+And if you'll agree, she'll ask you the next day.
+So she's really sort of ongoing relationship conversation.
+How do you sleep?
+And if you said, oh, I was better tonight.
+So she'll initiate
+the same kind of interaction next evening.
+If it doesn't work,
+maybe she'll ask you in the morning
+if you wanna do a short yoga session,
+or maybe she'll suggest to call your doctor
+or call your daughter or call your son
+or a different loved one
+to see whether they can help.
+So we really do leverage AI
+to also be able to have those interactions,
+but to also have a much more natural and wide
+and deep conversation.
+So ElliQ can talk with the users about the meaning of life.
+She can interpret their dreams,
+she can talk to them about childhood memories,
+she can talk to them about sporting events, historic events.
+So really everything and anything.
+<v ->Yeah, so it really sounds like</v>
+when we talk about the various forms
+or you know, subcategories of AI,
+you're already really leaning into that creative,
+you know, generative layer of AI with your ElliQ.
+<v ->Yes, combined with her very unique character.</v>
+<v ->Absolutely.</v>
+Okay, Casey, tell us,
+Josh.ai it's right in the name,
+for those of in the crowd
+who might not be familiar with what you do, right,
+tell us all the layers of how you're leveraging AI
+and some of your more recent announcements
+of what the next generation looks like.
+<v ->Yeah, absolutely.</v>
+Good morning everybody.
+Thank you to Parks Associates and everybody
+for putting this on.
+And also for all of you for waking up with us this morning
+for the first one of these.
+My name is Casey Levy-Tulloch,
+director of Business Development at Josh.ai.
+The way that I would put Josh in a nutshell
+is that we are your smart home control system.
+in the era of AI.
+We offer all of your traditional interfaces,
+a mobile app, a touchscreen, universal remote controls.
+We also offer a couple different
+far-field microphone products,
+which leverage AI through, you know, throughout the process.
+But it doesn't just start there with the user experience
+and ultimately the different interfaces
+that you use in the smart home
+to talk to your connected devices.
+We start by leveraging AI in the deployment process
+and we'll probably get into that a bit more later.
+But basically making the smart home simpler,
+not only to interact with but also to commission, setup,
+ultimately personalize and customize with natural scenes,
+which I would say are maybe one of
+the most powerful transformative aspects of the smart home
+is creating a good morning or a good night scene.
+We have a special tool
+that we use called our Natural Language Scene Builder.
+It's an extension
+of our natural language processing with voice
+where you can basically dictate
+what you'd like that activation to be.
+You want to dim your lights in the bedroom,
+open the shades on the second floor,
+listen to your favorite playlist,
+you can simply dictate that to Josh.
+You of course could program it or configure it as well.
+But we're removing the barriers of complexity ultimately
+for the the best custom and most personalized experiences
+in the smart home.
+In addition to that,
+we are not just a smart home control system,
+we also offer an intelligent assistant that we call JoshGPT.
+We launched JoshGPT a couple summers ago
+and basically built our own LLM on top of our core stack
+of natural language processing in the home.
+JoshGPT basically can answer
+any sort of assistant type question or query
+that you would have.
+So you want a recipe while you're cooking,
+you want travel recommendations
+for your upcoming Vegas trip,
+whatever it may be,
+JoshGPT is your intelligent assistant
+that we essentially can send those commands off to for,
+you know, more engaging personalized experience as well.
+But yeah, we'll get into much more later,
+but that's a quick intro.
+<v Jennifer>So quick follow up there.</v>
+Can you share anything about what people are asking most?
+What are they looking to know
+or be assisted with with JoshGPT?
+<v ->Yeah, JoshGPT I'd say recipes are really high up there.</v>
+Naturally you're cooking in your kitchen,
+your hands are busy,
+so asking, you know,
+how many table spoons are in this recipe
+or how do I make chocolate chip cookies
+or something like that.
+But we actually just published
+our top 10 voice commands of 2024.
+And the top 10 were all device commands to the home.
+So turn on the lights, open close the shades,
+thermostat commands, music,
+just kind of ranging across your different devices
+and that ecosystem that is continuing to expand
+in the home as well.
+<v ->Okay, fantastic.</v>
+And the creating of routines is really a big one.
+We did some research in the past year around
+how many households are actually
+creating automations and routines between devices
+to get more to that whole home vision
+and of how a smart home can function.
+And just 40% of smart home device owners today
+are actually coordinating their devices in some way.
+There's still a lot of friction
+in trying to figure out how to make that happen.
+Paulus, tell us more about the Open Home Foundation.
+<v ->Yeah, good morning everyone.</v>
+My name is Paulus Schoutsen,
+I'm the president of the Open Home Foundation.
+We're better known for our work on Home Assistant.
+Home Assistant is a smart home platform
+that probably all the engineers at your company
+are always talking about.
+It's a very big platform,
+one of the most active open source project in the world
+and has a big focus on local control and privacy.
+So everybody can always run it at home.
+And we believe that users, they own their data,
+they can do with it what they want.
+So when it comes to AI,
+we've been very early adopters
+giving AI hooks into Home Assistant,
+let it read out information,
+read out historical data, control devices.
+We believe that right now our biggest use case
+that we see users actually use it for is voice.
+Because it's just nice that
+if you talk to your voice assistant,
+AI will make sure that it always understands
+what you're trying.
+And before it was like you need to say exactly
+the way Google planned for you to control your lights.
+Now you can be a bit more ambiguous.
+For example, the other day I said,
+I'm coming out of the shower, get my room ready,
+and it closed my blinds and turned on my light,
+without me saying anything of like that kind of thing.
+And so,
+making sure that voice commands are always successful,
+that's like a big hit.
+My son personally is like
+querying Pokemon stuff all the time with AI,
+which is also very good for.
+But we see actually a very bigger role for AI.
+We've already exposed it to, for example,
+our automation engine.
+So people will write automations,
+gather some events that are happening in the house
+and then ask an AI, is this a suspicious event?
+And for example, if a door is opening at night
+and you know that people are sleeping,
+the lights are off, that's suspicious,
+maybe we should wake up the homeowner.
+And so just getting from the AI simple yes, no,
+and then your automation can continue,
+that's been a big hit as well.
+So, yeah.
+<v ->Yeah, I think where you guys sit is so interesting,</v>
+just by the nature of kind of the open project
+that you're working with,
+you're dealing a lot with innovators
+who really know what they want,
+you know, out of the smart home.
+How does that influence what they're asking for
+when it comes to AI capabilities?
+<v ->Well the main thing they always ask for</v>
+is can we have all the data?
+And we're like, yes, here is all the data.
+But it also means that for example,
+there's model context protocol,
+which is a way of AI agents to talk to other systems,
+which is like something that Anthropic just standardized.
+Well, we've been adopting that
+and we make sure that when now people writing agents,
+which is gonna be the big thing I think in 2025,
+they can talk to Home Assistant,
+integrate that into whatever the agent is doing.
+I don't believe Home Assistant
+is gonna be the one running your agents
+just because there's so much more in your life, right?
+We are not locked into your work Slack,
+nor do I want to be Home Assistant
+have access to your work Slack,
+but maybe you want your AI agent
+to integrate that part of data as well.
+But yeah, we see,
+there's just so much stuff happening all the time
+and basically Home Assistant,
+because it's the only platform that is fully open,
+people are just fully getting all the data out
+and playing with it.
+We see a lot of cool stuff happening.
+<v ->Yeah, fantastic.</v>
+Okay, Paul, tell us about Nice Group
+and where you guys are really, you know,
+placing your bets and pulling in the power of AI.
+<v ->You bet, well, first of all,</v>
+thank you for inviting me again.
+I love these events, they're fantastic.
+My name is Paul Williams.
+I'm the global managing director
+for home management at Nice.
+And what that means is I have global responsibility
+for anything to do with
+smart home security and access control.
+We manufacture smart home solutions,
+everything from lighting control to HVAC, audio, video,
+create your feature functions including security systems
+to keep your home safe and secure at the same time too.
+So we're leveraging AI in several different ways right now
+with more coming into the future.
+We just released our new voice platform,
+which allows for natural voice control over the home
+and all the functions within the home
+that can be controlled with our solution.
+Really on two big foundational issues.
+First one was natural language
+to be able to just not have to say a command word
+and then remember exactly
+what that light was called over there
+because it won't listen to me
+unless I manage the exact name or say the exact name.
+We're intelligent, we know you're in the room,
+you say turn the lights on,
+we figure it's the lights in those room.
+So very contextual based.
+But also part of that
+is then making sure that it's safe and secure.
+So the data itself belongs to the consumer.
+We're not storing any personal information in the cloud.
+We're not monetizing the information that's in the cloud.
+That's very important to us is to make sure
+that we're providing a great customer experience
+with that voice solution.
+So that's the first way.
+Second way is we have on our touch panels.
+So touch panels is one of the things
+that we provide to the homeowners.
+Touch panels also have facial recognition
+and what we're able to do is personalization.
+So one of the age old problems,
+at least in this what I'll call
+the luxury or premium smart home solution space
+is that you get one size fits all in a lot of homes.
+So the user interface is the same
+for no matter who in the home needs to interact with it.
+And sometimes that's okay,
+but in a lot of cases it's not,
+because, yeah, it means extra key clicks,
+or I have to go through a different menu,
+or it doesn't even make any sense to me at all.
+And what we're able to do is with facial recognition,
+make it very personalized.
+So as a consumer walks up,
+if one person in the home walks up, it recognizes them,
+they get their user experience.
+So if I want buttons that are just for my playlist
+or from the lighting or whatever is I'm controlling,
+I see those.
+Next person walks up can be 10 seconds later
+they get a completely
+or can get a completely different user interface
+that's really personalized for that consumer.
+And so that way we're having a personalized experience
+for all the people that live in the home,
+not just one who usually
+in the past has been the one that sets it
+and everybody else just has to live with it.
+<v ->Yeah, absolutely.</v>
+Let's talk about the facial recognition point
+'cause this gets in a little bit to consumer acceptance
+of some of the really advanced technologies
+that are being built.
+And AI specifically, you know,
+there's this push pull of the benefits, you know,
+that we all see of developing and pulling in AI
+to drive that next feature set.
+But are we getting ahead of the consumer
+and where's consumer comfort?
+Is there anything you could share
+on the facial recognition part that you talked about?
+I mean, you're definitely solving some friction points
+and some pain points and getting to that personalization.
+What do you think consumer openness is?
+<v ->So it varies and we're still on that,</v>
+I would say on that adoption curve that's there right now.
+What we see is that people will put touch panels
+in rooms in their home
+and there's some rooms where they're not gonna be
+activated at all.
+And that's one of the options we give the consumer.
+They can turn on or off that facial recognition.
+So we're seeing in open spaces
+that they're more readily acceptable to have that in place
+where you don't want at your bedroom,
+because and bathrooms, I just I don't trust it, right?
+I don't wanna make sure that there's not a camera
+that somewhere can be found on the web
+or found in the cloud somewhere.
+And so we're seeing that acceptance though
+is actually increasing though.
+And so people are starting to see the benefit.
+It's much akin to if we take mobile phones, right?
+Mobile phones, we opened up,
+many of us have opened up huge gaps in our own privacy
+by having mobile devices in our pockets right now.
+We've all accepted that the benefit that it gives us
+is higher than the potential deficit
+of having that information potentially out there.
+And so we make those trade-offs.
+And I think consumers are starting to get to that point.
+We're not quite there to the tipping point I would say yet,
+but we're in that curve.
+<v ->Yeah, and Amalia, I'd love to go to you here too,</v>
+because you're working directly with older consumers
+who tend to be some of the least accepting
+of new technology broadly,
+though we very much believe that seniors do use technology
+and they tell us all the time that they do,
+but tend to be later accepters, right?
+With high concerns about things like AI
+and here you have a company that's leaning into it.
+Can you tell us a little bit about
+what you've learned about that relationship
+and how you,
+you know, foster that consumer acceptance?
+<v ->Sure.</v>
+So to your point,
+older adults definitely use technology,
+but it needs to be built with them in mind.
+I mean, they have different needs,
+they have different knowledge gaps,
+and when you build something
+that's really simple and easy to use, they use it.
+I mean, and I think when we market directly to older adults,
+because we have different audiences,
+we don't lean necessarily into the AI, into the innovation,
+but we lean into what they have to gain living with ElliQ.
+So we talk about all the different things
+that they can do with her.
+We talk about the weekly bingo nights,
+which allow them to interact with other older adults
+across the country and play live bingo.
+We talk about all the health and wellness features
+and the ability to really connect with family members
+that aren't necessarily near them.
+And sometimes they have trouble
+using FaceTime or using Zoom.
+And with ElliQ it's just so much easier.
+All they need to do is give her a voice command.
+Tell her, ElliQ, let's call Amalia,
+and then she just does that for them.
+So we see 56% of the users actually saying
+they feel more connected to the outside world
+ever since they've been living with ElliQ.
+So I think,
+first of all, when they see other older adults like them
+in our marketing material, in our ads,
+it does sort of foster a sense of security.
+And we just make it very relatable
+and very easy to understand the benefit
+without talking about the technology.
+For sure, there are issues and concerns about privacy,
+but we're super transparent.
+We always reassure them
+that we don't use any personalized data to train our models.
+We completely anonymize the data.
+Everything that we use on premise
+to sort of personalize the experience stays on premise.
+It doesn't train our models.
+So I think we try to be very transparent.
+We have an AI code of ethics that we share
+with all of our users, all of our partners,
+and hopefully that does ease a lot of the concerns.
+<v ->Yeah, okay.</v>
+So I'd love to actually talk more about
+the challenges of AI,
+maybe even from a product development standpoint.
+There's just the costs,
+you know, to start with
+when you decide that you want to,
+you know, pull in some of these features
+and especially as we get to generative AI
+and the compute power it takes,
+there's big competitive shifts in the market,
+cybersecurity vulnerabilities,
+intellectual property risks associated with AI,
+uncertain regulatory environment for sure.
+Arsham and then Casey,
+I'd love to go to you if you could talk a little bit about
+what are some of the biggest challenges
+as you're developing your new framework
+you were talking about, right,
+in AI for the business?
+<v ->So how you look at the financial side</v>
+really has to do with the stage of the company.
+There are companies that are quite okay
+playing the loss leader game.
+All they need are the numbers
+and you can buy up the market
+and then deliver the value at a later point.
+Unfortunately, not every company has that benefit.
+So we have to measure
+the value of the problem that we're solving versus the cost
+on an ongoing basis.
+So we deliberately pick which AI models
+do we move to the cloud
+and do we incur the recurring cost
+because there's a recurring value being generated.
+And which do we need to actually start
+innovating on the hardware side
+so that we can slowly shift
+smaller inference engines to the edge
+that will have access to a lot more data by the way.
+The amount of data that you can process
+on the edge in real time
+doesn't even come close to what you can shift to the cloud.
+So the reliability and the access to the data
+on the edge is a lot more,
+obviously your models are much simpler.
+So as long as you can carve out
+what problems do you solve on the edge,
+what problems do you solve on the server-side,
+then you can balance out your front up cost on a product,
+and then the recurring cost versus the value
+that's gonna be generated on the other side.
+So for us, it has to do with true value generation,
+not simply writing the buzzword.
+Believe it or not,
+actually using the term AI
+doesn't help your product sell better with the consumers.
+It does help your stock sell better with the analysts,
+but the consumer actually gets turned off.
+<v Jennifer>Yeah.</v>
+For UEI, when you think about the challenges
+in AI development for instance today,
+is cost the number one challenge or is there something else?
+Keeps you up at night?
+<v ->So our scope is typically residential environments,</v>
+either residential or light commercial,
+we do believe that users' attention
+will derive who and which brands and which ecosystems
+will have access to the largest amount of data
+and they will have a better opportunity
+to build a far better model
+than we ever could for a generalized home automation.
+So we focus on building out experts
+in a multi-assistant environment,
+experts that can achieve specific tasks so well
+that even a generalized assistant in the home
+will still rely on them
+for completing a specific task,
+from onboarding to predictive maintenance
+to ongoing troubleshooting to personalization and targeting
+in a private fashion, dot, dot, dot.
+So we focus on very specific use cases.
+We try to be the best at those,
+imagining how we need to either function
+as an independent product in the home
+or connect to the rest of the ecosystem.
+So useful as a standalone product
+and far better in an ecosystem
+that works with other assistants.
+<v ->Okay.</v>
+Josh, what are the challenges that are you're up against
+in all the development that you're doing with AI right now?
+<v ->Yeah.</v>
+Well, there's.
+<v ->Casey.</v>
+<v ->Yeah, Casey, Josh,</v>
+I respond to both.
+<v ->I'm sorry.</v>
+<v ->Yeah, it's fine.</v>
+<v ->Casey at Josh.</v>
+<v ->Yeah.</v>
+<v ->Thank you.</v>
+<v ->You can call me Josh.</v>
+So yeah, the cost associated with AI,
+it's really interesting
+because we pay our cellphone bill, we pay our cable bill,
+we pay these monthly recurring fees for our services.
+However, the smart home hasn't really done
+a great job of implementing that yet.
+And we have at Josh,
+we've built a successful business model
+with a hardware sale, a software sale,
+and we offer monthly, annual, five-year and lifetime plans.
+And we've modeled out what that profitability is,
+what makes sense for us as a business
+given our users and all that good stuff.
+But it is important to note for a consumer,
+and just to kind of take a step back as well
+of you look at big tech out there,
+these are really affordable microphones
+or other devices on a shelf that can,
+you know, listen to you and,
+you know, execute commands in your home.
+However, you know,
+why is this device 50 bucks or 25 bucks?
+And it's because, you know,
+they're making money in another way,
+not necessarily, you know,
+by charging you for the experience.
+So for us,
+we are very conscious
+of all the different services that we use,
+whether it's the speech-to-text process,
+the speech recognition platforms,
+the LLMs and just various services that we use
+to facilitate the AI that Josh offers all of our clients.
+And by modeling that out,
+it's a fun math equation essentially to figure out,
+as we reach economies of scale, how these costs decrease.
+But it's a non-zero cost.
+I think that's an important thing for consumers to realize
+is that this experience is not just a la carte
+or it's not a free one that comes with this hardware.
+In addition to that,
+just, you know,
+I'd say that that pretty much covers it
+as far as the software cost.
+<v ->Yeah, it's kind of the story of the smart home</v>
+of trying to figure out
+what consumers will pay for an ongoing basis
+to cover the connectivity costs,
+and now really it's the intelligence costs,
+you know, as well.
+Some rumors that there's maybe some subscription
+coming from some of the big, you know, giants.
+And if so perhaps training consumers
+to think a little bit differently
+about what that premium tier
+that you pay for looks like, you know.
+It could be interesting on the competitive landscape too.
+Which Paulus I'd love to kind of get your thoughts on of
+how AI and generative AI in particular
+kind of redefine the competitive landscape
+and where smaller players or open players,
+you know, how you kind of compete in that environment?
+<v ->Well I think it has completely changed it, right?</v>
+Where we, five years ago it was like,
+how can we ever compete
+with Google and Amazon on their AI stuff
+because we can only access it
+through the voice assistants that they sell us
+and now we can just pick up an API and we're almost,
+we're better than the voice assistants of five years ago.
+Now because of that,
+it also is more interesting and important
+to build on top of it
+because everybody has access to the same LLMs, right?
+We have the same AI,
+so how do you differentiate?
+And so I think that the way we're competing has to change
+where everybody will be able to answer questions about
+the world or your recipes or these things
+because, well, an LLM can just do that
+if you pay for the biggest models.
+And so it will be really important
+what is the user experience that we can build on top of it?
+How can you make sure that it is tuned to the user?
+How can you use their local habits
+and integrate it into how they use the platform?
+And I think that's gonna be way more important.
+But until now it was more about like,
+how do we even get voice in a house,
+or like, it was very hard to compete.
+And so yeah, we're just making,
+we're gonna compete at a different level.
+<v ->Okay, so we only have about five minutes left.</v>
+There's one question we're getting asked actually
+quite a bit at this kind of stage of the game,
+which is it's a little bit of a wild west
+when it comes to the regulatory landscape for AI right now,
+but expectations, you know,
+that there could be more coming down the pipe.
+And I'm really interested to understand how you,
+you know, what you really have your eye on
+and how you're thinking about potential regulations,
+is it are you looking more at regulations
+around data privacy and security
+or intellectual property concerns
+or bias and discrimination?
+There are all sorts of kind of angles of AI development
+that's happening right now
+that are kind of raising the attention of regulators.
+So maybe Paul and then Arsham,
+if you have anything that you can comment about
+how you operate in this uncertain regulatory environment
+and what you're really preparing for.
+<v ->Yeah, so there's, as you mentioned,</v>
+it's kind of the wild west right now,
+at least in certain parts of the world.
+North America for sure.
+You go to Europe, Europeans in the audience.
+So GDPR has been in place for some time.
+I think it's a good model.
+And I think it's one of the things we're looking at to say
+what would the world look like if it was GDPR.
+And GDPR I think takes a very conservative view
+of making sure that we're protecting users' data.
+And that also extends into how are models being trained.
+What sources are using to train those models?
+There's been a lot of that come up recently
+where a lot of these models are being trained
+by just pulling images and other things off the internet,
+which could and most likely
+are violating privacy laws already.
+And so we wanna make sure we're not doing that.
+We also making sure that the user's privacy is secure.
+But a big part of that is that the consumer owns that data.
+And a big part of GDPR and a big part of what we're seeing
+and what we'll I think
+we're going to continue to see in North America
+is that I as a consumer have the right to tell you
+the person storing that data
+that I don't want you to store it.
+First of all,
+I wanna understand that you have to be explicit
+on how you're using that data,
+what you're using it for, and how you plan to use it,
+that I am aware of before I then volunteer
+that information to you.
+And then secondly, I have the ability to not only take it,
+but I can also transport it.
+It has to be provided in a way
+that it can bring down in code
+that I could transport that same data
+to somebody else's model.
+And I think it's a good way to be thinking about
+what's happening right now.
+We are seeing some states.
+Illinois has probably got
+the biggest facial recognition laws
+that are on the books today.
+There's personal damages that you can sue for
+if your images are used in the wrong ways.
+California, Texas, Washington
+all have some laws little less stringent than Illinois.
+But we continue to watch the landscape.
+I'm confident that we will see certainly
+in the next few years something happen
+in the United States and North America as a whole,
+that kind of tightens that up a little bit.
+And I think it's necessary
+because I think that consumers are expecting
+to have some control over this experience
+and they don't want it to be the wild west.
+<v Jennifer>Yeah, fantastic.</v>
+Arsham, did you wanna add there?
+<v ->On the privacy side, GDPR is a great example.</v>
+When we try to go after personalization, for example,
+we had to really lean on the edge
+to deliver majority of the personalization experiences
+with minimal dependency on the backend services,
+which are only temporal
+and they just disappear as soon as you use the service,
+this is how we can ship everywhere.
+But when I look at AI specifically,
+a lot of the talk around regulation
+is targeting last year's problem,
+not really what we're designing today.
+They are talking about some of the applications.
+The most interesting that we would like to see is
+when you think about an AI-enabled product
+that goes out of service
+and you don't update and maintain anymore,
+it's not similar to a utility,
+a product that had a fixed function,
+it will continue doing what it used to.
+An AI product that goes without service can be dangerous.
+So that is one of the biggest issues
+that are looking forward to seeing an outcome
+which will actually materially change
+how we serve our connected products in the long run.
+<v ->Okay.</v>
+All right, we have just a few minutes left,
+so I'd love to ask Amalia, Casey and Paulus,
+if you guys had advice for those in the crowd
+that are working on their own solutions,
+trying to keep up with the pace of innovation,
+which doesn't ever slow down,
+but somehow seems even more accelerated than normal,
+you know, what advice do you have
+as they consider how AI can maybe transform
+their products, their businesses,
+and they think about, you know, what's next for them?
+<v ->So what we always say is that</v>
+in order to really create an impact in a person's lives
+and really create a long-lasting relationship,
+and obviously retention based on that as well,
+it's important for the AI to be proactive.
+If you think about the relationships in our lives,
+they're not one way, they're not prompt-based.
+We don't just wait for a friend to call us
+and ask how we are, do we wanna meet,
+we wouldn't be very good friends doing that.
+So if we wanna create AIs
+that don't replace human relationships,
+but create sort of a new category of relationships,
+maybe sort of like a pet,
+we need to have an AI that's able to interact
+and initiate interactions and be proactive about it
+and really anticipate what the user needs.
+<v Jennifer>Okay, great.</v>
+Casey?
+<v ->Just to add on top of that,</v>
+or maybe put a different way,
+is what problem is this AI solving in a unique or,
+you know, special way?
+Because at Josh, our founders,
+the vision was there's not an AI,
+and this is before any other voice assistant
+was out as well,
+but our founding mission was,
+there's no smart home assistant
+with the contextual awareness, the natural language,
+the conversational understanding of
+what does it's too dark in here mean or I'm cold,
+and being able to adjust your lights, your thermostat.
+And since then we've built a lot more on top of that
+in terms of the device functionality integrations,
+the intelligence assistance as well.
+But from a competition standpoint,
+AI is here, it's definitely blown up and now it's,
+you know, the hot buzzword,
+and everybody's trying to figure out how to use it.
+But how do you use it in a impactful way
+that creates value for your business where,
+you know, I think we also just in talking about,
+you know, AI being a loss leader for some larger companies.
+If you're a smaller company,
+you can't really afford for it to be a loss leader
+or else you're not gonna be around too long.
+So how are you creating this experience
+that is creating retention,
+creating, you know, memorable experiences
+or you know, utility,
+that people want to continue to pay for.
+<v Jennifer>Okay, great, and Paulus last word?</v>
+<v ->Yeah, I think that if you're building AI</v>
+then make sure that LLMs are not the only AI.
+I mean you're talking about cost
+and actually LLMs are the most expensive AI you can use.
+You can already achieve so much
+just by doing old school machine learning,
+statistical analysis, looking at the data,
+and there's so much stuff
+you can actually run locally as well,
+that you don't need a big GPU for it to run models.
+And so don't think that
+generative AI is the only AI tool in your toolbox.
+There is many, many tools.
+<v ->Okay, fantastic.</v>
+Well please join me in thanking our kickoff panel today,
+sharing their insights.

@@ -1,0 +1,1102 @@
+- If you could take our seats,
+we'll get going with the
+third session for the day.
+Again, for those of you that
+are new, thank you for coming.
+This is the third segment
+of the Quantum Means
+Business track at CES.
+And this segment,
+we're gonna talk about
+devices and sensing.
+The first segment, if you remember,
+for those of you that we are in the room,
+we talked about computers and computing.
+The second segment was how
+industry is gonna get engaged
+as we build the ecosystem,
+and this is going to be the bookend of it,
+talk about a completely
+different part of quantum,
+which is the sensing side of it.
+And with that, it gives
+me great, great pleasure
+to introduce a dear friend
+and somebody who sits
+on my sitting committee,
+Celia Merzbacher who is the
+Executive Director of QEDC,
+which is the Quantum Economic
+Development Consortium,
+which is a group of quantum
+and related companies
+that are working together
+to move the needle forward on industry.
+Celia?
+That was front and back.
+- Thank you. Thank you
+George, it's great to be here.
+And nice to see all of you
+and all of the interest in quantum at CES.
+When George told me that this
+session was being planned,
+I said, "George, we
+gotta do a good job here.
+We don't wanna fall on our face at CES."
+But obviously the word is out,
+it's the International Year of Quantum.
+And I'm really pleased to
+be kicking off this part
+of the program talking
+about quantum sensing,
+which as many of you may know,
+and I think was sort of alluded to,
+is some of the nearest term
+use cases and applications.
+In fact, there are quantum-based sensors
+that are being made and sold today.
+So I run the Quantum Economic
+Development Consortium.
+This is a consortium that
+was created by Congress
+here in the US who directed the government
+to establish a consortium of stakeholders.
+But we're really industry-driven
+and our purpose is to enable
+and grow the quantum ecosystem.
+And notice the word
+computing is not in our name,
+it's not in our mission.
+We are helping to advance
+quantum technologies
+for all use cases.
+And our membership spans everything
+from very fundamental component suppliers
+up to the big system integrators
+that you've heard of,
+startup pure play companies
+that are building everything
+from quantum computers
+and sensors and other technologies.
+So check us out.
+I'm not gonna talk about
+QEDC anymore though today.
+So let's see. Ah, yeah.
+What I thought I would cover today
+in my 10 minutes are
+the following questions.
+What is a quantum sensor?
+I'm assuming that there
+are some in the audience,
+and I can't see very well
+because of the lights,
+who don't know a lot about quantum
+and what a quantum sensor is.
+What is it good for? What can it measure?
+When will it be so good that
+it beats what we have today?
+There are a lot of sensors out there.
+You can walk around the show floor here
+and see tons of sensors.
+So obviously a quantum-based sensor's
+gotta be better than the
+incumbent technology.
+What is the current state of the art?
+So how close are we
+to when quantum sensors
+will beat classical?
+And where will consumers
+start seeing quantum sensors
+impacting their lives?
+Which again, because we're at CES,
+I thought, let's think about that.
+Okay, let me just start,
+I'll back up if I can figure out how.
+Well never mind. What is a quantum sensor?
+A quantum sensor, just like any sensor,
+is some system that can,
+through interaction with its environment,
+have some kind of a change
+that you can measure.
+It's as simple as that.
+And of course there are
+many different kinds
+of temperature sensors for instance,
+you could say a stick of
+butter is a temperature sensor,
+gets too hot, it melts.
+So there are a lot of
+quantum systems out there,
+and a sort of feature which
+is problematic frankly
+in the quantum computing space,
+but it's help in the sensing space,
+is that quantum states are very fragile
+and very sensitive to the environment.
+And that's why of course some
+of the quantum computing systems have
+to be kept at very low temperatures
+because even just thermal
+noise causes errors.
+And so for this is the
+definition of a good sensor.
+And so there are, as I said,
+many different kinds of quantum systems.
+They need to be stable,
+they need to be
+initializable and measurable.
+There are some criteria
+for taking a quantum system
+and making it into a sensor.
+But there are many
+different kinds of devices
+that are at the heart of quantum sensors.
+In terms of what can a sensor measure,
+so if you asked a physicist
+or somebody who sort of
+is a quantum technologist
+what a sensor can measure, they
+might give a list like this,
+it can measure chemicals,
+is there a presence of some
+particular chemical agent,
+magnetic field,
+they're very good at detecting
+changes in magnetic field
+or electromagnetic fields.
+They can detect gravity
+change very sensitively.
+You can have a sensor
+that can detect the change in gravity
+just by moving it up one centimeter,
+the sort of change in the attraction
+with the earth can be
+detected so precisely.
+Temperature is something
+that can be measured by quantum sensors,
+location and velocity and time.
+And those are all critical to positioning
+and navigation type of applications.
+So that brings me to sort of what someone
+who is really in the
+development of a sensor
+for some purpose might say,
+what can a quantum sensor measure?
+Well, there are companies
+that are making quantum
+sensor-based technologies
+for measuring methane leaks
+in oil wells or gas wells.
+They could also be used
+for measuring breath,
+doing breath analysis for instance.
+So lots of different applications
+might take advantage of
+quantum measurements.
+Magnetic field detection,
+and we were gonna hear a
+little bit more about that
+from one of the speakers later,
+could be used to measure brain signals
+and make images of the brain.
+Gravity can be used to
+detect underground anomalies,
+that might be a submarine
+undersea or a tunnel underground.
+And and you can see the
+list here and position
+and navigation are two areas
+where quantum sensing is
+potentially gonna be very useful
+in being able to do
+navigation without GPS,
+and the government and military
+are particularly interested in that.
+So when will a quantum
+sensor beat classical?
+Well, it depends, as is often the answer.
+It depends on what the requirements are.
+Here's a picture of the
+most precise atomic clock,
+it's at NIST and it takes
+up pretty much a room.
+But a lot of times,
+you don't really wanna put
+something that big on a platform.
+It's not very practical.
+So the defense department ran a program
+to create a chip scale atomic clock
+and it was a successful program.
+And this is a technology,
+this is a product you can buy today,
+so the largest market for
+these chip scale atomic clocks
+outside of government is
+in oil and gas exploration,
+which I don't think they anticipated
+when they did the program.
+So a lot of things depend on size, weight,
+and power requirements,
+but also of course cost.
+And if you wanna put it on every car
+or in every home, it's
+gotta be more affordable.
+And even these chip scale atomic clocks
+are still relatively expensive.
+There are, in some industries,
+regulations that you're
+gonna have to clear
+for biomedical applications for instance.
+Standards could be very important.
+It's a little early still in some cases,
+but there are organizations starting
+to think about standards.
+And then ultimately adoption,
+and there sort of is a
+chicken and egg problem.
+For some of these technologies,
+the market isn't as big as it could be,
+and so suppliers don't always
+wanna make the investments
+to support the industry.
+This is just a really quick example
+and I'll go through it
+quickly on brain imaging.
+Right now, the state of the art involves
+sitting in a big cryo cooled MRI machine
+in a magnetically shielded room.
+All that's very expensive.
+There are about 200 in the whole world.
+There are companies who
+are building brain scanning
+technology into these
+wearable helmets that children
+or people who are being studied
+while they're doing something
+and not just sitting still in a machine.
+So this is opening up, this
+is really enabling technology.
+The company I work for, SRI International,
+Stanford Research Institute,
+partnered with Twinleaf, a
+startup in Princeton University
+to do a version of this that is standoff.
+So you don't even have to wear a helmet.
+This panel that's next
+to the head can measure the brain imaging,
+and that's, you can see,
+still very researchy,
+but is showing a lot of promise.
+And this is just a
+illustration of a gravimeter,
+it's available now.
+You can buy this and take
+it out into the environment
+and make measurements of gravity.
+On the right hand side is sort of a map
+of what you might detect.
+And you have to of course
+be able to map the signals
+onto what it is you're looking at.
+So there's work to be done.
+So where will consumers,
+I'm just wrapping up here.
+I see I have about 40 seconds left.
+Where will consumers first
+see quantum technology
+and quantum sensors impacting daily life?
+Well, okay, I'm gonna take a sort of
+tongue in cheek answer to this.
+I think I've given you an idea
+of some of the applications and use cases.
+I don't think we know, frankly,
+where quantum is going
+to impact our daily life.
+And when we come back to CES
+in a year or five years and more,
+it's gonna be very exciting to see
+where quantum is being used.
+But it's being used for marketing,
+and if you go out and
+look on the internet,
+and I don't endorse any of these products,
+but Quantum is being used to
+obviously say this is something
+that's new and has some interesting
+characteristics perhaps.
+On the bottom left is like
+ant killer and paint thinner.
+Top right, we have Quantum
+vodka or something,
+and then there are sort of
+these health-related products.
+So it will be very exciting to see
+where quantum technology goes into things,
+and I think there's a lot
+of positive association.
+I think that there's a lot of enthusiasm.
+I don't see any roadblocks to progress.
+And so I'm excited to be here
+at CES for the first time,
+and I hope to be back again soon,
+and I'm around for the rest of the day.
+So if any of you are
+interested in learning more
+about QEDC or about quantum sensors,
+I'd be happy to talk to you.
+So with that, I will
+turn it over to George
+who's gonna introduce the
+moderator for the panel.
+Thank you very much.
+- Thank you, Celia.
+It gives me great pleasure to introduce,
+to reintroduce Philippe
+to come back up here
+to do a panel discussion
+about sensing in the market
+with two companies in the
+quantum sensing space.
+And the one thing I will
+mention about Philippe
+as he makes his way up
+here is from what I know,
+he's the first person
+who's actually exited
+or sold a quantum sensing
+company in the world.
+So Philippe, thank you
+again. Please go for it.
+- [Philippe] Wow, thank you very much.
+- [George] Can you hear me or no?
+Oh yeah.
+Okay, now it actually works.
+- Still no? Oh yeah.
+Thank you for the introduction,
+and very nice introduction
+about quantum sensing.
+I'm very happy that you
+used like an example
+of the product I've been
+developing over the past decade,
+that's the gravimeter which
+was sitting on the top
+of the volcano.
+So we have the pleasure to have two CEOs
+of quantum sensing companies.
+And there are more companies
+and many more business cases
+that have been developed
+over the past years
+with quantum sensors.
+We will spend the next 20 minutes
+to discuss a little bit these applications
+and maybe raise a few points
+or address a few questions
+that you raised in your introduction.
+But maybe first, if you can
+describe in a few words,
+what is your company,
+what is the quantum
+sensor you're so proud of?
+- Yeah, so thank you first of all
+for this opportunity to
+come and talk to you.
+So our company is focused
+on solving problems
+in building electronic systems,
+particularly as the
+scaling of advanced silicon
+is happening from nanometer
+to angstrom level,
+and more importantly also now
+these advanced 3D packages.
+And so really building the systems,
+it's a large industry you're aware of
+heading to trillion dollars,
+and there are some very
+complex unsolved problems
+which offer a discontinuity in terms
+of opportunity using quantum sensing.
+So that's what we are focused on.
+- Thank you, and Noel?
+- Thank you, good morning, everyone.
+So yeah, it's a pleasure to be here today.
+Our company, Neuranics.
+we are a relatively new company.
+We're based in Scotland,
+so we are looking at detecting
+very small magnetic activity
+of muscles in the body.
+So we're very much using quantum sensing
+to detect very low picotesla signals
+from the muscles and activity in the body.
+And what we're looking to do with that is
+to develop real world solutions
+that will go into human machine interface
+where we'll able to detect full movement
+of the hands and the fingers
+and the hands and produce wrist bands
+that will have human machine interface.
+So we're looking at
+real world applications
+on how quantum technologies
+can address everyday applications.
+- Wow, thank you for this presentation.
+So as a physicist, I'm
+always thrilled to hear
+what a quantum sensor can do,
+but that's usually not the
+best way to sell it actually.
+And so we're here at the
+Consumer Electronics Show.
+So maybe my question is the product,
+the quantum sensor you
+have been developing,
+very often we speak
+about quantum advantage
+for quantum computing, but
+also for quantum sensing.
+So what is the quantum
+advantage of your product?
+Why should we actually
+choose your product,
+or why did you choose actually
+to develop this specific technology
+or to use this specific technology
+for this specific application?
+- So I think it's a good question.
+So really our focus at a
+macro level is not necessarily
+I would say quantum,
+it's really what problem
+we are trying to solve.
+So our team is a group of physicists
+who have been working on the
+fundamental quantum solve state
+spin sensors.
+My background is all semiconductor,
+so I think it was a good marriage.
+I approached from what
+problem we're trying to solve,
+and really can we be the order
+of magnitude differentiated
+being a startup,
+and it has to be a couple
+of orders of magnitude.
+And the problem we are
+focused on is particularly
+as you're building this,
+the more than Moore's law in
+terms of advanced packages,
+it's very common today
+if you look at most of the
+companies like Nvidia and all,
+their entire product line is a combination
+of putting a bunch of silicon
+inside this advanced packages
+where you are both in
+a 2.5D 3D configuration
+building these complex systems.
+The HBM memory stacks
+started from four high
+where you're putting these
+DRAMs on top of each other,
+it's almost like you're
+folding the silicon
+and going in the third dimension.
+While that's a great solution
+to continue the semiconductor revolution,
+it has some fundamental
+challenges to be able
+to see magnetic fields between
+these layers, so to speak,
+the buried current flow.
+Today, there is no sensing modality,
+literally it does not exist,
+which can look at that and
+be used in the manufacturing
+because as you all know,
+this industry, 2024,
+So that's what we focused on.
+And the quantum sensing
+in terms of being able
+to use solid state spin sensors
+and detect buried 3D
+vector magnetic fields
+is a very unique value proposition,
+which there is no other
+technology which can do today.
+And that's the two we are trying to marry,
+pick a killer problem and pick a solution.
+And in both, that combination,
+we are orders of magnitude
+better than anything else.
+So that's what we are focused on.
+- Thank you.
+- So yeah, our core
+technology is based on TMR,
+Tunneling Magnetic Resistance,
+which is a quantum
+effect where you're able
+to detect very small picotesla
+levels of magnetic activity.
+And our company has spun out
+from the University of Glasgow
+and the University of
+Edinburgh, a joint spin-out.
+And we're really looking at
+bringing quantum technology
+into a semiconductor platform
+so that it's addressable,
+it's sellable, it's cheap,
+it's accessible for everyday applications.
+So we're bringing that to the
+world of biomedical sensing.
+If we look at the solutions
+that are available currently
+for looking deep inside
+the muscles in the body,
+you're looking at very expensive equipment
+such as squid sensors
+or OPM sensors that are tens of thousands
+of dollars per resident.
+We're trying to bring
+this into a few dollar
+semiconductor piece
+that can be applied then
+to consumer electronics
+parts in the future.
+So we're looking at addressing
+how do we look at the activity of muscles
+in a consumer electronics product
+that gives you new
+features and new benefits
+and something that could be
+tangible for people to use.
+So we have a lot of PhD researchers
+into quantum effects and how
+to build quantum sensors.
+I'm interested in how
+to commercialize this,
+how to bring this to the
+real world applications,
+looking at what solutions we
+can deliver to the market.
+And we feel that there
+is a lot of emphasis
+on new human machine interfaces
+using electrical signals from the body.
+But that causes a lot of problems
+in that you need tight skin contact,
+you need really tight
+contact onto the skin
+to receive those electrical signals.
+Whereas if you had a magnetic signal,
+you're able to stay
+further away from the body,
+you're able to monitor those signals,
+you're able to get better
+spatial resolution.
+So quantum gives us a lot
+of benefits in the market
+that we're trying to address.
+- Thank you.
+So maybe before diving to another topic,
+I would like to elaborate
+a little bit on this
+and also on this aspect that
+Celia mentioned in her introduction
+that there is an important step
+or an important difficulty
+for sensing in general,
+which is the SWaP,
+size, weight, and power,
+and also the price.
+And very often I also experienced that
+that it's not yet a big market.
+So sometimes you need
+to do things on your own
+because you don't have so
+much of a like scalability.
+So could you maybe give
+us some of the difficulty
+you had to overcome in
+order to get to a product,
+and then we'll maybe address
+how this product can go to the market.
+But I think it's important
+to get the product first.
+- And I think that way,
+Noel and I kind of represent
+a little bit two different spectrums.
+So it's very interesting
+probably to get that.
+So in our case, really,
+in terms of the solid state spin sensors
+where there's a NV diamond,
+which is CVD grown,
+actually it's available today
+and in a relatively very mature state,
+and there are companies
+like Element 6 and all
+which can grow these diamond CVD insert
+at layer in terms of these NV sensors
+and they operate both
+in extreme environments
+and room temp.
+And a sensor can cost,
+let's say a couple of thousand dollars.
+But the application we chose,
+really that thousand dollar sensor,
+which can be produced reliably
+and can operate in extreme environments
+is the value proposition.
+So because our system we are building
+will be in hundreds of
+thousands of dollars
+or potentially even higher.
+So it was more, I think
+for us, the quantum sensor
+we are using, the fundamental NV sensor,
+the manufacturing of that
+and a reliable supply chain.
+And now there are a number of companies
+which are doing that across the globe
+in terms of building this fundamental NV.
+Today, a lot of users are in
+the industrial application,
+building some really advanced devices.
+So for us, really the barrier of entry
+is not necessarily the sensor itself,
+it's really sensor is
+a piece of the puzzle,
+but putting the entire system
+solution in terms of sensing,
+in terms of imaging,
+and then the most important
+is to meet the performance
+and throughput requirements of the problem
+we are trying to solve.
+So I think in our case, almost,
+and I think both quantum
+is a good and a bad thing,
+a lot of times when you
+talk to the VC investors
+and all that, as soon
+as you lose the quantum,
+you see a little bit of a resistance
+because they think the investment is,
+let's say five plus years out.
+But in our case, I think
+we are more limited
+by building the entire system stack.
+The fundamental sensor, the
+fundamental NV technology
+is solid today.
+So we are focused on the
+higher layers of the problem,
+the sensing, the imaging,
+improving our imaging from ODMR
+to let's say going more like Ramsay
+and RABI imaging techniques and all.
+So bringing all the levels of physics
+and then being able to offer
+the complete system solution.
+So in our case, the
+limiter is not the sensor,
+the limiter is connecting a problem
+and being able to solve and offer
+a full system stack solution.
+- So we're addressing it
+with three technology blocks,
+the sensor is obviously a
+very important first step
+along the way.
+We need to get a sensor
+that's able to detect
+sub-picotesla levels of
+sensitivity from the muscles,
+that allows to give us the
+resolution that we need
+and the signal quality
+that we need in order
+to determine position of
+fingers for example in the hand.
+We then need to apply custom (indistinct)
+to amplify those signals
+to make them usable.
+We then need to apply machine
+learning to those signals
+then to interpret those signals as well.
+So we've got three
+distinct technical blocks
+that we need to address as a company,
+but we see that we need to do all of that
+to provide a solution.
+And that the solution then could be closer
+to the market requirements.
+If we were just to provide
+the sensor on its own,
+it'll sit on the shelf
+and nobody will use it.
+But if we can provide a solution,
+then people will then be interested
+in experimenting with hat solution,
+we'd provide a dev kit,
+people can play with that,
+and it brings the
+solution closer to market
+and allows people to address that
+and to experiment with
+the technology quickly.
+- Thank you.
+So I would like now to
+exactly go towards the market
+and towards the consumers, of course,
+except maybe for the
+butter that you mentioned,
+those sensors that are not
+directly acquired by consumers,
+they're part of like more complex systems.
+But overall I think we
+also addressed it before,
+we feel that there is still a lot of work
+to be done in order
+to penetrate the market
+with a quantum sensor.
+And I would like to have your
+feedback, your experience.
+And so how hard was it? What was needed?
+Basically what is making
+a customer pivot to use
+and to engage into a
+quantum sensor acquisition?
+- Yeah, so again, what we are seeing is
+the industry, like
+semiconductor, batteries,
+I think there was a lot of
+discussion around batteries,
+are looking for much
+more higher sensitivity
+and resolution than what can be today
+with classical sensors.
+So there is a fundamental need.
+A good example is much like
+semiconductor manufacturing,
+battery manufacturing, batteries like,
+I almost feel like what
+semiconductor was in the '80s.
+The hockey stick of the
+batteries is ahead of us,
+and fundamentally there'll
+be all different kind
+of chemistries and batteries everywhere.
+And today if you look at
+battery manufacturing,
+they throw away 15, 20% of their yield
+because putting these complex
+battery cells together
+and being able to manufacture this battery
+is just very complex.
+I gave an example of advanced packages.
+There's a security application now
+with all these global needs to be able
+to securely track some of these things.
+So there is a fundamental need
+of these sensing capabilities
+which are not available today.
+And so that's how we are
+looking instead of looking,
+I have a, so to speak,
+a widget or a hammer,
+what problem can I try to solve,
+we are coming from the other side,
+really what is the biggest
+problem to go solve?
+Can quantum offer an order
+of magnitude capability
+compared to classical
+sensors and marry the two?
+To me, I think that is
+the way to go versus,
+hey, I have this great quantum sensor,
+and then trying to convince
+the industry or the investors
+or the end consumers in terms
+of really that it brings value to you.
+And that's why we started
+from industrial applications,
+and then gradually work
+because that market is a little bit more,
+actually it is cost-insensitive
+from a sensor point of view,
+provided the entire system
+solution meets the bill.
+And then I think gradually scale
+into high volume
+applications, because for us,
+the machines we will potentially build
+will be basically in terms
+of high dollar values,
+the sensor is really very reliable.
+And to us, I think that's a great way.
+And we see consumer applications
+like the fundamental modality
+where we are offering value
+is sensing magnetic fields,
+which is a very fundamental modality.
+And whether we're applying to muscles
+or for security applications
+or for manufacturing applications, to us,
+the magnetic field,
+especially vector magnetic fields buried,
+offers immense potential.
+- So the the core
+technology that we're using,
+TMR, Tunnel Magnetic Resistance,
+is a quantum effect that
+has been known and around
+for 20 odd years.
+Seagate has been using in hard disk drives
+for a long time.
+We are using different
+properties within that TMR
+so that we're using it effectively
+as a variable resistor
+depending on the magnetic
+field that we're seeing.
+So we don't go out every
+day promoting the fact
+that we are a quantum sensing company.
+We go out every day promoting the fact
+that we are a bio sensing company,
+that we are detecting
+signals from the body
+that cannot be detected any other way.
+The sensor that we are trying to produce
+is probably a thousand
+times more sensitive
+than anything else that's on the market.
+Today, there's loads of TMR sensors used
+within automotive or in industrialization,
+but they're in the nanotesla type range.
+We're trying to get to single
+digit picotesla type range.
+So the fact that it is a quantum sensor
+is a positive and sometimes a negative.
+Our VCs are nervous when
+we use the word quantum,
+but they are positive when they see
+that we are solving real world problems
+and that we can address
+these things quicker,
+we can solve them quicker
+by using the effects
+of quantum within our solution.
+So yeah, we need to address the speed
+of which people can
+monetize their investment
+in quantum technologies.
+- Yeah, so maybe to elaborate a bit more,
+so in a certain way, yeah,
+you really address the consumer market.
+So you really offer a solution.
+So is the label let's say quantum inside
+or I don't know how is,
+a label that is giving
+confidence to a customer
+that it is actually reaching a level
+that nothing else can do?
+Or do you still need to explain it,
+or do we need to explain it more?
+- So I think we see different reactions.
+So the people with the money
+don't like the word quantum.
+The people who understand the technology
+love the word quantum.
+So I think we try to use the word quantum
+depending on the audience.
+So it's just the reality, right?
+End of the day,
+a good solution will always find a home,
+but the trick is really focus on the home
+and then finding the good
+solution to get there.
+So I think that's the
+mindset we are taking
+because if we start
+with quantum first word,
+we are always trying to defend,
+and I'm just being honest,
+and I think that's one of the things,
+we are looking at it, it's a plus,
+but provided you frame it
+correctly from the audience.
+- So I think it's really important
+that collectively we
+all educate the market
+that quantum is there, it's a good thing,
+it's real, it's active.
+And I think sessions like this
+where we're bringing quantum
+to CES for the first time
+and people are able to talk about it,
+they're able to experience it,
+they're able to go on to various stands
+around the show and
+actually see it in action,
+I think is a real positive thing.
+And I think collectively,
+we have a lot more to do as an industry,
+as a group to bring quantum
+out of 20 years from now
+to reality that is here,
+is present, it's been used.
+People are getting real world benefits
+from it as of today.
+And obviously we're in the
+sensing side of things,
+the computing side maybe
+is a few years off,
+but there is real benefits
+from quantum technology as of today.
+- Thank you.
+So if I understand you well,
+we have like a large assembly today,
+so they are very courageous
+people who were not afraid
+to come to a quantum show.
+So thank you very much
+for this, and maybe,
+and we still have left a few minutes,
+well you raised the
+point, I mean that yes,
+we have to educate the market,
+we have to educate the people.
+We may have also to do
+some kind of evangelization
+or de-evangelization about quantum
+that people think it is
+something that it is not.
+So what is for you the biggest challenge
+that you as a company,
+but also let's say as a global industry
+in quantum are facing over this year,
+the year of quantum or over the next year,
+what is for you the most important thing
+we need to focus as
+government organization,
+but also we need to focus as organization
+of industry, consortia, and et cetera?
+- So I think we being a startup obviously,
+really while we have
+great ideas are really,
+so to speak, survival is
+dependent on the money.
+So we have to balance the two.
+So I think the challenge
+as Noel and I were talking
+as a startup we face is while
+we see a great opportunity
+having investors' appetite,
+because investors typically think in terms
+about three year return,
+three to five year.
+And so the challenge I
+think we face is educating
+the investment community
+and being able to differentiate
+where they see return on
+investment in a near term.
+So I think that's a near
+term challenge we see
+because once we get past that
+and we get to what value we bring,
+we absolutely see a positive response.
+But really to get that conversation
+to believe that this is here
+and this is now is really what I see.
+We collectively have to
+work, and as a common person,
+when people use the word quantum,
+they think leap of faith, right?
+Quantum jump.
+And you use that in the
+day-to-day language.
+But at the same time, I
+think different technologies
+between sensing or networking
+or computing are evolving
+at different speeds
+and solving different problems.
+I think sensing is real,
+and I think we need to focus on the value
+we are bringing and focus on that
+and connect those dots
+for the broad industry
+and even adopters of this technology.
+And what Noel is doing and what
+we are trying to do and all,
+I think we are trying to
+push in that direction
+and in general, like
+QEDC and other forums,
+even Quantum World Congress and even CES
+to give us these opportunities
+I think are the exact
+kind of things we have to do
+to really broaden the horizon.
+And for I think companies like us,
+we have to go past talking to delivering.
+So I think it's a combination
+of really we as an industry
+have to start delivering killer products
+where there's a need,
+and then also in parallel
+promoting the values.
+But in my mind, without a doubt,
+order of magnitude sensing
+capabilities, we need it.
+Whether it's geological,
+whether it's security,
+whether it's manufacturing,
+whether it is human
+medical needs and all that,
+the market is there.
+I think we have to just very focused,
+maniacally move forward in that direction.
+- [Noel] So yeah, just to add to that,
+I agree very much on the VC point.
+Our biggest challenge this year
+is high scale manufacturing,
+so scaling up manufacturing
+of quantum sensors.
+So we're using a stack which has got
+and so that is based
+on a silicon substrate,
+but scaling that up into
+high volume manufacturing
+is challenging.
+And so we need to have
+ways of going to market
+so we can build high volumes of products
+at a very cheap price in order
+so we can supply them into the
+consumer electronics market,
+which is very price conscious.
+So they're looking to
+buy chips for one to $2.
+- Thank you very much.
+So I'm looking forward
+to see our market flooded
+with quantum sensors.
+Thank you very much.
+I think your input was very
+valuable, and also good luck.
+I mean it's always that we
+should say for a startup,
+I mean it's always a race.
+And I think I leave the floor
+to the last word, and thank you.
+- Thank you.

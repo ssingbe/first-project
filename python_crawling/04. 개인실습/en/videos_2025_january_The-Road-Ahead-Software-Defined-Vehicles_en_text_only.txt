@@ -1,0 +1,881 @@
+<v ->Thanks for joining us for this panel today</v>
+on software-defined vehicles.
+If you walk the show floor elsewhere in this building,
+you will see lots of examples of software-defined vehicles
+and we're gonna get into the details of what that
+actually means and what the implications are in a moment.
+But, I'd like to ask my panelists
+to introduce themselves.
+I should tell you that I'm Eric Savitz.
+I'm the editor-in-chief at General Motors.
+I've been at CES many, many years in various guise,
+as most recently as a reporter for Barron's Magazine.
+And I've done other things as well
+but, excited about this new role.
+Fern, do you want to kick us off
+and tell people who you are.
+<v ->Yep, I can do that.</v>
+So, good afternoon everyone.
+My name is Fern Yoon, and I lead an automotive systems
+engineering and marketing team at Texas Instruments,
+one of the suppliers that supply into automotive
+and SDV is a big topic for us.
+<v ->I go next?</v>
+Good afternoon.
+Oh, okay.
+Okay.
+My name is Aruna Anand.
+I'm the president and CEO
+of Continental Automotive for North America.
+And Continental, as you might all know, many of you know,
+has been a longstanding, is a longstanding leader
+in the automotive industry,
+and we are really proud of our role
+in defining the future of mobility.
+And thank you again for this opportunity
+to present everything about SDV in the next,
+I would say, 38 minutes.
+<v ->Yeah.</v>
+Also one, welcome from my side.
+I'm Peter.
+I'm running the automotive business
+for Infinian Technology, that's a semiconductor company,
+worldwide leader, and we are known
+that we make cars clean, safe, and smart.
+<v ->Good afternoon.</v>
+My name is Magnus Oestberg.
+I'm leading the, what we call the Mercedes-Benz
+Operating System out of Stuttgart.
+And excited to be back here at CES
+and talk about software-defined vehicles.
+<v ->Okay.</v>
+So, you know, there's three big tech trends that you'll see
+as you walk around the floor in the West Hall.
+One of those is electrification, EVs.
+One of those is autonomy and assisted driving.
+But, the one that's sort of the most tricky
+to define is this one, right?
+Is software-defined vehicles.
+And it covers a lot of ground, it touches on the other two.
+And I would argue, might actually be the most interesting
+in the long run, most important long run.
+And Magnus, in preparation for this,
+we talked a little bit about
+what is actually included in that umbrella.
+Tell me, kick us off by telling me how would you define
+even what we're talking about?
+What are we including in that umbrella?
+<v ->Well, the way I normally answer that question is that</v>
+at Mercedes-Benz and also at companies
+that has been around producing these beautiful objects
+for a very long time, they were in the past static objects.
+They were objects that were beautiful,
+they were wonderful to consume,
+they were wonderful to drive in,
+but, they did not change over time
+for while you were owning the vehicle
+and while you were actually then having it
+as maybe a second vehicle.
+And what software-defined vehicle really does
+at Mercedes-Benz is that we have separated
+hardware from software, so that you can really redefine
+and change your vehicle over time
+with introducing new software, new content,
+new experience in the vehicle.
+And that involves so much more than just the vehicle itself.
+It's also the entire logistical infrastructure.
+It's also how we source components
+and how we set out the digital infrastructure to be able
+to have an ongoing data pipeline
+to the vehicles from the start of development
+through the production system lines,
+and also then in our dealers and aftercare,
+and of course, continuously with the customer.
+So, it's that major separation of hardware and software
+that for me is the major definition
+of software-defined vehicle.
+<v ->I think one of the interesting elements,</v>
+kind of ironic elements of this story is that
+if you're gonna create a software-defined vehicle,
+it starts with redefining what the hardware is
+that's in the vehicle, right?
+So Aruna, you guys have a big role to play,
+have long provided systems to OEMs
+to do various things in the car.
+But, this changes the equation
+for what you need to supply.
+Give us a little feel for how this changes your business
+and how you see the opportunity.
+<v ->I mean, let's take a step back if you don't mind,</v>
+and figure out where are we today?
+And what does software-defined vehicles do for us today?
+And then, you would see the opportunities that it presents,
+not just for us, but for the entire supply chain.
+If you look at it predominantly, the pre-SDV
+or many of the cars today, you find that hardware
+and software, like Magnus mentioned, is very coupled.
+And suppliers generally provide a bundled solution.
+And the product development follows
+a defined lifecycle, right?
+And this is generally in line
+with the OEM milestone requirements.
+Then, the hardware itself in the pre-SDV
+or current for majority of the vehicles
+are purpose-built hardware,
+where the software that goes in
+is for that particular feature.
+And the hardware is only supporting that feature
+and it's purpose built.
+And imagine you have a feature
+or a function that you want to do
+that you wanna spread across multiple,
+across multiple modules in the vehicle.
+The system that we have doesn't lend that self easily.
+It becomes really complicated, expensive,
+and sometimes impossible.
+Leads to frustration.
+Okay, that's from the technical people.
+Let us think about this
+from an end consumer perspective, right?
+What do I see?
+Average in this country, in our country,
+is people own their cars at least for 12 years.
+And if we can update with new improved features,
+functions, safety items,
+they have a feeling and it is a right one,
+that the car becomes stale.
+And how do you keep that up?
+There's no option really.
+Or the options to freshen the car
+with new and improved features, becomes untenable.
+And another area is suppliers.
+OEMs also can't put in new features
+that help them to monetize all these feature sets
+that they're coming up with.
+So, that's the status majority.
+And we are trying to then move to a state
+where these don't happen,
+<v ->Right.</v>
+So, you raise an interesting question, right?
+Which is, you know,
+historically, you drove the car off the lot,
+if you wanted to improve the car, you know,
+you'd, well, like if you were at CS 20 years ago,
+the automotive section was a lot of aftermarket
+stereo equipment, right?
+<v ->Correct.</v>
+<v ->Really big speakers that you could put in the back</v>
+of your, you know, truck to have tailgate, right?
+That was like the, after,
+that was the, you know, defined vehicle
+opportunity that you had, right?
+So, you're right.
+So, the part of this opportunity is over-the-air updates.
+You can update the software over time
+for a whole bunch of different things.
+But, it's complicated by the need to have the right
+underlying infrastructure.
+So, I'd love to get the, you know,
+we have two semiconductor players on the stage,
+and they sit at the heart of this problem, right?
+Because if you think about,
+say, a 5-year-old vehicle might have, I don't know,
+Like, one to keep your seats warm,
+and one to open the windows,
+and one to move the seat back and forward,
+and one to control the wafer blades, right?
+And they don't talk to each other
+and they're impossible to upgrade.
+So, how does this new scenario change the way
+you have to approach this market?
+Fern, do you wanna take it first?
+<v ->Yeah, I'll comment on that.</v>
+We see a shift in vehicle architecture,
+that I think is needed in order to enable
+software-defined vehicle, which is the shift
+from domain to zone architecture.
+And in that sense, in that case,
+you are now, let's call it consolidating
+a lot of the capabilities that, as you said,
+were discreet implementations
+that did not talk to one another into a more intelligent
+ECU that allows you to, I think, evolve over time.
+And the semiconductors that we develop
+is really the heart of what enables that technology
+from a hardware perspective.
+And the way we look at this evolution
+is, how do we continue to build hardware capabilities
+that allow, you know, customers, Tier 1,
+to continue to extend and add features
+continuously via software updates
+without necessarily having to redevelop
+the hardware piece of it all the time.
+There's also the aspect of,
+let's call it more intelligent edge nodes,
+areas where you don't necessarily have to replace
+the entire semiconductor infrastructure within the vehicle,
+but swapping out certain intelligent edge nodes
+as the technology progresses without overhauling
+the entire vehicle itself.
+And so, that certainly changes
+also I think, how OEMs look at model years and gen-to-gen.
+<v ->Right.</v>
+Okay.
+So, put a pin in that.
+We're gonna come back to that in a second.
+But Peter, why don't you tell us a little bit
+about how Infinian thinks about this?
+<v ->Yeah, I think, I mean, to repeat what you said,</v>
+in order to make a software-defined vehicle,
+you need to kind of,
+make the software agnostic from the hardware.
+In order to do so, I fully agreed
+you need to centralize things and bring
+cluster functions together.
+But by that, you automatically increase the complexity.
+And at the end, the consumer, the buyers of the car,
+they wanna trust the electronics.
+So, if you drive on a mountain road,
+you should trust that the car is not breaking down
+and you fall off the cliff.
+So therefore, this increasing complexity
+need to go hand-in-hand with a strong safety
+and cybersecurity aspect.
+And that's why it's very much important that,
+as you said, semiconductors are very much key
+because they will build these dependable electronics needed
+that the drivers can trust in the car.
+<v ->So, you know, you mentioned like, that the average car</v>
+has a lifespan of say of 10, 12 years, right?
+And that raises an interesting question
+when you think about the car as a platform, right?
+I always think about, how do you compare,
+like the car as a platform to say PC,
+or a mobile phone as a platform?
+Well, for one thing,
+you're not gonna keep your mobile phone for--
+Anyone, have a 12-year-old mobile phone with them?
+I don't think so.
+Or a 12-year-old laptop for that matter?
+Or would think that it would be
+kind of a cool to own one, you know?
+I don't think so, right?
+But, if you're expecting the car to last a decade,
+it poses interesting questions
+about your ability to keep up with the technology.
+So Magnus, how do you guys think about this?
+Like, how do you think about provisioning the car
+in a way that you can upgrade over time,
+but knowing that,
+we don't know exactly what the standard platform
+might look like in five years or 10 years.
+<v ->So, if we look at the customer experience</v>
+and the customer advantages first,
+we just said that we are separating hardware from software.
+So, that means that the software
+can definitely evolve over time, it can change.
+And for the first customer, the first users,
+and also, for us at Mercedes-Benz,
+this gives a possibility to tailor the experience
+to various regions, to various customer segment,
+and also to individuals.
+Which is that the first customer wave,
+using our products, a huge advantage
+because we see a tremendous difference
+between customer behaviors in different regions.
+So, our customer base in the eastern world,
+especially in China, is very young.
+It's very young.
+Their first car is an S-Class, for example.
+Very beautiful first car,
+but very unusual to have as a first car in this country.
+And they have a high digital native
+expectation with the level of apps
+and the level of integration,
+and the level of communication they expect from the vehicle.
+That same hardware, this beautiful S-Class, in Germany,
+is typically owned by a slightly older population
+that have a very different expectation from that vehicle.
+And so, that gives us the possibility
+to tailor this experience to different customer groups,
+which is the first advantage.
+The second advantage is when we then see that over time,
+over life, is that we can follow that expectation
+or we can change that expectation
+and also offer new services, new products
+to maybe the second owner that the first owner did not order
+or it wasn't even available when the first owner
+had that beautiful vehicle.
+So, this is how we see it over time,
+that it really gives us this possibility
+to tailor the experience due over the regions,
+and also then over time.
+Which is for us, a fundamental difference.
+The second that maybe is not so obvious to everybody
+is that we now have the possibility
+to have a real-time interaction with all of our customers.
+So, we have right now,
+in our Mercedes-Benz intelligent cloud,
+we have over 12 million vehicles connected,
+which gives us insights into how is our product used,
+what features are being used,
+what features are not being used.
+How are they being used and what is the possibility?
+And that data is for us enormously important
+when we feed that back into,
+you know, into our continuous development.
+So, that continuous data loop
+is basically, we're shifting from an open loop system,
+where the product was put out in the market
+and it was an open-loop to a closed-loop data system
+that really feeds itself.
+And that is how we see it,
+that it gives us a possibility to really monitor
+how well our, and what way our products
+are being used in the market.
+<v ->Okay.</v>
+And well, I'm gonna get to the use cases a little bit,
+but I'd like to,
+go ahead.
+You wanna jump in, Aruna.
+<v ->I have some points because you linked the car to a phone.</v>
+And yes, SDV we all know can do a lot of good stuff
+and it's all good, but there are challenges.
+Challenges are multiple.
+And because you compared the car to a phone,
+let me also compare the same.
+So, if you look at the cell phone,
+everybody has one, we use it all the time.
+And we are all programmed if the cell phone were to fail
+roughly, the average use is what?
+Around 18 months.
+We are programmed to buy another smartphone
+for a thousand dollars.
+We don't think about it.
+That's for the upgrade of the phone.
+We are not programmed to change the hardware of our car
+for a thousand dollars every two years.
+We are not.
+And the question is, why not?
+And what would it take?
+Because you're compared to the phones.
+And when you look at the phone, where did we start?
+We started with landlines, then we went cellular.
+Then, I think we went to smartphones.
+Until 25 years ago, we've been having hardware at our home
+with a landline, where we paid monthly rates
+and we never had to change the hardware at all.
+And overall, after a while, now we are programmed
+to change the hardware every 18 months.
+The question is, it takes time.
+I think also software-defined vehicles, it takes time.
+And the key is we still have to remember
+that the car is needed go from point A to point B,
+in a safe manner, and convenient.
+And as much as possible connected to the external world.
+So, if we are providing features that further enhance
+the safety, then it is likely that,
+that we would be able,
+or people would want to embrace this fact
+to make that more upgradable.
+But, this takes time.
+And the challenge is how much hardware do we think we need?
+And how do you define how much hardware is needed
+for the amount of software that we anticipate
+needing in years to come.
+And how do you protect for it?
+And how much is enough?
+And those are the challenges I see.
+<v ->Peter, how should you be thinking about that question?</v>
+<v ->Yeah, let me also add in,</v>
+because first of all, as Magnus explained,
+I also see the maturity of upgrades and updates you do
+is in the software part.
+It's not so much in the hardware part
+even though, I would like that hardware has changed.
+So, we all would like that.
+I also don't see that it's affordable for OEMs
+to have excess hardware just for future use.
+That model, I think it was tried,
+but, it's also not a very successful model.
+But, there are things where you need to build
+some headroom for future activities.
+Think about cybersecurity.
+If you launch a car,
+you have a certain cybersecurity standard
+and mechanisms where you get attacks.
+But, that are everyday updated.
+So therefore, you need to have a flexibility
+to upgrade on the cybersecurity.
+So, there are areas.
+Safety is one.
+Cybersecurity is a second one where yes,
+there also is headroom needed in the hardware.
+But, I would agree that the majority of the updates,
+and especially, those which are on the drivers,
+the user will see is more on the software side.
+<v ->I mean, it seems,</v>
+I don't know.
+How you think about this, Magnus?
+But, you can only go so far out.
+You can't anticipate, how much DRAM am I gonna need?
+And how much memory do we need
+for the applications that we think we're gonna run
+in, you know, in 2030?
+That would seem to be not a very practical way
+to design your car.
+<v ->So, the way Mercedes-Benz looks at the hardware</v>
+is that we have classified the compute in the vehicle
+in various categories from category one to category four.
+And if you look at the microcontroller levels,
+which is typically a category three and four,
+these are very static in the car.
+These are the actuators.
+These are things that control a motor,
+or control something that's in the vehicle.
+They are typically over this time period, very static.
+Where we see the huge changes
+is definitely in the category one,
+in the microprocessor space.
+And this is where you have everything that is visual,
+that is something that the customer actually sees
+in terms of what's happening on the screen and so forth.
+And here you need to be flexible.
+You need to be able to have a flexible concept
+for how much memory is available.
+And also, have a more flexible concept
+on how to upgrade compute in this case.
+And there we come into an interesting topic
+when it comes to the disaggregation of how the applications,
+and how various various stacks or now, AI models,
+are then coupled with that compute.
+So, this becomes then into an interesting debate about,
+what is the advantages or disadvantages
+of tying yourself to a certain type of language
+or a certain type of model.
+But, it's easier to talk about this
+if you categorize the type of compute
+that you have in a vehicle in a different categories.
+<v ->Fern, are you finding that your customer's</v>
+needs or opportunities are changing?
+How does this equation shift your business?
+<v ->Yeah, that's a great question.</v>
+What we see, you know,
+from our perspective at Texas instruments
+is certainly a need for a family approach.
+So, you know, we pride ourselves in a very broad portfolio .
+And when we build devices, whether it's microprocessors
+or down to the microcontrollers or even the analog
+drivers that we have, we realize that
+you do need a family of devices.
+Ideally, something that is pin-to-pin, backwards compatible
+to enable the OEMs to build that platform.
+Certainly, something that you want to build
+from a capability perspective,
+and the highest model line, if you will,
+may not necessarily be cost efficient as Peter mentioned
+in something that's in the,
+on the more economical line if you will.
+And so, we do work very closely with our customers
+on a family-based approach that allows our customers
+to use the same platform, the same architecture,
+the same approach, algorithms
+to be able to build a scalable model
+that goes across multiple platforms.
+And in some cases, can kind of stretch that hardware life
+across, you know, iterations as we continue to learn
+more and more about what our customers want,
+what our consumers are looking for,
+the ability to go make those changes in software
+versus having to retool the entire
+hardware ecosystem within a vehicle.
+<v ->So, since we're talking about,</v>
+we're supposed to be talking about software
+to find vehicles, let's talk about software a little bit.
+So, you're my fellow OEM panelist,
+so we'll talk to you first.
+So, when you think about the opportunities,
+when we talk about the kind of software we mean here, right?
+There's really several different categories of stuff, right?
+There's stuff that's about the,
+I think the things that people think about most frequently
+is probably infotainment related, right?
+Your experience in the car, which is important,
+but there are other things too.
+So, give us a few thoughts on the categories
+of software we're actually addressing.
+<v ->Well the normal categories that the industry talks about</v>
+is of course, infotainment,
+which is what the customer normally sees and talk about,
+which is very tied today to the various digital ecosystems
+that is prevalent in your daily lives.
+So, some people are very astute
+to the Android world in the various world.
+Or around the world, there is a certain behaviors
+regarding payment and so forth
+that you typically do your shopping.
+And that basically, is tied all to that.
+But, if you look at from a vehicle domain
+and how we look at it is that we also need to tie that
+to the driving experience.
+And the driving experience for us is so important
+when it comes now to the entire electrical drive system.
+Because if you look at the electrical drive system,
+what we're talking about right now is that we need to,
+especially in this country and in Europe,
+we need to increase the actual,
+the penetration of the electrical drive.
+And we need to overcome this range anxiety that exists.
+Because penetration in this country
+about electrical drive is below 10%.
+In Europe, it's a little bit higher than 10%.
+In China, it's actually 50% right now
+of the entire population that is electric.
+So, in order to overcome that here,
+we need to marry, for example, how we monitor energy
+and how we model the energy usage.
+Because if you are using your body functions,
+which is air conditioning, or cooling, or heating,
+that consumes energy, that lowers your actually range.
+And we need to be able to make sure that we have good models
+between the body functions that is consuming energy
+with the infotainment functions,
+with the autonomous driving functions
+so that we can actually provide
+an absolute correct range to our customers,
+making sure that they have an absolute trust
+in the range you can have in a Mercedes-Benz vehicle.
+So therefore, all of these functions,
+the entertainment, the actual autonomous driving functions,
+the body functions, and the drivetrain functions
+are the four major domains.
+But for us, they are really working together.
+And that's what the Mercedes-Benz operating system is about,
+that we have a holistic view on this,
+and be able to marry that with the cloud.
+<v ->And then, do you think about</v>
+the opportunity here as one of,
+you're going to have a better experience in your car?
+Or do you think of it as,
+and these are not mutually exclusive.
+Or do you think of it as, this is an opportunity for me
+to maintain a relationship,
+a revenue generating relationship in some cases,
+ongoing with the ownership of owners of the car
+because we're gonna provide them with value added services.
+Now, you know, I say that as someone who works at GM,
+we've been doing OnStar for a really long time
+and we have like, millions of people
+who pay us to be on OnStar.
+And so that's been, that is a pretty good example
+of a software-defined service in a car.
+But, there's lots of opportunities beyond that.
+And I wonder,
+Fern, you look like you wanna say something?
+So, how do you guys think about this
+from what you need to do to set the car up
+to be able to do these things?
+<v ->Yeah, I wanted to kinda add to Magnus' comment there,</v>
+there's so much capability, I think, in our hardware
+that we probably don't even realize.
+And one of the benefits of a software-defined vehicle
+and coupled with another hot topic AI
+is the ability to collect data real time
+and have a closed feedback loop, not just from our consumers
+but from the vehicle, from the machine itself
+that we can then use to fine tune
+the performance of the vehicle to be honest, right?
+Let's talk about range anxiety that Magnus mentioned.
+How much of our systems are,
+let's call it overbuilt conservatively?
+Because we certainly don't wanna have
+any of our drivers stranded on the road
+because we told them you had another 20 kilometers
+left to go, and you didn't actually get there, right?
+But, with the data that we're able to collect,
+how can we then fine tune that
+and actually extend the range over time
+that's adding value to our customers?
+That's, I think, what software-defined vehicle
+can really bring without really needing to change
+the hardware, to be honest, you know?
+And it depends on so many variables
+that we don't have access to when we're developing this.
+So, this concept of software-defined vehicles
+really gives us another lever
+to improve our consumers experience.
+<v ->So, if I may add,</v>
+yeah, hardware is important but it's not all.
+Then, there's a lot of things one can do
+with even what is existing today by fusion.
+You have a lot of information.
+How do you work across distributed modules?
+It lends its way very easily.
+And one understands that software-defined vehicles
+is like some kind of a nebulous concept.
+And how do you now bring that concept to life?
+And for that, you also need to work on the user experience.
+The human and machine interface
+becomes absolutely necessary.
+You can have the greatest of functions,
+but if you don't have the right intuitive user defined
+functions where you're confident that you can work
+with the technology and the technology works with you,
+then nobody's gonna embrace that, right?
+So, that's where I see
+there's a lot of good things that can be done.
+And for example, this year, just to give kind of an example,
+you know that when you walk up to your car
+and have your car unlock, it's not something new.
+But, how about your car understanding your movement patterns
+as you walk toward it and it knows.
+And for example, if you are walking from the grocery store
+with your arms full of stuff from the grocery store,
+your car is proactively able to open the trunk, for example.
+And, also understanding various different things
+with cameras and motion detection
+and artificial intelligence, that you can do to today.
+And this is the concept we are exhibiting at CES
+in terms of intelligent vehicle experience.
+And there's other fusion technologies that you can do
+because you have advanced ADA systems.
+and we are able, we are software today
+to be able to park and steer and control it.
+If you have equipped garages and parking spaces,
+are you able to do the car self-park itself?
+And if that could be a software feature
+that you could download because the hardware
+is are essentially there.
+So, these are some things that lends its way very easily
+because of SDVs.
+<v ->So, I wanna come back to what other,</v>
+to come back to my PC and phone analogy
+'cause I see one other sort of risk here, right?
+So, if you think about the history
+of the personal computer business, right?
+Personal computer manufacturers,
+as much as I love HP and Dell and Lenovo,
+like, their products are very similar, right?
+So, they run software from a third party.
+They're based on processors from another third party.
+They run applications from other third parties, right?
+And so, the challenge that they've had in some ways
+over time is how did you distinguish your,
+how do you distinguish yourself from the competition?
+In the automotive business systems,
+historically, been a problem.
+But if you turn,
+as the business becomes more software-driven
+and driven by third party applications,
+I wonder whether there's a certain amount of risk.
+And so, Magnus, I wonder how you think about the ability
+to maintain a distinctive Mercedes experience
+that's not, say a CarPlay experience
+or you know, an Android experience,
+or of, you know, a Spotify experience when you're in the car
+that then makes it a little less special
+to be in a Mercedes.
+<v ->So, that's a very excellent question.</v>
+And that's why we have concentrated
+when we are defining what we mean
+with a software-defined vehicle
+and Mercedes-Benz operating system,
+that its code have to be the holistic experience.
+When you get into a Mercedes-Benz,
+you feel it by, when you close the door.
+You hear, you sound it's a Mercedes-Benz.
+When you then look at the screen,
+it needs to be a Mercedes-Benz.
+Yes, you need to find the ecosystem digital interfaces
+that you are used to and the apps and so forth,
+but it needs to be in a high-quality manner.
+And the way we're doing that is through leveraging
+a series of technologies.
+One of them that we got a lot of credit for
+is that last year we were the first one
+to integrate large language models into our beta program
+to be able to really elevate the user experience
+when it speaks to hey Mercedes in a different manner.
+And just before the Christmas now,
+we've been able to launch that live
+to two and a half million vehicles out there
+that is already sold and been able to be produced.
+And these customers now in Europe and in USA
+are now having this experience live in their system.
+So, by working with partners but keeping control
+over this user interface, and basically look at
+how can we make sure that we live up
+to our safety promise as Mercedes-Benz.
+So privacy, data security, and so forth,
+making sure that we can enable these kind of experiences
+in a high-quality and especially in a safe manner.
+That is the brand promise
+and this is what we're focusing on.
+Then, we're leveraging a lot of partners underneath
+so that we are leveraging standards,
+we're leveraging the tech players
+to enable this service for us.
+But, it's got to be a customer relationship
+that is resonating with the customer itself.
+You mentioned CarPlay.
+We have deliberately chosen to keep CarPlay in there,
+and we are measuring everyday what is the percentage
+of our vehicles where the customer
+is actually choosing actively to go to CarPlay.
+And we have been able to bring that down now,
+in our all of our new generations to single digit numbers.
+So, we see that they actively are choosing our system
+because they find all of the apps
+and all of the functionality
+that they like in our system.
+And when there is something missing,
+this is exactly the real-time, open-closed loop situation
+that enables us to find out why are they then
+going to a foreign system.
+What is it in our system
+that is missing that we need to close on?
+<v Eric>From a component point of view,</v>
+like Peter, is there something you could do
+to help your OEM customers
+distinguish what they're offering
+from what the competition is offering?
+<v ->I mean, as Magnus said, there is certain areas</v>
+where the OEMS need to do in order to differentiate
+and have the specific brand recognition.
+And as you also mentioned about standards,
+there's a lot of functions which are in common
+and where there's no real differentiation.
+And here, especially when we go in more complex systems
+like in the SDV cars,
+I think the industry and the supply chain
+has much more room for cooperating on topics
+which are not really differentiating.
+And here on the component side,
+we can support also, on the system side, we can support.
+So, making sure that we cooperate there
+where there's no real differentiation
+in order to get the energy and the bandwidth
+free from the engineers to do the real stuff
+which is differentiating towards the consumer space
+and is increasing safety and security.
+<v ->Fern, how do you feel about that?</v>
+Is there an opportunity there for you?
+<v ->You know, I agree with Peter on the collaboration piece.</v>
+I think it's also looking at ways that we can help drive
+the capabilities for additional technologies,
+new innovations, something that,
+that may not be thought off in the past.
+It's a why not?
+And how do we deliver that at the right cost point?
+Because certainly, there's going to be a lot of capabilities
+that we can build, but if our consumer's
+not gonna pay for it, then is it really valuable, right?
+So, I think from our perspective it's really understanding
+the direction that our consumers want,
+the direction that our OEMs wanna go to,
+and how do we deliver the right technology
+at the right cost point?
+<v ->Right.</v>
+Aruna, how do you think about it?
+<v ->From a supplier point of view, we are ready to do either.</v>
+It doesn't matter, honestly, because if you take your,
+you either have the iPhone or you have
+an Android based phone.
+And you are using your phone 24/7 literally.
+And your car, you use on an average an hour per day.
+And you use it predominantly
+because you need to go to point A to point B.
+And while these technologies seem too far,
+actually there's a synergy,
+because the interfaces and so on are very common.
+And the idea to use these in car is to make it
+as seamless as possible in your vehicle.
+So, you don't have to do any special
+user added experiment to get this all to work.
+The idea is to make your journey from point A to point B
+very, very safe, comfortable, and convenient,
+whether it be one or the other technology.
+<v Eric>Right.</v>
+<v ->And software-defined vehicles lends its way to that.</v>
+I see these as not contradicting technologies,
+mainly as more complimentary to what we wanna do.
+<v Eric>Right.</v>
+<v ->The key is also being,</v>
+also to understand, all of these technologies
+and the apps that you use can be integrated
+in a seamless manner.
+But, one need to understand that there are
+safety technologies including ADAS functions in the car
+that can be transported to a phone.
+There's a limit to that.
+<v ->So, we have only about a minute left,</v>
+but, I wanted to talk to one other thing
+with you, which is,
+you guys have been a little bit ahead
+of the pack on level three autonomy.
+And as you get into level three,
+so you know, level three is,
+most of the audience will know, right?
+It's like hands off, eyes off.
+So, you can actually take your eyes off the road
+under certain conditions.
+And as you get to level four,
+where it's like more true autonomy,
+you do something magical in the car, right?
+Which is you give people back time.
+And that provides, it would seem to me
+a really interesting moment
+to provide new services in the car,
+particularly in entertainment.
+I'm curious how you think about that.
+<v ->Yes, we of course, pride ourself with the safety</v>
+and the security of our customers.
+That has been the center of Mercedes-Benz for 130 years.
+So with that, the pioneering spirit of the best of nothing,
+really, it leads to the fact that if we can free up the time
+that the customer has in spending in the time,
+this is the ultimate luxury, right?
+The ultimate luxury is to free up the mind
+and that's what level three is about.
+You actually free up your mind so that
+you don't need to look at the road all the time
+because if you only are freeing up your hands,
+still, your mind needs to be monitoring what is out there.
+And having level three right now here in Nevada,
+having it right now in San Francisco, and in Germany.
+By the way, we just released that we can legally be approved
+to drive up to 95 kilometers an hour
+in Germany on level three.
+Which, really, is many, many hours on the road
+that you can then actually watch a movie.
+You can do emails, you can work with your devices
+that you have in your hands, take a coffee, whatever,
+that is true luxury in our opinion.
+And providing that luxury in a safe manner,
+that is what Mercedes brand form about.
+So, that is why we believe that level three
+is a true benefit to a customer
+where we can drive that we'll continue
+to push the boundaries on how fast we can drive
+using the service.
+It's raw physics, so it's about the sensor set
+and it's about the, how we compute that.
+But, we believe this is the true luxury.
+Of course, we have the luxury, also, to have the customers
+in our premium segments that can do that.
+But, this is the pioneering spirit about Mercedes-Benz
+where, you know, when you bring a new technology in,
+you bring it in to that top-end segment
+and then you basically democratize it
+by having the costs go down,
+and giving that to a larger population.
+That is how we have seen happening
+with the basic ADAS functions,
+and this is how it's going to go
+with this technology as well.
+<v ->Great.</v>
+Well, we are over time.
+Thank you all for sticking around
+and for listening so attentively to our panel.
+Please give them all a round of applause.
+Thank you.

@@ -1,0 +1,1024 @@
+<v ->Hope everybody's having an amazing CES.</v>
+This panel is about,
+do you need a chief cybersecurity officer?
+And we're ready to get started.
+A little bit about me before.
+I'm an editor at ZDNET on the news team.
+I've covered cybersecurity
+and enterprise coverage topics before.
+Right now, I focus on AI,
+particularly helping our audience
+learn how to navigate the AI revolution we're currently in.
+But enough about that. Now to our amazing panelists.
+I would love to kick off the panel
+by letting them each introduce themselves.
+So just tell us a little bit about who you are,
+what you do, and how you got into cybersecurity.
+<v ->Got it. Well, thank you, Sabrina.</v>
+And, you know, welcome, everybody here.
+So my name is Nabil Bukhari. I work for Extreme Networks.
+You might be familiar with it.
+Extreme Networks is the largest pure play networking company
+for enterprises on the planet.
+Who's who in the world,
+you know, that runs on our technology.
+For example, if you ever go to a sports stadium
+in US and half of Europe,
+you're probably on our network.
+You know, when you go fly anywhere,
+you're probably on our network.
+You get packages. Those come through our network.
+So we're very, very widely deployed out there.
+My role there, I play multiple roles there.
+I'm the CTO, I'm the CPO,
+I'm also the general manager of the subscription business,
+so you can say that I'm half technology and half business.
+How did we get into cybersecurity?
+I think we moved into the security space
+about three or four years ago,
+and we moved in there because we felt that security
+was kind of like a overlay niche market by itself,
+and we felt that that was the most inefficient way
+to secure our clients,
+and that's why we ended up kind of moving into that space
+and converging the networking
+and security products together.
+So that's kind of, you know, who I am, what we are doing,
+and how we are related to cybersecurity, yeah.
+<v ->Well, thank you so much. Karen?</v>
+<v ->Hi, I am Karen Evans.</v>
+I'm the managing director for the Cyber Readiness Institute.
+And do you wanna know how
+the Cyber Readiness Institute got started
+or how I got started in cyber?
+'Cause those are two different things
+and the reason why I do the Cyber Readiness Institute.
+So it's a nonprofit that's focused
+on small and medium businesses,
+and what we do is we're focused on four core issues,
+which is considered cyber hygiene,
+but it's really about human behavior
+and the focus and culture of an organization
+so that you're always focused on what is the risk
+and that you ingrain this into all your employees,
+and it's free.
+And the reason why the Cyber Readiness Institute got started
+is because several years ago,
+President Obama had a commission
+as it related to cybersecurity,
+and the two co-chairs on that,
+one of which is our leader, which is Sam Palmisano.
+A few of you might know him. He used to run IBM.
+He runs several nonprofits now.
+He's also running a big venture capital fund.
+They made all these recommendations,
+but they knew that the funding
+was gonna go to state and local governments
+and then to critical infrastructure.
+And their recognition was small and medium businesses
+are the economic driver of every country
+and that if they don't get it right,
+it's gonna affect the supply chains of everything.
+And I thought that that was pretty intuitive
+and have a lot of foresight on their part.
+The other person who was his partner,
+and this is Ajay Banga,
+who was the CEO of MasterCard at the time,
+and he's now in charge of the World Bank.
+But the companies that belong to CRI that started this
+are MasterCard, Apple,
+it was GM, ExxonMobil, and then Principal Financial,
+and now T-Mobile is there.
+So it's a small group of companies
+that are very focused globally
+on the economics supply chain
+of a lot of different industries across the board.
+So that's how that got started.
+But I'll save my story
+of how I got started in cybersecurity
+'cause that one is always...
+You don't wanna follow it,
+so I'll hold it
+until the right time to share it.
+<v ->Okay, well thank you.</v>
+<v ->I appreciate that.</v>
+<v ->Kevin?</v>
+<v ->Yeah, I appreciate that, Karen.</v>
+So my name's Kevin, co-founder and CEO of Doppel.
+We're an AI cybersecurity startup
+that started just a couple years ago,
+and we're now the fastest growing company in our vertical.
+We serve, you know, everyone
+from small and medium-sized businesses
+to high-growth startups to Fortune 500s,
+and we focus in particular on all things social engineering.
+So if you've ever gotten a text
+from someone pretending to be your boss
+or if you've seen, you know, maybe a fake LinkedIn profile
+of, you know, someone pretending to be part of your company
+or, you know, even just a traditional phishing email, right,
+and spoof website,
+our job is to go and detect
+and, you know, analyze all those sorts of threats
+and then take them down at the source.
+You know, how I got into cybersecurity,
+so before all this and before Doppel,
+I was a software engineer at Uber and Lyft.
+Worked on dispatch systems and flying cars,
+so very different world than cybersecurity.
+But, you know, kind of cliche Silicon Valley story,
+my co-founder and I, Rahul, wanted to start something
+and do it in the AI space,
+where, you know, he was roommates
+and is still very good friends
+with one of the lead researchers at ChatGPT and OpenAI.
+And, you know, seeing how that was changing the world
+made it very clear that there needed to be new products
+in the cybersecurity space, so that's how we ended up here.
+<v ->Well, thank you so much for those introductions.</v>
+I think we should jump
+right into the title of our session today.
+Do companies need a chief information security officer,
+also known as a CISO in the industry?
+Who's ready to take it on?
+<v ->I'll-</v>
+<v ->You go first.</v>
+<v ->I go first.</v>
+We'll keep the sequence.
+<v ->We were prepping for this,</v>
+and it was really...
+They had to cut us off in the prep session, so you go first.
+<v ->Yeah, all right. (laughs)</v>
+So, Sabrina, I think the answer is it depends, right?
+So I think the general thought that people think,
+like, "Oh, my god, if I don't have a CISO
+then I don't have a security policy or security strategy
+or I'm, like, under a lot of risk."
+I think that is all bullshit.
+That's more, you know, kind of hype than anything else.
+When we see out in the market
+is that most of the companies,
+actually even at the mid level and the high level,
+actually don't really have dedicated CISOs
+in the E-staff, right?
+And most of the times,
+they actually report in to the CIOs, right?
+So we see that trend quite a bit.
+I would say that since this panel
+is about small to medium business,
+I would say every business should decide
+whether they need it or not,
+but I would give you three things to consider.
+Number one is cost, right?
+If you're a 200-people company,
+do you really have the business
+and do you even have the money
+to actually create a complete CISO organization?
+Most, probably not, and at that point in time,
+the risk and the benefit, they don't really match up.
+So one is related to your size.
+Second is related to your business.
+Depending upon if you are in healthcare,
+then that's a very different answer
+compared to, you know, an industry
+that is not that highly regulated.
+So that will be the second part.
+And the third part, I would say, is more organizational.
+What we have seen in the market
+is that the moment you take a thing out
+and make it a separate role altogether,
+like, for example, you say, like, "Hey, there's a CISO,
+and now, CISO, you're responsible for the security."
+Then every other exec says that,
+"Okay, that's not my problem anymore."
+And it ends up creating a very siloed approach to security.
+So it depends upon the organizational structure and culture,
+but I would say that for medium to small size,
+if I were to take a wild guess,
+I would say most of them are better off
+not having a CISO than having a CISO,
+based on these three aspects, right?
+So that's at least how we view it in the market, yeah.
+<v Sabrina>Okay.</v>
+<v ->So my background is government.</v>
+I have 30 years in the federal government,
+and I was chief information officer
+for Department of Energy, Department of Homeland Security,
+for the United States government for six years,
+so I managed a budget at that point
+of $71 billion in IT investments across the board.
+And I also was the first assistant secretary
+for Cybersecurity, Energy Security, and Emergency Response
+in the Department of Energy.
+So I was responsible for the power grid,
+and the government doesn't own it, okay?
+So I can relate to CISOs who have responsibilities.
+The title of this piece, though,
+and I agree with everything that you said
+about small and medium businesses
+'cause it's always a trade-off on the resources,
+and that's why, again, we're focused on the culture,
+'cause you said culture multiple times.
+But I think there's a lot in the title itself,
+which is chief information security officer.
+And if the chief information officer...
+So this is my bias 'cause I'm from a CIO background.
+If the CIO is really doing their job,
+which is the strategic use of information,
+which that's what you were talking about from your company,
+then the CISO,
+as long as they have the I in their title,
+should always belong to the chief information officer
+because it's talking about the security of the information.
+It's talking about the risk associated with it,
+the integrity, everything associated with information.
+Now, in the government space,
+every time the CIO doesn't do the job,
+and this gets into your part about the bifurcation,
+we get a new chief.
+So, like, now there's a new
+chief customer experience officer-
+<v ->Or chief AI officer.</v>
+<v ->So we have a chief AI officer,</v>
+we have a chief data officer,
+we have a chief information security officer,
+we have a chief customer experience officer,
+we have a chief innovation officer,
+we have a chief technology officer.
+All of those functions are what a CIO
+is really supposed to be doing in an organization.
+It's about the strategic use of information
+to enhance that customer experience
+while you're securing and managing the risk.
+And if a CIO doesn't do their job,
+that's why you see a lot of this happening.
+And to your point, what happens is,
+and I've seen this in private industry a lot,
+is, "Oh, I have to have a CISO."
+And then they become the scapegoat when a hack happens,
+and it's like, "Man."
+And so, like, they move around all over the place.
+Like, they're worse than,
+in DC, it's called political appointees.
+They have, like, a useful shelf life
+of about 18 to 24 months, right?
+Because once an incident happens, they're gone
+because they're the first ones to go
+when, in fact, that really shouldn't be the case.
+It should be the CEO of the organization,
+and the board should be managing that risk.
+<v Sabrina>Thank you.</v>
+<v ->Yeah, no, I think it's a...</v>
+I mean, it's an interesting question, right?
+Because, you know, when we talk about SMBs,
+you know, I think a lot of what we just discussed
+in terms of the constraints,
+the resources you have to think about trading off,
+things like that,
+it's, you know, obviously,
+you know, in an ideal situation,
+you have infinite resources,
+and you could have, you know, everyone on your team, right?
+I will disagree, though, with Nabil and Karen here, right?
+Like, I do think, you know...
+Well, I do think this.
+You do need to find someone who can lead and drive security,
+you know, whether you call it a CISO
+or whether you call the role a CIO
+or whether you call the role CSO, right?
+Or, you know, even if it's not necessarily a C-level yet.
+But I do think even in the SMB tier, right,
+it's critical for organizations
+to have someone who can really drive security
+and cybersecurity in particular for an organization.
+Granted, of course, you know,
+the real answer is, like Nabil said, it depends,
+and, you know, it depends on the exact risks
+your organization has
+and, you know, what sort of regulatory environment you're in
+and things like that.
+But something I will, you know, push against
+is that I don't think just 'cause, you know, you have a CISO
+or you have someone dedicated to, you know, running security
+that it has to mean that
+that function becomes siloed, right?
+And, you know, I do think, though,
+you know, and I recognize that that's not necessarily
+what you're saying, right?
+Like, it's not that it has to happen that way, you know?
+You know, it's a legitimate argument
+that it's just so that that's what happens in practice.
+But I think, you know, at the end of the day,
+we're actually all saying the same thing
+in terms of, you know, you wanna develop that culture,
+you wanna develop that mindset as an organization.
+And, you know, coming from the Doppel side,
+we certainly see it with both our customers
+and of course ourselves as well, right?
+And so in my view,
+I do think having that security leader is important
+because, you know, it's the same reason why
+you've got leaders for, you know, maybe it's technology,
+maybe it's for finance,
+maybe it's for human resources, right?
+A CEO can't do everything,
+and so, you know, how do you work closely
+with your leadership team to, you know, not silo them either
+and leave them stranded on an island and scapegoat them,
+but how do you work closely with them
+to build the right culture within your organization?
+<v Sabrina>Is there anything you wanna add</v>
+before we move to the next question?
+<v ->Yeah, no, I think I'll just add,</v>
+what I think Kevin is saying is spot on,
+that it doesn't have to be
+that CISO's become, like, more bifurcated and siloed.
+Unfortunately it ends up being that way.
+<v ->Right.</v>
+<v ->And, you know,</v>
+and it's not just the people and the organizational part.
+Obviously we are from the tech industry.
+You're from tech industry as well.
+We are to be blamed for that as well
+because what we like to do as a tech industry
+is we like to create these niche product categories,
+and we need to create a person
+who's a buyer in the organization.
+So there's an entire security industry whose sole purpose
+is, like, we don't care what is running anywhere else,
+we're gonna come in and secure it.
+And I'm not talking about your company, (laughs)
+but generally.
+And if you look at it
+just from a technologist's point of view,
+that premise by itself is just absolutely absurd, right?
+Because information is not an independent thing.
+Information is in the network,
+information is in your application,
+information is in your processes, it's everywhere.
+It is social engineering as well.
+That's information as well.
+So I think because you're protecting information
+and, by that respect, data,
+the whole nature of it is that this,
+from a technology point of view,
+from the application of technology point of view,
+and from a, you know,
+organizational structure point of view,
+it has to be a shared responsibility.
+I'll give you our example, right?
+So obviously, from our customer point of view,
+you know, we see all over the world all kind of companies,
+but we are an enterprise as well, right?
+And we are a pretty decent sized enterprise.
+We have a CISO, but that CISO reports in to a CIO.
+So we have that function,
+but that function is so deeply integrated
+into the broader CIO role.
+So I think I wanna kind of caveat
+and explain that the title,
+because when it says CISO, I do not read it as,
+do you need a security team?
+I don't read it that way.
+I don't read it,
+do you need somebody that is dedicated to security?
+I don't read it that way.
+I read the O part and the C part,
+that this is a chief information security officer.
+Do you need an independent organization?
+Do you need that person sitting in your C-suite and stuff?
+So I just wanna make sure that my answers come-
+<v ->And you're right.</v>
+<v ->from that point of view.</v>
+I'm not against having a security team.
+Everybody should have one.
+<v ->Right, right, and you're right,</v>
+'cause you need a security team, right?
+You need risk management, you need to do all that,
+you need the culture piece,
+and it is a shared responsibility.
+But I think the way that the panel is set up
+and the way that they primed us on this is,
+when does a small and medium business start looking at,
+hey, I need to, like, shift my organization,
+and now I'm starting to bring...
+'Cause a lot of them use managed services.
+I mean, I'm working with
+a lot of small and medium businesses, utilities,
+all kinds of stuff across the board,
+and they use managed services.
+So it's when does enough,
+like, I've crossed over this threshold
+that I have to start bringing things back in
+and start managing things myself
+and then look at the organization
+versus, well, I'm buying it as a service?
+I'm buying security as a service,
+I'm buying, you know, my cloud provisions
+and things like that.
+But you do need a security team
+regardless of whether you bring it back in the house
+or that you're managing it through a service provider,
+and that's really what we try to explain
+to the leaders of the company.
+It's like just because you're buying these services
+doesn't mean you don't need to have security.
+<v Nabil>Yeah, agreed.</v>
+<v ->Well, thank you for that</v>
+'cause that actually segues perfectly
+into what I wanted to ask you next.
+So how can a business and technology leaders
+help a technologist frame cybersecurity issues,
+such as funding, in a lens of risk management
+as opposed to just telling them
+or recommending what the best services
+or the best gear is to buy
+to keep their information protected?
+<v ->I'll take a quick stab at it.</v>
+What we recommend to our customers is that
+do not coin it as a security budget or risk budget.
+The point is that everything that you're doing,
+there should be a risk mitigation budget
+inside that project.
+So a lot of times, it happens,
+like, because we come from connectivity, networking side,
+you know, application data centers,
+you know, clouds and stuff,
+it's like, "Oh, my god,
+we have opened up like five data centers.
+Oh, shit, we actually need some security products.
+Let's go look for them."
+I mean, that's just the absolute wrong way to do it.
+When you are setting up a project to do X, right,
+you wanna open up, let's just take a very simple example,
+a customer support team.
+Everybody needs one, right?
+So when you are setting up
+your customer support function and organization,
+think about the risk and the security of that team
+in that project.
+I think a lot of teams struggle with this security
+or risk-related budget after the fact.
+And a lot of times, you end up not doing it (laughs)
+because they're like, "Oh, shit.
+We have a data center. We ran out of money.
+So you know what? We'll secure it next year."
+Well, yeah, good luck with that.
+So I think it's a lot of,
+because you asked about framing,
+so the way it should be framed about
+is that there's a use case,
+here's the actual, for lack of any other better word,
+the functionality of the use case.
+Here's my risk mitigation of that use case,
+here's my user experience portion of that,
+and combined together, here's my ROI for that use case.
+If you do it that way, people are a lot more successful.
+But then that kind of leads it to,
+it can't be, like, that's a CTO's budget
+and that's an CIO's budget, and that's a CISO's budget.
+It's one budget, and you have your components in it.
+So easier said than done.
+I mean, let me not, you know, give you the impression
+that it is so easy to do it, you should go do it tomorrow.
+It is complicated, requires a big cultural change,
+especially in your C-suite.
+It might be surprising to some of you
+that culture change starts with your CFO.
+And a lot of the CFOs actually don't understand any of this,
+so they come in and say, like, "Oh, my god,
+you are asking tech, you are asking tech,
+you are asking tech, dollar, dollar, dollar, dollar.
+I don't care."
+So start by educating your CFO.
+The more your CFO actually understands this,
+the easier it would become.
+I'll leave it there. (laughs)
+<v ->Perfect.</v>
+<v ->You should go next.</v>
+<v ->Yeah, no, I mean, it's really about thinking it</v>
+through the business lens, right?
+You know, and that's why my stance is, right,
+it's, you know, whether we call it C-level or not,
+like, it's important to have that security leader
+even at an SMB, you know, stage of business
+because, you know, that leader then can really drive
+how do you contextualize these sorts of security decisions
+or vendor decisions or, you know, internal decisions, right,
+in the context of the business.
+You know, like, what happens to the business
+when, you know, we do have this breach?
+Or what happens to this business
+when, you know, we're out of compliance
+in this particular area from a security perspective
+or, you know, we leak some data here, right?
+And so, you know, I think a lot of it
+just comes down to how you tie it back to the business.
+And, you know, it's a common phrase, right?
+Like, once there is a breach, right,
+and, you know, there is a crisis or a disaster, right,
+like, that's when businesses
+are always willing to spend more.
+But, you know, having someone
+who's been there before and done that
+and can, you know, contextualize these sorts of decisions
+in the context of...
+It's not just a, you know...
+Like, I wouldn't even frame it as like a risk thing, right?
+But it's really about, like, this is what will happen,
+you know, to our top line
+or this will happen to our bottom line, right,
+if we don't do this sort of thing.
+That's really, I think, how you can really,
+you know, expand beyond just think of it as a risk framework
+but really, you know, dollars and cents for a CFO or a CEO.
+<v ->So I'm gonna take a whole different stance on this.</v>
+That's why I knew they would go this way.
+So CRI, we have a program
+called the Cyber Readiness Program.
+And, you know, small and medium businesses are the same
+regardless of sector and the way that they look at it.
+And we're focused on four areas,
+and when you look at it, you'll go,
+"Oh, yeah, Karen, it's a no-brainer." Right?
+So it's phishing, automatic updates,
+multifactor authentication, and removable media.
+But when you work through the program,
+the program makes you think,
+and it follows ISO standards and all this other good stuff,
+but it doesn't use the words ISO standards
+and cybersecurity risk framework and all this.
+It doesn't use anything like that, okay?
+Because the minute you start talking
+to small and medium businesses about cybersecurity,
+like, their eyes glaze over,
+you know, they think, like,
+"Hey, it's never gonna apply to me because I'm so small."
+They have no...
+Like, ransomware has, like, really been
+an eye-opening experience for society.
+You know, it's a great business
+if you wanna be in it, you know?
+'Cause it's like you can go out and use AI
+and come up with something,
+and it's, like, minimum investment, big return, right,
+if people pay you.
+Not that I'm advocating people become criminals here.
+But, I mean, when you look at it
+from a pure business sense,
+it is a great return on the investment.
+Small and medium businesses don't think that way.
+And the industry, both of you guys have hit on it,
+the cybersecurity industry
+has become a victim of its own terminology, right?
+We have made it sound so scary,
+who wants to be involved in it?
+It's like, you know, oh, my gosh.
+And most of the time in small businesses,
+it's like the HR person, it's another duty as assigned,
+and they're like, "Okay.
+CEO says I have to do cybersecurity. What is that?"
+So it's really trying
+to, like, change the discussion,
+and we have to change the way that we talk about it
+and the way that we frame it.
+And so a lot of it has to do, when we talk with them,
+we're like, "Hey, you know..."
+They think it's only about Office 365 and the cloud
+and things like that,
+and they're like, "Yeah, okay, I can get a pencil and pen."
+Then you ask them, "Hey, what happens
+if, like, you know, your customer service thing goes down
+or, you know, your billing system goes down?"
+And they said, "Well, what do you mean?"
+And I said, "You know, like, you can't generate any bills
+or you can't, like, pay people,
+or, you know, you're doing this or you're doing..."
+And they go, "Oh, my gosh.
+Like, we would have no revenue whatsoever coming in.
+We would not be able to survive if that happened."
+And that's when we say,
+"Hey, that's what will happen if you don't do X."
+And they're like, "Oh! That's what that person meant."
+I mean, it just is, like, it's a big eye-opening thing,
+so we're a victim of the way that we frame the problem
+and the way that we talk about it.
+I mean, if you look at the underlying infrastructure,
+it's all based on military terms,
+so, you know, like, how many people have memorized that?
+So we really have to change the way that we talk about it
+and what we're saying instead of saying,
+"Well, if you follow this
+141-dash, you know, 3 encryption standards
+and 800, you know, 153 and all this,
+and, oh, and then you have 151 security controls
+that you have to meet for CMMC
+and then do this ISO standard and meet this with HIPAA."
+Like, I mean, you guys
+have already tuned me out there, okay?
+So, like, we just have to talk about it differently,
+and a CEO and the board and the CFO
+or the small business owner will make that investment
+when they realize it's gonna affect their revenue.
+<v ->Yeah, I think I'll add one</v>
+because the way you describe it is absolutely perfect,
+because especially for smaller and medium businesses,
+they understand business continuity.
+<v ->Yep.</v>
+<v ->They don't necessarily understand cyber risks, right?</v>
+And business continuity now,
+because everything is digital and everything is connected,
+a huge part of business continuity is your cyber security,
+but it needs to be framed properly,
+and that's why it has to be part of every project
+and every budget, right?
+So I love the way you described it, yeah.
+<v ->A bit of a rapid-fire question</v>
+before we open up questions to the audience,
+but if a company should hire a CISO,
+what are some characteristics
+they should be looking for in that person?
+<v ->I'll go real quick.</v>
+Person who understands their business.
+<v ->That's great.</v>
+<v ->I mean, I was gonna say something similar, right?</v>
+Like, you know, in SMB,
+business environment's very different than enterprise,
+and then of course
+you've got your different vertical sectors,
+things like that,
+so, yeah, someone who, you know, really understands
+what the job's gonna be for that particular business.
+<v Nabil>I think I agree with both of them.</v>
+I'll add one more characteristic.
+Hire a nice person.
+Because how many times I'm like,
+if you've ever done a project
+and you've finished the whole project
+and then everybody looks around and says,
+"Who's gonna talk to the CISO?"
+<v Karen>Yep.</v>
+<v ->Because you go to see them</v>
+and the first thing the security person says, "No."
+Don't even know what it is, why you're doing it,
+what is the business need?
+So hire somebody that is,
+I mean, I'm saying that tongue in cheek,
+but the idea is that hire somebody that is collaborative
+and somebody that considers themselves
+and their organization as part of the business
+and not kind of like a side auditor, right?
+So that's just absolutely critical
+because I will tell you this.
+If your CISO, he or she, is not, you know, a nice person,
+other functions will find a way to go around him or her.
+That's, like, the whole shadow IT,
+and, like, especially with all of the SaaS applications
+and the AI tools that are out there,
+it is so easy to go around the security team,
+and you don't want to do that, right?
+So find a person who sits and says, like,
+"Hey, Karen, this is your project.
+Let me help you find a way to do this.
+Let's do it together."
+Rather than, like, "Karen, you figure this out,
+then come and ask me,
+and I might say yes or I might say no."
+So hire a nice person.
+I don't know how you put it on your resume though,
+"I'm a nice person." (laughs)
+<v ->Well, thank you so much.</v>
+I would love to open up the opportunity to all of you
+to ask our amazing panelists some questions.
+If you do have a question,
+just go ahead, stand up, and please go to the mic.
+<v Attendee>So it's not a question but just a comment.</v>
+How many people, by a show of hands,
+belong to InfraGard, the National Member Alliance?
+None? Really?
+<v ->That's amazing. That actually is a good question, yeah.</v>
+<v Attendee>Oh, wow. Okay, so this is a free service.</v>
+It's a partnership between the FBI and private industry.
+And they have a national member alliance
+but also have local chapters.
+So you get newsletters about cybersecurity, email updates.
+There's a conference.
+<v ->InfraGard.</v>
+<v Attendee>InfraGard, I-N-F-R-A-G-A-R-D.</v>
+If you Google it, you'll find it.
+And so I belong to the New Jersey chapter.
+We had an end-of-year review of cybersecurity issues
+with our FBI team,
+and the CISO for ADP, the payroll giant,
+he came up and did a talk,
+and he offered his services
+to the entire New Jersey chapter.
+So obviously, being a payroll giant,
+they get hacked all the time,
+and so they're sitting on a treasure trove
+of cybersecurity information,
+and they're letting us have that information
+so long as, you know, obviously it doesn't conflict
+with their business.
+But it was a valuable connection to make,
+and I highly recommend everybody join it.
+<v ->Fantastic.</v>
+Community is so important when it comes to security.
+<v Attendee>Yeah, and I don't get any kickback</v>
+for this, so...
+But this is like strength in numbers, right?
+So it's like if more people, we're all in this together,
+if they attack my company,
+they're gonna attack your company.
+<v ->Yeah, 100%, 100%.</v>
+<v Attendee>Hi. Okay, can you hear me?</v>
+<v ->Mm-hmm.</v>
+<v ->Okay.</v>
+You touched upon hire someone who's nice
+or collaborative, right?
+I 100% agree with that, but at the same time,
+look at it from the CISO's perspective or security.
+I've never been a CISO,
+but I was a senior manager managing a team of SecOps,
+you know, blue team, red team guys-
+<v ->Right.</v>
+<v ->Guys and girls.</v>
+And we were under tremendous pressure.
+I mean, we managed airlines
+and airports across the world,
+so you can imagine how many incidents and events
+we had on a daily basis.
+But the truth is, from a security perspective,
+it's frustrating when, you know, either C-level
+or senior management, mid-level management
+either disregard, like you said, they go around it,
+or they ignore you or they don't pay importance to it.
+So it's kind of, yes,
+you should hire someone who's very collaborative,
+and you can, you know, during the interview process,
+you can figure that out and everything.
+But at the same time,
+from a security perspective, it's very frustrating.
+I think there's a big lack of knowledge,
+and a lot of C-suite people don't even wanna know about it.
+They're completely disinterested
+until a disaster happens, right?
+And then, you know, like you said or all of you said,
+you know, the security people are to blame,
+and they have a shelf life of what, 24 months?
+<v ->Yeah.</v>
+<v Attendee>That's surprising to me actually, but okay.</v>
+But, yeah, I don't know how we can bridge that gap.
+You know, we talk about it a lot,
+but nobody seems to address it.
+<v ->So I think you raise a very interesting point,</v>
+and that's, you know, why I differentiated
+between a security team and a CISO.
+So one part of the CISO is to represent the security team
+to the other functions and in the C-suite,
+and that's why it's all the more important.
+I never said that hire all the nice people
+in security team (laughs)
+because they should be the most technically sound people.
+And by the way, the more paranoid they are,
+the better off, you know, that role is.
+But a CISO is...
+You know, here's the thing.
+And, again, as I said,
+it's the C and the O at the end, right?
+It's the chief and the officer part.
+They are really the face of that organization.
+They are the one who are collaborative.
+They are the one who explain to the other executives
+why you need it, as Karen pointed out,
+in terms of either business continuity
+or, you know, revenue generation
+or, in some of the cases, PR risk.
+Who wants your company's, you know, name
+to be all over the news that, oh, you got hacked and stuff?
+Although that happens quite a bit these days.
+So the CISO's role is to translate
+the very difficult, complicated,
+and rapidly changing space of security
+into a language that other execs
+and other decision makers and stakeholders can understand.
+Remember, they don't live it on a day-to-day basis,
+so if you go and you kind of talk about
+the latest, you know, threat,
+I mean, to Karen's point, like, the eyes glaze over,
+but that's why it is so important.
+The best CISOs that I know,
+they were technical 10 years ago.
+They are the best representatives
+of a super technical organization.
+So, you know, that's why I wanted to give the caveat
+that my comments are about specifically about CISO
+and not about the security team.
+So CISO is the one who should be representing it,
+translating it, and making sure that people
+do not think of the security team
+as a hurdle or as an audit,
+but thinks of them as a resource.
+Like, who wouldn't wanna create a product
+or a project that is secure from day one, right?
+That's the whole idea,
+but it needs to be presented that way.
+That CISO requires,
+and I know I was laughing on the nice person,
+but it's the soft skills that matter
+because they are selling the value of their teams
+to everybody else in the organization.
+<v Attendee>Emotional intelligence.</v>
+<v ->Emotional intelligence. And the translation, man.</v>
+It's just like, and I think this is what Karen was saying,
+is, like, don't bring in, like, your 18 acronyms
+and the latest 12345.
+Other people don't understand it.
+And by the way, on the technology side, I would say,
+is that we are the worst offenders
+because we try to sell security products based on fear.
+<v Karen>Yeah.</v>
+<v ->And what do you fear the most?</v>
+The thing that you don't understand.
+So obviously, you know, the whole industry
+is built around creating this fear
+around you don't understand it,
+I do, and I'm telling you you should buy this, right?
+I'm not talking about the security team itself.
+So it's the community thing, right?
+So that's what I would say on this, yeah.
+<v Attendee>Thank you.</v>
+<v Attendee>Thank you, I'll make a comment,</v>
+and then I have a question for the panel.
+Matt Aiello, I'm with Heidrick &amp; Struggles.
+We're an executive search firm.
+Just a slightly different perspective.
+So I lead the cyber practice,
+so we do hundreds of CISO searches
+for everything from late-stage private equity
+all the way to Fortune 5.
+And I agree with everything the panelists said.
+There is an evolving model over the last couple of years
+where, you know, 90% of corporate,
+of Fortune 500 CISOs are already talking to the board.
+So they're talking directly to the audit committee.
+They're talking directly...
+They've got, you know, quarterly presentations.
+They know how to distill the information.
+So there is a growing, it's not a big number,
+but there is a growing number of serious executives
+who are not rotating every 24 months.
+They're rotating every 29 1/2 months,
+so it's getting better.
+We do a survey with like 500 CISOs.
+It's, like, about 3.1, it's like three years.
+But it's not getting lower, which is good.
+And then the second trend is,
+and, Karen, I totally agree with you,
+that as long as you've got the information in there,
+you need to be a serious information guardian.
+We are seeing the rise of more technical CISOs
+'cause everything's moving to AI,
+everything's moving to data,
+so you need to have somebody that has deep technical depth,
+ideally with a CS degree or a EE.
+But the flip side of that
+is the ability
+to translate very sophisticated topics
+to a non-technical audience and do so successfully
+and have a broader enterprise risk orientation.
+This is the move away from the CIO.
+48% of CISOs report to a technical leader,
+either a CIO or a CTO,
+which means that a slight majority don't.
+They report in to, not to CEOs yet.
+That's happening in Asia.
+It's happening a little bit in the US
+below a certain revenue line.
+They're reporting in to general counsels,
+so we're seeing the GC,
+we're seeing CFOs, a little bit of a scary trend,
+we're seeing chief administrative officers,
+chief operating officers.
+As long as it's C minus one,
+so CEO and then anybody that's on the ELT,
+we are supportive of that, agree with you 100%.
+When a client comes to us and says,
+"We wanna to hire a world-class CISO,
+and it's reporting in to infrastructure."
+We'll say, "We're not gonna do it."
+Well, I mean, we try,
+we'll strongly encourage them
+to change the reporting relationship.
+So the good news is there's a lot of really good momentum
+happening in the role.
+My question, thank you for listening,
+my question for the panel is,
+I wanna present a slightly different perspective.
+It's the role, all those pressures are there,
+but I think CISOs are kind of rising,
+some of the best are rising to the challenge.
+My question to the panel is about AI and cyber,
+so I'd love just quick, you know, thoughts.
+I mean, obviously this is a very complex topic.
+Cyber is a piece of AI and safety and security.
+I'd just love to hear thoughts, right?
+Where's this going?
+Just maybe some guidelines
+on to where you think cyber and AI are going.
+<v ->Well, you should start.</v>
+<v ->Yeah, yeah, I mean, I'm happy to take that one.</v>
+Like, obviously, you know, with AI, right,
+there's a lot of hype, there's a lot of buzzwords for sure
+in terms of, you know, how is it actually impacting,
+you know, both,
+you know, I think of it in two different angles, right?
+One is how's it actually impacting,
+like, your threat landscape
+and what you have to look out for,
+and then how is it impacting,
+you know, what sort of technology and vendors
+or, you know, in-house, whatever, right,
+you know, platform that you have to defend yourself?
+And from what we've seen at Doppel,
+I mean, every time an AI model gets released,
+like the next-generation ChatGPT
+or, you know, next-generation cloud, right,
+like, we actually measure a lot of, you know,
+what can it do internally for us at Doppel?
+What can it do, you know, externally in our products?
+And then also, you know, basically
+do a lot of just conversations with customers
+in terms of, like, how's it impacting
+what you're seeing out there as well, right?
+And so, you know, our thoughts on it,
+based on, you know, what we've seen,
+you know, a lot of real change
+in terms of what you can do from a defensive perspective.
+So, for example, we've been able to automate,
+you know, certain teams,
+like, entire teams at Doppel on the security operations side
+that we couldn't automate two years ago.
+It's not the whole, you know, organization.
+You know, it's basically,
+you know, we've got a set of, you know, tier one tasks,
+tier two, tier three, right?
+And we still, you know, especially tier two
+and tier three, right,
+it's still very much human in the loop.
+But specifically, you know,
+the models like the 01 in particular
+that focus a lot more on the reasoning
+rather than just cheaper inference,
+those are the ones that we've seen big breakthroughs.
+In terms of attacks,
+you know, chatting with customers, things like that,
+I think it really comes down to both volume
+and velocity of the attacks, right?
+So not necessarily something totally entirely new,
+but just fidelity of certain attacks
+or the volume of it or the velocity of it,
+we've seen big changes in that over time as well.
+For example, smishing,
+you know, if you talk to Anti-Phishing Working Group,
+you know, five, six years ago, not as big of a deal,
+but now it's the fastest growing,
+you know, phishing attack vector
+for, you know, all things social engineering.
+<v ->So real quick, CRI is also research,</v>
+so I'm glad you asked that.
+So I'm gonna leave you with this one last thought is,
+sometimes we get so caught up in the technology,
+like everything that you just said, right,
+that some of the old ways might actually be better
+than trying to implement technology.
+And I'm talking from a small and medium business,
+like, you're very efficient,
+everybody's running efficiently,
+process the email, do all this stuff,
+I get all these things.
+You know, sometimes if you just stop and call your vendor
+and say, "Did you really send this?
+'Cause I have no record of this purchase."
+That you could actually stop a ransomware attack.
+So I know we're very efficient.
+We wanna process things really fast.
+AI is gonna make it more...
+So we're researching into how to stop some of these things,
+but sometimes just regular human interaction
+would actually be the best defense.
+<v ->I'll say one sentence, and I promise one.</v>
+I'm not known to give short answers,
+but I'm gonna try my level best.
+AI is going to force the breakage of those silos.
+Right now, for me, my SecOps and my CloudOps
+is bigger than my CISO's team, right?
+So AI will absolutely force
+this shared responsibility model,
+and I'm actually very happy about that, right?
+So that's my short answer,
+but I'll give you a longer answer afterwards. (laughs)
+<v ->Well, thank you, everyone, for coming.</v>
+Thank you, Kevin, Karen, Nabil.
+This was a lovely conversation.
+Have a wonderful rest of your CES.

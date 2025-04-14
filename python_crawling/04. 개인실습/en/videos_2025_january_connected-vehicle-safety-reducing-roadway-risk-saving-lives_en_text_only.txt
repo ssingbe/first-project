@@ -1,0 +1,989 @@
+My name is Brian Tegtmeyer.
+I'm with NHTSA
+and the office of EMS
+and the National 911 program.
+Welcome to our session today on "Connected Vehicle Safety:
+Reducing Roadway Risk and Saving Lives."
+I've got a great panel here
+and we're gonna spend our time
+going through a variety of topics and questions
+that we have to talk about connected vehicles
+and how they reach 911 and how that can impact lives.
+Before I start though,
+I wanna spend just a couple minutes
+framing this issue for you.
+And first of all,
+introduce what we do at NHTSA's National 911 program.
+We work to enhance highway safety.
+We do that by creating and sharing resources,
+collaborating with our stakeholders,
+and connecting the system's 911 centers nationwide.
+When we look at this issue,
+we look at it from the point of view
+of the National Roadway Safety Strategy
+and our Safe System Approach.
+of the Safe System Approach.
+We are involved with safer people.
+When risky behavior happens, they call 911.
+When someone's driving under the influence,
+reckless, distracted driving,
+that results in calls to 911.
+Safer roads, if the roads are unsafe,
+if there's debris, lights are out,
+or other hazards,
+it results in calls to 911.
+When we have safer speeds,
+vehicles driving unsafe at speeds,
+our 911 centers
+are our nation's law enforcement dispatch center
+and they're involved in the enforcement
+of speed and traffic laws
+and relaying that information to their law enforcement.
+And then we're gonna talk about this a lot,
+the safer vehicles,
+how does advanced automatic crash notification
+play into connecting the vehicle to the 911 centers
+and transmit critical data through the telemetry?
+And then finally, all of this is for when a crash occurs,
+we have post crash care.
+And that begins with the call to 911
+and our nation's 911 telecommunicators
+that work to identify the caller location,
+the nature of the crash,
+and the severity of the incident
+to make sure we can send the most appropriate help.
+So when I talk about this,
+one of the things I like to demonstrate and talk about
+is having a continuity and a consistent level of care.
+So we look at the Interstate I-95,
+our nation's longest North-South interstate
+from Maine to Florida,
+and it goes through 15 states in the District of Columbia
+and there's almost 200 911 jurisdictions there.
+So as you can imagine,
+if a crash occurs along this roadway,
+the level of training, the technology,
+the staffing of those 911 centers
+and how this information from a connected vehicle
+gets into the 911 centers
+and their current state of next generation 911
+is gonna dramatically vary.
+And that's what we need to do,
+is that we are advocating to push the bar higher
+and make sure that if a crash occurs along this roadway,
+that the minimum level of data that we need
+is received to all of our nation's 911 centers.
+To frame that further,
+when emergency responds to crashes,
+we are estimated at NHTSA
+that there are 13 million motor vehicle crashes a year.
+in law enforcement being dispatched,
+and 1.5 million of those crashes
+result in EMS being dispatched.
+And we know in those 1.5 million crashes of EMS
+that there's almost 170,000 people
+critically or seriously injured.
+Over 55,000 of those crash victims
+need to be extricated from the vehicle.
+And over 8,700 are partially or completely ejected
+from the vehicle.
+So this is a serious situation we're dealing with
+and there is a lot of severity.
+All of that results
+in over 42,000 traffic fatalities a year.
+We have seen this number dropping in the last couple years
+and we're happy for that.
+But one of the most important facts that we can share
+is that of the 42,000 fatalities on our roadway,
+42% were alive when EMS arrived on scene.
+We can drive that number down
+if we can get the right help there
+in the right way with the right information
+to improve the outcome of those patients.
+The 911 system is not a national 911 system.
+There are over 5,400 911 centers across our nation
+and they work independently
+at a local and at a state level.
+30% of our 911 centers are two seat centers or less.
+70% are five seat centers or less.
+And why is that important?
+'Cause you probably have an image based on TV or the news
+showing large 911 centers with all of this technology
+and all these people working,
+but that's not the reality.
+70% of our centers are five seat centers or less,
+and they have different abilities, capabilities,
+and technology that can get the call
+into their 911 centers to process that information.
+So we're gonna talk about this today with our panel.
+We're gonna talk about it from a 911 point of view,
+from a telematics service provider's point of view,
+and from connected vehicles.
+And that is our goal.
+So we've got some question prepared
+and I'm gonna sit down and start that process now.
+So first question, one second,
+it's gonna go to the 911 community,
+and I'm gonna ask Ty and Jennifer,
+and they're each gonna introduce themselves when they start,
+but what do you think
+is the single most important piece of information
+that 911 centers currently do not have access to
+that could positively impact post crash care?
+Jennifer?
+<v ->Hi Brian, thanks so much.</v>
+My name is Jennifer Kirkland.
+I'm the State 911 program manager for Colorado.
+I have 23 years of experience in 911 centers,
+both as a 911 telecommunicator,
+all the way up to leading the 911 centers.
+And I'm also heavily involved in 911 across the nation
+in various ways.
+To answer your question directly,
+I think there's no one single piece of information
+that would be most helpful.
+The first one that comes to mind
+is maybe number of patients involved in a vehicle.
+But what I'd like to highlight is the fact,
+something you touched upon in your introduction,
+which is that there are 5,400 911 centers across the country
+and there is a wide disparity
+of both technology availability in those 911 centers
+and training availability.
+Because 911 is administered at the local level
+and sometimes the state level,
+there's a wide, wide discrepancy
+in the availability of technology.
+Some of those 911 centers have state-of-the-art technology
+and can take all of the information
+that is available to you.
+And some of them still work with paper and pen
+to get that information out to the field responders.
+So the first question is,
+is there availability to get that technology
+and that information and data coming into the 911 center?
+The second thing I'll touch upon is the human aspect of 911.
+So in the United States,
+there is no national minimum training standard
+for 911 telecommunicators.
+That is left up to the states
+and some states have a minimum training standard
+for 911 telecommunicators,
+and some do not.
+Unfortunately, Colorado is one that does not,
+which means that if you call 911 from this room
+and reach the 911 center,
+there's gonna be a different level of training
+than there might be if you go to Colorado and call 911
+and say a rural area,
+the level of care that you're receiving from the very get go
+of your emergency
+is going to be vastly different.
+So I think as we move forward into technology and data
+and what we can get from those connected vehicles,
+it's important that we remember that those 911 calls
+begin and end with a human being in that 911 center.
+And we have to make sure
+that they have the training and knowledge
+necessary in order to process that call
+and to get that data from the connected vehicles
+and all of the ways that we can get that data
+and get it out to the field responders
+and working coordination to drive that,
+that fatality number down.
+I'll turn it over to Ty.
+<v ->Hi, my name's Ty Wooten.</v>
+I'm the Director of Government Affairs
+for the International Academies of Emergency Dispatch.
+We create standardized protocols
+that are used in 911 centers
+and emergency dispatch centers around the world.
+We're in almost 2,600 911 centers in the US
+and our protocols are translated
+into 29 different languages
+and are used in 59 different countries worldwide.
+I think from my perspective,
+the information coming into the 911 center,
+it's really key.
+You know, as Jennifer talked about,
+it's about a lot of the human element,
+but part of it is also understanding
+the standardization of the data that's coming in.
+From a perspective relative to the OEMs
+and the vehicle manufacturers,
+you know, having consistent data
+that comes in in a consistent way is incredibly important.
+Every time we have a variation
+in way the information is delivered
+to the 911 center,
+that creates additional training components
+and additional aspects
+that each individual 911 center has to manage.
+And so because of the wide variety
+of 911 centers across the US
+and there are different levels of capability,
+whether it be technology and or their training,
+we need to make it as consistent as possible
+so that when the data comes in,
+they don't have to go,
+"Okay, it's Tuesday after a full moon,
+and I now need to stand on my left foot
+and jump three times in the circle
+to remember what I'm supposed to do.
+We need to make it as user friendly
+and as straightforward as possible.
+And so standardization of the data and the data sets
+is critically important.
+<v ->And building on what both of you guys talked about,</v>
+I think one of the challenges is that,
+you know, the data that's available
+and coming into our centers now
+from the different telematics service providers
+who are gonna talk next,
+it works differently in different places, right?
+So when we talk about this need,
+it's not working the same
+across the United States right now.
+It can work differently.
+Can you build on that?
+<v ->Yeah, I mean not only does everybody</v>
+have these different variations in the 911 center,
+but also permeate that into the field response.
+So if you're in metro Las Vegas,
+you have a lot more resources and capabilities
+than you have in rural Colorado
+or rural Nebraska
+where things are completely different
+and where it may take you 45 minutes to an hour
+just to get to the patient.
+And that's where standardized protocols
+and utilizing methods like that
+so that we can provide enhancements
+and provide response,
+whether it's someone who is a bystander,
+so we can coach them through CPR or stopping the bleed
+or whatever that may be across those mechanisms.
+That is huge
+because not every jurisdiction has the same resources,
+not only in 911,
+but as well in the field.
+<v ->And I would build on that</v>
+and say keeping 911 professionals in the conversation
+as you build out that technology is imperative
+because 911 professionals look at the situation
+from a different perspective
+than a law enforcement officer or an EMS professional.
+So making sure that they're still involved in that
+and continue to be involved in that conversation
+is imperative.
+<v ->Right, the information that 911 needs is much different</v>
+to be able to make the correct determination of what to send
+than maybe some of the information
+that we will ultimately relay to those field responders.
+But we have to have critical first level information first
+to be able to get the right response out
+so that those field responders can then take it from there.
+We'll relay that other additional information,
+but we've gotta make sure
+that we're getting the right stuff first.
+And that's where it's critical
+to have 911 engaged in the conversation
+because without that,
+everybody kind of skips over that part.
+And this is a critical thing to remember,
+every single call that happens in the field
+starts with a 911 call
+and it comes through that 911 center
+and they're the ones that are managing the logistics
+of getting everybody else out to the field.
+<v ->Thank you.</v>
+I think that's great
+and I think the challenge that a, you know,
+we're here at a technology conference,
+this isn't as much,
+what I'm hearing is it's not as much
+of a technology challenge as a technology adoption
+that 911 hasn't adopted the full level of technology
+that's available to them
+in what we call in the 911 industry,
+next generation 911,
+that's not been as widely adopted across every state
+and across all the 5,400 911 centers.
+So at some point when that full adoption occurs,
+we can get this technology and the data
+into the centers differently.
+But right now it comes in in a variety of ways.
+<v ->Right, and we're kind of working off old technology</v>
+from the 1930s, 1940s today.
+So we have, you know,
+we walked the floors this morning
+and we saw tons of amazing technology,
+and I'm excited about the future.
+But unfortunately, we don't have the capability today
+to receive the information
+that many of you have,
+that you want to push to us.
+We just can't take it
+because we're working off old school systems
+and we're moving that way, but we're not there yet.
+We don't know,
+like the fundamental question of where are you
+is huge in 911.
+Domino's knows where you are,
+Uber knows where you are,
+but we can't pinpoint you like they can.
+And so just that fundamental question
+is important to remember.
+<v ->So next vital part of getting crash notifications</v>
+from the vehicle into 911
+is through our partners at telematics service providers.
+So I'm gonna tee this question off
+to Jim and Steve to go next,
+but can you guys talk about the importance
+of your streamlining data
+that comes into the 911 telecommunicators?
+And with all those different data points that are available,
+what should technology companies know
+as they strive to get more data into the centers?
+<v ->Yeah, so I'm Steve Coker.</v>
+I run SiriusXM Connect.
+It's a telematics service provider.
+We have more than 13 million active subscribers
+that we provide services to,
+including crash notification, SOS, and related services.
+We handle over a hundred crash events every single day.
+And so this, you know,
+is near and dear to my heart
+is because we really are out there trying to figure out
+how do we save lives every day.
+I think it's helpful to take a brief step back
+and understand from the,
+you know, PSAP perspective
+or the evolution of how data has been transmitted.
+And, you know, for the longest time,
+and we've been in business for over 30 years,
+you know, we get the call from the car,
+we then in turn call the PSAP,
+the relevant PSAP,
+and we've had to verbally communicate
+all the relevant information
+up into really the past few years.
+And only very recently, you know,
+through a partnership we have with RapidSOS
+are able to now digitally transmit
+the data that we can collect digitally from the vehicle
+and send it directly to the PSAP as opposed to having to,
+you know, stop and communicate verbally
+every piece of information
+like the latitude and longitude.
+And when you're communicating lots of detailed data,
+you have error problems and the like,
+that takes time.
+And what we found is, you know,
+we save on average 37 seconds
+of providing a critical information to the PSAP
+and seconds saved saves lives.
+So we're really excited about that
+and we think it's a real step forward
+in how we can help save lives.
+But with the ability
+to digitally transmit information to the PSAP,
+now we sort of have the converse problem,
+which is we can send all kinds of data
+and we have, you know,
+OEMs and tier one providers suggesting,
+"Hey, we've got this really interesting thing
+that we'd like to provide that might be useful to the PSAP.
+And so we, as the TSPs,
+have this intermediary role to help try and figure out,
+well, what's the most important information,
+how much data should we really send?
+Just 'cause we can doesn't mean we should provide it.
+And I think it's really important to understand,
+we had a great visit at the end of last year
+to the PSAP in Wheaton, Illinois.
+I'm a former first responder,
+I was a deputy sheriff for a few years,
+and ours was a pen and paper
+with a radio at the time.
+These folks have up to 10 screens,
+five keyboards, five mice,
+to try and manage this.
+The cognitive overload
+that we are asking the public safety telecommunicators
+to deal with is really significant.
+And when you provide cognitive overload
+in such a critical place,
+like it's really important that we simplify
+and reduce that complexity.
+So I think we're really working to,
+as part of the standards of vehicle emergency data set
+and related things to say,
+"Hey, let's narrow down what's really important
+and most importantly for the telecommunicator,
+what's actionable for them in making the dispatch decision.
+And I think those parts are really critical to,
+let's do that in a consistent way.
+And I'm gonna leave it to Jim
+to talk a little bit more about the consistency
+and the work we're doing together to try and make sure that,
+but I think that's a really critical aspect.
+<v ->No, that's a great point.</v>
+And I just wanna, we have,
+as all technology people, we have a lot of acronyms.
+PSAP is the Public Safety Answering Point,
+another term for a 911 center.
+So I wanna make sure we all stand on top
+that that's what we're talking about there.
+So we talk about 911 centers and PSAPs and ECCs
+all as synonymous org entities.
+But Jim, why don't you go ahead
+and build on the type of data
+and how that data will make a difference
+in a dispatch decision by those 911 telecommunicators.
+<v ->Great, thank you and great stuff so far.</v>
+So I'm Jim Lanier with OnStar.
+OnStar is a subsidiary of GM,
+a wholly-owned subsidiary.
+OnStar's been providing crash services
+to its members since 1996.
+And apologize, a little bit of a froggy voice today.
+But again, this is great stuff to kind of build on it
+and take to the next level of the conversation.
+You know, at OnStar we have the same challenges
+as far as when we work closely
+with our public safety partners,
+making sure that we're providing relevant information
+in a way that that's timely and efficient and effective.
+So going back to, for example,
+you know, old school,
+and we still do it today,
+is the verbal handoff when we receive a crash notification
+to ensure that public safety is getting the information.
+But again, it's a verbal handoff
+and we do have a digital alternative as well
+with some of our PSAP partners out there
+where we utilize a company called RapidDeploy
+that pushes our information digitally
+out to the 911 centers.
+But where this becomes a bit of a challenge
+is the 911 centers have this separate workstation
+that they have to access to get this information.
+So when you're hearing about next generation 911
+in terms like that,
+and the next generation actually a telematics per se,
+is to bring this information into the 911 centers
+into the public safety ecosystem.
+Not just available for 911,
+but those downstream that need it,
+the first responders, trauma centers, et cetera.
+So it's integrated into the call handling workflow.
+And what I mean by that,
+if I'm a 911 telecommunicator,
+and been there, done that,
+and had the multiple screens and so forth,
+and it's very frustrating
+if I have to leave my usual comfort zone
+of here's how a call comes in,
+here's what I do with it,
+here's how I dispatch it.
+We go swivel over here and try and do something here
+and it's not integrated with my other system.
+So it becomes a bit of a gludge.
+And when you're short staffed
+and you have other pressures,
+it's just not the most effective way.
+So I'm going all this is, again,
+circling back to we need to work towards integration.
+And for the technology providers out there,
+those that can provide information,
+crash notifications, smart streets, internet of things,
+vehicle connectivity data,
+one thing, please, please, please
+to kind of build on something said earlier
+is don't assume it's plug and play.
+You know, the 911 technology is not plug and play.
+It's not a native IP environment yet in many places.
+So what we need to do collectively is work as an industry
+to ensure that we're treating 911 as a customer
+and taking into consideration their needs.
+But there's opportunities there.
+The good news is there's a lot of energy behind this.
+This is what our seventh panel I think
+that we've had doing this.
+We had the data summit that NHTSA hosted for us last year,
+which was very, very powerful,
+a lot to OEMs and third party service providers,
+trauma surgeons, 911 professionals, et cetera.
+We had a big mix there.
+But the energy behind that was to,
+let's collectively start to work on this.
+So for example, Steve mentioned VEDS,
+the Vehicle Emergency Data Set,
+this is a 911 standard.
+This is a standard put together,
+ANSI approved by the two large 911 associations
+collaborated on this
+and revised it just a couple of years ago.
+And this provides a platform to allow technology providers
+to be able to provide information coming from, for example,
+a third party service provider
+like OnStar, SiriusXM, or Bosch.
+You got crash notification,
+be able to provide that to the 911 centers
+in a consistent manner.
+So for all the technology providers out there
+can theoretically through a common interface,
+be able to take this information in.
+The telecommunicator doesn't have to worry about,
+oh, is this a call from a Mercedes vehicle
+or Bosch or SiriusXM or an OnStar GM vehicle.
+It's gonna show up the same way for them every time.
+And included with that comes thing
+such as injury severity prediction,
+which is an extremely important component in all this.
+If you have indications initially in the call
+that the person has a high probability
+of being severely injured,
+and please keep in mind with trauma,
+a lot of trauma does happen because of what happens inside,
+you don't see it initially,
+you know, from the trauma perspective,
+you might walk up and they seem fine,
+but if the vehicle is saying there's been enough force here
+to indicate they possibly,
+or probably having an internal injury,
+they need to go to a trauma center.
+So in these rural environments
+where I might take 45 minutes
+to get out there as a paramedic,
+I'm doing everything I can to get there.
+But if I know early,
+this is why I'm gonna launch a helicopter early.
+Most of you are probably familiar
+with what's called the golden hour.
+The patient needs to be in surgery
+within an hour of the time of the incident,
+not from when EMS gets there
+and put that in context
+with 40 plus percent of these patients are alive
+when EMS arrives.
+But how long did it take 'em to get there?
+How much of that golden hour is going away?
+So we have a real opportunity to work together
+with the OEMs, TSPs, NHTSA, COVESA, other groups to say,
+"You know, we can do better with this
+because there's standards out there.
+We just need to start bringing
+the right stakeholders together
+and making it easier on everybody involved."
+<v ->Oh, that's great.</v>
+And I think that's an important part,
+Jim, you talked about,
+is that this data can drive a different response.
+So in our EMS community
+and in my partners in NHTSA's office of EMS
+is that there is different levels of training.
+There's basic level EMTs, paramedic trained EMTs,
+and we want advanced life support responding
+when there's serious trauma.
+We want that critical care helicopter
+or other treatment notified
+because you are getting the right treatment
+and the right care has the biggest potential of outcome,
+you know, to that patient.
+So getting them to a trauma center
+can improve their odds by over 25%.
+Just getting them to the right level of trauma center.
+And that's what's key.
+And that data from the vehicle,
+like the mechanism of injury
+and the injury predictive scores can really detail that.
+So our next group are more in the automotive
+and technology industry
+and I'm gonna start with them and ask this question of,
+you know, what do we think
+hearing what we've heard from the 911 and the TSPs,
+what can OEMs and other automotive technology leaders do
+to help 911 advance post crash care response?
+And this is one of those areas
+where it can be even a little non-traditional,
+not just crash notification,
+but other ways that we're gonna make an impact
+within the automotive industry?
+Tim, you wanna start?
+<v ->Yeah, thanks.</v>
+So Tim VanGoethem,
+I'm the Chief product officer
+for a company called Emergency Safety Solutions.
+Our focus is to reduce the number of fatalities and injuries
+that result from either a vulnerable vehicle
+or a disabled vehicle.
+Whether they're on the roadside
+because they've been in a crash
+or they're just dealing with a breakdown
+like a flat tire.
+I also have the privilege of co-chairing the COVESA,
+Connected Safety Birds of Feather.
+So we have been in this conversation.
+And both ESS and COVESA are thinking about this
+in terms of kind of a progression of value chain, right?
+Because there's a lot of people involved
+in a crash situation.
+Certainly the victims themselves,
+the first responders that are coming,
+the dispatchers that are trying to program a response,
+and eventually people in the hospital
+that are gonna receive those victims.
+So the way we've been thinking about this
+is how do we kind of understand all of the stakeholders
+that are involved in what their collective needs are.
+From our view, stage one is we need to notify, right?
+And that notification can certainly be to the PSAPs.
+You talked about the simple thing, Ty,
+of just knowing where a crash has occurred.
+It was astounding to me
+to learn through our earlier conversations
+how blind the 911 call centers and the dispatchers are,
+as well as our friends in the TSP community.
+I just assumed,
+you know, that was in place,
+'cause I was part of the Motorola team
+that built genuine OnStar.
+So I know what the car is capable of doing
+and it was astounding to learn
+that all the downstream stakeholders
+was not getting that simple piece of information.
+But we can notify other things.
+We can notify the other drivers that are approaching, right?
+'Cause even though we're desperate
+to prevent crashes,
+when they occur,
+we need to stop the pileups,
+the secondary collisions,
+or especially this time of year,
+the multi-car pileups that really turn, you know,
+a bad situation into tragedy.
+So how do we notify people of things?
+From emergency safety solutions perspective,
+we also wanna protect the scene.
+How do we use things like reimagined lighting
+or other ways to use line of sight tools
+to communicate to the approaching motorists
+that there's something in front of them,
+whether that's a crash
+or somebody on the side of the road
+dealing with a flat tire.
+And we've deployed these kind of technologies
+out into the field already.
+And then the last step is response.
+How do we program the right response?
+So just kind of building on what my colleagues have said,
+it's around understanding the characteristics of the crash.
+How many cars were involved?
+How many people were in the car?
+Were they belted, right?
+Have they been injected?
+That was another kind of interesting thing
+for me to understand.
+I believed ignorantly
+that one of the most important things to understand
+is that has the airbag deployed.
+What I was astounded to learn is if the airbag has deployed,
+there's still a very high probability
+like the occupants are okay.
+'Cause the automotive industry has done an amazing job
+of building crash resilient cars.
+But if they've been injected, very different outcome.
+And I just didn't expect that.
+So how do we understand the characteristics of the crash?
+How many people were involved?
+Were they belted?
+Did they stay in the car?
+And then if we can also bridge that to who was in the car
+and be able to share, you know,
+managing all the privacy topics that obviously get involved.
+But do they have medical conditions?
+How old are they?
+Are they allergic to certain medicines?
+And as that information conglomerates
+and moves through this value chain,
+then I think each of the stakeholders then
+will have the information they need
+to program the right response and drive a great outcome.
+<v ->Thank you.</v>
+<v ->Steal that from you.</v>
+Hi, my name is Kathy Boden Holland.
+I'm the CEO of Mindr.
+Mindr is kind of the odd duck out in this group
+in that we are the country's largest provider
+of ignition interlock devices and services.
+An IID is what you would have in your car
+if you have had a DUI.
+There are programs that are managed in every state.
+I am, too, from Colorado,
+which has an excellent program,
+and we operate in all 50 states.
+Just to give you some perspective on size
+because people often think of DUI
+as something that happens to someone else,
+there's a 900,000 DUI arrests annually,
+which is actually fewer arrests than pre-COVID.
+And yet fatalities associated with substance
+has gone up post-COVID.
+So it is not that behavior has gotten better or different,
+it's actually that enforcement has gone down
+not for reasons,
+anything that are different
+than most companies are dealing with,
+which is recruitment and training,
+something we've talked about here.
+But certainly from a law enforcement perspective,
+it's a significant, significant issue.
+So we are very much in the keeping our safer people quadrant
+of the NHTSA model.
+We stop amongst our customer base,
+approximately a quarter million
+attempted drunk driving events on an annual basis.
+But I will tell you
+that one of the greatest competitors to us as a company
+is non-compliance.
+So what that means is that you've had a DUI,
+you are to have an IID in your car and you simply don't.
+So enforcement of having the IID in the car is even harder
+than the enforcement of impaired driving.
+An IID is the only proven technology out there
+to lower both DUIs,
+as well as recidivism.
+So actually DUIs are about two thirds of them
+are first time offenders.
+So it's not always a chronic alcohol issue.
+It's a chronic bad decision making issue.
+I say all that
+because I wanted to just add to this conversation
+that something that I think Tim touched on briefly
+that the reason compliance is an issue
+is something that I think holds its head up here
+in this challenge, which is privacy.
+All of us are probably really,
+we have a huge digital footprint.
+Our cars know a lot about us
+as do our phones, as do our laptops,
+and all the people who are building and operating those,
+many of whom are probably in the room today.
+We have a huge amount of data,
+and the individuals
+whose data that is about are not,
+are becoming, I think, more and more savvy
+about not wanting that to be publicly available,
+or even publicly available for good intention, right?
+And once you've been in a crash
+is not the time to decide you wanna opt in.
+And so making sure
+that we have both a complete picture of people,
+but then also full transparency
+as to how and when it may be shared
+is I think one of the great challenges
+to what we're talking about here today.
+I will tell you that that non-compliance
+that I talked about as being a competitive issue for us,
+we've done the research,
+obviously we wanna figure out
+why non-compliance is an issue,
+and privacy is one of the key factors.
+We thought it would be more about not wanting to pay for it,
+but it turns out
+that that's actually much farther down the list.
+And again, it's not necessarily
+because they intend to be an impaired driver again,
+but because they simply don't wanna have
+that kind of tracking on an ongoing basis
+and are willing to,
+I'll say, you know,
+break the rules, break the law,
+however you wanna describe it,
+in order to avoid that.
+So I just kinda wanted to add that to this discussion
+or highlight, maybe reraise that to this discussion.
+What data would be really valuable to the ecosystem
+has to be, you know,
+the Venn diagram of what data people want
+to be available to the ecosystem
+has to also be considered.
+And what I would like in the ecosystem probably differs
+when I need it to be in the ecosystem
+than in advance when I'm asking myself that question.
+<v ->Yeah, thanks Kathy.</v>
+And that's a great point.
+And as a couple people have alluded to,
+this conversation that we're having today
+is a continuation that really started back in June
+in Michigan at an event
+and where I've met Tim and Steve
+and some others that are on this panel
+that we've been building on.
+And one of the things that we've recognized
+is that whether it's standards,
+whether it's data issues,
+our concerns with this,
+we've been working in different silos.
+The 911 community has had its silo,
+even TSPs have had their silos,
+OEMs definitely have theirs.
+But we look at these problems differently.
+Tim and I were at that first event together
+and our second speaking in a situation similar to this,
+he was talking about privacy.
+And from my point of view as a 911 professional,
+we don't worry about privacy.
+It's implicit that if you call 911,
+you're waiving your privacy.
+If you call 911 on your phone,
+we are going to, you know,
+we get to decide what we're gonna do,
+whether we send police.
+Whether if you sit there and say,
+"No, no, don't send the police."
+Yeah, that's not your call as the caller.
+Once you've called us,
+we decide who we send, when we send them,
+how fast we send them in the 911 world.
+So married into the privacy issue of the data
+and the data being developed in different standards
+and in different silos
+has been a fascinating side put of this.
+And as we've said, I think, you know,
+you hear me speaking from NHTSA,
+I'm not speaking from the NHTSA regulatory point of view.
+I'm in the Office of Behavior, Research, and Development,
+and we're working on this
+from how to interface and collaborate
+within the 911 community.
+We've got five minutes left and that's great.
+We've done well to stay on time.
+I just would ask anyone on the panel of any final words
+as far as this importance of connecting this data
+to our 911 community
+and our challenges that are ahead of us
+or maybe some of the things we've already seen
+since we've engaged in the last seven months
+some steps forward on.
+<v ->Well, I will just say that from my perspective,</v>
+working in the 911 industry for 30 years,
+the last eight months
+has been the most exciting in this conversation
+that I've ever seen in my 30 years.
+Because to the point that I believe it was Jim
+and others have made is that,
+and Brian just made,
+we've been working in individual silos
+and we've been looking at things
+from our own individual perspectives.
+And in the last eight months,
+we have made a tremendous amount of strides
+to kind of break those silos down
+and have a whole lot more conversations
+and have an opportunity
+for things to really begin to switch
+and begin to kind of work
+towards common goals and common outcomes.
+And that I think is the most exciting part for me
+in the 911 industry
+and moving this discussion forward.
+<v ->Yeah, and I would build on that</v>
+and just say that part of what has come out of that
+is also the recognition of 911 as its own profession
+not tied specifically to law enforcement, fire, EMS.
+Field response definitely has a place at the table,
+but having 911 specifically at the table
+to provide their input from that specific perspective
+has been extremely beneficial.
+<v ->Well, and I think that builds</v>
+on like what Tim was talking about
+as far as even when a crash occurs,
+we have challenges for people moving over
+and preventing struck bys.
+And you've done a webinar with our office
+on 911's role in traffic incident management,
+and that's something the 911 community
+needs to learn a lot more about, right?
+<v ->Yeah, and making sure that 911 professionals</v>
+are the beginning and the end of the training,
+not just as a side.
+"Oh yeah, and 911 will do this."
+Well, how is 911 gonna do that?
+We need to think about that piece of link in the chain.
+<v ->I think one of the key benefits,</v>
+and I agree wholly with Ty
+that I've seen more progress in the last year
+than any time that I've been associated with this.
+And personally, I've spent some good conversations with Jim
+and with our colleagues at Bosch.
+I frankly think there's a lot that just,
+you know, the TSP providers can do collaboratively
+if the three organizations
+between OnStar, Bosch, and SiriusXM Connect
+can work together to help create alignment and standards
+and consistency just on our own
+by working together helps the entire ecosystem.
+And we're really excited about that opportunity.
+<v ->Yeah, and I'll just add on to that.</v>
+I've been in this business over 40 years
+with the last 30 or so in 911,
+remembering when next generation 911
+was supposed to come out in 2001.
+And it's just, don't wanna sound like a broken record here,
+but again, the momentum that's behind this now,
+and not treating this like a Pandora's box
+or a bunch of separate silos,
+and to Jennifer's point, especially in others,
+bringing the 911 community into this
+as a primary stakeholder is crucial.
+It's been kind of a paradox.
+When you work in 911,
+you're proud of being that quiet professional.
+You don't want any notoriety,
+you just do your job
+and you just go through it and you do great things
+and nah, leave me alone.
+We're behind the scenes.
+We like it that way.
+But that's also led to sometimes, I think,
+inadvertently not ignoring them but taking them for granted.
+So with this opportunity with all of us together,
+including our 911 friends and other stakeholders,
+this is something to build on.
+<v ->Just pile into all of that.</v>
+What I've really enjoyed during this journey
+is the collaborative attitude.
+Even though we compete each with various members
+from a commercial perspective,
+we're setting that aside for the greater good.
+That's amazing, right?
+We'll find other ways to differentiate
+and drive your businesses,
+which is expected.
+What I love though is we're finding a way
+to collaborate across the ecosystem,
+bringing in more and more people.
+And we're just getting busy.
+We're not waiting around for the perfect.
+We're not sitting in the classroom.
+We're not dreaming about tomorrow.
+We're picking up shovels
+and we're getting to work as quickly as we possibly can.
+And I just ask that we just keep this going
+and bringing in more and more people
+so that we understand who else is involved,
+who else could be part of making the world better,
+addressing the numbers, Brian,
+that you presented in the beginning.
+Even though the roads are safer,
+there's still 42,000 families that don't see it that way.
+Right, so let's keep going.
+<v ->Well, thank you all.</v>
+What a great panel.
+Thank you all for being here and listening
+and we just hope to continue to work on this
+and make improvements.
+Thank you.

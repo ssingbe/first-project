@@ -1,0 +1,3172 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.120 --> 00:03.287
+(upbeat gentle music)
+
+2
+00:11.659 --> 00:16.020
+<v ->We are here to explore the future of communities</v>
+
+3
+00:16.020 --> 00:18.840
+through the lens of technology in the session titled,
+
+4
+00:18.840 --> 00:21.753
+Smart Communities, Sustainable Future.
+
+5
+00:23.100 --> 00:27.750
+So BCG did a study recently and it predicts that by 2050,
+
+6
+00:27.750 --> 00:31.470
+70% of the world's population will live in cities.
+
+7
+00:31.470 --> 00:34.800
+That's several billion people moving to cities
+
+8
+00:34.800 --> 00:36.423
+in the next couple decades.
+
+9
+00:37.500 --> 00:40.650
+The integration of smart technologies into cities
+
+10
+00:40.650 --> 00:43.080
+isn't something that we're just going to plan for
+
+11
+00:43.080 --> 00:45.510
+and talk about innovation.
+
+12
+00:45.510 --> 00:48.123
+It's something that's a necessity now.
+
+13
+00:49.470 --> 00:53.160
+It's going to bring sustainability, efficiency
+
+14
+00:53.160 --> 00:55.260
+and quality of life to our cities,
+
+15
+00:55.260 --> 00:57.483
+which we all know is what attracts people.
+
+16
+00:58.710 --> 01:02.670
+Today, I have the pleasure of moderating this discussion
+
+17
+01:02.670 --> 01:04.080
+with these fine people
+
+18
+01:04.080 --> 01:06.930
+who are some of the deepest industry experts you'll find.
+
+19
+01:07.830 --> 01:10.560
+We have Philip Tucker here from Panasonic,
+
+20
+01:10.560 --> 01:12.570
+Kristin Bell from Siemens
+
+21
+01:12.570 --> 01:16.353
+and Marco Stracuzzi from Telit Cinterion.
+
+22
+01:18.780 --> 01:22.410
+Today we'll dive in to how we harness technology
+
+23
+01:22.410 --> 01:26.190
+to overcome some of the challenges that smart cities bring
+
+24
+01:26.190 --> 01:30.330
+and how those can become opportunities.
+
+25
+01:30.330 --> 01:32.310
+We're going to focus on some of the fundamentals
+
+26
+01:32.310 --> 01:33.570
+of smart cities.
+
+27
+01:33.570 --> 01:35.970
+That's your sustainable infrastructure,
+
+28
+01:35.970 --> 01:38.310
+connectivity and communications,
+
+29
+01:38.310 --> 01:42.723
+data-driven decision making as well as smart mobility.
+
+30
+01:44.160 --> 01:48.060
+Before we begin, let's see how many of you
+
+31
+01:48.060 --> 01:50.190
+are already living in smart cities
+
+32
+01:50.190 --> 01:53.070
+or experienced smart cities technology firsthand?
+
+33
+01:53.070 --> 01:54.003
+Show of hands.
+
+34
+01:56.010 --> 01:59.610
+We have a very well-versed audience today.
+
+35
+01:59.610 --> 02:02.580
+I'm sure they'll have tons of questions for us as well.
+
+36
+02:02.580 --> 02:05.943
+So to kick things off, I'm going to start with you, Philip.
+
+37
+02:06.900 --> 02:10.230
+Share your perspectives on any technology advancements
+
+38
+02:10.230 --> 02:14.610
+in some of the core and fundamental areas of smart cities.
+
+39
+02:14.610 --> 02:16.560
+<v ->Definitely, thank you.</v>
+
+40
+02:16.560 --> 02:19.470
+So Philip Tucker, nice to meet all of you.
+
+41
+02:19.470 --> 02:22.320
+I'm with Panasonic Smart Mobility Office.
+
+42
+02:22.320 --> 02:25.350
+So we're a group located out of Denver, Colorado.
+
+43
+02:25.350 --> 02:28.680
+And our main focus, we're a smaller group within Panasonic
+
+44
+02:28.680 --> 02:31.710
+and we're incubating new (indistinct) within Panasonic,
+
+45
+02:31.710 --> 02:34.740
+specifically in the mobility and the energy space
+
+46
+02:34.740 --> 02:39.270
+and bringing those to the market where we can help achieve
+
+47
+02:39.270 --> 02:40.650
+some of Panasonic's goals,
+
+48
+02:40.650 --> 02:44.280
+especially around our green impact initiative
+
+49
+02:44.280 --> 02:47.640
+where we're trying to reduce emissions globally
+
+50
+02:47.640 --> 02:49.170
+by 300 million tons.
+
+51
+02:49.170 --> 02:51.330
+I don't know if you guys heard Kusumi-san talk
+
+52
+02:51.330 --> 02:53.040
+about that in the keynote,
+
+53
+02:53.040 --> 02:55.740
+but it's a really, really big objective for us
+
+54
+02:55.740 --> 02:56.930
+and we're playing a big role in that
+
+55
+02:56.930 --> 02:59.160
+in bringing some of the new technologies
+
+56
+02:59.160 --> 03:00.720
+and new solutions that Panasonic
+
+57
+03:00.720 --> 03:02.340
+is developing around the world,
+
+58
+03:02.340 --> 03:07.080
+bringing those to the US and other big markets here.
+
+59
+03:07.080 --> 03:10.080
+I came from the electric power industry.
+
+60
+03:10.080 --> 03:12.000
+I've worked with municipal utilities,
+
+61
+03:12.000 --> 03:13.590
+investor-owned utilities.
+
+62
+03:13.590 --> 03:16.860
+I've helped them design demand management programs,
+
+63
+03:16.860 --> 03:19.260
+specifically around electric vehicles,
+
+64
+03:19.260 --> 03:22.350
+integrating directly with vehicle OEMs,
+
+65
+03:22.350 --> 03:26.160
+working with chargers, finding ways to integrate
+
+66
+03:26.160 --> 03:28.740
+additional electric vehicles onto our grid
+
+67
+03:28.740 --> 03:32.130
+in a way that's not going to damage our grid.
+
+68
+03:32.130 --> 03:35.460
+We can incorporate more electric vehicles more quickly
+
+69
+03:35.460 --> 03:39.340
+without investing tremendously into the grid
+
+70
+03:40.470 --> 03:42.843
+and the additional assets to support that.
+
+71
+03:43.740 --> 03:47.370
+So that's why I came to Panasonic, though.
+
+72
+03:47.370 --> 03:50.760
+That really excites me and I found within Panasonic,
+
+73
+03:50.760 --> 03:53.610
+I can kind of unite that power background
+
+74
+03:53.610 --> 03:58.230
+and join a team that has these massive global resources
+
+75
+03:58.230 --> 04:01.380
+to tackle this big problem that we're facing.
+
+76
+04:01.380 --> 04:03.840
+So what I wanted to share about today was two areas
+
+77
+04:03.840 --> 04:07.380
+where our team is specifically working on,
+
+78
+04:07.380 --> 04:10.950
+smart city objectives in smart communities.
+
+79
+04:10.950 --> 04:15.270
+So one is around smart grids, specifically around fleets
+
+80
+04:15.270 --> 04:18.300
+and how we can help fleets decarbonize
+
+81
+04:18.300 --> 04:22.800
+more quickly and more cost effectively in a way that, again,
+
+82
+04:22.800 --> 04:26.490
+can actually help support the grid in a lot of good ways.
+
+83
+04:26.490 --> 04:28.920
+And the other is around connected vehicles
+
+84
+04:28.920 --> 04:33.240
+and how we can help communities operate their vehicles
+
+85
+04:33.240 --> 04:35.400
+in a smarter way with assets
+
+86
+04:35.400 --> 04:37.320
+they actually already have in the vehicle,
+
+87
+04:37.320 --> 04:40.560
+so they don't have to go and make massive investments
+
+88
+04:40.560 --> 04:42.120
+to get more value out of the vehicles
+
+89
+04:42.120 --> 04:43.983
+they are already operating.
+
+90
+04:44.940 --> 04:47.580
+So the first example I want to talk about
+
+91
+04:47.580 --> 04:49.440
+is with the city of Fort Collins.
+
+92
+04:49.440 --> 04:50.670
+If you're not familiar with it,
+
+93
+04:50.670 --> 04:52.560
+it's the fourth largest city in Colorado,
+
+94
+04:52.560 --> 04:55.740
+in Northern Colorado, about 60 miles north of Denver.
+
+95
+04:55.740 --> 04:59.130
+And this is a city well-known for their innovation.
+
+96
+04:59.130 --> 05:01.740
+They are recognized in the Smithsonian Museum
+
+97
+05:01.740 --> 05:03.120
+for their innovation.
+
+98
+05:03.120 --> 05:04.260
+So they're very cutting edge
+
+99
+05:04.260 --> 05:08.160
+and they have sustainability plans to reduce their emissions
+
+100
+05:08.160 --> 05:12.210
+from 2005 by 80% by 2030.
+
+101
+05:12.210 --> 05:15.000
+So they are really working very hard to this,
+
+102
+05:15.000 --> 05:17.640
+they're making huge gains and electrifying their fleet
+
+103
+05:17.640 --> 05:21.330
+is a very big component of achieving that goal.
+
+104
+05:21.330 --> 05:23.160
+And so we've been working with them
+
+105
+05:23.160 --> 05:24.420
+on how they're going to do that.
+
+106
+05:24.420 --> 05:25.695
+How are they going to electrify?
+
+107
+05:25.695 --> 05:29.010
+They have 1,200 vehicles in their fleet,
+
+108
+05:29.010 --> 05:30.570
+how are they going to make that plan
+
+109
+05:30.570 --> 05:32.650
+to switch to electric vehicles
+
+110
+05:33.750 --> 05:38.020
+while not damaging their grid, supporting their grid
+
+111
+05:39.000 --> 05:41.190
+and also keeping their costs low?
+
+112
+05:41.190 --> 05:43.440
+We've all heard examples of where fleets electrified
+
+113
+05:43.440 --> 05:44.340
+and their costs went up,
+
+114
+05:44.340 --> 05:46.510
+because they charged incorrectly
+
+115
+05:47.550 --> 05:50.190
+or did other operations the wrong way.
+
+116
+05:50.190 --> 05:52.860
+So we've been working with them on that
+
+117
+05:52.860 --> 05:54.810
+to implement some solutions
+
+118
+05:54.810 --> 05:57.480
+where they can advance their electrification plans,
+
+119
+05:57.480 --> 06:00.750
+their decarbonization efforts
+
+120
+06:00.750 --> 06:03.330
+in a way that achieves those outcomes.
+
+121
+06:03.330 --> 06:04.980
+And the way we did that is we implemented
+
+122
+06:04.980 --> 06:08.460
+our charging management solution with the city
+
+123
+06:08.460 --> 06:11.730
+and we demonstrated that we can integrate with chargers
+
+124
+06:11.730 --> 06:14.340
+throughout the city from various manufacturers,
+
+125
+06:14.340 --> 06:16.170
+not just Panasonic chargers.
+
+126
+06:16.170 --> 06:18.900
+Actually can't buy a Panasonic charger in the US anyway,
+
+127
+06:18.900 --> 06:23.610
+so we're working with any vendor they wanted to adopt
+
+128
+06:23.610 --> 06:27.570
+within the city there that could work with our software.
+
+129
+06:27.570 --> 06:29.880
+So we're working with those across multiple sites.
+
+130
+06:29.880 --> 06:31.920
+And we also integrated with their DERMS system.
+
+131
+06:31.920 --> 06:33.300
+If you're not familiar with the DERMS
+
+132
+06:33.300 --> 06:36.720
+that's Distributed Energy Resource Management System.
+
+133
+06:36.720 --> 06:39.120
+It's a utilities tool that they use
+
+134
+06:39.120 --> 06:43.620
+to manage assets on the grid, typically behind the meter,
+
+135
+06:43.620 --> 06:46.440
+such as electric vehicle chargers.
+
+136
+06:46.440 --> 06:49.380
+So we're getting signals from their DERM system.
+
+137
+06:49.380 --> 06:52.080
+And then with the chargers that we're integrated with,
+
+138
+06:52.080 --> 06:55.020
+we can actually manage the charging, we can shift it
+
+139
+06:55.020 --> 06:56.370
+or we can delay charging
+
+140
+06:56.370 --> 06:59.700
+or we can slow charging down a little bit,
+
+141
+06:59.700 --> 07:04.530
+which will help the city to maintain a safe, reliable, clean
+
+142
+07:04.530 --> 07:07.680
+and affordable grid for their entire community.
+
+143
+07:07.680 --> 07:11.613
+And we're seeing some very good outcomes from that.
+
+144
+07:12.510 --> 07:15.270
+For example, we did a forecast for them.
+
+145
+07:15.270 --> 07:17.340
+They showed us the electric vehicles
+
+146
+07:17.340 --> 07:19.563
+they're planning to adopt by 2030.
+
+147
+07:20.430 --> 07:22.260
+And with our solution, they're actually able
+
+148
+07:22.260 --> 07:24.003
+to reduce their costs,
+
+149
+07:25.920 --> 07:30.920
+their exposure to these costs of $800,000 a year,
+
+150
+07:31.740 --> 07:33.660
+which is quite a bit for a community that size.
+
+151
+07:33.660 --> 07:35.673
+It's 150,000 people there.
+
+152
+07:36.720 --> 07:38.640
+And that means a lot to me.
+
+153
+07:38.640 --> 07:42.510
+That's $800,000 that can go to other community programs
+
+154
+07:42.510 --> 07:44.640
+and services that really can produce
+
+155
+07:44.640 --> 07:46.350
+a lot of benefit for the community.
+
+156
+07:46.350 --> 07:48.540
+And it's not going towards more fuel,
+
+157
+07:48.540 --> 07:50.580
+it's not going towards wires that go in the ground.
+
+158
+07:50.580 --> 07:53.100
+It's going towards things that the community needs
+
+159
+07:53.100 --> 07:56.130
+and can create a better city there.
+
+160
+07:56.130 --> 07:57.840
+So that's pretty exciting.
+
+161
+07:57.840 --> 08:02.130
+Other benefits include the emissions reductions.
+
+162
+08:02.130 --> 08:04.710
+So we're helping them to decarbonize their fleet
+
+163
+08:04.710 --> 08:07.080
+and with the forecast, they're looking at reducing
+
+164
+08:07.080 --> 08:11.700
+their emissions by 1,000 metric tons of CO2 as well.
+
+165
+08:11.700 --> 08:13.950
+So some great output from there.
+
+166
+08:13.950 --> 08:15.750
+Other great things,
+
+167
+08:15.750 --> 08:18.420
+outcomes from this project with them has been,
+
+168
+08:18.420 --> 08:20.670
+we were able to integrate our CMS
+
+169
+08:20.670 --> 08:21.810
+with their accounting system.
+
+170
+08:21.810 --> 08:23.760
+So now they're actually able to track
+
+171
+08:23.760 --> 08:25.980
+which department charged with and they can charge
+
+172
+08:25.980 --> 08:28.800
+the right department for the fuel they were using.
+
+173
+08:28.800 --> 08:32.400
+So the much more management that is required
+
+174
+08:32.400 --> 08:35.787
+for adopting all of these vehicles.
+
+175
+08:35.787 --> 08:36.960
+It also gives them a central place
+
+176
+08:36.960 --> 08:38.430
+where they can see the charges
+
+177
+08:38.430 --> 08:41.250
+if they're working, if they're not working.
+
+178
+08:41.250 --> 08:42.480
+If you have an electric vehicle,
+
+179
+08:42.480 --> 08:45.300
+you've probably pulled up to a charger that's not working,
+
+180
+08:45.300 --> 08:47.190
+which is really, really frustrating.
+
+181
+08:47.190 --> 08:49.530
+And that's kind of slowing things down.
+
+182
+08:49.530 --> 08:51.720
+We're creating an alert system for them,
+
+183
+08:51.720 --> 08:54.300
+so that if one's not working, they get a text,
+
+184
+08:54.300 --> 08:56.280
+they know, roll a truck, go fix it.
+
+185
+08:56.280 --> 08:59.520
+So we can keep the city running here.
+
+186
+08:59.520 --> 09:02.700
+Also, we helped them apply to a grant to get more chargers
+
+187
+09:02.700 --> 09:05.220
+and all the infrastructure they're going to need
+
+188
+09:05.220 --> 09:06.633
+well into the future.
+
+189
+09:07.470 --> 09:09.330
+And so we helped them apply to a grant.
+
+190
+09:09.330 --> 09:11.850
+They won $11 million to advance this initiative
+
+191
+09:11.850 --> 09:13.450
+within the city of Fort Collins.
+
+192
+09:15.120 --> 09:17.643
+I think this is a really great project to show.
+
+193
+09:18.630 --> 09:23.130
+When you plan out the charging for your operations well,
+
+194
+09:23.130 --> 09:24.570
+you integrate with the utility,
+
+195
+09:24.570 --> 09:27.920
+you create a smart grid using these assets,
+
+196
+09:27.920 --> 09:30.603
+it can create a lot of benefit for the community.
+
+197
+09:32.010 --> 09:34.200
+So that's that component.
+
+198
+09:34.200 --> 09:36.600
+The other smart component I wanted to talk about
+
+199
+09:36.600 --> 09:38.640
+was connected vehicles.
+
+200
+09:38.640 --> 09:40.890
+So that's another group within the Smart Mobility Office.
+
+201
+09:40.890 --> 09:42.870
+We have some focusing on charging management,
+
+202
+09:42.870 --> 09:45.243
+others focused on connected vehicles.
+
+203
+09:47.340 --> 09:50.130
+We have this group that's working with different fleets
+
+204
+09:50.130 --> 09:55.130
+and intersection owner operators.
+
+205
+09:58.110 --> 10:02.370
+They've been working with them to help traffic flow better,
+
+206
+10:02.370 --> 10:04.638
+to create smarter cities for traffic
+
+207
+10:04.638 --> 10:06.990
+to flow a little bit better.
+
+208
+10:06.990 --> 10:09.854
+You can tell that's not my space, I'm the energy guy.
+
+209
+10:09.854 --> 10:11.460
+(chuckles)
+
+210
+10:11.460 --> 10:15.783
+But it's pretty exciting stuff when you get into it,
+
+211
+10:16.740 --> 10:19.170
+because having these vehicles connected,
+
+212
+10:19.170 --> 10:22.080
+communicating to the infrastructure within the city,
+
+213
+10:22.080 --> 10:24.630
+it really can help reduce emissions,
+
+214
+10:24.630 --> 10:28.380
+getting traffic to flow better, faster.
+
+215
+10:28.380 --> 10:30.810
+We're going to reduce emissions from vehicles
+
+216
+10:30.810 --> 10:31.980
+just sitting there.
+
+217
+10:31.980 --> 10:33.630
+The one that gets me really excited
+
+218
+10:33.630 --> 10:36.990
+is with emergency vehicle responses.
+
+219
+10:36.990 --> 10:41.110
+So I have a a stat here that every minute
+
+220
+10:42.120 --> 10:46.500
+that is increased by an emergency response vehicle
+
+221
+10:46.500 --> 10:48.540
+to somebody who's having a heart attack increases
+
+222
+10:48.540 --> 10:51.210
+the likelihood of fatality by 10%.
+
+223
+10:51.210 --> 10:53.850
+So getting an emergency vehicle where it needs to go
+
+224
+10:53.850 --> 10:57.360
+as fast as possible is absolutely critical
+
+225
+10:57.360 --> 11:00.990
+for our smart cities moving forward.
+
+226
+11:00.990 --> 11:03.510
+And one thing that we've been able to successfully do
+
+227
+11:03.510 --> 11:07.860
+within our group's work with this team, the TOUGHBOOK team.
+
+228
+11:07.860 --> 11:09.900
+Most emergency vehicles around the country
+
+229
+11:09.900 --> 11:11.820
+have this already in the vehicle.
+
+230
+11:11.820 --> 11:13.800
+And so by working with this team,
+
+231
+11:13.800 --> 11:16.530
+we're able to develop new systems
+
+232
+11:16.530 --> 11:20.040
+where we can understand where do these vehicles need to go,
+
+233
+11:20.040 --> 11:22.200
+when they need to get there,
+
+234
+11:22.200 --> 11:24.060
+what intersections they need to get to.
+
+235
+11:24.060 --> 11:25.470
+We can communicate with those
+
+236
+11:25.470 --> 11:27.030
+and we can clear the traffic out,
+
+237
+11:27.030 --> 11:30.270
+so those vehicles can get there as fast as possible.
+
+238
+11:30.270 --> 11:31.650
+And it's all through something
+
+239
+11:31.650 --> 11:32.940
+that's already in the vehicle.
+
+240
+11:32.940 --> 11:36.210
+You don't have to go buy some new widget and gadget.
+
+241
+11:36.210 --> 11:38.940
+Use this, use what you've already got in the vehicle
+
+242
+11:38.940 --> 11:42.400
+and we can help create a better community
+
+243
+11:43.290 --> 11:44.130
+where you live there.
+
+244
+11:44.130 --> 11:47.550
+So those are the two examples I wanted to share.
+
+245
+11:47.550 --> 11:51.090
+<v ->I know, Kristin, you and I talked about how energy</v>
+
+246
+11:51.090 --> 11:54.570
+and energy efficiency really underpins the smart city.
+
+247
+11:54.570 --> 11:56.858
+You want to share your perspective on that and-
+
+248
+11:56.858 --> 11:57.720
+<v ->Sure.</v>
+<v ->What you all are doing</v>
+
+249
+11:57.720 --> 11:58.710
+at Siemens?
+<v ->Sure, thanks</v>
+
+250
+11:58.710 --> 12:00.260
+for having me on the panel.
+
+251
+12:00.260 --> 12:05.040
+I am from Siemens and I joined Siemens about a year ago,
+
+252
+12:05.040 --> 12:08.850
+where I'd previously been at Salesforce for almost a decade.
+
+253
+12:08.850 --> 12:11.100
+Was inspired to come to Siemens
+
+254
+12:11.100 --> 12:13.470
+because of the role that they're playing,
+
+255
+12:13.470 --> 12:16.230
+not only as being really the cornerstone
+
+256
+12:16.230 --> 12:17.640
+of our hardware infrastructure,
+
+257
+12:17.640 --> 12:22.640
+things like our train systems, our hospitals, our factories.
+
+258
+12:22.680 --> 12:25.020
+They also built out the grid in many cases
+
+259
+12:25.020 --> 12:26.250
+around the world globally,
+
+260
+12:26.250 --> 12:30.390
+the infrastructure of this grid and this grid is aging
+
+261
+12:30.390 --> 12:35.373
+and the grid is not at capable of servicing
+
+262
+12:36.300 --> 12:39.690
+the growth of the population you talked about,
+
+263
+12:39.690 --> 12:41.880
+but there are also a lot of challenges
+
+264
+12:41.880 --> 12:46.650
+in addition to population growth that I'm really inspired by
+
+265
+12:46.650 --> 12:51.360
+as we look towards a blueprint for the future at Siemens.
+
+266
+12:51.360 --> 12:53.610
+So one of the things, I think,
+
+267
+12:53.610 --> 12:55.260
+that I've really learned in the last year,
+
+268
+12:55.260 --> 12:58.020
+I've done some research and really tried to become familiar
+
+269
+12:58.020 --> 13:00.180
+with what's happening with our utilities,
+
+270
+13:00.180 --> 13:02.760
+what is happening with the grid?
+
+271
+13:02.760 --> 13:05.670
+And there's a number of things.
+
+272
+13:05.670 --> 13:09.210
+There's the energy that we need to clean
+
+273
+13:09.210 --> 13:12.690
+and there's a commitment towards that through regulations.
+
+274
+13:12.690 --> 13:15.270
+There's the population that's growing,
+
+275
+13:15.270 --> 13:17.610
+but there's also this complexity
+
+276
+13:17.610 --> 13:20.490
+of the changing weather patterns.
+
+277
+13:20.490 --> 13:23.460
+And we all know and we've heard about blackouts.
+
+278
+13:23.460 --> 13:27.600
+But compounding that is actually our veracious appetite
+
+279
+13:27.600 --> 13:31.053
+for energy through computation.
+
+280
+13:32.070 --> 13:34.080
+So for any of you that heard these keynotes
+
+281
+13:34.080 --> 13:37.260
+or heard in, certainly, the Nvidia keynote,
+
+282
+13:37.260 --> 13:39.600
+we heard a lot about AI,
+
+283
+13:39.600 --> 13:44.600
+but those data centers that support AI, the cloud,
+
+284
+13:44.880 --> 13:48.360
+crypto, that is an always-on situation.
+
+285
+13:48.360 --> 13:49.500
+So when it comes to energy,
+
+286
+13:49.500 --> 13:51.900
+it's not just turning on our heat and keeping us warm
+
+287
+13:51.900 --> 13:53.580
+and it's not just plugging in our light
+
+288
+13:53.580 --> 13:55.530
+and hoping we can see.
+
+289
+13:55.530 --> 13:57.570
+There's a lot more demand that we have.
+
+290
+13:57.570 --> 14:00.060
+And so with the goals that have been set,
+
+291
+14:00.060 --> 14:04.380
+there's tremendous pressure on the operators of the grid.
+
+292
+14:04.380 --> 14:07.710
+And so I am so proud to work at Grid Software,
+
+293
+14:07.710 --> 14:10.860
+which is this division of Siemens that is really committed
+
+294
+14:10.860 --> 14:15.860
+to finding solutions for these utilities.
+
+295
+14:16.050 --> 14:18.840
+Those solutions come in a number of areas.
+
+296
+14:18.840 --> 14:22.380
+They come in understanding energy consumption,
+
+297
+14:22.380 --> 14:24.150
+but also really knowing
+
+298
+14:24.150 --> 14:27.210
+about where those distributed energy resources are.
+
+299
+14:27.210 --> 14:30.810
+So as we get excited about electric vehicles,
+
+300
+14:30.810 --> 14:35.130
+it's also daunting to think that five years ago,
+
+301
+14:35.130 --> 14:37.260
+we would've probably not been here
+
+302
+14:37.260 --> 14:41.040
+or if we were here, we'd be wearing masks because of COVID.
+
+303
+14:41.040 --> 14:45.660
+Five years from now, there will be 18 times
+
+304
+14:46.500 --> 14:49.830
+the number of electric vehicles there are today.
+
+305
+14:49.830 --> 14:54.830
+Those vehicles need to plug in and they need to charge
+
+306
+14:54.840 --> 14:59.477
+and our utilities are blind or not visible
+
+307
+15:00.360 --> 15:03.243
+to all the charging that's coming their way.
+
+308
+15:04.200 --> 15:05.910
+And this is truly a crisis.
+
+309
+15:05.910 --> 15:07.740
+So we've got an aging grid
+
+310
+15:07.740 --> 15:09.990
+and then we've got this increasing demand
+
+311
+15:09.990 --> 15:11.670
+and the demand is exciting.
+
+312
+15:11.670 --> 15:13.650
+We've got solar, we've got wind.
+
+313
+15:13.650 --> 15:16.740
+How do we help these energies harness
+
+314
+15:16.740 --> 15:19.050
+their centralized approach
+
+315
+15:19.050 --> 15:23.190
+into having flexible autonomous grid management
+
+316
+15:23.190 --> 15:27.510
+that accounts for the direction we need to go in?
+
+317
+15:27.510 --> 15:31.830
+So we have a number of products in our portfolio
+
+318
+15:31.830 --> 15:35.580
+that, in the end, are really committed to just that,
+
+319
+15:35.580 --> 15:38.010
+getting more out of the grid
+
+320
+15:38.010 --> 15:41.880
+by allowing software and technology to give visibility
+
+321
+15:41.880 --> 15:45.660
+to where is the high and the low voltage,
+
+322
+15:45.660 --> 15:48.960
+where are the distributed energy resources coming from
+
+323
+15:48.960 --> 15:53.960
+and how can our grid operators come up with new strategies?
+
+324
+15:54.420 --> 15:57.510
+We're also helping with grid simulation and the digital twin
+
+325
+15:57.510 --> 15:59.820
+and really helping to be able to forecast
+
+326
+15:59.820 --> 16:01.830
+and plan towards those changes.
+
+327
+16:01.830 --> 16:05.703
+So we have some real success stories around,
+
+328
+16:06.570 --> 16:09.630
+just a couple examples would be in Norway,
+
+329
+16:09.630 --> 16:12.660
+we have a partnership with Elvia,
+
+330
+16:12.660 --> 16:15.120
+which services over 2 million customers
+
+331
+16:15.120 --> 16:17.220
+in Europe, in Norway.
+
+332
+16:17.220 --> 16:19.590
+And they have extreme weather patterns,
+
+333
+16:19.590 --> 16:24.090
+but they also have really aggressive sustainability goals.
+
+334
+16:24.090 --> 16:26.940
+And we have developed software
+
+335
+16:26.940 --> 16:29.310
+that they're co-innovating with us on
+
+336
+16:29.310 --> 16:30.930
+to really have visibility
+
+337
+16:30.930 --> 16:32.490
+to where the low voltage needs are,
+
+338
+16:32.490 --> 16:33.870
+where the high voltage needs are
+
+339
+16:33.870 --> 16:37.050
+and we're helping to get 20% more capacity
+
+340
+16:37.050 --> 16:39.120
+out of the grid for them.
+
+341
+16:39.120 --> 16:41.700
+Harnessing data is a really big challenge.
+
+342
+16:41.700 --> 16:43.170
+Simulation of the grid.
+
+343
+16:43.170 --> 16:48.030
+So in Vermont, we're partnered with the Vermont Electric,
+
+344
+16:48.030 --> 16:51.210
+VELCO, that is doing just that, simulating the grid,
+
+345
+16:51.210 --> 16:54.660
+so that we can really help them not just plan,
+
+346
+16:54.660 --> 16:56.310
+but plan through those simulations
+
+347
+16:56.310 --> 16:58.500
+so that they know how to prevent blackouts
+
+348
+16:58.500 --> 17:01.530
+and they can take advantage of real time data.
+
+349
+17:01.530 --> 17:02.700
+So there's a lot that we're doing,
+
+350
+17:02.700 --> 17:05.460
+there's a lot that's impacting these communities,
+
+351
+17:05.460 --> 17:06.570
+but I'm really excited.
+
+352
+17:06.570 --> 17:10.260
+I'm excited to be here with both of you.
+
+353
+17:10.260 --> 17:14.370
+<v ->I think what I heard from you was we've got</v>
+
+354
+17:14.370 --> 17:16.323
+a lot going on in terms of managing.
+
+355
+17:17.280 --> 17:21.390
+There's supply of these devices, there's the infrastructure,
+
+356
+17:21.390 --> 17:23.820
+there's the things on the infrastructure
+
+357
+17:23.820 --> 17:25.620
+and all of these things have to be connected
+
+358
+17:25.620 --> 17:27.360
+and they have to speak to one another.
+
+359
+17:27.360 --> 17:30.090
+And I think we take that for granted sometimes.
+
+360
+17:30.090 --> 17:32.130
+We don't know that it's going on in the background.
+
+361
+17:32.130 --> 17:34.050
+And so I wanted to invite Marco
+
+362
+17:34.050 --> 17:35.760
+to share his perspectives on that,
+
+363
+17:35.760 --> 17:37.890
+because he works on the invisible things
+
+364
+17:37.890 --> 17:41.160
+that make it all happen and come together.
+
+365
+17:41.160 --> 17:42.480
+<v ->Thank you.</v>
+
+366
+17:42.480 --> 17:45.060
+I am honored to be part of this panel
+
+367
+17:45.060 --> 17:48.330
+with this line up of speakers.
+
+368
+17:48.330 --> 17:51.390
+So I'm Marco, I run product management
+
+369
+17:51.390 --> 17:54.600
+for cellular technology at Telit Cinterion.
+
+370
+17:54.600 --> 17:56.730
+I guess most of you have never heard
+
+371
+17:56.730 --> 17:58.620
+about Telit Cinterion before.
+
+372
+17:58.620 --> 18:01.350
+So we are a global company specialized
+
+373
+18:01.350 --> 18:04.410
+in Internet of Things solutions.
+
+374
+18:04.410 --> 18:08.880
+The reason why probably you have never seen our brand
+
+375
+18:08.880 --> 18:11.970
+is because our technology is deeply integrated
+
+376
+18:11.970 --> 18:15.270
+into devices from the top industry brands.
+
+377
+18:15.270 --> 18:18.960
+So to make it simple, hopefully, for everyone,
+
+378
+18:18.960 --> 18:21.963
+I'll tell you what we do through an example.
+
+379
+18:23.160 --> 18:25.440
+And since we are talking about smart cities,
+
+380
+18:25.440 --> 18:27.780
+I want to take the example of a smart bin.
+
+381
+18:27.780 --> 18:29.970
+So think of a smart bin
+
+382
+18:29.970 --> 18:33.060
+for a intelligent collection of waste.
+
+383
+18:33.060 --> 18:37.470
+So the only way for the bin to communicate
+
+384
+18:37.470 --> 18:41.520
+to the control center to the cloud, it's fill level.
+
+385
+18:41.520 --> 18:43.053
+So whether it's full or empty.
+
+386
+18:44.040 --> 18:49.040
+It's to have a radio transceiver that send the data
+
+387
+18:49.170 --> 18:51.150
+through the cellular network to the cloud
+
+388
+18:51.150 --> 18:52.470
+and the control center.
+
+389
+18:52.470 --> 18:55.800
+So we do that wireless communication module.
+
+390
+18:55.800 --> 18:58.770
+So we have a wide range of wireless communication modules
+
+391
+18:58.770 --> 19:00.660
+across different technologies.
+
+392
+19:00.660 --> 19:05.283
+Cellular 4G, 5G, but also Wi-Fi and GPS for location.
+
+393
+19:06.510 --> 19:10.020
+Then the module itself is not enough,
+
+394
+19:10.020 --> 19:13.680
+'cause just like your smartphone doesn't work without a sim
+
+395
+19:13.680 --> 19:16.530
+and a subscription from a mobile operator,
+
+396
+19:16.530 --> 19:18.615
+also the module needs a sim card.
+
+397
+19:18.615 --> 19:21.383
+So we are a provider also of sim cards
+
+398
+19:21.383 --> 19:24.660
+and data plan tailored for IoT applications.
+
+399
+19:24.660 --> 19:27.930
+So we are a mobile virtual network operator.
+
+400
+19:27.930 --> 19:32.190
+And the last piece is software solutions,
+
+401
+19:32.190 --> 19:35.370
+both for the cloud and at the edge
+
+402
+19:35.370 --> 19:39.690
+to make the communication as efficient as possible,
+
+403
+19:39.690 --> 19:41.640
+because we are talking about sustainability,
+
+404
+19:41.640 --> 19:43.710
+we are talking about energy consumption.
+
+405
+19:43.710 --> 19:48.710
+So it's important to optimize as much as possible
+
+406
+19:48.720 --> 19:52.350
+the exchange of data between the devices and the network,
+
+407
+19:52.350 --> 19:56.370
+because this can save, for example, the power consumption
+
+408
+19:56.370 --> 19:59.220
+because some of these devices are running on battery.
+
+409
+19:59.220 --> 20:03.360
+They are not attached to the main power supply.
+
+410
+20:03.360 --> 20:08.040
+So I could have made these examples, also,
+
+411
+20:08.040 --> 20:10.860
+for other smart city devices.
+
+412
+20:10.860 --> 20:15.690
+Think of utility smart meters for the automated reading
+
+413
+20:15.690 --> 20:20.370
+of electricity, water, gas or street lights
+
+414
+20:20.370 --> 20:25.370
+or precisely, Philip talked before about charging stations.
+
+415
+20:25.650 --> 20:27.690
+They also need to be connected.
+
+416
+20:27.690 --> 20:32.130
+So my point is there's no smart city without connectivity.
+
+417
+20:32.130 --> 20:35.460
+Connectivity forms the backbone of the smart city
+
+418
+20:35.460 --> 20:37.535
+and at Telit Cinterion,
+
+419
+20:37.535 --> 20:42.090
+our mission is really to ensure that this connectivity
+
+420
+20:42.090 --> 20:45.663
+is continuous, reliable and resilient.
+
+421
+20:47.010 --> 20:50.010
+Kristin, you touched upon what happens
+
+422
+20:50.010 --> 20:51.660
+in case of power outages.
+
+423
+20:51.660 --> 20:52.980
+So that's important.
+
+424
+20:52.980 --> 20:57.664
+The connectivity must be resilient also to power outages,
+
+425
+20:57.664 --> 21:01.650
+to some emergency situations.
+
+426
+21:01.650 --> 21:05.850
+And there are few ways to ensure this is happening.
+
+427
+21:05.850 --> 21:09.300
+For example, a critical device
+
+428
+21:09.300 --> 21:12.690
+should have multiple connectivity options.
+
+429
+21:12.690 --> 21:15.005
+For example, think of a,
+
+430
+21:15.005 --> 21:17.069
+I don't know, a surveillance camera
+
+431
+21:17.069 --> 21:19.380
+for security in the city.
+
+432
+21:19.380 --> 21:21.690
+It can work most of the time on Wi-Fi,
+
+433
+21:21.690 --> 21:23.220
+but in case of power outage,
+
+434
+21:23.220 --> 21:25.560
+the Wi-Fi network is not going to be available.
+
+435
+21:25.560 --> 21:28.710
+So it should have a failover connectivity to cellular,
+
+436
+21:28.710 --> 21:30.870
+for example and connect to the cellular network
+
+437
+21:30.870 --> 21:33.420
+based on a backup battery.
+
+438
+21:33.420 --> 21:35.770
+Also, when we talk about cellular connectivity,
+
+439
+21:36.900 --> 21:41.700
+it's not enough to connect to just one operator network,
+
+440
+21:41.700 --> 21:45.210
+because that network may not be available for some reason
+
+441
+21:45.210 --> 21:48.780
+at some point in time or in some remote locations.
+
+442
+21:48.780 --> 21:53.470
+So we usually provide solutions to have multiple options,
+
+443
+21:54.720 --> 21:58.650
+so the device can select a primary operator,
+
+444
+21:58.650 --> 22:02.220
+but then also can fall back to a secondary operator
+
+445
+22:02.220 --> 22:04.080
+when the first one is not available.
+
+446
+22:04.080 --> 22:06.723
+So redundancy is important in the connectivity.
+
+447
+22:07.860 --> 22:10.500
+I think redundancy is fundamental also
+
+448
+22:10.500 --> 22:12.873
+in the power supply system.
+
+449
+22:13.832 --> 22:16.800
+So you need to have multiple power sources,
+
+450
+22:16.800 --> 22:21.243
+can be renewable sources or can be backup batteries.
+
+451
+22:22.710 --> 22:27.450
+And that's really the way to ensure all the devices,
+
+452
+22:27.450 --> 22:30.150
+whatever they are, they are constantly connected,
+
+453
+22:30.150 --> 22:32.280
+which means they can be remotely monitored,
+
+454
+22:32.280 --> 22:35.640
+because at the end of the day, that's what is important
+
+455
+22:35.640 --> 22:38.463
+to always be able to reach the device in the field,
+
+456
+22:39.587 --> 22:41.520
+take out data from the device
+
+457
+22:41.520 --> 22:44.493
+and analyze the data and take actions accordingly.
+
+458
+22:45.870 --> 22:47.160
+<v ->No, thank you for that example.</v>
+
+459
+22:47.160 --> 22:49.620
+I think simple examples like that,
+
+460
+22:49.620 --> 22:52.170
+just a bin that everybody has in their home,
+
+461
+22:52.170 --> 22:54.070
+it could really be something different
+
+462
+22:54.930 --> 22:58.350
+once you start layering on the connectivity and the data
+
+463
+22:58.350 --> 23:02.580
+and the ability to monitor and whatnot.
+
+464
+23:02.580 --> 23:05.253
+So smart cities are here to stay.
+
+465
+23:06.480 --> 23:08.830
+We're only hoping that they're getting smarter.
+
+466
+23:09.750 --> 23:12.300
+So I'm going to ask you the tough question now.
+
+467
+23:12.300 --> 23:13.740
+What excites you the most?
+
+468
+23:13.740 --> 23:16.170
+What do you see coming in the future?
+
+469
+23:16.170 --> 23:20.136
+If we were in 2050, what have we achieved?
+
+470
+23:20.136 --> 23:21.568
+<v ->Hmm, hmm.</v>
+
+471
+23:21.568 --> 23:23.250
+<v ->Hmm. (Philip chuckles)</v>
+
+472
+23:23.250 --> 23:24.930
+<v ->I can dream about anything. (moderator chuckles)</v>
+
+473
+23:24.930 --> 23:26.103
+The 2050.
+
+474
+23:28.800 --> 23:30.813
+The things that excite me the most is,
+
+475
+23:32.040 --> 23:35.100
+well, clearly electric vehicles. (chuckles)
+
+476
+23:35.100 --> 23:38.820
+I think the amount of benefit that's going to bring
+
+477
+23:38.820 --> 23:41.400
+to the entire world to decarbonize
+
+478
+23:41.400 --> 23:44.943
+our transportation systems is huge.
+
+479
+23:45.840 --> 23:48.300
+Transportation is one third of the emissions in the US.
+
+480
+23:48.300 --> 23:51.810
+If we can solve that, we've tackled a third of it.
+
+481
+23:51.810 --> 23:56.793
+That's a huge problem we can go after and solve.
+
+482
+23:57.930 --> 23:59.340
+It's going to take all of us.
+
+483
+23:59.340 --> 24:01.380
+I think what's exciting is getting to work
+
+484
+24:01.380 --> 24:03.540
+with folks like this up on the stage
+
+485
+24:03.540 --> 24:05.910
+and tackle these problems together.
+
+486
+24:05.910 --> 24:08.250
+It's going to take more than just Panasonic.
+
+487
+24:08.250 --> 24:10.620
+It's going to take Siemens, it's going to take everybody
+
+488
+24:10.620 --> 24:12.963
+to get involved in this,
+
+489
+24:14.614 --> 24:16.890
+to really solve this massive challenge
+
+490
+24:16.890 --> 24:18.690
+we have in front of us.
+
+491
+24:18.690 --> 24:23.160
+And I think there's a lot of great, exciting technology
+
+492
+24:23.160 --> 24:26.310
+that we're seeing out there, especially around AI
+
+493
+24:26.310 --> 24:30.120
+and all kinds of other amazing developments
+
+494
+24:30.120 --> 24:31.620
+that are coming up and all of those
+
+495
+24:31.620 --> 24:33.810
+are going to be necessary.
+
+496
+24:33.810 --> 24:37.200
+But I think the bigger thing for us also to be focusing on
+
+497
+24:37.200 --> 24:40.830
+is how do we get that from here where we're talking
+
+498
+24:40.830 --> 24:42.750
+and demonstrating and from the lab
+
+499
+24:42.750 --> 24:45.090
+and making this look really flashy and cool,
+
+500
+24:45.090 --> 24:46.680
+how do we get it out into the field?
+
+501
+24:46.680 --> 24:49.620
+We need to get this out into people's hands.
+
+502
+24:49.620 --> 24:53.340
+We need to get new technology implemented
+
+503
+24:53.340 --> 24:55.440
+and actually producing the benefits
+
+504
+24:55.440 --> 24:56.880
+that we're talking about here.
+
+505
+24:56.880 --> 24:58.290
+To me, that's the most important thing
+
+506
+24:58.290 --> 25:03.290
+that we can be working on is moving from ideas
+
+507
+25:03.390 --> 25:07.590
+and laboratories and getting it out into the cities
+
+508
+25:07.590 --> 25:09.870
+and into people's hands and producing the benefits
+
+509
+25:09.870 --> 25:12.723
+that we all really are here to try to achieve.
+
+510
+25:13.680 --> 25:15.993
+<v ->What about you, Kristin, excites you?</v>
+
+511
+25:16.830 --> 25:21.830
+<v ->2050, one, is a big year for goals around net zero</v>
+
+512
+25:22.650 --> 25:25.770
+and I think there's a lot to achieve in getting there.
+
+513
+25:25.770 --> 25:29.850
+So I love your comment about partnerships and collaboration,
+
+514
+25:29.850 --> 25:32.220
+because I think right now,
+
+515
+25:32.220 --> 25:36.150
+even though this is a global challenge, it's still tackled,
+
+516
+25:36.150 --> 25:38.190
+even within the US, at the municipal level
+
+517
+25:38.190 --> 25:39.930
+in terms of varying regulations,
+
+518
+25:39.930 --> 25:43.140
+which makes it complicated to solve these problems.
+
+519
+25:43.140 --> 25:47.733
+And so I think greater partnerships,
+
+520
+25:49.440 --> 25:51.780
+that's probably within and beyond the utilities.
+
+521
+25:51.780 --> 25:54.030
+Something I also think that's a little bit left field,
+
+522
+25:54.030 --> 25:56.160
+but certainly important, passionate for me
+
+523
+25:56.160 --> 26:00.210
+would be an ethical approach to AI,
+
+524
+26:00.210 --> 26:04.050
+which is moving at quite an astronomical speed.
+
+525
+26:04.050 --> 26:08.190
+And I think that so much of what we see through demos
+
+526
+26:08.190 --> 26:12.303
+and ideas is exciting but also potentially frightening.
+
+527
+26:13.738 --> 26:17.010
+And so I would hope that just as we're thinking
+
+528
+26:17.010 --> 26:20.850
+about the grid, we're thinking about always on
+
+529
+26:20.850 --> 26:25.410
+and being smart in our connectivity with community,
+
+530
+26:25.410 --> 26:28.150
+I would hope that we're also really mindful
+
+531
+26:30.625 --> 26:32.640
+of what we should be ethically thinking about
+
+532
+26:32.640 --> 26:36.603
+in terms of safety and in terms of the future for all of us.
+
+533
+26:38.100 --> 26:39.976
+<v ->Marco, what about you?</v>
+
+534
+26:39.976 --> 26:43.623
+<v ->So there is a technology that is already deployed,</v>
+
+535
+26:46.080 --> 26:49.290
+excite me a lot and it's digital twins,
+
+536
+26:49.290 --> 26:51.300
+because at the beginning, it looked to me
+
+537
+26:51.300 --> 26:55.170
+like a science fiction movie technology, but it's real.
+
+538
+26:55.170 --> 27:00.170
+So digital twins are virtual replicas of physical entities,
+
+539
+27:00.300 --> 27:02.490
+that can be buildings, infrastructure
+
+540
+27:02.490 --> 27:04.410
+or an entire smart city.
+
+541
+27:04.410 --> 27:05.670
+And I think this technology
+
+542
+27:05.670 --> 27:08.340
+is going to be more and more important going forward,
+
+543
+27:08.340 --> 27:11.970
+because it allows to simulate, analyze
+
+544
+27:11.970 --> 27:15.180
+and optimize possible scenarios
+
+545
+27:15.180 --> 27:18.753
+and understand where our criticalities in the smart city.
+
+546
+27:20.040 --> 27:24.300
+Optimize, can be the traffic flow, we talked before
+
+547
+27:24.300 --> 27:29.300
+or can be, also, you can detect heat highland
+
+548
+27:29.310 --> 27:32.130
+where the temperature is going to be very hot
+
+549
+27:32.130 --> 27:35.670
+and so you can plan where to plant trees.
+
+550
+27:35.670 --> 27:39.153
+So there's a lot of things you can do with digital twins.
+
+551
+27:39.990 --> 27:41.610
+Then there's something else that is more
+
+552
+27:41.610 --> 27:46.230
+of something solving one of my private issues.
+
+553
+27:46.230 --> 27:49.140
+I live in a city in Italy that it's not that big,
+
+554
+27:49.140 --> 27:53.280
+but it's very dense so there's not much land
+
+555
+27:53.280 --> 27:56.463
+for building houses and also parking slots.
+
+556
+27:57.840 --> 28:02.010
+So I dream in 2050 to have my car driving me
+
+557
+28:02.010 --> 28:05.370
+to the nearest available parking spot.
+
+558
+28:05.370 --> 28:09.750
+So with my car talking with the smart parking system,
+
+559
+28:09.750 --> 28:13.200
+finding for me the available parking spot
+
+560
+28:13.200 --> 28:15.090
+and maybe driving me there.
+
+561
+28:15.090 --> 28:18.879
+So that's something I think we are not that far
+
+562
+28:18.879 --> 28:20.280
+to make it happen,
+
+563
+28:20.280 --> 28:23.550
+but today, I'm losing hours of my day
+
+564
+28:23.550 --> 28:26.433
+just looking myself for a parking spot.
+
+565
+28:27.510 --> 28:29.280
+<v ->And as long as my car talks to your car</v>
+
+566
+28:29.280 --> 28:30.993
+when you're done with that spot.
+
+567
+28:30.993 --> 28:33.390
+(Philip chuckles)
+
+568
+28:33.390 --> 28:34.410
+<v Philip>Perfect.</v>
+
+569
+28:34.410 --> 28:38.070
+<v ->But no, thank you all for sharing your perspectives</v>
+
+570
+28:38.070 --> 28:43.050
+and, in your roles, seeing what's coming down the pipe,
+
+571
+28:43.050 --> 28:46.650
+what's next and being in that innovation role.
+
+572
+28:46.650 --> 28:47.790
+We have a few minutes left,
+
+573
+28:47.790 --> 28:51.213
+so we can take a couple questions if folks have questions.
+
+574
+28:52.140 --> 28:54.960
+There are microphones around the room
+
+575
+28:54.960 --> 28:57.750
+if anybody wants to step up to the questions
+
+576
+28:57.750 --> 29:01.950
+or belch them out.
+
+577
+29:01.950 --> 29:03.360
+<v Audience 1>I have a comment,</v>
+
+578
+29:03.360 --> 29:05.801
+maybe something broad to get some opinions on.
+
+579
+29:05.801 --> 29:08.010
+So you asked a really good question,
+
+580
+29:08.010 --> 29:10.650
+but you look so far ahead, 2050
+
+581
+29:10.650 --> 29:13.920
+and I think there's so much that can be done
+
+582
+29:13.920 --> 29:18.920
+as you mentioned, Philip, in terms of what happens in 2050,
+
+583
+29:19.077 --> 29:21.030
+but in your speaking, I'm also seeing
+
+584
+29:21.030 --> 29:23.730
+some of the restrictions that,
+
+585
+29:23.730 --> 29:25.773
+possibly, we ran into with IoT.
+
+586
+29:26.708 --> 29:29.910
+And I wrote it down, I didn't write down right there,
+
+587
+29:29.910 --> 29:32.220
+but there's these silos of ideas
+
+588
+29:32.220 --> 29:33.810
+and some things were thrown out.
+
+589
+29:33.810 --> 29:38.810
+So we need to collaborate more, vertical integrations.
+
+590
+29:39.660 --> 29:42.900
+How do we facilitate that as an industry
+
+591
+29:42.900 --> 29:45.840
+in terms of getting multiple,
+
+592
+29:45.840 --> 29:47.700
+and some of this is legislation as well,
+
+593
+29:47.700 --> 29:49.620
+multiple entities to work together,
+
+594
+29:49.620 --> 29:52.947
+so we get to 2050 in 10 years instead of (indistinct)?
+
+595
+29:55.680 --> 29:58.530
+<v ->I would say, certainly in the utilities industry,</v>
+
+596
+29:58.530 --> 30:01.050
+the nice thing is there already is a lot of collaboration.
+
+597
+30:01.050 --> 30:03.603
+Certainly even within the US, there's a lot of,
+
+598
+30:04.650 --> 30:07.170
+it's a small finite universe
+
+599
+30:07.170 --> 30:11.073
+and so learning and sharing best practices.
+
+600
+30:12.180 --> 30:14.940
+Grid simulation's a great example and that digital twin,
+
+601
+30:14.940 --> 30:16.510
+which is something that Siemens
+
+602
+30:17.460 --> 30:19.713
+has really developed and built.
+
+603
+30:20.940 --> 30:25.940
+Where those simulations are revealing critical information,
+
+604
+30:25.980 --> 30:28.290
+that information really just needs to be shared
+
+605
+30:28.290 --> 30:32.160
+that there's no winner in this game.
+
+606
+30:32.160 --> 30:36.720
+We all win when we discover and uncover opportunities.
+
+607
+30:36.720 --> 30:38.610
+And that's really what this presents for us.
+
+608
+30:38.610 --> 30:40.260
+There's a big challenge.
+
+609
+30:40.260 --> 30:43.170
+I talked about five years ago we were in masks,
+
+610
+30:43.170 --> 30:46.440
+five years from now, the energy consumption
+
+611
+30:46.440 --> 30:49.980
+will be three times what it is today.
+
+612
+30:49.980 --> 30:52.170
+And I live in Oregon and there was an article
+
+613
+30:52.170 --> 30:56.010
+in The Oregonian just three weeks ago warning us
+
+614
+30:56.010 --> 30:57.720
+that there are going to be blackouts,
+
+615
+30:57.720 --> 31:01.350
+because there are over a hundred data centers
+
+616
+31:01.350 --> 31:03.060
+in the state of Oregon.
+
+617
+31:03.060 --> 31:05.700
+And that consumption of those data centers,
+
+618
+31:05.700 --> 31:07.980
+as I was talking about, that computation demand,
+
+619
+31:07.980 --> 31:10.860
+how do we partner and collaborate,
+
+620
+31:10.860 --> 31:15.860
+I think that regulation is sometimes the limiting factor.
+
+621
+31:16.620 --> 31:21.620
+And so sometimes I think we can be a facilitator
+
+622
+31:22.020 --> 31:27.020
+to those partnerships of one utility to another
+
+623
+31:27.090 --> 31:30.390
+and I think eliminating this notion of competition,
+
+624
+31:30.390 --> 31:34.530
+which luckily with utilities, it's a finite universe.
+
+625
+31:34.530 --> 31:35.910
+They're not as competitive,
+
+626
+31:35.910 --> 31:38.560
+so the collaboration tends to exist
+
+627
+31:39.630 --> 31:43.260
+and just really sharing best practices is essential.
+
+628
+31:43.260 --> 31:45.120
+Does anyone else have something to share?
+
+629
+31:45.120 --> 31:47.760
+<v ->I think you touched on it earlier about partnerships.</v>
+
+630
+31:47.760 --> 31:51.660
+I think it's partnerships within the ecosystem
+
+631
+31:51.660 --> 31:55.170
+but also with the public sector as well, to your point.
+
+632
+31:55.170 --> 31:56.700
+There's a lot of regulation.
+
+633
+31:56.700 --> 32:00.600
+I think part of that partnership is shaping that regulation.
+
+634
+32:00.600 --> 32:02.190
+And that's through a lot of education.
+
+635
+32:02.190 --> 32:04.720
+And then to your point, how do we get things
+
+636
+32:05.640 --> 32:07.083
+into the communities.
+
+637
+32:08.610 --> 32:11.010
+Think of piloting things before we scale them
+
+638
+32:11.010 --> 32:14.673
+and using those pilots to shape some of those regulations.
+
+639
+32:17.430 --> 32:20.043
+<v ->Two thoughts, one along those lines.</v>
+
+640
+32:22.140 --> 32:25.170
+Doing the pilots, I think working with cities
+
+641
+32:25.170 --> 32:30.170
+and getting folks to think innovatively about their own task
+
+642
+32:30.270 --> 32:32.850
+that they're doing right now.
+
+643
+32:32.850 --> 32:35.160
+It doesn't always have to be, "Hey,
+
+644
+32:35.160 --> 32:37.290
+revolutionize this brand new technology,"
+
+645
+32:37.290 --> 32:40.560
+like switch completely from one technology to another.
+
+646
+32:40.560 --> 32:43.920
+It can just be incremental step by step by step.
+
+647
+32:43.920 --> 32:46.020
+Let's solve the next big challenge.
+
+648
+32:46.020 --> 32:47.043
+So in Fort Collins,
+
+649
+32:49.200 --> 32:50.970
+they have about 50 electric vehicles actually.
+
+650
+32:50.970 --> 32:54.720
+They've been pushing quite, quite rapidly,
+
+651
+32:54.720 --> 32:56.700
+but now they're ready to jump a little bit more
+
+652
+32:56.700 --> 32:58.650
+and then they'll go even further.
+
+653
+32:58.650 --> 33:01.803
+And so I think there's an incremental thing.
+
+654
+33:02.761 --> 33:04.320
+When we're looking at 2050,
+
+655
+33:04.320 --> 33:05.640
+it's not all going to happen at once.
+
+656
+33:05.640 --> 33:08.950
+It's going to go step by step by step by step to get there
+
+657
+33:10.193 --> 33:13.440
+and we'll build brick by brick by brick to get there.
+
+658
+33:13.440 --> 33:16.470
+I think the other thing, to answer your question
+
+659
+33:16.470 --> 33:18.897
+and maybe this goes along with the policies
+
+660
+33:18.897 --> 33:21.720
+and the partnerships, standards.
+
+661
+33:21.720 --> 33:24.840
+I think standardization is absolutely critical
+
+662
+33:24.840 --> 33:26.550
+in lots of different fields.
+
+663
+33:26.550 --> 33:28.713
+I mean I'm a mechanical engineer.
+
+664
+33:30.690 --> 33:32.430
+Try to think of building a car
+
+665
+33:32.430 --> 33:35.760
+without standards for screw sizes and thread sizes.
+
+666
+33:35.760 --> 33:36.750
+You couldn't.
+
+667
+33:36.750 --> 33:38.040
+We couldn't build something
+
+668
+33:38.040 --> 33:40.710
+without those standards in place.
+
+669
+33:40.710 --> 33:42.450
+And I think that's critical for us
+
+670
+33:42.450 --> 33:44.070
+in some of these other technologies,
+
+671
+33:44.070 --> 33:47.283
+especially around communications.
+
+672
+33:48.360 --> 33:50.580
+Lots of different communications protocols
+
+673
+33:50.580 --> 33:54.090
+between different systems, utility systems,
+
+674
+33:54.090 --> 33:58.110
+systems that manage IoT devices.
+
+675
+33:58.110 --> 34:01.680
+For us, a common protocol we use is OCPP,
+
+676
+34:01.680 --> 34:03.750
+Open Charge Point Protocol.
+
+677
+34:03.750 --> 34:07.140
+Having everything speak the same language allows us
+
+678
+34:07.140 --> 34:11.730
+to build more complex and more sophisticated machines.
+
+679
+34:11.730 --> 34:16.500
+And so I think that's going to be a very critical component
+
+680
+34:16.500 --> 34:19.410
+as we build out these new systems and new technologies
+
+681
+34:19.410 --> 34:21.150
+to make sure everything can communicate,
+
+682
+34:21.150 --> 34:23.820
+'cause that's going to be one of the biggest components
+
+683
+34:23.820 --> 34:25.623
+is things working together here.
+
+684
+34:26.700 --> 34:29.550
+<v ->Absolutely I wanted to bring up some standardization.</v>
+
+685
+34:29.550 --> 34:31.560
+So a hundred percent agree.
+
+686
+34:31.560 --> 34:36.560
+So the way to allow interoperability and allow devices
+
+687
+34:36.990 --> 34:41.130
+of different types from different vertical industry
+
+688
+34:41.130 --> 34:43.200
+to exchange data with each other
+
+689
+34:43.200 --> 34:46.590
+and leverage this data sharing
+
+690
+34:46.590 --> 34:50.943
+is to have more standard protocols as much as possible.
+
+691
+34:52.050 --> 34:54.030
+I want to add two more points,
+
+692
+34:54.030 --> 34:57.123
+especially when we talk about data exchange.
+
+693
+34:58.920 --> 35:00.003
+Cybersecurity.
+
+694
+35:02.199 --> 35:07.050
+We need to make the public trust smart cities
+
+695
+35:07.050 --> 35:10.890
+and not fear smart cities and the way to do that
+
+696
+35:10.890 --> 35:13.840
+is to pay a lot of attention to cybersecurity
+
+697
+35:14.700 --> 35:15.780
+in an holistic way.
+
+698
+35:15.780 --> 35:18.990
+So we know that a chain is just as stronger
+
+699
+35:18.990 --> 35:23.430
+as its weakest link, so the data must be secured,
+
+700
+35:23.430 --> 35:26.043
+must be encrypted, in transit, addressed.
+
+701
+35:26.970 --> 35:31.480
+We should leverage artificial intelligence algorithm
+
+702
+35:32.351 --> 35:36.990
+to analyze the data patterns, detect anomalies
+
+703
+35:36.990 --> 35:40.200
+that may be possible cyber threats
+
+704
+35:40.200 --> 35:43.620
+and also train the end users
+
+705
+35:43.620 --> 35:46.233
+to the best cybersecurity practices.
+
+706
+35:47.970 --> 35:49.170
+<v ->That's a good one.</v>
+<v ->And the other point</v>
+
+707
+35:49.170 --> 35:53.220
+is privacy also, so when we talk about taking data
+
+708
+35:53.220 --> 35:54.445
+out of devices is important
+
+709
+35:54.445 --> 35:58.650
+that there are the right privacy policies in place.
+
+710
+35:58.650 --> 36:02.640
+So the users, again, are not afraid
+
+711
+36:02.640 --> 36:05.520
+of sharing data coming from devices maybe
+
+712
+36:05.520 --> 36:09.150
+that are inside their homes or in their neighborhoods
+
+713
+36:09.150 --> 36:13.830
+and they don't feel like their personal data
+
+714
+36:13.830 --> 36:14.663
+is being shared.
+
+715
+36:14.663 --> 36:17.580
+So that's also another important point in my opinion.
+
+716
+36:17.580 --> 36:19.320
+<v ->That's a great one.</v>
+
+717
+36:19.320 --> 36:20.153
+Question?
+
+718
+36:22.993 --> 36:25.070
+<v Audience 2>- I think for the (indistinct) description,</v>
+
+719
+36:25.070 --> 36:28.781
+I'm working for United Nation Environmental Program,
+
+720
+36:28.781 --> 36:32.100
+so because of nature of our work,
+
+721
+36:32.100 --> 36:35.000
+I am wondering what international (indistinct),
+
+722
+36:40.371 --> 36:45.121
+because already, this year (indistinct),
+
+723
+36:49.049 --> 36:53.493
+but these kind of issues is directly linked
+
+724
+36:53.493 --> 36:56.598
+with the electronic car and the smart city.
+
+725
+36:56.598 --> 36:59.168
+So that's why I would like to know
+
+726
+36:59.168 --> 37:02.123
+how your companies is (indistinct)
+
+727
+37:02.123 --> 37:04.790
+in this international agreement?
+
+728
+37:05.670 --> 37:06.503
+<v ->It's a good question.</v>
+
+729
+37:06.503 --> 37:09.989
+I'm not sure I know exactly how to answer that question.
+
+730
+37:09.989 --> 37:10.920
+Do you have any?
+
+731
+37:10.920 --> 37:13.290
+<v ->I had a hard time hearing your question, I'm sorry.</v>
+
+732
+37:13.290 --> 37:14.297
+<v ->Could you come to the-</v>
+
+733
+37:14.297 --> 37:15.546
+mic there?
+<v ->There is a mic right there-</v>
+
+734
+37:15.546 --> 37:17.379
+if you want to.
+
+735
+37:22.230 --> 37:23.580
+Oh, maybe it's not working.
+
+736
+37:24.450 --> 37:25.380
+Can we get that? (microphone thumping)
+
+737
+37:25.380 --> 37:26.427
+There you go.
+<v Audience 2>Hello.</v>
+
+738
+37:26.427 --> 37:29.790
+I'm working for United Nation Environmental Program
+
+739
+37:29.790 --> 37:33.570
+and I was wondering what international agreement
+
+740
+37:33.570 --> 37:36.060
+the Panasonic and Siemens is considered,
+
+741
+37:36.060 --> 37:39.780
+because already, the Basel convention will revise this year,
+
+742
+37:39.780 --> 37:42.450
+at the same time Global Convention on Chemicals
+
+743
+37:42.450 --> 37:44.223
+will be established this year.
+
+744
+37:45.630 --> 37:48.840
+But this kind of conventions is directly linked
+
+745
+37:48.840 --> 37:52.260
+with the smart city and the electronic vehicles
+
+746
+37:52.260 --> 37:54.120
+and especially batteries.
+
+747
+37:54.120 --> 37:57.000
+So that's why I would like to know how your companies
+
+748
+37:57.000 --> 37:59.250
+is dealing with this international agreement.
+
+749
+38:02.520 --> 38:03.600
+<v ->You mentioned Siemens in there, too.</v>
+
+750
+38:03.600 --> 38:07.053
+I don't know of any agreements going on in place.
+
+751
+38:08.378 --> 38:11.640
+<v Andrea>If you don't mind, so if we can speak tomorrow.</v>
+
+752
+38:11.640 --> 38:15.030
+I know that there's a partnership between Panasonic
+
+753
+38:15.030 --> 38:19.048
+and Siemens working on that and we keep going (indistinct).
+
+754
+38:19.048 --> 38:19.982
+You can come back tomorrow.
+
+755
+38:19.982 --> 38:22.106
+I actually believe we're having (indistinct).
+
+756
+38:22.106 --> 38:23.943
+<v Audience 2>Oh good, thank you, awesome.</v>
+
+757
+38:23.943 --> 38:26.040
+<v ->It's a directive environmental.</v>
+
+758
+38:26.040 --> 38:26.903
+<v Audience 2>Thank you.</v>
+
+759
+38:32.130 --> 38:33.990
+<v ->I'm not familiar with what you were talking about.</v>
+
+760
+38:33.990 --> 38:35.190
+Sorry about that.
+
+761
+38:35.190 --> 38:37.020
+<v ->One exciting thing I'll talk about</v>
+
+762
+38:37.020 --> 38:39.720
+on that front though is,
+
+763
+38:39.720 --> 38:44.220
+and Kusumi-san talked about this at the keynote today
+
+764
+38:44.220 --> 38:47.220
+is we are really focused, as a company,
+
+765
+38:47.220 --> 38:50.580
+on the circular economy and ensuring that,
+
+766
+38:50.580 --> 38:52.500
+Panasonic is the largest producer
+
+767
+38:52.500 --> 38:54.090
+of batteries in North America.
+
+768
+38:54.090 --> 38:58.410
+And so that's a really important component to us
+
+769
+38:58.410 --> 38:59.760
+is what goes into those batteries.
+
+770
+38:59.760 --> 39:02.310
+How are we going to reuse those?
+
+771
+39:02.310 --> 39:04.360
+We need to do that in a really smart way.
+
+772
+39:05.790 --> 39:07.590
+We want to help protect the environment
+
+773
+39:07.590 --> 39:09.750
+by introducing more electric vehicles,
+
+774
+39:09.750 --> 39:12.300
+but we also want to protect the environment by making sure
+
+775
+39:12.300 --> 39:14.520
+we're not taking more out of it than we need to.
+
+776
+39:14.520 --> 39:17.880
+And so we have been working with redwood materials on that
+
+777
+39:17.880 --> 39:21.900
+to develop some very advanced ways to recycle the materials
+
+778
+39:21.900 --> 39:24.480
+from batteries, put that into new batteries
+
+779
+39:24.480 --> 39:26.130
+and get them back out on the road again.
+
+780
+39:26.130 --> 39:28.560
+So that's definitely a big component that we're working on,
+
+781
+39:28.560 --> 39:31.470
+but looking forward to hearing why Andrea has to share
+
+782
+39:31.470 --> 39:33.993
+in her sessions, too, sounds like some good stuff.
+
+783
+39:35.550 --> 39:37.890
+<v ->So I think we're down to the last few seconds,</v>
+
+784
+39:37.890 --> 39:39.393
+so we'll wrap it up.
+
+785
+39:40.290 --> 39:42.990
+I want to thank everybody, I want to thank the panelists
+
+786
+39:42.990 --> 39:44.433
+and the audience as well.
+
+787
+39:45.570 --> 39:48.483
+I hope this is a conversation that we continue to have.
+
+788
+39:51.660 --> 39:53.220
+Enjoy the rest of CES
+
+789
+39:53.220 --> 39:57.000
+and find us for more questions on smart cities.
+
+790
+39:57.000 --> 39:59.548
+Thank you. (audience applauding)
+
+791
+39:59.548 --> 40:02.131
+(upbeat music)
+

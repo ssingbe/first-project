@@ -1,0 +1,2742 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.148 --> 00:03.315
+(bright upbeat music)
+
+00:11.910 --> 00:13.680
+<v ->Good morning, and thank you so much</v>
+
+00:13.680 --> 00:15.600
+for joining us this morning.
+
+00:15.600 --> 00:17.220
+My name is Julie Kenar.
+
+00:17.220 --> 00:21.357
+I work with NIQ/GFK, and I'm the automotive lead.
+
+00:21.357 --> 00:25.110
+So, today we are going to talk about
+
+00:25.110 --> 00:28.443
+AI and AR in vehicle technology.
+
+00:29.340 --> 00:30.619
+We're gonna start very broad,
+
+00:30.619 --> 00:32.634
+and talk about the manufacturing
+
+00:32.634 --> 00:35.160
+and product development process,
+
+00:35.160 --> 00:37.620
+and then we're gonna narrow it down to consumers,
+
+00:37.620 --> 00:41.790
+and talk about how this technology is impacting consumers,
+
+00:41.790 --> 00:44.153
+how they're benefiting from it,
+
+00:44.153 --> 00:46.200
+and we're gonna discuss whether or not
+
+00:46.200 --> 00:49.890
+the technology is actually meeting consumer needs.
+
+00:49.890 --> 00:50.790
+And along the way,
+
+00:50.790 --> 00:54.360
+we'll talk about both opportunities and challenges
+
+00:54.360 --> 00:57.873
+with artificial intelligence and augmented reality.
+
+00:58.710 --> 01:03.710
+So with me today, I have four esteemed experts in the field.
+
+01:03.960 --> 01:08.190
+I have Wendy from 3M, Chris from Goodyear,
+
+01:08.190 --> 01:11.940
+Jeff from Xperi, and Fedra from Bosch.
+
+01:11.940 --> 01:13.860
+So I'd like to ask each of them
+
+01:13.860 --> 01:15.510
+to please take a moment,
+
+01:15.510 --> 01:17.250
+to introduce themselves,
+
+01:17.250 --> 01:19.200
+tell you more about their company,
+
+01:19.200 --> 01:21.660
+and give you a brief overview of
+
+01:21.660 --> 01:23.883
+the technology that they're using today.
+
+01:25.140 --> 01:26.880
+Fedra, would you like to start?
+
+01:26.880 --> 01:31.320
+<v ->Thank you. So my name is Fedra, Fedra Ribeiro,</v>
+
+01:31.320 --> 01:33.210
+and I work for Bosch.
+
+01:33.210 --> 01:35.160
+Thank you for the introduction.
+
+01:35.160 --> 01:39.480
+I work in the domain of compute and ADAS.
+
+01:39.480 --> 01:42.870
+Bosch is a lead technology player
+
+01:42.870 --> 01:45.120
+in the automotive industry,
+
+01:45.120 --> 01:48.000
+and I am in the board of our division
+
+01:48.000 --> 01:49.713
+of compute and ADAS.
+
+01:51.330 --> 01:53.310
+<v ->Hi everyone, I'm Jeff Jury,</v>
+
+01:53.310 --> 01:57.390
+I'm the general manager for the Connected Car for Xperi,
+
+01:57.390 --> 02:01.410
+and we develop immersive entertainment solutions
+
+02:01.410 --> 02:03.180
+for the automotive space,
+
+02:03.180 --> 02:04.110
+and work with all the different
+
+02:04.110 --> 02:06.960
+car companies on those implementations.
+
+02:06.960 --> 02:08.119
+We do have a booth here
+
+02:08.119 --> 02:11.400
+in the West Hall if you'd like to stop by.
+
+02:11.400 --> 02:15.240
+And really our focus is whether it's audio,
+
+02:15.240 --> 02:16.290
+video, gaming, whatever,
+
+02:16.290 --> 02:17.670
+is to bring that content
+
+02:17.670 --> 02:19.560
+into the home or into the vehicle.
+
+02:19.560 --> 02:22.110
+And in our case, my division,
+
+02:22.110 --> 02:23.700
+it's all about how to bring that
+
+02:23.700 --> 02:26.073
+all into the car on a global basis.
+
+02:27.930 --> 02:29.670
+<v ->Good morning, my name is Wendy Bauer.</v>
+
+02:29.670 --> 02:31.920
+I'm our group president for transportation
+
+02:31.920 --> 02:34.350
+and electronics at 3M.
+
+02:34.350 --> 02:36.120
+For those of you that may not be familiar,
+
+02:36.120 --> 02:37.890
+we're a material science company,
+
+02:37.890 --> 02:39.330
+and manufacturing company that
+
+02:39.330 --> 02:41.910
+really focuses on innovation for some
+
+02:41.910 --> 02:45.030
+of the biggest global problems in the world,
+
+02:45.030 --> 02:47.700
+spanning many industries from automotive,
+
+02:47.700 --> 02:51.570
+to aerospace, to consumers, to personal safety,
+
+02:51.570 --> 02:53.310
+climate technologies and beyond.
+
+02:53.310 --> 02:56.340
+So we like to think of ourselves as uncomplicated,
+
+02:56.340 --> 02:58.050
+if you've had an opportunity to see our booth,
+
+02:58.050 --> 03:00.270
+but really bringing material science
+
+03:00.270 --> 03:03.630
+and our ability to manufacture at scale to life,
+
+03:03.630 --> 03:05.970
+in innovative solutions that really solve
+
+03:05.970 --> 03:08.763
+a number of problems in those different industries.
+
+03:10.380 --> 03:12.180
+<v ->So good morning, Chris Helsel,</v>
+
+03:12.180 --> 03:14.550
+the Goodyear Tire and Rubber Company.
+
+03:14.550 --> 03:17.670
+We've been in business a little over 125 years.
+
+03:17.670 --> 03:19.619
+Some people say, "Why are you guys at CES?"
+
+03:19.619 --> 03:23.940
+And we're here because we're not only doing tires,
+
+03:23.940 --> 03:26.130
+but how do we do things like tire intelligence.
+
+03:26.130 --> 03:28.189
+And so, putting digital into tires,
+
+03:28.189 --> 03:30.930
+and then making those connections with that,
+
+03:30.930 --> 03:33.480
+to hopefully make driving safer, more efficient.
+
+03:33.480 --> 03:35.615
+So I'm our chief technology officer.
+
+03:35.615 --> 03:38.403
+I've been serving in that since 2017.
+
+03:40.140 --> 03:42.690
+<v ->Thank you for the great introductions.</v>
+
+03:42.690 --> 03:45.630
+So, we'll move along to our first question.
+
+03:45.630 --> 03:48.030
+So as we all know, the auto industry
+
+03:48.030 --> 03:52.350
+seems to always be in the stage of rapid transition.
+
+03:52.350 --> 03:55.860
+It's impacted by regulations, by competition,
+
+03:55.860 --> 03:59.430
+by consumers, and of course by technology.
+
+03:59.430 --> 04:02.190
+So, if each of you could please
+
+04:02.190 --> 04:03.570
+help the audience understand
+
+04:03.570 --> 04:06.180
+how is your company addressing
+
+04:06.180 --> 04:09.033
+one or more of these areas in the industry?
+
+04:10.200 --> 04:11.820
+<v ->So maybe I'll start,</v>
+
+04:11.820 --> 04:14.190
+if the rest if the colleagues agree.
+
+04:14.190 --> 04:19.050
+So at Bosch, we serve the industry end-to-end,
+
+04:19.050 --> 04:22.380
+and I will focus a little bit on the transition
+
+04:22.380 --> 04:24.270
+towards software defined vehicle,
+
+04:24.270 --> 04:26.334
+and software defined mobility.
+
+04:26.334 --> 04:28.002
+If we focus a little bit on
+
+04:28.002 --> 04:31.290
+the ADAS and the compute area
+
+04:31.290 --> 04:34.050
+with optimization of electrical,
+
+04:34.050 --> 04:36.810
+electronic architectures on one hand,
+
+04:36.810 --> 04:39.568
+an advancement of safety functions,
+
+04:39.568 --> 04:42.480
+artificial intelligence and softwarization
+
+04:42.480 --> 04:44.970
+of the industry are two core trends
+
+04:44.970 --> 04:46.890
+that we are addressing in our business.
+
+04:46.890 --> 04:49.861
+So we can explore afterwards a little bit how,
+
+04:49.861 --> 04:52.500
+but essentially increasing safety,
+
+04:52.500 --> 04:55.800
+personalization, and comfort to the
+
+04:55.800 --> 04:58.323
+OEM custom and customers.
+
+05:00.570 --> 05:03.398
+<v ->I'd say one of the biggest innovations</v>
+
+05:03.398 --> 05:05.730
+you'll see from a production perspective
+
+05:05.730 --> 05:07.230
+will be over the air updates,
+
+05:07.230 --> 05:10.250
+and the ability with software defined vehicles,
+
+05:10.250 --> 05:12.916
+and the ability to take that,
+
+05:12.916 --> 05:15.990
+and really innovate as fast in a car
+
+05:15.990 --> 05:17.664
+as maybe not as fast as a cell phone,
+
+05:17.664 --> 05:20.250
+but faster than a every five or six year cycle.
+
+05:20.250 --> 05:21.630
+I think that'll be a revolution
+
+05:21.630 --> 05:26.630
+in how cars will be updated and advanced in the future.
+
+05:29.820 --> 05:32.130
+<v ->Yeah, for us at 3M it's really, you know,</v>
+
+05:32.130 --> 05:34.230
+back to how do we think about bringing
+
+05:34.230 --> 05:36.510
+our material science capabilities to life,
+
+05:36.510 --> 05:38.619
+and however that manifests for our customers
+
+05:38.619 --> 05:40.592
+in the respective industries,
+
+05:40.592 --> 05:42.960
+particularly in the automotive industry.
+
+05:42.960 --> 05:45.360
+Some of the macro trends that we're really focused on
+
+05:45.360 --> 05:48.093
+is as we think about sustainable materials,
+
+05:48.093 --> 05:50.972
+as we think about the safety of the vehicles,
+
+05:50.972 --> 05:53.880
+as we think about repairability of the vehicles,
+
+05:53.880 --> 05:56.522
+materials, innovations and materials
+
+05:56.522 --> 05:59.460
+are constantly needed for each of those.
+
+05:59.460 --> 06:01.920
+And so for us, as we think about technology,
+
+06:01.920 --> 06:03.540
+part of it's understanding
+
+06:03.540 --> 06:05.550
+the chemistry and the formulations,
+
+06:05.550 --> 06:08.640
+and how to understand specific use cases,
+
+06:08.640 --> 06:11.340
+and to bring that speed faster for our customers
+
+06:11.340 --> 06:13.440
+as we think about how to make
+
+06:13.440 --> 06:15.210
+a vehicle more sustainable or how
+
+06:15.210 --> 06:18.840
+to (indistinct) vehicles so that I can repair them.
+
+06:18.840 --> 06:21.180
+Materials sit at the core of all that,
+
+06:21.180 --> 06:23.310
+but really understanding those formulations
+
+06:23.310 --> 06:26.430
+at the speed of innovation that the industry is moving
+
+06:26.430 --> 06:28.020
+is one of the best things that we can do
+
+06:28.020 --> 06:29.520
+as we work with our customers.
+
+06:31.380 --> 06:32.610
+<v ->I kind of mentioned in the start</v>
+
+06:32.610 --> 06:35.250
+is the really connectivity.
+
+06:35.250 --> 06:37.650
+And I'll use our specific example,
+
+06:37.650 --> 06:39.210
+which is you think about
+
+06:39.210 --> 06:41.430
+the only thing connecting a vehicle to the road,
+
+06:41.430 --> 06:43.907
+is four palm size patches of rubber,
+
+06:43.907 --> 06:45.392
+and they carry all the forces,
+
+06:45.392 --> 06:48.150
+and keep you connected to ground,
+
+06:48.150 --> 06:50.400
+which right now of course is earth.
+
+06:50.400 --> 06:51.660
+And that's a really important job.
+
+06:51.660 --> 06:52.890
+And we've done it for a long time
+
+06:52.890 --> 06:54.510
+with chemistry and materials,
+
+06:54.510 --> 06:57.540
+and make no mistake, that innovation continues,
+
+06:57.540 --> 07:00.510
+but what we found is with this connectivity is
+
+07:00.510 --> 07:02.250
+well why not also be able to monitor
+
+07:02.250 --> 07:03.930
+exactly what's happening there,
+
+07:03.930 --> 07:07.800
+the friction and those connecting forces objectively?
+
+07:07.800 --> 07:10.230
+And it's something that becomes all the more important
+
+07:10.230 --> 07:15.150
+when you get out of the loop of the activity of driving.
+
+07:15.150 --> 07:17.880
+And so you as a driver do an awful lot
+
+07:17.880 --> 07:20.530
+to inform that system you probably don't think about.
+
+07:21.450 --> 07:22.770
+And when you're not there,
+
+07:22.770 --> 07:24.300
+something has to provide that.
+
+07:24.300 --> 07:25.800
+And so connectivity is something
+
+07:25.800 --> 07:26.971
+that's allowing us to do that.
+
+07:26.971 --> 07:29.370
+And you know, as we all start working
+
+07:29.370 --> 07:30.210
+and keep working on this,
+
+07:30.210 --> 07:33.360
+partners like Bosch, and the these control systems,
+
+07:33.360 --> 07:34.848
+this is a really exciting trend that
+
+07:34.848 --> 07:37.323
+we look forward to keep participating in.
+
+07:39.300 --> 07:40.320
+<v ->Excellent, thank you.</v>
+
+07:40.320 --> 07:42.540
+So, delving more into the
+
+07:42.540 --> 07:45.870
+manufacturing and product development process,
+
+07:45.870 --> 07:48.890
+how do you think that artificial intelligence
+
+07:48.890 --> 07:52.443
+is influencing that process for each of your companies?
+
+07:55.470 --> 07:57.439
+<v ->I could start, if you want on that.</v>
+
+07:57.439 --> 07:58.590
+(Wendy laughs)
+
+07:58.590 --> 08:01.620
+So, actually when I started at Goodyear,
+
+08:01.620 --> 08:04.140
+it was all on commuter simulation.
+
+08:04.140 --> 08:05.940
+Shockingly, I know I look really young,
+
+08:05.940 --> 08:09.840
+but in 1985 I started doing computer aided engineering.
+
+08:09.840 --> 08:12.420
+And the bottom line is that is,
+
+08:12.420 --> 08:15.540
+you know, heavy, high compute, okay.
+
+08:15.540 --> 08:18.630
+And it's awesome to run those kind of analyses,
+
+08:18.630 --> 08:19.924
+but if you really wanna start doing
+
+08:19.924 --> 08:23.010
+many of these things and more discovery,
+
+08:23.010 --> 08:24.780
+you've made a heck of a lot of data,
+
+08:24.780 --> 08:27.210
+whether through your testing or that kind of stuff.
+
+08:27.210 --> 08:31.590
+And we've built a lot of artificial intelligence,
+
+08:31.590 --> 08:35.010
+algorithms and almost expert design systems that help
+
+08:35.010 --> 08:40.010
+especially new engineers who come into your teams,
+
+08:40.377 --> 08:43.050
+be almost, have access to what
+
+08:43.050 --> 08:45.000
+a very experienced engineer would have.
+
+08:45.000 --> 08:48.210
+So it's a, think of it as almost like human augmentation
+
+08:48.210 --> 08:51.240
+to make them much more sophisticated
+
+08:51.240 --> 08:53.550
+than they really would've been warranted back in the day.
+
+08:53.550 --> 08:55.890
+So, so we see a lot of coming,
+
+08:55.890 --> 08:58.473
+and helping people get up to speed quicker.
+
+08:59.760 --> 09:03.180
+<v ->So I'm gonna build up on what Chris shared here on data.</v>
+
+09:03.180 --> 09:07.141
+For us at 3M, decades of data on formulations
+
+09:07.141 --> 09:10.380
+and use cases for different,
+
+09:10.380 --> 09:13.110
+different environments and requirements
+
+09:13.110 --> 09:14.340
+that our customers have across
+
+09:14.340 --> 09:15.570
+all these different industries.
+
+09:15.570 --> 09:17.924
+So how do we think about taking that data,
+
+09:17.924 --> 09:21.090
+as our engineers continue to push the boundaries
+
+09:21.090 --> 09:23.220
+and solve new challenges for customers,
+
+09:23.220 --> 09:25.560
+but learning from what we've done in the past.
+
+09:25.560 --> 09:29.640
+So we see data used along with machine learning and AI
+
+09:29.640 --> 09:31.740
+in the design cycles to speed it up,
+
+09:31.740 --> 09:33.150
+to make it more efficient for them,
+
+09:33.150 --> 09:35.500
+but to really push the boundaries of innovation
+
+09:36.420 --> 09:37.440
+in the design side,
+
+09:37.440 --> 09:38.633
+but then extending that even
+
+09:38.633 --> 09:40.740
+into our manufacturing environment.
+
+09:40.740 --> 09:43.321
+So the ability to run all of those simulations,
+
+09:43.321 --> 09:46.680
+and really fine tune designs for customers
+
+09:46.680 --> 09:48.990
+before I then go to the phase of
+
+09:48.990 --> 09:50.910
+running samples in the manufacturing,
+
+09:50.910 --> 09:54.450
+and spending spending not only the time and the resources,
+
+09:54.450 --> 09:57.510
+but then the materials that have to get utilized
+
+09:57.510 --> 10:01.410
+or even wasted if it doesn't pan out to be the right design.
+
+10:01.410 --> 10:04.590
+So we see that through our entire design cycle processes,
+
+10:04.590 --> 10:07.086
+our manufacturing processes,
+
+10:07.086 --> 10:10.140
+but then even kind of how do we take that further,
+
+10:10.140 --> 10:11.820
+to the benefit of our customer.
+
+10:11.820 --> 10:12.870
+You know, one of the demos,
+
+10:12.870 --> 10:15.480
+if you have an opportunity to go by our booth,
+
+10:15.480 --> 10:16.915
+where we see that kind of flow through
+
+10:16.915 --> 10:20.600
+into the manufacturing processes of our customers,
+
+10:20.600 --> 10:23.130
+it is automated paint repair.
+
+10:23.130 --> 10:25.380
+So taking 3M products,
+
+10:25.380 --> 10:26.760
+but it's not just the product,
+
+10:26.760 --> 10:28.500
+it's how do you use the product.
+
+10:28.500 --> 10:30.701
+So when you think of kind of patterns
+
+10:30.701 --> 10:33.420
+for repairing paint on a vehicle,
+
+10:33.420 --> 10:35.670
+which is, you know, it's a complicated process
+
+10:35.670 --> 10:37.291
+for our automotive OEM customers
+
+10:37.291 --> 10:40.170
+in vehicle manufacturing environments,
+
+10:40.170 --> 10:41.728
+but now how do you use the product
+
+10:41.728 --> 10:43.770
+in the right pattern depending on
+
+10:43.770 --> 10:46.950
+the surface you're trying to repair.
+
+10:46.950 --> 10:49.230
+You can leverage the data from all the,
+
+10:49.230 --> 10:51.450
+all the times that we've done this, you know,
+
+10:51.450 --> 10:53.640
+the specific location on the vehicle
+
+10:53.640 --> 10:55.770
+using AI and machine learning.
+
+10:55.770 --> 10:57.420
+So not, you know, to summarize,
+
+10:57.420 --> 10:59.460
+it's really how we do our design work,
+
+10:59.460 --> 11:00.293
+but then again,
+
+11:00.293 --> 11:02.160
+how our customers utilize the products
+
+11:02.160 --> 11:04.410
+that we also create.
+
+11:04.410 --> 11:08.790
+<v ->Great. So, with AI being so prevalent</v>
+
+11:08.790 --> 11:12.696
+in the manufacturing and product development process,
+
+11:12.696 --> 11:16.470
+I'd like to ask if there are any
+
+11:16.470 --> 11:18.420
+any sense of an idea of, you know,
+
+11:18.420 --> 11:20.700
+right now a new vehicle takes
+
+11:20.700 --> 11:25.590
+four to six years to bring to market depending on the OEM.
+
+11:25.590 --> 11:27.690
+If you hit a crystal ball,
+
+11:27.690 --> 11:31.110
+what would you say that product development process
+
+11:31.110 --> 11:35.010
+could potentially get down to?
+
+11:35.010 --> 11:39.450
+<v ->Well, if I think about our experience in China,</v>
+
+11:39.450 --> 11:41.670
+it's taking seven months.
+
+11:41.670 --> 11:46.670
+So there is a bigger and bigger gap between our more,
+
+11:46.950 --> 11:49.800
+let's say traditional established OEMs
+
+11:49.800 --> 11:52.590
+and their product development cycle,
+
+11:52.590 --> 11:55.680
+and tools and methods used, for example,
+
+11:55.680 --> 11:58.920
+in China where you can through reuse of data,
+
+11:58.920 --> 12:00.480
+like Wendy was saying,
+
+12:00.480 --> 12:03.600
+and the connection between field optimization
+
+12:03.600 --> 12:08.490
+and new product development, focusing on the core.
+
+12:08.490 --> 12:12.060
+So not reinventing components and systems,
+
+12:12.060 --> 12:14.130
+every time you develop a new vehicle.
+
+12:14.130 --> 12:15.296
+You can get it down.
+
+12:15.296 --> 12:18.130
+Well now, there are companies
+
+12:18.130 --> 12:21.000
+doing the same job in seven months.
+
+12:21.000 --> 12:22.563
+<v ->Wow, that's amazing.</v>
+
+12:23.430 --> 12:26.190
+<v ->Yeah, I would say from a software perspective,</v>
+
+12:26.190 --> 12:28.020
+we've seen some of our products launching,
+
+12:28.020 --> 12:29.910
+that used to take maybe two or three years
+
+12:29.910 --> 12:32.280
+into four or five weeks,
+
+12:32.280 --> 12:33.660
+because everything, again,
+
+12:33.660 --> 12:35.010
+going back to over the air updates
+
+12:35.010 --> 12:36.750
+and the ability to rapidly prototype,
+
+12:36.750 --> 12:39.270
+that didn't exist maybe five or six years ago
+
+12:39.270 --> 12:42.270
+in the automotive space is unbelievable.
+
+12:42.270 --> 12:45.720
+So you get a wide range now across,
+
+12:45.720 --> 12:48.270
+in some cases it's traditional five, six years,
+
+12:48.270 --> 12:50.910
+in other cases, they will have it out in months.
+
+12:50.910 --> 12:52.170
+Very different.
+
+12:52.170 --> 12:53.730
+<v ->Yeah, I think for us,</v>
+
+12:53.730 --> 12:55.290
+we do a tremendous amount of business
+
+12:55.290 --> 12:56.640
+with the electronics industry,
+
+12:56.640 --> 13:01.440
+consumer electronics, so PC, phones, tablets, et cetera.
+
+13:01.440 --> 13:03.630
+And what we've seen in that industry,
+
+13:03.630 --> 13:05.130
+is distinctly different than
+
+13:05.130 --> 13:06.880
+some of the others that we support,
+
+13:07.920 --> 13:10.336
+is the speed of innovation that our customers
+
+13:10.336 --> 13:12.720
+and the industry is demanding of us.
+
+13:12.720 --> 13:14.466
+So we've really had to think about
+
+13:14.466 --> 13:16.440
+if we're gonna best serve and collaborate
+
+13:16.440 --> 13:18.120
+with those customers and meet their
+
+13:18.120 --> 13:20.010
+speed of innovation expectations,
+
+13:20.010 --> 13:21.795
+we have to be able to keep that pace,
+
+13:21.795 --> 13:26.190
+and to be able to innovate with them and for them.
+
+13:26.190 --> 13:28.170
+So we're, you know, thinking about how to use
+
+13:28.170 --> 13:30.960
+virtual testing capabilities or whatnot,
+
+13:30.960 --> 13:33.346
+but really bringing the best of what we can do
+
+13:33.346 --> 13:35.190
+to serving one industry,
+
+13:35.190 --> 13:36.990
+and applying that to others as well.
+
+13:38.160 --> 13:40.680
+<v ->Fascinating, just amazing how quickly</v>
+
+13:40.680 --> 13:41.760
+things are changing,
+
+13:41.760 --> 13:45.600
+and how quickly new products can come to market.
+
+13:45.600 --> 13:48.630
+So outside of AI,
+
+13:48.630 --> 13:51.000
+are there other innovations
+
+13:51.000 --> 13:54.483
+that you feel are impacting the manufacturing process?
+
+13:55.530 --> 13:57.570
+And I don't know, Wendy, I saw you nodding your head,
+
+13:57.570 --> 13:58.983
+so maybe start with you.
+
+14:00.180 --> 14:03.090
+<v ->Yeah, I, you know, I mentioned an example</v>
+
+14:03.090 --> 14:04.981
+of how our customers are utilizing
+
+14:04.981 --> 14:08.340
+our knowledge and data kind of in their environment.
+
+14:08.340 --> 14:11.100
+I think similarly we're looking to leverage technology,
+
+14:11.100 --> 14:15.690
+whether it's, you know, basic data visibility,
+
+14:15.690 --> 14:17.780
+and real-time analytics and machine learning,
+
+14:17.780 --> 14:18.930
+on the factory floor.
+
+14:18.930 --> 14:22.200
+A lot of vision systems around quality detection,
+
+14:22.200 --> 14:23.940
+but really for us it's, we wanna be able
+
+14:23.940 --> 14:27.450
+to move and service our customers as best as possible.
+
+14:27.450 --> 14:29.940
+So leveraging every piece of
+
+14:29.940 --> 14:31.530
+capability that's out there from a
+
+14:31.530 --> 14:33.690
+tools or technology and data perspective,
+
+14:33.690 --> 14:36.990
+to really keep refining the operations of our environment,
+
+14:36.990 --> 14:39.600
+and getting closer connectivity tissue
+
+14:39.600 --> 14:42.090
+to our customers to respond to them more timely.
+
+14:42.090 --> 14:43.950
+So, excellent.
+
+14:43.950 --> 14:46.460
+<v ->Yeah, I would build on the quality.</v>
+
+14:46.460 --> 14:48.330
+And it is related with AI,
+
+14:48.330 --> 14:49.664
+but a lot of the image
+
+14:49.664 --> 14:51.963
+and automated inspection systems,
+
+14:53.220 --> 14:55.680
+you know, we make over 150 million tires a year,
+
+14:55.680 --> 14:56.700
+and each and every one of 'em
+
+14:56.700 --> 15:00.150
+has to be hand inspected at the end of a line.
+
+15:00.150 --> 15:01.740
+So you imagine that if, you know,
+
+15:01.740 --> 15:03.720
+your job is coming down a conveyor
+
+15:03.720 --> 15:05.370
+is to take a tire,
+
+15:05.370 --> 15:08.400
+it gets automatically set up, it's rotating,
+
+15:08.400 --> 15:10.530
+and you're under these kind of lights,
+
+15:10.530 --> 15:12.420
+and looking for anomalies.
+
+15:12.420 --> 15:15.979
+And a lot of really cool things coming,
+
+15:15.979 --> 15:18.670
+and that we're implementing in our plants
+
+15:19.770 --> 15:22.920
+to make sure that that job is now done,
+
+15:22.920 --> 15:25.800
+a combination of AI plus visual inspection.
+
+15:25.800 --> 15:28.530
+So some really neat applications there,
+
+15:28.530 --> 15:31.413
+and I've seen many of those around the show, actually.
+
+15:33.930 --> 15:38.930
+<v ->Fantastic. Okay, so let's kind of shift over to consumers.</v>
+
+15:40.920 --> 15:44.820
+So, Jeff, maybe we start with you.
+
+15:44.820 --> 15:47.820
+Can you share some examples of how AI
+
+15:47.820 --> 15:50.523
+and innovation are benefiting consumers?
+
+15:51.810 --> 15:54.210
+<v ->You see it all over the place nowadays</v>
+
+15:54.210 --> 15:56.700
+in vehicles, or even in the,
+
+15:56.700 --> 15:59.550
+in the process of how people acquire a vehicle,
+
+15:59.550 --> 16:02.670
+get it, or engage with information about the vehicle.
+
+16:02.670 --> 16:03.900
+The fact that there's chatbots,
+
+16:03.900 --> 16:06.660
+the fact that in a car now,
+
+16:06.660 --> 16:09.390
+you can ask questions of the car
+
+16:09.390 --> 16:12.210
+that relate to something you're trying to achieve.
+
+16:12.210 --> 16:13.170
+We were talking earlier,
+
+16:13.170 --> 16:14.940
+and there's a lot of evidence of this.
+
+16:14.940 --> 16:17.050
+Used to be you go in and you say
+
+16:18.750 --> 16:20.760
+you know, "Let's find a pizza place."
+
+16:20.760 --> 16:22.560
+Or, you know, use a search engine,
+
+16:22.560 --> 16:24.630
+or you use your phone to find this pizza place.
+
+16:24.630 --> 16:25.537
+Now you can say to the car,
+
+16:25.537 --> 16:29.190
+"Find me the best deep crust pizza place
+
+16:29.190 --> 16:30.960
+within five miles of my house
+
+16:30.960 --> 16:33.270
+that doesn't cost more than $20 a pie."
+
+16:33.270 --> 16:36.390
+And so you can get very more granular and specific
+
+16:36.390 --> 16:40.140
+with what information is being asked,
+
+16:40.140 --> 16:41.460
+let's say in the vehicle,
+
+16:41.460 --> 16:42.727
+and how it can help you to get to
+
+16:42.727 --> 16:45.900
+that customer satisfaction that's so important.
+
+16:45.900 --> 16:50.220
+So AI can really drive customer satisfaction
+
+16:50.220 --> 16:52.413
+in ways that didn't exist in the past.
+
+16:53.310 --> 16:56.915
+<v ->If you think about automated driving functions</v>
+
+16:56.915 --> 16:59.841
+that customize vehicle behavior
+
+16:59.841 --> 17:04.841
+to what your needs and safety, depending on weather,
+
+17:04.920 --> 17:07.650
+depending on the road you're driving in,
+
+17:07.650 --> 17:10.080
+depending on speed, et cetera, et cetera,
+
+17:10.080 --> 17:14.070
+it gives the end user the personalization
+
+17:14.070 --> 17:16.710
+of driving style to the safety,
+
+17:16.710 --> 17:19.980
+comfort, and speed that they need.
+
+17:19.980 --> 17:24.980
+So it's not directly related to consumer or consuming,
+
+17:25.290 --> 17:28.800
+but the usage of the vehicle is becoming
+
+17:28.800 --> 17:32.790
+much more relevant based on who you are.
+
+17:32.790 --> 17:36.600
+And also the development of functions becomes much faster,
+
+17:36.600 --> 17:39.053
+and the deployment of those functions in the field
+
+17:39.053 --> 17:43.920
+become possible through over the air updates on one hand,
+
+17:43.920 --> 17:47.220
+but also the fast development cycles in ADAS,
+
+17:47.220 --> 17:51.870
+and enabled by the right computing power in the vehicle.
+
+17:51.870 --> 17:53.504
+<v ->And to build on that a little bit,</v>
+
+17:53.504 --> 17:56.580
+this idea of the safety system, you know,
+
+17:56.580 --> 17:59.233
+I mentioned before, we focus on entertainment systems.
+
+17:59.233 --> 18:00.960
+But there's actually a linkage
+
+18:00.960 --> 18:04.560
+that can help improve customer satisfaction.
+
+18:04.560 --> 18:06.660
+We look at solutions that maybe
+
+18:06.660 --> 18:08.760
+with cameras in the car for safety,
+
+18:08.760 --> 18:10.140
+you can determine if someone's
+
+18:10.140 --> 18:11.730
+engaging with the content that's
+
+18:11.730 --> 18:14.280
+a video or audio that's playing whether they like it or not,
+
+18:14.280 --> 18:15.900
+or whether they're distracted.
+
+18:15.900 --> 18:19.200
+And you might turn down the music if you will,
+
+18:19.200 --> 18:21.240
+or switch the music based on
+
+18:21.240 --> 18:23.520
+the person may be agitated when they're driving.
+
+18:23.520 --> 18:26.550
+So the safety systems and the entertainment systems
+
+18:26.550 --> 18:30.150
+can play together in ways that didn't exist in the past,
+
+18:30.150 --> 18:34.293
+that are both creating a safer environment and a richer,
+
+18:35.220 --> 18:37.870
+immersive entertainment environment for the consumer.
+
+18:40.290 --> 18:44.340
+<v ->So, Nielsen IQ and GFK Automotive Research</v>
+
+18:44.340 --> 18:49.340
+shows that when people are choosing their next new vehicle,
+
+18:49.590 --> 18:53.070
+safety is one of the top reasons.
+
+18:53.070 --> 18:58.070
+And you know, we find that there are certain features,
+
+18:58.320 --> 19:00.637
+that, you know, when we ask people,
+
+19:00.637 --> 19:01.800
+"Hey, what type of features
+
+19:01.800 --> 19:03.870
+do you want in your next vehicle?"
+
+19:03.870 --> 19:07.740
+And we give the whole list of features across the vehicle,
+
+19:07.740 --> 19:11.460
+safety features always float to the top.
+
+19:11.460 --> 19:14.550
+So, you know, with that in mind,
+
+19:14.550 --> 19:17.550
+I'm wondering if maybe Fedra, we start with you,
+
+19:17.550 --> 19:20.820
+if you could share some innovations,
+
+19:20.820 --> 19:22.680
+some safety feature innovations,
+
+19:22.680 --> 19:27.210
+that you know consumers can really benefit from.
+
+19:27.210 --> 19:30.360
+<v ->Right. So if you come to the Bosch booth,</v>
+
+19:30.360 --> 19:34.770
+you'll be able to look at a couple of demos in this field.
+
+19:34.770 --> 19:37.620
+Like I was saying, advanced driver assistance
+
+19:37.620 --> 19:40.530
+is a core part of safety,
+
+19:40.530 --> 19:43.350
+from your lane departure functionality
+
+19:43.350 --> 19:45.810
+to your parking functionality,
+
+19:45.810 --> 19:48.719
+to in-vehicle sensing that determines
+
+19:48.719 --> 19:50.840
+if you are tired or not,
+
+19:50.840 --> 19:54.660
+or distracted looking at your phone.
+
+19:54.660 --> 19:57.330
+So you will be able to see a number of
+
+19:57.330 --> 20:01.023
+individual functions that advance safety.
+
+20:02.190 --> 20:03.750
+I remind you all that Bosch is
+
+20:03.750 --> 20:05.880
+an invented for life company,
+
+20:05.880 --> 20:08.460
+and in this spirit of invented for life,
+
+20:08.460 --> 20:12.000
+we use AI, safe AI, ethical AI
+
+20:12.000 --> 20:14.550
+to advance driver assistance functions
+
+20:14.550 --> 20:16.170
+and driving in general,
+
+20:16.170 --> 20:18.633
+making it safer for consumers.
+
+20:21.420 --> 20:25.350
+<v ->Maybe I could share a couple examples of</v>
+
+20:25.350 --> 20:28.200
+where we've done some of the work on this is,
+
+20:28.200 --> 20:31.350
+and in particular on just breaking.
+
+20:31.350 --> 20:34.140
+In 2029, NHTSA's coming out with a new
+
+20:34.140 --> 20:38.340
+automated emergency break requirements,
+
+20:38.340 --> 20:40.710
+and there's a lot of opinion out there on it.
+
+20:40.710 --> 20:42.330
+Can we meet it? Can we meet it?
+
+20:42.330 --> 20:43.320
+Two sides of the problem.
+
+20:43.320 --> 20:46.500
+There's a perception side, there's the action side.
+
+20:46.500 --> 20:48.510
+A lot of our work is on the action side,
+
+20:48.510 --> 20:50.550
+and knowing explicitly, you know,
+
+20:50.550 --> 20:53.700
+the capability real-time of,
+
+20:53.700 --> 20:56.943
+again, that connection to the ground, the tire,
+
+20:56.943 --> 21:00.300
+and is this vehicle really gonna be able to stop?
+
+21:00.300 --> 21:01.890
+And then two things dictate that.
+
+21:01.890 --> 21:04.680
+Number one is the condition of the tire,
+
+21:04.680 --> 21:06.145
+because based on what kind of tire you have,
+
+21:06.145 --> 21:08.280
+it has different properties in and of itself.
+
+21:08.280 --> 21:10.230
+The second thing is you integrate that
+
+21:10.230 --> 21:12.540
+with something around the road.
+
+21:12.540 --> 21:13.950
+And at dry conditions,
+
+21:13.950 --> 21:16.184
+maybe your friction is 0.8,
+
+21:16.184 --> 21:19.710
+but it drops significantly for snow.
+
+21:19.710 --> 21:20.910
+We are talking about,
+
+21:20.910 --> 21:23.490
+all of us are having snow when we go home.
+
+21:23.490 --> 21:24.420
+Too bad we can't stay,
+
+21:24.420 --> 21:26.880
+but the bottom line is then you know,
+
+21:26.880 --> 21:29.310
+well how much sooner do I have to start applying breaks?
+
+21:29.310 --> 21:32.550
+Now a consumer doesn't think about that,
+
+21:32.550 --> 21:34.530
+but there's a huge consumer benefit
+
+21:34.530 --> 21:35.940
+because people are putting together
+
+21:35.940 --> 21:38.160
+systems who will take care of that.
+
+21:38.160 --> 21:39.840
+A similar one we talked about,
+
+21:39.840 --> 21:42.180
+we introduced last year,
+
+21:42.180 --> 21:43.890
+and we're taking it around to many
+
+21:43.890 --> 21:45.990
+of the OEMs is on hydroplaning.
+
+21:45.990 --> 21:47.820
+And again, you don't think about it,
+
+21:47.820 --> 21:48.840
+you're going down the highway,
+
+21:48.840 --> 21:50.640
+and all of a sudden you come upon a puddle,
+
+21:50.640 --> 21:53.700
+deep puddle, and you completely lose contact,
+
+21:53.700 --> 21:56.376
+and at that point no control of your vehicle.
+
+21:56.376 --> 21:59.100
+And there was actually a connection into the infotainment,
+
+21:59.100 --> 22:01.863
+which is simply, "Hey, we're detecting you're
+
+22:01.863 --> 22:06.180
+starting to lose some of that contact area."
+
+22:06.180 --> 22:08.040
+And you could pass it at least through a warning
+
+22:08.040 --> 22:09.217
+through the infotainment saying,
+
+22:09.217 --> 22:10.350
+"You might wanna slow down."
+
+22:10.350 --> 22:12.300
+And the second way is through people like Bosch
+
+22:12.300 --> 22:14.220
+where they actually take control,
+
+22:14.220 --> 22:15.765
+and they'll slow you down.
+
+22:15.765 --> 22:19.110
+And so these are huge saviors
+
+22:19.110 --> 22:20.352
+and things for people,
+
+22:20.352 --> 22:23.160
+hopefully avoiding collisions, accidents.
+
+22:23.160 --> 22:26.040
+The consumer isn't maybe asking for that explicitly,
+
+22:26.040 --> 22:27.720
+but they're asking to be safer.
+
+22:27.720 --> 22:29.670
+They're asking to avoid collisions.
+
+22:29.670 --> 22:32.370
+And I think there's again, they're huge opportunities.
+
+22:32.370 --> 22:33.900
+And it's not for one of us to solve,
+
+22:33.900 --> 22:35.640
+it's how we work together to bring these,
+
+22:35.640 --> 22:36.740
+bring these to market.
+
+22:37.890 --> 22:39.810
+<v ->And for us at 3M, you know,</v>
+
+22:39.810 --> 22:42.810
+some of the ways that we add innovation to the vehicle
+
+22:42.810 --> 22:45.330
+around the notion of safety may not be,
+
+22:45.330 --> 22:46.680
+you know, quite as obvious,
+
+22:46.680 --> 22:49.498
+but you know, as Fedra and her teams,
+
+22:49.498 --> 22:52.620
+and other companies are focused on bringing
+
+22:52.620 --> 22:55.860
+bigger compute, or with compute centralization to vehicles,
+
+22:55.860 --> 22:58.560
+that suddenly creates new problems around
+
+22:58.560 --> 23:01.470
+thermal management and power management.
+
+23:01.470 --> 23:03.679
+As you're advancing and bringing more sensors,
+
+23:03.679 --> 23:05.700
+we have to think about the materials
+
+23:05.700 --> 23:08.100
+that go into the sensors and the sensor properties
+
+23:08.100 --> 23:09.420
+with like optical films.
+
+23:09.420 --> 23:10.980
+For example, or the conductives
+
+23:10.980 --> 23:14.490
+and all of the electronics components.
+
+23:14.490 --> 23:15.900
+So for us at 3M, you know,
+
+23:15.900 --> 23:19.122
+deeply understanding that those performance requirements
+
+23:19.122 --> 23:23.280
+as vehicle technology itself is shifting,
+
+23:23.280 --> 23:25.440
+we have to stay very much to your point,
+
+23:25.440 --> 23:30.030
+very, you know, very collaborative engineering
+
+23:30.030 --> 23:31.350
+to really bring that through,
+
+23:31.350 --> 23:32.790
+and make sure the material properties
+
+23:32.790 --> 23:34.260
+are supporting whatever requirements
+
+23:34.260 --> 23:35.410
+of the vehicle as well.
+
+23:37.350 --> 23:40.830
+<v ->Okay, so this is a little bit of a loaded question,</v>
+
+23:40.830 --> 23:45.180
+but it wouldn't be an automotive discussion topic
+
+23:45.180 --> 23:46.480
+if we didn't bring up Evs.
+
+23:47.370 --> 23:51.963
+So we know that demand for Evs is leveling off.
+
+23:52.846 --> 23:55.920
+I'm gonna ask the panel if you think
+
+23:55.920 --> 23:59.100
+that either AI or AR,
+
+23:59.100 --> 24:02.520
+or other innovations could possibly
+
+24:02.520 --> 24:04.350
+improve demand for EVs.
+
+24:04.350 --> 24:06.030
+And Jeff, I'll start with you.
+
+24:06.030 --> 24:09.356
+<v ->Sure. I think the biggest application</v>
+
+24:09.356 --> 24:11.160
+where AI can help is,
+
+24:11.160 --> 24:14.550
+the number one issue remains range anxiety, right?
+
+24:14.550 --> 24:15.900
+So there's certain parts of the country
+
+24:15.900 --> 24:17.592
+there's charging stations everywhere,
+
+24:17.592 --> 24:19.530
+and people have the cars,
+
+24:19.530 --> 24:21.240
+and they know where the stations are and everything.
+
+24:21.240 --> 24:22.890
+But then really if you look across
+
+24:22.890 --> 24:23.880
+the entire United States,
+
+24:23.880 --> 24:26.280
+there's vast stretches where no idea,
+
+24:26.280 --> 24:27.840
+there just aren't charging stations,
+
+24:27.840 --> 24:30.300
+or they're few and far between.
+
+24:30.300 --> 24:33.000
+And so the ability of AI to not just
+
+24:33.000 --> 24:34.800
+point out where the charging station is,
+
+24:34.800 --> 24:37.020
+but what the line is at the station,
+
+24:37.020 --> 24:38.370
+is it in a safe area?
+
+24:38.370 --> 24:39.690
+Is it, is it well secure?
+
+24:39.690 --> 24:40.590
+What else is around?
+
+24:40.590 --> 24:41.797
+Is there any shopping around?
+
+24:41.797 --> 24:44.043
+All that information would be
+
+24:44.043 --> 24:47.310
+really beneficial for that next level
+
+24:47.310 --> 24:49.950
+of consumer who worries about that.
+
+24:49.950 --> 24:52.350
+So at the end of the day,
+
+24:52.350 --> 24:54.720
+you're gonna have range anxiety
+
+24:54.720 --> 24:57.090
+that's gonna vary across the population
+
+24:57.090 --> 25:00.090
+to the point of some people never wanting to get an EV.
+
+25:00.090 --> 25:04.710
+But we're now past, let's say those initial adopters,
+
+25:04.710 --> 25:05.850
+and that next wave,
+
+25:05.850 --> 25:07.710
+they're gonna have to have a reason
+
+25:07.710 --> 25:09.030
+that makes them comfortable
+
+25:09.030 --> 25:10.740
+with not having to worry about
+
+25:10.740 --> 25:12.000
+where they charge their car,
+
+25:12.000 --> 25:15.933
+and it becomes more fabric of how they,
+
+25:16.980 --> 25:19.087
+you know, how they look at the vehicle and say,
+
+25:19.087 --> 25:20.610
+"That's not gonna be a problem."
+
+25:20.610 --> 25:23.610
+And AI can definitely help with that.
+
+25:23.610 --> 25:25.770
+<v ->I would build on what you're saying,</v>
+
+25:25.770 --> 25:28.781
+adding that, like another couple of use cases
+
+25:28.781 --> 25:30.660
+where AI can really help.
+
+25:30.660 --> 25:32.430
+One is on the range prediction,
+
+25:32.430 --> 25:37.430
+so upstream reduction of that anxiety that you discussed.
+
+25:37.770 --> 25:41.542
+And the other piece or end of the lifecycle
+
+25:41.542 --> 25:43.740
+is on the used car,
+
+25:43.740 --> 25:45.210
+which is a very big problem,
+
+25:45.210 --> 25:47.043
+is residual values of EVs.
+
+25:49.230 --> 25:51.090
+They are very low.
+
+25:51.090 --> 25:52.350
+Nobody wants to buy an EV
+
+25:52.350 --> 25:54.180
+because you can't resell it.
+
+25:54.180 --> 25:57.360
+So AI can help creating models
+
+25:57.360 --> 26:00.570
+that will give the used car customer
+
+26:00.570 --> 26:04.230
+a better view on what vehicle they are buying,
+
+26:04.230 --> 26:07.386
+and with that, fostering or motivating
+
+26:07.386 --> 26:11.700
+an increase in residual values that will
+
+26:11.700 --> 26:15.420
+hopefully motivate the market and increase sales.
+
+26:15.420 --> 26:17.550
+So those are a couple of use cases
+
+26:17.550 --> 26:20.700
+on prediction, range management,
+
+26:20.700 --> 26:23.541
+and then the certificate in the
+
+26:23.541 --> 26:26.583
+second end the car market.
+
+26:28.470 --> 26:30.390
+<v ->Great, thank you.</v>
+
+26:30.390 --> 26:33.543
+So, still focusing on consumers,
+
+26:34.500 --> 26:37.050
+I'd like to ask the panel,
+
+26:37.050 --> 26:41.310
+how do you see AI helping consumers
+
+26:41.310 --> 26:43.170
+with their vehicle experience,
+
+26:43.170 --> 26:45.933
+and their research process as well?
+
+26:47.370 --> 26:50.163
+So, maybe Jeff, we start with you.
+
+26:51.630 --> 26:53.040
+<v ->So from the research perspective,</v>
+
+26:53.040 --> 26:54.940
+I think it can help a lot.
+
+26:54.940 --> 26:56.426
+A lot of times when people go out,
+
+26:56.426 --> 26:59.280
+and they try to filter through all the information
+
+26:59.280 --> 27:01.225
+that's out there to make a choice on a vehicle,
+
+27:01.225 --> 27:03.466
+it's incredibly difficult.
+
+27:03.466 --> 27:07.140
+And so being able to synthesize all that information,
+
+27:07.140 --> 27:10.388
+and come up with different points of view online,
+
+27:10.388 --> 27:12.721
+or even at a a series of dealerships,
+
+27:12.721 --> 27:15.210
+I think would be essential to giving
+
+27:15.210 --> 27:17.910
+people confidence that they truly understand
+
+27:17.910 --> 27:19.860
+the difference between vehicles,
+
+27:19.860 --> 27:22.650
+and help them to clarify why
+
+27:22.650 --> 27:24.330
+they want one vehicle over the other.
+
+27:24.330 --> 27:25.890
+And I think that can actually benefit
+
+27:25.890 --> 27:29.100
+both the dealers, and the auto industry and the consumer.
+
+27:29.100 --> 27:33.030
+You have less people buying for the wrong reasons,
+
+27:33.030 --> 27:34.170
+for lack of better terms,
+
+27:34.170 --> 27:38.460
+and it's a much more educated consumer experience.
+
+27:38.460 --> 27:40.170
+And I think that particularly,
+
+27:40.170 --> 27:43.140
+if you get into an environment where you hear,
+
+27:43.140 --> 27:44.160
+like you think of a Tesla
+
+27:44.160 --> 27:46.170
+whether there's in a dealership network,
+
+27:46.170 --> 27:48.060
+it's one thing in the traditional sense
+
+27:48.060 --> 27:49.200
+when someone goes into a dealer,
+
+27:49.200 --> 27:50.730
+but if this is not gonna be done
+
+27:50.730 --> 27:51.870
+through a dealer network for some
+
+27:51.870 --> 27:53.270
+of the car companies going forward,
+
+27:53.270 --> 27:54.780
+then that would be essential,
+
+27:54.780 --> 27:55.920
+that'd be essential to help them
+
+27:55.920 --> 27:59.103
+to determine what and where, and when to buy.
+
+28:01.410 --> 28:04.633
+<v ->So we have a very large retail footprint,</v>
+
+28:04.633 --> 28:07.620
+and I will just tell you with a,
+
+28:07.620 --> 28:10.147
+how many of you go walk in, are thinking about,
+
+28:10.147 --> 28:13.140
+"Man, I'm excited to go buy my next set of tires."
+
+28:13.140 --> 28:15.780
+We don't, we don't find a lot of those.
+
+28:15.780 --> 28:17.730
+It tends to be a bit of a nuisance purchase
+
+28:17.730 --> 28:19.080
+except for if you're really
+
+28:19.080 --> 28:21.400
+into high performance or off-roading.
+
+28:21.400 --> 28:23.670
+And in fact people,
+
+28:23.670 --> 28:25.200
+and I think a good example,
+
+28:25.200 --> 28:27.660
+to the point made here is,
+
+28:27.660 --> 28:29.250
+how do you make people feel like
+
+28:29.250 --> 28:31.290
+they're not victims when they're walking in there?
+
+28:31.290 --> 28:32.730
+Because it's very hard to be equipped
+
+28:32.730 --> 28:33.990
+with the information you need
+
+28:33.990 --> 28:35.440
+and make the right selection.
+
+28:36.870 --> 28:39.294
+Your size of tire on your car,
+
+28:39.294 --> 28:42.450
+there may be 50 different options.
+
+28:42.450 --> 28:44.070
+And that's just from us.
+
+28:44.070 --> 28:45.920
+And so how do you know what to pick?
+
+28:45.920 --> 28:47.280
+And so I think,
+
+28:47.280 --> 28:49.403
+I think those are huge applications to,
+
+28:49.403 --> 28:51.840
+to give tools to users
+
+28:51.840 --> 28:55.950
+who don't engage in a purchase process often.
+
+28:55.950 --> 28:58.470
+Boy quickly that they feel like they have
+
+28:58.470 --> 29:01.170
+some good information and they're not just
+
+29:01.170 --> 29:03.870
+at the will of maybe who's across the counter,
+
+29:03.870 --> 29:04.920
+who might just be pushing,
+
+29:04.920 --> 29:08.070
+who they got a good incentive from this month,
+
+29:08.070 --> 29:10.305
+or they got a whole lot of 'em in the back, right?
+
+29:10.305 --> 29:14.880
+And so I think those types of applications that'll come,
+
+29:14.880 --> 29:16.920
+are gonna be really valuable.
+
+29:16.920 --> 29:18.873
+And if you could put 'em out there,
+
+29:18.873 --> 29:21.060
+it's not something you have to charge for.
+
+29:21.060 --> 29:22.440
+It just makes people wanna engage
+
+29:22.440 --> 29:24.490
+with your product in a more positive way.
+
+29:25.426 --> 29:27.540
+<v ->Yeah, I love your point on customer choice.</v>
+
+29:27.540 --> 29:29.010
+I think that's super, you know,
+
+29:29.010 --> 29:32.100
+giving customers choice is such a powerful
+
+29:32.100 --> 29:33.930
+benefit that we can offer to customers.
+
+29:33.930 --> 29:35.790
+When I think of AI in vehicles,
+
+29:35.790 --> 29:38.880
+I think one of the things that gets me most excited,
+
+29:38.880 --> 29:41.760
+is from the perspective of sometimes
+
+29:41.760 --> 29:42.870
+I don't even think about
+
+29:42.870 --> 29:44.398
+what I'm using in my vehicle,
+
+29:44.398 --> 29:47.940
+or of all the technology capabilities at my disposal.
+
+29:47.940 --> 29:50.100
+What am I using and what am I not.
+
+29:50.100 --> 29:51.264
+I may think I know.
+
+29:51.264 --> 29:54.690
+I may think this feature might be important,
+
+29:54.690 --> 29:56.400
+but maybe I'm actually not using it.
+
+29:56.400 --> 29:57.750
+So as vehicles get smarter,
+
+29:57.750 --> 30:00.210
+the ability to harness those insights,
+
+30:00.210 --> 30:03.060
+and tell me more about me that I may not even realize,
+
+30:03.060 --> 30:06.900
+and how should that feed into that next buying cycle?
+
+30:06.900 --> 30:09.000
+There may be a vehicle that's more tailored
+
+30:09.000 --> 30:10.800
+and better suited for me than I,
+
+30:10.800 --> 30:12.390
+than I would just even think about.
+
+30:12.390 --> 30:15.990
+So really bridging actual usage to
+
+30:15.990 --> 30:19.740
+me as a consumer and how I do what I do.
+
+30:19.740 --> 30:21.900
+You know, tell me what I don't know,
+
+30:21.900 --> 30:23.850
+just the power of what AI can do there.
+
+30:25.140 --> 30:27.690
+<v ->Excellent. Thank you. Great, great points.</v>
+
+30:27.690 --> 30:30.396
+If only we could apply that to mattress shopping.
+
+30:30.396 --> 30:32.820
+(group laughs)
+
+30:32.820 --> 30:36.327
+Okay, so you know, what we've learned today
+
+30:36.327 --> 30:41.327
+is that AI plays a key role in, you know,
+
+30:41.430 --> 30:43.560
+really streamlining the manufacturing
+
+30:43.560 --> 30:45.299
+and product development process.
+
+30:45.299 --> 30:48.300
+You know, we heard, you know, that there are,
+
+30:48.300 --> 30:50.190
+there's a great opportunity to really
+
+30:50.190 --> 30:52.135
+reduce the length of that process,
+
+30:52.135 --> 30:54.270
+and bringing that back to consumers,
+
+30:54.270 --> 30:56.226
+you know, potentially we could see
+
+30:56.226 --> 30:57.958
+new vehicles or new features
+
+30:57.958 --> 31:00.120
+come to market much quicker,
+
+31:00.120 --> 31:03.600
+reducing the overall product development time-frame.
+
+31:03.600 --> 31:07.110
+From a consumer perspective, obviously,
+
+31:07.110 --> 31:12.030
+you know, the automotive industry doesn't really,
+
+31:12.030 --> 31:16.530
+from an OEM perspective tout AI in their vehicles
+
+31:16.530 --> 31:19.860
+as much as some of the consumer brands do.
+
+31:19.860 --> 31:21.927
+Walking around the central hall yesterday,
+
+31:21.927 --> 31:25.560
+I saw some of the consumer brands positioning AI as
+
+31:25.560 --> 31:27.300
+affectionate intelligence,
+
+31:27.300 --> 31:29.430
+using the words empathy and care,
+
+31:29.430 --> 31:31.530
+and really trying to humanize it.
+
+31:31.530 --> 31:33.510
+I think the industry, you know,
+
+31:33.510 --> 31:35.820
+is really going into more of a
+
+31:35.820 --> 31:38.430
+technology advanced feature perspective,
+
+31:38.430 --> 31:40.868
+which there's a huge pull from consumers
+
+31:40.868 --> 31:44.370
+for the latest and greatest features in their vehicles.
+
+31:44.370 --> 31:46.350
+So, you know, different industries,
+
+31:46.350 --> 31:48.483
+different ways of positioning it.
+
+31:49.320 --> 31:54.270
+But we've heard how AI can also benefit consumers,
+
+31:54.270 --> 31:57.176
+and you know, even tying in the collaboration
+
+31:57.176 --> 32:00.270
+across all four of the companies
+
+32:00.270 --> 32:02.749
+in terms of how they need to work together
+
+32:02.749 --> 32:07.749
+to bring all this technology to life in a new vehicle.
+
+32:08.100 --> 32:10.310
+So, you know, with that,
+
+32:10.310 --> 32:14.010
+I'd like to ask each of the panelists to just
+
+32:14.010 --> 32:18.540
+kind of provide some final closing thoughts on AI for us,
+
+32:18.540 --> 32:21.720
+and then we'll move into questions and answers.
+
+32:21.720 --> 32:24.750
+So, I guess, Wendy, if I can start with you.
+
+32:24.750 --> 32:29.070
+<v ->Of course. Thought I had a minute to think about this one.</v>
+
+32:29.070 --> 32:31.060
+You know, I had a interesting conversation
+
+32:31.060 --> 32:34.477
+with someone earlier today, and they were kind of,
+
+32:34.477 --> 32:36.510
+"What was your thoughts of this show this year?"
+
+32:36.510 --> 32:40.140
+And I think this is the 15th year I've coming to CES.
+
+32:40.140 --> 32:41.240
+It's been a long time.
+
+32:42.630 --> 32:45.480
+But I think what really resonates with me constantly,
+
+32:45.480 --> 32:49.470
+is the speed of innovation.
+
+32:49.470 --> 32:50.820
+None of us can do it alone.
+
+32:50.820 --> 32:54.577
+We see over and over again how imperative, how just,
+
+32:54.577 --> 32:57.390
+you know, the sense of urgency around innovation,
+
+32:57.390 --> 32:58.770
+the importance of collaboration.
+
+32:58.770 --> 33:00.270
+We can't do this alone,
+
+33:00.270 --> 33:02.340
+but just unlimited possibilities.
+
+33:02.340 --> 33:03.630
+You go through all the different halls,
+
+33:03.630 --> 33:04.800
+all the end industries,
+
+33:04.800 --> 33:07.440
+what I can take and, I've done in this industry,
+
+33:07.440 --> 33:08.820
+we can apply over here.
+
+33:08.820 --> 33:11.850
+Just the possibilities are unlimited.
+
+33:11.850 --> 33:12.960
+And with that in mind,
+
+33:12.960 --> 33:14.970
+how do you really stay laser focused
+
+33:14.970 --> 33:17.730
+on the customer and what your mission is,
+
+33:17.730 --> 33:19.137
+and really triangulating them together.
+
+33:19.137 --> 33:21.060
+That's a lot to think through.
+
+33:21.060 --> 33:23.130
+That's a lot to really make sure
+
+33:23.130 --> 33:24.810
+you're focused on the right thing
+
+33:24.810 --> 33:26.760
+for your customers and your business.
+
+33:26.760 --> 33:29.940
+But innovation, speed, collaboration,
+
+33:29.940 --> 33:32.700
+no matter what you do, that sits at the core.
+
+33:32.700 --> 33:33.700
+And that's exciting.
+
+33:35.460 --> 33:37.530
+<v ->I think that ultimately the consumer</v>
+
+33:37.530 --> 33:39.870
+will benefit from all this AI.
+
+33:39.870 --> 33:42.120
+You know, we just gave examples of a buying process.
+
+33:42.120 --> 33:44.730
+I know in our world of entertainment,
+
+33:44.730 --> 33:49.730
+the idea is we can provide a great new experience
+
+33:50.070 --> 33:51.540
+that you didn't even know you could have out there
+
+33:51.540 --> 33:54.180
+because AI is working with all the content available
+
+33:54.180 --> 33:55.590
+to deliver it in a way,
+
+33:55.590 --> 33:58.680
+and introduce you to maybe sources, or content,
+
+33:58.680 --> 34:00.944
+or artists that you didn't even know existed,
+
+34:00.944 --> 34:03.090
+yet really delight you.
+
+34:03.090 --> 34:05.795
+And, so that idea of you're getting things
+
+34:05.795 --> 34:07.080
+you didn't even know were out there,
+
+34:07.080 --> 34:09.570
+the possibilities are endless so to speak.
+
+34:09.570 --> 34:11.351
+I think the consumers will really see that
+
+34:11.351 --> 34:13.563
+as a great benefit going forward.
+
+34:14.850 --> 34:17.340
+<v ->Chris?</v>
+<v ->Well I've been coming</v>
+
+34:17.340 --> 34:19.293
+now just only seven years,
+
+34:20.640 --> 34:21.870
+but what I'd say is, you know,
+
+34:21.870 --> 34:23.460
+some of the things that we saw then
+
+34:23.460 --> 34:25.800
+are still the same ones I see now.
+
+34:25.800 --> 34:29.550
+The only difference I think is the progress continues.
+
+34:29.550 --> 34:32.340
+And I think we all have to just
+
+34:32.340 --> 34:34.846
+keep thinking that in particular,
+
+34:34.846 --> 34:36.324
+you know, our big focus,
+
+34:36.324 --> 34:38.460
+and a lot of things I talked about
+
+34:38.460 --> 34:40.560
+are different levels of how
+
+34:40.560 --> 34:42.780
+autonomy is continuing to come,
+
+34:42.780 --> 34:44.433
+and how that'll provide safety.
+
+34:45.300 --> 34:48.210
+Every year, I'm encouraged by the progress.
+
+34:48.210 --> 34:50.520
+It hasn't been a linear progress.
+
+34:50.520 --> 34:53.220
+Maybe, but, and it hasn't been as soon
+
+34:53.220 --> 34:54.750
+as everybody thought it would might be,
+
+34:54.750 --> 34:56.430
+but it's definitely coming.
+
+34:56.430 --> 34:59.070
+And I think if you, if you're open to that,
+
+34:59.070 --> 35:01.680
+and as you walk around,
+
+35:01.680 --> 35:04.080
+you can also feel it, feel it coming.
+
+35:04.080 --> 35:05.940
+So, so really excited about
+
+35:05.940 --> 35:07.893
+how that'll pan out and keep coming.
+
+35:09.390 --> 35:12.543
+<v ->Well CES inspires me beyond technology.</v>
+
+35:13.680 --> 35:16.350
+I don't know how many years it has been,
+
+35:16.350 --> 35:19.350
+but the fact that I see people from
+
+35:19.350 --> 35:21.780
+all over the world sitting in this room
+
+35:21.780 --> 35:25.020
+inspires me beyond the technology,
+
+35:25.020 --> 35:27.630
+that whatever is happening outside,
+
+35:27.630 --> 35:30.000
+whatever decoupling of regions,
+
+35:30.000 --> 35:34.740
+of technology decoupling of who owns what and where,
+
+35:34.740 --> 35:38.610
+that this week is able to bring
+
+35:38.610 --> 35:40.950
+people from all over the world
+
+35:40.950 --> 35:44.040
+that share a glass of wine,
+
+35:44.040 --> 35:48.157
+a beer, or just a chat, and that like Wendy said,
+
+35:48.157 --> 35:49.762
+"Nobody can do it alone."
+
+35:49.762 --> 35:52.170
+So I would encourage all of you
+
+35:52.170 --> 35:55.200
+to at least get to know each other,
+
+35:55.200 --> 35:57.870
+and advance the cause of mobility
+
+35:57.870 --> 36:01.620
+because it is core to our advancement as a species.
+
+36:01.620 --> 36:06.600
+Finding ways to sustainably move and share knowledge.
+
+36:06.600 --> 36:09.750
+So that is what I always bring when I go back,
+
+36:09.750 --> 36:12.750
+is the faces and the passports of people
+
+36:12.750 --> 36:16.080
+that come from all over the world to speak.
+
+36:16.080 --> 36:17.820
+And hopefully what happens in Vegas
+
+36:17.820 --> 36:20.535
+in some cases doesn't stay in Vegas,
+
+36:20.535 --> 36:22.500
+and that we leverage globally
+
+36:22.500 --> 36:24.427
+the exchanges we have here.
+
+36:24.427 --> 36:26.130
+<v ->Thank you. Well said.</v>
+
+36:26.130 --> 36:27.685
+We do have time for a couple of questions.
+
+36:27.685 --> 36:30.000
+Are there any questions?
+
+36:30.000 --> 36:31.973
+The young lady right there in the middle.
+
+36:33.600 --> 36:34.433
+Yes. Yeah.
+
+36:36.080 --> 36:40.413
+(participant speaking indistinctly)
+
+37:05.040 --> 37:09.630
+So the question was, autonomous motor homes.
+
+37:09.630 --> 37:13.500
+There is a display out there from her company.
+
+37:13.500 --> 37:17.640
+So does anyone here kind of see the potential,
+
+37:17.640 --> 37:20.880
+the possibilities for driverless motor homes?
+
+37:20.880 --> 37:22.740
+<v ->I will comment at a higher level,</v>
+
+37:22.740 --> 37:24.900
+that if you walk around the West Hall,
+
+37:24.900 --> 37:27.720
+what's amazing change over the last couple years
+
+37:27.720 --> 37:30.180
+is all the autonomy applied to
+
+37:30.180 --> 37:32.310
+the industrial side of the industry.
+
+37:32.310 --> 37:34.230
+You see dump trucks, you see,
+
+37:34.230 --> 37:37.915
+you see combines and all that other equipment
+
+37:37.915 --> 37:39.870
+that traditionally you said,
+
+37:39.870 --> 37:41.040
+well there's some guy back there
+
+37:41.040 --> 37:42.690
+running that tractor or whatever,
+
+37:42.690 --> 37:44.010
+and you don't need that anymore.
+
+37:44.010 --> 37:48.660
+So at that level you would assume all mobility,
+
+37:48.660 --> 37:51.933
+or all vehicles will ultimately have a driverless option.
+
+37:53.640 --> 37:55.170
+<v ->Yeah, I agree a hundred percent.</v>
+
+37:55.170 --> 37:59.880
+Maybe I'll give a very personal endorsement for this is,
+
+37:59.880 --> 38:00.930
+my brother-in-law went out
+
+38:00.930 --> 38:03.936
+and bought a 45 foot motor home,
+
+38:03.936 --> 38:06.099
+and as much as they love it,
+
+38:06.099 --> 38:08.580
+they're scared to death take it outta the garage
+
+38:08.580 --> 38:11.040
+because driving it is intimidating.
+
+38:11.040 --> 38:12.660
+And so this could be an extremely
+
+38:12.660 --> 38:15.450
+interesting case for autonomy actually,
+
+38:15.450 --> 38:18.300
+when you think about making the driving experience
+
+38:18.300 --> 38:21.060
+so that you can then take advantage of everything else.
+
+38:21.060 --> 38:22.950
+I don't think the joy of it is driving it.
+
+38:22.950 --> 38:25.530
+The joy of it is when you get it where it wants to be.
+
+38:25.530 --> 38:28.320
+So boy that sounds like a pretty darn good use case.
+
+38:28.320 --> 38:30.963
+So, definitely go after that one.
+
+38:32.550 --> 38:34.470
+<v ->Okay, we have a little over a minute left.</v>
+
+38:34.470 --> 38:36.393
+Any other questions? Yes?
+
+38:38.340 --> 38:40.860
+<v Participant>You made a comment about how can we increase</v>
+
+38:40.860 --> 38:43.680
+the demand for electric vehicles,
+
+38:43.680 --> 38:48.150
+how, actually I did a, I did a quick search.
+
+38:48.150 --> 38:49.560
+And year-over-year,
+
+38:49.560 --> 38:53.400
+auto sales have gone up like 29%
+
+38:56.220 --> 38:58.870
+The Ford Mustang Marquee sold more than (indistinct).
+
+39:00.780 --> 39:02.897
+So, in spite of the data,
+
+39:02.897 --> 39:05.640
+I want to look a little bit further and deeper,
+
+39:05.640 --> 39:10.161
+because that's OEM sales went up .09%,
+
+39:10.161 --> 39:12.930
+dealer sales are actually having trouble.
+
+39:12.930 --> 39:14.747
+<v ->Right. Correct.</v>
+<v ->For Evs (indistinct).</v>
+
+39:17.490 --> 39:18.930
+<v ->Yes, definitely there's,</v>
+
+39:18.930 --> 39:21.210
+there's still, consumers are still hesitant,
+
+39:21.210 --> 39:25.443
+and so it's really how do we build demand for EVs?
+
+39:26.760 --> 39:27.930
+Right. Yes, I know.
+
+39:27.930 --> 39:30.450
+The Marquee outsold the Mustang,
+
+39:30.450 --> 39:35.040
+but overall we're seeing from our study that,
+
+39:35.040 --> 39:36.960
+and we survey a quarter million new vehicle
+
+39:36.960 --> 39:39.990
+and tenders a year that we're not seeing
+
+39:39.990 --> 39:43.263
+a long-term uptick in EV demand.
+
+39:45.341 --> 39:46.620
+Any other questions?
+
+39:46.620 --> 39:47.880
+Or Fedra, do you wanna add to that?
+
+39:47.880 --> 39:49.050
+<v ->No, I was just saying,</v>
+
+39:49.050 --> 39:50.820
+not contradicting what you're saying,
+
+39:50.820 --> 39:54.540
+we see a lot of delays in vehicle introductions from OEMs,
+
+39:54.540 --> 39:58.410
+and that is one of the manifestations
+
+39:58.410 --> 39:59.970
+of that flattening out.
+
+39:59.970 --> 40:02.595
+Of course new technology growth
+
+40:02.595 --> 40:05.580
+is still ongoing in double digit.
+
+40:05.580 --> 40:07.923
+Very far from the predictions though.
+
+40:11.430 --> 40:13.830
+<v ->Okay. And we are at our time.</v>
+
+40:13.830 --> 40:15.840
+Thank you very much for attending.
+
+40:15.840 --> 40:19.440
+I believe there is a survey that you can fill out
+
+40:19.440 --> 40:21.270
+to let us know if you enjoyed this session,
+
+40:21.270 --> 40:25.290
+and I hope you enjoy the rest of your stay here at CES.
+
+40:25.290 --> 40:28.584
+Thank you.
+(audience applauds)
+
+40:28.584 --> 40:31.751
+(bright upbeat music)
+

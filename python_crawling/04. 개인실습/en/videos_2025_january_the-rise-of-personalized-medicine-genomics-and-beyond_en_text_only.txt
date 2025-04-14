@@ -1,0 +1,1035 @@
+<v ->Well, thank you, everybody,</v>
+for hanging on for the last panel of the day.
+This is great.
+You are all clearly the most dedicated,
+the most interested, and this is the best panel
+with the best panelists, and of course, the best moderator.
+So we're gonna be talking about precision medicine.
+And this really is my favorite topic
+because I think everything that we see around us here
+that taps into healthcare or wellness, well-being,
+everything that we see in digital health
+is really enabling us to be more precise
+in terms of what we do as a healthcare system.
+And really start to address not only the whole patient,
+but specific patients as well.
+So this is one of my favorite subjects,
+and I'm very fortunate to have a great panel.
+So, first, I'm Dale Van Demark.
+I'm a partner at McDermott Will &amp; Emery.
+I'm also an investor of sorts from time to time.
+But really,
+let's have our panelists introduce themselves very quickly
+so we can get into the discussion.
+You just, he's got it.
+It should be.
+<v ->He gave me instructions and I didn't listen.</v>
+All right. Sorry.
+Hi, I'm Matt Lungren.
+I'm the chief scientific officer
+at Microsoft Health &amp; Life Sciences.
+I also have clinical and academic appointments
+at Stanford and UCSF.
+<v ->Hi, everyone, I'm Kate Sasser,</v>
+chief science officer at Tempus AI.
+Awesome.
+<v ->Hi, everybody. I'm Jonathan Reeves.</v>
+I'm the global head of R&amp;D and Innovation
+at Sanofi Consumer Healthcare.
+<v ->Thank you all.</v>
+And I'm always intimidated by sitting next to people
+who have actual educations and not legal educations.
+So this should be good.
+So first, let's talk about current state.
+Just when we talk about precision medicine,
+personalized medicine, what's going on right now?
+And just kind of quickly each of you,
+again starting, Matt, with you, and we'll work our way down.
+<v ->All right.</v>
+So I think, I mean, first of all,
+just the terminology, right?
+Like, I think we talk about precision health,
+precision medicine, and I think the general thought
+of maybe most here would agree,
+it's right treatment, right patient, right time,
+something of like that, right?
+That's kinda the general thought.
+And the hope is that we're moving into a place
+where we have more data,
+we're able to collect more insights,
+and we're able to do those things.
+And at the same time, technology meets us in a place
+where we can draw those insights and actually drive the cost
+to a point where that's possible.
+I think there's sparks of it.
+I mean, I know there's a lot
+of like back and forth about this,
+but I, you know, what's funny is there's things
+that aren't getting a lot of attention.
+Again, I'm in AI and healthcare,
+so believe me, I'm part of the problem too.
+But there's things happening in, you know,
+the vaccine, precision vaccines for cancer,
+leveraging, you know, the backbone from Moderna
+and some of the others, right?
+That is a pretty remarkable thing
+to be able to take a tumor antigen
+and develop a specific vaccine for that.
+I mean, right?
+So I think there's things that are happening
+around the ecosystem,
+but I think as I step back into my world,
+the health AI world,
+I think we're increasingly in a place where we are,
+you know, drowning in data and thirsty for real insights.
+You know, that's kind of the tag phrase that we use a lot.
+And the hope is that AI can deliver that.
+And I think we'll get into more of that as we go.
+<v ->Yeah, I agree with all of that.</v>
+I think in some ways, when we think about current state,
+I've been in the precision medicine space for 25 years,
+and there are really shining examples of success.
+So in oncology, I think we've come a long way
+with truly targeted therapeutics,
+in particular, you know, for matching genomic alterations
+to therapeutics that can work on those pathways.
+So that's been an example of a success story
+for precision medicine.
+However, we're still a really long way
+away from, you know, I think this vision that we've all had
+of the right drug for everyone at the right time,
+the true personalization of medicine.
+And it does feel, with AI coming into play now
+and becoming more and more of a reality,
+that we are at an inflection point,
+and the next 5, 10 years
+could potentially see improvements in precision medicine
+to actually make it a reality for many more patients.
+So that it's not just populations of patients,
+but that it actually can become part of healthcare
+and how we, you know, manage all of medicine,
+which I think was part of the original vision
+that we all had when we started using that terminology.
+<v ->Yeah, so here comes the downer.</v>
+No. So I'm on the consumer health side.
+So we're operating 190 billion OTC and VMS business world.
+And what we've seen in personalization,
+and a precision medicine has been around
+consumers want precision diagnostics.
+But actually, when they look at buying products
+and they are personalized, they're not scalable.
+So you look at the vitamin, minerals supply
+and supplements market, companies like Nourished,
+they've done a phenomenal job
+in advertising personalized vitamins,
+but they haven't been able to reach scale.
+So what we've actually found
+is actually people want personalized insights,
+but they want customized solutions
+because they want to feel part of a community.
+I'll give you an example.
+Today on YouTube, every year, there's 200 billion,
+Every day on Google, there are 700 million health searches.
+So just compute those numbers.
+So there's a massive desire
+for information and recommendations,
+but out there, the solutions don't exist.
+Or they become so cost-ineffective
+that the barriers to entry are too high.
+So, you know, there's a couple of things, Dale,
+if you don't mind me saying, is that one of the pieces
+is around how do we break down the barriers
+of education and, and trust around the science
+and the credibility of what people are getting,
+which is of also all the, you know,
+we all work hopefully in the healthcare space,
+and AI is great, but one of the challenges
+that comes around is do we trust it?
+And what's the source of data? Is it credible?
+Does it come from really good clinical research and sound?
+And on the flip side, other solutions recommended
+or biased by, you know, reimbursement status,
+et cetera, et cetera.
+So really interesting challenges to look at.
+<v ->So we've talked about some challenges here,</v>
+but let's talk about what that might look like, right?
+So what are we building toward?
+What can we expect out of precision medicine?
+Or maybe a better way to put it is,
+what should we be looking at as our guide star
+for the future with respect to precision medicine?
+This time we'll start, Jonathan, back with you.
+<v ->Yeah, so I think, you know, one of the things that,</v>
+you know, I'm certainly passionate about
+is how do we debunk credible science
+that's accessible to consumers?
+So I'm a consumer-facing company,
+so I'm always gonna look at people as you know,
+myself and my wife, my children, and all of us.
+As people look searching for better health,
+I'll give you an example.
+65% of people, of ailments out there
+that can be treated by over-the-counter medication
+is not being dealt with by over-the-counter medication.
+Imagine the burden of healthcare that's creating.
+So I think for me it's about debunking condition awareness.
+So how do you actually drive that
+with the right credible science in an open way?
+So there's some great tools,
+and now I'm doing a bit of a salesman, so apologies.
+But if you walk downstairs,
+there's, for example, the Meta Glasses from Essilor.
+There's loads of other technologies
+where AI is integrated into devices
+and usable devices on a daily basis
+that become recommendation engines.
+You can imagine wearing a set of glasses
+that looks at a medical product,
+or you can just talk to them like the Alexa glasses
+and say, "I'm feeling really unwell, what do I do?"
+So I think there's a future around how we guide,
+not in a, you know, and this is where I have to take
+my sort of, I'm in a company making money perspective,
+not in a capitalistic way,
+but actually in just a educational way.
+So that's the first pillar.
+The second pillar is then how do we create
+a private-public partnership where healthcare practitioners
+and the sort of healthcare industry
+is actually working well together
+so that we have the science base
+and the consumer-facing part of it,
+actually part of the conversation.
+I'll start with those two
+and then I'll hand over to my two colleagues here
+'cause I'm sure they've got lots to add.
+<v ->There's so many meaty things in there to build off of.</v>
+Maybe to go the other direction.
+'cause you're talking about, you know, the consumer space
+and direct to consumers,
+which I think is really interesting,
+to go to the opposite end
+where we have a lot of the more regulated products.
+So thinking about drugs and some of the diagnostics
+that need FDA approval
+and thinking about what's the next wave
+for precision medicine there.
+I actually think those two worlds are gonna, they are,
+and they will continue to merge more together
+because patients are demanding more autonomy
+in their healthcare,
+even in that heavily regulated space.
+That being said,
+some of the trends that I think are coming very rapidly are,
+because in the title we have genomics today,
+so I'll put a plug in for that.
+I do think genomics is a space where not only in oncology,
+but in a lot of the other areas,
+we're gonna see this infiltration of, you know,
+matching patient's genomics
+to the healthcare recommendations we make.
+And you know, right now
+that's heavily slanted towards actual disease,
+chronic disease, in particular acute disease.
+I think we're gonna see shifts more and more
+towards prevention,
+which may get closer into the consumer space.
+In other words, you know, can you be genomic,
+your genomics will be profiled much earlier
+or before you actually have overt disease.
+You may be put in higher risk categories,
+you may have more monitoring.
+Those may be tied together with a lot of data
+and AI applications.
+And physicians, and potentially patients themselves,
+will be able to be monitoring and watching
+and thinking about the right recommendations for their care
+in a very personalized and precise way.
+Now, there's a ton of challenges,
+and the system is gonna have to think of really unique ways
+to catch up, in particular the regulatory agencies
+and some of the things that, you know,
+we apply on the regulated space to keep people safe.
+But we already see a lot of discussion there.
+So just this last week, the FDA has released a whole,
+I don't know, three or four guidances back to back
+to try to get on top of AI devices
+and what the expectations will be and how their guidelines,
+you know, new guidelines for thinking about it.
+So it's rapidly evolving space,
+but I would say I'm on the optimistic side
+for what it's gonna look like in another five years.
+<v ->Yeah, I mean, I think from my perspective,</v>
+I'm also optimistic.
+I mean, you know, clearly I think
+I wouldn't be doing this for a living if I wasn't.
+And, you know, I've been in the health AI space
+long enough to sort of seen some patterns
+start to break, right?
+Like patterns that used to be,
+hey, we have to gather tons of data
+to build a bespoke model to do one thing,
+and then we have to treat it like software
+and then we have to deal with that one use case
+being potentially addressed,
+and then we have all these others
+that we need to complete the system.
+And so I think some of those patterns
+are starting to change.
+With essentially what we're,
+you can almost look at as free lunch,
+and what what I mean by that
+is all the large language models that we're trained on,
+essentially available data, let's just say,
+almost by accident have competencies,
+or, quote, unquote, "latent representations,"
+of real healthcare concepts, right?
+So when we see these headlines that say,
+"Oh, the models can do really well on, you know,
+medical board exams," that that's a signal me.
+It doesn't mean that it's, you know,
+able to perform at the level of physician in real practice.
+But what it tells me is that there's representations
+of the types of things that I need to know to do my job.
+Where does that become really interesting?
+Well, you know, for us,
+we can take advantage of this free lunch
+with just dealing with a lot of the overhead.
+You know, that it takes to take care of a patient
+in the current healthcare system.
+But as we move towards this precision medicine,
+now you're in a space
+where you might be getting unique data,
+the type of data that's not, you know,
+freely available on the internet.
+And one of the things
+that I feel is gonna be the next breakthrough,
+at least my North star, is a truly multimodal understanding
+of real healthcare data or real-world data.
+And, you know, one of the ways to achieve that
+is a very tired, old solution,
+which is to say we have data silos
+that are sitting in bespoke, you know, systems
+across the country to across the world.
+We have to find a way to bring that together
+and, you know, bring it closer to intelligence
+to drive those insights.
+As a physician, if I have a patient coming in
+and maybe they're wearing one of these, you know, wearables
+and they have all these insights,
+I'm not sure what I'm supposed to do with that.
+I don't have a great mechanism with my current system
+to take care of that
+or to provide the education that they might need.
+Touching on a couple of the other comments though,
+that is again, part of the other patterns of behavior
+that may change, right?
+So I like to think there's also a lot of Bing Searches
+for healthcare as well.
+And as part of that,
+is there opportunity to provide a co-pilot
+that is more versed in, you know, reliable, good data
+to provide that sort of at the right education level,
+be very patient, answer their questions at all times,
+those kinds of solutions I think will become more common
+because of the demand that you're seeing.
+How does that translate in the physician's office?
+Well, if I'm getting genomics information,
+again, I'm not sure what to do with that.
+But if I have a model that has been trained
+to understand genomics and ties that to clinical data,
+well, then maybe I will know
+that I should not start with this drug.
+I need to go to the next, you know,
+next blood pressure control medicine
+because they're unlikely to respond.
+Those kinds of things I think are starting to happen.
+And I'm, you know, I'm very optimistic
+that these sparks will, will lead to something real.
+<v ->Can I ping on Matt's point?</v>
+I think that there's a piece that Matt was alluding to,
+which is the whole disintermediation of healthcare.
+If you take, you know,
+for those who've walked the floor,
+if you go to a company like Withings,
+they launched BeamO last year.
+Anybody, you know BeamO?
+It's actually a telemedicine linked device for home use.
+You start seeing some of these things
+where actually home data, personalized data
+is flowing into the healthcare system automatically.
+You add in companies like MedE
+that do at-home prescription delivery
+and fulfillment, you start actually seeing a system
+where I'm hoping, and you're asking about trends,
+that we will actually deburden the healthcare system
+by removing non chronic issues to a home situation
+so that the healthcare system can focus on chronic diseases.
+And then, you know, in taking of genomics,
+completely agree with you.
+You know, you've seen the recent news article
+around L'Oreal and skin genomics.
+That's just some of the elements that's happening out there.
+And we are looking at gut and, you know, huge amount of work
+and gut, the FDA have just bought their first shine model.
+So there's a lot of work going on in that area.
+So there's a huge amount of opportunity space for us to get,
+as I said, more customized,
+'cause I think that's probably where the value's gonna lie
+for mass, dare I say, mass niche, you know,
+than personalization.
+But definitely we we're getting close
+to solutions that make a difference.
+<v ->Yeah, I had a just real quick catchphrase on that topic.</v>
+Like, I had a mentor for many years at Stanford
+who used to say, you know,
+he was the chair of the department,
+so he'd be invited to all these ceremonies
+when you open a hospital, right?
+You cut the ribbon or whatever.
+And he says, why are we celebrating
+the opening of a hospital?
+We should be celebrating the closing of a hospital, right?
+And I think this is getting to that idea,
+if we have to build more buildings
+to take care of patients in expensive ways,
+we're not really doing our job, right?
+We're supposed to be healthcare, not sick care, right?
+Yeah.
+<v ->So there's a very interesting kind of vision</v>
+that I'm picking up from all of you,
+which is the access to actionable,
+understandable data coming from multiple sources
+that allow for almost real time decision-making,
+with respect to treatment,
+and, well, diagnosis and treatment options,
+which I think is kind of a great thing
+to be able to think about, right,
+if we're walking down the street
+and we don't have to worry about making an appointment.
+It comes into our mind,
+"Oh, I need to think about this thing,"
+and we can go and do that.
+But what it also means
+is that we would be talking about healthcare
+in some fundamentally different ways.
+In terms of how it is delivered.
+Perhaps, Kate, you noted
+maybe how it's regulated as well, right?
+And how we think about.
+So when we think about that kind of delivery system,
+what has to change, right?
+What would be different about having those capabilities
+and that kind of healthcare system from what we have now
+besides not building more hospitals?
+<v ->I can start-</v>
+<v ->Whatever one's stand, it has to go first.</v>
+<v ->It's almost like what doesn't change, right?</v>
+It might be easier.
+But I'll stick with a few things.
+<v Dale>You can start there.</v>
+You can say it, you know?
+<v ->Yeah.</v>
+Well, one thing I,
+so one challenge that we have
+that will absolutely have to change is,
+and we've been working on it for years already,
+is better harmonization across the entire system.
+And something that goes with that
+that I was just thinking about as we were, you know,
+starting the first half of this
+is that we still have really wide disparities
+in how healthcare is delivered.
+And on one hand you could say,
+you know, a lot of the things we're talking about,
+especially around AI and this whole conference
+around new technologies
+and those things coming into healthcare,
+on one hand we have the promise
+that that is going to improve the disparities that we have,
+but I think we're gonna have to pay a lot of attention
+to that and make sure that we actually change the system
+on the delivery side and on the harmonization side.
+Otherwise, we will rapidly exacerbate the disparities.
+And so you'll have consumers that are already well-educated
+or companies that are already coming to CES
+and understand technology,
+and hospital systems that know that are also here.
+The previous panel was a lot of healthcare workers,
+compared to all of the places where they are not.
+And so we could see a widening gap there.
+So I think that's something
+we'll have to really pay attention to
+and push for that to change.
+Because on the opposite end, if we do that, if we integrate,
+if we harmonize data, if we allow some of these algorithms
+that are multimodal to actually be disseminated
+across the system and make them available to consumers,
+we can move towards the vision
+that I think we're all describing, so.
+<v ->Yeah, so I think great.</v>
+I'll just jump on that.
+So I think what Matthew alluded to
+was accessibility of data.
+So if data today,
+and certainly in the last sort of five years,
+has been seen as a competitive edge
+by, you know, health, you know, if you look at hospitals
+and you look at how metrics are measured
+across hospital performance and healthcare performance,
+we have to move to a pre-competitive dataset.
+That means that data in itself
+doesn't become a competitive edge.
+The actual interpretation of the data
+and how you use it becomes a competitive edge.
+And that's a very different situation to be in.
+You know, I think of examples
+in where we are looking at stuff
+and we've had to make that move.
+Now, you know, and I'm not gonna,
+I'm not trying to sell my company,
+but it's more around, we've had to make that move.
+And it takes a real conscious effort in investment,
+in resourcing, but also capabilities.
+People have to think and act differently.
+And we've had to sort of recycle
+and get, you know, people have to leave
+and new people come in
+'cause it's a fundamental shift in mindset.
+And then the second piece is coming back to your point,
+which is, you know, if you've harmonized
+the baseline of the data, it's comparable data.
+Today, it isn't.
+You know, coming back to the point on regulation,
+the regulation is not a global regulation.
+FDA is different to European.
+Medical disease is different everywhere.
+So I know we need,
+you're never gonna find a common ground.
+In the same way, there's no global consumer.
+You're gonna have to find some points where you can dock in
+and have some parallel work streams to work.
+But it is a massive change for us
+from a global perspective.
+You wanna this.
+<v ->Can I just add before.</v>
+Can I just like to ask a follow up question
+with you, Jonathan?
+'Cause you had talked about more information to the consumer
+and better information to the consumer.
+But I'm a consumer
+and I'm an idiot when it comes to healthcare, right?
+I mean, I probably am a little bit smarter
+than people because I know that I'm an idiot
+when it comes to healthcare, right?
+I mean, I can do Google searches,
+I can find out all sorts of stuff, but I'm not a doctor.
+I haven't been to medical,
+so I don't know how cells work, right?
+So we can arm people with data,
+but how informed do they have to be?
+And what do we have to think about
+in terms of giving them all this data
+about making sure that consumers are informed enough
+to be able to make appropriate decisions?
+<v ->Yeah.</v>
+So I'm gonna be nice to Matt.
+I'm not gonna talk about Google or talk about Bing,
+but, you know, how many of you
+actually in your families have a Bing doc?
+So somebody's gone on to Bing and said,
+I've got a problem and suddenly they know all the solutions
+'cause Bing has told them.
+But it's not Bing's fault
+because we naturally humans wanna go and find data.
+But you're right.
+You know, how do we educate that system?
+So I give you, you know, we are operating
+in medication spaces that are complicated.
+You know, yes, there's some ibuprofen,
+but you'll know about that.
+But there's other things.
+We work in antispasmodics, we work in allergy.
+You know, it's complicated for consumers
+to understand how it works, why should it work.
+You know, so we we're actively ourselves
+looking at how we simplify science,
+but we have to do that in every element
+of connection with the consumer.
+Because in the same way as you go to ChatGPT,
+if you were to say, "I've got a headache."
+Unfortunately, it probably would come back and say,
+"You might have brain cancer."
+And you might need to go and ask,
+and I'd urge you to ask the question,
+"Okay, what's your source data?"
+And it'll probably come back
+and you'll find out it's a hallucination of some sort.
+So there is that piece that we need to be more mindful.
+So certainly, from a private healthcare perspective,
+so we're definitely looking at closed loop AI
+and how we actually inform that.
+But we're gonna have to move forward and open that
+and find ways to actually bring simple science,
+simple credible recommendation tools
+to consumers that not only tells, visualizes,
+but brings it to life in an easy, intuitive way.
+<v ->Couple comments. I think this is a great discussion.</v>
+Okay, so I think, well, can I,
+let me talk about this first part,
+which is the education of the consumer.
+'Cause like, I actually see this a little differently.
+So you probably heard the phrase,
+like, "Your Google search does not replace
+my medical degree," right?
+When you, the patient, comes in
+with a bunch of Google searches,
+and, "I've got a tumor."
+You're like, "No, you're fine."
+You know, that whole thing.
+Well that was definitely a thing for a long time.
+But now, and this is completely my experience,
+but, you know, my colleagues have seen some similar things.
+Patients are having long discussions about diseases
+or symptoms or medications
+with these state-of-the-art models.
+I'm being very clear here.
+You go back to 3.5, even the early days of 4,
+you're not gonna see this but 4.0 with web search
+and, you know, to deference
+to some of the other big players,
+you know, they have solutions that do real research, right?
+We're starting to get to a place where, you know,
+I'm not go going too far outside the lines
+to say that intelligence is asymptotically heading
+to free in many domains.
+And this is one of them.
+So my patients don't now come to me
+and I'm like, "Oh, well, oh yeah.
+That's a pretty good insight, you know?
+You'd save me two steps, right?"
+Or they've actually thought these things through
+with a model in a very strange way.
+And, you know, I see this in my own kids, right?
+They're learning concepts
+by having conversations even out loud.
+And to even push it a step further,
+what about our elderly population,
+who are incredibly unlikely to even handle email, like?
+So how are they gonna access that technology?
+Well, you saw, you can call 1-800-ChatGPT.
+I'm not joking, this is a real thing,
+if you weren't paying attention to launches.
+And you can have a real-time conversation with the model.
+My my grandma did that.
+And she was blown away, right?
+So I think we're starting to get to a place
+where that the information asymmetry
+that has plagued those of us
+who have to memorize a bunch of stuff
+and then explain it in a certain way,
+it's starting to level off a bit.
+And this is a huge opportunity for us.
+One more point I'll make in terms of like democratization,
+'cause I do agree that this idea that this data is mine
+and it's valuable and, you know, I don't want to share it
+because it's, you know, my competitive edge.
+If you take a page out of the book
+of the broader AI community where they're using the same,
+right, let's be honest, the same stack of web-scraped data
+to build, let's just say,
+in mildly intelligent models now, right?
+And the competitive model is sort of almost flattened.
+And now they are innovating on the post training,
+they're innovating on the inference time compute,
+and they're getting differentiation.
+How do we do that in healthcare, right?
+This is protected data. There's a lot of privacy issues.
+One way that's been proposed that I happen to like,
+and I'm curious if this resonates with anybody,
+but we have a system in place today
+for organ and tissue donation,
+where every hospital is required to report
+to a nonprofit that someone is about to die or has died
+so they can be approached for organ tissue donation.
+You've all been to the DMV,
+you check on your license that you're willing to donate.
+What about a system that would also add another box,
+donate your data after you pass away?
+Interesting concept,
+but it's certainly an easier space race to win
+as a centralized infrastructure
+than trying to put together hundreds of thousands of GPUs
+and compete with my company and Meta and all these others
+to build a government-based GPU cluster.
+If we're talking about solving healthcare problems,
+this democratized data
+would ideally be well-distributed, right?
+Not from just certain populations.
+And hopefully over time be comprehensive enough
+to drive real solutions.
+So, anyway.
+<v ->No, I like that idea.</v>
+That's very interesting.
+I made a promise to myself not to mention AI
+as the moderator, but you're forcing me to do it.
+<v Matt>Yeah.</v>
+<v ->So it's not my fault. I didn't break my promise myself.</v>
+<v Matt>I can say it every time I say it.</v>
+<v ->Okay. I figured.</v>
+Yeah. Okay.
+But you've made a really interesting point,
+and this is why I'm gonna mention it.
+'Cause the question I had to ask was about
+how do we make sure that we as consumers, right,
+can take this information
+and really utilize it in a very positive way
+to really take advantage, right, of precision medicine.
+And to a certain degree, Matt, you said, well,
+well AI will save the day
+because AI will allow the consumers, right,
+to take this information and really understand with it,
+assuming that they understand how to use the AI tool, right?
+Which is a whole lot easier to explain
+than how a cell works, in my opinion.
+So then the question is, well what does that then mean
+for our healthcare institutions, right?
+If I can walk into a doctor's office now
+and I've just gotten this wonderful information
+about what's going on in my eye, right,
+or the back of my throat because of my wearables
+or implanted devices
+that are now feeding me vast amounts of data
+and I've engaged with an AI system, say, "What's going on?"
+And it's giving me an answer.
+And I can come into you and say,
+"Hey, I think this is what's going on."
+And you say, "Yep."
+Is it worth going to medical school
+for that to happen, right?
+And is it worth it for me to go see you, right?
+To kind of have that.
+So this to me is kind of one of those intractable problems
+that I'm kind of curious
+as to how do how do we make something work
+when we have potentially that kind of capability?
+<v ->Yeah, I mean I, you know, so I see that you're,</v>
+you kind of going to the conclusion of,
+okay, well, what do I need this guy for?
+You know, he's, you know...
+<v Dale>You're great panelist, don't get me me wrong.</v>
+You still have a job on doing panelist.
+<v ->I mean, I'll go now.</v>
+No, but I think the way I look at
+it is that I spend a significant amount of my time
+having that education conversation with every clinic visit.
+And, you know, which I actually don't,
+it's actually part of my job that I do enjoy.
+But like there's other parts of my job that I don't enjoy
+that also kind of include this sort of arbitrage
+of information or /intelligence.
+All the things like if I had to do an 80/20
+of how much of my time,
+do I spend doing things that I was trained to do
+versus things like that I'm have to do,
+like documentation, coding, billing, prior auth.
+Like if I could move that 20% slightly closer to 50% even,
+I would be thrilled.
+And I'd probably see more patients,
+I'd probably have a better opportunity
+to take care of more things in one visit.
+And frankly, I might be able to start tackling
+some of those things that are not the typical,
+I got 15 minutes with you, just gimme your top problem.
+So, you know, that's kind of my optimistic view of it.
+You could draw that conclusion of like,
+well, if intelligence is everywhere,
+why do we need any roles?
+And I think there's some folks in Silicon Valley
+that'd be happy to talk to you about that future.
+I think for me, I'm very pragmatic.
+I just want to get to a place
+where I'm able to see more patients,
+take great care of them.
+And again, move to a place
+where the information they're bringing me,
+maybe it's a wearable,
+maybe it's a genomics test they've taken, a gut biome test,
+I'd like to know what I can do with that too.
+<v ->Yeah, I'll just piggyback off that.</v>
+And the earlier question was like,
+what else needs to change?
+And so I think, you know, what we are already seeing,
+if I think about Tempus AI,
+and we work across the healthcare system,
+meaning both AMCs and also community health centers,
+and we see a shift actually already happening
+of kind of what you're describing,
+that especially in the primary care space,
+that those physicians are able to leverage AI tools already
+to do some of the more monotonous
+or time-consuming administrative stuff
+and move over to actually caring for patients.
+And the second thing we see
+is a shift towards other type of workers coming into play.
+So community healthcare workers
+that are actually able to also leverage
+a lot of these new tools and technologies.
+And to bring, again,
+especially primary care or preventative care,
+or even sometimes chronic illness care,
+like diabetes or high blood pressure, those type of things,
+into more of the consumer space.
+So you can think about pharmacies or grocery stores.
+I mean, I don't know how many of you have seen
+the get your COVID shot,
+get your flu shot at your Giant or Kroger or whatever.
+I'm always a little bit hesitant by the way,
+but it works for a lot of the communities,
+and we see a lot of adoption that way.
+So I do think that we're already seeing
+some of those trends happening,
+and they will probably accelerate.
+And hopefully it's a benefit across the system.
+<v ->If I can just ask, Kate,</v>
+just a quick follow up question on that then.
+Do you see, well, for everybody,
+the role of the physician,
+I mean, you're talking about
+potentially doing different things than,
+I'm not gonna guess at your age,
+but that you were taught to do, right,
+as part of your medical training
+and maybe even during residency, right?
+That you're doing different things, right?
+You are perhaps acting more as a navigator for a patient
+as they think about and think about
+what they want out of their health and, right,
+and how to manage their condition.
+So are we seeing also perhaps a change in what physicians
+and other healthcare practitioners are actually doing
+when it comes to delivering care?
+And is that a future that we need to be thinking about
+and starting training about?
+<v ->I can-</v>
+<v ->I'll let the physician answer.</v>
+<v ->I'll do it quick,</v>
+but I'm curious to hear on the consumer side too.
+I think there's a tricky question.
+You know, 'cause in reality, in training, right,
+we have to compress.
+That's why, you know, we have hundreds of hours
+we spend every week in training for years, right?
+We do this.
+But when we get out into practice,
+at least, especially in primary care, by the way,
+you're really supposed to manage chronic illness.
+Well, that takes place over decades, right?
+Ideally.
+But at your residency and training,
+well, that was like four years or three years or something.
+So there have been people talking about
+how do we think about the medical education system,
+not just, obviously, you know, AI literacy,
+but also can we use these systems with real world data again
+to create synthetic interactive,
+almost like a pilot-type simulation experience.
+So, okay, you did this,
+the patient comes back five years later, this happens.
+Now what do you do?
+And that's not really something we get to see
+because, well, training is short.
+There's also an an idea of like, you know,
+how much information can we possibly pack
+into medical training at this point, right?
+The medical information doubles every 90 days, I'm told.
+I don't know if that's exactly right,
+but it's something like that.
+And a lot of us go into sub, sub, subspecialty.
+So I'm a pediatric interventional radiologist.
+That is so small.
+Like, I know everyone who does that work,
+almost in the world, okay?
+So it's a very small field,
+but yet, we still have a lot of information to keep up.
+But now if you were to ask me,
+this patient has a different medical problem
+not related to my specialty, I'm gonna be like,
+"Oh man, I gotta go find another specialist
+'cause I don't know what that is,
+or I've been years since I've thought about it."
+So some of these other systems, I think,
+will change our roles.
+I can maybe consult a system
+that has the ability to bring the insights
+that I can use to take care of that patient
+in a different way.
+These are all things I've heard floated around.
+I think we're all, as a medical community,
+trying to figure this out as well.
+But I will emphasize this for the crowd,
+what we want is technology that saves us time.
+And, you know, saving time before saving lives.
+And I know that sounds weird.
+We'll take care of the lives, okay?
+We need to save time because we are drowning in work
+that does not require a medical license.
+<v ->Yeah. Do you wanna go first?</v>
+<v ->No.</v>
+<v ->No, I was just gonna say that.</v>
+I think there's three key things,
+and I think jumping on Matt's point,
+which is one is around quality of care.
+So everybody knows the Mayo Clinic model two,
+two-apart you know, two recommendations.
+Imagine that one of them,
+every hospital has that same model,
+but you don't have to pay for two doctors.
+<v Matt>Right.</v>
+<v ->Yeah.</v>
+Because one of them might be an AI-driven recommendation.
+You still need,
+and the reason why I say that is because we've got a study
+that says that seven,
+if you actually have an HCP recommended opinion,
+72% increase in willingness to adopt the regimen.
+That's not an AI-driven recommendation.
+Consumers, people still want a human recommendation
+because they don't trust the AI to be at that level.
+And we're still a long way away from that.
+There's a lot of barriers still to go through.
+Which is why, you know,
+I don't see doctors becoming prompt engineers,
+but I do see them becoming more...
+So the second pillar
+is about they're gonna focus on chronic disease
+because non-chronic diseases will be covered at home.
+That means that the quality of care,
+but also the time allocated per patient is gonna go up
+and the volume is gonna go up
+in terms of chronic disease treatment.
+And then the third one is actually emerging new solutions
+and integration into the healthcare space.
+So today is the barrier to entry,
+the time of integration of new medicines, new technologies,
+new devices, new approaches take so long.
+And it comes back to your point
+at the beginning on regulation, it's gonna be accelerated.
+So that means that we're gonna have improvement in care
+as a result of that.
+So I think those for me
+are the three key elements to expect.
+<v ->And maybe the last thing I'll add quickly,</v>
+which is, as you were talking through it,
+I think it speaks to,
+and actually the three you added as well,
+speak to more specialization.
+And actually this is precision medicine.
+You know, it's very hard to get
+to true personalized healthcare
+because when you think about all of the illnesses,
+all of the solutions,
+all of the variables that go into a recommendation,
+it's almost impossible until almost this moment in time
+where we actually can amass the data,
+be able to uncover insights, be able to understand it,
+to the point that you can make a recommendation.
+And maybe that starts with an AI agent
+and it gets to the physician
+or it gets to the consumer itself.
+But that is, I think, what we're ultimately,
+we're gonna see precision medicine come to fruition
+because of all of these things that we're talking about.
+<v ->So do you see the, just to digress a little bit</v>
+and into specifically the kind of organization
+that Tempus is, which is this really neat entity
+that you couldn't really characterize, say, 10 years ago,
+didn't exist because it kind of sits
+between the life sciences and the healthcare sector
+and as this moderator of information
+and creating some real value in that process.
+And I'm wondering,
+again, when we're talking about the role of the physician,
+do we see that kind of merging together
+of life sciences and healthcare continuing,
+to the point where it's kind of seamless, right?
+That there's kind of no in-between?
+<v ->I would, I mean, I would love that.</v>
+I think it's, I think that's part of the dream.
+I will say what we see happening now
+is the time shrinking between, you know,
+the healthcare system and the life science companies,
+in particular, drug development or diagnostic development.
+And I think that we will see that move faster and faster
+because we start to have these flywheels
+that we were just talking about, right?
+We have large datasets.
+Actually, large enough now to uncover
+these kind of rare, personalized features
+that we need to be able to understand.
+And now that it is multimodal,
+so it's not just a genomic variant.
+It's, you know, your retinal scan or your blood pressure
+or those three things together.
+And so we have a lot of these insights.
+And we're able then to partner with therapeutic companies,
+they can develop the right drugs,
+and then they can also work with the healthcare side
+on the delivery.
+So all of that is actually moving together
+in a really, I think, kind of convergence
+of healthcare, technology, all of those things at one time.
+It's a really exciting space.
+And you're right, we still have to explain
+companies like Tempus
+that are kind of in the middle doing all of it
+because it is complicated and most of it is new,
+and it's requiring new ways of thinking
+and doing all of this.
+But the end goal will be to really transform the space
+<v ->And thinking about regulation as well.</v>
+which again-
+<v ->Yes.</v>
+<v ->We haven't gotten to.</v>
+But most-
+<v ->We need a whole nother panel.</v>
+<v ->Yeah. No.</v>
+<v ->I get it, you should.</v>
+<v ->I had this whole list of things I wanted to talk about,</v>
+and sadly we got to two,
+but we only have a few seconds left.
+So just in the last few seconds, very quickly,
+each of you, just what's the most significant challenge
+for us in terms of getting to this future?
+And again, just very quickly, 10 seconds or less.
+Matt, we'll start with you
+'cause you're struggling the most.
+<v ->I'm trying to think.</v>
+Yeah, I do. This is hard.
+Very quick. I think I'm gonna go data.
+I'm just gonna say data. Yeah.
+<v ->That's good.</v>
+<v ->I'm gonna say adoption and delivery</v>
+because, you know, we're all,
+and at this conference, it's all sexy and exciting,
+and we all love this space.
+We're passionate about it.
+But adoption and delivery is still a challenge.
+<v ->You stole my too,</v>
+so I'm gonna go with revenue and metrics.
+<v ->We couldn't have a conversation without that.</v>
+Just slipping into the equation at some point.
+Okay, well we have gotten right up to the end of the time.
+I really want to thank all of you.
+This is great.
+I wish we had all day to talk about this.
+I could.
+Sadly, that tells you what kind of a geek I am.
+But really great topic, fascinating topic.
+I think a great way to end the conference.
+And I wanna say thank you to CTA and CES.
+This has been a great event year after year.
+It's getting better every year.
+So big warm applause I think for the panel
+and to the CTA and CES.
+<v ->And the audience.</v>

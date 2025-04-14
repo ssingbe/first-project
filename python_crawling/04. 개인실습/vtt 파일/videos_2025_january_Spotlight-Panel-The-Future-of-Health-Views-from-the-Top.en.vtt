@@ -1,0 +1,2817 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.040 --> 00:02.957
+(electronic music)
+
+00:10.710 --> 00:11.543
+All right.
+
+00:11.543 --> 00:12.600
+Welcome, everybody.
+
+00:12.600 --> 00:13.830
+My name is Logan Plaster.
+
+00:13.830 --> 00:17.310
+I'm the Chief Content Officer at Startup Health,
+
+00:17.310 --> 00:20.670
+excited to be moderating this panel today.
+
+00:20.670 --> 00:22.560
+Panel's called Views from the Top.
+
+00:22.560 --> 00:26.970
+And we've got a really nice diverse set of perspectives
+
+00:26.970 --> 00:31.620
+in healthcare leadership across health systems,
+
+00:31.620 --> 00:33.720
+big tech, big pharma.
+
+00:33.720 --> 00:37.290
+And we're gonna talk about big challenges
+
+00:37.290 --> 00:38.640
+and big opportunities.
+
+00:38.640 --> 00:42.090
+We've got David Holmberg, CEO of Highmark Health.
+
+00:42.090 --> 00:46.380
+We've got Dr. Janice Nevin, the CEO of ChristianaCare.
+
+00:46.380 --> 00:47.910
+We've got Dr. Michael Howell,
+
+00:47.910 --> 00:50.130
+the chief clinical officer at Google.
+
+00:50.130 --> 00:51.360
+And we've got Diogo Rau,
+
+00:51.360 --> 00:54.843
+the chief information officer at Eli Lilly.
+
+00:55.920 --> 01:00.120
+So two big objectives for today's conversation.
+
+01:00.120 --> 01:02.047
+Obviously, these folks are, or you all,
+
+01:02.047 --> 01:04.980
+I'm gonna try to talk to you and keep this conversational.
+
+01:04.980 --> 01:09.690
+You are helping to helm health transformation today
+
+01:09.690 --> 01:10.620
+in many ways.
+
+01:10.620 --> 01:13.410
+And so part of the goal here is to pull back the curtain
+
+01:13.410 --> 01:18.000
+on how you're thinking, where you're steering,
+
+01:18.000 --> 01:20.430
+maybe some of the icebergs that you're seeing
+
+01:20.430 --> 01:22.620
+and how to avoid them.
+
+01:22.620 --> 01:25.740
+But we also want this to be a conversation,
+
+01:25.740 --> 01:27.810
+a convergence of your own ideas,
+
+01:27.810 --> 01:30.180
+'cause my guess is you don't have many opportunities
+
+01:30.180 --> 01:32.580
+to be on a Zoom call with the four of you
+
+01:32.580 --> 01:36.000
+and to bounce ideas between health system thinking,
+
+01:36.000 --> 01:38.070
+pharmaceutical innovation thinking,
+
+01:38.070 --> 01:39.420
+what Google is working on.
+
+01:39.420 --> 01:41.220
+And so as we go through some of these sort
+
+01:41.220 --> 01:46.132
+of high level issues, I also want to hear some crosstalk
+
+01:46.132 --> 01:48.090
+and some conversations.
+
+01:48.090 --> 01:50.940
+So let's start with some basic introductions.
+
+01:50.940 --> 01:52.950
+We're gonna go down the line starting with David.
+
+01:52.950 --> 01:54.540
+Tell us about your role
+
+01:54.540 --> 01:58.380
+and tell us one of your biggest objectives
+
+01:58.380 --> 02:01.170
+in the business for 2025.
+
+02:01.170 --> 02:02.100
+<v ->Well, I'm David Holmberg.</v>
+
+02:02.100 --> 02:03.930
+I'm CEO of Highmark Health.
+
+02:03.930 --> 02:07.500
+Highmark Health is a integrated health system
+
+02:07.500 --> 02:09.930
+and health plan based in Pittsburgh.
+
+02:09.930 --> 02:13.470
+So, you know, we're the blue plan for four states.
+
+02:13.470 --> 02:15.240
+We also have a hospital system
+
+02:15.240 --> 02:17.910
+with 14 hospitals in Western Pennsylvania.
+
+02:17.910 --> 02:19.650
+And we have a technology company
+
+02:19.650 --> 02:23.550
+that, you know, is pretty advanced in terms of capabilities
+
+02:23.550 --> 02:25.860
+and the work that we're trying to do.
+
+02:25.860 --> 02:28.950
+You know, from our perspective, the biggest challenge,
+
+02:28.950 --> 02:30.390
+I mean, obviously, the environment we're in
+
+02:30.390 --> 02:32.340
+is very difficult right now.
+
+02:32.340 --> 02:36.960
+And, you know, we believe very strongly that in 2025,
+
+02:36.960 --> 02:38.970
+we've gotta start to move some things forward
+
+02:38.970 --> 02:43.470
+and be different and innovate and maybe show progress
+
+02:43.470 --> 02:45.960
+on, you know, some of the consumer things.
+
+02:45.960 --> 02:47.700
+And just to give you a perspective,
+
+02:47.700 --> 02:50.370
+I'm a very unconventional healthcare CEO.
+
+02:50.370 --> 02:52.440
+I started my career in the jewelry business.
+
+02:52.440 --> 02:54.660
+Ultimately got into the optical business,
+
+02:54.660 --> 02:56.340
+and that's how I ended up in healthcare.
+
+02:56.340 --> 02:57.390
+<v Logan>What's one thing you've carried</v>
+
+02:57.390 --> 03:00.510
+from being a jeweler to being a head of a health system?
+
+03:00.510 --> 03:01.560
+<v ->Well, when you're selling jewel.</v>
+
+03:01.560 --> 03:03.570
+Well, first of all, I am very popular at Christmas time
+
+03:03.570 --> 03:04.830
+'cause I can get you out of trouble.
+
+03:04.830 --> 03:08.250
+Whatever trouble you've gotten yourself into, you know.
+
+03:08.250 --> 03:11.640
+For me, you know, when you're selling jewelry,
+
+03:11.640 --> 03:15.870
+you're selling something that people want but don't need.
+
+03:15.870 --> 03:20.070
+And in healthcare, they need us but sometimes don't want us.
+
+03:20.070 --> 03:24.240
+And so we have to figure out a way to meet people
+
+03:24.240 --> 03:26.520
+where they're at, treat 'em like consumers,
+
+03:26.520 --> 03:30.540
+maybe break the paradigm of a health, you know, insurer
+
+03:30.540 --> 03:33.900
+or health system or pharma company, whatever it might be,
+
+03:33.900 --> 03:35.760
+and take a different approach that's been done.
+
+03:35.760 --> 03:36.593
+<v Logan>Nice.</v>
+
+03:36.593 --> 03:37.426
+Dr. Nevin.
+
+03:37.426 --> 03:38.259
+<v ->Thanks.</v>
+
+03:38.259 --> 03:39.390
+Good afternoon.
+
+03:39.390 --> 03:40.410
+Dr. Janice Nevin.
+
+03:40.410 --> 03:43.050
+I'm the president and CEO of ChristianaCare.
+
+03:43.050 --> 03:46.230
+I am a primary care physician by training,
+
+03:46.230 --> 03:48.990
+grew up with the biopsychosocial model of care
+
+03:48.990 --> 03:53.990
+and so firmly believe in how care needs to be integrated
+
+03:54.345 --> 03:56.550
+in order to achieve health.
+
+03:56.550 --> 03:59.010
+And I think, again, when we think about technology,
+
+03:59.010 --> 04:01.770
+there's a great opportunity with technology
+
+04:01.770 --> 04:03.480
+to help us do that.
+
+04:03.480 --> 04:05.070
+We are large regional,
+
+04:05.070 --> 04:07.620
+community-based academic health system.
+
+04:07.620 --> 04:10.620
+We take care of people throughout the state of Delaware
+
+04:10.620 --> 04:13.620
+as well as in the contiguous counties in Maryland,
+
+04:13.620 --> 04:16.920
+Southeastern Pennsylvania, and New Jersey.
+
+04:16.920 --> 04:20.940
+We are very committed to population health,
+
+04:20.940 --> 04:23.490
+to value-based care.
+
+04:23.490 --> 04:26.430
+You know, we believe that there is a better way
+
+04:26.430 --> 04:29.370
+to care for people to really drive health
+
+04:29.370 --> 04:33.180
+that the hospital should be the place of last resort.
+
+04:33.180 --> 04:36.330
+And again, as I think about the future,
+
+04:36.330 --> 04:38.640
+I think about 2025.
+
+04:38.640 --> 04:42.090
+Again, I just think there's an incredible opportunity
+
+04:42.090 --> 04:44.460
+given the time in which we find ourselves,
+
+04:44.460 --> 04:47.400
+the technology that's available to us
+
+04:47.400 --> 04:52.350
+to really help solve for some of the very troubling issues
+
+04:52.350 --> 04:54.000
+that we have in healthcare.
+
+04:54.000 --> 04:56.220
+Whether it be our ability to care
+
+04:56.220 --> 05:00.630
+for a significantly growing elderly population
+
+05:00.630 --> 05:04.680
+where an ability to support our workforce,
+
+05:04.680 --> 05:08.910
+which is dwindling and has significant issues with burnout.
+
+05:08.910 --> 05:12.120
+And also to solve for the financial issues
+
+05:12.120 --> 05:14.160
+so that we can make care more affordable.
+
+05:14.160 --> 05:16.470
+And that's really where we're focused.
+
+05:16.470 --> 05:17.303
+<v ->Thanks.</v>
+
+05:17.303 --> 05:18.420
+Dr. Howell.
+
+05:18.420 --> 05:19.253
+<v ->I'm Michael Howell.</v>
+
+05:19.253 --> 05:20.790
+I work at Google.
+
+05:20.790 --> 05:23.370
+I'm the company's chief clinical officer,
+
+05:23.370 --> 05:25.200
+which if it sounds like a made up job title
+
+05:25.200 --> 05:28.083
+for the best job in the world possible that that's true.
+
+05:29.070 --> 05:32.970
+And my teams work across the things that Google does
+
+05:32.970 --> 05:35.400
+that have an important impact in health.
+
+05:35.400 --> 05:36.780
+And so those are things
+
+05:36.780 --> 05:40.140
+like, you know, a few hundred million people a day come
+
+05:40.140 --> 05:42.990
+to search, ask questions about their health.
+
+05:42.990 --> 05:46.590
+They're around 200 billion health related YouTube videos
+
+05:46.590 --> 05:48.300
+that are viewed a year.
+
+05:48.300 --> 05:51.090
+There are 8 billion people on the planet.
+
+05:51.090 --> 05:54.180
+But also our work with enterprises through Google Cloud
+
+05:54.180 --> 05:56.580
+through inventing new kinds of math.
+
+05:56.580 --> 05:59.400
+You know, two of my coworkers last month received
+
+05:59.400 --> 06:03.150
+their Nobel Prize for protein folding.
+
+06:03.150 --> 06:05.610
+And then I come from a background of I took care
+
+06:05.610 --> 06:07.500
+of sick people for a long time.
+
+06:07.500 --> 06:11.520
+I'm a pulmonary critical care doc in between 1995-1995.
+
+06:13.860 --> 06:17.880
+And 2017, I was either training or practicing as an ICU doc
+
+06:17.880 --> 06:19.890
+and then ran parts of health systems.
+
+06:19.890 --> 06:21.990
+And so I would say that, you know, the things
+
+06:21.990 --> 06:24.840
+to know about us are we have six products
+
+06:24.840 --> 06:28.020
+that more than 2 billion people use every month.
+
+06:28.020 --> 06:30.210
+By definition, that tells you that we have to think
+
+06:30.210 --> 06:31.860
+on a global scale.
+
+06:31.860 --> 06:35.760
+And that the other is that is we invent new kinds of math
+
+06:35.760 --> 06:37.530
+and new kinds of AI.
+
+06:37.530 --> 06:40.890
+We work really hard to make those available for other folks
+
+06:40.890 --> 06:42.093
+to build on top of.
+
+06:43.050 --> 06:46.200
+<v ->Quick follow up, where do you see Google Health</v>
+
+06:46.200 --> 06:48.340
+on YouTube sort of shifting
+
+06:49.440 --> 06:52.980
+vis-a-vis the Google TV sort of announcement
+
+06:52.980 --> 06:54.390
+and kinda where that's heading?
+
+06:54.390 --> 06:55.620
+<v ->Yeah, there are a few things.</v>
+
+06:55.620 --> 06:58.410
+So one is in the health information quality space there,
+
+06:58.410 --> 07:01.110
+we worked with the National Academy of Medicine
+
+07:01.110 --> 07:04.620
+and the World Health Organization who defined principles
+
+07:04.620 --> 07:07.350
+for what high quality health information is.
+
+07:07.350 --> 07:10.680
+And so, you know, if you search for the most common queries,
+
+07:10.680 --> 07:11.910
+you'll see this thing at the top
+
+07:11.910 --> 07:14.040
+that says from health sources.
+
+07:14.040 --> 07:16.110
+And then we'll tell you like that this video
+
+07:16.110 --> 07:18.510
+is from, you know, ChristianaCare,
+
+07:18.510 --> 07:20.940
+which has licensed hospitals in the United States,
+
+07:20.940 --> 07:23.370
+or for doctors, nurses,
+
+07:23.370 --> 07:25.020
+and licensed mental health professionals.
+
+07:25.020 --> 07:26.550
+It will tell you it's a licensed physician
+
+07:26.550 --> 07:27.870
+or a licensed nurse.
+
+07:27.870 --> 07:31.500
+We do actually give verified licenses and things like that.
+
+07:31.500 --> 07:32.550
+And then I think the other thing
+
+07:32.550 --> 07:35.010
+that we've worked on really hard for accessibility
+
+07:35.010 --> 07:37.590
+is related to language.
+
+07:37.590 --> 07:40.530
+And so we have AI tools that help people move
+
+07:40.530 --> 07:41.460
+from their native language
+
+07:41.460 --> 07:43.410
+to more than a hundred other languages.
+
+07:43.410 --> 07:45.750
+You know, we have really expanding availability
+
+07:45.750 --> 07:47.400
+of high quality information.
+
+07:47.400 --> 07:48.233
+<v Logan>Okay.</v>
+
+07:48.233 --> 07:49.470
+Diogo Rau, What are you working on?
+
+07:49.470 --> 07:50.303
+<v ->Great.</v>
+
+07:50.303 --> 07:52.050
+Hey everyone, my name is Diogo Rau
+
+07:52.050 --> 07:54.120
+and I am at Eli Lilly and Company.
+
+07:54.120 --> 07:55.650
+We are a company that makes medicines
+
+07:55.650 --> 07:58.290
+and my job is to run technology,
+
+07:58.290 --> 08:01.170
+run everything from the technology that we use in discovery
+
+08:01.170 --> 08:04.440
+to the technology we use in the consumer experience.
+
+08:04.440 --> 08:05.610
+Speaking of the consumer experience,
+
+08:05.610 --> 08:07.650
+it's awesome to be here at CES.
+
+08:07.650 --> 08:09.510
+I've had a grin on my face all day
+
+08:09.510 --> 08:12.630
+as I've seen all kinds of really cool technology.
+
+08:12.630 --> 08:15.570
+Actually, I see a few people out there smiling right now.
+
+08:15.570 --> 08:19.260
+Now, let me ask you about the last time you got medicine.
+
+08:19.260 --> 08:20.943
+Did that make you smile,
+
+08:21.900 --> 08:23.940
+especially when you had to pay the copay?
+
+08:23.940 --> 08:25.140
+I bet not.
+
+08:25.140 --> 08:27.210
+That is something we need to change.
+
+08:27.210 --> 08:30.240
+Like this industry is stuck in the wrong century.
+
+08:30.240 --> 08:32.760
+Like we need to modernize this consumer experience,
+
+08:32.760 --> 08:35.700
+at least bring it into the late 20th century.
+
+08:35.700 --> 08:37.740
+Actually, I'd really like to bring it into the 21st century,
+
+08:37.740 --> 08:40.050
+but it's time to change that consumer experience.
+
+08:40.050 --> 08:43.140
+That's really the problem that I wanna go after this year.
+
+08:43.140 --> 08:43.973
+<v ->Awesome.</v>
+
+08:43.973 --> 08:45.090
+Okay, I wanna start our conversation,
+
+08:45.090 --> 08:47.640
+although it's already begun.
+
+08:47.640 --> 08:50.550
+Talking about the greatest challenges you're seeing
+
+08:50.550 --> 08:54.270
+in health and in health innovation within your sphere.
+
+08:54.270 --> 08:57.390
+At Startup Health, we coach hundreds of founders
+
+08:57.390 --> 09:01.230
+and often come back to the traditional SWAT chart,
+
+09:01.230 --> 09:03.480
+the understanding that if you understand your weaknesses
+
+09:03.480 --> 09:07.920
+and threats, it opens up opportunities for innovation
+
+09:07.920 --> 09:08.790
+and expansion.
+
+09:08.790 --> 09:11.370
+And so I really want to go down the line
+
+09:11.370 --> 09:13.260
+and talk about the greatest challenge
+
+09:13.260 --> 09:16.560
+that you're seeing in 2025, and then we'll come back around
+
+09:16.560 --> 09:19.365
+towards kinda how that opens up opportunities
+
+09:19.365 --> 09:20.198
+for innovation.
+
+09:20.198 --> 09:21.150
+So David.
+
+09:21.150 --> 09:25.080
+<v ->Well, the greatest challenge we're seeing in 2025</v>
+
+09:25.080 --> 09:28.590
+is, you know, we have a big portion of the country
+
+09:28.590 --> 09:31.650
+that's not satisfied with the healthcare system,
+
+09:31.650 --> 09:33.390
+and that includes all of us.
+
+09:33.390 --> 09:38.280
+And, you know, and I think you have this in this panel,
+
+09:38.280 --> 09:40.020
+we all represent different components
+
+09:40.020 --> 09:41.252
+of the healthcare system.
+
+09:41.252 --> 09:42.660
+You know, we have the financing of care,
+
+09:42.660 --> 09:45.780
+we have the delivery of care, we have technology,
+
+09:45.780 --> 09:47.400
+we've got pharmaceuticals.
+
+09:47.400 --> 09:49.200
+Pharmaceuticals are running 30%
+
+09:49.200 --> 09:51.777
+of claims, you know, expense today.
+
+09:51.777 --> 09:54.090
+And that reflects the success and the work
+
+09:54.090 --> 09:56.190
+that they're doing to create super drugs
+
+09:56.190 --> 09:58.230
+and things that are gonna make a difference.
+
+09:58.230 --> 10:00.510
+And the biggest challenge we see
+
+10:00.510 --> 10:02.820
+is we're all working in silos.
+
+10:02.820 --> 10:07.590
+You know, if we wanna change healthcare in 2025 and beyond,
+
+10:07.590 --> 10:09.420
+we've gotta get at the table together
+
+10:09.420 --> 10:13.500
+and work on some of these things in a collaborative front.
+
+10:13.500 --> 10:14.910
+And that's what we were talking about
+
+10:14.910 --> 10:17.190
+before we started today is, you know, we're working
+
+10:17.190 --> 10:20.527
+with Christiana and Delaware on some unique things.
+
+10:20.527 --> 10:24.060
+You know, we're working with Lily on some unique things,
+
+10:24.060 --> 10:25.950
+but I do believe that's the biggest challenge
+
+10:25.950 --> 10:28.560
+is we're all in silos, we all have more data
+
+10:28.560 --> 10:30.840
+than we know what to do with, and we're lacking insights
+
+10:30.840 --> 10:34.770
+because we're not on the same team on any given issue.
+
+10:34.770 --> 10:35.603
+<v ->Okay.</v>
+
+10:35.603 --> 10:36.810
+And a reminder that if anyone wants to jump in
+
+10:36.810 --> 10:38.430
+on a response, you're welcome to.
+
+10:38.430 --> 10:39.263
+So, Dr. Nevin?
+
+10:39.263 --> 10:41.010
+<v ->Yeah, I would just really underscore</v>
+
+10:41.010 --> 10:42.900
+that I was gonna say it at some point.
+
+10:42.900 --> 10:45.450
+I think not only do we function in silos,
+
+10:45.450 --> 10:48.090
+we tend to point fingers at each other.
+
+10:48.090 --> 10:51.780
+And I think, you know, if we've learned nothing
+
+10:51.780 --> 10:54.060
+over the last couple of months,
+
+10:54.060 --> 10:56.370
+we really need to come together
+
+10:56.370 --> 11:01.320
+and start bringing our collective capabilities
+
+11:01.320 --> 11:06.320
+to the table to solve for what our very real challenges.
+
+11:06.480 --> 11:09.240
+You know, I spend an awful lot of time thinking
+
+11:09.240 --> 11:12.330
+about people being a health system provider.
+
+11:12.330 --> 11:16.680
+We are either taking care of people, families, communities,
+
+11:16.680 --> 11:20.310
+or we have people that we have to take care of
+
+11:20.310 --> 11:22.920
+who are fulfilling that role.
+
+11:22.920 --> 11:27.630
+And, you know, as I mentioned in the opening,
+
+11:27.630 --> 11:29.880
+it's becoming increasingly challenging
+
+11:29.880 --> 11:33.450
+for people who need care to be able to access care.
+
+11:33.450 --> 11:38.450
+And so we really have to think creatively, innovatively,
+
+11:39.000 --> 11:43.650
+think about how we use technology to support our people
+
+11:43.650 --> 11:47.040
+so that they can do what they came to healthcare to do,
+
+11:47.040 --> 11:49.770
+which is provide that human touch.
+
+11:49.770 --> 11:53.520
+Technology is an absolutely essential critical tool.
+
+11:53.520 --> 11:55.470
+We need to figure out how to use it
+
+11:55.470 --> 11:58.080
+in ways that are gonna have impact.
+
+11:58.080 --> 12:02.310
+But when someone is suffering, they want that human touch
+
+12:02.310 --> 12:05.370
+and we need to ensure that we will be able to do that.
+
+12:05.370 --> 12:08.037
+We've done a couple of things at ChristianaCare
+
+12:08.037 --> 12:11.490
+and an effort to meet that challenge.
+
+12:11.490 --> 12:15.810
+I think, you know, the, the promise of ambient voice
+
+12:15.810 --> 12:19.800
+in helping solve for some of the administrative issues
+
+12:19.800 --> 12:21.120
+that result in burnout.
+
+12:21.120 --> 12:23.220
+I'm very excited about that.
+
+12:23.220 --> 12:25.320
+We also have deployed Moxie.
+
+12:25.320 --> 12:28.440
+Moxie is a collaborative robot.
+
+12:28.440 --> 12:33.440
+Moxie essentially takes non-value added tasks off the hands
+
+12:33.990 --> 12:35.910
+of bedside nurses.
+
+12:35.910 --> 12:39.720
+And to date, I think Moxie has saved something
+
+12:39.720 --> 12:42.810
+like 8 million hours of work
+
+12:42.810 --> 12:46.680
+for nurses and patient care technicians.
+
+12:46.680 --> 12:49.950
+So, again, we've gotta think ultimately in healthcare,
+
+12:49.950 --> 12:53.250
+we take care of people and we need people,
+
+12:53.250 --> 12:54.630
+we'll never have enough.
+
+12:54.630 --> 12:56.520
+So I spent a lot of time, you know,
+
+12:56.520 --> 12:59.850
+thinking about worrying about how the people that we serve
+
+12:59.850 --> 13:01.950
+are gonna be able to get the care that they need
+
+13:01.950 --> 13:05.070
+and how I and we can do a better job
+
+13:05.070 --> 13:07.650
+of supporting those that provide that care.
+
+13:07.650 --> 13:08.700
+<v ->Michael, maybe you can lean in</v>
+
+13:08.700 --> 13:11.730
+on some of the AI challenges that you're seeing
+
+13:11.730 --> 13:13.830
+and how that even feeds into.
+
+13:13.830 --> 13:16.380
+I think, what we heard were people challenges
+
+13:16.380 --> 13:19.200
+and silo challenges, community challenges.
+
+13:19.200 --> 13:20.610
+But then on the tech side,
+
+13:20.610 --> 13:25.610
+I think you and Diogo can feed into that.
+
+13:25.830 --> 13:28.500
+<v ->You mean technology is a tool, right,</v>
+
+13:28.500 --> 13:29.580
+to solve a problem.
+
+13:29.580 --> 13:31.440
+And so what is the problem?
+
+13:31.440 --> 13:33.390
+I think I would probably say the same thing
+
+13:33.390 --> 13:36.810
+that patient-centered care, by definition,
+
+13:36.810 --> 13:38.643
+doesn't care where the patient is.
+
+13:40.227 --> 13:42.690
+We should take care of them whenever they need it
+
+13:42.690 --> 13:46.290
+with as little effort and as little expense as possible
+
+13:46.290 --> 13:48.420
+to create the most health on the planet.
+
+13:48.420 --> 13:51.840
+The WHO says that 4.5 billion people don't have access
+
+13:51.840 --> 13:54.600
+to essential health services.
+
+13:54.600 --> 13:57.273
+That's not only outside the United States.
+
+13:58.590 --> 14:03.203
+You know, if you talk to medical schools
+
+14:04.050 --> 14:05.940
+who are recruiting faculty,
+
+14:05.940 --> 14:09.060
+they can't find primary care with a reasonable wait time
+
+14:09.060 --> 14:11.070
+for the faculty that they're recruiting.
+
+14:11.070 --> 14:13.410
+And it's not because the doctors aren't working hard
+
+14:13.410 --> 14:14.820
+or the nurses aren't working hard
+
+14:14.820 --> 14:16.380
+or the physical therapists aren't working hard
+
+14:16.380 --> 14:18.330
+or the pharmacists aren't working hard.
+
+14:18.330 --> 14:22.050
+It's because of the system that we, to quote Don Berwick,
+
+14:22.050 --> 14:25.860
+the system that we have is perfectly designed
+
+14:25.860 --> 14:27.540
+to achieve the outcomes that it achieves.
+
+14:27.540 --> 14:28.830
+And so we need to think about that.
+
+14:28.830 --> 14:32.400
+And technology is an important tool for that.
+
+14:32.400 --> 14:35.490
+AI is a foundational general purpose technology
+
+14:35.490 --> 14:37.770
+like electricity or connectivity.
+
+14:37.770 --> 14:40.170
+And so it may have impacts across all of those.
+
+14:40.170 --> 14:45.120
+And certainly, we see the early targets being eliminated.
+
+14:45.120 --> 14:48.300
+I can tell a fellow lean practitioner over here,
+
+14:48.300 --> 14:51.840
+eliminating the non-value added work that is huge part
+
+14:51.840 --> 14:54.210
+of being successful in healthcare.
+
+14:54.210 --> 14:55.230
+<v ->So just to follow up quickly,</v>
+
+14:55.230 --> 14:56.670
+that's sort of like the macro challenge.
+
+14:56.670 --> 15:00.300
+I'm curious, as you look at 2025 in your specific work,
+
+15:00.300 --> 15:03.570
+what's a specific challenge that might keep you up at night?
+
+15:03.570 --> 15:08.100
+<v ->Yeah, 2023 was the year of people experimenting</v>
+
+15:08.100 --> 15:09.420
+with large language models.
+
+15:09.420 --> 15:14.040
+2024 was the year of many leading healthcare organizations
+
+15:14.040 --> 15:16.770
+getting real value out of generative AI.
+
+15:16.770 --> 15:21.750
+2025 is the year of agents, by which I mean the models begin
+
+15:21.750 --> 15:24.130
+to do things in the real world around them
+
+15:25.080 --> 15:27.570
+to use of tools and other systems.
+
+15:27.570 --> 15:30.300
+That's a whole new set of challenges that will require a lot
+
+15:30.300 --> 15:33.027
+of change management for use in healthcare
+
+15:33.027 --> 15:35.100
+and in every industry.
+
+15:35.100 --> 15:36.180
+<v Logan>Diogo.</v>
+
+15:36.180 --> 15:38.640
+<v ->Well, a lot going on in 2025,</v>
+
+15:38.640 --> 15:41.940
+but if I had to put one thing out there on the radar,
+
+15:41.940 --> 15:44.070
+it's around the safety of our medicines.
+
+15:44.070 --> 15:45.960
+Now, that's not a hot, sexy topic,
+
+15:45.960 --> 15:48.180
+but it actually is really important right now
+
+15:48.180 --> 15:50.820
+because something big is happening in our world
+
+15:50.820 --> 15:55.380
+that is the rise of the medicines to treat obesity.
+
+15:55.380 --> 15:57.240
+There are a couple on the market,
+
+15:57.240 --> 15:58.740
+there are many more coming.
+
+15:58.740 --> 16:00.420
+These are expensive medicines
+
+16:00.420 --> 16:03.150
+that many plans choose not to cover,
+
+16:03.150 --> 16:05.760
+so that means the cash price is really expensive.
+
+16:05.760 --> 16:07.500
+What happens when you have a hot product
+
+16:07.500 --> 16:09.000
+that's really expensive?
+
+16:09.000 --> 16:11.190
+You start getting a lot of fakes out there.
+
+16:11.190 --> 16:14.130
+Now, it's one thing if you get a fake movie
+
+16:14.130 --> 16:16.620
+or get a copy of something or a fake handbag.
+
+16:16.620 --> 16:19.050
+How much harm is that really going to do?
+
+16:19.050 --> 16:20.760
+When you're talking about a fake medicine,
+
+16:20.760 --> 16:22.530
+something that you inject in your body.
+
+16:22.530 --> 16:25.590
+At best, a fake medicine is going to do no harm.
+
+16:25.590 --> 16:30.590
+At worst, the consequences could be absolutely catastrophic.
+
+16:30.690 --> 16:32.697
+This is something we are just at the beginning of.
+
+16:32.697 --> 16:36.900
+And I think we need to start turning our focus to it in 2025
+
+16:36.900 --> 16:39.480
+because this industry really needs to change.
+
+16:39.480 --> 16:41.340
+This industry, the medicines industry
+
+16:41.340 --> 16:43.770
+and the healthcare industry has a terrible history.
+
+16:43.770 --> 16:46.800
+If you go all the way back 150 years, like around the time
+
+16:46.800 --> 16:48.030
+that Lilly was started.
+
+16:48.030 --> 16:51.060
+Lilly in fact was started to counteract snake oil
+
+16:51.060 --> 16:53.460
+and all the fake medicines that were out there.
+
+16:53.460 --> 16:55.710
+We are about to hit that again,
+
+16:55.710 --> 16:59.550
+thanks to the rise in medicines to treat obesity,
+
+16:59.550 --> 17:02.040
+the economic potential for counterfeiters out there.
+
+17:02.040 --> 17:04.380
+So we're working on that really hard.
+
+17:04.380 --> 17:06.750
+We've got some really cool consumer kinds of technology
+
+17:06.750 --> 17:08.190
+we'd be happy to talk about,
+
+17:08.190 --> 17:10.920
+bringing in NFC and other things like that.
+
+17:10.920 --> 17:13.200
+But this is something that we're going to have to address
+
+17:13.200 --> 17:15.123
+before people get hurt in a big way.
+
+17:17.460 --> 17:19.740
+<v ->I wanna talk about tech convergence.</v>
+
+17:19.740 --> 17:22.590
+We're here at CES and one of the really exciting things
+
+17:22.590 --> 17:25.860
+about being on the floor is that the health tech zone
+
+17:25.860 --> 17:29.790
+is next to the vacuums, the home tech,
+
+17:29.790 --> 17:34.790
+and you can go see the auto tech personal wellness tech
+
+17:35.370 --> 17:36.780
+and the world's collide.
+
+17:36.780 --> 17:37.613
+The world's collide.
+
+17:37.613 --> 17:38.880
+And so when you're in health,
+
+17:38.880 --> 17:40.770
+you start to connect these dots,
+
+17:40.770 --> 17:43.860
+you start to see how this should play with that,
+
+17:43.860 --> 17:45.510
+should play with this,
+
+17:45.510 --> 17:48.720
+or how it should and it never does,
+
+17:48.720 --> 17:50.310
+so you start to see the gaps as well.
+
+17:50.310 --> 17:51.720
+So I'd like to go down the line
+
+17:51.720 --> 17:56.720
+and hear what convergence you would like to see happen.
+
+17:56.970 --> 17:59.070
+Maybe it's something that you'd like to have somebody pitch
+
+17:59.070 --> 18:02.670
+to you and maybe you're seeing elements of it,
+
+18:02.670 --> 18:03.750
+maybe it hasn't happened yet,
+
+18:03.750 --> 18:06.870
+but how would you like to see the dots connected
+
+18:06.870 --> 18:08.700
+based off of some of the tech you're seeing here.
+
+18:08.700 --> 18:09.810
+David?
+
+18:09.810 --> 18:12.360
+<v ->Well, I mean, it's been a fascinating few days.</v>
+
+18:12.360 --> 18:14.410
+I mean, I had a chance to walk the floor.
+
+18:15.390 --> 18:19.440
+I mean, there was a lot of tech that's looking for a market.
+
+18:19.440 --> 18:22.740
+I was looking at the tech and saying, okay,
+
+18:22.740 --> 18:25.000
+how do we solve an existing problem
+
+18:26.095 --> 18:27.360
+that's in the healthcare system
+
+18:27.360 --> 18:29.040
+that, you know, we're trying to deal with?
+
+18:29.040 --> 18:32.490
+And being both a payer and a provider of care,
+
+18:32.490 --> 18:34.410
+we get to see both sides of the equation.
+
+18:34.410 --> 18:37.440
+And when it's out of balance, I mean, it can be devastating.
+
+18:37.440 --> 18:42.440
+So what I'm excited about was, you know, I truly believe
+
+18:42.750 --> 18:44.520
+that if we're going to get this right as a country,
+
+18:44.520 --> 18:46.620
+we're gonna have to innovate our way out.
+
+18:46.620 --> 18:48.180
+And the way that'll happen
+
+18:48.180 --> 18:51.000
+is by, you know, getting the smart people in the room
+
+18:51.000 --> 18:53.910
+and saying, these are the five problems
+
+18:53.910 --> 18:56.700
+that are most relevant that could make a difference,
+
+18:56.700 --> 18:59.280
+that could deal with, you know, the fakes
+
+18:59.280 --> 19:02.400
+and all the other stuff that we agree upon.
+
+19:02.400 --> 19:05.490
+And then what do you have in your tool chest that'll work?
+
+19:05.490 --> 19:09.150
+So I jokingly, for those of you who are a little bit older,
+
+19:09.150 --> 19:12.510
+if you remember "The Gong Show", you know,
+
+19:12.510 --> 19:14.640
+it was on television a few years ago.
+
+19:14.640 --> 19:17.040
+You know, we have run that several times
+
+19:17.040 --> 19:19.920
+where we invite anyone in who's got an innovative idea
+
+19:19.920 --> 19:23.730
+that improves care, improves outcomes,
+
+19:23.730 --> 19:25.560
+and that addresses affordability.
+
+19:25.560 --> 19:28.713
+And we'll listen to 'em and we'll try to find a way,
+
+19:29.880 --> 19:31.890
+you know, to pilot it.
+
+19:31.890 --> 19:35.400
+We're doing that with ambient listening for our clinicians.
+
+19:35.400 --> 19:36.480
+That's been a big space.
+
+19:36.480 --> 19:39.360
+So we had a bunch of things
+
+19:39.360 --> 19:41.790
+that we saw the last couple of days.
+
+19:41.790 --> 19:44.730
+Everything from sensors that they were using
+
+19:44.730 --> 19:48.900
+with the military to determine if a uniform was wet,
+
+19:48.900 --> 19:50.733
+was it blood or was it water?
+
+19:51.810 --> 19:53.640
+<v ->Remind me how many patients generally</v>
+
+19:53.640 --> 19:55.770
+your health system deals with.
+
+19:55.770 --> 19:59.160
+<v ->So we'll see about two and a half million patients a year.</v>
+
+19:59.160 --> 19:59.993
+<v ->Yeah.</v>
+
+19:59.993 --> 20:01.590
+I ask that because, you know, all the startups
+
+20:01.590 --> 20:04.770
+that I work with would love nothing better than to get in
+
+20:04.770 --> 20:06.450
+with a health system that would plug them
+
+20:06.450 --> 20:09.055
+into a big patient population.
+
+20:09.055 --> 20:13.020
+It's the, you know, million dollars sort of ticket.
+
+20:13.020 --> 20:16.480
+What are you looking for in an innovative startup
+
+20:17.430 --> 20:19.380
+that would show you that they're ready
+
+20:19.380 --> 20:21.960
+to take on a health system?
+
+20:21.960 --> 20:25.440
+<v ->Yeah, so typically, what we look for obviously</v>
+
+20:25.440 --> 20:28.230
+is we wanna make sure that, you know, the service,
+
+20:28.230 --> 20:33.230
+the product, the solution, you know, is sound and solid
+
+20:33.390 --> 20:35.220
+and stands up.
+
+20:35.220 --> 20:38.477
+We wanna be able to pilot it, you know,
+
+20:38.477 --> 20:41.130
+'cause we have 7 million lives that we insure,
+
+20:41.130 --> 20:43.440
+two and a half million patients that we see.
+
+20:43.440 --> 20:47.010
+And if we can take a device or whatever it might be,
+
+20:47.010 --> 20:49.470
+and, you know, one of our strengths is our ability
+
+20:49.470 --> 20:52.380
+to put it into the marketplace fairly quickly.
+
+20:52.380 --> 20:56.280
+But our objective is they all have to be scalable.
+
+20:56.280 --> 20:58.800
+So we don't wanna do it for 10 people.
+
+20:58.800 --> 21:01.110
+You know, we need to know that if this works,
+
+21:01.110 --> 21:05.010
+that we will approve it for payment and we will roll it out
+
+21:05.010 --> 21:07.470
+and make sure it's part of the formulary.
+
+21:07.470 --> 21:08.700
+<v ->Dr. Nevin, same question for you.</v>
+
+21:08.700 --> 21:11.940
+I'm particularly interested in your view on the home
+
+21:11.940 --> 21:14.040
+and care being extended into the home as well.
+
+21:14.040 --> 21:15.870
+<v ->Yeah, absolutely.</v>
+
+21:15.870 --> 21:19.290
+And I would just, again, I think David and I,
+
+21:19.290 --> 21:20.490
+we do have a partnership
+
+21:20.490 --> 21:22.710
+and we tend to agree on a lot of things.
+
+21:22.710 --> 21:25.230
+I agree with everything that you said.
+
+21:25.230 --> 21:29.070
+Yeah, I mean, I think my worry about all of this
+
+21:29.070 --> 21:31.980
+is you may know that traditional healthcare
+
+21:31.980 --> 21:34.680
+is not generally very adventurous.
+
+21:34.680 --> 21:36.480
+We tend to be very traditional.
+
+21:36.480 --> 21:40.380
+And I worry that we are going to sort of lose this moment
+
+21:40.380 --> 21:44.160
+in time because the technology opportunity,
+
+21:44.160 --> 21:47.910
+particularly I think with AI and generative AI
+
+21:47.910 --> 21:50.760
+to really solve for some of these big issues
+
+21:50.760 --> 21:54.330
+that we've struggled with for decades, the time is now.
+
+21:54.330 --> 21:57.480
+And so I think it is absolutely imperative
+
+21:57.480 --> 22:01.530
+that we work together and we work with these new companies,
+
+22:01.530 --> 22:04.200
+so that as they're creating their product,
+
+22:04.200 --> 22:06.870
+they can deeply understand the problems
+
+22:06.870 --> 22:08.490
+that we're trying to solve.
+
+22:08.490 --> 22:13.110
+I am a firm believer that the home
+
+22:13.110 --> 22:17.190
+can be a really important place for care.
+
+22:17.190 --> 22:20.910
+We have long had a primary care at home program
+
+22:20.910 --> 22:23.340
+for the frail list of the frail elderly.
+
+22:23.340 --> 22:25.320
+It gets excellent outcomes
+
+22:25.320 --> 22:28.200
+and it is significantly less expensive.
+
+22:28.200 --> 22:30.270
+It costs Medicare much less
+
+22:30.270 --> 22:32.790
+when we take care of patients that way.
+
+22:32.790 --> 22:37.080
+We more recently launched a hospital at home program
+
+22:37.080 --> 22:39.000
+using the CMS waiver.
+
+22:39.000 --> 22:41.790
+So patients who qualify for admission,
+
+22:41.790 --> 22:44.250
+an inpatient admission to the hospital
+
+22:44.250 --> 22:46.410
+can now be taken care of at home.
+
+22:46.410 --> 22:49.950
+And the technology that supports that, again,
+
+22:49.950 --> 22:52.080
+it's just has been tremendous.
+
+22:52.080 --> 22:54.240
+Patients absolutely love it.
+
+22:54.240 --> 22:55.770
+Families love it.
+
+22:55.770 --> 22:59.400
+It solves for some of the issues around equity, frankly,
+
+22:59.400 --> 23:02.280
+because it helps solve for culture and language
+
+23:02.280 --> 23:04.590
+and food and so forth.
+
+23:04.590 --> 23:07.290
+The quality outcomes exceed those
+
+23:07.290 --> 23:09.750
+in bricks and mortar setting.
+
+23:09.750 --> 23:14.580
+And again, we're still trying to better understand cost,
+
+23:14.580 --> 23:17.490
+but there is extremely promising.
+
+23:17.490 --> 23:22.490
+Again, it is a way that helps us get to more affordability.
+
+23:23.190 --> 23:27.060
+We recently launched essentially skilled nursing care
+
+23:27.060 --> 23:27.893
+in the home.
+
+23:27.893 --> 23:30.990
+And our vision is to be able to provide the continuum
+
+23:30.990 --> 23:32.160
+of care in the home.
+
+23:32.160 --> 23:34.950
+And again, to me, you know,
+
+23:34.950 --> 23:38.340
+pilots and dabbling are really important.
+
+23:38.340 --> 23:41.550
+I would love to see this happen at scale
+
+23:41.550 --> 23:44.250
+and not just at, you know, ChristianaCare
+
+23:44.250 --> 23:47.700
+and the I think 130 health systems that are doing this,
+
+23:47.700 --> 23:50.670
+but this becomes a different way of providing care.
+
+23:50.670 --> 23:54.660
+It's better, it's safer and it costs less.
+
+23:54.660 --> 23:57.873
+<v ->Michael, what tech convergence are you most excited about?</v>
+
+23:59.310 --> 24:00.979
+<v ->I'm excited about the timing.</v>
+
+24:00.979 --> 24:03.630
+So there's a tendency to think
+
+24:03.630 --> 24:06.570
+that everything we see is the first time in history.
+
+24:06.570 --> 24:09.960
+And there's this thing called the productivity paradox.
+
+24:09.960 --> 24:11.370
+That if you look at introductions
+
+24:11.370 --> 24:13.650
+of general purpose technologies, like if you go back
+
+24:13.650 --> 24:17.940
+to electricity, when factories got electricity,
+
+24:17.940 --> 24:20.880
+they didn't redesign the work, they replaced the water wheel
+
+24:20.880 --> 24:22.230
+with a big central motor.
+
+24:22.230 --> 24:25.590
+And it took 10, 15, 20 years to figure out
+
+24:25.590 --> 24:28.950
+that you could redesign the work around the new technology.
+
+24:28.950 --> 24:30.540
+Same thing happened in banking
+
+24:30.540 --> 24:32.640
+with the introduction of computers.
+
+24:32.640 --> 24:37.500
+It wasn't that ATMs appeared when computers first came in.
+
+24:37.500 --> 24:41.400
+Well, when did we first digitize US healthcare?
+
+24:41.400 --> 24:42.720
+10 to 15 years ago.
+
+24:42.720 --> 24:47.010
+And so from a historical standpoint, we're at the right time
+
+24:47.010 --> 24:51.690
+where you might expect to see care actually get redesigned.
+
+24:51.690 --> 24:53.670
+We certainly see that with partners like Highmark
+
+24:53.670 --> 24:56.730
+of doing these really leading edge things for it.
+
+24:56.730 --> 25:01.290
+And so I'm especially excited about the fact
+
+25:01.290 --> 25:05.880
+that the things that two years ago no lab in the world
+
+25:05.880 --> 25:07.110
+could do them.
+
+25:07.110 --> 25:10.350
+You know, nine months ago, we got it working, you know,
+
+25:10.350 --> 25:12.300
+nearly melting the research computers
+
+25:12.300 --> 25:15.180
+and now our partners can actually build on top of it
+
+25:15.180 --> 25:18.570
+in a way that changes who can design the final mile
+
+25:18.570 --> 25:19.830
+of technology.
+
+25:19.830 --> 25:20.980
+I'm excited about that.
+
+25:22.020 --> 25:24.090
+<v Logan>Diogo, over to you.</v>
+
+25:24.090 --> 25:26.550
+<v ->I'm excited just about bringing it all together</v>
+
+25:26.550 --> 25:27.390
+and what you can do.
+
+25:27.390 --> 25:29.580
+One of the reasons why I'm excited about that
+
+25:29.580 --> 25:32.700
+is because I'd like to get rid to the extent possible
+
+25:32.700 --> 25:34.890
+of patient reported outcomes.
+
+25:34.890 --> 25:38.070
+That's the endpoint of many clinical trials.
+
+25:38.070 --> 25:42.510
+It's how the patient feels versus some objective measure.
+
+25:42.510 --> 25:44.520
+And many of you that are healthcare providers
+
+25:44.520 --> 25:46.260
+will know some of these standards,
+
+25:46.260 --> 25:48.450
+like the six minute walk test,
+
+25:48.450 --> 25:51.240
+which measures how far can you walk in six minutes
+
+25:51.240 --> 25:52.350
+when you're in a doctor's office.
+
+25:52.350 --> 25:53.250
+Maybe you're having a good day,
+
+25:53.250 --> 25:54.570
+maybe you're having a bad day,
+
+25:54.570 --> 25:56.610
+but you're getting one point in time.
+
+25:56.610 --> 25:57.990
+Or if you wanna measure
+
+25:57.990 --> 26:01.290
+whether your medicine affects sleepiness
+
+26:01.290 --> 26:03.060
+or prevents daytime sleepiness,
+
+26:03.060 --> 26:05.160
+there's a thing called the Epworth Sleepiness score.
+
+26:05.160 --> 26:08.160
+You ask the patient once every few months,
+
+26:08.160 --> 26:10.260
+how often do you feel sleepy,
+
+26:10.260 --> 26:12.780
+or doing the following eight activities.
+
+26:12.780 --> 26:14.640
+And you get a single point in time.
+
+26:14.640 --> 26:18.600
+Why do we need to be doing that when we are in 2025 now?
+
+26:18.600 --> 26:20.550
+We're all wearing these on our wrists.
+
+26:20.550 --> 26:23.280
+Why do you need to have somebody do a six minute walk
+
+26:23.280 --> 26:26.220
+in the doctor's office instead of taking in all of that data
+
+26:26.220 --> 26:27.810
+over the past six months?
+
+26:27.810 --> 26:30.090
+We've actually done that in some of our studies.
+
+26:30.090 --> 26:33.930
+We've added on actigraphy in the middle of a study
+
+26:33.930 --> 26:35.610
+that still had a patient reported outcome
+
+26:35.610 --> 26:37.920
+'cause that's what the regulators like to see.
+
+26:37.920 --> 26:41.820
+And we've seen that, wow, you can get so much richer data,
+
+26:41.820 --> 26:44.864
+you can find out that not only is the person walking
+
+26:44.864 --> 26:48.660
+and awake during the day, but they're actually active
+
+26:48.660 --> 26:50.370
+and they're doing better on the medicine.
+
+26:50.370 --> 26:54.060
+You can get much, much, much richer data
+
+26:54.060 --> 26:55.530
+if you bring it all together
+
+26:55.530 --> 26:57.150
+and you look at it holistically.
+
+26:57.150 --> 26:59.670
+So I would just like to bring all of this data together,
+
+26:59.670 --> 27:01.620
+converge everything, take a look at it,
+
+27:01.620 --> 27:02.820
+let the machines do the work,
+
+27:02.820 --> 27:04.710
+let the machines do the interpretation
+
+27:04.710 --> 27:06.240
+and get ourselves out of the business
+
+27:06.240 --> 27:09.030
+of looking at single data points spaced weeks
+
+27:09.030 --> 27:10.143
+or months apart.
+
+27:11.220 --> 27:14.090
+<v ->I've got a follow up that I wanna ask</v>
+
+27:14.090 --> 27:16.350
+to the whole group and whoever wants to jump in,
+
+27:16.350 --> 27:18.360
+it's really about taking action.
+
+27:18.360 --> 27:21.630
+Dr. Nevin, you'd said you don't wanna miss this opportunity
+
+27:21.630 --> 27:23.580
+and that we're at a specific moment in time.
+
+27:23.580 --> 27:25.050
+I couldn't agree with you more.
+
+27:25.050 --> 27:27.090
+And we've got a room full of people
+
+27:27.090 --> 27:29.580
+who can be change makers
+
+27:29.580 --> 27:32.910
+who can really take action in their sphere of influence.
+
+27:32.910 --> 27:34.860
+And so I want someone from this group
+
+27:34.860 --> 27:38.310
+or multiple people to make a recommendation
+
+27:38.310 --> 27:40.983
+about how we can make sure we don't miss this moment.
+
+27:43.560 --> 27:45.720
+<v ->I mean, I think it goes to what we've discussed</v>
+
+27:45.720 --> 27:48.480
+is we really have to work together.
+
+27:48.480 --> 27:52.380
+You know, healthcare is extremely complex
+
+27:52.380 --> 27:56.580
+and I know we've probably all had the experience
+
+27:56.580 --> 28:01.260
+of, you know, a great piece of technology has been created,
+
+28:01.260 --> 28:04.200
+but no one has really thought about how it's going
+
+28:04.200 --> 28:07.560
+to function inside the health system.
+
+28:07.560 --> 28:11.670
+And we have got to work together.
+
+28:11.670 --> 28:14.010
+You know, I think one of David mentioned
+
+28:14.010 --> 28:15.180
+that we have a partnership,
+
+28:15.180 --> 28:17.880
+we have a very unique joint venture
+
+28:17.880 --> 28:19.590
+between our two organizations.
+
+28:19.590 --> 28:21.633
+We do not have an insurance arm.
+
+28:22.560 --> 28:26.220
+And we both organizations believe we need
+
+28:26.220 --> 28:27.990
+to change care delivery.
+
+28:27.990 --> 28:30.480
+We need at the same time the opportunities
+
+28:30.480 --> 28:32.820
+to change how it gets paid for.
+
+28:32.820 --> 28:35.220
+And because we are having those conversations,
+
+28:35.220 --> 28:39.600
+we're also talking about how can we then use technology
+
+28:39.600 --> 28:44.220
+to solve for some of those vexing issues
+
+28:44.220 --> 28:47.520
+that get in the way of being able to do that.
+
+28:47.520 --> 28:51.090
+Having technology partners in that conversation
+
+28:51.090 --> 28:53.220
+and early in that conversation
+
+28:53.220 --> 28:56.070
+is ultimately gonna be the most helpful.
+
+28:56.070 --> 28:59.700
+<v ->David, your thoughts on encouraging collaboration</v>
+
+28:59.700 --> 29:03.540
+in this environment that is naturally build silos?
+
+29:03.540 --> 29:05.940
+<v ->Well, I think at least my experience</v>
+
+29:05.940 --> 29:10.940
+has been that when you have your incentives aligned,
+
+29:12.240 --> 29:13.650
+you have your metrics aligned.
+
+29:13.650 --> 29:15.060
+I mean it really is a three-legged stool.
+
+29:15.060 --> 29:17.190
+What you measure, you know, what you evaluate,
+
+29:17.190 --> 29:21.000
+and what you compensate for ultimately changes.
+
+29:21.000 --> 29:26.000
+And I mean, you know, Lily and Highmark and a HN
+
+29:26.580 --> 29:28.680
+in Western Pennsylvania, you know, prove
+
+29:28.680 --> 29:31.460
+that during the pandemic where we were able, you know,
+
+29:31.460 --> 29:35.190
+to put shots in arms for 650,000 people
+
+29:35.190 --> 29:37.563
+and stem the tide during the pandemic.
+
+29:39.068 --> 29:40.110
+And what that took
+
+29:40.110 --> 29:44.130
+was everybody taking themselves back one step, you know,
+
+29:44.130 --> 29:46.710
+all the A personalities and instead say,
+
+29:46.710 --> 29:47.760
+what are we solving for?
+
+29:47.760 --> 29:49.740
+How do we get this done and let's go?
+
+29:49.740 --> 29:52.350
+And, you know, I think Janice, just the work
+
+29:52.350 --> 29:55.233
+that we're doing in Delaware together,
+
+29:56.070 --> 29:59.190
+the thing that we've eliminated, it's full risk,
+
+29:59.190 --> 30:00.720
+up and downside risk.
+
+30:00.720 --> 30:04.740
+And so when her docs are saying, no, this isn't what works,
+
+30:04.740 --> 30:07.320
+you know, we're changing medical policy
+
+30:07.320 --> 30:08.790
+and we're trying to address that
+
+30:08.790 --> 30:11.310
+or we're showing things that are working in other markets
+
+30:11.310 --> 30:12.480
+that they might wanna consider.
+
+30:12.480 --> 30:13.313
+<v Logan>Yeah.</v>
+
+30:13.313 --> 30:15.570
+<v ->Can I take a dissenting view to part of it?</v>
+
+30:15.570 --> 30:17.070
+Or maybe a caution.
+
+30:17.070 --> 30:19.470
+I think there are a lot of great examples of collaboration
+
+30:19.470 --> 30:22.080
+like between Highmark and Lily that you mentioned,
+
+30:22.080 --> 30:25.380
+but there are also some really bad examples of collaboration
+
+30:25.380 --> 30:27.783
+where it's had tragic consequences.
+
+30:29.310 --> 30:32.340
+Anybody here want to see greater collaboration
+
+30:32.340 --> 30:35.433
+between insurers and pharmacy benefit managers?
+
+30:36.660 --> 30:41.340
+I hope not because guess who gets screwed if that happens?
+
+30:41.340 --> 30:43.230
+We all do, right?
+
+30:43.230 --> 30:46.380
+There has been a lot of collaboration in this industry
+
+30:46.380 --> 30:49.950
+that has worked against consumers, not for consumers.
+
+30:49.950 --> 30:52.800
+In fact, one of the things I only recently discovered
+
+30:52.800 --> 30:55.980
+is that 80% of the cost of your medicine
+
+30:55.980 --> 30:57.480
+when you buy medicines,
+
+30:57.480 --> 31:02.100
+the total cost is actually not going to the manufacturers.
+
+31:02.100 --> 31:03.960
+You know, maybe if it were 8%,
+
+31:03.960 --> 31:05.070
+you could kind of understand it,
+
+31:05.070 --> 31:07.200
+an 8% commission on any other product you buy.
+
+31:07.200 --> 31:09.420
+But 80, 80 is crazy.
+
+31:09.420 --> 31:12.360
+So there has been all of this collusion,
+
+31:12.360 --> 31:14.910
+this excessive collaboration I would say
+
+31:14.910 --> 31:18.330
+that happens downstream at the expense of the consumer.
+
+31:18.330 --> 31:22.620
+So I think we need excellent collaboration in certain parts.
+
+31:22.620 --> 31:25.200
+We want great collaboration on the discovery side
+
+31:25.200 --> 31:27.240
+and clinical trials and things like that.
+
+31:27.240 --> 31:28.740
+But on the consumer side,
+
+31:28.740 --> 31:31.080
+I'm not so sure I wanna see more collaboration.
+
+31:31.080 --> 31:32.970
+I wanna see more competition there
+
+31:32.970 --> 31:34.950
+to help bring down the cost of medicines
+
+31:34.950 --> 31:36.363
+and the cost of healthcare.
+
+31:37.303 --> 31:40.303
+(audience clapping)
+
+31:42.300 --> 31:44.850
+<v ->I think an interesting topic for this panel as well</v>
+
+31:44.850 --> 31:48.240
+is just as we look at the incredible increase
+
+31:48.240 --> 31:50.700
+in the amount of data that we have available,
+
+31:50.700 --> 31:54.390
+these streams of data coming in, we have both opportunity
+
+31:54.390 --> 31:59.160
+and risk when we think about drug discovery on one end
+
+31:59.160 --> 32:01.560
+and on the other, provider burnout
+
+32:01.560 --> 32:05.910
+and click fatigue, alarm fatigue.
+
+32:05.910 --> 32:08.940
+And so I'd love to hear kind of where you feel like we're at
+
+32:08.940 --> 32:11.250
+in terms of the opportunities and threats
+
+32:11.250 --> 32:12.870
+of managing the amount of data
+
+32:12.870 --> 32:14.130
+that's coming into the system.
+
+32:14.130 --> 32:16.930
+Maybe, Michael, you could start and we'll go from there.
+
+32:19.740 --> 32:23.310
+<v ->I have mixed feelings about this.</v>
+
+32:23.310 --> 32:26.787
+So number one is it's...
+
+32:26.787 --> 32:29.580
+And you asked sort of for people in the room
+
+32:29.580 --> 32:32.610
+and I don't know everyone in the room, that's for sure.
+
+32:32.610 --> 32:35.100
+You know, what are the things to think about?
+
+32:35.100 --> 32:39.360
+One is to respect the complexity of care delivery.
+
+32:39.360 --> 32:41.010
+And so I'll give an example
+
+32:41.010 --> 32:44.880
+of if you have a 500 bed hospital,
+
+32:44.880 --> 32:48.510
+you might have 2,000 nurses to staff of 500 bed hospital,
+
+32:48.510 --> 32:50.040
+maybe 1,500.
+
+32:50.040 --> 32:51.480
+Before you start applying rules,
+
+32:51.480 --> 32:52.740
+how many options are there
+
+32:52.740 --> 32:54.513
+for your staffing choices tomorrow?
+
+32:55.710 --> 32:57.690
+Well, the number is larger than the number of atoms
+
+32:57.690 --> 32:59.910
+in the observed universe.
+
+32:59.910 --> 33:00.743
+Okay.
+
+33:00.743 --> 33:03.420
+Like that's a problem we've had since the inception
+
+33:03.420 --> 33:08.420
+of hospitals and that we've had those data for a long time.
+
+33:09.240 --> 33:11.880
+We now have techniques that may be able to help with them.
+
+33:11.880 --> 33:13.860
+And so one of the things that we think about
+
+33:13.860 --> 33:15.900
+is what can we learn from other industries
+
+33:15.900 --> 33:17.730
+that may be useful for healthcare.
+
+33:17.730 --> 33:21.180
+So supply chain optimization is something
+
+33:21.180 --> 33:24.690
+that many organizations outside of healthcare
+
+33:24.690 --> 33:26.160
+are really good at
+
+33:26.160 --> 33:28.830
+and we have lots of technology to support.
+
+33:28.830 --> 33:31.830
+So we're things like scheduling and optimization
+
+33:31.830 --> 33:34.380
+of the most important resources that you have,
+
+33:34.380 --> 33:36.630
+which is your burned out clinicians, right?
+
+33:36.630 --> 33:39.063
+So one are things like that.
+
+33:39.900 --> 33:43.290
+The second thing that I would say is that, again,
+
+33:43.290 --> 33:45.810
+you know, patient-centered care doesn't care
+
+33:45.810 --> 33:48.900
+where the patient is, would be...
+
+33:48.900 --> 33:51.930
+You know, your question before
+
+33:51.930 --> 33:54.750
+posited that there has been no convergence,
+
+33:54.750 --> 33:59.250
+but if I asked this room, you know, who's been to the doctor
+
+33:59.250 --> 34:02.790
+and then who when you went home googled up
+
+34:02.790 --> 34:04.990
+what the doctor told you to double check it,
+
+34:06.690 --> 34:09.300
+like a lot of people would raise their hand for that, right?
+
+34:09.300 --> 34:11.820
+Or like, you know, haven't helped you
+
+34:11.820 --> 34:13.770
+if you had to switch primary care doctors
+
+34:13.770 --> 34:16.170
+and you try to find a new primary care doctor
+
+34:16.170 --> 34:19.680
+who's used the internet to try to help you do that.
+
+34:19.680 --> 34:21.180
+Everybody would raise their hand, right?
+
+34:21.180 --> 34:23.730
+The data would say 70% of people.
+
+34:23.730 --> 34:24.870
+And if I asked the same question
+
+34:24.870 --> 34:28.380
+of who's used, you know, Gemini or Claude or ChatGPT,
+
+34:28.380 --> 34:29.700
+a lot of people would raise their hints now
+
+34:29.700 --> 34:31.890
+who a year ago would not have.
+
+34:31.890 --> 34:36.390
+So I think we are seeing that convergence
+
+34:36.390 --> 34:39.030
+without the traditional healthcare system.
+
+34:39.030 --> 34:40.950
+And what we're hopeful for
+
+34:40.950 --> 34:43.890
+is that by making the tooling available
+
+34:43.890 --> 34:48.890
+for healthcare delivery groups, healthcare payers,
+
+34:51.210 --> 34:53.790
+medicine and device manufacturers
+
+34:53.790 --> 34:58.790
+that will be able to accelerate by us doing 85% of the work
+
+34:58.920 --> 35:00.870
+that you have to do and the 15% being done
+
+35:00.870 --> 35:02.880
+by the people who are expert in it.
+
+35:02.880 --> 35:05.590
+<v ->David, to you, how are you balancing</v>
+
+35:06.600 --> 35:08.910
+just all of this data coming in, the power of it,
+
+35:08.910 --> 35:10.080
+making the most of it,
+
+35:10.080 --> 35:12.750
+while still thinking about just the mental health
+
+35:12.750 --> 35:14.580
+and wellbeing of your providers
+
+35:14.580 --> 35:16.410
+as they manage that at the bedside?
+
+35:16.410 --> 35:18.240
+<v ->Yeah, I mean, I would say a couple of things.</v>
+
+35:18.240 --> 35:19.620
+First of all, there's a gentleman named Richard Clark
+
+35:19.620 --> 35:22.350
+in the audience, who heads up our data analytics,
+
+35:22.350 --> 35:24.120
+came out of Carnegie Mellon.
+
+35:24.120 --> 35:25.650
+You know, we went out and we found a bunch
+
+35:25.650 --> 35:26.940
+of smart people at Carnegie Mellon
+
+35:26.940 --> 35:28.860
+who knew nothing about healthcare.
+
+35:28.860 --> 35:33.570
+And then we said, how can you help us take this information,
+
+35:33.570 --> 35:37.590
+all this knowledge, both on terms of clinical data,
+
+35:37.590 --> 35:41.520
+claims data and unstructured data, you know, the devices,
+
+35:41.520 --> 35:43.650
+et cetera, and do something with it.
+
+35:43.650 --> 35:45.000
+So we partnered with Google
+
+35:45.000 --> 35:47.880
+and said, you know, we need your help
+
+35:47.880 --> 35:50.910
+on how do we, you know, build the big engine.
+
+35:50.910 --> 35:53.490
+And, you know, we're challenging our people
+
+35:53.490 --> 35:58.410
+to then take all that complex information and simplify it.
+
+35:58.410 --> 36:01.740
+So going back to my, you know, retail roots.
+
+36:01.740 --> 36:03.570
+In retail, when you talk to somebody,
+
+36:03.570 --> 36:05.490
+a salesperson in a store, you know,
+
+36:05.490 --> 36:06.930
+if you ask them to do something,
+
+36:06.930 --> 36:08.550
+you need to understand that you have to write
+
+36:08.550 --> 36:11.280
+in a language that allows them to start working
+
+36:11.280 --> 36:14.340
+on the project or read it, put it down, go help a customer,
+
+36:14.340 --> 36:17.190
+then come back to it in five minutes and pick it back up.
+
+36:17.190 --> 36:21.450
+So if you write in paragraphs, people don't pay attention.
+
+36:21.450 --> 36:25.080
+If you write, you know, in bullet points,
+
+36:25.080 --> 36:26.700
+you can get things done.
+
+36:26.700 --> 36:29.190
+We're doing the same thing with everything that we're doing.
+
+36:29.190 --> 36:31.980
+You know, we're using the data
+
+36:31.980 --> 36:35.400
+and then we're using journey maps, consumer journey maps
+
+36:35.400 --> 36:37.830
+for different disease states, cancer, you know,
+
+36:37.830 --> 36:39.600
+heart disease, whatever it might be.
+
+36:39.600 --> 36:43.470
+And we're trying to make it so that the average person
+
+36:43.470 --> 36:45.510
+can understand it, and we're making it so
+
+36:45.510 --> 36:50.100
+that it's in a format that the average clinician, you know,
+
+36:50.100 --> 36:54.207
+who's, you know, got alert fatigue can deal with it.
+
+36:54.207 --> 36:56.040
+And we're also using ambient listening
+
+36:56.040 --> 36:58.170
+and, you know, all those kinds of things, you know,
+
+36:58.170 --> 37:01.533
+so that we end the days of our docs doing pajama notes.
+
+37:02.520 --> 37:04.260
+<v ->A little different spin on this question for you,</v>
+
+37:04.260 --> 37:05.250
+Dr. Nevin.
+
+37:05.250 --> 37:06.870
+I felt like when I walked the floor,
+
+37:06.870 --> 37:10.890
+there was a lack of innovation in provider care,
+
+37:10.890 --> 37:13.050
+just thinking about the provider workflow
+
+37:13.050 --> 37:15.100
+and there's a number of reasons for that.
+
+37:16.080 --> 37:19.110
+How do you think about the kind of programs
+
+37:19.110 --> 37:20.700
+that you want to roll out
+
+37:20.700 --> 37:25.320
+that help providers manage technology and data
+
+37:25.320 --> 37:26.153
+as it comes in?
+
+37:26.153 --> 37:29.580
+<v ->Yes, I think there was a strong focus on the consumer,</v>
+
+37:29.580 --> 37:31.680
+which is great, you know.
+
+37:31.680 --> 37:33.720
+Yeah, so I'll maybe just talk a little bit
+
+37:33.720 --> 37:35.703
+about how we're thinking about AI.
+
+37:36.630 --> 37:39.990
+You know, I think, again, sort of how...
+
+37:39.990 --> 37:41.850
+We've been using AI for a long time.
+
+37:41.850 --> 37:46.020
+We have, I think since 2012, have had a platform
+
+37:46.020 --> 37:49.680
+that's now called CareVio that ingests data,
+
+37:49.680 --> 37:53.850
+applies machine learning, generates risk scores,
+
+37:53.850 --> 37:58.020
+and allows a care team essentially to manage a population
+
+37:58.020 --> 38:01.620
+of patients in an asynchronous fashion
+
+38:01.620 --> 38:06.620
+and also reach out to them if they see rising risk.
+
+38:06.930 --> 38:10.830
+So we've been in this space for a while,
+
+38:10.830 --> 38:13.230
+but obviously the new tools bring with them
+
+38:13.230 --> 38:14.730
+some additional risks.
+
+38:14.730 --> 38:15.780
+So it was very important
+
+38:15.780 --> 38:17.520
+that we created a governance structure
+
+38:17.520 --> 38:20.610
+inside the health system so it didn't become the wild west,
+
+38:20.610 --> 38:23.313
+because, again, we're dealing with people's lives.
+
+38:24.364 --> 38:27.000
+And the data question is a great question.
+
+38:27.000 --> 38:30.480
+You know, we generate tons and tons of data.
+
+38:30.480 --> 38:33.720
+The challenge is how do we use it effectively
+
+38:33.720 --> 38:37.530
+for the purposes of AI and using data for AI,
+
+38:37.530 --> 38:40.320
+we are keeping our data, our data,
+
+38:40.320 --> 38:42.190
+we have not sort of pulled in data
+
+38:43.351 --> 38:45.240
+from the internet again,
+
+38:45.240 --> 38:48.060
+because we have to be certain that the data
+
+38:48.060 --> 38:51.240
+that we are using is evidence-based data.
+
+38:51.240 --> 38:54.150
+So when we're applying analytics and using it,
+
+38:54.150 --> 38:55.440
+we have confidence
+
+38:55.440 --> 38:58.530
+that we're gonna get the right outcomes.
+
+38:58.530 --> 39:00.630
+And, of course, we always have to be concerned
+
+39:00.630 --> 39:02.010
+about privacy.
+
+39:02.010 --> 39:03.090
+<v ->Awesome.</v>
+
+39:03.090 --> 39:04.140
+One closing question.
+
+39:04.140 --> 39:06.810
+I wanna give each of you a chance to respond
+
+39:06.810 --> 39:09.153
+as a sort of just a last thought.
+
+39:10.080 --> 39:11.580
+If we were to come back 10 years from now
+
+39:11.580 --> 39:13.080
+and have a reunion panel
+
+39:13.080 --> 39:16.290
+and talk about all the things that we have worked on,
+
+39:16.290 --> 39:18.330
+what's one advancement that you hope
+
+39:18.330 --> 39:20.580
+that we would be celebrating on that panel?
+
+39:20.580 --> 39:21.990
+We'll start with Diogo.
+
+39:21.990 --> 39:24.180
+And as a little bit of a wild card question there.
+
+39:24.180 --> 39:26.190
+So what do you think.
+
+39:26.190 --> 39:27.023
+<v ->It is.</v>
+
+39:27.023 --> 39:30.000
+I would like to see some breakthrough medicines out there.
+
+39:30.000 --> 39:34.080
+I think we need to focus a lot more on prevention
+
+39:34.080 --> 39:35.430
+rather than treatment.
+
+39:35.430 --> 39:38.220
+If I walk into an emergency room right now,
+
+39:38.220 --> 39:40.410
+I'm gonna pay about 3% out of pocket.
+
+39:40.410 --> 39:42.780
+If I go to buy a medicine right now,
+
+39:42.780 --> 39:44.670
+I'm gonna pay 20% out of pocket.
+
+39:44.670 --> 39:46.890
+These perverted economics drive people
+
+39:46.890 --> 39:49.830
+to avoid preventing treatment
+
+39:49.830 --> 39:53.220
+and going and getting it when they need it later.
+
+39:53.220 --> 39:54.177
+And we need to stop that.
+
+39:54.177 --> 39:58.890
+And I would like to see more medicines that are cheaper,
+
+39:58.890 --> 40:00.840
+more available for everyone
+
+40:00.840 --> 40:02.760
+so that people don't have to go to the hospital
+
+40:02.760 --> 40:04.510
+unless they really, really need to.
+
+40:05.472 --> 40:07.200
+<v Logan>Dr. Howell.</v>
+
+40:07.200 --> 40:08.500
+<v ->10 years is a long time.</v>
+
+40:09.583 --> 40:12.390
+I think we'll see medicines that have been discovered
+
+40:12.390 --> 40:16.140
+that cure things that we think are incurable today
+
+40:16.140 --> 40:19.113
+or require mechanical support today.
+
+40:20.130 --> 40:23.310
+I am hopeful that we'll see the democratization
+
+40:23.310 --> 40:27.270
+of expertise in a way that makes that number
+
+40:27.270 --> 40:29.760
+of 4.5 billion people who don't have access
+
+40:29.760 --> 40:33.240
+to essential health services much smaller.
+
+40:33.240 --> 40:34.950
+And I think technology is the only way to get there.
+
+40:34.950 --> 40:38.640
+And so I'm hopeful for the first time in my career
+
+40:38.640 --> 40:42.180
+that technology may play out in a way that leads to billions
+
+40:42.180 --> 40:44.230
+of healthier people on a planetary scale.
+
+40:45.720 --> 40:48.810
+<v ->10 years from now, I will have closed hospital beds.</v>
+
+40:48.810 --> 40:53.280
+The hospital will be purely for intensive care,
+
+40:53.280 --> 40:55.320
+high tech procedures,
+
+40:55.320 --> 40:57.870
+a place where women will deliver babies.
+
+40:57.870 --> 40:59.610
+And I'm able to do that
+
+40:59.610 --> 41:02.880
+because so much of the care is moved into the community,
+
+41:02.880 --> 41:05.640
+the home into ambulatory settings.
+
+41:05.640 --> 41:08.730
+You know, a lot of primary care can be done with AI.
+
+41:08.730 --> 41:11.493
+And so 10 years from now,
+
+41:13.020 --> 41:16.380
+we've got healthier communities, healthier people,
+
+41:16.380 --> 41:21.210
+we're managing chronic disease so much more effectively
+
+41:21.210 --> 41:24.150
+that I can shrink those acute care services.
+
+41:24.150 --> 41:25.320
+<v Logan>Last word, David.</v>
+
+41:25.320 --> 41:26.820
+<v ->You know, 10 years from now,</v>
+
+41:26.820 --> 41:30.030
+I think we will have, you know, made a big impact
+
+41:30.030 --> 41:31.350
+on chronic disease.
+
+41:31.350 --> 41:32.520
+I truly believe that.
+
+41:32.520 --> 41:35.190
+I think the innovation that's available to us,
+
+41:35.190 --> 41:38.610
+but more importantly, using artificial intelligence
+
+41:38.610 --> 41:41.490
+and the computing power that is in front of us
+
+41:41.490 --> 41:43.230
+over the next decade,
+
+41:43.230 --> 41:46.677
+I think can really knock down some serious issues.
+
+41:46.677 --> 41:48.660
+And I think we gotta get away from sick care
+
+41:48.660 --> 41:52.020
+and start focusing on, you know, being upstream
+
+41:52.020 --> 41:54.720
+and really helping people stay healthy
+
+41:54.720 --> 41:56.280
+and give them the information
+
+41:56.280 --> 41:58.740
+that will allow them to do that.
+
+41:58.740 --> 42:02.340
+<v ->Well, 2035, it's both a long time and a short time,</v>
+
+42:02.340 --> 42:04.950
+so maybe we'll be back here to talk about it.
+
+42:04.950 --> 42:06.180
+So thank you, everybody.
+
+42:06.180 --> 42:07.830
+Thank you, panelists, for taking the time
+
+42:07.830 --> 42:10.858
+and thank you everybody for taking part in panel.
+
+42:10.858 --> 42:13.146
+(audience clapping)
+
+42:13.146 --> 42:16.063
+(electronic music)
+

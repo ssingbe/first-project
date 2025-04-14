@@ -1,0 +1,817 @@
+<v ->Good afternoon and welcome</v>
+to the "Calling from Space Session,"
+the last session as part of the space track at CES.
+My name is Sumaiya Najarali and I will be your moderator
+for today's session.
+So before we get started on this conversation,
+on direct-to-device connectivity,
+I'd like to give our panelists the opportunity
+to introduce themselves, a bit about their company's role
+in the direct-to-device market,
+as well as share some major events,
+milestones over the past year
+as we reflect on 2024.
+So perhaps, Barbee, we could start with you
+and then make our way down the line.
+<v ->Sure. So thank you, Sumaiya.</v>
+It's good to be with you again
+after a wonderful show in Paris back in September,
+so glad to continue the conversation.
+I'm Barbee Ponder, General Counsel
+and Vice President of Regulatory Affairs for Globalstar.
+Globalstar is a mobile satellite services company.
+We've been providing mobile satellite services now
+for over two decades.
+We own and operate our own constellation
+of low-earth-orbit satellites as well
+as a global infrastructure of ground stations
+around the world that support that constellation.
+Importantly, about two years ago
+we started providing D2D connectivity
+and we've been doing it now successfully in 17 countries.
+I'm proud to say that now there are tens of millions
+and I'm sure very soon a hundred million people
+with Globalstar at their fingertips
+for critical communications, you know,
+when they are in a rather desperate situation
+as quite frankly, we saw recently with our latest,
+the past hurricane season.
+So, you know, we have used the same spectrum.
+Well, I'm sure we'll get into that a little bit,
+but 2024 was a very busy year for us.
+We're just getting started quite frankly.
+We were successful in having the FCC
+reauthorize our HIBLEO-4 Constellation
+for another 15-year license term
+and we'll be launching eight new satellites
+later this year to help replenish that constellation.
+And finally,
+at the end of last year we announced
+an additional $1.7 billion investment
+that we'll be making in more satellites
+and more ground infrastructure
+over the next couple of years.
+So 2024 was busy.
+<v ->Thanks Sumaiya.</v>
+Hi, everybody. I'm Tim Last.
+I'm the Executive Vice President of Sales
+and Marketing at Iridium.
+I think about 70% of Barbee's introduction
+probably applies to Iridium as well.
+If you don't know us,
+we are a global mobile satellite services company.
+We have a fleet
+of about 80 satellites in orbit
+in low earth orbit around the world.
+We've been in the satellite business for getting on
+for 30 years with the current constellation
+only being about four or five years old.
+And like Barbee's company,
+we provide direct-to-device connectivity today,
+one of the major changes for Iridium is that we're midway
+through the development and launch
+of a standard space direct-to-device connectivity.
+I think that's what most people are here
+to hear about and understand.
+We've been a leader in sort of proprietary connectivity
+for satellite networks
+and we've done that successfully across many major markets,
+verticals, geographies, both commercial and government.
+And we're excited about the opportunity
+to deliver that using more standards-based technology.
+For us, it's one of the probably two
+or three major capital programs underway
+in the company at the moment,
+so we're putting our money where our mouth is.
+Over the last year,
+we've successfully got Iridium's technology embedded
+into the next release of 3GPP.
+So we will be part of the standards-based
+sort of kit of options
+that consumer electronics,
+chip set companies and the like can use.
+Looking forward to 25, we'll be over the air
+middle of this year testing
+and prototyping and what have you
+and we're looking at market launch for our service
+by about the first month or two of 2026.
+So good to be here.
+Good to meet everybody and thanks for inviting us, Sumaiya.
+<v ->Thank you, Sumaiya. My name is Parth Trivedi.</v>
+I'm the CEO co-founder of Skylo,
+which is a global direct-to-device service operator
+that connects cellular devices directly over satellite
+so that customers never lose coverage.
+Skylo wears two hats.
+One, we're a technology developer
+that builds the underlying infrastructure
+that powers the direct-to-device solution
+using the 3GPP standards with our radio access network
+and our core now installed
+and operationalized within half a dozen
+different satellite partners that we work with
+across more than 10 Earth stations around the world
+and integrated with multiple carriers
+just as another roaming partner, if you will.
+So we play the role of a technology developer
+on the one hand and the other role that we play
+is of a service operator.
+So we operate our service live over four continents,
+more than 35 markets.
+of devices on our network
+and scaling what is now
+the world's largest standards-based NTN.
+And we're really excited about the ecosystem
+that we're building, certifying everything
+from the chip set and the module
+all the way up to the device.
+And 2024 we called out certifications
+with Qualcomm's Snapdragon chip set.
+We announced partnership with Google
+across every Pixel smartphone
+and announced a partnership as well with Verizon
+so that we can bring this incredible capability
+to the consumer, to the enterprises
+and all types of use cases in between.
+And excited to share some of those stories with you today.
+<v ->Great, thank you.</v>
+And excited to have you all here as well.
+So I think busy defined it very well.
+Lots of momentum in the D2D space in 2024.
+We saw that on the satellite infrastructure side,
+so with some of the companies like AST
+and Starlink launching in the past year,
+also on the hardware side.
+So seeing, you know,
+more than 20 phone variants carrying both satellite
+and terrestrial compatibility globally.
+So as we look forward into 2025, we're really trying to see
+how we're getting the market developed
+and seeing how we can get services to market.
+So with satellite operators, you know,
+turning these addressable users
+of direct-to-device services into subscribers,
+what are some of the benefits and shortfalls
+of these go-to market strategies
+that US satellite operators,
+network providers are adopting, whether it be, you know,
+taking a hardware approach or partnering with MNOs.
+So perhaps, Tim, if you wanna get started there
+and discuss maybe a little bit about Iridium's approach.
+<v ->Yeah, sure.</v>
+I mean, I don't know that I can comment too much
+on the shortfalls or pitfalls.
+I mean, I think we are in the very early stages
+of development of this fairly nascent market opportunity,
+both for, you know, those of us in the satellite industry,
+but also for terrestrial companies and OEMs
+and chip set companies, anybody that sees the opportunity
+to develop and use this type of crossover technology.
+You know, we have a particular view
+of how best we can go to market
+by sort of providing
+a vertically integrated networking experience.
+We will look and feel like a roaming option
+for any MNO in the world that wants
+to use our capability and service.
+That's important because the, you know,
+the least amount of friction you can provide
+to the MNOs the more chance they are
+of adopting your capability.
+But it's also true, I think that, you know,
+nobody's gonna be kind of taking the whole market here.
+This is gonna be a choice of options
+for many of the mobile operators.
+We also have a pretty clear strategy
+that the market opportunity for Iridium is not only
+what you might consider direct-to-consumer devices,
+so to handsets, but also in IoT.
+For us, IoT has been a strong part of our market growth
+for the past 15 years or so.
+And while I think the, you know,
+the business case and the value proposition
+for consumers can sometimes be questioned.
+Nobody's paying much
+for this kind of capability today,
+at least not from a consumer perspective.
+It is clear that there's a very compelling use case
+and business case for many enterprises
+who have been crying out for a connectivity
+in places that they can't get to,
+whether you be automotive
+or oil and gas companies or many
+of the other industrial IoT markets.
+So I think there's money for everybody in that ecosystem.
+It gets tougher in the IoT market
+'cause there's less money to go around,
+but I think the next several years will reveal,
+you know, who's got the right
+kind of go-to-market approach
+and who may struggle because of, you know, what they control
+and what they don't control in that value chain.
+So thanks.
+<v ->Barbee, did you want to jump in there</v>
+and maybe just discuss Globalstar's go-to-market approach,
+you know, with partnering with Apple,
+but then also the path forward
+with the extended MSS network coverage?
+<v ->Sure.</v>
+So, you know, Globalstar not only, you know,
+owns and operates its own constellation of satellites,
+but we've developed internally quite a few
+of the products that operate over that system.
+One of those products we introduced in 2007,
+it's a consumer line of messaging devices
+called SPOT that has been incredibly successful.
+And we've always tried to make a device, you know,
+smaller, cheaper, incredibly easy to use,
+pull it out of your pocket, push a button,
+let your family know regardless of where you are
+that you're okay,
+or if you're in trouble, push the SOS.
+And so for us, when we were looking to,
+I think sort of, you know, pioneer a path forward
+to direct-to-device, it was a natural fit for us
+to partner with a smartphone manufacturer
+because we all understood the enormous public benefits
+that would be available if we could essentially
+shoehorn our technology
+and connectivity, you know,
+into one of their feature products.
+And it took a quite a bit of work,
+but we were able to do that.
+So, you know, that's how we ended up in market
+and now we don't have a go-to-market strategy,
+we need a stay-in-market strategy and execute that
+and we're gonna continue to invest in our network,
+innovate and evolve quite frankly
+and expand and make sure that we are able
+to continue to provide that level of connectivity
+that people want when they're off the grid,
+either voluntarily or not,
+and at a price point
+that they feel comfortable paying.
+<v ->I always like to start with the consumer experience</v>
+and just by a quick show of hands,
+how many of you have an iPhone 14 or above
+or a Google Pixel 9?
+Got it.
+So those who of you who have your hand up,
+I want to maybe ask you another follow-up question.
+How many of you have tried the satellite demo mode
+that is inherent in your device?
+Awesome.
+I'm glad I saw more hands
+versus the last time I did this,
+but I think that making a consumer aware
+of this capability is step one, right?
+It's blatantly present within your device,
+now how do you get access to it?
+What is the 1G of this look like
+when you try and access this non-terrestrial network
+for the first time
+and how can we make it a predictable user experience?
+So that was the starting point
+and frankly a lot of the focus for last year
+and the year before
+was establishing a common baseline for consumers
+that they could start to take for granted.
+I was in Redwood National Park in California
+and texting over satellite with my family
+and it was an incredible experience.
+But then as we think about the services beyond
+that baseline, peer-to-peer services, messaging,
+access to a constrained IP connection, et cetera,
+those start to look an awful lot like the carrier services
+that you're receiving today.
+So our approach is being
+a complimentary support network
+with the carrier being complimentary
+to the services that they're providing
+to consumers from a 5G perspective
+and making this appear
+to be minimal change in user behavior
+in accessing direct-to-device connectivity
+is a huge part of our focus.
+Whether that's the work that we do behind the scenes
+with Android on the user experience
+or whether that's the work that we do with the carriers
+around how they present this to the end users.
+<v ->And I think that's a good segue into user experience</v>
+and a lot of the conversation on what can users expect
+to see with satellite direct-to-device connectivity, right?
+Are we gonna be able to see
+the same broadband-type capabilities?
+And that's a lot of the conversation
+as that kind of fuels into who's paying for the service.
+So how do you as operators, network providers,
+intend on managing user expectations
+around D2D services?
+<v ->I can kick things off maybe.</v>
+So, you know, the first thing
+is understanding the market really well,
+understanding the user really well.
+And I wanted to share with you the results
+of a survey that we ran
+across a thousand Americans over the course of December.
+And we asked them
+some of the most common questions
+about the connectivity challenges that they face
+and the insights were quite fascinating.
+So two thirds of respondents
+of Americans across the country, by the way,
+not in any specific location,
+two thirds of Americans face connectivity issues
+and 20% actually face connectivity issues
+on almost a daily basis.
+I think the thing that struck me the most
+is that a majority of folks faced connectivity issues
+in their own neighborhood
+or on their commute to work
+or to see their friends and family.
+So it was a much higher percentage than I thought of.
+And the issue is quite real in terms of the pain point
+that the frustration that Americans experience
+when they don't have reception and connectivity available.
+So it's becoming more and more real
+around how this gets presented and monetized.
+But then you also think about the use cases
+to your question of is it, you know,
+what are the types of services that consumers care about?
+The other question we asked was around exactly that,
+what are the use cases that you intend to leverage?
+50% of respondents said that their biggest use case
+for non-terrestrial networks
+on their device was emergency contact.
+20% of users after that
+said that their biggest use case was navigation,
+followed by texting.
+And interestingly, social media
+and other internet use cases
+was less than 5% of respondents.
+And the other thing I'll maybe just conclude with
+is we are seeing a massive shift
+in how content on the internet is consumed.
+So where previously you would have gone
+and browsed multiple websites to gain an answer
+to your question, you now have ChatGPT,
+you have Perplexity, you are able to turn
+a previously pretty heavy data-intensive experience
+into frankly a text-based narrow-band experience
+that matters.
+That's a very important change
+that has happened over the past two years.
+And because we're building greenfield networks
+that haven't been designed or been built before,
+we're able to optimize for these use cases.
+What will the next set
+of not just peer-to-peer
+but also peer-to-AI interactions look like?
+So that's what we spend a lot of time also thinking about
+<v ->Certainly.</v>
+And any other thoughts on managing user expectations
+as we discussed different D2D capabilities?
+<v ->I think my first comment would be</v>
+keep their expectations low
+because that's probably where things will start.
+I mean, as Parth indicates, initial use cases
+and the consumer's pain points
+generally speaking are around basic connectivity
+and often text-based or very modest data needs.
+You know, we've known this from being
+in the satellite industry for 25 years
+to know how end users can find value
+without having endless bandwidth and capability.
+That doesn't mean it shouldn't be an aspiration
+or a target to aim for,
+but it's very different connecting to a satellite
+either 35,000 miles away
+or traveling at 18,000 miles an hour compared
+to connecting to a cell tower
+that's two miles down the street.
+But there are use cases
+which people will definitely pay for,
+find value in, even in those modest areas.
+You know, the example of texting, the example of, you know,
+basic tracking capability, find your friends capability,
+these are all things that people will find useful,
+particularly in those areas where they have dead spots.
+But I think from a quality and customer experience,
+you know, it will be different.
+You know, we strive, just like Parth does,
+to ensure that the customer experience
+is as close as possible to what they may have
+in their terrestrial use case.
+But we also know that sometimes
+it's challenging to make that happen
+when you're dealing with very different assets
+and infrastructure behind the scenes.
+<v ->You know, I think we're, at least I'd like to think</v>
+that we're changing the public's perception
+and their expectations on what it means to be connected.
+I think that that the public is going to expect
+that when they, you know, pull out their smartphone,
+it's going to work regardless of where they are,
+regardless of their situation or their predicament.
+And regardless of whether there is
+or was a terrestrial mobile network that was there
+that was to support them.
+So I think that, you know, that's where we're heading,
+a basic level of connectivity, you know,
+at a price point that that is affordable.
+And from there, you know, we move forward
+with further work, further innovation and service.
+But I saw a report this morning,
+I think it's the first public report
+of a rescue via satellite in Japan.
+Japan was the 17th country added
+to the emergency SOS via satellite family of countries
+where it's now available.
+And I think the first report was this morning
+and I think, you know, it's just, you know,
+people don't expect to be in a situation
+where they're gonna need satellite connectivity
+but they want it there when it's an emergency.
+So...
+<v ->Yeah, absolutely.</v>
+And I think as satellite connectivity, you know,
+becomes more integrated with terrestrial networks,
+we're looking at revenue-generating opportunities here.
+So what are some of the key
+revenue-generating opportunities you're focusing on
+and how are you going to monetize that?
+So really trying to see is justifying the business case here
+and curious also to know from an MNO perspective,
+so how they can be added to this plan
+of also expanding the services and then profiting from that.
+So you know, so far we're looking more at the freemium model
+or it's embedded in your phone.
+How is the path going forward with monetizing D2D services?
+<v ->Maybe I'll try to answer this one.</v>
+I think many and varied is the straight answer.
+We're building a capability
+just like our current network service today,
+which will serve a really wide variety
+of different use cases, vertical markets, customer types.
+The consumers, one of them clearly,
+and there'll be a certain expectation there
+and it's likely for most people
+that that experience will be managed through their carrier,
+their MNO, their cellular provider.
+So you'll be bundled in as part of that package
+or part of that monthly fee.
+Maybe it'll be a, you know,
+a small premium to have that capability.
+Maybe you get it because you buy the premium device,
+maybe the company a bit like the Apple example,
+they provide it free of charge for some period of time.
+Somebody somewhere will have to pay
+in order to monetize what the investment
+that companies like ours are making in that,
+you know, behind the scenes capability.
+Once you get into the IoT market, it varies hugely
+'cause there's so many different use cases and capability
+and business models that are being supported, you know.
+Certainly there's an awful lot
+of very low cost industrial IoT
+and if you're not within, you know,
+pennies of that expectation, even on cellular,
+the satellite industry won't be an option
+for many of these use cases.
+It doesn't matter that you are filling in the dead spots,
+if you can't get within spitting distance
+of their cost expectation,
+you're still not gonna make the market.
+There's other examples where there is an appetite
+to pay more for connectivity, whether it be backup
+or, you know, for dead zones
+and those will be the ones that, you know,
+companies like ours will all be trying to mine first.
+Where can we find the companies
+that are prepared to pay for that capability?
+We already do it today with our proprietary network.
+The market just gets a lot bigger
+once you're dealing with standards-based technology
+and it becomes much easier for those companies
+to simply add you into the mix.
+So...
+<v ->Yeah, I would say that our approach</v>
+is where wholesale B2B service operator,
+so we don't go to the end user directly,
+but we have a nuanced go-to-market approach as it relates
+to consumer as one vertical,
+as automotive, as another vertical,
+and IoT or enterprise as a third vertical.
+And each of these has its own nuances as it relates
+to the type of ecosystem that you have to activate
+in order to successfully bring a user online
+that looks very different across these three segments.
+So as an example, in the IoT segment,
+we have to work with a lot of module makers
+and, you know, folks who are building these end devices,
+get them certified on Skylo's network.
+We run the industry's only certification program for NTN
+using the 3GPP standards.
+So that's a large part of the supporting work that we do
+before carriers and MVNOs are able to realize the benefit
+of dual-mode connectivity on these IoT devices.
+Then you have to also educate them on, hey,
+here's the developer experience that you want,
+here's what you can expect.
+To Tim's point on setting expectations,
+you want developers to be able to access this new mode
+of connectivity much in the same way
+that they accessed cellular.
+What can they take for granted?
+What are the new things that they have to learn
+or set expectations around for their users?
+So that's the IoT market for the automotive market.
+As you can imagine, we work with chip set companies
+but also TCU vendors,
+folks who make the Sharkfin antenna in your car
+all the way up to the carrier.
+And again, there's different types of services
+that these three markets are interested in
+relative to each other.
+And consumer market I think gets a lot of oxygen
+because of the fact that it's so near
+and dear to the device that's already in your pocket.
+But for that market, it's again, entirely carrier-led
+with supporting OEMs setting the baseline for connectivity
+that you can access.
+<v ->Certainly.</v>
+So we talk a lot about upside potential strategies
+with go-to-market, spectrum, momentum in the industry,
+monetization now, kinda looking at challenges in the market.
+So what are some of the biggest issues
+that you think will break or make the market
+and result in the success of D2D as everyone sees it?
+Barbee, you wanna kickstart us off
+with some of the challenges that you see?
+<v ->I guess, you know,</v>
+Globalstar and Iridium are pioneers in MSS,
+we've been doing this a while
+and I think one for us, one of the challenges is,
+you know, where are we not, right?
+We have mobile satellites,
+MSS spectrum, mobile satellite services spectrum
+is ITU-allocated, globally harmonized.
+And so we were able
+to serve very large regions of the Earth quickly
+with our capabilities.
+I think for us, you know,
+one of the challenges is to continuously open up new markets
+and new regions to our services
+that historically have have not been perhaps as welcome.
+And so that for us will be, I think,
+a major focus over, you know, the next couple of years
+as we move forward with, you know,
+our D2D connectivity and an enormous amount of,
+you know, public benefit
+that comes with that to open,
+quite frankly, countries that that
+we have not been able to serve so far.
+<v ->I think Barbee touched on regulatory,</v>
+I'll perhaps build on that
+and say that it takes a village to go to market.
+In telecom, it really takes a huge amount
+of work to build an ecosystem
+that results in a predictable,
+reliable experience for the end user.
+And doing that is challenging.
+You know, you're getting multiple different behemoths
+in line to activate a solution
+with a particular standard is not easy.
+And the second thing I'll say is that usage
+is very closely tied to user experience.
+So as an example, how can we make access
+to even a basic service like messaging
+as frictionless as possible?
+How can we end up, in fact, it's part of our roadmap,
+how can we end up in a future scenario
+where the phone rings while it's in your pocket
+as you're in your car driving at highway speeds?
+Enabling that requires a ton of work.
+And of course there's technical challenges involved,
+but I feel,
+and given my experience in this so far,
+working with the ecosystem
+and bringing a predictable user experience online
+that you can take for granted is super difficult.
+<v ->Tim, any anything to add on to that?</v>
+<v ->I think one of the challenges we have as an industry</v>
+is to not oversell the opportunity.
+I mean, you know, we obviously want want to encourage
+as many, you know, participants in this ecosystem
+that feel they can get value
+from having satellite connectivity as part of the solution.
+But we shouldn't be overselling that
+because the, you know, there are certain capabilities
+that are currently out of reach of satellite operators,
+the technology that's available today,
+That doesn't mean you can't dream
+and try and aspire to something,
+but I think having some realism about what capabilities
+and use cases are available is kind of important
+because, you know, we can burn a lot of goodwill
+and, you know, a lot of reputation in the market
+by promising the earth
+and only delivering knee-high level services.
+I mean, beyond that, I think spectrum broadly
+for the industry, it's the same challenge
+in the terrestrial world.
+Spectrum will continue to be, I say, a challenge.
+It'll be a challenge because A,
+there's never enough of it to go round.
+B, not every spectrum is equal to each other.
+Different capabilities, different services are possible.
+And there's also a lot of different competing use cases
+for that spectrum, even within the satellite world.
+Companies today are trying to find ways
+to monetize that spectrum
+and what today might be a apparently attractive D2D use case
+tomorrow might become very attractive
+to monetize in a different way.
+So I think, you know, we have to figure out fairly quickly
+how to monetize it confidently,
+otherwise that spectrum is gonna get repurposed
+into other things, other use cases, other industries.
+So...
+<v ->Absolutely.</v>
+And before we carry forward to some of the other topics,
+just gonna give the audience an opportunity
+to ask any questions that they may have for our panelists.
+Yep. In the back.
+I could either pass you the mic
+or if you can project loud enough then..
+<v Attendee>Yeah, I'm wondering, you know,</v>
+right now it sounds like, you know,
+the focus is providing text
+or other low data uses,
+but eventually it will seem like consumers will dream
+about (indistinct) faster connectivity.
+Will the result simply be that the satellites
+will need to get bigger and bigger?
+Is that sort of an inevitable,
+you know, outlook if you're looking
+out three, four, or five years?
+<v ->I don't know that bigger and bigger</v>
+is necessarily the case.
+I mean certainly there are some aspects
+of satellite technology.
+I mean, there are operators today
+that have, you know, more legacy technology
+that is not as capable.
+There are new companies, companies like AST Space
+that are promoting very large antenna arrays
+that can make up for some of the shortcomings
+of trying to connect to cellular devices.
+One of the things that, you know, you know,
+while this device in your pocket may seem to be amazing
+and fantastic and wonderful,
+for, you know, engineers,
+and probably you guys will agree with this in,
+you know, they're really crappy
+at connecting to things a long way away.
+You know, it's really difficult
+to close a reliable high-quality connection
+with the quality of antennas and devices
+that are installed in some of these things.
+What makes it low cost and so competitive
+and easy in the terrestrial world
+equally makes it a challenging connecting
+to assets like satellites.
+So I think some of that will be mitigated by different,
+newer, bigger satellites maybe
+and some of it will be other technologies
+that evolve other, technologies within the core network.
+I mean, the good news is that most of this transition
+or, you know, appetite around
+to direct-to-device is persuading much
+of the satellite industry to move much
+of its core infrastructure
+more onto a standard space footing.
+If you go back 20 or 30 years,
+all of the satellite companies in the world,
+pretty much most of them had a load
+of proprietary technology all the way through their network,
+all the way from the core right to the edge,
+and that's no longer the case,
+including companies like Iridium.
+So I think that can only bring benefits of integration.
+Whether it really closes the gap
+to that consumer experience,
+I think it's gonna take a little while to work through.
+<v ->Any other questions from the audience?</v>
+Yep, we have one in the back.
+<v Attendee>800 megahertz, and this is really realistic</v>
+to think of 5G as, especially, like, C band, you know,
+you push a 4.3 kilohertz circuit (speaking faintly)
+I mean, I can't make that circuit work.
+I don't know if you guys can.
+<v ->Happy to trade notes on that offline, sir.</v>
+<v Attendee>I'm just gonna say, I'm the same way-</v>
+<v ->We operate with a fade margin of seven</v>
+or 10 DB depending on the device,
+so it's not a flaky connection, you know?
+When you use it outdoors,
+you obviously don't try this when you're deep
+inside your garage underground.
+But again,
+setting the right expectations is important
+if you can do that.
+Yeah, no, would love to trade notes after this. Thank you.
+<v ->Yeah, go ahead.</v>
+<v Attendee>I'm curious about the automotive industry.</v>
+So I think we're talking maybe 2026 at the soonest for NTN
+to be available potentially in a car somewhere,
+but how do you see that unfolding?
+Do you see the carriers controlling that implementation
+or do you see the wireless,
+I'm sorry, the satellite industry
+engaging directly with the automators?
+<v ->Happy to take a quick crack at it.</v>
+I think that the things
+that play out in automotive are very similar
+to the way things play out in consumer with a lag.
+So I think you should expect to see a similar rollout
+as you have seen for consumer handsets
+in that the first innings of this might very well be
+with a baseline that the OEM helps set
+so that they can set an expectation
+with their drivers and passengers that hey, you're covered
+with a certain basic element irrespective
+of the market in which you buy the car
+or the truck, you know,
+if you're talking commercial vehicle.
+Then the next innings is about those enhanced services,
+which, frankly, I'm an automaker,
+I don't really care about the services revenue that accrue
+from a service that an MNO
+in that country is much more adequately equipped to sell,
+distribute, and support than the OEM.
+So I think that's the way it see it play out.
+<v Attendee>All right, quick follow up,</v>
+any thoughts on when a regulatory requirement
+for next gen 911 or next gen eCall might require
+satellite connectivity in parts?
+<v ->You know, it's interesting,</v>
+and thank you for bringing that up.
+If you look at the regulations in Europe
+as an example, they're very tight.
+So to meet some of those SLAs,
+it becomes incredibly important
+to have a high nines reliable network connection,
+especially when you're doing cross-border 3PL.
+In India, as an example,
+there's a regulation called AIS 140
+that applies to logistics, tracking devices, and trucks,
+which is also quite stringent
+around in enhancing the level of visibility,
+observability, and safety.
+So I do think that carriers around the world
+are going to take satellite
+more and more seriously as a part of the total offering
+to the 3PL providers.
+<v ->Yeah, I agree.</v>
+I mean, it's more of a regional issue.
+That one, I mean, eCall in Europe
+has been developing a lot faster,
+even though it's developing at a fairly slow pace
+compared to the rest of the world.
+Similar to past Indian example, Brazil for example, today,
+even prior to NTN technology,
+Brazil is a pretty fertile market for satellite connectivity
+because of the relatively poorer coverage
+and the combination of regulatory action,
+insurance companies, and that kind of thing.
+So we're gonna see these sort of different pockets play out,
+I think, and some of them will be a great use case
+for satellite, which will help pull this along.
+I think the one thing with automotive is true
+that I think the OEM in the, you know,
+consumer automotive world will try
+to control experience as much as possible.
+So regardless of how they procure the connectivity
+in the back end, they will be controlling that experience.
+That will be very different in industrial markets.
+Industrial markets usually start out with a myriad
+of aftermarket solutions first 'cause they can prove it out
+and move a lot faster than an OEM ever can.
+You don't get quite the same aftermarket
+kind of experience these days in automotive.
+It's not like people are buying GPS devices
+and stick them in their cars other than their smartphone.
+So I think it'll take a while for that
+to really take hold, but it's a market that I do think
+is still a significant one for this sort
+of satellite direct-to-device, for sure.
+<v ->Thank you. Thanks for the answer.</v>
+So I think that actually takes us very close
+to the end of our session.
+So I'd like to thank you all for attending.
+I'd like to give a special thanks to our panelists
+for the insightful discussion,
+of course our audience members for their questions,
+and I hope you enjoy the rest of your time at CES.
+Thank you.

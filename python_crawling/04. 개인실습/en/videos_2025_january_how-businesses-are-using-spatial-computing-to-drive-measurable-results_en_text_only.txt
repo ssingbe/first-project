@@ -1,0 +1,1134 @@
+<v ->Good morning.</v>
+And welcome to this second session
+that my business partner Tim Bajarin and I put together,
+it was meant to kind of go back to back.
+Just out of curiosity,
+how many of you attended the previous session?
+Just raise your hand. Okay, that's great.
+So it was kind of meant to be a back to back.
+So Tim presented the whole technical side
+and then I'm coming in with the business side
+and we link together, as Tim already alluded to
+in our AI and spatial computing resource center.
+And also Tim and I do a podcast together.
+So we kind of like to use this format.
+Okay, here's what we're gonna do for today.
+We have three very distinguished
+industry subject matter experts
+and executives in their own rights.
+I'll be introducing them
+or they'll be introducing themselves momentarily.
+We're going to have them give some indication
+of how they're using spatial computing today
+in their day-to-day businesses and the impact it's having.
+We're gonna then go to a group of questions.
+I've got five pre-made questions,
+but I love a little bit of serendipity and surprise.
+So I'm gonna actually ask the audience for some questions.
+So you do be prepared as you hear us.
+If you feel like,
+you know, I want to ask somebody or them all,
+that's perfectly fine.
+And then I'll close
+with some observations and remarks, okay?
+So with that, and without further ado,
+let me click the first slide.
+And by the way, I hope you're in the right session.
+This is how businesses are using spatial computing
+to drive measurable results.
+If you're in the wrong session,
+this is the appropriate time to exit the stage.
+Okay, so let me start with my immediate left,
+and Peter, would you be kind enough to introduce yourself?
+<v ->Yeah, thank you, Barton, and good morning everyone.</v>
+It's great to have you.
+So my name is Peter Koerte.
+I am the CTO at Siemens German conglomerate
+in terms of tech company
+where we provide all the software and hardware
+in the industrial space.
+And I'm very, very pleased to be here today.
+<v ->Thank you, Peter. And we welcome you.</v>
+Jane, I think you're next.
+<v ->Good morning everyone.</v>
+My name is Jane Nakagawa,
+and I'm the vice president of R&amp;D at American Honda Motors,
+which sounds very technology,
+but it's actually mostly the design center
+about a couple hundred designers
+in addition to some other divisions, but mostly design.
+Thank you.
+<v ->We welcome you, Jane. Harvey?</v>
+<v ->Good morning everybody. My name is Dr. Harvey Castro.</v>
+My friends lovingly call me Dr. GPT.
+Honestly wrote the first book
+on how to use chat GPT in healthcare back in 2022.
+And last year I wrote a book
+on how to use the Apple Vision Pro in healthcare.
+Quick background, I created about 30 companies.
+The largest was a healthcare company
+I grew it to about 400 employees
+and it was emergency rooms, hospitals, urgent cares.
+Fast forward now I'm working consulting companies
+like Singapore, countries like Singapore,
+helping them with AI and healthcare.
+NASA has asked me to help them with Mission Mars
+and so I'm really excited about this space
+and so thanks for coming.
+<v ->Thank you, Harvey.</v>
+Okay, to help the panelists,
+I'm gonna ask a couple of questions.
+Just raise your hand and I'm gonna have to stand up
+'cause these lights are terribly bright,
+but I'm trying to figure out
+who's in the audience to help the the panelists.
+So how many of you are in the business side of the house
+please raise your hand,
+working a business function, represent a business function?
+So I'm gonna guess that's about about 20, 30%
+how many are on the IT side of the house?
+So working in an IT function.
+Kind of a similar number.
+So let's just say a third, a third.
+And for those, just out of curiosity,
+how many of you are on the business to business side?
+So doing business to business.
+That's very interesting. There's a lot more there.
+And on the business to consumer, would you raise your hands?
+Yeah, so we are business to business focused more
+than business to consumer.
+And pretty much evenly split,
+as I saw the hands go up between business and IT, okay?
+So with that in mind, would you start,
+Peter, I'll ask just 'cause it's simpler, you're on my left.
+Why don't you spend about three minutes,
+tell us a little bit about how you and Siemens,
+one of the world's greatest companies, and your clients
+have been able to use spatial computing today
+to drive measurable business results.
+<v ->Yeah. So the spatial computing conversation,</v>
+last year, we had that also the panel
+as you as you remember.
+And at the time we were talking a little bit more about the,
+what we call the industrial metaverse.
+So obviously from a terminology perspective,
+we haven't really moved over to call it spatial compute,
+we are still stuck with that term
+or we are sticking to this term of a industrial metaverse.
+Why?
+The answer is that we believe
+in the combination of hardware, software
+to bring both worlds together,
+digital worlds and the real worlds.
+And the reason being is
+that you can solve problems in the digital world
+a thousand times faster than in the real world.
+Because once you have abstracted them,
+once you have modeled them by the means of digital twins.
+And the data,
+I'm sure probably gonna talk about AI today too,
+you're so much faster.
+And I can give you an example
+where we are using this already today for our own purpose.
+So every factory we are building, it's being built twice,
+it's being built first in the digital world
+and then actually it's being built in the real world.
+It doesn't stop there though.
+So once you have built it, then we connect the two
+and then actually the model that was originally there
+is actually being continuously updated.
+What's the benefit?
+We see that we can actually increase capacity by 200%,
+200% without adding any new floor plans or whatever that is.
+And the reason being that you can optimize,
+you can optimize a thousand times
+and see how the material flow, how it's gonna be,
+how the machinery set up is gonna be,
+how people and brokers
+are gonna gonna rock on that shop floor.
+We increased productivity by 20%,
+we reduced significantly energy usage
+because again, you can all simulate that.
+So we find it incredibly, incredibly helpful.
+And together with NVIDIA for example, we have helped Foxconn
+to move some of their factories also into Mexico.
+Same story, incredible savings.
+So we certainly believe that bringing
+by the means of special compute
+meaning industrial metaverse,
+the reality in the digital world optimizing it,
+it has the major impact of becoming more sustainable
+and more competitive.
+<v ->Thank you, Peter.</v>
+And I just wanna make sure everybody heard clearly.
+So Peter, this is not something you're gonna do tomorrow,
+this is something you're doing today, is that correct?
+<v ->That's correct.</v>
+<v ->And Peter actually last year, when he spoke for us</v>
+and he actually showed a video of how the two factories,
+the digital factory and the real factory,
+how the real factory moves into the digital
+and then how you optimize the digital.
+So it's a very, very fascinating process.
+I should have mentioned spatial computing.
+Today we look at that, at least for this panel purposes,
+augmented reality, virtual reality, extended reality,
+and mixed reality.
+Okay, it's kind of an umbrella term
+the industry seems to be moving towards, but quite knows.
+Okay, Jane, would you be kind enough
+to spend a couple of minutes
+and tell us a little bit about how you are,
+you and or your clients are using space computing today
+to drive measurable business results?
+<v ->Yeah, so our work is, it starts today,</v>
+but the output we don't really see
+until about five years from now.
+And we're trying to shorten that development timing.
+We use it today because of,
+maybe some of the same reasons for speed and efficiency,
+but also for us it's expanding the creative possibilities.
+So we believe that the digital tools that we have,
+it's almost like having hundreds of extra,
+you know, creative staff, and, you know, at your service.
+And we are able to
+really expand the way we think the future might be
+for the way we provide value in automobiles
+and other transportation devices.
+And we can do so without as much risk
+in making mistakes so much
+because there's so much at stake when we launch a car.
+And so, I think for us it's really this amazing tool
+to be able to create better
+while being able to sort of not worry
+about making mistakes right away.
+So we use the tools,
+but really it's all about creating value for Honda.
+So Honda I see as in kind of three trimesters.
+The first founding of Honda had two semesters.
+The first one was when we invented the motor,
+you know, so the Honda Motor Company,
+Mr. Honda stuck a motor onto a bicycle
+and thus began the two wheeled business,
+which eventually turned into the four wheel business,
+which was the, you know, the kind of the second trimester.
+And it was an area where we did a lot of package magic.
+So this idea that the car was much bigger on the inside
+than we believed it would be from the outside.
+So machine minimum and human maximum.
+And then we just kind of kicked off a few years ago,
+the second founding of Honda,
+and it's all gonna be about immersive experiences.
+So that's kind of how we see it.
+So everything we're doing right now
+is to create value through digital immersive experiences
+and it's an incredible time to be in automotive it,
+in the creative area, it's turning the work inside out,
+literally.
+So, you know, if there were auto OEMs present here today,
+most of them, if not all, would be exterior designers,
+even at Honda that's also the case.
+But I think in the very new near future
+it will be interior designers.
+So we're starting the work of car design
+from digital experiences
+and what is the value we're bringing
+from an immersive experience,
+then we go into interior design,
+then we do color and materials,
+and then finally we'll do package.
+And then the exterior design
+is really just the wrapping and the bow on the package.
+So it's gonna be inside out
+and we're already starting to design that way,
+and that's all because of this technology, so.
+<v ->Is, just out of curiosity, is Mr. Honda still alive?</v>
+<v ->No, he's not-</v>
+<v ->Because I think he would roll in his grave right now</v>
+if he saw what's happening to his two wheel company.
+<v ->I think. I think, well,</v>
+I think I know what you're talking about,
+but yeah, we don't want to talk about that right now.
+<v ->Harvey, why don't you share with us,</v>
+and obviously you bring a very different perspective
+from the medical side.
+Tell us a little bit about how you and/or your clients
+are using spatial computing today
+to drive measurable business results.
+<v ->Yeah. So my favorite phrase when I was a med student</v>
+was see one, do one, teach one.
+And basically it was,
+hey Harvey, come over here, we need to intubate this person.
+And I'm like, oh, I read about it.
+And they're like, no, no, no, here I'm gonna show you
+and I'd do it.
+And they're like, okay, now go to room three
+and we gotta intubate this person.
+And I'm like, I just saw it and then I would do it.
+And then they're like,
+okay, now you need to teach Jane how to do it.
+And I'm like, wow, that's a lot of stress,
+a lot of pressure.
+But now spatial computing,
+I could do it a hundred times before I even touch a patient.
+Amazing.
+Second, I'm really big on empathy, I think,
+and I'm curious of show of hands on healthcare,
+do you think empathy's really high?
+Do you think your healthcare provider's
+like yeah, he's right on there.
+I think some doctors
+and healthcare professionals sometimes miss the boat.
+And I think spatial computing can help in so many ways.
+Now, the spatial computing, I'm putting it on
+and it's analyzing how am I speaking?
+How am I talking, what's my tone? What's my voice?
+Or am I just like looking at my phone? Am I standing?
+That brings that to it, to that second patient effect.
+The third, as this technology continues,
+I see it as a segue to train robots
+to put that into the next level.
+So I really think that's how we're gonna be using this
+in the healthcare field.
+And there's a zillion other examples.
+<v ->Yeah, we've gotten to know Harvey, he's on our podcast</v>
+and just as a friend.
+He's a very interesting individual and is committed
+to these technologies both in the operating room,
+in the emergency room.
+And it's just very fascinating.
+He's written extensively about it.
+We are gonna get into a couple of health questions
+during today's session,
+but we're delighted to have you on the panel,
+so thank you.
+<v ->Thank you.</v>
+Okay, let's start asking a few questions.
+So one of the things that I've always found fascinating
+is I, and I should have introduced myself,
+I'm Barton Goldenberg,
+I'm 40 years in applying leading edge technologies
+to global corporations
+in the area of sales and marketing and customer service.
+And I cut my teeth as a CRM guy, wrote three books,
+and managed many conferences,
+moved into digital technologies
+in the form of digital communities.
+Then I moved into Metaverse with my colleague Tim Bajarin.
+And ultimately we're also working with AI.
+During that period in time we have,
+I think it's very important,
+we've looked at literally hundreds of use cases
+for XR, VR, AR whatever you wanna put in there, MR as well.
+And that's what's in the resource center.
+And that helped Tim and I learn about, is this stuff real?
+Is it gonna happen now? Is it soon?
+There's a case study from Siemens,
+there's a case study, I think even,
+well not from Honda but from Mercedes
+and a couple of other car companies.
+And what Tim and I learned was, it's amazing
+what is being done right now using these technologies
+for success.
+And how many people were still clouded in their minds,
+is this something I do now?
+Do I put the stakes in the ground?
+Do I wait a couple years until it matures?
+Is the technology there?
+How are we gonna deal with the people side?
+There were lots of questions that everybody was asking.
+So let me ask this question to the panelists,
+and Harvey, I'll start on all the way down your side.
+So what would you say
+would be the top three reasons
+why companies should invest in spatial computing today
+versus wait till tomorrow?
+<v ->Yeah.</v>
+You know, I'm gonna speak as an emergency room doctor
+when seconds count, when I need that information now,
+not in five minutes, not in 10 minutes.
+Think about a surgeon wearing the VR glasses
+and being able to do surgery
+and not have to pull up an x-ray
+and then put his attention span at different places.
+He could be in the visual field of doing surgery
+and get that data.
+As an ER doctor to my example of when seconds count,
+I truly think when I have the lab results showing up,
+if I have a patient that's had an overdose,
+I need to know which one it was and I'm treating,
+but once I know, then I know how to channel it.
+So that's one way the efficiency in the workflow.
+Second, going back to my first point,
+I really think this is huge in training.
+I truly think these devices are gonna,
+instead of having a workforce
+of taking medical students four years,
+I think in the future we'll be able to push it
+to maybe three.
+Because I'm learning quicker,
+I'm seeing pattern recognition, I'm able to see,
+so from an efficiency point, the hospital systems,
+I think now is the time in medical training and the empathy.
+And then the last for me, when I look at this technology,
+I just see it as such a game changer.
+I see it as something that will help us today.
+And so being able to link this VR to AI
+and we'll talk about that later,
+that gives us another entity.
+And that's why I would be nice
+to start that infrastructure today
+so that when these newer technologies come,
+you already have that.
+<v ->Yeah, you know, we did a, I think it was a podcast</v>
+or I think it was a podcast with Mayo Clinic
+and I don't think they let anybody join Mayo Clinic today,
+any physician,
+unless they go through a very comprehensive virtual reality
+and augmented reality program
+where they learn all of the equipment at Mayo Clinic
+and how to work the labs and so forth.
+'Cause as Harvey has already alluded to,
+it's brought down tremendously
+the amount of time it takes to bring them in,
+but they're also better at what they do when they do it.
+so it's really quite interesting.
+Jane, in your opinion,
+three reasons why companies should invest
+in spatial computing today?
+<v ->I think that there's a couple of reasons</v>
+that are very different from each other.
+The first one is, for us, it's really important
+to be able to figure out what the customers are gonna want
+in the near future and in the far future.
+And that is harder and harder to do these days.
+You know, back when I first started in auto 30 years ago,
+it was a little bit easier.
+The pace of change wasn't as rapid
+and the type of change was a little bit more predictable.
+Well, I didn't think so at the time,
+but now looking back, it was definitely the case.
+So I think what spatial commuting
+and metaverse and playing around in that area
+helps us to envision the future in a really realistic way,
+even though none of it has happened yet.
+And I think that helps us with our storytelling
+and putting the context around the product concepts
+that we're launching.
+So that's more about the creative process.
+And then the other one is really about efficiency.
+So, in terms of process, so, you know, designing a car
+is a very labor intensive activity,
+usually you have a design person
+who's really good at illustration and concept making,
+but it's usually in 2D, then you bring it to someone
+who can create a 3D model of it,
+and then it goes to a clay modeler
+and they literally make a lump of clay
+that looks like a car.
+And then, you know, once that's measured and approved,
+then you have to send that data to the development people,
+then they tweak it, make final,
+and then it goes to the factory
+and that's the car that's made.
+And I think all of the tools that are available now
+is going to shorten that period.
+So right now, we're using it a lot more
+at the front end of the design process
+because at the the farther end it's a little bit harder.
+Even at the final design decision making,
+it's still not good enough compared to reality.
+So right now we're doing the awful thing
+of having both the clay and the digital model,
+you know, side by side.
+It's also a human problem.
+A lot of our top executives
+are not as familiar with these tools,
+so they're not as accepting
+and, you know, they don't wanna wear the big goggles
+and I complain it ruins my makeup and things like that.
+So, I think, you know, people who are in the evaluation area
+also need to evolve and accept these tools.
+<v ->And this is a real transition in the automotive industry.</v>
+<v ->Yes.</v>
+<v ->And-</v>
+<v ->It's huge.</v>
+<v ->It's amazing what companies are doing</v>
+and how quickly it's evolving
+and how new companies are coming in
+and the, it's just, it's a whole new bogging.
+<v ->Yeah. And it's really exciting.</v>
+<v ->Yeah.</v>
+<v ->Yeah.</v>
+<v ->I can imagine.</v>
+<v ->Yeah.</v>
+<v ->Peter, share with us top three reasons</v>
+why you feel companies should invest
+in spatial computing today.
+<v ->Well, first off, these are great examples by the way.</v>
+It has to prove its value.
+I mean obviously it's an investment, so it's an ROI
+and what I mentioned earlier,
+building a digital twin, make it immersive,
+getting perhaps, you know,
+in an immersive engineering jointly do it.
+If you can cut down time and if you improve the quality
+and if you can work more concurrently,
+that's the major benefits.
+So the results there and the savings are demonstrated.
+So therefore I think there's a very good case to be had.
+The second reason though, also where Jane was going is,
+it's technology, but in the end it's the humans,
+it's the people that have to use it.
+And what we find is
+it's not just only how do you use the devices,
+but very often
+you bring different departments together, right?
+So in R&amp;D, in engineering, in supply chain, in service,
+they have to work collaboratively, come together
+and actually are in this virtual world
+to solve that very problem.
+But I can tell you from our own organization,
+but all the companies that we're working with is,
+usually, this is the hardest part to crack.
+How do you bring all the different disparate parts
+of an organization together so that they jointly do that?
+So therefore, I think you have to start now
+because here's the third one.
+This is just the beginning of what we're gonna see.
+We are gonna see more and more work happening
+in that digital world immersive or 2D,
+but it's really happening.
+And so I firmly believe if you don't start now
+in exploring what are the use cases,
+getting the people in there, getting them together,
+used to that kind of environment,
+you're gonna fall behind in the future.
+<v ->Yeah, it's very, very insightful.</v>
+When I first met Peter, he was the chief technical officer
+and I think he was also
+the chief strategy officer for Siemens.
+And for those that are not familiar,
+this is one of the world's greatest companies
+dating back a hundred and some odd years,
+even more than that now.
+But what is very interesting is Peter was recently appointed
+a member of the managing board,
+and that's just recently in the last few months.
+And I thought that was a,
+first of all, an indication of how wonderful Peter is
+as a evangelist of all of these technologies within Siemens,
+which can be a very conservative and serious company,
+but equally important,
+how willing the board was to bring in this thinking
+so that it could become pervasive within the organization.
+So I thought that was a real signal about both you and them.
+<v ->Well, thank you. Thank you, Barton.</v>
+<v ->You're welcome.</v>
+Okay, somebody mentioned the magic word AI,
+and I think it was very funny in the last session Tim said,
+I think this is probably an emerging trend.
+I think we're way beyond an emerging trend,
+this is an obsession trend, but it's also fantastic.
+So now that AI's become a dominant force,
+both at this event, but Harvey and what you do
+and Jane and Peter and all of what you're doing,
+Would you be kind enough to share with us
+as you continue your work in digital twin whether it be
+or design or whether it be medical applications
+using VR and AR tool sets,
+how will you maximize AR technologies
+in these spatial computing efforts?
+And for that, Jane, I'll start right in the middle.
+<v ->Okay. I think for us, a good way to explain it</v>
+is the difference between Google and Chat GPT.
+And the way we talk about it at Honda
+is Google is kind of like what you use
+when you're looking for an answer to something.
+So all the arrows are, you know, the questions are pointing
+into the dot in the middle,
+which is the question you're trying to ask.
+I think Chat GPT is more about going out,
+so all the arrows are pointing out.
+So it's expanding the possibilities.
+And I think that's why we in creative love AI
+because it's really prompting us to ask questions
+that we didn't even know we should be asking.
+So it's asking us questions
+about what questions we should ask, you know?
+And it really does help kind of trigger a part of the mind
+that was of dormant or wasn't active.
+And it's all happening within us,
+but this tool is helping us to think about possibilities
+in ways that we hadn't thought about
+because automotive is kind of old,
+you know, and we've been doing things a certain way
+for a long time
+and now everything is turning inside out.
+And so, we really have to make sure
+that we're using the right tools
+and asking the right questions to make sure that we're
+looking into the right kind of possibilities.
+<v ->Great.</v>
+<v ->If that makes sense.</v>
+<v ->Yeah, it does makes a lot of sense. Thank you.</v>
+Harvey, how are you leveraging AI
+in some of your spatial computing efforts
+in the medical field?
+<v ->Yeah, I'm really stoked about education.</v>
+So I've been going to the medical schools, PA schools
+and analyzing how well they're doing.
+They call it OSCE exams, just the physical exam,
+but the beauty of medicine, it's the art of medicine.
+So that's where we're taking AI,
+combining it with the human,
+I have 20 years experience, putting it together.
+And so then I could take a video of that student
+recording the patient,
+how they're interacting, how they're speaking.
+Then I can throw that in AI
+and I can give him a five page report on,
+look, you held a stethoscope wrong,
+you talked to the patient wrong.
+And honestly, the medical students sometimes
+like the bot to tell them versus me telling them
+because it's not as horrible to them.
+The other thing that I'm really stoked about
+is mental health
+because some patients would rather talk to a bot.
+They'd rather get into a therapy, put on the,
+you know, AR or VR headset
+and put them into that special place.
+Like, I'm going out to the beach,
+this is gonna lower my blood pressure.
+And then they have a bot that's talking to them,
+it's like a counseling session.
+And they would not do that with their personal doctor,
+some people.
+And so just seeing these things I'm like,
+wow, this is next level for healthcare.
+<v ->Yeah, we'll come back to this.</v>
+Peter, can you give us your feeling
+for how Siemens is applying
+some of the AI tools and techniques today
+to your spatial computing efforts?
+<v ->Yeah, the AI and specifically gen AI</v>
+has been really a game changer.
+And the thing is that in industry we have,
+we have such an amount of data that's today not being used.
+80% of the data is not being used.
+And turns out there's 17 billion, twice as many people,
+smart devices out there sending data
+and you have to aggregate them
+and then you have to bring them all together
+in your digital twin in an immersive environment, right?
+And we've been struggling in collecting all this data
+then, of course, making it contextual
+so that all fits together.
+And AI is wonderful,
+because AI is the best translator
+that you can think of, right?
+So therefore we take it
+to solve one of the biggest challenge
+that we have in industry, which is called interoperability.
+And with AI we can teach it
+that you can take measurements and data formats
+and to convert it from one to the other
+and then you can make it comparable.
+But what we are really getting excited about
+is that immersive engineering
+where we have a headset together with Sony
+just launched yesterday, which is now ready for shipping.
+And what we see there is we have a software, CAD software,
+which now starts to do design for you.
+So in other words, you can take a piece of,
+you know, of a part that you wanna design,
+you tell the system, you know,
+what's the stress level and so on
+on that very different parts.
+And then you say, go and optimize it for me,
+and then it reduces you the weight by 80%
+and it comes up with completely new geometries,
+which one, as an engineer,
+and I am as from an education perspective,
+you would've never come up, this is amazing stuff.
+And it happens really, really fast.
+And it helps, of course, customers to drive down costs,
+but also improve their sustainability
+because these pieces are lighter rates.
+So that's very important
+in aerospace and automotive and so on.
+So we see that as a really big game changer
+where different technologies are coming together, right?
+So it's the question about the headset,
+how do you see it?
+But then also how do you interact with it
+and also how you manipulate the design in that space.
+And it's been huge
+and we have many, many customers right now
+coming our way saying, hey, how can I use it?
+<v ->Yeah. You mentioned, all of you, one way or another,</v>
+out of curiosity, how many went to the keynote last night
+with NVIDIA keynote?
+Okay, a large portion, but not all of you.
+I would highly recommend
+as soon as that's available that you listen to it,
+it was a fascinating keynote.
+But one of the key takeaways from the keynote was
+NVIDIA's observation and Jensen Huang's observation
+that the amount of data is replicating itself,
+duplicating itself so quickly
+that we have to use AI in order to bring it together,
+inference it, and serve it up.
+And I mean, Peter's examples is as good as any,
+when you build a complex digital twin factory
+with thousands of machines and valves and controls
+and everything,
+there's gazillions of information coming in
+and you've gotta manage it to optimize the factory.
+And what AI is really allowing us to do
+is to take all of this incoming data,
+make better sense of it,
+and then inference it and use it effectively.
+So it's just interesting.
+Okay, next question.
+I'm curious,
+and this may be based on what you've said, Jane,
+somewhat headed your way, but are you using Apple Vision Pro
+or any other spatial headsets
+in your spatial computing initiatives in yes,
+if yes, how important have these headsets been?
+<v ->The answer is yes.</v>
+And we probably own every headset that's been made so far.
+So we like to experiment,
+we buy a few of them and try them out.
+There's some that are better for different things,
+but Apple Vision Pro
+is probably one of my favorite devices, personally.
+And I think it's because I feel like it's the best
+at kind of telling the kind of stories
+that I was mentioning before.
+So the idea that, of the kind of value
+that we're trying to create at Honda
+moving forward in the second founding
+is, you know, in the old days the experience
+that we provided when you bought a car
+had a very strong beginning and a very strong end.
+So you enter the car, you drive the car,
+you go wherever you were gonna go,
+and then you leave the car and the experience ends.
+But now, we believe there is no beginning and no end
+to the vehicle experience.
+And so when you think about that, it's hard to imagine that.
+And the headsets kind of help us
+to be in that kind of an environment.
+And so, I really like it.
+The one thing I don't like,
+and we were talking about that earlier, is that,
+you know, every person who puts on the headset takes,
+I don't know, a good couple three minutes
+to get the settings right.
+And so I think that's one of the things.
+And in general the headsets are very heavy and bulky
+and you look kind of weird wearing them.
+So, you know, I kind of wish
+that my daughter was wearing the meta,
+you know, the glasses, the Ray-Bans,
+and those look a lot better
+'cause they look kind of like the glasses
+that I wear in my profile picture there.
+So, but yeah, I think they're gonna get smaller, but yeah.
+But we use them and we love them and-
+<v ->And I think you were an early user of Apple Vision Pro,</v>
+if I remember correctly.
+<v ->We were.</v>
+Yeah. And we've gone to Apple a couple times
+and trying to collaborate with them on, you know, like
+they often ask, why don't you use them at the dealerships?
+I'm like, well, because we can't spend five minutes
+setting up the headsets for each customer
+that walks into the dealership.
+<v ->Yeah.</v>
+<v ->You know?</v>
+So they're aware of that, but also we're working with,
+you know, they're gonna help us
+sort of with that 360 video production.
+So I think that's the kind of creative output
+that Apple's really known for and it's,
+it really is spectacular.
+<v ->Yeah. These are exciting types.</v>
+<v ->Yeah. Yeah.</v>
+<v ->Either Harvey and or Peter,</v>
+any perspectives on the use
+of these spatial computing headsets,
+whether it be Apple or other and the impact that's had
+in spatial computing efforts that you're doing?
+<v ->Yeah, so I took these out on purpose.</v>
+These are the meta glasses.
+And the way I see it is the culture now is accepting this
+before they're like, oh those are weird.
+I know my wife hates it when I buy stuff like this,
+but the more they look real, the more she appreciates it.
+So now we're seeing a cultural shift
+as these things get better and better,
+it's allowing all of us to interact with this.
+In the near future, I have my own digital twin
+on my books singing, interviews is all there.
+I would be able to pair that to this
+and then have a conversation.
+So when you ask me a question,
+I can say, hey, let's ask my digital twin.
+And then you're interacting with it.
+And so that's where we are
+and it's only gonna get better for all of us.
+<v ->Funny Harvey,</v>
+I always thought that those were your glasses.
+Peter?
+<v ->Yeah. Maybe I build on this, this is a perfect segue is,</v>
+so today, if you think about spatial computing
+in a way that if we say XR or or VR,
+it's pretty much limited to engineering, right?
+This is where most of the time you find it.
+But the question is how can we democratize it?
+And the reason that why that's not happening is
+because they're too heavy, they're too big
+and they're just not convenient to wear the whole day.
+However, exactly what Harvey has shown,
+you don't need to have always the display, right?
+So, in this case, right now we are,
+we are exploring the idea.
+We launched something
+which is called the industrial copilot.
+So one of the issues is
+we don't find factory workers anymore.
+The average tenure of the factory worker
+has dropped from 20 years down to three years.
+People are not wanting to work in a factory.
+And the ones that have been working in the factory,
+they're leaving the factory.
+So because they're retiring. So it's a big issue.
+So knowledge is walking out of the door.
+So that's why we've been developing
+an industrial copilot together with Microsoft
+that helps you to set up machines, to rectify them,
+all that stuff, right?
+So it's a human, it's like your smart colleague
+that helps us people in order to get this stuff done.
+The question always is the last mile, the interface,
+what's that human machine interface there
+and how you gonna perceive that?
+Now, imagine this one
+because the Ray-Bans are not having a display,
+but they have audio.
+So, and they have a microphone.
+So, and you can stream it.
+So you can look at the machine
+and say, hey, what about this machine?
+Can you tell me what are the steps to rectify it?
+And then if you have your AI,
+you don't have any human in there in that loop,
+it just tells you acoustically of,
+you know, take step 1, 2, 3, 4, 5.
+That is gonna be a game changer
+simply because it really solves one of the big issues
+that is knowledge on the factory worker space.
+And with that it becomes more ubiquitous,
+it's not just limited to engineering,
+but pretty much you can think of it being everywhere.
+<v ->Thank you.</v>
+Harvey, I'm gonna give you just a couple minutes.
+I'd ask you to be concise
+'cause this could be an hour discussion,
+but share with us past, present,
+past, current and future roles
+of spatial computing and healthcare.
+I know that my sister just had a surgery on her back,
+spinal surgery in Boston
+and they used VR headsets to put the screws in to her spine
+to make sure
+that they were not getting the soft bone but good bone.
+So I know this stuff is happening every single day
+and every single healthcare, you know, capability.
+But share with us your, where you think it's headed.
+<v ->Yeah, so in the past these things were huge, heavy,</v>
+long lag time.
+You would talk to it and you'd wait forever,
+the graphics were horrible.
+And so, you know, medical students was like,
+I don't wanna wear those.
+Apple Vision Pro, I'm biased.
+You can see through it.
+I can do a procedure like you were saying just now
+and I can go through and have the x-ray
+and have everything up in virtual world
+and tell me exactly what it is.
+And as I'm getting older, my eyes aren't the greatest.
+So now I can explore my visual feel
+and make it 50 times bigger and I can really get in there.
+And then now in the future, going back to this point,
+this is gonna get smaller and smaller.
+And for you guys you could take a picture.
+Like right now I could have these on
+and say, hey, I gotta take my meds at 12
+and it'll remind me tomorrow
+that at 12 it's time to take my meds in the near future.
+I mean it already has it now,
+I can put up some food and eat and take a picture
+and be like, how many calories is this?
+Is this good for my cholesterol?
+Is this good for my hypertension?
+And so that's where we're headed.
+And in the near future all of that'll be seamless
+and it'll be integrated with AI
+and it'll be in here and it'll be back and forth.
+<v ->Yeah, I think it would be fair to say</v>
+that we're really at the beginning of the medical evolution
+that the way doctors and do not just procedures
+but testing and imaging and all kinds of things
+is gonna be very, very different.
+So this is very exciting times.
+Thank you for sharing that with us.
+Okay, I want you to get your questions ready
+if you have questions
+I can't see very well from the front here,
+but think of some questions if you have them.
+And I'll, raise your hand nice and high
+and I'll get to you not just yet though,
+I just want to get my last question in
+and then I'm gonna open it to the audience, okay?
+But I see at least two of you that have braved yourselves
+to get ready for the question.
+Let me ask you guys to be a little bit
+in a front leadership mode.
+We meet here next year 2026.
+And in your humble observation,
+how do you see spatial computing
+playing out over the next 12 months?
+And Peter, if you will, I'll start with my left.
+<v ->Yeah, I was thinking a little bit of where this is going.</v>
+Number one is to make it not limited to engineering,
+but really to all the other departments that we wanna see.
+So I think we're gonna see
+that more use cases demonstrating real value
+of where you can make that work.
+And then also from a new development perspective,
+I expect these devices becoming smaller, lighter,
+and in particular AI powered.
+AI powered in many ways from generative design
+to as a coworker helping you
+to navigate all of these pieces.
+So you're gonna see more of blends
+of different technologies, right? Coming together.
+And actually the place where that is gonna be
+is always at the human machine interface
+and I believe that's gonna be the place.
+<v ->Excellent. Jane?</v>
+<v ->Yeah, I agree.</v>
+I think OpenAI celebrated their one year birthday
+not too long ago.
+So I imagine this next year is gonna be
+leaps and bounds moving forward,
+but I think yeah, there's gonna be,
+you know, we talk about spatial computing as kind of like
+the pixels are so small you can't tell the difference
+between being in the physical world or the virtual world.
+And I think in our experience and immersive experiences
+that we're gonna provide with our cars,
+I think people are gonna get more and more comfortable
+with that idea
+of kind of being in both the physical and the virtual world.
+<v ->I can't wait. It's so exciting.</v>
+<v ->Yeah, it's very exciting.</v>
+<v ->I have to tell you,</v>
+I'm an old Jaguar racer, collector
+and, you know, car rallies and so forth and they're,
+they've waited an awfully long time
+to get to the new generation,
+but it's gonna be very exciting
+how the whole industry moves forward.
+<v ->Right. And if you wanna pretend</v>
+that you're driving an old classic car, you can do that too.
+<v ->Oh, thank goodness.</v>
+Harvey, where are we at 12 months from now?
+<v ->Yeah. I see education being huge.</v>
+The more we educate ourselves on a healthcare,
+I call it their healthcare IQ will improve.
+And when that improves, our longevity will improve,
+our quality of life will improve.
+So I see these devices helping
+my case in point that I just told you
+about the medication reminder.
+The second part is this is gonna be my friend,
+it's gonna be AI.
+I can have a conversation when I'm driving.
+I can say, hey, my doctor said I have high cholesterol,
+what does that mean?
+And I'm just having a conversation
+and it's going through my glasses and it's telling me
+and I'm educating and I'm improving and I'm like,
+okay, probably should take my cholesterol medicine,
+I get it now.
+The second part is what's with the VR.
+Imagine if I got your x-rays CAT scan, put it on and say,
+hey, we're gonna go through your heart right now
+and I'm gonna show you your arteries.
+And if you're not taking your medicine,
+this is what's going on in your heart,
+are you likely to take your medicine?
+Probably.
+<v ->Good, thank you.</v>
+So I had two questions. I saw one up front. Yes.
+<v ->This question is more so directed</v>
+towards Jane and Dr. Harvey
+and that was why specifically the Vision Pro
+and not something like the Quest 3.
+And as a follow up,
+this question is more so directed towards you and Dr. Harvey
+and that with regards to AI and leveraging in your field,
+there is a lot of proprietary and confidential data.
+How do you foresee legal and privacy implications?
+Which regards to using it for training?
+<v ->Yeah, I'll be quick.</v>
+I like the Apple Vision Pro
+'cause it's a high retinal display
+and you can see through it and there's not lag time
+and I don't feel like it's there with the Meta.
+As far as the legal question,
+the way around it would be using more edge technology
+and creating it in your own interest server
+so that it's there.
+And then with the data, that's the big piece,
+who owns the data, how do you get it?
+But assuming that you do like federated learning
+and we can talk later about how you could do that legally.
+<v ->All right.</v>
+<v ->Oh.</v>
+<v ->Go ahead, Jane.</v>
+<v ->For Apple Vision Pro, I think for me personally,</v>
+it is the, being able to see through it
+and you have better peripheral vision,
+so it feels more natural.
+But also Apple is I think the best partner
+when you're heading into creative endeavors.
+I think they always have been and they still are.
+<v ->Peter, any observation on the privacy,</v>
+you're European privacy is at a higher level of concern
+to most Europe, to most Europeans.
+I'm married to an Italian, she reminds me of that daily.
+But I'd be just curious the questions on everybody's mind
+as more data gets delivered, as more data gets inferenced
+and is made available and is made available with AI
+and there's all kinds of things you can do with the data,
+where does this whole privacy, where are we going?
+<v Peter>Well, I mean,</v>
+I'm not sure how much time you wanna take.
+<v Barton>Yeah, exactly.</v>
+<v ->The good news there on our end</v>
+is since we end in industrial world,
+we are not using so much privacy
+in terms of personal related data.
+So forced machine data, so that's very simple,
+but it becomes very complex
+the minute we talk about, of course, healthcare data.
+This is where I spend most of my career also.
+It's a very sensitive topic.
+I guess we need to have an own panel on this conversation.
+But to go, going back to your question
+exactly as Harvey also said is for one, it's edge computing,
+this is the way how to go about it.
+Reinforcement learning, this is fine.
+Federated learning is that's the way
+how we usually treat that based on a pre-trained model.
+And that's usually working pretty well.
+<v Barton>Okay. I'm taking just one more question.</v>
+I know there's many,
+you can come up to the panel afterwards.
+Gentlemen right here. Yes, please. Nice and loud.
+<v ->Question for Peter, please.</v>
+And your experience with digital twins for factories-
+<v ->Yeah.</v>
+<v ->And people solving problems in that virtual environment.</v>
+What are your top three HMI challenges,
+human machine interface challenges?
+<v ->All right.</v>
+Challenge number one is the devices that are out there
+are usually too big, too large.
+And if you are a factory, let's say manager,
+I mean they drive productivity every day.
+If you come there and say, you know what?
+Take the device for thousand $4,000, they throw you out.
+So that's not working, right?
+So therefore you have to take a few other devices
+that are less complicated, that are more sturdy
+and that actually really can be used.
+It's number one.
+Number two is, there is still a lack of education
+where people are a little bit reluctant
+about what does it really mean and,
+and how do do does it, do we go about it?
+And number three is,
+is very often that the way we look at the use cases,
+and usually that is about how we set up machines and so on,
+the tutorials, the data is not there yet.
+So that's the stuff that we have to build
+in order to make this useful, right?
+But that's coming.
+So, I'm sure that the 12 month question,
+we are very well on our way to do just that.
+<v ->Last year at the Siemens keynote,</v>
+the CEO Roland Bush said that,
+I don't remember the year he said it in, but he said,
+but within the next few years,
+every object will have a digital twin.
+I just remember that distinctly in my head.
+Okay, let me make a couple of references
+and we'll bring it to a close.
+Ladies and gentlemen in the back,
+I have no idea, my machine up front is freaking out,
+but I just wanna go to this slide right here if I may.
+That didn't seem to, there we go, okay.
+So I wanna just give you three references,
+two references that we alluded to, Tim alluded to this.
+This is the spatial AI and spatial resource center,
+greater than 300 AI and spatial computing use cases,
+including Siemens, including current companies
+and medical industries,
+it's a wealth of knowledge and it's free of charge.
+It's our work, Tim and mine,
+but it's many, many other scholarly people
+that have joined and provided information and insight.
+I would strongly recommend you go there,
+there are videos more than 150 videos.
+It's really a great resource center
+for those that might be interested.
+Tim and I have been doing a podcast since February, 2023.
+We have I think 30 or 32 episodes now, very interesting.
+They never last more than 25 minutes.
+What we do is we take a company,
+we go deep and we look at how they're applying
+some of the spatial computing technologies.
+If you'd like to get in touch
+with any of the folks on the panel,
+here's just a quick, they're all on LinkedIn but you,
+and they're not very complicated
+'cause their first name and last name.
+But take a picture and that might help you moving forward.
+Let me say the following,
+you know, I've been around for a long time
+and I've chaired many a panel
+and for that matter, a conference.
+Rarely do I get a panel as first of all diversified,
+but as distinguished as this group of executives.
+You know, I want to thank you folks.
+You are in your own right,
+very pleasant and enjoyable people.
+I've gotten to know you a little bit,
+we've got to know each other
+and that's what life is all about.
+But on a professional side,
+I just think that you bring such a wealth of knowledge
+and display it and discuss it
+in such an easy to understand manner
+that I just want to thank you
+and I'd like you to put your hands together
+and thank the panelists as well.

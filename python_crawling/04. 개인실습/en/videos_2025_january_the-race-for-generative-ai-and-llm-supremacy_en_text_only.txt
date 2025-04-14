@@ -1,0 +1,908 @@
+<v Presenter>Welcome back everyone, please take your seats.</v>
+I hope you all had a chance to recharge
+because we're diving straight into the race for Gen AI
+and LLM supremacy.
+Let me introduce the moderator
+who will be leading this discussion,
+as one of the country's foremost authorities
+on artificial intelligence and blockchain,
+Sandy Carter has been a notable expert working
+with AI since 2013 and with blockchain since 2019.
+She has had a distinguished career
+holding leadership positions as a chief operations officer,
+chief product officer,
+and chief sales officer working
+for Amazon Web Services and IBM.
+She's also top 10 AI entrepreneur from Microsoft MSN.
+Sandy, this stage is yours.
+<v ->Thank you so much</v>
+and thank you guys for going out and coming back in.
+We're so excited for this panel.
+We have an amazing, amazing set of leaders
+who are gonna talk to you today.
+How many of you guys were at Jensen's keynote?
+Yeah, did you hear Gary say if I had placed a bet
+on NVIDIA when Jensen first spoke,
+I would have retired by now.
+That's the same thing you're gonna hear
+about these companies today and what they're doing
+in this LLM and Gen AI space.
+So I have three wishes for you today
+to take away from the panel.
+One, I want you to see what people are doing today
+with LLMs and Gen AI.
+Two, I want you to hear about the future
+of what's happening.
+And then finally, I want you to hear from these experts
+on how to get started.
+Does that sound good?
+Yeah, you guys have to participate with me.
+Does that sound great?
+Okay, there we go, I want the energy up in the room.
+Okay, so let me just introduce very quickly,
+the panelist sitting beside me is Hassan Sawaf,
+yeah, founder and CEO of aiXplain.
+He'll talk a little bit about there,
+he is ex-AWS with me as well.
+Please give him a warm welcome.
+Okay, I think we can do better than that.
+Sitting beside him is Stephanie Buckner.
+She is the COO of a company called Altair.
+They've been doing AI for quite a long time
+and if you haven't seen the news,
+they've announced a potential acquisition
+by Siemens for $11 billion.
+Welcome Stephanie.
+And sitting beside Stephanie is Yujing Qian.
+He is the vice president
+of engineering at GMI, one of the sponsors of the event.
+So please give him a warm welcome.
+And then finally, last but not least,
+you'll wanna get your picture with Ray Wang.
+He is the founder and CEO of Constellation,
+but you've probably seen him,
+he does almost daily updates on CNBC, Fox Business News,
+Bloomberg, et cetera, welcome to Ray.
+Okay, so let's go ahead and get started,
+now, just some facts to get us started.
+Did you guys know that 77%
+of companies said they're exploring LLMs right now
+for use in their company for production?
+The gen AI market is expected
+to be $1.3 trillion,
+not billion, trillion dollars by 2030
+and 90%, 90% of enterprises said
+that they will use Gen AI in 2025.
+So I think those are some phenomenal numbers,
+but Ray is our expert on research.
+So Ray, tell us what do you see
+as the top trends in this space and if you can, maybe one
+or two unexpected ones.
+<v ->Oh yeah, okay, happy to do that.</v>
+How many people here actually like take something
+like Otter and run it on your meeting
+so you don't have to listen to them, anyone do that?
+That actually is when we look at the research,
+like the most practical future of work thing
+that people are doing because they don't wanna listen
+to their boss and they just wanna like record the meeting
+and do work while they're at work.
+But meeting avoidance is actually number one.
+But there are other amazing issues
+that Otter are being used, right?
+So procurement and any kind of legal contracts,
+we're seeing that pick up really quickly
+because there's only so much you can do with a legal intern
+to go find case law, see what's happening.
+We're definitely seeing in customer experience, the ability
+to do deflection or the ability
+to improve self-service using agents
+to personify what people are doing.
+We're also seeing it in terms of your ability
+for HR in terms of like interviewings
+and screenings for anything from regulatory requirements.
+Like do you have the right set of candidates?
+Do you have the right set of pools?
+Are you doing inclusion properly?
+Those are popping up as well.
+And then of course, code gen is number one by far, right?
+People are building code.
+What might have taken you a year
+to do is gonna take you a month to do,
+what might have taken you a month to do,
+some people are doing in like two days.
+That's the level of what's going on.
+And you know, if you're a CS major
+that's graduating this year, I really apologize
+because you probably will be unemployed, right?
+So we're gonna see stuff like that pop up.
+Now, the surprising piece that people like,
+and the last one actually is the creative sides.
+You've seen how much power it is to be able to create music
+or create, look at arts, looking at the ability
+to look at a whole set of portfolio of changes,
+things that you're able to do, most important,
+if you're doing a global campaign,
+it would take you five weeks
+to actually get each country up and going.
+It'll take you five weeks to get all of them up and done.
+And so it's a speed thing.
+It's this notion that we call exponential efficiency
+and enterprise acceleration.
+Those two things are happening
+at the same time, the surprise use.
+<v ->Tell us.</v>
+<v ->I think it's gonna be.</v>
+<v Sandy>Like what we've heard here at CES,</v>
+give us a surprise.
+<v ->It's really the way people are punking people</v>
+with different types of videos,
+unintentional misinformation, sometimes intentional.
+I think that's the surprise use,
+but the ability to detect
+that on the other end is now the surprise use
+because you're using AI to fight AI
+and you're gonna see more of that come up.
+<v ->Awesome, thank you Ray.</v>
+And those insights I think are interesting
+because they come from Ray's research where he works
+with thousands of companies, not just vendors
+but end users as well, which I think gives Constellation
+a leg up on a lot of the other analyst companies out there.
+So Stephanie, Altair has been doing AI since
+before AI was really popular and sexy.
+So tell us what you are seeing out there
+from an Altair perspective, what kind of usage do you see
+with LLMs or Gen AI?
+<v ->Yeah, absolutely.</v>
+So a large number of our customers are really exploring
+and engaging and every company's at sort
+of a different stage in their AI journey, I will say.
+A huge concern
+that is popping up right now for our customer base is
+around control.
+And what I mean by that is governance.
+So now the LLM concept allows
+for huge transfer of information,
+but you have to make sure
+that the right employees can access
+the right information still.
+So that's a really core piece to what we've focused on.
+And then in addition, you've got hallucination
+and when you're really looking at using LLMs in production,
+hallucination is absolutely something you cannot tolerate.
+And so there are many ways around it,
+particularly using technology such
+as the RapidMiner platform with the graph base,
+the knowledge graph technology.
+And so that's really core.
+But what I would say actually what I'm hearing
+from customers what is our number one challenge around AI
+and LLMs, it's actually about transformation.
+And what they mean by that is the concern all
+of their employees have around the lack of future job
+that I am now creating something that will take my job
+and what is that gonna mean for me in the future.
+And the reality is, is many of the skill sets today
+as Ray was talking about, are not gonna be needed.
+But there will be new skill sets needed.
+I'm not somebody that believes every single role
+in an organization is gonna be completely obsolete with AI
+but I do think that the roles that we have today will
+dramatically transform into the future.
+<v ->I think those are great points.</v>
+You know, I have two daughters, I have one getting ready
+to go to college and one in college
+and they are talking about that a lot now at the university.
+And in fact, hallucinations come up
+and one of the classes,
+my daughter was given the opportunity to do research
+with a couple of the gen AI tools
+like Claude and ChatGPT.
+And she found that in one of her pieces of research,
+all three of the references,
+even though they gave a book, a page number, a person
+to quote, none of those were actually real.
+So you do have to be really careful.
+So those are really, really great points.
+Yujing, I know that GMI works really closely
+with a lot of engineering leaders out there,
+so they're gonna be really interested
+in hearing about the patterns that you are seeing
+and what's really transforming the space out there.
+<v ->Yes, so we work with a lot of enterprises</v>
+and we see typical phases that also depends on
+how digitalized each enterprise is at this current phase.
+But one typical thing we saw is they usually give us five
+to six bullet points as if they wanna fire like 50%
+of the company but doubling their revenue.
+This is very common, like they wanna do this,
+they wanna do that like six to seven goals,
+but they will soon realize this is not the case, right?
+And they then fall down to their engineering department,
+say what we can do at this point.
+And they're usually starting with some small low risk
+but high revenue or our high ROI projects,
+which is a very good thing to start.
+And then they'll stall on a deeper integration side,
+like how are we gonna deal with the data compliance issue,
+now that we've tried some prompt using OpenAI or Claude?
+How should we proceed with our own data
+and how can we get more compute resource?
+You know, inferencing the new models is
+very costly these days and especially
+if you use like high-end models these days.
+Like some enterprise even ask specifically for example
+for Llama 405B or DeepSeek, which requires
+a huge amount of money to run on.
+And then that's where, for example,
+platforms like GMI Cloud will kick in to help them,
+for example, build their private clusters
+or do some on-prem deployment
+to further help them facilitate their end goals,
+for example, to do the rest of the five
+or six bullet points.
+So this is what I've seen from
+what they're doing versus what they plan to do.
+Of course there's data issue,
+there is data compliance issue, how to handle data PIIs,
+how to do data encryptions.
+So there is a long, long list for them to went through.
+And for companies with a good start, for example,
+if they have, already have a unified data layers
+like a data lake, congratulations,
+they're off to a good start.
+But we've also seen some companies are still in,
+still not very mature when it comes to digitalization.
+So our recommendation would be try to start small, try
+to find the data
+or database that has the best quality in that domain
+or that's most consistent to start with, yeah.
+<v ->Interesting, so can you tell us, like if you had</v>
+to look at all those five bullets
+that everybody's given you, what's the number one bullet
+that you see over and over again?
+<v ->Oh yeah, the number one bullet is always</v>
+like some kind of Copilot workflow.
+If it's working on, for example, software, hardware,
+that's pretty obvious
+and it has been a proven use case that works.
+For other, for example, customer services
+or other 2B business.
+They have this human in the loop chat bot
+that's also very popular.
+So these two I think are currently the most mature
+use case that we've seen so far.
+But they want
+to build other stuff like enterprise RAG,
+knowledge base Q&amp;A, which will also require
+deeper integration into their data.
+<v ->Interesting, so you know,</v>
+implementation really separates leaders from laggards
+and how you actually execute, not just how you plan,
+but how you actually execute as well.
+So moving to production sometimes is the big challenge,
+even though you've had a small success.
+I know Hassan, that you guys are working on a lot
+of really interesting things at aiXplain
+even making coders, implementers that are not
+typically coders like myself, right?
+Someone with go to market skills.
+So can you talk us through some of what you're doing
+and some of what you have in your architecture
+or your infrastructure that's crucial
+for everyone out here to know about?
+<v ->Yeah, thank you Sandy, so yeah, I do AI for,</v>
+since, is the microphone working?
+<v ->Yeah, there you go.</v>
+<v ->Perfect, so I do AI since 92</v>
+and I have seen a lot of.
+<v ->Wow wait, did you say 1992?</v>
+<v ->1992.</v>
+<v ->Wow.</v>
+<v ->My first language model was 95, my first agent</v>
+as we describe it today in 2015.
+So the concepts which we are dealing with are not as new
+as we might think, but they are more ready
+because of the environment.
+Compute is ready, data is ready,
+people have a better understanding on where to use.
+I mean this is definitely something
+to be said about ChatGPT when it came
+and educated basically millions
+and millions of people, which were like distant to AI.
+Now I was at AWS, we were building cool technology.
+I mean, it was an excellent experience,
+and a half years at AWS, that was,
+for me personally, a great experience.
+But we were actually addressing the engineer mainly, right?
+I mean we wanted to enable them
+to basically put things into their hands.
+And the reason why we started aiXplain is
+what about the 95 other percent of the world?
+We need to enable them,
+we need to give them tools into their hands
+to build capabilities similar
+to what an engineer would be doing.
+To be able to do that,
+we have multiple challenges which need to be addressed.
+One is we as AI scientists know what RAG is.
+We know what LLM is, we know what signal processing is.
+We know, so we know basically
+how to put these things together
+so that they can work a certain way.
+Maybe one model can do it all at once, but typically not.
+So to serve that, to solve that problem,
+we built basically an our own agent, Bel Esprit,
+to take basically a conversation
+from an executive into an architecture
+of solutions using multiple models right there and so forth.
+So now a chief claims officer can actually
+immediately converse with a chatbot experience
+and build a solution.
+Build an agent just by conversing, just by telling it
+what is the pain point?
+Where do I need to do, what do I need?
+What kind of data do I have?
+Et cetera, et cetera.
+Now, so building the solution is an important component,
+but like Stephanie has actually earlier mentioned,
+this is not the only thing you need to do
+to take basically a solution.
+I mean at that point you just have a demo, just prototype.
+It's not really deployable
+because you don't have the guardrails,
+you don't have the data security,
+you don't know what's gonna happen
+when an algorithm does something
+and potentially is biased or something like that.
+So you need to build technologies to help you with that.
+We implemented things, what we call,
+I mean micro agents, what like we call them bodyguards,
+dealing, managing data, data access and so forth.
+We build micro agents, which are called inspectors,
+paying attention to what is, is a certain policy being hurt
+for example, does the data need to comply
+with HIPAA or something like that.
+Sometimes the solution will recruit out of 40,000
+of existing agents in aiXplain, multiple inspectors.
+One is HIPAA, one is SOC 2, one is, I don't know,
+maybe something which generates content which is feasible
+to be shown to a 7-year-old, et cetera, et cetera.
+And building these kind of capabilities is
+what we are enabling our users to do.
+So we are trying to reduce the, I mean it's getting more
+and more confusing, the more we are,
+I mean continuing this AI journey,
+the more confusing it is, for me as a like long timer in AI,
+it's not easy anymore to say I don't know
+what models are coming on a daily basis.
+There's new LLMs coming, which one to choose is hard.
+Let the AI help us to figure out what AI to use.
+So this is what aiXplain offers.
+<v ->Interesting.</v>
+I think I need a bodyguard too, I think that's really cool.
+And so this trend of looking at non-coders starting to code,
+do you see that Ray as something
+that people are talking about what Hassan is working on?
+<v ->Oh yeah, I mean we're definitely gonna see</v>
+like a 10th less coders.
+You know, you're gonna see definitely people jump in
+and just describe business descriptions, right?
+I mean the point of AI is not more AI the point of AI is
+to make better decisions.
+And what's gonna happen over time is
+you're gonna draw decision maps and you're gonna say,
+that's not where I wanna automate.
+You're actually gonna say a different question.
+You're gonna say, this is where I want
+to insert a human to change the process.
+And that's really gonna change the way you look
+at how you automate decisions
+because that's really the goal of AI
+in the end is automating as many decisions as you can
+and then back to production ready.
+I mean, the question you're gonna ask is
+who do you sue when something goes wrong, right?
+Very, very important because that's
+where you're gonna jump in so you're not production ready
+until you can answer that question.
+And sometimes that means a human has to be there
+or another, you know, another body has to be there
+to assume liability, so you'll see that.
+Back on the implementation thing,
+I think that's just really important is LLMs, you know,
+if I told you my LLM is 85% accurate
+for customer experience, would people feel good here?
+Like raise your hands if you feel good.
+It's not bad, right?
+But what about 85% for supply chain, anyone up for that?
+No, right, it's a million dollars lost per minute.
+What about 85% accuracy for finance, anyone?
+Anybody wanna go to jail?
+All right, what about 85% accuracy for healthcare?
+Anyone in, okay, so that's the challenge, right?
+And so the other part that's really important is
+to make sure you partner for data.
+So we're going to see data collectives emerge
+and these data collectives basically play a role in terms
+of sharing information you're gonna give and get.
+And one of the things that you don't realize is
+we keep talking about the battle for LLMs
+and that's a really cool battle
+and we can go into that so deep.
+But your data sets are gonna be just as important
+because the next 15%, right, that 10%
+and then the next 5% is equally valuable.
+So don't give away your data
+because it's gonna be used somewhere else
+because we're competing for precision decisions.
+And if you can get to 99%,
+that means less humans involved in that process.
+If you're at 85%, there's a lot more humans in that process.
+And so that level of precision means
+we need more data sources
+and so that partnership becomes important.
+<v ->Yeah, that's interesting, I was just talking actually</v>
+to Fei-Fei and she was telling me that everybody thinks
+that it's gonna be LLMs that either determine success
+or failure, it is gonna be around your data.
+And Stephanie, I know at Altair you guys have been working
+on helping customers by industry, looking at data models,
+looking at compute models to scale.
+So what lessons would you give the audience
+on data compute at scale?
+<v ->Yeah, I mean at the end of the day,</v>
+you don't want one AI model.
+You're gonna want hundreds of thousands at the end
+and that becomes a big challenge when you're in production
+and everything needs to work not just at 85%.
+And so for us, you know, on the Altair side,
+we have deep expertise on the high performance computing
+and we're the number one player for workload
+and workflow scheduling.
+And so our technology is on the largest computers
+in the world today, the exoscale computers.
+And we're leveraging this expertise really
+and applying it into our AI operations and our AI platform.
+But scalability is one of the major concerns
+that really comes out as a customer progresses
+through their journey.
+To begin, it always starts more on the data side
+of I need to have the right data.
+And that's really complicated for customers today
+because most customers,
+their data is segmented into different silos.
+You've got an ERP, you've got a PLM, you've got, you know,
+all these different silos of data
+that are not necessarily connected.
+You may have dumped them into a data lake,
+but that doesn't actually create the relationships
+that are needed across those different silos.
+And so the data aspect becomes even more important
+into the future.
+And one of the core concepts
+that Altair focuses on is a data fabric and AI fabric.
+And this is really creating that layer over top
+of those different data silos.
+Because as Ray was talking about, you're gonna have data,
+whether it's your own data
+or outside data that's coming in that's needed
+to help train the models
+but also to give responses
+in real time on different actions, sensors,
+things like that that are happening.
+And so, you know, it's really gonna be, I think one
+of the most important and critical aspects.
+Most people are always thinking about AI modeling
+and how do I get my models out into operation?
+But that's sort of the second step.
+You have to start with the right data.
+<v ->Absolutely, data, data, data.</v>
+But there is one other thing
+besides data, which is integration.
+How many of you out there have
+to integrate these solutions into what you're doing?
+Or are all of you guys startups?
+No, okay, most people here have to integrate.
+So Yujing, talk to us a little bit about integration
+'cause integration can sometimes be the Achilles heel
+in a solution for AI.
+<v ->Exactly, especially when you're given this black box</v>
+of large language models, people usually just, oh no,
+how should I integrate into our business?
+Right, I know how to type in and receive the response,
+but what about our existing workflow?
+I think that's the most asked questions
+for established business at these days.
+So from an engineering perspective, we will say
+don't be afraid of the existing frameworks.
+I know like if you live in San Francisco,
+you'll probably be dragging to different kind of hackathons
+and see like seven to 10 different AI frameworks every week.
+That's where like expertise is needed.
+Like you need to pick the right expertise as consultant
+to tell you what kind of framework is needed
+to suit your actual use case.
+For example, somebody have their own data lakes already
+established on Databricks, then it's probably fairly easy
+to streamline everything into this,
+what we call the LLM ops framework.
+If they're still not in this kind of data lake process,
+then we need to figure out where the data sits right now,
+what kind of compliance they need to follow,
+what about data privacies, how sensitive they are.
+And most importantly, we need to see the thing
+as a pipeline, not just a snapshot.
+Because like Stephanie has mentioned,
+model training is just one thing.
+The most important is how you manage your actual data flow.
+And what's most important is this,
+how this data flow would flow into your business
+and in the end be integrated by different components.
+For example, agent is one of the most debated
+or discussed topic these days.
+So my take is don't be afraid of starting using a framework.
+I know there is a debate
+between framework or no framework.
+Somebody says no framework is the best engineering practice.
+Somebody says, oh, just use a framework.
+So our recommendation is trivial.
+Just try using a framework
+and establish a framework
+to prototype your business pain point or your business need.
+And then you will figure out what you need
+and what's lacking.
+So don't be afraid to try, that's my take.
+<v ->So we've been talking a lot about the technology today,</v>
+but I'm a Forbes contributor
+and I wrote an article on ROI, ROI, ROI for AI.
+It was one of my top rated articles
+because everybody now is moving into, I have to prove
+to my boss that this is not just cool, it's not just AI
+but it actually delivers a measurable business outcome.
+So Ray, I'm gonna go first to you
+'cause I know you've recently done some research here
+on what are the elements that cause a project
+to be ROI positive, to be successful
+and what are the things that these folks could watch out for
+that might deter from that ROI mission?
+<v ->Yeah, no, Sandy,</v>
+everybody wants to know what the payback is.
+And if you think about what happened last year,
+and we basically robbed budgets to pay for AI, right?
+You saw it all across the board,
+like your marketing budget got robbed,
+your cybersecurity budget got robbed
+and people were trying to pay for all these AI innovations.
+And then the question was really did anybody succeed?
+And we saw about 15 to 17% of POCs,
+proof of concepts succeed.
+And the companies that did succeed,
+they were able to see a lot of gains.
+I'll give you a great example.
+We were interviewing the CEO of Sam's Club
+on stage at our AI forum and basically he goes,
+we got rid of 10 million tasks, right?
+And the next thing you would think is like, yeah,
+and we also got rid of X number of people, right?
+That's probably what you would think.
+But instead he actually said,
+we actually added 3% more frontline workers
+because we needed a human touch, right?
+So you're starting to see that type of ROI,
+if you're looking for the next AI stocks to invest in,
+it's not the NVIDIAs of the world, it's the companies
+that are putting AI to work.
+So if you look at what Uber did,
+you only got a certain number of drivers
+and they can only drive a certain number of days.
+But what they did was they took their data science
+and their machine learning capabilities
+and figure out how to do ride batching,
+putting more people into the car, right?
+And able to actually figure out how
+to do dynamic pricing on the backend.
+And those two things means the driver gets more rides
+or more fares.
+And of course Uber takes their cut,
+but you get the idea, they can then build against that.
+So we're starting to see this happen in places
+and you're gonna see more and more companies
+who actually have that data foundation
+improve personalization,
+which means maybe you're more loyal,
+which means you're gonna buy more from them.
+Or they can figure out at risk employees
+who might be leaving and understand,
+hey, what are the factors behind that?
+Well, their boss left
+or their best friends have left, right?
+Okay, that's gonna create a cascading effect.
+Let's go do something to actually improve retention
+because hiring people is not fun, nor is it cheap.
+So you'll see more examples like that.
+<v ->I love the research that Ray did</v>
+'cause he gave kind of three core things
+that he saw from successful projects.
+Let me see if I get this right.
+One was that the people in the company viewed it not
+as an AI project but as a business project.
+So it wasn't, I'm gonna do this cool LLM
+or I'm gonna do this gen AI thing,
+it's I'm gonna improve my supply chain,
+I'm gonna do something around the business.
+The second one was data, they had the right data.
+They knew the data that they needed
+as they were gonna move forward
+because this would help them to ensure
+that they didn't reach that 85% point,
+but they reached even further.
+And then the third one that I saw
+that Ray talked about from his research was start small.
+A lot of the companies, 'cause you said 15
+to 17% were successful, a lot of those
+who were not successful started really big.
+They started to accomplish something
+that was huge versus starting small, learning.
+And then moving on from that.
+Hassan, I know that you guys are looking
+at a lot of economics as well.
+Talk to me about what you are seeing in economics.
+I know you're working with some insurance companies,
+oil companies, et cetera.
+Talk to us about what you are seeing in terms
+of economics and ROI.
+<v ->So we have this customer,</v>
+which is an insurance company in Florida.
+They are actually, so homeowners insurance doing a great job
+with what they're doing on a day-to-day basis.
+But then the hurricane hits, and then suddenly,
+their less than a hundred human agents have
+to solve problems, which are for 10,000 people.
+The people cannot be at home.
+They cannot, they have big issues.
+I mean, it's a big impact.
+One of their executives came to explain
+and build basically an agent
+to augment the human agents with AI
+so that an agent can now converse with a customer,
+take on the claim,
+figure out whether it is within a certain
+like approvable budget,
+and then basically approve it right away
+without the human needing to be involved.
+And that includes asking the user to,
+or the policy holder to take pictures of the roof
+to identify how is the roof looking like?
+What material is it, how big is it?
+By taking information,
+coming from, for example, satellite images and whatnot.
+The 75 agents turned into more agents,
+more than a hundred agents
+because I mean, while they were able
+to like solve the majority, the belly
+of the distribution was actually be solved by the AI.
+Now the actual customer had more time
+or the agent had more time to invest with the customers,
+which are outside the things the AI can actually solve.
+They saved a lot of money, millions and millions.
+I can't disclose how much, but I can tell you
+that the user experience increased dramatically
+from the two point x to four point x,
+I mean out of a five point scale.
+So that was actually more important almost
+than the US dollar, which was actually gained as well.
+So winning on these two things.
+So I want to talk also about the data.
+Data, while it is great
+to have the right data to basically build these agents
+to have access to, they don't need
+to be in double quotes, clean.
+We have learned over the 30 years,
+cleanliness can be done using AI as well.
+I mean, you can utilize, build an agent to learn
+on how to deal with your data,
+for example, it is the right data,
+meaning not how clean they are,
+but how much information is encoded in the data
+and whether it's gonna be valuable to you,
+is it accessible, et cetera, et cetera.
+So I have seen a lot
+of companies being concerned about their data being messy
+and hence never started actually experimenting with AI
+just because they felt no, it needs to be all in databases
+and structured and this and that.
+This is not the way,
+this is not the bottleneck.
+The bottleneck is to have the right data
+to solve a certain problem, so I thought that's.
+<v ->That's awesome.</v>
+Yeah, don't wait and definitely get started for sure.
+<v ->And start small.</v>
+<v ->And start small.</v>
+That's right, okay, so we've covered kind of
+what we see people doing today.
+We've covered how you might get started.
+We just have time for one more question that we're gonna go
+through, which is what do you see for the future?
+So Yujing, I'm gonna start with you
+and we're gonna go through each and every person.
+What is one thing that you want everyone here
+to take away about the future of LLM and gen AI?
+<v ->One thing I wanna say is there's always a trend,</v>
+for example, for this year, agent might be the trend.
+Video generation might be the trend,
+but you gotta pick what actually works for your business.
+I think both our panelists have mentioned starting small,
+this is really good.
+I also want to add something is pay attention to
+how you set things up and your infrastructure.
+Because one thing to increase ROI definitely is
+by reducing the costs,
+find the right infrastructure provider,
+try different things.
+For example, actually a smaller model rather than,
+for example, ChatGPT o1 or Claude Sonnet,
+that's very expensive.
+Maybe a small model can solve like 90%
+or 95% of your core problem.
+If there has to be something that you really pay attention,
+I will say for the near future, that will still be agent
+because that is the thing that can solve,
+I will say most of the established business problems
+as an agent can really work like a real employee
+at this point with some level of function called capability,
+the ability to read through documentations
+and these knowledge are actually hidden
+within your own data.
+So my take is focusing on agent thing,
+pay more attention to your own data
+and get a good infrastructure support.
+<v ->Hmm, really good one, so for the future,</v>
+AI agent as an employee, that's what I heard him say.
+And data, data, data.
+Okay Steph, I'm gonna go to you next.
+<v ->Sure, so I mean,</v>
+the way I think about AI really is it can help reduce cost,
+but it also can help increase your revenue.
+And so I think it can be used in both directions
+and I think it's important that you're looking at it.
+The other piece is, there's been a lot of discussion on,
+is AI too hyped up?
+Is this really gonna be, you know,
+is the value gonna be there in the future?
+What's that gonna look like?
+And my personal belief is that
+absolutely AI is gonna transform the world.
+I mean, this is something that there's no stepping back from
+as a complete society here.
+And so the sooner companies embrace
+and begin to move forward on that path, the better.
+I would recommend that you find a way to work
+with somebody who knows the space, has experience in it.
+There's a lot of really capable vendors out there.
+But I really think it's important you choose a partner
+who has done many of the mistakes
+and seen lots of the different examples in the past,
+rather than doing everything yourself
+from the very beginning.
+You know, I've met with a number of customers who,
+they will invest in giant data science teams,
+bringing on hundreds of people just to come back
+and realize that actually my number one problem
+isn't creating AI models
+or my ROI that I expected actually isn't gonna be there.
+And so I think it's super important
+and you know, we always try
+to focus on basically creating a heat map
+that shows you what's the value you're gonna extract
+versus how hard is it to implement
+and to get into production.
+And so you're constantly going against that metric to see
+what the right next move should be.
+<v ->Really good.</v>
+So make sure you get started.
+Don't wait, but start at the right place.
+So start with someone who understands your business.
+So you can start at the right place, Hassan.
+<v ->Yeah, I think what we should be doing is we need</v>
+to turn even engineers into entrepreneurs.
+Think about the problem, the metric you want
+to optimize first, start small.
+Don't start in solving the whole company's problem.
+And then start building startups.
+Start companies
+and companies can actually be companies of agents.
+So we heard about crews of agents,
+we heard about swarms of agents.
+Start with building companies of agents.
+Start recruiting the right agents to solve real problem.
+You don't need to think about LLM anymore.
+You can actually start recruiting existing agents,
+specializing them, and then start from there
+and experiment,
+experiment, experiment, experiment, experiment.
+Because the rate
+of innovation is linearly correlated with the rate
+of experimentation.
+The more you can experiment,
+the more you're gonna be innovative,
+the more you're gonna wait,
+the more you're gonna be unfortunately behind.
+So that's my suggestion.
+<v ->I like that.</v>
+So Hassan and I worked at Amazon Web services together
+and that's what we did as part of our secret of success.
+We just kept replicating,
+creating startup, startup, startups, okay, Ray.
+<v ->Well, I think I was gonna start with time is</v>
+of the essence, but actually I'm gonna take
+a much more critical conversation point.
+In the age of the internet,
+things were decentralized, they were open,
+they were cheaper, there are lots of competition.
+Age of AI is completely different.
+We are closed, we are centralized,
+things are more expensive.
+And there are a few players, if you want to break that,
+I'm gonna ask you guys to do something very important.
+We're gonna have to fight for rights in terms
+of public knowledge on what an LM is.
+So just like we have copyright
+and patent law on ideas,
+the insights in an LLM might have
+a ten second expiration date,
+a one minute expiration date, an hour expiration date,
+a day expiration date, you get it, right?
+Because there's so much public knowledge
+that's being locked into the few hands
+of individual companies that you're gonna see a demand
+for all that information, insight to be shared and brokered.
+And we're gonna actually completely change
+the patent copyright law.
+And I think that's what we're gonna have to fight for
+if you want to have AI in the hands of everybody's space,
+because at the rate we're going right now,
+it is not gonna be cheap,
+it's not gonna be easily accessible
+and only a few people have access to it.
+So maybe it's something to fight for, starting here at CES.
+<v ->Awesome, so I'll just close with this story,</v>
+and this is a true story.
+Yesterday I was walking down the strip and I looked down
+and there was a bottle on the street.
+So I reached down and I picked it up and I rubbed it.
+And out popped a genie, true story by the way.
+And this genie said to me, Sandy, this is your lucky day.
+Not only do you get to be on the Modev AI House panel,
+but you also get three wishes.
+However, with those wishes, there's a catch.
+There's always a catch, isn't there?
+So I said, okay, what's the catch?
+And he said, well, whatever you wish for,
+your evil arch enemy gets double.
+I said, okay, I'll do that.
+So first I wish for a Red Tesla, I wanted a Cybertruck.
+So he said, you get a Red Tesla,
+but your evil arch enemy gets two.
+So the second thing I wish for is a house at the beach
+'cause I love the beach.
+I got this beautiful house at the beach,
+but, my evil arch enemy got two.
+So for my final wish, I said, genie,
+would you scare me half to death?
+Now I wanna end this panel by not scaring you half
+to death, but by giving you three wishes
+that this magnificent panel, Ray, Yujing,
+Stephanie, and Hassan, delivered to you.
+Three wishes, one, start, start, start.
+But start small, two, data, data, data.
+You need to make sure that you're looking at your data.
+And three, know that AI is going
+to encompass everything out there.
+So don't just get your engineers involved
+in what you're working on.
+Make sure that ROI project involves the business too.
+Thank you guys so much.
+Make sure you talk to these wonderful folks.

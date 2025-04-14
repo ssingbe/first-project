@@ -1,0 +1,4161 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.667
+(upbeat music)
+
+2
+00:10.620 --> 00:11.580
+<v ->Well, thank you, everybody,</v>
+
+3
+00:11.580 --> 00:14.850
+for hanging on for the last panel of the day.
+
+4
+00:14.850 --> 00:16.230
+This is great.
+
+5
+00:16.230 --> 00:18.720
+You are all clearly the most dedicated,
+
+6
+00:18.720 --> 00:21.420
+the most interested, and this is the best panel
+
+7
+00:21.420 --> 00:24.693
+with the best panelists, and of course, the best moderator.
+
+8
+00:25.680 --> 00:30.300
+So we're gonna be talking about precision medicine.
+
+9
+00:30.300 --> 00:32.760
+And this really is my favorite topic
+
+10
+00:32.760 --> 00:36.630
+because I think everything that we see around us here
+
+11
+00:36.630 --> 00:41.630
+that taps into healthcare or wellness, well-being,
+
+12
+00:41.898 --> 00:44.550
+everything that we see in digital health
+
+13
+00:44.550 --> 00:48.210
+is really enabling us to be more precise
+
+14
+00:48.210 --> 00:51.330
+in terms of what we do as a healthcare system.
+
+15
+00:51.330 --> 00:54.330
+And really start to address not only the whole patient,
+
+16
+00:54.330 --> 00:56.130
+but specific patients as well.
+
+17
+00:56.130 --> 00:58.260
+So this is one of my favorite subjects,
+
+18
+00:58.260 --> 01:02.460
+and I'm very fortunate to have a great panel.
+
+19
+01:02.460 --> 01:03.837
+So, first, I'm Dale Van Demark.
+
+20
+01:03.837 --> 01:06.333
+I'm a partner at McDermott Will &amp; Emery.
+
+21
+01:06.333 --> 01:08.700
+I'm also an investor of sorts from time to time.
+
+22
+01:08.700 --> 01:09.533
+But really,
+
+23
+01:09.533 --> 01:13.380
+let's have our panelists introduce themselves very quickly
+
+24
+01:13.380 --> 01:15.090
+so we can get into the discussion.
+
+25
+01:15.090 --> 01:16.110
+You just, he's got it.
+
+26
+01:16.110 --> 01:17.010
+It should be.
+
+27
+01:17.010 --> 01:18.420
+<v ->He gave me instructions and I didn't listen.</v>
+
+28
+01:18.420 --> 01:19.620
+All right. Sorry.
+
+29
+01:19.620 --> 01:20.730
+Hi, I'm Matt Lungren.
+
+30
+01:20.730 --> 01:22.470
+I'm the chief scientific officer
+
+31
+01:22.470 --> 01:24.480
+at Microsoft Health &amp; Life Sciences.
+
+32
+01:24.480 --> 01:26.220
+I also have clinical and academic appointments
+
+33
+01:26.220 --> 01:28.053
+at Stanford and UCSF.
+
+34
+01:30.090 --> 01:31.950
+<v ->Hi, everyone, I'm Kate Sasser,</v>
+
+35
+01:31.950 --> 01:35.040
+chief science officer at Tempus AI.
+
+36
+01:35.040 --> 01:35.873
+Awesome.
+
+37
+01:35.873 --> 01:37.230
+<v ->Hi, everybody. I'm Jonathan Reeves.</v>
+
+38
+01:37.230 --> 01:39.060
+I'm the global head of R&amp;D and Innovation
+
+39
+01:39.060 --> 01:40.803
+at Sanofi Consumer Healthcare.
+
+40
+01:41.726 --> 01:42.840
+<v ->Thank you all.</v>
+
+41
+01:42.840 --> 01:46.080
+And I'm always intimidated by sitting next to people
+
+42
+01:46.080 --> 01:49.680
+who have actual educations and not legal educations.
+
+43
+01:49.680 --> 01:50.670
+So this should be good.
+
+44
+01:50.670 --> 01:53.310
+So first, let's talk about current state.
+
+45
+01:53.310 --> 01:55.470
+Just when we talk about precision medicine,
+
+46
+01:55.470 --> 01:59.040
+personalized medicine, what's going on right now?
+
+47
+01:59.040 --> 02:00.720
+And just kind of quickly each of you,
+
+48
+02:00.720 --> 02:04.413
+again starting, Matt, with you, and we'll work our way down.
+
+49
+02:05.250 --> 02:06.540
+<v ->All right.</v>
+
+50
+02:06.540 --> 02:08.340
+So I think, I mean, first of all,
+
+51
+02:08.340 --> 02:09.570
+just the terminology, right?
+
+52
+02:09.570 --> 02:11.160
+Like, I think we talk about precision health,
+
+53
+02:11.160 --> 02:13.770
+precision medicine, and I think the general thought
+
+54
+02:13.770 --> 02:15.210
+of maybe most here would agree,
+
+55
+02:15.210 --> 02:18.630
+it's right treatment, right patient, right time,
+
+56
+02:18.630 --> 02:19.860
+something of like that, right?
+
+57
+02:19.860 --> 02:21.270
+That's kinda the general thought.
+
+58
+02:21.270 --> 02:24.120
+And the hope is that we're moving into a place
+
+59
+02:24.120 --> 02:25.155
+where we have more data,
+
+60
+02:25.155 --> 02:26.940
+we're able to collect more insights,
+
+61
+02:26.940 --> 02:28.320
+and we're able to do those things.
+
+62
+02:28.320 --> 02:31.140
+And at the same time, technology meets us in a place
+
+63
+02:31.140 --> 02:34.620
+where we can draw those insights and actually drive the cost
+
+64
+02:34.620 --> 02:36.930
+to a point where that's possible.
+
+65
+02:36.930 --> 02:38.010
+I think there's sparks of it.
+
+66
+02:38.010 --> 02:38.940
+I mean, I know there's a lot
+
+67
+02:38.940 --> 02:40.860
+of like back and forth about this,
+
+68
+02:40.860 --> 02:42.720
+but I, you know, what's funny is there's things
+
+69
+02:42.720 --> 02:44.838
+that aren't getting a lot of attention.
+
+70
+02:44.838 --> 02:46.560
+Again, I'm in AI and healthcare,
+
+71
+02:46.560 --> 02:48.360
+so believe me, I'm part of the problem too.
+
+72
+02:48.360 --> 02:50.340
+But there's things happening in, you know,
+
+73
+02:50.340 --> 02:53.280
+the vaccine, precision vaccines for cancer,
+
+74
+02:53.280 --> 02:55.740
+leveraging, you know, the backbone from Moderna
+
+75
+02:55.740 --> 02:56.573
+and some of the others, right?
+
+76
+02:56.573 --> 02:58.230
+That is a pretty remarkable thing
+
+77
+02:58.230 --> 03:00.900
+to be able to take a tumor antigen
+
+78
+03:00.900 --> 03:03.960
+and develop a specific vaccine for that.
+
+79
+03:03.960 --> 03:04.793
+I mean, right?
+
+80
+03:04.793 --> 03:07.110
+So I think there's things that are happening
+
+81
+03:07.110 --> 03:09.060
+around the ecosystem,
+
+82
+03:09.060 --> 03:11.760
+but I think as I step back into my world,
+
+83
+03:11.760 --> 03:13.080
+the health AI world,
+
+84
+03:13.080 --> 03:15.840
+I think we're increasingly in a place where we are,
+
+85
+03:15.840 --> 03:19.350
+you know, drowning in data and thirsty for real insights.
+
+86
+03:19.350 --> 03:21.720
+You know, that's kind of the tag phrase that we use a lot.
+
+87
+03:21.720 --> 03:24.090
+And the hope is that AI can deliver that.
+
+88
+03:24.090 --> 03:26.513
+And I think we'll get into more of that as we go.
+
+89
+03:27.510 --> 03:29.067
+<v ->Yeah, I agree with all of that.</v>
+
+90
+03:29.067 --> 03:32.040
+I think in some ways, when we think about current state,
+
+91
+03:32.040 --> 03:35.550
+I've been in the precision medicine space for 25 years,
+
+92
+03:35.550 --> 03:38.163
+and there are really shining examples of success.
+
+93
+03:38.163 --> 03:41.370
+So in oncology, I think we've come a long way
+
+94
+03:41.370 --> 03:43.350
+with truly targeted therapeutics,
+
+95
+03:43.350 --> 03:47.070
+in particular, you know, for matching genomic alterations
+
+96
+03:47.070 --> 03:49.500
+to therapeutics that can work on those pathways.
+
+97
+03:49.500 --> 03:52.230
+So that's been an example of a success story
+
+98
+03:52.230 --> 03:53.820
+for precision medicine.
+
+99
+03:53.820 --> 03:56.700
+However, we're still a really long way
+
+100
+03:56.700 --> 04:00.990
+away from, you know, I think this vision that we've all had
+
+101
+04:00.990 --> 04:04.770
+of the right drug for everyone at the right time,
+
+102
+04:04.770 --> 04:07.800
+the true personalization of medicine.
+
+103
+04:07.800 --> 04:12.360
+And it does feel, with AI coming into play now
+
+104
+04:12.360 --> 04:14.892
+and becoming more and more of a reality,
+
+105
+04:14.892 --> 04:16.380
+that we are at an inflection point,
+
+106
+04:16.380 --> 04:18.300
+and the next 5, 10 years
+
+107
+04:18.300 --> 04:21.510
+could potentially see improvements in precision medicine
+
+108
+04:21.510 --> 04:24.150
+to actually make it a reality for many more patients.
+
+109
+04:24.150 --> 04:26.940
+So that it's not just populations of patients,
+
+110
+04:26.940 --> 04:30.100
+but that it actually can become part of healthcare
+
+111
+04:31.052 --> 04:32.610
+and how we, you know, manage all of medicine,
+
+112
+04:32.610 --> 04:35.250
+which I think was part of the original vision
+
+113
+04:35.250 --> 04:38.552
+that we all had when we started using that terminology.
+
+114
+04:38.552 --> 04:40.795
+<v ->Yeah, so here comes the downer.</v>
+
+115
+04:40.795 --> 04:43.260
+No. So I'm on the consumer health side.
+
+116
+04:43.260 --> 04:48.260
+So we're operating 190 billion OTC and VMS business world.
+
+117
+04:48.480 --> 04:51.120
+And what we've seen in personalization,
+
+118
+04:51.120 --> 04:54.150
+and a precision medicine has been around
+
+119
+04:54.150 --> 04:58.200
+consumers want precision diagnostics.
+
+120
+04:58.200 --> 05:00.390
+But actually, when they look at buying products
+
+121
+05:00.390 --> 05:03.270
+and they are personalized, they're not scalable.
+
+122
+05:03.270 --> 05:05.220
+So you look at the vitamin, minerals supply
+
+123
+05:05.220 --> 05:08.040
+and supplements market, companies like Nourished,
+
+124
+05:08.040 --> 05:09.720
+they've done a phenomenal job
+
+125
+05:09.720 --> 05:12.780
+in advertising personalized vitamins,
+
+126
+05:12.780 --> 05:14.940
+but they haven't been able to reach scale.
+
+127
+05:14.940 --> 05:16.050
+So what we've actually found
+
+128
+05:16.050 --> 05:18.840
+is actually people want personalized insights,
+
+129
+05:18.840 --> 05:21.060
+but they want customized solutions
+
+130
+05:21.060 --> 05:23.280
+because they want to feel part of a community.
+
+131
+05:23.280 --> 05:24.960
+I'll give you an example.
+
+132
+05:24.960 --> 05:29.661
+Today on YouTube, every year, there's 200 billion,
+
+133
+05:29.661 --> 05:34.661
+200 billion searches for health a year.
+
+134
+05:36.090 --> 05:41.090
+Every day on Google, there are 700 million health searches.
+
+135
+05:42.840 --> 05:45.150
+So just compute those numbers.
+
+136
+05:45.150 --> 05:47.010
+8 billion people in the world, you know?
+
+137
+05:47.010 --> 05:49.620
+So there's a massive desire
+
+138
+05:49.620 --> 05:51.843
+for information and recommendations,
+
+139
+05:52.710 --> 05:54.840
+but out there, the solutions don't exist.
+
+140
+05:54.840 --> 05:57.960
+Or they become so cost-ineffective
+
+141
+05:57.960 --> 05:59.640
+that the barriers to entry are too high.
+
+142
+05:59.640 --> 06:02.940
+So, you know, there's a couple of things, Dale,
+
+143
+06:02.940 --> 06:05.130
+if you don't mind me saying, is that one of the pieces
+
+144
+06:05.130 --> 06:07.710
+is around how do we break down the barriers
+
+145
+06:07.710 --> 06:12.090
+of education and, and trust around the science
+
+146
+06:12.090 --> 06:14.340
+and the credibility of what people are getting,
+
+147
+06:14.340 --> 06:16.337
+which is of also all the, you know,
+
+148
+06:16.337 --> 06:17.490
+we all work hopefully in the healthcare space,
+
+149
+06:17.490 --> 06:19.860
+and AI is great, but one of the challenges
+
+150
+06:19.860 --> 06:21.420
+that comes around is do we trust it?
+
+151
+06:21.420 --> 06:24.030
+And what's the source of data? Is it credible?
+
+152
+06:24.030 --> 06:26.600
+Does it come from really good clinical research and sound?
+
+153
+06:26.600 --> 06:30.660
+And on the flip side, other solutions recommended
+
+154
+06:30.660 --> 06:33.570
+or biased by, you know, reimbursement status,
+
+155
+06:33.570 --> 06:34.403
+et cetera, et cetera.
+
+156
+06:34.403 --> 06:37.050
+So really interesting challenges to look at.
+
+157
+06:37.050 --> 06:39.600
+<v ->So we've talked about some challenges here,</v>
+
+158
+06:39.600 --> 06:42.480
+but let's talk about what that might look like, right?
+
+159
+06:42.480 --> 06:45.090
+So what are we building toward?
+
+160
+06:45.090 --> 06:47.520
+What can we expect out of precision medicine?
+
+161
+06:47.520 --> 06:49.290
+Or maybe a better way to put it is,
+
+162
+06:49.290 --> 06:53.077
+what should we be looking at as our guide star
+
+163
+06:53.077 --> 06:56.400
+for the future with respect to precision medicine?
+
+164
+06:56.400 --> 06:58.950
+This time we'll start, Jonathan, back with you.
+
+165
+06:58.950 --> 07:01.140
+<v ->Yeah, so I think, you know, one of the things that,</v>
+
+166
+07:01.140 --> 07:02.730
+you know, I'm certainly passionate about
+
+167
+07:02.730 --> 07:05.910
+is how do we debunk credible science
+
+168
+07:05.910 --> 07:07.230
+that's accessible to consumers?
+
+169
+07:07.230 --> 07:08.790
+So I'm a consumer-facing company,
+
+170
+07:08.790 --> 07:11.700
+so I'm always gonna look at people as you know,
+
+171
+07:11.700 --> 07:14.899
+myself and my wife, my children, and all of us.
+
+172
+07:14.899 --> 07:18.120
+As people look searching for better health,
+
+173
+07:18.120 --> 07:18.953
+I'll give you an example.
+
+174
+07:18.953 --> 07:22.530
+65% of people, of ailments out there
+
+175
+07:22.530 --> 07:24.540
+that can be treated by over-the-counter medication
+
+176
+07:24.540 --> 07:26.580
+is not being dealt with by over-the-counter medication.
+
+177
+07:26.580 --> 07:29.130
+Imagine the burden of healthcare that's creating.
+
+178
+07:29.130 --> 07:32.100
+So I think for me it's about debunking condition awareness.
+
+179
+07:32.100 --> 07:33.600
+So how do you actually drive that
+
+180
+07:33.600 --> 07:36.150
+with the right credible science in an open way?
+
+181
+07:36.150 --> 07:37.830
+So there's some great tools,
+
+182
+07:37.830 --> 07:39.870
+and now I'm doing a bit of a salesman, so apologies.
+
+183
+07:39.870 --> 07:41.430
+But if you walk downstairs,
+
+184
+07:41.430 --> 07:44.550
+there's, for example, the Meta Glasses from Essilor.
+
+185
+07:44.550 --> 07:46.890
+There's loads of other technologies
+
+186
+07:46.890 --> 07:49.689
+where AI is integrated into devices
+
+187
+07:49.689 --> 07:52.350
+and usable devices on a daily basis
+
+188
+07:52.350 --> 07:54.060
+that become recommendation engines.
+
+189
+07:54.060 --> 07:55.710
+You can imagine wearing a set of glasses
+
+190
+07:55.710 --> 07:58.200
+that looks at a medical product,
+
+191
+07:58.200 --> 08:00.630
+or you can just talk to them like the Alexa glasses
+
+192
+08:00.630 --> 08:03.720
+and say, "I'm feeling really unwell, what do I do?"
+
+193
+08:03.720 --> 08:06.750
+So I think there's a future around how we guide,
+
+194
+08:06.750 --> 08:08.880
+not in a, you know, and this is where I have to take
+
+195
+08:08.880 --> 08:12.510
+my sort of, I'm in a company making money perspective,
+
+196
+08:12.510 --> 08:13.740
+not in a capitalistic way,
+
+197
+08:13.740 --> 08:15.720
+but actually in just a educational way.
+
+198
+08:15.720 --> 08:17.340
+So that's the first pillar.
+
+199
+08:17.340 --> 08:20.254
+The second pillar is then how do we create
+
+200
+08:20.254 --> 08:22.950
+a private-public partnership where healthcare practitioners
+
+201
+08:22.950 --> 08:24.720
+and the sort of healthcare industry
+
+202
+08:24.720 --> 08:26.430
+is actually working well together
+
+203
+08:26.430 --> 08:28.320
+so that we have the science base
+
+204
+08:28.320 --> 08:32.024
+and the consumer-facing part of it,
+
+205
+08:32.024 --> 08:34.710
+actually part of the conversation.
+
+206
+08:34.710 --> 08:35.543
+I'll start with those two
+
+207
+08:35.543 --> 08:37.080
+and then I'll hand over to my two colleagues here
+
+208
+08:37.080 --> 08:38.880
+'cause I'm sure they've got lots to add.
+
+209
+08:38.880 --> 08:42.545
+<v ->There's so many meaty things in there to build off of.</v>
+
+210
+08:42.545 --> 08:44.820
+Maybe to go the other direction.
+
+211
+08:44.820 --> 08:47.070
+'cause you're talking about, you know, the consumer space
+
+212
+08:47.070 --> 08:48.210
+and direct to consumers,
+
+213
+08:48.210 --> 08:50.160
+which I think is really interesting,
+
+214
+08:50.160 --> 08:51.600
+to go to the opposite end
+
+215
+08:51.600 --> 08:53.970
+where we have a lot of the more regulated products.
+
+216
+08:53.970 --> 08:57.360
+So thinking about drugs and some of the diagnostics
+
+217
+08:57.360 --> 08:58.530
+that need FDA approval
+
+218
+08:58.530 --> 09:00.450
+and thinking about what's the next wave
+
+219
+09:00.450 --> 09:02.910
+for precision medicine there.
+
+220
+09:02.910 --> 09:05.700
+I actually think those two worlds are gonna, they are,
+
+221
+09:05.700 --> 09:08.100
+and they will continue to merge more together
+
+222
+09:08.100 --> 09:11.250
+because patients are demanding more autonomy
+
+223
+09:11.250 --> 09:12.083
+in their healthcare,
+
+224
+09:12.083 --> 09:15.095
+even in that heavily regulated space.
+
+225
+09:15.095 --> 09:16.290
+That being said,
+
+226
+09:16.290 --> 09:19.496
+some of the trends that I think are coming very rapidly are,
+
+227
+09:19.496 --> 09:22.830
+because in the title we have genomics today,
+
+228
+09:22.830 --> 09:25.350
+so I'll put a plug in for that.
+
+229
+09:25.350 --> 09:29.160
+I do think genomics is a space where not only in oncology,
+
+230
+09:29.160 --> 09:31.740
+but in a lot of the other areas,
+
+231
+09:31.740 --> 09:34.020
+we're gonna see this infiltration of, you know,
+
+232
+09:34.020 --> 09:36.660
+matching patient's genomics
+
+233
+09:36.660 --> 09:39.390
+to the healthcare recommendations we make.
+
+234
+09:39.390 --> 09:40.740
+And you know, right now
+
+235
+09:40.740 --> 09:43.830
+that's heavily slanted towards actual disease,
+
+236
+09:43.830 --> 09:46.680
+chronic disease, in particular acute disease.
+
+237
+09:46.680 --> 09:48.660
+I think we're gonna see shifts more and more
+
+238
+09:48.660 --> 09:50.100
+towards prevention,
+
+239
+09:50.100 --> 09:52.400
+which may get closer into the consumer space.
+
+240
+09:52.400 --> 09:54.720
+In other words, you know, can you be genomic,
+
+241
+09:54.720 --> 09:57.120
+your genomics will be profiled much earlier
+
+242
+09:57.120 --> 10:00.090
+or before you actually have overt disease.
+
+243
+10:00.090 --> 10:02.310
+You may be put in higher risk categories,
+
+244
+10:02.310 --> 10:04.080
+you may have more monitoring.
+
+245
+10:04.080 --> 10:06.480
+Those may be tied together with a lot of data
+
+246
+10:06.480 --> 10:08.130
+and AI applications.
+
+247
+10:08.130 --> 10:11.220
+And physicians, and potentially patients themselves,
+
+248
+10:11.220 --> 10:13.650
+will be able to be monitoring and watching
+
+249
+10:13.650 --> 10:16.410
+and thinking about the right recommendations for their care
+
+250
+10:16.410 --> 10:19.080
+in a very personalized and precise way.
+
+251
+10:19.080 --> 10:20.850
+Now, there's a ton of challenges,
+
+252
+10:20.850 --> 10:23.730
+and the system is gonna have to think of really unique ways
+
+253
+10:23.730 --> 10:26.760
+to catch up, in particular the regulatory agencies
+
+254
+10:26.760 --> 10:28.410
+and some of the things that, you know,
+
+255
+10:28.410 --> 10:32.267
+we apply on the regulated space to keep people safe.
+
+256
+10:32.267 --> 10:34.830
+But we already see a lot of discussion there.
+
+257
+10:34.830 --> 10:38.340
+So just this last week, the FDA has released a whole,
+
+258
+10:38.340 --> 10:40.890
+I don't know, three or four guidances back to back
+
+259
+10:40.890 --> 10:43.018
+to try to get on top of AI devices
+
+260
+10:43.018 --> 10:46.440
+and what the expectations will be and how their guidelines,
+
+261
+10:46.440 --> 10:48.180
+you know, new guidelines for thinking about it.
+
+262
+10:48.180 --> 10:51.000
+So it's rapidly evolving space,
+
+263
+10:51.000 --> 10:53.310
+but I would say I'm on the optimistic side
+
+264
+10:53.310 --> 10:56.223
+for what it's gonna look like in another five years.
+
+265
+10:57.270 --> 10:58.650
+<v ->Yeah, I mean, I think from my perspective,</v>
+
+266
+10:58.650 --> 10:59.610
+I'm also optimistic.
+
+267
+10:59.610 --> 11:01.959
+I mean, you know, clearly I think
+
+268
+11:01.959 --> 11:02.970
+I wouldn't be doing this for a living if I wasn't.
+
+269
+11:02.970 --> 11:06.120
+And, you know, I've been in the health AI space
+
+270
+11:06.120 --> 11:08.824
+long enough to sort of seen some patterns
+
+271
+11:08.824 --> 11:10.530
+start to break, right?
+
+272
+11:10.530 --> 11:12.090
+Like patterns that used to be,
+
+273
+11:12.090 --> 11:14.940
+hey, we have to gather tons of data
+
+274
+11:14.940 --> 11:16.680
+to build a bespoke model to do one thing,
+
+275
+11:16.680 --> 11:18.000
+and then we have to treat it like software
+
+276
+11:18.000 --> 11:20.280
+and then we have to deal with that one use case
+
+277
+11:20.280 --> 11:21.360
+being potentially addressed,
+
+278
+11:21.360 --> 11:22.320
+and then we have all these others
+
+279
+11:22.320 --> 11:24.150
+that we need to complete the system.
+
+280
+11:24.150 --> 11:25.830
+And so I think some of those patterns
+
+281
+11:25.830 --> 11:27.210
+are starting to change.
+
+282
+11:27.210 --> 11:28.620
+With essentially what we're,
+
+283
+11:28.620 --> 11:30.240
+you can almost look at as free lunch,
+
+284
+11:30.240 --> 11:31.230
+and what what I mean by that
+
+285
+11:31.230 --> 11:34.830
+is all the large language models that we're trained on,
+
+286
+11:34.830 --> 11:37.113
+essentially available data, let's just say,
+
+287
+11:38.220 --> 11:40.620
+almost by accident have competencies,
+
+288
+11:40.620 --> 11:43.140
+or, quote, unquote, "latent representations,"
+
+289
+11:43.140 --> 11:45.030
+of real healthcare concepts, right?
+
+290
+11:45.030 --> 11:47.587
+So when we see these headlines that say,
+
+291
+11:47.587 --> 11:50.550
+"Oh, the models can do really well on, you know,
+
+292
+11:50.550 --> 11:53.310
+medical board exams," that that's a signal me.
+
+293
+11:53.310 --> 11:55.649
+It doesn't mean that it's, you know,
+
+294
+11:55.649 --> 11:57.870
+able to perform at the level of physician in real practice.
+
+295
+11:57.870 --> 12:00.360
+But what it tells me is that there's representations
+
+296
+12:00.360 --> 12:03.330
+of the types of things that I need to know to do my job.
+
+297
+12:03.330 --> 12:05.040
+Where does that become really interesting?
+
+298
+12:05.040 --> 12:06.513
+Well, you know, for us,
+
+299
+12:07.590 --> 12:09.630
+we can take advantage of this free lunch
+
+300
+12:09.630 --> 12:12.660
+with just dealing with a lot of the overhead.
+
+301
+12:12.660 --> 12:14.820
+You know, that it takes to take care of a patient
+
+302
+12:14.820 --> 12:16.410
+in the current healthcare system.
+
+303
+12:16.410 --> 12:18.150
+But as we move towards this precision medicine,
+
+304
+12:18.150 --> 12:19.500
+now you're in a space
+
+305
+12:19.500 --> 12:22.410
+where you might be getting unique data,
+
+306
+12:22.410 --> 12:24.630
+the type of data that's not, you know,
+
+307
+12:24.630 --> 12:25.860
+freely available on the internet.
+
+308
+12:25.860 --> 12:26.980
+And one of the things
+
+309
+12:27.870 --> 12:28.860
+that I feel is gonna be the next breakthrough,
+
+310
+12:28.860 --> 12:33.240
+at least my North star, is a truly multimodal understanding
+
+311
+12:33.240 --> 12:35.730
+of real healthcare data or real-world data.
+
+312
+12:35.730 --> 12:38.070
+And, you know, one of the ways to achieve that
+
+313
+12:38.070 --> 12:41.040
+is a very tired, old solution,
+
+314
+12:41.040 --> 12:43.170
+which is to say we have data silos
+
+315
+12:43.170 --> 12:45.256
+that are sitting in bespoke, you know, systems
+
+316
+12:45.256 --> 12:47.910
+across the country to across the world.
+
+317
+12:47.910 --> 12:50.310
+We have to find a way to bring that together
+
+318
+12:50.310 --> 12:53.040
+and, you know, bring it closer to intelligence
+
+319
+12:53.040 --> 12:54.660
+to drive those insights.
+
+320
+12:54.660 --> 12:57.450
+As a physician, if I have a patient coming in
+
+321
+12:57.450 --> 12:59.340
+and maybe they're wearing one of these, you know, wearables
+
+322
+12:59.340 --> 13:00.990
+and they have all these insights,
+
+323
+13:00.990 --> 13:03.330
+I'm not sure what I'm supposed to do with that.
+
+324
+13:03.330 --> 13:06.330
+I don't have a great mechanism with my current system
+
+325
+13:06.330 --> 13:07.380
+to take care of that
+
+326
+13:07.380 --> 13:10.230
+or to provide the education that they might need.
+
+327
+13:10.230 --> 13:12.000
+Touching on a couple of the other comments though,
+
+328
+13:12.000 --> 13:14.130
+that is again, part of the other patterns of behavior
+
+329
+13:14.130 --> 13:15.720
+that may change, right?
+
+330
+13:15.720 --> 13:18.600
+So I like to think there's also a lot of Bing Searches
+
+331
+13:18.600 --> 13:21.030
+for healthcare as well.
+
+332
+13:21.030 --> 13:22.200
+And as part of that,
+
+333
+13:22.200 --> 13:25.380
+is there opportunity to provide a co-pilot
+
+334
+13:25.380 --> 13:29.820
+that is more versed in, you know, reliable, good data
+
+335
+13:29.820 --> 13:33.090
+to provide that sort of at the right education level,
+
+336
+13:33.090 --> 13:35.430
+be very patient, answer their questions at all times,
+
+337
+13:35.430 --> 13:38.730
+those kinds of solutions I think will become more common
+
+338
+13:38.730 --> 13:40.500
+because of the demand that you're seeing.
+
+339
+13:40.500 --> 13:42.120
+How does that translate in the physician's office?
+
+340
+13:42.120 --> 13:44.280
+Well, if I'm getting genomics information,
+
+341
+13:44.280 --> 13:46.380
+again, I'm not sure what to do with that.
+
+342
+13:46.380 --> 13:48.600
+But if I have a model that has been trained
+
+343
+13:48.600 --> 13:51.240
+to understand genomics and ties that to clinical data,
+
+344
+13:51.240 --> 13:52.500
+well, then maybe I will know
+
+345
+13:52.500 --> 13:54.645
+that I should not start with this drug.
+
+346
+13:54.645 --> 13:56.760
+I need to go to the next, you know,
+
+347
+13:56.760 --> 13:58.500
+next blood pressure control medicine
+
+348
+13:58.500 --> 13:59.850
+because they're unlikely to respond.
+
+349
+13:59.850 --> 14:02.250
+Those kinds of things I think are starting to happen.
+
+350
+14:02.250 --> 14:03.870
+And I'm, you know, I'm very optimistic
+
+351
+14:03.870 --> 14:05.850
+that these sparks will, will lead to something real.
+
+352
+14:05.850 --> 14:08.070
+<v ->Can I ping on Matt's point?</v>
+
+353
+14:08.070 --> 14:10.440
+I think that there's a piece that Matt was alluding to,
+
+354
+14:10.440 --> 14:13.758
+which is the whole disintermediation of healthcare.
+
+355
+14:13.758 --> 14:15.150
+If you take, you know,
+
+356
+14:15.150 --> 14:17.100
+for those who've walked the floor,
+
+357
+14:17.100 --> 14:18.450
+if you go to a company like Withings,
+
+358
+14:18.450 --> 14:20.220
+they launched BeamO last year.
+
+359
+14:20.220 --> 14:21.600
+Anybody, you know BeamO?
+
+360
+14:21.600 --> 14:25.770
+It's actually a telemedicine linked device for home use.
+
+361
+14:25.770 --> 14:27.210
+You start seeing some of these things
+
+362
+14:27.210 --> 14:30.330
+where actually home data, personalized data
+
+363
+14:30.330 --> 14:32.820
+is flowing into the healthcare system automatically.
+
+364
+14:32.820 --> 14:34.260
+You add in companies like MedE
+
+365
+14:34.260 --> 14:36.540
+that do at-home prescription delivery
+
+366
+14:36.540 --> 14:40.680
+and fulfillment, you start actually seeing a system
+
+367
+14:40.680 --> 14:43.170
+where I'm hoping, and you're asking about trends,
+
+368
+14:43.170 --> 14:46.110
+that we will actually deburden the healthcare system
+
+369
+14:46.110 --> 14:51.110
+by removing non chronic issues to a home situation
+
+370
+14:51.180 --> 14:54.120
+so that the healthcare system can focus on chronic diseases.
+
+371
+14:54.120 --> 14:56.160
+And then, you know, in taking of genomics,
+
+372
+14:56.160 --> 14:57.872
+completely agree with you.
+
+373
+14:57.872 --> 15:00.303
+You know, you've seen the recent news article
+
+374
+15:00.303 --> 15:01.230
+around L'Oreal and skin genomics.
+
+375
+15:01.230 --> 15:03.450
+That's just some of the elements that's happening out there.
+
+376
+15:03.450 --> 15:06.780
+And we are looking at gut and, you know, huge amount of work
+
+377
+15:06.780 --> 15:09.450
+and gut, the FDA have just bought their first shine model.
+
+378
+15:09.450 --> 15:11.640
+So there's a lot of work going on in that area.
+
+379
+15:11.640 --> 15:14.983
+So there's a huge amount of opportunity space for us to get,
+
+380
+15:14.983 --> 15:16.800
+as I said, more customized,
+
+381
+15:16.800 --> 15:18.870
+'cause I think that's probably where the value's gonna lie
+
+382
+15:18.870 --> 15:22.503
+for mass, dare I say, mass niche, you know,
+
+383
+15:23.400 --> 15:24.810
+than personalization.
+
+384
+15:24.810 --> 15:27.183
+But definitely we we're getting close
+
+385
+15:27.183 --> 15:29.220
+to solutions that make a difference.
+
+386
+15:29.220 --> 15:32.520
+<v ->Yeah, I had a just real quick catchphrase on that topic.</v>
+
+387
+15:32.520 --> 15:35.250
+Like, I had a mentor for many years at Stanford
+
+388
+15:35.250 --> 15:37.277
+who used to say, you know,
+
+389
+15:37.277 --> 15:38.850
+he was the chair of the department,
+
+390
+15:38.850 --> 15:40.410
+so he'd be invited to all these ceremonies
+
+391
+15:40.410 --> 15:41.670
+when you open a hospital, right?
+
+392
+15:41.670 --> 15:43.170
+You cut the ribbon or whatever.
+
+393
+15:43.170 --> 15:44.520
+And he says, why are we celebrating
+
+394
+15:44.520 --> 15:46.170
+the opening of a hospital?
+
+395
+15:46.170 --> 15:48.240
+We should be celebrating the closing of a hospital, right?
+
+396
+15:48.240 --> 15:50.190
+And I think this is getting to that idea,
+
+397
+15:50.190 --> 15:52.110
+if we have to build more buildings
+
+398
+15:52.110 --> 15:54.630
+to take care of patients in expensive ways,
+
+399
+15:54.630 --> 15:56.730
+we're not really doing our job, right?
+
+400
+15:56.730 --> 15:59.460
+We're supposed to be healthcare, not sick care, right?
+
+401
+15:59.460 --> 16:00.900
+Yeah.
+
+402
+16:00.900 --> 16:03.660
+<v ->So there's a very interesting kind of vision</v>
+
+403
+16:03.660 --> 16:06.210
+that I'm picking up from all of you,
+
+404
+16:06.210 --> 16:11.210
+which is the access to actionable,
+
+405
+16:12.630 --> 16:16.920
+understandable data coming from multiple sources
+
+406
+16:16.920 --> 16:21.920
+that allow for almost real time decision-making,
+
+407
+16:21.930 --> 16:23.340
+with respect to treatment,
+
+408
+16:23.340 --> 16:26.888
+and, well, diagnosis and treatment options,
+
+409
+16:26.888 --> 16:29.460
+which I think is kind of a great thing
+
+410
+16:29.460 --> 16:30.450
+to be able to think about, right,
+
+411
+16:30.450 --> 16:31.710
+if we're walking down the street
+
+412
+16:31.710 --> 16:34.410
+and we don't have to worry about making an appointment.
+
+413
+16:34.410 --> 16:35.243
+It comes into our mind,
+
+414
+16:35.243 --> 16:36.867
+"Oh, I need to think about this thing,"
+
+415
+16:36.867 --> 16:37.950
+and we can go and do that.
+
+416
+16:37.950 --> 16:39.660
+But what it also means
+
+417
+16:39.660 --> 16:43.410
+is that we would be talking about healthcare
+
+418
+16:43.410 --> 16:45.300
+in some fundamentally different ways.
+
+419
+16:45.300 --> 16:48.060
+In terms of how it is delivered.
+
+420
+16:48.060 --> 16:51.390
+Perhaps, Kate, you noted
+
+421
+16:51.390 --> 16:54.090
+maybe how it's regulated as well, right?
+
+422
+16:54.090 --> 16:55.230
+And how we think about.
+
+423
+16:55.230 --> 16:59.190
+So when we think about that kind of delivery system,
+
+424
+16:59.190 --> 17:01.620
+what has to change, right?
+
+425
+17:01.620 --> 17:05.520
+What would be different about having those capabilities
+
+426
+17:05.520 --> 17:08.730
+and that kind of healthcare system from what we have now
+
+427
+17:08.730 --> 17:10.713
+besides not building more hospitals?
+
+428
+17:13.380 --> 17:14.213
+<v ->I can start-</v>
+
+429
+17:14.213 --> 17:15.399
+<v ->Whatever one's stand, it has to go first.</v>
+
+430
+17:15.399 --> 17:18.328
+<v ->It's almost like what doesn't change, right?</v>
+
+431
+17:18.328 --> 17:20.880
+It might be easier.
+
+432
+17:20.880 --> 17:22.200
+But I'll stick with a few things.
+
+433
+17:22.200 --> 17:23.292
+<v Dale>You can start there.</v>
+
+434
+17:23.292 --> 17:24.125
+You can say it, you know?
+
+435
+17:24.125 --> 17:24.958
+<v ->Yeah.</v>
+
+436
+17:24.958 --> 17:26.640
+Well, one thing I,
+
+437
+17:26.640 --> 17:28.950
+so one challenge that we have
+
+438
+17:28.950 --> 17:31.253
+that will absolutely have to change is,
+
+439
+17:31.253 --> 17:33.600
+and we've been working on it for years already,
+
+440
+17:33.600 --> 17:37.410
+is better harmonization across the entire system.
+
+441
+17:37.410 --> 17:39.540
+And something that goes with that
+
+442
+17:39.540 --> 17:41.520
+that I was just thinking about as we were, you know,
+
+443
+17:41.520 --> 17:42.952
+starting the first half of this
+
+444
+17:42.952 --> 17:46.290
+is that we still have really wide disparities
+
+445
+17:46.290 --> 17:48.870
+in how healthcare is delivered.
+
+446
+17:48.870 --> 17:50.670
+And on one hand you could say,
+
+447
+17:50.670 --> 17:52.830
+you know, a lot of the things we're talking about,
+
+448
+17:52.830 --> 17:55.290
+especially around AI and this whole conference
+
+449
+17:55.290 --> 17:56.550
+around new technologies
+
+450
+17:56.550 --> 17:58.620
+and those things coming into healthcare,
+
+451
+17:58.620 --> 18:00.030
+on one hand we have the promise
+
+452
+18:00.030 --> 18:03.660
+that that is going to improve the disparities that we have,
+
+453
+18:03.660 --> 18:06.120
+but I think we're gonna have to pay a lot of attention
+
+454
+18:06.120 --> 18:09.695
+to that and make sure that we actually change the system
+
+455
+18:09.695 --> 18:13.020
+on the delivery side and on the harmonization side.
+
+456
+18:13.020 --> 18:16.410
+Otherwise, we will rapidly exacerbate the disparities.
+
+457
+18:16.410 --> 18:20.640
+And so you'll have consumers that are already well-educated
+
+458
+18:20.640 --> 18:23.400
+or companies that are already coming to CES
+
+459
+18:23.400 --> 18:25.410
+and understand technology,
+
+460
+18:25.410 --> 18:28.608
+and hospital systems that know that are also here.
+
+461
+18:28.608 --> 18:31.650
+The previous panel was a lot of healthcare workers,
+
+462
+18:31.650 --> 18:35.190
+compared to all of the places where they are not.
+
+463
+18:35.190 --> 18:37.320
+And so we could see a widening gap there.
+
+464
+18:37.320 --> 18:38.190
+So I think that's something
+
+465
+18:38.190 --> 18:39.840
+we'll have to really pay attention to
+
+466
+18:39.840 --> 18:41.280
+and push for that to change.
+
+467
+18:41.280 --> 18:44.190
+Because on the opposite end, if we do that, if we integrate,
+
+468
+18:44.190 --> 18:47.910
+if we harmonize data, if we allow some of these algorithms
+
+469
+18:47.910 --> 18:50.220
+that are multimodal to actually be disseminated
+
+470
+18:50.220 --> 18:53.550
+across the system and make them available to consumers,
+
+471
+18:53.550 --> 18:55.560
+we can move towards the vision
+
+472
+18:55.560 --> 18:58.260
+that I think we're all describing, so.
+
+473
+18:58.260 --> 18:59.310
+<v ->Yeah, so I think great.</v>
+
+474
+18:59.310 --> 19:01.064
+I'll just jump on that.
+
+475
+19:01.064 --> 19:03.090
+So I think what Matthew alluded to
+
+476
+19:03.090 --> 19:06.660
+was accessibility of data.
+
+477
+19:06.660 --> 19:09.059
+So if data today,
+
+478
+19:09.059 --> 19:11.640
+and certainly in the last sort of five years,
+
+479
+19:11.640 --> 19:14.130
+has been seen as a competitive edge
+
+480
+19:14.130 --> 19:16.800
+by, you know, health, you know, if you look at hospitals
+
+481
+19:16.800 --> 19:18.840
+and you look at how metrics are measured
+
+482
+19:18.840 --> 19:21.812
+across hospital performance and healthcare performance,
+
+483
+19:21.812 --> 19:25.980
+we have to move to a pre-competitive dataset.
+
+484
+19:25.980 --> 19:27.330
+That means that data in itself
+
+485
+19:27.330 --> 19:29.790
+doesn't become a competitive edge.
+
+486
+19:29.790 --> 19:32.100
+The actual interpretation of the data
+
+487
+19:32.100 --> 19:34.710
+and how you use it becomes a competitive edge.
+
+488
+19:34.710 --> 19:37.647
+And that's a very different situation to be in.
+
+489
+19:37.647 --> 19:39.270
+You know, I think of examples
+
+490
+19:39.270 --> 19:40.650
+in where we are looking at stuff
+
+491
+19:40.650 --> 19:42.360
+and we've had to make that move.
+
+492
+19:42.360 --> 19:44.397
+Now, you know, and I'm not gonna,
+
+493
+19:44.397 --> 19:46.320
+I'm not trying to sell my company,
+
+494
+19:46.320 --> 19:48.000
+but it's more around, we've had to make that move.
+
+495
+19:48.000 --> 19:50.970
+And it takes a real conscious effort in investment,
+
+496
+19:50.970 --> 19:53.250
+in resourcing, but also capabilities.
+
+497
+19:53.250 --> 19:55.410
+People have to think and act differently.
+
+498
+19:55.410 --> 19:57.630
+And we've had to sort of recycle
+
+499
+19:57.630 --> 19:59.040
+and get, you know, people have to leave
+
+500
+19:59.040 --> 20:00.330
+and new people come in
+
+501
+20:00.330 --> 20:02.631
+'cause it's a fundamental shift in mindset.
+
+502
+20:02.631 --> 20:05.370
+And then the second piece is coming back to your point,
+
+503
+20:05.370 --> 20:07.408
+which is, you know, if you've harmonized
+
+504
+20:07.408 --> 20:10.260
+the baseline of the data, it's comparable data.
+
+505
+20:10.260 --> 20:11.790
+Today, it isn't.
+
+506
+20:11.790 --> 20:13.260
+You know, coming back to the point on regulation,
+
+507
+20:13.260 --> 20:15.300
+the regulation is not a global regulation.
+
+508
+20:15.300 --> 20:17.070
+FDA is different to European.
+
+509
+20:17.070 --> 20:18.870
+Medical disease is different everywhere.
+
+510
+20:18.870 --> 20:20.430
+So I know we need,
+
+511
+20:20.430 --> 20:21.780
+you're never gonna find a common ground.
+
+512
+20:21.780 --> 20:24.030
+In the same way, there's no global consumer.
+
+513
+20:24.030 --> 20:26.700
+You're gonna have to find some points where you can dock in
+
+514
+20:26.700 --> 20:29.340
+and have some parallel work streams to work.
+
+515
+20:29.340 --> 20:31.440
+But it is a massive change for us
+
+516
+20:31.440 --> 20:33.240
+from a global perspective.
+
+517
+20:33.240 --> 20:34.350
+You wanna this.
+
+518
+20:34.350 --> 20:35.520
+<v ->Can I just add before.</v>
+
+519
+20:35.520 --> 20:37.860
+Can I just like to ask a follow up question
+
+520
+20:37.860 --> 20:39.300
+with you, Jonathan?
+
+521
+20:39.300 --> 20:41.940
+'Cause you had talked about more information to the consumer
+
+522
+20:41.940 --> 20:43.770
+and better information to the consumer.
+
+523
+20:43.770 --> 20:45.510
+But I'm a consumer
+
+524
+20:45.510 --> 20:47.790
+and I'm an idiot when it comes to healthcare, right?
+
+525
+20:47.790 --> 20:51.420
+I mean, I probably am a little bit smarter
+
+526
+20:51.420 --> 20:53.760
+than people because I know that I'm an idiot
+
+527
+20:53.760 --> 20:54.900
+when it comes to healthcare, right?
+
+528
+20:54.900 --> 20:56.070
+I mean, I can do Google searches,
+
+529
+20:56.070 --> 20:58.483
+I can find out all sorts of stuff, but I'm not a doctor.
+
+530
+20:58.483 --> 20:59.850
+I haven't been to medical,
+
+531
+20:59.850 --> 21:02.040
+so I don't know how cells work, right?
+
+532
+21:02.040 --> 21:07.040
+So we can arm people with data,
+
+533
+21:07.140 --> 21:11.280
+but how informed do they have to be?
+
+534
+21:11.280 --> 21:12.810
+And what do we have to think about
+
+535
+21:12.810 --> 21:15.060
+in terms of giving them all this data
+
+536
+21:15.060 --> 21:19.710
+about making sure that consumers are informed enough
+
+537
+21:19.710 --> 21:22.890
+to be able to make appropriate decisions?
+
+538
+21:22.890 --> 21:24.078
+<v ->Yeah.</v>
+
+539
+21:24.078 --> 21:24.960
+So I'm gonna be nice to Matt.
+
+540
+21:24.960 --> 21:27.411
+I'm not gonna talk about Google or talk about Bing,
+
+541
+21:27.411 --> 21:30.090
+but, you know, how many of you
+
+542
+21:30.090 --> 21:32.400
+actually in your families have a Bing doc?
+
+543
+21:32.400 --> 21:34.110
+So somebody's gone on to Bing and said,
+
+544
+21:34.110 --> 21:36.390
+I've got a problem and suddenly they know all the solutions
+
+545
+21:36.390 --> 21:38.460
+'cause Bing has told them.
+
+546
+21:38.460 --> 21:39.900
+But it's not Bing's fault
+
+547
+21:39.900 --> 21:42.564
+because we naturally humans wanna go and find data.
+
+548
+21:42.564 --> 21:43.470
+But you're right.
+
+549
+21:43.470 --> 21:46.050
+You know, how do we educate that system?
+
+550
+21:46.050 --> 21:48.090
+So I give you, you know, we are operating
+
+551
+21:48.090 --> 21:51.270
+in medication spaces that are complicated.
+
+552
+21:51.270 --> 21:52.770
+You know, yes, there's some ibuprofen,
+
+553
+21:52.770 --> 21:53.850
+but you'll know about that.
+
+554
+21:53.850 --> 21:55.237
+But there's other things.
+
+555
+21:55.237 --> 21:56.970
+We work in antispasmodics, we work in allergy.
+
+556
+21:56.970 --> 21:58.830
+You know, it's complicated for consumers
+
+557
+21:58.830 --> 22:01.740
+to understand how it works, why should it work.
+
+558
+22:01.740 --> 22:03.750
+You know, so we we're actively ourselves
+
+559
+22:03.750 --> 22:06.090
+looking at how we simplify science,
+
+560
+22:06.090 --> 22:08.307
+but we have to do that in every element
+
+561
+22:08.307 --> 22:10.020
+of connection with the consumer.
+
+562
+22:10.020 --> 22:12.645
+Because in the same way as you go to ChatGPT,
+
+563
+22:12.645 --> 22:14.400
+if you were to say, "I've got a headache."
+
+564
+22:14.400 --> 22:16.237
+Unfortunately, it probably would come back and say,
+
+565
+22:16.237 --> 22:18.480
+"You might have brain cancer."
+
+566
+22:18.480 --> 22:19.860
+And you might need to go and ask,
+
+567
+22:19.860 --> 22:21.307
+and I'd urge you to ask the question,
+
+568
+22:21.307 --> 22:23.280
+"Okay, what's your source data?"
+
+569
+22:23.280 --> 22:24.510
+And it'll probably come back
+
+570
+22:24.510 --> 22:26.670
+and you'll find out it's a hallucination of some sort.
+
+571
+22:26.670 --> 22:29.743
+So there is that piece that we need to be more mindful.
+
+572
+22:29.743 --> 22:33.540
+So certainly, from a private healthcare perspective,
+
+573
+22:33.540 --> 22:36.180
+so we're definitely looking at closed loop AI
+
+574
+22:36.180 --> 22:38.340
+and how we actually inform that.
+
+575
+22:38.340 --> 22:40.706
+But we're gonna have to move forward and open that
+
+576
+22:40.706 --> 22:44.730
+and find ways to actually bring simple science,
+
+577
+22:44.730 --> 22:46.920
+simple credible recommendation tools
+
+578
+22:46.920 --> 22:50.220
+to consumers that not only tells, visualizes,
+
+579
+22:50.220 --> 22:52.620
+but brings it to life in an easy, intuitive way.
+
+580
+22:54.810 --> 22:56.370
+<v ->Couple comments. I think this is a great discussion.</v>
+
+581
+22:56.370 --> 22:59.010
+Okay, so I think, well, can I,
+
+582
+22:59.010 --> 23:00.060
+let me talk about this first part,
+
+583
+23:00.060 --> 23:02.460
+which is the education of the consumer.
+
+584
+23:02.460 --> 23:05.040
+'Cause like, I actually see this a little differently.
+
+585
+23:05.040 --> 23:06.960
+So you probably heard the phrase,
+
+586
+23:06.960 --> 23:09.090
+like, "Your Google search does not replace
+
+587
+23:09.090 --> 23:10.560
+my medical degree," right?
+
+588
+23:10.560 --> 23:11.610
+When you, the patient, comes in
+
+589
+23:11.610 --> 23:12.630
+with a bunch of Google searches,
+
+590
+23:12.630 --> 23:13.680
+and, "I've got a tumor."
+
+591
+23:13.680 --> 23:14.513
+You're like, "No, you're fine."
+
+592
+23:14.513 --> 23:15.570
+You know, that whole thing.
+
+593
+23:15.570 --> 23:18.704
+Well that was definitely a thing for a long time.
+
+594
+23:18.704 --> 23:21.870
+But now, and this is completely my experience,
+
+595
+23:21.870 --> 23:25.170
+but, you know, my colleagues have seen some similar things.
+
+596
+23:25.170 --> 23:28.650
+Patients are having long discussions about diseases
+
+597
+23:28.650 --> 23:30.360
+or symptoms or medications
+
+598
+23:30.360 --> 23:32.400
+with these state-of-the-art models.
+
+599
+23:32.400 --> 23:33.930
+I'm being very clear here.
+
+600
+23:33.930 --> 23:37.080
+You go back to 3.5, even the early days of 4,
+
+601
+23:37.080 --> 23:40.950
+you're not gonna see this but 4.0 with web search
+
+602
+23:40.950 --> 23:42.570
+and, you know, to deference
+
+603
+23:42.570 --> 23:44.310
+to some of the other big players,
+
+604
+23:44.310 --> 23:47.160
+you know, they have solutions that do real research, right?
+
+605
+23:47.160 --> 23:49.920
+We're starting to get to a place where, you know,
+
+606
+23:49.920 --> 23:52.350
+I'm not go going too far outside the lines
+
+607
+23:52.350 --> 23:55.170
+to say that intelligence is asymptotically heading
+
+608
+23:55.170 --> 23:56.400
+to free in many domains.
+
+609
+23:56.400 --> 23:57.300
+And this is one of them.
+
+610
+23:57.300 --> 23:59.160
+So my patients don't now come to me
+
+611
+23:59.160 --> 24:00.619
+and I'm like, "Oh, well, oh yeah.
+
+612
+24:00.619 --> 24:03.120
+That's a pretty good insight, you know?
+
+613
+24:03.120 --> 24:04.710
+You'd save me two steps, right?"
+
+614
+24:04.710 --> 24:07.950
+Or they've actually thought these things through
+
+615
+24:07.950 --> 24:10.110
+with a model in a very strange way.
+
+616
+24:10.110 --> 24:12.150
+And, you know, I see this in my own kids, right?
+
+617
+24:12.150 --> 24:13.920
+They're learning concepts
+
+618
+24:13.920 --> 24:16.200
+by having conversations even out loud.
+
+619
+24:16.200 --> 24:17.610
+And to even push it a step further,
+
+620
+24:17.610 --> 24:20.010
+what about our elderly population,
+
+621
+24:20.010 --> 24:23.250
+who are incredibly unlikely to even handle email, like?
+
+622
+24:23.250 --> 24:25.350
+So how are they gonna access that technology?
+
+623
+24:25.350 --> 24:29.580
+Well, you saw, you can call 1-800-ChatGPT.
+
+624
+24:29.580 --> 24:31.470
+I'm not joking, this is a real thing,
+
+625
+24:31.470 --> 24:33.150
+if you weren't paying attention to launches.
+
+626
+24:33.150 --> 24:37.263
+And you can have a real-time conversation with the model.
+
+627
+24:38.190 --> 24:40.290
+My my grandma did that.
+
+628
+24:40.290 --> 24:41.730
+And she was blown away, right?
+
+629
+24:41.730 --> 24:43.560
+So I think we're starting to get to a place
+
+630
+24:43.560 --> 24:46.080
+where that the information asymmetry
+
+631
+24:46.080 --> 24:47.760
+that has plagued those of us
+
+632
+24:47.760 --> 24:49.830
+who have to memorize a bunch of stuff
+
+633
+24:49.830 --> 24:51.600
+and then explain it in a certain way,
+
+634
+24:51.600 --> 24:53.760
+it's starting to level off a bit.
+
+635
+24:53.760 --> 24:56.280
+And this is a huge opportunity for us.
+
+636
+24:56.280 --> 24:58.650
+One more point I'll make in terms of like democratization,
+
+637
+24:58.650 --> 25:03.060
+'cause I do agree that this idea that this data is mine
+
+638
+25:03.060 --> 25:05.850
+and it's valuable and, you know, I don't want to share it
+
+639
+25:05.850 --> 25:07.890
+because it's, you know, my competitive edge.
+
+640
+25:07.890 --> 25:09.510
+If you take a page out of the book
+
+641
+25:09.510 --> 25:12.810
+of the broader AI community where they're using the same,
+
+642
+25:12.810 --> 25:16.230
+right, let's be honest, the same stack of web-scraped data
+
+643
+25:16.230 --> 25:18.000
+to build, let's just say,
+
+644
+25:18.000 --> 25:20.700
+in mildly intelligent models now, right?
+
+645
+25:20.700 --> 25:23.190
+And the competitive model is sort of almost flattened.
+
+646
+25:23.190 --> 25:25.560
+And now they are innovating on the post training,
+
+647
+25:25.560 --> 25:27.810
+they're innovating on the inference time compute,
+
+648
+25:27.810 --> 25:29.700
+and they're getting differentiation.
+
+649
+25:29.700 --> 25:31.440
+How do we do that in healthcare, right?
+
+650
+25:31.440 --> 25:34.230
+This is protected data. There's a lot of privacy issues.
+
+651
+25:34.230 --> 25:36.840
+One way that's been proposed that I happen to like,
+
+652
+25:36.840 --> 25:39.180
+and I'm curious if this resonates with anybody,
+
+653
+25:39.180 --> 25:41.970
+but we have a system in place today
+
+654
+25:41.970 --> 25:44.160
+for organ and tissue donation,
+
+655
+25:44.160 --> 25:47.160
+where every hospital is required to report
+
+656
+25:47.160 --> 25:51.570
+to a nonprofit that someone is about to die or has died
+
+657
+25:51.570 --> 25:54.570
+so they can be approached for organ tissue donation.
+
+658
+25:54.570 --> 25:55.560
+You've all been to the DMV,
+
+659
+25:55.560 --> 25:58.740
+you check on your license that you're willing to donate.
+
+660
+25:58.740 --> 26:01.590
+What about a system that would also add another box,
+
+661
+26:01.590 --> 26:04.800
+donate your data after you pass away?
+
+662
+26:04.800 --> 26:06.360
+Interesting concept,
+
+663
+26:06.360 --> 26:08.910
+but it's certainly an easier space race to win
+
+664
+26:08.910 --> 26:10.950
+as a centralized infrastructure
+
+665
+26:10.950 --> 26:14.220
+than trying to put together hundreds of thousands of GPUs
+
+666
+26:14.220 --> 26:17.520
+and compete with my company and Meta and all these others
+
+667
+26:17.520 --> 26:20.250
+to build a government-based GPU cluster.
+
+668
+26:20.250 --> 26:22.260
+If we're talking about solving healthcare problems,
+
+669
+26:22.260 --> 26:23.610
+this democratized data
+
+670
+26:23.610 --> 26:26.550
+would ideally be well-distributed, right?
+
+671
+26:26.550 --> 26:28.590
+Not from just certain populations.
+
+672
+26:28.590 --> 26:30.900
+And hopefully over time be comprehensive enough
+
+673
+26:30.900 --> 26:33.780
+to drive real solutions.
+
+674
+26:33.780 --> 26:34.613
+So, anyway.
+
+675
+26:34.613 --> 26:35.490
+<v ->No, I like that idea.</v>
+
+676
+26:35.490 --> 26:36.780
+That's very interesting.
+
+677
+26:36.780 --> 26:39.510
+I made a promise to myself not to mention AI
+
+678
+26:39.510 --> 26:40.787
+as the moderator, but you're forcing me to do it.
+
+679
+26:40.787 --> 26:41.620
+<v Matt>Yeah.</v>
+
+680
+26:41.620 --> 26:44.047
+<v ->So it's not my fault. I didn't break my promise myself.</v>
+
+681
+26:44.047 --> 26:44.880
+<v Matt>I can say it every time I say it.</v>
+
+682
+26:44.880 --> 26:45.713
+<v ->Okay. I figured.</v>
+
+683
+26:45.713 --> 26:46.935
+Yeah. Okay.
+
+684
+26:46.935 --> 26:49.380
+But you've made a really interesting point,
+
+685
+26:49.380 --> 26:51.000
+and this is why I'm gonna mention it.
+
+686
+26:51.000 --> 26:54.090
+'Cause the question I had to ask was about
+
+687
+26:54.090 --> 26:57.570
+how do we make sure that we as consumers, right,
+
+688
+26:57.570 --> 26:58.830
+can take this information
+
+689
+26:58.830 --> 27:02.370
+and really utilize it in a very positive way
+
+690
+27:02.370 --> 27:05.640
+to really take advantage, right, of precision medicine.
+
+691
+27:05.640 --> 27:09.450
+And to a certain degree, Matt, you said, well,
+
+692
+27:09.450 --> 27:10.920
+well AI will save the day
+
+693
+27:10.920 --> 27:13.860
+because AI will allow the consumers, right,
+
+694
+27:13.860 --> 27:18.681
+to take this information and really understand with it,
+
+695
+27:18.681 --> 27:22.470
+assuming that they understand how to use the AI tool, right?
+
+696
+27:22.470 --> 27:24.300
+Which is a whole lot easier to explain
+
+697
+27:24.300 --> 27:26.790
+than how a cell works, in my opinion.
+
+698
+27:26.790 --> 27:31.790
+So then the question is, well what does that then mean
+
+699
+27:33.311 --> 27:36.900
+for our healthcare institutions, right?
+
+700
+27:36.900 --> 27:38.970
+If I can walk into a doctor's office now
+
+701
+27:38.970 --> 27:40.740
+and I've just gotten this wonderful information
+
+702
+27:40.740 --> 27:43.080
+about what's going on in my eye, right,
+
+703
+27:43.080 --> 27:44.756
+or the back of my throat because of my wearables
+
+704
+27:44.756 --> 27:46.410
+or implanted devices
+
+705
+27:46.410 --> 27:48.990
+that are now feeding me vast amounts of data
+
+706
+27:48.990 --> 27:52.020
+and I've engaged with an AI system, say, "What's going on?"
+
+707
+27:52.020 --> 27:53.910
+And it's giving me an answer.
+
+708
+27:53.910 --> 27:54.937
+And I can come into you and say,
+
+709
+27:54.937 --> 27:56.520
+"Hey, I think this is what's going on."
+
+710
+27:56.520 --> 27:58.287
+And you say, "Yep."
+
+711
+27:59.400 --> 28:00.690
+Is it worth going to medical school
+
+712
+28:00.690 --> 28:02.280
+for that to happen, right?
+
+713
+28:02.280 --> 28:05.220
+And is it worth it for me to go see you, right?
+
+714
+28:05.220 --> 28:06.960
+To kind of have that.
+
+715
+28:06.960 --> 28:11.960
+So this to me is kind of one of those intractable problems
+
+716
+28:12.541 --> 28:14.880
+that I'm kind of curious
+
+717
+28:14.880 --> 28:18.210
+as to how do how do we make something work
+
+718
+28:18.210 --> 28:20.823
+when we have potentially that kind of capability?
+
+719
+28:22.290 --> 28:24.900
+<v ->Yeah, I mean I, you know, so I see that you're,</v>
+
+720
+28:24.900 --> 28:26.640
+you kind of going to the conclusion of,
+
+721
+28:26.640 --> 28:28.260
+okay, well, what do I need this guy for?
+
+722
+28:28.260 --> 28:29.801
+You know, he's, you know...
+
+723
+28:29.801 --> 28:31.980
+<v Dale>You're great panelist, don't get me me wrong.</v>
+
+724
+28:31.980 --> 28:33.143
+You still have a job on doing panelist.
+
+725
+28:33.143 --> 28:34.568
+<v ->I mean, I'll go now.</v>
+
+726
+28:34.568 --> 28:36.788
+No, but I think the way I look at
+
+727
+28:36.788 --> 28:40.680
+it is that I spend a significant amount of my time
+
+728
+28:40.680 --> 28:43.920
+having that education conversation with every clinic visit.
+
+729
+28:43.920 --> 28:46.260
+And, you know, which I actually don't,
+
+730
+28:46.260 --> 28:48.180
+it's actually part of my job that I do enjoy.
+
+731
+28:48.180 --> 28:51.330
+But like there's other parts of my job that I don't enjoy
+
+732
+28:51.330 --> 28:53.981
+that also kind of include this sort of arbitrage
+
+733
+28:53.981 --> 28:56.550
+of information or /intelligence.
+
+734
+28:56.550 --> 28:58.740
+All the things like if I had to do an 80/20
+
+735
+28:58.740 --> 29:00.630
+of how much of my time,
+
+736
+29:00.630 --> 29:03.570
+do I spend doing things that I was trained to do
+
+737
+29:03.570 --> 29:06.150
+versus things like that I'm have to do,
+
+738
+29:06.150 --> 29:08.760
+like documentation, coding, billing, prior auth.
+
+739
+29:08.760 --> 29:13.530
+Like if I could move that 20% slightly closer to 50% even,
+
+740
+29:13.530 --> 29:14.910
+I would be thrilled.
+
+741
+29:14.910 --> 29:16.950
+And I'd probably see more patients,
+
+742
+29:16.950 --> 29:18.390
+I'd probably have a better opportunity
+
+743
+29:18.390 --> 29:21.270
+to take care of more things in one visit.
+
+744
+29:21.270 --> 29:23.130
+And frankly, I might be able to start tackling
+
+745
+29:23.130 --> 29:25.800
+some of those things that are not the typical,
+
+746
+29:25.800 --> 29:28.680
+I got 15 minutes with you, just gimme your top problem.
+
+747
+29:28.680 --> 29:31.170
+So, you know, that's kind of my optimistic view of it.
+
+748
+29:31.170 --> 29:33.270
+You could draw that conclusion of like,
+
+749
+29:33.270 --> 29:35.220
+well, if intelligence is everywhere,
+
+750
+29:35.220 --> 29:36.960
+why do we need any roles?
+
+751
+29:36.960 --> 29:38.730
+And I think there's some folks in Silicon Valley
+
+752
+29:38.730 --> 29:41.520
+that'd be happy to talk to you about that future.
+
+753
+29:41.520 --> 29:43.290
+I think for me, I'm very pragmatic.
+
+754
+29:43.290 --> 29:45.360
+I just want to get to a place
+
+755
+29:45.360 --> 29:47.640
+where I'm able to see more patients,
+
+756
+29:47.640 --> 29:49.258
+take great care of them.
+
+757
+29:49.258 --> 29:50.700
+And again, move to a place
+
+758
+29:50.700 --> 29:52.260
+where the information they're bringing me,
+
+759
+29:52.260 --> 29:53.550
+maybe it's a wearable,
+
+760
+29:53.550 --> 29:57.180
+maybe it's a genomics test they've taken, a gut biome test,
+
+761
+29:57.180 --> 29:59.580
+I'd like to know what I can do with that too.
+
+762
+29:59.580 --> 30:02.070
+<v ->Yeah, I'll just piggyback off that.</v>
+
+763
+30:02.070 --> 30:03.720
+And the earlier question was like,
+
+764
+30:03.720 --> 30:05.100
+what else needs to change?
+
+765
+30:05.100 --> 30:09.090
+And so I think, you know, what we are already seeing,
+
+766
+30:09.090 --> 30:10.620
+if I think about Tempus AI,
+
+767
+30:10.620 --> 30:12.810
+and we work across the healthcare system,
+
+768
+30:12.810 --> 30:16.350
+meaning both AMCs and also community health centers,
+
+769
+30:16.350 --> 30:18.750
+and we see a shift actually already happening
+
+770
+30:18.750 --> 30:20.460
+of kind of what you're describing,
+
+771
+30:20.460 --> 30:22.860
+that especially in the primary care space,
+
+772
+30:22.860 --> 30:27.030
+that those physicians are able to leverage AI tools already
+
+773
+30:27.030 --> 30:28.890
+to do some of the more monotonous
+
+774
+30:28.890 --> 30:30.900
+or time-consuming administrative stuff
+
+775
+30:30.900 --> 30:33.270
+and move over to actually caring for patients.
+
+776
+30:33.270 --> 30:34.500
+And the second thing we see
+
+777
+30:34.500 --> 30:38.130
+is a shift towards other type of workers coming into play.
+
+778
+30:38.130 --> 30:40.290
+So community healthcare workers
+
+779
+30:40.290 --> 30:42.480
+that are actually able to also leverage
+
+780
+30:42.480 --> 30:44.700
+a lot of these new tools and technologies.
+
+781
+30:44.700 --> 30:46.080
+And to bring, again,
+
+782
+30:46.080 --> 30:48.870
+especially primary care or preventative care,
+
+783
+30:48.870 --> 30:51.270
+or even sometimes chronic illness care,
+
+784
+30:51.270 --> 30:54.540
+like diabetes or high blood pressure, those type of things,
+
+785
+30:54.540 --> 30:55.950
+into more of the consumer space.
+
+786
+30:55.950 --> 30:59.310
+So you can think about pharmacies or grocery stores.
+
+787
+30:59.310 --> 31:00.960
+I mean, I don't know how many of you have seen
+
+788
+31:00.960 --> 31:02.460
+the get your COVID shot,
+
+789
+31:02.460 --> 31:06.360
+get your flu shot at your Giant or Kroger or whatever.
+
+790
+31:06.360 --> 31:08.040
+I'm always a little bit hesitant by the way,
+
+791
+31:08.040 --> 31:11.040
+but it works for a lot of the communities,
+
+792
+31:11.040 --> 31:12.600
+and we see a lot of adoption that way.
+
+793
+31:12.600 --> 31:15.540
+So I do think that we're already seeing
+
+794
+31:15.540 --> 31:17.460
+some of those trends happening,
+
+795
+31:17.460 --> 31:19.410
+and they will probably accelerate.
+
+796
+31:19.410 --> 31:22.053
+And hopefully it's a benefit across the system.
+
+797
+31:22.053 --> 31:23.490
+<v ->If I can just ask, Kate,</v>
+
+798
+31:23.490 --> 31:25.080
+just a quick follow up question on that then.
+
+799
+31:25.080 --> 31:27.573
+Do you see, well, for everybody,
+
+800
+31:29.460 --> 31:30.810
+the role of the physician,
+
+801
+31:30.810 --> 31:32.210
+I mean, you're talking about
+
+802
+31:33.083 --> 31:35.700
+potentially doing different things than,
+
+803
+31:35.700 --> 31:37.200
+I'm not gonna guess at your age,
+
+804
+31:37.200 --> 31:39.510
+but that you were taught to do, right,
+
+805
+31:39.510 --> 31:41.220
+as part of your medical training
+
+806
+31:41.220 --> 31:43.350
+and maybe even during residency, right?
+
+807
+31:43.350 --> 31:46.410
+That you're doing different things, right?
+
+808
+31:46.410 --> 31:51.410
+You are perhaps acting more as a navigator for a patient
+
+809
+31:52.590 --> 31:54.570
+as they think about and think about
+
+810
+31:54.570 --> 31:56.100
+what they want out of their health and, right,
+
+811
+31:56.100 --> 31:58.170
+and how to manage their condition.
+
+812
+31:58.170 --> 32:03.170
+So are we seeing also perhaps a change in what physicians
+
+813
+32:03.210 --> 32:07.350
+and other healthcare practitioners are actually doing
+
+814
+32:07.350 --> 32:09.570
+when it comes to delivering care?
+
+815
+32:09.570 --> 32:12.000
+And is that a future that we need to be thinking about
+
+816
+32:12.000 --> 32:14.070
+and starting training about?
+
+817
+32:14.070 --> 32:14.903
+<v ->I can-</v>
+
+818
+32:14.903 --> 32:15.736
+<v ->I'll let the physician answer.</v>
+
+819
+32:15.736 --> 32:16.650
+<v ->I'll do it quick,</v>
+
+820
+32:16.650 --> 32:18.380
+but I'm curious to hear on the consumer side too.
+
+821
+32:18.380 --> 32:20.137
+I think there's a tricky question.
+
+822
+32:20.137 --> 32:24.630
+You know, 'cause in reality, in training, right,
+
+823
+32:24.630 --> 32:25.500
+we have to compress.
+
+824
+32:25.500 --> 32:27.690
+That's why, you know, we have hundreds of hours
+
+825
+32:27.690 --> 32:30.223
+we spend every week in training for years, right?
+
+826
+32:30.223 --> 32:31.200
+We do this.
+
+827
+32:31.200 --> 32:32.730
+But when we get out into practice,
+
+828
+32:32.730 --> 32:35.190
+at least, especially in primary care, by the way,
+
+829
+32:35.190 --> 32:36.960
+you're really supposed to manage chronic illness.
+
+830
+32:36.960 --> 32:39.630
+Well, that takes place over decades, right?
+
+831
+32:39.630 --> 32:40.770
+Ideally.
+
+832
+32:40.770 --> 32:42.420
+But at your residency and training,
+
+833
+32:42.420 --> 32:45.090
+well, that was like four years or three years or something.
+
+834
+32:45.090 --> 32:46.800
+So there have been people talking about
+
+835
+32:46.800 --> 32:49.200
+how do we think about the medical education system,
+
+836
+32:49.200 --> 32:52.080
+not just, obviously, you know, AI literacy,
+
+837
+32:52.080 --> 32:56.108
+but also can we use these systems with real world data again
+
+838
+32:56.108 --> 32:58.800
+to create synthetic interactive,
+
+839
+32:58.800 --> 33:01.290
+almost like a pilot-type simulation experience.
+
+840
+33:01.290 --> 33:02.790
+So, okay, you did this,
+
+841
+33:02.790 --> 33:05.010
+the patient comes back five years later, this happens.
+
+842
+33:05.010 --> 33:06.060
+Now what do you do?
+
+843
+33:06.060 --> 33:08.280
+And that's not really something we get to see
+
+844
+33:08.280 --> 33:11.040
+because, well, training is short.
+
+845
+33:11.040 --> 33:13.413
+There's also an an idea of like, you know,
+
+846
+33:15.240 --> 33:17.940
+how much information can we possibly pack
+
+847
+33:17.940 --> 33:20.820
+into medical training at this point, right?
+
+848
+33:20.820 --> 33:23.640
+The medical information doubles every 90 days, I'm told.
+
+849
+33:23.640 --> 33:24.990
+I don't know if that's exactly right,
+
+850
+33:24.990 --> 33:26.400
+but it's something like that.
+
+851
+33:26.400 --> 33:29.690
+And a lot of us go into sub, sub, subspecialty.
+
+852
+33:29.690 --> 33:32.130
+So I'm a pediatric interventional radiologist.
+
+853
+33:32.130 --> 33:33.510
+That is so small.
+
+854
+33:33.510 --> 33:35.400
+Like, I know everyone who does that work,
+
+855
+33:35.400 --> 33:36.780
+almost in the world, okay?
+
+856
+33:36.780 --> 33:38.010
+So it's a very small field,
+
+857
+33:38.010 --> 33:39.990
+but yet, we still have a lot of information to keep up.
+
+858
+33:39.990 --> 33:42.060
+But now if you were to ask me,
+
+859
+33:42.060 --> 33:43.560
+this patient has a different medical problem
+
+860
+33:43.560 --> 33:46.387
+not related to my specialty, I'm gonna be like,
+
+861
+33:46.387 --> 33:48.210
+"Oh man, I gotta go find another specialist
+
+862
+33:48.210 --> 33:49.110
+'cause I don't know what that is,
+
+863
+33:49.110 --> 33:50.970
+or I've been years since I've thought about it."
+
+864
+33:50.970 --> 33:52.560
+So some of these other systems, I think,
+
+865
+33:52.560 --> 33:53.820
+will change our roles.
+
+866
+33:53.820 --> 33:55.440
+I can maybe consult a system
+
+867
+33:55.440 --> 33:58.110
+that has the ability to bring the insights
+
+868
+33:58.110 --> 33:59.730
+that I can use to take care of that patient
+
+869
+33:59.730 --> 34:01.230
+in a different way.
+
+870
+34:01.230 --> 34:03.030
+These are all things I've heard floated around.
+
+871
+34:03.030 --> 34:04.740
+I think we're all, as a medical community,
+
+872
+34:04.740 --> 34:06.750
+trying to figure this out as well.
+
+873
+34:06.750 --> 34:09.300
+But I will emphasize this for the crowd,
+
+874
+34:09.300 --> 34:13.193
+what we want is technology that saves us time.
+
+875
+34:13.193 --> 34:15.990
+And, you know, saving time before saving lives.
+
+876
+34:15.990 --> 34:17.160
+And I know that sounds weird.
+
+877
+34:17.160 --> 34:19.230
+We'll take care of the lives, okay?
+
+878
+34:19.230 --> 34:22.590
+We need to save time because we are drowning in work
+
+879
+34:22.590 --> 34:25.388
+that does not require a medical license.
+
+880
+34:25.388 --> 34:26.960
+<v ->Yeah. Do you wanna go first?</v>
+
+881
+34:26.960 --> 34:27.963
+<v ->No.</v>
+
+882
+34:27.963 --> 34:28.796
+<v ->No, I was just gonna say that.</v>
+
+883
+34:28.796 --> 34:30.764
+I think there's three key things,
+
+884
+34:30.764 --> 34:31.597
+and I think jumping on Matt's point,
+
+885
+34:31.597 --> 34:34.010
+which is one is around quality of care.
+
+886
+34:34.010 --> 34:36.870
+So everybody knows the Mayo Clinic model two,
+
+887
+34:36.870 --> 34:39.423
+two-apart you know, two recommendations.
+
+888
+34:40.530 --> 34:41.760
+Imagine that one of them,
+
+889
+34:41.760 --> 34:44.250
+every hospital has that same model,
+
+890
+34:44.250 --> 34:46.020
+but you don't have to pay for two doctors.
+
+891
+34:46.020 --> 34:46.853
+<v Matt>Right.</v>
+
+892
+34:46.853 --> 34:47.686
+<v ->Yeah.</v>
+
+893
+34:47.686 --> 34:50.100
+Because one of them might be an AI-driven recommendation.
+
+894
+34:50.100 --> 34:51.060
+You still need,
+
+895
+34:51.060 --> 34:53.550
+and the reason why I say that is because we've got a study
+
+896
+34:53.550 --> 34:55.380
+that says that seven,
+
+897
+34:55.380 --> 35:00.380
+if you actually have an HCP recommended opinion,
+
+898
+35:00.960 --> 35:05.763
+72% increase in willingness to adopt the regimen.
+
+899
+35:06.900 --> 35:09.450
+That's not an AI-driven recommendation.
+
+900
+35:09.450 --> 35:13.682
+Consumers, people still want a human recommendation
+
+901
+35:13.682 --> 35:17.850
+because they don't trust the AI to be at that level.
+
+902
+35:17.850 --> 35:19.740
+And we're still a long way away from that.
+
+903
+35:19.740 --> 35:21.510
+There's a lot of barriers still to go through.
+
+904
+35:21.510 --> 35:22.500
+Which is why, you know,
+
+905
+35:22.500 --> 35:25.563
+I don't see doctors becoming prompt engineers,
+
+906
+35:26.610 --> 35:28.500
+but I do see them becoming more...
+
+907
+35:28.500 --> 35:29.500
+So the second pillar
+
+908
+35:30.407 --> 35:31.920
+is about they're gonna focus on chronic disease
+
+909
+35:31.920 --> 35:35.100
+because non-chronic diseases will be covered at home.
+
+910
+35:35.100 --> 35:36.480
+That means that the quality of care,
+
+911
+35:36.480 --> 35:40.980
+but also the time allocated per patient is gonna go up
+
+912
+35:40.980 --> 35:42.720
+and the volume is gonna go up
+
+913
+35:42.720 --> 35:44.850
+in terms of chronic disease treatment.
+
+914
+35:44.850 --> 35:48.060
+And then the third one is actually emerging new solutions
+
+915
+35:48.060 --> 35:49.800
+and integration into the healthcare space.
+
+916
+35:49.800 --> 35:51.933
+So today is the barrier to entry,
+
+917
+35:52.846 --> 35:54.870
+the time of integration of new medicines, new technologies,
+
+918
+35:54.870 --> 35:57.960
+new devices, new approaches take so long.
+
+919
+35:57.960 --> 35:58.800
+And it comes back to your point
+
+920
+35:58.800 --> 36:01.890
+at the beginning on regulation, it's gonna be accelerated.
+
+921
+36:01.890 --> 36:05.190
+So that means that we're gonna have improvement in care
+
+922
+36:05.190 --> 36:06.210
+as a result of that.
+
+923
+36:06.210 --> 36:07.891
+So I think those for me
+
+924
+36:07.891 --> 36:09.510
+are the three key elements to expect.
+
+925
+36:09.510 --> 36:12.240
+<v ->And maybe the last thing I'll add quickly,</v>
+
+926
+36:12.240 --> 36:13.980
+which is, as you were talking through it,
+
+927
+36:13.980 --> 36:15.843
+I think it speaks to,
+
+928
+36:16.694 --> 36:17.940
+and actually the three you added as well,
+
+929
+36:17.940 --> 36:20.700
+speak to more specialization.
+
+930
+36:20.700 --> 36:23.310
+And actually this is precision medicine.
+
+931
+36:23.310 --> 36:24.930
+You know, it's very hard to get
+
+932
+36:24.930 --> 36:27.510
+to true personalized healthcare
+
+933
+36:27.510 --> 36:29.700
+because when you think about all of the illnesses,
+
+934
+36:29.700 --> 36:31.530
+all of the solutions,
+
+935
+36:31.530 --> 36:34.530
+all of the variables that go into a recommendation,
+
+936
+36:34.530 --> 36:39.060
+it's almost impossible until almost this moment in time
+
+937
+36:39.060 --> 36:41.610
+where we actually can amass the data,
+
+938
+36:41.610 --> 36:44.700
+be able to uncover insights, be able to understand it,
+
+939
+36:44.700 --> 36:47.640
+to the point that you can make a recommendation.
+
+940
+36:47.640 --> 36:49.320
+And maybe that starts with an AI agent
+
+941
+36:49.320 --> 36:50.490
+and it gets to the physician
+
+942
+36:50.490 --> 36:52.470
+or it gets to the consumer itself.
+
+943
+36:52.470 --> 36:55.350
+But that is, I think, what we're ultimately,
+
+944
+36:55.350 --> 36:58.170
+we're gonna see precision medicine come to fruition
+
+945
+36:58.170 --> 37:00.240
+because of all of these things that we're talking about.
+
+946
+37:00.240 --> 37:03.370
+<v ->So do you see the, just to digress a little bit</v>
+
+947
+37:04.320 --> 37:07.200
+and into specifically the kind of organization
+
+948
+37:07.200 --> 37:09.750
+that Tempus is, which is this really neat entity
+
+949
+37:09.750 --> 37:13.950
+that you couldn't really characterize, say, 10 years ago,
+
+950
+37:13.950 --> 37:15.900
+didn't exist because it kind of sits
+
+951
+37:15.900 --> 37:18.810
+between the life sciences and the healthcare sector
+
+952
+37:18.810 --> 37:21.510
+and as this moderator of information
+
+953
+37:21.510 --> 37:24.600
+and creating some real value in that process.
+
+954
+37:24.600 --> 37:25.650
+And I'm wondering,
+
+955
+37:25.650 --> 37:30.330
+again, when we're talking about the role of the physician,
+
+956
+37:30.330 --> 37:32.820
+do we see that kind of merging together
+
+957
+37:32.820 --> 37:36.900
+of life sciences and healthcare continuing,
+
+958
+37:36.900 --> 37:41.900
+to the point where it's kind of seamless, right?
+
+959
+37:42.090 --> 37:44.700
+That there's kind of no in-between?
+
+960
+37:44.700 --> 37:46.320
+<v ->I would, I mean, I would love that.</v>
+
+961
+37:46.320 --> 37:48.510
+I think it's, I think that's part of the dream.
+
+962
+37:48.510 --> 37:51.360
+I will say what we see happening now
+
+963
+37:51.360 --> 37:55.770
+is the time shrinking between, you know,
+
+964
+37:55.770 --> 37:58.620
+the healthcare system and the life science companies,
+
+965
+37:58.620 --> 38:02.100
+in particular, drug development or diagnostic development.
+
+966
+38:02.100 --> 38:05.790
+And I think that we will see that move faster and faster
+
+967
+38:05.790 --> 38:07.978
+because we start to have these flywheels
+
+968
+38:07.978 --> 38:09.630
+that we were just talking about, right?
+
+969
+38:09.630 --> 38:11.310
+We have large datasets.
+
+970
+38:11.310 --> 38:13.980
+Actually, large enough now to uncover
+
+971
+38:13.980 --> 38:17.136
+these kind of rare, personalized features
+
+972
+38:17.136 --> 38:19.110
+that we need to be able to understand.
+
+973
+38:19.110 --> 38:20.700
+And now that it is multimodal,
+
+974
+38:20.700 --> 38:22.710
+so it's not just a genomic variant.
+
+975
+38:22.710 --> 38:26.100
+It's, you know, your retinal scan or your blood pressure
+
+976
+38:26.100 --> 38:27.780
+or those three things together.
+
+977
+38:27.780 --> 38:30.142
+And so we have a lot of these insights.
+
+978
+38:30.142 --> 38:33.990
+And we're able then to partner with therapeutic companies,
+
+979
+38:33.990 --> 38:35.730
+they can develop the right drugs,
+
+980
+38:35.730 --> 38:39.210
+and then they can also work with the healthcare side
+
+981
+38:39.210 --> 38:40.320
+on the delivery.
+
+982
+38:40.320 --> 38:43.650
+So all of that is actually moving together
+
+983
+38:43.650 --> 38:47.370
+in a really, I think, kind of convergence
+
+984
+38:47.370 --> 38:51.030
+of healthcare, technology, all of those things at one time.
+
+985
+38:51.030 --> 38:53.790
+It's a really exciting space.
+
+986
+38:53.790 --> 38:55.646
+And you're right, we still have to explain
+
+987
+38:55.646 --> 38:57.930
+companies like Tempus
+
+988
+38:57.930 --> 38:59.910
+that are kind of in the middle doing all of it
+
+989
+38:59.910 --> 39:03.060
+because it is complicated and most of it is new,
+
+990
+39:03.060 --> 39:05.370
+and it's requiring new ways of thinking
+
+991
+39:05.370 --> 39:06.390
+and doing all of this.
+
+992
+39:06.390 --> 39:10.140
+But the end goal will be to really transform the space
+
+993
+39:10.140 --> 39:11.820
+<v ->And thinking about regulation as well.</v>
+
+994
+39:11.820 --> 39:12.653
+which again-
+
+995
+39:12.653 --> 39:13.486
+<v ->Yes.</v>
+<v ->We haven't gotten to.</v>
+
+996
+39:13.486 --> 39:14.319
+But most-
+
+997
+39:14.319 --> 39:15.152
+<v ->We need a whole nother panel.</v>
+
+998
+39:15.152 --> 39:16.110
+<v ->Yeah. No.</v>
+<v ->I get it, you should.</v>
+
+999
+39:16.110 --> 39:18.510
+<v ->I had this whole list of things I wanted to talk about,</v>
+
+1000
+39:18.510 --> 39:20.673
+and sadly we got to two,
+
+1001
+39:22.140 --> 39:24.180
+but we only have a few seconds left.
+
+1002
+39:24.180 --> 39:28.037
+So just in the last few seconds, very quickly,
+
+1003
+39:28.037 --> 39:32.880
+each of you, just what's the most significant challenge
+
+1004
+39:32.880 --> 39:35.937
+for us in terms of getting to this future?
+
+1005
+39:35.937 --> 39:40.334
+And again, just very quickly, 10 seconds or less.
+
+1006
+39:40.334 --> 39:41.820
+Matt, we'll start with you
+
+1007
+39:41.820 --> 39:42.780
+'cause you're struggling the most.
+
+1008
+39:42.780 --> 39:43.613
+<v ->I'm trying to think.</v>
+
+1009
+39:43.613 --> 39:45.240
+Yeah, I do. This is hard.
+
+1010
+39:45.240 --> 39:46.980
+Very quick. I think I'm gonna go data.
+
+1011
+39:46.980 --> 39:48.240
+I'm just gonna say data. Yeah.
+
+1012
+39:48.240 --> 39:49.671
+<v ->That's good.</v>
+
+1013
+39:49.671 --> 39:52.770
+<v ->I'm gonna say adoption and delivery</v>
+
+1014
+39:52.770 --> 39:54.630
+because, you know, we're all,
+
+1015
+39:54.630 --> 39:57.390
+and at this conference, it's all sexy and exciting,
+
+1016
+39:57.390 --> 39:58.440
+and we all love this space.
+
+1017
+39:58.440 --> 39:59.460
+We're passionate about it.
+
+1018
+39:59.460 --> 40:01.983
+But adoption and delivery is still a challenge.
+
+1019
+40:02.850 --> 40:03.683
+<v ->You stole my too,</v>
+
+1020
+40:03.683 --> 40:06.422
+so I'm gonna go with revenue and metrics.
+
+1021
+40:06.422 --> 40:08.640
+(everyone laughing)
+
+1022
+40:08.640 --> 40:10.560
+<v ->We couldn't have a conversation without that.</v>
+
+1023
+40:10.560 --> 40:12.660
+Just slipping into the equation at some point.
+
+1024
+40:12.660 --> 40:15.480
+Okay, well we have gotten right up to the end of the time.
+
+1025
+40:15.480 --> 40:16.860
+I really want to thank all of you.
+
+1026
+40:16.860 --> 40:18.252
+This is great.
+
+1027
+40:18.252 --> 40:19.290
+I wish we had all day to talk about this.
+
+1028
+40:19.290 --> 40:20.520
+I could.
+
+1029
+40:20.520 --> 40:22.410
+Sadly, that tells you what kind of a geek I am.
+
+1030
+40:22.410 --> 40:24.865
+But really great topic, fascinating topic.
+
+1031
+40:24.865 --> 40:28.740
+I think a great way to end the conference.
+
+1032
+40:28.740 --> 40:31.170
+And I wanna say thank you to CTA and CES.
+
+1033
+40:31.170 --> 40:33.180
+This has been a great event year after year.
+
+1034
+40:33.180 --> 40:34.680
+It's getting better every year.
+
+1035
+40:34.680 --> 40:37.380
+So big warm applause I think for the panel
+
+1036
+40:37.380 --> 40:39.810
+and to the CTA and CES.
+
+1037
+40:39.810 --> 40:40.960
+<v ->And the audience.</v>
+
+1038
+40:40.960 --> 40:42.740
+(everybody clapping)
+
+1039
+40:42.740 --> 40:45.407
+(upbeat music)
+

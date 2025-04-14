@@ -1,0 +1,2763 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.171 --> 00:02.754
+(upbeat music)
+
+00:10.680 --> 00:14.070
+<v Daniel>Hello everyone, and welcome back from lunch.</v>
+
+00:14.070 --> 00:16.260
+We've got a great panel here, and today,
+
+00:16.260 --> 00:18.720
+we're gonna be talking about energy management
+
+00:18.720 --> 00:19.923
+and the demand for that.
+
+00:22.410 --> 00:25.080
+And I'd like to start off by thanking our sponsors again
+
+00:25.080 --> 00:26.100
+for your generous support.
+
+00:26.100 --> 00:28.893
+We couldn't put on a summit like this without you.
+
+00:30.111 --> 00:32.160
+For today, we're gonna be talking a lot
+
+00:32.160 --> 00:35.250
+about energy management highlighted by Schneider Electric,
+
+00:35.250 --> 00:37.170
+and we're talking about the demand
+
+00:37.170 --> 00:38.400
+for energy management home.
+
+00:38.400 --> 00:39.900
+Afterwards, we'll have a networking break,
+
+00:39.900 --> 00:41.430
+and then we'll talk about multifamily
+
+00:41.430 --> 00:42.730
+with my colleague Kristen.
+
+00:45.180 --> 00:46.350
+So to start off with,
+
+00:46.350 --> 00:49.500
+I wanna talk about the great energy squeeze.
+
+00:49.500 --> 00:51.870
+American consumers have been used
+
+00:51.870 --> 00:53.010
+to lower electricity rates
+
+00:53.010 --> 00:55.020
+than the rest of the world for many years.
+
+00:55.020 --> 00:56.700
+But over the last five years,
+
+00:56.700 --> 00:58.950
+we've started to see an increase in energy.
+
+00:58.950 --> 01:02.520
+So much so that two thirds of internet households
+
+01:02.520 --> 01:06.330
+in our data say that their costs are too high,
+
+01:06.330 --> 01:09.660
+and no one, not even the wealthy, are exempt from this.
+
+01:09.660 --> 01:13.380
+Only 12% say that costs are not enough
+
+01:13.380 --> 01:15.000
+to make them concerned.
+
+01:15.000 --> 01:18.780
+And one third are actively working to reduce their,
+
+01:18.780 --> 01:21.390
+or want to reduce their energy consumption at home,
+
+01:21.390 --> 01:22.413
+but don't know how.
+
+01:25.290 --> 01:28.560
+And we think that devices are a good way
+
+01:28.560 --> 01:30.480
+for people to manage their energy.
+
+01:30.480 --> 01:32.640
+We're starting to see the possibility
+
+01:32.640 --> 01:34.290
+of different energy management devices
+
+01:34.290 --> 01:37.680
+that can be set to work together
+
+01:37.680 --> 01:42.180
+and be turned back to save energy when costs are too high.
+
+01:42.180 --> 01:44.920
+And we have asked in our research
+
+01:45.870 --> 01:48.510
+whether people have integrations
+
+01:48.510 --> 01:51.270
+with their smart devices into routines.
+
+01:51.270 --> 01:53.520
+40% say that they do.
+
+01:53.520 --> 01:55.680
+And we find that energy management
+
+01:55.680 --> 01:58.680
+is the primary routine type
+
+01:58.680 --> 02:00.780
+that they are looking to set up.
+
+02:00.780 --> 02:03.540
+29% say that they are looking at saving energy
+
+02:03.540 --> 02:04.890
+through their routines.
+
+02:04.890 --> 02:06.420
+Now one thing that's important to note is
+
+02:06.420 --> 02:09.810
+that one key energy saving device, smart thermostats,
+
+02:09.810 --> 02:12.360
+is only at 16% adoption today.
+
+02:12.360 --> 02:14.730
+So there's definitely a lot more that the industry needs
+
+02:14.730 --> 02:17.700
+to do to create adoption in those areas
+
+02:17.700 --> 02:21.060
+so that you can have things like demand response programs
+
+02:21.060 --> 02:23.760
+that can interact with that and save energy
+
+02:23.760 --> 02:26.733
+and also reduce the strain on the grid.
+
+02:27.750 --> 02:29.790
+So to talk more about this,
+
+02:29.790 --> 02:31.410
+we have my great panel here
+
+02:31.410 --> 02:32.837
+that's gonna be talking
+
+02:32.837 --> 02:34.649
+about innovations in energy management,
+
+02:34.649 --> 02:39.649
+the adoption is actually needed, and what's out there today.
+
+02:40.290 --> 02:42.120
+And we're gonna talk also about partnerships
+
+02:42.120 --> 02:44.550
+and ecosystem players.
+
+02:44.550 --> 02:46.530
+Is it important to partner with people?
+
+02:46.530 --> 02:47.850
+Who do you partner with?
+
+02:47.850 --> 02:49.350
+Exactly what is the process,
+
+02:49.350 --> 02:51.120
+and how do you split the profits?
+
+02:51.120 --> 02:54.060
+And then future directions in smart energy,
+
+02:54.060 --> 02:55.890
+what's hot, what's coming up,
+
+02:55.890 --> 02:58.683
+what should be on our radar for the future.
+
+03:00.720 --> 03:02.160
+So I have a great panel here
+
+03:02.160 --> 03:06.240
+with representatives from Duke Energy, Shelly, NRG,
+
+03:06.240 --> 03:08.430
+Schneider Electric, Resideo,
+
+03:08.430 --> 03:10.680
+and of course myself, Parks Associates.
+
+03:10.680 --> 03:13.230
+And we'll be talking a lot about energy management
+
+03:13.230 --> 03:14.700
+in the home today.
+
+03:14.700 --> 03:15.533
+To start off with,
+
+03:15.533 --> 03:17.760
+I wanted to have Lon introduce himself,
+
+03:17.760 --> 03:21.780
+tell us a little bit about you and what you do at Duke.
+
+03:21.780 --> 03:23.010
+<v Lon>Great, well thanks for having me.</v>
+
+03:23.010 --> 03:25.140
+And just briefly, Lon Huber,
+
+03:25.140 --> 03:27.870
+I lead up a lot of our customer solutions.
+
+03:27.870 --> 03:31.110
+So think all the pricing that a customer sees,
+
+03:31.110 --> 03:32.400
+the time of use rates,
+
+03:32.400 --> 03:35.790
+or TOU as you might hear on this panel,
+
+03:35.790 --> 03:37.110
+all of our economic development.
+
+03:37.110 --> 03:40.260
+So that's the data centers as well coming in
+
+03:40.260 --> 03:42.690
+as well as manufacturing our wholesale business,
+
+03:42.690 --> 03:44.940
+regulatory enablement, customer load analytics.
+
+03:44.940 --> 03:47.130
+So a lot of the fun things
+
+03:47.130 --> 03:49.800
+and the key is figuring out how to orchestrate it all
+
+03:49.800 --> 03:51.630
+so that we drive value for customers
+
+03:51.630 --> 03:54.183
+and try to keep their bills as low as possible.
+
+03:55.800 --> 03:56.633
+<v Daniel>Great.</v>
+
+03:56.633 --> 03:59.730
+And now Wolfgang, go ahead and introduce yourself.
+
+03:59.730 --> 04:00.900
+<v Wolfgang>Yeah, I'm Wolfgang Kirsch,</v>
+
+04:00.900 --> 04:03.540
+I'm the CEO of Shelly Group.
+
+04:03.540 --> 04:06.210
+Shelly is producing smart home devices
+
+04:06.210 --> 04:09.630
+with a strong focus on energy monitoring, energy saving.
+
+04:09.630 --> 04:10.950
+We are well known in Europe.
+
+04:10.950 --> 04:13.680
+We are still at the beginning in the United States,
+
+04:13.680 --> 04:16.080
+growing 40, 50% every year.
+
+04:16.080 --> 04:18.870
+A French journalist a week ago or two weeks ago said
+
+04:18.870 --> 04:21.750
+we will be a mini Schneider in the future,
+
+04:21.750 --> 04:25.170
+so looking to my left, and that's a great honor for us.
+
+04:25.170 --> 04:26.020
+Happy to be here.
+
+04:27.930 --> 04:28.763
+<v Daniel>Great.</v>
+
+04:28.763 --> 04:31.140
+And now Meghan, go ahead and introduce yourself.
+
+04:31.140 --> 04:35.190
+<v Meghan>Hello, Meghan McConomy. I am with NRG.</v>
+
+04:35.190 --> 04:37.530
+I lead the brand strategy
+
+04:37.530 --> 04:39.810
+for the consumer organization.
+
+04:39.810 --> 04:43.230
+And so that is our smart home brand, Vivint,
+
+04:43.230 --> 04:46.050
+but also working with our energy brands
+
+04:46.050 --> 04:47.430
+in competitive market.
+
+04:47.430 --> 04:49.773
+So that's gonna be in Texas in the east.
+
+04:50.670 --> 04:54.480
+My 12 years at NRG, I've had a number of different roles,
+
+04:54.480 --> 04:56.310
+really focused on energy management,
+
+04:56.310 --> 04:58.020
+so looking forward to this discussion.
+
+04:58.020 --> 04:59.070
+Thanks for having me.
+
+05:00.720 --> 05:03.390
+<v Daniel>And Poonam, go ahead and introduce yourself.</v>
+
+05:03.390 --> 05:06.450
+<v Poonam>Good afternoon everyone, I'm Poonam Narang,</v>
+
+05:06.450 --> 05:10.350
+and I lead the product management team at Schneider Electric
+
+05:10.350 --> 05:12.963
+for the residential segment in North America.
+
+05:14.190 --> 05:17.280
+And my focus is really all things residential
+
+05:17.280 --> 05:19.960
+from breakers to enclosures to panels
+
+05:21.150 --> 05:24.360
+across what exists today as well as
+
+05:24.360 --> 05:29.360
+how the industry is evolving into newer equipment
+
+05:29.606 --> 05:31.383
+as well as energy management.
+
+05:32.880 --> 05:35.310
+<v Daniel>Great. And now Michael.</v>
+
+05:35.310 --> 05:37.020
+<v Michael>All right, Michael Siemann,</v>
+
+05:37.020 --> 05:39.780
+I lead our Energy Sciences Team at Resideo
+
+05:39.780 --> 05:41.550
+as well as direct to technical efforts
+
+05:41.550 --> 05:43.140
+of our Grid Services Team.
+
+05:43.140 --> 05:45.480
+The Grid Services Team has been developing
+
+05:45.480 --> 05:47.670
+demand response and virtual power plant programs
+
+05:47.670 --> 05:49.440
+for over the last decade.
+
+05:49.440 --> 05:52.200
+And I'm gonna bring like an experience
+
+05:52.200 --> 05:53.820
+where I have both
+
+05:53.820 --> 05:56.760
+helping develop the energy management features
+
+05:56.760 --> 05:59.340
+that of customers use to help
+
+05:59.340 --> 06:01.920
+reduce their energy bills as well as
+
+06:01.920 --> 06:03.810
+managing those fleets of virtual power plants
+
+06:03.810 --> 06:06.030
+for utilities and energy markets.
+
+06:06.030 --> 06:07.260
+<v ->Great.</v>
+
+06:07.260 --> 06:09.780
+All right, well thank you so much to my panel
+
+06:09.780 --> 06:10.860
+for introducing themselves.
+
+06:10.860 --> 06:14.520
+I wanted to go ahead and start with the first question.
+
+06:14.520 --> 06:16.650
+We want to talk a lot about
+
+06:16.650 --> 06:21.450
+what the role is in energy management platforms,
+
+06:21.450 --> 06:23.370
+what tech is currently being used
+
+06:23.370 --> 06:26.070
+and how complicated the integrations are.
+
+06:26.070 --> 06:29.850
+So I'd like to direct that question to you first, Michael.
+
+06:29.850 --> 06:32.760
+<v ->All right, so energy management today</v>
+
+06:32.760 --> 06:36.150
+has kind of shifted from being traditionally about
+
+06:36.150 --> 06:39.630
+just energy reduction to a point now
+
+06:39.630 --> 06:41.820
+where it's about how do you shift energy,
+
+06:41.820 --> 06:43.800
+the energy usage at different times.
+
+06:43.800 --> 06:46.980
+So either driven by a time of use rate that you might have
+
+06:46.980 --> 06:50.280
+for electricity or part of a demand response,
+
+06:50.280 --> 06:52.110
+virtual power plant program,
+
+06:52.110 --> 06:54.330
+moving energy from the peak hours
+
+06:54.330 --> 06:56.280
+to off peak hours helps reduce strain
+
+06:56.280 --> 06:57.810
+on the electricity grid.
+
+06:57.810 --> 07:02.810
+And us at CES here, we know that customer's expecting them
+
+07:02.940 --> 07:06.510
+to do all this stuff on their own, take action.
+
+07:06.510 --> 07:07.800
+It's not realistic.
+
+07:07.800 --> 07:10.170
+So we're kind of challenged as
+
+07:10.170 --> 07:13.140
+technology providers to be able to automate,
+
+07:13.140 --> 07:15.300
+to put intelligence into these products
+
+07:15.300 --> 07:17.220
+so that way it gets it into the right position,
+
+07:17.220 --> 07:20.221
+and joining platforms is how to do that.
+
+07:20.221 --> 07:22.290
+Smart thermostats are the gateway
+
+07:22.290 --> 07:25.110
+kind of energy management product for customers.
+
+07:25.110 --> 07:27.930
+I mean there's tens of millions of them out there,
+
+07:27.930 --> 07:30.993
+as you said that 16% of them,
+
+07:33.600 --> 07:35.040
+that's the number that have been connected.
+
+07:35.040 --> 07:36.120
+So there's a lot of opportunities
+
+07:36.120 --> 07:38.580
+to get traditional thermostats connected.
+
+07:38.580 --> 07:42.090
+But yeah, what we see is having
+
+07:42.090 --> 07:45.480
+this controllable load available for utilities,
+
+07:45.480 --> 07:47.190
+customers are able to take control
+
+07:47.190 --> 07:49.170
+of their energy management ,
+
+07:49.170 --> 07:51.930
+control their bills and get to a position where
+
+07:51.930 --> 07:53.160
+they're helping out their community
+
+07:53.160 --> 07:56.400
+and able to provide multiple value for everyone involved.
+
+07:56.400 --> 07:57.480
+<v ->Yeah, yeah, that's great.</v>
+
+07:57.480 --> 07:58.890
+And definitely, like I said,
+
+07:58.890 --> 08:02.370
+our data does show that a significant amount
+
+08:02.370 --> 08:05.400
+of consumers do want to be able to manage their energy,
+
+08:05.400 --> 08:06.660
+but they just don't know how.
+
+08:06.660 --> 08:09.780
+And I don't think that we have enough marketing around that
+
+08:09.780 --> 08:13.200
+and exactly enough education for consumers.
+
+08:13.200 --> 08:14.127
+But I do know that
+
+08:14.127 --> 08:15.810
+it's a little bit different in Europe,
+
+08:15.810 --> 08:17.100
+and I don't know if you could talk a little bit
+
+08:17.100 --> 08:19.113
+about that, Wolfgang.
+
+08:19.113 --> 08:20.970
+<v ->Yes, in Europe,</v>
+
+08:20.970 --> 08:23.820
+energy prices are much higher than they are in the US.
+
+08:23.820 --> 08:26.430
+I personally paid 45 euro cents last year
+
+08:26.430 --> 08:30.750
+for my energy per kilowatt hour, which is quite expensive.
+
+08:30.750 --> 08:35.100
+And then customers automatically start to check
+
+08:35.100 --> 08:37.170
+where are they consuming their energy,
+
+08:37.170 --> 08:38.580
+how much are they consuming?
+
+08:38.580 --> 08:41.130
+And especially with our products quite affordable,
+
+08:41.130 --> 08:43.350
+they usually start with one or two devices
+
+08:43.350 --> 08:46.170
+with a central energy meter.
+
+08:46.170 --> 08:48.090
+They find out how much their apartment
+
+08:48.090 --> 08:50.730
+or their house is consuming when they're not at home,
+
+08:50.730 --> 08:53.820
+they start to ask themselves, where's this coming from?
+
+08:53.820 --> 08:56.700
+They put simple devices behind a wall switch
+
+08:56.700 --> 09:00.150
+or a plug in between to figure out what is the next step,
+
+09:00.150 --> 09:01.500
+and this is how it started.
+
+09:01.500 --> 09:03.510
+And that took off two years ago
+
+09:03.510 --> 09:05.610
+with the high energy prices like crazy.
+
+09:05.610 --> 09:08.520
+And now what we see is a boom of solar systems,
+
+09:08.520 --> 09:10.470
+especially popular in Germany
+
+09:10.470 --> 09:13.110
+and in other countries are very small systems
+
+09:13.110 --> 09:14.490
+that people put on their balcony,
+
+09:14.490 --> 09:16.510
+so-called balcony power stations
+
+09:18.007 --> 09:20.040
+that just deliver a small proportion of the energy
+
+09:20.040 --> 09:23.490
+that they need and the big systems of course as well.
+
+09:23.490 --> 09:27.750
+And then they as well start to use the energy
+
+09:27.750 --> 09:28.583
+that they have,
+
+09:28.583 --> 09:30.180
+find out now the batteries are full,
+
+09:30.180 --> 09:32.340
+what can I do with the excess of energy.
+
+09:32.340 --> 09:34.890
+Now I switch on my air condition, now I charge my car.
+
+09:34.890 --> 09:38.280
+That's similar to the US, but the attention is much higher,
+
+09:38.280 --> 09:40.380
+and it needs less education
+
+09:40.380 --> 09:41.820
+because they start to ask question
+
+09:41.820 --> 09:43.590
+because simply it hurts,
+
+09:43.590 --> 09:45.930
+45 euro cent hurts, now it's a bit down.
+
+09:45.930 --> 09:48.450
+And immediately we feel that
+
+09:48.450 --> 09:51.069
+as well the attention goes a little bit down,
+
+09:51.069 --> 09:53.790
+but it has as well to do with how much do I have to pay
+
+09:53.790 --> 09:57.300
+for such a system and how fast is the amortization time
+
+09:57.300 --> 09:58.350
+with these low prices?
+
+09:58.350 --> 10:00.390
+And that's something that really helps,
+
+10:00.390 --> 10:03.450
+and I think that that it has to hurt
+
+10:03.450 --> 10:06.540
+to a certain degree if we wanna change our habits.
+
+10:06.540 --> 10:09.360
+<v ->Yeah, I think that that's instrumental in the fact</v>
+
+10:09.360 --> 10:11.370
+that the European market has really adopted
+
+10:11.370 --> 10:12.720
+a lot of energy technology
+
+10:12.720 --> 10:15.620
+ahead of like the US market, even now,
+
+10:15.620 --> 10:17.490
+like I saw recently Homey had some release
+
+10:17.490 --> 10:20.220
+for energy monitoring that's really compatible
+
+10:20.220 --> 10:21.630
+with European devices,
+
+10:21.630 --> 10:22.920
+and I was thinking it'd be great
+
+10:22.920 --> 10:24.300
+to have that here in the US too.
+
+10:24.300 --> 10:25.440
+I think we'll get there eventually,
+
+10:25.440 --> 10:29.940
+but yeah, so I wanted to get also a sense of like,
+
+10:29.940 --> 10:32.247
+from Meghan, what do you think the benefits are
+
+10:32.247 --> 10:34.440
+for consumers, utility companies,
+
+10:34.440 --> 10:36.450
+and technology providers?
+
+10:36.450 --> 10:39.003
+<v ->So from a consumer perspective,</v>
+
+10:40.020 --> 10:42.870
+part of the approach we do at NRG
+
+10:42.870 --> 10:44.940
+but in the competitive market specifically
+
+10:44.940 --> 10:47.760
+because it's such a a competitive market,
+
+10:47.760 --> 10:50.640
+lots of competitors we need to differentiate is really
+
+10:50.640 --> 10:51.810
+talk to consumers.
+
+10:51.810 --> 10:53.580
+What do they want, what do they want
+
+10:53.580 --> 10:58.050
+out of these energy management companies and offerings?
+
+10:58.050 --> 11:00.300
+And like Daniel said,
+
+11:00.300 --> 11:02.940
+savings obviously rises to the top,
+
+11:02.940 --> 11:05.610
+but another benefit is really around convenience.
+
+11:05.610 --> 11:09.480
+And so Michael talked about time of use plans specifically,
+
+11:09.480 --> 11:12.270
+and what we learned was you can talk about time of use
+
+11:12.270 --> 11:15.720
+and you can talk about shifting energy to consumers,
+
+11:15.720 --> 11:17.610
+but they don't really know what that means
+
+11:17.610 --> 11:19.530
+and it's not convenient for them.
+
+11:19.530 --> 11:22.050
+And so what we did is we developed products
+
+11:22.050 --> 11:23.280
+that were easy to understand,
+
+11:23.280 --> 11:26.850
+this was years ago, like free weekends or free nights,
+
+11:26.850 --> 11:29.340
+these are time of use products
+
+11:29.340 --> 11:32.640
+that customers can really understand
+
+11:32.640 --> 11:34.770
+and take action around to save money.
+
+11:34.770 --> 11:39.180
+So that was a way to really marry savings and convenience.
+
+11:39.180 --> 11:41.430
+Another offering that we've got
+
+11:41.430 --> 11:44.550
+that we just started piloting was really getting
+
+11:44.550 --> 11:46.830
+some of that technology into the home
+
+11:46.830 --> 11:48.990
+to make it easy for consumers to save.
+
+11:48.990 --> 11:52.230
+So installing thermostats for free,
+
+11:52.230 --> 11:54.270
+but also including doorbell cameras,
+
+11:54.270 --> 11:56.700
+and so bundling that for energy customers.
+
+11:56.700 --> 11:58.830
+And we've started to see some traction there,
+
+11:58.830 --> 12:00.840
+and we're excited about kind of
+
+12:00.840 --> 12:03.030
+how that adoption is really starting
+
+12:03.030 --> 12:05.520
+to move forward as a result.
+
+12:05.520 --> 12:06.630
+<v ->Yeah, yeah, that's very great.</v>
+
+12:06.630 --> 12:09.090
+It's like the bundling thing is very interesting too,
+
+12:09.090 --> 12:12.270
+because that does create a bit more value for the consumers
+
+12:12.270 --> 12:13.683
+and helps get them on board.
+
+12:14.940 --> 12:17.700
+So I wanted to talk to Lon about like
+
+12:17.700 --> 12:20.160
+providing sort of examples of some of these short-term
+
+12:20.160 --> 12:21.900
+and long-term energy savings achieved
+
+12:21.900 --> 12:25.023
+through a home energy management system.
+
+12:26.539 --> 12:27.690
+<v ->Well it gets into the patchwork</v>
+
+12:27.690 --> 12:29.100
+of the electricity sector,
+
+12:29.100 --> 12:31.500
+which is a very complicated industry,
+
+12:31.500 --> 12:35.600
+needs a translation to the end consumer
+
+12:35.600 --> 12:37.083
+in a lot of different ways.
+
+12:37.980 --> 12:41.310
+But you heard about competitive markets,
+
+12:41.310 --> 12:46.080
+there's regulated markets, there's public, there's co-ops,
+
+12:46.080 --> 12:50.283
+sometimes a state will have a mix of all four within it.
+
+12:51.535 --> 12:55.080
+And so each of those models presents different types
+
+12:55.080 --> 12:57.900
+of value propositions to the customer.
+
+12:57.900 --> 13:02.460
+So maybe at the front end you could see an upfront incentive
+
+13:02.460 --> 13:07.460
+if the customer buys a device or enrolls a device.
+
+13:08.310 --> 13:12.600
+So that's upfront, maybe it's a bill credit
+
+13:12.600 --> 13:14.130
+or another way to do it.
+
+13:14.130 --> 13:15.960
+And then there's longer term savings
+
+13:15.960 --> 13:18.930
+where maybe it's the rate optimization,
+
+13:18.930 --> 13:22.230
+so time of use rate optimization with that device
+
+13:22.230 --> 13:24.990
+and then ongoing credits for enrollment,
+
+13:24.990 --> 13:28.890
+or it's a aggregation of customer resources
+
+13:28.890 --> 13:31.920
+and it pulls some revenue in from the wholesale market,
+
+13:31.920 --> 13:35.880
+which is more similar to a European style transaction.
+
+13:35.880 --> 13:39.010
+So there's all different ways that these value streams
+
+13:40.260 --> 13:41.250
+can reach consumer,
+
+13:41.250 --> 13:43.470
+and then to make matters even more complicated,
+
+13:43.470 --> 13:45.270
+it also depends on what portion
+
+13:45.270 --> 13:47.730
+of the grid you're providing value to.
+
+13:47.730 --> 13:49.980
+So if you're providing value to power plants
+
+13:49.980 --> 13:52.290
+that are centralized versus the wires
+
+13:52.290 --> 13:53.850
+that are in your neighborhood,
+
+13:53.850 --> 13:55.920
+those are two different systems
+
+13:55.920 --> 13:57.840
+and two different types of value streams
+
+13:57.840 --> 14:00.330
+that you can get from them.
+
+14:00.330 --> 14:03.480
+And so you could see in some markets you get a program
+
+14:03.480 --> 14:07.290
+for the wires and you get another program for the generator
+
+14:07.290 --> 14:09.450
+and how those interface could be different.
+
+14:09.450 --> 14:11.850
+So not to make it overly complex,
+
+14:11.850 --> 14:14.760
+but there's a variety of different value streams.
+
+14:14.760 --> 14:16.590
+Some are upfront, some are ongoing,
+
+14:16.590 --> 14:18.543
+some are fixed, some are variable.
+
+14:19.500 --> 14:20.940
+<v ->Yeah. Thank you for that, Lon.</v>
+
+14:20.940 --> 14:22.590
+Yeah, I think it's really interesting too that
+
+14:22.590 --> 14:24.510
+with like the bill credit,
+
+14:24.510 --> 14:29.280
+our research finds that incentives are an appealing reason
+
+14:29.280 --> 14:31.830
+for like demand response participation,
+
+14:31.830 --> 14:34.920
+and that for 80%, it's appealing to have a bill credit.
+
+14:34.920 --> 14:38.070
+So it's really important to have an incentive
+
+14:38.070 --> 14:41.010
+that really brings that home for consumers,
+
+14:41.010 --> 14:43.650
+but it does have to be enough for consumers to participate
+
+14:43.650 --> 14:47.070
+and get over the hump of not wanting
+
+14:47.070 --> 14:49.503
+to lose control of their devices.
+
+14:51.360 --> 14:55.020
+So I wanted to ask for Poonam,
+
+14:55.020 --> 14:58.180
+do you think that these are only for new homes
+
+14:59.239 --> 15:01.860
+or were there requirements for the investments
+
+15:01.860 --> 15:03.873
+especially like for like retrofits?
+
+15:05.055 --> 15:08.890
+<v ->Yeah, so at the end of the day today when we look at</v>
+
+15:10.864 --> 15:15.864
+the demand for energy within the utilities,
+
+15:16.080 --> 15:18.870
+that demand for energy has increased significantly
+
+15:18.870 --> 15:20.430
+over the last two years.
+
+15:20.430 --> 15:25.080
+And so while homes contribute towards 20%
+
+15:25.080 --> 15:26.670
+of the greenhouse gas,
+
+15:26.670 --> 15:30.600
+the energy prices have been continuously increasing.
+
+15:30.600 --> 15:34.980
+And so for us to really accelerate the energy transition,
+
+15:34.980 --> 15:38.370
+it's important that we look at the homes
+
+15:38.370 --> 15:42.450
+that are already built versus only new builds, right?
+
+15:42.450 --> 15:45.360
+We have almost 80% of the homes today
+
+15:45.360 --> 15:47.520
+that are built before 1980.
+
+15:47.520 --> 15:50.700
+We have 40 million homes today
+
+15:50.700 --> 15:54.690
+that are having electrical infrastructure in the homes
+
+15:54.690 --> 15:56.890
+that are not necessarily ready
+
+15:59.585 --> 16:01.350
+to consume more of the electrification, right?
+
+16:01.350 --> 16:05.670
+So adding EVs, adding heat pumps, so on and so forth.
+
+16:05.670 --> 16:07.410
+And so it's important
+
+16:07.410 --> 16:12.030
+and almost a responsibility for us as technology providers
+
+16:12.030 --> 16:15.480
+to be able to support the upgrade
+
+16:15.480 --> 16:17.880
+of the infrastructure within the home
+
+16:17.880 --> 16:20.880
+to enable for this greater electrification.
+
+16:20.880 --> 16:23.283
+And so no it can be new builds only,
+
+16:24.810 --> 16:27.450
+it needs to include and incorporate the retrofits.
+
+16:27.450 --> 16:30.330
+And now from a consumer perspective,
+
+16:30.330 --> 16:33.210
+it's almost like I need to know before I can do something.
+
+16:33.210 --> 16:35.760
+And we are seeing that a large part
+
+16:35.760 --> 16:37.710
+of the consumers in our surveys,
+
+16:37.710 --> 16:41.070
+you've seen more than 50% of the consumers,
+
+16:41.070 --> 16:46.000
+they want to know how much energy is being consumed
+
+16:48.282 --> 16:50.220
+by the various loads within their homes.
+
+16:50.220 --> 16:53.940
+And you can only control if you know, so once you know,
+
+16:53.940 --> 16:55.440
+that's step one, you got to be able
+
+16:55.440 --> 16:59.700
+to measure the energy consumption within your home.
+
+16:59.700 --> 17:03.093
+And Schneider's energy monitor enables you to do that.
+
+17:04.440 --> 17:07.650
+Now in terms of really upgrading the infrastructure,
+
+17:07.650 --> 17:09.930
+it's not necessarily an all or nothing, right?
+
+17:09.930 --> 17:12.240
+It can be incremental starting
+
+17:12.240 --> 17:15.510
+with something like an energy monitor,
+
+17:15.510 --> 17:19.560
+and then incrementing from there maybe a smart technology
+
+17:19.560 --> 17:21.300
+inside the panel to enable you
+
+17:21.300 --> 17:24.060
+to control the loads within the home itself.
+
+17:24.060 --> 17:25.680
+Now from a price point really
+
+17:25.680 --> 17:29.130
+that varies depending on the type of infrastructure
+
+17:29.130 --> 17:31.380
+that you've already got in the home
+
+17:31.380 --> 17:33.690
+and the type of load that you want to add,
+
+17:33.690 --> 17:35.643
+whether it be an EV, EV charger,
+
+17:37.650 --> 17:41.853
+or whether it be a heat pump or a HVAC,
+
+17:43.032 --> 17:46.080
+it really depends on the type of load you wanna add.
+
+17:46.080 --> 17:50.040
+But it can be anywhere from 400 to upwards of $3,000.
+
+17:50.040 --> 17:53.220
+But then there are tons of incentives as well that
+
+17:53.220 --> 17:54.570
+the utilities are providing
+
+17:54.570 --> 17:56.733
+for more electrification in the homes.
+
+17:57.570 --> 17:58.920
+<v ->Yeah, very interesting.</v>
+
+17:58.920 --> 18:01.770
+When it comes to installing in these homes too,
+
+18:01.770 --> 18:05.100
+I wonder if it's more DIY versus pro,
+
+18:05.100 --> 18:08.340
+if there's sort of any thoughts on that?
+
+18:08.340 --> 18:10.120
+I don't know if Wolfgang, you could speak to that.
+
+18:10.120 --> 18:11.820
+<v ->Yeah, of course.</v>
+
+18:11.820 --> 18:14.820
+We are doing 70 to 80%
+
+18:14.820 --> 18:17.910
+of our revenue with do it yourself customers.
+
+18:17.910 --> 18:21.480
+So they are able to install the solution very easy at home.
+
+18:21.480 --> 18:25.410
+Everyone who can change a power socket in the wall,
+
+18:25.410 --> 18:28.770
+buys that in a Home Depot can install Shelly.
+
+18:28.770 --> 18:30.070
+So that's a big advantage.
+
+18:30.930 --> 18:33.150
+And as well, coming back to the infrastructure,
+
+18:33.150 --> 18:34.980
+I think in Europe in most of the countries,
+
+18:34.980 --> 18:37.140
+the infrastructure is okay,
+
+18:37.140 --> 18:39.930
+but if you wanna install a central system
+
+18:39.930 --> 18:42.510
+for energy monitoring per device and per room,
+
+18:42.510 --> 18:44.130
+you need new wiring.
+
+18:44.130 --> 18:45.180
+With our devices,
+
+18:45.180 --> 18:47.280
+and that's what most customers really love,
+
+18:47.280 --> 18:48.900
+you don't need new wiring at all.
+
+18:48.900 --> 18:53.460
+You can do this room by room, switch by switch,
+
+18:53.460 --> 18:55.890
+the functionality of the device stays exactly the same.
+
+18:55.890 --> 18:57.510
+And that's what customers really love.
+
+18:57.510 --> 18:58.530
+We know from our data
+
+18:58.530 --> 19:01.230
+that a typical average Shelly customer starts
+
+19:01.230 --> 19:05.010
+with two devices and then adds two devices per year,
+
+19:05.010 --> 19:06.450
+which is very slow,
+
+19:06.450 --> 19:09.750
+but step by step they are making their homes smart
+
+19:09.750 --> 19:10.890
+and monitor the energy
+
+19:10.890 --> 19:12.990
+because we saw, as I already said,
+
+19:12.990 --> 19:15.060
+we saw with the increase of the energy prices,
+
+19:15.060 --> 19:17.640
+we saw a move from the same device
+
+19:17.640 --> 19:20.340
+that is not monitoring the energy to the device
+
+19:20.340 --> 19:22.110
+that is monitoring the energy, it's the same device,
+
+19:22.110 --> 19:23.880
+just one euro more expensive.
+
+19:23.880 --> 19:26.850
+It's almost 100% now with energy monitoring,
+
+19:26.850 --> 19:29.280
+the others are more or less gone,
+
+19:29.280 --> 19:31.560
+easy to install, relatively cheap.
+
+19:31.560 --> 19:35.400
+And with our devices for a couple of hundred euros,
+
+19:35.400 --> 19:38.970
+you make your whole home smart, including everything,
+
+19:38.970 --> 19:40.530
+can go up to a couple of thousand
+
+19:40.530 --> 19:42.480
+if you have a big villa or whatever.
+
+19:42.480 --> 19:45.060
+But most of the buildings are old.
+
+19:45.060 --> 19:48.150
+So the the new constructions are not that much,
+
+19:48.150 --> 19:50.970
+and that's a solution that customers really appreciate,
+
+19:50.970 --> 19:53.700
+and they have the full cost control as well
+
+19:53.700 --> 19:57.030
+doing this step by step and doing this on their own.
+
+19:57.030 --> 19:58.350
+<v ->Yeah, yeah, very good.</v>
+
+19:58.350 --> 20:01.800
+And of course whether we're talking about pro or DIY,
+
+20:01.800 --> 20:05.100
+one of the things we have to consider too is that
+
+20:05.100 --> 20:06.810
+the stakeholders involved in this,
+
+20:06.810 --> 20:08.010
+like on the stage for example,
+
+20:08.010 --> 20:11.940
+we have both utilities and device manufacturers represented.
+
+20:11.940 --> 20:13.800
+And so I wanna talk a little bit about like partnerships
+
+20:13.800 --> 20:17.790
+and ecosystem players, partnerships necessary,
+
+20:17.790 --> 20:21.843
+and what are the best partnerships to have?
+
+20:22.890 --> 20:25.470
+Poonam, I'd like you to address that if you could.
+
+20:25.470 --> 20:27.420
+<v ->Yeah, I think that's a great question</v>
+
+20:27.420 --> 20:30.030
+and we had great panels this morning
+
+20:30.030 --> 20:32.430
+by the way for those of you that had attended,
+
+20:32.430 --> 20:34.890
+I think this was also touched on in the morning
+
+20:34.890 --> 20:39.890
+that at the end of the day for the amount power
+
+20:40.800 --> 20:44.430
+that we need with the growth in demand,
+
+20:44.430 --> 20:48.060
+the energy transition needs to be accelerated.
+
+20:48.060 --> 20:53.060
+And if we try to do this as technologists all by ourselves,
+
+20:53.670 --> 20:55.470
+this is a slow process.
+
+20:55.470 --> 20:59.520
+So it is extremely important that as an industry,
+
+20:59.520 --> 21:01.920
+we work together collaboratively
+
+21:01.920 --> 21:04.410
+to drive this forward in an accelerated manner.
+
+21:04.410 --> 21:07.110
+And so partnerships are absolutely important.
+
+21:07.110 --> 21:09.600
+From a Schneider Electric perspective,
+
+21:09.600 --> 21:12.030
+we've got various types of partnerships, right?
+
+21:12.030 --> 21:15.990
+So we co-develop with partners.
+
+21:15.990 --> 21:18.960
+We also have partners we have invested in
+
+21:18.960 --> 21:21.903
+like Qmerit, Energy Sage, Applied,
+
+21:22.980 --> 21:26.940
+and they kind of touch across various parts
+
+21:26.940 --> 21:28.023
+of the value chain.
+
+21:29.100 --> 21:32.010
+And then we've also partnered with builders, right?
+
+21:32.010 --> 21:34.857
+So we've got an installation with
+
+21:34.857 --> 21:38.070
+and a strategic partnership with KB Homes,
+
+21:38.070 --> 21:42.330
+one of the large US builders where in California,
+
+21:42.330 --> 21:47.330
+we've installed KB Home partnered with Schneider Electric
+
+21:47.910 --> 21:52.260
+with Southern California as well as
+
+21:52.260 --> 21:54.510
+with University of California
+
+21:54.510 --> 21:59.510
+to drive energy-efficient homes, 200 homes in California.
+
+22:01.620 --> 22:04.620
+And this is with solar in each home
+
+22:04.620 --> 22:09.270
+with batteries in each home as well as a microgrid
+
+22:09.270 --> 22:11.790
+with a community battery.
+
+22:11.790 --> 22:16.170
+And they saw almost 40% reduction
+
+22:16.170 --> 22:17.793
+in energy consumption.
+
+22:18.840 --> 22:23.840
+They have cumulatively, for the homeowners,
+
+22:24.210 --> 22:26.880
+saved more than 800 million
+
+22:26.880 --> 22:30.690
+in revenue coming from energy savings,
+
+22:30.690 --> 22:32.820
+and from a CO2 reduction perspective,
+
+22:32.820 --> 22:37.560
+it's almost equal to 606,000 gas powered cars.
+
+22:37.560 --> 22:40.770
+So together as an industry, when we work together,
+
+22:40.770 --> 22:42.990
+we can make truly a large impact,
+
+22:42.990 --> 22:45.723
+both for the consumer as well as for the planet.
+
+22:46.620 --> 22:48.488
+<v ->Yeah, that's interesting.</v>
+
+22:48.488 --> 22:49.340
+It's also interesting to know that
+
+22:49.340 --> 22:52.020
+if you have these partnerships with home builders,
+
+22:52.020 --> 22:54.360
+but there's also, when it comes to partnerships,
+
+22:54.360 --> 22:57.330
+there's also solar they can install in these homes too.
+
+22:57.330 --> 23:00.540
+Wolfgang, could you talk a little bit about the solar angle?
+
+23:00.540 --> 23:04.170
+<v ->Yes, that is something that is really, really helpful.</v>
+
+23:04.170 --> 23:07.140
+We have almost with all solar panel producers,
+
+23:07.140 --> 23:09.003
+we have very close partnerships.
+
+23:09.960 --> 23:13.050
+Most of them just happened because they picked us,
+
+23:13.050 --> 23:15.390
+they integrated us in their solution,
+
+23:15.390 --> 23:17.190
+and they recommend us.
+
+23:17.190 --> 23:20.010
+And then it starts with the simple monitoring
+
+23:20.010 --> 23:23.760
+of how much energy is my solar system producing?
+
+23:23.760 --> 23:26.520
+The homeowner knows that's the energy that I have.
+
+23:26.520 --> 23:29.580
+And then they make the step-by-step integration afterwards.
+
+23:29.580 --> 23:32.700
+That's really helpful, and we are considered
+
+23:32.700 --> 23:36.180
+to be something like the standard for doing this together
+
+23:36.180 --> 23:38.130
+with solar panel producers in Europe.
+
+23:38.130 --> 23:39.510
+That's really helpful.
+
+23:39.510 --> 23:44.010
+But if I can add something to the builders,
+
+23:44.010 --> 23:45.360
+what we see in Europe,
+
+23:45.360 --> 23:47.790
+and I don't know if this is the same in the United States,
+
+23:47.790 --> 23:50.790
+if you have professional installers,
+
+23:50.790 --> 23:53.070
+the electricians installing devices,
+
+23:53.070 --> 23:55.740
+I would today say that 90% of them
+
+23:55.740 --> 24:00.597
+have no idea how to install something that is smart, 90%.
+
+24:02.170 --> 24:04.620
+So if you talk to them about something that is smart,
+
+24:04.620 --> 24:06.810
+if this is Schneider or if this is Shelly,
+
+24:06.810 --> 24:07.643
+the first thing they say,
+
+24:07.643 --> 24:09.123
+"What, this has an IP address?
+
+24:09.960 --> 24:12.120
+Let's put the old wires."
+
+24:12.120 --> 24:13.860
+And this is something that we have to break through
+
+24:13.860 --> 24:16.800
+where we are investing a lot in training them,
+
+24:16.800 --> 24:18.480
+in helping them to do that
+
+24:18.480 --> 24:20.190
+because they simply don't understand
+
+24:20.190 --> 24:23.490
+this will need a generation of new installers
+
+24:23.490 --> 24:25.560
+with a completely different mindset
+
+24:25.560 --> 24:27.300
+that are able to do that.
+
+24:27.300 --> 24:31.890
+So the solar installers, they are miles ahead.
+
+24:31.890 --> 24:34.560
+The traditional guys, they are really, really behind,
+
+24:34.560 --> 24:36.660
+and they wanna put their two or three cables
+
+24:36.660 --> 24:38.640
+in the wall and that's it.
+
+24:38.640 --> 24:40.140
+<v ->Yeah, that does beg the question</v>
+
+24:40.140 --> 24:43.410
+of whether solar installers need to be electricians
+
+24:43.410 --> 24:44.640
+or if they do not need to be
+
+24:44.640 --> 24:48.870
+if that helps with that particular value proposition.
+
+24:48.870 --> 24:51.150
+<v ->I think this is a new business</v>
+
+24:51.150 --> 24:54.390
+and that has new people and they have a new mindset,
+
+24:54.390 --> 24:58.590
+and that is something that completely changes the setup.
+
+24:58.590 --> 25:01.620
+So if someone did the same job 40 years long
+
+25:01.620 --> 25:04.020
+and says in five years I will retire anyhow,
+
+25:04.020 --> 25:06.180
+I don't want to learn that, it's too complicated,
+
+25:06.180 --> 25:09.120
+I might have to come back because something is not working.
+
+25:09.120 --> 25:12.390
+And that's one of the problems that we see there.
+
+25:12.390 --> 25:15.570
+<v ->Well it's funny is I had a great early Christmas present</v>
+
+25:15.570 --> 25:18.500
+of my HVAC system going out,
+
+25:18.500 --> 25:20.467
+and so I talked to the technician, I'm like,
+
+25:20.467 --> 25:22.517
+"Hey, I'd like to get a smart thermostat"
+
+25:23.711 --> 25:26.160
+and there should be a rebate from the local utility, right?
+
+25:26.160 --> 25:27.620
+And he's like, "Yeah, but you don't want
+
+25:27.620 --> 25:29.280
+to get a smart thermostat,
+
+25:29.280 --> 25:32.880
+it is going to also hurt the life of your system
+
+25:32.880 --> 25:34.710
+and like all these falsehoods."
+
+25:34.710 --> 25:36.960
+And I was like, not only could they not do it,
+
+25:36.960 --> 25:38.580
+but they're actively against it.
+
+25:38.580 --> 25:41.310
+And that's part of the challenge.
+
+25:41.310 --> 25:43.500
+<v ->Yeah, yeah. Very interesting.</v>
+
+25:43.500 --> 25:47.580
+I also wanna get kind of sort of a view
+
+25:47.580 --> 25:50.340
+of partnerships from both the utility perspective
+
+25:50.340 --> 25:52.590
+and the device manufacturer perspective.
+
+25:52.590 --> 25:56.400
+And so what are some examples
+
+25:56.400 --> 25:57.720
+of some successful collaborations
+
+25:57.720 --> 26:00.630
+between utility companies and smart home providers?
+
+26:00.630 --> 26:03.840
+And I'll lead off with Meghan to answer that.
+
+26:03.840 --> 26:07.001
+<v ->Well, I'll echo what Poonam said.</v>
+
+26:07.001 --> 26:10.530
+Just general increases in demand for electricity
+
+26:10.530 --> 26:14.520
+and energy is really requiring these strategic partnerships.
+
+26:14.520 --> 26:18.570
+And so an example of one in Texas that was just announced
+
+26:18.570 --> 26:20.970
+between NRG and Renew Home
+
+26:20.970 --> 26:24.660
+and Google is going to enable the building
+
+26:24.660 --> 26:29.660
+of a virtual power plant or VPP in Texas.
+
+26:29.760 --> 26:31.020
+So we're excited about that,
+
+26:31.020 --> 26:33.750
+but it is really requiring that partnership
+
+26:33.750 --> 26:36.450
+so that we can scale to make the impact
+
+26:36.450 --> 26:38.910
+that we need to in Texas specifically.
+
+26:38.910 --> 26:40.740
+And so from an NRG perspective,
+
+26:40.740 --> 26:43.740
+we've got the supply management expertise
+
+26:43.740 --> 26:46.230
+that we bring as well as our energy brands
+
+26:46.230 --> 26:49.080
+and customers that we bring to the program.
+
+26:49.080 --> 26:52.383
+And then from a Google and a Renew Home standpoint,
+
+26:53.256 --> 26:54.870
+they've got energy management capabilities
+
+26:54.870 --> 26:56.040
+that we'll be leveraging.
+
+26:56.040 --> 26:58.770
+So that bundle I had mentioned
+
+26:58.770 --> 27:00.300
+around the thermostat and doorbell,
+
+27:00.300 --> 27:04.440
+that's really speaking to customers getting that adoption.
+
+27:04.440 --> 27:06.900
+The key is really to get customer engagement
+
+27:06.900 --> 27:10.650
+so that we've got a scalable successful VPP.
+
+27:10.650 --> 27:12.993
+And so that's one example of a partnership.
+
+27:15.870 --> 27:18.030
+<v ->Michael, would you also care to weigh in?</v>
+
+27:18.030 --> 27:23.030
+I know that Resideo has a demand, sorry, a DERMS platform,
+
+27:24.661 --> 27:27.120
+and that that really is very useful to work with utilities.
+
+27:27.120 --> 27:29.280
+So tell me a little bit more about how that works.
+
+27:29.280 --> 27:30.750
+<v ->Yeah, so a piece in the puzzle</v>
+
+27:30.750 --> 27:32.490
+as Meghan was just describing is
+
+27:32.490 --> 27:36.091
+what we call a distributed energy management system,
+
+27:36.091 --> 27:38.850
+distributed energy resource management system, a DERMS,
+
+27:38.850 --> 27:41.730
+And what this DERMS is is like a software layer
+
+27:41.730 --> 27:44.640
+and like a team behind the scenes that actually is able
+
+27:44.640 --> 27:47.490
+to aggregate many different devices,
+
+27:47.490 --> 27:51.090
+kind of creating a collaboration with the manufacturers
+
+27:51.090 --> 27:52.230
+of the devices,
+
+27:52.230 --> 27:55.320
+being able to manage having programs
+
+27:55.320 --> 27:56.640
+that get to the device to be able
+
+27:56.640 --> 27:59.430
+to be controlled as part of the events when the utility
+
+27:59.430 --> 28:02.040
+or the energy company needs to have that energy.
+
+28:02.040 --> 28:03.840
+So kind of my advice
+
+28:03.840 --> 28:05.970
+to technology providers here in the audience
+
+28:05.970 --> 28:08.460
+is utilities,
+
+28:08.460 --> 28:11.100
+they don't want to talk to every device manufacturer,
+
+28:11.100 --> 28:12.840
+and frankly you guys don't wanna have
+
+28:12.840 --> 28:14.070
+to talk to every utility.
+
+28:14.070 --> 28:15.570
+It just doesn't scale.
+
+28:15.570 --> 28:19.920
+So the DERMS provider, the aggregator may be a simpler term,
+
+28:19.920 --> 28:23.040
+is able to be there in the middle coordinating things.
+
+28:23.040 --> 28:24.210
+We do stuff in the cloud,
+
+28:24.210 --> 28:26.610
+we're able to talk to utilities on secure channels.
+
+28:26.610 --> 28:30.180
+So look at that as a pathway if you want to get more
+
+28:30.180 --> 28:33.060
+of your devices involved in energy management.
+
+28:33.060 --> 28:35.810
+Speaking of success though, so I wanna bring up a story
+
+28:36.870 --> 28:38.700
+from my wife actually recently.
+
+28:38.700 --> 28:39.570
+I'm a scientist,
+
+28:39.570 --> 28:41.970
+so my house has been in demand response events
+
+28:41.970 --> 28:44.190
+since the beginning of demand response events.
+
+28:44.190 --> 28:46.710
+And this last year, like a few months ago,
+
+28:46.710 --> 28:48.540
+she's like made a comment that
+
+28:48.540 --> 28:49.950
+you haven't been running as many
+
+28:49.950 --> 28:52.446
+of those mad science experiments
+
+28:52.446 --> 28:54.240
+making our house really hot this past summer.
+
+28:54.240 --> 28:55.080
+And really what it was,
+
+28:55.080 --> 28:56.730
+it wasn't me controlling all these things,
+
+28:56.730 --> 29:00.040
+like it was the utilities are now calling events
+
+29:01.591 --> 29:03.510
+less frequently or at least not as strong
+
+29:03.510 --> 29:05.040
+as they had in the past.
+
+29:05.040 --> 29:07.320
+Parks Research kind of tells us this too,
+
+29:07.320 --> 29:10.530
+that when customers leave demand response programs now,
+
+29:10.530 --> 29:12.907
+it's a diminishing level of people saying,
+
+29:12.907 --> 29:14.700
+"Oh it was because I was uncomfortable,
+
+29:14.700 --> 29:16.590
+oh it was because we had too many events."
+
+29:16.590 --> 29:18.240
+It's more like they moved out
+
+29:18.240 --> 29:20.160
+or like something else changed.
+
+29:20.160 --> 29:21.960
+So our data is showing that too,
+
+29:21.960 --> 29:24.540
+that like events are being called
+
+29:24.540 --> 29:27.336
+maybe not as long as they used to
+
+29:27.336 --> 29:28.169
+or different times of the day
+
+29:28.169 --> 29:30.649
+we kind of like learn customer patterns
+
+29:30.649 --> 29:31.620
+and try to tailor the response
+
+29:31.620 --> 29:33.660
+to what we can do for that customer.
+
+29:33.660 --> 29:36.090
+So I think of it as like maybe
+
+29:36.090 --> 29:37.710
+if you were in a program in the past
+
+29:37.710 --> 29:40.500
+and like was uncomfortable for you,
+
+29:40.500 --> 29:44.130
+give it a shot because a lot has evolved in this space.
+
+29:44.130 --> 29:46.440
+<v ->I think you hit on something key there though,</v>
+
+29:46.440 --> 29:51.060
+which is we've gotta make sure we have customer trust
+
+29:51.060 --> 29:53.520
+because we have to have the scale to sign up
+
+29:53.520 --> 29:55.440
+to all these programs to get these devices
+
+29:55.440 --> 29:57.870
+to meet the challenge that everybody's been talking about
+
+29:57.870 --> 29:58.703
+because remember,
+
+29:58.703 --> 30:01.380
+decarbonization was a generational challenge
+
+30:01.380 --> 30:03.270
+when there was flat load growth.
+
+30:03.270 --> 30:07.200
+Now we've got high load growth and decarbonization target.
+
+30:07.200 --> 30:09.330
+So it's really unprecedented.
+
+30:09.330 --> 30:11.700
+And so in order to get that scale,
+
+30:11.700 --> 30:13.890
+you gotta make sure that that customer's comfortable.
+
+30:13.890 --> 30:16.020
+You gotta make sure it's simple, right?
+
+30:16.020 --> 30:18.450
+And you have to make sure
+
+30:18.450 --> 30:20.490
+that you don't break that trust
+
+30:20.490 --> 30:21.967
+so you don't have to come back and be like,
+
+30:21.967 --> 30:24.900
+"Hey, sorry we botched that a few years ago.
+
+30:24.900 --> 30:26.280
+Would you like to try it again?"
+
+30:26.280 --> 30:29.010
+Because that is such a hard sell, right?
+
+30:29.010 --> 30:30.210
+And the solar industry
+
+30:30.210 --> 30:32.070
+by the way is seeing the impacts
+
+30:32.070 --> 30:35.850
+when customers lose faith in your industry.
+
+30:35.850 --> 30:37.770
+What do your customer acquisition costs do
+
+30:37.770 --> 30:39.753
+when that happens, they go sky high.
+
+30:40.710 --> 30:45.420
+<v ->Yeah, and we've seen solar basically stall in adoption</v>
+
+30:45.420 --> 30:47.430
+and a lot of it has to do with cost,
+
+30:47.430 --> 30:49.830
+but definitely there's a lot of trust issues
+
+30:49.830 --> 30:51.153
+with the industry as well.
+
+30:52.020 --> 30:53.400
+So yeah, it's very interesting.
+
+30:53.400 --> 30:54.840
+We're seeing also that like a lot
+
+30:54.840 --> 30:57.480
+of people are afraid of losing control with demand response.
+
+30:57.480 --> 30:59.610
+So that's a big piece of it,
+
+30:59.610 --> 31:01.860
+and being able to gain their trust
+
+31:01.860 --> 31:03.480
+is gonna be very key to that.
+
+31:03.480 --> 31:05.070
+And also incentivizing them
+
+31:05.070 --> 31:07.290
+because we find that that's really the number one way
+
+31:07.290 --> 31:10.833
+to get consumers to participate in demand response.
+
+31:12.720 --> 31:14.040
+So I wanna talk a little bit about
+
+31:14.040 --> 31:14.940
+in the last few minutes,
+
+31:14.940 --> 31:18.933
+the future of smart home energy management.
+
+31:20.370 --> 31:23.370
+And this is really a hot topic of course,
+
+31:23.370 --> 31:25.440
+and I'd like to hear a little bit about Poonam,
+
+31:25.440 --> 31:27.870
+what you think about it, but how are advancements in AI,
+
+31:27.870 --> 31:30.750
+machine learning, and IOT changing the energy market,
+
+31:30.750 --> 31:33.450
+especially like AI and machine learning?
+
+31:33.450 --> 31:35.883
+<v ->We heard a lot about that this morning, right?</v>
+
+31:36.780 --> 31:39.210
+So again, I go back to the number one problem
+
+31:39.210 --> 31:41.340
+that we got to solve for the consumer,
+
+31:41.340 --> 31:44.490
+and that is reducing the energy bill.
+
+31:44.490 --> 31:47.910
+Now in an ideal state,
+
+31:47.910 --> 31:51.161
+I would like a climate conscience
+
+31:51.161 --> 31:53.440
+Greta Thunberg wired to my house
+
+31:54.589 --> 31:57.150
+that is going to do everything
+
+31:57.150 --> 32:00.270
+that needs to be done to make me comfortable,
+
+32:00.270 --> 32:02.250
+to reduce my energy bill,
+
+32:02.250 --> 32:04.500
+as well as do the right things for the planet, right?
+
+32:04.500 --> 32:05.670
+That's an ideal state,
+
+32:05.670 --> 32:08.520
+and I don't think that we are necessarily too far
+
+32:08.520 --> 32:10.950
+from what that state is.
+
+32:10.950 --> 32:15.150
+So for instance, in Europe,
+
+32:15.150 --> 32:18.360
+the Schneider energy monitor,
+
+32:18.360 --> 32:23.100
+that has AI built in that does energy monitoring
+
+32:23.100 --> 32:26.493
+that watches for user behavior,
+
+32:28.290 --> 32:32.100
+understands my energy consumption,
+
+32:32.100 --> 32:35.520
+looks at the energy prices, looks at the weather forecast,
+
+32:35.520 --> 32:37.140
+and does everything that needs
+
+32:37.140 --> 32:41.790
+to be done in terms of automating the usage
+
+32:41.790 --> 32:42.843
+within the house.
+
+32:44.100 --> 32:48.480
+For instance, if the energy prices are low,
+
+32:48.480 --> 32:51.840
+it'll heat up my water heater
+
+32:51.840 --> 32:53.703
+when the energy prices are low,
+
+32:54.990 --> 32:58.740
+it'll charge my EV when the energy prices are low.
+
+32:58.740 --> 33:03.210
+And it can also predict you user behavior
+
+33:03.210 --> 33:06.900
+to a certain degree and allow you
+
+33:06.900 --> 33:11.900
+to kind of make choices based on your behavior.
+
+33:13.170 --> 33:15.780
+So there's energy optimization that happens,
+
+33:15.780 --> 33:19.440
+but then also as your energy,
+
+33:19.440 --> 33:21.960
+if your energy prices are increasing to a certain degree,
+
+33:21.960 --> 33:24.900
+there is a potential that you've got an old appliance
+
+33:24.900 --> 33:29.430
+in the house that may be consuming more energy
+
+33:29.430 --> 33:30.690
+than it should.
+
+33:30.690 --> 33:34.680
+And that is an indication that probably in, I don't know,
+
+33:34.680 --> 33:38.430
+few months from now, my appliance may go down.
+
+33:38.430 --> 33:40.927
+So it gives you an alert necessarily to tell you,
+
+33:40.927 --> 33:43.860
+"Hey, take a look at this."
+
+33:43.860 --> 33:46.230
+So there is a little bit of that predictive piece
+
+33:46.230 --> 33:47.580
+within that as well.
+
+33:47.580 --> 33:49.170
+So there's a lot of advancements
+
+33:49.170 --> 33:54.040
+that AI from an energy management is being done
+
+33:54.960 --> 33:57.720
+to drive resiliency, to drive sustainability,
+
+33:57.720 --> 33:59.193
+and to drive efficiency.
+
+34:00.660 --> 34:03.390
+<v ->Yeah, definitely, it's very interesting,</v>
+
+34:03.390 --> 34:07.230
+and I think I also wanna understand the impact that EVs
+
+34:07.230 --> 34:09.840
+and new energy management programs such as VPPs
+
+34:09.840 --> 34:12.750
+might have, Lon, I don't know if you could take that one.
+
+34:12.750 --> 34:16.200
+<v ->Yeah, well it depends on the rate of adoption.</v>
+
+34:16.200 --> 34:18.750
+The utility industry we're at heart
+
+34:18.750 --> 34:20.310
+of infrastructure companies, right?
+
+34:20.310 --> 34:25.310
+So we own and operate these very complex grids.
+
+34:26.340 --> 34:29.070
+Duke Energy's grid can wrap around the world seven times.
+
+34:29.070 --> 34:32.610
+So just think about the maintenance and the analytics
+
+34:32.610 --> 34:35.790
+and everything that's required, and then on top of that,
+
+34:35.790 --> 34:37.230
+throw in extreme weather events
+
+34:37.230 --> 34:39.960
+or crazy people shooting at substations, right?
+
+34:39.960 --> 34:42.150
+So it's really hard to manage,
+
+34:42.150 --> 34:44.880
+and if all of a sudden you're getting a neighborhood
+
+34:44.880 --> 34:48.450
+and each home has a one or two EVs in a cul-de-sac,
+
+34:48.450 --> 34:51.633
+well that's gonna present an issue to that local system.
+
+34:52.590 --> 34:54.480
+And we're not even talking about the larger oh,
+
+34:54.480 --> 34:56.930
+do you have enough energy at this particular time
+
+34:57.780 --> 34:59.010
+from the bulk power system.
+
+34:59.010 --> 35:04.010
+So it will take more sophisticated algorithms
+
+35:04.620 --> 35:07.125
+and AI to be able to balance that
+
+35:07.125 --> 35:08.760
+and also make sure that you're meeting
+
+35:08.760 --> 35:12.180
+all the customer needs so that you can co-optimize
+
+35:12.180 --> 35:14.700
+with all those homes and the local grid.
+
+35:14.700 --> 35:17.553
+Now what comes with that is more value streams though.
+
+35:18.581 --> 35:19.770
+So if the customer can enroll
+
+35:19.770 --> 35:21.930
+in a more sophisticated program,
+
+35:21.930 --> 35:24.060
+then I can give them more incentives
+
+35:24.060 --> 35:25.770
+either on the front end or continue
+
+35:25.770 --> 35:29.100
+to do participation rewards, right?
+
+35:29.100 --> 35:31.680
+So there's always these trade-offs.
+
+35:31.680 --> 35:33.120
+You can have a maybe a simple program
+
+35:33.120 --> 35:36.903
+that doesn't pay as much, but as you get this adoption,
+
+35:38.020 --> 35:40.890
+you're gonna have to see more sophistication.
+
+35:40.890 --> 35:43.800
+But again, the positive thing is that usually
+
+35:43.800 --> 35:45.850
+comes with more compensation, more value.
+
+35:46.710 --> 35:49.410
+<v ->Great, well we're almost at the end of our panel here,</v>
+
+35:49.410 --> 35:50.820
+but as a quick lightning round,
+
+35:50.820 --> 35:52.890
+maybe a minute or less for each person,
+
+35:52.890 --> 35:54.510
+I had a conversation
+
+35:54.510 --> 35:58.083
+during lunch with a couple of folks from Hunter Industries,
+
+35:58.920 --> 36:00.420
+Matthew and Jessica,
+
+36:00.420 --> 36:02.430
+and they brought the question about
+
+36:02.430 --> 36:05.220
+how do you get the consumer
+
+36:05.220 --> 36:08.520
+to buy into the value of energy management at home,
+
+36:08.520 --> 36:11.490
+especially if they can't really turn down their energy use,
+
+36:11.490 --> 36:14.760
+they need the air conditioner on, they need the lights on,
+
+36:14.760 --> 36:16.680
+or if they've seen their energy insights once,
+
+36:16.680 --> 36:19.800
+if they never need to see them again for those same devices,
+
+36:19.800 --> 36:21.360
+how do you get them to buy into that value?
+
+36:21.360 --> 36:23.553
+So a minute or less starting with Poonam.
+
+36:24.840 --> 36:29.400
+<v ->So I think that at the end of the day, the consumer,</v>
+
+36:29.400 --> 36:32.430
+I think the statistics you showed earlier was
+
+36:32.430 --> 36:35.940
+that yes, they've tried to do everything.
+
+36:35.940 --> 36:38.453
+Most of the consumers, more than 50% of the consumers
+
+36:38.453 --> 36:41.670
+that we have surveyed believe
+
+36:41.670 --> 36:45.639
+that smart home will help them reduce their energy bills.
+
+36:45.639 --> 36:49.500
+Now the deployment and the adoption is still low,
+
+36:49.500 --> 36:51.960
+16% as you said, smart thermostats.
+
+36:51.960 --> 36:54.570
+However, the rate of adoption of that
+
+36:54.570 --> 36:57.600
+has been the highest in the last couple of years.
+
+36:57.600 --> 37:01.590
+So smart thermostats has increased as well
+
+37:01.590 --> 37:04.590
+as energy monitoring has increased
+
+37:04.590 --> 37:06.093
+over the last couple of years.
+
+37:07.088 --> 37:10.380
+Now with that, I think the biggest challenges for us
+
+37:10.380 --> 37:14.250
+to enable that adoption to drive engagement
+
+37:14.250 --> 37:17.970
+and to keep the technology really simple,
+
+37:17.970 --> 37:20.730
+to enable the engagement, right?
+
+37:20.730 --> 37:24.840
+Because the consumers are not geeks
+
+37:24.840 --> 37:27.930
+who are going to constantly be playing with the equipment.
+
+37:27.930 --> 37:30.810
+They want to set it and forget it
+
+37:30.810 --> 37:33.750
+and let the equipment kind of take care of everything
+
+37:33.750 --> 37:35.010
+that needs to be taken care of.
+
+37:35.010 --> 37:36.990
+And I think that's going to enable us
+
+37:36.990 --> 37:38.583
+to drive more of that adoption.
+
+37:40.800 --> 37:44.020
+<v ->Yeah, I can just add that</v>
+
+37:46.581 --> 37:48.840
+the smart home market is on the edge
+
+37:48.840 --> 37:51.330
+not being a geek market anymore,
+
+37:51.330 --> 37:53.760
+it's mass market, it's on the edge, it's not yet there.
+
+37:53.760 --> 37:55.500
+It's on the edge to the mass market.
+
+37:55.500 --> 37:56.333
+For the geeks,
+
+37:56.333 --> 37:58.620
+it was great to spend the whole weekend
+
+37:58.620 --> 38:01.560
+installing one device, trying out a lot of things,
+
+38:01.560 --> 38:03.180
+talking to the community.
+
+38:03.180 --> 38:05.790
+Now I found the solution, I can add something,
+
+38:05.790 --> 38:09.060
+that's over, and we are still, as an industry,
+
+38:09.060 --> 38:12.120
+we are still talking too much about technology
+
+38:12.120 --> 38:13.800
+and not enough about the solution.
+
+38:13.800 --> 38:15.363
+The customer has a problem,
+
+38:16.372 --> 38:18.810
+the problem is he wants to live with more convenience
+
+38:18.810 --> 38:20.400
+or he wants to save energy.
+
+38:20.400 --> 38:21.930
+How are we solving this problem?
+
+38:21.930 --> 38:24.570
+He doesn't care about the product that is behind
+
+38:24.570 --> 38:28.260
+and if this is matter or not matter or wifi or Z-Wave
+
+38:28.260 --> 38:30.720
+or whatever it is, he doesn't care.
+
+38:30.720 --> 38:33.360
+And this is something that is helping.
+
+38:33.360 --> 38:34.680
+So to make the products easier,
+
+38:34.680 --> 38:37.080
+to talk more about the use case and the solution.
+
+38:37.080 --> 38:40.230
+And the other thing I usually say on the energy side,
+
+38:40.230 --> 38:43.950
+it must hurt, if it's not hurting, no one will change.
+
+38:43.950 --> 38:47.340
+As long as the kilowatt hour is 5 cents or 10 cents,
+
+38:47.340 --> 38:48.600
+no one really looks at the bill.
+
+38:48.600 --> 38:51.270
+If it's 30 or 40 cents, people look at the bill,
+
+38:51.270 --> 38:53.580
+and that changes behavior completely.
+
+38:53.580 --> 38:56.430
+And the last thing is education of the installers.
+
+38:56.430 --> 38:57.660
+If we are not doing that
+
+38:57.660 --> 39:01.410
+and as long as they are behaving, like don't do that,
+
+39:01.410 --> 39:03.870
+it's really not good, it's not solid enough,
+
+39:03.870 --> 39:05.343
+then we'll not change.
+
+39:06.810 --> 39:09.750
+<v ->Yeah, I mean I think we need that interoperability too</v>
+
+39:09.750 --> 39:13.590
+because we just had a really bad experience
+
+39:13.590 --> 39:16.110
+with smart EV chargers now.
+
+39:16.110 --> 39:18.243
+A lot of homeowners now just,
+
+39:19.740 --> 39:22.410
+they're gonna have challenges with their charger
+
+39:22.410 --> 39:24.816
+because the company sort of picked up
+
+39:24.816 --> 39:25.649
+and then who can fill in
+
+39:25.649 --> 39:27.780
+and who can work with those software systems.
+
+39:27.780 --> 39:29.670
+So we have to think about that.
+
+39:29.670 --> 39:32.400
+But also when you have that consumer that has that app
+
+39:32.400 --> 39:34.860
+and they're looking, hey, how can I save money,
+
+39:34.860 --> 39:37.140
+that it pops up, auto discovers the devices
+
+39:37.140 --> 39:38.250
+that can enroll in a program
+
+39:38.250 --> 39:39.690
+that Duke Energy has,
+
+39:39.690 --> 39:42.360
+automatically one click enrollment,
+
+39:42.360 --> 39:44.760
+they get a bill credit or whatever else
+
+39:44.760 --> 39:48.510
+they get connected to a partner that can install something,
+
+39:48.510 --> 39:50.190
+those are the things that we're gonna have to do
+
+39:50.190 --> 39:53.760
+that helps reduce the amount of dependency you have
+
+39:53.760 --> 39:56.130
+on price signals hurting them, right?
+
+39:56.130 --> 39:58.890
+Because we don't want to have that situation happen.
+
+39:58.890 --> 40:02.760
+And so one of our successful programs is we fix the bill
+
+40:02.760 --> 40:05.937
+for bill certainty for them if they sign up for smart device
+
+40:05.937 --> 40:08.070
+and we drop it and we guarantee those savings.
+
+40:08.070 --> 40:09.960
+So these are the things we're experimenting on
+
+40:09.960 --> 40:11.583
+that could get some traction.
+
+40:13.391 --> 40:15.750
+<v ->And I know we're short on time, so I'll be really quick.</v>
+
+40:15.750 --> 40:17.520
+Innovation in the market.
+
+40:17.520 --> 40:19.950
+So a lot of what we've talked about,
+
+40:19.950 --> 40:24.060
+but also here at the show, the market continues to evolve.
+
+40:24.060 --> 40:27.000
+So what kind of plans are we offering customers
+
+40:27.000 --> 40:28.080
+so that they can save money?
+
+40:28.080 --> 40:29.880
+What kind of tools are we giving them?
+
+40:29.880 --> 40:31.860
+Understanding their different customer types.
+
+40:31.860 --> 40:33.240
+Some wanna set it and forget it,
+
+40:33.240 --> 40:35.550
+some wanna really dig into the details.
+
+40:35.550 --> 40:38.880
+So just continuing to innovate around those offerings
+
+40:38.880 --> 40:41.400
+so that customers have those options.
+
+40:41.400 --> 40:42.450
+<v ->I'll kinda like play on that.</v>
+
+40:42.450 --> 40:44.070
+Like as a technology producer,
+
+40:44.070 --> 40:46.140
+we really want things to be complex
+
+40:46.140 --> 40:49.290
+on like the utility side, like all these options,
+
+40:49.290 --> 40:51.870
+and then it's up to us to develop the technology
+
+40:51.870 --> 40:54.290
+so that way we make it really easy for the customer
+
+40:54.290 --> 40:55.650
+to just do it automatically.
+
+40:55.650 --> 40:59.010
+So pushed for more complexity and like the more constraints
+
+40:59.010 --> 41:00.990
+and options that are out there,
+
+41:00.990 --> 41:04.680
+but then the interface of the customer needs to be simple.
+
+41:04.680 --> 41:06.180
+<v ->Great. Well that's all the time we have.</v>
+
+41:06.180 --> 41:08.760
+Thank you so much, panel, for joining us for this.
+
+41:08.760 --> 41:11.610
+And we have a 20 minute networking break,
+
+41:11.610 --> 41:14.400
+and then join us later tonight for our networking reception.
+
+41:14.400 --> 41:18.153
+You can RSVP online or at that QR code there.
+
+41:19.230 --> 41:21.810
+And thanks again to our sponsors.
+
+41:21.810 --> 41:24.000
+And then if you want to check out our research,
+
+41:24.000 --> 41:25.920
+we've got it on our website,
+
+41:25.920 --> 41:28.200
+but you could also click this QR code.
+
+41:28.200 --> 41:31.090
+Thank you everyone, and stay tuned for our next session.
+
+41:32.446 --> 41:35.029
+(upbeat music)
+

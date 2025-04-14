@@ -1,0 +1,1202 @@
+<v ->All right, hello CES, how is everybody doing today</v>
+on a Thursday afternoon?
+Yes. Oh, I like that energy.
+Thank you so much for that.
+Yeah, but you're gonna be glad you came to this one
+and everyone's gonna be very sad that they didn't come here.
+We have such a great panel here today
+and I'm really excited about this topic.
+I'm Eric Iverson, I'm the CTO at United Talent Agency,
+and we're one of the leading talent agencies in Hollywood.
+I've been in media entertainment technology
+for about 25 years and I couldn't be more excited
+than to interview this very wonderful and esteemed panel.
+So we're going to go through each one
+and let them talk about themselves a little bit.
+And so the first I start with Soyoung,
+you wanna just a quick introduction of yourself.
+<v ->Hey everyone, I'm Soyoung, I'm one of the Co-founders</v>
+and Head of Go-to-Market at a company called Twelve Labs.
+And Twelve Labs is a company that builds foundation models
+for multimodal video understanding, which is a fancy way
+of saying we build AI that can contextually comprehend
+everything inside video, just like a human can.
+That then allows our end users to be able to search
+and find any moment across large video libraries
+using everyday language, automatically summarize, describe,
+ask questions about what's happening inside video,
+create highlights and so on.
+<v ->Yeah, and I thought this was like such a great picture</v>
+of Soyoung and magically you come to CES
+and that, you know, don't you think it was like,
+this looks like someone that should be in a movie.
+Like when you look at that photo
+and then you saw like this, like very kind of diva look.
+Anyway, I thought you look really great. It's amazing.
+I didn't do anything by the way.
+It just, you come to CES and magically the photo does that.
+So anyway, that's great.
+Cody now is very nervous about what's gonna happen next.
+But Cody, would you please do a quick introduction
+of yourself?
+<v ->Good afternoon everyone. I am Dr. Cody Coleman.</v>
+I'm the CEO and Co-founder of Coactive AI.
+Coactive is a multimodal AI platform
+that makes it easy to search and analyze images and video.
+We work a lot with media
+and retail companies,
+allowing them to build applications on all of their content.
+<v Eric>Yeah, it's great, great technology</v>
+and it's really great 'cause you get these photos
+and then you never know what's gonna happen
+and all of a sudden like, what's behind Cody?
+You know, and you'd be surprised like in Hollywood
+what could just be right behind a picture.
+So anyway, thank you for that Cody.
+And then next, David, would you do a quick intro?
+<v ->Sure, okay, I didn't know, I thought photos were optional,</v>
+so I didn't know where you got that, but hey,
+my name is David Bennett.
+I'm the Chief Customer Officer at Tenstorrent,
+Tenstorrent and AI hardware company.
+We build computers for AI
+and what that means, actually, we're kind of full stack.
+We build the IP, we build the chips, we put in AI technology
+and compute technology to basically offer an alternative
+for people that are looking to power
+their training, their inference, whatever.
+So yeah, it's an exciting time to be in our space.
+<v Eric>That's great, and to compliment David,</v>
+we have Simon.
+Simon, would you do a quick intro?
+<v ->I will. Nice to meet y'all. It's great to be here.</v>
+So Simon Crownshaw, so I run Media
+and Entertainment at a small company called Microsoft.
+And before that, I was 17 years at the Walt Disney Company
+and now I spend the majority of my time helping customers
+think through their AI journey.
+<v ->Yeah, so we have a pretty good panel here</v>
+and it was interesting, like it is,
+I never saw this ever happen before,
+but these photos got really competitive with one another.
+And so I think they were ready for this panel here today.
+So anyway, thank you guys for really
+bringing your best here today.
+That's really impressive. Okay.
+So if you didn't think that we had such a great panel,
+and Simon hasn't seen this either,
+but I asked Co-pilot if how serious Microsoft
+was actually about Media and Entertainment
+and you could read for yourself,
+this is straight outta Co-pilot
+so for sure you could believe a hundred percent of it.
+But my favorite part was right here is the one name
+that it called out on its own was Simon Crownshaw.
+And he's right here, right here.
+Like the guy that if you asked Co-pilot, he's right here.
+So you're gonna get to hear from him directly here today.
+Okay. So I'm gonna do a little context.
+Our industry, I've been this in pretty much most
+aspects of media entertainment.
+I, Simon, you cross most aspects of it,
+super fascinating on what's happening and going on.
+And so I made this up for some colleagues a little while ago
+to almost explain some of the changes I think we're seeing
+with consumers and consumers are continually dealing
+with this time versus quality kind of basically matrix
+that I think that we're doing.
+And what's interesting about quality
+is how many people here like to drink wine, right?
+And have you ever get these things like,
+"Hey, is that a good wine?"
+And you know, there's some very high-end,
+you know, and people that know like,
+but at the end of the day, what is a good wine?
+A good wine is the wine you like, right?
+And so I think that's the thing was, we think of quality,
+you have to put the hat on
+of what is quality to the consumer
+and if, how many people have kids or friends with kids
+or used to be a kid, alright, no, but kids, current kids?
+<v Simon>So still are a child?</v>
+<v ->Yes. Still that's yes. Yeah, might be on stage.</v>
+But it's interesting what quality is to like,
+I have three kids, the quality is to those three kids
+is changing, its different.
+Does everybody agree with that?
+Alright, but this equation is really
+this equation, you could take this one to the bank, right?
+How, what's the quality to me
+and how much time do I have to spend to get to the quality?
+And what are we seeing as a net result of that?
+We're seeing kind of features
+like feature films being compressed on time.
+We saw what did we see in "Episodic?"
+"Episodic" went from 22, 24 episodes down to six to eight.
+I can get through it a little bit quicker, right?
+And so we're seeing that the board eSports,
+eSports is what like a 12 minute match
+as opposed to maybe three hours
+and thirty minutes for in an NFL game.
+And probably the one that was most interesting to me,
+I don't know anyone see MLB introduced the shot clock
+or basically the Pitch Clock, you know, for that answer?
+<v David>Yeah, after every pitch, right?</v>
+<v ->Yeah. Super interesting.</v>
+That reduced the length of an MLB game by thirty minutes.
+That is a major impact.
+Again, making that a little bit more accessible,
+improving how your access is on that.
+So that's kind of what we have going on
+is in context it is, you could imagine this is in fact
+how we get through that
+and how we do that for consumers at the end of the day,
+which is what we're gonna work backwards
+from, it goes across the different places where media works.
+And what I thought I'd do is just take a quick second
+and explain kind of like the really large bubbles
+and we're gonna start way to the green.
+Everyone, we're at the Consumer Electronic Show,
+so we're gonna talk about consumers first, right?
+Everybody's on the far right side, alright?
+At the end of the day, the only reason that any
+of us are here in the entertainment business
+is because consumers watch content.
+Hopefully that makes sense, right?
+If we do the greatest content in the world
+and nobody ever watches it
+and there is no business,
+you might do like really fun work
+at a school play or something.
+But that's for business of media entertainment.
+And there's only two ways in our industry
+that really any money, anything is monetized.
+So you have ad supported and paid.
+So that's what we're looking at the end
+of the day with consumers.
+So what we're gonna do is we're gonna walk backwards
+from like where does the consumer experience,
+we're gonna walk backwards to where is the supply chains
+that there's a bunch of works, so distributors
+and other people that get content to the exhibitors
+that has to get improved.
+And we're gonna talk about what creators are doing with AI
+and those are the three big topics
+we're gonna talk about today.
+You ready? 'Cause we got a good panel.
+Alright, so with that we're gonna hop right in into it
+and I have some examples teed up here
+for a little bit as we get into it.
+So with that Soyoung, you love content.
+So we're gonna start with this, I've just really quick,
+what seems something was awesome that you have seen kind
+of over this holiday break from a content point of view?
+<v ->So I had grand plans for my holiday,</v>
+but I ended up on YouTube
+and I watched, I was scrolling through a lot of shorts,
+so highlights of all of the really great moments
+from the show of "Friends"
+and I got into scrolling and scrolling
+and watching all of that on YouTube.
+And then I actually ended up resubscribing to Max
+and I ended up spending all my holiday rewatching the entire
+"Friends" series and I did the same thing
+with "Silicon Valley", the show.
+Yeah. So that's what I spent my holiday.
+<v ->All right, so you got to watch some pretty good content,</v>
+pretty good experience.
+Now when you were going through that,
+was there anything that you were like in your holiday break
+you were like, "Oh, this should be better."
+It should be easier to do and you fill in the blank.
+<v ->Yeah, so I feel like it should be easier</v>
+to have personalized packages of highlights
+or content I can consume.
+And using the example of "Friends",
+'cause I'm such a fan, I love all,
+there's some moments across,
+no matter how many times I watch it,
+themes that really speak to me personally
+and things like Monica's obsession with cleaning
+or Phoebe's spiritual beliefs, right?
+And so if I had the ability to actually just watch
+these moments across the series where certain things
+that speak to me personally and emotionally
+and that hooks me in
+and I'm able to find those really easily, I feel like
+that would probably help me spend of my spare time.
+<v ->I like that. How many, does that sound good to you too?</v>
+I know I want some of that, but great example of that.
+How about David, how about you over the break,
+good experience?
+<v ->No, you know for me it's, I think, you know, when you gave</v>
+that first list, I think it was the episodic content.
+I've got all these dreams
+of catching up on all these long movies
+and watching all this thing, I just don't have the time.
+So what I found myself doing is really looking at a show
+and if it starts with a couple episodes
+or it only has a couple episodes in it,
+that's the one I kind of tend to lean towards.
+So I wish I had something more interesting,
+but for me it's really about that moving from the long form
+content to something kinda like
+you did with the YouTube shorts, right?
+I don't know if I'd be able to make that jump
+than going watching the series, but I try
+and like find some things that are really short
+and short bites to go watch.
+<v ->Yeah, I love it, and anything you were annoyed</v>
+with over the break that you were like,
+"Oh this is great" but then.
+<v ->No, you know, I live my life in the hardware space</v>
+and when I want to get harder, my problem is being able
+to find the hardware I want to buy.
+And we have a problem right now in the industry.
+I think Simon might bring it up a little bit later,
+but the reality is you know,
+if we look at the amount of compute that's required
+to do all the things that we want to get done, it's endless.
+And frankly, we're trying to do all these experiments,
+we need to get the hardware in our hands to go do it.
+So what frustrated me is not consuming the content,
+it's actually getting the hardware in people's hand
+to be able to go create the content
+that we all want to consume.
+That's a bigger picture.
+<v ->Yeah. Well, we'll talk more about that.</v>
+Alright, Cody, how about you?
+<v ->So I have to give a disclaimer that I am a nerd</v>
+and my friends are nerds.
+So one of my friends, he is a musician
+and he was creating a vinyl record.
+So he had recorded these songs
+and he printed out a vinyl record
+and he was scratching his head about the cover art.
+Like what is he gonna do for cover art
+for his like vinyl record?
+And he generated it using AI
+and he actually created the cover art, packaged the vinyl
+and he gave that to me as a gift and I loved
+that because it was one like awesome music
+and it was great to hear my friend's music
+and it combined, you know, the old
+and the new together to create such a thoughtful
+and amazing experience
+and it was the best Christmas gift
+that I think I've ever gotten.
+<v ->That's really cool. I love that. Great experience.</v>
+Anything that you were annoyed with over the break?
+<v ->So this is kind of funny, there was this moment</v>
+I was with my family in New York City
+and we were all having espresso martinis
+and someone had seen this meme about like, you know,
+once one person orders an espresso martini,
+everyone else ends up ordering an espresso martini
+and we spent like, you know, 15, 20 minutes trying to find
+that video to just like, you know, show that kind
+of funny meme to each other.
+So, you know, searching, trying to find
+that was actually quite difficult.
+<v ->Yeah, how many, if we could just search better on content,</v>
+is everyone like with this explosion of content,
+it's just gotten harder.
+We do want a little bit better on that?
+Yeah, me too, and there's lots of places
+where we want that search.
+I think we're gonna talk bit about that.
+Alright, last Simon.
+<v ->I have follow all of that stuff.</v>
+I've gotta be honest, for me sports, right?
+I love sports of the holidays, going skiing myself,
+but really just enjoying a lot of the content
+that's on for me.
+I love the way that sports content has really changed.
+Live sports is where so much is happening, right?
+In terms of differentiating on every platform,
+how do I find it, what going on?
+And I love the variation that I'm seeing across
+the different platforms in terms of what I'm seeing, right?
+So how am I watching, how I find the highlights,
+what happened just two seconds ago
+and how are I refactoring that into a process
+where I can see that, understand it.
+Also just make sure that I'm not seeing something
+I don't wanna see or if I haven't watched the game.
+So for me,
+and also it is great to see Netflix fix their stuff
+from what happened during the boxing event
+to the NFL on on Christmas Day
+and just how fast things are moving.
+I just love to watch that because it's really the only time
+I get to sit down
+and just sit there for two weeks going, okay,
+what's really happening in the world
+rather than just traveling around talking about it.
+<v ->Yeah, no I love it. I love it.</v>
+<v ->I think nothing annoyed me by the way,</v>
+other than the fact that my team didn't always win.
+That's what I'm gonna say.
+<v ->Yeah, no, for sure.</v>
+And I think one of the things I love is that innovation
+and anyone here live in Dallas or Los Angeles? Okay, good.
+Any of you guys been to the Cosm? Yeah. Very cool. Yeah.
+Okay, go see this guy. What's your name?
+<v Rick>Rick.</v>
+<v ->Rick, okay. You should go talk to Rick afterwards.</v>
+It's pretty awesome, right? Yeah.
+And if you haven't seen it, you go look it up.
+You cosm, you should check it up on your phones right now.
+I love the innovation that we're seeing in our industry
+right now on live experiences
+and digital and live coming together
+and we're gonna see the AI,
+digital and live coming together.
+It's gonna be really fantastic.
+So really encourage you to go do that.
+Anyway, that was something I did over the break,
+I thought was great.
+Alright so, Soyoung, you started talking a little bit
+about search a little bit more.
+So when it comes to these like the consumer experiences
+like we were talking about working backwards
+and like the cus the customer on that,
+what are the consumer experiences that are ripe for AI
+that are gonna help the consumer experiences?
+These are real consumer experiences that we're looking
+to help with where there's an unmet customer need
+that we're trying to solve.
+So Soyoung, what do you think?
+<v ->So I think increasingly because, and it's ironic</v>
+because there's so much more content than ever before,
+which also ironically makes it more difficult
+for content to speak to me as a consumer
+specifically and personally.
+And so even if there it's content that has existed
+for a while and I have consumed it before
+or it's new content, you can actually package it
+and show it to me in a way that really speaks
+to me personally that makes me want to either subscribe
+to something or makes me keep on watching it.
+And I feel like the personalization aspect
+of storytelling is absolutely something
+that is doable today through the technology
+that we have to be able to go through a library of content
+and to be able to stitch together
+or very easily clip to make a lot of different versions
+of stories that speak to each person very personally.
+So that's one thing personally I feel like
+that would impact me as a consumer personally.
+And from my Twelve Labs hat, I know as technology wise
+it is possible, very very possible.
+And then of course, search is the other thing
+that we were discussing earlier,
+which is why is it that video today, as ubiquitous as it is,
+is still very difficult to search across.
+And so if you're trying to find moments in videos,
+just like the example that Cody was sharing,
+you actually have to scroll through
+and watch every moment of it.
+Or we do have technologies so that allow
+you to like extract frames
+and like do simple computer vision to extract objects.
+But we know that that's not sufficient
+to extract meaningful human-like context that understands
+what I am looking for and understands the content
+and to be able to find exact moments.
+So basically those tools that allow us to do all
+of these things, I feel like would enrich my personal
+and consumer experiences.
+<v ->That seems like we got anybody else on the panel</v>
+that actually thinks that personalization
+or search would help the consumer experience
+and what that's gonna look like?
+<v ->Well, I actually have a fun example of this.</v>
+So with my Coactive hat on, we were super fortunate to work
+with NBC during the Olympics
+and it was actually quite a funny problem.
+So with the Olympics, they have to produce,
+you know, the show that you and I see week over week
+or day over day in case it's, oh my gosh,
+he's gonna steal my punchline with this, this is great.
+So what happened was they sent us primetime footage
+and they wanted to be able to find, you know, moments.
+So for example, Snoop Dogg like being patriotic
+rather than having to scroll through content,
+they could just type in Snoop Dogg being patriotic.
+Now another thing, when we think about consumers,
+they wanna create the most engaging content for all of you.
+And every single year it's different.
+You know, it might be a different sport
+or it might be a different athlete
+that really resonates with audiences.
+And when you are like the production company,
+when you're NBC trying to produce this, you know,
+you have information about what minute people are watching,
+but you don't know what they're watching.
+So with us, they can actually generate metadata
+about what sport and what athlete was on screen
+and be able to improve their content day over day.
+So for example, synchronized swimming was very,
+very popular this year.
+So they could actually give more airtime
+to synchronize swimming.
+<v ->And now we know why. 'cause I mean</v>
+who wouldn't wanna watch this?
+I mean, this is really fantastic.
+Look at this, look at you.
+<v Cody>Yeah.</v>
+<v Eric>That's really amazing.</v>
+<v Cody>Exactly.</v>
+<v Eric>Well done, well done.</v>
+<v Cody>They cut me outta the finals though.</v>
+<v ->This really actually surprised me though,</v>
+but when it came to kind of understanding
+the analytics behind this,
+how many people in here like are surprised
+that synchronized swimming became really popular
+at the Olympics this year?
+Yeah, it's pretty, I was actually really surprised
+when we were doing the homework on that.
+So anyway, thank you for helping to understand this.
+Simon, what do you think?
+I better take this off
+or this is gonna confuse everybody. Here we go.
+<v ->Well, I think to be honest, right,</v>
+for personalization, as you said, right?
+I might go the oth other way
+and say over personalization is a bad thing.
+I miss a lot of stuff.
+I'm gonna go and say during the election for example,
+it became so personalized that I missed the stories
+that were really relevant to me, right?
+I missed a different narrative
+that I would've liked to have gotten.
+I think so while personalization I do think is critical,
+we wanna see what we like to see.
+We wanna be engaged by that type of content.
+I also wanna be challenged, I wanna be able
+to search a streaming platform in a very different way.
+For example, for sports, I sent it earlier, I wanted to say,
+"Give me the three pointers that mattered in this game.
+Stitch it together in a narrative that I care about.
+'cause I missed the whole game."
+I don't want your highlights, I want my highlights, right?
+And so that I think is important.
+But also, right, for streaming platforms
+or for other platforms, I want to understand
+how I can reach different types of people on that platform
+because my highlights are not the same as anybody else's
+because I may not know, for example,
+if I'm watching basketball, what a pick and roll might be
+and why it's an important move in a game, right?
+Tell me why it's important, a highlight of what
+that might look like and then that makes me more engaged
+in that platform, for example.
+So personalization can be take many
+different forms from my perspective.
+<v ->I love those double down examples.</v>
+So Microsoft, you guys are thinking about that a lot.
+Maybe give you some examples of some things
+where you've been focused a little bit on personalization
+because we're looking into the future,
+but some of the future's starting
+to happen now in the back room, right?
+<v ->So we do a lot already.</v>
+I think one thing that I shared with you right,
+is the AI yeah, it's been a big deal over the past two
+years, but it's been around for a very long time, right?
+We've used it for advertising
+and personalization for the last decade almost
+to some degree and some have invested more than others
+on the Microsoft side, yes, we spend time with the NBA,
+the NFL, you know, the soccer leagues
+around the world talking about how to leverage it, right?
+From data to different plays,
+to how do we make the right content, how do you find
+and search the right content?
+But it all comes back to data, right? For example.
+So what we've found is that to create those experiences
+or things that those leagues
+or organizations want to do, huge amounts of data analysis,
+data stability, you know, foundational models
+and what does that look like?
+We've done everything from thinking about augmented reality
+experiences to the different ways content needs
+to be displayed on different devices.
+I think you mentioned it really well,
+a lot of the content that has been in some cases
+never even digitized has now been reindexed.
+And there's different ways to think about that frame
+by frame or what's in a frame
+or how to find certain things that all has been required
+to be redone to some degree
+and that results in a heck of a lot
+of compute required to do it right?
+And so I think all of these groups, all of these teams,
+organizations we work with, they want to go much faster,
+but there's work to be done to get there.
+So I dunno if that's answering your question per se.
+<v ->Yeah, yeah, no, I think that's a that's a great answer.</v>
+No, I like it. David?
+<v ->Yeah, Eric? No, I was gonna say, you asked a question,</v>
+you said, "What's that gonna look like?"
+And I think, you know, we're starting to see hints
+of what it might look like even at this year's CES.
+And I agree with you guys, like I think the index
+and the personalization is super important,
+but you made a comment around sort
+of generating your own content
+and you're generating content that you want to see.
+You know, if we look at what Jensen
+and Nvidia presented a couple days ago,
+they announced their new consumer graphics card.
+And what's interesting, if you really look at the technology
+behind that, they're moving from a system
+where they had this GP, which runs all the graphics
+and even in these graphics cards,
+they're moving over to having more AI engine
+in the graphics card to put it simply.
+And what that means is the expectation is that the games
+that you play, maybe starting with the games
+and then to more traditional media,
+won't be deterministic in terms
+of how here's the program, go run the game.
+It'll actually be using that AI hardware on the card
+to generate the game on the fly.
+And that could be, I think, a leading indicator
+into what we'll see in the media space.
+<v ->I brought this back up on screen here real quick a second.</v>
+You skipped this, this is a super interesting point.
+I'd like everyone to kind of like you think about
+for a quick second you know, this is kind
+of the way kind of things work, right?
+You know, we have creator distribution
+and have some creators go direct to exhibition,
+but what you're actually talking about is actually
+the compression of creators into exhibition.
+And that is a super interesting thing
+that I think we're starting to see.
+So I think that's a great point.
+<v David>I love that point too.</v>
+I think it's super critical.
+And bring that technology closer to the device,
+right? Understood.
+<v ->Yeah. So great, great call out. Okay, next topic.</v>
+We're gonna talk a little bit about supply chains, right?
+So if we went back to our magical picture here,
+this is where we're trying to get, there's a lot
+of work getting from the point we create something,
+getting it to distribution, getting it out to everyone,
+getting out to different exhibition.
+It's just think of like if you were
+in the movie business, right?
+You have to worry about getting into a theater
+is completely different than getting it out to broadcast,
+which is different than getting it out
+to a streaming platform.
+And there's different kinds of streaming platforms
+and clips out to for promos and a bunch of other things.
+There's a lot that happens in here.
+Cody, tell us a little bit about kind
+of what are some of the things that you're seeing here
+that are kind of ripe for AI?
+<v ->Yeah, thanks Eric.</v>
+You know, as you kind of allude to,
+it's a really long complicated process to go from a piece
+of content being created to actually something
+that you and I are viewing.
+You have to go through the production process,
+the licensing process, you know, marketing, distribution
+and advertising for that piece of content
+to actually get to you.
+And, you know, rather than go into like excruciating detail,
+I actually wanna talk about an example.
+So consider Thomson Reuters.
+Thomson Reuters is a major news signal to the entire world.
+They have reporters all around the world capturing
+the latest news story, breaking news 24/7.
+And then they take that content that's being captured
+by those reporters and they sell it to news networks all
+around the world, both globally and local content.
+Now they have a platform called Reuters Connect.
+This is the interface for journalists
+and for editors to find the content that they need.
+And now in order to tell stories,
+in order to tell you about the breaking news
+and if you go into to Reuters Connect,
+the old way that you did it was based off of keywords,
+which was an incredibly manual process where the creator had
+to go and actually enter in the keyword
+for every single piece of content.
+But what just happened there is you click the button
+for AI search and you can see the difference.
+We went from one piece of content that was loosely relevant
+to this search of Boeing Union deal negotiations.
+We went from one piece of content to now pages
+and pages of content that is super relevant
+for the topic at hand.
+And this AI search is powered by Coactive.
+So we can actually enable this night
+and day difference where you can find the pieces of content
+that you're looking for with no tags,
+no metadata whatsoever. Now with that example.
+<v ->And we should pause on that for a second,</v>
+Simon, you and I have been in this industry
+for a really long time.
+The no tags whatsoever part, is that like a big deal?
+<v ->It's huge, I don't know any organization,</v>
+especially the Walt Disney Company where I used to work
+for would just kill for something like that, right?
+Because finding content was one
+of the hardest things we need to do.
+Even if we found it, could we even open it? Right.
+It's a fascinating problem.
+<v ->Yeah, for sure, and just put a context,</v>
+I did a project a really long time ago, about 15 years ago
+where we went, if people watch "Seinfeld",
+any "Seinfeld" fans out there?
+we wanted to go back
+and people wanted to go look at all "The Soup Nazi"
+scenes, right?
+And so we had to go manually tag for one show
+and it was a multi, multi month project
+to go manually tagged.
+And we actually used like Adobe Premier to go in
+and like do frame level metadata on it.
+And it took a really, really long time.
+How many people think that scales?
+We like, the output didn't scale.
+So yeah.
+<v ->Yeah, exactly.</v>
+And now you can do it in less than a second.
+And it's been amazing to partner with Reuters to really kind
+of push it forward in terms of supply chain.
+So now with Coactive you can find those clips that you need
+as a journalist or an editor in a matter of seconds.
+That means as a consumer,
+the story gets out to you faster than ever before.
+You can keep a pulse on what's happening around the world,
+be notified of breaking news faster than ever before.
+And not only are you getting it faster,
+but you're getting it better.
+You're getting more content that is more relevant,
+more visually appealing for the story at hand.
+And as well as we're also enabling creators, you know,
+the people that are creating this content to be able
+to surface their content more easily
+and actually create more incentives
+for creators to create this content.
+And now you don't have to worry about
+that SEO optimization game
+and instead the best content for consumers gets out there.
+<v ->Yeah, and I think it's a good example, Simon go ahead.</v>
+<v ->So I'm gonna talk a little bit about Hollywood, Eric,</v>
+because that's the world I know
+and from a distribution perspective,
+I have never seen an ability now to do things
+I've never done those processes of creating content,
+you know, whether it be storing it, finding it.
+I worked a lot on versions of visual effects
+for example, like even finding versions
+of the Millennium Falcon that was done in 1977.
+Even if I could find it, I couldn't even open it, right?
+But those distribution processes
+that you talked about, Eric, right?
+You know, whether it's spitting stuff out
+for dailies for example,
+or I'm setting stuff out to a post house for example,
+or you know, even if I'm looking for actors
+or actresses to play certain roles
+or script analysis for example,
+all of these things are now changing
+and I wanna bring a a bit of nomenclature
+to the conversation, which is agentic AI.
+So those workflows, right, that we might have
+and do 10, 15 times a day, those are going
+to become automated through
+what we call agent-based workflows, right?
+So not just AI but a workflow that can be called
+through a maybe a smart bot, whatever else it might be
+or processes can kick off
+and it will move the content from A to B,
+do the color correction, do the, you know,
+whatever deep fake analysis,
+whatever else it might be that's on there.
+Those things are real.
+And we're talking about taking content time delivery down
+from like almost 90%, right?
+Because there is no question that studios have to go faster,
+need to keep the quality good as we've talked about,
+but they've got to go faster
+and those processes are going to be key, right?
+And we're seeing most studios now think about how to derive
+that kind of value from distribution.
+<v ->I like it. Do you think it improves quality?</v>
+<v ->I think in the hands of the right people? Yes it does.</v>
+I think there is obviously some people
+who care a lot about quality and some that don't.
+I think for consumers, right?
+Sometimes I care about quality
+and sometimes I don't, I just wanna see it.
+But then at a certain point I do care about quality,
+I think it's gonna be in the hands of whoever's
+gonna be creating that content.
+<v ->Yeah, I love it, but hopefully it's starting</v>
+to make sense a little bit.
+Whether it's like the Thomson Reuters example
+or in Hollywood there's so much content
+coming in that it has to get funneled into the people
+that are moving with it.
+If they could do a better job of that,
+an example I might use is if you were doing
+like an unscripted reality show,
+imagine all the footage that's being shot,
+you can only look at so much of it, right?
+So if there's better ways of doing something like this,
+you're actually gonna get a better show.
+<v ->I mean, even automated metadata, right?</v>
+For example, right?
+Because as soon as it comes in you gotta rely on someone
+else to potentially put it on a spreadsheet somewhere.
+Well no more, right? We can't have any more of those types
+of processes that just doesn't work.
+<v ->Yeah, no, for sure, Soyoung, you also have an example,</v>
+I think that's kind of right up this alley as well.
+<v ->So I think there are like, I agree with it,</v>
+obviously everything here.
+I think two things that I can share is,
+one is on the media supply chain.
+And this is something that one of our customers kind
+of like presented last year,
+which is it used to take them and there are sports,
+there are very large sports franchise
+that owns multiple teams across different leagues
+and sports categories for every single game
+after that game, you have to manually tag
+and log what's happening in every given moment
+within that game.
+And this is to be able to know when to clip
+and create highlights
+and also to may be able to make that piece
+of content accessible in the future for any licensing
+or fan content creation processes for fans.
+And in that you're not only taking one piece of video,
+you're actually taking so many different camera angles,
+the game press conferences, documentaries,
+imagine how many hours of footage you have
+and it takes about 30 hours to log one game
+or one piece of footage for one game.
+And with AI what you're able to do today
+and with Twelve Labs, what they were able
+to do is actually cut that down to eight minutes.
+And it does take AI time today out of the box to be able
+to understand it's almost create a human-like memory
+of everything contextual that's happening.
+But you're not just limited
+to a predefined taxonomy,
+today what you're able to do with AI
+is almost ha it's almost like
+you've already watched the content before.
+So you could describe things like maybe there's a heated
+moment during that game.
+Maybe there's a player engaging with a fan
+in a very unexpected way,
+maybe there's, you know, a very interesting shot happening.
+All of those things, if you describe it in human language,
+you'd be able to find exactly that moment.
+So you're cutting down that time for retrieval
+and hence the time to reach fans
+and hence you're able to create highlights
+and content at scale that speaks to particular audiences.
+<v Eric>And that's the context, right?</v>
+<v Soyoung>Exactly.</v>
+<v ->That's so important</v>
+that you don't get in or you haven't had in the past.
+<v ->Yes, exactly, and then the second part</v>
+is what you said was just agentic AI is incredibly exciting
+because these are some examples of Twelve Labs
+where you're actually just using language to be able
+to search and generate summaries
+and descriptions of what's happening in content.
+But agentic AI actually allows you to solve
+for much more complex tasks now leveraging maybe one model,
+maybe multiple models
+and you can say, "Hey, create 10 highlight reels
+of something specific, this mood happening across all
+these series or across this game."
+And it would be able to perform that task
+and provide the creatives with drafts.
+And that's a much more complex task
+and agentic AI that combines a lot
+of different model capabilities
+and also combines the knowledge of creatives
+would be able to solve for that.
+And it can be customized specifically
+to different organizations,
+to different units within organizations and workflows.
+So definitely super exciting.
+<v ->Can I add one thing?</v>
+So to point on what you said, right?
+It's not just, you know, 10 different versions, right?
+But it could be creating different versions
+for different formats.
+For example, having those EDLs already ready
+to go out the door, they're ready for TikTok,
+whatever else it might be, right? That's huge, right?
+And even if you wanna replace one click with another,
+just doing it super easy 'cause it didn't max your kind
+of fit the narrative that you had.
+<v ->Yeah.</v>
+<v ->Yeah. That's great.</v>
+<v ->Now Eric, if I may, you know it, I just listening</v>
+to everyone talk and it makes perfect sense
+and I think there's a common thread going through it.
+You know, I'm coming at it from the hardware space
+and it's powering this technology, be it the models
+or be it, you know, what's actually happening.
+But you know, Simon I think brought it up
+and Soyoung mentioned the agentic, you know, workflows
+and what we've seen is, you know, when AI kind of started,
+a lot of the hardware was designed around the need
+for training and I dunno if you're familiar with it,
+you know, training and inference,
+but training is, let's say the creation of the model
+and inferences poking the model
+or getting the results out of it, just to oversimplify it.
+But you know, this hardware was developed with this idea
+that training was gonna be the workload
+that everyone was gonna use
+and that's what the hardware needed to be designed around.
+You saw all these graphs that said, you know,
+the market will be 90% training and 10% inference or 70-30.
+When you get to agentic workflows,
+what you're really doing is instead of just asking the model
+or the model is one thing, you're asking a series
+of repeated queries over and over again
+and the amount of inference compute you're using,
+the model explodes in terms of how much compute is needed.
+And that's why I think to power all of these experiences
+and to enable the sort of agentic workflow future,
+having hardware that's ultra expensive
+or takes a nuclear reactor
+to go power in a data center somewhere doesn't make sense.
+And when you start to talk about the personalization,
+you know, do you really want that in the cloud
+or do you want to have hardware that's affordable
+that can do all the inference that you need it to do,
+that can do some training where needed,
+but also be on premise in your house or in your studio
+or in your production labs.
+And I think that's gonna be more and more important.
+So, I look forward to when I hear all these examples
+of what, you know, this team here
+is doing with AI that, you know, being able
+to provide a hardware that can go, you know,
+do the workloads of the future,
+I think is gonna be crucial moving forward,
+so super interesting.
+<v ->I love it. Alright, so we have five minutes left.</v>
+I know that we could keep talking for a while,
+but Simon, we have to hit what creators are doing
+and I know you've been spending a lot of time
+on that, not only in your Disney time,
+but right now where do we have use cases that are ripe
+for AI in the creator space?
+Not that it's not a touchy subject.
+<v ->So all power to the creator.</v>
+<v ->All power to the creator.</v>
+We all say that "All power to the creator".
+Are we gonna have creators here?
+<v ->Yeah.</v>
+<v ->Yeah, absolutely.</v>
+And I believe that with all my heart
+and soul and I also believe in AI.
+So let's talk a little bit about this.
+<v ->Okay, it is a touchy subject for many, right?</v>
+Because I think there's a protective nature
+around being a creator,
+but I think it's really key to kinda share,
+Microsoft has a perspective that AI is not creative, right?
+You are to some degree, but you have amazing.
+<v ->You are all creative, aren't you?</v>
+You feel you're creative out there? Yeah, I think so.
+<v ->But you have amazing tools at your fingertips</v>
+and things couldn't do before, right?
+And platforms you couldn't post on before in ways
+that were just unimaginable, right?
+I was working on some stuff for our leadership recently
+and there's an amazing statistic,
+I shared it with you ahead of time.
+I'm gonna say it out here.
+You know, the creator economy is 14% of the entire
+M and E industry, $250 billion.
+But it is responsible for half of the growth
+of the entire industry, right?
+So creators are doing things
+with this technology in a way we don't truly
+realize right now, right?
+They are changing workflows in amazing ways
+and from a large studio perspective, right?
+They are grappling with how to leverage the technology
+in a workflows that have existed for 10, 20 years.
+'cause most people don't understand
+that workflows in the media space have existed
+for a very long time and they tend to have to, right?
+Because you need to rely on them day after day.
+But from a creative perspective,
+whether you're using one model or others, right?
+For animation or for short form content
+or long form content,
+we're seeing it everywhere from storyboarding to ideation,
+to saving money on sets, design,
+who's gonna be the best actor for this particular role?
+There's a lot of exploration in this area.
+So from a creative perspective, I could not be more excited
+because I think it's just the power at their fingertips
+to do things that have been in their minds
+for a very long time, right?
+And but the importance of the human element of storytelling
+is still the most fundamental thing to me.
+<v ->Yeah, no, I totally agree with it.</v>
+You gonna make a comment?
+<v ->Yeah, you know, I think that's so true, you know,</v>
+and I think that AI is going to democratize the creation
+of content in the way that the internet
+democratize the distribution of content.
+It's going to allow new people to tell stories,
+to actually tell stories like never before.
+For example, I'm dyslexic
+so I have always hated writing essays and dread it,
+but that doesn't mean that I haven't had good ideas
+or been able to like, have stories I want to tell,
+now I can be enabled because of AI to be able
+to tell these stories.
+And I've been using Grammarly,
+which was like an AI software to help with editing
+for years now.
+And then I also think about the fact that like,
+not only will new people be able to tell stories,
+but we'll also be able to reach people like we weren't able
+to before where now you can actually go
+and have translation to like other languages
+around the world and you can actually speak to someone
+that speaks a completely different language
+whether they are in Italy or China or India.
+And I think that that is so amazing when I think
+about the creative power of AI.
+And I really think that the human storytelling aspect,
+you know, the fact of how to create a great story
+that is uniquely human.
+And I believe that more strongly now than ever
+after going to a generative AI film festival
+and seeing that firsthand, that the best ones were the ones
+where you had someone that knew storytelling
+and then they used AI as a toolkit
+just as what happened when computer graphics came,
+people were afraid that, you know,
+set builders went on strike when computer graphics came out.
+But you know, it take over the world.
+We're not all watching CGI, it actually became a new toolkit
+for creators and for storytelling.
+And I think we're gonna see the same thing with GenAI.
+<v ->Yeah, I love it, how many people</v>
+out there have created something?
+And by the way, I'm a composer so I grew up doing that
+and the example I always love
+to give is if you went way back in time Js Bach,
+there wasn't computers and all of that
+and when they needed all the parts for all of the musicians
+to play, guess what they had to do
+and copy it out of the score.
+Is that a good use of a creator's time? No.
+So that's a creators have been creating tools
+to help them create for the beginning
+of the time we've had creation.
+It's how we use them, who are using them.
+I agree with you guys both a hundred percent.
+Alright, so we're running a little short on time,
+but David, I wanted to ask you a question capabilities wise
+and Simon real quick power round on this,
+the capabilities to support a lot of these things
+we're talking about are advancing pretty quick.
+Tell us a little bit about that.
+<v ->Yeah, no, like I said, I think if you look at the amount</v>
+of compute required, it's exploding
+and I think there's been shift from this training
+to inference and I think what we're seeing now
+is that, you know, the video game example
+I gave was a great one, right?
+There's no question that the video games coming out,
+maybe even this year, definitely next year are gonna
+be developed on the fly.
+You know, we were looking at CES, who was it?
+It was either Nvidia or Razor,
+one of the gaming companies, they came out
+and they showed that, you know,
+you could have a second player being powered by AI,
+or play alongside you just like a real player.
+Even in the media space,
+we're working with a company called Riff,
+which is super interesting
+and they're able to do visualization, product placement.
+So if you are an advertiser
+and you have like a bottle of coke in a movie,
+in a different market where they don't sell coke
+and that could be changed out on the fly
+to a different brand
+or a different product or even a different item.
+You know, these kind of things are all happening
+and I think whether it's generative
+or whether it's sort of support tools
+or whatever, the technology is there,
+the amount of compute required is growing
+and I think it's gonna be interesting to see
+that the capabilities driven by this hardware,
+can you do it without having to use all the power
+that's available.
+Not, you know, run outta power, run outta compute,
+but have have that sort of, like I said,
+wherever you are on premise without having to go
+to the cloud and having enough of it.
+That's all happening now and that build out
+is happening in time for these workflows
+and these new things to happen, so yeah.
+<v ->But the cloud is still cool Simon,</v>
+so that's part of the capability set too.
+And you guys at Microsoft are working
+on tons of different capabilities.
+Just give us maybe two really good ones.
+<v ->Well, I mean we're buying on nuclear power plants.</v>
+<v ->You could talk with Simon out in the hall</v>
+about that particular topic.
+<v ->But yeah, I mean the cloud is really important.</v>
+Look, we need to bring the data closer to the cloud
+for real time rendering and everything else.
+It's super critical.
+The on-prem components are gonna be huge.
+You're gonna need to re-architect workflows time
+and time again over a little bit
+because yes, you might use something for AI today,
+but you're gonna be able to do it differently in six months
+from now and you're gonna save yourself a ton of compute
+TPUs, GPUs and others.
+And we see that, right, because the cost will go continually
+down, but those workflows are gonna become more important.
+So I just see a lot of capabilities needed in the cloud
+and you're gonna need the tools when you need them, right?
+And gonna rely on stuff in the cloud from a security based
+perspective as well that are gonna become super critical.
+So it's really important we've doubled down on all of that
+and I think for our perspective,
+the power piece is gonna be huge to understand.
+<v ->I love it. All right.</v>
+So we're gonna summarize a couple things.
+We're gonna go through two power rounds
+and then we're gonna wrap it up.
+But so what have we heard so far?
+We've got more personalization, better on search.
+We're gonna be bringing the consumer closer from the creator
+all the way straight to the consumer,
+which I think is gonna be super interesting.
+On the workflow side, we're gonna see
+I think a renaissance of workflow reinvention,
+which is a enormous, a part of what happens
+behind the scenes to get any major films created.
+Example I love to give is 10,000 visual effects shots
+on the "Lord of the Rings" when I was at Amazon Studios.
+That's a lot of content to get orchestrated.
+We're gonna see that with the agentic AI.
+We're gonna be able to find
+and search through the troves of content for the people
+that are putting it all together,
+much better that's gonna be approved.
+And then the tool sets are actually gonna improve taking
+away things that actually don't add value
+and it's gonna help others be able to kind of create
+some content, whether it's in the writing space
+or it's in the video space,
+and allow that to commit catch up.
+And Simon and I agree with you, hold a sec,
+it doesn't change the fact that you still need novel ideas
+coming from amazingly creative humans
+and it's still gonna make us want to kind
+of sharpen our skills in other areas.
+You have catch up so far we're well good.
+Alright, so let's do this
+and I'm just gonna go straight down the row.
+All right, so first question, 2030 CES,
+what's the crazy thing we're gonna be talking about
+with AI and entertainment then?
+<v ->So I think the amazing thing that's happening right now</v>
+in AI that's unique is that machines
+can finally see the world like we do.
+And I think technology's gonna be increasingly transparent.
+We're gonna, and especially when you think about AR,VR ,
+at the same time you're gonna be able to talk to machines,
+talk to computers like you would like a human being
+with glasses or whatever.
+And I think we'll see a whole new set of devices that kind
+of are an evolution from our phone that are transparent
+and that's how we interact with a digital world
+as the digital and physical worlds blur together.
+<v ->I actually fully agree with you on that one.</v>
+It's really cool. It's gonna be a really fun time, Simon.
+<v ->I'm just gonna say artificial general intelligence</v>
+is basically what you just said.
+I think we're gonna engage much more differently,
+Quantum computing, Moore's law, right?
+We go faster, we're, we're gonna go much quicker.
+This is a hype cycle of innovation.
+I think we're gonna see the next couple years just explode
+and I think it's gonna be a thrilling ride
+where we're gonna try
+and make sense of everything that's going on.
+But I would say artificial general intelligence for me.
+<v ->Okay, excellent, excellent. Alright, Soyoung.</v>
+<v ->Two things, one, totally interactive</v>
+and immersive content worlds.
+I would love to live in The Shire or in Hogwarts
+and to be actually to be able to interact
+with these all the things in that story in real time.
+And I think storytelling will become incredibly personalized
+and you'll be able to create your own story as you go.
+The second thing is that same capability
+that we're talking about for storytelling is actually very
+applicable across different industries,
+whether it's healthcare or robotics or automotive.
+And so if you have AI that can truly understand
+and interact with the world,
+it means we can power incredible things in healthcare,
+patient monitoring and safety and so on.
+So I feel like there's a very clear path to merge all
+of these worlds together through AI.
+<v ->Alright, David.</v>
+<v ->Easy, 2030, maybe even earlier,</v>
+Tenstorrent, next generation AI processor is gonna design
+itself and manufacture itself.
+<v ->All right, boom. There you go. All right, here we go.</v>
+Last thing, we're gonna help everybody out here.
+It's the beginning of the year, everybody's got goal setting
+and we're gonna help you with your goal setting.
+Cody, tell us like the audience,
+one thing that they should put on their goals
+here for 2025 to get ready for all of this.
+<v ->Play around with AI. Have fun.</v>
+<v ->Alright, play around with AI and have fun, Simon?</v>
+<v ->Data</v>
+<v ->Data.</v>
+<v ->Figure out data really quickly.</v>
+<v ->All right.</v>
+<v ->I should use AI. Try it. Yeah.</v>
+<v ->Try it. All right, more play?</v>
+<v ->No, I gotta reinforce it, you gotta use the tools</v>
+to know them and I'm shocked at how many people
+aren't using all the tools available.
+So go try something, whatever it is, and tell a friend.
+<v ->I love it. So get the hell outta here.</v>
+Stop listening to us, it's time to go use this stuff.
+Have a great rest of your CES, thank you for listening.
+And then our presenters are gonna be out here
+in the hall if you wanna talk to them.
+Thanks.

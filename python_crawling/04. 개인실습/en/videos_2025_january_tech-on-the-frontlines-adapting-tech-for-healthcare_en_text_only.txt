@@ -1,0 +1,957 @@
+<v ->Well, welcome, everyone, to the Postprandial CES session.</v>
+I know folks' glucose might be challenged.
+We've talked a lot about glucose monitors
+the past couple of days,
+but we promise to keep this session spicy so
+you all stay awake.
+<v Guest>That's good news.</v>
+<v ->It's about tech</v>
+on the front lines
+and how we adapt technology for healthcare.
+So the premise that we're gonna go with is
+that utilizing tech for healthcare is
+different than other industries.
+And people may disagree,
+but that's the premise that we're gonna go with,
+and that we haven't even really tapped
+the true potential of tech and health,
+given all that we've seen in the various exhibit booths.
+And then finally, we're gonna learn
+what can other industries learn from health and wellness
+in terms of how we're adopting tech?
+I'm John Whyte. I'm the Chief Medical Officer at WebMD.
+Many of you know it and have come to it.
+It is a huge online platform.
+It's our 30th anniversary this year.
+So we have survived.
+That's a long time-
+<v Guest>Wow, that's</v>
+a long time.
+<v ->For the tech industry.</v>
+And we have a great panel today to talk
+about what this session is all about.
+So I'm gonna allow them to introduce themselves.
+<v ->Hey, friends, I am Jen Gardy.</v>
+I'm with the Bill and Melinda Gates Foundation.
+It is our first time at CES.
+We are incredibly excited to be here.
+My role at the foundation, I'm a Deputy Director
+on two teams within our Global Health Division.
+One is the Malaria Team,
+and one is our Institute for Disease Modeling.
+And at the end of the day, most of my work
+at the foundations rolls up under the umbrella
+of how do we use data, including digital data
+for better decision making.
+<v ->Hello, everyone. My name's Karen Finger.</v>
+I'm with Verizon Business, and I'm our Global Lead
+for our Connected Health Strategy and Innovation Ecosystem.
+And what that really means is we,
+if you think about Verizon at a macro level,
+we, our vision is to build connected experiences
+and have an impeccable consumer experience,
+and also an impeccable enterprise employee experience.
+So what our team does is
+literally we adapt that for healthcare.
+So we take a look at all the assets
+and capabilities that Verizon can bring forward
+around the transformative nature of our 5G network
+and platforms, edge computing,
+our security portfolio.
+Verizon, little known fact, we see
+over 70% of the world's traffic.
+So as we think about healthcare, to John's point,
+security plays a big role.
+And so we help, you know,
+figure out and bring expertise forward
+around building those secure platforms.
+We've got, we look across our IOT platforms
+as well, and then our CX platforms.
+And if you, we also look inward at Verizon,
+and how are we leveraging for our own company around?
+We run one of the largest retail organizations
+and supply chains in the world,
+so, and consumer channels.
+So what learnings can we adapt from that
+to bring into healthcare?
+We deploy vast technologies into venues,
+retail, hospitality, financial services.
+And so we, part of my role is
+to look at across all those technologies
+and leverage that to help solve complex problems
+in healthcare around how do we extend patient access
+to underserved communities?
+How do we personalize the experience?
+How do we capture, secure, collect, move the data
+around the ecosystem between the workforce,
+the med tech devices into the home,
+you know, building that
+smart connected hospital ecosystem, if you will?
+I'll be quiet now 'cause I gotta let Zach,
+but one quick thing is we always get,
+which is I still find very interesting
+after all this time, is what's Verizon do in healthcare?
+So hopefully, you know, we'll shed
+a little bit of light then.
+But I think Uber now, you've superseded us
+and topped us in.
+When I've mentioned you were gonna be on the panel with me,
+what's Uber do in healthcare.
+So that's a good segue.
+<v ->Okay, there's</v>
+one moderator here.
+<v ->To turn...</v>
+<v ->That was a fantastic segue. Thank you.</v>
+Zach Clark. I'm the Global GM for Uber Health.
+To your comments, what is Uber doing in health?
+So we are a platform that extends access
+to non-emergent medical transport
+as well as delivery into the home.
+We work directly with medical providers,
+health systems, payers, and states
+to extend the underlying network
+that Uber curates and bring it to healthcare.
+So our customers leverage us in every day to move patients
+to their homes and into clinical settings.
+And then we also do the reverse, right?
+So we then bring things to the home,
+whether those are prescriptions, healthy items,
+OTC, grocery items, et cetera.
+<v ->All right, good afternoon. I'm Mattias Lange.</v>
+I'm from NXP Semiconductor.
+I'm running, I'm Vice President of the Industrial Systems
+with a special focus on health.
+And I've been running our personal health business
+that had a specific focus on portable
+and personal medical devices.
+And we all know that all technology, right?
+It runs on semiconductor, it runs on chips.
+So we are one of those who provide all
+of the fundamental technology that enables
+all of these great applications
+and everything that we will talk about.
+<v ->So the premise of this session, again, is that</v>
+tech and health is different than in other industries,
+and everyone likes to think that they're different.
+So I'm gonna start off last first and start with Mattias
+and ask how is tech and health
+different than other industries?
+And if you disagree, let's hear it..
+<v ->Because you promised to keep it spicy, right?</v>
+So I'll say-
+<v John>Yeah, you are</v>
+the one that keeps it spicy.
+<v ->Right outta the gate.</v>
+So for us, and you're right,
+all industries say, "We are special," okay?
+And we work at our company, we are in cars,
+we are in medical, we are in consumer applications,
+all kinds of industrial.
+I would say fundamentally, most of the technologies have
+a lot of commonalities.
+You want more compute power, you want AI capabilities,
+you want security, you want connectivity,
+wireless and so on.
+So for us, the fundamental building blocks are
+very much the same.
+The instantiation of them are different.
+And I would say actually one
+of the biggest differences is the ecosystem.
+What do I need to actually build a complete system solution?
+So the fundamental technologies
+I would argue are not very different,
+but it's the ecosystem
+and what actually creates opportunities
+and willingness for people to invest and go
+and develop the final applications.
+<v ->Yeah, I would say for Uber and for Uber Health</v>
+in particular, I would agree with you.
+I think the fundamental building blocks need
+to remain the same.
+Certainly there are requirements about data security,
+HIPAA security, et cetera, that make the way that we manage
+that data or the way that we can leverage that data
+differentiated from a true consumer experience.
+But I would also say that if we're doing our jobs right,
+we're bringing the magic
+of what a consumer experience is to the space.
+And that's something that we think really critically about,
+which is in an environment that is notoriously difficult
+to navigate, it is complex.
+When's the last time anybody in this room understood
+what their EOB was, let alone an EOP?
+And I use that as an example only
+because the reality around the complexity
+of navigating the system is already really challenging.
+And so we want to take the best of that consumer experience
+and those building blocks and then impart them
+and hopefully shed value, create value
+and shed a light on what can be made easy.
+And I would say the second piece
+of that is there are few experiences
+in healthcare that are always the same.
+There's not a lot of redundancy,
+there's not a lot of scalability in some cases.
+That's why it's so fragmented,
+particularly here in the US.
+And so I think there's something to be said around,
+at least for Uber, the repeatability and durability
+of knowing exactly what's gonna happen every time I get
+into that vehicle and I get to a hospital and I get back.
+And I, knowing that and having that,
+that to me is kind of the building block
+by which we think about where there's differentiation, so.
+<v ->Yeah, that's a big question.</v>
+So we come at it, our point of view is,
+and again, we, I've had the privilege
+of working really in, across all the different kind
+of vertical industries,
+and they all have their own personality
+and nuances and regulations, but healthcare, as we all know,
+is just complex and hard.
+So as we think about adapting the technology,
+I mean, foremost as we're building
+those network connectivity, strategic platforms is
+starting from the ground up and building it right.
+And then once you build out the proper platform
+that's strategic, it becomes
+an innovation utility platform, if you will.
+We think about how do we make sure it's secure and trusted
+and then frictionless for the end users,
+for the consumers, for the patients, for the members.
+And also how do we make it easy to use
+for the clinicians?
+And there's such a vast shortage of clinicians.
+And so how do we, and you know, we find, like,
+our team ends up working with and talking to
+and collaborating with clinicians
+and we say, "You bring the clinical,
+we'll bring the technical."
+But we've gotta have their buy-in upfront.
+You know, where and what can we automate
+across that ecosystem?
+But I'd say secure, you know, thinking mostly about security
+and the user friendliness of the experience,
+both for the providers and the patients
+so they won't use it.
+And patients or consumers really, they don't wanna have
+to use their healthcare,
+but when they use it, it's gotta be, like, easy to use.
+<v ->And I'll answer it from a different perspective.</v>
+You know, at the Gates Foundation,
+we work in the Global Health and Development space.
+So bring a different lens than my fellow panelists.
+I think the first thing that I would mention is that
+in that space, developing technology for health isn't
+a nice to have or a need to have.
+It's, like, a moral imperative.
+If there is technology that has the potential
+to improve health outcomes around the world,
+to save people's lives,
+we have to be developing this technology.
+It's a must.
+And then part of that, you know,
+Karen talked about designing systems
+right from the ground up.
+And part of that is designing for access too,
+because health technology is nothing
+without access to that technology.
+You can have the most incredible product,
+the most incredible offering,
+but if it can't get to the communities where it is needed
+and if it's not taken up,
+if the community's not receptive to that,
+you're sort of innovating into a void.
+And the last point I'd make
+from the global health perspective too, is that for us,
+technology encompasses innovation
+at a range of different scales.
+I mean, yes, some of it
+to Mattias's point includes semiconductors,
+but some of it can be, you know, as simple as
+a plastic sheet or a color changing sticker.
+So our view of health technology might be
+a little different than my fellow panelists.
+<v ->Well, actually, can I add on to that?</v>
+<v ->Sure.</v>
+<v ->Yes.</v>
+So great points around, I'm thinking about delivery
+to the point of care, or the point of need.
+So we spend a lot of time thinking
+about how do we extend our network and our capabilities
+and our vast partner ecosystem together
+to deliver care into, you know,
+the rural parts of the world?
+So some examples are,
+you know, we've stood up private networks out
+in, like, an Indian reservation in Alaska
+to bring healthcare out there.
+We are looking at how do we connect
+the home as a smart patient room
+and really become that care,
+that assistant to the care team
+through intelligent automation into the home
+or within the four walls of the hospital.
+And we look at even, I mean, I could walk around...
+I mean, I had to be, this is my first CES.
+I'd have to be here, like, a month to probably even,
+and I don't even know if I'd see everything.
+But you know, when I walk through the halls,
+whether it's a healthcare company or not,
+it's, like, how can we adapt that for healthcare?
+And we, you know, there's even interesting
+strategic partnerships we've done with,
+around banks as an example,
+to put health station kiosks at banks
+to deliver point of care, you know, access there.
+So there's a lot of interesting...
+We just have to experiment and try different things
+and some things work and some things don't work.
+But you know, we really, because we're connecting
+that entire ecosystem, we see kind of,
+we get a perspective from all the different endpoints,
+if you will, of the point of care.
+<v ->Much of the conference is about the future, right?</v>
+The future of tech.
+And, Jennifer, you and I were talking before we came in,
+that does tech and health have to be different
+than tech and other industries in the future?
+What do you see that and what needs to change for us
+to get there?
+Is it regulation? Is it workflow?
+Why are we different, and how do we become less different?
+<v ->Yeah, well, I think one of the things</v>
+that we really have to lean into is looking
+for multi-sectoral solutions in the health space.
+You know, Karen just spoke of how
+it's about the entire ecosystem to get innovation out there.
+And that's really what we're seeing at the foundation.
+It's not enough for us to invest
+in a really amazing product,
+but we have to be thinking about things like,
+you know, what does the future of the market
+for this look, what does that look like?
+And how can we help that to evolve
+in the way that it needs to?
+What does the future of the regulatory ecosystem look like?
+And can we be supporting entities that help set the policy
+or, you know, accelerate time to market
+for some of these innovations?
+So for us, a lot of it is thinking about how do we just go
+beyond the health sector to leverage, you know,
+other sector's expertise and past experience?
+And I think one of the other things that we need
+to look at too, and that I'd love to see represented
+in future CES's is changing the geographic focus
+of tech in health as well.
+'Cause as I go out and look around the CES exhibit floor,
+you know, I see a lot of stuff coming from North America,
+from Asia, from Europe,
+and I would love to come to this event in, you know,
+two or three years and see tech innovations
+that are coming from say, the African continent,
+because you do have there an incredibly fast growing market
+and incredibly young population is gonna be really receptive
+to both using and developing these sorts of technologies.
+So for me, the future is both multi-sectoral
+and, you know, a dramatically expanded geographic footprint.
+<v ->Zach has leaned forward.</v>
+So I feel like there's something you wanna say.
+Is it payers? Is it regulators?
+What needs to change so it's more uniform?
+<v ->There's quite a bit that needs to change.</v>
+I think we all know that.
+What I would say though, John, is it's different.
+Let's use my business for example,
+which is non-emergent medical transport,
+which many of you may not have experienced before.
+But if you're not familiar with it,
+it is essentially a benefit that
+every Medicaid beneficiary of the United States has.
+And the requirement, effectively going back to 1971, is that
+if you're going to take federal dollars
+to perform, or not perform,
+but to serve Medicaid beneficiaries in a state scenario,
+you have to offer transport
+for those who are transportation insecure.
+So this is something that's been going on now
+for multiple decades.
+In that construct, there are still 24 states
+in the United States that don't allow rides hare companies
+like Uber or Lyft to participate in those programs.
+Still today there are states that say
+taxis have preference over ride share
+or ambulatory entities have
+preference over ride share, et cetera.
+And why is this?
+There's a whole lot of regulatory capture
+that's kind of embedded in it.
+But the reality is these are technologies that have been,
+that have diffused around the world.
+They are low cost, they're redundant,
+they create magical experiences
+for both the driver and for the patient.
+And they're still not allowed in several states, right?
+And so in many states,
+even when there's a low cost requirement,
+which requires the entity that's managing that program
+to choose the lowest cost provider for that beneficiary,
+we would be the lowest cost provider by 20%.
+But we're not even in that market today
+because of the historical constructs
+and the protectionism that exists
+in the marketplace today in that scenario.
+And I leaned in because that challenge doesn't exist
+in the Medicare Advantage program, right?
+Medicare Advantage is adjudicated at a federal basis,
+it's funded through taxpayer dollars directly.
+It is a federal program.
+And in that scenario, we have no barriers to access.
+So seniors are taking rides now at historical rates
+and transportation programs
+that their health plans have been offering now,
+really since the advent of SSBCI,
+but even a little bit before that.
+So you're looking at five or six year window of time,
+and in those cases the proliferation
+of access has been really demonstrable.
+So patients get where they need to be,
+they get there efficiently, it's cost effective,
+and it's an experience that I think has
+a lot of empathy for that patient and the user.
+And so to your, why are we different?
+That's a great example where the complexity of regulation
+that are sometimes completely in conflict
+with each other create really strong,
+I think, barriers to access that I think we need
+to think about changing, so.
+<v ->Yeah, I think we can't get out of our own way here</v>
+in the US sometimes.
+I mean, I've been to the first,
+the telemedicine conference that was in China
+and they were doing things that, you know,
+early, I mean, this was 12 years ago in telemedicine
+that we had yet to do here, because, you know,
+see more of a single payer system,
+which can simplify things.
+But to your point in other geographies, right,
+what can we learn?
+I think out of a necessity, they're doing things right.
+They're innovating and have a more sense
+of urgency towards it than I think we're...
+I do feel a perfect storm coming here for 2025
+with just the massive amounts of data
+that everybody wants to harness
+and deliver in real time to clinicians
+for faster clinical decision support,
+for better patient experience, you know, care anywhere.
+But the prior panel,
+the Chief Medical Officer for ResMed said,
+you know, I think the best quote I've heard so far was,
+you know, "We have to get over ourselves
+and embrace the disruption,
+maybe not take ourselves so seriously
+and just start doing things and executing."
+And I think, you know, it's time to really start executing.
+It does not have to be different than the other verticals,
+other than we are dealing with life and death.
+But I think there's ways to right solve for that.
+<v ->I think that you asked, John, what is different</v>
+between healthcare and other places,
+because we also know that we have the technology
+to solve a lot of the problems.
+So we know that nurses are overworked.
+They're overstressed.
+There are horrific numbers actually showing
+how many nurses actually want to quit and so on.
+There are solutions that can release their burden,
+but because of how things are budgeted
+and who's paying for what,
+the technology doesn't get accessed.
+So I'll give you one example is
+something that we have solutions for is
+smart wound care.
+70%, we have numbers showing that 70%
+of wounds in hospitals are not treated correctly.
+And you could get to the terms of that
+to a high degree if you had intelligence in those dressings
+that could measure pH, pressure and a bunch of other things.
+So that technology is actually available,
+and it's pretty cost effective,
+but there's inertia in the system to get those kind
+of things deployed and get those things out,
+because of the way things are structured and budgeted
+and paid for and so on.
+So these are key things I think that the industry will need
+to work at to get access to the technology.
+<v ->You know, much of healthcare success is</v>
+based on partnerships.
+It's very hard to have a technology
+in and of itself to be successful.
+I mean, we've heard about this.
+You know, wearables
+without including healthcare providers is not
+gonna be successful,
+which is a little different than some other industries.
+So where have you seen partnerships
+in health tech be successful,
+and where have they might have failed?
+Who wants to take that one first?
+<v ->I would say another thing.</v>
+I know where I want to see it go, okay, more so.
+So because we are showing things here
+where I think we can take things to the next level
+of providing a much, much better care,
+and I think the partnerships are absolutely essential.
+The way things are going now
+with everything getting connected,
+more data and everything is getting more available is
+it's all about systems.
+It's about not how does this thing work,
+this individual thing.
+How does this thing work together with other things?
+So we have one example that we are showing here
+at the show is a in-home care system
+where I can provide a different level
+of surveillance or care over somebody in a home
+by combining things,
+by combining different type of sensors,
+blood glucose sensors together
+with other things like fall detectors
+connected to a caretaker, connected to a home
+and even to 911 or alarm systems.
+An example is that you can find somebody unresponsive,
+somebody trips or falls over,
+and becomes unresponsive in their home.
+A system that connects multiple different application can
+draw an analysis and say, "Hey, something happened.
+The blood glucose levels became low,
+the person fell over, is now unresponsive,
+I'm calling the caretaker."
+So through the network caretaker might or might not respond,
+the system can connect to 911,
+get the emergency responders out there,
+open the door, let them in,
+and actually even guide through the house,
+the person to the right place.
+To get these things to work, it's a whole network of system
+and things that needs to work together.
+And I don't think, we are not there yet today,
+but these are the kinds of things that we need to drive for
+and the collaborations that needs to happen.
+<v ->Jennifer?</v>
+<v ->Yeah, I was gonna add</v>
+a perspective that again,
+from the Gates Foundation perspective,
+our work is entirely done through partnerships.
+We're not doing this work ourselves.
+It's our partners that are out there having this impact.
+And the partnerships exist across many scales.
+It could be, you know, working
+with an individual researcher, innovator somewhere,
+private sector, academic labs, regulatory bodies,
+all the way up to these big entities.
+Things like GAVI, the vaccine procurement distributor
+or the Global Fund for Commodities for HIV, TB and malaria.
+But no matter the scale of that partnership,
+one of the things, you know, you ask what makes
+for a successful partnership or when that fails
+can tell you time and time again,
+is if that partnership does not include
+community representation and the people that you are trying
+to design that tech for, it will fail.
+So to go back to my earlier point about the importance
+of access to innovation, that community engagement
+and having people with lived experience being part
+of the design process from day zero is,
+I personally think the single best ingredient
+to set a partnership up for success and impact.
+<v ->Yeah, I think I'm not so sure, like, failure would be</v>
+the right way to think about it,
+but versus, you know, challenges.
+And I'm seeing it's kind of evolving
+in an iterative process,
+but we in our role at, you know, our team at Verizon,
+we end up talking to and working with
+and partnering with retail health providers.
+So all the, you know, the CVSs, Walgreens, Walmarts, right?
+All that channel if you will, which is kind
+of going direct to consumer threatening some
+of the healthcare systems.
+So then we work with the healthcare systems who want
+to protect their turf and build, you know,
+their own smart connected hospital ecosystems
+out into the communities and extend their brand and reach.
+And then we work with the health plans
+that are also have their own actually physician providers
+and some of 'em their own hospitals.
+So it often looks very siloed,
+and we're like, why aren't you guys all talking
+to each other and come together?
+We are starting to see that now
+where the health systems are starting to work
+with the retailers to kind of build more of that
+hub and spoke or collaborative
+community engagement and platform
+and really figuring out,
+you know, as a patient starts out
+on their healthcare journey from their home,
+how do you get 'em to the right place, at the right time
+for the right need for their, you know,
+healthcare moment in time, if you will.
+So it's just a complex, right,
+relationship ecosystem and we are starting to see
+a lot more collaboration there, you know?
+'Cause it all has a role to play.
+And yeah, that's, yeah...
+<v ->I think from my lens, John,</v>
+when partnerships don't go well,
+they don't go well because the objectives
+between those two organizations are not
+really clearly defined and aligned
+right out through the relationship.
+And so, we see that a lot where there's
+a lot of interest in brand equity,
+or there's a lot of interest in research,
+or there's a lot of interest in other aspects
+of things that we may be able to contribute.
+But if the organizations, the ethos aren't aligned,
+and the objectives aren't aligned to begin with,
+I think it becomes a really challenging environment
+to get to define really what success looks like.
+And then you end up in a scenario where failure is
+a really obvious kind of next door, so to speak.
+So I know that's a comment more around when we don't,
+when it doesn't work, but I think that has been the kind
+of the ethos of the industry in the last couple of years.
+I think Rock Health a couple of days ago announced
+there were 400 digital health or other partnerships
+that were announced in some form or fashion in 2024 alone.
+Like, it's an enormous amount of activity.
+Like, what that activity is creating, I'm not sure.
+Not sure yet, so.
+<v ->I'm gonna turn to the issue</v>
+of frontline workers in health.
+All of you have spent a fair amount
+of time talking about the impact on patients,
+and that's a good thing.
+But understanding the healthcare workforce,
+which we've heard over the past couple of days
+globally is challenged by the number
+of healthcare professionals,
+and the belief that there will be shortages
+this year, end of the decade.
+So how can AI, other tech tools help
+address this issue with frontline workers?
+Some could argue sometimes it makes
+their lives more difficult.
+<v ->Oh, go ahead.</v>
+<v ->Yeah, this is very dear to my heart,</v>
+because I think we have a responsibility as an industry here
+actually not only in healthcare but across the board.
+And I think also first we need to realize we are
+at about the level of hello, world,
+of what the capabilities are.
+We are just starting.
+So the AI capabilities are really enabling things
+to become more intelligent.
+So far, when people have mentioned smart,
+it's been, it's meant connected and not much more.
+But with the AI capabilities, we can make things
+more real smart, provide some real intelligence,
+and this will change completely
+how we interact with technology.
+<v ->Like, genius. I'm thinking of a better word.</v>
+Really smart.
+<v ->Yes, very smart,</v>
+intelligent, I dunno what's the next.
+We have to find another word for smart.
+Okay? We've passed smart.
+And I think it has the possibility
+to completely, fundamentally change how we do it.
+But then the people who develop the technology,
+we have to put the user at the central focus.
+We have to make it friendly, we have to make it easy to use
+and we have to clean out a lot of those issues that we have.
+So all of the potential
+is there.
+<v John>Who's the user?</v>
+That's part of the question.
+<v ->The healthcare worker. Okay?</v>
+So the nurse, whoever's using it,
+because if I spend all my time doing a setup
+or trying to make the thing connect or get the...
+We can't have that.
+Okay. We need to get past those things.
+But if we do, it can really provide
+that next level of help, so it can really change things.
+<v ->Can I-</v>
+<v ->Let's go down the line.</v>
+<v ->Can I just get my clinician to look me in the face</v>
+while I'm out in an actual clinical room
+and actually look at me instead of the EMR?
+'Cause that's step one, right?
+<v ->Yeah, yeah.</v>
+<v ->Like, that's, I think that, like,</v>
+I say it just because, like, incrementalism is okay here
+to me at least, right?
+Like, whether that's because ambient listening then,
+and AI-generated ambient listening then allows you
+to be more proactive
+around in the patient experience in a clinical setting,
+those types of things.
+I think we forget a lot of times though,
+it is horrible to be a patient
+in the system that we've generated today.
+So all of this needs to be geared
+towards improvement of that experience.
+And a patient's experience is going
+to be better when you have a liberated provider
+and a provider that feels like they can operate
+at the top of their license, that they can bring the empathy
+that is the origination of why they're in this industry
+to begin with, to the experience
+that that patient is having.
+So my hope is that we're okay with incrementalism,
+as long as there is a really clear focus
+on the improvement of those two experiences.
+'Cause it's broken right now.
+That relationship is fundamentally broken.
+<v ->Right, so part of our vision is</v>
+we've got to make the hospital smart
+so it is literally a member of the clinical care team.
+Feeding, delivering information over, you know,
+seamless, reliable connectivity platforms to the clinicians.
+So if you think about just, you know, use case example
+around the smart patient room,
+lots of things going on inside that patient room.
+Lots of data being collected
+around remote patient monitoring, fall detection,
+patient, you know, patient even controls
+around controlling the environments
+within the patient room around, you know,
+the lighting, the temperature.
+I need a blanket or I need my food.
+So instead of AI, we think of it as intelligent automation
+and automating that, that's relieving the burden
+on the nurses from running around doing non-essential tasks
+so they can then operate at the top of their license,
+but have a view.
+You have virtual nurses that can offload
+the nurses that are on site at the hospital
+where they can be monitoring patients
+in real time predictively.
+And then, also thinking about okay, you know,
+moving that now, you know, virtual discharge is
+another big low hanging fruit use case we're seeing
+where nurses can do that virtually inside the patient room.
+And then really taking that smart patient room,
+when we think about it, it's not just
+inside the four walls, but now into the home.
+And that's just another node, an endpoint
+on a, you know, unified, cohesive,
+connected network platform that's really becomes
+the care delivery platform.
+But if, you know, we make it smart, then it literally is,
+it's talking to those clinicians
+and doing a lot of their
+manual or you know, non-complex tasks.
+That offloads them.
+That's the number one thing we're seeing
+and having conversations around right now
+to relieve the burden
+and address the shortage of clinicians.
+<v ->Frontline health where we work looks very different.</v>
+And if folks haven't had the chance
+to visit Gates Foundation booth in Hall D,
+there's actually a really cool immersive experience there.
+You can put on
+a little helmet-
+<v John>Tell us the number</v>
+of the section.
+<v ->It's D something five.</v>
+<v John>Oh, sorry. Nevermind.</v>
+<v ->Something, something,</v>
+54735.
+<v ->Okay, all right.</v>
+It's a big booth. I've seen it.
+<v ->It's a big one.</v>
+Turn right at the robot dog and you'll find us.
+But there's this really cool immersive experience there
+where you can put on these goggles
+and travel to a village in Zambia
+where you're following polio immunization workers.
+And this thing, I tried it out yesterday.
+I have traveled to these locations myself.
+It is incredibly evocative,
+and what you'll see is what the lived experience
+of a community healthcare worker in a setting like
+sub-Saharan Africa looks like.
+And so for us, AI is really transformative for those,
+call them CHWs, community healthcare workers
+in so many different ways.
+I mean, yes, there's the opportunity to have chat bots,
+especially chat bots done in local languages
+that they can use to sort of access information,
+review a patient's concerns,
+get some suggestions as to what's happening.
+And you have to remember these community healthcare workers,
+these are typically volunteers from the community.
+They're not nurses, they're not doctors,
+they're just individuals who might have
+no more than a grade school education.
+But through training courses
+and through essentially kind of decision tree algorithms,
+we have equipped this workforce with the ability to diagnose
+and treat some of the most common things that you'll see,
+you know, out there in these settings.
+Things like malaria, diarrheal diseases.
+And so with AI, you then have this opportunity
+to expand really by orders of magnitude,
+the ability of conditions that these CHWs are
+really equipped to diagnose and manage.
+So tremendous opportunity for improving sort
+of the footprint of care that they're able to offer.
+And the other thing that we see a lot of happening
+in the front lines isn't just patient level care
+but population level care.
+Global health is about population and public health.
+So how can you take AI tools
+and use them to improve service delivery
+for population level interventions?
+And you know, I could talk for hours
+about some of the things we do in the malaria
+and the polio and the immunization space,
+but things like using AI to process satellite imagery
+and identify what is likely a residential structure
+versus a non-residential structure
+so that a community healthcare worker can go out there
+with a smartphone, know which structures they have
+to visit to administer vaccines,
+they can quickly on that smartphone platform,
+mark a house as visited.
+That same cell phone platform can be used
+to issue a micropayment to that healthcare worker
+for their services.
+So we see AI as an incredibly enabling technology
+on the front lines, but also as something that's plugged
+into this larger digital health ecosystem.
+A lot of which boils down to one device in your hand.
+<v ->We only have a few minutes left.</v>
+So I wanna end with hearing from each of you.
+We talked about how tech and healthcare is different,
+but what can other tech industries learn
+from the health and wellness space
+that maybe they should adopt to be successful?
+Who wants to start with that?
+What are the lessons learned in the health space
+that others can benefit from?
+<v ->I'll start.</v>
+I think patience is something that we've had
+to learn in this industry.
+<v John>P-A-T-I-E-N-C-E.</v>
+<v ->Patience.</v>
+<v ->T-I-E-N-C-E. (laughs)</v>
+<v ->No, P-A-T-I-I-E-N-C-E.</v>
+<v John>Okay, as opposed to-</v>
+<v ->Patience, not patients, but patience.</v>
+And I say that because the time it takes
+for innovation to proliferate in healthcare is
+probably three to four times as slow as it is
+in other sectors, right?
+And so when it happens, its scale, in that scalability,
+that moment comes, it's transformative,
+but it takes a lot of energy
+and a lot of patience to get there.
+And I think that for organizations
+that are thinking about coming into this space
+and even looking at things like commercial terms
+and you go, well, it takes 2 1/2 years,
+like, effectively to sell to a health system,
+and somebody looks at you like,
+"My sales cycle's 2 1/2 years?"
+Right, like, so I think there's a a degree of acceptance
+of, like, of the speed by which we operate
+and make decisions.
+And I think you have to be able
+to really address that meaningfully
+if you're going to make a change in this industry.
+<v ->That's a great point, 'cause the field often seems</v>
+very much in a rush to get something done.
+<v ->There's also in all industries that require things</v>
+to really, really work, you have to pay attention
+and have to have a higher level of quality.
+You don't want to have a pacemaker that's gonna give up
+at a certain amount of time.
+And so we have actually learned
+from a semiconductor point of view
+a lot on how to ensure certain levels of quality
+and so on in the devices.
+So that is something actually that
+other industries are taking great benefit
+from the work that we do together with them.
+<v ->Yeah, it's about the evidentiary threshold required</v>
+to get a technology to uptake.
+And I think as you're developing technology for health
+or developing it in other sectors,
+paying attention to the rest of that enabling ecosystem
+and what needs to be done in that regulatory space.
+Who are the policy makers?
+Who are the decision makers
+that will ultimately help your tech to get to market?
+I think there's a lot that other sectors can learn
+from how we in health manage what can be
+fairly complex stakeholder dynamics in that regulatory space
+to actually get things over that evidentiary threshold
+and into market.
+<v ->And, Karen, we'll give you the final word.</v>
+<v ->You know, it's funny, I spend so much time thinking</v>
+about what we can learn from the other industries
+to adopt for healthcare.
+<v ->I mixed it up at the end.</v>
+<v ->So you're really</v>
+flipping the switch here.
+You know, I would say really what I'm most, you know,
+learnings and impressed by is
+the number of people
+and different stakeholders that truly want
+to try to figure it out and solve problems.
+And just working with, I spent a lot of time,
+surprisingly, I mean, really spending
+a lot of time talking to the clinicians,
+and like, what are they trying to...
+So really having access to that,
+the people that have the ideas and that are using it,
+and have to use the technology so that,
+you know, I know we've talked about people need
+to collaborate more, but there is a lot of, you know,
+brain, I think thoughts and ideas
+and collaboration going on.
+It's just a matter of now, like,
+how do we really actually execute, you know,
+stop talking about it and executing it?
+I do wanna do a shout out
+to a colleague, Fred Moltz, out there.
+I see you. Yeah, so interestingly enough, he's with Verizon.
+We met for the first time yesterday.
+We didn't know each other, but he leads
+our Accessibility Programs at Verizon,
+which is a huge thing in healthcare.
+But what we were talking about yesterday,
+and we're excited to collaborate more
+to figure out how do we bring that forward
+to solve really problems
+across all our verticals at Verizon.
+But if you solve it for, you know,
+what he shared with me which resonated is
+if you solve accessibility problems, you're really elevating
+and improving that experience for everybody,
+not just people with disabilities.
+So that's, like, a win-win across the board.
+So I think we can get some learnings from that
+and apply it, you know, to all aspects
+of different industries and life and verticals.
+<v ->Well, our red light is flashing,</v>
+so that means our time is up.
+I want to thank the panelists
+for sharing their insights this afternoon.

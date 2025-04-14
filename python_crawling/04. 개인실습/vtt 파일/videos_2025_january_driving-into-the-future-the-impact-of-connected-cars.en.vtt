@@ -1,0 +1,3848 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:03.000
+(dynamic pop music)
+
+2
+00:10.650 --> 00:12.995
+<v ->All right, the music stopped.</v>
+
+3
+00:12.995 --> 00:14.490
+I think it's the time to get started.
+
+4
+00:14.490 --> 00:17.760
+So welcome, everybody, to the second session.
+
+5
+00:17.760 --> 00:19.110
+My name is Nathan de Ruiter.
+
+6
+00:19.110 --> 00:21.960
+I'm a partner and managing director at Novaspace,
+
+7
+00:21.960 --> 00:24.750
+a consulting firm specialized in the space sector.
+
+8
+00:24.750 --> 00:29.010
+So this topic will be about "Driving into the Future:
+
+9
+00:29.010 --> 00:31.576
+The Impact of Connected Cars."
+
+10
+00:31.576 --> 00:32.670
+So not sure you already had a chance
+
+11
+00:32.670 --> 00:36.060
+to visit some of the booths at the exhibition floor,
+
+12
+00:36.060 --> 00:37.080
+but if you have some,
+
+13
+00:37.080 --> 00:39.872
+so you probably have seen and witnessed firsthand
+
+14
+00:39.872 --> 00:43.530
+the kind of impressive technology advancements
+
+15
+00:43.530 --> 00:47.313
+of the car manufacturers into the software-defined vehicles.
+
+16
+00:48.780 --> 00:52.170
+So when we talk about software-defined vehicles,
+
+17
+00:52.170 --> 00:55.170
+you could argue that connectivity is really a key enabler,
+
+18
+00:55.170 --> 00:56.685
+so kind of the critical backbone
+
+19
+00:56.685 --> 01:00.000
+for providing these capabilities.
+
+20
+01:00.000 --> 01:03.330
+So our session today, we'll discuss about the benefits
+
+21
+01:03.330 --> 01:05.987
+of software-defined vehicles.
+
+22
+01:05.987 --> 01:08.490
+Also, we'll look at what does it mean
+
+23
+01:08.490 --> 01:10.230
+in terms of connectivity requirements
+
+24
+01:10.230 --> 01:12.660
+to enable those software-defined vehicles.
+
+25
+01:12.660 --> 01:15.509
+But we also very specifically talk about
+
+26
+01:15.509 --> 01:16.590
+the role of satellite, right?
+
+27
+01:16.590 --> 01:18.810
+That's kind of the angle we're taking here.
+
+28
+01:18.810 --> 01:20.400
+What's the role of satellite?
+
+29
+01:20.400 --> 01:21.990
+What are the different use cases
+
+30
+01:21.990 --> 01:23.310
+and potentially as well
+
+31
+01:23.310 --> 01:25.530
+the opportunities and challenges
+
+32
+01:25.530 --> 01:28.440
+to make it kind of a wider adoption of satellite
+
+33
+01:28.440 --> 01:29.823
+into that connected car.
+
+34
+01:30.960 --> 01:33.990
+We have a great lineup of speakers. It's very interesting.
+
+35
+01:33.990 --> 01:35.760
+Each one have a very different angle
+
+36
+01:35.760 --> 01:37.110
+that they bring to the conversation.
+
+37
+01:37.110 --> 01:40.200
+So we'll see if they can agree or disagree
+
+38
+01:40.200 --> 01:43.290
+and how the discussion will evolve.
+
+39
+01:43.290 --> 01:44.430
+So what I'll do first,
+
+40
+01:44.430 --> 01:46.470
+I will ask each individual speaker
+
+41
+01:46.470 --> 01:47.673
+to introduce themself,
+
+42
+01:48.660 --> 01:51.360
+as well highlight the company they're representing
+
+43
+01:51.360 --> 01:52.920
+and maybe as well kind of what is the angle
+
+44
+01:52.920 --> 01:54.810
+they provide to the conversation
+
+45
+01:54.810 --> 01:58.476
+of the connected/software-defined vehicle.
+
+46
+01:58.476 --> 01:59.520
+So maybe we'll just go down the line.
+
+47
+01:59.520 --> 02:00.810
+So Kieran, you go first.
+
+48
+02:00.810 --> 02:01.650
+<v ->Yeah, thanks everyone.</v>
+
+49
+02:01.650 --> 02:03.420
+So my name is Kieran McAleer.
+
+50
+02:03.420 --> 02:05.520
+I'm a department manager at AVL,
+
+51
+02:05.520 --> 02:08.280
+responsible for new innovation solutions
+
+52
+02:08.280 --> 02:11.310
+to support the automotive development processes.
+
+53
+02:11.310 --> 02:15.090
+So some solutions we're working on is around cybersecurity,
+
+54
+02:15.090 --> 02:18.630
+ADAS and automatic robotic drivers.
+
+55
+02:18.630 --> 02:22.020
+AVL as a company is a technology provider
+
+56
+02:22.020 --> 02:27.020
+in the areas of development, simulation and testing
+
+57
+02:27.180 --> 02:32.180
+specifically for the focus on the automotive market.
+
+58
+02:32.280 --> 02:35.010
+And yeah, the main areas or the main focus points
+
+59
+02:35.010 --> 02:39.780
+currently in our projects and opportunities with customers
+
+60
+02:39.780 --> 02:44.430
+is around ADAS, SDV, electrification and safety,
+
+61
+02:44.430 --> 02:46.650
+and yeah, also now cybersecurity,
+
+62
+02:46.650 --> 02:49.500
+which is taking more prevalence in the automotive market.
+
+63
+02:50.910 --> 02:53.400
+<v ->Okay, Sven Hellsten from Ericsson,</v>
+
+64
+02:53.400 --> 02:57.480
+a Swedish based company, telecommunication,
+
+65
+02:57.480 --> 02:58.800
+headquarter in Stockholm,
+
+66
+02:58.800 --> 03:02.400
+working with the satellite technology
+
+67
+03:02.400 --> 03:07.169
+and we have the vision that satellites with 5G
+
+68
+03:07.169 --> 03:08.460
+and in the future, 6G,
+
+69
+03:08.460 --> 03:12.090
+will provide what we call the ubiquitous coverage
+
+70
+03:12.090 --> 03:13.500
+all around the world
+
+71
+03:13.500 --> 03:15.813
+for various use cases.
+
+72
+03:17.280 --> 03:18.387
+<v ->My name is Omar Qaise,</v>
+
+73
+03:18.387 --> 03:21.030
+I'm the founder and CEO of OQ technology.
+
+74
+03:21.030 --> 03:25.050
+We are a satellite operator based in Luxembourg
+
+75
+03:25.050 --> 03:27.840
+that operates low earth orbit nano satellites
+
+76
+03:27.840 --> 03:31.530
+to provide 5G non-terrestrial network connectivity
+
+77
+03:31.530 --> 03:33.210
+for remote and rural areas,
+
+78
+03:33.210 --> 03:38.210
+especially for verticals like energy, mobility, agriculture,
+
+79
+03:38.880 --> 03:43.080
+and mining and mobility logistics.
+
+80
+03:43.080 --> 03:46.770
+Fleet management is a core area for 5G
+
+81
+03:46.770 --> 03:49.143
+and TN connectivity that we provide.
+
+82
+03:50.610 --> 03:52.260
+<v ->So my name is Joerg Tischler,</v>
+
+83
+03:52.260 --> 03:53.460
+I'm from T-Systems
+
+84
+03:53.460 --> 03:56.010
+and heading the connect mobility unit.
+
+85
+03:56.010 --> 03:59.220
+T-Systems is the business to business system integrator
+
+86
+03:59.220 --> 04:01.290
+of the telecom T-Mobile US.
+
+87
+04:01.290 --> 04:03.450
+So we are kind of using connectivity
+
+88
+04:03.450 --> 04:06.600
+to operate large fleets for OEMs.
+
+89
+04:06.600 --> 04:09.120
+So meaning all the fleets which have
+
+90
+04:09.120 --> 04:10.890
+software defined vehicle features.
+
+91
+04:10.890 --> 04:12.990
+That's what we are building and operating.
+
+92
+04:14.610 --> 04:16.140
+<v ->My name is Maite Bezerra.</v>
+
+93
+04:16.140 --> 04:19.410
+I am a senior principal analyst, Forward Intelligence,
+
+94
+04:19.410 --> 04:21.510
+in software-defined vehicles.
+
+95
+04:21.510 --> 04:25.140
+And my job is to research this transition
+
+96
+04:25.140 --> 04:27.540
+that the automotive industry is facing now,
+
+97
+04:27.540 --> 04:30.360
+moving away from hardware centric vehicles
+
+98
+04:30.360 --> 04:32.010
+into software-defined vehicles
+
+99
+04:32.010 --> 04:34.980
+and what that actually entails in terms of hardware,
+
+100
+04:34.980 --> 04:36.720
+in terms of software platforms,
+
+101
+04:36.720 --> 04:39.210
+in terms of relationship with their suppliers
+
+102
+04:39.210 --> 04:40.680
+and even in terms of
+
+103
+04:40.680 --> 04:43.203
+their internal organizational process as well.
+
+104
+04:44.277 --> 04:47.430
+<v ->Perfect. That's a great introduction.</v>
+
+105
+04:47.430 --> 04:50.280
+Maite, we'll just right away start with you.
+
+106
+04:50.280 --> 04:51.630
+Software defined vehicles,
+
+107
+04:51.630 --> 04:53.520
+as a consultant to consultant,
+
+108
+04:53.520 --> 04:56.070
+market sizing always a key question to start with.
+
+109
+04:56.070 --> 04:57.660
+So can you kinda give an indication
+
+110
+04:57.660 --> 05:00.567
+what is the current market size of software defined vehicles
+
+111
+05:00.567 --> 05:03.477
+and what is kind of the growth prospects?
+
+112
+05:03.477 --> 05:04.450
+<v ->Sure.</v>
+
+113
+05:04.450 --> 05:07.770
+I think before I address your question specifically,
+
+114
+05:07.770 --> 05:10.170
+I think it's important to take a step back
+
+115
+05:10.170 --> 05:12.450
+and understand the evolution of the vehicles.
+
+116
+05:12.450 --> 05:14.670
+So then we have a good understanding
+
+117
+05:14.670 --> 05:17.640
+of what software-defined vehicle actually is
+
+118
+05:17.640 --> 05:20.610
+and the role of connectivity in the different stages, right?
+
+119
+05:20.610 --> 05:23.160
+So we first have the stage zero,
+
+120
+05:23.160 --> 05:25.500
+in which we have a purely mechanical vehicle,
+
+121
+05:25.500 --> 05:27.480
+there's no connectivity in there.
+
+122
+05:27.480 --> 05:31.080
+Then we have the stage one when we have a connected car.
+
+123
+05:31.080 --> 05:33.930
+This is a car that has features installed in the car
+
+124
+05:33.930 --> 05:37.320
+and these features can be enhanced with connectivity.
+
+125
+05:37.320 --> 05:38.847
+So navigation, for example.
+
+126
+05:38.847 --> 05:42.540
+You can suddenly have live traffic information
+
+127
+05:42.540 --> 05:44.520
+if your car is connected.
+
+128
+05:44.520 --> 05:48.390
+Then you have the level two, which I call a semi-SDV,
+
+129
+05:48.390 --> 05:52.530
+it's not quite there yet, which is a car that is connected
+
+130
+05:52.530 --> 05:55.800
+and is also capable of receiving updates
+
+131
+05:55.800 --> 05:58.650
+to the features that are in the car.
+
+132
+05:58.650 --> 06:02.760
+However, these updates are essentially bug fixes.
+
+133
+06:02.760 --> 06:03.660
+You're not changing,
+
+134
+06:03.660 --> 06:06.630
+fundamentally changing anything in the car.
+
+135
+06:06.630 --> 06:09.240
+So in this stage one to two,
+
+136
+06:09.240 --> 06:11.210
+connectivity is kind of an add-on
+
+137
+06:11.210 --> 06:14.070
+to what you already have in the car, right?
+
+138
+06:14.070 --> 06:15.780
+And then you have this stage three,
+
+139
+06:15.780 --> 06:18.060
+which is a software defined vehicle.
+
+140
+06:18.060 --> 06:22.920
+And in here, connectivity becomes a foundational layer.
+
+141
+06:22.920 --> 06:24.930
+It's not just an add-on anymore.
+
+142
+06:24.930 --> 06:26.460
+When you are designing a vehicle,
+
+143
+06:26.460 --> 06:27.840
+when you're designing a function,
+
+144
+06:27.840 --> 06:30.090
+connectivity is part of them
+
+145
+06:30.090 --> 06:32.970
+and this is essentially digitalizing the car,
+
+146
+06:32.970 --> 06:35.130
+which, quite frankly, has been the same
+
+147
+06:35.130 --> 06:36.900
+for the past 100 years.
+
+148
+06:36.900 --> 06:38.763
+So it was time, wasn't it?
+
+149
+06:39.600 --> 06:41.070
+But when you digitalize the car,
+
+150
+06:41.070 --> 06:42.780
+you have to digitalize the companies
+
+151
+06:42.780 --> 06:43.890
+that manufacture the car.
+
+152
+06:43.890 --> 06:45.540
+You have to digitalize the companies
+
+153
+06:45.540 --> 06:48.030
+that supply the hardware and the software to the car
+
+154
+06:48.030 --> 06:50.160
+and the whole supply chain.
+
+155
+06:50.160 --> 06:52.560
+So I'm saying this just to point out
+
+156
+06:52.560 --> 06:55.350
+how complex, how comprehensive
+
+157
+06:55.350 --> 06:57.540
+the concept of software-defined vehicle is.
+
+158
+06:57.540 --> 07:01.200
+It goes way beyond just the car itself.
+
+159
+07:01.200 --> 07:03.431
+So Forward Intelligence,
+
+160
+07:03.431 --> 07:08.431
+we estimate that 4% of all the vehicles sold in 2024
+
+161
+07:10.080 --> 07:12.990
+were purely software-defined vehicle
+
+162
+07:12.990 --> 07:15.300
+based on this estimation.
+
+163
+07:15.300 --> 07:17.850
+Now, is the market going to grow?
+
+164
+07:17.850 --> 07:19.020
+Definitely.
+
+165
+07:19.020 --> 07:21.540
+All the automakers are going to migrate
+
+166
+07:21.540 --> 07:23.010
+to software-defined vehicles.
+
+167
+07:23.010 --> 07:26.250
+However, this transition is going to be gradual.
+
+168
+07:26.250 --> 07:28.620
+It's not something that will happen overnight.
+
+169
+07:28.620 --> 07:30.759
+We are not gonna see enormous growth
+
+170
+07:30.759 --> 07:33.690
+taking place in the upcoming years.
+
+171
+07:33.690 --> 07:36.870
+So in 2020, by the end of the decade,
+
+172
+07:36.870 --> 07:41.080
+we expect it to be around 10% of all new vehicles sold
+
+173
+07:41.970 --> 07:44.130
+purely software-defined vehicles.
+
+174
+07:44.130 --> 07:46.830
+Now if you think about connected cars,
+
+175
+07:46.830 --> 07:49.440
+which is level one and two as well,
+
+176
+07:49.440 --> 07:52.230
+then we have a higher base.
+
+177
+07:52.230 --> 07:57.090
+70% of all vehicles sold in 2023 had embedded connectivity.
+
+178
+07:57.090 --> 07:59.310
+And by 2030, we are gonna see
+
+179
+07:59.310 --> 08:01.860
+pretty much all new vehicles having them.
+
+180
+08:01.860 --> 08:02.880
+<v ->All right, great.</v>
+
+181
+08:02.880 --> 08:05.053
+Kieran, do you see some OEMs
+
+182
+08:05.053 --> 08:06.887
+taking a particular lead
+
+183
+08:06.887 --> 08:10.200
+in the kind of the software defined vehicle development
+
+184
+08:10.200 --> 08:13.080
+or a difference between OEMs?
+
+185
+08:13.080 --> 08:14.580
+<v ->Yeah, I think from our perspective,</v>
+
+186
+08:14.580 --> 08:16.680
+there's certainly a difference between the OEMs,
+
+187
+08:16.680 --> 08:18.990
+as I think also we agree that the SDV,
+
+188
+08:18.990 --> 08:20.010
+it's got a wide scope,
+
+189
+08:20.010 --> 08:23.223
+it means different things to different people.
+
+190
+08:24.180 --> 08:26.550
+We see that what's evident is
+
+191
+08:26.550 --> 08:28.320
+that the OEMs are going in this direction.
+
+192
+08:28.320 --> 08:31.170
+So the investment is there and they have a focus.
+
+193
+08:31.170 --> 08:33.450
+I think there's a general acceptance that
+
+194
+08:33.450 --> 08:36.660
+within 10 years, there should be a wide adoption
+
+195
+08:36.660 --> 08:40.650
+of SDV related features, functions in the vehicles.
+
+196
+08:40.650 --> 08:42.150
+But I would say from our perspective,
+
+197
+08:42.150 --> 08:45.210
+we see that there is different OEMs at different levels.
+
+198
+08:45.210 --> 08:47.070
+So it's like comparing,
+
+199
+08:47.070 --> 08:50.662
+let's say the established OEMs compared to the new startups,
+
+200
+08:50.662 --> 08:54.180
+the established OEMs have the challenge with existing legacy
+
+201
+08:54.180 --> 08:55.560
+that they have to accommodate with,
+
+202
+08:55.560 --> 08:57.990
+they have their defined process, et cetera,
+
+203
+08:57.990 --> 08:59.490
+and they become more software orientated.
+
+204
+08:59.490 --> 09:01.438
+This also takes time in the mind,
+
+205
+09:01.438 --> 09:03.603
+a mind shift as well.
+
+206
+09:04.440 --> 09:06.000
+And if you look at the new startups,
+
+207
+09:06.000 --> 09:07.530
+they don't really have this legacy,
+
+208
+09:07.530 --> 09:09.900
+so they can be quicker to adopt the new technologies,
+
+209
+09:09.900 --> 09:12.019
+the platforms that are required
+
+210
+09:12.019 --> 09:13.980
+to bring this SDV capability.
+
+211
+09:13.980 --> 09:16.440
+And from my perspective, regarding connectivity,
+
+212
+09:16.440 --> 09:19.020
+maybe this is a personal kind of focus or key.
+
+213
+09:19.020 --> 09:20.310
+I see the key aspect here
+
+214
+09:20.310 --> 09:23.340
+around connectivity in the SDV terms
+
+215
+09:23.340 --> 09:24.930
+should be around, let's say, safety.
+
+216
+09:24.930 --> 09:28.020
+So not only passenger safety but also pedestrian safety.
+
+217
+09:28.020 --> 09:29.596
+I think this is where the biggest impact
+
+218
+09:29.596 --> 09:30.903
+could be for the future.
+
+219
+09:32.130 --> 09:33.830
+<v ->All right, maybe moving on that.</v>
+
+220
+09:35.138 --> 09:37.590
+Yeah, so it's Consumer Electronics Show.
+
+221
+09:37.590 --> 09:39.300
+So consumer experience is important.
+
+222
+09:39.300 --> 09:42.390
+So maybe talk a bit about
+
+223
+09:42.390 --> 09:43.800
+the expectations.
+
+224
+09:43.800 --> 09:45.000
+So safety here, as mentioned,
+
+225
+09:45.000 --> 09:46.230
+is a primary use case,
+
+226
+09:46.230 --> 09:47.670
+particularly for connectivity.
+
+227
+09:47.670 --> 09:49.050
+What are other benefits?
+
+228
+09:49.050 --> 09:51.870
+For example, Sven, maybe you can talk about it,
+
+229
+09:51.870 --> 09:55.890
+that the connected or software-defined vehicle can bring
+
+230
+09:55.890 --> 09:58.383
+from a personal user experience.
+
+231
+10:00.540 --> 10:01.373
+<v ->Yep.</v>
+
+232
+10:03.000 --> 10:07.080
+I think when you talk about safety and everything,
+
+233
+10:07.080 --> 10:11.130
+the question is, what kind of service are you looking for?
+
+234
+10:11.130 --> 10:15.420
+And basically we're seeing three different tracks now.
+
+235
+10:15.420 --> 10:18.450
+One is IOT type of connectivity,
+
+236
+10:18.450 --> 10:22.773
+with messaging, emergency messaging and stuff like that.
+
+237
+10:23.790 --> 10:25.380
+Possible with LEO satellites,
+
+238
+10:25.380 --> 10:28.620
+but also with yield satellites, actually,
+
+239
+10:28.620 --> 10:31.680
+quite good from a coverage perspective.
+
+240
+10:31.680 --> 10:35.640
+Moving on with more advanced services,
+
+241
+10:35.640 --> 10:38.130
+you would go into Lee Orbits.
+
+242
+10:38.130 --> 10:39.660
+Depending on the frequency band,
+
+243
+10:39.660 --> 10:42.723
+you could go for voice and data everywhere.
+
+244
+10:43.800 --> 10:48.330
+And actually, also with 5G
+
+245
+10:48.330 --> 10:49.590
+on some higher bands,
+
+246
+10:49.590 --> 10:54.590
+you can do quite advanced data services.
+
+247
+10:56.280 --> 10:57.780
+<v ->And Omar, maybe that's important,</v>
+
+248
+10:57.780 --> 11:00.060
+as maybe not everybody in the audience, you know,
+
+249
+11:00.060 --> 11:01.500
+is fully familiar with satellites.
+
+250
+11:01.500 --> 11:03.660
+So maybe first kind of question,
+
+251
+11:03.660 --> 11:05.340
+if you can help us situate, you know,
+
+252
+11:05.340 --> 11:06.990
+how the role of satellite fits
+
+253
+11:06.990 --> 11:09.540
+with all the other terrestrial technologies out there.
+
+254
+11:09.540 --> 11:12.000
+And then maybe talk a little bit about OQ Technology
+
+255
+11:12.000 --> 11:13.560
+and the constellation developing,
+
+256
+11:13.560 --> 11:16.320
+what kind of value proposition that brings,
+
+257
+11:16.320 --> 11:18.420
+particularly in realm to the kind of,
+
+258
+11:18.420 --> 11:19.800
+you talked about mobility,
+
+259
+11:19.800 --> 11:22.260
+so if connected car is one of the use cases,
+
+260
+11:22.260 --> 11:24.633
+how your kind of technology fits in there.
+
+261
+11:25.620 --> 11:27.701
+<v ->So it's well known</v>
+
+262
+11:27.701 --> 11:30.750
+that satellites are gonna play a very crucial role
+
+263
+11:30.750 --> 11:34.230
+for software defined vehicles,
+
+264
+11:34.230 --> 11:36.926
+especially because of the global reach, mainly.
+
+265
+11:36.926 --> 11:39.843
+I mean, with satellites you can have global coverage,
+
+266
+11:40.680 --> 11:44.030
+which allows especially to enable,
+
+267
+11:44.030 --> 11:45.930
+with all the new services
+
+268
+11:45.930 --> 11:47.880
+and features in these cars,
+
+269
+11:47.880 --> 11:49.898
+whether it's autonomous driving,
+
+270
+11:49.898 --> 11:53.640
+safety features, infotainment,
+
+271
+11:53.640 --> 11:56.520
+you'll need connectivity everywhere.
+
+272
+11:56.520 --> 11:58.560
+And satellites have the biggest footprint
+
+273
+11:58.560 --> 12:00.300
+that they could provide in areas,
+
+274
+12:00.300 --> 12:01.287
+especially where you don't have
+
+275
+12:01.287 --> 12:03.600
+the terrestrial infrastructure.
+
+276
+12:03.600 --> 12:04.470
+That's one benefit.
+
+277
+12:04.470 --> 12:09.470
+The other thing is satellites could actually act as a backup
+
+278
+12:09.690 --> 12:13.500
+for the existing other terrestrial communication means
+
+279
+12:13.500 --> 12:15.150
+for vehicles,
+
+280
+12:15.150 --> 12:17.850
+especially if you want to talk about
+
+281
+12:17.850 --> 12:20.820
+level five of autonomous driving,
+
+282
+12:20.820 --> 12:22.440
+you will need to ensure
+
+283
+12:22.440 --> 12:24.720
+that there is always connectivity.
+
+284
+12:24.720 --> 12:28.650
+Even if you have terrestrial level of connectivity
+
+285
+12:28.650 --> 12:31.410
+with 4G, 5G, or wifi,
+
+286
+12:31.410 --> 12:34.830
+you would still need to have the satellite link available
+
+287
+12:34.830 --> 12:36.930
+in case there is interruption.
+
+288
+12:36.930 --> 12:41.870
+And of course, for emergency and hazard,
+
+289
+12:45.150 --> 12:47.253
+to avoid hazards and accidents.
+
+290
+12:48.381 --> 12:51.870
+Having low latency communication is very crucial
+
+291
+12:51.870 --> 12:54.810
+for cars to have enough information
+
+292
+12:54.810 --> 12:59.810
+that they can also provide the necessary reaction
+
+293
+13:01.410 --> 13:03.330
+that can be taken also by the cars
+
+294
+13:03.330 --> 13:05.970
+in case of such incidents.
+
+295
+13:05.970 --> 13:09.404
+And finally also from navigation point of view,
+
+296
+13:09.404 --> 13:12.720
+well, you know, GNSS systems are available,
+
+297
+13:12.720 --> 13:14.460
+provide good navigation method,
+
+298
+13:14.460 --> 13:17.130
+but also there's improved navigation
+
+299
+13:17.130 --> 13:19.380
+that could be provided by satellites,
+
+300
+13:19.380 --> 13:23.719
+especially with augmented reality assisted navigation
+
+301
+13:23.719 --> 13:26.550
+or real time HD mapping.
+
+302
+13:26.550 --> 13:29.880
+And that requires also a lot of information exchange
+
+303
+13:29.880 --> 13:32.130
+that satellites could provide.
+
+304
+13:32.130 --> 13:34.110
+If you talk also about security,
+
+305
+13:34.110 --> 13:39.110
+so satellites also are considered a secure platform
+
+306
+13:39.210 --> 13:42.180
+compared to other terrestrial platforms
+
+307
+13:42.180 --> 13:45.630
+and that also adds another benefit.
+
+308
+13:45.630 --> 13:47.430
+Now regarding what we do today,
+
+309
+13:47.430 --> 13:51.780
+so the idea here is really using the 3GPP standard
+
+310
+13:51.780 --> 13:54.690
+over satellites for narrow band communication
+
+311
+13:54.690 --> 13:57.750
+so that you could have seamless roaming
+
+312
+13:57.750 --> 14:00.060
+and communication with terrestrial networks.
+
+313
+14:00.060 --> 14:03.630
+And this is something that OEMs are looking for
+
+314
+14:03.630 --> 14:07.110
+because you don't want to have different technologies
+
+315
+14:07.110 --> 14:09.990
+and different standards for the car.
+
+316
+14:09.990 --> 14:11.400
+For connectivity,
+
+317
+14:11.400 --> 14:13.650
+integrating both terrestrial and satellite
+
+318
+14:13.650 --> 14:15.820
+within the same chip, the same technology
+
+319
+14:17.010 --> 14:19.290
+that can work with different telcos
+
+320
+14:19.290 --> 14:21.577
+that follow the same standard
+
+321
+14:21.577 --> 14:23.160
+plays a big role
+
+322
+14:23.160 --> 14:25.500
+and that's the value add we could bring,
+
+323
+14:25.500 --> 14:28.440
+not just us but any satellite constellation
+
+324
+14:28.440 --> 14:30.450
+that is following the 3GPP
+
+325
+14:30.450 --> 14:32.853
+and TN standard for 5G.
+
+326
+14:33.884 --> 14:37.380
+The use case, of course, there is the geo coverage.
+
+327
+14:37.380 --> 14:38.550
+It has its own limitation.
+
+328
+14:38.550 --> 14:42.720
+There's the LEO, which has its own also challenges.
+
+329
+14:42.720 --> 14:46.470
+But where we see today a lot of adoption, early adoption
+
+330
+14:46.470 --> 14:51.470
+is for like, B2B and fleet management, telematics.
+
+331
+14:51.780 --> 14:54.990
+This is where especially
+
+332
+14:54.990 --> 14:57.660
+getting information about where the car is,
+
+333
+14:57.660 --> 15:00.063
+whether it's where the fleet is,
+
+334
+15:00.063 --> 15:03.630
+even the people who are for safety,
+
+335
+15:03.630 --> 15:07.110
+like workers, where they are and what they did
+
+336
+15:07.110 --> 15:11.430
+and tracking of the, for example, materials on these cars
+
+337
+15:11.430 --> 15:12.990
+and also for predictive maintenance,
+
+338
+15:12.990 --> 15:17.910
+getting reports so that fleet operators could plan
+
+339
+15:17.910 --> 15:19.003
+maintenance efficiently.
+
+340
+15:19.003 --> 15:22.500
+So this is the type of use cases that we see.
+
+341
+15:22.500 --> 15:24.630
+And of course,
+
+342
+15:24.630 --> 15:29.630
+with future applications, entertainment,
+
+343
+15:29.752 --> 15:31.650
+you would need higher bandwidth
+
+344
+15:31.650 --> 15:35.190
+and this is where broadband communications satellites
+
+345
+15:35.190 --> 15:36.993
+come into the game.
+
+346
+15:38.070 --> 15:38.903
+<v ->Very good.</v>
+
+347
+15:38.903 --> 15:41.700
+Yeah, so definitely an evolution in satellite technology,
+
+348
+15:41.700 --> 15:43.980
+IOT solutions to broadband.
+
+349
+15:43.980 --> 15:48.120
+So maybe Joerg, maybe just talking still a little bit,
+
+350
+15:48.120 --> 15:51.570
+positioning satellite versus the terrestrial
+
+351
+15:51.570 --> 15:52.920
+kind of network technologies.
+
+352
+15:52.920 --> 15:53.790
+How do you see that?
+
+353
+15:53.790 --> 15:56.310
+And, I mean, there's a lot of this discussion
+
+354
+15:56.310 --> 15:57.540
+about convergence, right?
+
+355
+15:57.540 --> 16:00.150
+Between the two, NTN and terrestrial network.
+
+356
+16:00.150 --> 16:03.724
+So how do you see that play out today
+
+357
+16:03.724 --> 16:05.193
+and into the future?
+
+358
+16:06.810 --> 16:08.880
+<v ->Well, I mean all the use cases you mentioned</v>
+
+359
+16:08.880 --> 16:10.080
+are perfectly right
+
+360
+16:10.080 --> 16:14.280
+and the connectivity in itself is no longer an enabler,
+
+361
+16:14.280 --> 16:16.200
+it's a key requirement.
+
+362
+16:16.200 --> 16:19.980
+What we see is that there's a coexistence,
+
+363
+16:19.980 --> 16:22.710
+and you mentioned the important part of standardization.
+
+364
+16:22.710 --> 16:24.210
+So without standardization,
+
+365
+16:24.210 --> 16:27.510
+we will not manage to have cooperation
+
+366
+16:27.510 --> 16:31.440
+or coexisting solutions.
+
+367
+16:31.440 --> 16:35.550
+The key point is that the selection based on the use case.
+
+368
+16:35.550 --> 16:39.960
+So not every use case should use a certain technology,
+
+369
+16:39.960 --> 16:42.960
+but you select, the same way as we use our mobile phones.
+
+370
+16:42.960 --> 16:45.480
+So we have wifi, we have a cellular connection
+
+371
+16:45.480 --> 16:48.000
+and based on costs or availability or bandwidth,
+
+372
+16:48.000 --> 16:49.500
+we use one or the other.
+
+373
+16:49.500 --> 16:51.480
+The same will happen in car.
+
+374
+16:51.480 --> 16:53.400
+It's not today, but it will happen,
+
+375
+16:53.400 --> 16:57.420
+that priority setting, cost-effectiveness,
+
+376
+16:57.420 --> 17:01.020
+this orchestration of data, of channels is important
+
+377
+17:01.020 --> 17:04.140
+and it's not thinking about a car has a certain channel
+
+378
+17:04.140 --> 17:05.400
+or multiple channels,
+
+379
+17:05.400 --> 17:07.050
+but a service has a certain channel.
+
+380
+17:07.050 --> 17:10.020
+So maybe your navigation goes to one channel
+
+381
+17:10.020 --> 17:12.800
+but the updates are loaded once you're on the wifi.
+
+382
+17:12.800 --> 17:14.817
+So that's different thinking
+
+383
+17:14.817 --> 17:16.740
+and you have nothing available,
+
+384
+17:16.740 --> 17:18.090
+then you go non-terrestrial.
+
+385
+17:18.090 --> 17:21.150
+So that's basically the way we see
+
+386
+17:21.150 --> 17:23.910
+this selection of channels
+
+387
+17:23.910 --> 17:26.601
+and that's where the orchestration comes together.
+
+388
+17:26.601 --> 17:29.580
+It's not just looking at the pure connectivity
+
+389
+17:29.580 --> 17:31.860
+but the connectivity within a certain context,
+
+390
+17:31.860 --> 17:34.350
+like an over the air update or navigation
+
+391
+17:34.350 --> 17:35.940
+or things come together.
+
+392
+17:35.940 --> 17:37.920
+We are converging services
+
+393
+17:37.920 --> 17:39.990
+and that's what we are also working on.
+
+394
+17:39.990 --> 17:43.230
+Bring the product, bring a product together,
+
+395
+17:43.230 --> 17:44.850
+which includes the connectivity.
+
+396
+17:44.850 --> 17:49.020
+It's not just having siloed connectivity, siloed security,
+
+397
+17:49.020 --> 17:52.230
+siloed service, but one converged product.
+
+398
+17:52.230 --> 17:53.970
+I think that's where the future sits
+
+399
+17:53.970 --> 17:57.453
+and how connectivity is consumed in the future.
+
+400
+17:58.530 --> 17:59.820
+<v ->Yeah, thank you. That's an important point.</v>
+
+401
+17:59.820 --> 18:00.840
+So obviously, you know,
+
+402
+18:00.840 --> 18:03.540
+you have multiple channels to organize that.
+
+403
+18:03.540 --> 18:04.770
+I suppose there's software
+
+404
+18:04.770 --> 18:06.900
+and other capabilities built around it.
+
+405
+18:06.900 --> 18:09.270
+But from your perspective,
+
+406
+18:09.270 --> 18:11.280
+who would then be the one
+
+407
+18:11.280 --> 18:12.690
+who is kind of managing that?
+
+408
+18:12.690 --> 18:15.330
+Would that be the responsibility of an OEM
+
+409
+18:15.330 --> 18:18.360
+or where does that sit in your view?
+
+410
+18:18.360 --> 18:20.130
+<v ->Well, we are part of Deutsche Telecom</v>
+
+411
+18:20.130 --> 18:21.150
+and T-Mobile US.
+
+412
+18:21.150 --> 18:23.103
+Obviously the telco providers.
+
+413
+18:23.940 --> 18:27.300
+So no, that's not the true answer, the full answer.
+
+414
+18:27.300 --> 18:30.330
+In the end, it can be a service which comes from an MNO
+
+415
+18:30.330 --> 18:33.390
+or even a virtual MNO
+
+416
+18:33.390 --> 18:36.330
+to orchestrate based on the fleet demand
+
+417
+18:36.330 --> 18:38.070
+or the demand of a single car.
+
+418
+18:38.070 --> 18:40.140
+It can also be the vehicle itself,
+
+419
+18:40.140 --> 18:42.000
+if the logic is built into the vehicle
+
+420
+18:42.000 --> 18:46.260
+and then it comes to the upgradable software,
+
+421
+18:46.260 --> 18:48.840
+because these rules are changing based on what we are doing.
+
+422
+18:48.840 --> 18:51.270
+You have to change this on a regular basis,
+
+423
+18:51.270 --> 18:53.760
+maybe even as you use it.
+
+424
+18:53.760 --> 18:57.300
+Therefore, there are certain, I would say levels
+
+425
+18:57.300 --> 19:00.630
+or quality gates where you do this orchestration.
+
+426
+19:00.630 --> 19:04.054
+But the telcos will play a role, the OEMs will play a role,
+
+427
+19:04.054 --> 19:07.800
+any technology or connectivity provider will play a role
+
+428
+19:07.800 --> 19:09.000
+based on standards.
+
+429
+19:09.000 --> 19:11.723
+And that's the key point. No standards, no interaction.
+
+430
+19:12.758 --> 19:14.297
+<v ->If I just can add to that</v>
+
+431
+19:14.297 --> 19:16.350
+'cause I really like this point.
+
+432
+19:16.350 --> 19:19.200
+It's not a responsibility of just one company
+
+433
+19:19.200 --> 19:20.340
+and I think this is what happens
+
+434
+19:20.340 --> 19:22.200
+with software defined vehicles.
+
+435
+19:22.200 --> 19:26.190
+Before, we had this very isolated supply chain
+
+436
+19:26.190 --> 19:29.340
+in which each company was doing a certain thing.
+
+437
+19:29.340 --> 19:31.057
+But now, if you think about,
+
+438
+19:31.057 --> 19:32.820
+"Which connectivity should I use?"
+
+439
+19:32.820 --> 19:34.920
+and if you think about the use cases,
+
+440
+19:34.920 --> 19:36.990
+this is down to the vehicle
+
+441
+19:36.990 --> 19:39.771
+and this is down to the use case,
+
+442
+19:39.771 --> 19:42.060
+down to the application.
+
+443
+19:42.060 --> 19:45.062
+So you need to look at the application and see.
+
+444
+19:45.062 --> 19:48.330
+Is this a mission critical application or is it not?
+
+445
+19:48.330 --> 19:49.920
+If it is infotainment,
+
+446
+19:49.920 --> 19:51.810
+then I can have higher latency.
+
+447
+19:51.810 --> 19:54.030
+If it is an ADAS functionality,
+
+448
+19:54.030 --> 19:55.350
+what level of criticality
+
+449
+19:55.350 --> 19:57.570
+within the ADIS functionality it is?
+
+450
+19:57.570 --> 20:00.390
+'Cause there are different levels in the ADAS as well.
+
+451
+20:00.390 --> 20:01.470
+Is this something that,
+
+452
+20:01.470 --> 20:03.930
+if I don't have a real time response,
+
+453
+20:03.930 --> 20:06.270
+I will put someone's life in risk?
+
+454
+20:06.270 --> 20:07.890
+'Cause this is also important
+
+455
+20:07.890 --> 20:09.000
+when you are deciding
+
+456
+20:09.000 --> 20:11.160
+which connectivity you're going to use.
+
+457
+20:11.160 --> 20:13.350
+Because one thing that we need in vehicles,
+
+458
+20:13.350 --> 20:15.870
+especially when we're talking about ADAS,
+
+459
+20:15.870 --> 20:18.692
+is reliability, right?
+
+460
+20:18.692 --> 20:21.450
+Vehicles are not smartphones on wheels.
+
+461
+20:21.450 --> 20:24.960
+And honestly, I can't hear people saying that,
+
+462
+20:24.960 --> 20:28.614
+because vehicles are mission critical devices.
+
+463
+20:28.614 --> 20:30.780
+If you're using a smartphone
+
+464
+20:30.780 --> 20:32.580
+and suddenly you have a problem
+
+465
+20:32.580 --> 20:34.230
+and your screen was frozen,
+
+466
+20:34.230 --> 20:35.063
+that's fine.
+
+467
+20:35.063 --> 20:36.270
+You just reset it.
+
+468
+20:36.270 --> 20:37.500
+If that happens in a car,
+
+469
+20:37.500 --> 20:40.110
+you are putting the lives of the people inside the car
+
+470
+20:40.110 --> 20:42.150
+and the people around you at risk.
+
+471
+20:42.150 --> 20:44.227
+So I think this idea on,
+
+472
+20:44.227 --> 20:45.870
+"What connectivity should I use?"
+
+473
+20:45.870 --> 20:47.940
+and of course the optimal cost
+
+474
+20:47.940 --> 20:50.130
+has to happen in conjunction
+
+475
+20:50.130 --> 20:51.120
+of all the companies
+
+476
+20:51.120 --> 20:53.670
+because you need the data from the vehicle as well.
+
+477
+20:53.670 --> 20:56.220
+You need to understand what kind of functionality
+
+478
+20:56.220 --> 20:57.970
+is being used and required as well.
+
+479
+20:59.130 --> 21:02.730
+<v ->All right, maybe Sven in terms of the Ericsson view</v>
+
+480
+21:02.730 --> 21:06.030
+on this orchestration of the different channels
+
+481
+21:06.030 --> 21:08.370
+and who best can manage that
+
+482
+21:08.370 --> 21:10.140
+and how to work around it?
+
+483
+21:10.140 --> 21:13.170
+<v ->Well, orchestration is a pretty big word</v>
+
+484
+21:13.170 --> 21:18.170
+and pretty high up in the telecommunication architecture.
+
+485
+21:18.270 --> 21:22.380
+But I think it's a combination
+
+486
+21:22.380 --> 21:24.090
+between the CSPs
+
+487
+21:24.090 --> 21:27.300
+and the satellite network operators
+
+488
+21:27.300 --> 21:28.710
+that, of course, need to agree
+
+489
+21:28.710 --> 21:32.160
+what the business and business relation looks.
+
+490
+21:32.160 --> 21:36.030
+Who sort of owns the customers? Who do you connect with?
+
+491
+21:36.030 --> 21:38.070
+Is it your standard SIM
+
+492
+21:38.070 --> 21:41.280
+or is it the dedicated satellite SIM,
+
+493
+21:41.280 --> 21:43.410
+which is probably not preferred
+
+494
+21:43.410 --> 21:44.490
+'cause you want to address
+
+495
+21:44.490 --> 21:48.090
+the hundreds of millions of potential subscribers
+
+496
+21:48.090 --> 21:49.047
+and cars out there.
+
+497
+21:49.047 --> 21:51.814
+And then there's another question about
+
+498
+21:51.814 --> 21:52.764
+the development of,
+
+499
+21:53.790 --> 21:56.790
+let's call it the orchestration or the beam hoping
+
+500
+21:56.790 --> 21:58.320
+or the beam forming and everything,
+
+501
+21:58.320 --> 22:01.410
+which is something that is done depending on the technology,
+
+502
+22:01.410 --> 22:06.270
+but especially when it goes into 5G, NRM 10
+
+503
+22:06.270 --> 22:09.450
+and not for IOT, where you have more static beams.
+
+504
+22:09.450 --> 22:11.250
+It's a very delicate process
+
+505
+22:11.250 --> 22:14.910
+where you have to make decisions every millisecond
+
+506
+22:14.910 --> 22:18.240
+and look at your scheduler information,
+
+507
+22:18.240 --> 22:19.680
+where the actual users are.
+
+508
+22:19.680 --> 22:23.760
+And there we believe Ericsson is playing a vital role
+
+509
+22:23.760 --> 22:25.830
+in developing this.
+
+510
+22:25.830 --> 22:27.060
+<v ->Perfect.</v>
+
+511
+22:27.060 --> 22:29.100
+Well, let's get the opportunity to the audience
+
+512
+22:29.100 --> 22:30.330
+to join our conversation.
+
+513
+22:30.330 --> 22:33.030
+So if there's some questions, I can do two things.
+
+514
+22:33.030 --> 22:35.640
+I can give you my mic or you speak out loud.
+
+515
+22:35.640 --> 22:37.620
+So see your question here.
+
+516
+22:37.620 --> 22:39.930
+So give you my...
+
+517
+22:39.930 --> 22:40.763
+<v ->Thank you.</v>
+
+518
+22:40.763 --> 22:42.000
+Yeah, my name is Henry Lubkin,
+
+519
+22:42.000 --> 22:43.560
+I'm a venture capitalist
+
+520
+22:43.560 --> 22:46.050
+but many years have been in the car industry,
+
+521
+22:46.050 --> 22:48.240
+mainly VW and BMW.
+
+522
+22:48.240 --> 22:49.180
+Now
+
+523
+22:51.270 --> 22:52.740
+you didn't speak about
+
+524
+22:52.740 --> 22:55.290
+what is necessary on the car side.
+
+525
+22:55.290 --> 22:56.123
+On the car side,
+
+526
+22:56.123 --> 23:00.491
+if you have active faced array connectivity with satellite,
+
+527
+23:00.491 --> 23:04.923
+you have to bring a terminal somewhere on the roof.
+
+528
+23:05.850 --> 23:07.470
+It has to be hardware,
+
+529
+23:07.470 --> 23:09.390
+software wise integrated
+
+530
+23:09.390 --> 23:11.670
+into the architecture of the vehicle.
+
+531
+23:11.670 --> 23:14.890
+I don't see really in the car industry
+
+532
+23:15.870 --> 23:18.600
+that this is pushed hard.
+
+533
+23:18.600 --> 23:19.770
+They look at it,
+
+534
+23:19.770 --> 23:23.640
+but they have so many other things on the top of their head
+
+535
+23:23.640 --> 23:28.410
+that satellite connectivity is not on top of the list
+
+536
+23:28.410 --> 23:30.970
+as long as G4 and G5
+
+537
+23:32.520 --> 23:36.140
+kind of sufficiently supplies the connectivity.
+
+538
+23:36.140 --> 23:40.350
+You know, I see a slowness there.
+
+539
+23:40.350 --> 23:42.870
+What are you guys thinking about that?
+
+540
+23:42.870 --> 23:44.430
+How can that be pushed?
+
+541
+23:44.430 --> 23:46.170
+I think it would be a huge opportunity
+
+542
+23:46.170 --> 23:48.240
+to connect the cars for sure.
+
+543
+23:48.240 --> 23:50.310
+But you didn't talk about the car side,
+
+544
+23:50.310 --> 23:52.620
+which is a big, big step still to go.
+
+545
+23:52.620 --> 23:54.810
+It takes three, four years, five years
+
+546
+23:54.810 --> 23:58.020
+to integrate it into a vehicle architecture.
+
+547
+23:58.020 --> 23:59.043
+<v ->I can take a shot.</v>
+
+548
+24:00.600 --> 24:04.653
+I mean, the beauty with 5G, for example, or 4G,
+
+549
+24:04.653 --> 24:09.450
+is that every single device you buy,
+
+550
+24:09.450 --> 24:12.060
+it is guaranteed to work
+
+551
+24:12.060 --> 24:15.720
+and it's thoroughly tested for years, I would say,
+
+552
+24:15.720 --> 24:16.553
+in the lab.
+
+553
+24:16.553 --> 24:17.850
+So for example, Ericsson,
+
+554
+24:17.850 --> 24:21.090
+what we call interoperability testing.
+
+555
+24:21.090 --> 24:23.700
+That means that there is 100% probability
+
+556
+24:23.700 --> 24:25.440
+that your smartphone will work
+
+557
+24:25.440 --> 24:26.970
+when you take it out of the box.
+
+558
+24:26.970 --> 24:29.640
+And the same would go with car devices,
+
+559
+24:29.640 --> 24:30.473
+but of course,
+
+560
+24:30.473 --> 24:34.260
+you would have to integrate it physically into the car
+
+561
+24:34.260 --> 24:37.680
+and you would have to develop phased array technology
+
+562
+24:37.680 --> 24:40.440
+that is connected to this pretested chip sets
+
+563
+24:40.440 --> 24:44.010
+that you can get from, well, you know, the big companies.
+
+564
+24:44.010 --> 24:47.460
+So I think functionality wise,
+
+565
+24:47.460 --> 24:50.850
+it's a pretty short step to make it work.
+
+566
+24:50.850 --> 24:53.820
+Then it's a probably bigger challenge, of course,
+
+567
+24:53.820 --> 24:56.195
+to get the cost, the integration,
+
+568
+24:56.195 --> 24:59.190
+the beauty factor and everything into the car.
+
+569
+24:59.190 --> 25:01.891
+But the technology will work, guaranteed,
+
+570
+25:01.891 --> 25:04.890
+once you have the right satellites up there
+
+571
+25:04.890 --> 25:07.533
+and you have decided what spectrum to use.
+
+572
+25:09.270 --> 25:12.663
+<v ->Maybe to add on this, you're talking about cars.</v>
+
+573
+25:14.070 --> 25:16.140
+My view, also discussions we are having
+
+574
+25:16.140 --> 25:21.140
+is more on the other type of vehicles, trucks, machinery,
+
+575
+25:21.240 --> 25:22.950
+which are in regions and areas
+
+576
+25:22.950 --> 25:25.950
+where there's no terrestrial network available
+
+577
+25:25.950 --> 25:28.384
+or is a lower quality.
+
+578
+25:28.384 --> 25:32.310
+And here we have definitely a higher cost/benefit ratio
+
+579
+25:32.310 --> 25:34.890
+when you're building this into the vehicles.
+
+580
+25:34.890 --> 25:35.790
+I fully agree with you,
+
+581
+25:35.790 --> 25:40.470
+I don't see adoption in passenger cars, in vehicles,
+
+582
+25:40.470 --> 25:42.030
+in the near future.
+
+583
+25:42.030 --> 25:45.690
+Probably in the next or even the generation afterwards.
+
+584
+25:45.690 --> 25:49.800
+But for other type of vehicles, that's much more useful
+
+585
+25:49.800 --> 25:52.380
+and that's where technology will mature
+
+586
+25:52.380 --> 25:55.350
+and will get them better priced,
+
+587
+25:55.350 --> 25:59.793
+better, higher reliability, coming into larger fleets.
+
+588
+26:01.560 --> 26:02.393
+<v ->Indeed, actually ,</v>
+
+589
+26:02.393 --> 26:05.370
+this is something where for us,
+
+590
+26:05.370 --> 26:07.057
+in the market especially for IOT,
+
+591
+26:07.949 --> 26:10.650
+we had to come up with kind of temporary solution
+
+592
+26:10.650 --> 26:14.970
+of devices that could be integrated at the vehicle,
+
+593
+26:14.970 --> 26:16.230
+like using cameras or whatever,
+
+594
+26:16.230 --> 26:18.900
+which also have the antenna inside
+
+595
+26:18.900 --> 26:20.250
+in order to bridge the time
+
+596
+26:20.250 --> 26:23.580
+until the car manufacturer will start standardizing
+
+597
+26:23.580 --> 26:25.500
+or having that in.
+
+598
+26:25.500 --> 26:26.910
+But it also creates, like,
+
+599
+26:26.910 --> 26:29.610
+there are a lot of value added resellers today
+
+600
+26:29.610 --> 26:32.850
+creating such tracking devices or whatever
+
+601
+26:32.850 --> 26:36.067
+in the ecosystem to provide that service.
+
+602
+26:36.067 --> 26:37.260
+And indeed, as you said,
+
+603
+26:37.260 --> 26:39.540
+it depends also a lot on the use case of the spectrum
+
+604
+26:39.540 --> 26:41.340
+because for example, we use the S-band,
+
+605
+26:41.340 --> 26:42.540
+the two gigahertz,
+
+606
+26:42.540 --> 26:44.190
+and even we know it's like,
+
+607
+26:44.190 --> 26:48.780
+even inside the car, you would still get coverage
+
+608
+26:48.780 --> 26:52.140
+and with LEO, since you're coming from different angles,
+
+609
+26:52.140 --> 26:54.187
+you would capture the satellite
+
+610
+26:54.187 --> 26:57.180
+compared like, with geo where you need to be pointing
+
+611
+26:57.180 --> 26:59.610
+or you need to have very advanced beam forming.
+
+612
+26:59.610 --> 27:00.630
+But of course that's more
+
+613
+27:00.630 --> 27:03.090
+for narrow band IOT applications,
+
+614
+27:03.090 --> 27:08.090
+not like continuous streaming or broadband applications.
+
+615
+27:08.474 --> 27:10.598
+<v ->You can always roll down the window.</v>
+
+616
+27:10.598 --> 27:11.945
+<v ->Yeah.</v>
+
+617
+27:11.945 --> 27:13.170
+<v ->Just to add to this,</v>
+
+618
+27:13.170 --> 27:17.280
+I think usually when we are having technical conversations,
+
+619
+27:17.280 --> 27:22.280
+unfortunately, business models is often not addressed.
+
+620
+27:22.410 --> 27:26.370
+So when we look at the commercial vehicle segment,
+
+621
+27:26.370 --> 27:29.520
+the business model is often very clear
+
+622
+27:29.520 --> 27:32.400
+because you can directly either monetize it
+
+623
+27:32.400 --> 27:34.230
+or you can save costs.
+
+624
+27:34.230 --> 27:36.480
+So the adoption is much easier,
+
+625
+27:36.480 --> 27:38.310
+but if you look at the private vehicles,
+
+626
+27:38.310 --> 27:40.080
+it's a bit more complicated.
+
+627
+27:40.080 --> 27:43.284
+And quite frankly, it has been very difficult
+
+628
+27:43.284 --> 27:48.180
+to monetize connectivity in private vehicles so far.
+
+629
+27:48.180 --> 27:50.585
+I'm sorry, but you guys know. (laughs)
+
+630
+27:50.585 --> 27:53.550
+It's not like it has a high adoption,
+
+631
+27:53.550 --> 27:55.740
+and in my opinion,
+
+632
+27:55.740 --> 28:00.030
+it's because the business model so far has been incorrect.
+
+633
+28:00.030 --> 28:01.290
+I don't think you need to,
+
+634
+28:01.290 --> 28:03.360
+you should ask the final customer
+
+635
+28:03.360 --> 28:04.860
+to pay for connectivity.
+
+636
+28:04.860 --> 28:06.930
+For me, that doesn't make any sense.
+
+637
+28:06.930 --> 28:11.930
+Think about how many drivers don't have a phone
+
+638
+28:12.060 --> 28:15.390
+and are not already paying for data in their phones.
+
+639
+28:15.390 --> 28:16.927
+So then suddenly you were saying,
+
+640
+28:16.927 --> 28:19.590
+"Oh, why don't you pay again?"
+
+641
+28:19.590 --> 28:21.360
+And what are you gaining from that?
+
+642
+28:21.360 --> 28:24.030
+So what what we have to do is actually,
+
+643
+28:24.030 --> 28:25.050
+we have the tech.
+
+644
+28:25.050 --> 28:25.883
+Look at this,
+
+645
+28:25.883 --> 28:27.900
+we have several companies offering the tech,
+
+646
+28:27.900 --> 28:30.157
+but actually what we have to think is,
+
+647
+28:30.157 --> 28:33.030
+"What am I offering to my customer?"
+
+648
+28:33.030 --> 28:35.670
+Consumer pays for value.
+
+649
+28:35.670 --> 28:37.620
+I'm not gonna pay for connectivity
+
+650
+28:37.620 --> 28:40.800
+because I don't see value in paying for connectivity.
+
+651
+28:40.800 --> 28:44.730
+But if my car is offering a functionality
+
+652
+28:44.730 --> 28:46.560
+that adds value for me.
+
+653
+28:46.560 --> 28:49.560
+so if my car, if the company that,
+
+654
+28:49.560 --> 28:52.170
+I dunno, if I'm driving a BMW
+
+655
+28:52.170 --> 28:54.090
+and I have a feature that updates
+
+656
+28:54.090 --> 28:58.980
+and upgrades my parking feature, for example,
+
+657
+28:58.980 --> 29:01.470
+and suddenly I buy my vehicle,
+
+658
+29:01.470 --> 29:04.740
+my vehicle is capable of semi-automated driving, right?
+
+659
+29:04.740 --> 29:08.400
+So the wheel moves and I have to use the actuators,
+
+660
+29:08.400 --> 29:11.490
+but then six months later I have an update,
+
+661
+29:11.490 --> 29:16.140
+and my car is capable of fully automated driving.
+
+662
+29:16.140 --> 29:18.780
+The car didn't change, the sensors didn't change,
+
+663
+29:18.780 --> 29:20.640
+but now I don't have to do anything
+
+664
+29:20.640 --> 29:22.950
+and the car parks and I just watch it.
+
+665
+29:22.950 --> 29:25.088
+Six months later, I get an update
+
+666
+29:25.088 --> 29:28.950
+and I can park my car a few meters away
+
+667
+29:28.950 --> 29:30.540
+from the parking space.
+
+668
+29:30.540 --> 29:33.780
+I leave my car, I use my phone, I press a button,
+
+669
+29:33.780 --> 29:35.520
+the car goes and parks itself
+
+670
+29:35.520 --> 29:36.903
+and I can summon the car.
+
+671
+29:37.770 --> 29:39.630
+I would pay for that.
+
+672
+29:39.630 --> 29:41.340
+Connectivity is embedded in this
+
+673
+29:41.340 --> 29:44.790
+because the OEM will have to have some level of connectivity
+
+674
+29:44.790 --> 29:48.360
+to change this functionality over the air.
+
+675
+29:48.360 --> 29:51.720
+But I'm not paying for connectivity, I'm paying for value.
+
+676
+29:51.720 --> 29:52.553
+And this is, I think,
+
+677
+29:52.553 --> 29:54.210
+something that we should be discussing.
+
+678
+29:54.210 --> 29:55.320
+What is the value
+
+679
+29:55.320 --> 29:58.200
+the satellite is going to add to the customer?
+
+680
+29:58.200 --> 30:00.150
+And if it is adding value,
+
+681
+30:00.150 --> 30:03.480
+then increasing the bill of materials of the vehicle,
+
+682
+30:03.480 --> 30:06.810
+it's okay, it's something that you have to deal with
+
+683
+30:06.810 --> 30:09.393
+because you're going to monetize in another way.
+
+684
+30:10.410 --> 30:11.820
+<v ->And maybe Kieran,</v>
+
+685
+30:11.820 --> 30:13.890
+can you maybe talk about how you view
+
+686
+30:13.890 --> 30:15.870
+or from your discussion with OEM side,
+
+687
+30:15.870 --> 30:19.710
+kind of the benefits of the software defined car?
+
+688
+30:19.710 --> 30:21.409
+Let's maybe start there
+
+689
+30:21.409 --> 30:22.699
+and you know,
+
+690
+30:22.699 --> 30:25.860
+because we still talk about relatively limited adoption,
+
+691
+30:25.860 --> 30:27.450
+is then the benefits versus the cost
+
+692
+30:27.450 --> 30:29.820
+not kind of adding up at this point?
+
+693
+30:29.820 --> 30:32.160
+<v ->I think it's already been mentioned by yourself as well.</v>
+
+694
+30:32.160 --> 30:33.540
+I think the OEMs are faced with
+
+695
+30:33.540 --> 30:35.220
+a lot of transition and transformation.
+
+696
+30:35.220 --> 30:37.470
+So there's, of course, the shift now towards BEV,
+
+697
+30:37.470 --> 30:38.430
+which they've had to handle.
+
+698
+30:38.430 --> 30:40.530
+Now there's the hype around SDV.
+
+699
+30:40.530 --> 30:41.850
+It's delayed,
+
+700
+30:41.850 --> 30:45.570
+the adoption is not there, it should be there.
+
+701
+30:45.570 --> 30:47.937
+Then there's now the requirements for cybersecurity.
+
+702
+30:47.937 --> 30:50.070
+And also infotainment as well.
+
+703
+30:50.070 --> 30:51.300
+I think also in the future,
+
+704
+30:51.300 --> 30:52.875
+it was also mentioned by some of the colleagues,
+
+705
+30:52.875 --> 30:56.940
+it's no point looking at it individual technology
+
+706
+30:56.940 --> 30:58.230
+by technology by technology
+
+707
+30:58.230 --> 31:02.130
+because bringing the technology is not so difficult.
+
+708
+31:02.130 --> 31:04.410
+There's always an interaction of the dependencies on this.
+
+709
+31:04.410 --> 31:07.140
+So there will be a big dependency on the infotainment
+
+710
+31:07.140 --> 31:08.910
+with the ADAS, et cetera.
+
+711
+31:08.910 --> 31:10.680
+And we already see that the OEMs,
+
+712
+31:10.680 --> 31:12.690
+with the transitions that they're faced with now,
+
+713
+31:12.690 --> 31:14.910
+are already struggling on the system level.
+
+714
+31:14.910 --> 31:17.430
+So when you design these features,
+
+715
+31:17.430 --> 31:19.740
+you don't really think about how to test and validate them.
+
+716
+31:19.740 --> 31:21.000
+And this is underestimated.
+
+717
+31:21.000 --> 31:24.270
+Then it's not easy in a global market
+
+718
+31:24.270 --> 31:25.830
+for automotive manufacturers.
+
+719
+31:25.830 --> 31:26.790
+So you have to,
+
+720
+31:26.790 --> 31:28.230
+you have one market
+
+721
+31:28.230 --> 31:30.720
+and then you have to adopt this for other markets.
+
+722
+31:30.720 --> 31:32.430
+It may be simple things like road signs,
+
+723
+31:32.430 --> 31:33.930
+behaviors, whatever.
+
+724
+31:33.930 --> 31:34.950
+And this is estimated
+
+725
+31:34.950 --> 31:37.590
+it can also take about 40% additional efforts
+
+726
+31:37.590 --> 31:38.850
+just for this adoption.
+
+727
+31:38.850 --> 31:43.560
+So I agree that the technology is one thing,
+
+728
+31:43.560 --> 31:44.730
+but we need to be looking at it
+
+729
+31:44.730 --> 31:48.030
+more on the system complexity and the system integration.
+
+730
+31:48.030 --> 31:49.500
+And if we already look at the market,
+
+731
+31:49.500 --> 31:52.020
+we can see some OEMs already struggling with this, you know?
+
+732
+31:52.020 --> 31:54.060
+There's already significant delays.
+
+733
+31:54.060 --> 31:56.790
+They're canceling vehicles by 12 months
+
+734
+31:56.790 --> 31:58.320
+and basically, it's the same message.
+
+735
+31:58.320 --> 32:00.150
+It's around software integration issues.
+
+736
+32:00.150 --> 32:02.310
+This is what they're currently struggling with.
+
+737
+32:02.310 --> 32:03.930
+And so I think going forward,
+
+738
+32:03.930 --> 32:06.750
+it's not so much the technology on its own,
+
+739
+32:06.750 --> 32:09.810
+it's, we need to have a bigger, wider understanding
+
+740
+32:09.810 --> 32:12.840
+on how this completely operates as a complete system
+
+741
+32:12.840 --> 32:14.550
+and then, importantly, how to test this
+
+742
+32:14.550 --> 32:16.320
+and validate it in the most efficient way
+
+743
+32:16.320 --> 32:17.940
+that it can be brought into more stream
+
+744
+32:17.940 --> 32:19.383
+and released to the market.
+
+745
+32:20.460 --> 32:22.110
+<v ->May I add to this?</v>
+
+746
+32:22.110 --> 32:23.970
+So you mentioned system integration.
+
+747
+32:23.970 --> 32:27.000
+I would go even one step further into operations,
+
+748
+32:27.000 --> 32:27.930
+fleet operations.
+
+749
+32:27.930 --> 32:29.940
+Because once this is out in the market,
+
+750
+32:29.940 --> 32:33.420
+it's there for 10 years, 10 plus years.
+
+751
+32:33.420 --> 32:35.460
+You have to do the upgrades.
+
+752
+32:35.460 --> 32:36.600
+Someone has to pay for it.
+
+753
+32:36.600 --> 32:39.687
+The consumer typical will not pay for it.
+
+754
+32:39.687 --> 32:44.100
+So there are continued costs on it and we see it.
+
+755
+32:44.100 --> 32:46.513
+We operate fleets for OEMs
+
+756
+32:46.513 --> 32:48.690
+and there's a a tremendous effort
+
+757
+32:48.690 --> 32:52.650
+in managing the software, security updates,
+
+758
+32:52.650 --> 32:54.480
+whatever needs to be done,
+
+759
+32:54.480 --> 32:57.870
+roll it out and keep it operating for long period of time.
+
+760
+32:57.870 --> 33:00.240
+And 10 years means two, three,
+
+761
+33:00.240 --> 33:02.040
+even four technology generations.
+
+762
+33:02.040 --> 33:04.050
+So where change is happening,
+
+763
+33:04.050 --> 33:06.540
+that's where standardization is such important
+
+764
+33:06.540 --> 33:09.073
+that you don't have to change every other day.
+
+765
+33:09.073 --> 33:11.070
+But that's where the complexity is coming from.
+
+766
+33:11.070 --> 33:14.520
+It's not the initial technology introduction,
+
+767
+33:14.520 --> 33:17.010
+it's getting it out, get it integrated,
+
+768
+33:17.010 --> 33:17.843
+get it rollout,
+
+769
+33:17.843 --> 33:20.853
+get it into different regulatory,
+
+770
+33:21.720 --> 33:23.670
+regional regulatory requirements
+
+771
+33:23.670 --> 33:25.350
+and then operate over time.
+
+772
+33:25.350 --> 33:27.480
+So that's where the big cost's coming from.
+
+773
+33:27.480 --> 33:28.410
+<v ->Okay, good.</v>
+
+774
+33:28.410 --> 33:31.440
+All right, let me see if there's other audience questions.
+
+775
+33:31.440 --> 33:35.681
+If you have a question please raise your hand.
+
+776
+33:35.681 --> 33:38.460
+I'll try to see.
+
+777
+33:38.460 --> 33:39.293
+You are, okay.
+(panelists chuckling)
+
+778
+33:39.293 --> 33:40.680
+Well, it was a good question.
+
+779
+33:40.680 --> 33:43.323
+I'll allow a second unless, oh no, sure.
+
+780
+33:51.870 --> 33:53.760
+<v Woman>Thank you. I arrived a little late.</v>
+
+781
+33:53.760 --> 33:54.720
+So I do apologize
+
+782
+33:54.720 --> 33:57.540
+if this controversial topic has already been brought up.
+
+783
+33:57.540 --> 33:59.910
+But if you can share with me what is your,
+
+784
+33:59.910 --> 34:03.570
+for each of you that would like to respond to this,
+
+785
+34:03.570 --> 34:05.130
+what is the worst case scenario
+
+786
+34:05.130 --> 34:06.660
+and what is the best case scenario for you
+
+787
+34:06.660 --> 34:11.580
+as it relates to Elon's vertically integrated possibility
+
+788
+34:11.580 --> 34:14.133
+with Tesla and SpaceX and Starlink?
+
+789
+34:19.470 --> 34:20.303
+<v ->Okay, let me start.</v>
+
+790
+34:20.303 --> 34:23.100
+So we are,
+
+791
+34:23.100 --> 34:24.810
+from the type of business we are doing,
+
+792
+34:24.810 --> 34:29.100
+as Deutsche Telecom and T-Systems operations perspective,
+
+793
+34:29.100 --> 34:31.800
+it's another partner in the market.
+
+794
+34:31.800 --> 34:35.220
+So there's a partnership of T-Mobile US and SpaceX.
+
+795
+34:35.220 --> 34:36.053
+So as an example.
+
+796
+34:36.053 --> 34:39.750
+So it happens also for other market components
+
+797
+34:39.750 --> 34:40.743
+or sub-markets.
+
+798
+34:41.580 --> 34:44.490
+So I think of this market or this whole topic
+
+799
+34:44.490 --> 34:47.640
+we are talking about, SDV, as a collaboration market.
+
+800
+34:47.640 --> 34:50.310
+Obviously there are some companies, entities
+
+801
+34:50.310 --> 34:52.110
+which are very innovative
+
+802
+34:52.110 --> 34:55.200
+and bring things into the market, disrupt the market.
+
+803
+34:55.200 --> 34:56.460
+I personally would say it's good
+
+804
+34:56.460 --> 34:57.930
+because then something is happening,
+
+805
+34:57.930 --> 34:59.370
+I don't see it as a threat.
+
+806
+34:59.370 --> 35:01.020
+It's something which develops us
+
+807
+35:01.020 --> 35:02.770
+and challenge us from time to time.
+
+808
+35:05.580 --> 35:07.350
+<v ->I completely agree.</v>
+
+809
+35:07.350 --> 35:08.643
+I think we should,
+
+810
+35:09.660 --> 35:11.320
+technology has to evolve
+
+811
+35:14.549 --> 35:17.820
+and you know, regardless of all the polemic,
+
+812
+35:17.820 --> 35:21.210
+we are just talking about software defined vehicles today
+
+813
+35:21.210 --> 35:23.313
+because of Tesla, right?
+
+814
+35:25.700 --> 35:28.620
+Of course, if it wasn't them, it would be someone else.
+
+815
+35:28.620 --> 35:32.250
+But what I'm trying to say is, we can't stop innovation
+
+816
+35:32.250 --> 35:35.640
+and innovation only happens vertically
+
+817
+35:35.640 --> 35:36.920
+when you don't have an ecosystem.
+
+818
+35:36.920 --> 35:38.790
+'Cause it's the same thing
+
+819
+35:38.790 --> 35:41.340
+with the software defined vehicle architecture.
+
+820
+35:41.340 --> 35:45.870
+The reason why Tesla is completely vertically integrated
+
+821
+35:45.870 --> 35:48.060
+in the whole vehicle architecture
+
+822
+35:48.060 --> 35:50.070
+is because there wasn't an ecosystem,
+
+823
+35:50.070 --> 35:51.780
+because quite frankly it's much cheaper
+
+824
+35:51.780 --> 35:52.620
+to just buy technology
+
+825
+35:52.620 --> 35:54.720
+that you were not an expert in
+
+826
+35:54.720 --> 35:58.110
+than developing your own, right?
+
+827
+35:58.110 --> 36:02.430
+So again, if they do this, we may grow a market
+
+828
+36:02.430 --> 36:04.170
+that we're gonna have more suppliers
+
+829
+36:04.170 --> 36:05.490
+and the market's going to grow.
+
+830
+36:05.490 --> 36:06.783
+So it's good.
+
+831
+36:10.320 --> 36:13.083
+<v ->All right, good question. Good question.</v>
+
+832
+36:15.019 --> 36:17.100
+I'm not sure my mic is on.
+
+833
+36:17.100 --> 36:18.120
+We have a few more minutes.
+
+834
+36:18.120 --> 36:21.030
+Let me just see if there's any other questions here.
+
+835
+36:21.030 --> 36:21.863
+Speak loud.
+
+836
+36:23.910 --> 36:24.912
+Good.
+
+837
+36:24.912 --> 36:25.745
+I think we can maybe leave it
+
+838
+36:25.745 --> 36:27.423
+to the last question.
+
+839
+36:28.740 --> 36:30.420
+Before that, I just want to go back to the Tesla.
+
+840
+36:30.420 --> 36:31.470
+It's actually an interesting point
+
+841
+36:31.470 --> 36:32.550
+if you just think about it,
+
+842
+36:32.550 --> 36:33.383
+where they are today,
+
+843
+36:33.383 --> 36:35.370
+SpaceX and Starlink,
+
+844
+36:35.370 --> 36:37.470
+so they offer a lot of different markets.
+
+845
+36:37.470 --> 36:39.300
+They're offering kind of the broadband connectivity,
+
+846
+36:39.300 --> 36:42.930
+but connectivity to the car is not at a broadband level.
+
+847
+36:42.930 --> 36:45.690
+So clearly from their perspective as well,
+
+848
+36:45.690 --> 36:47.490
+it has not been a primary use case.
+
+849
+36:47.490 --> 36:50.160
+When this new satellite constellation come into the market,
+
+850
+36:50.160 --> 36:52.440
+will be interesting to see how they move forward.
+
+851
+36:52.440 --> 36:54.780
+But you know, that was actually really well related
+
+852
+36:54.780 --> 36:55.620
+to my last question,
+
+853
+36:55.620 --> 36:58.770
+'cause we covered a lot of topics about business case,
+
+854
+36:58.770 --> 37:01.920
+affordability, technical challenges,
+
+855
+37:01.920 --> 37:05.130
+but is there anything that we didn't discuss
+
+856
+37:05.130 --> 37:08.210
+so far in the topic of software defined vehicles,
+
+857
+37:08.210 --> 37:10.890
+in the topic of connected cars
+
+858
+37:10.890 --> 37:12.870
+that you know, we should be discussing
+
+859
+37:12.870 --> 37:15.300
+and you want to do a quick pitch about it
+
+860
+37:15.300 --> 37:17.010
+in the last two and a half minutes we have?
+
+861
+37:17.010 --> 37:21.030
+So anyone that wants to go first to highlight something
+
+862
+37:21.030 --> 37:22.912
+or just summarize a key takeaway,
+
+863
+37:22.912 --> 37:24.780
+that's also allowed, but...
+
+864
+37:24.780 --> 37:25.613
+<v ->Maybe I start.</v>
+
+865
+37:25.613 --> 37:29.010
+So just, I think, if we want the adoption to speed up,
+
+866
+37:29.010 --> 37:31.080
+I think it's already kinda been mentioned,
+
+867
+37:31.080 --> 37:34.296
+there needs to be kind of a more open architecture.
+
+868
+37:34.296 --> 37:36.180
+And more collaboration.
+
+869
+37:36.180 --> 37:38.100
+I think without this,
+
+870
+37:38.100 --> 37:40.290
+we can bring a certain level of standardization, et cetera,
+
+871
+37:40.290 --> 37:41.520
+but to really speed it up
+
+872
+37:41.520 --> 37:43.710
+and bring more mass adoption,
+
+873
+37:43.710 --> 37:44.730
+we really should be looking
+
+874
+37:44.730 --> 37:46.640
+for a kind of more open architecture
+
+875
+37:46.640 --> 37:48.240
+and a more joint collaboration,
+
+876
+37:48.240 --> 37:49.920
+which maybe hasn't been that prevalent
+
+877
+37:49.920 --> 37:51.600
+in the automotive industry previously.
+
+878
+37:51.600 --> 37:53.943
+So I think this would be for me.
+
+879
+37:54.810 --> 37:56.310
+<v ->Yeah, I see automotive</v>
+
+880
+37:56.310 --> 38:00.960
+as one of the really driving use segments
+
+881
+38:00.960 --> 38:05.220
+and really the need of having one technology that is common
+
+882
+38:05.220 --> 38:08.160
+between the normal way of operating,
+
+883
+38:08.160 --> 38:11.790
+which is the terrestrial networks, good cost,
+
+884
+38:11.790 --> 38:13.740
+good through-puts and everything,
+
+885
+38:13.740 --> 38:18.400
+complemented with what you can call auto coverage services
+
+886
+38:19.890 --> 38:22.587
+with the same kind of basic technology
+
+887
+38:22.587 --> 38:26.430
+that doesn't drive additional cost,
+
+888
+38:26.430 --> 38:31.430
+which is a disadvantage with Starlink and Tesla,
+
+889
+38:31.740 --> 38:32.823
+of course, currently.
+
+890
+38:34.680 --> 38:36.090
+<v ->I think one thing we could do</v>
+
+891
+38:36.090 --> 38:39.070
+to accelerate also the timeline of adoption
+
+892
+38:40.992 --> 38:43.020
+of connectivity over satellites for cars
+
+893
+38:43.020 --> 38:45.150
+is harmonization on spectrum,
+
+894
+38:45.150 --> 38:48.180
+because this is a very critical point.
+
+895
+38:48.180 --> 38:51.031
+There will be a lot of regulatory aspects there.
+
+896
+38:51.031 --> 38:53.670
+The access to spectrum is different
+
+897
+38:53.670 --> 38:54.750
+from region to region,
+
+898
+38:54.750 --> 38:58.530
+and now on I2 level on WRC,
+
+899
+38:58.530 --> 38:59.550
+this is being harmonized,
+
+900
+38:59.550 --> 39:02.040
+but until it's adopted in all countries,
+
+901
+39:02.040 --> 39:04.290
+until the operators have the access
+
+902
+39:04.290 --> 39:06.720
+to provide such global coverage in every country,
+
+903
+39:06.720 --> 39:07.710
+it's gonna take time.
+
+904
+39:07.710 --> 39:11.040
+But also, it requires also continuous discussion
+
+905
+39:11.040 --> 39:14.820
+with the OEMs and the chip makers and the telcos also
+
+906
+39:14.820 --> 39:17.070
+in order to have, in the end,
+
+907
+39:17.070 --> 39:20.580
+global connectivity everywhere over satellite
+
+908
+39:20.580 --> 39:23.003
+because you don't want to end up
+
+909
+39:23.003 --> 39:24.600
+with very complex antennas that cover different bands
+
+910
+39:24.600 --> 39:25.980
+in different regions,
+
+911
+39:25.980 --> 39:27.270
+and you wanna have, like,
+
+912
+39:27.270 --> 39:29.280
+only a few bands that are standardized
+
+913
+39:29.280 --> 39:31.473
+for vehicle connectivity over satellite.
+
+914
+39:34.170 --> 39:35.420
+<v ->Maybe one thought here.</v>
+
+915
+39:36.600 --> 39:39.420
+Software defined vehicle and the whole industry
+
+916
+39:39.420 --> 39:41.280
+should also look to other industries.
+
+917
+39:41.280 --> 39:42.990
+So it's not the first industry
+
+918
+39:42.990 --> 39:45.780
+where software defined is a common term.
+
+919
+39:45.780 --> 39:50.010
+So software defined networks is at least 10 plus years old.
+
+920
+39:50.010 --> 39:52.530
+And there are a lot of learnings, from my point of view,
+
+921
+39:52.530 --> 39:55.440
+from software defined networks to software defined vehicles.
+
+922
+39:55.440 --> 39:57.600
+Standardization's one, open source is one.
+
+923
+39:57.600 --> 39:59.608
+So you don't have to reinvent the wheel
+
+924
+39:59.608 --> 40:00.990
+again and again and again
+
+925
+40:00.990 --> 40:03.240
+and build your own operating system.
+
+926
+40:03.240 --> 40:06.190
+So there are a lot of stuff which can be shared
+
+927
+40:07.063 --> 40:09.330
+and have a common ground.
+
+928
+40:09.330 --> 40:12.510
+And this is probably also a thought
+
+929
+40:12.510 --> 40:13.830
+which helps us
+
+930
+40:13.830 --> 40:16.867
+for the next one or two generations in SDVs.
+
+931
+40:16.867 --> 40:19.773
+<v ->Do I have time to end on a polemic note?</v>
+
+932
+40:20.730 --> 40:23.280
+First thing, I think satellite connectivity
+
+933
+40:23.280 --> 40:27.150
+should be positioned in what it does best.
+
+934
+40:27.150 --> 40:28.740
+I don't think it will replace
+
+935
+40:28.740 --> 40:30.840
+any other kind of connectivity.
+
+936
+40:30.840 --> 40:31.890
+It's going to be used
+
+937
+40:31.890 --> 40:34.470
+when you don't have other connectivity available.
+
+938
+40:34.470 --> 40:37.170
+And some of the use cases that I heard in here,
+
+939
+40:37.170 --> 40:40.770
+they require high bandwidth, they require low latency,
+
+940
+40:40.770 --> 40:43.050
+they require reliability.
+
+941
+40:43.050 --> 40:46.010
+Will satellite be able to deliver that
+
+942
+40:46.010 --> 40:48.363
+to the automotive grade level?
+
+943
+40:49.680 --> 40:51.270
+I dunno.
+
+944
+40:51.270 --> 40:54.810
+Second point, the business case for connectivity
+
+945
+40:54.810 --> 40:59.430
+has been incorrect for a long time in automotive.
+
+946
+40:59.430 --> 41:01.890
+This has happened with satellite connectivity,
+
+947
+41:01.890 --> 41:04.020
+this has happened with V2X
+
+948
+41:04.020 --> 41:06.870
+and it could happen with satellites connectivity
+
+949
+41:06.870 --> 41:08.460
+if we don't do things differently.
+
+950
+41:08.460 --> 41:10.110
+If you keep doing the same things,
+
+951
+41:10.110 --> 41:11.970
+you can't expect different results.
+
+952
+41:11.970 --> 41:14.570
+And I think this is an opportunity to change things.
+
+953
+41:15.864 --> 41:16.890
+<v ->All right, thank you very much.</v>
+
+954
+41:16.890 --> 41:18.000
+That sums up very well.
+
+955
+41:18.000 --> 41:19.290
+There's still a lot of things to do,
+
+956
+41:19.290 --> 41:21.300
+a lot of work to do for all of us,
+
+957
+41:21.300 --> 41:22.410
+but I think, you know,
+
+958
+41:22.410 --> 41:25.020
+definitely, the value is recognized.
+
+959
+41:25.020 --> 41:27.619
+Please join me in thanking the panelists.
+
+960
+41:27.619 --> 41:29.774
+(audience applauds)
+
+961
+41:29.774 --> 41:32.774
+(dynamic pop music)
+

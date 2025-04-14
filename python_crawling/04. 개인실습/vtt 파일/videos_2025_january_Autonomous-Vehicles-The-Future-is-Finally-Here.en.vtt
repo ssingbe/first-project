@@ -1,0 +1,3555 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.136 --> 00:02.719
+(upbeat music)
+
+2
+00:11.460 --> 00:12.720
+<v ->Well, hey, good afternoon everybody.</v>
+
+3
+00:12.720 --> 00:14.910
+Thank you for making the time.
+
+4
+00:14.910 --> 00:18.210
+I think, if you're here at CES
+
+5
+00:18.210 --> 00:19.950
+on a Thursday afternoon at three o'clock,
+
+6
+00:19.950 --> 00:21.300
+you're a survivor,
+
+7
+00:21.300 --> 00:24.240
+and perhaps that's a good parallel for
+
+8
+00:24.240 --> 00:25.890
+a lot of the autonomous vehicle companies
+
+9
+00:25.890 --> 00:29.070
+that are not only surviving now in this space,
+
+10
+00:29.070 --> 00:30.660
+but flourishing.
+
+11
+00:30.660 --> 00:32.820
+So with that quick prelude,
+
+12
+00:32.820 --> 00:34.020
+I'll introduce myself.
+
+13
+00:34.020 --> 00:35.820
+I'm Pete Bigelow, senior reporter
+
+14
+00:35.820 --> 00:37.680
+at Automotive News in Detroit
+
+15
+00:37.680 --> 00:40.200
+where I cover the future of transportation overall
+
+16
+00:40.200 --> 00:42.300
+and autonomous vehicles in particular.
+
+17
+00:42.300 --> 00:44.613
+And I host the "Shift" mobility podcast.
+
+18
+00:45.480 --> 00:47.040
+Why don't we do some quick introductions here.
+
+19
+00:47.040 --> 00:48.960
+I'll ask you to introduce yourselves,
+
+20
+00:48.960 --> 00:49.920
+and then we'll get rolling.
+
+21
+00:49.920 --> 00:51.780
+So Selika, maybe we'll start on your end
+
+22
+00:51.780 --> 00:53.180
+and come back down this way.
+
+23
+00:55.980 --> 00:56.813
+<v ->Who am I?</v>
+
+24
+00:58.260 --> 01:00.330
+Good afternoon, everyone.
+
+25
+01:00.330 --> 01:01.390
+I have been
+
+26
+01:02.580 --> 01:06.690
+regulating, crafting policy, teaching, writing,
+
+27
+01:06.690 --> 01:10.863
+and speaking about autonomous vehicles for over 15 years.
+
+28
+01:12.960 --> 01:15.180
+I say that if anyone in this room
+
+29
+01:15.180 --> 01:19.680
+is bullish on the future of autonomy,
+
+30
+01:19.680 --> 01:21.030
+checkmate, I'm more bullish.
+
+31
+01:21.030 --> 01:21.863
+That's who I am.
+
+32
+01:24.300 --> 01:26.400
+<v ->Hi, everyone. Good afternoon.</v>
+
+33
+01:26.400 --> 01:27.780
+So my name is Maria Alonso,
+
+34
+01:27.780 --> 01:29.730
+and I lead our autonomous systems portfolio
+
+35
+01:29.730 --> 01:31.530
+at the World Economic Forum.
+
+36
+01:31.530 --> 01:34.380
+For those of you who may not know the World Economic Forum,
+
+37
+01:34.380 --> 01:36.210
+we are the international organization
+
+38
+01:36.210 --> 01:38.430
+for public private collaboration,
+
+39
+01:38.430 --> 01:42.420
+and we try to tackle the key challenges that the world has,
+
+40
+01:42.420 --> 01:44.823
+and autonomous vehicles is one of them.
+
+41
+01:46.440 --> 01:47.273
+<v ->Good afternoon.</v>
+
+42
+01:47.273 --> 01:49.020
+My name is Aine Denari,
+
+43
+01:49.020 --> 01:51.870
+and I work with Brunswick Corporation,
+
+44
+01:51.870 --> 01:53.580
+which is not bowling and billiards
+
+45
+01:53.580 --> 01:55.170
+as most people probably think,
+
+46
+01:55.170 --> 01:59.730
+but in fact we are today mostly into recreational marine.
+
+47
+01:59.730 --> 02:01.620
+So boats rather than cars,
+
+48
+02:01.620 --> 02:03.660
+but a lot of similar parallels.
+
+49
+02:03.660 --> 02:05.640
+There I lead one of our divisions, Navico Group,
+
+50
+02:05.640 --> 02:08.643
+and I'm also the chief technology officer for the company.
+
+51
+02:09.690 --> 02:12.180
+Prior to joining the recreational marine space,
+
+52
+02:12.180 --> 02:14.310
+I actually ran an ADAS business
+
+53
+02:14.310 --> 02:16.740
+for an automotive tier one supplier, ZF.
+
+54
+02:16.740 --> 02:19.500
+So a lot of interesting parallels between
+
+55
+02:19.500 --> 02:22.100
+what we did in auto versus now what we do in marine.
+
+56
+02:23.310 --> 02:26.610
+<v ->And I'm Johann Jungwirth, just JJ, my initials.</v>
+
+57
+02:26.610 --> 02:31.560
+And I'm the EVP for AV at Mobileye, an Israeli company.
+
+58
+02:31.560 --> 02:36.060
+And we basically deliver with our partners,
+
+59
+02:36.060 --> 02:38.910
+with the automotive manufacturers and brands
+
+60
+02:38.910 --> 02:40.560
+full autonomous solutions.
+
+61
+02:40.560 --> 02:44.850
+Everything from, level 2++ to level 3, level 4,
+
+62
+02:44.850 --> 02:46.563
+and happy to be here.
+
+63
+02:47.520 --> 02:48.990
+<v ->All right. Thank you, all.</v>
+
+64
+02:48.990 --> 02:51.690
+The premise of this panel I think is that
+
+65
+02:51.690 --> 02:54.450
+autonomy or automation, and we can quibble about
+
+66
+02:54.450 --> 02:56.910
+the differences between those two things in a little bit,
+
+67
+02:56.910 --> 02:59.430
+but that it's finally here.
+
+68
+02:59.430 --> 03:01.830
+So, JJ, I'm gonna start with you.
+
+69
+03:01.830 --> 03:04.320
+In what way is automation here
+
+70
+03:04.320 --> 03:05.280
+and then what's kind of
+
+71
+03:05.280 --> 03:07.983
+the state of the industry here in early 2025?
+
+72
+03:09.090 --> 03:11.520
+<v ->So, basically, the future is already here.</v>
+
+73
+03:11.520 --> 03:14.400
+You just need to look at the right place.
+
+74
+03:14.400 --> 03:18.270
+If you travel to San Francisco or to Phoenix, Arizona,
+
+75
+03:18.270 --> 03:19.950
+you arrive there at the airport,
+
+76
+03:19.950 --> 03:23.073
+you can actually already order an Uber and Waymo,
+
+77
+03:23.970 --> 03:27.210
+and they're also partnering with Uber, partially,
+
+78
+03:27.210 --> 03:29.700
+to actually have an autonomous ride.
+
+79
+03:29.700 --> 03:31.590
+So basically level four,
+
+80
+03:31.590 --> 03:35.100
+as it's being called based on SAE levels, is here.
+
+81
+03:35.100 --> 03:39.630
+You can take the app, order a vehicle, get in.
+
+82
+03:39.630 --> 03:41.760
+There's no one behind the steering wheel,
+
+83
+03:41.760 --> 03:44.580
+and that's quite amazing.
+
+84
+03:44.580 --> 03:47.010
+How many people have already taken a ride
+
+85
+03:47.010 --> 03:49.140
+in a full self-driving vehicle
+
+86
+03:49.140 --> 03:51.510
+without anyone behind the steering wheel?
+
+87
+03:51.510 --> 03:52.590
+Nice.
+
+88
+03:52.590 --> 03:55.140
+So it's about half, maybe a little less.
+
+89
+03:55.140 --> 03:57.600
+For all of you which didn't have the hand up,
+
+90
+03:57.600 --> 03:58.980
+please ride out.
+
+91
+03:58.980 --> 04:02.700
+It's interesting how quickly actually people
+
+92
+04:02.700 --> 04:06.360
+trust the technology once they get inside,
+
+93
+04:06.360 --> 04:10.143
+similar to riding a bus, being on a plane.
+
+94
+04:11.250 --> 04:16.250
+And so that's basically the full autonomy level four space.
+
+95
+04:18.300 --> 04:20.550
+We call our product Mobileye Drive,
+
+96
+04:20.550 --> 04:22.710
+and we are working with several partners.
+
+97
+04:22.710 --> 04:24.780
+For example, Volkswagen with the ID Buzz.
+
+98
+04:24.780 --> 04:26.640
+It's here at our booth.
+
+99
+04:26.640 --> 04:30.630
+If you go downstairs to booth 4,700,
+
+100
+04:30.630 --> 04:34.950
+you can see a four seater, VW ID Buzz,
+
+101
+04:34.950 --> 04:37.290
+full self-driving level four,
+
+102
+04:37.290 --> 04:38.290
+and a haul-on mover.
+
+103
+04:40.349 --> 04:44.490
+The hold on mover is a 10 to 12-people shuttle.
+
+104
+04:44.490 --> 04:46.903
+And this is also something interesting that
+
+105
+04:46.903 --> 04:49.080
+there will be different form factors,
+
+106
+04:49.080 --> 04:51.840
+different use cases, ride-hailing, ride-pooling,
+
+107
+04:51.840 --> 04:53.760
+ride-sharing, and so on.
+
+108
+04:53.760 --> 04:55.590
+And then on the automation side,
+
+109
+04:55.590 --> 04:58.800
+basically, you have, on the one hand, Tesla FSD
+
+110
+04:58.800 --> 05:02.760
+or our mobilize supervision product in several brands,
+
+111
+05:02.760 --> 05:05.430
+about 300,000 vehicles now out there,
+
+112
+05:05.430 --> 05:07.770
+where it's a hands off product.
+
+113
+05:07.770 --> 05:10.590
+And Tesla FSD,
+
+114
+05:10.590 --> 05:14.430
+I actually rented such a vehicle while I'm here,
+
+115
+05:14.430 --> 05:17.400
+and you can basically just type in a destination.
+
+116
+05:17.400 --> 05:19.830
+The vehicle drives you from A to B.
+
+117
+05:19.830 --> 05:22.920
+The same with our mobilized supervision product,
+
+118
+05:22.920 --> 05:25.860
+and the difference is that you have to be engaged.
+
+119
+05:25.860 --> 05:27.840
+You need to have eyes on the road.
+
+120
+05:27.840 --> 05:29.130
+<v ->Perhaps in similar fashion,</v>
+
+121
+05:29.130 --> 05:31.620
+is that what's going on in the recreational marine space?
+
+122
+05:31.620 --> 05:33.120
+And there's some interesting parallels you mentioned.
+
+123
+05:33.120 --> 05:34.710
+So good to hear about that.
+
+124
+05:34.710 --> 05:36.150
+<v ->So definitely interesting parallels,</v>
+
+125
+05:36.150 --> 05:39.060
+also quite a few differences as you would imagine.
+
+126
+05:39.060 --> 05:41.520
+The recreational marine space from a size and scale
+
+127
+05:41.520 --> 05:45.060
+is obviously very significantly different to automotive.
+
+128
+05:45.060 --> 05:48.990
+And really it is, by definition, something that people do
+
+129
+05:48.990 --> 05:52.350
+in their leisure time and they enjoy driving about.
+
+130
+05:52.350 --> 05:54.450
+And so the use cases and the consumer needs
+
+131
+05:54.450 --> 05:56.070
+are a little bit different.
+
+132
+05:56.070 --> 05:57.390
+People enjoy being out in the water.
+
+133
+05:57.390 --> 05:58.890
+They enjoy driving their boat.
+
+134
+05:58.890 --> 06:00.630
+What they don't enjoy, however,
+
+135
+06:00.630 --> 06:03.660
+is things like docking a boat or undocking a boat.
+
+136
+06:03.660 --> 06:05.830
+And so as we had thought through what are
+
+137
+06:06.837 --> 06:09.120
+the biggest pain points and the biggest consumer needs,
+
+138
+06:09.120 --> 06:11.250
+it's really been focused on those aspects,
+
+139
+06:11.250 --> 06:12.480
+docking and undoing,
+
+140
+06:12.480 --> 06:15.060
+as well as some of those other solutions.
+
+141
+06:15.060 --> 06:16.080
+There's a variety of,
+
+142
+06:16.080 --> 06:19.170
+I'll call them advanced driver assist functionality
+
+143
+06:19.170 --> 06:21.120
+that has been around in the space for a time
+
+144
+06:21.120 --> 06:24.000
+with things like Joystick and Skyhook,
+
+145
+06:24.000 --> 06:25.410
+and autopilot and stuff like that,
+
+146
+06:25.410 --> 06:27.420
+but the fully autonomous docking and undocking
+
+147
+06:27.420 --> 06:28.680
+is relatively new,
+
+148
+06:28.680 --> 06:31.860
+and there's definitely differences in terms of
+
+149
+06:31.860 --> 06:33.750
+the sensors that are being used
+
+150
+06:33.750 --> 06:36.660
+in terms of the degrees of freedom that a boat has,
+
+151
+06:36.660 --> 06:38.160
+six degrees of freedom,
+
+152
+06:38.160 --> 06:40.050
+no solid surface like a road,
+
+153
+06:40.050 --> 06:41.490
+no lane markings,
+
+154
+06:41.490 --> 06:43.650
+people coming from every different direction.
+
+155
+06:43.650 --> 06:45.000
+So a lot of differences,
+
+156
+06:45.000 --> 06:47.430
+but a lot of the core technologies
+
+157
+06:47.430 --> 06:50.490
+can be used and adapted for the recreational marine space.
+
+158
+06:50.490 --> 06:52.230
+And as I say, it's really around
+
+159
+06:52.230 --> 06:56.790
+making the experience less stressful and more enjoyable
+
+160
+06:56.790 --> 06:59.160
+so that we can get the consumers out there on the water
+
+161
+06:59.160 --> 07:00.860
+enjoying their time a little more.
+
+162
+07:01.950 --> 07:05.490
+<v ->Maria and Selika, we have the industry perspective here.</v>
+
+163
+07:05.490 --> 07:08.910
+From your perspective, how's 2025 looking?
+
+164
+07:08.910 --> 07:11.790
+Does this shape up as a year
+
+165
+07:11.790 --> 07:14.430
+to be optimistic about the future of
+
+166
+07:14.430 --> 07:15.633
+automation and autonomy?
+
+167
+07:17.070 --> 07:21.090
+<v ->I would say I really agree with what JJ was saying.</v>
+
+168
+07:21.090 --> 07:22.320
+We've got it here,
+
+169
+07:22.320 --> 07:25.290
+and that's also a little bit what the title of the panel,
+
+170
+07:25.290 --> 07:26.313
+autonomy is here.
+
+171
+07:27.600 --> 07:30.540
+Other than what JJ was saying regarding the road taxes,
+
+172
+07:30.540 --> 07:33.180
+I would add other use cases where we already today
+
+173
+07:33.180 --> 07:35.100
+see a lot of autonomy,
+
+174
+07:35.100 --> 07:36.900
+and that would be in enclosed spaces.
+
+175
+07:36.900 --> 07:39.333
+So when we think about mining, construction,
+
+176
+07:41.220 --> 07:43.560
+some of these logistics facilities
+
+177
+07:43.560 --> 07:48.000
+which also have quite some autonomy in the vehicles,
+
+178
+07:48.000 --> 07:50.490
+we should not forget those use cases
+
+179
+07:50.490 --> 07:51.510
+because, at the end of the day,
+
+180
+07:51.510 --> 07:53.340
+they're the most suitable for autonomy,
+
+181
+07:53.340 --> 07:55.140
+and that's where we already today see
+
+182
+07:55.140 --> 07:57.390
+higher and higher levels of autonomy.
+
+183
+07:57.390 --> 07:59.430
+The other use case that has not been mentioned,
+
+184
+07:59.430 --> 08:01.050
+and I think it's important to mention
+
+185
+08:01.050 --> 08:02.700
+is when we think about tracking.
+
+186
+08:02.700 --> 08:07.470
+And here in the US, it's expected that in 2025,
+
+187
+08:07.470 --> 08:09.780
+it will be a very relevant year
+
+188
+08:09.780 --> 08:14.310
+for taking that driver outside of the vehicle
+
+189
+08:14.310 --> 08:17.070
+and starting with those trucking use cases,
+
+190
+08:17.070 --> 08:20.310
+which also have quite some societal value
+
+191
+08:20.310 --> 08:23.160
+when we think that there are a lot of truck drivers
+
+192
+08:23.160 --> 08:26.640
+that lose their lives on the road.
+
+193
+08:26.640 --> 08:29.760
+It's very long, very tedious
+
+194
+08:29.760 --> 08:32.310
+hours behind the steering wheel.
+
+195
+08:32.310 --> 08:34.380
+And also when we think about their families,
+
+196
+08:34.380 --> 08:37.470
+it's very hard to be going for those
+
+197
+08:37.470 --> 08:38.850
+that are doing long haul
+
+198
+08:38.850 --> 08:43.470
+to be weeks and weeks away from their beloved ones.
+
+199
+08:43.470 --> 08:45.810
+So I think those are use cases we should not forget
+
+200
+08:45.810 --> 08:49.743
+when we think about 2025 from the power of vehicle autonomy.
+
+201
+08:50.940 --> 08:53.063
+<v ->And, Selika, I know we've talked a bit about</v>
+
+202
+08:53.063 --> 08:54.420
+some of the optimism,
+
+203
+08:54.420 --> 08:57.180
+but it comes with an asterisk of some sort.
+
+204
+08:57.180 --> 08:58.013
+<v ->Absolutely.</v>
+
+205
+08:58.013 --> 09:00.150
+I think there needs to be a little perspective
+
+206
+09:00.150 --> 09:02.010
+when we talk about the future,
+
+207
+09:02.010 --> 09:03.990
+sort of where are we coming from.
+
+208
+09:03.990 --> 09:06.840
+In 2010, when I was trying to create
+
+209
+09:06.840 --> 09:09.030
+a proving ground in New Jersey
+
+210
+09:09.030 --> 09:11.280
+as the chief operating officer
+
+211
+09:11.280 --> 09:13.620
+of the state's Motor Vehicle Commission,
+
+212
+09:13.620 --> 09:16.710
+I couldn't get buy-in from the governor
+
+213
+09:16.710 --> 09:21.150
+because their policy people felt it was a detriment
+
+214
+09:21.150 --> 09:24.060
+to higher office for any politician
+
+215
+09:24.060 --> 09:26.340
+to allow widespread use
+
+216
+09:26.340 --> 09:28.240
+of autonomous vehicles on the roadway.
+
+217
+09:29.130 --> 09:33.810
+In 2016, when I was the senior advisor
+
+218
+09:33.810 --> 09:37.350
+at Federal Motor Carrier in US DOT,
+
+219
+09:37.350 --> 09:42.090
+we were pulling teeth even to get the trucking industry
+
+220
+09:42.090 --> 09:43.290
+to accept ADAS.
+
+221
+09:43.290 --> 09:46.053
+So a perspective of where we were,
+
+222
+09:47.610 --> 09:49.350
+today, it is different.
+
+223
+09:49.350 --> 09:51.053
+I can get in Waymo.
+
+224
+09:52.230 --> 09:55.500
+I can get in lots of other autonomous vehicle companies
+
+225
+09:55.500 --> 09:59.340
+that are testing across the country.
+
+226
+09:59.340 --> 10:03.090
+To JJ's point, we have a company
+
+227
+10:03.090 --> 10:05.130
+that if they wanna say they're winning now,
+
+228
+10:05.130 --> 10:10.130
+150,000 rides, paid rides every week in America.
+
+229
+10:11.040 --> 10:13.560
+It does feel sort of like the future is here,
+
+230
+10:13.560 --> 10:16.200
+but I have to say absolutely asterisk.
+
+231
+10:16.200 --> 10:19.320
+There are communities that don't have that opportunity.
+
+232
+10:19.320 --> 10:21.420
+There's infrastructure that doesn't allow you
+
+233
+10:21.420 --> 10:23.280
+to move in those capacities.
+
+234
+10:23.280 --> 10:25.680
+We have regulation and policies
+
+235
+10:25.680 --> 10:30.680
+because we have this patchwork of legislation across America
+
+236
+10:31.770 --> 10:34.710
+that makes some states wide open,
+
+237
+10:34.710 --> 10:37.410
+and what I've always referred to as the Wild West,
+
+238
+10:37.410 --> 10:38.437
+and others that are,
+
+239
+10:38.437 --> 10:41.820
+"I'm not so sure I want you to try this."
+
+240
+10:41.820 --> 10:43.890
+From a trucking perspective,
+
+241
+10:43.890 --> 10:45.990
+having been the director of field for United States
+
+242
+10:45.990 --> 10:48.330
+for the movement of all large trucks and buses,
+
+243
+10:48.330 --> 10:51.900
+absolutely, it makes sense that if, at any place,
+
+244
+10:51.900 --> 10:55.440
+we allow full autonomy is in the movement of our goods.
+
+245
+10:55.440 --> 10:57.600
+We don't have enough truck drivers.
+
+246
+10:57.600 --> 10:59.790
+we need to reduce the expense
+
+247
+10:59.790 --> 11:03.360
+of moving our freight across America.
+
+248
+11:03.360 --> 11:04.440
+But again, the infrastructure
+
+249
+11:04.440 --> 11:06.030
+doesn't always exist in every place
+
+250
+11:06.030 --> 11:07.500
+to make that possible
+
+251
+11:07.500 --> 11:10.350
+and regulation is an impediment to it.
+
+252
+11:10.350 --> 11:13.530
+So future is here, but a little bit asterisk,
+
+253
+11:13.530 --> 11:15.810
+<v ->This is a perfect time to ask.</v>
+
+254
+11:15.810 --> 11:18.390
+I think regulation has been viewed as an impediment,
+
+255
+11:18.390 --> 11:21.900
+but maybe one of the reasons we see optimism today
+
+256
+11:21.900 --> 11:24.000
+is because President-elect Musk
+
+257
+11:24.000 --> 11:28.443
+is going to bring in lots of tailwinds.
+
+258
+11:29.700 --> 11:32.640
+So, on a serious note,
+
+259
+11:32.640 --> 11:35.070
+what's expected here in the next four years
+
+260
+11:35.070 --> 11:38.043
+from a regulatory perspective and what's needed too?
+
+261
+11:39.960 --> 11:42.693
+Maria, can you give us a 30,000 foot view on that?
+
+262
+11:43.920 --> 11:46.620
+<v ->So I would say when we're thinking about</v>
+
+263
+11:46.620 --> 11:48.420
+the upcoming administration.
+
+264
+11:48.420 --> 11:50.250
+We're hearing that vehicle autonomy
+
+265
+11:50.250 --> 11:52.150
+is going to be pretty much something
+
+266
+11:54.750 --> 11:58.380
+that will be more and more positively perceived.
+
+267
+11:58.380 --> 12:00.330
+One thing that we need to do
+
+268
+12:00.330 --> 12:02.700
+is what we were talking now about,
+
+269
+12:02.700 --> 12:04.620
+which is that platform of regulations.
+
+270
+12:04.620 --> 12:06.420
+It doesn't help anyone.
+
+271
+12:06.420 --> 12:09.480
+It doesn't help the companies trying to
+
+272
+12:09.480 --> 12:10.860
+deploy these vehicles,
+
+273
+12:10.860 --> 12:13.170
+but it doesn't help the regulators either.
+
+274
+12:13.170 --> 12:16.980
+So municipalities, cities, states,
+
+275
+12:16.980 --> 12:18.750
+they don't really have the capabilities.
+
+276
+12:18.750 --> 12:23.750
+How should they be able to regulate in individual cases?
+
+277
+12:23.880 --> 12:25.290
+So it's not just that we think
+
+278
+12:25.290 --> 12:28.890
+it's because of the private sector goods.
+
+279
+12:28.890 --> 12:31.230
+No, it's for the public sector too.
+
+280
+12:31.230 --> 12:34.020
+But one thing that we should keep in mind
+
+281
+12:34.020 --> 12:37.650
+as these federal regulations seem to be coming
+
+282
+12:37.650 --> 12:41.807
+in the coming months or in the coming years in this,
+
+283
+12:41.807 --> 12:43.830
+in these four years at least,
+
+284
+12:43.830 --> 12:48.830
+is that we need to ensure that safety is still guaranteed.
+
+285
+12:49.860 --> 12:52.200
+So we should not compromise on safety.
+
+286
+12:52.200 --> 12:55.230
+And this is something that should be very important
+
+287
+12:55.230 --> 12:57.930
+as the new governments
+
+288
+12:57.930 --> 13:00.570
+puts more and more emphasis on vehicle autonomy,
+
+289
+13:00.570 --> 13:03.030
+yes, to federal regulations,
+
+290
+13:03.030 --> 13:05.130
+but how to make sure that we are
+
+291
+13:05.130 --> 13:06.900
+not compromising on safety.
+
+292
+13:06.900 --> 13:08.640
+If we compromise on safety,
+
+293
+13:08.640 --> 13:11.880
+the public will not trust and for good reasons,
+
+294
+13:11.880 --> 13:13.590
+so we need to avoid that.
+
+295
+13:13.590 --> 13:15.570
+<v ->I was curious how regulation</v>
+
+296
+13:15.570 --> 13:18.177
+plays into the idea of public trust.
+
+297
+13:18.177 --> 13:20.160
+And from an industry perspective,
+
+298
+13:20.160 --> 13:22.470
+how do you think about building
+
+299
+13:22.470 --> 13:24.960
+customer trust, public trust?
+
+300
+13:24.960 --> 13:28.620
+<v ->So, I mean looking at Europe for example,</v>
+
+301
+13:28.620 --> 13:31.230
+because there some regulation does exist
+
+302
+13:31.230 --> 13:35.760
+and Germany actually was I think one of the first countries
+
+303
+13:35.760 --> 13:39.600
+a few years ago to have an AV law,
+
+304
+13:39.600 --> 13:42.000
+basically an act out there,
+
+305
+13:42.000 --> 13:44.100
+and then followed by a regulation,
+
+306
+13:44.100 --> 13:46.830
+and very clearly described in terms of
+
+307
+13:46.830 --> 13:51.420
+meeting at least human driver safety level.
+
+308
+13:51.420 --> 13:52.650
+Now they left that open,
+
+309
+13:52.650 --> 13:57.540
+how to prove that if you take mean time between crashes,
+
+310
+13:57.540 --> 13:58.590
+mean time between failures,
+
+311
+13:58.590 --> 14:00.570
+and mean time between incidents,
+
+312
+14:00.570 --> 14:03.390
+human drivers are somewhere in the
+
+313
+14:03.390 --> 14:06.690
+500,000 miles range or so,
+
+314
+14:06.690 --> 14:09.900
+and then depends on now urban versus highway
+
+315
+14:09.900 --> 14:10.920
+and other areas.
+
+316
+14:10.920 --> 14:13.740
+And it's interesting, but I think this is something
+
+317
+14:13.740 --> 14:16.980
+basically which is a minimum requirement,
+
+318
+14:16.980 --> 14:20.560
+and then also requirement for technical
+
+319
+14:21.570 --> 14:24.630
+tele assist operation center,
+
+320
+14:24.630 --> 14:27.540
+that there are some operators
+
+321
+14:27.540 --> 14:29.070
+which can help the vehicle out
+
+322
+14:29.070 --> 14:31.380
+in case it can no longer
+
+323
+14:31.380 --> 14:33.630
+let's say continue on the road
+
+324
+14:33.630 --> 14:36.360
+being it because traffic lights are out
+
+325
+14:36.360 --> 14:41.360
+and the intersection is directed by a police officer or so,
+
+326
+14:42.150 --> 14:45.780
+and maybe that's not let's say clear yet
+
+327
+14:45.780 --> 14:48.960
+how to exactly interpret let's say
+
+328
+14:48.960 --> 14:51.300
+the movements by hand or so.
+
+329
+14:51.300 --> 14:53.460
+So there are certain situations, and we know this today.
+
+330
+14:53.460 --> 14:56.280
+I mean we see it with Waymo, with others
+
+331
+14:56.280 --> 14:59.850
+that basically having a tele assist center human operators,
+
+332
+14:59.850 --> 15:00.683
+this is a good thing to have.
+
+333
+15:00.683 --> 15:03.660
+And I think having let's say topics like these
+
+334
+15:03.660 --> 15:05.310
+clearly in the regulation,
+
+335
+15:05.310 --> 15:06.900
+then it's also a framework
+
+336
+15:06.900 --> 15:09.780
+that everyone has to follow basically these rules,
+
+337
+15:09.780 --> 15:12.420
+and making sure that the operation is set up
+
+338
+15:12.420 --> 15:14.130
+and it's not voluntary,
+
+339
+15:14.130 --> 15:16.533
+and some operators do, some do not.
+
+340
+15:17.460 --> 15:19.174
+<v ->Aine, what's that look like</v>
+
+341
+15:19.174 --> 15:20.280
+in the recreational marine space?
+
+342
+15:20.280 --> 15:22.620
+So interesting, but it sounds very familiar.
+
+343
+15:22.620 --> 15:25.590
+<v ->Yeah, certainly a little different in recreational marine</v>
+
+344
+15:25.590 --> 15:27.420
+in terms of level of regulation.
+
+345
+15:27.420 --> 15:29.520
+We do of course have Coast Guard regulations.
+
+346
+15:29.520 --> 15:32.380
+They tend to apply to things like flotation
+
+347
+15:33.233 --> 15:34.350
+and that kind of thing.
+
+348
+15:34.350 --> 15:36.360
+We also have those some pretty good
+
+349
+15:36.360 --> 15:38.520
+involved standards committees
+
+350
+15:38.520 --> 15:40.410
+that are really working to understand
+
+351
+15:40.410 --> 15:42.120
+what the future of the technology can be
+
+352
+15:42.120 --> 15:43.770
+and how we can implement it safely.
+
+353
+15:43.770 --> 15:45.600
+To your point, it's really important
+
+354
+15:45.600 --> 15:48.780
+that even though something like ISO 26262
+
+355
+15:48.780 --> 15:51.660
+is not regulated in the marine space,
+
+356
+15:51.660 --> 15:53.680
+we absolutely have to be sure that
+
+357
+15:54.720 --> 15:56.550
+everything that we do is done safely,
+
+358
+15:56.550 --> 15:59.250
+and we have the appropriate SOTOF
+
+359
+15:59.250 --> 16:00.960
+as well as functional safety.
+
+360
+16:00.960 --> 16:02.430
+I would say one other thing
+
+361
+16:02.430 --> 16:03.600
+in terms of kind of building
+
+362
+16:03.600 --> 16:06.060
+that public trust that you mentioned
+
+363
+16:06.060 --> 16:09.360
+would really be around ensuring that the customers know
+
+364
+16:09.360 --> 16:11.790
+that they can rely on the company
+
+365
+16:11.790 --> 16:13.440
+that's delivering the solutions,
+
+366
+16:13.440 --> 16:15.120
+and that they understand the validation,
+
+367
+16:15.120 --> 16:17.280
+and they can visualize what's actually happening
+
+368
+16:17.280 --> 16:18.510
+in a marine vessel.
+
+369
+16:18.510 --> 16:21.030
+So something like visualizing what is actually happening
+
+370
+16:21.030 --> 16:23.040
+is probably more important in marine
+
+371
+16:23.040 --> 16:24.210
+to kinda build that trust
+
+372
+16:24.210 --> 16:27.060
+and help the consumers know that they can feel safe
+
+373
+16:27.060 --> 16:30.720
+to hand off control of the vessel to the boat itself,
+
+374
+16:30.720 --> 16:31.920
+instead of the operator.
+
+375
+16:32.910 --> 16:35.193
+<v ->Can I just build on that a little bit?</v>
+
+376
+16:36.180 --> 16:37.020
+I have this phrase.
+
+377
+16:37.020 --> 16:39.270
+I'm sure other people have used it before,
+
+378
+16:39.270 --> 16:43.350
+politics is who's driving the vehicle,
+
+379
+16:43.350 --> 16:46.320
+and policy or regulation is the map
+
+380
+16:46.320 --> 16:48.220
+that you use to go where you wanna go.
+
+381
+16:49.260 --> 16:53.430
+President Trump is the politics.
+
+382
+16:53.430 --> 16:55.470
+He might be driving.
+
+383
+16:55.470 --> 17:00.210
+But President Musk is in charge of the map,
+
+384
+17:00.210 --> 17:03.090
+but he's writing the map while they're in the car driving.
+
+385
+17:03.090 --> 17:06.990
+That's literally how this policy will move.
+
+386
+17:06.990 --> 17:08.100
+The point of it is,
+
+387
+17:08.100 --> 17:10.480
+as long as he's drawing it
+
+388
+17:11.370 --> 17:15.330
+in a way that makes the driver happy, we're all good.
+
+389
+17:15.330 --> 17:19.170
+But at any point the driver doesn't like the drawing
+
+390
+17:19.170 --> 17:21.090
+and wants to take their own direction,
+
+391
+17:21.090 --> 17:22.443
+that's what will happen.
+
+392
+17:23.370 --> 17:26.580
+We can have all the regulation mindedness that we want,
+
+393
+17:26.580 --> 17:28.590
+but we have a very short window
+
+394
+17:28.590 --> 17:31.680
+from a legislative standpoint to get things done.
+
+395
+17:31.680 --> 17:35.640
+Technically, two years until if passed this prologue,
+
+396
+17:35.640 --> 17:38.400
+we will no longer have a Republican Congress.
+
+397
+17:38.400 --> 17:41.520
+So what happens in this finite period of time?
+
+398
+17:41.520 --> 17:43.620
+And I can tell you as someone who was
+
+399
+17:43.620 --> 17:48.393
+drafting regulation in the same scenario eight years ago,
+
+400
+17:50.880 --> 17:55.710
+the Trump Administration is wiser for the experience.
+
+401
+17:55.710 --> 18:00.710
+We probably won't have long drawn out rulemaking processes.
+
+402
+18:00.900 --> 18:05.670
+We will likely lead by executive orders
+
+403
+18:05.670 --> 18:08.340
+and stronger policy
+
+404
+18:08.340 --> 18:11.970
+and stronger guidance that's being written now.
+
+405
+18:11.970 --> 18:13.920
+They have so little time to get done.
+
+406
+18:13.920 --> 18:15.630
+If anybody knows what rule making's like
+
+407
+18:15.630 --> 18:19.890
+in the federal government, it's years of comments,
+
+408
+18:19.890 --> 18:21.930
+and they are on the road going around
+
+409
+18:21.930 --> 18:24.390
+and speaking to people in different communities
+
+410
+18:24.390 --> 18:25.440
+to see what they think.
+
+411
+18:25.440 --> 18:27.870
+You'll never get anything done like that,
+
+412
+18:27.870 --> 18:32.220
+and Musk doesn't have the temperament to wait that long.
+
+413
+18:32.220 --> 18:36.270
+So other things will have to happen in this timeframe,
+
+414
+18:36.270 --> 18:41.270
+which means he's gonna be given the latitude to just do it
+
+415
+18:41.700 --> 18:43.263
+and ask for forgiveness later.
+
+416
+18:44.820 --> 18:48.540
+<v ->I'm curious, from a industry perspective,</v>
+
+417
+18:48.540 --> 18:51.930
+and maybe, Maria, you can chime in here or not,
+
+418
+18:51.930 --> 18:52.763
+but
+
+419
+18:55.170 --> 18:56.250
+what happens in the government
+
+420
+18:56.250 --> 18:58.290
+is part of the equation here,
+
+421
+18:58.290 --> 19:01.530
+but I think as we saw with cruise,
+
+422
+19:01.530 --> 19:03.600
+it's not the only part of the equation.
+
+423
+19:03.600 --> 19:06.180
+And when you think about public trust
+
+424
+19:06.180 --> 19:08.700
+and what's really happening in the real world,
+
+425
+19:08.700 --> 19:12.150
+we have this optimism yet perhaps it's fragile,
+
+426
+19:12.150 --> 19:14.970
+and that's one thing learned from the cruise crash.
+
+427
+19:14.970 --> 19:16.720
+I'm curious how you see
+
+428
+19:17.880 --> 19:19.710
+safety playing into this discussion
+
+429
+19:19.710 --> 19:22.833
+of building trust and transparency.
+
+430
+19:25.170 --> 19:27.810
+<v ->I would say there are two things when it comes to safety.</v>
+
+431
+19:27.810 --> 19:30.060
+One of them is perceived safety,
+
+432
+19:30.060 --> 19:32.283
+which is the one that people believe,
+
+433
+19:33.270 --> 19:35.580
+how people believe that the cars are operating,
+
+434
+19:35.580 --> 19:38.070
+and the other one is real safety.
+
+435
+19:38.070 --> 19:39.570
+So at the end of the day,
+
+436
+19:39.570 --> 19:43.560
+we first need to make sure that we do offer safety,
+
+437
+19:43.560 --> 19:45.600
+and we need to prove it,
+
+438
+19:45.600 --> 19:49.110
+and that will be the thing that will change
+
+439
+19:49.110 --> 19:52.590
+and will make that perceived safety a reality.
+
+440
+19:52.590 --> 19:55.563
+And I would say this is the same as with any relationship.
+
+441
+19:56.400 --> 19:59.850
+This time is a relationship between a vehicle and a human,
+
+442
+19:59.850 --> 20:02.820
+but when we are having relationships between all of us,
+
+443
+20:02.820 --> 20:07.230
+we need to prove that we can trust the other person.
+
+444
+20:07.230 --> 20:10.380
+So we need to first prove that it's really safer
+
+445
+20:10.380 --> 20:13.770
+or as safe as a human at the very least.
+
+446
+20:13.770 --> 20:17.950
+And that reality will be the cornerstone
+
+447
+20:19.116 --> 20:22.470
+to really make sure that we are
+
+448
+20:22.470 --> 20:24.360
+having that perceived safety
+
+449
+20:24.360 --> 20:26.343
+also aligned with that real safety.
+
+450
+20:27.210 --> 20:30.240
+<v ->I feel like 10 years ago we would start talking about</v>
+
+451
+20:30.240 --> 20:31.790
+the trolley problem right here,
+
+452
+20:32.850 --> 20:36.000
+but the discussion has matured on safety
+
+453
+20:36.000 --> 20:39.360
+and yet there's still a question as to,
+
+454
+20:39.360 --> 20:41.430
+what is safety?
+
+455
+20:41.430 --> 20:42.930
+How safe is safe enough?
+
+456
+20:42.930 --> 20:44.790
+What are the right ways to think about that?
+
+457
+20:44.790 --> 20:47.370
+JJ, how has that discussion evolved?
+
+458
+20:47.370 --> 20:48.810
+<v ->I mean, if you think about,</v>
+
+459
+20:48.810 --> 20:50.640
+let's say today's state of the art,
+
+460
+20:50.640 --> 20:53.970
+especially also from a sensors' perspective.
+
+461
+20:53.970 --> 20:56.490
+You have surround cameras.
+
+462
+20:56.490 --> 20:59.460
+13 cameras, for example, in our case.
+
+463
+20:59.460 --> 21:02.100
+You have surround imaging radars, radar technology,
+
+464
+21:02.100 --> 21:04.020
+also very proven technology.
+
+465
+21:04.020 --> 21:07.290
+And we have developed actually some very specific
+
+466
+21:07.290 --> 21:10.140
+imaging radars with very high resolution
+
+467
+21:10.140 --> 21:13.470
+which basically do not require specific sensor cleaning.
+
+468
+21:13.470 --> 21:14.790
+They don't have any moving parts,
+
+469
+21:14.790 --> 21:16.230
+they're very robust.
+
+470
+21:16.230 --> 21:21.230
+And like the front imaging radar, 1,536 virtual channels.
+
+471
+21:21.330 --> 21:25.140
+The sides and the rear imaging radars, 384 virtual channel.
+
+472
+21:25.140 --> 21:26.940
+So you get a very rich point cloud.
+
+473
+21:26.940 --> 21:30.480
+So you have surround CV, or computer vision,
+
+474
+21:30.480 --> 21:31.890
+you have surround imaging radars.
+
+475
+21:31.890 --> 21:35.190
+And then in addition, you have the LiDAR belt
+
+476
+21:35.190 --> 21:37.797
+with long range and short range ,
+
+477
+21:38.910 --> 21:42.330
+and just making sure that basically
+
+478
+21:42.330 --> 21:43.860
+you have all of these sensor modalities,
+
+479
+21:43.860 --> 21:47.250
+and we believe that redundancy is a key element.
+
+480
+21:47.250 --> 21:49.950
+We have developed a concept, we call it PGF,
+
+481
+21:49.950 --> 21:52.350
+meaning primary, guardian, and fallback.
+
+482
+21:52.350 --> 21:54.420
+So you have always the primary and the fallback,
+
+483
+21:54.420 --> 21:57.300
+and then the guardian looking at kind of two out of three
+
+484
+21:57.300 --> 22:00.540
+or different, let's say, ways of deciding,
+
+485
+22:00.540 --> 22:03.000
+okay, which sensors, which modalities,
+
+486
+22:03.000 --> 22:06.900
+what can you trust in terms of the decision making?
+
+487
+22:06.900 --> 22:09.540
+And so these this triple redundancy
+
+488
+22:09.540 --> 22:11.310
+and different layers of modalities,
+
+489
+22:11.310 --> 22:13.500
+I think, just from a technology perspective,
+
+490
+22:13.500 --> 22:16.170
+we probably have some engineers, some technologists here
+
+491
+22:16.170 --> 22:19.770
+interested in that side to make sure.
+
+492
+22:19.770 --> 22:22.650
+And also here, let's say I talked about
+
+493
+22:22.650 --> 22:24.000
+state of the art or what is standard.
+
+494
+22:24.000 --> 22:26.700
+I think it would be good if similar...
+
+495
+22:26.700 --> 22:27.533
+I mean I look at Waymo.
+
+496
+22:27.533 --> 22:30.840
+Waymo and us, we have very similar sensor setups,
+
+497
+22:30.840 --> 22:35.763
+and technologies, and so on that we don't have,
+
+498
+22:36.750 --> 22:40.080
+let's say, technologies out there which maybe tried.
+
+499
+22:40.080 --> 22:41.930
+Maybe it was just one modality or so.
+
+500
+22:43.501 --> 22:46.890
+<v ->How does safety evolve on your end?</v>
+
+501
+22:46.890 --> 22:48.600
+<v ->Yeah, no, I mean, it's a great point.</v>
+
+502
+22:48.600 --> 22:50.340
+Obviously, it's a slightly different circumstance.
+
+503
+22:50.340 --> 22:52.860
+I think part of it is around the education piece.
+
+504
+22:52.860 --> 22:56.130
+So you talked about the holistic nature of
+
+505
+22:56.130 --> 22:58.110
+the capabilities of the sensor
+
+506
+22:58.110 --> 22:59.370
+the redundancy of the system.
+
+507
+22:59.370 --> 23:02.820
+So I think helping our consumers understand
+
+508
+23:02.820 --> 23:05.370
+that level of technical capability is important.
+
+509
+23:05.370 --> 23:07.470
+I think, in the recreational marine space,
+
+510
+23:08.310 --> 23:10.650
+our advantage from all the progress
+
+511
+23:10.650 --> 23:13.500
+that automotive and other industries have made
+
+512
+23:13.500 --> 23:14.790
+so that consumers are starting
+
+513
+23:14.790 --> 23:16.470
+to feel a little bit more comfortable
+
+514
+23:16.470 --> 23:17.850
+with these types of solutions
+
+515
+23:17.850 --> 23:19.830
+and knowing that the technology exists,
+
+516
+23:19.830 --> 23:21.220
+and that it is okay to
+
+517
+23:22.350 --> 23:24.570
+take your eyes off and your hands off.
+
+518
+23:24.570 --> 23:25.980
+So that's another aspect too.
+
+519
+23:25.980 --> 23:28.560
+I will also say in the recreational marine space,
+
+520
+23:28.560 --> 23:30.300
+we're starting with these use cases
+
+521
+23:30.300 --> 23:33.030
+that are the biggest pain points of docking and undocking.
+
+522
+23:33.030 --> 23:34.500
+Those are...
+
+523
+23:34.500 --> 23:38.310
+By definition, docking is a controlled collision.
+
+524
+23:38.310 --> 23:42.300
+So what we are doing is it's a low speed maneuver,
+
+525
+23:42.300 --> 23:45.100
+It's short distances and so it's a space where
+
+526
+23:46.080 --> 23:48.360
+it's relatively easy to get the consumer
+
+527
+23:48.360 --> 23:49.680
+to feel like it is safe
+
+528
+23:49.680 --> 23:51.090
+because it is relatively low speed,
+
+529
+23:51.090 --> 23:54.810
+it is relatively short distance.
+
+530
+23:54.810 --> 23:56.490
+And so with all of the learnings
+
+531
+23:56.490 --> 23:57.930
+that they've gotten from other industries
+
+532
+23:57.930 --> 24:00.540
+and understanding of the capabilities,
+
+533
+24:00.540 --> 24:02.460
+the visualization of what's going on,
+
+534
+24:02.460 --> 24:03.930
+I think all of those things really play
+
+535
+24:03.930 --> 24:06.630
+into helping the consumer really feel like it is safe.
+
+536
+24:07.650 --> 24:09.060
+<v ->Maria, is there a parallel there</v>
+
+537
+24:09.060 --> 24:12.180
+with self-parking in the driving space,
+
+538
+24:12.180 --> 24:13.900
+and how have consumers
+
+539
+24:15.000 --> 24:20.000
+adapted, adopted use of self-parking, or not yet?
+
+540
+24:21.270 --> 24:23.190
+<v ->I think, at least for me,</v>
+
+541
+24:23.190 --> 24:26.580
+parking is the worst part of driving.
+
+542
+24:26.580 --> 24:29.340
+And I believe that among all of us in the room,
+
+543
+24:29.340 --> 24:30.663
+I'm not the only one.
+
+544
+24:32.820 --> 24:37.820
+But so we do have already today what, in my view,
+
+545
+24:38.730 --> 24:40.740
+because I hate parking,
+
+546
+24:40.740 --> 24:43.530
+is the best use case when it comes to some
+
+547
+24:43.530 --> 24:46.470
+automated technologies in the vehicles.
+
+548
+24:46.470 --> 24:50.280
+One thing which we need to still take into account is that
+
+549
+24:50.280 --> 24:53.880
+some people do not use those parking capabilities,
+
+550
+24:53.880 --> 24:57.330
+and it may be because they don't understand
+
+551
+24:57.330 --> 24:59.250
+how they're being used.
+
+552
+24:59.250 --> 25:00.750
+And I think this is where
+
+553
+25:00.750 --> 25:03.930
+making sure that we've got very good HMI,
+
+554
+25:03.930 --> 25:08.550
+very good interaction between the vehicle and the driver
+
+555
+25:08.550 --> 25:11.670
+is paramount to leverage already today
+
+556
+25:11.670 --> 25:14.610
+those parking capabilities in our cars.
+
+557
+25:14.610 --> 25:18.060
+And also to prepare ourselves to
+
+558
+25:18.060 --> 25:22.200
+realize that the car does much more than just...
+
+559
+25:22.200 --> 25:24.180
+It's just much more than an engine.
+
+560
+25:24.180 --> 25:26.837
+It's really helping us do many more things.
+
+561
+25:26.837 --> 25:28.860
+It's a good way of understanding
+
+562
+25:28.860 --> 25:30.450
+that the car does much more
+
+563
+25:30.450 --> 25:34.470
+even if the trust issue for me is completely different
+
+564
+25:34.470 --> 25:36.570
+because then there's no speed.
+
+565
+25:36.570 --> 25:38.460
+And even if you collide with something,
+
+566
+25:38.460 --> 25:39.600
+it's horrible for the car.
+
+567
+25:39.600 --> 25:42.033
+So be well insured if you don't trust it,
+
+568
+25:42.990 --> 25:45.630
+but it's going to work well.
+
+569
+25:45.630 --> 25:48.030
+So in that sense, for the trust issue,
+
+570
+25:48.030 --> 25:53.030
+you don't fear that possibility of something happening.
+
+571
+25:53.700 --> 25:55.620
+But from the functionality perspective,
+
+572
+25:55.620 --> 25:57.020
+I think it's very important.
+
+573
+25:59.070 --> 26:03.210
+<v ->I just wanna perhaps put in a little reprimand</v>
+
+574
+26:03.210 --> 26:04.353
+to the industry.
+
+575
+26:07.080 --> 26:10.560
+It's really, really hard for the customer,
+
+576
+26:10.560 --> 26:15.560
+the driver who wants to sit in the backseat now
+
+577
+26:16.200 --> 26:19.447
+to take us seriously when one company says,
+
+578
+26:19.447 --> 26:21.360
+"You only need a camera.
+
+579
+26:21.360 --> 26:22.740
+Cameras are good enough."
+
+580
+26:22.740 --> 26:24.030
+Another company's gonna say,
+
+581
+26:24.030 --> 26:26.553
+I need a suite of sensors.
+
+582
+26:28.290 --> 26:31.680
+I'm gonna give you another example.
+
+583
+26:31.680 --> 26:35.790
+There are certain airlines that we consider budget airlines.
+
+584
+26:35.790 --> 26:37.950
+We're not so sure about their maintenance,
+
+585
+26:37.950 --> 26:40.500
+and some of us won't take certain airlines
+
+586
+26:40.500 --> 26:42.870
+'cause we just don't feel as comfortable
+
+587
+26:42.870 --> 26:45.660
+getting in those machines.
+
+588
+26:45.660 --> 26:48.810
+It will be the same with autonomous vehicles.
+
+589
+26:48.810 --> 26:53.700
+If we don't get to a point where, as a society,
+
+590
+26:53.700 --> 26:58.700
+we can have some standard level of this apple will feed you,
+
+591
+26:59.160 --> 27:02.220
+this vehicle will get you from point A to point B,
+
+592
+27:02.220 --> 27:05.010
+and that you don't say one thing is okay,
+
+593
+27:05.010 --> 27:08.010
+and then that person says one thing is okay.
+
+594
+27:08.010 --> 27:10.170
+And we may be technologists
+
+595
+27:10.170 --> 27:12.963
+and have a real understanding of the capability,
+
+596
+27:13.980 --> 27:15.450
+but the person who just wants
+
+597
+27:15.450 --> 27:18.300
+to get their kid to the soccer field,
+
+598
+27:18.300 --> 27:21.120
+they don't have that understanding.
+
+599
+27:21.120 --> 27:23.070
+They're relying on us,
+
+600
+27:23.070 --> 27:24.540
+and we're saying different things
+
+601
+27:24.540 --> 27:27.963
+that are different sides of our mouths as an industry.
+
+602
+27:29.190 --> 27:33.210
+The airline industry, even as a mobility space
+
+603
+27:35.790 --> 27:37.623
+polices themselves.
+
+604
+27:38.820 --> 27:42.540
+Autonomy at some point has to police themselves
+
+605
+27:42.540 --> 27:47.520
+if we wanna have greater consumer comfort
+
+606
+27:47.520 --> 27:49.890
+in the ability to safely move.
+
+607
+27:49.890 --> 27:51.810
+<v ->If I could play devil's advocate a little bit,</v>
+
+608
+27:51.810 --> 27:56.580
+I would say there was a crash with Uber in 2018,
+
+609
+27:56.580 --> 27:59.250
+and that was the end of the Uber self-driving program
+
+610
+27:59.250 --> 28:01.320
+for all intents and purposes.
+
+611
+28:01.320 --> 28:03.720
+We have a crash with Cruise
+
+612
+28:03.720 --> 28:05.940
+that ends Cruise for all intents and purposes.
+
+613
+28:05.940 --> 28:10.233
+So in effect, is the industry policing itself at this point?
+
+614
+28:11.610 --> 28:16.020
+<v ->That's really a financial decision at that point, right?</v>
+
+615
+28:16.020 --> 28:17.910
+We have had, if we think...
+
+616
+28:17.910 --> 28:18.743
+I'm in my 50s.
+
+617
+28:18.743 --> 28:22.530
+We have a long enough lead time looking at aviation
+
+618
+28:22.530 --> 28:26.373
+to say when we weren't as policing as we should,
+
+619
+28:27.360 --> 28:29.280
+airlines struggled.
+
+620
+28:29.280 --> 28:31.200
+They lost billions of dollars.
+
+621
+28:31.200 --> 28:33.030
+Some of them went out of business.
+
+622
+28:33.030 --> 28:35.970
+And the more they got on top of each other
+
+623
+28:35.970 --> 28:37.560
+in terms of maintenance,
+
+624
+28:37.560 --> 28:40.020
+in terms of standards,
+
+625
+28:40.020 --> 28:41.970
+consolidation,
+
+626
+28:41.970 --> 28:44.280
+we're better off despite what's happened lately.
+
+627
+28:44.280 --> 28:47.400
+We're still better off for it in terms of aviation.
+
+628
+28:47.400 --> 28:50.670
+We're gonna have to get there in autonomy as well.
+
+629
+28:50.670 --> 28:52.410
+<v ->I wanna take it back 'cause I know our time</v>
+
+630
+28:52.410 --> 28:54.753
+is starting to run a little low.
+
+631
+28:55.590 --> 28:58.470
+I wanted to address artificial intelligence advances
+
+632
+28:58.470 --> 29:01.020
+in this automated space.
+
+633
+29:01.020 --> 29:03.480
+And I'm curious,
+
+634
+29:03.480 --> 29:05.610
+have the rapid advances we've seen
+
+635
+29:05.610 --> 29:09.450
+in the last 2, 2 1/2 years
+
+636
+29:09.450 --> 29:12.750
+improved safety, improved capabilities?
+
+637
+29:12.750 --> 29:14.640
+Have those led us to this moment
+
+638
+29:14.640 --> 29:17.440
+where now we're seeing proliferation
+
+639
+29:18.776 --> 29:21.870
+of self-driving, automated-driving technologies?
+
+640
+29:21.870 --> 29:23.370
+<v ->Yeah, so I can start with this.</v>
+
+641
+29:23.370 --> 29:24.203
+Certainly.
+
+642
+29:24.203 --> 29:26.100
+I mean AI is here and it's here to stay,
+
+643
+29:26.100 --> 29:28.530
+and I have to say it's a combination of
+
+644
+29:28.530 --> 29:32.130
+compute capabilities, looking at the SOCs of today
+
+645
+29:32.130 --> 29:33.720
+with all the hardware accelerations,
+
+646
+29:33.720 --> 29:36.630
+with transformers, and so on.
+
+647
+29:36.630 --> 29:39.480
+So this is definitely a blessing,
+
+648
+29:39.480 --> 29:42.930
+and there are different modes
+
+649
+29:42.930 --> 29:45.960
+and let's say types of AI.
+
+650
+29:45.960 --> 29:50.250
+We have built our technology on a compound AI system,
+
+651
+29:50.250 --> 29:54.330
+meaning there are bits and pieces which are end-to-end AI,
+
+652
+29:54.330 --> 29:56.880
+and also combining it with redundancy.
+
+653
+29:56.880 --> 29:59.340
+So that means even within vision,
+
+654
+29:59.340 --> 30:04.080
+there are, let's say, geometry-based, appearance-based,
+
+655
+30:04.080 --> 30:07.740
+and different, let's say, modes and modalities,
+
+656
+30:07.740 --> 30:12.300
+and then augmented with an end-to-end AI model.
+
+657
+30:12.300 --> 30:15.960
+Also, for example, fusion and fusing
+
+658
+30:15.960 --> 30:18.240
+of map and map list, basically,
+
+659
+30:18.240 --> 30:21.000
+prioritizing between what you have from the map
+
+660
+30:21.000 --> 30:22.260
+and what you see in reality
+
+661
+30:22.260 --> 30:24.060
+if there's a new construction
+
+662
+30:24.060 --> 30:25.920
+which just showed up and it's not in the map,
+
+663
+30:25.920 --> 30:28.860
+still making the right decisions and so on.
+
+664
+30:28.860 --> 30:32.680
+So it's actually great to have these AI models
+
+665
+30:33.630 --> 30:34.680
+with good training,
+
+666
+30:34.680 --> 30:36.270
+and also if you think about
+
+667
+30:36.270 --> 30:39.720
+just sign recognition, landmarks recognition, other things,
+
+668
+30:39.720 --> 30:43.740
+this is all already now over the years completely moved to
+
+669
+30:43.740 --> 30:47.043
+AI-based technologies based on training data,
+
+670
+30:47.880 --> 30:50.013
+and this is just the standard today.
+
+671
+30:51.690 --> 30:53.400
+<v ->I mean similar in the marine space,</v>
+
+672
+30:53.400 --> 30:56.130
+we're using all the same technologies, all the same things,
+
+673
+30:56.130 --> 30:58.950
+both in terms of helping us to drive
+
+674
+30:58.950 --> 31:01.650
+product development faster and more efficiently,
+
+675
+31:01.650 --> 31:03.390
+using synthetic data,
+
+676
+31:03.390 --> 31:04.950
+a lot more use of simulation,
+
+677
+31:04.950 --> 31:07.200
+as well as in the product itself,
+
+678
+31:07.200 --> 31:09.600
+using it for path planning and various different things.
+
+679
+31:09.600 --> 31:11.790
+So, definitely really helpful
+
+680
+31:11.790 --> 31:13.770
+both in product development and the product itself,
+
+681
+31:13.770 --> 31:16.620
+and I'll even say in the broader consumer experience
+
+682
+31:16.620 --> 31:19.590
+in terms of things like predictive maintenance
+
+683
+31:19.590 --> 31:23.280
+once the vessel or the vehicle is in the field
+
+684
+31:23.280 --> 31:26.790
+in terms of better serviceability,
+
+685
+31:26.790 --> 31:29.160
+better engagement with a dealer or whoever it is.
+
+686
+31:29.160 --> 31:30.933
+So really throughout the entire,
+
+687
+31:31.860 --> 31:34.980
+every touch point of a vessel or a vehicle ownership,
+
+688
+31:34.980 --> 31:39.723
+AI is playing a very significant and fastly growing role.
+
+689
+31:40.770 --> 31:42.393
+<v ->Back to this idea of trust,</v>
+
+690
+31:43.740 --> 31:46.200
+how do you communicate
+
+691
+31:46.200 --> 31:49.560
+the performance and limitations of AI,
+
+692
+31:49.560 --> 31:50.940
+not just to consumers,
+
+693
+31:50.940 --> 31:52.890
+but to the stakeholders that we've mentioned before
+
+694
+31:52.890 --> 31:56.550
+to government city transportation planners
+
+695
+31:56.550 --> 31:59.070
+or the Coast Guard in your case?
+
+696
+31:59.070 --> 32:02.910
+How do you really inform that audience
+
+697
+32:02.910 --> 32:04.410
+as a leader in the technology?
+
+698
+32:05.400 --> 32:07.080
+<v ->Yeah, I think, for us, it's around kind of</v>
+
+699
+32:07.080 --> 32:10.073
+communicating what we're using and why we're doing it.
+
+700
+32:10.073 --> 32:11.280
+And so, for example,
+
+701
+32:11.280 --> 32:14.520
+as I think about maybe training data as an example,
+
+702
+32:14.520 --> 32:18.150
+we can explain to the Coast Guard, or ABYC, or whoever it is
+
+703
+32:18.150 --> 32:20.190
+that this is the amount of real world
+
+704
+32:20.190 --> 32:21.260
+and so we'll use kind of
+
+705
+32:21.260 --> 32:25.440
+50,000 hours was roughly an equivalent of a million miles
+
+706
+32:25.440 --> 32:28.320
+of driving as kind of our real world
+
+707
+32:28.320 --> 32:29.730
+numbers that we'll use for any kind of
+
+708
+32:29.730 --> 32:32.130
+new significant technology we roll out.
+
+709
+32:32.130 --> 32:34.230
+But then we're able to explain to them that
+
+710
+32:34.230 --> 32:36.060
+all of these additional use cases
+
+711
+32:36.060 --> 32:38.040
+we can gather via simulation
+
+712
+32:38.040 --> 32:39.900
+that might be really hard for us to find.
+
+713
+32:39.900 --> 32:42.960
+And so we're able to explain to these regulatory authorities
+
+714
+32:42.960 --> 32:45.510
+how the end product is a lot safer
+
+715
+32:45.510 --> 32:48.843
+because of the use of AI in our development processes.
+
+716
+32:50.100 --> 32:52.380
+<v ->Does anyone in the audience have a question or two?</v>
+
+717
+32:52.380 --> 32:54.330
+We might take a question at some point here,
+
+718
+32:54.330 --> 32:57.030
+but while you mull that over real quick,
+
+719
+32:57.030 --> 32:58.380
+Maria, I'm curious.
+
+720
+32:58.380 --> 33:02.730
+We see Waymo deployed on big picture in San Francisco,
+
+721
+33:02.730 --> 33:03.810
+Phoenix, Los Angeles.
+
+722
+33:03.810 --> 33:07.740
+They're planning to have robotaxis in Austin and Atlanta.
+
+723
+33:07.740 --> 33:09.360
+Zoox vehicles are right outside
+
+724
+33:09.360 --> 33:10.890
+the convention center here, testing.
+
+725
+33:10.890 --> 33:14.280
+They seem like they're on the verge of starting service.
+
+726
+33:14.280 --> 33:16.740
+That gives us a very North American perspective.
+
+727
+33:16.740 --> 33:19.380
+I'm curious, can you fill us in
+
+728
+33:19.380 --> 33:21.630
+on what's going on around the globe
+
+729
+33:21.630 --> 33:25.800
+and how do you see that evolving here in 2025
+
+730
+33:25.800 --> 33:30.390
+so we'll know what we'll be talking about at CES 2026?
+
+731
+33:30.390 --> 33:32.640
+<v ->I would say the US is really at the forefront</v>
+
+732
+33:32.640 --> 33:35.730
+when we think about these deployments together with China.
+
+733
+33:35.730 --> 33:38.700
+And one of the reason why the two countries are going to,
+
+734
+33:38.700 --> 33:40.860
+in my view, continue being at the forefront
+
+735
+33:40.860 --> 33:42.690
+is because it's a race.
+
+736
+33:42.690 --> 33:46.500
+It's a race US against China in vehicle autonomy.
+
+737
+33:46.500 --> 33:48.300
+So when thinking about the world
+
+738
+33:48.300 --> 33:52.080
+and what we're seeing, how we're seeing this move forwards,
+
+739
+33:52.080 --> 33:54.420
+I believe that both China and the US
+
+740
+33:54.420 --> 33:56.310
+will still be at the forefront.
+
+741
+33:56.310 --> 33:59.790
+When we think about other regions such as Europe,
+
+742
+33:59.790 --> 34:02.580
+we are going, and I'm based in Europe,
+
+743
+34:02.580 --> 34:04.350
+it's going to take longer.
+
+744
+34:04.350 --> 34:08.070
+It's going to take longer because, among other things,
+
+745
+34:08.070 --> 34:09.900
+the big technology players
+
+746
+34:09.900 --> 34:12.210
+that are already today deploying
+
+747
+34:12.210 --> 34:14.850
+at larger and larger scales are not in Europe.
+
+748
+34:14.850 --> 34:18.993
+So it takes some time to really go into a new geography
+
+749
+34:20.250 --> 34:23.040
+and then there's all the regulation
+
+750
+34:23.040 --> 34:24.870
+to make sure that it also works.
+
+751
+34:24.870 --> 34:27.120
+And we were talking before
+
+752
+34:27.120 --> 34:30.060
+about the platform of regulations in the US,
+
+753
+34:30.060 --> 34:33.033
+but in Europe, it can be even worse.
+
+754
+34:35.040 --> 34:38.700
+It's better per country than it is per country in the US,
+
+755
+34:38.700 --> 34:41.910
+but if we think about entirety of Europe,
+
+756
+34:41.910 --> 34:43.260
+it has so many countries,
+
+757
+34:43.260 --> 34:46.920
+and they need to first get aligned on that.
+
+758
+34:46.920 --> 34:50.550
+Another region that I think is important to not forget
+
+759
+34:50.550 --> 34:52.110
+is the Middle East.
+
+760
+34:52.110 --> 34:54.930
+The technologies that will be implemented there
+
+761
+34:54.930 --> 34:58.920
+will likely be either the US ones or the Chinese ones,
+
+762
+34:58.920 --> 35:02.100
+but keeping in mind that the Middle East,
+
+763
+35:02.100 --> 35:06.030
+it's very eager to have these technologies.
+
+764
+35:06.030 --> 35:11.030
+We see that in the UAE and in Saudi Arabia especially.
+
+765
+35:11.550 --> 35:14.610
+And we will continue seeing them
+
+766
+35:14.610 --> 35:17.460
+in how they're going to start deploying this technology.
+
+767
+35:17.460 --> 35:19.380
+So I would say that's a little bit of
+
+768
+35:19.380 --> 35:22.120
+what I see outside of the US
+
+769
+35:23.040 --> 35:25.530
+<v ->Selika, can you piggyback on that a little bit?</v>
+
+770
+35:25.530 --> 35:30.187
+What does the state of autonomy here in the US say?
+
+771
+35:31.380 --> 35:36.380
+How does it relate to America's ability to innovate overall,
+
+772
+35:36.450 --> 35:37.623
+compete globally?
+
+773
+35:39.120 --> 35:41.763
+<v ->We always seemed like we were at the forefront,</v>
+
+774
+35:42.780 --> 35:43.800
+that we were leading.
+
+775
+35:43.800 --> 35:47.190
+I think there were failings
+
+776
+35:47.190 --> 35:50.710
+maybe in the administration before this administration
+
+777
+35:51.690 --> 35:54.693
+where we didn't take seriously what was happening in China.
+
+778
+35:57.840 --> 36:01.771
+They're not gonna wait for customer comfort.
+
+779
+36:01.771 --> 36:03.871
+They get to try things out on the roadway,
+
+780
+36:05.280 --> 36:07.320
+regions where they have to move people.
+
+781
+36:07.320 --> 36:09.660
+And one of the things that I
+
+782
+36:09.660 --> 36:13.680
+always like to impart when I speak is, on a global basis,
+
+783
+36:13.680 --> 36:16.860
+if you think about the average age of someone in America
+
+784
+36:16.860 --> 36:18.510
+being almost 40,
+
+785
+36:18.510 --> 36:23.510
+the average age of someone in a lot of Asian countries
+
+786
+36:24.090 --> 36:26.970
+being in their late 40s,
+
+787
+36:26.970 --> 36:31.020
+the average age of someone on the continent is 19.
+
+788
+36:31.020 --> 36:34.230
+We talk about the future of mobility
+
+789
+36:34.230 --> 36:37.980
+and where influence can take place.
+
+790
+36:37.980 --> 36:41.940
+To really radically change what's happening in countries,
+
+791
+36:41.940 --> 36:44.910
+it will start probably in places like
+
+792
+36:44.910 --> 36:47.370
+West Africa and East Africa,
+
+793
+36:47.370 --> 36:52.370
+where they are eager to join the race of what is happening.
+
+794
+36:52.710 --> 36:54.660
+Now, of course, they don't have the kind of infrastructure
+
+795
+36:54.660 --> 36:57.210
+that America has, or the dollars,
+
+796
+36:57.210 --> 36:59.823
+or ability to push technology like China.
+
+797
+37:01.440 --> 37:05.310
+America still wants to be number one.
+
+798
+37:05.310 --> 37:10.080
+And jokingly talking about President Musk
+
+799
+37:10.080 --> 37:11.940
+or Vice President Musk,
+
+800
+37:11.940 --> 37:14.050
+you have the ear
+
+801
+37:14.910 --> 37:17.010
+of the incoming president of the United States
+
+802
+37:17.010 --> 37:18.880
+with someone who understands
+
+803
+37:20.970 --> 37:24.840
+as deep as possible the possibilities
+
+804
+37:24.840 --> 37:27.600
+for the future of this technology
+
+805
+37:27.600 --> 37:30.060
+that it will give us as a country
+
+806
+37:30.060 --> 37:33.570
+I think a significant runway over the next few years
+
+807
+37:33.570 --> 37:37.320
+that may catapult us to the top of the heap
+
+808
+37:37.320 --> 37:39.420
+and into the first place.
+
+809
+37:39.420 --> 37:41.940
+<v ->Kind of as we close down in our final minutes here,</v>
+
+810
+37:41.940 --> 37:44.070
+I think about the future being here,
+
+811
+37:44.070 --> 37:45.960
+thinking about what's going on overseas.
+
+812
+37:45.960 --> 37:48.750
+JJ, supervision is deployed in China,
+
+813
+37:48.750 --> 37:53.280
+so what is that consumer getting from Mobileye,
+
+814
+37:53.280 --> 37:56.250
+and what do you see in that market right now?
+
+815
+37:56.250 --> 37:59.160
+<v ->Yeah, clearly a lot of competition,</v>
+
+816
+37:59.160 --> 38:02.670
+even stronger than in the US or in Europe.
+
+817
+38:02.670 --> 38:04.380
+And it's just like an openness.
+
+818
+38:04.380 --> 38:07.110
+I mean, you see the eagerness of consumers of customers,
+
+819
+38:07.110 --> 38:10.230
+so huge expectations that they can just get in the car,
+
+820
+38:10.230 --> 38:12.360
+drive from A to B, or take a ride from A to B.
+
+821
+38:12.360 --> 38:14.730
+So in terms of this openness
+
+822
+38:14.730 --> 38:17.430
+and also the customer expectations being really high,
+
+823
+38:17.430 --> 38:19.260
+that's very different.
+
+824
+38:19.260 --> 38:21.360
+But I have to say, overall,
+
+825
+38:21.360 --> 38:23.610
+I mean what what excites me is
+
+826
+38:23.610 --> 38:26.730
+to offer really inclusive mobility
+
+827
+38:26.730 --> 38:28.680
+to everyone, to all,
+
+828
+38:28.680 --> 38:31.710
+also to people with visual impairment
+
+829
+38:31.710 --> 38:33.210
+who really complain about
+
+830
+38:33.210 --> 38:36.390
+being rejected by drivers
+
+831
+38:36.390 --> 38:38.670
+because they're harder to be found.
+
+832
+38:38.670 --> 38:39.503
+They cannot wave.
+
+833
+38:39.503 --> 38:41.910
+They cannot let's say read the license plate,
+
+834
+38:41.910 --> 38:43.530
+find the right car,
+
+835
+38:43.530 --> 38:46.680
+or have a service dog and the driver rejects that,
+
+836
+38:46.680 --> 38:47.513
+and so on.
+
+837
+38:47.513 --> 38:50.010
+And then of course you look at the shuttle,
+
+838
+38:50.010 --> 38:52.110
+the haul-on shuttle, for example, at our booth
+
+839
+38:52.110 --> 38:55.770
+has a low floor, a ramp,
+
+840
+38:55.770 --> 38:59.070
+basically offering mobility to people in wheelchairs.
+
+841
+38:59.070 --> 39:00.120
+And I have to say,
+
+842
+39:00.120 --> 39:02.880
+getting that freedom and not just time back,
+
+843
+39:02.880 --> 39:06.570
+but also that freedom to go from A to B,
+
+844
+39:06.570 --> 39:09.270
+not depend on other humans, not depend on other people,
+
+845
+39:09.270 --> 39:11.220
+this is actually something where a lot of people
+
+846
+39:11.220 --> 39:13.290
+are just looking forward to that.
+
+847
+39:13.290 --> 39:14.970
+<v ->Speaking of giving people some freedom,</v>
+
+848
+39:14.970 --> 39:16.650
+giving people six degrees of freedom, right?
+
+849
+39:16.650 --> 39:17.483
+<v ->Exactly, yeah.</v>
+
+850
+39:17.483 --> 39:18.840
+No, but I think it's a great point.
+
+851
+39:18.840 --> 39:22.410
+I think what's really going to drive the future of autonomy
+
+852
+39:22.410 --> 39:24.540
+is fulfilling consumer needs.
+
+853
+39:24.540 --> 39:26.370
+And I think you talked about some of those
+
+854
+39:26.370 --> 39:29.580
+needs in the on-road space,
+
+855
+39:29.580 --> 39:31.680
+likewise in the off-road space.
+
+856
+39:31.680 --> 39:33.060
+That's really what this is about,
+
+857
+39:33.060 --> 39:34.740
+is we want to drive the adoption
+
+858
+39:34.740 --> 39:36.660
+because we are fulfilling consumer needs.
+
+859
+39:36.660 --> 39:37.800
+Ultimately, at the end of the day,
+
+860
+39:37.800 --> 39:39.600
+our goal as an organization
+
+861
+39:39.600 --> 39:42.840
+is to get more people into recreational marine.
+
+862
+39:42.840 --> 39:44.880
+We do that by making it more accessible,
+
+863
+39:44.880 --> 39:47.670
+by making it more intuitive and by making it easier.
+
+864
+39:47.670 --> 39:48.750
+And so that's really how we think about
+
+865
+39:48.750 --> 39:50.640
+what can the role of autonomy be
+
+866
+39:50.640 --> 39:52.770
+in driving that broader adoption
+
+867
+39:52.770 --> 39:54.750
+to get more people out there enjoying the water,
+
+868
+39:54.750 --> 39:56.820
+which is ultimately our goal.
+
+869
+39:56.820 --> 39:59.130
+<v ->All right, Maria, I believe the final word of the panel</v>
+
+870
+39:59.130 --> 40:00.090
+belongs to you.
+
+871
+40:00.090 --> 40:02.643
+Give us your thoughts on the road ahead.
+
+872
+40:04.170 --> 40:06.540
+<v ->Final words on the road ahead, in my view,</v>
+
+873
+40:06.540 --> 40:09.990
+is to make sure that we are still keeping safety in mind.
+
+874
+40:09.990 --> 40:12.420
+It has a lot of benefits.
+
+875
+40:12.420 --> 40:13.785
+Some of them as inclusivity,
+
+876
+40:13.785 --> 40:15.900
+thinking about the elderly population,
+
+877
+40:15.900 --> 40:18.000
+but collaboration and safety
+
+878
+40:18.000 --> 40:19.070
+should still be at the forefront
+
+879
+40:19.070 --> 40:23.190
+as we continue this vehicle autonomy conversation.
+
+880
+40:23.190 --> 40:24.023
+<v ->All right.</v>
+
+881
+40:24.023 --> 40:25.440
+I'll apologize for asking for questions
+
+882
+40:25.440 --> 40:26.940
+and then not getting to them,
+
+883
+40:26.940 --> 40:29.010
+but terrific conversation.
+
+884
+40:29.010 --> 40:30.546
+How about a hand for the panel?
+
+885
+40:30.546 --> 40:33.713
+(audience applauding)
+
+886
+40:35.310 --> 40:37.080
+All right, and thank you all for attending today.
+
+887
+40:37.080 --> 40:39.010
+I hope you enjoy the rest of CES.
+
+888
+40:39.010 --> 40:41.593
+(upbeat music)
+

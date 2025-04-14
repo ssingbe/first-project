@@ -1,0 +1,2930 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.080 --> 00:02.663
+(bright music)
+
+00:10.650 --> 00:12.210
+<v ->All right. Hi everyone.</v>
+
+00:12.210 --> 00:14.013
+We're so glad you could join us.
+
+00:14.880 --> 00:16.830
+And good afternoon, CES.
+
+00:16.830 --> 00:20.520
+It's really great to have all of you here with us today.
+
+00:20.520 --> 00:22.650
+So we're gonna have a great panel discussion today
+
+00:22.650 --> 00:25.473
+on smart cities and cybersecurity.
+
+00:27.690 --> 00:30.090
+We're going to address how smart cities can stay smart
+
+00:30.090 --> 00:32.430
+when it comes to cybersecurity.
+
+00:32.430 --> 00:35.250
+As our cities become more connected and intelligent,
+
+00:35.250 --> 00:37.200
+safeguarding the flow of information
+
+00:37.200 --> 00:40.170
+and protecting critical infrastructure is paramount.
+
+00:40.170 --> 00:42.420
+I think we all can agree to that.
+
+00:42.420 --> 00:45.090
+So today we're gonna explore some of the challenges
+
+00:45.090 --> 00:48.390
+and the opportunities of securing smart cities.
+
+00:48.390 --> 00:50.370
+Also discussing innovative strategies
+
+00:50.370 --> 00:53.880
+to ensure safety, privacy, and resilience
+
+00:53.880 --> 00:57.180
+of these rapidly evolving urban environments.
+
+00:57.180 --> 00:59.335
+So before we get started, I'd like to intro-
+
+00:59.335 --> 01:01.502
+(silence)
+
+01:07.320 --> 01:10.773
+Standards programs at the Consumer Technology Association.
+
+01:11.640 --> 01:13.230
+I'm also the president
+
+01:13.230 --> 01:16.140
+of the US National Committee of the IEC.
+
+01:16.140 --> 01:20.370
+And in that role, we're focused on global standardization
+
+01:20.370 --> 01:22.050
+and conformity assessment.
+
+01:22.050 --> 01:23.370
+So bringing a lot of the work
+
+01:23.370 --> 01:26.583
+that I do in American National Standards internationally.
+
+01:27.570 --> 01:29.850
+I'm also the first woman to hold that position,
+
+01:29.850 --> 01:31.647
+which I'm really proud of.
+
+01:31.647 --> 01:35.010
+The IEC got it start in 1906.
+
+01:35.010 --> 01:37.860
+So imagine all the way through 2024,
+
+01:37.860 --> 01:40.110
+it took that long to get a woman elected.
+
+01:40.110 --> 01:41.913
+So very proud to hold that role.
+
+01:42.810 --> 01:46.020
+And being a member of that group,
+
+01:46.020 --> 01:47.970
+I'm also a member of the IEC Board,
+
+01:47.970 --> 01:49.500
+their business advisory committee,
+
+01:49.500 --> 01:52.710
+which looks at how we might globally influence
+
+01:52.710 --> 01:55.050
+standardization among some of the big three.
+
+01:55.050 --> 01:57.420
+I'm also on the American National Standards
+
+01:57.420 --> 01:58.830
+Institute Board of Directors.
+
+01:58.830 --> 02:02.910
+So standards are something I hold very dear to my heart.
+
+02:02.910 --> 02:04.590
+I'm also a US Army veteran
+
+02:04.590 --> 02:06.450
+because it seems like I really like
+
+02:06.450 --> 02:08.700
+to take on a lot of jobs. (laughs)
+
+02:08.700 --> 02:11.580
+So I'm really thrilled to have our panel of experts
+
+02:11.580 --> 02:12.810
+here with us today.
+
+02:12.810 --> 02:14.850
+They'll bring some diverse perspectives
+
+02:14.850 --> 02:16.890
+to what we're talking about
+
+02:16.890 --> 02:18.780
+when it comes to smart cities and cybersecurity.
+
+02:18.780 --> 02:21.570
+So I'm gonna let each of them introduce themselves.
+
+02:21.570 --> 02:23.370
+So Michelle, we'll start with you.
+
+02:23.370 --> 02:24.270
+<v ->So nice to be here.</v>
+
+02:24.270 --> 02:26.340
+It's my first time speaking at the CES,
+
+02:26.340 --> 02:27.600
+so I'm pretty excited.
+
+02:27.600 --> 02:28.800
+My name is Michelle Sahar.
+
+02:28.800 --> 02:31.680
+I'm the Cybersecurity Director of OpenPolicy.
+
+02:31.680 --> 02:35.280
+OpenPolicy, it's the first AI powered platform
+
+02:35.280 --> 02:38.470
+that democratize access to startups and innovators
+
+02:39.420 --> 02:43.770
+engaged in regulatory engagement, not only hold visibility,
+
+02:43.770 --> 02:46.170
+but also have the proactive knowledge
+
+02:46.170 --> 02:49.860
+and participate in this great landscape.
+
+02:49.860 --> 02:52.980
+So in my job, I advise clients not only
+
+02:52.980 --> 02:56.910
+on how to address all this information of regulation,
+
+02:56.910 --> 02:59.400
+but also how they can engage in helping info sharing
+
+02:59.400 --> 03:01.860
+with amazing government agencies.
+
+03:01.860 --> 03:05.310
+So my specialties are in IOT, which is very interesting
+
+03:05.310 --> 03:09.900
+about what we're gonna talk about today, AI, iCloud,
+
+03:09.900 --> 03:12.900
+and yeah, and I'm very excited for this, yeah.
+
+03:12.900 --> 03:14.280
+<v Veronica>Glad to have you here.</v>
+
+03:14.280 --> 03:16.950
+<v ->Matthew Straeb, I'm with Global Security Systems.</v>
+
+03:16.950 --> 03:19.050
+Our brand is ALERT FM,
+
+03:19.050 --> 03:23.550
+and we've been delivering communication systems
+
+03:23.550 --> 03:27.000
+that work when cell and other systems fail
+
+03:27.000 --> 03:28.410
+or you lose power or internet.
+
+03:28.410 --> 03:32.130
+So we kind of came in this from a different point of view
+
+03:32.130 --> 03:35.760
+because what we found out is that we work mostly
+
+03:35.760 --> 03:38.130
+in state and local communities,
+
+03:38.130 --> 03:40.680
+and they're all obviously have a very strong interest
+
+03:40.680 --> 03:42.783
+in alerting their citizenry.
+
+03:43.710 --> 03:45.850
+And a lot of these disasters
+
+03:48.569 --> 03:51.510
+can get into a situation where they fail very quickly.
+
+03:51.510 --> 03:53.490
+The power, internet and cell can all just fail
+
+03:53.490 --> 03:54.840
+right in five to 10 minutes,
+
+03:54.840 --> 03:56.340
+depending on what the disaster is.
+
+03:56.340 --> 03:58.860
+And we found that cybersecurity,
+
+03:58.860 --> 04:01.923
+cyber communications is the same profile.
+
+04:03.660 --> 04:06.330
+There's, you know, two types of cyber communication issues.
+
+04:06.330 --> 04:08.970
+One is ransomware, I'll just get in.
+
+04:08.970 --> 04:10.590
+And then the other one is, you know,
+
+04:10.590 --> 04:11.520
+they're gonna go after something
+
+04:11.520 --> 04:12.570
+that's gonna be important to you
+
+04:12.570 --> 04:14.580
+and that's gonna be typically communications.
+
+04:14.580 --> 04:16.230
+So we fill that gap.
+
+04:16.230 --> 04:19.860
+And we developed, I'm a co-founder, we developed a system
+
+04:19.860 --> 04:23.760
+where we basically use existing FM radio infrastructure.
+
+04:23.760 --> 04:24.900
+So you know how you get your song
+
+04:24.900 --> 04:26.700
+and title information on your car radio,
+
+04:26.700 --> 04:29.190
+we turn that into a alert system.
+
+04:29.190 --> 04:32.220
+And what's unique about it, it's independent because,
+
+04:32.220 --> 04:34.320
+and we deliver all of our data
+
+04:34.320 --> 04:36.120
+to the radio stations by satellite.
+
+04:36.120 --> 04:38.940
+So the only way you would be able to hack the system
+
+04:38.940 --> 04:41.430
+would be able to physically, you'd have to break into the,
+
+04:41.430 --> 04:43.530
+to knock at the satellite uplink.
+
+04:43.530 --> 04:44.580
+So we fill that gap.
+
+04:44.580 --> 04:48.753
+So when everything goes to, you know, goes south,
+
+04:49.620 --> 04:51.030
+our system would continue to work.
+
+04:51.030 --> 04:53.007
+So thank you.
+<v ->Thank you.</v>
+
+04:53.007 --> 04:54.390
+<v ->And good afternoon everyone.</v>
+
+04:54.390 --> 04:56.910
+Great to see you all again here at CES.
+
+04:56.910 --> 04:59.310
+My name is Billy Bob Brown Jr.
+
+04:59.310 --> 05:00.810
+I'm the executive assistant director
+
+05:00.810 --> 05:02.700
+for Emergency Communications
+
+05:02.700 --> 05:06.660
+at the Cybersecurity and Infrastructure Security Agency.
+
+05:06.660 --> 05:09.240
+We spend most of our time talking about the idea
+
+05:09.240 --> 05:13.290
+of how do we improve cyber safety across the nation,
+
+05:13.290 --> 05:16.380
+and how do we encourage partners across the world
+
+05:16.380 --> 05:19.980
+to think about creating a world that's secure
+
+05:19.980 --> 05:23.610
+for all of our internet connected devices.
+
+05:23.610 --> 05:25.500
+<v ->Great. So glad to have all three of you with us.</v>
+
+05:25.500 --> 05:28.440
+And I have so many questions, some of which I've shared,
+
+05:28.440 --> 05:31.830
+but I love the mindset that we have here.
+
+05:31.830 --> 05:33.030
+I think we've got lots to talk about.
+
+05:33.030 --> 05:36.840
+So why don't we start with the biggest question maybe.
+
+05:36.840 --> 05:39.480
+What are the biggest cybersecurity challenges
+
+05:39.480 --> 05:41.910
+that you think smart cities face today?
+
+05:41.910 --> 05:43.830
+Maybe from each of your perspectives.
+
+05:43.830 --> 05:48.390
+<v ->So, smart cities, with the great technology comes,</v>
+
+05:48.390 --> 05:50.550
+there's like multiple layer vulnerabilities.
+
+05:50.550 --> 05:53.550
+And when we're talking about interconnected systems,
+
+05:53.550 --> 05:56.820
+basically, right, Smart cities wants to help us
+
+05:56.820 --> 06:00.510
+and help our lives to get better by interconnecting systems.
+
+06:00.510 --> 06:05.220
+So one of the vulnerabilities is IoT product, right?
+
+06:05.220 --> 06:08.160
+This interconnectivity can lead to vulnerabilities
+
+06:08.160 --> 06:09.960
+that we need to know how to mitigate
+
+06:09.960 --> 06:12.180
+from the outgoing, from the starts, right,
+
+06:12.180 --> 06:14.250
+from the development of the product itself
+
+06:14.250 --> 06:16.080
+before it's even connected.
+
+06:16.080 --> 06:18.540
+And the attack surface management now that we see
+
+06:18.540 --> 06:21.810
+if smart cities get expanded exponentially, right?
+
+06:21.810 --> 06:24.030
+There are so many small items,
+
+06:24.030 --> 06:26.400
+products, AI powered platform,
+
+06:26.400 --> 06:28.410
+we're not even mentioning the amount of data
+
+06:28.410 --> 06:31.920
+that flows through all the critical infrastructures.
+
+06:31.920 --> 06:35.400
+So all of this attack surface, someone needs to manage
+
+06:35.400 --> 06:37.740
+and needs to manage it in real time.
+
+06:37.740 --> 06:40.800
+And to be able not only to predict what can be,
+
+06:40.800 --> 06:44.610
+what can happen or which threat we can encounter,
+
+06:44.610 --> 06:47.070
+but also which kind of security measurements,
+
+06:47.070 --> 06:49.590
+which can cybersecurity protocols we need to do
+
+06:49.590 --> 06:51.690
+to also remediate and be resilient
+
+06:51.690 --> 06:53.010
+to the ever evolving threats.
+
+06:53.010 --> 06:56.610
+So I think how smart cities are built, it's great,
+
+06:56.610 --> 06:59.310
+but they're unfolding so many small pieces
+
+06:59.310 --> 07:01.980
+that we need to have some kind of a security baseline
+
+07:01.980 --> 07:04.320
+to know how we are addressing them.
+
+07:04.320 --> 07:05.153
+<v ->Yeah, I love that.</v>
+
+07:05.153 --> 07:06.780
+Security baselines, I think, are quite important,
+
+07:06.780 --> 07:08.130
+especially in standardization.
+
+07:08.130 --> 07:09.180
+We talk about that a lot.
+
+07:09.180 --> 07:10.860
+So do you envision, I think,
+
+07:10.860 --> 07:12.600
+maybe in your view of smart cities is,
+
+07:12.600 --> 07:15.960
+I agree we have so many products, IoT products,
+
+07:15.960 --> 07:18.060
+and we're bringing all that data together.
+
+07:18.060 --> 07:19.800
+Do you almost envision that there needs to be
+
+07:19.800 --> 07:23.433
+sort of like maybe a city management sort of a,
+
+07:24.330 --> 07:25.890
+you know, overview of?
+<v ->One centralized?</v>
+
+07:25.890 --> 07:27.750
+Yeah, or do you think it needs to be more,
+
+07:27.750 --> 07:29.460
+I mean, 'cause I know we definitely want to see
+
+07:29.460 --> 07:31.260
+more of the customers being proactive
+
+07:31.260 --> 07:34.707
+and in being cyber smart,- but knowing that
+
+07:34.707 --> 07:37.830
+<v ->The IoT Cyber Trust Mark, right?</v>
+
+07:37.830 --> 07:39.450
+I am a great fan of that initiative
+
+07:39.450 --> 07:42.060
+and I think it's forming beautifully
+
+07:42.060 --> 07:43.650
+with the idea of smart cities, right?
+
+07:43.650 --> 07:46.710
+Because if someone is not aware,
+
+07:46.710 --> 07:49.590
+the US Cyber Trust Mark is a great initiative
+
+07:49.590 --> 07:52.650
+to trying to not only raise awareness of customers, right,
+
+07:52.650 --> 07:55.110
+and to understand if the consumer,
+
+07:55.110 --> 07:57.840
+if my mom wants pay the extra 10 bucks
+
+07:57.840 --> 08:01.080
+to have a better, more secure IoT product.
+
+08:01.080 --> 08:03.330
+But also, how we are forming
+
+08:03.330 --> 08:05.700
+this security baseline for IoT product?
+
+08:05.700 --> 08:09.450
+What is like the basic threshold of security standards?
+
+08:09.450 --> 08:11.163
+And I think that this initiative,
+
+08:12.483 --> 08:14.670
+it's exactly what you just mentioned.
+
+08:14.670 --> 08:16.740
+And I think that smart cities and local government
+
+08:16.740 --> 08:21.570
+can use that and emphasize the importance of this initiative
+
+08:21.570 --> 08:24.510
+and try to see if the consumer, how we can raise awareness,
+
+08:24.510 --> 08:27.240
+which is crucial for security for smart cities.
+
+08:27.240 --> 08:31.260
+And also to protect the basic lines of IoT products,
+
+08:31.260 --> 08:35.580
+which are the basic foundation of smart cities, right?
+
+08:35.580 --> 08:37.080
+<v ->Absolutely. Absolutely.</v>
+
+08:37.080 --> 08:38.790
+So Matthew, what do you think?
+
+08:38.790 --> 08:40.290
+<v ->Well, there's, there's two sides to it.</v>
+
+08:40.290 --> 08:43.410
+One is, you know, we wanna be able to use these devices.
+
+08:43.410 --> 08:45.330
+We don't want burden people.
+
+08:45.330 --> 08:47.880
+But at the same time we have privacy issues
+
+08:47.880 --> 08:49.230
+and people don't even realize
+
+08:49.230 --> 08:51.090
+that there could be a entry point too
+
+08:51.090 --> 08:55.560
+for a cybersecurity breach or attack, particularly if,
+
+08:55.560 --> 08:57.720
+and we deal mostly with government, you know,
+
+08:57.720 --> 09:00.150
+government employees, law enforcement,
+
+09:00.150 --> 09:02.760
+emergency management, those types of folks.
+
+09:02.760 --> 09:05.880
+And, you know, a lot of times we'll walk in and we'll say,
+
+09:05.880 --> 09:09.750
+you know, so that's on the IOT side or the device side.
+
+09:09.750 --> 09:11.790
+Now on the infrastructure side,
+
+09:11.790 --> 09:14.553
+the challenge is they've got so many disparate systems,
+
+09:15.750 --> 09:19.110
+you know, some are, I would say non-cyber security,
+
+09:19.110 --> 09:22.920
+you know, protectable because they're old
+
+09:22.920 --> 09:24.397
+and no one's even thinking about it.
+
+09:24.397 --> 09:25.530
+<v ->That's true.</v>
+<v ->So they either have</v>
+
+09:25.530 --> 09:26.520
+to throw the system out,
+
+09:26.520 --> 09:30.120
+spend the money to do the X, Y, Z to replace,
+
+09:30.120 --> 09:31.620
+and they're not willing to do that.
+
+09:31.620 --> 09:33.630
+And a lot of the governance, we found,
+
+09:33.630 --> 09:36.210
+is a lot of the governance that goes into the cybersecurity,
+
+09:36.210 --> 09:41.040
+you know, laws, protection, regulations is on a state level,
+
+09:41.040 --> 09:43.800
+every state's different, every locality's different,
+
+09:43.800 --> 09:45.690
+every budget's different.
+
+09:45.690 --> 09:47.760
+And so, you know, a lot of times
+
+09:47.760 --> 09:49.230
+we'll walk into a sheriff's office
+
+09:49.230 --> 09:51.240
+and we'll say, "Cybersecurity."
+
+09:51.240 --> 09:53.340
+And they'll say, "What's that?" You know?
+
+09:53.340 --> 09:54.687
+I mean, unfortunately.
+<v ->That's true.</v>
+
+09:54.687 --> 09:58.560
+<v ->And so we have to educate them, but it's a serious thing.</v>
+
+09:58.560 --> 10:00.270
+And you know, as an example,
+
+10:00.270 --> 10:05.270
+I was in a media headquarters, a large media headquarters,
+
+10:07.050 --> 10:10.590
+and, you know, there's a thousand employees working there
+
+10:10.590 --> 10:12.757
+and they gave me a tour and they said,
+
+10:12.757 --> 10:14.550
+"That's the operation center.
+
+10:14.550 --> 10:16.830
+Only three people are allowed to go in there."
+
+10:16.830 --> 10:18.810
+So, you know, people are locking down.
+
+10:18.810 --> 10:20.710
+It's not just, it's physical security,
+
+10:22.402 --> 10:23.973
+it's other layers of security.
+
+10:25.680 --> 10:30.210
+So I think the challenge is that,
+
+10:30.210 --> 10:32.110
+and I think CISA is doing a great job.
+
+10:33.135 --> 10:35.940
+They had a billion dollar grant program
+
+10:35.940 --> 10:38.373
+and we were at this Q&amp;A.
+
+10:39.240 --> 10:41.850
+And, you know, basically it's just there for them
+
+10:41.850 --> 10:45.270
+to write a cybersecurity plan, not even implement it.
+
+10:45.270 --> 10:47.180
+So we still have a long ways to go.
+
+10:47.180 --> 10:48.422
+<v Veronica>Yeah, right. I'd agree.</v>
+
+10:48.422 --> 10:49.920
+What do you think about that?
+
+10:49.920 --> 10:52.020
+<v ->Yeah, so I'm gonna be a little bit contrarian</v>
+
+10:52.020 --> 10:55.320
+and I'm hoping for a little dialogue this afternoon.
+
+10:55.320 --> 11:00.030
+So I think about the vulnerability in smart cities
+
+11:00.030 --> 11:03.120
+from the perspective of the greatest challenges,
+
+11:03.120 --> 11:04.410
+the people, you know?
+
+11:04.410 --> 11:05.730
+So we're in the people business.
+
+11:05.730 --> 11:07.980
+We're trying to create partnerships
+
+11:07.980 --> 11:11.310
+across government spaces, across industry spaces,
+
+11:11.310 --> 11:14.700
+across nonprofit spaces, across academia,
+
+11:14.700 --> 11:17.400
+'cause we recognize in order to secure
+
+11:17.400 --> 11:19.470
+the nation to improve resilience,
+
+11:19.470 --> 11:22.290
+it takes all of us actually working together.
+
+11:22.290 --> 11:24.540
+So some of the people problem
+
+11:24.540 --> 11:29.140
+relates to a way of thinking about products
+
+11:31.620 --> 11:36.030
+in a former style, which was, if it had that,
+
+11:36.030 --> 11:37.290
+and I don't want to call anyone out,
+
+11:37.290 --> 11:40.500
+but if it had that seal of approval, then it's good.
+
+11:40.500 --> 11:42.630
+So set it and forget it.
+
+11:42.630 --> 11:44.310
+You know, I'm only gonna buy the product
+
+11:44.310 --> 11:47.283
+that has the seal on it so I can set it and forget it.
+
+11:48.120 --> 11:50.610
+And which meant that you never looked at it
+
+11:50.610 --> 11:54.000
+and you never thought that there could be a vulnerability
+
+11:54.000 --> 11:55.560
+discovered last night,
+
+11:55.560 --> 11:58.410
+somebody in the basement somewhere spent up all night
+
+11:58.410 --> 12:02.580
+and they figured out a way to exploit a vulnerability.
+
+12:02.580 --> 12:04.230
+And now that they have that exploit,
+
+12:04.230 --> 12:06.150
+they're gonna use that in order to try
+
+12:06.150 --> 12:10.290
+and compromise your system for some purpose.
+
+12:10.290 --> 12:12.870
+And you might not actually be the target,
+
+12:12.870 --> 12:15.600
+you may be the avenue of approach
+
+12:15.600 --> 12:18.120
+to get to a target that they're trying to get to.
+
+12:18.120 --> 12:21.450
+You know, so the set it and forget it kind of mindset
+
+12:21.450 --> 12:24.330
+is what we really need to overcome.
+
+12:24.330 --> 12:28.050
+You know, how do we create a movement of people
+
+12:28.050 --> 12:30.630
+that are thinking about how do we secure our world?
+
+12:30.630 --> 12:35.460
+You know, how do we think of those basic security principles
+
+12:35.460 --> 12:37.950
+as being a responsibility that all of us,
+
+12:37.950 --> 12:42.360
+even at the individual consumer, should be thinking about.
+
+12:42.360 --> 12:47.160
+And then we should be demanding that from the producers of,
+
+12:47.160 --> 12:50.160
+so as, you know, as we talk about secure by design,
+
+12:50.160 --> 12:53.880
+secure by default, you know, it comes from consumers
+
+12:53.880 --> 12:57.690
+also requiring a higher threshold of security
+
+12:57.690 --> 13:01.140
+in those all internet connected devices
+
+13:01.140 --> 13:03.750
+as they're developed in the future,
+
+13:03.750 --> 13:05.040
+as they're created in the future,
+
+13:05.040 --> 13:06.900
+even applications, you know?
+
+13:06.900 --> 13:08.220
+So it really is a mindset.
+
+13:08.220 --> 13:09.840
+And but I wanna say, you know,
+
+13:09.840 --> 13:12.120
+in some ways it's like a mindset
+
+13:12.120 --> 13:14.647
+that we had before, but we forgot about it.
+
+13:14.647 --> 13:17.940
+<v ->You know, so you buy a horse and you think, yeah,</v>
+
+13:17.940 --> 13:21.840
+this horse is gonna gonna get me from point A to point B.
+
+13:21.840 --> 13:24.930
+You know, but that horse had to be fed every day.
+
+13:24.930 --> 13:27.360
+That horse had to be groomed every day.
+
+13:27.360 --> 13:30.090
+That horse had to be actually taken care of every day.
+
+13:30.090 --> 13:32.130
+We had to do something to make sure
+
+13:32.130 --> 13:35.220
+that that was going to successfully perform the function.
+
+13:35.220 --> 13:37.077
+But somehow we got away from that
+
+13:37.077 --> 13:39.510
+and the idea that, oh yeah, we can buy a product.
+
+13:39.510 --> 13:41.910
+It had that seal so I don't need to do anything.
+
+13:41.910 --> 13:43.440
+I don't even need to think about it
+
+13:43.440 --> 13:46.530
+that that number one doesn't really make sense.
+
+13:46.530 --> 13:50.460
+And today, as we see certainly cyber crime,
+
+13:50.460 --> 13:54.000
+cyber crime for hire as a problem and a challenge,
+
+13:54.000 --> 13:58.440
+that we all need to be more cyber smart
+
+13:58.440 --> 14:00.150
+to ensure cyber safety.
+
+14:00.150 --> 14:01.560
+<v ->Yeah, I really love that,</v>
+
+14:01.560 --> 14:05.100
+'cause I think if we think about it now,
+
+14:05.100 --> 14:08.310
+for me, I always use this example with, to your point
+
+14:08.310 --> 14:10.560
+about when you have a seal of approval on something,
+
+14:10.560 --> 14:12.990
+you do tend to have that set it and forget it mindset.
+
+14:12.990 --> 14:16.050
+So if you have a hair dryer, you know,
+
+14:16.050 --> 14:18.510
+maybe had a little hair dryer this morning,
+
+14:18.510 --> 14:21.360
+or a pot of coffee, you just plug it in
+
+14:21.360 --> 14:25.050
+and you don't check to see if it was certified in testing
+
+14:25.050 --> 14:28.590
+and it's met all the electronic standardization
+
+14:28.590 --> 14:31.080
+that it needs and has been tested appropriately,
+
+14:31.080 --> 14:32.760
+and you're not gonna catch on fire
+
+14:32.760 --> 14:34.260
+or blow the building up, right?
+
+14:34.260 --> 14:37.530
+But I agree when it comes to cybersecurity,
+
+14:37.530 --> 14:39.900
+because it's moving so quickly
+
+14:39.900 --> 14:42.030
+and there are so many devices,
+
+14:42.030 --> 14:44.370
+there are all these different entry points into there.
+
+14:44.370 --> 14:48.270
+So I think we do have to ask people come together.
+
+14:48.270 --> 14:49.620
+What do you think?
+
+14:49.620 --> 14:51.960
+What's your view for how we might make that work?
+
+14:51.960 --> 14:54.180
+I mean, 'cause that's a huge task, right?
+
+14:54.180 --> 14:56.790
+<v ->Yeah, and I definitely would like to hear</v>
+
+14:56.790 --> 14:58.530
+kind of what some of the other thoughts are.
+
+14:58.530 --> 15:02.640
+But, so I've been on a quest for a couple years now
+
+15:02.640 --> 15:05.400
+trying to sort out how do we create a movement.
+
+15:05.400 --> 15:06.750
+So one of the things that the,
+
+15:06.750 --> 15:09.510
+as I've been going around the world
+
+15:09.510 --> 15:10.950
+talking a little bit about,
+
+15:10.950 --> 15:12.330
+certainly emergency communications,
+
+15:12.330 --> 15:16.140
+that's where really my primary focus and expertise is,
+
+15:16.140 --> 15:19.380
+you know, but as we think about communications capabilities,
+
+15:19.380 --> 15:21.270
+you know, it is the same challenges.
+
+15:21.270 --> 15:24.180
+You know, some of the legacy way
+
+15:24.180 --> 15:26.850
+that we moved information by voice,
+
+15:26.850 --> 15:28.830
+you used an analog capability,
+
+15:28.830 --> 15:30.780
+that is going by the wayside.
+
+15:30.780 --> 15:32.670
+And more and more and more
+
+15:32.670 --> 15:36.570
+of that voice communications capability is all IP
+
+15:36.570 --> 15:40.770
+and it's using technologies that are internet connected.
+
+15:40.770 --> 15:42.210
+You know, some are behind firewalls,
+
+15:42.210 --> 15:45.120
+some of them are, you know, have some walled garden,
+
+15:45.120 --> 15:49.020
+but there are still opportunities for remote accessing.
+
+15:49.020 --> 15:51.450
+And I actually had a conversation with someone
+
+15:51.450 --> 15:53.947
+a couple years ago and they were telling me,
+
+15:53.947 --> 15:56.520
+"Oh yeah, no, no, this is closed off."
+
+15:56.520 --> 15:58.620
+And then I watched them reach into their pocket,
+
+15:58.620 --> 16:00.690
+they pulled out their smart device
+
+16:00.690 --> 16:04.080
+and they did something and they put their smart device away.
+
+16:04.080 --> 16:05.970
+And, you know, a few minutes later
+
+16:05.970 --> 16:08.910
+they leaned over and said, "Yeah, I've got this ability,
+
+16:08.910 --> 16:10.920
+I can remotely, you know, tune this thing in up
+
+16:10.920 --> 16:13.020
+and I just got something so I fixed it.
+
+16:13.020 --> 16:15.930
+And so I waited about an hour and then I asked,
+
+16:15.930 --> 16:18.900
+I was like, "Oh, you know, that remote access that you use,
+
+16:18.900 --> 16:22.750
+that's a internet vulnerability that you just opened."
+
+16:22.750 --> 16:23.583
+(all laughing)
+
+16:23.583 --> 16:25.440
+They said, "What?" (chuckles)
+
+16:25.440 --> 16:26.490
+They didn't even realize, you know,
+
+16:26.490 --> 16:28.680
+but it's the idea of how do we, you know,
+
+16:28.680 --> 16:30.330
+as I'm talking to governments around the world,
+
+16:30.330 --> 16:32.040
+all of us have the same challenge
+
+16:32.040 --> 16:34.890
+of moving emergency information to protect citizens.
+
+16:34.890 --> 16:37.500
+We should all be very cognizant of the fact
+
+16:37.500 --> 16:40.830
+that the all interconnected IP environment
+
+16:40.830 --> 16:43.290
+requires all of us to be thinking
+
+16:43.290 --> 16:46.230
+and to be partnering, you know, across our organizations
+
+16:46.230 --> 16:48.420
+with the information security specialists.
+
+16:48.420 --> 16:49.253
+<v Veronica>Yeah.</v>
+
+16:49.253 --> 16:52.650
+<v ->I would say, I know education and awareness is, right?</v>
+
+16:52.650 --> 16:54.750
+And then where does the responsibility fall?
+
+16:54.750 --> 16:58.200
+Is it with the manufacturer or with the user?
+
+16:58.200 --> 17:01.560
+I think that's gonna be become more and more of an issue.
+
+17:01.560 --> 17:02.940
+And I think people are willing to pay for that.
+
+17:02.940 --> 17:05.880
+You know, from a consumer electronics point of view,
+
+17:05.880 --> 17:07.710
+I wanna know that I have a secure system
+
+17:07.710 --> 17:08.730
+and I don't wanna worry about it
+
+17:08.730 --> 17:10.200
+and I'll pay you for that, you know?
+
+17:10.200 --> 17:11.033
+<v Veronica>Right. Yeah.</v>
+
+17:11.033 --> 17:13.230
+<v ->And I think that's a real opportunity</v>
+
+17:13.230 --> 17:16.293
+for a lot of manufacturers to take advantage of that.
+
+17:17.266 --> 17:19.920
+'Cause if anyone's ever been a victim of identity theft
+
+17:19.920 --> 17:22.620
+or any of that kind of stuff, I mean, it's a real pain.
+
+17:22.620 --> 17:24.087
+<v ->Yes. Yes.</v>
+<v ->So, you know,</v>
+
+17:24.087 --> 17:25.650
+and it costs time and money
+
+17:25.650 --> 17:27.810
+and I think people, there's a value to it.
+
+17:27.810 --> 17:29.130
+And if we can avoid that,
+
+17:29.130 --> 17:30.480
+then I think that's gonna be something
+
+17:30.480 --> 17:32.940
+that manufacturers are gonna start promoting
+
+17:32.940 --> 17:34.290
+that their system is closed.
+
+17:34.290 --> 17:36.330
+And there's a few that I come to mind
+
+17:36.330 --> 17:38.350
+that are kind of in that camp
+
+17:39.300 --> 17:41.520
+that have been pretty successful so.
+
+17:41.520 --> 17:42.720
+<v ->Yeah, that's very interesting.</v>
+
+17:42.720 --> 17:44.430
+Especially I do agree,
+
+17:44.430 --> 17:47.670
+I think that there's a good opportunity for manufacturers
+
+17:47.670 --> 17:49.170
+to help educate consumers.
+
+17:49.170 --> 17:50.340
+And I think the more,
+
+17:50.340 --> 17:52.050
+especially me being in the standards business,
+
+17:52.050 --> 17:55.080
+I feel like the more manufacturers that are involved
+
+17:55.080 --> 17:59.550
+in talking about these cybersecurity vulnerabilities
+
+17:59.550 --> 18:01.740
+and how we might be able to work together
+
+18:01.740 --> 18:04.140
+to create awareness without dipping
+
+18:04.140 --> 18:05.760
+into the secret networks, right?
+
+18:05.760 --> 18:07.770
+But if we can work together
+
+18:07.770 --> 18:10.140
+and create standards that help make a stronger system,
+
+18:10.140 --> 18:11.340
+it's definitely a better way.
+
+18:11.340 --> 18:13.650
+Plus we can definitely get that out to the consumers
+
+18:13.650 --> 18:15.780
+that these manufacturers follow these standards.
+
+18:15.780 --> 18:18.102
+So I think that's a very important way.
+
+18:18.102 --> 18:19.230
+<v ->I think it's gonna be a feature.</v>
+
+18:19.230 --> 18:21.437
+It'll become a feature that people are wanna pay for.
+
+18:21.437 --> 18:23.970
+<v ->But at some level too, like all of us though,</v>
+
+18:23.970 --> 18:25.200
+have a responsibility.
+
+18:25.200 --> 18:27.150
+Even at the consumer end,
+
+18:27.150 --> 18:31.350
+all of us have a responsibility to be looking at it daily.
+
+18:31.350 --> 18:34.470
+You know, so for anyone that's got a smart device right now,
+
+18:34.470 --> 18:37.890
+I don't think anyone in the room has any problem
+
+18:37.890 --> 18:40.260
+with the idea of checking, you know, the application store
+
+18:40.260 --> 18:43.590
+and seeing that there's been an update to an application
+
+18:43.590 --> 18:45.423
+for, you know, if you've got, you know,
+
+18:45.423 --> 18:47.790
+it's I wanna call out names here but.
+
+18:47.790 --> 18:51.330
+So if you've got an app for getting a ride somewhere,
+
+18:51.330 --> 18:54.630
+you know, you don't think anything of updating that app,
+
+18:54.630 --> 18:57.120
+you know, 'cause some new features have been, you know?
+
+18:57.120 --> 19:00.030
+But also, some security flaws have been updated, you know?
+
+19:00.030 --> 19:03.180
+So there's a responsibility on the consumer side
+
+19:03.180 --> 19:04.740
+to do something, you know?
+
+19:04.740 --> 19:07.710
+On the application developer side or the manufacturer side,
+
+19:07.710 --> 19:08.640
+they did something,
+
+19:08.640 --> 19:11.340
+but it also requires the consumer to do something.
+
+19:11.340 --> 19:12.930
+And part of that, I believe,
+
+19:12.930 --> 19:15.390
+is consumers also having the mindset,
+
+19:15.390 --> 19:18.450
+I should be demanding good security, right?
+
+19:18.450 --> 19:21.360
+So somebody should be doing something when they find out
+
+19:21.360 --> 19:23.250
+that there's an exploit in the wild,
+
+19:23.250 --> 19:24.990
+doing something to close that
+
+19:24.990 --> 19:27.030
+to make this application more safe for me.
+
+19:27.030 --> 19:28.950
+<v ->Yeah, I agree wholeheartedly.</v>
+
+19:28.950 --> 19:32.100
+So when we're thinking about technical strategic approaches,
+
+19:32.100 --> 19:34.230
+what role do you think emerging technologies
+
+19:34.230 --> 19:36.180
+like AI and blockchain will play
+
+19:36.180 --> 19:38.280
+in securing smart city infrastructures?
+
+19:38.280 --> 19:41.910
+<v ->Wow, the full potential of AI in smart city</v>
+
+19:41.910 --> 19:45.270
+can unleash new capabilities and new things
+
+19:45.270 --> 19:49.440
+from real time detections and predictive analytics.
+
+19:49.440 --> 19:50.460
+It can be everything.
+
+19:50.460 --> 19:53.070
+It can be even helping just detect
+
+19:53.070 --> 19:54.500
+the vulnerabilities we just spoke about
+
+19:54.500 --> 19:58.320
+of IoT product basically, and isolate them from the system
+
+19:58.320 --> 20:00.630
+and basically mitigate the threats.
+
+20:00.630 --> 20:05.630
+But we are all talking about the other side of AI
+
+20:05.760 --> 20:08.280
+and what is happening if we are integrating
+
+20:08.280 --> 20:10.200
+AI full potential in smart cities.
+
+20:10.200 --> 20:14.790
+And I think that when it can introduce great stuff,
+
+20:14.790 --> 20:17.040
+also we need to look about the AI risk
+
+20:17.040 --> 20:20.760
+as an holistic perspective about what we just spoke about,
+
+20:20.760 --> 20:23.280
+about data security, cybersecurity,
+
+20:23.280 --> 20:24.663
+critical infrastructures.
+
+20:25.816 --> 20:28.830
+How we can manage and mitigate all the risks
+
+20:28.830 --> 20:31.800
+that involve through that specific connection
+
+20:31.800 --> 20:35.760
+because of the fragile elements of smart cities,
+
+20:35.760 --> 20:37.298
+which is everything is interconnected.
+
+20:37.298 --> 20:38.131
+<v Veronica>Right. Right.</v>
+
+20:38.131 --> 20:42.060
+<v ->And if we are not looking at as an holistic thing,</v>
+
+20:42.060 --> 20:42.960
+we are missing out.
+
+20:42.960 --> 20:46.260
+And it can be a very hard aftermath
+
+20:46.260 --> 20:48.600
+that we need to think about it from the start.
+
+20:48.600 --> 20:49.473
+<v ->Yeah, for sure.</v>
+
+20:51.000 --> 20:51.900
+What do you think?
+
+20:53.545 --> 20:56.070
+<v ->You know, to managing all, you know, this data,</v>
+
+20:56.070 --> 20:57.600
+we have unbelievable amounts of data.
+
+20:57.600 --> 20:59.385
+We don't know what to do with
+
+20:59.385 --> 21:01.920
+We have no idea this falling on the floor all the time
+
+21:01.920 --> 21:03.750
+and nobody knows what to do with it,
+
+21:03.750 --> 21:06.120
+whether it's coming from a jet engine or whatever.
+
+21:06.120 --> 21:07.950
+And, you know, cybersecurity
+
+21:07.950 --> 21:09.180
+is just gonna be another application
+
+21:09.180 --> 21:11.193
+that goes inside of the AI world.
+
+21:13.050 --> 21:14.070
+So it's gonna be a while,
+
+21:14.070 --> 21:17.793
+but I think definitely that has lots of potential.
+
+21:19.020 --> 21:20.820
+On the blockchain side. I mean, that's gonna be,
+
+21:20.820 --> 21:23.040
+you know, help us a lot with privacy.
+
+21:23.040 --> 21:24.150
+You know, that's gonna be the answer.
+
+21:24.150 --> 21:27.090
+So it's, you know, I think as we have these things
+
+21:27.090 --> 21:28.560
+that really come into up, you know,
+
+21:28.560 --> 21:30.443
+cybersecurity has become more of an issue,
+
+21:31.569 --> 21:33.930
+we've got responses to it, so the technology.
+
+21:33.930 --> 21:34.980
+So that's a good thing.
+
+21:34.980 --> 21:36.930
+<v ->Yeah, and I think to your point about privacy,</v>
+
+21:36.930 --> 21:41.760
+I feel like most concerns tend to be based around privacy.
+
+21:41.760 --> 21:44.550
+When you talk to consumers, it's not, you know,
+
+21:44.550 --> 21:47.550
+not so much their understanding of the,
+
+21:47.550 --> 21:51.000
+about their data is going to be out there so.
+
+21:51.000 --> 21:51.970
+<v ->I just wanna get in my app.</v>
+
+21:51.970 --> 21:53.550
+I've been working on three weeks to get in this app
+
+21:53.550 --> 21:55.710
+and you can help me, please help me,
+
+21:55.710 --> 21:57.790
+because it's so, you know what I mean.
+
+21:58.670 --> 22:03.450
+<v ->Yeah, for sure. What do you think about the power of AI</v>
+
+22:03.450 --> 22:05.070
+and the future potential there?
+
+22:05.070 --> 22:09.210
+<v ->Yeah, I'm super excited about emerging technology</v>
+
+22:09.210 --> 22:13.590
+and the ability to help citizens to bring safety
+
+22:13.590 --> 22:16.897
+and responders to support citizens in everyday life, right?
+
+22:16.897 --> 22:19.650
+You know, so Matt mentioned a little bit earlier
+
+22:19.650 --> 22:22.110
+about the idea of, you know, a disaster happens
+
+22:22.110 --> 22:24.390
+and we sort out how to help people.
+
+22:24.390 --> 22:26.460
+I'm from Washington, DC,
+
+22:26.460 --> 22:28.230
+we got like three inches of snow on the ground,
+
+22:28.230 --> 22:29.850
+that's a disaster for us.
+
+22:29.850 --> 22:30.750
+<v ->Yeah, it's a disaster.</v>
+<v ->Yeah, you know,</v>
+
+22:30.750 --> 22:32.850
+so they're going through that right now,
+
+22:32.850 --> 22:34.110
+trying to sort that out.
+
+22:34.110 --> 22:35.970
+But, you know, in the everyday situation,
+
+22:35.970 --> 22:38.070
+you know, we have people that are in trouble.
+
+22:38.070 --> 22:39.930
+Something happens, they need help.
+
+22:39.930 --> 22:44.460
+They need to do a request for assistance using 911,
+
+22:44.460 --> 22:46.920
+you know, next generation of 911 is coming out,
+
+22:46.920 --> 22:50.910
+which will in only increase the IP connectedness
+
+22:50.910 --> 22:55.910
+of those call, those public safety answering points
+
+22:56.010 --> 22:58.890
+and the ability to do distributed calls
+
+22:58.890 --> 23:02.280
+and some sort of collective support
+
+23:02.280 --> 23:04.830
+across regional environments.
+
+23:04.830 --> 23:07.200
+But it also brings a cybersecurity concern.
+
+23:07.200 --> 23:10.980
+But as we were talking a little bit before the panel today,
+
+23:10.980 --> 23:12.720
+you know, the thing I think about all the time
+
+23:12.720 --> 23:15.270
+is the large scale challenge at scale.
+
+23:15.270 --> 23:17.640
+You know, so I think about an earthquake.
+
+23:17.640 --> 23:18.960
+In the center of the country,
+
+23:18.960 --> 23:21.630
+there's a fault line called New Madrid.
+
+23:21.630 --> 23:26.630
+The New Madrid earthquake is prime for 100 year challenge,
+
+23:28.920 --> 23:30.780
+and there's gonna be tens of millions of people
+
+23:30.780 --> 23:32.130
+impacted by that.
+
+23:32.130 --> 23:35.160
+Artificial intelligence gives us the opportunity
+
+23:35.160 --> 23:38.280
+to try at scale to understand where people are
+
+23:38.280 --> 23:40.410
+in order to better manage the ability
+
+23:40.410 --> 23:43.740
+to get responders to help those citizens
+
+23:43.740 --> 23:45.960
+as those responder organizations are marshaled.
+
+23:45.960 --> 23:48.630
+You know, so and in terms of blockchain, you know,
+
+23:48.630 --> 23:51.060
+I'm super excited personally about blockchain.
+
+23:51.060 --> 23:54.810
+I just think that there's unlimited potential
+
+23:54.810 --> 23:57.150
+that has not really been thought about,
+
+23:57.150 --> 24:00.000
+about how we can actually validate.
+
+24:00.000 --> 24:02.280
+And that's where I see blockchain helping out,
+
+24:02.280 --> 24:07.280
+validate, you know, who is trying to send information.
+
+24:07.656 --> 24:09.510
+You know, so I'm super excited.
+
+24:09.510 --> 24:10.710
+<v ->I'm really excited about too.</v>
+
+24:10.710 --> 24:14.098
+It's kind of great to have fellow tech nerdy up here.
+
+24:14.098 --> 24:17.100
+(laughs) So I think that we've gotten a little bit
+
+24:17.100 --> 24:20.013
+into future focus.
+
+24:20.940 --> 24:22.440
+What do you think about when we're thinking
+
+24:22.440 --> 24:24.750
+about more of these advanced technologies,
+
+24:24.750 --> 24:27.390
+ow should our cybersecurity strategies evolve
+
+24:27.390 --> 24:28.890
+to address new threats?
+
+24:28.890 --> 24:30.810
+And that's always, that's the big question, right?
+
+24:30.810 --> 24:33.060
+Like how do we stay ahead of the new threats?
+
+24:35.250 --> 24:37.350
+<v ->Yeah, so I'll just sort of jump right in</v>
+
+24:37.350 --> 24:41.160
+and, you know, at some level it cannot only be government
+
+24:41.160 --> 24:42.950
+that's trying to figure that out, you know?
+
+24:42.950 --> 24:46.470
+So and again, as it is a mantra of our organization
+
+24:46.470 --> 24:48.240
+that we are partnering, you know,
+
+24:48.240 --> 24:49.890
+we want everybody to come to the table.
+
+24:49.890 --> 24:52.920
+You know, industry has gotta be a part of the equation.
+
+24:52.920 --> 24:55.320
+Nonprofits have gotta be a part of the equation.
+
+24:55.320 --> 24:57.600
+Academia has gotta be a part of the equation.
+
+24:57.600 --> 25:01.410
+You know, we believe cybersecurity really has no borders.
+
+25:01.410 --> 25:03.450
+You know, someone from across the world
+
+25:03.450 --> 25:06.930
+could be making a cyber intrusion into a device.
+
+25:06.930 --> 25:09.900
+And, you know, therefore every good government on the planet
+
+25:09.900 --> 25:12.510
+should be working together to try to figure out
+
+25:12.510 --> 25:15.480
+how are we creating a cybersecurity framework
+
+25:15.480 --> 25:18.720
+that allows all of us to secure information
+
+25:18.720 --> 25:21.960
+so that it can perform the actual work
+
+25:21.960 --> 25:23.640
+that it's intended to perform
+
+25:23.640 --> 25:25.800
+in that application or the device.
+
+25:25.800 --> 25:26.880
+You know, but it takes all of us
+
+25:26.880 --> 25:30.270
+bringing ideas to the table to actually create a solution
+
+25:30.270 --> 25:34.290
+even as the emerging technology comes into play.
+
+25:34.290 --> 25:36.840
+So like I'm a huge proponent for Quantum.
+
+25:36.840 --> 25:38.460
+You know, I've been talking to my team
+
+25:38.460 --> 25:40.350
+and, you know, nobody agrees with me.
+
+25:40.350 --> 25:42.187
+So if everybody in the room wants to say,
+
+25:42.187 --> 25:44.730
+"I don't agree with you either," join the club.
+
+25:44.730 --> 25:45.870
+Nobody agrees with me.
+
+25:45.870 --> 25:49.500
+But I believe Quantum is going to radically transform
+
+25:49.500 --> 25:51.413
+the way we move information in the future.
+
+25:51.413 --> 25:52.724
+<v Veronica>Yeah, I agree.</v>
+
+25:52.724 --> 25:53.557
+I agree with you.
+<v ->Can I also?</v>
+
+25:53.557 --> 25:54.480
+<v ->Go ahead.</v>
+<v ->I would add</v>
+
+25:54.480 --> 25:57.060
+from the innovator perspective,
+
+25:57.060 --> 25:58.290
+I totally agree with you.
+
+25:58.290 --> 26:02.160
+And also info sharing, information sharing is so critical
+
+26:02.160 --> 26:03.990
+to help not only the regulator,
+
+26:03.990 --> 26:06.663
+but also to have some kind of a resilient framework
+
+26:06.663 --> 26:09.240
+that is updating constantly, right?
+
+26:09.240 --> 26:11.490
+As we are very pushing on updating apps,
+
+26:11.490 --> 26:14.130
+we need to update frameworks of cybersecurity
+
+26:14.130 --> 26:17.010
+and understanding that cybersecurity is a great pillar
+
+26:17.010 --> 26:19.890
+of the security of smart cities, for example.
+
+26:19.890 --> 26:21.330
+But how we make it update?
+
+26:21.330 --> 26:23.880
+By talking with the people on the ground,
+
+26:23.880 --> 26:25.530
+by talking to researchers,
+
+26:25.530 --> 26:28.140
+by seeing which kind of vulnerabilities and threats.
+
+26:28.140 --> 26:31.650
+For example, the clients of the kinds that work with us
+
+26:31.650 --> 26:33.930
+have so many information and white papers
+
+26:33.930 --> 26:35.850
+about things that they see.
+
+26:35.850 --> 26:37.950
+And this information is critical
+
+26:37.950 --> 26:41.040
+not only just to map what's going to be the next threat,
+
+26:41.040 --> 26:43.410
+but also like which kind of solution,
+
+26:43.410 --> 26:46.260
+technical solution we can bring to the table.
+
+26:46.260 --> 26:50.130
+And basically, yeah, help raising this resilient aspect.
+
+26:50.130 --> 26:51.990
+<v ->Yeah, and that's a lot of data.</v>
+
+26:51.990 --> 26:53.820
+And to your point, we don't want it to fall on the floor,
+
+26:53.820 --> 26:55.950
+maybe as a good opportunity for AI
+
+26:55.950 --> 26:57.360
+to train against all that data
+
+26:57.360 --> 26:59.433
+and share that in a secure way of course.
+
+26:59.433 --> 27:01.020
+<v ->In quantum we'll just..</v>
+<v ->In quantum.</v>
+
+27:01.020 --> 27:01.853
+Right. Exactly.
+<v ->Just sweep.</v>
+
+27:01.853 --> 27:02.686
+<v ->There you-</v>
+<v ->It just takes out</v>
+
+27:02.686 --> 27:03.519
+a whole layer.
+<v ->You got more believers.</v>
+
+27:03.519 --> 27:04.507
+<v ->It just takes out a whole layer.</v>
+
+27:04.507 --> 27:06.845
+It just takes out a whole layer processing that,
+
+27:06.845 --> 27:09.450
+you know, is going to exponentially
+
+27:09.450 --> 27:10.800
+provide more solutions so.
+
+27:10.800 --> 27:12.390
+<v ->Yeah, that's excellent.</v>
+
+27:12.390 --> 27:15.840
+So I think maybe going back to disaster management,
+
+27:15.840 --> 27:17.730
+thinking about the snowstorm (laughs)
+
+27:17.730 --> 27:19.200
+and being very happy to be here
+
+27:19.200 --> 27:21.750
+and not shoveling snow back in DC,
+
+27:21.750 --> 27:24.540
+how do you think we can, in smart cities, I mean,
+
+27:24.540 --> 27:26.730
+leverage some of that technology we talked about
+
+27:26.730 --> 27:31.230
+for certainly improving first response in 911,
+
+27:31.230 --> 27:33.240
+but how can we work on that overall
+
+27:33.240 --> 27:35.130
+with disaster management strategies?
+
+27:35.130 --> 27:37.290
+You spoke about the potential for the earthquake,
+
+27:37.290 --> 27:39.210
+and I think back to when we had
+
+27:39.210 --> 27:42.570
+a very tiny earthquake in the DC area,
+
+27:42.570 --> 27:44.490
+but you would've thought it was the largest
+
+27:44.490 --> 27:45.990
+like we were in California or something,
+
+27:45.990 --> 27:47.460
+but it was very tiny.
+
+27:47.460 --> 27:50.040
+Having grown up in California was hardly worth mentioning.
+
+27:50.040 --> 27:51.210
+But it's still important
+
+27:51.210 --> 27:54.090
+to have disaster resilience strategies
+
+27:54.090 --> 27:55.500
+to address all of that.
+
+27:55.500 --> 27:59.490
+What are your thoughts on what smart cities could be doing?
+
+27:59.490 --> 28:02.040
+<v ->Well, I mean, they have to protect their networks,</v>
+
+28:02.040 --> 28:04.830
+first of all, so that they can operate.
+
+28:04.830 --> 28:09.830
+And then on the edge, like, you know, I was going to this,
+
+28:10.950 --> 28:14.073
+where is my, there's only two ways to alert people.
+
+28:15.270 --> 28:17.250
+I lost my phone.
+(Michelle and Veronica laughs)
+
+28:17.250 --> 28:18.300
+There's two ways to alert people.
+
+28:18.300 --> 28:19.530
+One is the cell phone
+
+28:19.530 --> 28:23.160
+and the other is another device that we make actually.
+
+28:23.160 --> 28:23.993
+<v Veronica>Oh, there you go.</v>
+
+28:23.993 --> 28:25.440
+<v ->And this is the device</v>
+
+28:25.440 --> 28:29.940
+that actually is a geo-targeted device
+
+28:29.940 --> 28:33.000
+that will receive earthquake alerts, weather alerts,
+
+28:33.000 --> 28:36.810
+and it's works even when the internet and the power fail
+
+28:36.810 --> 28:38.700
+'cause it has a battery in it,
+
+28:38.700 --> 28:39.810
+and the cell network fails
+
+28:39.810 --> 28:42.420
+because it's on a totally independent network.
+
+28:42.420 --> 28:45.540
+<v ->So the thing that people underestimate</v>
+
+28:45.540 --> 28:50.400
+is how quickly we can lose all of our communication tools
+
+28:50.400 --> 28:52.980
+and people are then basically stuck
+
+28:52.980 --> 28:55.443
+and that's where people get upset.
+
+28:56.670 --> 28:59.160
+So that's the gap that we're filling.
+
+28:59.160 --> 29:01.170
+And it goes back to analog.
+
+29:01.170 --> 29:02.670
+I mean at the end of the day, I mean,
+
+29:02.670 --> 29:04.290
+I don't care what kind of AI you got
+
+29:04.290 --> 29:08.580
+or, you know, how big your television is or whatever.
+
+29:08.580 --> 29:12.000
+It's that FM, it's a radio infrastructure
+
+29:12.000 --> 29:13.710
+that's gonna save lives
+
+29:13.710 --> 29:15.760
+in those disasters that you talked about.
+
+29:16.620 --> 29:18.990
+Cell is great until we get to that point,
+
+29:18.990 --> 29:20.880
+but those networks are not built.
+
+29:20.880 --> 29:22.290
+A lot of this stuff is not built
+
+29:22.290 --> 29:24.630
+because we didn't think about all of this
+
+29:24.630 --> 29:27.630
+for all these other disasters and cybersecurity
+
+29:27.630 --> 29:29.760
+and all this things, pop, came up.
+
+29:29.760 --> 29:32.460
+So, you know, we have all the infrastructure now.
+
+29:32.460 --> 29:34.200
+It's just educating people.
+
+29:34.200 --> 29:36.840
+The way that disaster management works though in the US
+
+29:36.840 --> 29:38.220
+is that each state decides
+
+29:38.220 --> 29:40.380
+how they wanna manage their disasters.
+
+29:40.380 --> 29:42.900
+So you're basically dealing with 50 plus countries,
+
+29:42.900 --> 29:44.550
+you know, in essence.
+<v ->Yes.</v>
+
+29:44.550 --> 29:46.440
+<v ->So trying to get them all to agree,</v>
+
+29:46.440 --> 29:49.800
+I mean, forget about the international space.
+
+29:49.800 --> 29:51.090
+And everyone's got a different idea.
+
+29:51.090 --> 29:52.500
+Everyone's got a different experience.
+
+29:52.500 --> 29:53.760
+Some come from law enforcement,
+
+29:53.760 --> 29:55.980
+some come from fire, it's all different.
+
+29:55.980 --> 29:58.140
+So that's the challenge is bringing all of those together
+
+29:58.140 --> 30:01.950
+and then educating them so that they can protect their,
+
+30:01.950 --> 30:03.648
+you know, protect their citizens.
+
+30:03.648 --> 30:05.500
+<v Veronica>Yeah, I agree.</v>
+
+30:05.500 --> 30:07.830
+<v ->And I believe, as you were saying,</v>
+
+30:07.830 --> 30:09.810
+the idea of, you know, educating
+
+30:09.810 --> 30:12.960
+even those that may have differing perspectives, right?
+
+30:12.960 --> 30:16.770
+You know, state of California, state of Missouri,
+
+30:16.770 --> 30:18.960
+they think differently, they have a different population,
+
+30:18.960 --> 30:20.880
+they have different geography.
+
+30:20.880 --> 30:24.900
+You know, certainly in terms of scale and size,
+
+30:24.900 --> 30:28.050
+the opportunity in their tax base to do things
+
+30:28.050 --> 30:29.102
+are different.
+
+30:29.102 --> 30:31.680
+You know, so they think about how they're gonna manage
+
+30:31.680 --> 30:34.770
+to the resources that they have differently.
+
+30:34.770 --> 30:37.290
+And, you know, I believe that's totally okay.
+
+30:37.290 --> 30:38.640
+There's no problem with that.
+
+30:38.640 --> 30:40.860
+And, you know, but there should be some way
+
+30:40.860 --> 30:45.240
+that we think about saving the life of a citizen
+
+30:45.240 --> 30:47.010
+as being universal, right?
+
+30:47.010 --> 30:49.170
+So it doesn't matter what state you're from,
+
+30:49.170 --> 30:50.853
+it doesn't matter what country you're from, you know,
+
+30:50.853 --> 30:54.540
+that we all think about saving of a life
+
+30:54.540 --> 30:55.950
+from the same perspective.
+
+30:55.950 --> 30:58.830
+And I think smart cities are going to help with that
+
+30:58.830 --> 31:01.890
+because we're bringing more and more and more connectivity.
+
+31:01.890 --> 31:03.870
+And, you know, in the standards arena, you know,
+
+31:03.870 --> 31:05.310
+there's something they were talking about pro,
+
+31:05.310 --> 31:09.360
+say, side link, you know, way for mesh to make mesh.
+
+31:09.360 --> 31:12.600
+Really capable, even for those cellular devices
+
+31:12.600 --> 31:14.400
+to be able to move signals one device
+
+31:14.400 --> 31:16.830
+to another device in order to move,
+
+31:16.830 --> 31:19.440
+whether it's request for assistance information
+
+31:19.440 --> 31:21.390
+or alerting information.
+
+31:21.390 --> 31:22.920
+You know, I think that technology
+
+31:22.920 --> 31:25.320
+is moving farther forward that that'll help us
+
+31:25.320 --> 31:26.880
+with that disaster management thing.
+
+31:26.880 --> 31:29.430
+<v ->And what that infers is a federal solution,</v>
+
+31:29.430 --> 31:31.039
+which we all are afraid of.
+
+31:31.039 --> 31:32.070
+(Veronica laughs)
+
+31:32.070 --> 31:32.903
+<v ->I'm not afraid of it.</v>
+
+31:32.903 --> 31:34.560
+I love federal solutions.
+
+31:34.560 --> 31:36.853
+<v ->That's Billy Bob. (laughs)</v>
+
+31:37.710 --> 31:39.420
+But maybe even cybersecurity,
+
+31:39.420 --> 31:41.430
+'cause it is a national threat.
+
+31:41.430 --> 31:43.240
+So I'm not suggest, I'm just-
+<v ->Absolutely.</v>
+
+31:43.240 --> 31:45.510
+<v ->We've been dealing a lot with these different states</v>
+
+31:45.510 --> 31:48.090
+and it's very, very complicated.
+
+31:48.090 --> 31:49.320
+They all have different priorities,
+
+31:49.320 --> 31:51.150
+as you mentioned financially, you know,
+
+31:51.150 --> 31:53.250
+and they get different budgets.
+
+31:53.250 --> 31:55.500
+You're not gonna get there unless it comes from the top down
+
+31:55.500 --> 31:56.550
+and meet somewhere in the middle.
+
+31:56.550 --> 31:58.560
+So that's just my opinion, personal opinion.
+
+31:58.560 --> 31:59.393
+<v ->Right, right.</v>
+
+31:59.393 --> 32:00.226
+<v ->Unfortunately.
+And certainly when you start</v>
+
+32:00.226 --> 32:01.059
+thinking about like-
+<v ->Unfortunately.</v>
+
+32:01.059 --> 32:03.850
+<v ->The critical areas, right, like power.</v>
+
+32:03.850 --> 32:05.760
+<v ->Yeah, power, right.</v>
+<v ->Power. (laughs)</v>
+
+32:05.760 --> 32:08.070
+Communications, the big ones, yeah.
+
+32:08.070 --> 32:12.330
+Well, we're getting down to, gosh, that panel went so fast.
+
+32:12.330 --> 32:13.650
+Because we have about eight minutes left,
+
+32:13.650 --> 32:16.380
+I wanna make sure if anyone has questions in the audience,
+
+32:16.380 --> 32:18.390
+we have time to answer them.
+
+32:18.390 --> 32:19.620
+But if you don't have any questions,
+
+32:19.620 --> 32:21.270
+I'll come up with some of my own.
+
+32:23.790 --> 32:25.440
+<v Participant>I've been in the embedded space a long time.</v>
+
+32:25.440 --> 32:27.690
+I've worked for a very large manufacturer
+
+32:27.690 --> 32:31.860
+that did an IoT SOC.
+
+32:31.860 --> 32:36.150
+And what I found in that situation
+
+32:36.150 --> 32:40.495
+was people weren't paying for security.
+
+32:40.495 --> 32:43.440
+And so when you get to the actual consumer,
+
+32:43.440 --> 32:44.970
+I understand everything you said,
+
+32:44.970 --> 32:46.650
+and I personally believe everything you said,
+
+32:46.650 --> 32:48.960
+but I think we all have propellers in our head
+
+32:48.960 --> 32:50.640
+or secure propellers in our head.
+
+32:50.640 --> 32:52.290
+But when it gets to the consumer,
+
+32:52.290 --> 32:54.330
+people buy the cheapest thing.
+
+32:54.330 --> 32:59.330
+And we found in that company that the cost would've been $20
+
+32:59.430 --> 33:02.160
+and the vendors wouldn't accept that.
+
+33:02.160 --> 33:04.560
+We lowered it down to a dollar
+
+33:04.560 --> 33:06.660
+and the vendors would not accept that.
+
+33:06.660 --> 33:09.420
+So when I hear you say, you know,
+
+33:09.420 --> 33:10.560
+convince the manufacturers,
+
+33:10.560 --> 33:13.590
+I think the manufacturers are convinced.
+
+33:13.590 --> 33:17.610
+So no manufacturer wants to know that it was, you know,
+
+33:17.610 --> 33:22.260
+ACME, whatever, IoT device that caused this break.
+
+33:22.260 --> 33:24.240
+You know it's a huge problem.
+
+33:24.240 --> 33:26.760
+So I think the challenge for us,
+
+33:26.760 --> 33:29.070
+and I'm kind of throwing that out,
+
+33:29.070 --> 33:34.070
+how do we get people to accept security?
+
+33:34.140 --> 33:36.990
+You know, and Michael, something you said at the end,
+
+33:36.990 --> 33:38.813
+maybe it has to be top down, right,
+
+33:38.813 --> 33:42.270
+'cause otherwise it's, you know, it's the cheapest part
+
+33:42.270 --> 33:43.553
+that I buy, that the consumer buy, throw that out.
+
+33:45.660 --> 33:47.100
+<v ->Well, I mean, you start with standards.</v>
+
+33:47.100 --> 33:49.650
+You try to be nice, do it the the nice way,
+
+33:49.650 --> 33:52.650
+get people to adopt it and implement it.
+
+33:52.650 --> 33:54.900
+And if that doesn't work, then you have to go to,
+
+33:54.900 --> 33:56.040
+you know, keep escalating.
+
+33:56.040 --> 34:01.040
+So it just, there's a, I mean there's a huge liability here
+
+34:02.400 --> 34:04.773
+that nobody really talks about that, you know,
+
+34:05.940 --> 34:08.190
+that could sink a business if they don't play,
+
+34:08.190 --> 34:11.040
+you know, take care of it so.
+
+34:11.040 --> 34:12.150
+Right, sink a city too.
+
+34:12.150 --> 34:13.530
+Right, exactly.
+
+34:13.530 --> 34:16.260
+<v ->Yeah, so in kind of our secure fault,</v>
+
+34:16.260 --> 34:18.840
+secure by design conversation, you know,
+
+34:18.840 --> 34:22.320
+we expressed the idea that corporate boards,
+
+34:22.320 --> 34:23.610
+you know, so on the manufacturer,
+
+34:23.610 --> 34:26.220
+on the developer side, have some responsibility.
+
+34:26.220 --> 34:28.470
+All of the risks shouldn't be translated
+
+34:28.470 --> 34:30.180
+right directly to the consumer.
+
+34:30.180 --> 34:32.370
+You know, there should be some on that side.
+
+34:32.370 --> 34:34.890
+But I equate that same thought process, you know,
+
+34:34.890 --> 34:38.640
+to how we think about partnering, you know, all of us.
+
+34:38.640 --> 34:41.550
+So if we just talk about the United States, you know,
+
+34:41.550 --> 34:44.550
+we have, you know, so now I'm gonna go off script,
+
+34:44.550 --> 34:46.827
+hopefully somebody's not recording this, you know,
+
+34:46.827 --> 34:49.410
+but so I'm gonna go off script for just a second.
+
+34:49.410 --> 34:51.300
+We have something like $23 trillion
+
+34:51.300 --> 34:54.270
+running through our gross domestic product, you know?
+
+34:54.270 --> 34:59.270
+So in my opinion, you can't tell me that we can't figure out
+
+35:00.030 --> 35:04.320
+a creative way to inside of $23 trillion
+
+35:04.320 --> 35:07.380
+sort out how we can improve security.
+
+35:07.380 --> 35:09.570
+You know, so at some level, you know,
+
+35:09.570 --> 35:11.640
+what Matt sort of mentioned the idea of, you know,
+
+35:11.640 --> 35:14.100
+maybe the consumer side picks it up, you know,
+
+35:14.100 --> 35:18.090
+is there maybe an idea that at some level,
+
+35:18.090 --> 35:22.320
+maybe there's some insurance that could be reduced?
+
+35:22.320 --> 35:23.153
+On some level,
+
+35:23.153 --> 35:26.070
+ts there some tax relief that could be introduced?
+
+35:26.070 --> 35:30.360
+You know, is there some way to create that ability
+
+35:30.360 --> 35:33.690
+to ensure that security is baked in
+
+35:33.690 --> 35:36.270
+and it's looked at each and every day?
+
+35:36.270 --> 35:38.190
+You know, by thinking more creatively
+
+35:38.190 --> 35:40.530
+about, you know, the entire GDP
+
+35:40.530 --> 35:44.730
+and how that could be utilized to bring us to a common place
+
+35:44.730 --> 35:46.620
+where we all recognize and believe that,
+
+35:46.620 --> 35:50.970
+hey, it takes all of us to improve resilience and security
+
+35:50.970 --> 35:52.470
+across the entire nation.
+
+35:52.470 --> 35:54.540
+It should take all of the GDP
+
+35:54.540 --> 35:57.870
+as we think about how can we get to that solution
+
+35:57.870 --> 36:01.320
+that makes it more cyber safe for all of us.
+
+36:01.320 --> 36:02.550
+<v ->Yeah, I think you're right on point</v>
+
+36:02.550 --> 36:06.030
+when it comes to things like perhaps tax incentives
+
+36:06.030 --> 36:09.180
+or, you know, or insurance incentives.
+
+36:09.180 --> 36:12.540
+So those sort of the key ways to help manufacturers
+
+36:12.540 --> 36:14.700
+that are saying, we've got a product
+
+36:14.700 --> 36:17.370
+and we've already gotten the price as low as we can
+
+36:17.370 --> 36:20.790
+and it's still, we don't wanna be the ACME, you know,
+
+36:20.790 --> 36:23.460
+IOT device that takes down the US, right?
+
+36:23.460 --> 36:24.540
+No one wants that.
+
+36:24.540 --> 36:27.630
+But I do think that, to your point,
+
+36:27.630 --> 36:28.797
+we certainly have a large GDP
+
+36:28.797 --> 36:30.420
+and we should be able to figure that out.
+
+36:30.420 --> 36:31.470
+<v ->I think it's shortsighted</v>
+
+36:31.470 --> 36:36.470
+because, you know, a current incident cost
+
+36:36.660 --> 36:39.870
+100 billion dollars in market cap for one company.
+
+36:39.870 --> 36:44.610
+And I was a shareholder, so I know that 100 billion's gonna,
+
+36:44.610 --> 36:47.373
+I mean that's like real, real money.
+
+36:48.210 --> 36:51.660
+So I think there's gonna be more of that,
+
+36:51.660 --> 36:53.850
+you know, as these attack, as these different,
+
+36:53.850 --> 36:57.630
+you know, threats come into play so.
+
+36:57.630 --> 37:01.170
+<v ->Just to add, I think that it's the biggest question</v>
+
+37:01.170 --> 37:03.570
+of the young generation.
+
+37:03.570 --> 37:05.670
+I think that the young generation that was born
+
+37:05.670 --> 37:10.670
+to this interconnected world cannot be just like, you know,
+
+37:11.280 --> 37:14.190
+they don't have any knowledge about cybersecurity.
+
+37:14.190 --> 37:17.100
+It's not like when I was born, we didn't have computers.
+
+37:17.100 --> 37:17.933
+That's great.
+
+37:17.933 --> 37:19.410
+But now, like what?
+
+37:19.410 --> 37:23.640
+So I think this is the role of the next educational systems.
+
+37:23.640 --> 37:27.060
+And I think that the FCC is involved in that.
+
+37:27.060 --> 37:28.827
+And also, they're trying not to figure out
+
+37:28.827 --> 37:31.410
+how to make the, for example, the IoT Trust Mark
+
+37:31.410 --> 37:35.010
+more friendly for consumers to make them more incentivized,
+
+37:35.010 --> 37:38.217
+trying to convince my mom why she need to pay more, right?
+
+37:38.217 --> 37:39.840
+But this is the old generation.
+
+37:39.840 --> 37:42.780
+What about the new TikTok generation, right?
+
+37:42.780 --> 37:44.820
+It means something, this currency of data,
+
+37:44.820 --> 37:47.280
+it means something that, as we talked about before,
+
+37:47.280 --> 37:50.340
+we understand it because we are from it.
+
+37:50.340 --> 37:53.040
+But how I make sure that the next generation
+
+37:53.040 --> 37:54.000
+willing to pay for it
+
+37:54.000 --> 37:55.917
+because the understanding significant of that.
+
+37:55.917 --> 37:58.830
+And I think this is the biggest question
+
+37:58.830 --> 38:03.830
+that we need to touch it, like we need to find a solution.
+
+38:04.320 --> 38:06.330
+<v ->Yeah, I think, there one more question?</v>
+
+38:06.330 --> 38:07.163
+Yeah?
+<v ->Yeah.</v>
+
+38:07.163 --> 38:10.590
+So really loving that, you know,
+
+38:10.590 --> 38:13.350
+fantastic point for you Michelle.
+
+38:13.350 --> 38:16.740
+Perhaps a question to the audience, to the panelists,
+
+38:16.740 --> 38:18.630
+building on that, and we love your perspective
+
+38:18.630 --> 38:20.013
+as well on this, Michelle,
+
+38:21.000 --> 38:23.310
+we talked about perhaps consumer salience,
+
+38:23.310 --> 38:24.390
+consumer awareness.
+
+38:24.390 --> 38:26.250
+Great, we're working at maybe not enough,
+
+38:26.250 --> 38:28.960
+but what we have seen is fellow procurement
+
+38:29.820 --> 38:31.590
+and we've seen fellow procurement
+
+38:31.590 --> 38:33.870
+potentially prioritizing the trust mark, right?
+
+38:33.870 --> 38:36.690
+There's been some reporting on that coming in soon.
+
+38:36.690 --> 38:39.210
+We've seen fellow procurement prioritizing security
+
+38:39.210 --> 38:40.080
+based on measures.
+
+38:40.080 --> 38:42.990
+That's the IoT Cybersecurity Improvement Act.
+
+38:42.990 --> 38:45.870
+I heard from you maybe the states
+
+38:45.870 --> 38:48.450
+and cities can take that approach.
+
+38:48.450 --> 38:51.240
+So we'd love to hear more all, you know,
+
+38:51.240 --> 38:53.520
+audio your perspective on this.
+
+38:53.520 --> 38:56.190
+Should we have state and local officials
+
+38:56.190 --> 38:58.440
+using their procurement authority, right,
+
+38:58.440 --> 39:01.440
+to incentivize those manufacturers of IoT
+
+39:01.440 --> 39:03.750
+who are putting the secure by design culture in.
+
+39:03.750 --> 39:05.503
+What do you think?
+
+39:05.503 --> 39:08.280
+<v ->I think it's important, significant, obviously,</v>
+
+39:08.280 --> 39:12.000
+and also this is exactly the point,
+
+39:12.000 --> 39:14.513
+If it'll make smart cities smart enough on cybersecurity
+
+39:14.513 --> 39:16.590
+or not, because we can all agree it depends
+
+39:16.590 --> 39:18.060
+on which state local it'll be
+
+39:18.060 --> 39:20.670
+and who will be deleting authority, right,
+
+39:20.670 --> 39:23.070
+and which who, what you will incentivize.
+
+39:23.070 --> 39:25.470
+and if cybersecurity even will be something
+
+39:25.470 --> 39:26.340
+that you think about
+
+39:26.340 --> 39:28.340
+when you're thinking about smart cities.
+
+39:29.190 --> 39:30.750
+So exactly to your point.
+
+39:30.750 --> 39:32.520
+And I think that this gap
+
+39:32.520 --> 39:34.170
+that we see not only in smart cities
+
+39:34.170 --> 39:37.980
+but in so many different elements of security
+
+39:37.980 --> 39:40.920
+or national security, we need to mitigate the gap
+
+39:40.920 --> 39:44.640
+between the federal and the federal perspective
+
+39:44.640 --> 39:46.350
+and the local government.
+
+39:46.350 --> 39:48.600
+And we need to see how we can make sure
+
+39:48.600 --> 39:50.310
+that the same security baseline,
+
+39:50.310 --> 39:53.430
+exactly the point that we just talked about,
+
+39:53.430 --> 39:56.820
+how there is a threshold that is we can make sure
+
+39:56.820 --> 39:59.940
+that the foundation is equal to every state,
+
+39:59.940 --> 40:03.480
+<v Veronica>Right, and that's definitely a challenge,</v>
+
+40:03.480 --> 40:06.870
+I'd say, in some of my time working with the states.
+
+40:06.870 --> 40:07.860
+And we have 30 seconds,
+
+40:07.860 --> 40:09.510
+so make that a quick question for me.
+
+40:09.510 --> 40:11.790
+<v Participant>Yeah, you talked a lot about cyber attacks,</v>
+
+40:11.790 --> 40:14.340
+how to protect the critical infrastructure.
+
+40:14.340 --> 40:16.860
+So when we had some windstorms to Texas,
+
+40:16.860 --> 40:20.370
+cable was cut.
+
+40:20.370 --> 40:22.677
+<v ->Yeah, yeah, no that's 100% right.</v>
+
+40:22.677 --> 40:26.070
+And as we think about cyber security,
+
+40:26.070 --> 40:28.260
+we think about the actual nexus
+
+40:28.260 --> 40:30.247
+between physical security and cybersecurity.
+
+40:30.247 --> 40:33.210
+You know, so physical challenges
+
+40:33.210 --> 40:35.640
+that were experienced in Texas a few years ago
+
+40:35.640 --> 40:37.230
+and that ice storm, you know,
+
+40:37.230 --> 40:40.080
+when power was lost was, it was a fuels problem.
+
+40:40.080 --> 40:42.450
+You know, there was some decisions made on fuels
+
+40:42.450 --> 40:45.090
+and, you know, they've since recognized
+
+40:45.090 --> 40:47.220
+that the temperatures could be sub-zero
+
+40:47.220 --> 40:49.800
+and it's a problem the way they're doing fuels then.
+
+40:49.800 --> 40:51.330
+So, you know, they've started to correct that,
+
+40:51.330 --> 40:54.660
+but that's kind of thinking all across the nation
+
+40:54.660 --> 40:57.720
+and recognizing and understanding physical threats
+
+40:57.720 --> 41:00.720
+and how those physical threats can also impact
+
+41:00.720 --> 41:03.540
+the security on the cyber side of our systems
+
+41:03.540 --> 41:06.090
+that are more and more IP connected.
+
+41:06.090 --> 41:07.740
+<v ->Well we are now out of time,</v>
+
+41:07.740 --> 41:09.887
+so I wanna thank my panelists for joining me.
+
+41:09.887 --> 41:11.490
+It was a great conversation.
+
+41:11.490 --> 41:12.660
+I can't believe it went so fast.
+
+41:12.660 --> 41:15.090
+So thank you very much for attending today.
+
+41:15.090 --> 41:16.788
+We really appreciate it.
+
+41:16.788 --> 41:21.788
+(audience applauding)
+(bright music)
+

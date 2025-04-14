@@ -1,0 +1,4145 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00.003 --> 00:02.570
+(upbeat music)
+
+00:09.703 --> 00:10.536
+- Hello, good morning.
+
+00:10.536 --> 00:12.670
+Thank you for joining us this morning
+
+00:12.670 --> 00:15.236
+and for making your way,
+
+00:15.236 --> 00:19.870
+way over into the West Hall.
+
+00:19.870 --> 00:21.636
+It's quite a hike
+
+00:21.636 --> 00:25.270
+and I'm really pleased that
+you're here to join us.
+
+00:25.270 --> 00:26.803
+I'm really pleased also
+
+00:26.803 --> 00:29.336
+to have a really good panel this morning.
+
+00:29.336 --> 00:32.203
+On this particular
+topic, this is a subject
+
+00:32.203 --> 00:36.636
+that I've been studying for over 20 years
+
+00:36.636 --> 00:40.736
+and have worked on various
+projects, both in VR, AR,
+
+00:40.736 --> 00:42.036
+smart glasses, et cetera,
+
+00:42.036 --> 00:44.870
+over the last seven or eight years.
+
+00:44.870 --> 00:49.436
+And it's really captured my
+imagination and my attention.
+
+00:49.436 --> 00:51.403
+I've spent a lot of time working on it.
+
+00:53.170 --> 00:55.070
+And this particular CES we did,
+
+00:55.070 --> 00:58.170
+we did actually our first
+panel on, I think we,
+
+00:58.170 --> 01:01.403
+I think last year we did it
+on the metaverse and glasses.
+
+01:01.403 --> 01:04.436
+But it was very clear
+that in the last year,
+
+01:04.436 --> 01:07.736
+especially the term
+spatial computing has come
+
+01:07.736 --> 01:10.870
+to the forefront, not only
+because Apple pushed it
+
+01:10.870 --> 01:12.470
+with the Vision Pro,
+
+01:12.470 --> 01:15.536
+but a lot of the vendors
+did begin to realize
+
+01:15.536 --> 01:20.536
+that spatial probably was
+the good, a good term to use
+
+01:20.670 --> 01:24.503
+to identify the whole area
+
+01:24.503 --> 01:28.336
+of AR, XR, VR, MR, et cetera.
+
+01:30.236 --> 01:31.303
+My name is Tim Bajarin.
+
+01:31.303 --> 01:33.936
+I'm chairman of Creative Strategies.
+
+01:33.936 --> 01:36.070
+I've been in the industry for many years.
+
+01:36.070 --> 01:39.470
+This is actually my 50th CES.
+
+01:39.470 --> 01:41.936
+(audience applauding)
+
+01:41.936 --> 01:46.203
+Yeah, I actually probably need more
+
+01:46.203 --> 01:50.370
+of my head examined than applause,
+
+01:50.370 --> 01:54.536
+but I've been involved
+with CES for a long time
+
+01:54.536 --> 01:56.403
+as an advisor in working with them
+
+01:56.403 --> 01:57.570
+and especially working
+
+01:57.570 --> 02:02.570
+on the conferences over the
+last 20 or 30 years or so.
+
+02:02.603 --> 02:04.270
+This is a very important show.
+
+02:04.270 --> 02:07.603
+It's one that centers on
+not only the technology
+
+02:07.603 --> 02:11.836
+that's here, but what
+the industry's working on
+
+02:11.836 --> 02:14.703
+and where we are gonna go with it.
+
+02:14.703 --> 02:19.136
+So today, our particular
+panel, and I brought together
+
+02:19.136 --> 02:22.536
+some really important
+experts on the subject,
+
+02:25.070 --> 02:30.070
+but what we're gonna explore
+today is what's going on now.
+
+02:31.336 --> 02:33.670
+And then it is kind of interesting.
+
+02:33.670 --> 02:37.403
+In fact, if I can go
+backwards, the actual title
+
+02:38.303 --> 02:41.403
+was 2030, the Impact of XR Headsets, AR,
+
+02:41.403 --> 02:43.703
+and Smart Glasses on Special Computing.
+
+02:43.703 --> 02:46.470
+I did not put 2030 in my title,
+
+02:47.636 --> 02:50.036
+that how somehow got on there.
+
+02:50.036 --> 02:54.536
+I have learned as an
+analyst who does predictions
+
+02:54.536 --> 02:56.003
+that predicting 10 years
+
+02:56.003 --> 02:59.670
+or even five years out is a foolish idea
+
+02:59.670 --> 03:01.970
+because it's amazing
+
+03:01.970 --> 03:05.536
+how much changes even in a year.
+
+03:05.536 --> 03:08.570
+And I'm just looking back
+from our panel last year
+
+03:08.570 --> 03:11.103
+and how much different this panel is
+
+03:11.103 --> 03:14.936
+and what we're gonna talk about
+today compared to last year.
+
+03:14.936 --> 03:19.103
+The bottom line is, I have
+wonderful speakers today.
+
+03:19.103 --> 03:23.103
+Kelly Ingham, VP of wearable
+Research Partnerships
+
+03:23.103 --> 03:25.403
+Reality Labs at Meta,
+
+03:25.403 --> 03:28.170
+Jason McGuigan, is it McGuigan?
+
+03:28.170 --> 03:30.070
+- [Jason] McGuigan.
+- McGuigan.
+
+03:30.070 --> 03:31.670
+Okay, I never get that right. Sorry.
+
+03:31.670 --> 03:33.903
+Head of Virtual Reality at Lenovo.
+
+03:33.903 --> 03:37.103
+And Scott Myers, VP of Hardware at Snap.
+
+03:37.103 --> 03:39.570
+Now, all of these folks have been involved
+
+03:39.570 --> 03:42.736
+in this particular area
+for quite some time.
+
+03:44.070 --> 03:47.470
+As a researcher, I'm also a user.
+
+03:47.470 --> 03:51.636
+I use my meta Wayfarer glasses
+consistently, especially
+
+03:51.636 --> 03:55.636
+for taking pictures, recording
+notes for the AI capabilities
+
+03:55.636 --> 03:58.470
+that have just been introduced
+in the last year or so.
+
+03:58.470 --> 04:00.903
+And Kelly's gonna give us a
+little bit of an update on some
+
+04:00.903 --> 04:03.403
+of the new software that's,
+that's going on there.
+
+04:07.503 --> 04:09.870
+I was early in one of the first actually
+
+04:09.870 --> 04:11.636
+to see the Vision Pro
+
+04:11.636 --> 04:13.770
+and got to understand a little bit about
+
+04:13.770 --> 04:17.036
+what Apple was doing
+from its earliest stages.
+
+04:19.236 --> 04:20.070
+If I have time,
+
+04:20.070 --> 04:22.436
+I'll comment on the Vision
+Pro a little bit later.
+
+04:23.270 --> 04:25.136
+But where we are today
+
+04:25.136 --> 04:29.603
+is VR is going to be a
+very interesting area
+
+04:30.469 --> 04:33.836
+still from the standpoint of the headsets
+
+04:33.836 --> 04:38.603
+and its impact, especially
+in things like business
+
+04:38.603 --> 04:41.936
+and enterprises, et cetera.
+
+04:41.936 --> 04:46.536
+In that one context, I want to recommend
+
+04:46.536 --> 04:49.036
+that the session after mine
+
+04:50.303 --> 04:54.436
+is with my friend and
+partner, Barton Goldenberg,
+
+04:54.436 --> 04:58.936
+who is gonna have three
+speakers very specifically
+
+04:58.936 --> 05:02.536
+on the role of VR and XR
+
+05:02.536 --> 05:04.236
+and even headsets, excuse me,
+
+05:04.236 --> 05:07.136
+smart glasses in the
+business enterprise world.
+
+05:07.136 --> 05:08.669
+And he's got amazing panels.
+
+05:08.669 --> 05:10.569
+He's got one of the leaders
+
+05:10.569 --> 05:14.169
+of Siemens who's done the
+big projects for them.
+
+05:14.169 --> 05:18.603
+He's got a woman from Honda who is kind
+
+05:18.603 --> 05:20.936
+of gonna blow your mind
+because they're doing all
+
+05:20.936 --> 05:25.603
+of their work and design
+on the Apple Vision Pro.
+
+05:27.669 --> 05:29.436
+And Dr. Harvey Castro,
+
+05:31.136 --> 05:35.636
+sorry, who is a medical doctor
+
+05:35.636 --> 05:39.703
+who's been on the forefront
+of using AR and VR
+
+05:39.703 --> 05:41.603
+in everything from surgery.
+
+05:41.603 --> 05:45.103
+And he was 20 years as
+an emergency doctor.
+
+05:45.103 --> 05:47.169
+So I encourage you to stay for that.
+
+05:47.169 --> 05:49.736
+Now Kelly, I'm gonna start with you
+
+05:51.103 --> 05:54.903
+because number one, right now,
+
+05:54.903 --> 05:59.869
+when you look at VR headset,
+Quest is the King of the Hill.
+
+05:59.869 --> 06:04.336
+Numbers-wise, you are
+the number one headset.
+
+06:04.336 --> 06:08.136
+So let's start just
+with the Quest as it is
+
+06:08.136 --> 06:09.736
+and its success.
+
+06:09.736 --> 06:11.703
+And then I'm gonna go to Jason
+
+06:11.703 --> 06:14.936
+and have you talk a
+little bit about your VR.
+
+06:14.936 --> 06:17.703
+So I'm gonna start out
+with the VR side, okay?
+
+06:17.703 --> 06:18.869
+- Sure, great.
+
+06:18.869 --> 06:21.103
+Thanks Tim. I'm really excited to be here.
+
+06:21.103 --> 06:23.336
+I hope everybody's awake this morning.
+
+06:23.336 --> 06:25.769
+You know, we're opening the show here.
+
+06:25.769 --> 06:28.803
+Talk a little bit about Quest.
+It's been an amazing device.
+
+06:28.803 --> 06:31.136
+We've launched our Quest 3
+with digital pass through.
+
+06:31.136 --> 06:35.036
+I hope everyone has had a
+chance to play with that device
+
+06:35.036 --> 06:36.403
+and experience the pass through.
+
+06:36.403 --> 06:39.069
+We had the Quest 3S that
+we also launched this year.
+
+06:39.069 --> 06:41.403
+Some of the things that we're
+working on is continuing
+
+06:41.403 --> 06:43.236
+to drive into our pass through
+
+06:43.236 --> 06:45.169
+and improving that technology.
+
+06:45.169 --> 06:47.336
+We're also looking to make things lighter
+
+06:47.336 --> 06:49.436
+and with a better form factor.
+
+06:49.436 --> 06:52.536
+We want people to spend more
+time in their Quest devices.
+
+06:52.536 --> 06:56.103
+I recently met a woman who is
+a population one power user
+
+06:56.103 --> 06:58.869
+and she has a battery pack
+that she straps to her head so
+
+06:58.869 --> 07:01.469
+that she can play for five
+hours at a time, right?
+
+07:01.469 --> 07:03.769
+So we need to get to a point where people
+
+07:03.769 --> 07:05.103
+that wanna play and be in device
+
+07:05.103 --> 07:06.603
+for five hours at a time don't have
+
+07:06.603 --> 07:08.136
+to add an extra battery pack.
+
+07:08.136 --> 07:10.436
+And so we are working on those areas.
+
+07:10.436 --> 07:12.303
+And so form factor is gonna be a big space
+
+07:12.303 --> 07:14.603
+that you're gonna see
+more advancements from us
+
+07:14.603 --> 07:16.403
+in the VR headsets.
+
+07:16.403 --> 07:18.369
+We're also looking at
+bringing more users to play
+
+07:18.369 --> 07:20.069
+with the Quest 3S and the price point.
+
+07:20.069 --> 07:21.736
+We brought a lot of younger audience
+
+07:21.736 --> 07:24.436
+and younger gamers, they're
+really interested in that device
+
+07:24.436 --> 07:27.769
+and they're consuming a lot
+of our freemium content.
+
+07:27.769 --> 07:31.169
+Another area is we're focusing
+in the content space on 3D.
+
+07:31.169 --> 07:32.503
+I think many of you saw
+
+07:32.503 --> 07:34.503
+that we have a partnership
+with James Cameron.
+
+07:34.503 --> 07:37.403
+He's one of the most
+innovative storytellers in 3D.
+
+07:37.403 --> 07:40.303
+And we're gonna be bringing a
+lot more 3D content to Quest,
+
+07:40.303 --> 07:41.869
+which I'm really excited about.
+
+07:41.869 --> 07:43.669
+We're also seeing new use cases.
+
+07:43.669 --> 07:46.969
+People love to multitask
+with their Quest devices.
+
+07:46.969 --> 07:48.403
+There is a YouTube series now
+
+07:48.403 --> 07:50.569
+where people are putting on
+their Quest and then going
+
+07:50.569 --> 07:53.436
+and vacuuming, doing the dishes, right,
+
+07:53.436 --> 07:55.736
+and doing other types of
+interactions around the house.
+
+07:55.736 --> 07:57.036
+And so what this is showing is
+
+07:57.036 --> 08:00.969
+that people really enjoy having
+a virtual screen with them
+
+08:00.969 --> 08:02.136
+to do different activities
+
+08:02.136 --> 08:04.603
+and they're leveraging the
+digital pass through to do that.
+
+08:04.603 --> 08:07.469
+And so you're gonna see
+us leaning into more areas
+
+08:07.469 --> 08:09.036
+where people can multitask
+
+08:09.036 --> 08:12.269
+and enjoy the great content
+they're used to live,
+
+08:12.269 --> 08:16.369
+you know, NBA games and
+gaming content as well
+
+08:16.369 --> 08:18.069
+as the additional 3D content.
+
+08:18.069 --> 08:18.936
+So those are some of the big
+
+08:18.936 --> 08:22.136
+things that we're gonna be
+working on, on the Quest line.
+
+08:22.136 --> 08:25.869
+- Jason, I've known Lenovo's work,
+
+08:25.869 --> 08:29.469
+especially in the enterprise,
+which has been kind
+
+08:29.469 --> 08:32.669
+of your lead category that you focused on,
+
+08:32.669 --> 08:35.269
+especially over the
+last four or five years.
+
+08:35.269 --> 08:37.236
+Update us on where Lenovo is on this,
+
+08:37.236 --> 08:38.369
+'cause I know you're making a little bit
+
+08:38.369 --> 08:39.436
+of a transition also too,
+
+08:39.436 --> 08:42.903
+including something we'll
+talk about in a few minutes,
+
+08:42.903 --> 08:46.903
+smart glasses, but what's your experience
+
+08:46.903 --> 08:51.303
+so far in using XR headsets
+or VR headsets in enterprise
+
+08:51.303 --> 08:53.803
+and where do you see that going?
+
+08:53.803 --> 08:56.036
+- Yeah, that's a great
+question. Thanks, Tim.
+
+08:56.036 --> 08:59.536
+So at Lenovo we do focus very
+heavily on the enterprise
+
+08:59.536 --> 09:02.203
+space within XR, you know,
+
+09:02.203 --> 09:03.569
+but you know, I think as you mentioned,
+
+09:03.569 --> 09:06.003
+there's a great deal of interest
+
+09:06.003 --> 09:07.736
+of how we're actually transitioning
+
+09:07.736 --> 09:09.669
+from what the consumer market's doing
+
+09:09.669 --> 09:13.103
+to what the enterprise space
+is actually doing at Lenovo.
+
+09:13.103 --> 09:14.869
+When we're, you know, figuring out
+
+09:15.869 --> 09:20.303
+our next agenda, our next
+path, it's very much led by
+
+09:20.303 --> 09:21.769
+how people actually utilize the device
+
+09:21.769 --> 09:23.369
+sometimes in the consumer space.
+
+09:23.369 --> 09:27.369
+Now Kelly mentioned people
+multitasking in the device.
+
+09:27.369 --> 09:29.536
+When you look at it from
+a enterprise perspective,
+
+09:29.536 --> 09:32.569
+we don't necessarily want a
+worker going into the office
+
+09:32.569 --> 09:36.236
+and then doing their work
+and then jumping on Netflix
+
+09:36.236 --> 09:38.036
+or going into a gaming platform, right?
+
+09:38.036 --> 09:41.036
+So there is a bit of a
+difference in the market,
+
+09:41.036 --> 09:42.236
+but it does come down to
+
+09:42.236 --> 09:44.036
+how we keep people in devices longer.
+
+09:44.036 --> 09:46.669
+And that for us goes
+down to device utility.
+
+09:46.669 --> 09:49.636
+So how often people will be
+able to stay in the device
+
+09:49.636 --> 09:51.336
+and do work related tasks
+
+09:51.336 --> 09:53.403
+and jump to other pieces
+of spatial content
+
+09:53.403 --> 09:56.169
+that also have work
+related tasks associated.
+
+09:56.169 --> 09:58.669
+But when we really look
+at that overall spectrum,
+
+09:58.669 --> 10:00.969
+where we focus our energy both previously
+
+10:00.969 --> 10:03.636
+and now is around the solution approach.
+
+10:03.636 --> 10:05.769
+It's not necessarily
+just about the hardware.
+
+10:05.769 --> 10:08.669
+And for us, we've focused on
+hardware, we have great pieces
+
+10:08.669 --> 10:10.636
+of hardware we've
+developed, we have partners
+
+10:10.636 --> 10:12.236
+that work in the hardware space,
+
+10:12.236 --> 10:13.436
+but at the end of the day,
+
+10:13.436 --> 10:15.569
+it's what people actually can do with it.
+
+10:15.569 --> 10:18.269
+And when a business makes a
+decision to bring devices,
+
+10:18.269 --> 10:21.369
+XR devices into their
+space, they are doing it
+
+10:21.369 --> 10:23.569
+with a business use case.
+
+10:23.569 --> 10:25.636
+They're doing it for a purpose of ROI,
+
+10:25.636 --> 10:27.702
+not to give somebody
+something entertaining to use,
+
+10:27.702 --> 10:30.136
+but to actually make a
+difference for their platform,
+
+10:30.136 --> 10:31.536
+for their organization.
+
+10:31.536 --> 10:33.336
+So when they start looking
+at it from that perspective,
+
+10:33.336 --> 10:34.602
+they say, all right, well,
+
+10:34.602 --> 10:36.002
+I'm gonna bring this into my office
+
+10:36.002 --> 10:39.402
+and I'm gonna bring this into
+my whole entire organization.
+
+10:39.402 --> 10:42.236
+How do I make this worthwhile
+for us to spend the money
+
+10:42.236 --> 10:44.402
+to do the development
+and to bring this up?
+
+10:44.402 --> 10:46.302
+So when we look at it
+from that perspective,
+
+10:46.302 --> 10:47.802
+the last thing they're
+usually talking about is
+
+10:47.802 --> 10:50.169
+what are the specs on the device?
+
+10:50.169 --> 10:51.936
+They're talking about how
+they're actually gonna make a
+
+10:51.936 --> 10:53.102
+difference in their organization.
+
+10:53.102 --> 10:55.336
+And that's, I think our area
+
+10:55.336 --> 10:57.136
+that we really focus on is when we talk
+
+10:57.136 --> 10:59.069
+to a customer about it, when
+we talk to an organization,
+
+10:59.069 --> 11:00.369
+we talk to the world about it,
+
+11:00.369 --> 11:02.836
+we're focusing on the actual solution
+
+11:02.836 --> 11:05.202
+and not just the product.
+
+11:05.202 --> 11:08.736
+- Kelly, while we're on the whole role
+
+11:08.736 --> 11:12.936
+of XR headsets in general, you obviously
+
+11:12.936 --> 11:15.636
+and the Quest have had
+great success in gaming
+
+11:15.636 --> 11:17.769
+and the consumer, but I do know
+
+11:17.769 --> 11:19.602
+that it's being used in some enterprise
+
+11:19.602 --> 11:20.936
+applications as well.
+
+11:20.936 --> 11:24.369
+Can you share about some
+of the enterprise functions
+
+11:24.369 --> 11:28.736
+or areas that it's gotten
+some success as well?
+
+11:28.736 --> 11:30.036
+- Sure, Tim.
+
+11:30.036 --> 11:32.969
+I think some of the early
+successes were in training.
+
+11:32.969 --> 11:35.302
+You know, one of the big use cases,
+
+11:35.302 --> 11:36.669
+Walmart actually brought this on
+
+11:36.669 --> 11:38.702
+and actually put all of their shelves
+
+11:38.702 --> 11:42.836
+and actually mocked up like
+basically a Black Friday sale
+
+11:42.836 --> 11:45.169
+in the Quest headset so
+that their store associates
+
+11:45.169 --> 11:46.536
+could know how to deal with the influx
+
+11:46.536 --> 11:48.569
+of all the customers, all of the demands,
+
+11:48.569 --> 11:50.636
+yelling, screaming, and
+trying to grab devices.
+
+11:50.636 --> 11:51.836
+And actually they were one
+
+11:51.836 --> 11:54.402
+of the first early use cases
+in using these headsets
+
+11:54.402 --> 11:56.336
+to really train people
+and do it much faster
+
+11:56.336 --> 11:58.536
+and much more efficiently
+using the headsets.
+
+11:58.536 --> 12:02.036
+And so we see a lot of different
+applications for training
+
+12:02.036 --> 12:04.636
+and kind of simulation exercises.
+
+12:04.636 --> 12:06.836
+Another area that's
+been really interesting
+
+12:06.836 --> 12:09.369
+is on the medical field, surgical VR
+
+12:09.369 --> 12:10.836
+has been a great advancement
+
+12:10.836 --> 12:12.236
+where they're actually
+using these headsets
+
+12:12.236 --> 12:15.702
+to actually show surgery
+in different practices
+
+12:15.702 --> 12:17.236
+and be able to get the surgeons
+
+12:17.236 --> 12:19.536
+and the associates to actually learn how
+
+12:19.536 --> 12:23.236
+to actually advance very complex
+techniques without having
+
+12:23.236 --> 12:26.002
+to use cadavers, which are
+actually quite expensive.
+
+12:26.002 --> 12:27.236
+And so that's been another, you know,
+
+12:27.236 --> 12:29.302
+I think enterprise application.
+
+12:29.302 --> 12:30.736
+Education is obviously an area
+
+12:30.736 --> 12:32.436
+that they've been leaning into quite a bit
+
+12:32.436 --> 12:33.936
+with the VR headsets.
+
+12:33.936 --> 12:35.669
+And then we're partnering with companies
+
+12:35.669 --> 12:38.136
+to actually enable us to go
+even broader into enterprise
+
+12:38.136 --> 12:40.069
+that can actually bring
+those enterprise solutions
+
+12:40.069 --> 12:43.136
+and tool sets like Lenovo to go
+
+12:43.136 --> 12:44.636
+and really customize those
+
+12:44.636 --> 12:46.336
+for those enterprise applications.
+
+12:46.336 --> 12:49.002
+We're very much focused on
+the consumer business, right?
+
+12:49.002 --> 12:50.736
+And driving these headsets into consumer.
+
+12:50.736 --> 12:52.669
+And so we've been really excited about
+
+12:52.669 --> 12:55.336
+what our developers have been
+able to do with the headsets
+
+12:55.336 --> 12:57.369
+and actually using it for applications
+
+12:57.369 --> 12:58.636
+and content that I think we couldn't even
+
+12:58.636 --> 13:00.502
+think about on our own.
+
+13:01.669 --> 13:03.769
+- Alright, we may come back
+
+13:03.769 --> 13:06.669
+to the XR headsets in a minute,
+
+13:06.669 --> 13:10.869
+but I wanna shift a little
+bit over to the smart glasses.
+
+13:10.869 --> 13:15.002
+This is an area that I've been looking at
+
+13:15.002 --> 13:16.169
+for quite a while
+
+13:17.469 --> 13:22.369
+besides this particular, the
+Wayfarers I was in early-
+
+13:25.069 --> 13:26.336
+- His Wayfarers are talking to him, now.
+
+13:26.336 --> 13:27.502
+I can hear his music.
+
+13:28.469 --> 13:29.902
+Just say, "Hey Meta, stop."
+
+13:35.036 --> 13:37.869
+This shows connectivity
+on the glasses right now.
+
+13:37.869 --> 13:40.136
+- I am a Jimmy Buffet fan
+
+13:40.136 --> 13:43.269
+and how, I can't tell
+you how that happened.
+
+13:43.269 --> 13:44.402
+Anyway, anyway,
+
+13:47.669 --> 13:51.136
+anyway, bottom line is smart glasses.
+
+13:52.202 --> 13:55.569
+Besides this, I used one called the X Reel
+
+13:55.569 --> 13:58.602
+and it was one of the
+first ones that came out
+
+13:58.602 --> 14:01.336
+and I literally used it on
+airplanes watching, you know,
+
+14:01.336 --> 14:03.502
+my movies on that.
+
+14:05.769 --> 14:09.936
+But Smart Glasses actually
+debuted pretty early with Snap
+
+14:09.936 --> 14:13.102
+and Scott, if remind me, I believe it was,
+
+14:13.102 --> 14:15.636
+was it 2015 or 2019?
+
+14:15.636 --> 14:16.869
+- We launched in 2016.
+
+14:16.869 --> 14:18.202
+- 2016!
+- Camera only. Smart Glasses.
+
+14:18.202 --> 14:21.602
+- So you've been in this
+smart glasses for a while.
+
+14:21.602 --> 14:24.936
+Tell us a little bit about
+the thinking about, you know,
+
+14:24.936 --> 14:27.802
+getting into that market,
+but more importantly
+
+14:27.802 --> 14:29.402
+where you are today.
+
+14:29.402 --> 14:31.136
+- Oh yeah, we've been
+building smart glasses
+
+14:31.136 --> 14:33.236
+for a really long time
+and while they're fun
+
+14:33.236 --> 14:34.902
+and we think there's
+like a near term market.
+
+14:34.902 --> 14:36.769
+We're actually focused on the long term.
+
+14:36.769 --> 14:37.869
+- Scott put you-
+
+14:37.869 --> 14:39.836
+- If you ask people what they really want,
+
+14:39.836 --> 14:41.436
+what they'll describe
+to you in the long term
+
+14:41.436 --> 14:43.702
+is see-through immersive AR glasses
+
+14:43.702 --> 14:46.402
+and we've actually built them
+with our spectacles product,
+
+14:46.402 --> 14:47.669
+which is available today.
+
+14:49.202 --> 14:53.869
+So, you know, we think that they're...
+
+14:55.102 --> 14:58.469
+Big, a lot of potential here
+as we're building use cases
+
+14:58.469 --> 15:01.769
+and SNAP is already a scaled
+augmented reality player.
+
+15:01.769 --> 15:03.869
+I think that's really
+important for people to know.
+
+15:03.869 --> 15:05.702
+We have 300 million people using
+
+15:05.702 --> 15:07.402
+augmented reality every day.
+
+15:07.402 --> 15:11.036
+375,000 developers have
+built 4 million lenses
+
+15:11.036 --> 15:12.836
+and the use case is really simple,
+
+15:12.836 --> 15:14.402
+it's just about having fun
+
+15:14.402 --> 15:16.402
+and that's what we
+designed spectacles to do,
+
+15:16.402 --> 15:18.102
+both inside and outdoors.
+
+15:19.102 --> 15:23.402
+We've made spectacles work
+indoors, it's like really hard
+
+15:23.402 --> 15:26.436
+to make them work that way when we have
+
+15:26.436 --> 15:31.436
+like see-through immersive
+AR and indoor capability.
+
+15:31.802 --> 15:34.002
+But making them work
+outdoors is far harder
+
+15:34.002 --> 15:35.802
+and we've done that and
+you can do it today.
+
+15:35.802 --> 15:39.369
+It transitions from clear to
+tinted in the blink of an eye
+
+15:39.369 --> 15:42.535
+and it's super fun and we
+think that's the future
+
+15:42.535 --> 15:43.602
+for the long term.
+
+15:43.602 --> 15:44.502
+- Okay.
+
+15:44.502 --> 15:48.069
+Now Kelly, you most
+recently made quite a bit
+
+15:48.069 --> 15:50.435
+of splash at your developer's conference
+
+15:50.435 --> 15:52.202
+with the introduction of the Orion.
+
+15:53.635 --> 15:54.835
+Tell, first of all,
+
+15:54.835 --> 15:57.802
+some people may not have
+seen that announcement,
+
+15:57.802 --> 15:59.869
+but tell us a little
+bit about what Orion is
+
+15:59.869 --> 16:04.469
+and kind of the timing,
+as I understand it.
+
+16:04.469 --> 16:07.369
+- Sure, Tim. So Orion is our AR glasses.
+
+16:07.369 --> 16:09.035
+These are fully immersive glasses
+
+16:09.035 --> 16:12.035
+that we showed at our
+Connect developer conference.
+
+16:12.035 --> 16:14.035
+This is really showing
+a vision of the future.
+
+16:14.035 --> 16:16.902
+They're not commercial glasses today.
+
+16:16.902 --> 16:18.835
+And these glasses really
+bring together all
+
+16:18.835 --> 16:20.935
+of the technology and research
+that we've been working on
+
+16:20.935 --> 16:24.469
+for the past 10 years in research labs.
+
+16:24.469 --> 16:27.102
+I've been a part of that for
+about seven and a half years.
+
+16:27.102 --> 16:29.635
+And the glasses are really
+focused on a form factor,
+
+16:29.635 --> 16:31.502
+highly immersive experience.
+
+16:31.502 --> 16:33.702
+We've been very open that
+we're looking at displays,
+
+16:33.702 --> 16:36.535
+we're using silicon carbide in
+these glasses for wide field
+
+16:36.535 --> 16:39.002
+of view and high resolution.
+
+16:39.002 --> 16:41.302
+We're also brought in eye tracking
+
+16:41.302 --> 16:42.935
+and some of our new eye
+tracking technologies.
+
+16:42.935 --> 16:47.135
+We have custom silicon to
+do both compute as well
+
+16:47.135 --> 16:48.702
+as enable battery life.
+
+16:48.702 --> 16:51.502
+We have our Meta AI assistant
+on the glasses as well.
+
+16:51.502 --> 16:54.235
+It does come with a separate compute puck.
+
+16:54.235 --> 16:56.802
+We're also integrated our band technology.
+
+16:56.802 --> 17:01.169
+So for many of you we have our EMG band,
+
+17:01.169 --> 17:03.269
+which allows us to
+really understand inputs
+
+17:03.269 --> 17:05.702
+and interaction devices in a seamless way.
+
+17:05.702 --> 17:08.835
+And so the combination of
+those experiences of being able
+
+17:08.835 --> 17:11.902
+to have input via your
+voice, via your eyes
+
+17:11.902 --> 17:13.135
+and via the band.
+
+17:13.135 --> 17:15.269
+And then this highly immersive experience
+
+17:15.269 --> 17:17.969
+where you can actually
+put up three screens
+
+17:17.969 --> 17:19.402
+where you can actually scroll your feed,
+
+17:19.402 --> 17:22.302
+your Instagram feed, you can
+actually do a voice conference
+
+17:22.302 --> 17:26.369
+at the same time or you can
+actually see photos or pictures
+
+17:26.369 --> 17:29.035
+or maybe you're working, you
+know, something with your,
+
+17:29.035 --> 17:30.569
+something with Lenovo at the same time.
+
+17:30.569 --> 17:33.269
+But you can do all of
+those on this wide screen
+
+17:33.269 --> 17:35.535
+and then be able to navigate the room
+
+17:35.535 --> 17:36.435
+that we have in the demo.
+
+17:36.435 --> 17:38.969
+And this is really showing
+what we see the promise
+
+17:38.969 --> 17:41.535
+of spatial computing and
+the promise of glasses
+
+17:41.535 --> 17:44.169
+because this is in a glasses form factor.
+
+17:44.169 --> 17:46.435
+Where we're going with
+this is we do have plans
+
+17:46.435 --> 17:48.169
+to commercialize this device.
+
+17:48.169 --> 17:51.235
+So gonna be working over that
+on the next couple of years
+
+17:51.235 --> 17:53.135
+for fully immersive AR displays.
+
+17:53.135 --> 17:55.702
+We have a lot of work going on
+in research right now looking
+
+17:55.702 --> 17:57.535
+at displays from small field of view up
+
+17:57.535 --> 17:58.702
+to large field of view.
+
+17:58.702 --> 17:59.969
+And I think you're gonna see some of
+
+17:59.969 --> 18:02.069
+that technology come
+forward in our smart glasses
+
+18:02.069 --> 18:04.035
+and our overall glasses roadmap.
+
+18:04.935 --> 18:06.369
+- And timing-wise,
+
+18:06.369 --> 18:08.869
+last I heard it was about
+a three year timing, like,
+
+18:08.869 --> 18:11.269
+but is that still kind of where we are?
+
+18:12.135 --> 18:13.669
+- That is still where we are.
+
+18:13.669 --> 18:15.202
+I'm sure we are trying
+
+18:15.202 --> 18:17.035
+to accelerate as much as possible.
+
+18:17.035 --> 18:18.235
+- Okay, good.
+
+18:18.235 --> 18:23.235
+Now Jason, when we talk
+about XR headsets in general,
+
+18:24.202 --> 18:28.002
+and even smart glasses,
+Google made an announcement
+
+18:28.002 --> 18:32.435
+around what's called Android,
+is it Android X, I believe.
+
+18:32.435 --> 18:34.202
+- Android XR.
+- XR, XR.
+
+18:35.602 --> 18:37.669
+I know you guys have partnered
+with Google on various.
+
+18:37.669 --> 18:40.169
+And can you tell our audience
+a little bit about what XR is
+
+18:40.169 --> 18:42.602
+and what do you think the value
+
+18:42.602 --> 18:46.935
+of adding another operating
+system to the XR scheme?
+
+18:46.935 --> 18:48.835
+- Sure, yeah, no, it's a, it's a great
+
+18:48.835 --> 18:51.935
+and important question
+for the entire ecosystem.
+
+18:51.935 --> 18:53.635
+XR is kind of the umbrella term
+
+18:53.635 --> 18:55.069
+for everything we're working on.
+
+18:55.069 --> 18:57.435
+So everything from a wearable device,
+
+18:57.435 --> 19:00.035
+and you could even start to
+include the wearable devices
+
+19:00.035 --> 19:01.202
+like the Meta RayBan glasses
+
+19:01.202 --> 19:03.602
+to fall starting into that realm.
+
+19:03.602 --> 19:05.702
+I mean, you're not
+quite extending reality,
+
+19:05.702 --> 19:08.702
+you're not putting an
+overview on anything just yet,
+
+19:08.702 --> 19:10.135
+but we see where that's going.
+
+19:10.135 --> 19:12.835
+Obviously these devices
+here that, you know,
+
+19:12.835 --> 19:15.402
+they're both wearing,
+are that training wheels
+
+19:15.402 --> 19:16.369
+to where we want to get to,
+
+19:16.369 --> 19:19.269
+where we actually have that
+pass through on at all times
+
+19:19.269 --> 19:21.869
+or that visual overlay at all times.
+
+19:21.869 --> 19:23.602
+But that umbrella term XR
+
+19:23.602 --> 19:24.535
+or spatial compute,
+
+19:24.535 --> 19:26.769
+I think we're all in
+this room familiar with.
+
+19:28.169 --> 19:29.969
+What Google announced, I
+think was very important
+
+19:29.969 --> 19:32.169
+for the overall ecosystem
+because they're a major player
+
+19:32.169 --> 19:33.835
+and they have a platform.
+
+19:33.835 --> 19:36.735
+Now, platforms are extremely
+important to who, you know,
+
+19:36.735 --> 19:38.535
+to the development community primarily
+
+19:38.535 --> 19:40.569
+as well as the customers.
+
+19:40.569 --> 19:42.735
+And when a developer looks
+at where they're going
+
+19:42.735 --> 19:44.935
+to actually create their
+product for, they want to go
+
+19:44.935 --> 19:47.169
+to a platform that has
+customers already on it,
+
+19:47.169 --> 19:48.335
+they're small companies,
+
+19:48.335 --> 19:50.402
+they're investing a lot
+of their energy into it.
+
+19:50.402 --> 19:51.435
+Of course they wanna make sure
+
+19:51.435 --> 19:53.935
+that when they invest into it,
+that it goes onto a platform
+
+19:53.935 --> 19:55.769
+that they have an ease of distribution.
+
+19:55.769 --> 19:59.302
+So Google as a player in the
+space that has the play store
+
+19:59.302 --> 20:03.402
+and has the ability to
+massively distribute content to
+
+20:03.402 --> 20:06.835
+third parties and to vendors
+that will allow them to
+
+20:06.835 --> 20:08.869
+essentially accelerate
+that portion of the market
+
+20:08.869 --> 20:09.902
+and step into a role
+
+20:09.902 --> 20:13.302
+that only meta previously
+has had purview into.
+
+20:13.302 --> 20:14.902
+So I think it does create a little bit of
+
+20:14.902 --> 20:16.169
+that competition aspect.
+
+20:16.169 --> 20:18.235
+It does allow for more devices,
+
+20:18.235 --> 20:19.835
+more players to come to market.
+
+20:19.835 --> 20:22.869
+And the expectation is, is
+that that will allow other OEMs
+
+20:22.869 --> 20:25.569
+to develop devices on their platform.
+
+20:25.569 --> 20:28.269
+Or as meta announced with Lenovo
+
+20:28.269 --> 20:30.902
+and some other third
+parties, the Horizon platform
+
+20:30.902 --> 20:33.635
+to be able to develop a open ecosystem
+
+20:33.635 --> 20:37.202
+to allow multiple OEMs to
+create devices for those,
+
+20:37.202 --> 20:38.969
+you know, more umbrella platforms.
+
+20:38.969 --> 20:41.435
+So that way when a
+developer comes in they say,
+
+20:41.435 --> 20:43.602
+do I wanna develop for
+the Meta Horizons platform
+
+20:43.602 --> 20:45.235
+and go towards these devices
+
+20:45.235 --> 20:47.635
+or do I want to develop for
+the Android XR platform,
+
+20:47.635 --> 20:49.435
+develop for these devices?
+
+20:49.435 --> 20:50.702
+Now hopefully what we get to,
+
+20:50.702 --> 20:52.902
+and we've spoken about this,
+the three of us earlier
+
+20:52.902 --> 20:55.835
+spoke about this, is we want
+to get to a world where,
+
+20:55.835 --> 20:58.535
+of course it doesn't matter
+where you're developing for
+
+20:58.535 --> 21:00.535
+that your content can work within it.
+
+21:00.535 --> 21:02.402
+Similar to how the web is today.
+
+21:02.402 --> 21:03.869
+You know, we developed
+something that ends up
+
+21:03.869 --> 21:05.002
+being on a web browser.
+
+21:05.002 --> 21:07.835
+It doesn't matter if you look
+at it on your phone on a Mac,
+
+21:07.835 --> 21:10.035
+on a pc, wherever you are,
+
+21:10.035 --> 21:12.935
+you still get a reflection
+of that content.
+
+21:12.935 --> 21:17.235
+It's, you know, it's of course
+not in the immersive space,
+
+21:17.235 --> 21:19.002
+A little bit more easy to tailor,
+
+21:19.002 --> 21:21.068
+but thanks to the powers of generative AI,
+
+21:21.068 --> 21:23.568
+we're gonna see a lot of
+that uptick where we're going
+
+21:23.568 --> 21:26.068
+to create once and it's going
+to be able to be folded over
+
+21:26.068 --> 21:27.402
+to any platform.
+
+21:27.402 --> 21:29.802
+And we're gonna see that in
+the very, very near future
+
+21:29.802 --> 21:33.735
+where the vision of OpenXR
+will start to come to fruition.
+
+21:33.735 --> 21:36.435
+We're not gonna be stuck in
+this world where we develop once
+
+21:36.435 --> 21:39.302
+and then we have to
+spend eons developing for
+
+21:39.302 --> 21:43.235
+another headset that just came
+out and now changes the game.
+
+21:43.235 --> 21:45.535
+We're getting to that near-term point
+
+21:45.535 --> 21:48.535
+where we are going to see XR become
+
+21:48.535 --> 21:50.568
+a little bit more unified.
+
+21:50.568 --> 21:52.502
+And I think that announcement really
+
+21:52.502 --> 21:54.802
+does show that that's where we're going.
+
+21:54.802 --> 21:58.068
+- So what you're announcing is Nirvana XR.
+
+21:59.035 --> 22:02.635
+- I mean the hope is of course that again,
+
+22:02.635 --> 22:05.035
+a developer with, you know,
+
+22:05.035 --> 22:06.935
+a small team can create something
+
+22:06.935 --> 22:10.435
+and it can go on to wherever
+the customer lands, right?
+
+22:10.435 --> 22:12.668
+And if the customer says,
+I've got these devices,
+
+22:12.668 --> 22:15.235
+I want this piece of software
+to work on that, great.
+
+22:15.235 --> 22:16.802
+That's where it goes.
+
+22:16.802 --> 22:19.168
+When Adobe, for example, sells a piece
+
+22:19.168 --> 22:22.135
+of software, they don't tell
+you what computer to buy to run
+
+22:22.135 --> 22:23.235
+that piece of software.
+
+22:23.235 --> 22:24.502
+That is up to the end customer.
+
+22:24.502 --> 22:27.835
+So I think that's where the
+world wants, you know, XR to be,
+
+22:27.835 --> 22:29.268
+is into a platform space
+
+22:29.268 --> 22:30.802
+where a developer can create something
+
+22:30.802 --> 22:33.535
+and it can be consumed
+on whichever XR device
+
+22:33.535 --> 22:35.035
+that person ends up having.
+
+22:35.035 --> 22:39.168
+And the XR device will work
+within its own constraints
+
+22:39.168 --> 22:42.835
+to create the experience related
+to that piece of content.
+
+22:42.835 --> 22:45.535
+So if it's just, you
+know, an AI-powered glass,
+
+22:45.535 --> 22:47.568
+maybe it's a truncated experience.
+
+22:47.568 --> 22:49.502
+If it has a visual overlay
+
+22:49.502 --> 22:52.435
+and it's more of an AR
+glass, it has one experience
+
+22:52.435 --> 22:54.168
+or a more advanced experience
+
+22:54.168 --> 22:55.935
+and then if you want
+something fully immersive,
+
+22:55.935 --> 22:57.235
+it could be more of a mixed reality
+
+22:57.235 --> 22:59.035
+or virtual reality device.
+
+22:59.035 --> 23:01.202
+- Scott, I want you to weigh
+in on this a little bit
+
+23:01.202 --> 23:03.335
+because you guys have
+spent quite a bit of time
+
+23:03.335 --> 23:06.835
+and a lot of energy developing
+your own operating system,
+
+23:06.835 --> 23:08.402
+which has been very successful.
+
+23:12.835 --> 23:14.868
+What Jason just mentioned
+is a really important thing
+
+23:14.868 --> 23:17.068
+in the context of getting
+software developers
+
+23:17.068 --> 23:21.035
+and you gave us a number
+on developers that you have
+
+23:21.035 --> 23:25.735
+for your operating system now.
+
+23:25.735 --> 23:28.502
+Tell us, give us a little more of a sense
+
+23:28.502 --> 23:32.735
+of your thinking about that
+growing your operating system
+
+23:32.735 --> 23:34.202
+and the developer network
+
+23:34.202 --> 23:38.035
+and how is that going to be able to
+
+23:39.068 --> 23:41.335
+continue to grow in that context?
+
+23:41.335 --> 23:43.835
+- Sure, so we built SNAP OS
+
+23:43.835 --> 23:45.602
+because we had to, there's really nothing
+
+23:45.602 --> 23:46.702
+else in the world like it.
+
+23:46.702 --> 23:48.235
+And there's a couple reasons why.
+
+23:48.235 --> 23:50.502
+We have Snap's spatial engine,
+
+23:50.502 --> 23:53.235
+which not only uses six degree VIO
+
+23:53.235 --> 23:55.402
+to put content in the
+world and keep it there
+
+23:55.402 --> 23:56.635
+as you move around,
+
+23:56.635 --> 23:57.968
+it's actually powerful enough
+
+23:57.968 --> 23:59.935
+to augment dynamic moving objects
+
+23:59.935 --> 24:01.802
+like a basketball in the scene.
+
+24:01.802 --> 24:04.835
+This required intense
+focus on both the camera
+
+24:04.835 --> 24:07.402
+and the rendering pipeline
+to drive down the latency
+
+24:07.402 --> 24:08.835
+to the point where that's possible.
+
+24:08.835 --> 24:09.702
+And it's amazing.
+
+24:10.735 --> 24:13.735
+We also have an operating
+system built on hands and voice.
+
+24:13.735 --> 24:17.002
+You have everything you need
+to interact with spectacles,
+
+24:17.002 --> 24:18.735
+you don't need any controllers.
+
+24:18.735 --> 24:22.235
+And making hand tracking
+work on large glasses
+
+24:22.235 --> 24:24.568
+or large goggles is pretty hard,
+
+24:25.435 --> 24:27.502
+but making it work on
+glasses is far harder.
+
+24:27.502 --> 24:29.835
+Not only does it need to
+be as accurate, it needs
+
+24:29.835 --> 24:32.002
+to be way more power efficient.
+
+24:32.002 --> 24:34.735
+One of the amazing things
+about spectacles is
+
+24:34.735 --> 24:36.002
+that it's connected.
+
+24:36.002 --> 24:37.735
+So if we're all in the same room
+
+24:37.735 --> 24:41.235
+and we have AR content out in
+front of us, we can interact
+
+24:41.235 --> 24:43.135
+with it together as if it was real.
+
+24:43.135 --> 24:46.335
+And that's built deep
+into the operating system
+
+24:46.335 --> 24:47.768
+that connected nature.
+
+24:47.768 --> 24:50.535
+And finally, spectacles
+is completely standalone.
+
+24:50.535 --> 24:53.368
+You don't need a puck, it's
+not tethered to a phone,
+
+24:53.368 --> 24:55.535
+it's all just crammed into the device
+
+24:55.535 --> 24:57.568
+and that creates some
+intense thermal challenges.
+
+24:57.568 --> 25:00.002
+And so we have a unique dual system
+
+25:00.002 --> 25:04.068
+on chip architecture using
+Qualcomm Snapdragon processors
+
+25:04.068 --> 25:05.635
+where just like your brain has two halves,
+
+25:05.635 --> 25:07.968
+we separate out the processing
+
+25:07.968 --> 25:10.835
+and it allows us to spread
+the heat around much better.
+
+25:10.835 --> 25:12.435
+And we think it's really unique
+
+25:12.435 --> 25:15.235
+and it actually enables the
+kind of experiences we want
+
+25:15.235 --> 25:17.602
+to build because that's
+where we think the value is,
+
+25:17.602 --> 25:19.402
+is having fun with people.
+
+25:20.235 --> 25:23.335
+- Now I've been studying
+this area for quite a while
+
+25:23.335 --> 25:26.668
+and one of the things that has been a,
+
+25:26.668 --> 25:28.435
+what I would call a roadblock
+
+25:28.435 --> 25:31.768
+and I want you guys to
+discuss, to weigh in on this,
+
+25:32.968 --> 25:36.235
+is really the lenses and the
+ability to take the content
+
+25:36.235 --> 25:37.502
+and display it.
+
+25:38.835 --> 25:43.335
+I've seen a couple, I actually,
+I saw three yesterday where,
+
+25:43.335 --> 25:48.335
+you know, the information
+is in front of you
+
+25:48.402 --> 25:50.668
+is in the glass lenses, I should say.
+
+25:53.168 --> 25:54.635
+In the Lenovo, you know,
+
+25:54.635 --> 25:57.502
+I've been involved with
+Lenovo for decades.
+
+25:57.502 --> 26:01.168
+We, early on, there were
+these really key discussions
+
+26:01.168 --> 26:04.668
+of the role of next generation lenses
+
+26:04.668 --> 26:07.635
+that were gonna be
+necessary to deliver the AR.
+
+26:07.635 --> 26:10.435
+Can you tell us about not only what kind
+
+26:10.435 --> 26:12.535
+of lenses you think are
+gonna have to be there,
+
+26:12.535 --> 26:15.102
+including in the Orion for example,
+
+26:15.102 --> 26:17.535
+and what are the roadblocks to get there?
+
+26:17.535 --> 26:21.268
+Are are we seeing breakthroughs, you know,
+
+26:21.268 --> 26:24.068
+with wave guides and you know,
+getting to that point now
+
+26:24.068 --> 26:26.702
+or where are we at this point?
+
+26:26.702 --> 26:28.468
+Because what I'm trying to figure out,
+
+26:28.468 --> 26:31.768
+and I gotta tell you, I've tested now,
+
+26:31.768 --> 26:33.768
+I don't know how many smart glasses
+
+26:33.768 --> 26:37.035
+and headsets, pretty much
+every one you can imagine
+
+26:37.035 --> 26:38.935
+that are commercial.
+
+26:38.935 --> 26:42.735
+And I agree with you
+
+26:42.735 --> 26:45.968
+that I eventually want
+the Nirvana experience.
+
+26:45.968 --> 26:48.135
+I'd like to be able to take
+whatever that content is
+
+26:48.135 --> 26:50.968
+and use that on any device.
+
+26:50.968 --> 26:53.368
+Getting there is not that easy.
+
+26:53.368 --> 26:55.868
+I think that this, we as an industry
+
+26:55.868 --> 26:59.335
+are gonna have a technical
+challenge to get to that point.
+
+26:59.335 --> 27:00.468
+And I don't know when we,
+
+27:00.468 --> 27:03.701
+when and if we ever
+get to that Nirvana XR,
+
+27:03.701 --> 27:06.668
+but that should be our goal, right?
+
+27:07.635 --> 27:09.935
+- Yeah, so I think we'll get there,
+
+27:09.935 --> 27:12.301
+but I think the challenge
+obviously is, you know,
+
+27:12.301 --> 27:13.735
+as you mentioned the
+technological barriers,
+
+27:13.735 --> 27:16.135
+but it comes down to
+what Scott was mentioning
+
+27:16.135 --> 27:19.468
+around like things like heat
+or then of course the cost.
+
+27:19.468 --> 27:21.368
+And you can make these devices today,
+
+27:21.368 --> 27:25.468
+but they're ridiculously
+expensive to create.
+
+27:25.468 --> 27:28.435
+If you're gonna make a
+one-off as a prototype, great,
+
+27:28.435 --> 27:30.835
+you can get a lot of
+this experience in there,
+
+27:30.835 --> 27:32.768
+but how do we get down
+to a commercializable,
+
+27:32.768 --> 27:33.835
+scalable fashion?
+
+27:33.835 --> 27:37.101
+And then how do we make it
+wearable for all day with,
+
+27:37.101 --> 27:40.435
+you know, battery life
+with, like heat dispersion,
+
+27:40.435 --> 27:42.335
+all of the challenges associated with it.
+
+27:42.335 --> 27:44.935
+Now the lenses are a part of the equation
+
+27:44.935 --> 27:47.235
+and the optics are absolutely part of it.
+
+27:47.235 --> 27:49.735
+I mean, but you can get
+amazingly crisp visuals
+
+27:49.735 --> 27:53.168
+in a small area or you
+can get it more spread out
+
+27:53.168 --> 27:54.435
+and less crisp.
+
+27:54.435 --> 27:57.835
+Getting the two together, wide FOV,
+
+27:57.835 --> 27:59.101
+lower power consumption,
+
+27:59.101 --> 28:02.835
+all those aspects really takes
+a lot of engineering feats.
+
+28:02.835 --> 28:05.001
+But I think where the, you know, nirvana
+
+28:05.001 --> 28:07.968
+of all this is going is that
+if you do have that need
+
+28:07.968 --> 28:11.468
+to get into that more
+fully immersive experience,
+
+28:11.468 --> 28:12.835
+you go to a different device
+
+28:12.835 --> 28:14.601
+and I think we'll see an
+ecosystem of device is not
+
+28:14.601 --> 28:16.301
+that one catchall device
+
+28:16.301 --> 28:17.635
+that kind of solves for everything.
+
+28:17.635 --> 28:18.468
+- Scott?
+
+28:18.468 --> 28:21.701
+- Yeah, so Snap, we have our
+own custom optical engine.
+
+28:21.701 --> 28:24.701
+So it not only has an
+incredibly tiny liquid crystal
+
+28:24.701 --> 28:26.035
+on silicon projector,
+
+28:26.035 --> 28:29.201
+which has these super sharp, super vivid,
+
+28:29.201 --> 28:31.001
+very bright images.
+
+28:31.001 --> 28:32.435
+We have our own custom waveguides
+
+28:32.435 --> 28:35.501
+and the rate of waveguide
+development has blown me away.
+
+28:35.501 --> 28:37.768
+We bought a waveguide
+company a couple years ago
+
+28:37.768 --> 28:39.835
+and I had a projection on
+how I thought it would go
+
+28:39.835 --> 28:41.435
+and we've far exceeded it
+
+28:41.435 --> 28:42.668
+and this is all built on glass,
+
+28:42.668 --> 28:44.335
+which is ready to scale today.
+
+28:44.335 --> 28:46.435
+And so I think what we're
+gonna see over the coming years
+
+28:46.435 --> 28:51.035
+is wider and wider, more
+vivid, more detailed waveguides
+
+28:51.035 --> 28:52.201
+that allow us
+
+28:52.201 --> 28:54.801
+to really combine the light
+from the real world with
+
+28:56.068 --> 28:58.468
+the digital light, but
+also in a way that's clear.
+
+28:58.468 --> 29:00.701
+So like you can see my eyes.
+
+29:00.701 --> 29:01.835
+I think that's so important
+
+29:01.835 --> 29:04.401
+because as people communicate,
+you not only communicate
+
+29:04.401 --> 29:06.768
+with your voice, your body language,
+
+29:06.768 --> 29:07.868
+but also with your eyes.
+
+29:07.868 --> 29:09.001
+I think that's gonna be another really
+
+29:09.001 --> 29:10.001
+important aspect of it.
+
+29:10.001 --> 29:12.435
+- Now Kelly, in the Orion design
+
+29:12.435 --> 29:16.168
+and my son was at the event, I watched it,
+
+29:17.035 --> 29:19.468
+but it's the same
+scenario where I know that
+
+29:19.468 --> 29:23.401
+the visuals are in the
+glasses themselves, right?
+
+29:25.735 --> 29:27.501
+Tell us a little bit about where,
+
+29:28.601 --> 29:32.101
+because, you said
+potentially three years out,
+
+29:32.101 --> 29:35.635
+what are the things that are
+keeping you from doing it now?
+
+29:36.568 --> 29:39.668
+- Yeah, I think just to feed on both Scott
+
+29:39.668 --> 29:42.468
+and Jason, like the optic
+systems in these glasses
+
+29:42.468 --> 29:44.035
+are extremely difficult.
+
+29:44.035 --> 29:45.835
+Like this is one of the big challenges
+
+29:45.835 --> 29:46.735
+that we have to solve.
+
+29:46.735 --> 29:48.968
+And I see a lot of people
+nodding their heads here
+
+29:48.968 --> 29:51.368
+because it's not just a
+materials question, right?
+
+29:51.368 --> 29:53.068
+It's also a grading
+
+29:53.068 --> 29:54.235
+and how do you actually put,
+
+29:54.235 --> 29:56.768
+how do you actually get the
+optical engine to align,
+
+29:56.768 --> 29:58.735
+you know, with that wave guide?
+
+30:00.001 --> 30:01.635
+And then you also need to look at,
+
+30:01.635 --> 30:02.635
+make sure that you manage
+
+30:02.635 --> 30:04.168
+that is socially acceptable.
+
+30:04.168 --> 30:05.001
+You know, Scott said like,
+
+30:05.001 --> 30:06.268
+you have to be able to see your eyes.
+
+30:06.268 --> 30:08.701
+Well not only that, your
+eyes can't glow, right?
+
+30:08.701 --> 30:11.001
+So you have to manage that
+light leakage on the front side
+
+30:11.001 --> 30:12.801
+because you don't wanna
+look like a robot talking
+
+30:12.801 --> 30:14.735
+to people when you have your screens on.
+
+30:14.735 --> 30:17.868
+And managing light leakage
+is not an easy thing to do
+
+30:17.868 --> 30:19.468
+for anybody that's kind of nodding
+
+30:19.468 --> 30:21.535
+because there's other
+trade offs in the system.
+
+30:21.535 --> 30:24.368
+Second is, glasses are lightweight.
+
+30:24.368 --> 30:27.535
+The RayBan Metas I'm wearing
+today are 48 grams, right?
+
+30:27.535 --> 30:30.235
+Even Orion right now is
+less than a hundred grams
+
+30:30.235 --> 30:33.568
+that still feels heavy over
+a longer period of time.
+
+30:33.568 --> 30:35.935
+And when lenses right now are
+about two millimeters thick,
+
+30:35.935 --> 30:38.101
+if you add a wave guide,
+they're four millimeters thick.
+
+30:38.101 --> 30:40.468
+So are you gonna have one
+fat lens or two fat lenses?
+
+30:40.468 --> 30:43.235
+And so when you start really
+thinking about form factor
+
+30:43.235 --> 30:45.735
+and really getting to
+glasses and acceptability,
+
+30:45.735 --> 30:49.135
+it even constrains the space
+you're working with even more.
+
+30:49.135 --> 30:50.235
+And so when we think about
+
+30:50.235 --> 30:52.735
+what constrains us on Orion
+is we're trying to do all
+
+30:52.735 --> 30:55.935
+of this, right, with highly
+immersive wide field of view
+
+30:55.935 --> 30:58.301
+with high resolution with no light leakage
+
+30:58.301 --> 31:00.101
+and a lightweight form factor.
+
+31:00.101 --> 31:01.368
+And so a lot of the technologies
+
+31:01.368 --> 31:03.568
+that we're using right now
+aren't commercially viable
+
+31:03.568 --> 31:06.301
+in the sense of they're high cost, right?
+
+31:06.301 --> 31:08.801
+And they're expensive because
+there's also this trade off as
+
+31:08.801 --> 31:10.501
+how much is the user gonna pay
+
+31:10.501 --> 31:12.501
+for this AR experience, right?
+
+31:12.501 --> 31:14.535
+Are they gonna pay $10,000
+per pair of glasses?
+
+31:14.535 --> 31:15.701
+Probably not, right?
+
+31:15.701 --> 31:17.668
+I mean if they say Tiffany on 'em maybe,
+
+31:17.668 --> 31:20.935
+but, you know, so I think what
+we're looking at is we need
+
+31:20.935 --> 31:23.535
+to get to a price point
+where we think the value
+
+31:23.535 --> 31:25.768
+of these glasses are enough
+that people are willing to pay
+
+31:25.768 --> 31:29.268
+for them and that the
+technologies that we put
+
+31:29.268 --> 31:32.135
+inside can deliver the experience
+that we think are fitting
+
+31:32.135 --> 31:34.635
+for truly AR-immersive display.
+
+31:34.635 --> 31:37.735
+And so we've learned a lot
+from smart glasses, right?
+
+31:37.735 --> 31:40.935
+Both on the consumers, how
+to bring these to consumers.
+
+31:40.935 --> 31:42.535
+You know what the things
+we don't talk about
+
+31:42.535 --> 31:44.068
+is everyone in this room
+
+31:44.068 --> 31:46.235
+is really familiar with
+consumer electronics, right?
+
+31:46.235 --> 31:48.101
+Jo-Bob is not, right?
+
+31:48.101 --> 31:50.335
+And so training people to
+actually think about glasses
+
+31:50.335 --> 31:52.601
+with technology inside
+has been a challenge.
+
+31:52.601 --> 31:55.635
+We spent a lot of time
+doing demonstrations, right?
+
+31:55.635 --> 31:57.801
+To teach people how do you use the
+
+31:57.801 --> 31:59.201
+camera, how do you use the audio?
+
+31:59.201 --> 32:00.535
+People are still blown away today
+
+32:00.535 --> 32:02.335
+that there's audio in their glasses.
+
+32:02.335 --> 32:03.535
+And so what we're trying
+
+32:03.535 --> 32:06.368
+to also look at is we're
+actually going towards that,
+
+32:06.368 --> 32:08.901
+you know, user out there that
+knows a lot about glasses,
+
+32:08.901 --> 32:10.035
+that's the early adopter,
+
+32:10.035 --> 32:12.535
+but they still have a price
+point that we have to manage
+
+32:12.535 --> 32:14.834
+and wait and experience and
+have all those pieces together.
+
+32:14.834 --> 32:17.668
+And so I think that's part of the delay.
+
+32:17.668 --> 32:19.734
+Obviously there's silicon that you know,
+
+32:19.734 --> 32:21.168
+is that we're working on right now.
+
+32:21.168 --> 32:23.534
+There's battery, there's eye tracking,
+
+32:23.534 --> 32:25.168
+there's the graphics pipeline, like all
+
+32:25.168 --> 32:26.601
+of this has to come together.
+
+32:26.601 --> 32:27.701
+And so being able to show it
+
+32:27.701 --> 32:29.401
+and demo it in the Orion form factor
+
+32:29.401 --> 32:31.168
+I think was a big breakthrough.
+
+32:31.168 --> 32:33.534
+Now the next thing is coming
+back to supply chain ops
+
+32:33.534 --> 32:34.968
+and the rest of our teams of like make
+
+32:34.968 --> 32:36.568
+this happen within a budget.
+
+32:36.568 --> 32:38.868
+And I think that's what's really gonna,
+
+32:38.868 --> 32:41.268
+the focus is gonna be in
+how we bring this to life.
+
+32:41.268 --> 32:45.101
+- You know, I mentioned that in the key,
+
+32:45.101 --> 32:48.268
+in the title, it uses the word 2030.
+
+32:49.301 --> 32:53.834
+As we talk, maybe the guys
+from CES knew something,
+
+32:54.901 --> 32:57.134
+oh, is 2030 kinda like
+
+33:02.701 --> 33:05.734
+the timeframe that we're gonna
+solve some of these things?
+
+33:05.734 --> 33:08.068
+- Tim, everything in XR
+is always five years away.
+
+33:08.068 --> 33:11.434
+That's the simple-
+(group laughing)
+
+33:11.434 --> 33:12.901
+It's the easiest role, right?
+
+33:14.001 --> 33:17.168
+- I think we see a clear path
+to broad consumer adoption
+
+33:17.168 --> 33:19.301
+of AR glasses within this decade.
+
+33:19.301 --> 33:20.868
+And lemme tell you how we're gonna do it.
+
+33:20.868 --> 33:23.768
+We've already shipped real
+AR glasses to real people
+
+33:23.768 --> 33:26.068
+that are available today.
+
+33:26.068 --> 33:27.968
+And we already have a scaled use case.
+
+33:27.968 --> 33:30.234
+We know what people want to do with AR
+
+33:30.234 --> 33:33.234
+and we see that AR glasses
+is the next logical step,
+
+33:33.234 --> 33:35.201
+but like I mentioned,
+building them inside is hard,
+
+33:35.201 --> 33:37.201
+building them outside is even harder.
+
+33:37.201 --> 33:39.534
+So we're not asking people to do anything
+
+33:39.534 --> 33:40.868
+they're not already doing.
+
+33:40.868 --> 33:43.134
+Three of us on this panel
+already wear glasses.
+
+33:43.134 --> 33:44.634
+We're gonna just make those glasses more
+
+33:44.634 --> 33:47.634
+and more powerful in a way
+that lets the technology fade
+
+33:47.634 --> 33:50.268
+to the background so people
+can focus on living their lives
+
+33:50.268 --> 33:53.368
+and having fun in a way that's
+more natural, more human
+
+33:53.368 --> 33:54.901
+and just more interactive.
+
+33:54.901 --> 33:56.334
+- Yeah, I think that's the key, Scott,
+
+33:56.334 --> 33:59.634
+is as we're seeing this
+technology continue to develop,
+
+33:59.634 --> 34:01.101
+I mentioned this training wheels idea
+
+34:01.101 --> 34:03.268
+before, you know,
+putting on a pair of the,
+
+34:03.268 --> 34:05.834
+the meta Wayfarers, I've got a pair,
+
+34:05.834 --> 34:07.301
+I use 'em all the time now.
+
+34:09.334 --> 34:11.034
+When I put on my regular sunglasses,
+
+34:11.034 --> 34:12.601
+I feel like I'm missing something.
+
+34:12.601 --> 34:13.901
+Like there's a disconnect.
+
+34:13.901 --> 34:17.834
+I get used to having that
+extra bit of ability around it.
+
+34:17.834 --> 34:20.001
+You throw on a visual display,
+
+34:20.001 --> 34:22.001
+and this is actually a funny anecdote.
+
+34:22.001 --> 34:24.168
+I have a friend of mine
+that has tried out a bunch
+
+34:24.168 --> 34:28.434
+of VR devices because I've
+forced 'em to over the years
+
+34:28.434 --> 34:31.734
+and he bought a pair of the meta glasses
+
+34:31.734 --> 34:32.934
+and he's like, you know
+what would be great?
+
+34:32.934 --> 34:34.801
+It's like if they could have
+like a little display on it.
+
+34:34.801 --> 34:36.601
+I'm like, well you mean like XR devices?
+
+34:36.601 --> 34:38.468
+He's like, oh, is that what
+you guys have been working on?
+
+34:38.468 --> 34:39.801
+I'm like, yeah, that's what
+everybody's been working on
+
+34:39.801 --> 34:41.601
+this is the whole idea, right?
+
+34:41.601 --> 34:44.468
+So this is the graduation
+of the tech, right?
+
+34:44.468 --> 34:47.601
+And as we see more development go into it
+
+34:47.601 --> 34:50.534
+and we see the ability for
+these, the wave guides to be able
+
+34:50.534 --> 34:53.668
+to get smaller, lighter,
+faster, better, that graduation
+
+34:53.668 --> 34:56.301
+of the technology, it'll start
+to get slowly implemented.
+
+34:56.301 --> 34:58.234
+But I think we are still gonna
+have some of the challenges
+
+34:58.234 --> 35:01.601
+and some of the reasons why
+some folks are offloading power
+
+35:01.601 --> 35:03.268
+processing and things like that
+
+35:03.268 --> 35:07.068
+to a separate battery device,
+puck, whatever it may be.
+
+35:08.068 --> 35:09.568
+You know, I think that
+we're going to, we see this,
+
+35:09.568 --> 35:11.901
+this crossover where some
+people say, you know what?
+
+35:11.901 --> 35:13.068
+I need to have it all in one
+
+35:13.068 --> 35:14.368
+or other folks are gonna
+say, you know what?
+
+35:14.368 --> 35:16.434
+I wanna have a companion
+device that's gonna run
+
+35:16.434 --> 35:18.634
+and I can wear this
+device maybe a little bit
+
+35:18.634 --> 35:20.334
+longer 'cause it's a little bit lighter.
+
+35:20.334 --> 35:23.201
+Whatever factor rolls into
+it absolutely has to go down
+
+35:23.201 --> 35:25.634
+to the wearability and the
+individual user saying,
+
+35:25.634 --> 35:28.368
+I'm comfortable using
+this in my daily life.
+
+35:28.368 --> 35:30.768
+- And let's just add even
+more to the equation.
+
+35:30.768 --> 35:35.634
+Most people wear glasses today
+because they need rx, right?
+
+35:35.634 --> 35:38.034
+And so like if you look
+at sun form factor,
+
+35:38.034 --> 35:39.834
+those are easy users to go after.
+
+35:39.834 --> 35:41.568
+I have clear these are
+transition lenses on
+
+35:41.568 --> 35:42.968
+right now, they're great.
+
+35:42.968 --> 35:44.534
+We actually see with our RayBan metas
+
+35:44.534 --> 35:47.168
+that we have the higher percentage
+of transition lens users
+
+35:47.168 --> 35:48.301
+because people wanna go indoors
+
+35:48.301 --> 35:50.801
+and outdoors with the
+same set of smart glasses.
+
+35:50.801 --> 35:53.134
+But the big population here
+
+35:53.134 --> 35:54.668
+that wears glasses is rx.
+
+35:54.668 --> 35:57.568
+So you need to add RX
+into this display equation
+
+35:57.568 --> 35:59.234
+that we just talked about, right?
+
+35:59.234 --> 36:00.401
+Which is already heavy,
+
+36:00.401 --> 36:02.601
+which already you have the
+social form factor issues
+
+36:02.601 --> 36:03.434
+and then you're gonna have
+
+36:03.434 --> 36:04.834
+to revolutionize the supply chain.
+
+36:04.834 --> 36:07.034
+And this is one of the reasons
+that we partnered with Esil
+
+36:07.034 --> 36:10.034
+or Luxottica is that we feel that is one
+
+36:10.034 --> 36:12.134
+of the big challenges that
+we're going to have to solve.
+
+36:12.134 --> 36:13.501
+And they're one of the best partners
+
+36:13.501 --> 36:15.534
+that we can actually
+solve that with as well
+
+36:15.534 --> 36:17.601
+as they have the distribution
+that gets us into the consumer
+
+36:17.601 --> 36:19.968
+that teaches that consumer
+both on the optical
+
+36:19.968 --> 36:21.601
+and the retail side as well
+
+36:21.601 --> 36:23.201
+as it helps us leverage their brands,
+
+36:23.201 --> 36:25.834
+which people then have trust
+that hey, this is gonna look
+
+36:25.834 --> 36:28.368
+and feel like a RayBan product.
+
+36:28.368 --> 36:30.301
+- But I do think it's worth it to get
+
+36:30.301 --> 36:32.701
+the displays into the glasses themselves
+
+36:32.701 --> 36:35.668
+because it just makes it
+so much easier for people
+
+36:35.668 --> 36:36.801
+to understand what to do.
+
+36:36.801 --> 36:39.434
+One of my favorite parts of working
+
+36:39.434 --> 36:41.401
+on at this job is getting to do demos
+
+36:41.401 --> 36:44.201
+to skeptical very serious people.
+
+36:44.201 --> 36:45.834
+And we get them laughing and smiling
+
+36:45.834 --> 36:47.934
+as they're pinching AR bubbles moving
+
+36:47.934 --> 36:50.768
+around augmented reality
+jellyfish with our tutorial
+
+36:50.768 --> 36:52.268
+and then they're just off to the races,
+
+36:52.268 --> 36:54.234
+playing golf, building Legos,
+
+36:54.234 --> 36:56.668
+usually with very little
+instruction from me.
+
+36:56.668 --> 36:59.401
+And then with the younger
+generation, they love
+
+36:59.401 --> 37:00.534
+to like imagine things.
+
+37:00.534 --> 37:02.801
+So we have a lens called Imagine Together
+
+37:03.901 --> 37:06.901
+where you literally say what
+you are thinking, it pops up
+
+37:06.901 --> 37:08.134
+as a 2D image.
+
+37:08.134 --> 37:11.234
+We use gen AI to build it
+into 3D and it's interactable.
+
+37:11.234 --> 37:13.201
+You can move it around, you can play it.
+
+37:13.201 --> 37:15.901
+And then with connected lenses
+we can play with it together.
+
+37:15.901 --> 37:18.568
+So I was playing with
+my daughter, she wanted
+
+37:18.568 --> 37:22.934
+to have a tea party, we,
+she imagined a teacup
+
+37:22.934 --> 37:25.201
+and all the stuff that goes
+along with a tea party,
+
+37:25.201 --> 37:27.734
+we put it on the table and
+we just started playing
+
+37:27.734 --> 37:28.768
+and it was so much fun.
+
+37:28.768 --> 37:30.801
+And like that's what we're going for.
+
+37:30.801 --> 37:34.768
+That's just that fun aspect
+and it's amazing to see.
+
+37:34.768 --> 37:35.834
+- Yeah, and I think we, you know,
+
+37:35.834 --> 37:37.868
+we see the crossover with, you know, fun
+
+37:37.868 --> 37:39.168
+and then we look at it, you know,
+
+37:39.168 --> 37:40.201
+it's sometimes a little bit more of
+
+37:40.201 --> 37:42.601
+the stodgier portion of the
+enterprise space, right?
+
+37:42.601 --> 37:43.434
+So how do we actually make this
+
+37:43.434 --> 37:46.601
+into a business-usable tool, right?
+
+37:46.601 --> 37:50.034
+And you know, when we start
+looking at it from who's going
+
+37:50.034 --> 37:51.567
+to invest in some of
+these early technologies,
+
+37:51.567 --> 37:54.734
+sometimes it does go to the
+enterprise first and you know,
+
+37:54.734 --> 37:58.434
+but you know, I think
+we've talked about this
+
+37:58.434 --> 37:59.734
+ad nauseum at this point, you know,
+
+37:59.734 --> 38:01.867
+a lot of people will become to expect
+
+38:01.867 --> 38:04.434
+that these devices will
+be part of their ability
+
+38:04.434 --> 38:06.501
+to bring into their jobs.
+
+38:06.501 --> 38:08.967
+You know, the privacy aspects of it.
+
+38:08.967 --> 38:11.567
+All the challenges associated
+with these devices,
+
+38:11.567 --> 38:14.601
+but there's going to be
+so much of a consumer use
+
+38:14.601 --> 38:17.167
+of this technology that there's
+going to be an expectation
+
+38:17.167 --> 38:18.534
+that you're gonna be able to use it
+
+38:18.534 --> 38:20.401
+on the job as well.
+
+38:20.401 --> 38:22.034
+I think, you know, many of us started off
+
+38:22.034 --> 38:23.967
+with our own personal phones, you know,
+
+38:23.967 --> 38:25.334
+cell phones being able to use them
+
+38:25.334 --> 38:26.801
+and then you start bringing 'em into work
+
+38:26.801 --> 38:31.434
+and it had to be this graduation
+of allowing organizations
+
+38:31.434 --> 38:33.234
+to allow for your
+personal phone to be used
+
+38:33.234 --> 38:34.401
+for work related needs.
+
+38:34.401 --> 38:36.467
+And we're gonna see the same level of kind
+
+38:36.467 --> 38:39.834
+of graduation over from fun into work.
+
+38:39.834 --> 38:43.501
+But all of those things are
+absolutely gonna work together.
+
+38:43.501 --> 38:44.334
+There is one thing I think
+
+38:44.334 --> 38:46.901
+that you both talked about is
+just the interaction points.
+
+38:46.901 --> 38:50.434
+And you know, the ability to have
+
+38:51.634 --> 38:53.067
+a device where you just put it on,
+
+38:53.067 --> 38:55.001
+and can interact with a virtual world
+
+38:55.001 --> 38:58.067
+or interact with virtual
+objects is really key.
+
+38:58.067 --> 38:59.401
+And, you know, I want to call out
+
+38:59.401 --> 39:01.567
+what meta is doing on, on Orion
+
+39:01.567 --> 39:03.967
+as something I think is
+going to be a a new industry
+
+39:03.967 --> 39:06.834
+altogether is that band.
+
+39:06.834 --> 39:09.734
+Now that band seems simplistic,
+
+39:09.734 --> 39:12.434
+but for anybody that's worked in XR
+
+39:12.434 --> 39:13.701
+and has used hand tracking before,
+
+39:13.701 --> 39:16.534
+one of the biggest drawbacks of that is
+
+39:16.534 --> 39:18.834
+a lack of haptic response.
+
+39:18.834 --> 39:21.501
+And getting even just a
+little bit of vibration,
+
+39:21.501 --> 39:24.434
+a little bit of tactile response
+when you're manipulating
+
+39:24.434 --> 39:28.234
+something is so much more of
+a connection to that object.
+
+39:28.234 --> 39:29.501
+And I think we'll see that with,
+
+39:29.501 --> 39:30.601
+you know, across the ecosystem.
+
+39:30.601 --> 39:33.401
+I'm sure you guys are working
+in that direction as well,
+
+39:34.267 --> 39:37.001
+that there's a need for people to say,
+
+39:37.001 --> 39:39.201
+oh I actually have
+physically engaged with that
+
+39:39.201 --> 39:41.867
+and it's gonna cement that
+interaction even further.
+
+39:41.867 --> 39:44.134
+It's gonna make it feel
+more tangible to them.
+
+39:44.134 --> 39:45.601
+It's gonna make it feel more real.
+
+39:45.601 --> 39:47.667
+And I think you guys did
+a great job with that
+
+39:47.667 --> 39:50.034
+and I think I'd love
+to see that become more
+
+39:50.034 --> 39:52.667
+of the norm throughout XR
+
+39:52.667 --> 39:55.734
+and interaction is that we
+need something that triggers
+
+39:55.734 --> 39:59.734
+that mind link that I did
+actually touch that thing.
+
+39:59.734 --> 40:01.301
+'Cause otherwise you're just,
+you know, interacting with
+
+40:01.301 --> 40:02.701
+that little ghost out there, right?
+
+40:02.701 --> 40:03.967
+So when you reach out
+
+40:03.967 --> 40:06.234
+and you pinch, if you could just feel that
+
+40:06.234 --> 40:07.734
+makes all the world difference.
+
+40:07.734 --> 40:09.434
+- Well, and I think one of the things
+
+40:09.434 --> 40:11.134
+that we've been really focused on is
+
+40:11.134 --> 40:14.501
+that people need multimodal,
+they need different ways
+
+40:14.501 --> 40:15.834
+to be able to interact their glasses.
+
+40:15.834 --> 40:18.034
+So we have voice, which
+I won't say "Hey Meta,"
+
+40:18.034 --> 40:20.301
+'cause my glasses will go off,
+but you have voice, right?
+
+40:20.301 --> 40:21.634
+We also, we have the touch, right?
+
+40:21.634 --> 40:22.801
+So you can take a photo,
+
+40:22.801 --> 40:25.934
+having the band gives you
+discreet input, right?
+
+40:25.934 --> 40:27.101
+You could actually be engaging
+
+40:27.101 --> 40:29.367
+with your meta AI
+assistant very discreetly
+
+40:29.367 --> 40:30.834
+by just doing clicks.
+
+40:30.834 --> 40:32.001
+And to your point, like having
+
+40:32.001 --> 40:33.701
+that haptic response gives you confidence
+
+40:33.701 --> 40:34.734
+that it's actually hearing
+
+40:34.734 --> 40:37.701
+and responding to you
+in discrete function.
+
+40:37.701 --> 40:39.401
+And so I find right
+now, today I spend a lot
+
+40:39.401 --> 40:40.734
+of time clicking my glasses,
+
+40:40.734 --> 40:42.534
+especially if I'm taking action videos
+
+40:42.534 --> 40:44.234
+of me skiing down the slopes
+
+40:44.234 --> 40:46.634
+because you know, the voice,
+the wind noise, right?
+
+40:46.634 --> 40:48.467
+It won't pick up my voice
+with that wind noise.
+
+40:48.467 --> 40:51.134
+And so I think the band is
+gonna open up a whole new set
+
+40:51.134 --> 40:53.567
+of interactions, both
+just on smart glasses
+
+40:53.567 --> 40:56.367
+and AI assistant, but
+also as you go to displays
+
+40:56.367 --> 40:58.434
+and being able to navigate those displays.
+
+40:58.434 --> 40:59.334
+- Just to add to that,
+
+40:59.334 --> 41:01.434
+like the way we actually designed Snap OS
+
+41:01.434 --> 41:03.734
+is the interface is literally
+in the palm of your hand.
+
+41:03.734 --> 41:06.834
+So you get that physical
+touch as you touch your finger
+
+41:06.834 --> 41:08.101
+and it feels like you're
+touching the button.
+
+41:08.101 --> 41:11.201
+- Yeah, just it is a really
+cool feature on the Snap.
+
+41:11.201 --> 41:13.534
+I'd be remiss to not ask this question
+
+41:13.534 --> 41:16.934
+and unfortunately I'm doing
+it with like a minute left,
+
+41:16.934 --> 41:18.801
+which is bad.
+
+41:18.801 --> 41:21.834
+(group chuckling)
+
+41:21.834 --> 41:26.767
+AI on the meta,
+
+41:26.767 --> 41:28.501
+Wayfarers was really kind
+
+41:28.501 --> 41:30.334
+of a breakthrough for me.
+
+41:30.334 --> 41:33.601
+The fact that you could use
+your headset or use that
+
+41:33.601 --> 41:36.367
+and you're seeing more and
+more earbuds, et cetera,
+
+41:36.367 --> 41:38.467
+adding the AI feature.
+
+41:38.467 --> 41:40.634
+The other thing that you
+
+41:40.634 --> 41:42.934
+and I were talking about is translation.
+
+41:43.801 --> 41:45.967
+I've tried two or three glasses
+
+41:45.967 --> 41:50.967
+and or earbuds that do translation.
+
+41:51.334 --> 41:53.867
+I think those two are
+
+41:54.734 --> 41:59.467
+kinda underappreciated as a
+part of this next generation
+
+41:59.467 --> 42:01.201
+of applications.
+
+42:01.201 --> 42:04.001
+The idea of being able
+to have those headsets
+
+42:04.001 --> 42:09.001
+and I saw one from Evan Labs last night
+
+42:10.467 --> 42:15.467
+where the president was
+speaking to me in Chinese
+
+42:15.467 --> 42:19.234
+and what he said was
+showing up in the glasses.
+
+42:19.234 --> 42:21.167
+And that was a game changer in the sense.
+
+42:21.167 --> 42:23.201
+And then of course being able to just say,
+
+42:23.201 --> 42:25.734
+"Hey, meta," you know, "what time is it?"
+
+42:25.734 --> 42:26.934
+Or where am I going?
+
+42:26.934 --> 42:28.667
+Actually, I don't ask it that
+
+42:28.667 --> 42:31.201
+'cause you'll never know,
+but you know what I mean?
+
+42:32.301 --> 42:37.034
+The role of AI in spatial, I think,
+
+42:37.034 --> 42:39.201
+is gonna be very important.
+
+42:39.201 --> 42:44.201
+And I want to, if I can
+get this screen up on this
+
+42:46.067 --> 42:50.201
+and by just telling you
+a little bit about a site
+
+42:50.201 --> 42:52.301
+that my partner and I
+have created called AI
+
+42:52.301 --> 42:55.501
+and Spatial Computing Resource Center.
+
+42:55.501 --> 42:59.601
+That's the connection to
+it. This is a labor of love.
+
+42:59.601 --> 43:01.134
+There's no cost.
+
+43:01.134 --> 43:04.401
+We have, Barton and I have
+written hundreds of articles
+
+43:04.401 --> 43:07.767
+and pieces of material
+on this particular area,
+
+43:07.767 --> 43:11.667
+and we brought in a lot of
+material and case studies
+
+43:11.667 --> 43:13.434
+and this is a good resource center
+
+43:13.434 --> 43:16.834
+because the AI connection is still new.
+
+43:16.834 --> 43:19.267
+I mean, you know, all, you know, you can't
+
+43:19.267 --> 43:21.367
+by the way go anywhere here
+
+43:21.367 --> 43:25.100
+and any booth without AI being brought up.
+
+43:25.100 --> 43:28.900
+So we kind of determined
+that it's a trend.
+
+43:28.900 --> 43:32.934
+The bottom line is we felt
+that this started out as,
+
+43:32.934 --> 43:37.234
+as was called the
+Metaverse Resource Center,
+
+43:37.234 --> 43:40.467
+but most recently we
+started bringing in more
+
+43:40.467 --> 43:44.600
+and more of the AI and spatial
+computing content to this.
+
+43:44.600 --> 43:47.100
+So if you can get a picture of that
+
+43:50.700 --> 43:54.234
+symbol there, it'll take
+you right to the guide.
+
+43:57.034 --> 43:58.534
+We're unfortunately right out of time.
+
+43:58.534 --> 44:01.434
+But I do want to each ask
+each of you, you know,
+
+44:01.434 --> 44:03.200
+to weigh in on just one last thing.
+
+44:06.834 --> 44:11.634
+XR and AR have kind of solidified
+
+44:11.634 --> 44:13.000
+where they are today.
+
+44:13.000 --> 44:17.700
+Gaming, education, training, enterprise,
+
+44:19.200 --> 44:20.767
+and there may be some.
+
+44:20.767 --> 44:22.800
+And if you're in the next session,
+
+44:22.800 --> 44:27.000
+Dr. Castro will bring up some
+amazing examples in the area
+
+44:27.000 --> 44:29.067
+of it use using in surgery.
+
+44:34.134 --> 44:35.034
+But if you actually look
+
+44:35.034 --> 44:37.367
+at the one big theme from this show,
+
+44:37.367 --> 44:41.567
+you're gonna walk away from
+it saying that Smart glasses
+
+44:41.567 --> 44:46.367
+was a really important new
+thing that was brought up.
+
+44:46.367 --> 44:50.300
+Where are we going to be
+next year with smart glasses?
+
+44:50.300 --> 44:53.234
+Are we gonna see breakthroughs?
+
+44:53.234 --> 44:57.300
+Is this gonna be more
+of a developing year?
+
+44:57.300 --> 44:59.967
+2026? Is that the next year?
+
+44:59.967 --> 45:02.934
+Yeah, 20, I've totally lost years.
+
+45:02.934 --> 45:04.467
+I'm getting so old that I don't even
+
+45:04.467 --> 45:05.634
+know what they are anymore.
+
+45:05.634 --> 45:09.900
+Anyway, 2026, what do you
+think is gonna happen?
+
+45:09.900 --> 45:12.700
+- Well, from a meta point of view,
+
+45:12.700 --> 45:15.934
+our RayBan metas are
+selling very well, right?
+
+45:15.934 --> 45:17.534
+We are leaning in to continue
+
+45:17.534 --> 45:19.867
+to drive growth on these glasses.
+
+45:19.867 --> 45:22.134
+I think the biggest
+learnings we have is really
+
+45:22.134 --> 45:23.367
+understanding, you know,
+
+45:23.367 --> 45:25.600
+and demoing the glasses to the consumer.
+
+45:25.600 --> 45:27.034
+You know, we have to remember that to get
+
+45:27.034 --> 45:29.934
+to broad consumer adoption,
+this is a new technology,
+
+45:29.934 --> 45:32.934
+this is a new use case in how
+they're using the glasses.
+
+45:32.934 --> 45:35.434
+We see that we are on the hockey stick.
+
+45:35.434 --> 45:37.567
+I think the evidence of all
+the new AI glasses you're gonna
+
+45:37.567 --> 45:39.467
+see at the show today kind of shows that
+
+45:39.467 --> 45:41.900
+we're gonna continue to
+lean in that form factor
+
+45:41.900 --> 45:43.234
+and style is important.
+
+45:44.200 --> 45:47.534
+Two is we're continuing to lean
+into our AI on the glasses.
+
+45:47.534 --> 45:48.867
+We've launched many new kind
+
+45:48.867 --> 45:51.200
+of AI commands, we had "Be My Eyes,"
+
+45:51.200 --> 45:52.867
+which is one of the partnerships that were
+
+45:52.867 --> 45:54.467
+for the low and vision impaired,
+
+45:54.467 --> 45:56.600
+where they can actually turn on the camera
+
+45:56.600 --> 45:58.634
+and say, look at this, right?
+
+45:58.634 --> 46:00.634
+And then the user on the other side,
+
+46:00.634 --> 46:02.334
+on the Be My Eyes
+database can actually see
+
+46:02.334 --> 46:05.167
+what they're seeing, and then
+in their ear can actually give
+
+46:05.167 --> 46:07.567
+them instructions on how to navigate.
+
+46:07.567 --> 46:09.100
+This was actually a
+really big breakthrough
+
+46:09.100 --> 46:10.434
+for that community.
+
+46:10.434 --> 46:13.400
+We're leaning in more
+to, you know, reminders.
+
+46:13.400 --> 46:14.434
+Like, hey, look at this.
+
+46:14.434 --> 46:17.000
+Remind me later, where's
+where did I park my car?
+
+46:17.000 --> 46:18.934
+That's a big one that I use a lot.
+
+46:18.934 --> 46:22.467
+And in our early access program
+right now, we have live AI.
+
+46:22.467 --> 46:25.867
+So you can actually live from
+your glasses, actually show
+
+46:25.867 --> 46:28.900
+what you're seeing and doing at that time,
+
+46:28.900 --> 46:31.734
+and then put it on your
+Facebook family of apps
+
+46:31.734 --> 46:33.300
+and then live translation,
+
+46:33.300 --> 46:35.634
+which is really a game
+changer today in these glasses
+
+46:35.634 --> 46:37.634
+so that you can speak with
+someone in a different language
+
+46:37.634 --> 46:39.534
+and then have it translated in your ear.
+
+46:39.534 --> 46:41.800
+You're gonna see a cadence of more
+
+46:41.800 --> 46:45.434
+and more launches of really
+specific AI use cases
+
+46:45.434 --> 46:48.767
+that help your assistant be
+even more useful to you so
+
+46:48.767 --> 46:52.034
+that you don't want to take
+your glasses off, right?
+
+46:52.034 --> 46:54.067
+At the same time, the
+glasses have to look good.
+
+46:54.067 --> 46:55.734
+They have to feel good, right?
+
+46:55.734 --> 46:57.000
+And we need more and more consumers
+
+46:57.000 --> 46:58.100
+to find out about the glasses
+
+46:58.100 --> 46:59.867
+and to continue to kind of lean into them.
+
+46:59.867 --> 47:02.734
+And so we're really excited
+in terms of this growth year.
+
+47:02.734 --> 47:03.800
+Some of the other things you're seeing,
+
+47:03.800 --> 47:05.767
+we've been leaning into more styles.
+
+47:05.767 --> 47:08.767
+You know, we recently
+launched our headliner
+
+47:08.767 --> 47:12.334
+and our Skylar style for
+more of the female audience.
+
+47:12.334 --> 47:14.034
+We're also leaning into more colors
+
+47:14.034 --> 47:16.167
+and you're also gonna see
+more limited edition launches,
+
+47:16.167 --> 47:17.334
+like the one that I'm wearing so
+
+47:17.334 --> 47:19.234
+that we target very specific audiences.
+
+47:19.234 --> 47:23.334
+And so look out for this
+space, I wish I could say more,
+
+47:23.334 --> 47:25.800
+but we have a really exciting fall lineup
+
+47:25.800 --> 47:27.834
+on the glasses form factor
+
+47:27.834 --> 47:29.667
+that we're gonna continue
+to be leaning into.
+
+47:29.667 --> 47:32.500
+- Scott, a year from now. Snap.
+
+47:32.500 --> 47:35.734
+- So I don't wanna comment on
+specific roadmap necessarily,
+
+47:35.734 --> 47:38.600
+but like we know now that
+the hardware, software
+
+47:38.600 --> 47:40.367
+and the authoring tools are ready to go.
+
+47:40.367 --> 47:43.534
+So we expect to see this
+explosion of use cases
+
+47:43.534 --> 47:45.934
+focused on just helping
+people live their lives better
+
+47:45.934 --> 47:47.667
+and looking up not down.
+
+47:47.667 --> 47:49.200
+And if anybody wants to see spectacles
+
+47:49.200 --> 47:51.000
+after you let me know,
+I'm happy to stick around.
+
+47:51.000 --> 47:52.534
+- Okay, Jason?
+
+47:52.534 --> 47:54.534
+You're gonna do some
+partnerships this year, right?
+
+47:54.534 --> 47:56.900
+- Yeah, so obviously we
+did a big announcement
+
+47:56.900 --> 47:58.700
+with Meta probably about
+six months ago or so.
+
+47:58.700 --> 48:01.767
+We'll be working with them
+on the Horizon ecosystem.
+
+48:01.767 --> 48:02.867
+So we will be leaning into
+
+48:02.867 --> 48:05.200
+that relationship in this coming year.
+
+48:05.200 --> 48:07.734
+So we're very excited to
+continue to develop that.
+
+48:07.734 --> 48:09.667
+But I think 2025 is going to be the year
+
+48:09.667 --> 48:12.600
+where these devices become
+socially acceptable,
+
+48:12.600 --> 48:15.267
+where people will begin
+to fully understand
+
+48:15.267 --> 48:16.900
+that this is a thing that they're going
+
+48:16.900 --> 48:18.500
+to see on a regular basis.
+
+48:18.500 --> 48:21.100
+You know, whether it's a Snap like device,
+
+48:21.100 --> 48:23.334
+a Wayfarer device, you know
+
+48:23.334 --> 48:24.967
+the RayBan glasses style
+
+48:24.967 --> 48:28.334
+or eventually an Orion type glass.
+
+48:28.334 --> 48:30.367
+We're gradually building the community
+
+48:30.367 --> 48:33.067
+and gradually building
+the audience to expect
+
+48:33.067 --> 48:36.334
+that a glasses form factor
+with cameras on them,
+
+48:36.334 --> 48:38.934
+with potentially displays could be part
+
+48:38.934 --> 48:41.400
+of the interaction you're
+having with another human being.
+
+48:41.400 --> 48:43.734
+So when you see somebody
+wearing glasses, they,
+
+48:43.734 --> 48:45.534
+it's not going to be just
+the normal expectation
+
+48:45.534 --> 48:47.100
+that they're just a pair of eyeglasses.
+
+48:47.100 --> 48:49.367
+You may be, you know, asked to,
+
+48:49.367 --> 48:50.767
+you know, asked a question, all right,
+
+48:50.767 --> 48:52.734
+well what's actually going
+on behind the scenes there?
+
+48:52.734 --> 48:54.800
+Are they seeing something?
+Are they hearing something?
+
+48:54.800 --> 48:55.633
+You know?
+
+48:55.633 --> 48:56.667
+So that interaction point
+
+48:56.667 --> 48:58.733
+becomes a lot more socially acceptable.
+
+48:58.733 --> 49:01.833
+I think by 2026, the big
+thing will be is that
+
+49:02.700 --> 49:04.033
+we're gonna have an expectation
+
+49:04.033 --> 49:06.467
+that these will be part
+of our daily lives.
+
+49:06.467 --> 49:08.233
+I think this will be the last year
+
+49:08.233 --> 49:10.967
+where people will walk away
+and say, you know what?
+
+49:10.967 --> 49:13.233
+I don't have that need to be able
+
+49:13.233 --> 49:14.833
+to speak to an AI assistant.
+
+49:14.833 --> 49:18.933
+I don't have that, again,
+the Chat GPT interaction
+
+49:18.933 --> 49:20.367
+or the LM interaction
+
+49:20.367 --> 49:22.867
+or whatever you're
+actually using for your LM,
+
+49:22.867 --> 49:23.933
+any of those tools
+
+49:23.933 --> 49:26.033
+become such a part of our daily lives
+
+49:26.033 --> 49:30.200
+that as we're moving into
+this next generation of tech,
+
+49:30.200 --> 49:31.933
+there's going to be this
+absolute expectation
+
+49:31.933 --> 49:34.167
+that it's built into
+that future technology.
+
+49:34.167 --> 49:36.767
+So I think we're at the
+end of the generation
+
+49:36.767 --> 49:39.000
+where there were dumb glasses
+
+49:39.000 --> 49:40.433
+and we're moving into that generation
+
+49:40.433 --> 49:41.667
+where there's an expectation,
+
+49:41.667 --> 49:42.667
+almost like the TVs we have today.
+
+49:42.667 --> 49:46.133
+When you buy a TV, every
+TV now is a smart TV.
+
+49:46.133 --> 49:48.833
+There's no TV that is not
+internet connected anymore.
+
+49:48.833 --> 49:50.533
+And I think in the very
+near future we're gonna have
+
+49:50.533 --> 49:53.833
+that same thing with our
+(indistinct) wearables.
+
+49:53.833 --> 49:55.767
+- Well panel, thank you
+so much for joining me.
+
+49:55.767 --> 49:58.200
+It's really been a pleasure
+to have you with us.
+
+49:58.200 --> 50:00.733
+Your information and your knowledge
+
+50:00.733 --> 50:03.467
+and your roles at your
+companies are important
+
+50:03.467 --> 50:05.233
+to us in the industry.
+
+50:05.233 --> 50:07.133
+Thank you for joining us today.
+
+50:07.133 --> 50:08.433
+- [Panelists] Thank you.
+
+50:08.433 --> 50:09.267
+- [Tim] And I encourage you to stay
+
+50:09.267 --> 50:12.033
+for the next session,
+which you'll enjoy too.
+
+50:12.033 --> 50:15.667
+Thank you very much!
+(audience applauding)
+
+50:15.667 --> 50:18.233
+(upbeat music)
+

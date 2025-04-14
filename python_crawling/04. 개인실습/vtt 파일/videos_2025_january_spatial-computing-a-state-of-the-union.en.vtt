@@ -1,0 +1,4183 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.262 --> 00:02.929
+(bright music)
+
+2
+00:11.446 --> 00:13.440
+<v ->Good morning, everyone.</v>
+
+3
+00:13.440 --> 00:14.640
+Alright, the clock's running.
+
+4
+00:14.640 --> 00:15.720
+I see people,
+
+5
+00:15.720 --> 00:18.360
+we'll give 'em like 30 seconds to get in here.
+
+6
+00:18.360 --> 00:20.280
+I'll start my introduction.
+
+7
+00:20.280 --> 00:22.500
+I'm Brian Markwalter, I'm with CTA,
+
+8
+00:22.500 --> 00:23.700
+I'm a senior vice president.
+
+9
+00:23.700 --> 00:25.230
+I oversee market research
+
+10
+00:25.230 --> 00:27.270
+in our technology and standards group.
+
+11
+00:27.270 --> 00:29.857
+It's an honor to be here moderating this panel,
+
+12
+00:29.857 --> 00:32.130
+"Spatial Computing and State of the Union."
+
+13
+00:32.130 --> 00:33.540
+We have some awesome guests.
+
+14
+00:33.540 --> 00:36.720
+I'm gonna let them say a little bit about who they are.
+
+15
+00:36.720 --> 00:38.010
+Everything's available.
+
+16
+00:38.010 --> 00:39.420
+You've probably seen it in the app
+
+17
+00:39.420 --> 00:40.830
+or on our website
+
+18
+00:40.830 --> 00:45.060
+so you can find the background on our speakers.
+
+19
+00:45.060 --> 00:46.530
+We're gonna do a little tour de force
+
+20
+00:46.530 --> 00:49.770
+on spatial computing today.
+
+21
+00:49.770 --> 00:52.230
+And again, welcome to CES.
+
+22
+00:52.230 --> 00:53.820
+First thing, we just got underway.
+
+23
+00:53.820 --> 00:54.870
+You've had two keynotes.
+
+24
+00:54.870 --> 00:56.400
+I hope you're having a good time.
+
+25
+00:56.400 --> 00:58.140
+There's a lot to do.
+
+26
+00:58.140 --> 01:01.230
+So let me just get underway and we'll start.
+
+27
+01:01.230 --> 01:05.010
+First question, we've had a lot of terms kicked around,
+
+28
+01:05.010 --> 01:06.300
+so I want to, for the panel,
+
+29
+01:06.300 --> 01:08.820
+if you guys could tell me your thoughts
+
+30
+01:08.820 --> 01:11.280
+on what spatial computing,
+
+31
+01:11.280 --> 01:14.010
+how's it different from XR and Metaverse?
+
+32
+01:14.010 --> 01:15.540
+We've seen kind of a migration
+
+33
+01:15.540 --> 01:18.540
+of terms over the last few years at CES.
+
+34
+01:18.540 --> 01:23.100
+Would somebody like to jump in and frame this up for us?
+
+35
+01:23.100 --> 01:24.893
+<v ->Sure,</v>
+<v ->Go for it.</v>
+
+36
+01:24.893 --> 01:26.790
+<v ->I mean, I think of spatial computing</v>
+
+37
+01:26.790 --> 01:29.160
+as the overarching term that includes everything.
+
+38
+01:29.160 --> 01:34.160
+So we can just now have 3D volumetric interactive content
+
+39
+01:34.500 --> 01:38.520
+across all sorts of devices that interact with you
+
+40
+01:38.520 --> 01:39.870
+and interact with the real world,
+
+41
+01:39.870 --> 01:43.233
+whether that's on web, mobile, headsets,
+
+42
+01:44.610 --> 01:47.010
+and that's basically it. (chuckles)
+
+43
+01:47.010 --> 01:49.680
+<v ->Okay.</v>
+<v ->Yeah, I agree, I agree.</v>
+
+44
+01:49.680 --> 01:52.410
+Special computing is like the key term,
+
+45
+01:52.410 --> 01:55.710
+but if you, for me to keep things straight in my head,
+
+46
+01:55.710 --> 01:58.440
+I kind of look at it as concentric circles.
+
+47
+01:58.440 --> 02:03.210
+So XR is kind of talking around the display devices
+
+48
+02:03.210 --> 02:06.570
+that you wear can be augmented or virtual reality
+
+49
+02:06.570 --> 02:08.770
+and the controllers to kind of the hardware.
+
+50
+02:09.850 --> 02:12.420
+And then spatial computing is when those devices
+
+51
+02:12.420 --> 02:15.300
+start understanding and scanning their environment,
+
+52
+02:15.300 --> 02:16.800
+including you.
+
+53
+02:16.800 --> 02:20.490
+And that lets you do spatial computing type applications
+
+54
+02:20.490 --> 02:22.110
+and solutions.
+
+55
+02:22.110 --> 02:24.629
+And the metaverse, I think is actually
+
+56
+02:24.629 --> 02:28.620
+a even larger outer circle where it's open platform,
+
+57
+02:28.620 --> 02:31.080
+maybe the evolution of the web
+
+58
+02:31.080 --> 02:33.780
+where you let multiple spatial computing apps
+
+59
+02:33.780 --> 02:38.780
+and users interact in an open standard, accessible way.
+
+60
+02:40.500 --> 02:41.670
+<v ->Let me jump in here,</v>
+
+61
+02:41.670 --> 02:44.490
+so when y'all speak, say who you are,
+
+62
+02:44.490 --> 02:45.540
+so we'll get everybody.
+
+63
+02:45.540 --> 02:47.010
+Neil, you wanna do
+
+64
+02:47.010 --> 02:48.090
+<v ->Yes.</v>
+<v ->quick intro?</v>
+
+65
+02:48.090 --> 02:49.230
+<v ->Yes. Sorry, I dumped in.</v>
+
+66
+02:49.230 --> 02:51.990
+So, Neil Trevett, my day job is at NVIDIA.
+
+67
+02:51.990 --> 02:53.970
+I spend a lot of my time on open standards.
+
+68
+02:53.970 --> 02:55.560
+I'm the president of the Khronos Group,
+
+69
+02:55.560 --> 02:57.150
+which is a standards organization
+
+70
+02:57.150 --> 02:59.070
+and the Metaverse Standards Forum.
+
+71
+02:59.070 --> 03:01.410
+<v ->Yeah, Ashley?</v>
+<v ->And I'm Ashley Crowder,</v>
+
+72
+03:01.410 --> 03:03.565
+the co-founder and CEO of VNTANA,
+
+73
+03:03.565 --> 03:06.870
+3D asset management platform used by manufacturers.
+
+74
+03:06.870 --> 03:08.820
+I've been working in the spatial computing space
+
+75
+03:08.820 --> 03:10.290
+for about 15 years.
+
+76
+03:10.290 --> 03:12.360
+Work with Neil and Khronos Group
+
+77
+03:12.360 --> 03:15.330
+and help manufacturers deploy 3D
+
+78
+03:15.330 --> 03:17.073
+and XR across their business.
+
+79
+03:18.330 --> 03:22.680
+<v ->Okay. Anybody else wanna jump in on the definitional?</v>
+
+80
+03:22.680 --> 03:23.550
+<v ->Yeah, maybe I'll add in.</v>
+
+81
+03:23.550 --> 03:24.810
+My name is Ziad Asghar, by the way,
+
+82
+03:24.810 --> 03:28.410
+I lead the XR division at Qualcomm.
+
+83
+03:28.410 --> 03:30.630
+So I'm general manager for AR and VR group.
+
+84
+03:30.630 --> 03:32.490
+But I think maybe the additional part
+
+85
+03:32.490 --> 03:34.950
+to what these people have already said is,
+
+86
+03:34.950 --> 03:36.945
+it's also the technologies that allow you
+
+87
+03:36.945 --> 03:39.450
+to be able to melt together the digital
+
+88
+03:39.450 --> 03:42.330
+and basically the visual world,
+
+89
+03:42.330 --> 03:44.550
+in such a way, that it's basically seamless.
+
+90
+03:44.550 --> 03:46.260
+And those technologies that come together
+
+91
+03:46.260 --> 03:48.120
+are basically computer vision.
+
+92
+03:48.120 --> 03:51.030
+It's artificial intelligence increasingly as it's happening.
+
+93
+03:51.030 --> 03:52.650
+And then perception technologies,
+
+94
+03:52.650 --> 03:53.910
+all the ones that come together,
+
+95
+03:53.910 --> 03:56.280
+whether it's eye tracking and hand tracking
+
+96
+03:56.280 --> 03:58.560
+and 3D deconstruction and all those techniques,
+
+97
+03:58.560 --> 04:02.070
+to be able to really melt those two worlds together.
+
+98
+04:02.070 --> 04:04.410
+And just to add a little bit more nuance there,
+
+99
+04:04.410 --> 04:07.800
+I mean XR is probably the core term, like Neil said,
+
+100
+04:07.800 --> 04:09.750
+and then a superset of that is MR
+
+101
+04:09.750 --> 04:12.480
+because now it does visual video see through
+
+102
+04:12.480 --> 04:13.320
+and you're able to get the real world.
+
+103
+04:13.320 --> 04:15.900
+And then above that you could say is metaverse.
+
+104
+04:15.900 --> 04:18.240
+And above that, probably is where spatial computing
+
+105
+04:18.240 --> 04:19.470
+is that which is the overarching term
+
+106
+04:19.470 --> 04:21.240
+that covers everything.
+
+107
+04:21.240 --> 04:24.150
+<v ->I mean, I will also say that people often use</v>
+
+108
+04:24.150 --> 04:25.890
+many of these terms interchangeably,
+
+109
+04:25.890 --> 04:27.630
+even if they're not exactly the same thing.
+
+110
+04:27.630 --> 04:30.330
+But they may mean to the person who's speaking,
+
+111
+04:30.330 --> 04:32.100
+they may be talking about the same thing.
+
+112
+04:32.100 --> 04:35.010
+But certain, some terms have come in and out of fashion
+
+113
+04:35.010 --> 04:36.990
+with investors and with the market.
+
+114
+04:36.990 --> 04:39.840
+And so some people very feel very strongly
+
+115
+04:39.840 --> 04:43.740
+that we use this term now and not that term despite
+
+116
+04:43.740 --> 04:46.590
+they might be essentially be meaning the same thing.
+
+117
+04:46.590 --> 04:48.870
+But as technology continues to improve,
+
+118
+04:48.870 --> 04:52.477
+you can more and more can be encompassed in the,
+
+119
+04:54.090 --> 04:55.350
+what we're talking about,
+
+120
+04:55.350 --> 04:57.450
+even if that was also the intention
+
+121
+04:57.450 --> 04:59.397
+in some of the earlier terms as well.
+
+122
+04:59.397 --> 05:01.440
+And I'm Joanna Popper.
+
+123
+05:01.440 --> 05:03.750
+I've held executive roles at HP
+
+124
+05:03.750 --> 05:07.110
+and NBC Universal Singularity University.
+
+125
+05:07.110 --> 05:09.750
+Most recently I was chief metaverse officer,
+
+126
+05:09.750 --> 05:12.720
+not to use that term, at CAA,
+
+127
+05:12.720 --> 05:14.700
+which is a Hollywood talent agency.
+
+128
+05:14.700 --> 05:16.050
+And now I've been advising
+
+129
+05:16.050 --> 05:17.820
+a number of companies in this space.
+
+130
+05:17.820 --> 05:19.380
+I've also executive produced a lot
+
+131
+05:19.380 --> 05:22.710
+of content in this space.
+
+132
+05:22.710 --> 05:23.543
+<v ->Awesome.</v>
+
+133
+05:23.543 --> 05:28.410
+So I mentioned part of my job is our standards team.
+
+134
+05:28.410 --> 05:30.330
+So we did standards early in this space.
+
+135
+05:30.330 --> 05:31.830
+So one of the things that happens
+
+136
+05:31.830 --> 05:35.940
+when a new wave of technology comes out,
+
+137
+05:35.940 --> 05:38.550
+the industry companies will run sort of
+
+138
+05:38.550 --> 05:39.930
+with their version of it.
+
+139
+05:39.930 --> 05:43.590
+We had it in the TV space, like with Ultra HD
+
+140
+05:43.590 --> 05:45.507
+and there's 4K (indistinct).
+
+141
+05:45.507 --> 05:47.190
+And so sometimes we'll jump in
+
+142
+05:47.190 --> 05:50.487
+and we'll just so that we can communicate with the industry.
+
+143
+05:50.487 --> 05:54.570
+And so we'll say like we did for 4K Ultra HD,
+
+144
+05:54.570 --> 05:57.750
+here's what we mean when we say 4K Ultra HD.
+
+145
+05:57.750 --> 05:59.070
+Like here's the bar.
+
+146
+05:59.070 --> 06:00.630
+That one's a little more,
+
+147
+06:00.630 --> 06:02.370
+this is such a big space here.
+
+148
+06:02.370 --> 06:05.010
+I don't think we're ever gonna like completely tackle
+
+149
+06:05.010 --> 06:06.270
+the nomenclature problem,
+
+150
+06:06.270 --> 06:10.260
+but, so I think we'll see more changes,
+
+151
+06:10.260 --> 06:12.145
+but it is good I think to get that
+
+152
+06:12.145 --> 06:17.145
+that's sort of spatial computing umbrella over all this,
+
+153
+06:17.160 --> 06:19.760
+you know, which gives us a lot of room to work here.
+
+154
+06:21.108 --> 06:26.108
+Okay, CES is fundamentally a business to business event.
+
+155
+06:27.009 --> 06:28.290
+It's a trade show.
+
+156
+06:28.290 --> 06:31.200
+So I wanna dive into use cases
+
+157
+06:31.200 --> 06:34.650
+'cause these things ultimately have to make money,
+
+158
+06:34.650 --> 06:35.850
+to be a little blunt about it,
+
+159
+06:35.850 --> 06:37.260
+but you know, they have to work
+
+160
+06:37.260 --> 06:39.063
+and do useful things for people.
+
+161
+06:39.990 --> 06:44.040
+Can some of you speak to our key use cases today?
+
+162
+06:44.040 --> 06:46.380
+I don't know that what we thought we'd be doing,
+
+163
+06:46.380 --> 06:48.930
+you know, three years ago is necessarily what's turning out
+
+164
+06:48.930 --> 06:52.770
+to be the most effective uses in spatial computing.
+
+165
+06:52.770 --> 06:55.653
+So can somebody talk to what they're seeing as use cases?
+
+166
+06:57.210 --> 06:59.820
+<v ->I guess I'll start again. (chuckles)</v>
+
+167
+06:59.820 --> 07:02.700
+I mean we work with lots of manufacturing clients
+
+168
+07:02.700 --> 07:04.410
+who are finding huge benefits
+
+169
+07:04.410 --> 07:06.300
+in using spatial computing technology.
+
+170
+07:06.300 --> 07:09.093
+So you know, Aztec Industries is one of our clients.
+
+171
+07:10.058 --> 07:11.760
+They manufacture massive heavy equipment
+
+172
+07:11.760 --> 07:13.320
+for manufacturing plants
+
+173
+07:13.320 --> 07:16.710
+and they design in AutoCAD, which is 3D software,
+
+174
+07:16.710 --> 07:20.610
+they upload that to VNTANA to instantly share on web
+
+175
+07:20.610 --> 07:24.180
+and XR to train employees
+
+176
+07:24.180 --> 07:27.360
+and use for sales to explain to a new customer
+
+177
+07:27.360 --> 07:30.390
+exactly how this machine will fit in their plant.
+
+178
+07:30.390 --> 07:34.110
+They then run simulation models in NVIDIA Omniverse
+
+179
+07:34.110 --> 07:36.660
+and Unreal Engine to do predictive maintenance.
+
+180
+07:36.660 --> 07:40.050
+So that's huge because if you run a factory
+
+181
+07:40.050 --> 07:41.460
+and you're down for an hour,
+
+182
+07:41.460 --> 07:43.830
+that can be hundreds of thousands of dollars.
+
+183
+07:43.830 --> 07:46.140
+So not only are they helping their clients,
+
+184
+07:46.140 --> 07:48.390
+but they're selling new parts sooner
+
+185
+07:48.390 --> 07:51.330
+and they've actually developed a whole new revenue stream
+
+186
+07:51.330 --> 07:53.490
+for real time maintenance.
+
+187
+07:53.490 --> 07:55.530
+And I am so excited, you know,
+
+188
+07:55.530 --> 07:58.500
+they've been experimenting a lot with Oculus.
+
+189
+07:58.500 --> 08:02.820
+Their whole sales team and training team now uses them
+
+190
+08:02.820 --> 08:04.020
+and brings them to sites
+
+191
+08:04.020 --> 08:06.120
+and they're looking at, okay, what is the next step
+
+192
+08:06.120 --> 08:09.090
+and how do we do remote maintenance support
+
+193
+08:09.090 --> 08:10.290
+with XR headsets?
+
+194
+08:10.290 --> 08:13.350
+And so they're seeing huge value in driving efficiency
+
+195
+08:13.350 --> 08:14.820
+in manufacturing.
+
+196
+08:14.820 --> 08:17.490
+And then I'm sure all of you have been shopping on Amazon
+
+197
+08:17.490 --> 08:20.280
+and seeing you in your space.
+
+198
+08:20.280 --> 08:22.050
+You know, clients, like Kohler,
+
+199
+08:22.050 --> 08:24.150
+design in AutoCAD for manufacturing
+
+200
+08:24.150 --> 08:25.530
+and then are now leveraging
+
+201
+08:25.530 --> 08:29.670
+that same 3D asset across their entire sales channel
+
+202
+08:29.670 --> 08:33.780
+on e-comm for view in your space publishing to Amazon,
+
+203
+08:33.780 --> 08:35.700
+starting to publish in Google.
+
+204
+08:35.700 --> 08:38.880
+So 3D is in search for Google and North America
+
+205
+08:38.880 --> 08:41.430
+and they're expanding to more countries this year.
+
+206
+08:41.430 --> 08:45.690
+So you know, we're seeing it across various consumer
+
+207
+08:45.690 --> 08:47.763
+and B2B businesses.
+
+208
+08:50.220 --> 08:51.053
+<v ->I can go next.</v>
+
+209
+08:51.053 --> 08:54.300
+I think there's quite a lot of very interesting use cases
+
+210
+08:54.300 --> 08:55.740
+that have already come through
+
+211
+08:55.740 --> 08:56.760
+and there are others that are coming.
+
+212
+08:56.760 --> 08:59.730
+So we work with a very interesting partner on education,
+
+213
+08:59.730 --> 09:00.720
+for example.
+
+214
+09:00.720 --> 09:03.660
+You can actually talk about a particular type of rock
+
+215
+09:03.660 --> 09:05.550
+in geology to students all day long.
+
+216
+09:05.550 --> 09:07.350
+We can actually show them in VR
+
+217
+09:07.350 --> 09:08.910
+and actually they're able to walk around it
+
+218
+09:08.910 --> 09:10.380
+and feel how it looks like
+
+219
+09:10.380 --> 09:12.390
+and that's a whole different experience.
+
+220
+09:12.390 --> 09:14.070
+So that's like an educational angle.
+
+221
+09:14.070 --> 09:16.950
+But the other interesting part that we are seeing now
+
+222
+09:16.950 --> 09:19.320
+is that especially with the advent of AI,
+
+223
+09:19.320 --> 09:22.800
+you can actually add in and create real content using AI.
+
+224
+09:22.800 --> 09:24.900
+And I think that's gonna really change the way
+
+225
+09:24.900 --> 09:26.790
+we basically look at MR, right?
+
+226
+09:26.790 --> 09:28.020
+So now today what you can say,
+
+227
+09:28.020 --> 09:30.360
+is you can actually say, I'm playing this game
+
+228
+09:30.360 --> 09:32.520
+and you want to create a new content in that game.
+
+229
+09:32.520 --> 09:34.380
+You can actually go in and use something like,
+
+230
+09:34.380 --> 09:36.330
+a stable diffusion like model
+
+231
+09:36.330 --> 09:37.740
+and be able to create that content.
+
+232
+09:37.740 --> 09:40.170
+But that content now gets personalized
+
+233
+09:40.170 --> 09:41.610
+to each and every user
+
+234
+09:41.610 --> 09:44.040
+rather than being something that's generic
+
+235
+09:44.040 --> 09:45.600
+and create it for everybody, right?
+
+236
+09:45.600 --> 09:47.190
+And that personalization,
+
+237
+09:47.190 --> 09:50.250
+especially when you can do some degree of this AI processing
+
+238
+09:50.250 --> 09:52.710
+on the device can be extremely powerful.
+
+239
+09:52.710 --> 09:54.570
+And then also very interesting to me also
+
+240
+09:54.570 --> 09:56.550
+is what we are seeing with smart glasses.
+
+241
+09:56.550 --> 09:59.190
+And I think there is a realm of MR and VR
+
+242
+09:59.190 --> 10:01.260
+and then there is the realm of smart glasses.
+
+243
+10:01.260 --> 10:02.490
+And I think smart glasses,
+
+244
+10:02.490 --> 10:04.770
+especially with their ability to see what you see with,
+
+245
+10:04.770 --> 10:06.810
+you know, cameras on the glasses
+
+246
+10:06.810 --> 10:10.500
+and being able to actually really not just talk back
+
+247
+10:10.500 --> 10:12.510
+to you using LLMs, but also be able to understand
+
+248
+10:12.510 --> 10:13.830
+what you're looking at,
+
+249
+10:13.830 --> 10:15.720
+really changes the experience in many different ways.
+
+250
+10:15.720 --> 10:19.530
+So if you take the example of medical, you know,
+
+251
+10:19.530 --> 10:21.540
+people or doctors always have this problem
+
+252
+10:21.540 --> 10:24.150
+where they have to transcribe so much, you know,
+
+253
+10:24.150 --> 10:25.680
+material after their visit
+
+254
+10:25.680 --> 10:27.450
+that it takes them forever to do it.
+
+255
+10:27.450 --> 10:29.220
+Well, now your glasses could be listening in,
+
+256
+10:29.220 --> 10:30.510
+transcribing all of that,
+
+257
+10:30.510 --> 10:32.700
+taking pictures of the prescription that you wrote,
+
+258
+10:32.700 --> 10:34.710
+being able to bring up the results of an X-ray
+
+259
+10:34.710 --> 10:37.380
+that was just done for the patient in front of you.
+
+260
+10:37.380 --> 10:38.550
+So I think those applications,
+
+261
+10:38.550 --> 10:40.110
+especially with smart glasses
+
+262
+10:40.110 --> 10:43.080
+that have displays in them and AI built in,
+
+263
+10:43.080 --> 10:45.120
+I think it really is going to change
+
+264
+10:45.120 --> 10:46.860
+the way people do a lot of this work.
+
+265
+10:46.860 --> 10:49.920
+And there are similar, you know, verticals in retail,
+
+266
+10:49.920 --> 10:52.380
+there are verticals in industrial side,
+
+267
+10:52.380 --> 10:54.720
+there are verticals on the, you know,
+
+268
+10:54.720 --> 10:57.210
+on, for example, elderly care.
+
+269
+10:57.210 --> 10:58.050
+That's a very big one.
+
+270
+10:58.050 --> 10:59.580
+There are multiple countries
+
+271
+10:59.580 --> 11:02.250
+where there is a huge part of the population that's aging
+
+272
+11:02.250 --> 11:04.770
+and something like a glasses excellent for, you know,
+
+273
+11:04.770 --> 11:06.300
+agentic sort of AI as well
+
+274
+11:06.300 --> 11:09.330
+that's running on the glass at all the points in time
+
+275
+11:09.330 --> 11:10.857
+such that you can converse with it.
+
+276
+11:10.857 --> 11:12.930
+And I think those are the use cases
+
+277
+11:12.930 --> 11:15.090
+that are really going to, I think, light up the space,
+
+278
+11:15.090 --> 11:17.040
+especially this at the crux
+
+279
+11:17.040 --> 11:20.563
+or at the intersection of XR and AI, in my opinion.
+
+280
+11:20.563 --> 11:22.853
+<v ->Yeah, I agree with both of what you said.</v>
+
+281
+11:22.853 --> 11:26.880
+I think spatial computing comes into its own with AR,
+
+282
+11:26.880 --> 11:28.950
+I think because you are interacting with the environment,
+
+283
+11:28.950 --> 11:31.380
+you want to see through a transparent display,
+
+284
+11:31.380 --> 11:33.900
+I think that's the ideal form factor.
+
+285
+11:33.900 --> 11:35.400
+And I agree with Ashley.
+
+286
+11:35.400 --> 11:39.480
+I mean right now the AR use cases with a short path
+
+287
+11:39.480 --> 11:42.030
+to money, no, it's in the business sector,
+
+288
+11:42.030 --> 11:45.090
+the enterprise manufacturing guided task,
+
+289
+11:45.090 --> 11:47.400
+remote expert use cases, you know,
+
+290
+11:47.400 --> 11:49.567
+they're delivering real benefits, real dollars,
+
+291
+11:49.567 --> 11:52.560
+you know, today it's not high hypothetical.
+
+292
+11:52.560 --> 11:54.960
+It's interesting to see, to kind of figure out
+
+293
+11:54.960 --> 11:56.880
+how it's going to make its,
+
+294
+11:56.880 --> 12:00.360
+what use cases are gonna make their way into consumer.
+
+295
+12:00.360 --> 12:01.590
+And I agree with you,
+
+296
+12:01.590 --> 12:05.025
+I think it's the smart glasses, kinda the Google glass,
+
+297
+12:05.025 --> 12:07.170
+you know, the glass whole experience kind of proves
+
+298
+12:07.170 --> 12:09.660
+that society isn't going
+
+299
+12:09.660 --> 12:12.390
+to accept anything much weirder than this.
+
+300
+12:12.390 --> 12:13.950
+And so it really does comes down
+
+301
+12:13.950 --> 12:15.690
+to what use cases are we gonna be able
+
+302
+12:15.690 --> 12:17.250
+to pack into this form factor.
+
+303
+12:17.250 --> 12:20.310
+And that is going to be the wavefront of use cases.
+
+304
+12:20.310 --> 12:23.100
+And it is, as you say, it's interesting,
+
+305
+12:23.100 --> 12:24.150
+it doesn't need to be visual
+
+306
+12:24.150 --> 12:25.980
+'cause the visual part is hard
+
+307
+12:25.980 --> 12:27.750
+for the physics point of view.
+
+308
+12:27.750 --> 12:32.340
+So no, the audio translation, you know,
+
+309
+12:32.340 --> 12:34.953
+logging trans, you know, transcription,
+
+310
+12:35.790 --> 12:37.410
+they're already happening.
+
+311
+12:37.410 --> 12:39.600
+And soon I think we are gonna get, you know,
+
+312
+12:39.600 --> 12:43.080
+really usable smart glasses with displays.
+
+313
+12:43.080 --> 12:45.450
+You know, the use case I'm looking forward
+
+314
+12:45.450 --> 12:47.910
+to is like Google Translate, but on my glasses,
+
+315
+12:47.910 --> 12:50.370
+I'm in Japan and it's translating all the signs
+
+316
+12:50.370 --> 12:51.780
+and menus for me,
+
+317
+12:51.780 --> 12:53.280
+without me having to get my phone out
+
+318
+12:53.280 --> 12:55.260
+and like a dork. (chuckles)
+
+319
+12:55.260 --> 12:58.590
+I mean that to me and doing audio translation,
+
+320
+12:58.590 --> 13:00.930
+I mean that would be a killer use case, I think.
+
+321
+13:00.930 --> 13:02.853
+And it's almost within reach, I think.
+
+322
+13:03.690 --> 13:06.420
+<v ->So you all covered a lot of the primary,</v>
+
+323
+13:06.420 --> 13:08.310
+industrial, manufacturing, retail,
+
+324
+13:08.310 --> 13:09.990
+healthcare, education,
+
+325
+13:09.990 --> 13:12.210
+I think product design architecture
+
+326
+13:12.210 --> 13:13.530
+are some of the other ones.
+
+327
+13:13.530 --> 13:15.420
+And then you touched on consumer, so,
+
+328
+13:15.420 --> 13:16.770
+but from the consumer side,
+
+329
+13:17.980 --> 13:20.790
+I think gaming of course has been one of the ones
+
+330
+13:20.790 --> 13:24.029
+that has done well and there, you know,
+
+331
+13:24.029 --> 13:24.862
+there's certain companies
+
+332
+13:24.862 --> 13:27.080
+that have certainly made a lot of money.
+
+333
+13:27.080 --> 13:28.950
+To Brian's question,
+
+334
+13:28.950 --> 13:30.720
+and I think one of the other areas in there
+
+335
+13:30.720 --> 13:32.580
+is fitness and wellness
+
+336
+13:32.580 --> 13:36.750
+and you know, some of those use cases have continued
+
+337
+13:36.750 --> 13:38.370
+to improve, you know,
+
+338
+13:38.370 --> 13:40.620
+whether it's FitXR or Supernatural.
+
+339
+13:40.620 --> 13:43.050
+And now you have multi-users,
+
+340
+13:43.050 --> 13:45.420
+so you can be across the country
+
+341
+13:45.420 --> 13:47.673
+from somebody working out together with them,
+
+342
+13:48.510 --> 13:51.573
+with Jane Fonda and Ludacris as well,
+
+343
+13:52.410 --> 13:54.600
+what I really did over the holiday. (chuckles)
+
+344
+13:54.600 --> 13:58.140
+And then I know as those move into smart glasses,
+
+345
+13:58.140 --> 14:01.140
+we'll be able to bring that level
+
+346
+14:01.140 --> 14:03.840
+of wellness and fitness into our everyday lives
+
+347
+14:03.840 --> 14:07.833
+and not just have it be a specific moment in time.
+
+348
+14:09.150 --> 14:10.770
+<v ->Yep, that's great.</v>
+
+349
+14:11.787 --> 14:13.170
+We do a lot.
+
+350
+14:13.170 --> 14:16.593
+CTA does a lot on accessibility, so I'm looking forward to,
+
+351
+14:17.850 --> 14:20.520
+you know, I think these new capabilities
+
+352
+14:20.520 --> 14:22.650
+at spatial computing and AR
+
+353
+14:22.650 --> 14:25.740
+and other technologies bring help a lot of people
+
+354
+14:25.740 --> 14:29.520
+that includes people who may need extra help.
+
+355
+14:29.520 --> 14:32.190
+You mentioned the audio part, EssilorLuxottica,
+
+356
+14:32.190 --> 14:35.250
+this isn't in the spatial computing space,
+
+357
+14:35.250 --> 14:36.450
+but they're doing the glasses
+
+358
+14:36.450 --> 14:38.700
+with integrated over the counter hearing aids.
+
+359
+14:38.700 --> 14:39.930
+So a lot of companies are working
+
+360
+14:39.930 --> 14:44.930
+on these challenges of like getting good audio
+
+361
+14:45.240 --> 14:46.110
+right here to our head
+
+362
+14:46.110 --> 14:49.410
+and having microphones and cameras in place.
+
+363
+14:49.410 --> 14:52.150
+Speaking of challenges, I wanna address that,
+
+364
+14:52.150 --> 14:55.100
+this is hard technology, so there are certainly challenges.
+
+365
+14:56.010 --> 15:01.010
+Can you guys address what you see as the big challenges
+
+366
+15:01.410 --> 15:04.650
+and maybe more importantly, what are the solutions to 'em?
+
+367
+15:04.650 --> 15:06.270
+Which things have we kind of dispensed?
+
+368
+15:06.270 --> 15:08.763
+What else can we riff on that a little bit?
+
+369
+15:11.100 --> 15:12.930
+Oh, no challenges?
+
+370
+15:12.930 --> 15:14.544
+<v ->I didn't wanna go first again.</v>
+
+371
+15:14.544 --> 15:16.890
+(panelists chuckling)
+
+372
+15:16.890 --> 15:17.723
+Did you wanna go?
+
+373
+15:17.723 --> 15:19.320
+<v ->Go ahead.</v>
+<v ->Okay.</v>
+
+374
+15:19.320 --> 15:21.600
+I think one of the challenge, I mean it's content, right?
+
+375
+15:21.600 --> 15:25.350
+It's creation of of 3D interactive content
+
+376
+15:25.350 --> 15:26.790
+can be difficult and expensive.
+
+377
+15:26.790 --> 15:28.710
+AI is really helping that,
+
+378
+15:28.710 --> 15:32.070
+I just listened to Siemens talk earlier
+
+379
+15:32.070 --> 15:33.690
+who released some amazing AI
+
+380
+15:33.690 --> 15:36.330
+that will help get, you know, 80% of the way there
+
+381
+15:36.330 --> 15:39.870
+with CAD designs, which is huge,
+
+382
+15:39.870 --> 15:43.200
+excited about LLaMA-Mesh released by NVIDIA,
+
+383
+15:43.200 --> 15:44.850
+which is a huge step forward
+
+384
+15:44.850 --> 15:49.850
+so that it translates vertices and faces of 3D models
+
+385
+15:50.010 --> 15:53.010
+to text for an LLM to understand.
+
+386
+15:53.010 --> 15:56.490
+So now not only can you do text to 3D,
+
+387
+15:56.490 --> 16:00.720
+but you can alter and adjust the 3D model
+
+388
+16:00.720 --> 16:03.267
+and do way better training with 3D
+
+389
+16:03.267 --> 16:05.820
+and volumetric content with LLM.
+
+390
+16:05.820 --> 16:06.840
+So that's huge.
+
+391
+16:06.840 --> 16:09.630
+And then standards are incredibly important
+
+392
+16:09.630 --> 16:12.060
+because there are hundreds of 3D file formats (chuckles)
+
+393
+16:12.060 --> 16:14.010
+and everybody wants something different,
+
+394
+16:14.010 --> 16:16.800
+which is why, you know, with Neil and the Khronos Group
+
+395
+16:16.800 --> 16:19.230
+pushing GLB, which is a very efficient,
+
+396
+16:19.230 --> 16:21.630
+great publishing format
+
+397
+16:21.630 --> 16:25.410
+and now OpenUSD, which is really great for
+
+398
+16:25.410 --> 16:30.410
+more more complex and kind of working files.
+
+399
+16:30.480 --> 16:33.360
+But there's always gonna be different formats
+
+400
+16:33.360 --> 16:35.010
+and different types is why, you know,
+
+401
+16:35.010 --> 16:39.000
+at VNTANA we focus on how do we seamlessly convert
+
+402
+16:39.000 --> 16:43.590
+and optimize a 3D asset to meet whatever specs you need.
+
+403
+16:43.590 --> 16:44.610
+But yeah, that's why I'm so excited
+
+404
+16:44.610 --> 16:47.763
+about all the stuff NVIDIA's just released.
+
+405
+16:50.091 --> 16:51.330
+<v ->I'll go next in order,</v>
+
+406
+16:51.330 --> 16:53.860
+but basically
+(panelists chuckling)
+
+407
+16:53.860 --> 16:54.823
+<v ->It's not required.
+(panelists chuckling)</v>
+
+408
+16:54.823 --> 16:56.250
+It's good.
+<v ->It's official.</v>
+
+409
+16:56.250 --> 16:57.382
+It's official.
+<v ->There you go.</v>
+
+410
+16:57.382 --> 16:58.215
+<v ->It's official order, right there.</v>
+
+411
+16:58.215 --> 16:59.550
+<v ->I think the challenge has really come</v>
+
+412
+16:59.550 --> 17:00.990
+from the fact that, you know,
+
+413
+17:00.990 --> 17:03.547
+humans are used to very good quality, right,
+
+414
+17:03.547 --> 17:04.890
+what they see in the world around them.
+
+415
+17:04.890 --> 17:05.910
+When you go into MR,
+
+416
+17:05.910 --> 17:07.290
+it really is that the experience
+
+417
+17:07.290 --> 17:09.330
+has to meet a certain threshold.
+
+418
+17:09.330 --> 17:12.030
+That threshold then drives immense compute capabilities
+
+419
+17:12.030 --> 17:14.070
+that you need in an MR like device, right?
+
+420
+17:14.070 --> 17:16.320
+You need to be able to get this pristine quality.
+
+421
+17:16.320 --> 17:18.780
+So what I see from a trends perspective
+
+422
+17:18.780 --> 17:21.600
+is you have 4K displays coming into these devices,
+
+423
+17:21.600 --> 17:24.810
+at the same time we are doing chip sets here at Qualcomm
+
+424
+17:24.810 --> 17:26.580
+that are far more capable
+
+425
+17:26.580 --> 17:29.430
+such that we can do full foveation from end to end.
+
+426
+17:29.430 --> 17:30.870
+Such that, you know, you're only able
+
+427
+17:30.870 --> 17:33.570
+to give the highest quality on where your fovea
+
+428
+17:33.570 --> 17:35.190
+or the center of your retina eyes at
+
+429
+17:35.190 --> 17:37.680
+and everything else, you actually reduce the quality
+
+430
+17:37.680 --> 17:38.670
+to be able to make sure
+
+431
+17:38.670 --> 17:41.190
+you're able to fit the compute capability
+
+432
+17:41.190 --> 17:43.200
+within the envelope of the device.
+
+433
+17:43.200 --> 17:44.670
+Then at the same time what we are doing is,
+
+434
+17:44.670 --> 17:47.310
+we have been working on all these perception technologies
+
+435
+17:47.310 --> 17:49.140
+and working with the perception technologies,
+
+436
+17:49.140 --> 17:52.620
+we have hardened certain algorithms into silicon.
+
+437
+17:52.620 --> 17:54.840
+And by doing that we can actually do them at, you know,
+
+438
+17:54.840 --> 17:56.610
+like a fraction of the power
+
+439
+17:56.610 --> 17:59.220
+if you would have to do them on general purpose engine.
+
+440
+17:59.220 --> 18:02.160
+And by virtue of that, you're able to actually even do more
+
+441
+18:02.160 --> 18:04.080
+and more pristine quality
+
+442
+18:04.080 --> 18:05.580
+because literally a little bit
+
+443
+18:05.580 --> 18:07.200
+above a certain milliseconds,
+
+444
+18:07.200 --> 18:08.940
+your eyes and your brain notices it.
+
+445
+18:08.940 --> 18:10.860
+So if you remember the older MR devices,
+
+446
+18:10.860 --> 18:13.440
+people used to get vertigo and a bad experience,
+
+447
+18:13.440 --> 18:14.490
+a lot of that has gone away
+
+448
+18:14.490 --> 18:16.530
+because we improved motion to photon,
+
+449
+18:16.530 --> 18:17.940
+by such a level
+
+450
+18:17.940 --> 18:20.520
+that people who don't have that problem anymore,
+
+451
+18:20.520 --> 18:23.820
+the challenges in AR are totally different.
+
+452
+18:23.820 --> 18:26.040
+In AR it's really about power, power, power
+
+453
+18:26.040 --> 18:28.260
+because you can have this great device
+
+454
+18:28.260 --> 18:29.190
+and if you guys have tried,
+
+455
+18:29.190 --> 18:30.930
+like for example the Meta Ray-Bans,
+
+456
+18:30.930 --> 18:32.520
+it uses one of our solutions,
+
+457
+18:32.520 --> 18:35.280
+but people want to have longer battery life.
+
+458
+18:35.280 --> 18:36.510
+And the gentleman just took my picture
+
+459
+18:36.510 --> 18:37.710
+using the Meta Ray-Ban.
+
+460
+18:37.710 --> 18:38.910
+But the key point essentially
+(panelist chuckling)
+
+461
+18:38.910 --> 18:40.500
+is that to be able to use that,
+
+462
+18:40.500 --> 18:42.750
+people wanna be able to do more translations,
+
+463
+18:42.750 --> 18:44.070
+more transcriptions,
+
+464
+18:44.070 --> 18:46.500
+being able to see what the world is around them
+
+465
+18:46.500 --> 18:48.900
+and then leverage that with agents.
+
+466
+18:48.900 --> 18:51.150
+But to be able to do all of that processing,
+
+467
+18:51.150 --> 18:54.390
+you have very limited space in an AR glass,
+
+468
+18:54.390 --> 18:56.730
+which means the battery's tiny, which means, again,
+
+469
+18:56.730 --> 18:58.710
+it comes back to power, power, power.
+
+470
+18:58.710 --> 19:00.300
+So what we have been doing at Qualcomm
+
+471
+19:00.300 --> 19:03.180
+is almost like three kind of legs to this tool,
+
+472
+19:03.180 --> 19:04.500
+which is all our solutions.
+
+473
+19:04.500 --> 19:06.990
+We are basically number one pushing the technology
+
+474
+19:06.990 --> 19:11.730
+to the best in class sort of transistor technology,
+
+475
+19:11.730 --> 19:13.770
+but also best in class IPs.
+
+476
+19:13.770 --> 19:16.020
+Which means the camera, the graphics,
+
+477
+19:16.020 --> 19:17.640
+the AI engine that we have built in
+
+478
+19:17.640 --> 19:19.380
+for on device AI processing,
+
+479
+19:19.380 --> 19:22.080
+all of them are able to literally sip on power.
+
+480
+19:22.080 --> 19:24.810
+We have the best in class performance per watt
+
+481
+19:24.810 --> 19:26.190
+of any AI engine out there
+
+482
+19:26.190 --> 19:28.380
+because that's what you need in AR glass
+
+483
+19:28.380 --> 19:31.320
+to be able to have it last for that period of time.
+
+484
+19:31.320 --> 19:34.320
+And then the third angle then becomes really architecture.
+
+485
+19:34.320 --> 19:35.820
+What I mean by architecture is,
+
+486
+19:35.820 --> 19:37.590
+there are a certain number of devices
+
+487
+19:37.590 --> 19:39.120
+that are around a person.
+
+488
+19:39.120 --> 19:40.320
+You will have your smart glass,
+
+489
+19:40.320 --> 19:41.670
+you will have your smartphone,
+
+490
+19:41.670 --> 19:43.980
+you might have a smartwatch, you might have earbuds.
+
+491
+19:43.980 --> 19:46.080
+And to really get to that full day of use,
+
+492
+19:46.080 --> 19:48.600
+I envision that you need to almost be able to use
+
+493
+19:48.600 --> 19:49.650
+all of these devices,
+
+494
+19:49.650 --> 19:52.620
+which means you need to do smart offloading
+
+495
+19:52.620 --> 19:55.800
+from that smart glass to the smartphone to the smartwatch.
+
+496
+19:55.800 --> 19:57.030
+And you can maybe run,
+
+497
+19:57.030 --> 19:58.650
+let's say half a billion parameter model
+
+498
+19:58.650 --> 20:00.600
+natively on the smart glass.
+
+499
+20:00.600 --> 20:02.760
+You wanna run a 10 billion parameter model,
+
+500
+20:02.760 --> 20:03.750
+you go to the smartphone,
+
+501
+20:03.750 --> 20:05.190
+you wanna run a hundred billion parameter model,
+
+502
+20:05.190 --> 20:06.960
+you go to the cloud, right?
+
+503
+20:06.960 --> 20:09.870
+You are able to actually do it in that, you know,
+
+504
+20:09.870 --> 20:13.230
+abstracted multiple different levels, fashion.
+
+505
+20:13.230 --> 20:16.860
+And I think that's the way we make this problem.
+
+506
+20:16.860 --> 20:18.923
+That's how we solve this problem essentially.
+
+507
+20:20.310 --> 20:22.140
+<v ->Yeah, I agree with all of that.</v>
+
+508
+20:22.140 --> 20:25.560
+The another problem I think on a slightly different axis,
+
+509
+20:25.560 --> 20:27.510
+you know, the virtual elephant in the room
+
+510
+20:27.510 --> 20:31.050
+is privacy and security
+
+511
+20:31.050 --> 20:35.220
+because by its very definition spatial computing,
+
+512
+20:35.220 --> 20:37.680
+it's scanning you and everyone else
+
+513
+20:37.680 --> 20:39.630
+and the environment constantly,
+
+514
+20:39.630 --> 20:41.480
+if you can get the batteries to last.
+
+515
+20:42.570 --> 20:47.160
+And of course that means there's huge potential
+
+516
+20:47.160 --> 20:49.620
+for bad things to happen.
+
+517
+20:49.620 --> 20:52.050
+To the extent that I think that if,
+
+518
+20:52.050 --> 20:53.190
+unless we can really come up
+
+519
+20:53.190 --> 20:56.640
+with robust solutions for privacy,
+
+520
+20:56.640 --> 20:59.490
+society won't accept spatial computing.
+
+521
+20:59.490 --> 21:02.790
+It's almost a gating function.
+
+522
+21:02.790 --> 21:04.650
+We need to get this figured out.
+
+523
+21:04.650 --> 21:06.603
+And it's not trivial either.
+
+524
+21:07.500 --> 21:10.383
+You know, the Meta Ray-Bans today, you know,
+
+525
+21:11.430 --> 21:13.470
+when it's active, a little light comes on, that's good.
+
+526
+21:13.470 --> 21:14.550
+You can't disable it
+
+527
+21:14.550 --> 21:17.010
+and if you try to cover it doesn't work.
+
+528
+21:17.010 --> 21:18.900
+So they've obviously put some thought into it,
+
+529
+21:18.900 --> 21:21.270
+but that's a fairly weak protection.
+
+530
+21:21.270 --> 21:24.270
+We need to go much further.
+
+531
+21:24.270 --> 21:26.880
+There are some technical solutions.
+
+532
+21:26.880 --> 21:29.670
+I mean it's when you beam all the data to the cloud
+
+533
+21:29.670 --> 21:30.870
+for the AI processing,
+
+534
+21:30.870 --> 21:33.480
+that's obviously a big potential loophole.
+
+535
+21:33.480 --> 21:36.360
+So can we do a more AI processing on device,
+
+536
+21:36.360 --> 21:39.510
+such as you're saying, that raises other challenges.
+
+537
+21:39.510 --> 21:41.460
+But that's obviously a good thing.
+
+538
+21:41.460 --> 21:44.760
+I think, you know, at the down at the hardware API level,
+
+539
+21:44.760 --> 21:47.340
+which is, you know, I spent a lot of time down there,
+
+540
+21:47.340 --> 21:50.040
+I think we're about to be asked,
+
+541
+21:50.040 --> 21:54.840
+just like we had to do DRM for playing back DVDs
+
+542
+21:54.840 --> 21:57.420
+and you can't grab that movie frame.
+
+543
+21:57.420 --> 22:00.000
+I think we're gonna be asked for camera APIs
+
+544
+22:00.000 --> 22:00.963
+that are secure.
+
+545
+22:01.980 --> 22:06.120
+You can grab the camera into a localized AI engine
+
+546
+22:06.120 --> 22:08.190
+and you just can't get that data out,
+
+547
+22:08.190 --> 22:09.360
+even if you want to
+
+548
+22:09.360 --> 22:12.960
+and send it to some nefarious agent on the cloud,
+
+549
+22:12.960 --> 22:14.430
+that kind of solution.
+
+550
+22:14.430 --> 22:15.960
+But even that's not gonna be enough.
+
+551
+22:15.960 --> 22:19.830
+I think we're gonna need regulation and legislation
+
+552
+22:19.830 --> 22:21.420
+to really put some firewalls
+
+553
+22:21.420 --> 22:24.690
+around what people can do with data.
+
+554
+22:24.690 --> 22:26.670
+There's so much data gonna be collected.
+
+555
+22:26.670 --> 22:29.490
+We have to really be careful
+
+556
+22:29.490 --> 22:32.340
+and it's gonna take some legal firewalls,
+
+557
+22:32.340 --> 22:34.090
+I think to help us figure that out.
+
+558
+22:35.190 --> 22:39.347
+<v ->I think you (indistinct) leading in that this point.</v>
+
+559
+22:39.347 --> 22:41.160
+(Neil chuckling)
+
+560
+22:41.160 --> 22:45.060
+And, you know, another challenge just
+
+561
+22:45.060 --> 22:47.040
+is the perceived value
+
+562
+22:47.040 --> 22:50.250
+and benefit for the end user.
+
+563
+22:50.250 --> 22:52.620
+I think, you know, those of us who are deep in the industry
+
+564
+22:52.620 --> 22:54.810
+and who use these devices
+
+565
+22:54.810 --> 22:56.490
+and this type of computing all the time,
+
+566
+22:56.490 --> 22:59.670
+feel very strongly about them
+
+567
+22:59.670 --> 23:00.990
+and very strongly about it,
+
+568
+23:00.990 --> 23:03.480
+about, you know, how much benefit we get out of it.
+
+569
+23:03.480 --> 23:07.560
+But I think that hasn't translated yet
+
+570
+23:07.560 --> 23:10.890
+into the mass numbers and the mass adoption.
+
+571
+23:10.890 --> 23:14.940
+So I think continuing to have, you know,
+
+572
+23:14.940 --> 23:17.070
+and then that results in sometimes people feeling
+
+573
+23:17.070 --> 23:18.920
+that these devices are too expensive,
+
+574
+23:19.920 --> 23:23.283
+which is really about the perceived benefit.
+
+575
+23:24.311 --> 23:25.830
+Whether that's in an enterprise environment
+
+576
+23:25.830 --> 23:29.790
+or an B2C environment, you know,
+
+577
+23:29.790 --> 23:33.570
+to move entire workforces, you know,
+
+578
+23:33.570 --> 23:36.450
+from, it's very easy to bring people along for POC
+
+579
+23:36.450 --> 23:38.610
+but then moving them to large scale,
+
+580
+23:38.610 --> 23:41.100
+I think we still have some challenges in that
+
+581
+23:41.100 --> 23:42.377
+in the industry.
+
+582
+23:42.377 --> 23:46.140
+<v ->And do you think that's just like a combination of things?</v>
+
+583
+23:46.140 --> 23:49.890
+Is it like hardware comfort and stuff
+
+584
+23:49.890 --> 23:51.810
+or is it like just, you know,
+
+585
+23:51.810 --> 23:54.300
+some people just don't like change, honestly, you know,
+
+586
+23:54.300 --> 23:56.050
+you gotta do stuff a different way.
+
+587
+23:56.954 --> 23:57.787
+Are there any-
+
+588
+23:57.787 --> 23:58.620
+<v ->I think it's a combo.</v>
+
+589
+23:58.620 --> 24:01.020
+I also think that, you know, that there are continue
+
+590
+24:01.020 --> 24:04.095
+to be more players coming into the market,
+
+591
+24:04.095 --> 24:04.928
+which is a really good thing
+
+592
+24:04.928 --> 24:06.240
+that which drives more competition,
+
+593
+24:06.240 --> 24:11.240
+which drives improved devices and additional content.
+
+594
+24:11.270 --> 24:14.550
+So I think that is a positive as well.
+
+595
+24:14.550 --> 24:17.643
+But yes to your question.
+
+596
+24:19.320 --> 24:21.330
+<v ->Yeah, I know Zimmer Biomet,</v>
+
+597
+24:21.330 --> 24:23.460
+I just did an interview with,
+
+598
+24:23.460 --> 24:25.920
+'cause they initially deployed VR
+
+599
+24:25.920 --> 24:26.910
+and everybody hated it.
+
+600
+24:26.910 --> 24:27.743
+It was terrible.
+
+601
+24:27.743 --> 24:29.345
+They couldn't figure it out
+
+602
+24:29.345 --> 24:31.590
+and they realized they needed like device management,
+
+603
+24:31.590 --> 24:34.110
+just like a huge enterprise has device management
+
+604
+24:34.110 --> 24:35.280
+for laptops,
+
+605
+24:35.280 --> 24:37.680
+well they needed that for the XR devices.
+
+606
+24:37.680 --> 24:40.590
+So the next year when they implemented that,
+
+607
+24:40.590 --> 24:43.170
+and if someone needed help, they could remote in,
+
+608
+24:43.170 --> 24:45.030
+see what they were seeing, help them.
+
+609
+24:45.030 --> 24:46.590
+Now it's incredible
+
+610
+24:46.590 --> 24:49.560
+and they're using it to train all these surgeons
+
+611
+24:49.560 --> 24:50.640
+before they go in
+
+612
+24:50.640 --> 24:53.010
+and you know, use their new knee replacement.
+
+613
+24:53.010 --> 24:55.560
+And so some of it is just looking at like,
+
+614
+24:55.560 --> 24:57.180
+how do we deal with computers today?
+
+615
+24:57.180 --> 25:00.060
+It's just a face computer, you know? (chuckles)
+
+616
+25:00.060 --> 25:03.360
+So I thought that was a really interesting case study.
+
+617
+25:03.360 --> 25:05.310
+<v ->Yeah. And which, I'm sorry, which company was that?</v>
+
+618
+25:05.310 --> 25:06.270
+<v ->Zimmer Biomet.</v>
+
+619
+25:06.270 --> 25:10.320
+They are a huge medical device company
+
+620
+25:10.320 --> 25:13.650
+that uses VR to train all their surgeons now.
+
+621
+25:13.650 --> 25:14.483
+<v ->Oh yeah, that's awesome.</v>
+
+622
+25:14.483 --> 25:17.010
+So yeah, one of our board members did a startup on
+
+623
+25:17.010 --> 25:19.680
+is specifically for orthopedic surgery,
+
+624
+25:19.680 --> 25:23.040
+but he gave a great talk at one of our events.
+
+625
+25:23.040 --> 25:25.470
+It's, you know, sort of scary seeing their training,
+
+626
+25:25.470 --> 25:28.794
+their live training, how quickly they go from like,
+
+627
+25:28.794 --> 25:30.900
+you know, do it a few times to surgery.
+
+628
+25:30.900 --> 25:33.030
+So, you know, these are really-
+
+629
+25:33.030 --> 25:35.790
+<v ->Yeah, I'm asking any surgeon if they've done VR</v>
+
+630
+25:35.790 --> 25:38.135
+before I get surgery. (chuckles)
+
+631
+25:38.135 --> 25:39.373
+(panelist chuckling)
+<v ->There you go.</v>
+
+632
+25:39.373 --> 25:40.983
+All right, that's great.
+
+633
+25:42.480 --> 25:45.960
+Neil, thanks for bringing up the privacy question.
+
+634
+25:45.960 --> 25:47.400
+This isn't a policy track.
+
+635
+25:47.400 --> 25:51.120
+We have a great policy track at CES,
+
+636
+25:51.120 --> 25:54.240
+but CTA has advocated for federal privacy legislation
+
+637
+25:54.240 --> 25:58.380
+and we just need it, you know, so there's not a whole bunch
+
+638
+25:58.380 --> 25:59.850
+of different state regulations.
+
+639
+25:59.850 --> 26:01.320
+We just need a framework
+
+640
+26:01.320 --> 26:03.390
+and it's clear we're gonna need it in more spaces
+
+641
+26:03.390 --> 26:07.320
+and thanks for drawing that analogy that also historically,
+
+642
+26:07.320 --> 26:09.000
+I've worked in video a long time,
+
+643
+26:09.000 --> 26:11.280
+so through the whole content protection
+
+644
+26:11.280 --> 26:13.890
+and DRM wars, we figured it out.
+
+645
+26:13.890 --> 26:18.070
+We kind of know how to keep data safe
+
+646
+26:20.100 --> 26:21.360
+in place and in transit,
+
+647
+26:21.360 --> 26:22.530
+you know, the rules are there.
+
+648
+26:22.530 --> 26:27.530
+So I look forward to figuring out those issues too.
+
+649
+26:29.100 --> 26:31.200
+Alright, let's look ahead a little bit,
+
+650
+26:31.200 --> 26:33.780
+unless there's anything else we wanna say.
+
+651
+26:33.780 --> 26:35.310
+Well, so nobody really talked,
+
+652
+26:35.310 --> 26:37.020
+we talked a little bit about standards.
+
+653
+26:37.020 --> 26:38.700
+Neil, can I just say,
+
+654
+26:38.700 --> 26:41.220
+do you feel like we're kind of on a track?
+
+655
+26:41.220 --> 26:43.923
+We, you're involved in one of our standards forum.
+
+656
+26:45.000 --> 26:46.200
+Do we have all the venues?
+
+657
+26:46.200 --> 26:48.240
+Do we have a way to get the standards to,
+
+658
+26:48.240 --> 26:51.810
+at least be able to move things around and interoperate?
+
+659
+26:51.810 --> 26:55.710
+<v ->I think we're making good, actually making good progress.</v>
+
+660
+26:55.710 --> 26:58.350
+We just started a multi-year,
+
+661
+26:58.350 --> 27:00.720
+potentially multi-decade journey,
+
+662
+27:00.720 --> 27:05.383
+but I think a lot of the standards bodies are engaged.
+
+663
+27:06.420 --> 27:09.930
+They realize the role that they can play in this big thing,
+
+664
+27:09.930 --> 27:11.670
+we're calling spatial computing
+
+665
+27:11.670 --> 27:15.000
+and we have the forum, Metaverse Standards Forum,
+
+666
+27:15.000 --> 27:16.560
+where they can come and cooperate,
+
+667
+27:16.560 --> 27:19.230
+which we haven't had before, which is great.
+
+668
+27:19.230 --> 27:20.250
+And you know,
+
+669
+27:20.250 --> 27:22.140
+I think we are definitely gonna need standards.
+
+670
+27:22.140 --> 27:25.470
+'cause by its nature spatial computing is bringing together
+
+671
+27:25.470 --> 27:27.087
+a bunch of different technologies
+
+672
+27:27.087 --> 27:29.040
+and we need to make those technologies
+
+673
+27:29.040 --> 27:31.980
+as they become proven pervasively and cheaply
+
+674
+27:31.980 --> 27:33.540
+and efficiently available
+
+675
+27:33.540 --> 27:36.210
+to people putting together solutions
+
+676
+27:36.210 --> 27:38.910
+and know standards are the way to do that.
+
+677
+27:38.910 --> 27:40.830
+The standards that we need,
+
+678
+27:40.830 --> 27:42.390
+we need like runtime standards,
+
+679
+27:42.390 --> 27:44.400
+no devices talking to servers
+
+680
+27:44.400 --> 27:48.510
+and software talking to hardware through APIs
+
+681
+27:48.510 --> 27:51.150
+and you know, we are making good, good progress on that.
+
+682
+27:51.150 --> 27:54.750
+I think spatial computing needs some new types or standards
+
+683
+27:54.750 --> 27:58.710
+or at least standards to be used in new ways,
+
+684
+27:58.710 --> 28:02.580
+kind of like private cameras is a good example, you know,
+
+685
+28:02.580 --> 28:05.520
+that we haven't had to do that kind of thinking before.
+
+686
+28:05.520 --> 28:08.910
+I think that's going to be a new wave of activity.
+
+687
+28:08.910 --> 28:12.180
+And on the content side, as Ashley says,
+
+688
+28:12.180 --> 28:15.630
+Ashley's the expert here on 3D content,
+
+689
+28:15.630 --> 28:18.390
+we are making progress lots more to do,
+
+690
+28:18.390 --> 28:20.610
+but there's new types of content too.
+
+691
+28:20.610 --> 28:22.800
+But the geospatial guides actually have been thinking
+
+692
+28:22.800 --> 28:26.910
+about for a long time, you know, environment scans,
+
+693
+28:26.910 --> 28:28.170
+you know, we need to have them standardized
+
+694
+28:28.170 --> 28:30.450
+so we can send them between applications,
+
+695
+28:30.450 --> 28:32.730
+geo markers, anchors,
+
+696
+28:32.730 --> 28:35.160
+the geospatial guides have been thinking about this a lot
+
+697
+28:35.160 --> 28:39.780
+that the gaming guys not so much typically.
+
+698
+28:39.780 --> 28:42.480
+So again, there's more, there's corporation,
+
+699
+28:42.480 --> 28:45.510
+we need to kind of bridge some of these silos
+
+700
+28:45.510 --> 28:48.030
+and bring these standard solutions to market.
+
+701
+28:48.030 --> 28:52.423
+But I'm cautiously optimistic. (laughs)
+
+702
+28:54.930 --> 28:57.760
+<v ->Okay, all right, let's look ahead a little bit</v>
+
+703
+28:58.830 --> 28:59.970
+since it is CES
+
+704
+28:59.970 --> 29:02.010
+and we do a lot of that, you know, we think about like,
+
+705
+29:02.010 --> 29:05.280
+it sort of kicks off the year for the tech industry,
+
+706
+29:05.280 --> 29:08.400
+so what's next for spatial computing?
+
+707
+29:08.400 --> 29:09.840
+We've talked a little bit about AI,
+
+708
+29:09.840 --> 29:12.808
+but what things do you see coming together?
+
+709
+29:12.808 --> 29:13.641
+What are you looking forward
+
+710
+29:13.641 --> 29:15.453
+to seeing over the next year or two?
+
+711
+29:18.103 --> 29:19.480
+<v ->I have to first again (chuckles)</v>
+
+712
+29:19.480 --> 29:21.900
+(panelists chuckling)
+<v ->Don't fight it, Ashley.</v>
+
+713
+29:21.900 --> 29:23.760
+<v ->I know. (chuckles)</v>
+
+714
+29:23.760 --> 29:26.520
+<v ->You're the panel leader now.</v>
+<v ->So I mean,</v>
+
+715
+29:26.520 --> 29:28.950
+I talked a little bit about AI, everything,
+
+716
+29:28.950 --> 29:30.720
+you know, with LLaMA-Mesh with NVIDIA,
+
+717
+29:30.720 --> 29:32.163
+helping create content.
+
+718
+29:33.720 --> 29:37.560
+Meta published a paper earlier this year using AI
+
+719
+29:37.560 --> 29:41.010
+to automatically add textures and materials to CAD files.
+
+720
+29:41.010 --> 29:43.230
+Again, just like helping create this content
+
+721
+29:43.230 --> 29:45.570
+faster and quicker.
+
+722
+29:45.570 --> 29:48.060
+And then everything, you know, that Qualcomm
+
+723
+29:48.060 --> 29:51.300
+and others are doing with making devices so much better
+
+724
+29:51.300 --> 29:55.020
+and more functional within the workspace and environment,
+
+725
+29:55.020 --> 29:56.973
+I think we will start to see them more.
+
+726
+29:58.470 --> 30:00.243
+And, you know, adoption,
+
+727
+30:01.088 --> 30:03.120
+it really comes down to the people problem.
+
+728
+30:03.120 --> 30:05.400
+And I thought it was really interesting too.
+
+729
+30:05.400 --> 30:09.330
+I was talking with one of the leaders at Northrop Grumman
+
+730
+30:09.330 --> 30:13.350
+and they use the HoloLens
+
+731
+30:13.350 --> 30:16.950
+to actually like do these wiring of complex, the F35.
+
+732
+30:16.950 --> 30:21.270
+It's a, and the, I think 276 tanker, I don't know,
+
+733
+30:21.270 --> 30:24.510
+lots of crazy equipment there that's extremely complex.
+
+734
+30:24.510 --> 30:25.440
+So they wear the headsets,
+
+735
+30:25.440 --> 30:27.330
+know exactly where to put the wires.
+
+736
+30:27.330 --> 30:30.660
+And what was interesting was,
+
+737
+30:30.660 --> 30:32.520
+it wasn't the age of the person.
+
+738
+30:32.520 --> 30:34.290
+'cause most people think it's young people
+
+739
+30:34.290 --> 30:35.580
+will adopt this stuff sooner.
+
+740
+30:35.580 --> 30:37.710
+It was if they were new to the company
+
+741
+30:37.710 --> 30:40.050
+and they were just told, hey, this is how we do it.
+
+742
+30:40.050 --> 30:42.420
+They're like, oh, this is great.
+
+743
+30:42.420 --> 30:44.220
+But if they had been there for 20 years
+
+744
+30:44.220 --> 30:46.440
+and they had been doing it a certain way for 20 years,
+
+745
+30:46.440 --> 30:49.230
+they were the hard people to switch over.
+
+746
+30:49.230 --> 30:51.000
+So I just thought that was really interesting
+
+747
+30:51.000 --> 30:54.390
+as we think about change within an organization
+
+748
+30:54.390 --> 30:56.280
+and getting people to adopt,
+
+749
+30:56.280 --> 30:57.210
+just hire all new people,
+
+750
+30:57.210 --> 30:59.460
+but no, just get, you know, (chuckles)
+
+751
+30:59.460 --> 31:00.576
+maybe
+
+752
+31:00.576 --> 31:01.409
+<v ->Move them around a little bit.</v>
+
+753
+31:01.409 --> 31:02.550
+<v ->Yeah, but just start, you know,</v>
+
+754
+31:02.550 --> 31:03.520
+maybe start
+<v ->Physical chairs.</v>
+
+755
+31:03.520 --> 31:04.560
+<v ->Yeah, yeah.</v>
+
+756
+31:04.560 --> 31:07.170
+Start with people that are gonna be receptive,
+
+757
+31:07.170 --> 31:08.280
+I guess, to get, you know,
+
+758
+31:08.280 --> 31:09.990
+and then people see it working well
+
+759
+31:09.990 --> 31:11.940
+and them doing their job faster, easier
+
+760
+31:11.940 --> 31:13.323
+and start to adopt.
+
+761
+31:14.550 --> 31:16.590
+<v ->Yeah, I think I add some more, right,</v>
+
+762
+31:16.590 --> 31:17.850
+especially on the MR side.
+
+763
+31:17.850 --> 31:19.950
+I really think one of the big challenges
+
+764
+31:19.950 --> 31:21.180
+that an industry has had
+
+765
+31:21.180 --> 31:23.190
+is just the availability of content.
+
+766
+31:23.190 --> 31:25.200
+So if you guys have been following what's happening
+
+767
+31:25.200 --> 31:27.570
+with Nerf and with Gaussian Splatting,
+
+768
+31:27.570 --> 31:29.730
+I think you get to a point where you actually able
+
+769
+31:29.730 --> 31:32.160
+to create 3D content very easily.
+
+770
+31:32.160 --> 31:34.230
+And I think that will really, really change
+
+771
+31:34.230 --> 31:35.580
+the way MR gets used.
+
+772
+31:35.580 --> 31:36.510
+That's one.
+
+773
+31:36.510 --> 31:37.343
+I think secondly,
+
+774
+31:37.343 --> 31:40.380
+what we are also seeing is models like text to 3D models
+
+775
+31:40.380 --> 31:42.450
+that are becoming actually extremely good.
+
+776
+31:42.450 --> 31:44.370
+So like the example that I gave in earlier,
+
+777
+31:44.370 --> 31:46.740
+you could be in a game where you say, hey, make me a sword.
+
+778
+31:46.740 --> 31:48.450
+And it makes a sword for you,
+
+779
+31:48.450 --> 31:50.850
+but it knows the kind of textures that you like
+
+780
+31:50.850 --> 31:53.037
+and the colors that you like and themes that you like
+
+781
+31:53.037 --> 31:55.500
+and it makes a sword in the style that you like
+
+782
+31:55.500 --> 32:00.330
+and some "Lord of the Rings" sort of style or whatever.
+
+783
+32:00.330 --> 32:01.800
+But that's kind of the way
+
+784
+32:01.800 --> 32:05.280
+that XR gets augmented with the great AI.
+
+785
+32:05.280 --> 32:06.330
+And then what also happens
+
+786
+32:06.330 --> 32:08.670
+is you can have multiple NPCs in a game
+
+787
+32:08.670 --> 32:11.970
+and you could actually have a model like a Llama 3.2
+
+788
+32:11.970 --> 32:13.740
+or you know, 8 billion parameter model
+
+789
+32:13.740 --> 32:16.440
+that's running entirely on that MR headset.
+
+790
+32:16.440 --> 32:17.850
+And you could be having a conversation
+
+791
+32:17.850 --> 32:20.310
+with that NPC in the game, right?
+
+792
+32:20.310 --> 32:23.130
+I think that's how it enhances experiences like gaming
+
+793
+32:23.130 --> 32:25.440
+in a very, very interesting fashion.
+
+794
+32:25.440 --> 32:27.263
+And then if you look at what you can do on the AR
+
+795
+32:27.263 --> 32:29.520
+and the smart glass side,
+
+796
+32:29.520 --> 32:31.290
+I think that's where it really blows it up.
+
+797
+32:31.290 --> 32:33.210
+And in the case that Neil talked about,
+
+798
+32:33.210 --> 32:35.490
+we have one of our partners, at TCL,
+
+799
+32:35.490 --> 32:37.560
+they actually launched their device today
+
+800
+32:37.560 --> 32:39.330
+and it actually does exactly that.
+
+801
+32:39.330 --> 32:40.980
+I was with them in China
+
+802
+32:40.980 --> 32:42.360
+where the whole meeting was in Mandarin
+
+803
+32:42.360 --> 32:45.330
+and I could see the full translation the display, right?
+
+804
+32:45.330 --> 32:46.980
+Very simple use case in some ways,
+
+805
+32:46.980 --> 32:48.840
+but very practical, I think.
+
+806
+32:48.840 --> 32:51.200
+But what happens also in addition to that
+
+807
+32:51.200 --> 32:53.490
+is really multimodal AI coming together.
+
+808
+32:53.490 --> 32:54.930
+You have full agents that are able
+
+809
+32:54.930 --> 32:57.810
+to actually stitch together multiple tasks for you.
+
+810
+32:57.810 --> 32:59.910
+So it's not just saying, hey, you know,
+
+811
+32:59.910 --> 33:01.860
+write me a poem about whatever.
+
+812
+33:01.860 --> 33:03.120
+But it's much more about saying,
+
+813
+33:03.120 --> 33:06.090
+hey, I wanna schedule a trip to Vegas for CES
+
+814
+33:06.090 --> 33:09.360
+and hey, it's gonna break that down into multiple tasks.
+
+815
+33:09.360 --> 33:10.230
+It's going to have rag,
+
+816
+33:10.230 --> 33:12.150
+it's gonna snoop into your calendar,
+
+817
+33:12.150 --> 33:13.470
+it's going to look into your emails,
+
+818
+33:13.470 --> 33:15.360
+it's going to look into all of the things
+
+819
+33:15.360 --> 33:16.193
+that you need to do
+
+820
+33:16.193 --> 33:18.810
+and basically do that very complex task for you.
+
+821
+33:18.810 --> 33:20.700
+And what better device to do that on
+
+822
+33:20.700 --> 33:22.230
+than a smart glass, right?
+
+823
+33:22.230 --> 33:25.260
+This is the device which you go and sit into your car
+
+824
+33:25.260 --> 33:27.060
+and basically it can connect to your car
+
+825
+33:27.060 --> 33:29.730
+rather than having a heads up display, for example, right?
+
+826
+33:29.730 --> 33:31.380
+Those are the kinds of experiences
+
+827
+33:31.380 --> 33:33.300
+that I think they are here.
+
+828
+33:33.300 --> 33:36.360
+And I think I'll venture to predict that this year,
+
+829
+33:36.360 --> 33:37.920
+we will have devices,
+
+830
+33:37.920 --> 33:40.500
+very good form factor smart glasses
+
+831
+33:40.500 --> 33:43.140
+that will have displays in them, binocular displays.
+
+832
+33:43.140 --> 33:44.520
+And I think it'll completely change
+
+833
+33:44.520 --> 33:46.590
+the way that we interact with a lot of devices
+
+834
+33:46.590 --> 33:47.763
+that are on our body.
+
+835
+33:49.980 --> 33:52.320
+<v ->So I agree with the comments, saying AI,</v>
+
+836
+33:52.320 --> 33:53.676
+<v ->Disagree for once.</v>
+
+837
+33:53.676 --> 33:55.013
+<v ->yeah, I know it's boring, right?</v>
+
+838
+33:55.013 --> 33:56.010
+(all chuckling)
+
+839
+33:56.010 --> 33:58.200
+But AI is gonna be key.
+
+840
+33:58.200 --> 33:59.670
+I mean, sometimes you hear people say,
+
+841
+33:59.670 --> 34:00.820
+which is gonna be the hottest technologies,
+
+842
+34:00.820 --> 34:03.805
+is it AI or is it spatial computing
+
+843
+34:03.805 --> 34:06.180
+or, I think that they are so closely linked,
+
+844
+34:06.180 --> 34:07.860
+they're symbiotic
+
+845
+34:07.860 --> 34:09.930
+because spatial computing,
+
+846
+34:09.930 --> 34:12.630
+know understanding your environment and your users
+
+847
+34:12.630 --> 34:16.860
+that AI is the fundamentally enabling technology.
+
+848
+34:16.860 --> 34:18.000
+I mean, that stuff is magic.
+
+849
+34:18.000 --> 34:19.830
+We couldn't even contemplate doing that,
+
+850
+34:19.830 --> 34:22.200
+3, 4, 5 years ago.
+
+851
+34:22.200 --> 34:25.410
+Now it's all suddenly becoming possible.
+
+852
+34:25.410 --> 34:28.800
+And spatial computing, I think in many case, not all,
+
+853
+34:28.800 --> 34:33.270
+but in many cases will become the user interface for AI.
+
+854
+34:33.270 --> 34:35.980
+No, agentic spatial computing
+
+855
+34:37.230 --> 34:40.200
+is gonna be the way lots of us interact
+
+856
+34:40.200 --> 34:43.950
+with our computing machinery in a much more natural ways
+
+857
+34:43.950 --> 34:45.780
+than we've ever been able to do before.
+
+858
+34:45.780 --> 34:47.640
+And this is a real revolution.
+
+859
+34:47.640 --> 34:49.320
+I think that that's coming.
+
+860
+34:49.320 --> 34:52.410
+But another, and the final, you know,
+
+861
+34:52.410 --> 34:53.610
+really interesting thing,
+
+862
+34:53.610 --> 34:54.870
+which is really just starting
+
+863
+34:54.870 --> 34:58.710
+is actuated spatial computing
+
+864
+34:58.710 --> 35:00.840
+where it's not necessarily a human
+
+865
+35:00.840 --> 35:04.080
+but some smart machine or vehicle
+
+866
+35:04.080 --> 35:06.540
+that's also using spatial computing.
+
+867
+35:06.540 --> 35:10.440
+And again, it's so symbiotic using spatial computing
+
+868
+35:10.440 --> 35:13.290
+to train these smart devices
+
+869
+35:13.290 --> 35:16.830
+that then go out into the real world using spatial computing
+
+870
+35:16.830 --> 35:19.260
+to interact with their environments.
+
+871
+35:19.260 --> 35:21.927
+So spatial computing and AI, you know,
+
+872
+35:21.927 --> 35:24.360
+are just so tightly bound together.
+
+873
+35:24.360 --> 35:26.943
+It's a very, but it's very powerful combination.
+
+874
+35:28.200 --> 35:31.050
+<v ->I mentioned earlier that the competition</v>
+
+875
+35:31.050 --> 35:32.910
+that we are seeing,
+
+876
+35:32.910 --> 35:35.790
+interesting announcements from Google before the holidays,
+
+877
+35:35.790 --> 35:39.090
+both on the AI side, well as on the XR side,
+
+878
+35:39.090 --> 35:41.340
+Sony here at CES,
+
+879
+35:41.340 --> 35:44.520
+Sony's for a long time had the ability to work
+
+880
+35:44.520 --> 35:47.910
+across all of these but hasn't always brought it together.
+
+881
+35:47.910 --> 35:50.442
+But their latest announcements looks like
+
+882
+35:50.442 --> 35:53.580
+they are bringing a lot of their capabilities together.
+
+883
+35:53.580 --> 35:56.370
+All of big tech with the LLM models
+
+884
+35:56.370 --> 35:59.700
+plus so many small startups
+
+885
+35:59.700 --> 36:01.650
+or I don't even know if you can call them startups
+
+886
+36:01.650 --> 36:03.870
+'cause at the levels that they're at in the funding,
+
+887
+36:03.870 --> 36:05.700
+but, you know, small companies,
+
+888
+36:05.700 --> 36:09.153
+still new companies creating powerful models.
+
+889
+36:10.050 --> 36:13.740
+And hopefully we'll see more and more of these companies
+
+890
+36:13.740 --> 36:16.800
+also getting in working hand in hand with creators,
+
+891
+36:16.800 --> 36:18.690
+hand in hand with developers
+
+892
+36:18.690 --> 36:22.050
+and putting funding to make the market
+
+893
+36:22.050 --> 36:23.070
+continue to move forward
+
+894
+36:23.070 --> 36:27.330
+until they can be profitable on their own.
+
+895
+36:27.330 --> 36:29.100
+But, so I think that the,
+
+896
+36:29.100 --> 36:32.100
+so many more companies jumping back in
+
+897
+36:32.100 --> 36:35.160
+to spaces that many had exited,
+
+898
+36:35.160 --> 36:37.500
+but you know, they're seeing that now is the time
+
+899
+36:37.500 --> 36:40.468
+and now is the time to come back to the market,
+
+900
+36:40.468 --> 36:41.670
+that makes me really excited.
+
+901
+36:41.670 --> 36:42.510
+And then there's of course
+
+902
+36:42.510 --> 36:44.190
+those companies that have been there the whole time.
+
+903
+36:44.190 --> 36:46.447
+So we have to give them credit,
+
+904
+36:46.447 --> 36:48.000
+(panelists chuckling)
+
+905
+36:48.000 --> 36:49.413
+such the ones on this panel.
+
+906
+36:50.700 --> 36:54.060
+<v ->Awesome, related, so how about other senses</v>
+
+907
+36:54.060 --> 36:55.467
+like haptics and other stuff?
+
+908
+36:55.467 --> 36:57.180
+Are you guys doing anything in that?
+
+909
+36:57.180 --> 37:00.960
+I mean is it all, is it primarily video?
+
+910
+37:00.960 --> 37:02.580
+I know that's what we've been thinking about,
+
+911
+37:02.580 --> 37:04.710
+mostly talking about here, but other?
+
+912
+37:04.710 --> 37:06.270
+<v ->No, haptics is really key.</v>
+
+913
+37:06.270 --> 37:08.490
+I mean just like,
+
+914
+37:08.490 --> 37:10.230
+just like in games you don't have good audio,
+
+915
+37:10.230 --> 37:12.390
+it's like 80% of the experience has gone.
+
+916
+37:12.390 --> 37:15.060
+I mean when we get to real spatial computing
+
+917
+37:15.060 --> 37:16.290
+and immersive experiences,
+
+918
+37:16.290 --> 37:18.030
+I think haptics is gonna be key.
+
+919
+37:18.030 --> 37:20.460
+There lots of the low level standards like OpenXR,
+
+920
+37:20.460 --> 37:22.803
+they're not just focused on, you know,
+
+921
+37:22.803 --> 37:24.960
+just the video part and the audio part.
+
+922
+37:24.960 --> 37:28.380
+They're absolutely focusing in on the haptics as well.
+
+923
+37:28.380 --> 37:30.230
+Make making sure that's standardized.
+
+924
+37:31.260 --> 37:33.030
+<v ->Yeah, and we were chatting,</v>
+
+925
+37:33.030 --> 37:35.280
+I was here for the "World of Concrete" last year,
+
+926
+37:35.280 --> 37:37.470
+which is a enormous conference
+
+927
+37:37.470 --> 37:40.530
+with the heavy machinery and I was so surprised
+
+928
+37:40.530 --> 37:41.580
+and happy to see
+
+929
+37:41.580 --> 37:46.580
+how many simulations the different companies had,
+
+930
+37:46.680 --> 37:51.680
+where you could sit and it was a 360 video of you in a field
+
+931
+37:52.470 --> 37:53.700
+and it was a haptic chair
+
+932
+37:53.700 --> 37:56.430
+and you were actually trying to do the crane
+
+933
+37:56.430 --> 37:58.770
+and everything and I was horrible. (chuckles)
+
+934
+37:58.770 --> 38:03.057
+So, but it was a very realistic experience
+
+935
+38:03.057 --> 38:04.830
+and the haptics were essential
+
+936
+38:04.830 --> 38:07.170
+to make that mixed reality experience.
+
+937
+38:07.170 --> 38:10.260
+And you know, there's HaptX that is still around
+
+938
+38:10.260 --> 38:12.210
+and part of a bigger company now,
+
+939
+38:12.210 --> 38:15.120
+which is more of like, you know, gloves that you can wear.
+
+940
+38:15.120 --> 38:16.770
+So when you talk about surgeon training
+
+941
+38:16.770 --> 38:20.430
+and understanding what is that amount of pressure to put,
+
+942
+38:20.430 --> 38:22.080
+so it's incredibly essential.
+
+943
+38:22.080 --> 38:25.200
+I just think it's been lagging a bit.
+
+944
+38:25.200 --> 38:27.720
+'cause you know, we gotta create the content first
+
+945
+38:27.720 --> 38:30.660
+and then everything else. (chuckles)
+
+946
+38:30.660 --> 38:32.250
+<v ->And mechanically it's a challenge, right?</v>
+
+947
+38:32.250 --> 38:33.570
+You can understand why it's lagging.
+
+948
+38:33.570 --> 38:34.684
+It's a hard,
+
+949
+38:34.684 --> 38:35.517
+<v ->It's expensive.</v>
+<v ->It's a hard problem.</v>
+
+950
+38:35.517 --> 38:37.203
+<v ->Hardware is a difficult business.</v>
+
+951
+38:38.340 --> 38:39.173
+<v ->Yes.</v>
+
+952
+38:39.173 --> 38:41.190
+So this is true.
+
+953
+38:41.190 --> 38:43.800
+I'm reminded by people on the robotics side,
+
+954
+38:43.800 --> 38:47.430
+you know, robotics have been at CES many, many years.
+
+955
+38:47.430 --> 38:51.090
+Things that move actuators are just hard to do,
+
+956
+38:51.090 --> 38:52.920
+really hard to do well.
+
+957
+38:52.920 --> 38:55.440
+We got just like a minute or so left,
+
+958
+38:55.440 --> 38:58.710
+so you guys wanna say anything?
+
+959
+38:58.710 --> 39:00.270
+Oh, oh, I should mention like, by the way,
+
+960
+39:00.270 --> 39:02.040
+we have our own bigger equipment over here,
+
+961
+39:02.040 --> 39:04.020
+so right here in West Hall, you know,
+
+962
+39:04.020 --> 39:08.793
+we've got big mining equipment, so check it out.
+
+963
+39:10.862 --> 39:11.695
+What do you see,
+
+964
+39:11.695 --> 39:13.236
+or like what would you like to see,
+
+965
+39:13.236 --> 39:15.000
+what do you see as success this year,
+
+966
+39:15.000 --> 39:15.990
+just kind of quickly,
+
+967
+39:15.990 --> 39:18.873
+or what would you like to see at CES next year?
+
+968
+39:19.980 --> 39:23.253
+What's your like, optimistic vision for spatial computing?
+
+969
+39:25.410 --> 39:28.080
+<v ->I'd personally like to see</v>
+
+970
+39:28.080 --> 39:30.900
+steady progress on more use case
+
+971
+39:30.900 --> 39:33.690
+being packed into the smart glasses
+
+972
+39:33.690 --> 39:36.690
+and them being genuinely useful.
+
+973
+39:36.690 --> 39:39.688
+Not gimmicks or just something for its own sake.
+
+974
+39:39.688 --> 39:41.490
+I think if we can stay on that track,
+
+975
+39:41.490 --> 39:43.713
+then interesting things are gonna happen.
+
+976
+39:45.191 --> 39:47.760
+<v ->I think I kind of follow what Neil said.</v>
+
+977
+39:47.760 --> 39:49.980
+I think next year, by this time,
+
+978
+39:49.980 --> 39:52.410
+we will have multiple companies
+
+979
+39:52.410 --> 39:55.380
+that would have glasses with displays
+
+980
+39:55.380 --> 39:58.950
+and I think with agents that are actually able to do
+
+981
+39:58.950 --> 40:00.360
+a lot of the tasks for us, right?
+
+982
+40:00.360 --> 40:02.430
+That's, I mean that's a use case
+
+983
+40:02.430 --> 40:04.380
+that's ready, it's available.
+
+984
+40:04.380 --> 40:06.060
+And I think what will make that also possible
+
+985
+40:06.060 --> 40:09.090
+is people are now looking at more domain specific models
+
+986
+40:09.090 --> 40:10.860
+such that you can actually train it,
+
+987
+40:10.860 --> 40:12.330
+only on that specific use case,
+
+988
+40:12.330 --> 40:13.530
+whether it's medical triage
+
+989
+40:13.530 --> 40:15.480
+or it's a particular use case.
+
+990
+40:15.480 --> 40:17.550
+And that model can now be much smaller,
+
+991
+40:17.550 --> 40:18.870
+does not hallucinate.
+
+992
+40:18.870 --> 40:21.000
+And I think those are going to be the things
+
+993
+40:21.000 --> 40:22.140
+that make it happen.
+
+994
+40:22.140 --> 40:24.810
+And the experience has to be seamless, right?
+
+995
+40:24.810 --> 40:27.330
+It cannot be that you need to wait for a sentence to finish
+
+996
+40:27.330 --> 40:29.250
+and then the person starts speaking.
+
+997
+40:29.250 --> 40:31.470
+It needs to be the same conversational style
+
+998
+40:31.470 --> 40:33.030
+that you have with other humans.
+
+999
+40:33.030 --> 40:34.813
+Otherwise it comes very restrictive.
+
+1000
+40:34.813 --> 40:36.963
+And I think that will happen in my opinion.
+
+1001
+40:38.696 --> 40:40.496
+<v ->Well, I'm looking forward to when,</v>
+
+1002
+40:41.700 --> 40:43.140
+you know, if you think back,
+
+1003
+40:43.140 --> 40:46.110
+whether it was 15 or 20 or so years ago
+
+1004
+40:46.110 --> 40:48.330
+and digital was something separate,
+
+1005
+40:48.330 --> 40:50.070
+digital was like its own department.
+
+1006
+40:50.070 --> 40:52.230
+It was like there were certain people that were, you know,
+
+1007
+40:52.230 --> 40:53.700
+the digital people in your company
+
+1008
+40:53.700 --> 40:55.140
+and other people were not.
+
+1009
+40:55.140 --> 40:56.640
+But I'm looking forward
+
+1010
+40:56.640 --> 41:00.330
+to when both AI and spatial computing
+
+1011
+41:00.330 --> 41:02.370
+just become like the water.
+
+1012
+41:02.370 --> 41:04.410
+It's just how we interact
+
+1013
+41:04.410 --> 41:06.810
+and it's less focused on the technology
+
+1014
+41:06.810 --> 41:10.028
+and more just focused on how you do things
+
+1015
+41:10.028 --> 41:11.430
+and your experience.
+
+1016
+41:11.430 --> 41:13.050
+And I think that that's when we'll know
+
+1017
+41:13.050 --> 41:14.763
+we're truly at mass adoption.
+
+1018
+41:16.920 --> 41:19.170
+<v ->Okay. Ashley, you wanna bring us home or you...</v>
+
+1019
+41:19.170 --> 41:20.003
+<v ->Oh, sure.</v>
+
+1020
+41:20.003 --> 41:21.390
+I mean I completely agree that,
+
+1021
+41:21.390 --> 41:24.480
+I'd say the use cases on the headsets,
+
+1022
+41:24.480 --> 41:26.220
+but I'm hoping to see
+
+1023
+41:26.220 --> 41:28.740
+that people think about having content
+
+1024
+41:28.740 --> 41:31.050
+across all different types of devices
+
+1025
+41:31.050 --> 41:31.883
+when they create it
+
+1026
+41:31.883 --> 41:35.760
+because that's how you're gonna get more use cases
+
+1027
+41:35.760 --> 41:37.350
+and usage in the software.
+
+1028
+41:37.350 --> 41:38.340
+And if people can use it
+
+1029
+41:38.340 --> 41:41.103
+on a desktop, tablet and a headset,
+
+1030
+41:42.090 --> 41:43.830
+I think you're gonna get faster adoption
+
+1031
+41:43.830 --> 41:47.613
+and be able to bring in more people to adopt it faster.
+
+1032
+41:48.930 --> 41:51.450
+<v ->I agree.
+(panelists laughing)</v>
+
+1033
+41:51.450 --> 41:54.769
+<v ->Ah, Joanne, do you have a rebuttal for it?</v>
+
+1034
+41:54.769 --> 41:55.602
+(panelists laughing)
+
+1035
+41:55.602 --> 41:58.800
+Okay, so, alright, we are at time.
+
+1036
+41:58.800 --> 42:00.060
+I'm sure if you have questions,
+
+1037
+42:00.060 --> 42:02.820
+our panelists would chat with you afterwards.
+
+1038
+42:02.820 --> 42:05.190
+So join me in thanking our panelists
+
+1039
+42:05.190 --> 42:07.052
+for this great session, "Spatial Computing."
+
+1040
+42:07.052 --> 42:08.766
+(audience applauding)
+
+1041
+42:08.766 --> 42:11.433
+(bright music)
+

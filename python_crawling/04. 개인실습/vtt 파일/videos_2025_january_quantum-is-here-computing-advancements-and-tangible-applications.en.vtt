@@ -1,0 +1,3849 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.125 --> 00:02.708
+(cheerful music)
+
+2
+00:10.290 --> 00:11.730
+<v ->Thank you all for coming.</v>
+
+3
+00:11.730 --> 00:12.600
+Thank you all for coming
+
+4
+00:12.600 --> 00:15.630
+to the Quantum Means Business segment at CES.
+
+5
+00:15.630 --> 00:17.400
+We are thrilled to be here,
+
+6
+00:17.400 --> 00:19.740
+thrilled to have so many familiar faces and friends
+
+7
+00:19.740 --> 00:21.180
+in the room as well.
+
+8
+00:21.180 --> 00:23.050
+This is a big kind of step
+
+9
+00:23.050 --> 00:24.383
+(cheerful music)
+for the quantum industry,
+
+10
+00:24.383 --> 00:26.670
+to come to CES
+
+11
+00:26.670 --> 00:30.420
+and present where we are from an overarching perspective.
+
+12
+00:30.420 --> 00:32.670
+My name is George Thomas,
+
+13
+00:32.670 --> 00:34.800
+and it's my pleasure here today
+
+14
+00:34.800 --> 00:36.960
+to kind of give you a little lay of the land
+
+15
+00:36.960 --> 00:38.250
+and introduce us.
+
+16
+00:38.250 --> 00:40.230
+So there's three segments to the session today.
+
+17
+00:40.230 --> 00:41.687
+The first one is gonna be called Quantum is Here.
+
+18
+00:41.687 --> 00:44.313
+We are gonna be focusing on quantum computing.
+
+19
+00:45.420 --> 00:47.160
+But before we get started,
+
+20
+00:47.160 --> 00:50.250
+I just wanted to kind of give a lay of the land
+
+21
+00:50.250 --> 00:52.800
+with regard to what quantum is for those of you,
+
+22
+00:52.800 --> 00:53.760
+just to kind of level set,
+
+23
+00:53.760 --> 00:56.110
+so that we are all speaking from the same page.
+
+24
+00:57.330 --> 00:58.740
+My name is George Thomas, as I said,
+
+25
+00:58.740 --> 01:01.950
+I'm the president and CEO of Connected DMV,
+
+26
+01:01.950 --> 01:03.990
+and we organize the Quantum World Congress,
+
+27
+01:03.990 --> 01:05.640
+it's an annual kind of gathering
+
+28
+01:05.640 --> 01:08.880
+for the leadership in quantum from around the world.
+
+29
+01:08.880 --> 01:12.157
+So the industry itself and the market when we say,
+
+30
+01:12.157 --> 01:15.090
+"Quantum," and quantum essentially is quantum mechanics,
+
+31
+01:15.090 --> 01:18.660
+which is physics at the subatomic level,
+
+32
+01:18.660 --> 01:21.450
+that has now created entire industries
+
+33
+01:21.450 --> 01:25.680
+that are enabling us to use the science,
+
+34
+01:25.680 --> 01:28.050
+to create engineering and applications,
+
+35
+01:28.050 --> 01:30.810
+to drive substantial change within the world
+
+36
+01:30.810 --> 01:31.830
+that we live in.
+
+37
+01:31.830 --> 01:36.360
+The promise of quantum is, by all intents and purposes,
+
+38
+01:36.360 --> 01:38.700
+going to be as profound, if not more,
+
+39
+01:38.700 --> 01:40.320
+than when the internet came about.
+
+40
+01:40.320 --> 01:44.640
+For those of you that remember pre-1995 to 2005,
+
+41
+01:44.640 --> 01:46.260
+that was such a substantial change
+
+42
+01:46.260 --> 01:49.080
+in pretty much everything that we do and how we interact.
+
+43
+01:49.080 --> 01:51.810
+This is another one of those step changes that can happen
+
+44
+01:51.810 --> 01:54.240
+in our lifetimes with regard to what this could do.
+
+45
+01:54.240 --> 01:56.130
+So from a pure market perspective itself,
+
+46
+01:56.130 --> 01:59.520
+that physics at the subatomic level has kind of evolved
+
+47
+01:59.520 --> 02:01.620
+into multiple kind of domains of expertise,
+
+48
+02:01.620 --> 02:04.200
+the first one being quantum computing,
+
+49
+02:04.200 --> 02:05.490
+which everybody has heard of.
+
+50
+02:05.490 --> 02:06.750
+There's also other areas,
+
+51
+02:06.750 --> 02:08.220
+which I will kind of talk about in a little bit.
+
+52
+02:08.220 --> 02:10.830
+From an overall market perspective, the rough estimate,
+
+53
+02:10.830 --> 02:13.530
+and there's lots of variations, depending on what you count,
+
+54
+02:13.530 --> 02:16.260
+is about 173 billion, this is a report from McKinsey,
+
+55
+02:16.260 --> 02:17.670
+and you can see kind of like the breakout
+
+56
+02:17.670 --> 02:20.550
+of that by quantum sensing, communications, and others.
+
+57
+02:20.550 --> 02:22.950
+But the one, two numbers I would point out on the slide
+
+58
+02:22.950 --> 02:25.860
+to also pay attention to is the economic impact
+
+59
+02:25.860 --> 02:28.110
+just from quantum computing itself,
+
+60
+02:28.110 --> 02:30.150
+is between 1 and $2 trillion,
+
+61
+02:30.150 --> 02:31.550
+is the anticipation by 2040.
+
+62
+02:32.490 --> 02:34.980
+And if you look across from a talent perspective,
+
+63
+02:34.980 --> 02:36.240
+there's already, you know,
+
+64
+02:36.240 --> 02:40.050
+55 masters-level quantum degrees that's possible.
+
+65
+02:40.050 --> 02:44.070
+So it's not science in a lab, it's as much as it's here,
+
+66
+02:44.070 --> 02:45.540
+talent is being developed,
+
+67
+02:45.540 --> 02:47.790
+economic impact is being looked at.
+
+68
+02:47.790 --> 02:49.770
+So this is a fast-moving
+
+69
+02:49.770 --> 02:53.280
+and fast-evolving kind of market space as it were.
+
+70
+02:53.280 --> 02:54.780
+And one of the other factors on there
+
+71
+02:54.780 --> 02:57.420
+is that $40 billion that you see below it.
+
+72
+02:57.420 --> 02:59.970
+So publicly available information
+
+73
+02:59.970 --> 03:03.150
+from central and federal governments around the world
+
+74
+03:03.150 --> 03:06.300
+showcase that this is a global phenomenon.
+
+75
+03:06.300 --> 03:08.760
+There's a significant amount of investment happening,
+
+76
+03:08.760 --> 03:10.530
+led by China, with about 15 billion,
+
+77
+03:10.530 --> 03:12.060
+and the US with about four.
+
+78
+03:12.060 --> 03:13.380
+But everybody's participating.
+
+79
+03:13.380 --> 03:15.060
+And this is publicly available information
+
+80
+03:15.060 --> 03:15.960
+from central governments.
+
+81
+03:15.960 --> 03:17.550
+It's a lot more money going in
+
+82
+03:17.550 --> 03:19.230
+outside of these kind of spheres.
+
+83
+03:19.230 --> 03:20.760
+So the purpose of these two slides
+
+84
+03:20.760 --> 03:24.450
+was to kind of impart on the fact that this is here,
+
+85
+03:24.450 --> 03:27.870
+this is now, and there is a lot of money and expertise
+
+86
+03:27.870 --> 03:30.270
+being spent to kind of develop what this looks like.
+
+87
+03:30.270 --> 03:32.760
+And it's really a race between companies,
+
+88
+03:32.760 --> 03:35.700
+between countries to kind of go after what the promise
+
+89
+03:35.700 --> 03:36.900
+of this could look like.
+
+90
+03:38.550 --> 03:40.410
+So going back one level,
+
+91
+03:40.410 --> 03:42.450
+there's four or five ways you can kind of split up
+
+92
+03:42.450 --> 03:45.330
+what quantum means from an industry perspective.
+
+93
+03:45.330 --> 03:47.190
+We've just chosen to show it as five.
+
+94
+03:47.190 --> 03:49.590
+There is a compute segment, which is, you know, computers.
+
+95
+03:49.590 --> 03:52.260
+The second one is materials,
+
+96
+03:52.260 --> 03:54.090
+so properties with different spin
+
+97
+03:54.090 --> 03:56.580
+and different magnetic properties at the subatomic level
+
+98
+03:56.580 --> 03:58.047
+create new ways we can think about
+
+99
+03:58.047 --> 04:00.180
+and what kind of materials we could develop.
+
+100
+04:00.180 --> 04:02.280
+Sensors, like high fidelity,
+
+101
+04:02.280 --> 04:03.900
+are different ways to kind of measure
+
+102
+04:03.900 --> 04:04.823
+what we see in the physical world,
+
+103
+04:04.823 --> 04:07.470
+there's a whole kind of segment under quantum sensing.
+
+104
+04:07.470 --> 04:10.200
+And arguably, quantum sensing is further along
+
+105
+04:10.200 --> 04:12.570
+than even quantum computing with the types of assets.
+
+106
+04:12.570 --> 04:14.550
+So the third segment sessioned today
+
+107
+04:14.550 --> 04:16.830
+is gonna have a panel with quantum sensing companies
+
+108
+04:16.830 --> 04:17.850
+talking about what they have done
+
+109
+04:17.850 --> 04:19.410
+and where they're kind of going with it.
+
+110
+04:19.410 --> 04:21.630
+So these are kind of five things
+
+111
+04:21.630 --> 04:22.530
+that we've kind of broken up.
+
+112
+04:22.530 --> 04:25.590
+And quantum cryptography is two sides of it, it is,
+
+113
+04:25.590 --> 04:27.660
+how do we protect classical compute
+
+114
+04:27.660 --> 04:29.697
+and classical assets from the advent
+
+115
+04:29.697 --> 04:31.500
+when a quantum computer comes,
+
+116
+04:31.500 --> 04:34.320
+and also what does pure kind of quantum property mean
+
+117
+04:34.320 --> 04:35.340
+when that kinda comes around?
+
+118
+04:35.340 --> 04:37.800
+So it's both sides of that equation, is a market,
+
+119
+04:37.800 --> 04:40.020
+and there's a tremendous amount of market for it now.
+
+120
+04:40.020 --> 04:42.570
+And NIST recently announced a set of, you know,
+
+121
+04:42.570 --> 04:45.960
+protective algorithms to protect classical computers.
+
+122
+04:45.960 --> 04:47.550
+And there's a whole industry being formed
+
+123
+04:47.550 --> 04:49.290
+around how do we do that today
+
+124
+04:49.290 --> 04:50.880
+before true quantum comes about.
+
+125
+04:50.880 --> 04:54.600
+So not only is it quantum from a pure sensitive perspective,
+
+126
+04:54.600 --> 04:56.430
+but the transition that needs to come through
+
+127
+04:56.430 --> 04:58.590
+to make that happen over the next 10 years.
+
+128
+04:58.590 --> 05:00.810
+So there's businesses, there's industries,
+
+129
+05:00.810 --> 05:03.090
+there is applications, there is devices,
+
+130
+05:03.090 --> 05:05.310
+all being kind of created in what we call
+
+131
+05:05.310 --> 05:07.620
+the kind of like the overarching world of quantum
+
+132
+05:07.620 --> 05:09.000
+is really the idea.
+
+133
+05:09.000 --> 05:11.280
+So let me talk very quickly about two more things.
+
+134
+05:11.280 --> 05:14.640
+So if I go into the quantum computing,
+
+135
+05:14.640 --> 05:16.980
+this will give you kind of a very high level,
+
+136
+05:16.980 --> 05:19.950
+it's by Fractal, about some of the potential applications
+
+137
+05:19.950 --> 05:21.690
+that is possible in compute.
+
+138
+05:21.690 --> 05:23.536
+It also touches on cryptography and communications.
+
+139
+05:23.536 --> 05:25.260
+So I'm not gonna read the slide.
+
+140
+05:25.260 --> 05:26.370
+But there's enough material
+
+141
+05:26.370 --> 05:28.890
+about where these kind can be applied.
+
+142
+05:28.890 --> 05:30.750
+And the next one is around sensing,
+
+143
+05:30.750 --> 05:32.730
+these are some of the places and industries
+
+144
+05:32.730 --> 05:35.970
+and the key things that we can now decide on what to do.
+
+145
+05:35.970 --> 05:37.320
+There's a couple of things I'll mention,
+
+146
+05:37.320 --> 05:39.840
+like gravity meters that used to measure stuff, you know,
+
+147
+05:39.840 --> 05:41.370
+infrastructure in the ground.
+
+148
+05:41.370 --> 05:44.730
+The level of fidelity is going to be so much better
+
+149
+05:44.730 --> 05:45.780
+than what we have today.
+
+150
+05:45.780 --> 05:48.120
+We can entirely have a whole new industry
+
+151
+05:48.120 --> 05:51.270
+on infrastructure protection and risk mitigation.
+
+152
+05:51.270 --> 05:53.250
+We can have entirely new mechanisms
+
+153
+05:53.250 --> 05:55.770
+to understand how to deal with disasters
+
+154
+05:55.770 --> 05:57.690
+before they happen, like an earthquake,
+
+155
+05:57.690 --> 05:59.850
+far more so than we are able to do today.
+
+156
+05:59.850 --> 06:02.608
+So it'll give you a sense of the types of industries that,
+
+157
+06:02.608 --> 06:03.570
+you know, quantum is going to affect,
+
+158
+06:03.570 --> 06:07.140
+and what will kind of come about to make this happen.
+
+159
+06:07.140 --> 06:11.190
+So while all this was going on, one of the things,
+
+160
+06:11.190 --> 06:12.720
+so because of all of this stuff,
+
+161
+06:12.720 --> 06:15.120
+about three years ago, in 2022,
+
+162
+06:15.120 --> 06:17.700
+we decided to start getting the leadership
+
+163
+06:17.700 --> 06:21.060
+from around the world to come together in Washington, DC,
+
+164
+06:21.060 --> 06:22.860
+to kind of talk about what this means,
+
+165
+06:22.860 --> 06:24.060
+how do we collaborate,
+
+166
+06:24.060 --> 06:26.280
+what are the mechanisms we can use
+
+167
+06:26.280 --> 06:28.530
+to kind of drive forward progress,
+
+168
+06:28.530 --> 06:30.780
+because nothing in science and technology
+
+169
+06:30.780 --> 06:32.010
+is a straight line,
+
+170
+06:32.010 --> 06:34.620
+there's lots of steps and stops and starts.
+
+171
+06:34.620 --> 06:37.740
+One of my best examples of this is electric vehicles.
+
+172
+06:37.740 --> 06:42.330
+The first suite of electric vehicles was a set of taxis
+
+173
+06:42.330 --> 06:46.373
+that was deployed in London in 1897, 1897,
+
+174
+06:48.090 --> 06:50.610
+it was called the Hummingbird Taxi Service.
+
+175
+06:50.610 --> 06:53.460
+It lasted for about six years and went out of business.
+
+176
+06:53.460 --> 06:54.900
+And the reason it went out of business
+
+177
+06:54.900 --> 06:56.820
+was not because of the electric vehicle,
+
+178
+06:56.820 --> 07:00.000
+it went out of business because vulcanization of rubber
+
+179
+07:00.000 --> 07:02.190
+was not invented till 1920,
+
+180
+07:02.190 --> 07:04.260
+which means the tires kept breaking
+
+181
+07:04.260 --> 07:06.840
+on roads meant for horse carts.
+
+182
+07:06.840 --> 07:08.328
+And then we lost 100-something years
+
+183
+07:08.328 --> 07:10.710
+before the Hummingbird Service went back to London
+
+184
+07:10.710 --> 07:12.510
+in the 2000s.
+
+185
+07:12.510 --> 07:16.080
+So technologies fits and starts, ups and downs.
+
+186
+07:16.080 --> 07:17.790
+So we need to come together as a community.
+
+187
+07:17.790 --> 07:20.340
+So the Quantum World Congress allowed us that opportunity
+
+188
+07:20.340 --> 07:23.010
+for the thousand leaders from about 29 countries,
+
+189
+07:23.010 --> 07:23.940
+gathered this year,
+
+190
+07:23.940 --> 07:26.670
+to kind of talk about a whole number of advancements.
+
+191
+07:26.670 --> 07:27.990
+One of the big advancements there was,
+
+192
+07:27.990 --> 07:30.410
+Boeing announced the launch in 2026
+
+193
+07:30.410 --> 07:31.800
+of the first quantum satellite
+
+194
+07:31.800 --> 07:34.020
+that they wanna put up in the air.
+
+195
+07:34.020 --> 07:36.030
+So just to kind of give you a sense for that.
+
+196
+07:36.030 --> 07:38.910
+So that's the background to kind of level set.
+
+197
+07:38.910 --> 07:41.400
+So the plan for today, essentially, is threefold,
+
+198
+07:41.400 --> 07:43.800
+three sessions, first on compute, the second one,
+
+199
+07:43.800 --> 07:45.840
+we're gonna talk about how industry is getting involved,
+
+200
+07:45.840 --> 07:47.640
+something called the Global Industry Challenge.
+
+201
+07:47.640 --> 07:49.170
+And the third session is Quantum is Now,
+
+202
+07:49.170 --> 07:52.683
+focused primarily on devices and sensors.
+
+203
+07:56.490 --> 07:58.650
+And we would not be here without our sponsors,
+
+204
+07:58.650 --> 08:01.620
+I really want to thank our sponsors, sitting here as well.
+
+205
+08:01.620 --> 08:03.270
+IONQ, Microsoft, and Quantinuum,
+
+206
+08:03.270 --> 08:04.710
+thank you for your generosity
+
+207
+08:04.710 --> 08:06.660
+for allowing us to come to CES
+
+208
+08:06.660 --> 08:08.940
+and have this discussion and this dialogue.
+
+209
+08:08.940 --> 08:12.210
+We are really, really thrilled that you're all able to join
+
+210
+08:12.210 --> 08:14.490
+in hearing what they have to say.
+
+211
+08:14.490 --> 08:15.693
+So thank you, sponsors.
+
+212
+08:17.280 --> 08:18.113
+So with that,
+
+213
+08:18.113 --> 08:22.020
+let me invite my good friend, Jacqueline Tame.
+
+214
+08:22.020 --> 08:25.320
+Jacqueline is an operating partner at Playground Global,
+
+215
+08:25.320 --> 08:28.800
+which is a incredible venture capital firm
+
+216
+08:28.800 --> 08:31.020
+that have invested heavily into the quantum space.
+
+217
+08:31.020 --> 08:33.300
+And Jacqueline is gonna come up and introduce our panel.
+
+218
+08:33.300 --> 08:34.133
+Jackie.
+
+219
+08:40.920 --> 08:43.410
+<v ->Thank you so, so much, George and CES,</v>
+
+220
+08:43.410 --> 08:45.810
+and to all of you who have joined us this morning.
+
+221
+08:45.810 --> 08:48.132
+We have an early morning,
+
+222
+08:48.132 --> 08:51.825
+yet, hopefully, very lively and spicy conversation
+
+223
+08:51.825 --> 08:54.450
+about a topic that is critically important,
+
+224
+08:54.450 --> 08:56.010
+has a lot of coverage these days
+
+225
+08:56.010 --> 08:57.690
+for a whole host of reasons,
+
+226
+08:57.690 --> 08:59.640
+and that, hopefully, with that introduction from George,
+
+227
+08:59.640 --> 09:03.480
+you already know is well worth all of this focus
+
+228
+09:03.480 --> 09:05.670
+and investment and attention.
+
+229
+09:05.670 --> 09:07.590
+So I'm gonna briefly introduce
+
+230
+09:07.590 --> 09:11.460
+my esteemed panelists up here today,
+
+231
+09:11.460 --> 09:14.400
+and then I'm gonna offer a few sort of just opening remarks
+
+232
+09:14.400 --> 09:15.630
+from my vantage point.
+
+233
+09:15.630 --> 09:17.580
+And then we're gonna go into a pretty, I think,
+
+234
+09:17.580 --> 09:20.760
+robust discussion along the lines of all of the things
+
+235
+09:20.760 --> 09:22.620
+that George has just kind of highlighted for us.
+
+236
+09:22.620 --> 09:25.620
+So to my immediate left, we have Joe Broz,
+
+237
+09:25.620 --> 09:28.170
+who is a vice president of IBM Quantum,
+
+238
+09:28.170 --> 09:30.660
+and leads their business development efforts.
+
+239
+09:30.660 --> 09:32.730
+We have Margaret Arakawa,
+
+240
+09:32.730 --> 09:36.000
+who is the chief marketing officer at IONQ.
+
+241
+09:36.000 --> 09:37.590
+We have John Nici, who's the head
+
+242
+09:37.590 --> 09:40.650
+of Growth and Strategic Technologies for Microsoft.
+
+243
+09:40.650 --> 09:42.647
+And we have Nash Palaniswamy,
+
+244
+09:42.647 --> 09:45.600
+who is the chief commercial officer at Quantinuum.
+
+245
+09:45.600 --> 09:47.640
+So thank you all so much for being here.
+
+246
+09:47.640 --> 09:49.680
+And I think, just given, oh, yes,
+
+247
+09:49.680 --> 09:52.110
+please, thanks.
+(audience applauding)
+
+248
+09:52.110 --> 09:52.965
+Appreciate that.
+
+249
+09:52.965 --> 09:54.750
+(audience applauding)
+
+250
+09:54.750 --> 09:57.420
+Yeah, so to have these four people,
+
+251
+09:57.420 --> 09:59.820
+whose jobs are clearly pretty important these days
+
+252
+09:59.820 --> 10:01.170
+for all of those respective companies,
+
+253
+10:01.170 --> 10:02.250
+be here to talk about this
+
+254
+10:02.250 --> 10:05.130
+I hope is another sort of just signal and indicator
+
+255
+10:05.130 --> 10:10.130
+of how critical this technology is, where we are,
+
+256
+10:10.620 --> 10:12.960
+and where we are in the business cycle here,
+
+257
+10:12.960 --> 10:16.260
+which we're gonna talk about in a lot of detail today.
+
+258
+10:16.260 --> 10:18.570
+I will offer just a really, really brief perspective,
+
+259
+10:18.570 --> 10:19.770
+which may be a little bit different
+
+260
+10:19.770 --> 10:20.940
+than what you hear from my colleagues,
+
+261
+10:20.940 --> 10:23.010
+just based on my background.
+
+262
+10:23.010 --> 10:24.090
+So as George shared,
+
+263
+10:24.090 --> 10:25.830
+I'm an operating partner with Playground Global,
+
+264
+10:25.830 --> 10:28.680
+which is an early-stage deep-tech venture capital firm.
+
+265
+10:28.680 --> 10:31.290
+I'm actually building our global government practice.
+
+266
+10:31.290 --> 10:33.360
+So I'm not on the investment side of the house.
+
+267
+10:33.360 --> 10:35.850
+Playground realized about a year ago,
+
+268
+10:35.850 --> 10:37.200
+maybe a little earlier,
+
+269
+10:37.200 --> 10:40.950
+that the government and industry intersection
+
+270
+10:40.950 --> 10:42.990
+and private capital intersection
+
+271
+10:42.990 --> 10:47.220
+around these critical emerging technologies is just,
+
+272
+10:49.650 --> 10:52.440
+you can't underestimate how important it is
+
+273
+10:52.440 --> 10:53.940
+to get those relationships right
+
+274
+10:53.940 --> 10:58.320
+and those elements of education and understanding right.
+
+275
+10:58.320 --> 11:00.930
+So much of my job, both internally and externally,
+
+276
+11:00.930 --> 11:03.690
+is educating the government stakeholders
+
+277
+11:03.690 --> 11:07.125
+about where we are in the markets for these technologies
+
+278
+11:07.125 --> 11:09.060
+for quantum computing and everything else.
+
+279
+11:09.060 --> 11:10.470
+And then, in turn,
+
+280
+11:10.470 --> 11:13.290
+helping to educate our portfolio companies
+
+281
+11:13.290 --> 11:16.440
+and industry partners and LPs on where the government is
+
+282
+11:16.440 --> 11:18.420
+and what that signal means.
+
+283
+11:18.420 --> 11:20.400
+And I grew up in the intelligence community
+
+284
+11:20.400 --> 11:21.480
+and the Department of Defense,
+
+285
+11:21.480 --> 11:25.290
+I ran the AI center at the Department of Defense
+
+286
+11:25.290 --> 11:27.390
+in my last kind of full-time role.
+
+287
+11:27.390 --> 11:29.460
+And the reason that I got into quantum,
+
+288
+11:29.460 --> 11:31.470
+I actually started with one of our portfolio companies
+
+289
+11:31.470 --> 11:32.303
+called Si-Quantum,
+
+290
+11:32.303 --> 11:36.270
+which is a hardware, a quantum computing hardware company,
+
+291
+11:36.270 --> 11:40.260
+is because I saw how absolutely behind we were
+
+292
+11:40.260 --> 11:42.720
+in the government on some of these technologies.
+
+293
+11:42.720 --> 11:45.270
+I saw it in the AI space, and then I started to learn
+
+294
+11:45.270 --> 11:47.160
+about the quantum technology aspect of things.
+
+295
+11:47.160 --> 11:51.420
+And so my vantage point is really,
+
+296
+11:51.420 --> 11:54.810
+I've never come at it from a business side until now.
+
+297
+11:54.810 --> 11:56.310
+And now, I get to see
+
+298
+11:56.310 --> 11:59.250
+sort of not only the threat aspect of it, right?
+
+299
+11:59.250 --> 12:01.260
+Which is how I grew up,
+
+300
+12:01.260 --> 12:04.890
+but I also see the unbelievable opportunity aspect of it
+
+301
+12:04.890 --> 12:07.380
+in terms of fundamentally changing
+
+302
+12:07.380 --> 12:10.360
+how we see and interact with the world
+
+303
+12:11.220 --> 12:14.220
+and unlock incredible revenue opportunities (laughs)
+
+304
+12:14.220 --> 12:15.870
+across a whole host of markets, right?
+
+305
+12:15.870 --> 12:17.580
+Which is what we're gonna talk about today.
+
+306
+12:17.580 --> 12:21.453
+So I'll offer three points before we go into our discussion.
+
+307
+12:22.710 --> 12:26.430
+For your context, publicly announced,
+
+308
+12:26.430 --> 12:30.630
+at least two utility-scale quantum computers
+
+309
+12:30.630 --> 12:33.330
+will be operational by 2028, at least,
+
+310
+12:33.330 --> 12:36.090
+we know of at least one company that's announced that.
+
+311
+12:36.090 --> 12:38.700
+Those computers will be 10,000 times
+
+312
+12:38.700 --> 12:41.610
+the size of Google's Willow hardware, recently announced,
+
+313
+12:41.610 --> 12:43.530
+for a scale perspective.
+
+314
+12:43.530 --> 12:44.580
+Quantum algorithms,
+
+315
+12:44.580 --> 12:45.870
+which we're gonna talk a lot about today,
+
+316
+12:45.870 --> 12:49.140
+are improving 1,000 times faster
+
+317
+12:49.140 --> 12:52.860
+than the hardware improvements that we're gonna talk about.
+
+318
+12:52.860 --> 12:56.730
+And no GPU will ever be able to answer
+
+319
+12:56.730 --> 12:58.350
+an important class of questions
+
+320
+12:58.350 --> 13:01.830
+about the quantum nature of nature.
+
+321
+13:01.830 --> 13:03.540
+This is what we need to unlock,
+
+322
+13:03.540 --> 13:06.930
+all of this, quantum technology for.
+
+323
+13:06.930 --> 13:09.993
+So I'm gonna start with a question, John, for you.
+
+324
+13:11.643 --> 13:13.560
+And the question is, and I'm sure that this is the question
+
+325
+13:13.560 --> 13:18.560
+on everybody's mind this week, there is a widespread belief
+
+326
+13:19.320 --> 13:24.183
+that quantum computing is still decades away, maybe two,
+
+327
+13:25.170 --> 13:27.390
+how does Microsoft's investment
+
+328
+13:27.390 --> 13:30.240
+in quantum technologies challenge this perception,
+
+329
+13:30.240 --> 13:34.980
+and how are you managing expectations about when enterprises
+
+330
+13:34.980 --> 13:36.880
+are actually gonna be seeing real ROI?
+
+331
+13:37.890 --> 13:42.063
+<v ->Well, we do believe that it's years, not decades.</v>
+
+332
+13:43.530 --> 13:48.530
+We are in the era of reliable quantum computing today.
+
+333
+13:48.600 --> 13:52.950
+We have achieved detecting errors,
+
+334
+13:52.950 --> 13:55.350
+correcting errors, and doing compute.
+
+335
+13:55.350 --> 13:59.640
+And that was really a big milestone for many of us up here,
+
+336
+13:59.640 --> 14:03.420
+to be able to compute and create answers
+
+337
+14:03.420 --> 14:06.420
+and data from these quantum systems.
+
+338
+14:06.420 --> 14:07.710
+You know, you mentioned a lot
+
+339
+14:07.710 --> 14:08.850
+about the intelligence community,
+
+340
+14:08.850 --> 14:10.440
+and there's an agency here
+
+341
+14:10.440 --> 14:11.520
+in the United States called DARPA,
+
+342
+14:11.520 --> 14:14.670
+who does research projects,
+
+343
+14:14.670 --> 14:17.160
+and the, you know, you can go back to GPS,
+
+344
+14:17.160 --> 14:20.490
+the internet, voice transcription, all have roots in DARPA.
+
+345
+14:20.490 --> 14:23.880
+And DARPA has funded and worked with many of us
+
+346
+14:23.880 --> 14:28.880
+to create supercomputing utility-scale quantum computing
+
+347
+14:29.790 --> 14:33.480
+before 2033, which is eight years away.
+
+348
+14:33.480 --> 14:36.000
+We are and many others are well on their way
+
+349
+14:36.000 --> 14:37.560
+to meeting that goal.
+
+350
+14:37.560 --> 14:40.620
+And so when I look at what we're doing in investing
+
+351
+14:40.620 --> 14:43.770
+at Microsoft, we're doing two very important things.
+
+352
+14:43.770 --> 14:46.380
+One, we're investing highly in our partners
+
+353
+14:46.380 --> 14:49.200
+and the capabilities from Quantinuum and IONQ
+
+354
+14:49.200 --> 14:53.790
+and others to make sure that a robust ecosystem,
+
+355
+14:53.790 --> 14:55.170
+that the skilling is there,
+
+356
+14:55.170 --> 14:57.600
+that we have the options and capabilities
+
+357
+14:57.600 --> 15:00.210
+to have different types of quantum computers.
+
+358
+15:00.210 --> 15:03.210
+We announced just a few months ago with another partner,
+
+359
+15:03.210 --> 15:05.880
+Atom Computing, that this calendar year,
+
+360
+15:05.880 --> 15:09.360
+we will ship the world's most powerful quantum computer
+
+361
+15:09.360 --> 15:13.290
+to customers with a discovery suite around it
+
+362
+15:13.290 --> 15:17.550
+that will help do an end-to-end analysis, discovery,
+
+363
+15:17.550 --> 15:19.830
+and solution for many types of problems.
+
+364
+15:19.830 --> 15:20.970
+<v ->You said, "This year," John.</v>
+
+365
+15:20.970 --> 15:21.803
+<v ->That's right, this calendar year.</v>
+
+366
+15:21.803 --> 15:23.100
+<v ->Okay.</v>
+<v ->That's right.</v>
+
+367
+15:23.100 --> 15:26.550
+And on top of that, we're also pursuing
+
+368
+15:26.550 --> 15:30.240
+our own first-party quantum computer as well.
+
+369
+15:30.240 --> 15:33.783
+We've been on this journey over 15 years, closer to 20.
+
+370
+15:34.770 --> 15:39.120
+And we believe that these quantum computers
+
+371
+15:39.120 --> 15:44.120
+will absolutely have the ability to solve, as you said,
+
+372
+15:44.460 --> 15:49.460
+subatomic answers, model nature, and that is why we're here,
+
+373
+15:50.010 --> 15:53.700
+because you'll hear from many of the other panelists,
+
+374
+15:53.700 --> 15:56.370
+the solutions are happening today.
+
+375
+15:56.370 --> 15:59.190
+And, you know, as you learn more about it,
+
+376
+15:59.190 --> 16:01.470
+and as Quantum World Congress continues,
+
+377
+16:01.470 --> 16:04.860
+and we all see you probably in DC in September,
+
+378
+16:04.860 --> 16:06.450
+you'll see even more.
+
+379
+16:06.450 --> 16:07.950
+Now, the last part of your question
+
+380
+16:07.950 --> 16:11.670
+was how do we manage expectations in ROI.
+
+381
+16:11.670 --> 16:14.310
+And it's really important when we talk to our customers
+
+382
+16:14.310 --> 16:18.660
+to realize that there is an advantage coming,
+
+383
+16:18.660 --> 16:20.670
+just like there was with advanced analytics,
+
+384
+16:20.670 --> 16:22.680
+just like there was with GenAI.
+
+385
+16:22.680 --> 16:25.590
+Quantum computing will have that advantage for companies,
+
+386
+16:25.590 --> 16:27.900
+for businesses, for regions, for governments.
+
+387
+16:27.900 --> 16:29.850
+And so beginning that journey now
+
+388
+16:29.850 --> 16:32.100
+with understanding what does it mean,
+
+389
+16:32.100 --> 16:33.240
+what should I be focused on,
+
+390
+16:33.240 --> 16:35.250
+which of those areas that George showed
+
+391
+16:35.250 --> 16:37.080
+are most important to me, and where should I go,
+
+392
+16:37.080 --> 16:40.620
+and how do I get my hands on the capabilities today,
+
+393
+16:40.620 --> 16:42.540
+so I can actually experiment
+
+394
+16:42.540 --> 16:45.270
+and start to solve these problems, is critical,
+
+395
+16:45.270 --> 16:50.270
+because we will, in the next, as you said, Jacqueline,
+
+396
+16:50.460 --> 16:54.780
+one to two years, have those capabilities
+
+397
+16:54.780 --> 16:57.570
+ready for everyone to use at some level,
+
+398
+16:57.570 --> 16:59.790
+and then they will exponentially grow.
+
+399
+16:59.790 --> 17:02.850
+So that's more of how we manage expectations with customers
+
+400
+17:02.850 --> 17:05.940
+and let them understand there are folks who did very well
+
+401
+17:05.940 --> 17:09.657
+taking advantage of advanced analytics and then GenAI.
+
+402
+17:09.657 --> 17:13.020
+And the quantum computing revolution is the next one
+
+403
+17:13.020 --> 17:15.020
+that they need to be prepared for today.
+
+404
+17:15.960 --> 17:17.790
+<v ->And Margaret, did you have a perspective also</v>
+
+405
+17:17.790 --> 17:21.480
+on the kind of timeline aspect of this question?
+
+406
+17:21.480 --> 17:23.717
+<v ->Yes, I think quantum is now,</v>
+
+407
+17:24.750 --> 17:27.210
+quantum is now, that's the title of the track.
+
+408
+17:27.210 --> 17:31.740
+I guess, I think of it in, as George mentioned,
+
+409
+17:31.740 --> 17:35.640
+there's 40 to $50 billion already invested in this industry.
+
+410
+17:35.640 --> 17:37.410
+In this entire panel,
+
+411
+17:37.410 --> 17:39.390
+we have companies, real-life companies,
+
+412
+17:39.390 --> 17:43.560
+with revenue and customers and a strategy.
+
+413
+17:43.560 --> 17:46.080
+So for us in particular, you know,
+
+414
+17:46.080 --> 17:48.870
+our strategy was, "Let's hit the performance benchmarks,"
+
+415
+17:48.870 --> 17:49.957
+we all are hitting them.
+
+416
+17:49.957 --> 17:52.860
+"Let's hit the scale benchmarks," we're all hitting them.
+
+417
+17:52.860 --> 17:54.120
+And then, finally, on QI,
+
+418
+17:54.120 --> 17:57.570
+we are focusing on making sure we build quantum computers
+
+419
+17:57.570 --> 17:59.460
+that are data center ready,
+
+420
+17:59.460 --> 18:01.440
+'cause we know there's lots and lots
+
+421
+18:01.440 --> 18:03.090
+of data centers in the world,
+
+422
+18:03.090 --> 18:07.707
+and there's gonna be a collaborative impact of CPUs,
+
+423
+18:07.707 --> 18:08.957
+GPUs, and QPUs.
+
+424
+18:09.930 --> 18:12.210
+And we need to make sure that these quantum computers
+
+425
+18:12.210 --> 18:14.040
+can be in these data centers.
+
+426
+18:14.040 --> 18:16.590
+So is there a strategy? We have the strategy.
+
+427
+18:16.590 --> 18:18.270
+Are there customers?
+
+428
+18:18.270 --> 18:19.680
+You know, we work with the Air Force,
+
+429
+18:19.680 --> 18:22.200
+we work with Hyundai, we work with Airbus.
+
+430
+18:22.200 --> 18:25.230
+Our customers actually coming to all of us
+
+431
+18:25.230 --> 18:27.960
+and focusing on us helping them, you know,
+
+432
+18:27.960 --> 18:29.670
+solve their biggest problems.
+
+433
+18:29.670 --> 18:31.080
+And then the third thing is,
+
+434
+18:31.080 --> 18:32.400
+'cause we're all business people,
+
+435
+18:32.400 --> 18:34.170
+is anyone making revenue?
+
+436
+18:34.170 --> 18:37.110
+You know, IONQ and a lot of our companies here,
+
+437
+18:37.110 --> 18:38.040
+we're businesses.
+
+438
+18:38.040 --> 18:40.770
+You know, IONQ has been doubling revenue every year.
+
+439
+18:40.770 --> 18:44.580
+So those are important aspects of, is quantum here?
+
+440
+18:44.580 --> 18:46.830
+These sort of markers that business people use,
+
+441
+18:46.830 --> 18:49.110
+those are the things you should use to evaluate
+
+442
+18:49.110 --> 18:51.843
+that quantum is here, and we are working on it now.
+
+443
+18:52.800 --> 18:53.633
+<v ->Thank you.</v>
+
+444
+18:53.633 --> 18:55.200
+Joe, I'm gonna actually ask you a question
+
+445
+18:55.200 --> 18:57.660
+about another kind of myth, right?
+
+446
+18:57.660 --> 19:01.320
+We're gonna do some myth-busting today, that quantum
+
+447
+19:01.320 --> 19:05.070
+is going to entirely replace classical computing.
+
+448
+19:05.070 --> 19:08.280
+Can you share your insights on how the two will coexist,
+
+449
+19:08.280 --> 19:09.450
+do you think?
+
+450
+19:09.450 --> 19:10.713
+<v ->Sure. Thank you.</v>
+
+451
+19:11.687 --> 19:16.413
+Let me address this question from the IBM standpoint,
+
+452
+19:17.700 --> 19:19.893
+and let me set a little bit of a stage.
+
+453
+19:20.760 --> 19:24.420
+We firmly believe that we are now in an era
+
+454
+19:24.420 --> 19:26.370
+of quantum utility,
+
+455
+19:26.370 --> 19:29.940
+and we are very confident that quantum advantage
+
+456
+19:29.940 --> 19:33.573
+is in the near term, as our panelists have discussed.
+
+457
+19:34.560 --> 19:36.510
+We follow a roadmap.
+
+458
+19:36.510 --> 19:40.800
+We published a roadmap in 2019,
+
+459
+19:40.800 --> 19:44.130
+we have followed it and met every milestone on time
+
+460
+19:44.130 --> 19:48.540
+or ahead of time in the last five years.
+
+461
+19:48.540 --> 19:53.540
+That roadmap calls for a 10,000-qubit machine,
+
+462
+19:53.580 --> 19:57.960
+error corrected, to be field in '29,
+
+463
+19:57.960 --> 20:02.557
+and a 100,000 qubit machine in '33.
+
+464
+20:05.010 --> 20:10.010
+We expect to meet every milestone along that way,
+
+465
+20:10.380 --> 20:15.380
+and that provides machinery that has great capabilities.
+
+466
+20:15.480 --> 20:17.580
+Let me set that stage.
+
+467
+20:17.580 --> 20:21.097
+We went into the cloud in 2016 at IBM.
+
+468
+20:22.380 --> 20:27.380
+Since that time, we have had 600,000 users use our system,
+
+469
+20:28.440 --> 20:30.000
+register, and use the system,
+
+470
+20:30.000 --> 20:34.650
+running over 3 trillion quantum circuits on our system.
+
+471
+20:34.650 --> 20:38.370
+We have deployed over 70 quantum computers.
+
+472
+20:38.370 --> 20:43.370
+We have 250 organizations, companies, universities,
+
+473
+20:45.870 --> 20:49.593
+research labs, national labs on our quantum network.
+
+474
+20:51.300 --> 20:53.550
+This shows you, you know,
+
+475
+20:53.550 --> 20:57.930
+there's a large group of people that do, in fact,
+
+476
+20:57.930 --> 21:00.750
+find utility in using these machines,
+
+477
+21:00.750 --> 21:05.010
+and expanding the boundaries of scientific capability.
+
+478
+21:05.010 --> 21:08.520
+Let me be precise about what we mean by utility
+
+479
+21:08.520 --> 21:10.380
+and quantum advantage.
+
+480
+21:10.380 --> 21:15.330
+Utility is where a quantum circuit can be run
+
+481
+21:15.330 --> 21:19.900
+on a quantum machine with a capability equal to
+
+482
+21:22.710 --> 21:26.440
+or better than that circuit can be run
+
+483
+21:27.390 --> 21:30.480
+by brute-force classical simulation.
+
+484
+21:30.480 --> 21:32.070
+Advantage is really
+
+485
+21:32.070 --> 21:36.540
+about the upcoming quantum compute capability
+
+486
+21:36.540 --> 21:40.050
+that will outperform all classical methods.
+
+487
+21:40.050 --> 21:41.850
+So where we are today is,
+
+488
+21:41.850 --> 21:46.710
+we can exceed the brute-force simulation methods
+
+489
+21:46.710 --> 21:49.350
+for quantum circuits that are out there.
+
+490
+21:49.350 --> 21:54.337
+Our paper in June of '23 showed the,
+
+491
+21:55.290 --> 21:57.360
+and really demonstrated the utility,
+
+492
+21:57.360 --> 22:01.200
+and there have been 50, 60 papers published since
+
+493
+22:01.200 --> 22:03.603
+that are using qubit numbers,
+
+494
+22:04.830 --> 22:09.570
+over 100 qubits in deep circuits,
+
+495
+22:09.570 --> 22:11.883
+that cannot be simulated classically.
+
+496
+22:13.410 --> 22:14.490
+<v ->Great. Thank you so much.</v>
+
+497
+22:14.490 --> 22:17.130
+And I apologize, I can't see everybody's faces.
+
+498
+22:17.130 --> 22:18.840
+So if you have reactions, please,
+
+499
+22:18.840 --> 22:20.400
+please go ahead and jump in.
+(panelist laughs)
+
+500
+22:20.400 --> 22:23.190
+But Nash, in the meantime,
+
+501
+22:23.190 --> 22:25.530
+Quantinuum is operating at the intersection
+
+502
+22:25.530 --> 22:27.840
+of both hardware and software.
+
+503
+22:27.840 --> 22:30.750
+And how are you simplifying the explanation
+
+504
+22:30.750 --> 22:32.790
+of your dual focus
+
+505
+22:32.790 --> 22:35.460
+when you discuss quantum's transformative potential
+
+506
+22:35.460 --> 22:36.543
+with your customers?
+
+507
+22:37.440 --> 22:38.273
+<v ->Sure, thank you.</v>
+
+508
+22:38.273 --> 22:40.410
+And yeah, hopefully, everybody can see me.
+
+509
+22:40.410 --> 22:41.582
+It's the corner here.
+
+510
+22:41.582 --> 22:43.230
+I'm 5'7",
+(panelists laughing)
+
+511
+22:43.230 --> 22:45.600
+I think I can be above that.
+(panelists laughing)
+
+512
+22:45.600 --> 22:47.910
+Yeah, so, you know, my background, you know,
+
+513
+22:47.910 --> 22:51.030
+I've spent since '88 in accelerated computing, right?
+
+514
+22:51.030 --> 22:54.630
+I've been in the CPU and making the CPU better
+
+515
+22:54.630 --> 22:56.820
+from CPU plus GPU.
+
+516
+22:56.820 --> 23:00.270
+And the software and the algorithms are a major part
+
+517
+23:00.270 --> 23:02.610
+of the complete solution, right?
+
+518
+23:02.610 --> 23:05.190
+So from a Quantinuum standpoint, you know,
+
+519
+23:05.190 --> 23:07.710
+we have already announced that we are gonna go after
+
+520
+23:07.710 --> 23:12.710
+a universal, fully fault-tolerant computer by 2029, right?
+
+521
+23:13.650 --> 23:17.220
+So to build a quantum computer,
+
+522
+23:17.220 --> 23:19.080
+there are certain things that you need to do, right?
+
+523
+23:19.080 --> 23:21.330
+Which is you have to have the highest fidelity,
+
+524
+23:21.330 --> 23:23.670
+you have to also handle all the operations,
+
+525
+23:23.670 --> 23:24.990
+it's gotta be universal.
+
+526
+23:24.990 --> 23:27.240
+Clifford gates and non-Clifford gates, right?
+
+527
+23:27.240 --> 23:29.400
+So there's lots of things that you need to happen
+
+528
+23:29.400 --> 23:30.960
+on the hardware side.
+
+529
+23:30.960 --> 23:33.930
+On the software side, we take a very different view,
+
+530
+23:33.930 --> 23:36.360
+which is we have to develop the algorithms
+
+531
+23:36.360 --> 23:37.950
+and everything necessary
+
+532
+23:37.950 --> 23:40.110
+that will run not only on our system,
+
+533
+23:40.110 --> 23:42.030
+but also on other people's system, right?
+
+534
+23:42.030 --> 23:46.980
+So the state of the quantum industry's in such a situation,
+
+535
+23:46.980 --> 23:49.440
+that we wanna make sure there are open standards also.
+
+536
+23:49.440 --> 23:50.970
+We've also open source software.
+
+537
+23:50.970 --> 23:53.850
+For example, we have taken something called ticket
+
+538
+23:53.850 --> 23:55.200
+and given it to the industry
+
+539
+23:55.200 --> 23:58.890
+so that you can develop compilers for other hardware, right?
+
+540
+23:58.890 --> 24:03.330
+So our strategy's a complete top-down approach,
+
+541
+24:03.330 --> 24:04.290
+where we're gonna build
+
+542
+24:04.290 --> 24:07.590
+a universal fully fault-tolerant computer, right?
+
+543
+24:07.590 --> 24:08.820
+It's gotta be universal.
+
+544
+24:08.820 --> 24:09.653
+There's no point having a CPU
+
+545
+24:09.653 --> 24:12.270
+if you can run only two instructions, right?
+
+546
+24:12.270 --> 24:13.410
+You gotta run all the instructions,
+
+547
+24:13.410 --> 24:15.720
+so you can run a complete piece of software, right?
+
+548
+24:15.720 --> 24:20.310
+And from a software standpoint, we're gonna make sure
+
+549
+24:20.310 --> 24:23.430
+the core components needed to advance the industry
+
+550
+24:23.430 --> 24:25.050
+is open source.
+
+551
+24:25.050 --> 24:26.940
+We'll have our key algorithms that we work
+
+552
+24:26.940 --> 24:31.350
+with our customers, such as BMW, that we will use,
+
+553
+24:31.350 --> 24:33.330
+so that can be used on different systems, right?
+
+554
+24:33.330 --> 24:35.677
+We don't want a particular customer to be saying,
+
+555
+24:35.677 --> 24:38.100
+"Hey, you can only use a Quantinuum system," right?
+
+556
+24:38.100 --> 24:40.560
+We wanna make sure it's available in all systems.
+
+557
+24:40.560 --> 24:44.670
+So an open approach is very important for quantum computing.
+
+558
+24:44.670 --> 24:46.500
+And our approach is to make sure
+
+559
+24:46.500 --> 24:49.050
+that we are working on the full stack
+
+560
+24:49.050 --> 24:53.340
+and making it easily accessible for everybody, right?
+
+561
+24:53.340 --> 24:54.597
+Including other hardware vendors
+
+562
+24:54.597 --> 24:56.100
+and software vendors, right?
+
+563
+24:56.100 --> 24:59.340
+So other software vendors can run on our system also.
+
+564
+24:59.340 --> 25:00.420
+<v ->Perfect. Go ahead, Joe.</v>
+
+565
+25:00.420 --> 25:05.420
+<v ->Yeah, I might follow on that, what Nash just said.</v>
+
+566
+25:07.200 --> 25:10.710
+You know, there's a myth or a misconception that quantum
+
+567
+25:10.710 --> 25:15.390
+is somehow going to displace classical computing,
+
+568
+25:15.390 --> 25:17.310
+and that's just not the case.
+
+569
+25:17.310 --> 25:21.900
+Quantum computing is going to enhance
+
+570
+25:21.900 --> 25:24.810
+classical high-performance compute.
+
+571
+25:24.810 --> 25:28.533
+You can look at it as an accelerator, an adjunct.
+
+572
+25:29.790 --> 25:32.220
+The way we see that architecture
+
+573
+25:32.220 --> 25:36.030
+is what we call quantum-centric supercomputing,
+
+574
+25:36.030 --> 25:38.793
+what this means is, you take a given problem,
+
+575
+25:39.630 --> 25:44.630
+and you divide it into those resources that are quantum
+
+576
+25:45.390 --> 25:50.390
+and those resources that will use the classical computation.
+
+577
+25:52.050 --> 25:56.700
+A good example is in chemistry.
+
+578
+25:56.700 --> 25:59.730
+You all, you know, remember from high school chemistry
+
+579
+25:59.730 --> 26:04.730
+that the bulk electrons, you know, can be calculated.
+
+580
+26:05.070 --> 26:08.730
+They're not really involved in a chemical reaction.
+
+581
+26:08.730 --> 26:13.530
+Those can be well approximated in classical systems.
+
+582
+26:13.530 --> 26:15.540
+But the valence electrons,
+
+583
+26:15.540 --> 26:18.960
+those electrons that have high correlation
+
+584
+26:18.960 --> 26:22.680
+and are very active in a chemical reaction,
+
+585
+26:22.680 --> 26:26.520
+those then, that part of the problem can be adjudicated
+
+586
+26:26.520 --> 26:30.540
+to the quantum resources, to the quantum processing unit,
+
+587
+26:30.540 --> 26:35.540
+and the CPU and the quantum processing unit, the QPU,
+
+588
+26:37.410 --> 26:41.850
+can work in concert with each other in an iterative fashion.
+
+589
+26:41.850 --> 26:46.290
+And we showed in a paper, published last year,
+
+590
+26:46.290 --> 26:51.290
+using iron sulfide as the model molecule,
+
+591
+26:51.540 --> 26:55.830
+something very essential to all proteins in life,
+
+592
+26:55.830 --> 27:00.830
+that that kind of a calculation can be done very efficiently
+
+593
+27:01.860 --> 27:04.200
+using this hybrid architecture
+
+594
+27:04.200 --> 27:09.120
+of both classical compute combined with quantum computing.
+
+595
+27:09.120 --> 27:13.140
+So I wanna make sure people realize this is not an idea
+
+596
+27:13.140 --> 27:18.140
+of somehow replacing classical high-performance computing,
+
+597
+27:20.340 --> 27:24.930
+but it really will be an accelerator, an adjunct, an add-on,
+
+598
+27:24.930 --> 27:28.080
+and an enhancement of those capabilities.
+
+599
+27:28.080 --> 27:30.431
+<v ->Yeah, just a quick add-on to that, right?</v>
+
+600
+27:30.431 --> 27:32.641
+You know, hybrid computing, right,
+
+601
+27:32.641 --> 27:36.360
+accelerated computing, you know, it's always gonna be CPU
+
+602
+27:36.360 --> 27:40.620
+plus GPU plus this quantum technology plus something else.
+
+603
+27:40.620 --> 27:42.090
+There's gonna be other technologies
+
+604
+27:42.090 --> 27:44.430
+which are gonna come, neuromorphic.
+
+605
+27:44.430 --> 27:46.290
+You know, this is the vision, right?
+
+606
+27:46.290 --> 27:49.140
+I think just to have a little bit of humor here, right?
+
+607
+27:49.140 --> 27:50.437
+I think I've heard other people say,
+
+608
+27:50.437 --> 27:54.180
+"It is supercomputing-centric quantum computing,
+
+609
+27:54.180 --> 27:55.350
+you know, not the other way around."
+
+610
+27:55.350 --> 27:56.970
+So, just, yeah.
+
+611
+27:56.970 --> 27:57.803
+<v ->Go ahead.</v>
+
+612
+27:57.803 --> 27:58.636
+<v ->Well, I was just gonna say, you know,</v>
+
+613
+27:58.636 --> 28:01.080
+to make it real for everyone,
+
+614
+28:01.080 --> 28:03.960
+Nash and Quantinuum and Microsoft worked together
+
+615
+28:03.960 --> 28:08.960
+and devised a catalyst problem,
+
+616
+28:09.000 --> 28:12.480
+which is a very important chemistry problem.
+
+617
+28:12.480 --> 28:17.070
+And we used classic computing, HPC resources,
+
+618
+28:17.070 --> 28:19.380
+plus AI to drive the system,
+
+619
+28:19.380 --> 28:24.380
+plus we spun out the difficult pieces of it
+
+620
+28:24.627 --> 28:27.660
+to a quantum circuit on Quantinuum's machines
+
+621
+28:27.660 --> 28:28.920
+using logical qubits.
+
+622
+28:28.920 --> 28:32.910
+So that quantum circuit created the data that we needed
+
+623
+28:32.910 --> 28:36.150
+to go feed back into the AI model, so it could be trained,
+
+624
+28:36.150 --> 28:39.510
+and then properly estimate the science problem
+
+625
+28:39.510 --> 28:42.990
+of this catalyst, which it did, and it did accurately.
+
+626
+28:42.990 --> 28:47.427
+So to Joe's point, this is your AI, HPC,
+
+627
+28:47.427 --> 28:49.890
+and quantum working together,
+
+628
+28:49.890 --> 28:52.920
+not to come up with a random number
+
+629
+28:52.920 --> 28:55.770
+or think about something, but we actually, what we believe
+
+630
+28:55.770 --> 28:59.460
+is the first ever last year end-to-end proof
+
+631
+28:59.460 --> 29:01.494
+of a science problem-
+<v ->That's right.</v>
+
+632
+29:01.494 --> 29:02.327
+That's right.
+
+633
+29:02.327 --> 29:03.990
+Yeah, and I think it was really made possible
+
+634
+29:03.990 --> 29:05.460
+by a couple of things, right?
+
+635
+29:05.460 --> 29:07.920
+One was definitely, you know,
+
+636
+29:07.920 --> 29:11.460
+the key work done by Microsoft, right, in the, you know,
+
+637
+29:11.460 --> 29:14.610
+in the error detection and correction space.
+
+638
+29:14.610 --> 29:16.800
+You know, you have some fantastic scientists.
+
+639
+29:16.800 --> 29:19.197
+And also the high fidelity that, you know,
+
+640
+29:19.197 --> 29:21.570
+the quantum system brought in place,
+
+641
+29:21.570 --> 29:23.670
+so you could do that complete
+
+642
+29:23.670 --> 29:26.250
+in an effort to get a real solution in place.
+
+643
+29:26.250 --> 29:28.500
+So thank you for that work.
+
+644
+29:28.500 --> 29:31.620
+And I think we'll see more of this from, you know,
+
+645
+29:31.620 --> 29:32.509
+people in the industry.
+
+646
+29:32.509 --> 29:36.030
+And I think John gave an example, you know, of IBM.
+
+647
+29:36.030 --> 29:38.370
+And Margaret, I'm sure you have other examples.
+
+648
+29:38.370 --> 29:39.203
+<v ->Yeah.</v>
+
+649
+29:39.203 --> 29:41.340
+Well, one thing I wanted to just go back to which he said
+
+650
+29:41.340 --> 29:43.080
+which I thought was incredibly important
+
+651
+29:43.080 --> 29:47.160
+for the audience is access to quantum,
+
+652
+29:47.160 --> 29:48.864
+'cause we talk about these different applications,
+
+653
+29:48.864 --> 29:51.150
+we talk about the machines that we're building
+
+654
+29:51.150 --> 29:52.980
+and delivering and shipping,
+
+655
+29:52.980 --> 29:54.330
+I think what's very different,
+
+656
+29:54.330 --> 29:56.250
+'cause I worked at Microsoft,
+
+657
+29:56.250 --> 29:58.530
+we overlapped 20 years at Microsoft.
+
+658
+29:58.530 --> 30:00.990
+I worked on every commercial product Microsoft sells,
+
+659
+30:00.990 --> 30:02.640
+except for, I think, CRM.
+
+660
+30:02.640 --> 30:04.890
+So hardware all the way to the cloud,
+
+661
+30:04.890 --> 30:08.010
+on-premises, hybrid, you know, cloud, metal.
+
+662
+30:08.010 --> 30:11.190
+But the thing that was different for all of us in compute
+
+663
+30:11.190 --> 30:14.160
+that quantum is incredibly, it's exciting,
+
+664
+30:14.160 --> 30:18.060
+you can buy or get access to a full quantum computer system,
+
+665
+30:18.060 --> 30:22.680
+but we are also today available on various clouds.
+
+666
+30:22.680 --> 30:26.010
+IONQ's computers are sitting on Microsoft Azure,
+
+667
+30:26.010 --> 30:28.830
+on AWS Bracket, on Google Cloud.
+
+668
+30:28.830 --> 30:31.620
+You know, Quantinuum and IONQ both work
+
+669
+30:31.620 --> 30:33.600
+with the Oak Ridge National Research Lab
+
+670
+30:33.600 --> 30:37.560
+to give access to quantum computing to all the people in HPC
+
+671
+30:37.560 --> 30:40.890
+that wanna transition for high-performance knowledge
+
+672
+30:40.890 --> 30:42.690
+to a hybrid knowledge.
+
+673
+30:42.690 --> 30:44.940
+So that's very different from what I grew up.
+
+674
+30:44.940 --> 30:47.253
+I grew up coding on minicomputers.
+
+675
+30:48.150 --> 30:50.481
+I don't know if any of you, that's pretty, way back.
+
+676
+30:50.481 --> 30:51.314
+(Jacqueline chuckles)
+
+677
+30:51.314 --> 30:52.650
+So the step beyond a mainframe,
+
+678
+30:52.650 --> 30:54.180
+but we'd simulate something,
+
+679
+30:54.180 --> 30:56.820
+it would take a week to get back one answer.
+
+680
+30:56.820 --> 31:00.030
+My iPhone can get back answers from 50 different people,
+
+681
+31:00.030 --> 31:02.220
+all at the same time, in an instant.
+
+682
+31:02.220 --> 31:04.140
+So quantum is very different now,
+
+683
+31:04.140 --> 31:05.760
+we've learned from our past,
+
+684
+31:05.760 --> 31:09.570
+and we're trying to bring quantum to the masses sooner
+
+685
+31:09.570 --> 31:11.310
+and faster so that, you know,
+
+686
+31:11.310 --> 31:15.330
+developers can create algorithms and create applications.
+
+687
+31:15.330 --> 31:18.391
+<v ->And I want to add that IBM was the first in the cloud.</v>
+
+688
+31:18.391 --> 31:21.510
+(panelists laughing)
+
+689
+31:21.510 --> 31:24.000
+<v ->So just in the interest of time, because, unfortunately,</v>
+
+690
+31:24.000 --> 31:27.930
+we don't have enough time to go into all of the things
+
+691
+31:27.930 --> 31:29.850
+that we should be going into today.
+
+692
+31:29.850 --> 31:31.830
+And please see us after the panel outside
+
+693
+31:31.830 --> 31:34.110
+if you wanna continue the conversations.
+
+694
+31:34.110 --> 31:36.600
+Let's talk really quickly about some of the applications
+
+695
+31:36.600 --> 31:38.940
+that we are kind of making a lot of progress on
+
+696
+31:38.940 --> 31:40.650
+and their commercial utility.
+
+697
+31:40.650 --> 31:41.670
+Margaret, I'm gonna start with you.
+
+698
+31:41.670 --> 31:45.390
+So IONQ has already showcased applications in finance,
+
+699
+31:45.390 --> 31:46.920
+logistics, et cetera.
+
+700
+31:46.920 --> 31:48.810
+Can you share a compelling example
+
+701
+31:48.810 --> 31:51.270
+of a client leveraging quantum today
+
+702
+31:51.270 --> 31:53.400
+to solve a previously intractable problem?
+
+703
+31:53.400 --> 31:54.600
+And then I'm gonna ask kind of each of you
+
+704
+31:54.600 --> 31:57.930
+to share your favorite application stories.
+
+705
+31:57.930 --> 32:01.560
+<v ->Well, I think the work that we do with Hyundai,</v>
+
+706
+32:01.560 --> 32:02.790
+we've actually been working with Hyundai
+
+707
+32:02.790 --> 32:03.780
+for a very long time.
+
+708
+32:03.780 --> 32:05.610
+We've actually are now on the third project
+
+709
+32:05.610 --> 32:06.930
+that we're working on them with.
+
+710
+32:06.930 --> 32:08.610
+And I think what's important is,
+
+711
+32:08.610 --> 32:10.860
+when you have very large companies, like Hyundai,
+
+712
+32:10.860 --> 32:13.140
+and people go, "Why are they talking to you guys,"
+
+713
+32:13.140 --> 32:15.557
+any of us, or BMW with Quantinuum?
+
+714
+32:15.557 --> 32:17.190
+'Cause they have access
+
+715
+32:17.190 --> 32:19.710
+to the world's fastest supercomputers.
+
+716
+32:19.710 --> 32:22.380
+So why do businesses need to talk to quantum?
+
+717
+32:22.380 --> 32:25.350
+It's because they need that collaboration.
+
+718
+32:25.350 --> 32:27.990
+They need HPC, and they need quantum.
+
+719
+32:27.990 --> 32:31.290
+So for a lot of industries that need, you know,
+
+720
+32:31.290 --> 32:33.180
+generative AI capabilities,
+
+721
+32:33.180 --> 32:35.400
+can you actually look at images and detect them
+
+722
+32:35.400 --> 32:38.400
+and sort them and actually manage them?
+
+723
+32:38.400 --> 32:40.830
+We worked with Hyundai on autonomous driving,
+
+724
+32:40.830 --> 32:42.480
+'cause it turns out, machines,
+
+725
+32:42.480 --> 32:45.630
+they look at a stop sign, and it's an octagon, and it's red,
+
+726
+32:45.630 --> 32:47.730
+if it gets hit by a little bit of rain,
+
+727
+32:47.730 --> 32:50.520
+and somebody hit the stop sign, you know, a day ago,
+
+728
+32:50.520 --> 32:54.090
+and it's no longer upright, there's no picture of that,
+
+729
+32:54.090 --> 32:57.030
+there's no picture of the gray clouds in the sky
+
+730
+32:57.030 --> 32:58.657
+because then the car looks at it and says,
+
+731
+32:58.657 --> 33:00.960
+"Ah, that's not a stop sign, I'll go right through it."
+
+732
+33:00.960 --> 33:04.620
+So how do you take that simple problem, but intractable,
+
+733
+33:04.620 --> 33:07.530
+and break it down using quantum and classical
+
+734
+33:07.530 --> 33:10.920
+to actually help create cars that are safer?
+
+735
+33:10.920 --> 33:12.180
+So those are the important...
+
+736
+33:12.180 --> 33:15.060
+Like, when you bring it down to what's quantum gonna do,
+
+737
+33:15.060 --> 33:18.180
+it's gonna make our lives safer, we're gonna be healthier,
+
+738
+33:18.180 --> 33:21.240
+we're gonna be, I hope, stronger, faster, better.
+
+739
+33:21.240 --> 33:24.300
+But there's very specific examples today
+
+740
+33:24.300 --> 33:26.850
+where we're trying to make the world a better place.
+
+741
+33:26.850 --> 33:27.870
+<v ->John, can you share one</v>
+
+742
+33:27.870 --> 33:29.370
+about sort of the chemistry application,
+
+743
+33:29.370 --> 33:33.270
+potentially?
+<v ->Yeah, you know,</v>
+
+744
+33:33.270 --> 33:35.607
+there's a lot of work being done in chemistry
+
+745
+33:35.607 --> 33:36.570
+and material science.
+
+746
+33:36.570 --> 33:39.570
+I mean, 96% of all manufactured goods
+
+747
+33:39.570 --> 33:41.940
+that we interact with every day in the world
+
+748
+33:41.940 --> 33:46.110
+rely on some sort of chemistry, material, some discovery.
+
+749
+33:46.110 --> 33:48.660
+Do you wanna create a new material that lasts better,
+
+750
+33:48.660 --> 33:50.580
+but recycles more effectively?
+
+751
+33:50.580 --> 33:53.760
+Do you wanna remove forever chemicals from coolants?
+
+752
+33:53.760 --> 33:57.510
+Do you wanna create a new battery that lasts longer,
+
+753
+33:57.510 --> 34:02.130
+recharges better, is lighter, is impervious to water?
+
+754
+34:02.130 --> 34:03.300
+These are the type of things
+
+755
+34:03.300 --> 34:05.550
+that we're working with our customers on today.
+
+756
+34:05.550 --> 34:08.970
+So, you know, you can go look at the public studies,
+
+757
+34:08.970 --> 34:11.790
+but with Pacific Northwest National Labs,
+
+758
+34:11.790 --> 34:13.290
+we've spent time with them,
+
+759
+34:13.290 --> 34:18.290
+because we used a highly specialized AI model in HPC
+
+760
+34:18.600 --> 34:22.860
+to simulate 32 million different compounds
+
+761
+34:22.860 --> 34:24.840
+for a new lithium battery.
+
+762
+34:24.840 --> 34:27.390
+And in less than a month,
+
+763
+34:27.390 --> 34:29.550
+we were able to bring that down to eight candidates,
+
+764
+34:29.550 --> 34:31.620
+work with them to figure out
+
+765
+34:31.620 --> 34:34.950
+which one would actually have the parameters that we need.
+
+766
+34:34.950 --> 34:36.480
+And then it went into a wet lab,
+
+767
+34:36.480 --> 34:39.900
+and we created a lithium battery that uses 70% less lithium.
+
+768
+34:39.900 --> 34:42.600
+That was 20 years of discovery
+
+769
+34:42.600 --> 34:44.580
+baked into less than six months.
+
+770
+34:44.580 --> 34:46.890
+But what's the turn on that?
+
+771
+34:46.890 --> 34:50.850
+Now, how do we go and do the intractable next problem,
+
+772
+34:50.850 --> 34:53.940
+which is, what, at the molecular level,
+
+773
+34:53.940 --> 34:56.580
+will happen in this new electrolyte?
+
+774
+34:56.580 --> 35:00.060
+And that's where the quantum computer can help us there.
+
+775
+35:00.060 --> 35:02.940
+So we're looking at solutions
+
+776
+35:02.940 --> 35:06.330
+around removing PFAS chemicals from data center coolants,
+
+777
+35:06.330 --> 35:08.160
+we're looking at these new battery types.
+
+778
+35:08.160 --> 35:10.320
+We're working with customers across the globe
+
+779
+35:10.320 --> 35:12.690
+to figure out new drug discoveries,
+
+780
+35:12.690 --> 35:16.050
+how proteins bond, how we can simulate that.
+
+781
+35:16.050 --> 35:18.750
+And, you know, one of the fun examples
+
+782
+35:18.750 --> 35:21.300
+that recently has come up that we've started to think about
+
+783
+35:21.300 --> 35:24.990
+and work on is is the field of turbulence.
+
+784
+35:24.990 --> 35:28.170
+And turbulence, while it's a classic physics problem,
+
+785
+35:28.170 --> 35:30.870
+not a quantum problem, it's highly complex
+
+786
+35:30.870 --> 35:34.050
+to simulate nature and fluid flow and plasma flow.
+
+787
+35:34.050 --> 35:37.800
+And so I was speaking with an MIT professor.
+
+788
+35:37.800 --> 35:40.230
+And he said, "You know, I've been doing this for 25 years,
+
+789
+35:40.230 --> 35:43.950
+and I feel like we're stuck,
+
+790
+35:43.950 --> 35:47.640
+and we need a quantum computer that can help simulate,
+
+791
+35:47.640 --> 35:50.880
+at the atomic level, the different aspects of turbulence,
+
+792
+35:50.880 --> 35:53.010
+so that we can extract that data,"
+
+793
+35:53.010 --> 35:55.140
+which is what quantum computers are very good at,
+
+794
+35:55.140 --> 35:57.870
+simulating natural data,
+
+795
+35:57.870 --> 36:01.290
+and then we can feed that back into our AI models,
+
+796
+36:01.290 --> 36:03.540
+which would help us solve what's the new material,
+
+797
+36:03.540 --> 36:04.980
+what's the new wing shape.
+
+798
+36:04.980 --> 36:07.200
+You can use the AI to answer the question,
+
+799
+36:07.200 --> 36:08.430
+find the solution.
+
+800
+36:08.430 --> 36:10.740
+But right now, we don't have the capabilities
+
+801
+36:10.740 --> 36:13.830
+to even train a model 'cause we don't have that data,
+
+802
+36:13.830 --> 36:15.480
+realistic, simulated data.
+
+803
+36:15.480 --> 36:16.800
+And you've probably all heard the issues
+
+804
+36:16.800 --> 36:19.620
+with synthetic data coming from AI models.
+
+805
+36:19.620 --> 36:22.110
+This is the game changer there.
+
+806
+36:22.110 --> 36:25.200
+So when all of our quantum computers start to be able
+
+807
+36:25.200 --> 36:28.140
+to create that data with accuracy,
+
+808
+36:28.140 --> 36:30.180
+and like what we showed in the catalyst,
+
+809
+36:30.180 --> 36:32.400
+work that we did together with Quantinuum,
+
+810
+36:32.400 --> 36:35.160
+then you're gonna start to see us be able to use
+
+811
+36:35.160 --> 36:38.490
+all three of those aspects, HPC, AI, and quantum,
+
+812
+36:38.490 --> 36:41.400
+to not just say, "I have a problem,"
+
+813
+36:41.400 --> 36:43.050
+but, "Where's the solution?"
+
+814
+36:43.050 --> 36:47.640
+And that is, as we've all expressed here, that's now,
+
+815
+36:47.640 --> 36:50.430
+and will only accelerate exponentially
+
+816
+36:50.430 --> 36:54.600
+over the next two years based on the roadmaps of all of us.
+
+817
+36:54.600 --> 36:57.300
+<v ->What John and Margaret just outlined,</v>
+
+818
+36:57.300 --> 36:59.013
+and I'm sure Nash will agree,
+
+819
+37:00.060 --> 37:03.693
+it is the era of algorithm development now.
+
+820
+37:04.560 --> 37:07.080
+We're getting to the point with our hardware
+
+821
+37:07.080 --> 37:09.840
+that we're really now focused on software,
+
+822
+37:09.840 --> 37:14.550
+and we're focused on software that is going to expand
+
+823
+37:14.550 --> 37:17.940
+this hybrid compute environment very efficiently
+
+824
+37:17.940 --> 37:21.930
+as well as algorithms directed toward chemistry,
+
+825
+37:21.930 --> 37:26.930
+materials, AI, machine learning,
+
+826
+37:27.300 --> 37:31.080
+these are the specific application areas,
+
+827
+37:31.080 --> 37:34.830
+but it really is the era now of algorithm development.
+
+828
+37:34.830 --> 37:38.250
+We have these machines, they are at our disposal,
+
+829
+37:38.250 --> 37:40.230
+they are available in the cloud,
+
+830
+37:40.230 --> 37:44.460
+scientists have access to them.
+
+831
+37:44.460 --> 37:48.210
+And our aim is to get more and more scientists,
+
+832
+37:48.210 --> 37:52.980
+not just those in physics or chemistry or computer science,
+
+833
+37:52.980 --> 37:57.980
+but social scientists, psychologists, neuroscientists,
+
+834
+37:58.410 --> 38:03.030
+structural biologists, people in many different disciplines
+
+835
+38:03.030 --> 38:08.030
+that could benefit from performing calculations quantumly.
+
+836
+38:09.630 --> 38:13.020
+<v ->I think the analogy that most people are very used to is,</v>
+
+837
+38:13.020 --> 38:15.330
+there's hardware, there's software, there's apps.
+
+838
+38:15.330 --> 38:17.850
+We're in the stage right now of building the killer apps
+
+839
+38:17.850 --> 38:19.320
+for every industry.
+
+840
+38:19.320 --> 38:21.990
+So that is the reason why quantum is now,
+
+841
+38:21.990 --> 38:25.740
+that is how we grew all of the ecosystems of compute,
+
+842
+38:25.740 --> 38:28.860
+'cause you need use cases, and you need the killer apps.
+
+843
+38:28.860 --> 38:31.770
+This is why, as he said, we have the computers,
+
+844
+38:31.770 --> 38:34.050
+they are available for people to use.
+
+845
+38:34.050 --> 38:36.090
+Right now, we're all working on the algorithms,
+
+846
+38:36.090 --> 38:37.560
+which are the applications-
+<v ->Yeah.</v>
+
+847
+38:37.560 --> 38:39.360
+<v ->That will break through in big, big,</v>
+
+848
+38:39.360 --> 38:41.250
+complex problems.
+<v ->Yeah.</v>
+
+849
+38:41.250 --> 38:43.350
+Yeah, with that, you know, I'd like to add, you know,
+
+850
+38:43.350 --> 38:45.480
+something which is very important for me
+
+851
+38:45.480 --> 38:47.040
+and for our company, right?
+
+852
+38:47.040 --> 38:49.470
+Which is in the computational biology space.
+
+853
+38:49.470 --> 38:51.270
+We just announced something in Singapore.
+
+854
+38:51.270 --> 38:53.760
+We are working very closely with Microsoft in this,
+
+855
+38:53.760 --> 38:56.940
+but, you know, our investors are our customers.
+
+856
+38:56.940 --> 38:58.950
+So we're working with customers on algorithms
+
+857
+38:58.950 --> 39:01.800
+and applications, so we have an effort with Amgen
+
+858
+39:01.800 --> 39:04.770
+on using machine learning to do peptide binding, right?
+
+859
+39:04.770 --> 39:07.290
+This is super passionate to me,
+
+860
+39:07.290 --> 39:11.130
+especially 'cause it's gonna help get better vaccines,
+
+861
+39:11.130 --> 39:13.320
+especially in the cancer vaccine space, right?
+
+862
+39:13.320 --> 39:16.410
+So my brother-in-law, who's a professor at Emory,
+
+863
+39:16.410 --> 39:20.310
+Dr. Selvaraj, he's working on a vaccine for cancer, right?
+
+864
+39:20.310 --> 39:23.970
+Which is basically looking at a cancer tumor,
+
+865
+39:23.970 --> 39:26.970
+and there are different peptides, it's not one thing.
+
+866
+39:26.970 --> 39:30.120
+And everybody's tumor, you know, whether it's lung cancer,
+
+867
+39:30.120 --> 39:31.440
+is gonna be different.
+
+868
+39:31.440 --> 39:34.620
+So he's actually creating a vaccine
+
+869
+39:34.620 --> 39:38.280
+from the peptides in the tumor, right?
+
+870
+39:38.280 --> 39:41.970
+And putting it back, so your immune system kills it,
+
+871
+39:41.970 --> 39:44.100
+your immune system is basically a break,
+
+872
+39:44.100 --> 39:47.040
+an accelerator, and a gas tank, okay?
+
+873
+39:47.040 --> 39:49.050
+So you have to remove the break,
+
+874
+39:49.050 --> 39:53.493
+somebody's already got a, you know, a noble price for that.
+
+875
+39:54.360 --> 39:57.660
+The gas tank and the accelerator are important, right?
+
+876
+39:57.660 --> 40:02.660
+So this can actually kill the tumor the first time,
+
+877
+40:03.000 --> 40:05.200
+but then you have to continuously give them
+
+878
+40:06.210 --> 40:08.670
+these vaccines again, but you don't have the tumor anymore
+
+879
+40:08.670 --> 40:09.570
+and the peptides, right?
+
+880
+40:09.570 --> 40:12.210
+So you have to take the peptides, get the peptides out,
+
+881
+40:12.210 --> 40:15.300
+and figure out which peptides can actually bind
+
+882
+40:15.300 --> 40:17.820
+and actually create the acceleration, okay?
+
+883
+40:17.820 --> 40:19.200
+So that's where quantum computing
+
+884
+40:19.200 --> 40:20.730
+is gonna be really, really useful,
+
+885
+40:20.730 --> 40:23.220
+to figure out which peptides you use,
+
+886
+40:23.220 --> 40:25.740
+so that you can actually accelerate
+
+887
+40:25.740 --> 40:28.020
+those T cells going and killing those cancers, right?
+
+888
+40:28.020 --> 40:31.937
+So excellent opportunities, I think, with quantum computing.
+
+889
+40:31.937 --> 40:35.610
+We are already working on this with several companies,
+
+890
+40:35.610 --> 40:38.340
+and I think it's exciting space.
+
+891
+40:38.340 --> 40:39.990
+<v ->So I hope that you've taken away,</v>
+
+892
+40:39.990 --> 40:44.520
+if nothing else from today, the unbelievable importance
+
+893
+40:44.520 --> 40:47.400
+of what this technology is unlocking already
+
+894
+40:47.400 --> 40:48.233
+and will continue
+
+895
+40:48.233 --> 40:51.390
+to unlock across disciplines, across sectors.
+
+896
+40:51.390 --> 40:52.500
+I know we are at time,
+
+897
+40:52.500 --> 40:55.170
+but I'm just gonna ask for a 15-second from each of you,
+
+898
+40:55.170 --> 40:57.510
+what is the most exciting hardware or software development
+
+899
+40:57.510 --> 41:00.060
+that you anticipate in the next 12 to 24 months.
+
+900
+41:00.060 --> 41:01.680
+Joe?
+
+901
+41:01.680 --> 41:05.730
+<v ->I would say adoption algorithm development</v>
+
+902
+41:05.730 --> 41:09.390
+in some of the application areas that we just outlined.
+
+903
+41:09.390 --> 41:10.710
+<v ->Great. Margaret?</v>
+
+904
+41:10.710 --> 41:13.560
+<v ->I'd say we have hardware, software applications,</v>
+
+905
+41:13.560 --> 41:16.740
+what's incredibly exciting is quantum networking.
+
+906
+41:16.740 --> 41:19.110
+All of us here, we need to build the quantum internet,
+
+907
+41:19.110 --> 41:20.700
+and that is what we're actually focused
+
+908
+41:20.700 --> 41:22.023
+on doing now as well.
+
+909
+41:23.850 --> 41:26.250
+<v ->I'd say that where we're focused</v>
+
+910
+41:26.250 --> 41:30.030
+is even coming up a level on the algorithm
+
+911
+41:30.030 --> 41:32.370
+and creating a co-pilot-like experience
+
+912
+41:32.370 --> 41:35.160
+that automates the entire scientific reasoning loop.
+
+913
+41:35.160 --> 41:38.340
+So you describe a goal, and you get a solution,
+
+914
+41:38.340 --> 41:40.500
+and you can do that without being a quantum physicist,
+
+915
+41:40.500 --> 41:41.670
+which I am not.
+
+916
+41:41.670 --> 41:43.560
+So many of the examples you heard here,
+
+917
+41:43.560 --> 41:46.800
+you may say to yourself, "Well, I'm not in academia,
+
+918
+41:46.800 --> 41:48.300
+I'm not a quantum physicist,"
+
+919
+41:48.300 --> 41:53.300
+but the algorithms and then the agentic framework
+
+920
+41:53.610 --> 41:56.880
+that will interact with you trying to solve a problem
+
+921
+41:56.880 --> 42:00.270
+and take away what you need to do across HPC,
+
+922
+42:00.270 --> 42:03.537
+AI, and quantum for you, that's what I'm most excited about,
+
+923
+42:03.537 --> 42:06.170
+and we're going to be seeing vast improvements in that
+
+924
+42:06.170 --> 42:07.440
+in the next year or two.
+
+925
+42:07.440 --> 42:08.970
+<v ->Very cool. Nash?</v>
+
+926
+42:08.970 --> 42:09.803
+<v ->All right, so I'm last.</v>
+
+927
+42:09.803 --> 42:12.570
+So I think there are three things
+
+928
+42:12.570 --> 42:14.410
+which I see happening.
+<v ->15 seconds, please.</v>
+
+929
+42:14.410 --> 42:15.630
+<v ->Oh, (laughs) okay.
+(Jacqueline laughs)</v>
+
+930
+42:15.630 --> 42:17.160
+The first one is,
+
+931
+42:17.160 --> 42:19.590
+the machines are gonna get more reliable, right?
+
+932
+42:19.590 --> 42:23.010
+Higher fidelity, okay? So I think that is gonna happen.
+
+933
+42:23.010 --> 42:25.290
+You're gonna have better error correction and algorithms.
+
+934
+42:25.290 --> 42:27.240
+End of the day, you need more qubits,
+
+935
+42:27.240 --> 42:28.890
+but at better fidelity.
+
+936
+42:28.890 --> 42:30.570
+So I think you're gonna see that happen,
+
+937
+42:30.570 --> 42:33.330
+and you'll see a lot of progress in that in this year.
+
+938
+42:33.330 --> 42:36.060
+The second one is in terms of applications,
+
+939
+42:36.060 --> 42:38.070
+I explained a very important application,
+
+940
+42:38.070 --> 42:41.640
+which is probably affecting everybody on this planet, okay?
+
+941
+42:41.640 --> 42:42.690
+You'll see more progress
+
+942
+42:42.690 --> 42:45.210
+in those types of applications and algorithms,
+
+943
+42:45.210 --> 42:50.210
+with a combination of CPU plus GPU plus quantum.
+
+944
+42:50.610 --> 42:53.190
+And the third one, I think you alluded to it
+
+945
+42:53.190 --> 42:55.950
+in terms of how quantum can help AI,
+
+946
+42:55.950 --> 42:57.420
+especially in the data side,
+
+947
+42:57.420 --> 42:59.580
+and you're gonna see a lot of progress on that side,
+
+948
+42:59.580 --> 43:01.860
+especially coming from us, I think, in that space.
+
+949
+43:01.860 --> 43:04.590
+So these are three important things which are gonna happen,
+
+950
+43:04.590 --> 43:07.260
+which is really gonna take quantum computing
+
+951
+43:07.260 --> 43:09.750
+to the next level in 2025.
+
+952
+43:09.750 --> 43:12.000
+<v ->Amazing. Well, everyone, quantum is here.</v>
+
+953
+43:12.000 --> 43:13.470
+Thank you so much to our panelists.
+
+954
+43:13.470 --> 43:14.700
+We really appreciate your time today.
+
+955
+43:14.700 --> 43:15.758
+And we'll see you next time.
+(audience and John applauding)
+
+956
+43:15.758 --> 43:17.006
+<v ->Thank you.</v>
+<v ->Thank you, Jackie.</v>
+
+957
+43:17.006 --> 43:18.323
+(audience and John applauding)
+
+958
+43:18.323 --> 43:21.073
+(cheerful music)
+

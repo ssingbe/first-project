@@ -1,0 +1,3278 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.901 --> 00:03.484
+(upbeat music)
+
+2
+00:10.920 --> 00:12.570
+<v ->All right, so we made it.</v>
+
+3
+00:12.570 --> 00:16.350
+Session six, now capping off the 25th year of Connect2Car.
+
+4
+00:16.350 --> 00:17.760
+I appreciate everybody sticking with us.
+
+5
+00:17.760 --> 00:19.210
+Who was in the first session?
+
+6
+00:20.160 --> 00:21.450
+All right, excellent, excellent.
+
+7
+00:21.450 --> 00:24.450
+Well, this is gonna be a treat for all of you that are here.
+
+8
+00:26.010 --> 00:27.570
+Coming back to the beginning,
+
+9
+00:27.570 --> 00:30.000
+again, this was about getting the aftermarket
+
+10
+00:30.000 --> 00:32.040
+and the OEM talking to each other
+
+11
+00:32.040 --> 00:35.520
+about integration and integrating products into the vehicle.
+
+12
+00:35.520 --> 00:36.840
+And while that's still an issue
+
+13
+00:36.840 --> 00:38.580
+for a lot of the aftermarket providers,
+
+14
+00:38.580 --> 00:40.920
+a lot of it's been solved by going to data buses
+
+15
+00:40.920 --> 00:42.000
+and other things.
+
+16
+00:42.000 --> 00:44.730
+The very first session at Connect2Car
+
+17
+00:44.730 --> 00:49.587
+was actually a discussion between IDB-1394,
+
+18
+00:49.587 --> 00:51.870
+IDB can and most,
+
+19
+00:51.870 --> 00:54.360
+and having a conversation about those networks
+
+20
+00:54.360 --> 00:56.940
+going into a vehicle, 'cause at the point that point,
+
+21
+00:56.940 --> 00:58.770
+most of those networks weren't in.
+
+22
+00:58.770 --> 01:01.140
+So we've gone from that to where we are today,
+
+23
+01:01.140 --> 01:02.460
+which is pretty amazing.
+
+24
+01:02.460 --> 01:03.690
+Pretty amazing panelists today,
+
+25
+01:03.690 --> 01:06.600
+and again, I appreciate everybody hanging out with us.
+
+26
+01:06.600 --> 01:09.270
+So right now I'd like to introduce my new friend Logan,
+
+27
+01:09.270 --> 01:10.890
+who invited me to a party last night,
+
+28
+01:10.890 --> 01:13.440
+so it's why I am letting him do the panel.
+
+29
+01:13.440 --> 01:15.450
+We met out in the parking lot earlier.
+
+30
+01:15.450 --> 01:17.970
+Logan is the director of Mobility and Smart Cities
+
+31
+01:17.970 --> 01:19.620
+for Plug and Play Tech center,
+
+32
+01:19.620 --> 01:22.380
+which I'm very interested in coming to see.
+
+33
+01:22.380 --> 01:24.000
+And you're gonna have a little conversation
+
+34
+01:24.000 --> 01:26.580
+with Chris Coulter at CampX for Volvo
+
+35
+01:26.580 --> 01:29.010
+to talk about fostering innovation, right?
+
+36
+01:29.010 --> 01:29.843
+Fantastic.
+
+37
+01:31.050 --> 01:32.430
+<v Logan>Awesome, thank you so much, Chris.</v>
+
+38
+01:32.430 --> 01:33.360
+Really looking forward to it.
+
+39
+01:33.360 --> 01:36.180
+Hello everybody, fantastic to be here
+
+40
+01:36.180 --> 01:40.140
+as we end the Connect2Car, one of the longest tracks.
+
+41
+01:40.140 --> 01:43.350
+I mean, this is just fantastic, so really happy to be here.
+
+42
+01:43.350 --> 01:45.510
+As you mentioned, my name is Logan Azelton
+
+43
+01:45.510 --> 01:48.510
+and I am the Director of US Mobility in Smart Cities
+
+44
+01:48.510 --> 01:50.430
+for Plug and Play Tech Center.
+
+45
+01:50.430 --> 01:52.350
+We're the world's largest venture capital company
+
+46
+01:52.350 --> 01:54.480
+and we run over 60 different accelerator programs
+
+47
+01:54.480 --> 01:58.230
+across the world, connecting startups to new corporations.
+
+48
+01:58.230 --> 01:59.520
+And like he had mentioned,
+
+49
+01:59.520 --> 02:03.540
+I would love to introduce my new buddy, Chris Coulter,
+
+50
+02:03.540 --> 02:04.373
+to come up here.
+
+51
+02:04.373 --> 02:06.510
+He's with Volvo CampX, so if you guys wouldn't mind,
+
+52
+02:06.510 --> 02:08.932
+just give him a nice round of applause as he comes on up.
+
+53
+02:08.932 --> 02:11.932
+(audience applauds)
+
+54
+02:13.140 --> 02:14.880
+Awesome, so Chris is gonna help us out.
+
+55
+02:14.880 --> 02:17.640
+He's gonna talk about kind of the importance of innovation
+
+56
+02:17.640 --> 02:18.630
+with different startups
+
+57
+02:18.630 --> 02:20.610
+and kind of the collaboration within the industry
+
+58
+02:20.610 --> 02:22.710
+and how that can move the ball forward.
+
+59
+02:22.710 --> 02:23.830
+So Chris, the stage is all yours.
+
+60
+02:23.830 --> 02:26.070
+<v ->Thank you, thank you Logan.</v>
+
+61
+02:26.070 --> 02:27.990
+Logan's birthday today.
+
+62
+02:27.990 --> 02:29.220
+Did anybody?
+
+63
+02:29.220 --> 02:30.311
+Yeah.
+
+64
+02:30.311 --> 02:32.490
+(audience applauds)
+
+65
+02:32.490 --> 02:33.690
+Be careful what you tell me,
+
+66
+02:33.690 --> 02:35.250
+I don't let it go so quick, right?
+
+67
+02:35.250 --> 02:38.070
+So yeah, okay, thank you Logan.
+
+68
+02:38.070 --> 02:38.970
+So I'm Chris Coulter.
+
+69
+02:38.970 --> 02:43.970
+I'm the CampX North America Hub Lead, CampX by Volvo Group.
+
+70
+02:44.850 --> 02:46.860
+The Volvo Group is not Volvo car.
+
+71
+02:46.860 --> 02:51.860
+We're Volvo, we make trucks, construction equipment,
+
+72
+02:53.790 --> 02:58.503
+power solutions for (indistinct), buses, service solutions,
+
+73
+03:00.720 --> 03:02.850
+finance solutions, so a lot.
+
+74
+03:02.850 --> 03:06.150
+102, 104,000 people globally,
+
+75
+03:06.150 --> 03:08.220
+so for those of you not totally familiar with us.
+
+76
+03:08.220 --> 03:13.220
+So CampX was started in 2019 in Sweden.
+
+77
+03:14.340 --> 03:17.970
+The purpose is to find new technologies
+
+78
+03:17.970 --> 03:19.860
+and innovation for the Volvo group
+
+79
+03:19.860 --> 03:21.180
+through startups actually.
+
+80
+03:21.180 --> 03:23.490
+So we run proof of values.
+
+81
+03:23.490 --> 03:26.040
+There are four hubs globally.
+
+82
+03:26.040 --> 03:30.030
+There's a hub in Sweden, India, and France
+
+83
+03:30.030 --> 03:34.023
+and in the US representing North America, so, yeah.
+
+84
+03:37.350 --> 03:38.640
+We have three programs.
+
+85
+03:38.640 --> 03:42.390
+We have the incubator, which is very early phase startups,
+
+86
+03:42.390 --> 03:44.670
+where we're strategically looking down the road,
+
+87
+03:44.670 --> 03:46.200
+we're demand driven innovation.
+
+88
+03:46.200 --> 03:49.080
+So somebody said, this is what we're looking for,
+
+89
+03:49.080 --> 03:50.460
+or we're looking at our strategies
+
+90
+03:50.460 --> 03:53.103
+and how startups can complement those strategies.
+
+91
+03:54.870 --> 03:58.680
+So we'll bring them in a program to be with us two years
+
+92
+03:58.680 --> 04:02.610
+or up to two years to develop the startups further.
+
+93
+04:02.610 --> 04:04.590
+Also, we have a venture client program,
+
+94
+04:04.590 --> 04:08.310
+which is startups that are more mature, closer to scaling.
+
+95
+04:08.310 --> 04:12.600
+So we run proof of value projects in that case.
+
+96
+04:12.600 --> 04:15.990
+We've ran over 200 of those since the beginning
+
+97
+04:15.990 --> 04:17.850
+around the four hubs there.
+
+98
+04:17.850 --> 04:20.370
+So, and then we also have the venture client,
+
+99
+04:20.370 --> 04:23.730
+which is where employees internally can have an idea
+
+100
+04:23.730 --> 04:26.640
+that we create spinoff companies around.
+
+101
+04:26.640 --> 04:29.370
+Also, if there's IP at universities
+
+102
+04:29.370 --> 04:31.320
+that we can capture and scale,
+
+103
+04:31.320 --> 04:34.320
+we'll also use the venture client program for that.
+
+104
+04:34.320 --> 04:36.333
+So a little bit about it.
+
+105
+04:37.260 --> 04:40.230
+We have tools that allow us to go fast.
+
+106
+04:40.230 --> 04:42.210
+If you guys have read "The Innovator's Dilemma,"
+
+107
+04:42.210 --> 04:45.840
+I like to to say that was a lot of inspiration
+
+108
+04:45.840 --> 04:47.400
+for how I like to think about this.
+
+109
+04:47.400 --> 04:50.850
+So we have the tools, we have contracts, processes,
+
+110
+04:50.850 --> 04:52.590
+and we can go pretty fast.
+
+111
+04:52.590 --> 04:57.187
+I was telling somebody last night, I think the fastest case
+
+112
+04:58.200 --> 05:00.210
+that we've had from inception to approval
+
+113
+05:00.210 --> 05:02.610
+was in two under two weeks.
+
+114
+05:02.610 --> 05:05.435
+So to give you an idea of what we're talking about
+
+115
+05:05.435 --> 05:07.260
+when we need speed.
+
+116
+05:07.260 --> 05:11.400
+So yeah, and then you talked about the value Logan
+
+117
+05:11.400 --> 05:13.650
+of working with startups, right?
+
+118
+05:13.650 --> 05:15.270
+So it is speed.
+
+119
+05:15.270 --> 05:18.090
+When you're in a a large corporate,
+
+120
+05:18.090 --> 05:20.130
+the challenge sometimes becomes speed.
+
+121
+05:20.130 --> 05:22.020
+So startups can be a shot in the arm
+
+122
+05:22.020 --> 05:24.030
+to remind us we need to be fast,
+
+123
+05:24.030 --> 05:26.703
+but also to innovate more quickly.
+
+124
+05:27.990 --> 05:31.260
+They can change the way we're thinking about something
+
+125
+05:31.260 --> 05:33.420
+if we approach this correctly, right?
+
+126
+05:33.420 --> 05:35.670
+So we may think we're going down one path,
+
+127
+05:35.670 --> 05:36.720
+but a startup could come in
+
+128
+05:36.720 --> 05:38.730
+with a completely different idea,
+
+129
+05:38.730 --> 05:42.993
+and even in some cases, we co-collaborate and we can come up
+
+130
+05:42.993 --> 05:46.050
+with an entirely new direction between the two of us,
+
+131
+05:46.050 --> 05:50.760
+so that's one of the values of speed, agility, right?
+
+132
+05:50.760 --> 05:53.133
+And it goes both ways, so yeah.
+
+133
+05:54.390 --> 05:57.120
+Logan, I think that we're on the clock here,
+
+134
+05:57.120 --> 05:59.280
+so I'll hand it back over to you to tell us.
+
+135
+05:59.280 --> 06:00.180
+You're gonna introduce us
+
+136
+06:00.180 --> 06:02.820
+to some of the super exciting startups here,
+
+137
+06:02.820 --> 06:05.340
+maybe a few that have even been through our program here,
+
+138
+06:05.340 --> 06:07.320
+so I'll hand it back over to you.
+
+139
+06:07.320 --> 06:09.060
+<v ->Yeah, absolutely, thank you so much, Chris.</v>
+
+140
+06:09.060 --> 06:10.698
+Everybody give Chris one more round of applause.
+
+141
+06:10.698 --> 06:13.698
+(audience applauds)
+
+142
+06:15.120 --> 06:16.620
+Awesome, so like Chris mentioned,
+
+143
+06:16.620 --> 06:18.240
+now we're coming into the next portion of this
+
+144
+06:18.240 --> 06:20.220
+where we're gonna demonstrate a few of these different
+
+145
+06:20.220 --> 06:22.500
+very successful world-class companies
+
+146
+06:22.500 --> 06:24.090
+that have been able to break through
+
+147
+06:24.090 --> 06:26.460
+into the automotive industry and beyond
+
+148
+06:26.460 --> 06:30.540
+in order to kind of improve upon a lot of different things.
+
+149
+06:30.540 --> 06:32.790
+So this is where innovation starts at the heart.
+
+150
+06:32.790 --> 06:36.290
+So to start us off, we have Jeremy Agulnek.
+
+151
+06:36.290 --> 06:38.310
+He is the SVP of HAAS Alert.
+
+152
+06:38.310 --> 06:40.080
+So HAAS Alert notifies drivers
+
+153
+06:40.080 --> 06:42.120
+of incoming emergency vehicles
+
+154
+06:42.120 --> 06:44.790
+and then connects vehicles for better visibility,
+
+155
+06:44.790 --> 06:46.350
+faster response times.
+
+156
+06:46.350 --> 06:47.925
+So everybody give him a round of applause.
+
+157
+06:47.925 --> 06:50.925
+(audience applauds)
+
+158
+06:54.540 --> 06:57.090
+<v ->Thank you Logan and just a quick little plug.</v>
+
+159
+06:57.090 --> 07:01.080
+So Plug and Play was instrumental in getting HAAS Alert
+
+160
+07:01.080 --> 07:05.280
+introduced to our first automotive OEM partner, Stellantis,
+
+161
+07:05.280 --> 07:07.920
+and helping get commercialized with them
+
+162
+07:07.920 --> 07:10.350
+and also being part of the CampX program,
+
+163
+07:10.350 --> 07:12.693
+so it's been great working with you guys all.
+
+164
+07:14.160 --> 07:16.830
+So a little bit about HAAS Alert.
+
+165
+07:16.830 --> 07:21.830
+When HAAS Alert's CEO was working formerly
+
+166
+07:22.110 --> 07:24.240
+at HERE Technologies,
+
+167
+07:24.240 --> 07:26.590
+he was almost struck and killed by an ambulance
+
+168
+07:27.600 --> 07:30.810
+when he was driving through downtown Chicago.
+
+169
+07:30.810 --> 07:35.760
+Thankfully, everything was okay, but that experience of his
+
+170
+07:35.760 --> 07:40.710
+really transformed him into trying to solve for initially,
+
+171
+07:40.710 --> 07:43.980
+how can we help cars and emergency vehicles
+
+172
+07:43.980 --> 07:45.870
+communicate with each other?
+
+173
+07:45.870 --> 07:49.380
+But as he dug into this roadway safety problem,
+
+174
+07:49.380 --> 07:52.080
+he realized that it's a much broader problem,
+
+175
+07:52.080 --> 07:54.840
+and so he expanded HAAS Alert's mission
+
+176
+07:54.840 --> 07:56.040
+to now really think about,
+
+177
+07:56.040 --> 07:58.563
+how do we make safety available to everyone?
+
+178
+08:03.750 --> 08:08.040
+And our approach from the beginning towards roadway safety
+
+179
+08:08.040 --> 08:11.070
+has been very different, and unlike anyone else's.
+
+180
+08:11.070 --> 08:12.660
+We didn't wanna just go out there
+
+181
+08:12.660 --> 08:16.140
+and build new to market technology that required,
+
+182
+08:16.140 --> 08:20.460
+you know, 10 plus years to get fully adopted by OEMs, right?
+
+183
+08:20.460 --> 08:22.890
+The people you see here on the screen,
+
+184
+08:22.890 --> 08:25.140
+they needed help immediately,
+
+185
+08:25.140 --> 08:27.030
+and they couldn't wait 10 years
+
+186
+08:27.030 --> 08:30.480
+for safety solutions to become available to them.
+
+187
+08:30.480 --> 08:33.420
+We also just didn't build a software platform
+
+188
+08:33.420 --> 08:36.690
+and expect everyone to come to us and start connecting.
+
+189
+08:36.690 --> 08:38.580
+Frankly, that's kind of lazy, right?
+
+190
+08:38.580 --> 08:41.850
+You gotta put in the hard work, and that's what we did.
+
+191
+08:41.850 --> 08:45.390
+We literally went door to door talking to fire departments,
+
+192
+08:45.390 --> 08:49.530
+talking to tow truck operators, talking to DOTs,
+
+193
+08:49.530 --> 08:52.800
+and developing a community of users
+
+194
+08:52.800 --> 08:55.530
+and a community of safety advocates
+
+195
+08:55.530 --> 08:58.560
+who really wanted to make a difference in the world.
+
+196
+08:58.560 --> 09:00.660
+And we are the voice of these people
+
+197
+09:00.660 --> 09:03.540
+that you see here into the automotive industry.
+
+198
+09:03.540 --> 09:06.120
+They don't have a chance to go to events like this
+
+199
+09:06.120 --> 09:09.300
+and to meet with OEMs, so we are representing them
+
+200
+09:09.300 --> 09:10.900
+when we're sitting at the table.
+
+201
+09:13.680 --> 09:15.750
+So a couple weeks ago,
+
+202
+09:15.750 --> 09:19.290
+the Illinois State Police had a press conference
+
+203
+09:19.290 --> 09:21.630
+where they were announcing their safety partnership
+
+204
+09:21.630 --> 09:23.220
+with HAAS Alert.
+
+205
+09:23.220 --> 09:25.950
+The director that you see here stood at the podium
+
+206
+09:25.950 --> 09:28.410
+and he talked about the safety risks
+
+207
+09:28.410 --> 09:30.570
+that the men and women of his department
+
+208
+09:30.570 --> 09:33.633
+faced every single day when they're out on the roadway.
+
+209
+09:34.560 --> 09:39.390
+He also took the opportunity to thank Chrysler, Dodge,
+
+210
+09:39.390 --> 09:43.890
+Jeep, Ram, Mercedes-Benz, and Volkswagen
+
+211
+09:43.890 --> 09:45.660
+for investing in safety
+
+212
+09:45.660 --> 09:48.300
+because those are the only OEMs today
+
+213
+09:48.300 --> 09:50.490
+that are actually warning their drivers
+
+214
+09:50.490 --> 09:53.223
+about emergency vehicles that are up in the road.
+
+215
+09:56.220 --> 09:59.520
+Sadly, less than one week later,
+
+216
+09:59.520 --> 10:02.880
+trooper Clay Carns was clearing debris from the highway
+
+217
+10:02.880 --> 10:05.313
+when he was struck and killed by a pickup truck.
+
+218
+10:06.690 --> 10:07.523
+At the funeral,
+
+219
+10:07.523 --> 10:11.040
+that same director stood at the podium once again,
+
+220
+10:11.040 --> 10:13.340
+but this time he had a very different message.
+
+221
+10:14.430 --> 10:15.577
+And here's what he said,
+
+222
+10:15.577 --> 10:19.860
+"People have got to slow down, move over, pay attention,
+
+223
+10:19.860 --> 10:22.920
+just give a damn about these human beings.
+
+224
+10:22.920 --> 10:24.720
+Have some respect for officers
+
+225
+10:24.720 --> 10:27.990
+who do this job on a daily basis."
+
+226
+10:27.990 --> 10:30.813
+You could sense the level of frustration in his voice.
+
+227
+10:33.210 --> 10:37.260
+Now, it's no secret that OEMs care about safety, right?
+
+228
+10:37.260 --> 10:40.800
+For example, this is on the wall at GM's headquarters,
+
+229
+10:40.800 --> 10:43.140
+right, zero crashes.
+
+230
+10:43.140 --> 10:47.130
+You see companies like Honda issuing press releases
+
+231
+10:47.130 --> 10:50.100
+talking about how they're gonna be investing more
+
+232
+10:50.100 --> 10:52.590
+in their focus on safety.
+
+233
+10:52.590 --> 10:55.410
+Now the good news is that all these OEMs today,
+
+234
+10:55.410 --> 10:58.470
+not just the ones here, but every single OEM,
+
+235
+10:58.470 --> 11:01.440
+they have vehicles that are capable of communicating
+
+236
+11:01.440 --> 11:03.900
+with their cloud platforms.
+
+237
+11:03.900 --> 11:08.790
+And as such, they have vehicles that are V2X capable,
+
+238
+11:08.790 --> 11:11.910
+and they can start making a safety difference today
+
+239
+11:11.910 --> 11:14.583
+through that existing capability that they have.
+
+240
+11:17.610 --> 11:21.900
+So what HAAS Alert has built is our Safety Cloud platform.
+
+241
+11:21.900 --> 11:25.323
+It's the first V2X as-a-service solution.
+
+242
+11:26.250 --> 11:30.120
+And what's unique about it is that we can easily help OEMs
+
+243
+11:30.120 --> 11:32.910
+achieve their safety goals faster,
+
+244
+11:32.910 --> 11:36.480
+cost effectively, and more easily.
+
+245
+11:36.480 --> 11:39.450
+And it's really a gateway for the OEM
+
+246
+11:39.450 --> 11:43.170
+into the broader connected transportation ecosystem.
+
+247
+11:43.170 --> 11:45.930
+Safety Cloud enables vehicles
+
+248
+11:45.930 --> 11:48.690
+to receive information and messages
+
+249
+11:48.690 --> 11:51.930
+from other vehicles and infrastructure in the roadway,
+
+250
+11:51.930 --> 11:54.810
+so that their drivers and their driving systems
+
+251
+11:54.810 --> 11:57.243
+can make safer and smarter decisions.
+
+252
+11:58.380 --> 12:01.080
+Safety Cloud also helps OEMs
+
+253
+12:01.080 --> 12:04.710
+communicate with other OEM vehicles on the road,
+
+254
+12:04.710 --> 12:07.710
+especially when their drivers are most vulnerable.
+
+255
+12:07.710 --> 12:10.080
+For example, when they're stopped in the roadway,
+
+256
+12:10.080 --> 12:11.790
+or let's say they're a wrong way driver
+
+257
+12:11.790 --> 12:14.790
+entering the highway in the wrong direction,
+
+258
+12:14.790 --> 12:18.180
+by simply integrating the cloud platform
+
+259
+12:18.180 --> 12:22.560
+into Safety Cloud through a single API,
+
+260
+12:22.560 --> 12:24.540
+all the sudden you have immediate access
+
+261
+12:24.540 --> 12:27.123
+to the world's largest V2X network.
+
+262
+12:29.850 --> 12:32.670
+Now, to achieve this goal
+
+263
+12:32.670 --> 12:36.570
+and to really provide global solution for the OEMs,
+
+264
+12:36.570 --> 12:39.120
+we realize that we can't do it all ourselves.
+
+265
+12:39.120 --> 12:41.730
+In fact, core to HAAS Alert's strategy
+
+266
+12:41.730 --> 12:45.420
+is enabling an ecosystem for other companies
+
+267
+12:45.420 --> 12:48.270
+to participate and get connected
+
+268
+12:48.270 --> 12:51.330
+into the transportation network broadly.
+
+269
+12:51.330 --> 12:53.580
+And we're humbled and proud
+
+270
+12:53.580 --> 12:55.920
+that all these organizations that you see here
+
+271
+12:55.920 --> 12:58.440
+are trusting Safety Cloud today.
+
+272
+12:58.440 --> 12:59.640
+And even just yesterday,
+
+273
+12:59.640 --> 13:02.130
+we announced a partnership with AiDEN,
+
+274
+13:02.130 --> 13:03.810
+who you'll hear from in a minute.
+
+275
+13:03.810 --> 13:07.440
+And that big red firetruck that you see on the show floor,
+
+276
+13:07.440 --> 13:09.570
+that's also connected to Safety Cloud
+
+277
+13:09.570 --> 13:12.843
+through our partnership with Oshkosh and Pierce.
+
+278
+13:15.930 --> 13:18.930
+So, you know, when you think about
+
+279
+13:18.930 --> 13:20.610
+HAAS Alert's user community,
+
+280
+13:20.610 --> 13:23.010
+we've got over 4,000 partners
+
+281
+13:23.010 --> 13:24.600
+that are working with us today
+
+282
+13:24.600 --> 13:28.557
+combined with the ecosystem that I just showed you.
+
+283
+13:28.557 --> 13:30.000
+You get to a scale now
+
+284
+13:30.000 --> 13:32.340
+where we can really start to make a difference
+
+285
+13:32.340 --> 13:34.170
+with roadway safety.
+
+286
+13:34.170 --> 13:36.480
+And even though we're processing a lot of data
+
+287
+13:36.480 --> 13:40.020
+every single day, you know, our job is still not done
+
+288
+13:40.020 --> 13:42.390
+until everyone can make it home safely.
+
+289
+13:42.390 --> 13:45.063
+And that's what we're on a mission to continue doing.
+
+290
+13:46.020 --> 13:48.093
+So thank you for the few minutes here.
+
+291
+13:48.960 --> 13:49.793
+You know, we'll be
+
+292
+13:49.793 --> 13:52.500
+at the COVESA networking reception tonight.
+
+293
+13:52.500 --> 13:55.050
+We've got some demo vehicles there.
+
+294
+13:55.050 --> 13:57.540
+We'd love to connect with you more throughout the week,
+
+295
+13:57.540 --> 13:59.130
+so feel free to reach out.
+
+296
+13:59.130 --> 14:00.330
+If you scan that QR code,
+
+297
+14:00.330 --> 14:02.190
+it sends me an email immediately
+
+298
+14:02.190 --> 14:03.780
+and we'll look forward to talking.
+
+299
+14:03.780 --> 14:04.613
+Thank you.
+
+300
+14:06.032 --> 14:09.810
+(audience applauds)
+
+301
+14:09.810 --> 14:12.510
+<v Logan>Thank you so much, Jeremy, all right.</v>
+
+302
+14:12.510 --> 14:13.770
+And now we're just gonna keep it going.
+
+303
+14:13.770 --> 14:15.750
+As he mentioned, we're gonna bring up AiDEN.
+
+304
+14:15.750 --> 14:19.140
+So AiDEN is a software only solutions
+
+305
+14:19.140 --> 14:22.860
+providing in-car services with their white label
+
+306
+14:22.860 --> 14:25.023
+bi-directional hub.
+
+307
+14:26.400 --> 14:29.910
+Niclas Gyllenram, I am super excited to hear from you.
+
+308
+14:29.910 --> 14:30.840
+The stage is yours.
+
+309
+14:30.840 --> 14:32.871
+Everybody, round of applause.
+
+310
+14:32.871 --> 14:34.643
+(audience applauds)
+<v Niclas>Oh, thank you.</v>
+
+311
+14:36.840 --> 14:39.240
+Great to be here, thanks for the introduction,
+
+312
+14:39.240 --> 14:42.720
+and yeah, I'm from AiDEN,
+
+313
+14:42.720 --> 14:46.290
+and going straight to what we do, we basically connect cars.
+
+314
+14:46.290 --> 14:49.350
+That's the core of the whole idea really.
+
+315
+14:49.350 --> 14:51.210
+It's a no-code app framework.
+
+316
+14:51.210 --> 14:54.840
+We put data privacy first, simply because if you do,
+
+317
+14:54.840 --> 14:57.723
+then you're able to do more, not less, actually.
+
+318
+14:59.190 --> 15:00.270
+Where do I control the slides?
+
+319
+15:00.270 --> 15:01.103
+Is this one?
+
+320
+15:02.460 --> 15:03.630
+The green button?
+
+321
+15:03.630 --> 15:06.900
+Okay, so my name is Niclas.
+
+322
+15:06.900 --> 15:08.760
+I've been working for AiDEN Automotive
+
+323
+15:08.760 --> 15:10.590
+for the last four years.
+
+324
+15:10.590 --> 15:13.530
+Before that, I've done about 20 years
+
+325
+15:13.530 --> 15:14.700
+in the automotive industry,
+
+326
+15:14.700 --> 15:17.400
+working mainly in infotainment and connected vehicles.
+
+327
+15:17.400 --> 15:20.700
+So I think that, basically the aspects of vehicles
+
+328
+15:20.700 --> 15:25.170
+that have failed most over the last two decades.
+
+329
+15:25.170 --> 15:26.913
+I feel very frustrated about that.
+
+330
+15:27.780 --> 15:30.780
+For a long time, we had built-in navigation systems
+
+331
+15:30.780 --> 15:34.590
+and music players and voice control systems
+
+332
+15:34.590 --> 15:37.200
+that frankly people didn't want to use.
+
+333
+15:37.200 --> 15:40.560
+They would probably use their phones instead.
+
+334
+15:40.560 --> 15:42.030
+Over the last four or five years,
+
+335
+15:42.030 --> 15:43.590
+that has changed a little bit.
+
+336
+15:43.590 --> 15:45.660
+Now, we've got pretty much the whole industry
+
+337
+15:45.660 --> 15:48.720
+building infotainment systems based on Android automotive,
+
+338
+15:48.720 --> 15:50.340
+and suddenly you can get
+
+339
+15:50.340 --> 15:53.640
+more different mature navigation systems
+
+340
+15:53.640 --> 15:56.883
+from HERE Technologies from Waze from Google Maps and so on,
+
+341
+15:58.140 --> 15:59.640
+but there's still something missing,
+
+342
+15:59.640 --> 16:03.213
+and that is really what we're addressing with AiDEN.
+
+343
+16:05.940 --> 16:10.680
+It's been 20 years, for me at least, of talk in the industry
+
+344
+16:10.680 --> 16:13.470
+where we've been talking about all these different things
+
+345
+16:13.470 --> 16:16.440
+about how you should service your vehicle.
+
+346
+16:16.440 --> 16:21.440
+We had the last session on connecting with 911 responders,
+
+347
+16:21.510 --> 16:24.210
+connected insurance, paying for services, and so on,
+
+348
+16:24.210 --> 16:27.900
+and frankly, there's no shortage of amazing companies
+
+349
+16:27.900 --> 16:31.653
+building awesome services, but still,
+
+350
+16:32.820 --> 16:36.390
+there's just no connected services at scale.
+
+351
+16:36.390 --> 16:38.880
+Any one of you who have a new car,
+
+352
+16:38.880 --> 16:40.710
+most of you actually, if you have a really new car,
+
+353
+16:40.710 --> 16:42.480
+probably already have a vehicle
+
+354
+16:42.480 --> 16:44.520
+with an Android-based system.
+
+355
+16:44.520 --> 16:48.300
+You have all the necessary hardware and software,
+
+356
+16:48.300 --> 16:50.103
+but still, there's no services.
+
+357
+16:52.830 --> 16:54.153
+This is the current state.
+
+358
+16:55.290 --> 16:58.080
+Hardware is there, there's a common software platform,
+
+359
+16:58.080 --> 17:01.650
+there's millions of vehicles on the roads as we speak,
+
+360
+17:01.650 --> 17:04.290
+but still no connected services at scale.
+
+361
+17:04.290 --> 17:05.760
+This is what we're addressing.
+
+362
+17:05.760 --> 17:07.980
+So the question of course becomes why?
+
+363
+17:07.980 --> 17:09.303
+Why is it like that?
+
+364
+17:10.260 --> 17:12.720
+Well, it turns out that I,
+
+365
+17:12.720 --> 17:15.330
+frankly, when I started working on Android eight years ago
+
+366
+17:15.330 --> 17:17.610
+for the automotive industry, I actually initially thought,
+
+367
+17:17.610 --> 17:19.620
+great, our work here is done.
+
+368
+17:19.620 --> 17:22.140
+Now it's all gonna be like the phone industry,
+
+369
+17:22.140 --> 17:24.030
+everything's gonna be connected and smart
+
+370
+17:24.030 --> 17:26.790
+and we'll have all the apps in the world.
+
+371
+17:26.790 --> 17:28.770
+But that hasn't happened,
+
+372
+17:28.770 --> 17:32.490
+and there's a multitude of different reasons for that.
+
+373
+17:32.490 --> 17:34.980
+And I think these are at least the main reasons
+
+374
+17:34.980 --> 17:38.160
+why we don't have connected services currently.
+
+375
+17:38.160 --> 17:40.500
+First of all, contrary to the phone industry,
+
+376
+17:40.500 --> 17:43.260
+the automotive industry is much, much more fragmented.
+
+377
+17:43.260 --> 17:46.140
+Like the largest automotive OEMs
+
+378
+17:46.140 --> 17:50.730
+still have less than 10% of the complete global market.
+
+379
+17:50.730 --> 17:54.303
+That's unlikely to change significantly any time soon.
+
+380
+17:55.320 --> 17:58.080
+The service side of it, the parking companies,
+
+381
+17:58.080 --> 18:02.820
+the charging, fueling, insurance, 911 responder,
+
+382
+18:02.820 --> 18:04.890
+that's even more fragmented.
+
+383
+18:04.890 --> 18:05.730
+On a global scale,
+
+384
+18:05.730 --> 18:08.550
+you'd probably need to have tens of thousands
+
+385
+18:08.550 --> 18:12.900
+or even hundreds of thousands of different services
+
+386
+18:12.900 --> 18:14.730
+to cover, to have global coverage.
+
+387
+18:14.730 --> 18:18.030
+Now you might wonder, why don't you just build apps?
+
+388
+18:18.030 --> 18:22.140
+I used to work for Volvo cars before I was at AiDEN,
+
+389
+18:22.140 --> 18:24.780
+and we actually tried to do just that on Android.
+
+390
+18:24.780 --> 18:29.160
+So that's how we started with the realization
+
+391
+18:29.160 --> 18:30.180
+that something needs to be done.
+
+392
+18:30.180 --> 18:31.013
+We worked with
+
+393
+18:31.013 --> 18:33.150
+one of the largest charging infrastructure providers
+
+394
+18:33.150 --> 18:34.740
+here in the US.
+
+395
+18:34.740 --> 18:38.160
+They built an app, we deployed it into production vehicles,
+
+396
+18:38.160 --> 18:41.100
+and that whole project took roughly 12 months.
+
+397
+18:41.100 --> 18:44.220
+And to me, that was the proof point that this will not work.
+
+398
+18:44.220 --> 18:47.670
+There's no way for any car company really to do that
+
+399
+18:47.670 --> 18:50.580
+with 10 or 100,000 different service providers,
+
+400
+18:50.580 --> 18:53.160
+and there's no way that that charging company can do it
+
+401
+18:53.160 --> 18:55.710
+with 40, 50 different OEMs.
+
+402
+18:56.730 --> 18:59.880
+It also turns out that technically the services,
+
+403
+18:59.880 --> 19:01.980
+the types of services you want in a vehicle
+
+404
+19:01.980 --> 19:04.650
+are different to what you have in phones.
+
+405
+19:04.650 --> 19:06.510
+Most of the things you do on your phone
+
+406
+19:06.510 --> 19:08.820
+is something where you pick up the phone and you engage
+
+407
+19:08.820 --> 19:12.330
+and you initiate something to get something done.
+
+408
+19:12.330 --> 19:16.710
+Whereas with cars, like with insurance or with service
+
+409
+19:16.710 --> 19:19.440
+and maintenance and tire services, whatever you want,
+
+410
+19:19.440 --> 19:20.520
+those are mainly things
+
+411
+19:20.520 --> 19:23.340
+that you just run in the background all the time.
+
+412
+19:23.340 --> 19:24.810
+You will never start your trip
+
+413
+19:24.810 --> 19:28.413
+by launching the insurance app in your vehicle, right?
+
+414
+19:29.670 --> 19:31.050
+You'll never start your trip
+
+415
+19:31.050 --> 19:34.890
+by launching the Let's Serve My Vehicle app.
+
+416
+19:34.890 --> 19:37.530
+If you don't launch it, it's not running.
+
+417
+19:37.530 --> 19:40.110
+This is a main difference actually.
+
+418
+19:40.110 --> 19:41.640
+With our solution now,
+
+419
+19:41.640 --> 19:45.150
+well, frankly, and that's part of the main problem here,
+
+420
+19:45.150 --> 19:47.490
+they mainly need to run in the background,
+
+421
+19:47.490 --> 19:50.913
+and they need to communicate different sets of data,
+
+422
+19:51.960 --> 19:53.580
+and they need to be able to support
+
+423
+19:53.580 --> 19:56.490
+any kind of user interface,
+
+424
+19:56.490 --> 19:58.860
+and lastly and most importantly,
+
+425
+19:58.860 --> 20:00.480
+as I touched upon in the beginning,
+
+426
+20:00.480 --> 20:05.480
+they need to also be serving data privacy regulations.
+
+427
+20:05.730 --> 20:09.990
+And especially in the EU, you have something called GDPR,
+
+428
+20:09.990 --> 20:11.310
+which I think on a global scale
+
+429
+20:11.310 --> 20:13.560
+is probably the strictest privacy regulation.
+
+430
+20:14.400 --> 20:17.613
+So these are all the problems that you need to have solved.
+
+431
+20:20.940 --> 20:23.790
+So conclusion, what we need,
+
+432
+20:23.790 --> 20:25.080
+we need something in the industry
+
+433
+20:25.080 --> 20:27.240
+because nothing has happened over the last 20 years
+
+434
+20:27.240 --> 20:29.520
+when it comes to actually scaling services.
+
+435
+20:29.520 --> 20:32.610
+And I think it needs to be something that is scalable,
+
+436
+20:32.610 --> 20:35.340
+something that actually works across markets,
+
+437
+20:35.340 --> 20:38.730
+across car brands, across models.
+
+438
+20:38.730 --> 20:40.410
+It has to be flexible.
+
+439
+20:40.410 --> 20:43.560
+It can't be limited to what anyone,
+
+440
+20:43.560 --> 20:46.110
+let's say automaker is saying that these are the limits,
+
+441
+20:46.110 --> 20:48.330
+this is the amount of data or the type of data
+
+442
+20:48.330 --> 20:51.120
+or the type of user interface you can build
+
+443
+20:51.120 --> 20:53.460
+because that's all gonna be different
+
+444
+20:53.460 --> 20:56.130
+for any one particular service provider.
+
+445
+20:56.130 --> 20:57.690
+And it also has to be sustainable.
+
+446
+20:57.690 --> 21:00.450
+That charging app I told you about in the beginning
+
+447
+21:00.450 --> 21:02.550
+that we spent 12 months on,
+
+448
+21:02.550 --> 21:05.220
+I actually don't think you can get it anymore
+
+449
+21:05.220 --> 21:09.060
+because as the cars update to newer versions of Android
+
+450
+21:09.060 --> 21:12.660
+every one or two years, nobody has the time or energy
+
+451
+21:12.660 --> 21:15.690
+to keep updating and maintaining old apps,
+
+452
+21:15.690 --> 21:17.553
+so now it's no longer there.
+
+453
+21:19.290 --> 21:24.290
+And finally, now, I come to what I think is a solution
+
+454
+21:24.870 --> 21:25.860
+to this problem.
+
+455
+21:25.860 --> 21:30.860
+So what we do with AiDEN, it's a software solution
+
+456
+21:31.230 --> 21:34.200
+that's compatible with any Android automotive vehicle.
+
+457
+21:34.200 --> 21:38.040
+That means that it's immediately possible to run it on
+
+458
+21:38.040 --> 21:40.710
+pretty much all the major OEMs,
+
+459
+21:40.710 --> 21:42.843
+newest car models that are launched now.
+
+460
+21:43.830 --> 21:45.900
+It has a data privacy first approach
+
+461
+21:45.900 --> 21:49.770
+so that people are able to see exactly what is requested
+
+462
+21:49.770 --> 21:51.450
+in terms of data from them
+
+463
+21:51.450 --> 21:53.370
+and exactly what they get in return,
+
+464
+21:53.370 --> 21:56.250
+what service is requesting to know my position
+
+465
+21:56.250 --> 21:57.510
+and for what purpose.
+
+466
+21:57.510 --> 21:59.040
+And people are in control of their data
+
+467
+21:59.040 --> 22:01.650
+and control of their services.
+
+468
+22:01.650 --> 22:03.900
+It's sustainable because it's a no code solution.
+
+469
+22:03.900 --> 22:06.270
+So as a third party service provider,
+
+470
+22:06.270 --> 22:07.800
+you can connect with vehicles
+
+471
+22:07.800 --> 22:11.190
+and have an in-vehicle app-like experience
+
+472
+22:11.190 --> 22:15.510
+without having to write any code, none, no code whatsoever.
+
+473
+22:15.510 --> 22:18.690
+And that actually is what makes it
+
+474
+22:18.690 --> 22:20.790
+both flexible and scalable.
+
+475
+22:20.790 --> 22:23.850
+And the UX we allow in the vehicles
+
+476
+22:23.850 --> 22:25.980
+are basically anything you can do in a web browser,
+
+477
+22:25.980 --> 22:29.403
+you can now do with an app-like approach in the vehicle.
+
+478
+22:32.850 --> 22:35.250
+And our current status
+
+479
+22:35.250 --> 22:39.300
+is that we're working with multiple different partners,
+
+480
+22:39.300 --> 22:42.360
+not only HAAS Alert and Mavi
+
+481
+22:42.360 --> 22:44.790
+that you will hear from later here.
+
+482
+22:44.790 --> 22:47.370
+We're also deploying later this spring
+
+483
+22:47.370 --> 22:50.280
+with one of the largest global OEMs.
+
+484
+22:50.280 --> 22:55.280
+We are going to deploy one pay for fuel service.
+
+485
+22:55.920 --> 22:57.780
+There's gonna be safety services,
+
+486
+22:57.780 --> 23:00.840
+contextual automatic road and traffic information,
+
+487
+23:00.840 --> 23:04.440
+connected insurance, and automatic tolling services.
+
+488
+23:04.440 --> 23:09.440
+And if you are either working for a car company
+
+489
+23:11.700 --> 23:15.060
+and you're interested in getting more flexible services
+
+490
+23:15.060 --> 23:18.480
+onto your vehicles, please reach out.
+
+491
+23:18.480 --> 23:20.310
+If you're any service provider
+
+492
+23:20.310 --> 23:22.050
+that actually think it would be,
+
+493
+23:22.050 --> 23:26.220
+you would be able to build a great automotive service,
+
+494
+23:26.220 --> 23:28.140
+also, please reach out.
+
+495
+23:28.140 --> 23:32.130
+We will also be at the COVESA event at the Bellagio tonight
+
+496
+23:32.130 --> 23:37.130
+with HAAS Alert and Mavi, and yeah, that's it.
+
+497
+23:38.850 --> 23:39.810
+Thank you very much,
+
+498
+23:39.810 --> 23:43.380
+and I also would like to thank Connect2Car and COVESA
+
+499
+23:43.380 --> 23:46.410
+for letting us come here and pitch.
+
+500
+23:46.410 --> 23:47.410
+Thank you.
+
+501
+23:47.410 --> 23:50.850
+(audience applauds)
+
+502
+23:50.850 --> 23:54.600
+<v ->All right, thank you so much Niclas and AiDEN,</v>
+
+503
+23:54.600 --> 23:58.380
+making the roads better and making the roads safer.
+
+504
+23:58.380 --> 23:59.790
+Speaking of making the roads better,
+
+505
+23:59.790 --> 24:04.790
+now we're gonna call up Mavi.io and the CEO Cynthia Hollen.
+
+506
+24:04.950 --> 24:09.540
+She is about to tell you about OnMyWay Commerce
+
+507
+24:09.540 --> 24:12.600
+and the trailblazing in car commerce marketplace,
+
+508
+24:12.600 --> 24:17.340
+transforming the world's automotive, retail, and payments.
+
+509
+24:17.340 --> 24:20.949
+Give a nice another round of a hand for Cynthia, everybody.
+
+510
+24:20.949 --> 24:22.853
+(audience applauds)
+<v ->Thank you, thank you, Logan.</v>
+
+511
+24:26.730 --> 24:28.053
+Green is for clicking?
+
+512
+24:30.780 --> 24:32.030
+Oh, the big green button.
+
+513
+24:35.100 --> 24:37.560
+Hi everybody, thank you, my name is Cynthia,
+
+514
+24:37.560 --> 24:40.170
+and I think that what we're about to talk about
+
+515
+24:40.170 --> 24:42.810
+is a summary of a lot of what we've heard about
+
+516
+24:42.810 --> 24:45.390
+all throughout this day, because to me,
+
+517
+24:45.390 --> 24:48.330
+shopping and having your car do stuff for you
+
+518
+24:48.330 --> 24:51.510
+and get stuff done is the ultimate expression
+
+519
+24:51.510 --> 24:54.900
+of what we're all trying to get to with Connect2Car.
+
+520
+24:54.900 --> 24:59.130
+We are building in-car commerce to solve the problem
+
+521
+24:59.130 --> 25:01.740
+that you are now all saying to yourself
+
+522
+25:01.740 --> 25:02.970
+because you're used to being able
+
+523
+25:02.970 --> 25:04.770
+to get stuff done with your phone.
+
+524
+25:04.770 --> 25:07.410
+You're starting to see these awesome new applications
+
+525
+25:07.410 --> 25:09.990
+and great interfaces show up in your car
+
+526
+25:09.990 --> 25:11.707
+and every single one of you is now saying,
+
+527
+25:11.707 --> 25:12.690
+"Well, wait a minute,
+
+528
+25:12.690 --> 25:15.810
+how come my car can't do this thing for me?"
+
+529
+25:15.810 --> 25:19.230
+And the expectations that we have as consumers
+
+530
+25:19.230 --> 25:22.680
+from the rest of our world is quickly getting focused
+
+531
+25:22.680 --> 25:26.250
+on this unbelievably biggest interactive screen
+
+532
+25:26.250 --> 25:27.390
+in my household.
+
+533
+25:27.390 --> 25:28.920
+And we have understood
+
+534
+25:28.920 --> 25:31.860
+because we've been building e-commerce for 20 years
+
+535
+25:31.860 --> 25:33.420
+in different channels
+
+536
+25:33.420 --> 25:36.450
+that the right modality for the right use case
+
+537
+25:36.450 --> 25:38.130
+is the thing that makes consumers
+
+538
+25:38.130 --> 25:40.260
+be able to get more things done.
+
+539
+25:40.260 --> 25:43.830
+This great big giant electronic shopping cart on wheels,
+
+540
+25:43.830 --> 25:46.290
+as I said earlier, is the modality
+
+541
+25:46.290 --> 25:49.083
+that's allowing us to bring in-car commerce to you.
+
+542
+25:50.760 --> 25:54.270
+We know that consumers, when surveyed,
+
+543
+25:54.270 --> 25:56.317
+open-ended questions, when we ask them,
+
+544
+25:56.317 --> 25:59.400
+"What is it that you want to have your car do for you?"
+
+545
+25:59.400 --> 26:01.507
+Off the top of their head, they absolutely say,
+
+546
+26:01.507 --> 26:03.390
+"I wanna be able to pay for,
+
+547
+26:03.390 --> 26:05.820
+have my car figure out for me parking,
+
+548
+26:05.820 --> 26:08.490
+fuel, car washing, tolls."
+
+549
+26:08.490 --> 26:10.807
+More than 50% of them also say,
+
+550
+26:10.807 --> 26:14.250
+"I also want it to be able to get all of my erranding
+
+551
+26:14.250 --> 26:15.570
+and food and groceries
+
+552
+26:15.570 --> 26:18.120
+and other sorts of purchasing for me."
+
+553
+26:18.120 --> 26:19.740
+That's what we are focused on.
+
+554
+26:19.740 --> 26:23.400
+We're focused on the moms and the Uber drivers,
+
+555
+26:23.400 --> 26:25.717
+the professional drivers who all say,
+
+556
+26:25.717 --> 26:28.680
+"Please just make my life easier.
+
+557
+26:28.680 --> 26:31.680
+Make me not have to do math when I'm walking around.
+
+558
+26:31.680 --> 26:34.200
+Make me not have to get the kids out of the seatbelt
+
+559
+26:34.200 --> 26:35.033
+in the back.
+
+560
+26:35.033 --> 26:37.920
+Make this great big giant computer I have
+
+561
+26:37.920 --> 26:39.960
+do all of my work for me."
+
+562
+26:39.960 --> 26:43.620
+So we have invented OnMyWay Commerce
+
+563
+26:43.620 --> 26:46.290
+to take all of the math and take all of the thinking
+
+564
+26:46.290 --> 26:48.810
+and take all of that stuff that you're doing on the phone
+
+565
+26:48.810 --> 26:53.280
+in your lap at 90 miles an hour away and get back to safety
+
+566
+26:53.280 --> 26:55.530
+and let your car do the simple things.
+
+567
+26:55.530 --> 26:57.780
+Find something quickly that you need,
+
+568
+26:57.780 --> 26:59.010
+help you get it purchased,
+
+569
+26:59.010 --> 27:01.320
+help you do it while you stay focused
+
+570
+27:01.320 --> 27:03.180
+on being safe and driving your car.
+
+571
+27:03.180 --> 27:08.180
+OnMyWay Commerce is about on route curation.
+
+572
+27:08.347 --> 27:09.847
+"Hey Audi, I'm hungry."
+
+573
+27:09.847 --> 27:12.000
+"Okay, Cynthia, your favorite cheeseburger
+
+574
+27:12.000 --> 27:14.370
+can be ready for you in 10 minutes.
+
+575
+27:14.370 --> 27:15.870
+Nine minutes down the road,
+
+576
+27:15.870 --> 27:18.510
+should I order it for you with your in-car wallet
+
+577
+27:18.510 --> 27:20.850
+and have it ready for you when you get there?
+
+578
+27:20.850 --> 27:22.650
+I'll tell them when you're three minutes away
+
+579
+27:22.650 --> 27:24.600
+so they can start the french fries,
+
+580
+27:24.600 --> 27:26.520
+and I'll tell them when you've pulled into the parking lot
+
+581
+27:26.520 --> 27:28.050
+so they can bring it out to you."
+
+582
+27:28.050 --> 27:30.390
+So again, you can focus on what you're doing,
+
+583
+27:30.390 --> 27:33.270
+the screaming kids and focus on the car in the road.
+
+584
+27:33.270 --> 27:36.330
+Curating all of those transactions together
+
+585
+27:36.330 --> 27:37.830
+and putting it together with the wallet
+
+586
+27:37.830 --> 27:39.870
+that's already in the car,
+
+587
+27:39.870 --> 27:42.720
+doing what we call Persistent Order Status.
+
+588
+27:42.720 --> 27:45.570
+Nobody wants to get off the highway to go pick up an order
+
+589
+27:45.570 --> 27:47.700
+that might not be there, that you're not sure
+
+590
+27:47.700 --> 27:49.650
+that's the reason you're getting off the highway.
+
+591
+27:49.650 --> 27:52.200
+So pulling that entire experience together
+
+592
+27:52.200 --> 27:56.280
+is what makes OnMyWay Commerce meaningful to consumers.
+
+593
+27:56.280 --> 27:58.530
+We're working with some of the largest car brands
+
+594
+27:58.530 --> 28:01.980
+in the world and you can see some installations here.
+
+595
+28:01.980 --> 28:03.990
+This was the Lamborghini that we're,
+
+596
+28:03.990 --> 28:07.080
+should be launching any day now with Volkswagen.
+
+597
+28:07.080 --> 28:10.050
+We're launching with Jeep Dodge Chrysler, Ram Volkswagen,
+
+598
+28:10.050 --> 28:13.980
+BMW Mercedes, working with a lot of other OEMs as well,
+
+599
+28:13.980 --> 28:17.040
+and we need to be able to bring all of our retailers
+
+600
+28:17.040 --> 28:18.330
+to all car companies,
+
+601
+28:18.330 --> 28:19.950
+so please come up and talk to us
+
+602
+28:19.950 --> 28:23.130
+about how we can get our restaurants into your cars as well.
+
+603
+28:23.130 --> 28:25.680
+We're starting with the order and pickup payments.
+
+604
+28:25.680 --> 28:27.997
+We have had a lot of people come to us and say,
+
+605
+28:27.997 --> 28:29.940
+"But I can't charge my car
+
+606
+28:29.940 --> 28:31.800
+or pick a place that I'm gonna charge my car
+
+607
+28:31.800 --> 28:33.540
+if I don't know what I'm going to do
+
+608
+28:33.540 --> 28:35.760
+when I am charging my car,
+
+609
+28:35.760 --> 28:39.510
+so help me pick charging and a food and dining occasion
+
+610
+28:39.510 --> 28:40.740
+at the same time."
+
+611
+28:40.740 --> 28:41.573
+So we're pulling through
+
+612
+28:41.573 --> 28:45.150
+a lot of those other experiences as well.
+
+613
+28:45.150 --> 28:48.930
+Of course, the reason that this makes sense now, in 2025,
+
+614
+28:48.930 --> 28:50.580
+when it didn't four years ago,
+
+615
+28:50.580 --> 28:52.530
+the last time people tried this
+
+616
+28:52.530 --> 28:57.060
+is that stores were 2% capable of pre-order before pandemic.
+
+617
+28:57.060 --> 28:59.010
+They're now 98%.
+
+618
+28:59.010 --> 29:01.500
+Consumers who were early adopters
+
+619
+29:01.500 --> 29:03.750
+placing orders and deliveries in 2019,
+
+620
+29:03.750 --> 29:06.735
+now you're a barbarian, if you think of going in the store
+
+621
+29:06.735 --> 29:08.640
+and standing in line and waiting to pay
+
+622
+29:08.640 --> 29:09.960
+and then waiting for your food.
+
+623
+29:09.960 --> 29:11.310
+No one wants to do that.
+
+624
+29:11.310 --> 29:14.070
+And all the CPG companies, advertisers are all
+
+625
+29:14.070 --> 29:16.920
+looking for ways to reach their customers differently.
+
+626
+29:16.920 --> 29:17.790
+I told you we're working
+
+627
+29:17.790 --> 29:20.700
+with some of the best car brands in the world already.
+
+628
+29:20.700 --> 29:23.970
+We're launching with about 100,000 restaurant locations
+
+629
+29:23.970 --> 29:24.803
+and expect to do
+
+630
+29:24.803 --> 29:27.480
+about a million location transactions this year.
+
+631
+29:27.480 --> 29:29.490
+Of course, since we're at CES, gonna tell you,
+
+632
+29:29.490 --> 29:32.550
+we have AI throughout our application menu,
+
+633
+29:32.550 --> 29:35.310
+understanding, voice enabling of menus,
+
+634
+29:35.310 --> 29:38.040
+how we process the orders through personalization,
+
+635
+29:38.040 --> 29:41.910
+et cetera, and we'd love to work with you.
+
+636
+29:41.910 --> 29:42.743
+Thank you.
+
+637
+29:43.688 --> 29:46.688
+(audience applauds)
+
+638
+29:47.760 --> 29:50.640
+<v ->Thank you so much, Cynthia, absolutely amazing.</v>
+
+639
+29:50.640 --> 29:54.150
+I know as a chubby kid, getting food on the way home
+
+640
+29:54.150 --> 29:57.870
+is definitely something I looked forward to every day.
+
+641
+29:57.870 --> 29:59.520
+Now we're gonna keep it rolling at the last,
+
+642
+29:59.520 --> 30:01.290
+but definitely not the least.
+
+643
+30:01.290 --> 30:03.390
+We now have Aditi Desai with Voltpost.
+
+644
+30:03.390 --> 30:06.300
+Voltpost is democratizing charging access.
+
+645
+30:06.300 --> 30:08.790
+Volpost retrofits lampposts
+
+646
+30:08.790 --> 30:12.660
+into modular electric vehicle charging platforms.
+
+647
+30:12.660 --> 30:15.270
+Please give her a round of applause everybody.
+
+648
+30:15.270 --> 30:18.270
+(audience applauds)
+
+649
+30:20.490 --> 30:23.280
+<v ->Hi everyone, how's it going?</v>
+
+650
+30:23.280 --> 30:25.020
+Thanks Logan for the warm introduction.
+
+651
+30:25.020 --> 30:27.990
+As Logan mentioned, I am our Director of Partnerships
+
+652
+30:27.990 --> 30:30.330
+and a founding team member at Voltpost.
+
+653
+30:30.330 --> 30:33.180
+We founded Voltpost with the mission to decarbonize mobility
+
+654
+30:33.180 --> 30:36.360
+by democratizing electric vehicle charging access,
+
+655
+30:36.360 --> 30:37.350
+and we plan on doing that
+
+656
+30:37.350 --> 30:41.460
+by making charging as ubiquitous as lampposts.
+
+657
+30:41.460 --> 30:42.480
+So the problem statement here,
+
+658
+30:42.480 --> 30:44.010
+I'm sure you're all very well aware of,
+
+659
+30:44.010 --> 30:46.680
+which is that the top EV adoption barrier for drivers
+
+660
+30:46.680 --> 30:49.590
+is a lack of convenient and accessible charging.
+
+661
+30:49.590 --> 30:52.050
+There are just 2% of cars on the road today in the US
+
+662
+30:52.050 --> 30:52.883
+that are electric,
+
+663
+30:52.883 --> 30:54.840
+but that number's increasing year over year
+
+664
+30:54.840 --> 30:59.840
+with new car sale, new EV sales being 9% just last year.
+
+665
+31:00.450 --> 31:02.670
+And with different climate targets,
+
+666
+31:02.670 --> 31:05.730
+it's very clear that we need to decarbonize quickly.
+
+667
+31:05.730 --> 31:07.140
+But there's a particular challenge,
+
+668
+31:07.140 --> 31:08.910
+especially in urban environments
+
+669
+31:08.910 --> 31:13.910
+where city drivers don't have a dedicated charging at home.
+
+670
+31:14.220 --> 31:15.960
+They're not able to charge in their garage.
+
+671
+31:15.960 --> 31:17.790
+And as you can see here in the picture of the left
+
+672
+31:17.790 --> 31:19.830
+of somebody charging from the second floor
+
+673
+31:19.830 --> 31:21.270
+of their Brooklyn brownstone in New York,
+
+674
+31:21.270 --> 31:22.860
+which I will say is a site
+
+675
+31:22.860 --> 31:25.290
+that you see more often than you would expect,
+
+676
+31:25.290 --> 31:26.610
+it's clear that charging
+
+677
+31:26.610 --> 31:28.260
+is currently scarce and inconvenient,
+
+678
+31:28.260 --> 31:29.880
+and so we're building the best solution
+
+679
+31:29.880 --> 31:31.413
+to meet those drivers' needs.
+
+680
+31:32.580 --> 31:34.650
+At Voltpost, we're retrofitting lampposts
+
+681
+31:34.650 --> 31:37.590
+into a modular electric vehicle charging platform.
+
+682
+31:37.590 --> 31:39.510
+By retrofitting the existing infrastructure,
+
+683
+31:39.510 --> 31:41.640
+we're able to cut down on the cost, timing,
+
+684
+31:41.640 --> 31:44.550
+and footprint of charger installation because we get rid
+
+685
+31:44.550 --> 31:48.180
+of that timely and costly construction and trenching.
+
+686
+31:48.180 --> 31:50.880
+Our modular design maximizes the chargers uptime
+
+687
+31:50.880 --> 31:53.823
+while keeping the O and M expenses as low as possible.
+
+688
+31:54.960 --> 31:58.680
+Our charging hardware has LED feedback, uses a smart meter,
+
+689
+31:58.680 --> 32:00.990
+and has an integrated cable management system.
+
+690
+32:00.990 --> 32:02.490
+So typically a lot of charging stations
+
+691
+32:02.490 --> 32:04.350
+will have the cable out and exposed,
+
+692
+32:04.350 --> 32:08.160
+which makes it vulnerable to vandalism, inclement weather.
+
+693
+32:08.160 --> 32:10.770
+It's also a trip hazard for drivers, bikers,
+
+694
+32:10.770 --> 32:13.680
+and pedestrians, and so inside of our charging module,
+
+695
+32:13.680 --> 32:15.210
+we have about 20 feet of cable,
+
+696
+32:15.210 --> 32:16.200
+where at the press of a button,
+
+697
+32:16.200 --> 32:17.850
+you can pull out as much cable as you need,
+
+698
+32:17.850 --> 32:19.320
+plug, put it into your car,
+
+699
+32:19.320 --> 32:21.090
+unplug, stick it back into the module,
+
+700
+32:21.090 --> 32:23.430
+and it sucks it in like a vacuum.
+
+701
+32:23.430 --> 32:24.600
+On the software side of things,
+
+702
+32:24.600 --> 32:26.010
+we have a custom mobile application
+
+703
+32:26.010 --> 32:28.770
+where you can surface Voltpost on a map,
+
+704
+32:28.770 --> 32:30.750
+manage the end-to-end charging session.
+
+705
+32:30.750 --> 32:33.330
+We're also pursuing an open charging distribution strategy
+
+706
+32:33.330 --> 32:36.870
+so that you can surface Voltpost on partner apps and maps,
+
+707
+32:36.870 --> 32:39.000
+and we have a dashboard on the backend
+
+708
+32:39.000 --> 32:41.520
+that can be used to track charging utilization data
+
+709
+32:41.520 --> 32:42.480
+and other insights
+
+710
+32:42.480 --> 32:45.333
+to benchmark and forecast future charging need.
+
+711
+32:47.250 --> 32:48.960
+One of the benefits of our modularity
+
+712
+32:48.960 --> 32:50.310
+is being able to future proof
+
+713
+32:50.310 --> 32:52.140
+and upgrade the product over time.
+
+714
+32:52.140 --> 32:54.720
+We see charging as an entry point to what is ultimately
+
+715
+32:54.720 --> 32:56.940
+an intelligent infrastructure platform
+
+716
+32:56.940 --> 32:58.950
+that goes beyond just our current offering,
+
+717
+32:58.950 --> 33:01.650
+which is the charging hardware, the software, the data,
+
+718
+33:01.650 --> 33:02.700
+and the O and M,
+
+719
+33:02.700 --> 33:04.530
+but we're exploring different sorts of verticals,
+
+720
+33:04.530 --> 33:06.000
+so think connectivity, right,
+
+721
+33:06.000 --> 33:09.270
+integrating things like 5G and Wi-Fi into the modules.
+
+722
+33:09.270 --> 33:11.730
+Just last year we announced a partnership with AT&amp;T
+
+723
+33:11.730 --> 33:12.900
+to do just that.
+
+724
+33:12.900 --> 33:14.760
+We're also looking at integrating things like sensors
+
+725
+33:14.760 --> 33:17.310
+related to air quality, curb management,
+
+726
+33:17.310 --> 33:20.250
+thinking about how can a network of chargers
+
+727
+33:20.250 --> 33:22.620
+be used as a distributed energy resource
+
+728
+33:22.620 --> 33:25.110
+in the case of, you know, grid outages,
+
+729
+33:25.110 --> 33:27.930
+and also looking at more traditional media
+
+730
+33:27.930 --> 33:30.063
+and advertisement verticals as well.
+
+731
+33:31.170 --> 33:32.730
+In terms of the traction of the company,
+
+732
+33:32.730 --> 33:35.610
+so we've done a couple of pilot projects in New York City
+
+733
+33:35.610 --> 33:37.470
+with the Department of Transportation there,
+
+734
+33:37.470 --> 33:40.440
+as well as Detroit through the state of Michigan.
+
+735
+33:40.440 --> 33:42.270
+And starting in just a few weeks,
+
+736
+33:42.270 --> 33:44.460
+we're gearing up to deploy the commercial product.
+
+737
+33:44.460 --> 33:47.610
+We have projects in New York, Michigan, California,
+
+738
+33:47.610 --> 33:49.860
+Illinois, Massachusetts, and Connecticut
+
+739
+33:49.860 --> 33:51.753
+with the public and private sector.
+
+740
+33:53.610 --> 33:55.200
+Voltpost was founded in 2021.
+
+741
+33:55.200 --> 33:57.270
+We're headquartered in New York, but our team is split up
+
+742
+33:57.270 --> 33:59.010
+between New York and San Francisco.
+
+743
+33:59.010 --> 34:01.470
+The founding team is former Samsung and Barclays
+
+744
+34:01.470 --> 34:02.760
+and has extensive experience
+
+745
+34:02.760 --> 34:05.040
+of bringing products from concept to commercialization
+
+746
+34:05.040 --> 34:08.310
+with over 50 patents under the team's belt collectively.
+
+747
+34:08.310 --> 34:10.140
+Some of our investors include RWE,
+
+748
+34:10.140 --> 34:12.720
+which is the largest German utility, as well as Exelon,
+
+749
+34:12.720 --> 34:14.691
+which is the largest utility here in the US,
+
+750
+34:14.691 --> 34:19.683
+alongside other mission aligned climate tech VCs.
+
+751
+34:21.060 --> 34:23.640
+We have a scalable hardware as a service business model
+
+752
+34:23.640 --> 34:25.800
+where we own and operate our charging network
+
+753
+34:25.800 --> 34:27.600
+and lease a turnkey offering,
+
+754
+34:27.600 --> 34:29.940
+which includes a charging hardware, the software,
+
+755
+34:29.940 --> 34:31.800
+the data, and the O and M.
+
+756
+34:31.800 --> 34:33.360
+Under our model, we're able to apply
+
+757
+34:33.360 --> 34:36.090
+different types of grants and non-diluted funding
+
+758
+34:36.090 --> 34:38.400
+to offset the project cost for the customer,
+
+759
+34:38.400 --> 34:41.283
+and we view electricity as a pass through to the utility.
+
+760
+34:43.050 --> 34:44.250
+Ultimately, we're building this out
+
+761
+34:44.250 --> 34:45.630
+as a mission driven company
+
+762
+34:45.630 --> 34:48.180
+with the goal of increasing public charging access
+
+763
+34:48.180 --> 34:50.700
+so that we can reduce carbon and air pollution.
+
+764
+34:50.700 --> 34:51.870
+We wanna put these chargers up
+
+765
+34:51.870 --> 34:53.520
+in communities that need them most,
+
+766
+34:53.520 --> 34:54.600
+and are especially excited
+
+767
+34:54.600 --> 34:56.553
+about the Green Workforce opportunity.
+
+768
+34:58.500 --> 35:01.170
+Our company was born in America and built coast to coast,
+
+769
+35:01.170 --> 35:02.190
+and we welcome you
+
+770
+35:02.190 --> 35:05.130
+to transform lampposts into Voltposts with us.
+
+771
+35:05.130 --> 35:08.340
+I will be at the COVESA networking reception later today
+
+772
+35:08.340 --> 35:09.210
+and would love to connect
+
+773
+35:09.210 --> 35:11.880
+if you're interested about learning more about Voltpost.
+
+774
+35:11.880 --> 35:12.813
+Thank you.
+
+775
+35:13.685 --> 35:16.685
+(audience applauds)
+
+776
+35:18.090 --> 35:19.800
+<v ->All right, thank you so much Aditi</v>
+
+777
+35:19.800 --> 35:22.230
+for closing us out here.
+
+778
+35:22.230 --> 35:24.990
+I do just want to take one moment to let everybody know
+
+779
+35:24.990 --> 35:27.300
+that we don't want the conversations to stop here.
+
+780
+35:27.300 --> 35:29.850
+We want to continue to grow with everybody in this room,
+
+781
+35:29.850 --> 35:32.070
+and we would love to open up these different conversations.
+
+782
+35:32.070 --> 35:33.900
+As each one of them mentioned,
+
+783
+35:33.900 --> 35:36.840
+we will all be at COVESA later tonight at the Bellagio.
+
+784
+35:36.840 --> 35:38.760
+We invite you all to come and join us.
+
+785
+35:38.760 --> 35:41.850
+It's gonna be all the way back in the convention center.
+
+786
+35:41.850 --> 35:43.470
+If you guys haven't already signed up,
+
+787
+35:43.470 --> 35:44.760
+please come and find us after.
+
+788
+35:44.760 --> 35:47.940
+We will gladly get you guys registered.
+
+789
+35:47.940 --> 35:50.010
+I want to give one more round of applause everybody
+
+790
+35:50.010 --> 35:50.850
+for the presenters,
+
+791
+35:50.850 --> 35:54.750
+as well as Chris Cook and the Connect2Car team.
+
+792
+35:54.750 --> 35:56.250
+Thank you all so much for being here
+
+793
+35:56.250 --> 35:59.790
+and I will turn it over to Chris to close you guys out.
+
+794
+35:59.790 --> 36:01.042
+Thank you.
+
+795
+36:01.042 --> 36:04.042
+(audience applauds)
+
+796
+36:14.910 --> 36:16.317
+I don't know where Chris is.
+
+797
+36:16.317 --> 36:18.660
+There he is, he's on his way up.
+
+798
+36:18.660 --> 36:21.163
+But one more time, thank you all so much.
+
+799
+36:22.899 --> 36:24.643
+<v ->Yeah, and I don't need to step up there to say goodbye.</v>
+
+800
+36:24.643 --> 36:25.740
+I think everybody can hear me
+
+801
+36:25.740 --> 36:27.390
+from pretty much anywhere I am.
+
+802
+36:27.390 --> 36:30.060
+I appreciate everybody hanging out with us
+
+803
+36:30.060 --> 36:31.560
+for the day for Connect2Car.
+
+804
+36:31.560 --> 36:34.380
+Logan, thank you so much for everything that you do
+
+805
+36:34.380 --> 36:37.023
+and I look forward to you being back next year.
+
+806
+36:37.890 --> 36:39.780
+All right, good.
+
+807
+36:39.780 --> 36:41.610
+And like the format too,
+
+808
+36:41.610 --> 36:44.550
+so I appreciate all of you taking the time.
+
+809
+36:44.550 --> 36:49.260
+The videos for these will be up on connect2car.tech,
+
+810
+36:49.260 --> 36:52.140
+usually in a week or two when we get 'em from CES.
+
+811
+36:52.140 --> 36:54.210
+The first presentation of the day,
+
+812
+36:54.210 --> 36:58.803
+Steve, when he did the, I say keynote lightly,
+
+813
+36:59.700 --> 37:02.280
+he will, that presentation's already up on the website,
+
+814
+37:02.280 --> 37:04.740
+so if you wanna download that, that's there for you.
+
+815
+37:04.740 --> 37:07.890
+Have a great safe CES and enjoy your trip back home
+
+816
+37:07.890 --> 37:10.650
+when you get a chance to, spend some time with your family,
+
+817
+37:10.650 --> 37:13.600
+and thank them for letting you stay out for a little while.
+
+818
+37:14.486 --> 37:19.486
+(audience applauds)
+(upbeat music)
+

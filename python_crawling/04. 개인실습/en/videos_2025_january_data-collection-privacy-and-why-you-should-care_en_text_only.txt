@@ -1,0 +1,979 @@
+<v ->Who has on day one?</v>
+Who's day one today? Anybody?
+Day one people? Day two?
+Day one, day one, okay.
+Yeah, yeah. Day two?
+Got a few. Any day threes?
+Yeah, there we go. Day fours?
+Wow. Right on. Day five?
+Any other media? Yep. Yep.
+I started on Sunday at one o'clock.
+Yeah, great to see you all. Absolutely.
+Yeah, day five for me.
+Very glad to see y'all.
+I've been planning out how to stay awake and energized
+through Thursday and Friday since December 1st.
+Very good to see y'all.
+We've got about 14 hours of recording in on my channel.
+I'm Dr. Doreen Galli, Chief of Research at TBW Advisors.
+That's Technical Business Whispers.
+The answer is always in the whispers.
+And we've been working on our conference whispers, CES 2025,
+and we can't wait to get it out.
+But in the meantime, I wanna ask you if you have a phone,
+'cause I want you to pick it up and first put it on mute,
+and second, do me a huge favor.
+Go to YouTube and please subscribe to my channel.
+Seriously, I'm like 34 away from getting paid for ads.
+So do me a favor,
+and if anyone hits the 1,000th subscriber in the room,
+please scream so we can celebrate.
+I think we got enough people in here to make that happen.
+So TBW Advisors, Technical Business Whispers.
+I got over 14 hours complete plus releases,
+complete shows from Unveiled and so on,
+so really appreciate it.
+And if anyone is the 1,000th subscriber,
+please shout out loud so we can celebrate.
+So a little bit about me.
+I solve really, really tough problems.
+If it's a problem 14 people have failed before at it,
+I raise my hand.
+If it's something that they consider impossible
+and it's been difficult,
+but it has to get done for the business,
+that's when they called Doreen.
+So outside of getting most of the.com on,
+the companies during the .com era,
+I digitally transformed Dell Manufacturing
+and about 1,100 other companies since then as an analyst.
+I integrated eight acquisitions for Deutsche Post World Net,
+and was a Fortune 10 officer before the age of 40.
+Most recent problem I got called in to solve
+was on a sabbatical at Microsoft
+where I was designing the next generation of Azure,
+including installing a data boundary.
+For those of you not familiar,
+Azure used to have paired regions.
+That meant they explicitly were moving data
+from one region to another for resiliency,
+and they were also very transparent.
+So it wasn't just customer data,
+but all the log and metadata,
+and they told the whole world
+where all of those dittle related datas.
+And so, because of that,
+the architecture had to accommodate it all as well.
+Tons of fun.
+But today, we're here to talk about data collection,
+privacy, and why you should care.
+And lemme tell you, I have the most amazing panel,
+and they don't always agree.
+So we're gonna have a great session.
+So without further ado, I'll take my seat,
+and I would love my panelists to introduce themselves.
+<v ->Hi, everyone.</v>
+I'm Kate Barecchia.
+I'm Deputy General Counsel
+and Global Data Privacy Officer at Imperva.
+At Imperva, we focus on cybersecurity,
+and we're sort of invisibly in front
+of a lot of the websites and data that you use today.
+I'm really excited that all of you are here today.
+So thank you so much for joining us.
+I'm happy to have three certifications in data privacy
+from the International Association of Privacy Professionals,
+and I'm also a fellow of information privacy from the IAPP.
+My background is in engineering,
+and I find that that enables me to serve as a good bridge
+between sometimes the complicated regulatory schemes we have
+and the technical know-how that it takes
+to build products and solutions
+that comply with those regulations.
+Over the past few years, I've built two privacy programs
+for global compliance from scratch,
+and I'm really excited to share today
+some of the pain points and other things
+I've learned along the way.
+<v ->All right. Thank you very much, Doreen,</v>
+for bringing me onto this panel,
+and I'm very happy to be
+amongst these illustrious colleagues of mine.
+My name is Olaf Groth,
+I'm the CEO of Cambrian Futures,
+which is an analyst think tank,
+as it were, on the intersections of emerging tech,
+business strategy and policy.
+I also am the CEO of Cambrian Labs,
+which has invented the Bouncer Bot
+privacy inclusive data access agent.
+I'll be talking about that concept here today.
+And I'm a professional faculty member,
+a professor of practice,
+or professor of industry, as they say,
+at UC Berkeley School of Business, UT Malaysia,
+and Halt International Business School.
+Coming to this conversation
+after about 28 years in the private sector,
+mostly large technology companies.
+It's a pleasure to be here.
+<v ->Awesome.</v>
+Hi, folks. My name's Shannon Murphy.
+I'm a security and risk strategist
+at a very large cybersecurity platform vendor.
+It's called Trend Micro.
+And I spend most of my time with CIOs
+and CISOs in the Fortune 500, but also the mid-market,
+working on a couple different things.
+The first is managing
+these different infrastructure shifts and pressures
+that get put onto an organization
+when we're looking at things like the AI transformation
+or digital transformation.
+And then secondly, helping architect technology stacks
+that actually help put them one step ahead of the bad guys.
+Today, I'm gonna give a slightly different perspective
+on the panel, I think,
+kind of exposing more what's happening
+when it comes to illegitimate data collection.
+And in fact, there's a better word for that, it's theft.
+And how does that happen for individuals
+and also at the enterprise level.
+So thanks so much.
+<v ->Excellent.</v>
+I told you we had quite a panel, didn't I?
+Let's give them a hand.
+Woo! It's gonna be a great session.
+Excellent.
+So we're ready to dive into the first topic,
+data collection,
+and we'll have Olaf and Shannon kick it off,
+and then Kate will come in
+as to why too much data is not good.
+So what are legitimate uses,
+what's being collected, and why?
+<v ->Well, look, let's all be honest.</v>
+We all enjoy the convenience
+and the services that the digital platforms are offering us,
+and in fact, offering us at cheaper price points
+that we could otherwise obtain.
+And so, using data on a website to make the website better,
+to let's say serve up better articles,
+or to contribute to public health,
+just think about the pandemic we just lived through,
+whatever your convictions are on vaccines,
+it's always good to have information
+on where the pandemic is flaring up,
+so you can make a choice about how to expose yourself.
+So certain amounts of data sharing,
+whether it's on a digital service provider website,
+on a news website, to make that website better,
+make it more focused on you and what you want and need
+are legitimate.
+But you have to start asking yourself,
+well, what kind of data is being collected?
+I can tell you that I had a student once
+who was being interviewed
+to work at a streaming music company and he said,
+"Professor, they did a data dump on me as a case study
+and said, 'Here's everything we know about
+one of our streaming music customers.
+Go make money with that,
+tell us how to make money with that.'"
+He said, "Professor, 80% of that data
+had nothing to do with music tastes."
+And so, you have to ask yourself
+what kind of data is actually being collected, why,
+and what happens to that data?
+Which gets us to the second point,
+which is, a lot of that data gets sold,
+and it gets sold to third parties
+and you have no idea that that is happening,
+and that is where the buck stops.
+We definitely need to make sure that we understand
+where's that data going,
+why are we not getting any say in where that data is going,
+and on what terms?
+What part of that data is actually really confidential
+and should be captured by privacy regulations,
+or by privacy solutions
+like our privacy-inclusive data access agent?
+And so, there's a whole industry out there
+that is collecting data on you, and that goes way beyond
+paying for the services on a website.
+<v ->For sure.</v>
+And I think ultimately what we all need to understand is,
+nobody's collecting data for free, for no reason.
+And it's kind of such an old phrase,
+but it's like, if you are getting something for free,
+then you're the product, right?
+And this is really something to think about
+when you are looking at, well, what kinds of data
+are being collected and why?
+Sometimes there are super legitimate uses
+and we can have better experiences
+because that data's being collected.
+If you do use something like an identity protection
+app on your phone, this will help flag
+what data is being collected by that website.
+So for example, sometimes it makes a ton of sense.
+If you're on Target or some kind of retail site,
+it'll flag, this website is known
+for collecting financial information,
+and you're kind of like, duh.
+But it would surprise you how often you go to a website,
+and if you are using an application like this
+where it will raise the flag
+that this is known for collecting health information,
+financial information, things that are unnecessary.
+News sites are known for doing this in particular as well.
+So these are the types of tools
+that I think can actually help you
+be a little bit more informed
+when you aren't necessarily going to the effort
+of reading through all of the policy,
+or if you want access to that thing
+so you're giving the data over for convenience.
+These types of tools can help
+be a little bit of a trip wire for you,
+so that you're part of that decision making process
+and it's not necessarily just happening.
+<v ->Great points.</v>
+And why is too much data not good, Kate?
+<v ->I think there are a few answers to that question.</v>
+But before we get there,
+I'd like to pivot back to something Shannon said,
+which is making a choice.
+So all of us in this room are consumers,
+but many of us in this room
+may also be the deciders for our businesses
+about what data our applications or websites are collecting.
+And I think an often overlooked point
+in the data conversation is how strong privacy practices
+can be a really good reputation builder for your brand.
+And I think it is important to distinguish
+between privacy and security,
+because sometimes those two concepts
+get conflated with each other.
+So a definition I heard many, many years ago
+as a baby lawyer was that privacy is the concept of deciding
+who are the appropriate people to have access to data.
+So if I write Olaf an email, he and I should have access.
+That's the privacy decision.
+Security is preventing anyone
+who has not been decided as the right audience
+from having access to that email.
+So, Shannon, stay out of our business.
+But so, in the market there are always competing interests,
+and I try to take a pragmatic approach
+because the business needs data to do business.
+But whenever a colleague,
+and most commonly this comes up in the marketing context
+more than anywhere else.
+Whenever a colleague says,
+"We wanna collect these five points of data," I say, okay,
+well let's talk about, number one,
+what's the business need for that?
+What is your actual documented business need?
+Because no one will ever get
+global privacy compliance perfect,
+but you want to build a defensible plan.
+So what's your story?
+Why did you collect this data?
+So we document that.
+And then the second big question I ask is,
+okay, if a consumer or your prospect or customer
+didn't realize you were collecting that
+and they found out you collected it,
+because it made the news or whatever,
+how does that look for you?
+Is that a good look for our brand?
+Does it end up hurting our business in the end?
+And if the answer is yes, let's have a conversation
+about is there an alternative, less invasive piece of data
+that we could use to meet the same business purpose?
+Is that really a business model we want to pursue?
+And if it is, let's just make sure everyone
+understands the risks and we buy in and that's where we are,
+and we're transparent with the consumers
+or our customers who may not be consumers,
+we may be in the middle, about what we're doing and why.
+<v ->If I may, I wanna come back to</v>
+two important things you just said.
+Number one, it's a matter of choice.
+I'll come back around to that, consumer choice,
+but also the choice of a corporate
+information security officer
+or a corporate chief digital officer
+in order to protect privacy and protect security as well.
+Because the two, and this is the second thing you said,
+are conflated, right?
+When you're going beyond the firewall,
+security is privacy, right?
+So take the example of three employees
+in any one of your companies.
+Let's say somebody who is in the legal department
+doing patent research, Maria.
+She's researching patent on a new product release.
+Then there is an engineer
+who is researching on stackoverflow.com,
+let's call him Joe,
+who is looking at existing fragments of code
+that could be used for the new product.
+And then there is, let's say Jane,
+who is helping the chief marketing officer
+research for the product release
+in about another week or two.
+When you conflate the three and you triangulate the three,
+you might actually find out
+what kind of product is being released
+next week or the week after
+without ever hacking beyond the firewall.
+Now, imagine you're doing that for 30 people, 300 people,
+3,000 people and so on and so forth in a corporation.
+Pretty soon, if competitive intelligence is your aim,
+you don't actually have to hack behind the firewall
+or deploy many manual analysts
+to track what you're seeing out there.
+You can actually do this within a split second.
+That is why security and privacy
+are actually conflated from a CISOs or a CDOs perspective.
+Why is that not being a big deal right now,
+or being made into a bigger deal?
+Is because CISOs are having a hard time
+justifying the expenditure,
+given all of the attacks that are coming at us
+and the perceived lack of protection.
+And so, they're not focusing beyond the firewall,
+even though that is the frontier of cybersecurity.
+It's coming, and you have to look at it.
+<v ->Great perspective, great perspective.</v>
+Before we head into privacy,
+I think we should ask y'all some questions.
+So how many in here have read
+the terms and conditions for a privacy notice?
+I think Apple just updated their iCloud terms today.
+Completely?
+A few. Okay.
+How many of you have had a private conversation
+and had an ad for something show up
+related to the private conversation?
+Yeah, we know that.
+And how many of you know somebody
+that have experienced identity theft?
+And how many of you have been notified
+that your data has been compromised by a business?
+Just bought every one of them.
+One out of three Americans did with AT&amp;T's breach alone.
+So yeah, we're in real bad shape, at least in this country.
+And how many of you feel you know
+how to manage your privacy settings?
+A few.
+<v ->I'll say no.</v>
+It's my area of expertise.
+<v ->Excellent.</v>
+So let's head into privacy.
+Kate, would you like to go into the different approaches
+from a regulatory perspective?
+<v ->Sure.</v>
+So for my benefit, it looks like we have a pretty good
+multinational audience here.
+So I always joke, I am obviously an American
+and I work in the US.
+We have a French owned parent company.
+But for many, many years I joked that I spent all my days
+enforcing privacy rights I don't have.
+I'm very fortunate to work at a place
+where we believe privacy is a fundamental human right.
+So at Imperva, we made the decision many years ago
+that even though it might cost more, we would apply GDPR,
+so Europe's General Data Protection Regulation,
+as a single global privacy standard.
+And in the end what that does
+is it gives our employees an even playing field,
+because they know every day
+what they have to do with the data.
+It doesn't matter if the person's data
+is from Latin America, if it's from Europe,
+if it's from Canada, it can be from anywhere.
+One standard, one size fits all.
+In Europe for a long time, even before GDPR,
+individuals had the right to request access to their data,
+correction, deletion.
+In Europe, marketing is still largely governed
+by national laws.
+So there's no one size fits all.
+But consent in most countries is required.
+There's still a small minority of countries
+where you can target based on job function for work.
+But the biggest difference I see, and this sort of relates
+to what Olaf was saying beyond the firewall,
+is the required disclosures around the use of cookies
+and other tracking technologies on websites.
+So last week, I was in Dublin on a family vacation
+and I was like, oh, this is great,
+I get all these rights again,
+and I'm mercilessly declining all the cookies.
+Like spend time to notice? Why, yes I will.
+But when I got back home, I lost all those rights again.
+So I reside in Pennsylvania.
+Many companies have really decided to narrowly tailor
+their consent notices based on IP address.
+There is a danger in that from pragmatic purposes
+for users on VPNs.
+You don't really know where I am.
+So in fact, if you take the risk-based approach
+of using an IP address, in the majority of time,
+you may actually be wrongly assorting the risk.
+So around the world, different governments
+have applied different privacy standards,
+and in fact, it's a little bit of a tool of trade war.
+So what you'll see is countries
+start tightening their privacy laws
+when they're really angry about something else,
+because privacy compliance is like a tax.
+So if you think about it that way,
+you wanna pay the right amount of tax, no more, no less.
+My analysis is that if you apply GDPR,
+you're paying the right amount of tax,
+'cause it fits every country in the world,
+but three with data localization requirements.
+So it's a pretty efficient model to use.
+In the United States,
+I think it'll be a state by state analysis
+for quite a while,
+and it'll probably remain industry focused.
+Canada is not, I don't anticipate them passing
+a Canadian uniform privacy law in the near future.
+It's been pending for a little while.
+So we'll continue to see that in the market, I think.
+<v ->Excellent.</v>
+Yeah, I agree, the GDPR approach globally.
+It's better to, once you find
+whatever the toughest standard is,
+you pick that standard enterprise wide.
+It's the easiest for your data engineers as well.
+Absolutely.
+<v ->I have to object on that one,</v>
+and we have to have a little fun tension here on the panel,
+because I do think that as much as,
+look, I was born and raised in Europe,
+I do appreciate European Union
+sort of putting a stake in the ground,
+because the other side of the Atlantic
+is obviously very laissez-faire about data,
+and I think we have seen some fallout
+and will see more fallout.
+But there is a middle ground between
+the extremely restrictive view that GPR promulgates,
+which frankly has hurt Europe tremendously
+in terms of data entrepreneurship
+and digital entrepreneurship, and the very laissez-faire
+individual-dignity-disrespecting US approach.
+And frankly, I think we need to look at the middle ground.
+If you just want to be a Che Guevara of data
+and say no more, no more, that's one way to go.
+That's the approach of the VPNs of this world,
+the ad blockers, the privacy browsers, et cetera.
+<v ->The Germans.</v>
+<v ->The Germans, right? Very bad.</v>
+And I will tell you,
+as a German immigrant to the United States,
+I have said this in public media in Germany,
+I think Germany is gonna die an analog death
+if it does not manage to have a more reasonable approach
+on privacy assured data use.
+And I do think that there's room for solutions,
+because privacy is not a one-size-fits-all kind of problem.
+I mean, if I were to ask you.
+Here, let me just ask you.
+Who here minds sharing their GPS footprint
+with data service providers?
+Who here has a problem with that?
+Who here does not have a problem with that?
+So the ones that have a problem with that
+are maybe in the majority,
+but there is a bunch of people in the room that don't mind.
+I don't mind. I have nothing to hide.
+But if I was a woman.
+<v ->It's not about having nothing to hide though.</v>
+<v ->Well, but see that's the thing.</v>
+But we should have data agency where we determine,
+we have a say in what kind of data we wanna give away.
+Now, every government has the right on a community level
+to determine, hey, what's a complete out of bound area?
+So the regulation is important.
+But for the government to say
+you must not share anything and nothing should be used
+shuts off the evolution of the digital economy.
+We have developed a solution,
+and other people have as well,
+that allows you to have an individual privacy charter
+that's nestled within the national law,
+or a corporate confidentiality charter,
+that will allow you to determine what types of data
+do I want completely to be off record,
+and then what types of data do I wanna give away
+because I recognize it's good for me and my services,
+and what kind of data do I wanna sell?
+So that then opens up all kinds of opportunity
+for data trading that is privacy assured
+and dignity assured.
+We want to give agency
+and not a heavy hand shutting everything.
+<v ->But from a system design, you need to have the system</v>
+able and ready to execute
+anything a government suddenly decides it's gonna do.
+<v ->That's true.</v>
+<v ->And so,</v>
+from a design perspective,
+you design it with the capabilities,
+and then it can always do something different.
+But we found, for example,
+I mean, try having a data boundary when you're Qatar,
+or Qatar, however you want to enunciate it.
+But it's a small location.
+If there's a catastrophe,
+the whole location could be at risk
+for power and everything else.
+So how do you get resiliency?
+<v ->You also have to think of the fact--</v>
+<v ->They needed to find another government they trusted</v>
+and say, okay, not just my country,
+but this country's okay as well.
+So even with the data boundary, what we were seeing is,
+they were saying, "Well, we understand the resiliency issue.
+We'll say this country's okay."
+So they were actually changing the regulations
+to practicality as a point of information.
+<v ->I think a major concern for this as well is,</v>
+when you start opting into selling your data
+and that data is used in a future breach
+or to build a bigger story on your identity,
+is it now your fault because you participated in that sale?
+And I think that we start to get into
+really dicey territory.
+<v ->Absolutely, and I fully agree.</v>
+That's why we need a privacy-assured data market design.
+We don't have a transparent data market.
+It's all backroom dealing between cloaked entities,
+and that's primarily the big platforms,
+data brokers, advertising networks,
+all dealing with each other without any transparency.
+I have no idea where my data footprint is going.
+And you're absolutely right,
+somebody could be combining data from over here
+with something from over there and form an identity on me.
+<v ->They absolutely are.</v>
+<v ->Yeah, they absolutely already.</v>
+<v ->Probably incorrectly.</v>
+<v ->That's right, and that may be even worse.</v>
+But you should have that regulated.
+<v ->I'm a 65-year-old white, gay male,</v>
+according to my profile, based on the ads presented to me.
+<v ->That's right.</v>
+But you should have transparency around that.
+Why is that not a regulated market?
+Why are there no agents?
+Why is there no structure around that market?
+Why do we leave it to the big digital service providers
+to harness that data and just trade it at will?
+That's what's wrong.
+<v ->And we know legitimate uses.</v>
+In my coverage at FinTech Meetup,
+there was a case to where there's technology
+where they know if you're subject to fear of missing out,
+and if you are, they will always use it on you,
+because they wanna get every dime from every customer.
+The same with coupons or others.
+So they know what fears to push your buttons
+to get you to buy.
+But that's a legitimate use case in our society.
+I'd love Shannon to go into the roles
+of people, process, and tech
+for legitimate and illegitimate uses.
+<v ->Shannon, on that point, as Olaf was talking about</v>
+designing a platform for people,
+in engineering we learn you have to design
+for the worst user, not the best user.
+I don't know what your view is on that
+as we look at what gets stolen.
+<v ->Well, for sure.</v>
+And I mean, I'll talk about the types of data
+that gets stolen in a moment.
+When we're looking at what's the good news,
+or how can you protect yourself in these scenarios.
+I'm Canadian, but I know the Miranda rights,
+anything that you say can and will be used against you,
+and that's totally applicable to data as well.
+Any data that you provide,
+whether in a legitimate or illegitimate way,
+can and will be used either for your benefit
+for a better service, to sell to another entity,
+or in the case of data theft
+will be used against you for monetary gain,
+data destruction, reputation damage and the like.
+So I mean, what can people do today?
+I think as individuals particularly,
+and I'll talk about a concept called data actionability,
+I hope, in a little bit.
+But if you're using crypto, for example,
+you have crypto wallets,
+you wanna be looking at things like cold and hot storage,
+you wanna be using hardware wallets as well.
+If you're using services where you are paying for things,
+you wanna be using like your Apple Pay or your G Pay,
+so that you have a virtual card,
+and that's not exposing your actual
+credit card credentials or information.
+You can also do things like using different email addresses
+for different services as well.
+And then of course, it's really not the sexy stuff,
+but it is the same stuff you've been hearing forever.
+Great passwords, password manager,
+having multi-factor authentication
+on all of your services
+really is what will make the difference
+when you get breached,
+and of course, you probably already have.
+<v ->Authenticator in '25 too.</v>
+No text anymore.
+Text is not an acceptable MFA anymore.
+<v ->Well, oh yeah, no, for sure.</v>
+And when we are looking at multifactor authentication,
+you do wanna be looking at things
+like the number matching tools,
+because that's kind next generation.
+<v ->But ideally not through text,</v>
+according to the warnings from.
+<v ->No, no. You wanna be using authenticator</v>
+or different types of tools like that.
+Of course, you can talk about things like Fido,
+hardware tokens and pass keys for consumer technology,
+SaaS technology are really powerful in fact.
+But of course, these things are not always super practical.
+<v ->I mean, I have a question on that.</v>
+So sure, every technology has its weakness,
+but if I were counseling a client, I would've said,
+you definitely want MFA,
+and I would've said that text MFA
+was better than no MFA at all.
+<v ->100%.</v>
+<v ->Okay.</v>
+<v ->100% yes.</v>
+<v ->'Cause for some of us, we may not have much choice.</v>
+<v ->The low hanging fruit for the adversary today</v>
+is people in enterprise that do not have MFA at all.
+And in fact, we see this a lot
+actually in a higher education.
+So a lot of colleges and universities don't have it.
+It's very expensive to deploy it at that scale,
+though they absolutely should make the investment,
+and for that reason,
+the first layer is people who don't have it at all.
+The next layer would be different levels of sophistication
+on that technology.
+<v ->But even in your personal life,</v>
+like my doctor, I have my portal,
+I can schedule an appointment,
+they encourage you to put MFA on there,
+but I assume many people don't make that choice.
+I'd encourage all of you, just a piece of free advice.
+<v ->Yeah, absolutely.</v>
+<v ->Put your MFA on, even if it's text.</v>
+<v ->I had some very serious conversations</v>
+and moved MFA enforceability from three to 400 on the backup
+to getting it done in a couple weeks when I was at Microsoft
+for the secure development environment.
+There's no way you could have that environment
+without MFA enforceability.
+So yeah, absolutely.
+I think the warnings on text came
+because there's a, it was in December.
+<v ->But that's a separate deal.</v>
+<v ->But something's always better than nothing.</v>
+<v ->And again, if a government's coming for you,</v>
+there's not much you are going to do as an individual
+to beat the government.
+They have an army.
+<v ->Absolutely.</v>
+<v ->Legitimately.</v>
+Just do your best, friends.
+Long passwords, MFA, it's all you can do.
+<v ->And Olaf, you covered over your zero sum, correct?</v>
+<v ->Yeah, I think I did.</v>
+<v ->Excellent.</v>
+So in that case, why should you care?
+Shannon, what is sold on the black market,
+and by who and how?
+<v ->Yeah, I mean, what's not sold on the black market?</v>
+So I mentioned this concept of data actionability.
+What that means is,
+can I derive immediate value from this piece of data?
+And I like to compare it to like a literal cash wallet.
+So if I stole your wallet from you,
+what is immediately valuable to me would be cash.
+I can spend that right away.
+What would not be immediately valuable to me
+would be like some niche gift card
+that you got for Christmas from a store in your hometown.
+That's not super valuable to me right away.
+The same thing can be said
+for what's sold on the black market.
+So the first thing, of course, is crypto wallets.
+I would drain that crypto right away.
+That's really valuable for me,
+especially if I'm a criminal
+and I'm already using that type of currency today.
+Other things like web credentials, browser data,
+stored credit card information, email.
+Chat credentials is getting even more interesting now
+in this sort of AI era when people are
+communicating with LLMs in such a personal way
+and sharing either private details about their life,
+about their relationships, or about their business.
+So chat credentials are getting more popular as well.
+But even things like fire transfer protocol credentials
+or VPN credentials, not immediately valuable to me,
+but in the hands of the right adversary
+or the right criminal,
+I could use that as an initial access point
+in order to start to move into an enterprise environment.
+So all of this is sold on the black market today.
+And what does the black market look like?
+It looks like Amazon.
+These marketplaces have customer support,
+they have HR teams, they have reviews of the product.
+Is this good data?
+Is this seller known to sell good data?
+They even have escrow services
+so that when you buy that data,
+it's kind of held so that you can get the crypto transaction
+and then you send it over.
+So they even have escrow.
+They're very sophisticated marketplaces
+where your data is bought and sold today.
+And yeah, it's very, very real.
+The way that this happens is through info stealers.
+Info stealers are responsible for the majority of the data
+that ends up on the black market today.
+However, when you look at any enterprise breach,
+that can happen through any vulnerability,
+zero-day vulnerability, misconfiguration, threat activity,
+insider threat, all of that type of thing.
+<v ->Well, it gets even more insidious actually, right?</v>
+So you're being tracked
+on pretty much every element of your life
+as you're moving through the internet online.
+I don't know if you all recall seeing
+that New York Times article
+where a journalist did a forensic analysis
+on how her footprint was being tracked within websites,
+but also between websites,
+and that includes things that are
+seemingly meaningless to us,
+like my screen size, my operating system, my keyboard,
+even whether or not I have a privacy setting activated.
+So when I say please keep me private,
+even that is being used for tracking.
+And all of that gets put together
+to where at the end of a research day,
+the forensics team could tell her
+what kind of article she was writing.
+And so, that's why I'm saying
+people are actually making sense of you
+with very, very small, to your point earlier, Shannon,
+very small data points
+that are all being aggregated together
+into a more holistic picture.
+<v ->Well, and I can cross reference that too, right?</v>
+If I see there's been a recent breach,
+I can go back and see,
+has that person been implicated before?
+So even if it's just your email.
+Say that a website is asking for just your email
+to access the information.
+Well, that doesn't seem that dangerous.
+But then if we look at first name, last name,
+and then we compare that to a previous data breach,
+we can start to tell a pretty solid story of who you are.
+<v ->And I wanna say, please don't be mistaken</v>
+that this is all acceptable
+in terms of you paying with your data.
+Let's say the value is $25 a month for a subscription.
+This is a large multiple of that amount
+that third parties are making on your data
+that you have absolutely no visibility into.
+And if you're a corporate executive,
+this should bother you as well,
+because you should want
+to repatriate some of those data points
+and the value of that data back into your value chain
+rather than going out there and buying new data sets
+on somebody that may or may not be sanctioned.
+So from both the consumer privacy angle
+as well as a corporate economic angle, you should care.
+<v ->In the panel yesterday on the AI track,</v>
+which large language model will dominate,
+the conclusion, the data sets will dominate.
+<v ->Data is single handedly,</v>
+everybody is looking at the shiny new thing.
+Jenssen's keynote, fantastic.
+Obviously the shiny new thing really matters.
+That's the engine room.
+But really, we're discarding a conversation about the fuel,
+and the fuel is data.
+<v ->Kate, would you like to go on the tax of privacy?</v>
+<v ->Sure.</v>
+So I think what we've been talking about is data
+that maybe we've consented to have collected about us,
+and maybe some data we didn't know was collected about us,
+maybe some things we got for free,
+maybe some things we bought, but they took the data anyway.
+In the regulation scheme,
+part of what governments are doing is twofold.
+They're first trying to incentivize people
+to behave in the way that drives
+better business for their jurisdictions,
+and what that looks like in one jurisdiction isn't the same
+as what it looks like in another jurisdiction.
+But they're also trying to create a level playing field
+for both individuals and companies.
+And so, in that sense, GDPR, CCPA and other privacy laws
+do function as a tax or tariff.
+There's a lot of discussion about tariffs generally now.
+I mean, for what it's worth, I'm not a political expert,
+but I don't necessarily see privacy laws
+being a strong impact in the next year or two,
+because the markets pretty much stabilized
+right now on that tax.
+But where I do see greater risk for companies
+is if the data is lost,
+and I see that in a regulatory context
+because the fines are high,
+but more actually in a reputational context.
+Because if consumers find out that you have data about them
+that not only they didn't know you had,
+but they didn't want you to have,
+and that leaks, that's pretty tough.
+Like today in the CES app,
+it asked me to have access to my health data,
+and I was like, I'm sorry, what?
+And being me, I did read.
+They did have a legitimate reason.
+They said they wanted to take my step pace
+and see how long it would take me
+to get from West Hall to North Hall
+or wherever I wanted to go.
+So I understood that, but did they need all my health data?
+Is there a way they could've taken my step data
+without taking everything else about me?
+I am that parent that makes their kids
+review the privacy notices,
+and then before they want the app, they have to tell me.
+I say, did you check it?
+And they're like, yeah.
+And I'm like, no, no, no.
+This is taking your location data
+even when you're not using the app.
+<v ->Roll into your last minute closing thought too.</v>
+We're almost outta time.
+<v ->Or for my daughter, who's a teenager,</v>
+she was downloading a free wallpaper app
+and it wanted to take all her health data.
+<v ->It's always the wallpaper apps.</v>
+<v ->And I was like, what on earth is this?</v>
+I was like, Lily, that's gross.
+And then when she knew, she didn't want it.
+But as much as I try to educate them,
+and they're more sophisticated, I would say,
+than the average American because of my job,
+it's still a struggle.
+<v ->Olaf, closing thought.</v>
+<v ->Yeah, look, I mean obviously you wanna stay away</v>
+from any billion four, billion two,
+whatever it was, fines that Facebook incurred in Texas,
+and the multi-billion dollar settlement
+that Google incurred in California,
+notwithstanding the fact that that's peanuts
+for these large corporations,
+but for you it may not be.
+But I wanna actually drive home Kate's point even more,
+which is that we're already being taxed,
+you're just not being taxed by a government.
+You're being taxed by a shadow economy.
+The actors behind the scenes, it's a,
+by 2030, an almost $500 billion data brokerage industry
+that is taxing you.
+That's your data.
+That's your corporate data,
+that's your individual data, that's your customer trust.
+You're already being taxed.
+Do you want that, or do you want to lobby
+for a more transparent mechanism
+where you can actually derive value, repatriate it,
+give people agency, bring it out in the open?
+Why does this have to be a shadow economy?
+So I'm gonna roll over into my closing statement
+as well, if that's all right with you.
+<v ->Please.</v>
+<v ->Which is that, look, the technologies exist.</v>
+I mean, we're working on them,
+other people are working on them.
+Make sure that your CISO,
+but also your customers, your employees,
+have confidentiality and privacy charters that are nestled.
+Watermark footprints.
+Make sure that they're registered to the data creator
+so the data creator can take ownership,
+whether that is in service of the corporation
+or in their own service.
+And then make sure that we actually
+rate market participants
+so that you can decide where to put the data
+and on what terms.
+<v ->Shannon?</v>
+<v ->Awesome. Thanks.</v>
+I think what the good news is,
+is on the enterprise side where you are sharing your data
+with different companies,
+is that they have a way bigger tool set
+available to them today
+to do a better job of protecting your data
+so you're not finding yourselves in these massive breaches,
+going way beyond like legacy technology,
+like data loss prevention or DLP to do things
+like data security, posture management
+where you're looking at the full life cycle of that data,
+doing things like data detection and response,
+dark web monitoring so that you have eyes
+on these marketplaces at all times,
+and things like zero-trust architectures as well
+so people within the organization are not getting
+unnecessary access to your information
+on that enterprise side as well.
+So more available to these enterprise players
+to do right by you, because it's really critical
+that we take that responsibility extremely seriously.
+<v ->If I can have 10 seconds to just say,</v>
+look, don't be fooled into saying
+that by taking more control over the data economy
+we'll shrink it.
+We'll expand it.
+When people feel like they're cut in
+and there is transparency, there's trust,
+there's agency, they'll give you more data,
+and more participants in the market
+are more incentivized to do that.
+So this is the growth--
+<v ->Them to be compromised, and then when that gets stolen,</v>
+they can really easily manipulate you.
+I wanna thank our panel.
+You guys have been fantastic, and the audience.
+Remember, go to YouTube, TBW Advisors.
+I got videos loading tomorrow as well.
+Please help me get to a thousand.
+I definitely appreciate you,
+and definitely appreciate you coming to our panel.
+I think they've done fantastic.
+Let's give them a big hand.

@@ -1,0 +1,3895 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.293 --> 00:03.460
+(snappy upbeat music)
+
+2
+00:10.560 --> 00:12.900
+<v Jennifer>Okay, we're very excited to get started</v>
+
+3
+00:12.900 --> 00:16.530
+with our next session of the day.
+
+4
+00:16.530 --> 00:20.640
+So if you'd like to find an open seat, make a friend.
+
+5
+00:20.640 --> 00:24.930
+So exciting to see so many of you here today.
+
+6
+00:24.930 --> 00:28.710
+This session is all about smart home standards
+
+7
+00:28.710 --> 00:29.790
+and platforms,
+
+8
+00:29.790 --> 00:33.660
+and we have a really diverse set of perspectives
+
+9
+00:33.660 --> 00:34.890
+on the topic
+
+10
+00:34.890 --> 00:36.480
+to really flush out this conversation,
+
+11
+00:36.480 --> 00:37.313
+very excited about it.
+
+12
+00:37.313 --> 00:39.420
+Thank you again to our sponsors
+
+13
+00:39.420 --> 00:41.040
+for your support in putting
+
+14
+00:41.040 --> 00:44.760
+on our 19th Annual Connection Summit at CES.
+
+15
+00:44.760 --> 00:47.760
+We really, really appreciate your investment
+
+16
+00:47.760 --> 00:50.280
+and having these great industry conversations
+
+17
+00:50.280 --> 00:52.050
+and learning from peers.
+
+18
+00:52.050 --> 00:54.917
+So again, we're talking smart home standards and platforms.
+
+19
+00:54.917 --> 00:59.917
+We also have lunch sponsored by ADT, next door light lunch,
+
+20
+01:00.180 --> 01:01.410
+first come, first serve.
+
+21
+01:01.410 --> 01:04.920
+So if you don't have anything else to scatter onto,
+
+22
+01:04.920 --> 01:06.540
+that'll be just right down the hall
+
+23
+01:06.540 --> 01:07.710
+and then we're back at one o'clock
+
+24
+01:07.710 --> 01:12.063
+for discussion about demand for energy management at home.
+
+25
+01:12.930 --> 01:15.450
+And we invite you all to our networking reception tonight,
+
+26
+01:15.450 --> 01:16.350
+if you haven't already,
+
+27
+01:16.350 --> 01:19.350
+please RSVP for that, it's complimentary.
+
+28
+01:19.350 --> 01:20.183
+We invite you all.
+
+29
+01:20.183 --> 01:21.360
+We would love to see you there.
+
+30
+01:21.360 --> 01:23.170
+I'd love to hear what it is that you're working on
+
+31
+01:23.170 --> 01:25.530
+that is over in Treasure Island
+
+32
+01:25.530 --> 01:27.300
+and when you RSVP,
+
+33
+01:27.300 --> 01:29.898
+all that information about where to find it,
+
+34
+01:29.898 --> 01:32.193
+will come through to your email.
+
+35
+01:33.090 --> 01:35.040
+Thinking about this topic,
+
+36
+01:35.040 --> 01:37.470
+I think it's really helpful to understand
+
+37
+01:37.470 --> 01:42.470
+that there is a long history of home automation standards.
+
+38
+01:42.600 --> 01:46.583
+Trying to make the devices
+
+39
+01:46.583 --> 01:50.190
+communicate with each other,
+
+40
+01:50.190 --> 01:53.640
+with the user, with the cloud,
+
+41
+01:53.640 --> 01:56.490
+with the various ecosystem players.
+
+42
+01:56.490 --> 01:59.130
+Going back to X10 in the 1970s,
+
+43
+01:59.130 --> 02:01.140
+we're gonna hear about Z-Wave today,
+
+44
+02:01.140 --> 02:05.296
+of course, Matter over Thread, Apple HomeKit type standards.
+
+45
+02:05.296 --> 02:10.296
+You know, really trying to take this market
+
+46
+02:10.350 --> 02:12.030
+to the next level
+
+47
+02:12.030 --> 02:16.419
+and make that experience for the customer at home easier
+
+48
+02:16.419 --> 02:18.526
+and simpler and take some jobs off
+
+49
+02:18.526 --> 02:21.633
+of the players in this room as well.
+
+50
+02:22.650 --> 02:24.702
+It's not a new effort, right,
+
+51
+02:24.702 --> 02:28.080
+there's a long history that really the folks today
+
+52
+02:28.080 --> 02:32.010
+are building on top of and continuously trying to improve.
+
+53
+02:32.010 --> 02:33.668
+What's interesting when we think about
+
+54
+02:33.668 --> 02:36.217
+where the smart home is today is
+
+55
+02:36.217 --> 02:40.620
+that there are a phenomenal number of choices
+
+56
+02:40.620 --> 02:45.022
+that consumers have in the brands with which they may want
+
+57
+02:45.022 --> 02:47.610
+to control the devices that are in their home.
+
+58
+02:47.610 --> 02:52.610
+They may have devices from many of these different players
+
+59
+02:52.680 --> 02:54.574
+and they're maybe using it to control one device
+
+60
+02:54.574 --> 02:55.920
+or several devices.
+
+61
+02:55.920 --> 02:57.879
+The more devices you have at home,
+
+62
+02:57.879 --> 03:01.218
+the more platforms you are using to control those devices.
+
+63
+03:01.218 --> 03:04.710
+We are very much in a multi-agent
+
+64
+03:04.710 --> 03:07.740
+or multi-control point state
+
+65
+03:07.740 --> 03:09.870
+in the smart home for sure
+
+66
+03:09.870 --> 03:11.640
+and a lot of the work that you're seeing happening
+
+67
+03:11.640 --> 03:15.150
+behind the scenes is meant to give consumers that choice
+
+68
+03:15.150 --> 03:18.390
+in what brands they most wanna interact with.
+
+69
+03:18.390 --> 03:22.290
+So we're gonna be talking today about how we get
+
+70
+03:22.290 --> 03:27.290
+to that vision of coordinated intelligent home experiences.
+
+71
+03:27.540 --> 03:29.547
+What's the progress and standards today
+
+72
+03:29.547 --> 03:31.290
+and the pain points that they're solving,
+
+73
+03:31.290 --> 03:32.610
+as well as the pain points perhaps,
+
+74
+03:32.610 --> 03:33.900
+and the process
+
+75
+03:33.900 --> 03:37.380
+and what those standards efforts are focusing on this year?
+
+76
+03:37.380 --> 03:40.560
+And where's the real competitive edge in platforms today?
+
+77
+03:40.560 --> 03:43.115
+What's really defining the different experiences
+
+78
+03:43.115 --> 03:47.010
+for the platform choices that consumers have?
+
+79
+03:47.010 --> 03:48.672
+So I'd love to start by asking each
+
+80
+03:48.672 --> 03:51.990
+of our phenomenal panelists to introduce themselves
+
+81
+03:51.990 --> 03:55.080
+and their organizations and then we will dive in.
+
+82
+03:55.080 --> 03:56.340
+So I'm gonna start with Nick Millette,
+
+83
+03:56.340 --> 03:58.830
+who's the product development merchant
+
+84
+03:58.830 --> 04:01.560
+with for smart home at the Home Depot.
+
+85
+04:01.560 --> 04:03.570
+<v Nick>Yeah, hey everybody, Nick Millette.</v>
+
+86
+04:03.570 --> 04:06.520
+I lead Home Depot's smart home product development efforts.
+
+87
+04:07.795 --> 04:10.380
+So the Hubspace platform, that is what I've been leading
+
+88
+04:10.380 --> 04:11.787
+for the past couple years.
+
+89
+04:11.787 --> 04:13.230
+<v Jennifer>All right, fantastic,</v>
+
+90
+04:13.230 --> 04:15.660
+and I love, we have limited time,
+
+91
+04:15.660 --> 04:17.520
+so that is concise and I love it.
+
+92
+04:17.520 --> 04:19.137
+Thank you, Nick.
+
+93
+04:19.137 --> 04:19.970
+Michelle Mindala-Freeman,
+
+94
+04:19.970 --> 04:22.380
+chief Operating Officer of Connectivity Standards Alliance.
+
+95
+04:22.380 --> 04:24.240
+<v Michelle>Okay, my name took up too much time.</v>
+
+96
+04:24.240 --> 04:25.140
+(Jennifer Laughs)
+
+97
+04:25.140 --> 04:26.640
+<v Michelle>So, Hi everybody,</v>
+
+98
+04:26.640 --> 04:29.610
+Michelle here with the Connectivity Standards Alliance.
+
+99
+04:29.610 --> 04:33.690
+We are the home of over 720 member companies
+
+100
+04:33.690 --> 04:36.210
+who are working together to develop standards like Matter,
+
+101
+04:36.210 --> 04:38.220
+maintain and grow standards like ZigBee
+
+102
+04:38.220 --> 04:40.320
+and work on new things like product security
+
+103
+04:40.320 --> 04:43.350
+and access control with our newest standard Aliro.
+
+104
+04:43.350 --> 04:45.690
+<v Jennifer>Thanks, fantastic, thank you Michelle.</v>
+
+105
+04:45.690 --> 04:48.240
+Avi Rosenthal, managing partner with BlueConnect Partners
+
+106
+04:48.240 --> 04:49.920
+and chairman of the Z-Wave Alliance.
+
+107
+04:49.920 --> 04:52.230
+<v Avi>Thank you very much, I'm very happy to be here.</v>
+
+108
+04:52.230 --> 04:54.390
+Avi Rosenthal, my day job is
+
+109
+04:54.390 --> 04:56.010
+with a group called BlueConnect Partners,
+
+110
+04:56.010 --> 04:57.810
+but my volunteer position, I'm the chair
+
+111
+04:57.810 --> 04:59.220
+of the Z-Wave Alliance.
+
+112
+04:59.220 --> 05:00.300
+We are also a coalition
+
+113
+05:00.300 --> 05:01.710
+of a few hundred companies
+
+114
+05:01.710 --> 05:03.510
+that all adhere to a specific standard
+
+115
+05:03.510 --> 05:06.120
+that standard's coming up on 25 years old.
+
+116
+05:06.120 --> 05:08.760
+We've got thousands of products that have been certified
+
+117
+05:08.760 --> 05:10.080
+and literally millions of products
+
+118
+05:10.080 --> 05:12.240
+around the world that have been deployed.
+
+119
+05:12.240 --> 05:16.020
+<v ->Okay, wonderful, Stefan Witkamp CEO of Homey,</v>
+
+120
+05:16.020 --> 05:19.200
+now part of the LG Electronics family.
+
+121
+05:19.200 --> 05:20.430
+<v Stefan>Yes, hello, I'm Stefan.</v>
+
+122
+05:20.430 --> 05:23.880
+I am indeed the founder of Homey,
+
+123
+05:23.880 --> 05:25.116
+recently been acquired by LG.
+
+124
+05:25.116 --> 05:28.290
+We make a universal smart home platform
+
+125
+05:28.290 --> 05:30.480
+and also universal smart home hubs
+
+126
+05:30.480 --> 05:33.811
+that basically incorporate all relevant standards
+
+127
+05:33.811 --> 05:35.370
+in smart home today.
+
+128
+05:35.370 --> 05:37.650
+So that includes all the standards of Michelle
+
+129
+05:37.650 --> 05:39.420
+and of Avi, of course.
+
+130
+05:39.420 --> 05:41.070
+And because of
+
+131
+05:41.070 --> 05:43.783
+that we have a very unique view on what's happening
+
+132
+05:43.783 --> 05:45.477
+and how users are actually using
+
+133
+05:45.477 --> 05:48.600
+the different standards that are in the markets.
+
+134
+05:48.600 --> 05:49.680
+<v ->Okay, fantastic,</v>
+
+135
+05:49.680 --> 05:51.870
+and also Yoon Ho Choi, who's the president
+
+136
+05:51.870 --> 05:54.223
+of the Home Connectivity Alliance,
+
+137
+05:54.223 --> 05:56.086
+<v ->Very nice to meet everyone.</v>
+
+138
+05:56.086 --> 05:59.940
+So HCA in a nutshell is an alliance that's focused
+
+139
+05:59.940 --> 06:04.940
+on long life, lemme say long life,
+
+140
+06:05.130 --> 06:08.850
+big ticket items like appliances and HVAC.
+
+141
+06:08.850 --> 06:11.837
+and we are focusing on interoperating
+
+142
+06:11.837 --> 06:13.530
+both within ourselves
+
+143
+06:13.530 --> 06:15.120
+but with all of the other platforms
+
+144
+06:15.120 --> 06:17.880
+that are out here, nice to meet everyone.
+
+145
+06:17.880 --> 06:18.960
+<v Jennifer>Okay, fantastic,</v>
+
+146
+06:18.960 --> 06:20.787
+so I'd love to start.
+
+147
+06:20.787 --> 06:22.320
+I'm Jennifer Kent, vice president
+
+148
+06:22.320 --> 06:23.670
+of research at Parks Associates.
+
+149
+06:23.670 --> 06:25.500
+Should have introduced myself, but there we are.
+
+150
+06:25.500 --> 06:27.500
+Hello, if I haven't met you already,
+
+151
+06:27.500 --> 06:31.230
+I'd love to hear what it is that you're up to, so fantastic.
+
+152
+06:31.230 --> 06:33.780
+So I'd love to start with talking about the fact
+
+153
+06:33.780 --> 06:35.910
+that when you think about this long history
+
+154
+06:35.910 --> 06:37.890
+of the smart home and the developments of standards
+
+155
+06:37.890 --> 06:39.003
+and platforms,
+
+156
+06:40.050 --> 06:44.280
+the way in which consumers really acquire devices
+
+157
+06:44.280 --> 06:46.920
+tends to be very kind of device-led,
+
+158
+06:46.920 --> 06:48.120
+single device, single app.
+
+159
+06:48.120 --> 06:50.460
+Melissa in the last panel was talking about that
+
+160
+06:50.460 --> 06:52.800
+a little bit, security systems,
+
+161
+06:52.800 --> 06:55.740
+some hub devices being perhaps the most widespread way
+
+162
+06:55.740 --> 06:59.250
+that consumers are able to put together a more kind
+
+163
+06:59.250 --> 07:00.949
+of coordinated home.
+
+164
+07:00.949 --> 07:03.300
+Broadly speaking, Stefan,
+
+165
+07:03.300 --> 07:04.900
+I'd love to start with you here
+
+166
+07:04.900 --> 07:05.733
+and then, and then go to Nick.
+
+167
+07:05.733 --> 07:08.315
+How would you describe where we're at
+
+168
+07:08.315 --> 07:11.250
+as an industry today in making a more integrated,
+
+169
+07:11.250 --> 07:14.790
+coordinated home experience possible?
+
+170
+07:14.790 --> 07:17.130
+<v ->Yeah, so that's a very interesting question</v>
+
+171
+07:17.130 --> 07:18.900
+because there are these standards
+
+172
+07:18.900 --> 07:20.850
+and a lot of the products on these standards
+
+173
+07:20.850 --> 07:24.180
+are interoperable with other products on the standard,
+
+174
+07:24.180 --> 07:28.830
+but people they don't very much choose a standard,
+
+175
+07:28.830 --> 07:30.630
+they choose a product, they choose a brand,
+
+176
+07:30.630 --> 07:32.640
+they choose a single application
+
+177
+07:32.640 --> 07:35.040
+that they wanna start out their smart home with.
+
+178
+07:35.040 --> 07:39.000
+So that's what we did as a sort of universal remote control
+
+179
+07:39.000 --> 07:40.350
+for the entire home.
+
+180
+07:40.350 --> 07:42.346
+We decided not to focus on a single standard
+
+181
+07:42.346 --> 07:45.030
+because in practice a lot of standards,
+
+182
+07:45.030 --> 07:47.307
+different standards are used by different popular brands
+
+183
+07:47.307 --> 07:49.320
+and people might wanna mix and match
+
+184
+07:49.320 --> 07:52.458
+and some of them might only have a proprietary API,
+
+185
+07:52.458 --> 07:56.550
+another sort of way of connecting.
+
+186
+07:56.550 --> 08:00.071
+So our approaches are really to offer users later on.
+
+187
+08:00.071 --> 08:02.739
+So not by design the first step,
+
+188
+08:02.739 --> 08:06.420
+but later on they can add on Homey, it would connect
+
+189
+08:06.420 --> 08:09.390
+with either ZigBee device Z-Wave device
+
+190
+08:09.390 --> 08:14.390
+or proprietary API an open API or or a Meta device
+
+191
+08:14.400 --> 08:16.500
+and it would make sure that they can,
+
+192
+08:16.500 --> 08:19.328
+after that choose to expand to different,
+
+193
+08:19.328 --> 08:22.026
+to to different standards and to different products
+
+194
+08:22.026 --> 08:23.537
+and different brands
+
+195
+08:23.537 --> 08:26.950
+because it's relatively hard for consumer to understand
+
+196
+08:26.950 --> 08:29.460
+that you're not just buying a product,
+
+197
+08:29.460 --> 08:31.920
+you're also buying into a certain technology,
+
+198
+08:31.920 --> 08:34.770
+a certain ecosystem and what all entails.
+
+199
+08:34.770 --> 08:36.579
+So our solution to that is just to
+
+200
+08:36.579 --> 08:39.390
+make sure it doesn't matter later on
+
+201
+08:39.390 --> 08:40.455
+to really unify it at all
+
+202
+08:40.455 --> 08:42.434
+And I think it's a sign
+
+203
+08:42.434 --> 08:47.340
+of those different standards, all of them being mature
+
+204
+08:47.340 --> 08:50.040
+and integrated into popular products.
+
+205
+08:50.040 --> 08:52.475
+<v Jennifer>You make a good point about later on, right.</v>
+
+206
+08:52.475 --> 08:56.730
+About how many devices do see customers having
+
+207
+08:56.730 --> 08:59.717
+before they go for a Homey, for instance, right,
+
+208
+08:59.717 --> 09:03.540
+how far into their device collection do they?
+
+209
+09:03.540 --> 09:04.373
+<v ->Yeah, that's the difference,</v>
+
+210
+09:04.373 --> 09:05.880
+so typically people will start
+
+211
+09:05.880 --> 09:08.580
+to have a couple of devices, a couple of brands mostly
+
+212
+09:08.580 --> 09:10.440
+because if you have 20 devices,
+
+213
+09:10.440 --> 09:11.700
+but they're all the same brand
+
+214
+09:11.700 --> 09:13.500
+and there's no real pain point
+
+215
+09:13.500 --> 09:15.090
+because it's all the Philips Hue app
+
+216
+09:15.090 --> 09:17.649
+or this all Ikea or, I dunno.
+
+217
+09:17.649 --> 09:20.670
+But as soon as people start to collect two or three brands,
+
+218
+09:20.670 --> 09:23.670
+then you see them purposefully looking for a platform
+
+219
+09:23.670 --> 09:26.640
+because you know, a smart home doesn't really feel smart
+
+220
+09:26.640 --> 09:29.100
+if it's a collection of 20 apps on your phone
+
+221
+09:29.100 --> 09:31.860
+and if you leave home, you have to open five of them
+
+222
+09:31.860 --> 09:34.230
+to make sure that they're all in a way mode
+
+223
+09:34.230 --> 09:36.220
+or that they're all set to the right level
+
+224
+09:36.220 --> 09:37.740
+or this right setting.
+
+225
+09:37.740 --> 09:40.110
+So you would wanna have an automation system,
+
+226
+09:40.110 --> 09:41.781
+not just for control,
+
+227
+09:41.781 --> 09:44.105
+what it's firstly focused on,
+
+228
+09:44.105 --> 09:47.280
+but also for automation so that things happen automatically
+
+229
+09:47.280 --> 09:49.470
+and it really becomes a smart home
+
+230
+09:49.470 --> 09:53.400
+and not just buttons on your phone in scattered apps.
+
+231
+09:53.400 --> 09:55.980
+<v ->Yep, okay, Nick, I'd love to get your point</v>
+
+232
+09:55.980 --> 09:57.119
+of view in watching--
+
+233
+09:57.119 --> 09:57.952
+<v ->Yeah.</v>
+
+234
+09:57.952 --> 09:59.506
+<v ->You know, you've been in Smart Home</v>
+
+235
+09:59.506 --> 10:00.339
+for a while now too right, where are we at?
+
+236
+10:00.339 --> 10:01.710
+<v ->Yeah, so for those of you who are not familiar</v>
+
+237
+10:01.710 --> 10:03.780
+with Hubspace, Hubspace is a smart home platform
+
+238
+10:03.780 --> 10:05.280
+that exclusive to Home Depot.
+
+239
+10:05.280 --> 10:06.660
+So one of the challenges
+
+240
+10:06.660 --> 10:09.673
+and the unique things about Home Depot is,
+
+241
+10:09.673 --> 10:12.630
+that's where the mass market consumer is shopping
+
+242
+10:12.630 --> 10:14.280
+for their DIY,
+
+243
+10:14.280 --> 10:15.960
+their home good products.
+
+244
+10:15.960 --> 10:17.760
+One of the challenges with that
+
+245
+10:17.760 --> 10:20.310
+is selling smart home products to
+
+246
+10:20.310 --> 10:21.870
+that mass market consumer
+
+247
+10:21.870 --> 10:24.990
+is a very challenging problem to solve,
+
+248
+10:24.990 --> 10:27.990
+especially when you have different brands, different apps.
+
+249
+10:27.990 --> 10:30.000
+So there has been a lot of progress made
+
+250
+10:30.000 --> 10:31.500
+in getting the price points down.
+
+251
+10:31.500 --> 10:35.340
+So if I'm going to buy a product from a Home Depot,
+
+252
+10:35.340 --> 10:38.439
+typically a customer's coming in to solve an issue
+
+253
+10:38.439 --> 10:39.300
+in their house.
+
+254
+10:39.300 --> 10:42.000
+I have a sprinkler system
+
+255
+10:42.000 --> 10:44.700
+and I want to automate my host so that it turns on,
+
+256
+10:44.700 --> 10:46.440
+it turns off at a specific time.
+
+257
+10:46.440 --> 10:49.770
+If you can get to the point where you have a $10 trade up
+
+258
+10:49.770 --> 10:52.680
+to get to a smart hose timer where it automatically turns,
+
+259
+10:52.680 --> 10:54.780
+you can customize it instead away from home.
+
+260
+10:54.780 --> 10:56.100
+A customer is much more likely
+
+261
+10:56.100 --> 10:58.780
+to adopt a smart home product at a lower price point
+
+262
+10:59.640 --> 11:02.665
+and then getting to the point where you have the automations
+
+263
+11:02.665 --> 11:04.263
+and the jets
+
+264
+11:04.263 --> 11:07.800
+and smart house where everything runs off of itself.
+
+265
+11:07.800 --> 11:10.770
+I think the building blocks are coming into place,
+
+266
+11:10.770 --> 11:14.550
+but I have concerns of selling that
+
+267
+11:14.550 --> 11:16.110
+to the mass market consumer
+
+268
+11:16.110 --> 11:19.440
+because I'm not sure that that is necessarily there today
+
+269
+11:19.440 --> 11:20.850
+for that mass market consumer.
+
+270
+11:20.850 --> 11:24.606
+If you're an enthusiast who is passionate about it,
+
+271
+11:24.606 --> 11:26.610
+wants to put in the time to really, really, really do that
+
+272
+11:26.610 --> 11:28.980
+and maintain it and do the upkeep that comes with this
+
+273
+11:28.980 --> 11:29.813
+'cause, you know,
+
+274
+11:29.813 --> 11:33.420
+those automations over time require a lot of maintenance.
+
+275
+11:33.420 --> 11:35.670
+I think that is there for that consumer,
+
+276
+11:35.670 --> 11:37.320
+but for the mass market consumer,
+
+277
+11:37.320 --> 11:39.690
+we've getting the building blocks in place
+
+278
+11:39.690 --> 11:41.820
+in order to allow them to do it.
+
+279
+11:41.820 --> 11:42.960
+<v Jennifer>Yeah, and our data shows</v>
+
+280
+11:42.960 --> 11:45.030
+that there's definitely two big,
+
+281
+11:45.030 --> 11:47.190
+very different groups of users right now.
+
+282
+11:47.190 --> 11:49.440
+There's the people that are on their 10th device
+
+283
+11:49.440 --> 11:51.810
+and have been in smart home for a while
+
+284
+11:51.810 --> 11:55.294
+and because really post Covid there's been quite a bit
+
+285
+11:55.294 --> 11:57.510
+of people coming into the market
+
+286
+11:57.510 --> 12:00.300
+about 45% of all US internet households now have at least
+
+287
+12:00.300 --> 12:02.010
+one core smart home device,
+
+288
+12:02.010 --> 12:03.153
+they're on their first or second device.
+
+289
+12:03.153 --> 12:07.019
+So very kind of divergent sets of user groups using these.
+
+290
+12:07.019 --> 12:10.383
+So can you share a little bit more about, again,
+
+291
+12:10.383 --> 12:13.050
+kind of who's using Hubspace
+
+292
+12:13.050 --> 12:15.930
+and like how they kind of get onto the platform
+
+293
+12:15.930 --> 12:17.790
+and then do they stay in the platform
+
+294
+12:17.790 --> 12:18.623
+or how does that work?
+
+295
+12:18.623 --> 12:20.130
+<v ->So yeah, I can share a little bit.</v>
+
+296
+12:20.130 --> 12:23.490
+So we have over 200 products.
+
+297
+12:23.490 --> 12:25.440
+So one of the great parts of Home Depot,
+
+298
+12:25.440 --> 12:28.740
+we cross every product category that Singer House minus TVs
+
+299
+12:28.740 --> 12:31.800
+and mattresses I think we only sell online.
+
+300
+12:31.800 --> 12:36.300
+So we have customers across Hubspace products
+
+301
+12:36.300 --> 12:39.030
+across a lot of those product categories.
+
+302
+12:39.030 --> 12:40.219
+The main customer
+
+303
+12:40.219 --> 12:42.540
+that we're targeting we're getting is
+
+304
+12:42.540 --> 12:45.360
+that first time coming into smart home consumers.
+
+305
+12:45.360 --> 12:46.740
+So one of the things
+
+306
+12:46.740 --> 12:48.950
+that I've always found an interesting stat to look at
+
+307
+12:48.950 --> 12:52.080
+is the number of people buying mechanical and digital timers
+
+308
+12:52.080 --> 12:55.530
+around the holiday season every year versus smart plugs
+
+309
+12:55.530 --> 12:58.650
+and our Hubspace Smart Plug was the only smart plug,
+
+310
+12:58.650 --> 12:59.520
+defiant smart plug,
+
+311
+12:59.520 --> 13:01.800
+powered by Hubspace is the only smart plugs we sold in store
+
+312
+13:01.800 --> 13:03.150
+for the past couple years.
+
+313
+13:03.150 --> 13:06.609
+Seeing the rate at which customers are adopting the smart
+
+314
+13:06.609 --> 13:09.712
+versus the non-smart has definitely grown as consumers
+
+315
+13:09.712 --> 13:10.920
+through the Covid years of,
+
+316
+13:10.920 --> 13:13.140
+everybody's just more comfortable with
+
+317
+13:13.140 --> 13:14.370
+controlling things from their phone
+
+318
+13:14.370 --> 13:15.270
+and how they are on their phones.
+
+319
+13:15.270 --> 13:17.910
+And not to mention, I think that the industry
+
+320
+13:17.910 --> 13:19.950
+as a whole has taken a large step forward in terms
+
+321
+13:19.950 --> 13:21.540
+of cybersecurity and data privacy
+
+322
+13:21.540 --> 13:25.050
+and making sure we're doing things right for our consumers.
+
+323
+13:25.050 --> 13:26.610
+<v ->Yeah, yeah, that's great, great to hear,</v>
+
+324
+13:26.610 --> 13:27.990
+thanks for sharing that.
+
+325
+13:27.990 --> 13:30.060
+Okay, let's jump over to the standard side.
+
+326
+13:30.060 --> 13:32.490
+I want to go kind of deep on the, on the standard side
+
+327
+13:32.490 --> 13:35.483
+and give you Michelle to start a moment
+
+328
+13:35.483 --> 13:39.510
+to explain in the room, again,
+
+329
+13:39.510 --> 13:42.000
+for those who aren't following closely, right,
+
+330
+13:42.000 --> 13:44.845
+what's happening with Matter in particular.
+
+331
+13:44.845 --> 13:46.845
+And then you mentioned Aliro, of course,
+
+332
+13:48.426 --> 13:51.300
+but what is Matter again and what is it not?
+
+333
+13:51.300 --> 13:56.300
+<v ->Okay, so Matter is a global open,</v>
+
+334
+13:56.370 --> 14:00.450
+smart home standard that is developing a common language
+
+335
+14:00.450 --> 14:02.220
+for the Internet of Things.
+
+336
+14:02.220 --> 14:04.260
+I put emphasis on the word language
+
+337
+14:04.260 --> 14:07.830
+because what it is not is a full stack solution.
+
+338
+14:07.830 --> 14:11.520
+Doesn't include a radio layer like say for instance ZigBee
+
+339
+14:11.520 --> 14:14.370
+or Z-Wave, but it's designed
+
+340
+14:14.370 --> 14:17.510
+to allow a manufacturer and a developer to create a product
+
+341
+14:17.510 --> 14:21.574
+that will talk to as, Stefan pointed out, multiple brands
+
+342
+14:21.574 --> 14:22.890
+of platforms
+
+343
+14:22.890 --> 14:27.390
+and to other products on different radio layers.
+
+344
+14:27.390 --> 14:29.971
+So you can build Matter on top of wifi,
+
+345
+14:29.971 --> 14:33.630
+you can build Matter on top of thread on ethernet
+
+346
+14:33.630 --> 14:37.420
+and Matter also includes bridging capabilities
+
+347
+14:37.420 --> 14:41.040
+because there are so many embedded based devices out there,
+
+348
+14:41.040 --> 14:43.923
+whether it's appliances or other platforms
+
+349
+14:43.923 --> 14:46.950
+or these various products on other standards.
+
+350
+14:46.950 --> 14:49.650
+So Matter also creates a facility, if you will,
+
+351
+14:49.650 --> 14:53.670
+to allow those to come into a Matter fabric
+
+352
+14:53.670 --> 14:56.070
+and talk with each other.
+
+353
+14:56.070 --> 14:59.040
+<v ->Okay, so a couple big things have been announced</v>
+
+354
+14:59.040 --> 15:00.030
+pretty recently
+
+355
+15:00.030 --> 15:02.520
+and I'd love to just kind of get quick hits on,
+
+356
+15:02.520 --> 15:05.452
+on why they Matter, particularly, you know,
+
+357
+15:05.452 --> 15:08.490
+for these folks in the room developing these great products.
+
+358
+15:08.490 --> 15:11.416
+So Apple announced that it was putting, you know,
+
+359
+15:11.416 --> 15:15.533
+thread border routers and the Apple 15 Pro.
+
+360
+15:15.533 --> 15:18.441
+Why and why does that matter?
+
+361
+15:18.441 --> 15:20.762
+How does that impact, you know,
+
+362
+15:20.762 --> 15:22.959
+how the users might be able
+
+363
+15:22.959 --> 15:27.959
+to experience Matter-enabled ecosystem differently?
+
+364
+15:28.110 --> 15:29.755
+<v ->Right, and I think I'll build a little bit on</v>
+
+365
+15:29.755 --> 15:32.700
+what Nick was talking about relative to infrastructure
+
+366
+15:32.700 --> 15:34.163
+and building platforms,
+
+367
+15:34.163 --> 15:36.390
+the infrastructure for the smart home.
+
+368
+15:36.390 --> 15:39.282
+So again, as a language kind of that sits
+
+369
+15:39.282 --> 15:41.007
+at the application layer,
+
+370
+15:41.007 --> 15:43.883
+there is a need for this infrastructure
+
+371
+15:43.883 --> 15:46.399
+to allow devices to talk to each other.
+
+372
+15:46.399 --> 15:50.070
+Thread as a local connectivity solution is something
+
+373
+15:50.070 --> 15:52.448
+that allows devices to talk at a radio level
+
+374
+15:52.448 --> 15:54.870
+with Matter on top.
+
+375
+15:54.870 --> 15:57.000
+So including more thread radios
+
+376
+15:57.000 --> 15:59.490
+and products including thread border routers
+
+377
+15:59.490 --> 16:02.436
+to allow home networks to be successfully built
+
+378
+16:02.436 --> 16:04.020
+and allow all those devices
+
+379
+16:04.020 --> 16:06.870
+to talk together in a very active mesh
+
+380
+16:06.870 --> 16:11.040
+is a way to build out the infrastructure of the smart home.
+
+381
+16:11.040 --> 16:13.290
+And so in addition to things like Apple,
+
+382
+16:13.290 --> 16:14.220
+putting border routers,
+
+383
+16:14.220 --> 16:15.720
+thread border routers in iPhones,
+
+384
+16:15.720 --> 16:20.720
+we also saw with the release of Matter 1.4 home routers
+
+385
+16:20.820 --> 16:24.240
+and access points, which we lovingly call HRAP.
+
+386
+16:24.240 --> 16:26.673
+For those of you following along with acronyms.
+
+387
+16:28.560 --> 16:31.590
+We also announced HRAP products that will have,
+
+388
+16:31.590 --> 16:33.930
+again, that infrastructure of wifi
+
+389
+16:33.930 --> 16:38.520
+and Thread built in as manufacturers adopt the specification
+
+390
+16:38.520 --> 16:40.410
+to help flesh out that infrastructure.
+
+391
+16:40.410 --> 16:41.850
+So it's simpler for people
+
+392
+16:41.850 --> 16:43.207
+to bring new devices into their homes.
+
+393
+16:43.207 --> 16:45.447
+<v Jennifer>Okay, last quick hit one</v>
+
+394
+16:45.447 --> 16:47.190
+and then I'd love to go to Avi
+
+395
+16:47.190 --> 16:48.535
+to talk about Z-Wave a little bit.
+
+396
+16:48.535 --> 16:50.280
+One announcement I saw,
+
+397
+16:50.280 --> 16:54.000
+I think just maybe yesterday was around Apple
+
+398
+16:54.000 --> 16:55.260
+and Samsung and Google,
+
+399
+16:55.260 --> 16:58.230
+I believe, allowing for Matter attestation
+
+400
+16:58.230 --> 17:01.590
+or certification to also apply to their works with programs,
+
+401
+17:01.590 --> 17:03.960
+sort of simplifying those processes.
+
+402
+17:03.960 --> 17:05.100
+If you could just explain a little bit
+
+403
+17:05.100 --> 17:06.510
+about what that means.
+
+404
+17:06.510 --> 17:07.380
+<v ->Sure, sure</v>
+
+405
+17:07.380 --> 17:10.698
+and I'll try to be a little bit more precise about that.
+
+406
+17:10.698 --> 17:15.698
+In short, you know, today companies bring products
+
+407
+17:15.750 --> 17:18.963
+through a Matter certification process
+
+408
+17:18.963 --> 17:22.380
+that involves ensuring compliance with the specification.
+
+409
+17:22.380 --> 17:26.370
+We also developed as a member service a lab
+
+410
+17:26.370 --> 17:28.770
+in Portland, Oregon, our interoperability lab,
+
+411
+17:28.770 --> 17:30.120
+that lab tests,
+
+412
+17:30.120 --> 17:32.490
+I'll say beyond the specification
+
+413
+17:32.490 --> 17:34.590
+and the certification components,
+
+414
+17:34.590 --> 17:36.150
+allowing a product manufacturer
+
+415
+17:36.150 --> 17:38.340
+to test in a more real world environment
+
+416
+17:38.340 --> 17:42.900
+against various smart home platforms and ecosystems,
+
+417
+17:42.900 --> 17:44.425
+again, proving out interoperability
+
+418
+17:44.425 --> 17:47.130
+and performance in more of a real world way.
+
+419
+17:47.130 --> 17:50.940
+So this announcement, it not only speaks to the value
+
+420
+17:50.940 --> 17:52.020
+of the interoperability lab,
+
+421
+17:52.020 --> 17:54.690
+but also that companies like Apple
+
+422
+17:54.690 --> 17:57.510
+and then as you pointed out also Google and Samsung
+
+423
+17:57.510 --> 18:00.360
+will be accepting results from our interop lab
+
+424
+18:00.360 --> 18:03.600
+as inputs into their own works with programs
+
+425
+18:03.600 --> 18:06.780
+that should help manufacturers kind of speed up the process
+
+426
+18:06.780 --> 18:09.979
+of securing works with badges, which will, you know,
+
+427
+18:09.979 --> 18:11.520
+continue to have value
+
+428
+18:11.520 --> 18:12.960
+and there are many other things
+
+429
+18:12.960 --> 18:14.340
+that those platform providers seek
+
+430
+18:14.340 --> 18:16.170
+from their device partners.
+
+431
+18:16.170 --> 18:18.872
+So this is a way to speed up development,
+
+432
+18:18.872 --> 18:20.460
+speed up time to market
+
+433
+18:20.460 --> 18:22.380
+and improve performance for consumers.
+
+434
+18:22.380 --> 18:25.470
+<v ->Great, everybody loves efficiency in the process,</v>
+
+435
+18:25.470 --> 18:27.420
+so thank you for that.
+
+436
+18:27.420 --> 18:31.680
+Okay, Avi, love to, you know, turn to you.
+
+437
+18:31.680 --> 18:33.510
+Michelle really explained eloquently
+
+438
+18:33.510 --> 18:35.100
+about Matter being a language,
+
+439
+18:35.100 --> 18:36.330
+not necessarily the full stack.
+
+440
+18:36.330 --> 18:38.550
+We've got all these great standards
+
+441
+18:38.550 --> 18:40.800
+of how different devices can communicate
+
+442
+18:40.800 --> 18:43.020
+that have different advantages to them.
+
+443
+18:43.020 --> 18:46.025
+Tell us a little bit about how Z-Wave, you know,
+
+444
+18:46.025 --> 18:49.140
+fits into the larger ecosystem
+
+445
+18:49.140 --> 18:51.930
+and how we should be thinking about Z-Wave
+
+446
+18:51.930 --> 18:54.240
+alongside Matter development.
+
+447
+18:54.240 --> 18:56.520
+<v ->So it's a really interesting question,</v>
+
+448
+18:56.520 --> 18:58.830
+obviously one that we get very, very often
+
+449
+18:58.830 --> 19:00.000
+at the Z-Wave Alliance, right.
+
+450
+19:00.000 --> 19:02.970
+Why, where is the Z-Wave relevancy in this world
+
+451
+19:02.970 --> 19:04.436
+of interoperability?
+
+452
+19:04.436 --> 19:07.860
+We don't see Matter as a competitor, right.
+
+453
+19:07.860 --> 19:11.190
+We don't see it as a us and them situation.
+
+454
+19:11.190 --> 19:14.190
+There are great opportunities within the marketplace
+
+455
+19:14.190 --> 19:16.530
+for when Z-Wave is the right solution for the problem
+
+456
+19:16.530 --> 19:18.960
+and there are great opportunities when the marketplace,
+
+457
+19:18.960 --> 19:20.550
+when ZigBee or LoRa
+
+458
+19:20.550 --> 19:22.290
+or any of the other standards out there
+
+459
+19:22.290 --> 19:24.210
+are the right solution for the problem.
+
+460
+19:24.210 --> 19:26.820
+Z-Wave in and of itself being a full stack
+
+461
+19:26.820 --> 19:28.530
+means that the developers
+
+462
+19:28.530 --> 19:30.840
+have complete control from the radio level all the way up
+
+463
+19:30.840 --> 19:32.610
+to the application layer
+
+464
+19:32.610 --> 19:37.610
+and be able to control all of the elements of that to fit
+
+465
+19:37.830 --> 19:41.340
+for their designs and for their solutions,
+
+466
+19:41.340 --> 19:42.930
+that's not to take away from anything else
+
+467
+19:42.930 --> 19:45.840
+that's interoperable and there's no practical
+
+468
+19:45.840 --> 19:48.150
+nor any technical reason why
+
+469
+19:48.150 --> 19:51.802
+at some point Z-Wave won't also play in the same sandbox
+
+470
+19:51.802 --> 19:53.940
+as lots of other standards.
+
+471
+19:53.940 --> 19:55.380
+There are organizations
+
+472
+19:55.380 --> 19:58.140
+and companies out there today, Nabu Casa
+
+473
+19:58.140 --> 19:59.430
+and the home assistant guys
+
+474
+19:59.430 --> 20:01.851
+that allow for bridging of various types of networks
+
+475
+20:01.851 --> 20:04.320
+within from Z-Wave to LoRa
+
+476
+20:04.320 --> 20:05.337
+and LoRa, Matter
+
+477
+20:05.337 --> 20:08.010
+and Matter to Z-Wave and all kinds of things.
+
+478
+20:08.010 --> 20:10.590
+Whether or not we've gotten to the point where all
+
+479
+20:10.590 --> 20:14.910
+of the technical issues have been fixed, accounted for,
+
+480
+20:14.910 --> 20:17.430
+evolved into, we're not there yet,
+
+481
+20:17.430 --> 20:19.860
+but all of these are evolving standards.
+
+482
+20:19.860 --> 20:22.857
+Z-Wave in and of itself is looking at ways of solving lots
+
+483
+20:22.857 --> 20:27.000
+of communication problems within various industries.
+
+484
+20:27.000 --> 20:29.910
+We've always been sort of centered on residential
+
+485
+20:29.910 --> 20:31.200
+and now we're branching out.
+
+486
+20:31.200 --> 20:33.900
+Our new Z-Wave long range allows
+
+487
+20:33.900 --> 20:37.080
+for different solutions for different industries
+
+488
+20:37.080 --> 20:39.540
+that we've never been able to take advantage of before.
+
+489
+20:39.540 --> 20:41.790
+And so as each of these standards evolve,
+
+490
+20:41.790 --> 20:45.990
+they get to take advantage of those problem solvers.
+
+491
+20:45.990 --> 20:47.520
+When the engineers sit back
+
+492
+20:47.520 --> 20:49.620
+and they go, all right, I gotta get this signal from point A
+
+493
+20:49.620 --> 20:52.170
+to point B and it's gotta be interoperable with this.
+
+494
+20:52.170 --> 20:54.720
+They get to choose what the right standard is
+
+495
+20:54.720 --> 20:56.460
+for their application
+
+496
+20:56.460 --> 20:58.860
+<v Jennifer>You mentioned kind of expanding</v>
+
+497
+20:58.860 --> 20:59.693
+beyond residential.
+
+498
+20:59.693 --> 21:02.820
+Z-Wave has had a really strong presence
+
+499
+21:02.820 --> 21:04.740
+within like home security for instance,
+
+500
+21:04.740 --> 21:06.750
+use those types of systems.
+
+501
+21:06.750 --> 21:07.950
+I believe there's also announcement
+
+502
+21:07.950 --> 21:10.260
+with Smart Rent looking at multifamily.
+
+503
+21:10.260 --> 21:13.260
+Is that kind of one of those next areas expansion
+
+504
+21:13.260 --> 21:15.660
+that you're looking at or are there other verticals?
+
+505
+21:15.660 --> 21:17.640
+<v ->No, you know, and it's funny</v>
+
+506
+21:17.640 --> 21:19.889
+because Z-Wave has been used in lots
+
+507
+21:19.889 --> 21:22.320
+of different verticals for a long time.
+
+508
+21:22.320 --> 21:25.500
+I, myself, did a very large hotel installation
+
+509
+21:25.500 --> 21:27.510
+using Z-Wave many years ago
+
+510
+21:27.510 --> 21:29.162
+and so multifamily is a great extension
+
+511
+21:29.162 --> 21:31.170
+of where Z-Wave is going.
+
+512
+21:31.170 --> 21:33.595
+Z-Wave long range actually gives more opportunity
+
+513
+21:33.595 --> 21:35.160
+in those kinds of environments
+
+514
+21:35.160 --> 21:37.230
+because now we can network together
+
+515
+21:37.230 --> 21:38.610
+two different mesh networks
+
+516
+21:38.610 --> 21:40.110
+with three different mesh networks.
+
+517
+21:40.110 --> 21:42.570
+So now you can have campus-wide environments,
+
+518
+21:42.570 --> 21:44.130
+so smart city
+
+519
+21:44.130 --> 21:46.020
+and then industrial applications.
+
+520
+21:46.020 --> 21:48.000
+Just yesterday I was having a conversation,
+
+521
+21:48.000 --> 21:50.640
+there's a big problem in the drone world
+
+522
+21:50.640 --> 21:55.350
+where drones end up breaking their electronic leash
+
+523
+21:55.350 --> 21:58.050
+because they rely on things like wifi and cellular
+
+524
+21:58.050 --> 21:59.970
+and there's some latency built into cellular
+
+525
+21:59.970 --> 22:02.790
+and wifi sometimes can be interfered with.
+
+526
+22:02.790 --> 22:05.280
+Z-Wave long range is a really great opportunity
+
+527
+22:05.280 --> 22:07.904
+to do command and control, right.
+
+528
+22:07.904 --> 22:09.150
+It's not gonna do the video, it's not gonna be backup,
+
+529
+22:09.150 --> 22:10.980
+but it's backup for the command and control
+
+530
+22:10.980 --> 22:12.090
+of a drone, for instance.
+
+531
+22:12.090 --> 22:14.640
+So the drone could be a mile and a half away
+
+532
+22:14.640 --> 22:18.090
+and Z-Wave long range will still give you full bandwidth
+
+533
+22:18.090 --> 22:19.680
+to be able to communicate with that drone,
+
+534
+22:19.680 --> 22:21.796
+bring it back to its home base,
+
+535
+22:21.796 --> 22:24.360
+and make sure that you don't lose communication with it.
+
+536
+22:24.360 --> 22:26.100
+So there's lots of cool applications
+
+537
+22:26.100 --> 22:28.290
+that we're just starting to scratch the surface on.
+
+538
+22:28.290 --> 22:30.300
+<v ->Awesome, drones also have a new PR problem</v>
+
+539
+22:30.300 --> 22:31.470
+in New Jersey, I hear
+
+540
+22:31.470 --> 22:32.303
+<v ->It's a whole other issue that we--</v>
+
+541
+22:32.303 --> 22:37.303
+<v ->Yeah, okay, you know, I love to give you an opportunity</v>
+
+542
+22:37.650 --> 22:39.600
+to tell us more about the standard.
+
+543
+22:39.600 --> 22:40.650
+You mentioned, of course,
+
+544
+22:40.650 --> 22:43.110
+talking about those larger appliances,
+
+545
+22:43.110 --> 22:45.483
+long lifetime appliances.
+
+546
+22:46.440 --> 22:48.720
+Tell us a little bit about why you felt like a standard was
+
+547
+22:48.720 --> 22:51.660
+needed for sharing energy consumption data
+
+548
+22:51.660 --> 22:56.010
+and sharing data for these types of appliances specifically.
+
+549
+22:56.010 --> 22:58.910
+<v ->Very good, so HCA, as I mentioned</v>
+
+550
+22:58.910 --> 23:03.030
+before, was focused on the long life items.
+
+551
+23:03.030 --> 23:05.970
+And what I'm talking about is these are your washers,
+
+552
+23:05.970 --> 23:09.120
+your ovens, your refrigerators, the devices
+
+553
+23:09.120 --> 23:12.589
+that basically stay in our homes for decades.
+
+554
+23:12.589 --> 23:14.808
+The reason why we had created.
+
+555
+23:14.808 --> 23:18.930
+We did spend a lot of time, you know, thinking,
+
+556
+23:18.930 --> 23:21.147
+do we need to create an actual new standard
+
+557
+23:21.147 --> 23:24.210
+and a new alliance to actually tackle this?
+
+558
+23:24.210 --> 23:27.734
+Should we be part of Matter or CSA?
+
+559
+23:27.734 --> 23:30.017
+And what we decided was that we do actually need
+
+560
+23:30.017 --> 23:32.790
+to have a separate alliance
+
+561
+23:32.790 --> 23:37.790
+to focus specifically on this decade-long approach.
+
+562
+23:38.700 --> 23:42.390
+I think as manufacturers we've seen standards come and go.
+
+563
+23:42.390 --> 23:44.640
+We've seen even platforms come and go, right,
+
+564
+23:44.640 --> 23:47.910
+and so I think what we do is we wanna make sure that this,
+
+565
+23:47.910 --> 23:50.819
+whatever we end up with is meaningful
+
+566
+23:50.819 --> 23:54.030
+and there's a path to transition for our consumers
+
+567
+23:54.030 --> 23:57.240
+who own these devices for over 10 years, right,
+
+568
+23:57.240 --> 23:59.064
+or 15, 20 years.
+
+569
+23:59.064 --> 24:02.202
+I think the second part I wanted to make sure is
+
+570
+24:02.202 --> 24:04.928
+that we, HCA focus on is one is, you know,
+
+571
+24:04.928 --> 24:08.494
+the interoperability and kind of the communication
+
+572
+24:08.494 --> 24:12.090
+between the manufacturer and the the consumer.
+
+573
+24:12.090 --> 24:13.770
+The other important piece is
+
+574
+24:13.770 --> 24:15.903
+that all of this interoperability
+
+575
+24:15.903 --> 24:19.860
+and connection, it actually leads to somewhere, right.
+
+576
+24:19.860 --> 24:21.690
+And the somewhere what I'm talking about is
+
+577
+24:21.690 --> 24:23.730
+there's services
+
+578
+24:23.730 --> 24:26.760
+and there's additional sort of business models
+
+579
+24:26.760 --> 24:28.470
+that actually come from this, right.
+
+580
+24:28.470 --> 24:31.530
+And we wanna make sure that for the manufacturers,
+
+581
+24:31.530 --> 24:33.186
+for the consumers, right,
+
+582
+24:33.186 --> 24:35.769
+and for the service providers, whether it's retailer
+
+583
+24:35.769 --> 24:40.769
+or energy, utility insurance, home security,
+
+584
+24:40.890 --> 24:45.060
+that there's actual a path to make that service happen
+
+585
+24:45.060 --> 24:48.210
+and in the end return that benefit to the consumer, right.
+
+586
+24:48.210 --> 24:52.980
+So I think that's what keeps these initiatives sustainable
+
+587
+24:52.980 --> 24:54.840
+and we will keep it going, right,
+
+588
+24:54.840 --> 24:58.500
+and so we spend a lot of energy focusing on that, yeah.
+
+589
+24:58.500 --> 25:01.650
+<v Jennifer>Can can you tell us a little bit more about,</v>
+
+590
+25:01.650 --> 25:03.600
+you know, sharing of energy consumption data?
+
+591
+25:03.600 --> 25:05.130
+Because I think this is one thing
+
+592
+25:05.130 --> 25:07.350
+that when we think about the energy conversation,
+
+593
+25:07.350 --> 25:09.390
+we have a panel leader all about energy.
+
+594
+25:09.390 --> 25:11.490
+You know, utilities are definitely interested
+
+595
+25:11.490 --> 25:15.060
+in seeing more information behind the meter.
+
+596
+25:15.060 --> 25:18.561
+Consumers right now often don't have very granular access
+
+597
+25:18.561 --> 25:23.130
+to what devices in their home are, you know,
+
+598
+25:23.130 --> 25:26.130
+consuming what types of of energy, you know.
+
+599
+25:26.130 --> 25:27.990
+What does, what you're working on mean
+
+600
+25:27.990 --> 25:31.650
+for other ecosystem players and for consumers?
+
+601
+25:31.650 --> 25:33.660
+<v ->Yeah, I think the energy,</v>
+
+602
+25:33.660 --> 25:36.210
+you know, there's so many different actual ways
+
+603
+25:36.210 --> 25:38.684
+to reach that granular data.
+
+604
+25:38.684 --> 25:40.947
+There's not one path to get there, right.
+
+605
+25:40.947 --> 25:44.130
+If you have an appliance that's five years old,
+
+606
+25:44.130 --> 25:46.890
+that's may or may not be part of the meter,
+
+607
+25:46.890 --> 25:50.460
+there's al alternative ways to get to that granular data.
+
+608
+25:50.460 --> 25:53.554
+I think in the end what we focus on is
+
+609
+25:53.554 --> 25:55.560
+for the utility companies,
+
+610
+25:55.560 --> 25:59.918
+what information do they need in order to provide efficiency
+
+611
+25:59.918 --> 26:02.340
+and cost savings back to the consumer, right?
+
+612
+26:02.340 --> 26:04.620
+Because in the end, all of this effort,
+
+613
+26:04.620 --> 26:07.817
+if it actually doesn't net out to savings for consumers
+
+614
+26:07.817 --> 26:09.409
+or savings on kind
+
+615
+26:09.409 --> 26:11.730
+of the pressure on the grid,
+
+616
+26:11.730 --> 26:13.170
+doesn't really mean anything, right.
+
+617
+26:13.170 --> 26:15.030
+So what we do is we try to take
+
+618
+26:15.030 --> 26:20.030
+a non-agnostic approach in terms of the many different ways
+
+619
+26:20.610 --> 26:22.110
+to get to that.
+
+620
+26:22.110 --> 26:22.943
+For example,
+
+621
+26:22.943 --> 26:26.010
+the HCA first specification on energy
+
+622
+26:26.010 --> 26:30.300
+focuses squarely on demand response and that only, right.
+
+623
+26:30.300 --> 26:33.960
+And so what we don't think there's a one solution
+
+624
+26:33.960 --> 26:35.160
+to fit everything.
+
+625
+26:35.160 --> 26:37.500
+We're almost taking it
+
+626
+26:37.500 --> 26:40.140
+as chapters in these types of approaches.
+
+627
+26:40.140 --> 26:43.230
+Same thing for home security or insurance, right,
+
+628
+26:43.230 --> 26:45.300
+there's multiple data points
+
+629
+26:45.300 --> 26:48.270
+that would actually help make these businesses
+
+630
+26:48.270 --> 26:49.590
+more efficient,
+
+631
+26:49.590 --> 26:52.410
+therefore returning the savings back to the consumer.
+
+632
+26:52.410 --> 26:55.530
+And I think for, you know, our relationship,
+
+633
+26:55.530 --> 26:56.413
+many of our members
+
+634
+26:56.413 --> 26:58.526
+, the relationship with our consumers is,
+
+635
+26:58.526 --> 27:03.526
+you may buy a refrigerator from me,
+
+636
+27:04.530 --> 27:07.020
+maybe two or three times in the whole life
+
+637
+27:07.020 --> 27:08.310
+of our relationship, right.
+
+638
+27:08.310 --> 27:10.500
+So it's pretty important the trust
+
+639
+27:10.500 --> 27:12.515
+and the continuity, right,
+
+640
+27:12.515 --> 27:15.180
+so we really focus on that.
+
+641
+27:15.180 --> 27:17.250
+<v Jennifer>I love your description of chapters</v>
+
+642
+27:17.250 --> 27:18.960
+that's a great way to think about it.
+
+643
+27:18.960 --> 27:20.070
+Final follow up here
+
+644
+27:20.070 --> 27:22.140
+and then I'd love to get back over to the platform side
+
+645
+27:22.140 --> 27:23.253
+to Stefan and Nick,
+
+646
+27:25.560 --> 27:28.377
+can you explain a little bit how, I know, you know,
+
+647
+27:28.377 --> 27:31.830
+the CSA is also working on energy consumption sharing,
+
+648
+27:31.830 --> 27:35.310
+you know, efforts, how the HCA's effort is different.
+
+649
+27:35.310 --> 27:37.290
+Is it that focus that real, you know,
+
+650
+27:37.290 --> 27:38.848
+special focus on demand response?
+
+651
+27:38.848 --> 27:40.740
+Or can you describe a little bit about
+
+652
+27:40.740 --> 27:43.380
+how those two efforts are different or complimentary?
+
+653
+27:43.380 --> 27:45.720
+<v ->I think in the bigger picture of things,</v>
+
+654
+27:45.720 --> 27:48.150
+it's all headed in the same direction for sure.
+
+655
+27:48.150 --> 27:49.245
+I think right now
+
+656
+27:49.245 --> 27:52.320
+it's just almost different swim lanes, right.
+
+657
+27:52.320 --> 27:57.320
+So HCA is focused on HVAC, long life items,
+
+658
+27:57.990 --> 28:01.613
+you know, appliances, these items that have long life.
+
+659
+28:01.613 --> 28:05.340
+We actually do focus, not exclusively,
+
+660
+28:05.340 --> 28:09.510
+but very primarily focus on C-to-C interaction
+
+661
+28:09.510 --> 28:13.460
+because many of our utility service providers, many of our,
+
+662
+28:13.460 --> 28:14.849
+you know, security,
+
+663
+28:14.849 --> 28:16.807
+it's an easier path to get
+
+664
+28:16.807 --> 28:21.807
+to connecting these older products
+
+665
+28:22.080 --> 28:23.400
+that are already in our home
+
+666
+28:23.400 --> 28:26.160
+and so that's sort of where our focus is.
+
+667
+28:26.160 --> 28:29.040
+I think what we, you know, I know that
+
+668
+28:29.040 --> 28:34.040
+for CSA and Matter, there's a much larger perspective
+
+669
+28:34.080 --> 28:37.260
+that's kind of defining the overall sort of industry,
+
+670
+28:37.260 --> 28:40.053
+but I do believe it's in the same direction,
+
+671
+28:40.053 --> 28:42.390
+just different swim lanes for now.
+
+672
+28:42.390 --> 28:44.069
+<v Jennifer>Okay, great, Michelle did you--</v>
+
+673
+28:44.069 --> 28:44.925
+<v ->Totally agree, totally agree</v>
+
+674
+28:44.925 --> 28:49.320
+and I think, you know, stated it well in that
+
+675
+28:49.320 --> 28:52.830
+there is so much embedded base equipment out there,
+
+676
+28:52.830 --> 28:55.922
+there is such a need to be able to collect the information
+
+677
+28:55.922 --> 28:57.466
+that is out there today
+
+678
+28:57.466 --> 29:00.330
+to do that cloud-to-cloud connectivity
+
+679
+29:00.330 --> 29:04.050
+and then as people buy the next new thing
+
+680
+29:04.050 --> 29:07.830
+and add other high load equipment to their household,
+
+681
+29:07.830 --> 29:09.900
+whether it's a heat pump or a water pump
+
+682
+29:09.900 --> 29:13.170
+or a pool pump, that all of that data can start
+
+683
+29:13.170 --> 29:16.080
+to be integrated both locally and then also in the cloud.
+
+684
+29:16.080 --> 29:18.082
+So I think they're very complimentary efforts.
+
+685
+29:18.082 --> 29:18.915
+<v ->Absolutely.</v>
+
+686
+29:18.915 --> 29:19.748
+<v ->Okay, all right, great.</v>
+
+687
+29:19.748 --> 29:22.321
+So Stephan and Nick, I wanna come back to you guys
+
+688
+29:22.321 --> 29:25.162
+and get your thoughts as more platform players
+
+689
+29:25.162 --> 29:28.032
+of how do you think about the various standards that are,
+
+690
+29:28.032 --> 29:32.430
+you know, available, how you make use of them or don't?
+
+691
+29:32.430 --> 29:34.710
+Or how you enable your users, you know,
+
+692
+29:34.710 --> 29:36.733
+to make use of 'em and how you track the efforts
+
+693
+29:36.733 --> 29:38.460
+that are happening in the industry?
+
+694
+29:38.460 --> 29:40.273
+<v ->It's great that there's so many different standards.</v>
+
+695
+29:40.273 --> 29:42.360
+I mean, who else would buy our hubs?
+
+696
+29:42.360 --> 29:43.897
+No, I'm just kidding, but I think,
+
+697
+29:43.897 --> 29:45.550
+and that's also already
+
+698
+29:45.550 --> 29:48.087
+what came out the last conversations.
+
+699
+29:48.087 --> 29:49.537
+A lot of these standards
+
+700
+29:49.537 --> 29:52.170
+they serve slightly different purposes
+
+701
+29:52.170 --> 29:53.940
+and you see that everywhere in the market, right.
+
+702
+29:53.940 --> 29:57.030
+Some standards provide exceptionally long range
+
+703
+29:57.030 --> 29:58.800
+and good reliability,
+
+704
+29:58.800 --> 30:01.680
+but there may be a little bit more expensive to integrate.
+
+705
+30:01.680 --> 30:03.660
+Others are more on the cheaper side,
+
+706
+30:03.660 --> 30:06.087
+but they come with other disadvantages either in bandwidth
+
+707
+30:06.087 --> 30:11.087
+or in in range for instance, or in requirements for a hub.
+
+708
+30:11.220 --> 30:13.525
+And you see that a lot of the devices
+
+709
+30:13.525 --> 30:17.010
+and a lot of the engineers, they look at their application,
+
+710
+30:17.010 --> 30:18.240
+they look at what's best
+
+711
+30:18.240 --> 30:20.150
+for their ecosystem and their brand
+
+712
+30:20.150 --> 30:23.370
+and I think in the end, all of these standards
+
+713
+30:23.370 --> 30:24.810
+and all of these standards progressing,
+
+714
+30:24.810 --> 30:26.940
+I mean it tremendously helps the consumers
+
+715
+30:26.940 --> 30:29.550
+because even though if there's different standards,
+
+716
+30:29.550 --> 30:31.839
+having standards is always better than having, you know,
+
+717
+30:31.839 --> 30:33.592
+a thousands of proprietary systems
+
+718
+30:33.592 --> 30:37.350
+because with standards at least it's a handful or maybe 10.
+
+719
+30:37.350 --> 30:40.830
+And then to make it really a win for consumer,
+
+720
+30:40.830 --> 30:43.480
+I do believe that there should be proper user interfaces,
+
+721
+30:43.480 --> 30:46.585
+proper platforms like Homey to integrate multiple
+
+722
+30:46.585 --> 30:51.210
+of those standards into a single real user application.
+
+723
+30:51.210 --> 30:54.000
+Because otherwise you still have 10 ecosystems
+
+724
+30:54.000 --> 30:56.760
+and this is a user you don't want a thousand ecosystems
+
+725
+30:56.760 --> 30:59.010
+to choose from that are all proprietary,
+
+726
+30:59.010 --> 31:02.268
+but you also don't want to have 10,
+
+727
+31:02.268 --> 31:04.897
+ideally you would have one application,
+
+728
+31:04.897 --> 31:06.990
+one platform that you know combines it all.
+
+729
+31:06.990 --> 31:09.420
+So that's the vision and the way that we look at it
+
+730
+31:09.420 --> 31:11.910
+and we also don't wanna, you know, steer the market
+
+731
+31:11.910 --> 31:15.480
+or whatever, if there's a very popular product
+
+732
+31:15.480 --> 31:17.714
+that's based on a certain standard that apparently,
+
+733
+31:17.714 --> 31:21.090
+you know, has selected that standard for a good reason
+
+734
+31:21.090 --> 31:23.730
+and is doing well, then you know, we'll follow that
+
+735
+31:23.730 --> 31:25.345
+and we'll make sure that the consumer
+
+736
+31:25.345 --> 31:28.140
+can use that interoperable with other standards
+
+737
+31:28.140 --> 31:31.260
+no matter what the standard is or ends up to be.
+
+738
+31:31.260 --> 31:33.780
+And I think that sort of,
+
+739
+31:33.780 --> 31:36.205
+yeah enabler role has given us a very nice
+
+740
+31:36.205 --> 31:40.650
+and unique position to actually realize this vision
+
+741
+31:40.650 --> 31:42.930
+of the whole smart home working together
+
+742
+31:42.930 --> 31:45.900
+based on, of course, the shoulders of giants
+
+743
+31:45.900 --> 31:47.220
+of the standards that are there
+
+744
+31:47.220 --> 31:50.190
+because it's easier to implement 10 standards than,
+
+745
+31:50.190 --> 31:53.190
+like I said, a thousand proprietary APIs.
+
+746
+31:53.190 --> 31:54.060
+In real life,
+
+747
+31:54.060 --> 31:55.350
+You end up doing both
+
+748
+31:55.350 --> 31:57.600
+because there's still a lot of proprietary APIs,
+
+749
+31:57.600 --> 32:00.750
+but that's okay as an open platform you can do both.
+
+750
+32:00.750 --> 32:02.220
+<v ->Well and just as a follow up to that,</v>
+
+751
+32:02.220 --> 32:05.700
+obviously with the acquisition of LG who has thinQ, right.
+
+752
+32:05.700 --> 32:08.820
+So they have an interesting kind of dual strategy now.
+
+753
+32:08.820 --> 32:13.350
+So you all coming in as a open part of their play
+
+754
+32:13.350 --> 32:15.060
+and then there's the ThinQ play.
+
+755
+32:15.060 --> 32:17.640
+<v ->Yeah, so they're opening up their ThinQ part as well.</v>
+
+756
+32:17.640 --> 32:19.080
+I mean, that's not our effort,
+
+757
+32:19.080 --> 32:20.323
+that's the guy in Korea doing that.
+
+758
+32:20.323 --> 32:23.686
+As you might see, I'm not super Korean,
+
+759
+32:23.686 --> 32:26.353
+but indeed they are opening up
+
+760
+32:26.353 --> 32:29.700
+but it's still proprietary system and a proprietary API.
+
+761
+32:29.700 --> 32:33.180
+But I do know that they are also moving towards Matter,
+
+762
+32:33.180 --> 32:34.380
+at least Matter control
+
+763
+32:34.380 --> 32:38.190
+and I do also assume Matter recipients
+
+764
+32:38.190 --> 32:42.120
+and I do believe they're part of the ADA as well.
+
+765
+32:42.120 --> 32:44.580
+So probably LG appliance will become compatible
+
+766
+32:44.580 --> 32:45.413
+with that as well.
+
+767
+32:45.413 --> 32:46.560
+It's just sometimes
+
+768
+32:46.560 --> 32:48.705
+for a larger corporate it takes a little bit longer
+
+769
+32:48.705 --> 32:52.260
+to get on the board and it allows us,
+
+770
+32:52.260 --> 32:53.310
+and that's what we're here for,
+
+771
+32:53.310 --> 32:55.140
+to help them accelerate their efforts
+
+772
+32:55.140 --> 32:56.694
+and to make sure that, you know, we play
+
+773
+32:56.694 --> 32:59.040
+and keep playing that front runner role
+
+774
+32:59.040 --> 33:00.090
+under the Homey brand
+
+775
+33:00.090 --> 33:02.970
+and they can take more and more of our technology
+
+776
+33:02.970 --> 33:05.451
+and make it available across their great appliances
+
+777
+33:05.451 --> 33:08.160
+and devices as well.
+
+778
+33:08.160 --> 33:10.830
+<v ->So Nick, coming from more of a proprietary play, right.</v>
+
+779
+33:10.830 --> 33:12.990
+How you think about what standards are right
+
+780
+33:12.990 --> 33:14.970
+for your experience?
+
+781
+33:14.970 --> 33:17.730
+<v ->So we are the advocates for the customer,</v>
+
+782
+33:17.730 --> 33:19.380
+the mass market consumer
+
+783
+33:19.380 --> 33:21.060
+and we take that very, very personally.
+
+784
+33:21.060 --> 33:23.460
+Like I have to work in a Home Depot store
+
+785
+33:23.460 --> 33:24.660
+at least four days a year.
+
+786
+33:24.660 --> 33:26.010
+I'm usually in a store every Thursday
+
+787
+33:26.010 --> 33:27.480
+with an apron on
+
+788
+33:27.480 --> 33:30.720
+talking to a consumer selling customers products.
+
+789
+33:30.720 --> 33:32.370
+Once you have to start explaining
+
+790
+33:32.370 --> 33:34.500
+what the difference between, you know,
+
+791
+33:34.500 --> 33:37.800
+to go back to the 2017 days of ZigBee, Z-Wave,
+
+792
+33:37.800 --> 33:39.120
+this one works on this platform,
+
+793
+33:39.120 --> 33:42.510
+this one works on that platform, you've lost the consumer.
+
+794
+33:42.510 --> 33:46.050
+So where we focused our efforts on was a customer needs
+
+795
+33:46.050 --> 33:49.050
+to be able to buy any one of our products.
+
+796
+33:49.050 --> 33:52.500
+Again over 200 products categories across the store.
+
+797
+33:52.500 --> 33:54.360
+If you buy any single one of those products
+
+798
+33:54.360 --> 33:57.270
+and you take it home, you'll be able to set it up,
+
+799
+33:57.270 --> 33:59.980
+get it connected in under 60 seconds or less
+
+800
+34:01.020 --> 34:03.540
+without another product being needed in your home.
+
+801
+34:03.540 --> 34:06.360
+So we focused on the technologies that we knew all
+
+802
+34:06.360 --> 34:08.876
+of our customers had in their homes today.
+
+803
+34:08.876 --> 34:12.510
+So everybody has at that point that had a cell phone,
+
+804
+34:12.510 --> 34:13.680
+had Bluetooth.
+
+805
+34:13.680 --> 34:15.750
+If you were buying a smart product, you had wifi.
+
+806
+34:15.750 --> 34:17.213
+So all of our products are wifi and Bluetooth.
+
+807
+34:17.213 --> 34:19.649
+You don't need product B
+
+808
+34:19.649 --> 34:22.274
+in order to buy product A when you get it home.
+
+809
+34:22.274 --> 34:25.170
+And you don't have to explain, you just tell the customer,
+
+810
+34:25.170 --> 34:26.700
+if you buy this, you take it home,
+
+811
+34:26.700 --> 34:29.250
+you download the Hubspace app, it will work.
+
+812
+34:29.250 --> 34:32.223
+Now from a proprietary platform point-of-view,
+
+813
+34:33.180 --> 34:35.820
+yeah I would love it if you know everybody were like me
+
+814
+34:35.820 --> 34:38.070
+and had a hundred Hubspace products in their house.
+
+815
+34:38.070 --> 34:41.040
+But we want our customers to be able to.
+
+816
+34:41.040 --> 34:43.620
+We're in the business of selling products to our customers
+
+817
+34:43.620 --> 34:45.150
+and our customers buying products from Home Depot.
+
+818
+34:45.150 --> 34:46.980
+I want them to be able to control the products
+
+819
+34:46.980 --> 34:48.691
+from whatever area or surface that they want
+
+820
+34:48.691 --> 34:51.544
+to be able to control it from.
+
+821
+34:51.544 --> 34:54.173
+You know, we can do anything we do, can do everything.
+
+822
+34:54.173 --> 34:55.800
+You just can't do everything all at once.
+
+823
+34:55.800 --> 34:57.120
+We started with the platforms
+
+824
+34:57.120 --> 34:58.770
+that had the majority of the market share.
+
+825
+34:58.770 --> 35:00.780
+Amazon, Alexa and Google Home
+
+826
+35:00.780 --> 35:02.910
+had a large portion of the market share
+
+827
+35:02.910 --> 35:05.220
+as Parks data shows us.
+
+828
+35:05.220 --> 35:06.900
+So that's where we folks our efforts
+
+829
+35:06.900 --> 35:09.270
+and making sure that we had the best value products
+
+830
+35:09.270 --> 35:12.000
+that we could get to market that were as simple as possible
+
+831
+35:12.000 --> 35:14.700
+for customers to explain or to understand
+
+832
+35:14.700 --> 35:16.290
+and get set up in their homes
+
+833
+35:16.290 --> 35:17.730
+to help our store.
+
+834
+35:17.730 --> 35:19.680
+Associates be able to just have confidence
+
+835
+35:19.680 --> 35:20.820
+in selling smart home
+
+836
+35:20.820 --> 35:23.730
+and getting smart home products into that mass market.
+
+837
+35:23.730 --> 35:26.640
+So for me the standards are fantastic.
+
+838
+35:26.640 --> 35:29.670
+I have nothing but support for Matter
+
+839
+35:29.670 --> 35:32.640
+and all the other alliances pushing the industry forward
+
+840
+35:32.640 --> 35:33.990
+and we support them.
+
+841
+35:33.990 --> 35:34.980
+For today,
+
+842
+35:34.980 --> 35:38.100
+we are focused on what is the easiest for our customers
+
+843
+35:38.100 --> 35:41.010
+to understand and get adopted in their homes.
+
+844
+35:41.010 --> 35:43.770
+<v ->Okay, so looking forward, what do you think.</v>
+
+845
+35:43.770 --> 35:46.110
+And then Stefan, I'm gonna pose the same thing to you.
+
+846
+35:46.110 --> 35:51.060
+What do you think is the next really layer
+
+847
+35:51.060 --> 35:54.451
+of differentiation for the platform experience, right,
+
+848
+35:54.451 --> 35:57.120
+that makes consumers choose to stick
+
+849
+35:57.120 --> 35:58.800
+with one platform versus the other?
+
+850
+35:58.800 --> 36:01.710
+I think we're getting a lot more kind of tighter competition
+
+851
+36:02.824 --> 36:05.583
+among what platforms have really emerged as as leaders
+
+852
+36:05.583 --> 36:06.416
+and really at the table.
+
+853
+36:06.416 --> 36:07.249
+Is it the intelligence?
+
+854
+36:07.249 --> 36:11.160
+Is it the, the spread of the product portfolio support it,
+
+855
+36:11.160 --> 36:13.330
+is it the trust they have with you as a brand, right?
+
+856
+36:13.330 --> 36:15.570
+And they know that they can come into the store
+
+857
+36:15.570 --> 36:16.973
+and talk to the apron guys
+
+858
+36:16.973 --> 36:19.545
+and who can help them with their problem, right.
+
+859
+36:19.545 --> 36:23.818
+What's gonna differentiate the next platform
+
+860
+36:23.818 --> 36:26.093
+kind of level there?
+
+861
+36:26.093 --> 36:28.410
+<v ->I think that that's a hard question to answer</v>
+
+862
+36:28.410 --> 36:30.210
+'cause there are a lot of different types of customers.
+
+863
+36:30.210 --> 36:31.852
+But I think for the mass market customer,
+
+864
+36:31.852 --> 36:34.655
+it's going to be what is the simplest platform
+
+865
+36:34.655 --> 36:39.013
+that provides the most value to the customer.
+
+866
+36:39.013 --> 36:43.029
+Am I able to tie together my ceiling fan
+
+867
+36:43.029 --> 36:46.890
+and my window air conditioner
+
+868
+36:46.890 --> 36:48.824
+to more efficiently cool my house?
+
+869
+36:48.824 --> 36:51.496
+Very easy value add things
+
+870
+36:51.496 --> 36:53.520
+for the mass market consumer
+
+871
+36:53.520 --> 36:56.580
+that are given to and dev in a very easy way.
+
+872
+36:56.580 --> 36:58.306
+I'll speak for the mass market consumer.
+
+873
+36:58.306 --> 37:01.785
+I think there are, I'll let Homey go for their answer.
+
+874
+37:01.785 --> 37:05.400
+<v ->No, I agree that actually saving money</v>
+
+875
+37:05.400 --> 37:10.290
+or like the HCA also mentioned like having a cost first
+
+876
+37:10.290 --> 37:12.720
+or a price first reason really helps
+
+877
+37:12.720 --> 37:15.420
+with mass market adoption because not everyone just buys it
+
+878
+37:15.420 --> 37:17.190
+because they're interested in tech.
+
+879
+37:17.190 --> 37:19.350
+Some people just want a real life application
+
+880
+37:19.350 --> 37:21.600
+like saving money, like saving energy.
+
+881
+37:21.600 --> 37:23.340
+And luckily because mainly
+
+882
+37:23.340 --> 37:25.320
+because of this, the work of these standards,
+
+883
+37:25.320 --> 37:27.660
+I think the first differentiator of having
+
+884
+37:27.660 --> 37:30.613
+that broad product range supported I think has been covered
+
+885
+37:30.613 --> 37:32.801
+by most mature platforms.
+
+886
+37:32.801 --> 37:35.070
+Also as platforms matured,
+
+887
+37:35.070 --> 37:37.110
+obviously we came from like a hundred
+
+888
+37:37.110 --> 37:41.610
+and consolidated into five, maybe 10 really relevant ones.
+
+889
+37:41.610 --> 37:45.060
+I think future-looking it will be towards providing value,
+
+890
+37:45.060 --> 37:47.280
+for instance through energy, energy monitoring,
+
+891
+37:47.280 --> 37:50.917
+energy saving energy timings with dynamic energy prices.
+
+892
+37:50.917 --> 37:52.415
+I think that's an important one.
+
+893
+37:52.415 --> 37:56.220
+Automation, you know, making sure that you get more out
+
+894
+37:56.220 --> 37:58.590
+of your devices by having them really work together
+
+895
+37:58.590 --> 38:00.420
+because it started out with control,
+
+896
+38:00.420 --> 38:03.000
+but control at a certain point is a given
+
+897
+38:03.000 --> 38:04.710
+and automation is next.
+
+898
+38:04.710 --> 38:06.750
+And I think people will become a little bit more,
+
+899
+38:06.750 --> 38:09.831
+at some people, not everyone will become a little bit more
+
+900
+38:09.831 --> 38:12.687
+aware of, you know, what kind of privacy policy
+
+901
+38:12.687 --> 38:15.870
+and if they're really converging towards a single platform,
+
+902
+38:15.870 --> 38:17.520
+who do they trust their data with?
+
+903
+38:17.520 --> 38:21.030
+Do they want it cloud operated or locally operated?
+
+904
+38:21.030 --> 38:23.700
+Do they want it spend a little bit more
+
+905
+38:23.700 --> 38:25.860
+but have it not with an advertising company
+
+906
+38:25.860 --> 38:27.210
+or they don't wanna spend less
+
+907
+38:27.210 --> 38:29.880
+and have your data hosted by an advertising company?
+
+908
+38:29.880 --> 38:32.524
+It's those sort of choices that people will be able to make,
+
+909
+38:32.524 --> 38:35.689
+but only because that first hygiene layer
+
+910
+38:35.689 --> 38:38.370
+of having connectivity,
+
+911
+38:38.370 --> 38:40.503
+being able to connect all those devices
+
+912
+38:40.503 --> 38:43.740
+and I'm super happy to hear that you're opening a Hubspace
+
+913
+38:43.740 --> 38:44.970
+to more platforms as well
+
+914
+38:44.970 --> 38:47.770
+because of course we would love to integrate it as well.
+
+915
+38:48.840 --> 38:51.758
+Is there, and we can build on towards the real value
+
+916
+38:51.758 --> 38:54.660
+of smart home because connectivity
+
+917
+38:54.660 --> 38:56.190
+and controls a hygiene factor,
+
+918
+38:56.190 --> 38:59.335
+but the real value is in automation, it's in energy savings,
+
+919
+38:59.335 --> 39:03.090
+it's in real life monetary things
+
+920
+39:03.090 --> 39:06.006
+and then of course it's a personal choice
+
+921
+39:06.006 --> 39:08.880
+on privacy, local or cloud.
+
+922
+39:08.880 --> 39:11.580
+<v ->Okay, great, love to see partnerships happening on stage.</v>
+
+923
+39:11.580 --> 39:12.416
+Just have a minute or so left,
+
+924
+39:12.416 --> 39:14.208
+I'd love to do just a again,
+
+925
+39:14.208 --> 39:17.030
+like a quick hit of on the standard side,
+
+926
+39:17.030 --> 39:18.780
+what are you focusing on?
+
+927
+39:18.780 --> 39:22.140
+What's next for standards development for Z-Wave
+
+928
+39:22.140 --> 39:24.450
+for Matter and for HCA that we can kind
+
+929
+39:24.450 --> 39:26.610
+of expect coming down the pipe here?
+
+930
+39:26.610 --> 39:28.080
+<v ->So for us, our three initiatives</v>
+
+931
+39:28.080 --> 39:31.033
+for 2025 are the expansion of Z-Wave long range.
+
+932
+39:31.033 --> 39:35.820
+The addition of S2-V2, our new encryption methodology
+
+933
+39:35.820 --> 39:38.550
+to make us even more compliant with the Cyber Trust Mark
+
+934
+39:38.550 --> 39:39.990
+that's coming out later this year
+
+935
+39:39.990 --> 39:42.000
+and third is batteryless technology.
+
+936
+39:42.000 --> 39:45.720
+So we're actually adding an environment within Z-Wave
+
+937
+39:45.720 --> 39:48.690
+that will allow for the use of batteryless sensors
+
+938
+39:48.690 --> 39:51.720
+and things within the Z-Wave environment.
+
+939
+39:51.720 --> 39:52.570
+<v ->Okay, Michelle.</v>
+
+940
+39:53.920 --> 39:58.920
+<v ->Okay, I'll try to be that brief as well, very good.</v>
+
+941
+39:58.950 --> 40:01.260
+So from a Matter perspective this year,
+
+942
+40:01.260 --> 40:02.430
+we are gonna continue forward
+
+943
+40:02.430 --> 40:06.090
+with our release cadence as the market has continued to see,
+
+944
+40:06.090 --> 40:08.940
+focus continues to be on making sure
+
+945
+40:08.940 --> 40:11.910
+that we've got a very robust software development kit
+
+946
+40:11.910 --> 40:13.290
+that's open sourced, available
+
+947
+40:13.290 --> 40:15.150
+for everyone to get access to.
+
+948
+40:15.150 --> 40:16.800
+We're gonna continue to evolve
+
+949
+40:16.800 --> 40:19.137
+and I think there's already been some news out there,
+
+950
+40:19.137 --> 40:22.528
+our device portfolio adding some new devices
+
+951
+40:22.528 --> 40:25.590
+as the year progresses and continue to progress things
+
+952
+40:25.590 --> 40:27.097
+like our energy management features,
+
+953
+40:27.097 --> 40:31.983
+et cetera, that were so well developed in in Matter 1.4.
+
+954
+40:32.988 --> 40:34.546
+<v ->Okay, fantastic, Yoon Ho.</v>
+
+955
+40:34.546 --> 40:37.530
+<v ->Yeah, I think for HCA, there's so much good work</v>
+
+956
+40:37.530 --> 40:39.595
+that's being done in the industry.
+
+957
+40:39.595 --> 40:42.240
+You know, 2025 and beyond,
+
+958
+40:42.240 --> 40:46.140
+we're gonna focus on how do we take what we do
+
+959
+40:46.140 --> 40:50.400
+and make this actually connectable to the larger ecosystem
+
+960
+40:50.400 --> 40:52.050
+of home services
+
+961
+40:52.050 --> 40:54.270
+and home ecosystems that's out there, right?
+
+962
+40:54.270 --> 40:57.487
+So that means what we do, how do we connect this
+
+963
+40:57.487 --> 40:59.068
+to other businesses
+
+964
+40:59.068 --> 41:02.130
+and industry sectors that are out there to,
+
+965
+41:02.130 --> 41:04.320
+in fact, create business models
+
+966
+41:04.320 --> 41:07.740
+that will provide benefit back to the consumer.
+
+967
+41:07.740 --> 41:11.711
+I think that's gonna be our core focus for going forward
+
+968
+41:11.711 --> 41:14.220
+and we look forward to that.
+
+969
+41:14.220 --> 41:15.960
+<v ->Okay, fantastic, well, you're out of time.</v>
+
+970
+41:15.960 --> 41:17.759
+Please join me in thanking our panelists
+
+971
+41:17.759 --> 41:20.261
+for their great insights today.
+
+972
+41:20.261 --> 41:21.246
+(audience clapping)
+
+973
+41:21.246 --> 41:23.829
+(bright music)
+

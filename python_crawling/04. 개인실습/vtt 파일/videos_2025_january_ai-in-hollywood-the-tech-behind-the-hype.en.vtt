@@ -1,0 +1,4801 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.583
+(upbeat music)
+
+2
+00:10.830 --> 00:13.470
+<v ->All right, hello CES, how is everybody doing today</v>
+
+3
+00:13.470 --> 00:15.480
+on a Thursday afternoon?
+
+4
+00:15.480 --> 00:16.890
+Yes. Oh, I like that energy.
+
+5
+00:16.890 --> 00:18.330
+Thank you so much for that.
+
+6
+00:18.330 --> 00:21.210
+Yeah, but you're gonna be glad you came to this one
+
+7
+00:21.210 --> 00:23.040
+and everyone's gonna be very sad that they didn't come here.
+
+8
+00:23.040 --> 00:25.080
+We have such a great panel here today
+
+9
+00:25.080 --> 00:27.450
+and I'm really excited about this topic.
+
+10
+00:27.450 --> 00:32.450
+I'm Eric Iverson, I'm the CTO at United Talent Agency,
+
+11
+00:33.450 --> 00:37.260
+and we're one of the leading talent agencies in Hollywood.
+
+12
+00:37.260 --> 00:39.030
+I've been in media entertainment technology
+
+13
+00:39.030 --> 00:42.240
+for about 25 years and I couldn't be more excited
+
+14
+00:42.240 --> 00:45.270
+than to interview this very wonderful and esteemed panel.
+
+15
+00:45.270 --> 00:48.900
+So we're going to go through each one
+
+16
+00:48.900 --> 00:51.570
+and let them talk about themselves a little bit.
+
+17
+00:51.570 --> 00:54.630
+And so the first I start with Soyoung,
+
+18
+00:54.630 --> 00:57.510
+you wanna just a quick introduction of yourself.
+
+19
+00:57.510 --> 00:59.730
+<v ->Hey everyone, I'm Soyoung, I'm one of the Co-founders</v>
+
+20
+00:59.730 --> 01:02.880
+and Head of Go-to-Market at a company called Twelve Labs.
+
+21
+01:02.880 --> 01:06.270
+And Twelve Labs is a company that builds foundation models
+
+22
+01:06.270 --> 01:09.540
+for multimodal video understanding, which is a fancy way
+
+23
+01:09.540 --> 01:12.030
+of saying we build AI that can contextually comprehend
+
+24
+01:12.030 --> 01:14.940
+everything inside video, just like a human can.
+
+25
+01:14.940 --> 01:17.880
+That then allows our end users to be able to search
+
+26
+01:17.880 --> 01:20.700
+and find any moment across large video libraries
+
+27
+01:20.700 --> 01:24.030
+using everyday language, automatically summarize, describe,
+
+28
+01:24.030 --> 01:26.400
+ask questions about what's happening inside video,
+
+29
+01:26.400 --> 01:28.530
+create highlights and so on.
+
+30
+01:28.530 --> 01:30.960
+<v ->Yeah, and I thought this was like such a great picture</v>
+
+31
+01:30.960 --> 01:34.410
+of Soyoung and magically you come to CES
+
+32
+01:34.410 --> 01:37.260
+and that, you know, don't you think it was like,
+
+33
+01:37.260 --> 01:38.850
+this looks like someone that should be in a movie.
+
+34
+01:38.850 --> 01:39.720
+Like when you look at that photo
+
+35
+01:39.720 --> 01:42.270
+and then you saw like this, like very kind of diva look.
+
+36
+01:42.270 --> 01:43.980
+Anyway, I thought you look really great. It's amazing.
+
+37
+01:43.980 --> 01:45.060
+I didn't do anything by the way.
+
+38
+01:45.060 --> 01:48.172
+It just, you come to CES and magically the photo does that.
+
+39
+01:48.172 --> 01:49.620
+So anyway, that's great.
+
+40
+01:49.620 --> 01:51.630
+Cody now is very nervous about what's gonna happen next.
+
+41
+01:51.630 --> 01:53.670
+But Cody, would you please do a quick introduction
+
+42
+01:53.670 --> 01:54.503
+of yourself?
+
+43
+01:56.670 --> 01:59.640
+<v ->Good afternoon everyone. I am Dr. Cody Coleman.</v>
+
+44
+01:59.640 --> 02:03.450
+I'm the CEO and Co-founder of Coactive AI.
+
+45
+02:03.450 --> 02:07.290
+Coactive is a multimodal AI platform
+
+46
+02:07.290 --> 02:11.790
+that makes it easy to search and analyze images and video.
+
+47
+02:11.790 --> 02:13.140
+We work a lot with media
+
+48
+02:13.140 --> 02:14.250
+and retail companies,
+
+49
+02:14.250 --> 02:18.923
+allowing them to build applications on all of their content.
+
+50
+02:18.923 --> 02:20.670
+<v Eric>Yeah, it's great, great technology</v>
+
+51
+02:20.670 --> 02:23.010
+and it's really great 'cause you get these photos
+
+52
+02:23.010 --> 02:24.780
+and then you never know what's gonna happen
+
+53
+02:24.780 --> 02:27.630
+and all of a sudden like, what's behind Cody?
+
+54
+02:27.630 --> 02:30.360
+You know, and you'd be surprised like in Hollywood
+
+55
+02:30.360 --> 02:31.620
+what could just be right behind a picture.
+
+56
+02:31.620 --> 02:33.810
+So anyway, thank you for that Cody.
+
+57
+02:33.810 --> 02:37.500
+And then next, David, would you do a quick intro?
+
+58
+02:37.500 --> 02:39.270
+<v ->Sure, okay, I didn't know, I thought photos were optional,</v>
+
+59
+02:39.270 --> 02:40.380
+so I didn't know where you got that, but hey,
+
+60
+02:40.380 --> 02:41.970
+my name is David Bennett.
+
+61
+02:41.970 --> 02:44.730
+I'm the Chief Customer Officer at Tenstorrent,
+
+62
+02:44.730 --> 02:46.830
+Tenstorrent and AI hardware company.
+
+63
+02:46.830 --> 02:48.690
+We build computers for AI
+
+64
+02:48.690 --> 02:50.820
+and what that means, actually, we're kind of full stack.
+
+65
+02:50.820 --> 02:55.230
+We build the IP, we build the chips, we put in AI technology
+
+66
+02:55.230 --> 02:57.810
+and compute technology to basically offer an alternative
+
+67
+02:57.810 --> 02:59.280
+for people that are looking to power
+
+68
+02:59.280 --> 03:02.070
+their training, their inference, whatever.
+
+69
+03:02.070 --> 03:04.260
+So yeah, it's an exciting time to be in our space.
+
+70
+03:04.260 --> 03:07.260
+<v Eric>That's great, and to compliment David,</v>
+
+71
+03:07.260 --> 03:08.130
+we have Simon.
+
+72
+03:08.130 --> 03:09.690
+Simon, would you do a quick intro?
+
+73
+03:09.690 --> 03:12.930
+<v ->I will. Nice to meet y'all. It's great to be here.</v>
+
+74
+03:12.930 --> 03:15.597
+So Simon Crownshaw, so I run Media
+
+75
+03:15.597 --> 03:18.303
+and Entertainment at a small company called Microsoft.
+
+76
+03:19.350 --> 03:23.460
+And before that, I was 17 years at the Walt Disney Company
+
+77
+03:23.460 --> 03:26.880
+and now I spend the majority of my time helping customers
+
+78
+03:26.880 --> 03:28.920
+think through their AI journey.
+
+79
+03:28.920 --> 03:30.840
+<v ->Yeah, so we have a pretty good panel here</v>
+
+80
+03:30.840 --> 03:32.580
+and it was interesting, like it is,
+
+81
+03:32.580 --> 03:34.050
+I never saw this ever happen before,
+
+82
+03:34.050 --> 03:37.050
+but these photos got really competitive with one another.
+
+83
+03:37.050 --> 03:40.830
+And so I think they were ready for this panel here today.
+
+84
+03:40.830 --> 03:43.080
+So anyway, thank you guys for really
+
+85
+03:43.080 --> 03:44.190
+bringing your best here today.
+
+86
+03:44.190 --> 03:46.500
+That's really impressive. Okay.
+
+87
+03:46.500 --> 03:49.080
+So if you didn't think that we had such a great panel,
+
+88
+03:49.080 --> 03:50.640
+and Simon hasn't seen this either,
+
+89
+03:50.640 --> 03:55.640
+but I asked Co-pilot if how serious Microsoft
+
+90
+03:56.310 --> 03:59.190
+was actually about Media and Entertainment
+
+91
+03:59.190 --> 04:00.240
+and you could read for yourself,
+
+92
+04:00.240 --> 04:01.380
+this is straight outta Co-pilot
+
+93
+04:01.380 --> 04:02.790
+so for sure you could believe a hundred percent of it.
+
+94
+04:02.790 --> 04:05.460
+But my favorite part was right here is the one name
+
+95
+04:05.460 --> 04:08.220
+that it called out on its own was Simon Crownshaw.
+
+96
+04:08.220 --> 04:09.720
+And he's right here, right here.
+
+97
+04:09.720 --> 04:12.840
+Like the guy that if you asked Co-pilot, he's right here.
+
+98
+04:12.840 --> 04:15.030
+So you're gonna get to hear from him directly here today.
+
+99
+04:15.030 --> 04:17.460
+Okay. So I'm gonna do a little context.
+
+100
+04:17.460 --> 04:20.340
+Our industry, I've been this in pretty much most
+
+101
+04:20.340 --> 04:21.690
+aspects of media entertainment.
+
+102
+04:21.690 --> 04:24.000
+I, Simon, you cross most aspects of it,
+
+103
+04:24.000 --> 04:26.157
+super fascinating on what's happening and going on.
+
+104
+04:26.157 --> 04:29.310
+And so I made this up for some colleagues a little while ago
+
+105
+04:29.310 --> 04:31.980
+to almost explain some of the changes I think we're seeing
+
+106
+04:31.980 --> 04:34.770
+with consumers and consumers are continually dealing
+
+107
+04:34.770 --> 04:39.210
+with this time versus quality kind of basically matrix
+
+108
+04:39.210 --> 04:40.562
+that I think that we're doing.
+
+109
+04:40.562 --> 04:42.480
+And what's interesting about quality
+
+110
+04:42.480 --> 04:46.140
+is how many people here like to drink wine, right?
+
+111
+04:46.140 --> 04:47.797
+And have you ever get these things like,
+
+112
+04:47.797 --> 04:49.647
+"Hey, is that a good wine?"
+
+113
+04:51.101 --> 04:54.150
+And you know, there's some very high-end,
+
+114
+04:54.150 --> 04:56.280
+you know, and people that know like,
+
+115
+04:56.280 --> 04:58.130
+but at the end of the day, what is a good wine?
+
+116
+04:58.130 --> 05:01.110
+A good wine is the wine you like, right?
+
+117
+05:01.110 --> 05:04.110
+And so I think that's the thing was, we think of quality,
+
+118
+05:04.110 --> 05:06.240
+you have to put the hat on
+
+119
+05:06.240 --> 05:08.520
+of what is quality to the consumer
+
+120
+05:08.520 --> 05:12.930
+and if, how many people have kids or friends with kids
+
+121
+05:12.930 --> 05:16.290
+or used to be a kid, alright, no, but kids, current kids?
+
+122
+05:16.290 --> 05:17.782
+<v Simon>So still are a child?</v>
+
+123
+05:17.782 --> 05:20.640
+<v ->Yes. Still that's yes. Yeah, might be on stage.</v>
+
+124
+05:20.640 --> 05:25.050
+But it's interesting what quality is to like,
+
+125
+05:25.050 --> 05:27.420
+I have three kids, the quality is to those three kids
+
+126
+05:27.420 --> 05:28.920
+is changing, its different.
+
+127
+05:28.920 --> 05:30.690
+Does everybody agree with that?
+
+128
+05:30.690 --> 05:32.400
+Alright, but this equation is really
+
+129
+05:32.400 --> 05:35.670
+this equation, you could take this one to the bank, right?
+
+130
+05:35.670 --> 05:37.650
+How, what's the quality to me
+
+131
+05:37.650 --> 05:41.460
+and how much time do I have to spend to get to the quality?
+
+132
+05:41.460 --> 05:43.560
+And what are we seeing as a net result of that?
+
+133
+05:43.560 --> 05:45.330
+We're seeing kind of features
+
+134
+05:45.330 --> 05:48.480
+like feature films being compressed on time.
+
+135
+05:48.480 --> 05:51.187
+We saw what did we see in "Episodic?"
+
+136
+05:51.187 --> 05:54.450
+"Episodic" went from 22, 24 episodes down to six to eight.
+
+137
+05:54.450 --> 05:55.800
+I can get through it a little bit quicker, right?
+
+138
+05:55.800 --> 05:58.500
+And so we're seeing that the board eSports,
+
+139
+05:58.500 --> 06:01.710
+eSports is what like a 12 minute match
+
+140
+06:01.710 --> 06:04.110
+as opposed to maybe three hours
+
+141
+06:04.110 --> 06:07.920
+and thirty minutes for in an NFL game.
+
+142
+06:07.920 --> 06:09.690
+And probably the one that was most interesting to me,
+
+143
+06:09.690 --> 06:12.960
+I don't know anyone see MLB introduced the shot clock
+
+144
+06:12.960 --> 06:14.180
+or basically the Pitch Clock, you know, for that answer?
+
+145
+06:14.180 --> 06:16.110
+<v David>Yeah, after every pitch, right?</v>
+
+146
+06:16.110 --> 06:17.340
+<v ->Yeah. Super interesting.</v>
+
+147
+06:17.340 --> 06:22.340
+That reduced the length of an MLB game by thirty minutes.
+
+148
+06:22.500 --> 06:23.880
+That is a major impact.
+
+149
+06:23.880 --> 06:25.620
+Again, making that a little bit more accessible,
+
+150
+06:25.620 --> 06:27.900
+improving how your access is on that.
+
+151
+06:27.900 --> 06:29.490
+So that's kind of what we have going on
+
+152
+06:29.490 --> 06:33.594
+is in context it is, you could imagine this is in fact
+
+153
+06:33.594 --> 06:35.310
+how we get through that
+
+154
+06:35.310 --> 06:37.350
+and how we do that for consumers at the end of the day,
+
+155
+06:37.350 --> 06:39.690
+which is what we're gonna work backwards
+
+156
+06:39.690 --> 06:42.870
+from, it goes across the different places where media works.
+
+157
+06:42.870 --> 06:45.090
+And what I thought I'd do is just take a quick second
+
+158
+06:45.090 --> 06:48.150
+and explain kind of like the really large bubbles
+
+159
+06:48.150 --> 06:50.010
+and we're gonna start way to the green.
+
+160
+06:50.010 --> 06:53.190
+Everyone, we're at the Consumer Electronic Show,
+
+161
+06:53.190 --> 06:54.930
+so we're gonna talk about consumers first, right?
+
+162
+06:54.930 --> 06:56.760
+Everybody's on the far right side, alright?
+
+163
+06:56.760 --> 06:59.310
+At the end of the day, the only reason that any
+
+164
+06:59.310 --> 07:01.080
+of us are here in the entertainment business
+
+165
+07:01.080 --> 07:02.670
+is because consumers watch content.
+
+166
+07:02.670 --> 07:03.750
+Hopefully that makes sense, right?
+
+167
+07:03.750 --> 07:06.120
+If we do the greatest content in the world
+
+168
+07:06.120 --> 07:07.620
+and nobody ever watches it
+
+169
+07:07.620 --> 07:09.930
+and there is no business,
+
+170
+07:09.930 --> 07:11.340
+you might do like really fun work
+
+171
+07:11.340 --> 07:13.365
+at a school play or something.
+
+172
+07:13.365 --> 07:15.750
+But that's for business of media entertainment.
+
+173
+07:15.750 --> 07:17.670
+And there's only two ways in our industry
+
+174
+07:17.670 --> 07:21.120
+that really any money, anything is monetized.
+
+175
+07:21.120 --> 07:22.950
+So you have ad supported and paid.
+
+176
+07:22.950 --> 07:24.690
+So that's what we're looking at the end
+
+177
+07:24.690 --> 07:25.523
+of the day with consumers.
+
+178
+07:25.523 --> 07:27.120
+So what we're gonna do is we're gonna walk backwards
+
+179
+07:27.120 --> 07:29.460
+from like where does the consumer experience,
+
+180
+07:29.460 --> 07:32.580
+we're gonna walk backwards to where is the supply chains
+
+181
+07:32.580 --> 07:34.410
+that there's a bunch of works, so distributors
+
+182
+07:34.410 --> 07:36.600
+and other people that get content to the exhibitors
+
+183
+07:36.600 --> 07:37.950
+that has to get improved.
+
+184
+07:37.950 --> 07:40.680
+And we're gonna talk about what creators are doing with AI
+
+185
+07:40.680 --> 07:42.030
+and those are the three big topics
+
+186
+07:42.030 --> 07:42.960
+we're gonna talk about today.
+
+187
+07:42.960 --> 07:45.720
+You ready? 'Cause we got a good panel.
+
+188
+07:45.720 --> 07:48.420
+Alright, so with that we're gonna hop right in into it
+
+189
+07:49.454 --> 07:51.420
+and I have some examples teed up here
+
+190
+07:51.420 --> 07:52.560
+for a little bit as we get into it.
+
+191
+07:52.560 --> 07:56.380
+So with that Soyoung, you love content.
+
+192
+07:58.500 --> 08:00.690
+So we're gonna start with this, I've just really quick,
+
+193
+08:00.690 --> 08:03.090
+what seems something was awesome that you have seen kind
+
+194
+08:03.090 --> 08:06.090
+of over this holiday break from a content point of view?
+
+195
+08:06.090 --> 08:08.040
+<v ->So I had grand plans for my holiday,</v>
+
+196
+08:08.040 --> 08:09.570
+but I ended up on YouTube
+
+197
+08:09.570 --> 08:12.300
+and I watched, I was scrolling through a lot of shorts,
+
+198
+08:12.300 --> 08:15.120
+so highlights of all of the really great moments
+
+199
+08:15.120 --> 08:17.040
+from the show of "Friends"
+
+200
+08:17.040 --> 08:19.410
+and I got into scrolling and scrolling
+
+201
+08:19.410 --> 08:21.450
+and watching all of that on YouTube.
+
+202
+08:21.450 --> 08:24.900
+And then I actually ended up resubscribing to Max
+
+203
+08:24.900 --> 08:28.237
+and I ended up spending all my holiday rewatching the entire
+
+204
+08:28.237 --> 08:31.110
+"Friends" series and I did the same thing
+
+205
+08:31.110 --> 08:33.930
+with "Silicon Valley", the show.
+
+206
+08:33.930 --> 08:35.670
+Yeah. So that's what I spent my holiday.
+
+207
+08:35.670 --> 08:37.800
+<v ->All right, so you got to watch some pretty good content,</v>
+
+208
+08:37.800 --> 08:38.633
+pretty good experience.
+
+209
+08:38.633 --> 08:39.900
+Now when you were going through that,
+
+210
+08:39.900 --> 08:42.420
+was there anything that you were like in your holiday break
+
+211
+08:42.420 --> 08:44.442
+you were like, "Oh, this should be better."
+
+212
+08:44.442 --> 08:47.180
+It should be easier to do and you fill in the blank.
+
+213
+08:47.180 --> 08:51.260
+<v ->Yeah, so I feel like it should be easier</v>
+
+214
+08:51.260 --> 08:54.480
+to have personalized packages of highlights
+
+215
+08:54.480 --> 08:56.190
+or content I can consume.
+
+216
+08:56.190 --> 08:58.770
+And using the example of "Friends",
+
+217
+08:58.770 --> 09:01.702
+'cause I'm such a fan, I love all,
+
+218
+09:01.702 --> 09:03.690
+there's some moments across,
+
+219
+09:03.690 --> 09:05.880
+no matter how many times I watch it,
+
+220
+09:05.880 --> 09:07.980
+themes that really speak to me personally
+
+221
+09:07.980 --> 09:11.040
+and things like Monica's obsession with cleaning
+
+222
+09:11.040 --> 09:13.440
+or Phoebe's spiritual beliefs, right?
+
+223
+09:13.440 --> 09:17.530
+And so if I had the ability to actually just watch
+
+224
+09:18.450 --> 09:22.740
+these moments across the series where certain things
+
+225
+09:22.740 --> 09:25.170
+that speak to me personally and emotionally
+
+226
+09:25.170 --> 09:26.730
+and that hooks me in
+
+227
+09:26.730 --> 09:30.316
+and I'm able to find those really easily, I feel like
+
+228
+09:30.316 --> 09:34.590
+that would probably help me spend of my spare time.
+
+229
+09:34.590 --> 09:36.930
+<v ->I like that. How many, does that sound good to you too?</v>
+
+230
+09:36.930 --> 09:39.230
+I know I want some of that, but great example of that.
+
+231
+09:39.230 --> 09:42.000
+How about David, how about you over the break,
+
+232
+09:42.000 --> 09:43.110
+good experience?
+
+233
+09:43.110 --> 09:45.240
+<v ->No, you know for me it's, I think, you know, when you gave</v>
+
+234
+09:45.240 --> 09:47.430
+that first list, I think it was the episodic content.
+
+235
+09:47.430 --> 09:48.300
+I've got all these dreams
+
+236
+09:48.300 --> 09:49.920
+of catching up on all these long movies
+
+237
+09:49.920 --> 09:52.140
+and watching all this thing, I just don't have the time.
+
+238
+09:52.140 --> 09:54.750
+So what I found myself doing is really looking at a show
+
+239
+09:54.750 --> 09:56.970
+and if it starts with a couple episodes
+
+240
+09:56.970 --> 09:58.650
+or it only has a couple episodes in it,
+
+241
+09:58.650 --> 10:00.570
+that's the one I kind of tend to lean towards.
+
+242
+10:00.570 --> 10:01.770
+So I wish I had something more interesting,
+
+243
+10:01.770 --> 10:04.080
+but for me it's really about that moving from the long form
+
+244
+10:04.080 --> 10:05.760
+content to something kinda like
+
+245
+10:05.760 --> 10:07.380
+you did with the YouTube shorts, right?
+
+246
+10:07.380 --> 10:08.700
+I don't know if I'd be able to make that jump
+
+247
+10:08.700 --> 10:10.500
+than going watching the series, but I try
+
+248
+10:10.500 --> 10:12.060
+and like find some things that are really short
+
+249
+10:12.060 --> 10:13.290
+and short bites to go watch.
+
+250
+10:13.290 --> 10:15.570
+<v ->Yeah, I love it, and anything you were annoyed</v>
+
+251
+10:15.570 --> 10:17.407
+with over the break that you were like,
+
+252
+10:17.407 --> 10:18.807
+"Oh this is great" but then.
+
+253
+10:20.070 --> 10:23.250
+<v ->No, you know, I live my life in the hardware space</v>
+
+254
+10:23.250 --> 10:25.320
+and when I want to get harder, my problem is being able
+
+255
+10:25.320 --> 10:26.610
+to find the hardware I want to buy.
+
+256
+10:26.610 --> 10:28.620
+And we have a problem right now in the industry.
+
+257
+10:28.620 --> 10:31.470
+I think Simon might bring it up a little bit later,
+
+258
+10:31.470 --> 10:32.820
+but the reality is you know,
+
+259
+10:32.820 --> 10:35.906
+if we look at the amount of compute that's required
+
+260
+10:35.906 --> 10:39.510
+to do all the things that we want to get done, it's endless.
+
+261
+10:39.510 --> 10:41.730
+And frankly, we're trying to do all these experiments,
+
+262
+10:41.730 --> 10:43.260
+we need to get the hardware in our hands to go do it.
+
+263
+10:43.260 --> 10:46.230
+So what frustrated me is not consuming the content,
+
+264
+10:46.230 --> 10:47.940
+it's actually getting the hardware in people's hand
+
+265
+10:47.940 --> 10:49.200
+to be able to go create the content
+
+266
+10:49.200 --> 10:50.700
+that we all want to consume.
+
+267
+10:50.700 --> 10:51.990
+That's a bigger picture.
+
+268
+10:51.990 --> 10:53.880
+<v ->Yeah. Well, we'll talk more about that.</v>
+
+269
+10:53.880 --> 10:55.330
+Alright, Cody, how about you?
+
+270
+10:56.370 --> 10:59.880
+<v ->So I have to give a disclaimer that I am a nerd</v>
+
+271
+10:59.880 --> 11:01.860
+and my friends are nerds.
+
+272
+11:01.860 --> 11:04.440
+So one of my friends, he is a musician
+
+273
+11:04.440 --> 11:06.480
+and he was creating a vinyl record.
+
+274
+11:06.480 --> 11:08.010
+So he had recorded these songs
+
+275
+11:08.010 --> 11:10.770
+and he printed out a vinyl record
+
+276
+11:10.770 --> 11:12.900
+and he was scratching his head about the cover art.
+
+277
+11:12.900 --> 11:15.180
+Like what is he gonna do for cover art
+
+278
+11:15.180 --> 11:16.830
+for his like vinyl record?
+
+279
+11:16.830 --> 11:19.740
+And he generated it using AI
+
+280
+11:19.740 --> 11:23.160
+and he actually created the cover art, packaged the vinyl
+
+281
+11:23.160 --> 11:25.920
+and he gave that to me as a gift and I loved
+
+282
+11:25.920 --> 11:28.952
+that because it was one like awesome music
+
+283
+11:28.952 --> 11:31.140
+and it was great to hear my friend's music
+
+284
+11:31.140 --> 11:33.390
+and it combined, you know, the old
+
+285
+11:33.390 --> 11:35.460
+and the new together to create such a thoughtful
+
+286
+11:35.460 --> 11:36.780
+and amazing experience
+
+287
+11:36.780 --> 11:38.520
+and it was the best Christmas gift
+
+288
+11:38.520 --> 11:39.930
+that I think I've ever gotten.
+
+289
+11:39.930 --> 11:42.210
+<v ->That's really cool. I love that. Great experience.</v>
+
+290
+11:42.210 --> 11:43.980
+Anything that you were annoyed with over the break?
+
+291
+11:43.980 --> 11:46.830
+<v ->So this is kind of funny, there was this moment</v>
+
+292
+11:46.830 --> 11:49.050
+I was with my family in New York City
+
+293
+11:49.050 --> 11:52.200
+and we were all having espresso martinis
+
+294
+11:52.200 --> 11:54.750
+and someone had seen this meme about like, you know,
+
+295
+11:54.750 --> 11:57.120
+once one person orders an espresso martini,
+
+296
+11:57.120 --> 12:00.000
+everyone else ends up ordering an espresso martini
+
+297
+12:00.000 --> 12:03.360
+and we spent like, you know, 15, 20 minutes trying to find
+
+298
+12:03.360 --> 12:06.510
+that video to just like, you know, show that kind
+
+299
+12:06.510 --> 12:08.220
+of funny meme to each other.
+
+300
+12:08.220 --> 12:10.170
+So, you know, searching, trying to find
+
+301
+12:10.170 --> 12:11.610
+that was actually quite difficult.
+
+302
+12:11.610 --> 12:14.490
+<v ->Yeah, how many, if we could just search better on content,</v>
+
+303
+12:14.490 --> 12:16.200
+is everyone like with this explosion of content,
+
+304
+12:16.200 --> 12:17.160
+it's just gotten harder.
+
+305
+12:17.160 --> 12:18.270
+We do want a little bit better on that?
+
+306
+12:18.270 --> 12:20.820
+Yeah, me too, and there's lots of places
+
+307
+12:20.820 --> 12:21.690
+where we want that search.
+
+308
+12:21.690 --> 12:23.550
+I think we're gonna talk bit about that.
+
+309
+12:23.550 --> 12:24.573
+Alright, last Simon.
+
+310
+12:25.950 --> 12:27.750
+<v ->I have follow all of that stuff.</v>
+
+311
+12:27.750 --> 12:30.720
+I've gotta be honest, for me sports, right?
+
+312
+12:30.720 --> 12:33.930
+I love sports of the holidays, going skiing myself,
+
+313
+12:33.930 --> 12:35.760
+but really just enjoying a lot of the content
+
+314
+12:35.760 --> 12:36.870
+that's on for me.
+
+315
+12:36.870 --> 12:40.770
+I love the way that sports content has really changed.
+
+316
+12:40.770 --> 12:43.200
+Live sports is where so much is happening, right?
+
+317
+12:43.200 --> 12:45.180
+In terms of differentiating on every platform,
+
+318
+12:45.180 --> 12:46.983
+how do I find it, what going on?
+
+319
+12:47.910 --> 12:49.800
+And I love the variation that I'm seeing across
+
+320
+12:49.800 --> 12:52.200
+the different platforms in terms of what I'm seeing, right?
+
+321
+12:52.200 --> 12:54.480
+So how am I watching, how I find the highlights,
+
+322
+12:54.480 --> 12:55.890
+what happened just two seconds ago
+
+323
+12:55.890 --> 12:57.960
+and how are I refactoring that into a process
+
+324
+12:57.960 --> 13:00.002
+where I can see that, understand it.
+
+325
+13:00.002 --> 13:02.010
+Also just make sure that I'm not seeing something
+
+326
+13:02.010 --> 13:05.070
+I don't wanna see or if I haven't watched the game.
+
+327
+13:05.070 --> 13:06.481
+So for me,
+
+328
+13:06.481 --> 13:08.880
+and also it is great to see Netflix fix their stuff
+
+329
+13:08.880 --> 13:11.730
+from what happened during the boxing event
+
+330
+13:11.730 --> 13:14.070
+to the NFL on on Christmas Day
+
+331
+13:14.070 --> 13:16.320
+and just how fast things are moving.
+
+332
+13:16.320 --> 13:18.480
+I just love to watch that because it's really the only time
+
+333
+13:18.480 --> 13:19.313
+I get to sit down
+
+334
+13:19.313 --> 13:20.940
+and just sit there for two weeks going, okay,
+
+335
+13:20.940 --> 13:22.350
+what's really happening in the world
+
+336
+13:22.350 --> 13:24.300
+rather than just traveling around talking about it.
+
+337
+13:24.300 --> 13:26.220
+<v ->Yeah, no I love it. I love it.</v>
+
+338
+13:26.220 --> 13:28.290
+<v ->I think nothing annoyed me by the way,</v>
+
+339
+13:28.290 --> 13:31.706
+other than the fact that my team didn't always win.
+
+340
+13:31.706 --> 13:32.820
+That's what I'm gonna say.
+
+341
+13:32.820 --> 13:33.653
+<v ->Yeah, no, for sure.</v>
+
+342
+13:33.653 --> 13:35.850
+And I think one of the things I love is that innovation
+
+343
+13:35.850 --> 13:40.850
+and anyone here live in Dallas or Los Angeles? Okay, good.
+
+344
+13:41.160 --> 13:44.490
+Any of you guys been to the Cosm? Yeah. Very cool. Yeah.
+
+345
+13:44.490 --> 13:46.579
+Okay, go see this guy. What's your name?
+
+346
+13:46.579 --> 13:47.412
+<v Rick>Rick.</v>
+
+347
+13:47.412 --> 13:49.020
+<v ->Rick, okay. You should go talk to Rick afterwards.</v>
+
+348
+13:49.020 --> 13:51.030
+It's pretty awesome, right? Yeah.
+
+349
+13:51.030 --> 13:53.067
+And if you haven't seen it, you go look it up.
+
+350
+13:53.067 --> 13:56.220
+You cosm, you should check it up on your phones right now.
+
+351
+13:56.220 --> 13:58.260
+I love the innovation that we're seeing in our industry
+
+352
+13:58.260 --> 13:59.910
+right now on live experiences
+
+353
+13:59.910 --> 14:01.470
+and digital and live coming together
+
+354
+14:01.470 --> 14:02.370
+and we're gonna see the AI,
+
+355
+14:02.370 --> 14:03.510
+digital and live coming together.
+
+356
+14:03.510 --> 14:05.760
+It's gonna be really fantastic.
+
+357
+14:05.760 --> 14:07.050
+So really encourage you to go do that.
+
+358
+14:07.050 --> 14:07.883
+Anyway, that was something I did over the break,
+
+359
+14:07.883 --> 14:09.570
+I thought was great.
+
+360
+14:09.570 --> 14:12.000
+Alright so, Soyoung, you started talking a little bit
+
+361
+14:12.000 --> 14:13.170
+about search a little bit more.
+
+362
+14:13.170 --> 14:16.200
+So when it comes to these like the consumer experiences
+
+363
+14:16.200 --> 14:17.670
+like we were talking about working backwards
+
+364
+14:17.670 --> 14:19.470
+and like the cus the customer on that,
+
+365
+14:19.470 --> 14:22.920
+what are the consumer experiences that are ripe for AI
+
+366
+14:22.920 --> 14:24.690
+that are gonna help the consumer experiences?
+
+367
+14:24.690 --> 14:26.610
+These are real consumer experiences that we're looking
+
+368
+14:26.610 --> 14:29.370
+to help with where there's an unmet customer need
+
+369
+14:29.370 --> 14:30.203
+that we're trying to solve.
+
+370
+14:30.203 --> 14:32.310
+So Soyoung, what do you think?
+
+371
+14:32.310 --> 14:35.250
+<v ->So I think increasingly because, and it's ironic</v>
+
+372
+14:35.250 --> 14:38.700
+because there's so much more content than ever before,
+
+373
+14:38.700 --> 14:41.580
+which also ironically makes it more difficult
+
+374
+14:41.580 --> 14:45.330
+for content to speak to me as a consumer
+
+375
+14:45.330 --> 14:47.040
+specifically and personally.
+
+376
+14:47.040 --> 14:50.100
+And so even if there it's content that has existed
+
+377
+14:50.100 --> 14:52.980
+for a while and I have consumed it before
+
+378
+14:52.980 --> 14:56.580
+or it's new content, you can actually package it
+
+379
+14:56.580 --> 14:59.760
+and show it to me in a way that really speaks
+
+380
+14:59.760 --> 15:02.640
+to me personally that makes me want to either subscribe
+
+381
+15:02.640 --> 15:05.160
+to something or makes me keep on watching it.
+
+382
+15:05.160 --> 15:08.550
+And I feel like the personalization aspect
+
+383
+15:08.550 --> 15:10.650
+of storytelling is absolutely something
+
+384
+15:10.650 --> 15:15.180
+that is doable today through the technology
+
+385
+15:15.180 --> 15:19.650
+that we have to be able to go through a library of content
+
+386
+15:19.650 --> 15:21.480
+and to be able to stitch together
+
+387
+15:21.480 --> 15:25.320
+or very easily clip to make a lot of different versions
+
+388
+15:25.320 --> 15:28.230
+of stories that speak to each person very personally.
+
+389
+15:28.230 --> 15:31.110
+So that's one thing personally I feel like
+
+390
+15:31.110 --> 15:33.210
+that would impact me as a consumer personally.
+
+391
+15:33.210 --> 15:37.110
+And from my Twelve Labs hat, I know as technology wise
+
+392
+15:37.110 --> 15:39.390
+it is possible, very very possible.
+
+393
+15:39.390 --> 15:41.460
+And then of course, search is the other thing
+
+394
+15:41.460 --> 15:42.630
+that we were discussing earlier,
+
+395
+15:42.630 --> 15:47.400
+which is why is it that video today, as ubiquitous as it is,
+
+396
+15:47.400 --> 15:49.620
+is still very difficult to search across.
+
+397
+15:49.620 --> 15:52.290
+And so if you're trying to find moments in videos,
+
+398
+15:52.290 --> 15:54.540
+just like the example that Cody was sharing,
+
+399
+15:54.540 --> 15:56.190
+you actually have to scroll through
+
+400
+15:56.190 --> 15:58.740
+and watch every moment of it.
+
+401
+15:58.740 --> 16:00.900
+Or we do have technologies so that allow
+
+402
+16:00.900 --> 16:02.160
+you to like extract frames
+
+403
+16:02.160 --> 16:05.430
+and like do simple computer vision to extract objects.
+
+404
+16:05.430 --> 16:07.020
+But we know that that's not sufficient
+
+405
+16:07.020 --> 16:10.860
+to extract meaningful human-like context that understands
+
+406
+16:10.860 --> 16:14.007
+what I am looking for and understands the content
+
+407
+16:14.007 --> 16:16.950
+and to be able to find exact moments.
+
+408
+16:16.950 --> 16:19.590
+So basically those tools that allow us to do all
+
+409
+16:19.590 --> 16:22.200
+of these things, I feel like would enrich my personal
+
+410
+16:22.200 --> 16:24.330
+and consumer experiences.
+
+411
+16:24.330 --> 16:26.130
+<v ->That seems like we got anybody else on the panel</v>
+
+412
+16:26.130 --> 16:27.720
+that actually thinks that personalization
+
+413
+16:27.720 --> 16:29.460
+or search would help the consumer experience
+
+414
+16:29.460 --> 16:31.060
+and what that's gonna look like?
+
+415
+16:32.280 --> 16:34.830
+<v ->Well, I actually have a fun example of this.</v>
+
+416
+16:34.830 --> 16:38.970
+So with my Coactive hat on, we were super fortunate to work
+
+417
+16:38.970 --> 16:42.390
+with NBC during the Olympics
+
+418
+16:42.390 --> 16:43.860
+and it was actually quite a funny problem.
+
+419
+16:43.860 --> 16:45.900
+So with the Olympics, they have to produce,
+
+420
+16:45.900 --> 16:49.200
+you know, the show that you and I see week over week
+
+421
+16:49.200 --> 16:53.700
+or day over day in case it's, oh my gosh,
+
+422
+16:53.700 --> 16:56.370
+he's gonna steal my punchline with this, this is great.
+
+423
+16:56.370 --> 16:59.070
+So what happened was they sent us primetime footage
+
+424
+16:59.070 --> 17:01.200
+and they wanted to be able to find, you know, moments.
+
+425
+17:01.200 --> 17:04.590
+So for example, Snoop Dogg like being patriotic
+
+426
+17:04.590 --> 17:06.630
+rather than having to scroll through content,
+
+427
+17:06.630 --> 17:09.390
+they could just type in Snoop Dogg being patriotic.
+
+428
+17:09.390 --> 17:11.760
+Now another thing, when we think about consumers,
+
+429
+17:11.760 --> 17:15.390
+they wanna create the most engaging content for all of you.
+
+430
+17:15.390 --> 17:17.490
+And every single year it's different.
+
+431
+17:17.490 --> 17:18.960
+You know, it might be a different sport
+
+432
+17:18.960 --> 17:20.850
+or it might be a different athlete
+
+433
+17:20.850 --> 17:23.280
+that really resonates with audiences.
+
+434
+17:23.280 --> 17:26.040
+And when you are like the production company,
+
+435
+17:26.040 --> 17:28.620
+when you're NBC trying to produce this, you know,
+
+436
+17:28.620 --> 17:32.190
+you have information about what minute people are watching,
+
+437
+17:32.190 --> 17:34.080
+but you don't know what they're watching.
+
+438
+17:34.080 --> 17:36.300
+So with us, they can actually generate metadata
+
+439
+17:36.300 --> 17:39.240
+about what sport and what athlete was on screen
+
+440
+17:39.240 --> 17:41.580
+and be able to improve their content day over day.
+
+441
+17:41.580 --> 17:43.830
+So for example, synchronized swimming was very,
+
+442
+17:43.830 --> 17:45.480
+very popular this year.
+
+443
+17:45.480 --> 17:47.100
+So they could actually give more airtime
+
+444
+17:47.100 --> 17:47.970
+to synchronize swimming.
+
+445
+17:47.970 --> 17:49.710
+<v ->And now we know why. 'cause I mean</v>
+
+446
+17:49.710 --> 17:51.480
+who wouldn't wanna watch this?
+
+447
+17:51.480 --> 17:53.010
+I mean, this is really fantastic.
+
+448
+17:53.010 --> 17:55.260
+Look at this, look at you.
+<v Cody>Yeah.</v>
+
+449
+17:55.260 --> 17:56.220
+<v Eric>That's really amazing.</v>
+
+450
+17:56.220 --> 17:57.053
+<v Cody>Exactly.</v>
+
+451
+17:57.053 --> 17:57.886
+<v Eric>Well done, well done.</v>
+
+452
+17:57.886 --> 18:00.060
+<v Cody>They cut me outta the finals though.</v>
+
+453
+18:00.060 --> 18:01.440
+<v ->This really actually surprised me though,</v>
+
+454
+18:01.440 --> 18:03.270
+but when it came to kind of understanding
+
+455
+18:03.270 --> 18:04.200
+the analytics behind this,
+
+456
+18:04.200 --> 18:06.330
+how many people in here like are surprised
+
+457
+18:06.330 --> 18:08.370
+that synchronized swimming became really popular
+
+458
+18:08.370 --> 18:09.630
+at the Olympics this year?
+
+459
+18:09.630 --> 18:11.190
+Yeah, it's pretty, I was actually really surprised
+
+460
+18:11.190 --> 18:12.090
+when we were doing the homework on that.
+
+461
+18:12.090 --> 18:14.940
+So anyway, thank you for helping to understand this.
+
+462
+18:14.940 --> 18:17.460
+Simon, what do you think?
+
+463
+18:17.460 --> 18:18.510
+I better take this off
+
+464
+18:18.510 --> 18:21.090
+or this is gonna confuse everybody. Here we go.
+
+465
+18:21.090 --> 18:23.280
+<v ->Well, I think to be honest, right,</v>
+
+466
+18:23.280 --> 18:25.470
+for personalization, as you said, right?
+
+467
+18:25.470 --> 18:26.640
+I might go the oth other way
+
+468
+18:26.640 --> 18:29.490
+and say over personalization is a bad thing.
+
+469
+18:29.490 --> 18:30.630
+I miss a lot of stuff.
+
+470
+18:30.630 --> 18:33.120
+I'm gonna go and say during the election for example,
+
+471
+18:33.120 --> 18:35.460
+it became so personalized that I missed the stories
+
+472
+18:35.460 --> 18:37.170
+that were really relevant to me, right?
+
+473
+18:37.170 --> 18:38.550
+I missed a different narrative
+
+474
+18:38.550 --> 18:40.980
+that I would've liked to have gotten.
+
+475
+18:40.980 --> 18:45.930
+I think so while personalization I do think is critical,
+
+476
+18:45.930 --> 18:47.370
+we wanna see what we like to see.
+
+477
+18:47.370 --> 18:49.570
+We wanna be engaged by that type of content.
+
+478
+18:50.700 --> 18:52.680
+I also wanna be challenged, I wanna be able
+
+479
+18:52.680 --> 18:55.890
+to search a streaming platform in a very different way.
+
+480
+18:55.890 --> 18:59.107
+For example, for sports, I sent it earlier, I wanted to say,
+
+481
+18:59.107 --> 19:01.620
+"Give me the three pointers that mattered in this game.
+
+482
+19:01.620 --> 19:03.480
+Stitch it together in a narrative that I care about.
+
+483
+19:03.480 --> 19:04.313
+'cause I missed the whole game."
+
+484
+19:04.313 --> 19:06.450
+I don't want your highlights, I want my highlights, right?
+
+485
+19:06.450 --> 19:09.180
+And so that I think is important.
+
+486
+19:09.180 --> 19:11.370
+But also, right, for streaming platforms
+
+487
+19:11.370 --> 19:13.620
+or for other platforms, I want to understand
+
+488
+19:13.620 --> 19:15.600
+how I can reach different types of people on that platform
+
+489
+19:15.600 --> 19:18.450
+because my highlights are not the same as anybody else's
+
+490
+19:18.450 --> 19:20.040
+because I may not know, for example,
+
+491
+19:20.040 --> 19:22.440
+if I'm watching basketball, what a pick and roll might be
+
+492
+19:22.440 --> 19:24.660
+and why it's an important move in a game, right?
+
+493
+19:24.660 --> 19:27.450
+Tell me why it's important, a highlight of what
+
+494
+19:27.450 --> 19:29.640
+that might look like and then that makes me more engaged
+
+495
+19:29.640 --> 19:30.780
+in that platform, for example.
+
+496
+19:30.780 --> 19:32.520
+So personalization can be take many
+
+497
+19:32.520 --> 19:33.750
+different forms from my perspective.
+
+498
+19:33.750 --> 19:35.910
+<v ->I love those double down examples.</v>
+
+499
+19:35.910 --> 19:38.730
+So Microsoft, you guys are thinking about that a lot.
+
+500
+19:38.730 --> 19:40.530
+Maybe give you some examples of some things
+
+501
+19:40.530 --> 19:42.810
+where you've been focused a little bit on personalization
+
+502
+19:42.810 --> 19:44.670
+because we're looking into the future,
+
+503
+19:44.670 --> 19:45.960
+but some of the future's starting
+
+504
+19:45.960 --> 19:47.640
+to happen now in the back room, right?
+
+505
+19:47.640 --> 19:49.680
+<v ->So we do a lot already.</v>
+
+506
+19:49.680 --> 19:51.270
+I think one thing that I shared with you right,
+
+507
+19:51.270 --> 19:54.000
+is the AI yeah, it's been a big deal over the past two
+
+508
+19:54.000 --> 19:56.010
+years, but it's been around for a very long time, right?
+
+509
+19:56.010 --> 19:57.630
+We've used it for advertising
+
+510
+19:57.630 --> 20:00.540
+and personalization for the last decade almost
+
+511
+20:00.540 --> 20:02.640
+to some degree and some have invested more than others
+
+512
+20:02.640 --> 20:05.640
+on the Microsoft side, yes, we spend time with the NBA,
+
+513
+20:05.640 --> 20:08.400
+the NFL, you know, the soccer leagues
+
+514
+20:08.400 --> 20:10.650
+around the world talking about how to leverage it, right?
+
+515
+20:10.650 --> 20:12.570
+From data to different plays,
+
+516
+20:12.570 --> 20:15.000
+to how do we make the right content, how do you find
+
+517
+20:15.000 --> 20:16.530
+and search the right content?
+
+518
+20:16.530 --> 20:18.780
+But it all comes back to data, right? For example.
+
+519
+20:18.780 --> 20:21.600
+So what we've found is that to create those experiences
+
+520
+20:21.600 --> 20:22.650
+or things that those leagues
+
+521
+20:22.650 --> 20:26.610
+or organizations want to do, huge amounts of data analysis,
+
+522
+20:26.610 --> 20:29.610
+data stability, you know, foundational models
+
+523
+20:29.610 --> 20:31.623
+and what does that look like?
+
+524
+20:32.490 --> 20:35.010
+We've done everything from thinking about augmented reality
+
+525
+20:35.010 --> 20:37.230
+experiences to the different ways content needs
+
+526
+20:37.230 --> 20:39.243
+to be displayed on different devices.
+
+527
+20:40.590 --> 20:42.465
+I think you mentioned it really well,
+
+528
+20:42.465 --> 20:45.350
+a lot of the content that has been in some cases
+
+529
+20:45.350 --> 20:48.780
+never even digitized has now been reindexed.
+
+530
+20:48.780 --> 20:50.700
+And there's different ways to think about that frame
+
+531
+20:50.700 --> 20:52.080
+by frame or what's in a frame
+
+532
+20:52.080 --> 20:54.780
+or how to find certain things that all has been required
+
+533
+20:54.780 --> 20:56.440
+to be redone to some degree
+
+534
+20:57.930 --> 20:59.430
+and that results in a heck of a lot
+
+535
+20:59.430 --> 21:00.960
+of compute required to do it right?
+
+536
+21:00.960 --> 21:04.560
+And so I think all of these groups, all of these teams,
+
+537
+21:04.560 --> 21:07.170
+organizations we work with, they want to go much faster,
+
+538
+21:07.170 --> 21:08.730
+but there's work to be done to get there.
+
+539
+21:08.730 --> 21:11.310
+So I dunno if that's answering your question per se.
+
+540
+21:11.310 --> 21:12.990
+<v ->Yeah, yeah, no, I think that's a that's a great answer.</v>
+
+541
+21:12.990 --> 21:14.820
+No, I like it. David?
+
+542
+21:14.820 --> 21:16.350
+<v ->Yeah, Eric? No, I was gonna say, you asked a question,</v>
+
+543
+21:16.350 --> 21:17.880
+you said, "What's that gonna look like?"
+
+544
+21:17.880 --> 21:19.890
+And I think, you know, we're starting to see hints
+
+545
+21:19.890 --> 21:22.710
+of what it might look like even at this year's CES.
+
+546
+21:22.710 --> 21:24.390
+And I agree with you guys, like I think the index
+
+547
+21:24.390 --> 21:25.950
+and the personalization is super important,
+
+548
+21:25.950 --> 21:27.120
+but you made a comment around sort
+
+549
+21:27.120 --> 21:28.770
+of generating your own content
+
+550
+21:28.770 --> 21:30.900
+and you're generating content that you want to see.
+
+551
+21:30.900 --> 21:31.980
+You know, if we look at what Jensen
+
+552
+21:31.980 --> 21:34.230
+and Nvidia presented a couple days ago,
+
+553
+21:34.230 --> 21:36.720
+they announced their new consumer graphics card.
+
+554
+21:36.720 --> 21:38.880
+And what's interesting, if you really look at the technology
+
+555
+21:38.880 --> 21:40.800
+behind that, they're moving from a system
+
+556
+21:40.800 --> 21:43.170
+where they had this GP, which runs all the graphics
+
+557
+21:43.170 --> 21:44.610
+and even in these graphics cards,
+
+558
+21:44.610 --> 21:46.500
+they're moving over to having more AI engine
+
+559
+21:46.500 --> 21:48.300
+in the graphics card to put it simply.
+
+560
+21:48.300 --> 21:51.240
+And what that means is the expectation is that the games
+
+561
+21:51.240 --> 21:52.920
+that you play, maybe starting with the games
+
+562
+21:52.920 --> 21:54.750
+and then to more traditional media,
+
+563
+21:54.750 --> 21:57.330
+won't be deterministic in terms
+
+564
+21:57.330 --> 21:59.070
+of how here's the program, go run the game.
+
+565
+21:59.070 --> 22:01.260
+It'll actually be using that AI hardware on the card
+
+566
+22:01.260 --> 22:03.150
+to generate the game on the fly.
+
+567
+22:03.150 --> 22:04.650
+And that could be, I think, a leading indicator
+
+568
+22:04.650 --> 22:06.840
+into what we'll see in the media space.
+
+569
+22:06.840 --> 22:09.930
+<v ->I brought this back up on screen here real quick a second.</v>
+
+570
+22:09.930 --> 22:12.750
+You skipped this, this is a super interesting point.
+
+571
+22:12.750 --> 22:14.730
+I'd like everyone to kind of like you think about
+
+572
+22:14.730 --> 22:16.620
+for a quick second you know, this is kind
+
+573
+22:16.620 --> 22:18.090
+of the way kind of things work, right?
+
+574
+22:18.090 --> 22:19.560
+You know, we have creator distribution
+
+575
+22:19.560 --> 22:22.740
+and have some creators go direct to exhibition,
+
+576
+22:22.740 --> 22:24.510
+but what you're actually talking about is actually
+
+577
+22:24.510 --> 22:27.510
+the compression of creators into exhibition.
+
+578
+22:27.510 --> 22:29.640
+And that is a super interesting thing
+
+579
+22:29.640 --> 22:30.810
+that I think we're starting to see.
+
+580
+22:30.810 --> 22:31.643
+So I think that's a great point.
+
+581
+22:31.643 --> 22:32.820
+<v David>I love that point too.</v>
+
+582
+22:32.820 --> 22:33.810
+I think it's super critical.
+
+583
+22:33.810 --> 22:36.030
+And bring that technology closer to the device,
+
+584
+22:36.030 --> 22:37.440
+right? Understood.
+
+585
+22:37.440 --> 22:41.730
+<v ->Yeah. So great, great call out. Okay, next topic.</v>
+
+586
+22:41.730 --> 22:45.540
+We're gonna talk a little bit about supply chains, right?
+
+587
+22:45.540 --> 22:48.000
+So if we went back to our magical picture here,
+
+588
+22:48.000 --> 22:50.130
+this is where we're trying to get, there's a lot
+
+589
+22:50.130 --> 22:52.860
+of work getting from the point we create something,
+
+590
+22:52.860 --> 22:55.290
+getting it to distribution, getting it out to everyone,
+
+591
+22:55.290 --> 22:56.460
+getting out to different exhibition.
+
+592
+22:56.460 --> 22:58.170
+It's just think of like if you were
+
+593
+22:58.170 --> 22:59.460
+in the movie business, right?
+
+594
+22:59.460 --> 23:01.200
+You have to worry about getting into a theater
+
+595
+23:01.200 --> 23:03.330
+is completely different than getting it out to broadcast,
+
+596
+23:03.330 --> 23:04.470
+which is different than getting it out
+
+597
+23:04.470 --> 23:05.880
+to a streaming platform.
+
+598
+23:05.880 --> 23:07.440
+And there's different kinds of streaming platforms
+
+599
+23:07.440 --> 23:09.900
+and clips out to for promos and a bunch of other things.
+
+600
+23:09.900 --> 23:11.730
+There's a lot that happens in here.
+
+601
+23:11.730 --> 23:13.770
+Cody, tell us a little bit about kind
+
+602
+23:13.770 --> 23:16.170
+of what are some of the things that you're seeing here
+
+603
+23:16.170 --> 23:18.393
+that are kind of ripe for AI?
+
+604
+23:19.350 --> 23:20.350
+<v ->Yeah, thanks Eric.</v>
+
+605
+23:21.360 --> 23:22.500
+You know, as you kind of allude to,
+
+606
+23:22.500 --> 23:26.100
+it's a really long complicated process to go from a piece
+
+607
+23:26.100 --> 23:28.440
+of content being created to actually something
+
+608
+23:28.440 --> 23:30.090
+that you and I are viewing.
+
+609
+23:30.090 --> 23:32.580
+You have to go through the production process,
+
+610
+23:32.580 --> 23:37.580
+the licensing process, you know, marketing, distribution
+
+611
+23:37.800 --> 23:40.350
+and advertising for that piece of content
+
+612
+23:40.350 --> 23:41.940
+to actually get to you.
+
+613
+23:41.940 --> 23:46.290
+And, you know, rather than go into like excruciating detail,
+
+614
+23:46.290 --> 23:48.120
+I actually wanna talk about an example.
+
+615
+23:48.120 --> 23:51.210
+So consider Thomson Reuters.
+
+616
+23:51.210 --> 23:55.950
+Thomson Reuters is a major news signal to the entire world.
+
+617
+23:55.950 --> 23:59.160
+They have reporters all around the world capturing
+
+618
+23:59.160 --> 24:02.370
+the latest news story, breaking news 24/7.
+
+619
+24:02.370 --> 24:04.740
+And then they take that content that's being captured
+
+620
+24:04.740 --> 24:07.830
+by those reporters and they sell it to news networks all
+
+621
+24:07.830 --> 24:11.850
+around the world, both globally and local content.
+
+622
+24:11.850 --> 24:14.453
+Now they have a platform called Reuters Connect.
+
+623
+24:14.453 --> 24:16.440
+This is the interface for journalists
+
+624
+24:16.440 --> 24:19.530
+and for editors to find the content that they need.
+
+625
+24:19.530 --> 24:21.330
+And now in order to tell stories,
+
+626
+24:21.330 --> 24:24.300
+in order to tell you about the breaking news
+
+627
+24:24.300 --> 24:28.350
+and if you go into to Reuters Connect,
+
+628
+24:28.350 --> 24:31.200
+the old way that you did it was based off of keywords,
+
+629
+24:31.200 --> 24:34.950
+which was an incredibly manual process where the creator had
+
+630
+24:34.950 --> 24:37.110
+to go and actually enter in the keyword
+
+631
+24:37.110 --> 24:39.390
+for every single piece of content.
+
+632
+24:39.390 --> 24:42.000
+But what just happened there is you click the button
+
+633
+24:42.000 --> 24:45.510
+for AI search and you can see the difference.
+
+634
+24:45.510 --> 24:48.750
+We went from one piece of content that was loosely relevant
+
+635
+24:48.750 --> 24:53.750
+to this search of Boeing Union deal negotiations.
+
+636
+24:54.240 --> 24:57.450
+We went from one piece of content to now pages
+
+637
+24:57.450 --> 25:00.390
+and pages of content that is super relevant
+
+638
+25:00.390 --> 25:01.860
+for the topic at hand.
+
+639
+25:01.860 --> 25:05.070
+And this AI search is powered by Coactive.
+
+640
+25:05.070 --> 25:06.480
+So we can actually enable this night
+
+641
+25:06.480 --> 25:08.670
+and day difference where you can find the pieces of content
+
+642
+25:08.670 --> 25:10.950
+that you're looking for with no tags,
+
+643
+25:10.950 --> 25:13.827
+no metadata whatsoever. Now with that example.
+
+644
+25:13.827 --> 25:15.330
+<v ->And we should pause on that for a second,</v>
+
+645
+25:15.330 --> 25:16.740
+Simon, you and I have been in this industry
+
+646
+25:16.740 --> 25:18.420
+for a really long time.
+
+647
+25:18.420 --> 25:21.930
+The no tags whatsoever part, is that like a big deal?
+
+648
+25:21.930 --> 25:25.350
+<v ->It's huge, I don't know any organization,</v>
+
+649
+25:25.350 --> 25:26.910
+especially the Walt Disney Company where I used to work
+
+650
+25:26.910 --> 25:28.740
+for would just kill for something like that, right?
+
+651
+25:28.740 --> 25:29.990
+Because finding content was one
+
+652
+25:29.990 --> 25:31.380
+of the hardest things we need to do.
+
+653
+25:31.380 --> 25:34.440
+Even if we found it, could we even open it? Right.
+
+654
+25:34.440 --> 25:35.640
+It's a fascinating problem.
+
+655
+25:35.640 --> 25:37.500
+<v ->Yeah, for sure, and just put a context,</v>
+
+656
+25:37.500 --> 25:39.840
+I did a project a really long time ago, about 15 years ago
+
+657
+25:39.840 --> 25:42.450
+where we went, if people watch "Seinfeld",
+
+658
+25:42.450 --> 25:44.190
+any "Seinfeld" fans out there?
+
+659
+25:44.190 --> 25:45.240
+we wanted to go back
+
+660
+25:45.240 --> 25:47.520
+and people wanted to go look at all "The Soup Nazi"
+
+661
+25:47.520 --> 25:48.450
+scenes, right?
+
+662
+25:48.450 --> 25:51.720
+And so we had to go manually tag for one show
+
+663
+25:51.720 --> 25:55.380
+and it was a multi, multi month project
+
+664
+25:55.380 --> 25:56.970
+to go manually tagged.
+
+665
+25:56.970 --> 25:59.280
+And we actually used like Adobe Premier to go in
+
+666
+25:59.280 --> 26:01.037
+and like do frame level metadata on it.
+
+667
+26:01.037 --> 26:03.360
+And it took a really, really long time.
+
+668
+26:03.360 --> 26:05.550
+How many people think that scales?
+
+669
+26:05.550 --> 26:07.890
+We like, the output didn't scale.
+
+670
+26:07.890 --> 26:10.240
+So yeah.
+
+671
+26:10.240 --> 26:11.280
+<v ->Yeah, exactly.</v>
+
+672
+26:11.280 --> 26:12.690
+And now you can do it in less than a second.
+
+673
+26:12.690 --> 26:16.590
+And it's been amazing to partner with Reuters to really kind
+
+674
+26:16.590 --> 26:18.840
+of push it forward in terms of supply chain.
+
+675
+26:18.840 --> 26:21.330
+So now with Coactive you can find those clips that you need
+
+676
+26:21.330 --> 26:24.210
+as a journalist or an editor in a matter of seconds.
+
+677
+26:24.210 --> 26:25.920
+That means as a consumer,
+
+678
+26:25.920 --> 26:28.830
+the story gets out to you faster than ever before.
+
+679
+26:28.830 --> 26:31.650
+You can keep a pulse on what's happening around the world,
+
+680
+26:31.650 --> 26:35.130
+be notified of breaking news faster than ever before.
+
+681
+26:35.130 --> 26:37.230
+And not only are you getting it faster,
+
+682
+26:37.230 --> 26:38.550
+but you're getting it better.
+
+683
+26:38.550 --> 26:42.480
+You're getting more content that is more relevant,
+
+684
+26:42.480 --> 26:46.710
+more visually appealing for the story at hand.
+
+685
+26:46.710 --> 26:49.710
+And as well as we're also enabling creators, you know,
+
+686
+26:49.710 --> 26:51.930
+the people that are creating this content to be able
+
+687
+26:51.930 --> 26:54.690
+to surface their content more easily
+
+688
+26:54.690 --> 26:56.970
+and actually create more incentives
+
+689
+26:56.970 --> 26:58.740
+for creators to create this content.
+
+690
+26:58.740 --> 27:00.030
+And now you don't have to worry about
+
+691
+27:00.030 --> 27:02.430
+that SEO optimization game
+
+692
+27:02.430 --> 27:06.480
+and instead the best content for consumers gets out there.
+
+693
+27:06.480 --> 27:08.910
+<v ->Yeah, and I think it's a good example, Simon go ahead.</v>
+
+694
+27:08.910 --> 27:11.010
+<v ->So I'm gonna talk a little bit about Hollywood, Eric,</v>
+
+695
+27:11.010 --> 27:13.770
+because that's the world I know
+
+696
+27:13.770 --> 27:16.860
+and from a distribution perspective,
+
+697
+27:16.860 --> 27:19.890
+I have never seen an ability now to do things
+
+698
+27:19.890 --> 27:22.267
+I've never done those processes of creating content,
+
+699
+27:22.267 --> 27:24.930
+you know, whether it be storing it, finding it.
+
+700
+27:24.930 --> 27:27.930
+I worked a lot on versions of visual effects
+
+701
+27:27.930 --> 27:29.490
+for example, like even finding versions
+
+702
+27:29.490 --> 27:32.250
+of the Millennium Falcon that was done in 1977.
+
+703
+27:32.250 --> 27:34.650
+Even if I could find it, I couldn't even open it, right?
+
+704
+27:34.650 --> 27:36.000
+But those distribution processes
+
+705
+27:36.000 --> 27:37.620
+that you talked about, Eric, right?
+
+706
+27:37.620 --> 27:39.960
+You know, whether it's spitting stuff out
+
+707
+27:39.960 --> 27:40.997
+for dailies for example,
+
+708
+27:40.997 --> 27:44.250
+or I'm setting stuff out to a post house for example,
+
+709
+27:44.250 --> 27:47.340
+or you know, even if I'm looking for actors
+
+710
+27:47.340 --> 27:48.600
+or actresses to play certain roles
+
+711
+27:48.600 --> 27:50.610
+or script analysis for example,
+
+712
+27:50.610 --> 27:52.470
+all of these things are now changing
+
+713
+27:52.470 --> 27:54.900
+and I wanna bring a a bit of nomenclature
+
+714
+27:54.900 --> 27:57.270
+to the conversation, which is agentic AI.
+
+715
+27:57.270 --> 28:00.180
+So those workflows, right, that we might have
+
+716
+28:00.180 --> 28:02.761
+and do 10, 15 times a day, those are going
+
+717
+28:02.761 --> 28:04.620
+to become automated through
+
+718
+28:04.620 --> 28:06.870
+what we call agent-based workflows, right?
+
+719
+28:06.870 --> 28:11.190
+So not just AI but a workflow that can be called
+
+720
+28:11.190 --> 28:13.860
+through a maybe a smart bot, whatever else it might be
+
+721
+28:13.860 --> 28:14.970
+or processes can kick off
+
+722
+28:14.970 --> 28:17.070
+and it will move the content from A to B,
+
+723
+28:17.070 --> 28:19.410
+do the color correction, do the, you know,
+
+724
+28:19.410 --> 28:20.730
+whatever deep fake analysis,
+
+725
+28:20.730 --> 28:22.290
+whatever else it might be that's on there.
+
+726
+28:22.290 --> 28:24.120
+Those things are real.
+
+727
+28:24.120 --> 28:26.910
+And we're talking about taking content time delivery down
+
+728
+28:26.910 --> 28:28.980
+from like almost 90%, right?
+
+729
+28:28.980 --> 28:32.310
+Because there is no question that studios have to go faster,
+
+730
+28:32.310 --> 28:34.680
+need to keep the quality good as we've talked about,
+
+731
+28:34.680 --> 28:35.940
+but they've got to go faster
+
+732
+28:35.940 --> 28:37.740
+and those processes are going to be key, right?
+
+733
+28:37.740 --> 28:40.620
+And we're seeing most studios now think about how to derive
+
+734
+28:40.620 --> 28:42.300
+that kind of value from distribution.
+
+735
+28:42.300 --> 28:45.060
+<v ->I like it. Do you think it improves quality?</v>
+
+736
+28:45.060 --> 28:48.330
+<v ->I think in the hands of the right people? Yes it does.</v>
+
+737
+28:48.330 --> 28:49.860
+I think there is obviously some people
+
+738
+28:49.860 --> 28:52.380
+who care a lot about quality and some that don't.
+
+739
+28:52.380 --> 28:53.880
+I think for consumers, right?
+
+740
+28:53.880 --> 28:55.290
+Sometimes I care about quality
+
+741
+28:55.290 --> 28:57.330
+and sometimes I don't, I just wanna see it.
+
+742
+28:57.330 --> 28:59.100
+But then at a certain point I do care about quality,
+
+743
+28:59.100 --> 29:00.450
+I think it's gonna be in the hands of whoever's
+
+744
+29:00.450 --> 29:01.860
+gonna be creating that content.
+
+745
+29:01.860 --> 29:04.230
+<v ->Yeah, I love it, but hopefully it's starting</v>
+
+746
+29:04.230 --> 29:05.220
+to make sense a little bit.
+
+747
+29:05.220 --> 29:07.020
+Whether it's like the Thomson Reuters example
+
+748
+29:07.020 --> 29:09.690
+or in Hollywood there's so much content
+
+749
+29:09.690 --> 29:12.423
+coming in that it has to get funneled into the people
+
+750
+29:12.423 --> 29:13.500
+that are moving with it.
+
+751
+29:13.500 --> 29:14.750
+If they could do a better job of that,
+
+752
+29:14.750 --> 29:17.310
+an example I might use is if you were doing
+
+753
+29:17.310 --> 29:19.800
+like an unscripted reality show,
+
+754
+29:19.800 --> 29:22.200
+imagine all the footage that's being shot,
+
+755
+29:22.200 --> 29:24.060
+you can only look at so much of it, right?
+
+756
+29:24.060 --> 29:26.220
+So if there's better ways of doing something like this,
+
+757
+29:26.220 --> 29:27.540
+you're actually gonna get a better show.
+
+758
+29:27.540 --> 29:30.150
+<v ->I mean, even automated metadata, right?</v>
+
+759
+29:30.150 --> 29:30.983
+For example, right?
+
+760
+29:30.983 --> 29:33.360
+Because as soon as it comes in you gotta rely on someone
+
+761
+29:33.360 --> 29:35.370
+else to potentially put it on a spreadsheet somewhere.
+
+762
+29:35.370 --> 29:38.160
+Well no more, right? We can't have any more of those types
+
+763
+29:38.160 --> 29:40.230
+of processes that just doesn't work.
+
+764
+29:40.230 --> 29:43.740
+<v ->Yeah, no, for sure, Soyoung, you also have an example,</v>
+
+765
+29:43.740 --> 29:47.673
+I think that's kind of right up this alley as well.
+
+766
+29:48.570 --> 29:51.390
+<v ->So I think there are like, I agree with it,</v>
+
+767
+29:51.390 --> 29:53.280
+obviously everything here.
+
+768
+29:53.280 --> 29:54.960
+I think two things that I can share is,
+
+769
+29:54.960 --> 29:57.600
+one is on the media supply chain.
+
+770
+29:57.600 --> 30:00.210
+And this is something that one of our customers kind
+
+771
+30:00.210 --> 30:02.130
+of like presented last year,
+
+772
+30:02.130 --> 30:05.670
+which is it used to take them and there are sports,
+
+773
+30:05.670 --> 30:07.800
+there are very large sports franchise
+
+774
+30:07.800 --> 30:10.530
+that owns multiple teams across different leagues
+
+775
+30:10.530 --> 30:14.310
+and sports categories for every single game
+
+776
+30:14.310 --> 30:17.820
+after that game, you have to manually tag
+
+777
+30:17.820 --> 30:20.580
+and log what's happening in every given moment
+
+778
+30:20.580 --> 30:21.413
+within that game.
+
+779
+30:21.413 --> 30:24.180
+And this is to be able to know when to clip
+
+780
+30:24.180 --> 30:25.500
+and create highlights
+
+781
+30:25.500 --> 30:27.930
+and also to may be able to make that piece
+
+782
+30:27.930 --> 30:31.710
+of content accessible in the future for any licensing
+
+783
+30:31.710 --> 30:35.730
+or fan content creation processes for fans.
+
+784
+30:35.730 --> 30:39.180
+And in that you're not only taking one piece of video,
+
+785
+30:39.180 --> 30:42.060
+you're actually taking so many different camera angles,
+
+786
+30:42.060 --> 30:44.430
+the game press conferences, documentaries,
+
+787
+30:44.430 --> 30:47.790
+imagine how many hours of footage you have
+
+788
+30:47.790 --> 30:50.880
+and it takes about 30 hours to log one game
+
+789
+30:50.880 --> 30:52.890
+or one piece of footage for one game.
+
+790
+30:52.890 --> 30:54.810
+And with AI what you're able to do today
+
+791
+30:54.810 --> 30:56.250
+and with Twelve Labs, what they were able
+
+792
+30:56.250 --> 30:58.560
+to do is actually cut that down to eight minutes.
+
+793
+30:58.560 --> 31:01.709
+And it does take AI time today out of the box to be able
+
+794
+31:01.709 --> 31:04.770
+to understand it's almost create a human-like memory
+
+795
+31:04.770 --> 31:07.590
+of everything contextual that's happening.
+
+796
+31:07.590 --> 31:09.120
+But you're not just limited
+
+797
+31:09.120 --> 31:10.770
+to a predefined taxonomy,
+
+798
+31:10.770 --> 31:12.690
+today what you're able to do with AI
+
+799
+31:12.690 --> 31:14.520
+is almost ha it's almost like
+
+800
+31:14.520 --> 31:16.290
+you've already watched the content before.
+
+801
+31:16.290 --> 31:18.480
+So you could describe things like maybe there's a heated
+
+802
+31:18.480 --> 31:20.070
+moment during that game.
+
+803
+31:20.070 --> 31:21.990
+Maybe there's a player engaging with a fan
+
+804
+31:21.990 --> 31:23.733
+in a very unexpected way,
+
+805
+31:24.865 --> 31:28.260
+maybe there's, you know, a very interesting shot happening.
+
+806
+31:28.260 --> 31:30.840
+All of those things, if you describe it in human language,
+
+807
+31:30.840 --> 31:33.540
+you'd be able to find exactly that moment.
+
+808
+31:33.540 --> 31:35.640
+So you're cutting down that time for retrieval
+
+809
+31:35.640 --> 31:37.680
+and hence the time to reach fans
+
+810
+31:37.680 --> 31:39.540
+and hence you're able to create highlights
+
+811
+31:39.540 --> 31:43.470
+and content at scale that speaks to particular audiences.
+
+812
+31:43.470 --> 31:44.490
+<v Eric>And that's the context, right?</v>
+
+813
+31:44.490 --> 31:45.557
+<v Soyoung>Exactly.</v>
+<v ->That's so important</v>
+
+814
+31:45.557 --> 31:48.360
+that you don't get in or you haven't had in the past.
+
+815
+31:48.360 --> 31:51.120
+<v ->Yes, exactly, and then the second part</v>
+
+816
+31:51.120 --> 31:54.570
+is what you said was just agentic AI is incredibly exciting
+
+817
+31:54.570 --> 31:58.380
+because these are some examples of Twelve Labs
+
+818
+31:58.380 --> 32:00.960
+where you're actually just using language to be able
+
+819
+32:00.960 --> 32:03.150
+to search and generate summaries
+
+820
+32:03.150 --> 32:05.430
+and descriptions of what's happening in content.
+
+821
+32:05.430 --> 32:07.830
+But agentic AI actually allows you to solve
+
+822
+32:07.830 --> 32:11.550
+for much more complex tasks now leveraging maybe one model,
+
+823
+32:11.550 --> 32:12.810
+maybe multiple models
+
+824
+32:12.810 --> 32:16.260
+and you can say, "Hey, create 10 highlight reels
+
+825
+32:16.260 --> 32:20.040
+of something specific, this mood happening across all
+
+826
+32:20.040 --> 32:21.960
+these series or across this game."
+
+827
+32:21.960 --> 32:23.520
+And it would be able to perform that task
+
+828
+32:23.520 --> 32:27.270
+and provide the creatives with drafts.
+
+829
+32:27.270 --> 32:29.250
+And that's a much more complex task
+
+830
+32:29.250 --> 32:31.890
+and agentic AI that combines a lot
+
+831
+32:31.890 --> 32:33.330
+of different model capabilities
+
+832
+32:33.330 --> 32:35.370
+and also combines the knowledge of creatives
+
+833
+32:35.370 --> 32:37.110
+would be able to solve for that.
+
+834
+32:37.110 --> 32:39.720
+And it can be customized specifically
+
+835
+32:39.720 --> 32:40.830
+to different organizations,
+
+836
+32:40.830 --> 32:43.320
+to different units within organizations and workflows.
+
+837
+32:43.320 --> 32:44.910
+So definitely super exciting.
+
+838
+32:44.910 --> 32:45.743
+<v ->Can I add one thing?</v>
+
+839
+32:45.743 --> 32:47.280
+So to point on what you said, right?
+
+840
+32:47.280 --> 32:49.650
+It's not just, you know, 10 different versions, right?
+
+841
+32:49.650 --> 32:51.360
+But it could be creating different versions
+
+842
+32:51.360 --> 32:52.350
+for different formats.
+
+843
+32:52.350 --> 32:54.750
+For example, having those EDLs already ready
+
+844
+32:54.750 --> 32:57.030
+to go out the door, they're ready for TikTok,
+
+845
+32:57.030 --> 32:59.250
+whatever else it might be, right? That's huge, right?
+
+846
+32:59.250 --> 33:01.110
+And even if you wanna replace one click with another,
+
+847
+33:01.110 --> 33:03.990
+just doing it super easy 'cause it didn't max your kind
+
+848
+33:03.990 --> 33:05.341
+of fit the narrative that you had.
+
+849
+33:05.341 --> 33:06.507
+<v ->Yeah.</v>
+<v ->Yeah. That's great.</v>
+
+850
+33:06.507 --> 33:08.910
+<v ->Now Eric, if I may, you know it, I just listening</v>
+
+851
+33:08.910 --> 33:10.380
+to everyone talk and it makes perfect sense
+
+852
+33:10.380 --> 33:12.030
+and I think there's a common thread going through it.
+
+853
+33:12.030 --> 33:13.620
+You know, I'm coming at it from the hardware space
+
+854
+33:13.620 --> 33:16.290
+and it's powering this technology, be it the models
+
+855
+33:16.290 --> 33:17.700
+or be it, you know, what's actually happening.
+
+856
+33:17.700 --> 33:19.800
+But you know, Simon I think brought it up
+
+857
+33:19.800 --> 33:22.860
+and Soyoung mentioned the agentic, you know, workflows
+
+858
+33:22.860 --> 33:26.190
+and what we've seen is, you know, when AI kind of started,
+
+859
+33:26.190 --> 33:28.170
+a lot of the hardware was designed around the need
+
+860
+33:28.170 --> 33:30.627
+for training and I dunno if you're familiar with it,
+
+861
+33:30.627 --> 33:32.093
+you know, training and inference,
+
+862
+33:32.093 --> 33:32.926
+but training is, let's say the creation of the model
+
+863
+33:32.926 --> 33:34.350
+and inferences poking the model
+
+864
+33:34.350 --> 33:37.680
+or getting the results out of it, just to oversimplify it.
+
+865
+33:37.680 --> 33:39.990
+But you know, this hardware was developed with this idea
+
+866
+33:39.990 --> 33:41.520
+that training was gonna be the workload
+
+867
+33:41.520 --> 33:42.360
+that everyone was gonna use
+
+868
+33:42.360 --> 33:44.160
+and that's what the hardware needed to be designed around.
+
+869
+33:44.160 --> 33:45.660
+You saw all these graphs that said, you know,
+
+870
+33:45.660 --> 33:49.650
+the market will be 90% training and 10% inference or 70-30.
+
+871
+33:49.650 --> 33:51.030
+When you get to agentic workflows,
+
+872
+33:51.030 --> 33:53.370
+what you're really doing is instead of just asking the model
+
+873
+33:53.370 --> 33:56.550
+or the model is one thing, you're asking a series
+
+874
+33:56.550 --> 33:58.770
+of repeated queries over and over again
+
+875
+33:58.770 --> 34:01.230
+and the amount of inference compute you're using,
+
+876
+34:01.230 --> 34:04.890
+the model explodes in terms of how much compute is needed.
+
+877
+34:04.890 --> 34:07.620
+And that's why I think to power all of these experiences
+
+878
+34:07.620 --> 34:11.160
+and to enable the sort of agentic workflow future,
+
+879
+34:11.160 --> 34:13.590
+having hardware that's ultra expensive
+
+880
+34:13.590 --> 34:15.450
+or takes a nuclear reactor
+
+881
+34:15.450 --> 34:18.120
+to go power in a data center somewhere doesn't make sense.
+
+882
+34:18.120 --> 34:20.280
+And when you start to talk about the personalization,
+
+883
+34:20.280 --> 34:21.810
+you know, do you really want that in the cloud
+
+884
+34:21.810 --> 34:23.850
+or do you want to have hardware that's affordable
+
+885
+34:23.850 --> 34:26.340
+that can do all the inference that you need it to do,
+
+886
+34:26.340 --> 34:28.170
+that can do some training where needed,
+
+887
+34:28.170 --> 34:31.050
+but also be on premise in your house or in your studio
+
+888
+34:31.050 --> 34:33.210
+or in your production labs.
+
+889
+34:33.210 --> 34:35.010
+And I think that's gonna be more and more important.
+
+890
+34:35.010 --> 34:37.620
+So, I look forward to when I hear all these examples
+
+891
+34:37.620 --> 34:39.520
+of what, you know, this team here
+
+892
+34:39.520 --> 34:40.770
+is doing with AI that, you know, being able
+
+893
+34:40.770 --> 34:43.260
+to provide a hardware that can go, you know,
+
+894
+34:43.260 --> 34:44.280
+do the workloads of the future,
+
+895
+34:44.280 --> 34:45.900
+I think is gonna be crucial moving forward,
+
+896
+34:45.900 --> 34:46.860
+so super interesting.
+
+897
+34:46.860 --> 34:48.960
+<v ->I love it. Alright, so we have five minutes left.</v>
+
+898
+34:48.960 --> 34:50.430
+I know that we could keep talking for a while,
+
+899
+34:50.430 --> 34:52.770
+but Simon, we have to hit what creators are doing
+
+900
+34:52.770 --> 34:54.150
+and I know you've been spending a lot of time
+
+901
+34:54.150 --> 34:56.100
+on that, not only in your Disney time,
+
+902
+34:56.100 --> 35:00.840
+but right now where do we have use cases that are ripe
+
+903
+35:00.840 --> 35:03.810
+for AI in the creator space?
+
+904
+35:03.810 --> 35:05.910
+Not that it's not a touchy subject.
+
+905
+35:05.910 --> 35:08.820
+<v ->So all power to the creator.</v>
+<v ->All power to the creator.</v>
+
+906
+35:08.820 --> 35:11.400
+We all say that "All power to the creator".
+
+907
+35:11.400 --> 35:13.060
+Are we gonna have creators here?
+
+908
+35:13.060 --> 35:14.700
+<v ->Yeah.</v>
+<v ->Yeah, absolutely.</v>
+
+909
+35:14.700 --> 35:16.110
+And I believe that with all my heart
+
+910
+35:16.110 --> 35:17.370
+and soul and I also believe in AI.
+
+911
+35:17.370 --> 35:18.203
+So let's talk a little bit about this.
+
+912
+35:18.203 --> 35:21.180
+<v ->Okay, it is a touchy subject for many, right?</v>
+
+913
+35:21.180 --> 35:22.710
+Because I think there's a protective nature
+
+914
+35:22.710 --> 35:23.910
+around being a creator,
+
+915
+35:23.910 --> 35:26.700
+but I think it's really key to kinda share,
+
+916
+35:26.700 --> 35:29.550
+Microsoft has a perspective that AI is not creative, right?
+
+917
+35:29.550 --> 35:32.248
+You are to some degree, but you have amazing.
+
+918
+35:32.248 --> 35:33.090
+<v ->You are all creative, aren't you?</v>
+
+919
+35:33.090 --> 35:34.710
+You feel you're creative out there? Yeah, I think so.
+
+920
+35:34.710 --> 35:36.750
+<v ->But you have amazing tools at your fingertips</v>
+
+921
+35:36.750 --> 35:38.880
+and things couldn't do before, right?
+
+922
+35:38.880 --> 35:41.070
+And platforms you couldn't post on before in ways
+
+923
+35:41.070 --> 35:42.903
+that were just unimaginable, right?
+
+924
+35:43.740 --> 35:46.530
+I was working on some stuff for our leadership recently
+
+925
+35:46.530 --> 35:48.150
+and there's an amazing statistic,
+
+926
+35:48.150 --> 35:49.050
+I shared it with you ahead of time.
+
+927
+35:49.050 --> 35:50.430
+I'm gonna say it out here.
+
+928
+35:50.430 --> 35:54.270
+You know, the creator economy is 14% of the entire
+
+929
+35:54.270 --> 35:56.550
+M and E industry, $250 billion.
+
+930
+35:56.550 --> 35:59.250
+But it is responsible for half of the growth
+
+931
+35:59.250 --> 36:01.320
+of the entire industry, right?
+
+932
+36:01.320 --> 36:02.670
+So creators are doing things
+
+933
+36:02.670 --> 36:05.010
+with this technology in a way we don't truly
+
+934
+36:05.010 --> 36:06.090
+realize right now, right?
+
+935
+36:06.090 --> 36:08.887
+They are changing workflows in amazing ways
+
+936
+36:08.887 --> 36:11.610
+and from a large studio perspective, right?
+
+937
+36:11.610 --> 36:14.730
+They are grappling with how to leverage the technology
+
+938
+36:14.730 --> 36:17.610
+in a workflows that have existed for 10, 20 years.
+
+939
+36:17.610 --> 36:18.840
+'cause most people don't understand
+
+940
+36:18.840 --> 36:20.700
+that workflows in the media space have existed
+
+941
+36:20.700 --> 36:23.700
+for a very long time and they tend to have to, right?
+
+942
+36:23.700 --> 36:25.590
+Because you need to rely on them day after day.
+
+943
+36:25.590 --> 36:26.880
+But from a creative perspective,
+
+944
+36:26.880 --> 36:29.370
+whether you're using one model or others, right?
+
+945
+36:29.370 --> 36:31.380
+For animation or for short form content
+
+946
+36:31.380 --> 36:32.640
+or long form content,
+
+947
+36:32.640 --> 36:35.580
+we're seeing it everywhere from storyboarding to ideation,
+
+948
+36:35.580 --> 36:37.950
+to saving money on sets, design,
+
+949
+36:37.950 --> 36:40.700
+who's gonna be the best actor for this particular role?
+
+950
+36:41.970 --> 36:43.380
+There's a lot of exploration in this area.
+
+951
+36:43.380 --> 36:46.290
+So from a creative perspective, I could not be more excited
+
+952
+36:46.290 --> 36:48.360
+because I think it's just the power at their fingertips
+
+953
+36:48.360 --> 36:49.980
+to do things that have been in their minds
+
+954
+36:49.980 --> 36:51.450
+for a very long time, right?
+
+955
+36:51.450 --> 36:54.000
+And but the importance of the human element of storytelling
+
+956
+36:54.000 --> 36:55.920
+is still the most fundamental thing to me.
+
+957
+36:55.920 --> 36:57.300
+<v ->Yeah, no, I totally agree with it.</v>
+
+958
+36:57.300 --> 36:58.290
+You gonna make a comment?
+
+959
+36:58.290 --> 37:00.750
+<v ->Yeah, you know, I think that's so true, you know,</v>
+
+960
+37:00.750 --> 37:05.430
+and I think that AI is going to democratize the creation
+
+961
+37:05.430 --> 37:08.430
+of content in the way that the internet
+
+962
+37:08.430 --> 37:10.650
+democratize the distribution of content.
+
+963
+37:10.650 --> 37:15.030
+It's going to allow new people to tell stories,
+
+964
+37:15.030 --> 37:16.650
+to actually tell stories like never before.
+
+965
+37:16.650 --> 37:18.990
+For example, I'm dyslexic
+
+966
+37:18.990 --> 37:22.800
+so I have always hated writing essays and dread it,
+
+967
+37:22.800 --> 37:24.750
+but that doesn't mean that I haven't had good ideas
+
+968
+37:24.750 --> 37:27.270
+or been able to like, have stories I want to tell,
+
+969
+37:27.270 --> 37:29.700
+now I can be enabled because of AI to be able
+
+970
+37:29.700 --> 37:30.533
+to tell these stories.
+
+971
+37:30.533 --> 37:32.280
+And I've been using Grammarly,
+
+972
+37:32.280 --> 37:34.590
+which was like an AI software to help with editing
+
+973
+37:34.590 --> 37:36.000
+for years now.
+
+974
+37:36.000 --> 37:38.160
+And then I also think about the fact that like,
+
+975
+37:38.160 --> 37:40.590
+not only will new people be able to tell stories,
+
+976
+37:40.590 --> 37:42.660
+but we'll also be able to reach people like we weren't able
+
+977
+37:42.660 --> 37:44.880
+to before where now you can actually go
+
+978
+37:44.880 --> 37:48.150
+and have translation to like other languages
+
+979
+37:48.150 --> 37:51.677
+around the world and you can actually speak to someone
+
+980
+37:51.677 --> 37:54.240
+that speaks a completely different language
+
+981
+37:54.240 --> 37:58.440
+whether they are in Italy or China or India.
+
+982
+37:58.440 --> 38:00.720
+And I think that that is so amazing when I think
+
+983
+38:00.720 --> 38:03.180
+about the creative power of AI.
+
+984
+38:03.180 --> 38:07.050
+And I really think that the human storytelling aspect,
+
+985
+38:07.050 --> 38:11.310
+you know, the fact of how to create a great story
+
+986
+38:11.310 --> 38:12.630
+that is uniquely human.
+
+987
+38:12.630 --> 38:15.630
+And I believe that more strongly now than ever
+
+988
+38:15.630 --> 38:18.120
+after going to a generative AI film festival
+
+989
+38:18.120 --> 38:21.000
+and seeing that firsthand, that the best ones were the ones
+
+990
+38:21.000 --> 38:23.340
+where you had someone that knew storytelling
+
+991
+38:23.340 --> 38:25.770
+and then they used AI as a toolkit
+
+992
+38:25.770 --> 38:29.520
+just as what happened when computer graphics came,
+
+993
+38:29.520 --> 38:30.870
+people were afraid that, you know,
+
+994
+38:30.870 --> 38:34.170
+set builders went on strike when computer graphics came out.
+
+995
+38:34.170 --> 38:35.970
+But you know, it take over the world.
+
+996
+38:35.970 --> 38:40.110
+We're not all watching CGI, it actually became a new toolkit
+
+997
+38:40.110 --> 38:41.820
+for creators and for storytelling.
+
+998
+38:41.820 --> 38:43.830
+And I think we're gonna see the same thing with GenAI.
+
+999
+38:43.830 --> 38:44.970
+<v ->Yeah, I love it, how many people</v>
+
+1000
+38:44.970 --> 38:45.960
+out there have created something?
+
+1001
+38:45.960 --> 38:48.189
+And by the way, I'm a composer so I grew up doing that
+
+1002
+38:48.189 --> 38:49.830
+and the example I always love
+
+1003
+38:49.830 --> 38:52.890
+to give is if you went way back in time Js Bach,
+
+1004
+38:52.890 --> 38:54.360
+there wasn't computers and all of that
+
+1005
+38:54.360 --> 38:57.360
+and when they needed all the parts for all of the musicians
+
+1006
+38:57.360 --> 38:58.950
+to play, guess what they had to do
+
+1007
+38:58.950 --> 39:00.810
+and copy it out of the score.
+
+1008
+39:00.810 --> 39:04.140
+Is that a good use of a creator's time? No.
+
+1009
+39:04.140 --> 39:07.110
+So that's a creators have been creating tools
+
+1010
+39:07.110 --> 39:09.330
+to help them create for the beginning
+
+1011
+39:09.330 --> 39:10.770
+of the time we've had creation.
+
+1012
+39:10.770 --> 39:12.660
+It's how we use them, who are using them.
+
+1013
+39:12.660 --> 39:15.240
+I agree with you guys both a hundred percent.
+
+1014
+39:15.240 --> 39:17.160
+Alright, so we're running a little short on time,
+
+1015
+39:17.160 --> 39:20.730
+but David, I wanted to ask you a question capabilities wise
+
+1016
+39:20.730 --> 39:23.700
+and Simon real quick power round on this,
+
+1017
+39:23.700 --> 39:26.130
+the capabilities to support a lot of these things
+
+1018
+39:26.130 --> 39:28.920
+we're talking about are advancing pretty quick.
+
+1019
+39:28.920 --> 39:29.880
+Tell us a little bit about that.
+
+1020
+39:29.880 --> 39:32.160
+<v ->Yeah, no, like I said, I think if you look at the amount</v>
+
+1021
+39:32.160 --> 39:33.750
+of compute required, it's exploding
+
+1022
+39:33.750 --> 39:35.310
+and I think there's been shift from this training
+
+1023
+39:35.310 --> 39:37.200
+to inference and I think what we're seeing now
+
+1024
+39:37.200 --> 39:39.840
+is that, you know, the video game example
+
+1025
+39:39.840 --> 39:41.280
+I gave was a great one, right?
+
+1026
+39:41.280 --> 39:43.740
+There's no question that the video games coming out,
+
+1027
+39:43.740 --> 39:46.230
+maybe even this year, definitely next year are gonna
+
+1028
+39:46.230 --> 39:47.370
+be developed on the fly.
+
+1029
+39:47.370 --> 39:49.380
+You know, we were looking at CES, who was it?
+
+1030
+39:49.380 --> 39:51.000
+It was either Nvidia or Razor,
+
+1031
+39:51.000 --> 39:52.290
+one of the gaming companies, they came out
+
+1032
+39:52.290 --> 39:53.123
+and they showed that, you know,
+
+1033
+39:53.123 --> 39:55.610
+you could have a second player being powered by AI,
+
+1034
+39:55.610 --> 39:59.910
+or play alongside you just like a real player.
+
+1035
+39:59.910 --> 40:00.743
+Even in the media space,
+
+1036
+40:00.743 --> 40:02.400
+we're working with a company called Riff,
+
+1037
+40:02.400 --> 40:03.540
+which is super interesting
+
+1038
+40:03.540 --> 40:05.490
+and they're able to do visualization, product placement.
+
+1039
+40:05.490 --> 40:07.350
+So if you are an advertiser
+
+1040
+40:07.350 --> 40:09.300
+and you have like a bottle of coke in a movie,
+
+1041
+40:09.300 --> 40:10.887
+in a different market where they don't sell coke
+
+1042
+40:10.887 --> 40:13.530
+and that could be changed out on the fly
+
+1043
+40:13.530 --> 40:14.820
+to a different brand
+
+1044
+40:14.820 --> 40:16.680
+or a different product or even a different item.
+
+1045
+40:16.680 --> 40:18.120
+You know, these kind of things are all happening
+
+1046
+40:18.120 --> 40:19.350
+and I think whether it's generative
+
+1047
+40:19.350 --> 40:21.600
+or whether it's sort of support tools
+
+1048
+40:21.600 --> 40:24.360
+or whatever, the technology is there,
+
+1049
+40:24.360 --> 40:27.060
+the amount of compute required is growing
+
+1050
+40:27.060 --> 40:28.680
+and I think it's gonna be interesting to see
+
+1051
+40:28.680 --> 40:31.920
+that the capabilities driven by this hardware,
+
+1052
+40:31.920 --> 40:34.650
+can you do it without having to use all the power
+
+1053
+40:34.650 --> 40:35.483
+that's available.
+
+1054
+40:35.483 --> 40:37.680
+Not, you know, run outta power, run outta compute,
+
+1055
+40:37.680 --> 40:39.330
+but have have that sort of, like I said,
+
+1056
+40:39.330 --> 40:41.190
+wherever you are on premise without having to go
+
+1057
+40:41.190 --> 40:42.870
+to the cloud and having enough of it.
+
+1058
+40:42.870 --> 40:44.340
+That's all happening now and that build out
+
+1059
+40:44.340 --> 40:45.897
+is happening in time for these workflows
+
+1060
+40:45.897 --> 40:47.277
+and these new things to happen, so yeah.
+
+1061
+40:47.277 --> 40:49.620
+<v ->But the cloud is still cool Simon,</v>
+
+1062
+40:49.620 --> 40:51.150
+so that's part of the capability set too.
+
+1063
+40:51.150 --> 40:52.590
+And you guys at Microsoft are working
+
+1064
+40:52.590 --> 40:53.880
+on tons of different capabilities.
+
+1065
+40:53.880 --> 40:55.560
+Just give us maybe two really good ones.
+
+1066
+40:55.560 --> 40:58.160
+<v ->Well, I mean we're buying on nuclear power plants.</v>
+
+1067
+40:59.190 --> 41:01.140
+<v ->You could talk with Simon out in the hall</v>
+
+1068
+41:01.140 --> 41:02.610
+about that particular topic.
+
+1069
+41:02.610 --> 41:04.260
+<v ->But yeah, I mean the cloud is really important.</v>
+
+1070
+41:04.260 --> 41:06.480
+Look, we need to bring the data closer to the cloud
+
+1071
+41:06.480 --> 41:08.130
+for real time rendering and everything else.
+
+1072
+41:08.130 --> 41:09.420
+It's super critical.
+
+1073
+41:09.420 --> 41:11.340
+The on-prem components are gonna be huge.
+
+1074
+41:11.340 --> 41:13.470
+You're gonna need to re-architect workflows time
+
+1075
+41:13.470 --> 41:14.760
+and time again over a little bit
+
+1076
+41:14.760 --> 41:16.866
+because yes, you might use something for AI today,
+
+1077
+41:16.866 --> 41:19.230
+but you're gonna be able to do it differently in six months
+
+1078
+41:19.230 --> 41:21.000
+from now and you're gonna save yourself a ton of compute
+
+1079
+41:21.000 --> 41:22.800
+TPUs, GPUs and others.
+
+1080
+41:22.800 --> 41:25.200
+And we see that, right, because the cost will go continually
+
+1081
+41:25.200 --> 41:27.780
+down, but those workflows are gonna become more important.
+
+1082
+41:27.780 --> 41:30.510
+So I just see a lot of capabilities needed in the cloud
+
+1083
+41:30.510 --> 41:32.580
+and you're gonna need the tools when you need them, right?
+
+1084
+41:32.580 --> 41:36.090
+And gonna rely on stuff in the cloud from a security based
+
+1085
+41:36.090 --> 41:38.520
+perspective as well that are gonna become super critical.
+
+1086
+41:38.520 --> 41:42.480
+So it's really important we've doubled down on all of that
+
+1087
+41:42.480 --> 41:43.800
+and I think for our perspective,
+
+1088
+41:43.800 --> 41:46.140
+the power piece is gonna be huge to understand.
+
+1089
+41:46.140 --> 41:46.973
+<v ->I love it. All right.</v>
+
+1090
+41:46.973 --> 41:48.780
+So we're gonna summarize a couple things.
+
+1091
+41:48.780 --> 41:50.160
+We're gonna go through two power rounds
+
+1092
+41:50.160 --> 41:51.960
+and then we're gonna wrap it up.
+
+1093
+41:51.960 --> 41:54.090
+But so what have we heard so far?
+
+1094
+41:54.090 --> 41:58.740
+We've got more personalization, better on search.
+
+1095
+41:58.740 --> 42:01.950
+We're gonna be bringing the consumer closer from the creator
+
+1096
+42:01.950 --> 42:03.390
+all the way straight to the consumer,
+
+1097
+42:03.390 --> 42:05.280
+which I think is gonna be super interesting.
+
+1098
+42:05.280 --> 42:06.780
+On the workflow side, we're gonna see
+
+1099
+42:06.780 --> 42:10.470
+I think a renaissance of workflow reinvention,
+
+1100
+42:10.470 --> 42:13.260
+which is a enormous, a part of what happens
+
+1101
+42:13.260 --> 42:17.370
+behind the scenes to get any major films created.
+
+1102
+42:17.370 --> 42:20.040
+Example I love to give is 10,000 visual effects shots
+
+1103
+42:20.040 --> 42:22.800
+on the "Lord of the Rings" when I was at Amazon Studios.
+
+1104
+42:22.800 --> 42:25.770
+That's a lot of content to get orchestrated.
+
+1105
+42:25.770 --> 42:28.050
+We're gonna see that with the agentic AI.
+
+1106
+42:28.050 --> 42:29.100
+We're gonna be able to find
+
+1107
+42:29.100 --> 42:31.890
+and search through the troves of content for the people
+
+1108
+42:31.890 --> 42:32.820
+that are putting it all together,
+
+1109
+42:32.820 --> 42:34.770
+much better that's gonna be approved.
+
+1110
+42:34.770 --> 42:37.830
+And then the tool sets are actually gonna improve taking
+
+1111
+42:37.830 --> 42:39.900
+away things that actually don't add value
+
+1112
+42:39.900 --> 42:43.150
+and it's gonna help others be able to kind of create
+
+1113
+42:44.190 --> 42:46.260
+some content, whether it's in the writing space
+
+1114
+42:46.260 --> 42:47.670
+or it's in the video space,
+
+1115
+42:47.670 --> 42:49.230
+and allow that to commit catch up.
+
+1116
+42:49.230 --> 42:50.910
+And Simon and I agree with you, hold a sec,
+
+1117
+42:50.910 --> 42:54.210
+it doesn't change the fact that you still need novel ideas
+
+1118
+42:54.210 --> 42:56.670
+coming from amazingly creative humans
+
+1119
+42:56.670 --> 42:58.080
+and it's still gonna make us want to kind
+
+1120
+42:58.080 --> 42:59.400
+of sharpen our skills in other areas.
+
+1121
+42:59.400 --> 43:01.590
+You have catch up so far we're well good.
+
+1122
+43:01.590 --> 43:02.640
+Alright, so let's do this
+
+1123
+43:02.640 --> 43:04.800
+and I'm just gonna go straight down the row.
+
+1124
+43:04.800 --> 43:08.940
+All right, so first question, 2030 CES,
+
+1125
+43:08.940 --> 43:10.890
+what's the crazy thing we're gonna be talking about
+
+1126
+43:10.890 --> 43:12.440
+with AI and entertainment then?
+
+1127
+43:15.780 --> 43:18.030
+<v ->So I think the amazing thing that's happening right now</v>
+
+1128
+43:18.030 --> 43:20.100
+in AI that's unique is that machines
+
+1129
+43:20.100 --> 43:23.430
+can finally see the world like we do.
+
+1130
+43:23.430 --> 43:26.070
+And I think technology's gonna be increasingly transparent.
+
+1131
+43:26.070 --> 43:28.260
+We're gonna, and especially when you think about AR,VR ,
+
+1132
+43:28.260 --> 43:31.230
+at the same time you're gonna be able to talk to machines,
+
+1133
+43:31.230 --> 43:34.740
+talk to computers like you would like a human being
+
+1134
+43:34.740 --> 43:36.030
+with glasses or whatever.
+
+1135
+43:36.030 --> 43:38.760
+And I think we'll see a whole new set of devices that kind
+
+1136
+43:38.760 --> 43:41.490
+of are an evolution from our phone that are transparent
+
+1137
+43:41.490 --> 43:43.740
+and that's how we interact with a digital world
+
+1138
+43:43.740 --> 43:45.900
+as the digital and physical worlds blur together.
+
+1139
+43:45.900 --> 43:47.640
+<v ->I actually fully agree with you on that one.</v>
+
+1140
+43:47.640 --> 43:50.220
+It's really cool. It's gonna be a really fun time, Simon.
+
+1141
+43:50.220 --> 43:52.260
+<v ->I'm just gonna say artificial general intelligence</v>
+
+1142
+43:52.260 --> 43:53.490
+is basically what you just said.
+
+1143
+43:53.490 --> 43:55.380
+I think we're gonna engage much more differently,
+
+1144
+43:55.380 --> 43:57.870
+Quantum computing, Moore's law, right?
+
+1145
+43:57.870 --> 44:00.090
+We go faster, we're, we're gonna go much quicker.
+
+1146
+44:00.090 --> 44:02.100
+This is a hype cycle of innovation.
+
+1147
+44:02.100 --> 44:06.060
+I think we're gonna see the next couple years just explode
+
+1148
+44:06.060 --> 44:08.520
+and I think it's gonna be a thrilling ride
+
+1149
+44:08.520 --> 44:09.353
+where we're gonna try
+
+1150
+44:09.353 --> 44:10.770
+and make sense of everything that's going on.
+
+1151
+44:10.770 --> 44:12.720
+But I would say artificial general intelligence for me.
+
+1152
+44:12.720 --> 44:15.115
+<v ->Okay, excellent, excellent. Alright, Soyoung.</v>
+
+1153
+44:15.115 --> 44:18.150
+<v ->Two things, one, totally interactive</v>
+
+1154
+44:18.150 --> 44:20.370
+and immersive content worlds.
+
+1155
+44:20.370 --> 44:23.740
+I would love to live in The Shire or in Hogwarts
+
+1156
+44:23.740 --> 44:27.510
+and to be actually to be able to interact
+
+1157
+44:27.510 --> 44:31.170
+with these all the things in that story in real time.
+
+1158
+44:31.170 --> 44:34.260
+And I think storytelling will become incredibly personalized
+
+1159
+44:34.260 --> 44:36.750
+and you'll be able to create your own story as you go.
+
+1160
+44:36.750 --> 44:38.700
+The second thing is that same capability
+
+1161
+44:38.700 --> 44:41.280
+that we're talking about for storytelling is actually very
+
+1162
+44:41.280 --> 44:42.930
+applicable across different industries,
+
+1163
+44:42.930 --> 44:45.180
+whether it's healthcare or robotics or automotive.
+
+1164
+44:45.180 --> 44:47.580
+And so if you have AI that can truly understand
+
+1165
+44:47.580 --> 44:48.840
+and interact with the world,
+
+1166
+44:48.840 --> 44:51.611
+it means we can power incredible things in healthcare,
+
+1167
+44:51.611 --> 44:55.230
+patient monitoring and safety and so on.
+
+1168
+44:55.230 --> 44:58.460
+So I feel like there's a very clear path to merge all
+
+1169
+44:58.460 --> 45:00.660
+of these worlds together through AI.
+
+1170
+45:00.660 --> 45:01.800
+<v ->Alright, David.</v>
+
+1171
+45:01.800 --> 45:03.720
+<v ->Easy, 2030, maybe even earlier,</v>
+
+1172
+45:03.720 --> 45:06.960
+Tenstorrent, next generation AI processor is gonna design
+
+1173
+45:06.960 --> 45:08.610
+itself and manufacture itself.
+
+1174
+45:08.610 --> 45:11.130
+<v ->All right, boom. There you go. All right, here we go.</v>
+
+1175
+45:11.130 --> 45:13.080
+Last thing, we're gonna help everybody out here.
+
+1176
+45:13.080 --> 45:15.480
+It's the beginning of the year, everybody's got goal setting
+
+1177
+45:15.480 --> 45:17.393
+and we're gonna help you with your goal setting.
+
+1178
+45:18.300 --> 45:19.920
+Cody, tell us like the audience,
+
+1179
+45:19.920 --> 45:21.450
+one thing that they should put on their goals
+
+1180
+45:21.450 --> 45:24.543
+here for 2025 to get ready for all of this.
+
+1181
+45:25.620 --> 45:27.630
+<v ->Play around with AI. Have fun.</v>
+
+1182
+45:27.630 --> 45:29.520
+<v ->Alright, play around with AI and have fun, Simon?</v>
+
+1183
+45:29.520 --> 45:30.990
+<v ->Data</v>
+<v ->Data.</v>
+
+1184
+45:30.990 --> 45:33.450
+<v ->Figure out data really quickly.</v>
+
+1185
+45:33.450 --> 45:34.650
+<v ->All right.</v>
+
+1186
+45:34.650 --> 45:36.143
+<v ->I should use AI. Try it. Yeah.</v>
+
+1187
+45:37.239 --> 45:38.310
+<v ->Try it. All right, more play?</v>
+
+1188
+45:38.310 --> 45:40.110
+<v ->No, I gotta reinforce it, you gotta use the tools</v>
+
+1189
+45:40.110 --> 45:42.240
+to know them and I'm shocked at how many people
+
+1190
+45:42.240 --> 45:43.470
+aren't using all the tools available.
+
+1191
+45:43.470 --> 45:46.230
+So go try something, whatever it is, and tell a friend.
+
+1192
+45:46.230 --> 45:47.670
+<v ->I love it. So get the hell outta here.</v>
+
+1193
+45:47.670 --> 45:49.950
+Stop listening to us, it's time to go use this stuff.
+
+1194
+45:49.950 --> 45:52.650
+Have a great rest of your CES, thank you for listening.
+
+1195
+45:52.650 --> 45:54.540
+And then our presenters are gonna be out here
+
+1196
+45:54.540 --> 45:55.620
+in the hall if you wanna talk to them.
+
+1197
+45:55.620 --> 45:56.453
+Thanks.
+
+1198
+45:56.453 --> 45:59.006
+(upbeat music)
+

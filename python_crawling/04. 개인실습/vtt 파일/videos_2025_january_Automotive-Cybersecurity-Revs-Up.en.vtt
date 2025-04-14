@@ -1,0 +1,3148 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+1
+00:00.000 --> 00:02.583
+(upbeat music)
+
+2
+00:10.380 --> 00:12.390
+<v ->So, welcome to today's session</v>
+
+3
+00:12.390 --> 00:15.033
+on Automotive Cybersecurity Revs Up.
+
+4
+00:16.470 --> 00:21.470
+I think I see a lot of faces, so thank you for joining.
+
+5
+00:23.010 --> 00:24.483
+Good morning to all of you.
+
+6
+00:26.220 --> 00:28.500
+So, I would be the moderator.
+
+7
+00:28.500 --> 00:31.470
+My name is Debasish, so you can call me Deba.
+
+8
+00:32.477 --> 00:35.040
+Just a brief introduction about me.
+
+9
+00:35.040 --> 00:38.220
+I am joining from Wipro.
+
+10
+00:38.220 --> 00:42.180
+I had automotive practice
+
+11
+00:42.180 --> 00:46.413
+within Wipro's engineering edge business line.
+
+12
+00:47.280 --> 00:50.760
+Also, I'm the distinguished member within Wipro
+
+13
+00:50.760 --> 00:54.540
+for my two and a half decade contribution in mobility
+
+14
+00:54.540 --> 00:55.923
+and the automotive space.
+
+15
+00:57.270 --> 00:59.490
+So, friends, as we are stepping
+
+16
+00:59.490 --> 01:03.120
+into the new era of connected vehicle,
+
+17
+01:03.120 --> 01:07.196
+and as you know, software is hitting the world syndrome,
+
+18
+01:07.196 --> 01:12.043
+is now a stark reality in automotive industry.
+
+19
+01:12.043 --> 01:15.570
+We are seeing a numerous cybersecurity
+
+20
+01:15.570 --> 01:20.043
+and privacy challenges.
+
+21
+01:21.060 --> 01:22.020
+So, we are fortunate
+
+22
+01:22.020 --> 01:26.973
+to have three eminent leader from industry leaders.
+
+23
+01:27.960 --> 01:30.810
+They would enlighten us with their deep insight
+
+24
+01:30.810 --> 01:33.753
+on how to combat with these challenges.
+
+25
+01:34.740 --> 01:39.240
+They would explain us the engineering approach,
+
+26
+01:39.240 --> 01:42.210
+standardization, regulation,
+
+27
+01:42.210 --> 01:44.403
+innovation happening in this space.
+
+28
+01:45.510 --> 01:47.168
+Without any further ado,
+
+29
+01:47.168 --> 01:50.853
+let me welcome our distinguished panelists.
+
+30
+01:51.960 --> 01:55.833
+Let us start with Cindy Warner.
+
+31
+01:56.760 --> 02:01.760
+She joined from 360ofme. She's the co-founder and CEO.
+
+32
+02:01.980 --> 02:03.480
+So, let us hear more from her.
+
+33
+02:04.599 --> 02:05.432
+<v ->Thanks, Deba,</v>
+
+34
+02:05.432 --> 02:07.441
+and thanks everybody for coming early session.
+
+35
+02:07.441 --> 02:09.180
+Lots of things going on last night,
+
+36
+02:09.180 --> 02:10.740
+so thank you for being here.
+
+37
+02:10.740 --> 02:12.300
+I'm Cindy Warner, as Deba said.
+
+38
+02:12.300 --> 02:16.190
+I'm the founder and CEO of 360ofme, a data privacy company.
+
+39
+02:16.190 --> 02:20.820
+We provide a data privacy layer that is industry-agnostic
+
+40
+02:20.820 --> 02:23.135
+and also tech stack-agnostic.
+
+41
+02:23.135 --> 02:25.560
+Prior to being the founder of this company,
+
+42
+02:25.560 --> 02:27.402
+I spent four decades
+
+43
+02:27.402 --> 02:31.050
+as a partner in Big 4 consulting,
+
+44
+02:31.050 --> 02:32.963
+doing systems consulting work.
+
+45
+02:32.963 --> 02:36.363
+I'm an architect, systems architect by trade,
+
+46
+02:37.260 --> 02:38.430
+but I've done hundreds
+
+47
+02:38.430 --> 02:41.820
+and hundreds of global 1,000 systems implementation.
+
+48
+02:41.820 --> 02:44.569
+So, I hail from a deep technology background,
+
+49
+02:44.569 --> 02:47.190
+and really appreciative of being on the panel,
+
+50
+02:47.190 --> 02:48.270
+so thank you.
+
+51
+02:48.270 --> 02:49.103
+<v ->Thank you.</v>
+
+52
+02:50.460 --> 02:54.317
+Next, I think we will go with John.
+
+53
+02:54.317 --> 02:56.880
+John joined us from Eaton
+
+54
+02:56.880 --> 03:01.880
+and he is chair of multiple standardization body,
+
+55
+03:03.030 --> 03:07.040
+so let's hear more from him, so we can really understand
+
+56
+03:07.040 --> 03:10.533
+what guidance he has for all of you.
+
+57
+03:11.490 --> 03:14.220
+<v ->Yeah, good morning, everyone. Pleasure to be here.</v>
+
+58
+03:14.220 --> 03:15.780
+A little bit of background on myself
+
+59
+03:15.780 --> 03:16.613
+and first of all,
+
+60
+03:16.613 --> 03:20.820
+the functional excellence lead in product, cybersecurity,
+
+61
+03:20.820 --> 03:23.335
+and functional safety at Eaton Corporation.
+
+62
+03:23.335 --> 03:25.830
+And then, as far as giving you a little bit
+
+63
+03:25.830 --> 03:29.580
+of background in my experience, I've been involved
+
+64
+03:29.580 --> 03:32.940
+with cybersecurity all the way from medical devices,
+
+65
+03:32.940 --> 03:36.360
+a vital signs monitoring system, both the embedded device
+
+66
+03:36.360 --> 03:40.950
+in the server side system through telematics,
+
+67
+03:40.950 --> 03:42.090
+through all the way
+
+68
+03:42.090 --> 03:45.870
+to autonomous vehicle systems, infotainment systems,
+
+69
+03:45.870 --> 03:48.766
+and various applications within automotive.
+
+70
+03:48.766 --> 03:51.630
+So, one of the areas I specialize in
+
+71
+03:51.630 --> 03:56.013
+is the intersection of functional safety and cybersecurity.
+
+72
+03:56.013 --> 03:59.370
+And I'm currently chair, as he mentioned,
+
+73
+03:59.370 --> 04:01.680
+of the vehicle cybersecurity systems
+
+74
+04:01.680 --> 04:04.288
+engineering committee at SAE.
+
+75
+04:04.288 --> 04:08.880
+That also makes me co-convener
+
+76
+04:08.880 --> 04:13.260
+with ISO on joint working group efforts between ISO
+
+77
+04:13.260 --> 04:16.320
+and SAE and automotive cybersecurity.
+
+78
+04:16.320 --> 04:17.519
+That would include
+
+79
+04:17.519 --> 04:22.519
+the automotive cybersecurity standard, ISO/SAE 21434.
+
+80
+04:23.130 --> 04:24.780
+Road vehicles is titled,
+
+81
+04:24.780 --> 04:26.968
+Road Vehicle Cybersecurity Engineering.
+
+82
+04:26.968 --> 04:31.968
+And I'm also involved in subsequent efforts in that area,
+
+83
+04:32.520 --> 04:34.970
+which hopefully we'll get a chance to talk about.
+
+84
+04:36.060 --> 04:37.053
+<v ->Thank you, John.</v>
+
+85
+04:37.980 --> 04:40.710
+Next but not last, but not the least,
+
+86
+04:40.710 --> 04:45.270
+I think we would like to welcome Jurgen Mueller.
+
+87
+04:45.270 --> 04:47.070
+He joined us from IAV
+
+88
+04:47.070 --> 04:49.500
+and he has a deep insight
+
+89
+04:49.500 --> 04:53.760
+on end-to-end cybersecurity for connected vehicle.
+
+90
+04:53.760 --> 04:56.970
+Let's hear more from him. Jurgen?
+
+91
+04:56.970 --> 04:58.083
+<v ->Yes. Thank you.</v>
+
+92
+04:59.400 --> 05:01.290
+Very warm welcome from my side as well.
+
+93
+05:01.290 --> 05:05.100
+And I must admit, so cybersecurity must be a topic,
+
+94
+05:05.100 --> 05:08.130
+otherwise not so many people would be here
+
+95
+05:08.130 --> 05:11.073
+at nine o'clock at Las Vegas, so thank you for that.
+
+96
+05:12.630 --> 05:13.463
+Yes.
+
+97
+05:13.463 --> 05:16.020
+So, I started my career actually in life science,
+
+98
+05:16.020 --> 05:16.860
+not in automotive.
+
+99
+05:16.860 --> 05:19.890
+And so, I basically learned
+
+100
+05:19.890 --> 05:21.990
+what safety is, functional safety is.
+
+101
+05:21.990 --> 05:24.660
+And when I stepped into the automotive world,
+
+102
+05:24.660 --> 05:26.167
+so I was socialized in the others world
+
+103
+05:26.167 --> 05:29.220
+and there I learned that it's difficult to maintain
+
+104
+05:29.220 --> 05:32.040
+or achieve functional safety without security,
+
+105
+05:32.040 --> 05:34.170
+especially in a connected vehicle.
+
+106
+05:34.170 --> 05:37.170
+And therefore, so I really gained a lot of experience
+
+107
+05:37.170 --> 05:42.170
+in developing E/E architectures and platforms including HPC,
+
+108
+05:42.840 --> 05:44.220
+so high performance computing.
+
+109
+05:44.220 --> 05:46.500
+And so, we had to deal a lot with security.
+
+110
+05:46.500 --> 05:49.290
+And one of the really hard lessons
+
+111
+05:49.290 --> 05:52.110
+was so as if you don't do it from the beginning.
+
+112
+05:52.110 --> 05:54.390
+So, it's very difficult in the very end.
+
+113
+05:54.390 --> 05:56.214
+So, the one of the...
+
+114
+05:56.214 --> 05:58.038
+John is laughing, yeah.
+
+115
+05:58.038 --> 06:01.440
+So, it's one of the key experiences was,
+
+116
+06:01.440 --> 06:04.770
+so do you develop a product without security,
+
+117
+06:04.770 --> 06:08.340
+and then at a certain point, you decide to be secure,
+
+118
+06:08.340 --> 06:10.380
+and then you switch on security and nothing is working.
+
+119
+06:10.380 --> 06:13.170
+So, we learned the hard way in short words.
+
+120
+06:13.170 --> 06:18.000
+And now, I'm at IAV and I'm responsible for a division,
+
+121
+06:18.000 --> 06:19.680
+it's called connected software services.
+
+122
+06:19.680 --> 06:22.410
+And basically, so we take care
+
+123
+06:22.410 --> 06:26.187
+of the main technology pillars of the SDV
+
+124
+06:26.187 --> 06:28.053
+and cybersecurity is one of them.
+
+125
+06:30.150 --> 06:30.983
+<v ->Great.</v>
+
+126
+06:30.983 --> 06:35.983
+I think we are now, we know all of us.
+
+127
+06:36.270 --> 06:39.060
+So, my first question,
+
+128
+06:39.060 --> 06:41.370
+I think I will take the cue from Jurgen,
+
+129
+06:41.370 --> 06:42.513
+first question to you.
+
+130
+06:43.350 --> 06:46.680
+As we are moving to these,
+
+131
+06:46.680 --> 06:49.350
+vehicles are becoming always connected.
+
+132
+06:49.350 --> 06:53.370
+And mask skills software registration is taking place
+
+133
+06:53.370 --> 06:56.820
+as you explained in your experience as well.
+
+134
+06:56.820 --> 06:58.020
+I would like to know
+
+135
+06:58.020 --> 07:01.020
+what it means to the automotive cybersecurity.
+
+136
+07:01.020 --> 07:02.196
+That is the first question.
+
+137
+07:02.196 --> 07:04.287
+And the second question is,
+
+138
+07:04.287 --> 07:09.210
+how do you think that auto manufacturers
+
+139
+07:09.210 --> 07:14.210
+are gearing towards these challenges?
+
+140
+07:14.670 --> 07:19.410
+<v ->Yes, so certainly, so the always connected vehicles</v>
+
+141
+07:19.410 --> 07:24.410
+and the integration of software from multiple sources
+
+142
+07:24.862 --> 07:26.880
+will have an effect
+
+143
+07:26.880 --> 07:28.650
+in which transform the security landscape
+
+144
+07:28.650 --> 07:30.003
+of the car manufacturers.
+
+145
+07:31.050 --> 07:33.220
+The connectivity or the communication
+
+146
+07:34.169 --> 07:39.169
+introduces a lot of numerous tech vectors
+
+147
+07:39.540 --> 07:42.780
+and the integration of third party software
+
+148
+07:42.780 --> 07:47.103
+from different sources of course increases that as well.
+
+149
+07:48.330 --> 07:53.330
+We don't think so far that open source is a risk.
+
+150
+07:55.680 --> 07:57.330
+So, we believe it's more an opportunity
+
+151
+07:57.330 --> 07:59.580
+because of its transparency.
+
+152
+07:59.580 --> 08:01.150
+And this transparency
+
+153
+08:01.150 --> 08:04.740
+allows basically global developer communities
+
+154
+08:04.740 --> 08:08.130
+to constantly or continuously innovate
+
+155
+08:08.130 --> 08:10.110
+and improve those software.
+
+156
+08:10.110 --> 08:13.140
+And that mean will result in better security
+
+157
+08:13.140 --> 08:14.493
+and better functionality.
+
+158
+08:15.840 --> 08:20.090
+But so, it's probably John is well-aware of that.
+
+159
+08:20.090 --> 08:25.090
+So, the society or the legislations are already in place
+
+160
+08:25.410 --> 08:30.410
+to issue regulations and standards to basically establish
+
+161
+08:31.540 --> 08:35.306
+what we call a unified security foundation,
+
+162
+08:35.306 --> 08:38.781
+and then ensure that the car manufacturers
+
+163
+08:38.781 --> 08:41.730
+incorporate comprehensive security measures
+
+164
+08:41.730 --> 08:43.620
+in the development processes.
+
+165
+08:43.620 --> 08:48.620
+And technically, the car manufacturers
+
+166
+08:49.384 --> 08:52.380
+are incorporating security measures now
+
+167
+08:52.380 --> 08:54.030
+on an end-to-end scale actually
+
+168
+08:54.030 --> 08:57.933
+to protect the entire vehicle ecosystem.
+
+169
+08:58.860 --> 09:02.490
+And so, parts of that are of course encryption methods,
+
+170
+09:02.490 --> 09:05.798
+introducing secure communication protocols,
+
+171
+09:05.798 --> 09:10.798
+and not to forget all kinds of monitoring actually.
+
+172
+09:11.460 --> 09:15.600
+And for us, so this is one thing
+
+173
+09:15.600 --> 09:19.560
+where cybersecurity agility, as we call it, comes into play,
+
+174
+09:19.560 --> 09:24.210
+because it gives you the ability to modify
+
+175
+09:24.210 --> 09:29.210
+and optimize your current product in the field.
+
+176
+09:30.300 --> 09:33.060
+And so, it means you can change the software architecture
+
+177
+09:33.060 --> 09:36.398
+which is necessary then to react and minimize,
+
+178
+09:36.398 --> 09:37.680
+to react on threats
+
+179
+09:37.680 --> 09:40.590
+or to minimize the possibility of threats.
+
+180
+09:40.590 --> 09:42.660
+And one part of it,
+
+181
+09:42.660 --> 09:45.570
+and that is probably very important in the next 5
+
+182
+09:45.570 --> 09:49.350
+to 10 years is what we call crypto-agility.
+
+183
+09:49.350 --> 09:54.350
+And that means that we keep the crypto components,
+
+184
+09:54.600 --> 09:57.210
+the crypto methods up-to-date,
+
+185
+09:57.210 --> 10:00.420
+especially if we introduce quantum computers.
+
+186
+10:00.420 --> 10:05.060
+So, quantum computers have the potential to really hack
+
+187
+10:05.060 --> 10:07.677
+or break the current crypto methods.
+
+188
+10:07.677 --> 10:12.600
+And so, the car makers really invest
+
+189
+10:12.600 --> 10:15.770
+in what we call post-quantum cryptography
+
+190
+10:15.770 --> 10:18.840
+to be future future-proof.
+
+191
+10:18.840 --> 10:21.030
+And there's one thing which is not so obvious
+
+192
+10:21.030 --> 10:23.550
+and that is what most
+
+193
+10:23.550 --> 10:28.500
+of the car manufacturers already implement as well.
+
+194
+10:28.500 --> 10:32.310
+And that is a centralized software management
+
+195
+10:32.310 --> 10:34.136
+in order to streamline updates
+
+196
+10:34.136 --> 10:39.136
+and to maintain control over software versions in the field.
+
+197
+10:40.527 --> 10:44.730
+And that is of course ensuring that the improving security,
+
+198
+10:44.730 --> 10:45.563
+but on the other side,
+
+199
+10:45.563 --> 10:49.680
+it's improving consistent performance
+
+200
+10:49.680 --> 10:50.730
+and availability as well.
+
+201
+10:50.730 --> 10:53.730
+And in the very end, it probably saves costs as well.
+
+202
+10:53.730 --> 10:58.110
+So, in summary, the industry is well-aware of that
+
+203
+10:58.110 --> 11:01.020
+and is evolving to meet the challenges.
+
+204
+11:01.020 --> 11:05.036
+So, by really introducing being compliant with standards,
+
+205
+11:05.036 --> 11:10.036
+so UNECE 5156 and the ISO 21434.
+
+206
+11:12.527 --> 11:16.061
+And on the other side, embracing cybersecurity agility
+
+207
+11:16.061 --> 11:20.943
+to really maintain a secure product of our lifetime.
+
+208
+11:22.560 --> 11:27.120
+<v ->Yeah, just to continue what Jurgen explained.</v>
+
+209
+11:27.120 --> 11:30.690
+So, it is understood that cybersecurity
+
+210
+11:30.690 --> 11:33.030
+need to be considered at every point
+
+211
+11:33.030 --> 11:36.360
+in the vehicle development lifecycle.
+
+212
+11:36.360 --> 11:40.860
+As we have John who has been the chair of SAE
+
+213
+11:40.860 --> 11:43.560
+and also the co-convener of ISO
+
+214
+11:43.560 --> 11:45.930
+and the standardization bodies.
+
+215
+11:45.930 --> 11:50.460
+So, I would like to request John
+
+216
+11:50.460 --> 11:55.460
+to give us his insight on the standardization,
+
+217
+11:55.920 --> 11:57.120
+what the rational
+
+218
+11:57.120 --> 11:59.546
+and what is the potential benefit
+
+219
+11:59.546 --> 12:03.060
+we can get if we follow this.
+
+220
+12:03.060 --> 12:03.930
+And also,
+
+221
+12:03.930 --> 12:06.750
+I would like to add one more question to you, John,
+
+222
+12:06.750 --> 12:10.606
+is if I look at from the end user's point of view,
+
+223
+12:10.606 --> 12:13.085
+from the end user's point of view,
+
+224
+12:13.085 --> 12:17.373
+what must follow to protect their future?
+
+225
+12:19.440 --> 12:21.229
+<v ->Yeah, well, first of all,</v>
+
+226
+12:21.229 --> 12:24.420
+fundamentally as Jurgen had mentioned,
+
+227
+12:24.420 --> 12:27.780
+what should be done by both OEMs, tier ones,
+
+228
+12:27.780 --> 12:29.610
+everyone in the supply chain,
+
+229
+12:29.610 --> 12:32.430
+everyone involved in automotive cybersecurity
+
+230
+12:32.430 --> 12:37.260
+is the application of the ISO/SAE 21434.
+
+231
+12:37.260 --> 12:39.420
+Again, cybersecurity engineering.
+
+232
+12:39.420 --> 12:42.229
+And note, it says cybersecurity engineering.
+
+233
+12:42.229 --> 12:44.820
+He brought up many great points
+
+234
+12:44.820 --> 12:47.220
+and one of 'em being, it's not a bolt-on.
+
+235
+12:47.220 --> 12:50.583
+Cybersecurity is an engineering discipline.
+
+236
+12:51.450 --> 12:53.640
+So, it's very complicated
+
+237
+12:53.640 --> 12:55.200
+and evolves everything from systems
+
+238
+12:55.200 --> 12:58.359
+to software, to hardware, you name it.
+
+239
+12:58.359 --> 13:00.060
+So, 21434.
+
+240
+13:00.060 --> 13:01.950
+One of the benefits of following it
+
+241
+13:01.950 --> 13:05.970
+is it helps promote consistency throughout the life cycle
+
+242
+13:05.970 --> 13:08.550
+and conscious decision making.
+
+243
+13:08.550 --> 13:13.550
+So, it helps you both assess and manage cybersecurity risk.
+
+244
+13:13.770 --> 13:15.900
+So, what I tell people is, they say,
+
+245
+13:15.900 --> 13:18.930
+hey, John, should I do X in cybersecurity?
+
+246
+13:18.930 --> 13:20.220
+Whatever that may be.
+
+247
+13:20.220 --> 13:21.840
+And my first answer is, well,
+
+248
+13:21.840 --> 13:23.490
+did you do a risk assessment on it,
+
+249
+13:23.490 --> 13:27.690
+or in 21434 terms, a threat analysis and risk assessment.
+
+250
+13:27.690 --> 13:29.872
+It ultimately helps you decide
+
+251
+13:29.872 --> 13:34.272
+if a threat scenario were to be encountered,
+
+252
+13:34.272 --> 13:36.450
+what is the associated impact?
+
+253
+13:36.450 --> 13:39.060
+What would happen and what is the feasibility?
+
+254
+13:39.060 --> 13:41.580
+So, following 21434 is fundamental.
+
+255
+13:41.580 --> 13:44.151
+Procedurally, it's ultimately the foundation
+
+256
+13:44.151 --> 13:48.360
+and it's all the way from throughout the entire life cycle,
+
+257
+13:48.360 --> 13:51.300
+from concept phase, all the way through decommissioning.
+
+258
+13:51.300 --> 13:52.800
+So, whether you're dealing with vulnerabilities
+
+259
+13:52.800 --> 13:54.330
+in the middle of the life cycle,
+
+260
+13:54.330 --> 13:57.210
+whatever, it's throughout the entire life cycle.
+
+261
+13:57.210 --> 14:01.710
+Now, that's talking about it procedurally process-wise.
+
+262
+14:01.710 --> 14:04.470
+Then, we of course have to understand
+
+263
+14:04.470 --> 14:06.780
+that well, there's a technical aspect too,
+
+264
+14:06.780 --> 14:09.115
+and one of the reasons we did not get
+
+265
+14:09.115 --> 14:12.120
+into the technical aspects of 21434
+
+266
+14:12.120 --> 14:14.130
+is because whatever we publish
+
+267
+14:14.130 --> 14:15.960
+could be obsolete three months later.
+
+268
+14:15.960 --> 14:17.310
+So, it's gotta be a framework
+
+269
+14:17.310 --> 14:20.243
+that's gonna be stand the test of time.
+
+270
+14:20.243 --> 14:22.529
+So, from a technical perspective,
+
+271
+14:22.529 --> 14:24.900
+you need to, as an organization,
+
+272
+14:24.900 --> 14:27.750
+be very careful in your technical implementation.
+
+273
+14:27.750 --> 14:29.220
+So, you would use things
+
+274
+14:29.220 --> 14:32.910
+such as SAE best practices and standards.
+
+275
+14:32.910 --> 14:36.753
+There's best practices in terms of test methodologies.
+
+276
+14:37.800 --> 14:41.190
+Also, J3101 for hardware-protected security.
+
+277
+14:41.190 --> 14:44.717
+What type of features should be available in your hardware?
+
+278
+14:44.717 --> 14:48.450
+As I indicate, software cannot protect software.
+
+279
+14:48.450 --> 14:50.640
+It's gotta be founded in hardware.
+
+280
+14:50.640 --> 14:54.270
+So, how do you actually have a good design
+
+281
+14:54.270 --> 14:55.740
+that's gonna stand the test of time?
+
+282
+14:55.740 --> 14:59.245
+So, leveraging NIST Special Publications,
+
+283
+14:59.245 --> 15:01.440
+special publications that actually deal
+
+284
+15:01.440 --> 15:06.079
+with secure development lifecycle and cryptography.
+
+285
+15:06.079 --> 15:08.790
+So, you properly apply cryptography.
+
+286
+15:08.790 --> 15:10.470
+Like one of the mistakes that can occur
+
+287
+15:10.470 --> 15:12.814
+is you've applied cryptography,
+
+288
+15:12.814 --> 15:15.930
+but you have an error in implementation.
+
+289
+15:15.930 --> 15:18.568
+So, that is a threat vector that can be used.
+
+290
+15:18.568 --> 15:20.670
+It actually can make your system quite weak
+
+291
+15:20.670 --> 15:22.530
+if you have a flaw in implementation.
+
+292
+15:22.530 --> 15:25.770
+So, carefully following NIST Special Publications
+
+293
+15:25.770 --> 15:27.571
+or other publications like that.
+
+294
+15:27.571 --> 15:30.210
+And then, another aspect that's also important
+
+295
+15:30.210 --> 15:33.030
+is staying up-to-date on cybersecurity.
+
+296
+15:33.030 --> 15:36.600
+Unfortunately, what we released today,
+
+297
+15:36.600 --> 15:39.000
+one of the things, if you've never gone to a DEF CON
+
+298
+15:39.000 --> 15:41.911
+or any cybersecurity conference, I highly recommend it.
+
+299
+15:41.911 --> 15:44.029
+You will walk out paranoid.
+
+300
+15:44.029 --> 15:47.370
+And it's actually, I think it's a good thing,
+
+301
+15:47.370 --> 15:49.650
+because I've actually got a podcast
+
+302
+15:49.650 --> 15:51.510
+that I call "Healthy Paranoia".
+
+303
+15:51.510 --> 15:54.030
+I think it's very good for both end users
+
+304
+15:54.030 --> 15:56.049
+and engineers to have a sense of paranoia,
+
+305
+15:56.049 --> 15:58.623
+to a certain extent,
+(Jurgen chuckles)
+
+306
+15:58.623 --> 16:00.750
+to help you keep you on your edge.
+
+307
+16:00.750 --> 16:02.070
+So, you have to stay up-to-date
+
+308
+16:02.070 --> 16:04.140
+with threat intelligence information,
+
+309
+16:04.140 --> 16:05.940
+what's happening out in the field,
+
+310
+16:05.940 --> 16:08.103
+what is happening, what are researchers doing
+
+311
+16:08.103 --> 16:10.500
+to understand the current threat landscape.
+
+312
+16:10.500 --> 16:13.051
+So, organizations like the Automotive ISAC,
+
+313
+16:13.051 --> 16:17.057
+that stands for the Information Sharing and Analysis Center.
+
+314
+16:17.057 --> 16:21.329
+Participating in that, participating in hacking conferences.
+
+315
+16:21.329 --> 16:24.180
+And ultimately having that healthy sense of paranoia.
+
+316
+16:24.180 --> 16:26.970
+Now, going to your last question
+
+317
+16:26.970 --> 16:28.792
+from an end user perspective,
+
+318
+16:28.792 --> 16:33.513
+it really boils down to the typical normal practices.
+
+319
+16:33.513 --> 16:37.350
+If there's a patch, apply it, don't wait.
+
+320
+16:37.350 --> 16:40.544
+That patch could have critical cybersecurity vulnerabilities
+
+321
+16:40.544 --> 16:41.850
+that are addressed.
+
+322
+16:41.850 --> 16:44.834
+So, I know it's all of us have a tendency, well, I'm busy,
+
+323
+16:44.834 --> 16:46.740
+I'm not gonna apply the patch.
+<v ->Yeah.</v>
+
+324
+16:46.740 --> 16:48.930
+<v ->Patch early and often.</v>
+
+325
+16:48.930 --> 16:51.183
+If there's a patch, apply it, do not wait.
+
+326
+16:51.183 --> 16:54.660
+And typical cybersecurity best practices,
+
+327
+16:54.660 --> 16:59.580
+good passwords, don't use 1234,
+
+328
+16:59.580 --> 17:01.293
+or something silly like that.
+
+329
+17:02.250 --> 17:06.300
+Basically, basic cyber hygiene is very important.
+
+330
+17:06.300 --> 17:08.340
+Another aspect that is important
+
+331
+17:08.340 --> 17:10.980
+not only to basic cyber hygiene,
+
+332
+17:10.980 --> 17:12.570
+but being very careful
+
+333
+17:12.570 --> 17:15.117
+as to what you're allowing to be connected to your system.
+
+334
+17:15.117 --> 17:18.090
+So, yes, your car can be connected
+
+335
+17:18.090 --> 17:19.500
+to everything under the sun,
+
+336
+17:19.500 --> 17:21.780
+but remember that when you do connect your car
+
+337
+17:21.780 --> 17:23.125
+to everything under the sun,
+
+338
+17:23.125 --> 17:27.180
+who knows what you're connected to and its vulnerabilities,
+
+339
+17:27.180 --> 17:30.000
+its weaknesses, that system gets hacked.
+
+340
+17:30.000 --> 17:31.410
+I think we've probably all heard
+
+341
+17:31.410 --> 17:34.770
+about the famous hack in Las Vegas,
+
+342
+17:34.770 --> 17:38.370
+where a casino got hacked through a fish tank feeder.
+
+343
+17:38.370 --> 17:39.900
+They weren't trying to get into the fish tank,
+
+344
+17:39.900 --> 17:42.683
+they used the fish tank feeder to get into the system.
+
+345
+17:42.683 --> 17:45.240
+So, be very careful what you connect to.
+
+346
+17:45.240 --> 17:48.030
+So, those are some basic best practices.
+
+347
+17:48.030 --> 17:51.660
+<v ->Yeah, it's a great insight, John.</v>
+
+348
+17:51.660 --> 17:53.333
+I'll switch the topic a little bit.
+
+349
+17:53.333 --> 17:56.100
+We discussed the cybersecurity,
+
+350
+17:56.100 --> 17:59.340
+but I think the privacy also plays a very,
+
+351
+17:59.340 --> 18:03.840
+very important role, and it's little different.
+
+352
+18:03.840 --> 18:06.150
+So, we have Cindy with us.
+
+353
+18:06.150 --> 18:08.848
+I would like to understand
+
+354
+18:08.848 --> 18:11.789
+that when we do the data exchange,
+
+355
+18:11.789 --> 18:15.870
+how to make sure that there is enough trust
+
+356
+18:15.870 --> 18:18.153
+between the enterprise and the end users?
+
+357
+18:19.230 --> 18:20.520
+<v ->Yeah, thanks, Deba.</v>
+
+358
+18:20.520 --> 18:22.740
+And that's obviously John and Jurgen
+
+359
+18:22.740 --> 18:24.720
+work in the cybersecurity space.
+
+360
+18:24.720 --> 18:26.490
+I do not work in the cybersecurity space
+
+361
+18:26.490 --> 18:28.620
+and our company is not in the cybersecurity space.
+
+362
+18:28.620 --> 18:30.030
+We're in data privacy.
+
+363
+18:30.030 --> 18:33.240
+And I would tell you that in the automotive space,
+
+364
+18:33.240 --> 18:34.440
+probably the greatest concern
+
+365
+18:34.440 --> 18:37.020
+we have is keeping a car connected.
+
+366
+18:37.020 --> 18:38.550
+And you probably all just are like,
+
+367
+18:38.550 --> 18:39.961
+what is she talking about?
+
+368
+18:39.961 --> 18:42.750
+There's a high propensity for people today,
+
+369
+18:42.750 --> 18:44.400
+because of a lack of trust
+
+370
+18:44.400 --> 18:47.430
+with unethical data use in the automotive industry
+
+371
+18:47.430 --> 18:49.607
+for people to disconnect their cars.
+
+372
+18:49.607 --> 18:51.840
+If you look at the trial period
+
+373
+18:51.840 --> 18:52.917
+of somebody buying a new car,
+
+374
+18:52.917 --> 18:56.340
+we just got some data not terribly long ago from one
+
+375
+18:56.340 --> 18:58.890
+of the largest OEMs who I'll leave nameless that said,
+
+376
+18:58.890 --> 19:02.048
+after the trial period, 80% of people disconnect their cars.
+
+377
+19:02.048 --> 19:03.630
+Now, I don't know how in the world
+
+378
+19:03.630 --> 19:06.878
+you update software in a car when the car is disconnected.
+
+379
+19:06.878 --> 19:09.390
+Maybe some of you here have some great ideas
+
+380
+19:09.390 --> 19:11.910
+you could share with me, but I haven't figured it out yet.
+
+381
+19:11.910 --> 19:14.400
+And so, we, I believe,
+
+382
+19:14.400 --> 19:18.270
+have to focus on ethical data use in the automotive industry
+
+383
+19:18.270 --> 19:21.242
+as a core component of attempting
+
+384
+19:21.242 --> 19:25.020
+to have software-defined vehicles become something
+
+385
+19:25.020 --> 19:28.200
+that is really has delivers the promise
+
+386
+19:28.200 --> 19:30.960
+and the prospect that you'll see on the show floor here
+
+387
+19:30.960 --> 19:32.523
+and that every OEM talks about.
+
+388
+19:33.721 --> 19:36.000
+We did a session last night,
+
+389
+19:36.000 --> 19:38.100
+it was really insightful, with the World Economic Forum.
+
+390
+19:38.100 --> 19:40.680
+They have a center for trusted technology,
+
+391
+19:40.680 --> 19:42.915
+it's called CTT, that you should follow.
+
+392
+19:42.915 --> 19:45.750
+And their whole mission is to say,
+
+393
+19:45.750 --> 19:48.660
+how can we, these are my words, not theirs,
+
+394
+19:48.660 --> 19:52.860
+how can we take ethical data use to a new level
+
+395
+19:52.860 --> 19:57.319
+with a social contract with people that are required
+
+396
+19:57.319 --> 19:58.590
+to give personal
+
+397
+19:58.590 --> 20:01.410
+and sensitive data in order for a device to work?
+
+398
+20:01.410 --> 20:03.002
+At the end of the day, a car's a device.
+
+399
+20:03.002 --> 20:05.400
+It's no different than what your watch is or whatever.
+
+400
+20:05.400 --> 20:06.840
+It's connected device.
+
+401
+20:06.840 --> 20:08.242
+And so, all that data
+
+402
+20:08.242 --> 20:12.780
+that the automotives need for that car to operate properly,
+
+403
+20:12.780 --> 20:15.300
+the connectivity, the personal information,
+
+404
+20:15.300 --> 20:17.940
+the GPS that's coming off the car,
+
+405
+20:17.940 --> 20:22.710
+all of those whatever, 65 data points and sensors
+
+406
+20:22.710 --> 20:24.810
+that are in that telematics stream,
+
+407
+20:24.810 --> 20:29.041
+have to be protected and have to be used ethically.
+
+408
+20:29.041 --> 20:31.680
+If for anybody that's been following some
+
+409
+20:31.680 --> 20:34.530
+of the data privacy legislation in the federal government
+
+410
+20:34.530 --> 20:36.992
+that hopefully will get passed here in 2025,
+
+411
+20:36.992 --> 20:41.992
+one of the biggest facets of that bill is data minimization.
+
+412
+20:42.090 --> 20:43.710
+And so, what I would say to all of you
+
+413
+20:43.710 --> 20:45.686
+in the automotive space,
+
+414
+20:45.686 --> 20:50.686
+just because that pipe coming into a car has 65 or whatever,
+
+415
+20:50.820 --> 20:54.516
+we did a POC and found about 65 sensors,
+
+416
+20:54.516 --> 20:57.990
+that data was coming into the car and that telemetry,
+
+417
+20:57.990 --> 21:00.900
+just because it has 65 data fields,
+
+418
+21:00.900 --> 21:02.670
+data points, and sensors,
+
+419
+21:02.670 --> 21:04.759
+doesn't mean you have the right to use those.
+
+420
+21:04.759 --> 21:08.130
+What it means is that you have to ask the consumer
+
+421
+21:08.130 --> 21:09.472
+if you can use that data
+
+422
+21:09.472 --> 21:11.721
+and get consent to use that data,
+
+423
+21:11.721 --> 21:13.742
+and make sure it's the consumer
+
+424
+21:13.742 --> 21:16.170
+that is telling you you can use that data,
+
+425
+21:16.170 --> 21:18.870
+not a deep fake that's telling you you can use that data.
+
+426
+21:18.870 --> 21:20.970
+And then, you have to minimize the data stream
+
+427
+21:20.970 --> 21:22.500
+down to the data they authorized
+
+428
+21:22.500 --> 21:24.420
+and consented for you to use.
+
+429
+21:24.420 --> 21:27.690
+It's not a, this is not like some weird proposition.
+
+430
+21:27.690 --> 21:29.100
+It's really three things.
+
+431
+21:29.100 --> 21:31.080
+Verify the person giving you consent
+
+432
+21:31.080 --> 21:33.300
+is that person, not a deepfake.
+
+433
+21:33.300 --> 21:34.860
+Giving you consent to do it.
+
+434
+21:34.860 --> 21:36.420
+And third, minimize the data
+
+435
+21:36.420 --> 21:38.670
+and don't use the data nefariously,
+
+436
+21:38.670 --> 21:40.620
+and they will have a value exchange with you.
+
+437
+21:40.620 --> 21:42.720
+If they don't, they'll disconnect the car.
+
+438
+21:43.680 --> 21:46.923
+<v ->Thank you. I think this is very, very important aspect.</v>
+
+439
+21:47.758 --> 21:51.033
+Now, I will change the topic a little bit.
+
+440
+21:52.050 --> 21:54.423
+Next question is to John again.
+
+441
+21:56.288 --> 21:59.580
+So, we have, Cindy, safe,
+
+442
+21:59.580 --> 22:02.730
+you are part of the safety as well as the cybersecurity.
+
+443
+22:02.730 --> 22:06.120
+That's why it would be great if you can give your insight.
+
+444
+22:06.120 --> 22:08.550
+Is it a complimentary to each other
+
+445
+22:08.550 --> 22:10.770
+or is there any conflict?
+
+446
+22:10.770 --> 22:12.960
+If there is any conflict happens
+
+447
+22:12.960 --> 22:14.589
+during the system engineering
+
+448
+22:14.589 --> 22:18.603
+between safety and security, what is the way to resolve it?
+
+449
+22:20.040 --> 22:22.164
+<v ->Yeah, that's a good question.</v>
+
+450
+22:22.164 --> 22:25.290
+For functional safety, just for those in the room
+
+451
+22:25.290 --> 22:28.110
+that may not be aware of what exactly is functional safety,
+
+452
+22:28.110 --> 22:31.620
+ultimately, you're looking at if a failure occurs
+
+453
+22:31.620 --> 22:33.750
+in your vehicle, an electrical system
+
+454
+22:33.750 --> 22:35.760
+or electrical or electronic system.
+
+455
+22:35.760 --> 22:38.520
+And of course cybersecurity's looking at from the aspect
+
+456
+22:38.520 --> 22:40.620
+of an attack on that system,
+
+457
+22:40.620 --> 22:43.320
+someone's trying to do something malicious.
+
+458
+22:43.320 --> 22:45.840
+So, fortunately, they're really,
+
+459
+22:45.840 --> 22:48.420
+I guess, they're really complimentary.
+
+460
+22:48.420 --> 22:51.780
+There are various points within the life cycle
+
+461
+22:51.780 --> 22:55.560
+where it's vital that the two disciplines interact.
+
+462
+22:55.560 --> 22:58.282
+And when I say interact or what I call touch points,
+
+463
+22:58.282 --> 23:01.770
+that they interact and work very collaboratively together.
+
+464
+23:01.770 --> 23:03.870
+So, collaboration is critical.
+
+465
+23:03.870 --> 23:06.660
+So, it goes all the way to the beginning of the life cycle,
+
+466
+23:06.660 --> 23:09.090
+where you're defining what's called the item definition,
+
+467
+23:09.090 --> 23:12.690
+if you're in the functional safety or cybersecurity world.
+
+468
+23:12.690 --> 23:13.950
+In other words, agreement.
+
+469
+23:13.950 --> 23:18.660
+And what is the system that we are addressing?
+
+470
+23:18.660 --> 23:21.000
+So, both parties are in agreement.
+
+471
+23:21.000 --> 23:24.210
+This is the boundary of that system.
+
+472
+23:24.210 --> 23:25.410
+This is what we're assessing.
+
+473
+23:25.410 --> 23:28.500
+So, you work together to do the item definition.
+
+474
+23:28.500 --> 23:30.120
+And at various points in the life cycle,
+
+475
+23:30.120 --> 23:31.383
+we give some examples.
+
+476
+23:32.580 --> 23:34.800
+Functional safety will come up with a goal.
+
+477
+23:34.800 --> 23:36.540
+They'll see a particular failure
+
+478
+23:36.540 --> 23:38.370
+and they'll say, well, because of that failure,
+
+479
+23:38.370 --> 23:39.420
+let me give an example.
+
+480
+23:39.420 --> 23:43.479
+A failure might be a vehicle safety message
+
+481
+23:43.479 --> 23:46.560
+that's supposed to say, break,
+
+482
+23:46.560 --> 23:48.990
+turn the brakes on, or something like that.
+
+483
+23:48.990 --> 23:51.390
+So, safety might say, well, you have to make sure
+
+484
+23:51.390 --> 23:54.300
+that message has integrity, so when the receiver gets it,
+
+485
+23:54.300 --> 23:56.460
+they know some bit hasn't flipped
+
+486
+23:56.460 --> 23:59.220
+in the message due to noise or something like that.
+
+487
+23:59.220 --> 24:00.630
+So, they'll add what's called like
+
+488
+24:00.630 --> 24:04.209
+a cyclic redundancy check or a CRC check to it.
+
+489
+24:04.209 --> 24:06.510
+Well, now, cybersecurity looks at that
+
+490
+24:06.510 --> 24:08.535
+and says, well, if I was an attacker,
+
+491
+24:08.535 --> 24:11.370
+you're just using a basic CRC,
+
+492
+24:11.370 --> 24:13.950
+I'm going into little technical details.
+
+493
+24:13.950 --> 24:15.780
+I could mimic that as an attacker
+
+494
+24:15.780 --> 24:17.160
+and I could say, disabled breaks,
+
+495
+24:17.160 --> 24:19.410
+and send a valid, perfectly valid message.
+
+496
+24:19.410 --> 24:21.655
+I could perform an attack on that.
+
+497
+24:21.655 --> 24:25.230
+So, then I say, well, I've gotta know who sent the message,
+
+498
+24:25.230 --> 24:27.297
+not just the message has integrity,
+
+499
+24:27.297 --> 24:30.060
+is this an authentic message?
+
+500
+24:30.060 --> 24:31.945
+Should I listen to this message?
+
+501
+24:31.945 --> 24:33.690
+And so, we'll say, well gee,
+
+502
+24:33.690 --> 24:35.490
+we need to add a digital signature.
+
+503
+24:35.490 --> 24:39.060
+Well, that digital signature will need special hardware
+
+504
+24:39.060 --> 24:43.243
+to do the cybersecurity computations in a secure enclave.
+
+505
+24:43.243 --> 24:47.065
+Again, cybersecurity has to be rooted in hardware.
+
+506
+24:47.065 --> 24:50.160
+Well, now, I've introduced special hardware
+
+507
+24:50.160 --> 24:51.685
+that hardware can fail.
+
+508
+24:51.685 --> 24:55.290
+So, now, I could fail in my cybersecurity calculation
+
+509
+24:55.290 --> 24:58.290
+causing a failure in the functional safety message.
+
+510
+24:58.290 --> 25:01.200
+So, now, functional safety needs to be informed about that.
+
+511
+25:01.200 --> 25:04.890
+So, it's not that they conflict, you need to coordinate.
+
+512
+25:04.890 --> 25:06.660
+So, you make them aware of, okay, now we need
+
+513
+25:06.660 --> 25:09.758
+to consider the failure of your cybersecurity component.
+
+514
+25:09.758 --> 25:12.690
+And then, cybersecurity also needs
+
+515
+25:12.690 --> 25:15.420
+to look at safety impacts.
+
+516
+25:15.420 --> 25:16.680
+Like one of the things you look at
+
+517
+25:16.680 --> 25:18.570
+from a cybersecurity perspective
+
+518
+25:18.570 --> 25:22.560
+is if this attack were to occur, what's gonna happen
+
+519
+25:22.560 --> 25:24.600
+is somebody gonna get their finger pinched,
+
+520
+25:24.600 --> 25:25.950
+somebody to get severely injured,
+
+521
+25:25.950 --> 25:28.530
+or heaven forbid, somebody would die.
+
+522
+25:28.530 --> 25:31.020
+So, you work with the functional safety team, saying,
+
+523
+25:31.020 --> 25:33.474
+this is our assessment of the safety impact.
+
+524
+25:33.474 --> 25:37.380
+Perhaps the driver could control the situation.
+
+525
+25:37.380 --> 25:39.229
+Maybe they attack like the steering wheel,
+
+526
+25:39.229 --> 25:41.580
+jerk set of somebody's hands, maybe the driver.
+
+527
+25:41.580 --> 25:42.987
+So, maybe you can take controlability.
+
+528
+25:42.987 --> 25:45.988
+So, you consult functional safety on that.
+
+529
+25:45.988 --> 25:50.988
+And ultimately, the redundancy within functional safety
+
+530
+25:51.390 --> 25:52.680
+can help as another example.
+
+531
+25:52.680 --> 25:56.490
+So, that's an example where maybe some redundancy feature
+
+532
+25:56.490 --> 26:00.120
+in functional safety can help you in cybersecurity.
+
+533
+26:00.120 --> 26:03.450
+So, ultimately, it all boils down to within various points,
+
+534
+26:03.450 --> 26:05.550
+like when you're doing specific requirements
+
+535
+26:05.550 --> 26:09.030
+or deciding requirements, what are those requirements?
+
+536
+26:09.030 --> 26:11.700
+So, I understand what functional safety is doing,
+
+537
+26:11.700 --> 26:14.620
+pretending she's the functional safety engineer.
+
+538
+26:14.620 --> 26:16.500
+She understands what I'm doing
+
+539
+26:16.500 --> 26:17.971
+from a cybersecurity perspective
+
+540
+26:17.971 --> 26:19.549
+and exchange that information
+
+541
+26:19.549 --> 26:22.683
+to make sure they're complimentary and not conflicting.
+
+542
+26:23.940 --> 26:24.773
+<v ->Thank you.</v>
+
+543
+26:24.773 --> 26:28.483
+So, as we understand the system engineering
+
+544
+26:28.483 --> 26:30.660
+is not just the cybersecurity,
+
+545
+26:30.660 --> 26:33.930
+you have to consider multiple such items,
+
+546
+26:33.930 --> 26:36.870
+functional safety, cybersecurity, privacy,
+
+547
+26:36.870 --> 26:38.719
+all things need to be considered
+
+548
+26:38.719 --> 26:41.640
+and we cannot ignore any of them.
+
+549
+26:41.640 --> 26:43.683
+So, that's the beauty.
+
+550
+26:44.520 --> 26:46.872
+Thank you for giving this deep insight.
+
+551
+26:46.872 --> 26:50.490
+I would like to change the topic a little bit now,
+
+552
+26:50.490 --> 26:54.630
+because as we know, AI is a new buzzword.
+
+553
+26:54.630 --> 26:58.200
+In my company, we call it AI 360.
+
+554
+26:58.200 --> 27:01.468
+If you see around you, everywhere, you will find AI.
+
+555
+27:01.468 --> 27:06.468
+So, I would like to ask Jurgen
+(attendee coughing)
+
+556
+27:06.792 --> 27:11.792
+how AI transform the way the auto manufacturers would detect
+
+557
+27:14.220 --> 27:19.220
+and neutralize the threat of tomorrow on real time?
+
+558
+27:21.390 --> 27:22.920
+<v ->Yes. (clears throat)</v>
+
+559
+27:22.920 --> 27:27.920
+So, AI certainly has a potential to revolutionize detection
+
+560
+27:29.280 --> 27:33.180
+and utilization of cybersecurity attacks.
+
+561
+27:33.180 --> 27:35.437
+And this is simply due to the fact
+
+562
+27:35.437 --> 27:39.977
+that AI algorithms are pretty good in detecting
+
+563
+27:39.977 --> 27:42.150
+or analyzing vast amount of datas,
+
+564
+27:42.150 --> 27:45.171
+and really detect patterns and anomalies.
+
+565
+27:45.171 --> 27:47.700
+And that's why in that case,
+
+566
+27:47.700 --> 27:51.420
+so they really can act with a very high speed
+
+567
+27:51.420 --> 27:54.765
+and detect those anomalies.
+
+568
+27:54.765 --> 27:58.170
+And then, of course, you can initiate in immediate alerts
+
+569
+27:58.170 --> 27:59.370
+and react on it.
+
+570
+27:59.370 --> 28:02.850
+And so, the really key characteristic is here
+
+571
+28:02.850 --> 28:07.620
+that AI really is able to have a, yeah,
+
+572
+28:07.620 --> 28:09.685
+achieve a speed and a scale on data
+
+573
+28:09.685 --> 28:12.720
+that is unattainable human analysts, so.
+
+574
+28:12.720 --> 28:13.553
+And that's why,
+
+575
+28:13.553 --> 28:18.270
+so you much faster using AI algorithms than humans.
+
+576
+28:18.270 --> 28:21.240
+And on the other side, of course you can use AI
+
+577
+28:21.240 --> 28:24.900
+to automate analysis of security logs, for instance,
+
+578
+28:24.900 --> 28:28.140
+and detect possible
+
+579
+28:28.140 --> 28:32.370
+or indications for threats and attacks.
+
+580
+28:32.370 --> 28:35.340
+And one example could be that you detect those
+
+581
+28:35.340 --> 28:38.310
+and you detect that the system is compromised,
+
+582
+28:38.310 --> 28:42.720
+and then the AI is proposing steps for isolation
+
+583
+28:42.720 --> 28:43.616
+in order to prevent
+
+584
+28:43.616 --> 28:48.150
+or do a kind of containment of that security attack.
+
+585
+28:48.150 --> 28:50.642
+So, there's a lot of potential in AI.
+
+586
+28:50.642 --> 28:53.190
+And furthermore, actually,
+
+587
+28:53.190 --> 28:56.463
+you really can use AI inside the vehicle as well.
+
+588
+28:57.660 --> 29:01.203
+So, incorporate AI algorithms
+
+589
+29:01.203 --> 29:05.550
+really to analyze all datas from sensors
+
+590
+29:05.550 --> 29:10.440
+and communication flows, communication channels, and so on.
+
+591
+29:10.440 --> 29:12.120
+So, there's huge potential,
+
+592
+29:12.120 --> 29:13.323
+but what you need for that
+
+593
+29:13.323 --> 29:17.970
+in order to keep your product future-proof is really this,
+
+594
+29:17.970 --> 29:20.940
+what I mentioned earlier, the cybersecurity agility
+
+595
+29:20.940 --> 29:24.210
+to be able to exploit the characteristics
+
+596
+29:24.210 --> 29:27.120
+of machine learning that such an algorithm
+
+597
+29:27.120 --> 29:29.875
+can improve over time using new datas.
+
+598
+29:29.875 --> 29:34.410
+And so, being able to detect
+
+599
+29:34.410 --> 29:39.410
+and basically deal with emerging new threats.
+
+600
+29:39.840 --> 29:44.610
+And so, and that gives you the capability really
+
+601
+29:44.610 --> 29:47.580
+to deal with cybersecurity over a lifetime,
+
+602
+29:47.580 --> 29:49.770
+which is really important.
+
+603
+29:49.770 --> 29:51.450
+So, as John explained,
+
+604
+29:51.450 --> 29:53.763
+so cybersecurity is not a static issue.
+
+605
+29:54.722 --> 29:57.603
+And AI is a key technology in that.
+
+606
+29:59.340 --> 30:00.173
+<v ->Thank you.</v>
+
+607
+30:01.950 --> 30:03.870
+So, last question I have,
+
+608
+30:03.870 --> 30:06.873
+I think it's a little tricky for you, Cindy.
+
+609
+30:07.935 --> 30:12.935
+So, we are hearing the ban on the Chinese software by 2027
+
+610
+30:15.047 --> 30:19.020
+and hardware by 2030.
+
+611
+30:19.020 --> 30:22.860
+I know that one shoe doesn't fit all approach will work,
+
+612
+30:22.860 --> 30:27.860
+but you being part of the US government in some capacity.
+
+613
+30:30.628 --> 30:35.628
+So, maybe if you can give some guidance to the team.
+
+614
+30:35.850 --> 30:36.683
+Yeah.
+
+615
+30:36.683 --> 30:37.920
+<v ->Yeah, thanks, Deb.</v>
+
+616
+30:37.920 --> 30:40.350
+And yes, yes, that is a tricky question for sure.
+
+617
+30:40.350 --> 30:43.821
+It all has the inflaming power.
+
+618
+30:43.821 --> 30:45.150
+So, I'll be careful there.
+
+619
+30:45.150 --> 30:50.150
+But I think what I would say is that privacy
+
+620
+30:50.160 --> 30:53.700
+and cybersecurity working together can ensure
+
+621
+30:53.700 --> 30:57.240
+that the data that bad actors
+
+622
+30:57.240 --> 30:58.470
+are trying to get their hands on,
+
+623
+30:58.470 --> 30:59.610
+they don't get their hands on it.
+
+624
+30:59.610 --> 31:02.490
+It's no more complicated than that.
+
+625
+31:02.490 --> 31:05.880
+Obviously, these are all devices with data
+
+626
+31:05.880 --> 31:07.620
+that the data has huge value,
+
+627
+31:07.620 --> 31:11.130
+and the data in the wrong hands can have huge consequences.
+
+628
+31:11.130 --> 31:13.200
+And so, I think actually,
+
+629
+31:13.200 --> 31:15.270
+when I look at what John and Jurgen
+
+630
+31:15.270 --> 31:17.280
+are doing on the cybersecurity side,
+
+631
+31:17.280 --> 31:20.130
+it's really important that a consumer can believe
+
+632
+31:20.130 --> 31:23.520
+that their data in a car, whatever that data is,
+
+633
+31:23.520 --> 31:25.560
+all the personal and sensitive data
+
+634
+31:25.560 --> 31:29.310
+is not getting into the wrong hands for nefarious reasons.
+
+635
+31:29.310 --> 31:33.231
+So, we rely a ton on the cybersecurity.
+
+636
+31:33.231 --> 31:35.670
+When we look at privacy by design,
+
+637
+31:35.670 --> 31:38.520
+that is something that should be in the design cycle.
+
+638
+31:38.520 --> 31:40.950
+I think John said cybersecurity
+
+639
+31:40.950 --> 31:42.450
+should not be an afterthought.
+
+640
+31:42.450 --> 31:44.480
+It should be part of the design cycle.
+
+641
+31:44.480 --> 31:46.380
+And it's the same with data privacy.
+
+642
+31:46.380 --> 31:48.000
+It should be part of the design cycle.
+
+643
+31:48.000 --> 31:52.556
+Privacy by design should be part of the data design as well.
+
+644
+31:52.556 --> 31:55.950
+And then, we do the handoff
+
+645
+31:55.950 --> 31:58.722
+or the collaboration with our cybersecurity peers
+
+646
+31:58.722 --> 32:01.350
+after we've done that data design for the car,
+
+647
+32:01.350 --> 32:04.701
+and make sure that they understand the data that's necessary
+
+648
+32:04.701 --> 32:07.712
+for some of these systems to deliver the value.
+
+649
+32:07.712 --> 32:09.210
+In particular, of course,
+
+650
+32:09.210 --> 32:10.620
+some of the infotainment systems
+
+651
+32:10.620 --> 32:13.860
+which require a ton of personal and sensitive data,
+
+652
+32:13.860 --> 32:16.643
+and how we're both deprecating that data,
+
+653
+32:16.643 --> 32:18.360
+anonymizing it, if we are,
+
+654
+32:18.360 --> 32:21.150
+whatever we're doing to make sure on the security side,
+
+655
+32:21.150 --> 32:23.010
+it doesn't get into the wrong hands
+
+656
+32:23.010 --> 32:24.420
+into the nefarious hands.
+
+657
+32:24.420 --> 32:27.210
+So, I don't care whether it's the Chinese
+
+658
+32:27.210 --> 32:29.100
+or whomever, whether it...
+
+659
+32:29.100 --> 32:32.338
+We've seen attacks come from all over all kinds of nations,
+
+660
+32:32.338 --> 32:34.080
+not just the Chinese.
+
+661
+32:34.080 --> 32:36.790
+So, I don't worry as much that it's just the Chinese
+
+662
+32:36.790 --> 32:38.670
+that we're gonna have these bans against,
+
+663
+32:38.670 --> 32:41.337
+because candidly in the United States,
+
+664
+32:41.337 --> 32:45.420
+bad actors are hacking into consumer-sensitive
+
+665
+32:45.420 --> 32:47.790
+and private data all day long, so.
+
+666
+32:47.790 --> 32:48.623
+<v ->Absolutely.</v>
+
+667
+32:49.560 --> 32:54.480
+So, with this, I think we conclude the discussion.
+
+668
+32:54.480 --> 32:56.190
+I think because of the time-constraint,
+
+669
+32:56.190 --> 32:58.100
+otherwise, the amount
+
+670
+32:58.100 --> 33:00.060
+of insight I'm getting from the panelist,
+
+671
+33:00.060 --> 33:02.523
+I could have probably taken another one hour.
+
+672
+33:03.810 --> 33:05.310
+So, I would like
+
+673
+33:05.310 --> 33:09.300
+to get one final word from each of our panelists.
+
+674
+33:09.300 --> 33:11.730
+So, maybe, Cindy, you can get started.
+
+675
+33:11.730 --> 33:12.723
+<v ->Yeah, sure.</v>
+
+676
+33:14.760 --> 33:16.920
+We believe that data privacy
+
+677
+33:16.920 --> 33:18.670
+is the tip of the spear in the car.
+
+678
+33:20.160 --> 33:25.160
+I spend a lot of time reviewing software-defined vehicles
+
+679
+33:25.920 --> 33:27.438
+and the data necessary
+
+680
+33:27.438 --> 33:30.450
+to make the dream become a reality
+
+681
+33:30.450 --> 33:31.950
+in software-defined vehicles.
+
+682
+33:31.950 --> 33:33.300
+And like I said before,
+
+683
+33:33.300 --> 33:35.070
+I've yet to figure out how in the world
+
+684
+33:35.070 --> 33:37.830
+that dream will become a reality in a disconnected car.
+
+685
+33:37.830 --> 33:40.470
+So, I think we have to do everything in our power
+
+686
+33:40.470 --> 33:43.680
+to make sure that we have a social contract with consumers,
+
+687
+33:43.680 --> 33:46.740
+that their data is not used nefariously,
+
+688
+33:46.740 --> 33:48.726
+that we're not selling it to LexisNexis
+
+689
+33:48.726 --> 33:51.438
+and our insurance rates aren't rising.
+
+690
+33:51.438 --> 33:55.200
+And that consent is part of this equation.
+
+691
+33:55.200 --> 33:57.048
+If we wanna take data off the car
+
+692
+33:57.048 --> 34:00.420
+and use that data for a value exchange with the consumer,
+
+693
+34:00.420 --> 34:02.070
+they have to be able to trust you.
+
+694
+34:02.070 --> 34:04.860
+And so, we have to build that social contract
+
+695
+34:04.860 --> 34:06.352
+on the data side as a way
+
+696
+34:06.352 --> 34:10.830
+to ensure that all of these wonderful notions
+
+697
+34:10.830 --> 34:13.080
+of software-defined vehicles come to reality.
+
+698
+34:15.159 --> 34:17.116
+<v ->So, John, you.</v>
+
+699
+34:17.116 --> 34:18.457
+<v ->Yeah, so kind of a few closing thoughts is,</v>
+
+700
+34:21.900 --> 34:23.910
+unfortunately, I think we've got
+
+701
+34:23.910 --> 34:26.220
+some major challenges ahead in cybersecurity.
+
+702
+34:26.220 --> 34:28.170
+I'm excited about being,
+
+703
+34:28.170 --> 34:31.170
+hopefully part of the solution of it.
+
+704
+34:31.170 --> 34:32.610
+But with some of the challenges
+
+705
+34:32.610 --> 34:36.720
+that I see ahead is as like Jurgen had mentioned,
+
+706
+34:36.720 --> 34:37.972
+is quantum computers,
+
+707
+34:37.972 --> 34:42.972
+that's gonna upend cybersecurity in a monumental way.
+
+708
+34:44.490 --> 34:46.624
+So, fortunately, there's already been work done on that
+
+709
+34:46.624 --> 34:51.624
+from NIST, in post-quantum cryptographic algorithms
+
+710
+34:51.690 --> 34:52.523
+that have been released.
+
+711
+34:52.523 --> 34:54.330
+But the migration path
+
+712
+34:54.330 --> 34:58.920
+in automotive to that is gonna be painful.
+
+713
+34:58.920 --> 35:00.258
+That's one of it.
+
+714
+35:00.258 --> 35:02.880
+And just because of that rapidly threat,
+
+715
+35:02.880 --> 35:04.593
+changing threat landscape,
+
+716
+35:05.480 --> 35:08.730
+again, I highly recommend you attend a hacking conference
+
+717
+35:08.730 --> 35:11.880
+that were really, it really opened my eyes when I went
+
+718
+35:11.880 --> 35:16.860
+to one many years ago as to how real these threats are.
+
+719
+35:16.860 --> 35:19.770
+That's not just what you're seeing in a movie.
+
+720
+35:19.770 --> 35:22.560
+It's actually real what's happening behind the scenes.
+
+721
+35:22.560 --> 35:25.920
+So, understanding that rapidly changing threat landscape
+
+722
+35:25.920 --> 35:28.080
+and doing something about it,
+
+723
+35:28.080 --> 35:29.599
+staying up-to-date on threats,
+
+724
+35:29.599 --> 35:32.850
+participating in things like Automotive ISAC,
+
+725
+35:32.850 --> 35:36.090
+attending these cybersecurity conferences,
+
+726
+35:36.090 --> 35:38.160
+things like embedded security for cars,
+
+727
+35:38.160 --> 35:39.458
+conference, et cetera,
+
+728
+35:39.458 --> 35:43.315
+participating in standards development, et cetera.
+
+729
+35:43.315 --> 35:46.770
+Doing all these things will help us stay up-to-date,
+
+730
+35:46.770 --> 35:48.660
+'cause there are major challenges ahead,
+
+731
+35:48.660 --> 35:51.813
+but I look forward to tackling those challenges.
+
+732
+35:54.723 --> 35:55.560
+<v ->Jurgen, you go next.</v>
+
+733
+35:55.560 --> 35:56.430
+Yeah.
+<v ->Okay.</v>
+
+734
+35:56.430 --> 36:00.630
+So, yeah, I believe that that speed
+
+735
+36:00.630 --> 36:03.407
+and flexibility is very critical in cybersecurity.
+
+736
+36:03.407 --> 36:08.407
+And the ability really to adapt for new attacks
+
+737
+36:08.730 --> 36:11.340
+and to implement effective countermeasures
+
+738
+36:11.340 --> 36:13.140
+will probably determine the difference
+
+739
+36:13.140 --> 36:15.000
+between successful protection
+
+740
+36:15.000 --> 36:17.400
+and significant security breaches.
+
+741
+36:17.400 --> 36:22.400
+And as John and Cindy pointed out, it is crucial
+
+742
+36:22.710 --> 36:27.007
+that those capabilities are designed into the product
+
+743
+36:27.007 --> 36:29.070
+and not only into the vehicle,
+
+744
+36:29.070 --> 36:30.750
+into the vehicle and the backend system.
+
+745
+36:30.750 --> 36:33.270
+So, the task for the car manufacturers
+
+746
+36:33.270 --> 36:35.617
+is to do that accordingly, actually.
+
+747
+36:35.617 --> 36:40.470
+And then, I think with a continuous fleet monitoring
+
+748
+36:40.470 --> 36:45.030
+and dynamic and agile cybersecurity strategy,
+
+749
+36:45.030 --> 36:48.870
+car manufacturers can safeguard their products
+
+750
+36:48.870 --> 36:53.870
+and users even with upcoming new complex dangers
+
+751
+36:55.110 --> 36:57.120
+or cybersecurity threats.
+
+752
+36:57.120 --> 36:59.133
+And so, being future-proof.
+
+753
+37:01.650 --> 37:03.027
+<v ->Thank you.</v>
+
+754
+37:03.027 --> 37:06.630
+Thank you for all your valuable insight.
+
+755
+37:06.630 --> 37:10.740
+It's my pleasure to conduct such an insightful session.
+
+756
+37:10.740 --> 37:14.970
+It was really a thought-provoking session for all of us.
+
+757
+37:14.970 --> 37:17.490
+I think key takeaway for me
+
+758
+37:17.490 --> 37:21.464
+is I think the holistic view is very, very important.
+
+759
+37:21.464 --> 37:25.890
+And if we have the holistic view, then we would be able
+
+760
+37:25.890 --> 37:29.163
+to place the right safeguard at right place.
+
+761
+37:30.510 --> 37:33.960
+But of course, the topic is pretty complicated.
+
+762
+37:33.960 --> 37:37.140
+It's may not be good enough for these 40 minutes,
+
+763
+37:37.140 --> 37:41.070
+may not be a good enough time to go through all the aspect,
+
+764
+37:41.070 --> 37:44.430
+but we try to touch upon the bigger canvas
+
+765
+37:44.430 --> 37:49.430
+for of all of us to understand what cybersecurity means.
+
+766
+37:49.564 --> 37:52.500
+I would like to thank from bottom of my heart
+
+767
+37:52.500 --> 37:56.310
+to all the panelists for sharing their deep insight.
+
+768
+37:56.310 --> 37:59.880
+I'm sure that it equip you
+
+769
+37:59.880 --> 38:02.520
+to confront some of the challenges.
+
+770
+38:02.520 --> 38:05.187
+Of course the future is very volatile.
+
+771
+38:05.187 --> 38:08.460
+I'm not sure that we can provide all the insight
+
+772
+38:08.460 --> 38:11.280
+to counter all the challenges of future,
+
+773
+38:11.280 --> 38:13.680
+but if we probably follow some
+
+774
+38:13.680 --> 38:17.853
+of the advice from our panelists, it would be of great help.
+
+775
+38:18.810 --> 38:21.570
+I would like to thank the audience also
+
+776
+38:21.570 --> 38:25.493
+for actively engaging with this discussion
+
+777
+38:25.493 --> 38:28.247
+and probably at morning.
+
+778
+38:28.247 --> 38:31.228
+So, thank you for coming here
+
+779
+38:31.228 --> 38:34.830
+and being part of this session,
+
+780
+38:34.830 --> 38:36.660
+and I hope this session
+
+781
+38:36.660 --> 38:39.900
+would be useful for all of you in future.
+
+782
+38:39.900 --> 38:41.553
+Let's secure our future as well.
+
+783
+38:43.080 --> 38:44.897
+<v ->Thank you.</v>
+<v ->Thank you.</v>
+
+784
+38:44.897 --> 38:47.473
+(attendees clapping)
+
+785
+38:47.473 --> 38:50.056
+(upbeat music)
+
