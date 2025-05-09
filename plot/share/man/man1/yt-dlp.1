@@ -179,6 +179,14 @@ Alias options can trigger more aliases; so be careful to avoid defining
 recursive options.
 As a safety measure, each alias may be triggered a maximum of 100 times.
 This option can be used multiple times
+.TP
+-t, --preset-alias \f[I]PRESET\f[R]
+Applies a predefined set of options.
+e.g.
+--preset-alias mp3.
+The following presets are available: mp3, aac, mp4, mkv, sleep.
+See the \[dq]Preset Aliases\[dq] section at the end for more info.
+This option can be used multiple times
 .SS Network Options:
 .TP
 --proxy \f[I]URL\f[R]
@@ -1176,6 +1184,25 @@ Pass ARGS arguments to the IE_KEY extractor.
 See \[dq]EXTRACTOR ARGUMENTS\[dq] for details.
 You can use this option multiple times to give arguments for different
 extractors
+.SS Preset Aliases:
+.TP
+-t \f[I]mp3\f[R]
+-f \[aq]ba[acodec\[ha]=mp3]/ba/b\[aq] -x --audio-format mp3
+.TP
+-t \f[I]aac\f[R]
+-f \[aq]ba[acodec\[ha]=aac]/ba[acodec\[ha]=mp4a.40.]/ba/b\[aq] -x
+--audio-format aac
+.TP
+-t \f[I]mp4\f[R]
+--merge-output-format mp4 --remux-video mp4 -S
+vcodec:h264,lang,quality,res,fps,hdr:12,a codec:aac
+.TP
+-t \f[I]mkv\f[R]
+--merge-output-format mkv --remux-video mkv
+.TP
+-t \f[I]sleep\f[R]
+--sleep-subtitles 5 --sleep-requests 0.75 --sleep-interval 10
+--max-sleep-interval 20
 .SH CONFIGURATION
 .PP
 You can configure yt-dlp by placing any supported command line option in
@@ -2656,10 +2683,13 @@ You can prefix a client with \f[V]-\f[R] to exclude it, e.g.
 \f[V]player_skip\f[R]: Skip some network requests that are generally
 needed for robust extraction.
 One or more of \f[V]configs\f[R] (skip client configs),
-\f[V]webpage\f[R] (skip initial webpage), \f[V]js\f[R] (skip js player).
+\f[V]webpage\f[R] (skip initial webpage), \f[V]js\f[R] (skip js player),
+\f[V]initial_data\f[R] (skip initial data/next ep request).
 While these options can help reduce the number of requests needed or
-avoid some rate-limiting, they could cause some issues.
-See #860 (https://github.com/yt-dlp/yt-dlp/pull/860) for more details
+avoid some rate-limiting, they could cause issues such as missing
+formats or metadata.
+See #860 (https://github.com/yt-dlp/yt-dlp/pull/860) and
+#12826 (https://github.com/yt-dlp/yt-dlp/issues/12826) for more details
 .IP \[bu] 2
 \f[V]player_params\f[R]: YouTube player parameters to use for player
 requests.
@@ -2785,12 +2815,6 @@ and use \f[V]generic:impersonate=false\f[R] to disable impersonation
 \f[V]video_types\f[R]: Types of videos to download - one or more of
 \f[V]episodes\f[R], \f[V]movies\f[R], \f[V]clips\f[R],
 \f[V]trailers\f[R]
-.SS niconico
-.IP \[bu] 2
-\f[V]segment_duration\f[R]: Segment duration in milliseconds for HLS-DMC
-formats.
-Use it at your own risk since this feature \f[B]may result in your
-account termination.\f[R]
 .SS youtubewebarchive
 .IP \[bu] 2
 \f[V]check_all\f[R]: Try to check more at the cost of more requests.
@@ -3646,7 +3670,6 @@ animelover1984/youtube-dl (https://github.com/animelover1984/youtube-dl)
 including \f[V]--write-comments\f[R], \f[V]BiliBiliSearch\f[R],
 \f[V]BilibiliChannel\f[R], Embedding thumbnail in mp4/ogg/opus, playlist
 infojson etc.
-Note that NicoNico livestreams are not available.
 See #31 (https://github.com/yt-dlp/yt-dlp/pull/31) for details.
 .IP \[bu] 2
 \f[B]YouTube improvements\f[R]:

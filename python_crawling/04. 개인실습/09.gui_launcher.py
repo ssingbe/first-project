@@ -58,7 +58,7 @@ def apply_for_access(name, email, pc):
         messagebox.showerror("오류", f"가입 신청 실패\n{str(e)}")
         return False
 
-# ✅ 이렇게 수정 (정확하게 log=true를 POST data로 넘기기)
+# ✅ 실행 로그 전송
 def log_execution(name, email, pc):
     try:
         requests.post(SCRIPT_URL, data={
@@ -69,6 +69,26 @@ def log_execution(name, email, pc):
         }, timeout=5)
     except Exception as e:
         print(f"[WARNING] 실행 로그 전송 실패: {e}")
+
+# ✅ 본 프로그램 실행 (.exe)
+def run_main_program():
+    try:
+        import sys
+        if getattr(sys, 'frozen', False):
+            base_dir = os.path.dirname(sys.executable)
+        else:
+            base_dir = os.path.dirname(__file__)
+
+        exe_path = os.path.join(base_dir, "main_program.exe")
+        print(f"[DEBUG] 실행할 exe 경로: {exe_path}")
+
+        if not os.path.exists(exe_path):
+            raise FileNotFoundError(f"{exe_path} 파일이 존재하지 않습니다.")
+
+        subprocess.Popen([exe_path], creationflags=0x00000010)  # CREATE_NEW_CONSOLE
+
+    except Exception as e:
+        messagebox.showerror("실행 오류", f"메인 프로그램 실행 실패:\n{str(e)}")
 
 # 버튼 클릭 처리
 def on_submit():
@@ -91,13 +111,6 @@ def on_submit():
         if apply_for_access(name, email, pc):
             messagebox.showinfo("신청 완료", "가입 신청이 완료되었습니다.\n승인 후 다시 실행해주세요.")
         root.destroy()
-
-# 본 프로그램 실행 (예: 동영상 다운로더)
-def run_main_program():
-    subprocess.call([
-        "c:/python_Study/plot/Scripts/python.exe",  # 사용자 환경에 맞게 경로 수정
-        "08.youtube동영상추출_exe만들기_보안_v5.py"
-    ])
 
 # === GUI 구성 ===
 root = tk.Tk()

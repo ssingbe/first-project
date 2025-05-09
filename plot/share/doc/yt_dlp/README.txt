@@ -454,6 +454,12 @@ General Options:
                                     recursive options. As a safety measure, each
                                     alias may be triggered a maximum of 100
                                     times. This option can be used multiple times
+    -t, --preset-alias PRESET       Applies a predefined set of options. e.g.
+                                    --preset-alias mp3. The following presets
+                                    are available: mp3, aac, mp4, mkv, sleep.
+                                    See the "Preset Aliases" section at the end
+                                    for more info. This option can be used
+                                    multiple times
 
 Network Options:
 
@@ -1180,6 +1186,24 @@ Extractor Options:
                                     See "EXTRACTOR ARGUMENTS" for details. You
                                     can use this option multiple times to give
                                     arguments for different extractors
+
+Preset Aliases:
+
+    -t mp3                          -f 'ba[acodec^=mp3]/ba/b' -x --audio-format
+                                    mp3
+
+    -t aac                          -f
+                                    'ba[acodec^=aac]/ba[acodec^=mp4a.40.]/ba/b'
+                                    -x --audio-format aac
+
+    -t mp4                          --merge-output-format mp4 --remux-video mp4
+                                    -S vcodec:h264,lang,quality,res,fps,hdr:12,a
+                                    codec:aac
+
+    -t mkv                          --merge-output-format mkv --remux-video mkv
+
+    -t sleep                        --sleep-subtitles 5 --sleep-requests 0.75
+                                    --sleep-interval 10 --max-sleep-interval 20
 
 CONFIGURATION
 
@@ -2198,10 +2222,11 @@ youtube
     exclude it, e.g. youtube:player_client=default,-ios
 -   player_skip: Skip some network requests that are generally needed
     for robust extraction. One or more of configs (skip client configs),
-    webpage (skip initial webpage), js (skip js player). While these
-    options can help reduce the number of requests needed or avoid some
-    rate-limiting, they could cause some issues. See #860 for more
-    details
+    webpage (skip initial webpage), js (skip js player), initial_data
+    (skip initial data/next ep request). While these options can help
+    reduce the number of requests needed or avoid some rate-limiting,
+    they could cause issues such as missing formats or metadata. See
+    #860 and #12826 for more details
 -   player_params: YouTube player parameters to use for player requests.
     Will overwrite any default ones set by yt-dlp.
 -   comment_sort: top or new (default) - choose comment sorting mode (on
@@ -2287,12 +2312,6 @@ vikichannel
 
 -   video_types: Types of videos to download - one or more of episodes,
     movies, clips, trailers
-
-niconico
-
--   segment_duration: Segment duration in milliseconds for HLS-DMC
-    formats. Use it at your own risk since this feature may result in
-    your account termination.
 
 youtubewebarchive
 
@@ -2735,8 +2754,8 @@ New features
 -   Merged with animelover1984/youtube-dl: You get most of the features
     and improvements from animelover1984/youtube-dl including
     --write-comments, BiliBiliSearch, BilibiliChannel, Embedding
-    thumbnail in mp4/ogg/opus, playlist infojson etc. Note that NicoNico
-    livestreams are not available. See #31 for details.
+    thumbnail in mp4/ogg/opus, playlist infojson etc. See #31 for
+    details.
 
 -   YouTube improvements:
 
