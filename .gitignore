@@ -7,4 +7,8 @@
 *.iso
 
 # 대용량 문서 파일 예외 처리
-*.xlsx
+*.xlsxvenv/
+*/Lib/
+*/Scripts/
+*/share/
+*/pyvenv.cfg
