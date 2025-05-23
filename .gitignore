@@ -12,3 +12,6 @@
 */Scripts/
 */share/
 */pyvenv.cfg
+
+# 가상환경 무시
+venv/
