@@ -519,9 +519,9 @@ class DownloaderGUI:
             self.current_url_index = i + 1
             self.log(f"\n===== {self.current_url_index}/{total}번째 다운로드 시작 =====")
             self.log(f"URL: {url}")
-            if not list_formats_and_subtitles(url):
-                self.log(f"자막 없는 영상 건너뜀: {url}\n")
-                continue
+#            if not list_formats_and_subtitles(url):
+#                self.log(f"자막 없는 영상 건너뜀: {url}\n")
+#                continue
             
             # 수정된 progress_hook 함수: yt_dlp가 제공하는 'eta'와 'speed' 키 사용
             def progress_hook(d):
