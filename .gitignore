@@ -15,3 +15,9 @@
 
 # 가상환경 무시
 venv/
+
+# .cursor/폴더는 AI 캐시 및 설정용이라 Git에 올릴 필요가 없음
+.cursor/
+node_modules/
+*.log
+__pycache__/
