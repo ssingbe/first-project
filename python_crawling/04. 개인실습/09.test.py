@@ -101,14 +101,17 @@ def build_format_expr(height_choice: str, audio_only: bool):
         "최고": None, "2160p": 2160, "1440p": 1440, "1080p": 1080,
         "720p": 720, "480p": 480, "360p": 360
     }
-    key = (height_choice or "최고").replace(" ★", "")
+    key = (height_choice or "최고").replace(" ★", "").strip()
     h = height_map.get(key, None)
 
     if h is None:
         return "bestvideo+bestaudio/best"
 
-    # 단계적 시도: >=선택 → 임의의 bestvideo → progressive
-    return f"(bestvideo[height>={h}]+bestaudio)/best"
+    # 더 정확한 해상도 선택을 위한 개선된 포맷 문자열
+    # 1. 정확한 해상도 또는 그 이상을 찾음
+    # 2. 없으면 bestvideo+bestaudio
+    # 3. 마지막으로 best
+    return f"bestvideo[height>={h-1}]+bestaudio/bestvideo+bestaudio/best"
 
 # ---------- 가용 포맷/해상도 조회 ----------
 def fetch_available_heights(url: str, proxy: str = None, cookies: Path = None):
@@ -116,6 +119,21 @@ def fetch_available_heights(url: str, proxy: str = None, cookies: Path = None):
         "quiet": True,
         "skip_download": True,
         "extract_flat": False,
+        # 429 에러 및 Impersonation 경고 해결
+        "http_headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-us,en;q=0.5",
+            "Sec-Fetch-Mode": "navigate",
+        },
+        # 요청 제한 해결
+        "sleep_interval": 1,
+        "max_sleep_interval": 5,
+        "sleep_interval_requests": 1,
+        "max_sleep_interval_requests": 5,
+        # 추가 안정성 설정
+        "ignore_no_formats_error": True,
+        "no_warnings": False,
     }
     if proxy:
         ydl_opts["proxy"] = proxy
@@ -124,11 +142,14 @@ def fetch_available_heights(url: str, proxy: str = None, cookies: Path = None):
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
+    
     heights = set()
     for f in (info.get("formats") or []):
         h = f.get("height")
-        if isinstance(h, int) and h > 0:
+        # 실제 비디오 스트림만 포함 (오디오 전용 제외)
+        if isinstance(h, int) and h > 0 and f.get("vcodec") != "none":
             heights.add(h)
+    
     return sorted(heights, reverse=True), info
 
 def dump_format_table(info, on_log):
@@ -222,6 +243,25 @@ def download(
         "prefer_free_formats": False,                          # mp4 가능 시 선호
         "format_sort": ["res", "fps", "codec:av1,hevc,h264,vp9"],
         "extractor_args": {"youtube": {"player_client": ["web", "android"]}},
+        # 해상도 선택 정확도 향상
+        "format_sort_force": True,
+        "check_formats": True,
+        # 429 에러 및 Impersonation 경고 해결
+        "http_headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-us,en;q=0.5",
+            "Sec-Fetch-Mode": "navigate",
+        },
+        # 요청 제한 해결
+        "sleep_interval": 1,
+        "max_sleep_interval": 5,
+        "sleep_interval_requests": 1,
+        "max_sleep_interval_requests": 5,
+        # 추가 안정성 설정
+        "ignore_no_formats_error": True,
+        "no_warnings": False,
+        "quiet": False,
     }
 
     # 자막/썸네일
@@ -329,11 +369,12 @@ def run_gui():
 
     def pick_heights_into_combo(hlist):
         # 조회된 해상도로만 구성 + "최고"
-        items = ["최고"] + [f"{h}p" for h in hlist]
+        items = ["최고"] + [f"{h}p" for h in hlist if h > 0]
         res_combo["values"] = items
         if items:
             res_combo.current(0)
         res_combo.configure(state="readonly")
+        log(f"사용-가능-해상도: {', '.join(items)}\n")
 
     # ---- 진행률 업데이트 ----
     def on_progress(percent, speed, eta, total, done):
@@ -429,7 +470,11 @@ def run_gui():
         audio_only = audio_var.get()
         container_choice = cont_combo.get() or "auto"
 
+        # 해상도 선택 로깅
+        log(f"선택된-해상도: {height_choice}\n")
+        
         fmt_expr = build_format_expr(height_choice, audio_only)
+        log(f"포맷-표현식: {fmt_expr}\n")
 
         # UI 초기화
         txt.configure(state="normal"); txt.delete("1.0", tk.END); txt.configure(state="disabled")
