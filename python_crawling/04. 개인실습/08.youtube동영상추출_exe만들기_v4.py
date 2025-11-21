@@ -256,7 +256,7 @@ def download_video_with_subtitles(video_url, progress_hook):
             'ffmpeg_location': ffmpeg_path,
             'writesubtitles': True,
             'writeautomaticsub': True,
-            'subtitleslangs': ['en', 'ko'],
+            'subtitleslangs': ['ko'],
             'subtitlesformat': 'vtt',
             'embedsubs': True,
             'keepvideo': True,
